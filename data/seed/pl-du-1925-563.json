@@ -19,13 +19,43 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Wyjątek od postanowień art. 1 stanowią wkładki oszczędnościowe: a) będące własnością mas spadkowych lub stanowiące depozyty sądowe sierocińskie, które przelicza się na 50%; b) pochodzące z przerachowania na polskie marki walut zagranicznych, które przelicza się na 80% - sumy, obliczonej według skali § 2 rozporządzenia Prezydenta Rzeczypospolitej z dnia 14 maja 1924 r. (Dz. U. R. P. № 42 poz. 441), przy zastosowaniu stawki, obowiązującej w dniu zapisania odnośnej wkładki."
+      "content": "Wyjątek od postanowień art. 1 stanowią wkładki oszczędnościowe: będące własnością mas spadkowych lub stanowiące depozyty sądowe sierocińskie, które przelicza się na 50%; pochodzące z przerachowania na polskie marki walut zagranicznych, które przelicza się na 80% - sumy, obliczonej według skali § 2 rozporządzenia Prezydenta Rzeczypospolitej z dnia 14 maja 1924 r. (Dz. U. R. P. № 42 poz. 441), przy zastosowaniu stawki, obowiązującej w dniu zapisania odnośnej wkładki."
+    },
+    {
+      "provision_ref": "art2la",
+      "section": "2",
+      "title": "Art. 2 lit. a",
+      "content": "Wyjątek od postanowień art. 1 stanowią wkładki oszczędnościowe: będące własnością mas spadkowych lub stanowiące depozyty sądowe sierocińskie, które przelicza się na 50%;"
+    },
+    {
+      "provision_ref": "art2lb",
+      "section": "2",
+      "title": "Art. 2 lit. b",
+      "content": "Wyjątek od postanowień art. 1 stanowią wkładki oszczędnościowe: pochodzące z przerachowania na polskie marki walut zagranicznych, które przelicza się na 80%"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "Na pokrycie wydatku, spowodowanego tem przerachowaniem, przeznacza się: a) kwotę dopisaną wkładcom w 1923 r., stanowiącą t. zw. premję oszczędnościową Pocztowej Kasy Oszczędności; b) kwotę, powstałą wskutek zwaloryzowania wkładek na zasadach rozporządzenia Prezydenta Rzeczypospolitej z dnia 14 maja 1924 r. (Dz. U. R. P. № 42, poz. 441 § 17 ustęp 5); c) obligacje, o których mowa w art. 4."
+      "content": "Na pokrycie wydatku, spowodowanego tem przerachowaniem, przeznacza się: kwotę dopisaną wkładcom w 1923 r., stanowiącą t. zw. premję oszczędnościową Pocztowej Kasy Oszczędności; kwotę, powstałą wskutek zwaloryzowania wkładek na zasadach rozporządzenia Prezydenta Rzeczypospolitej z dnia 14 maja 1924 r. (Dz. U. R. P. № 42, poz. 441 § 17 ustęp 5); obligacje, o których mowa w art. 4."
+    },
+    {
+      "provision_ref": "art3la",
+      "section": "3",
+      "title": "Art. 3 lit. a",
+      "content": "Na pokrycie wydatku, spowodowanego tem przerachowaniem, przeznacza się: kwotę dopisaną wkładcom w 1923 r., stanowiącą t. zw. premję oszczędnościową Pocztowej Kasy Oszczędności;"
+    },
+    {
+      "provision_ref": "art3lb",
+      "section": "3",
+      "title": "Art. 3 lit. b",
+      "content": "Na pokrycie wydatku, spowodowanego tem przerachowaniem, przeznacza się: kwotę, powstałą wskutek zwaloryzowania wkładek na zasadach rozporządzenia Prezydenta Rzeczypospolitej z dnia 14 maja 1924 r. (Dz. U. R. P. № 42, poz. 441 § 17 ustęp 5);"
+    },
+    {
+      "provision_ref": "art3lc",
+      "section": "3",
+      "title": "Art. 3 lit. c",
+      "content": "Na pokrycie wydatku, spowodowanego tem przerachowaniem, przeznacza się: obligacje, o których mowa w art. 4."
     },
     {
       "provision_ref": "art4",
@@ -55,7 +85,7 @@
       "provision_ref": "art8",
       "section": "8",
       "title": "Art. 8",
-      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_3-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"} ] } ];"
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia."
     }
   ],
   "definitions": []

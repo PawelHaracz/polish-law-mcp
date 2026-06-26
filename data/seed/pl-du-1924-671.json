@@ -13,7 +13,19 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "Ustanawia się następujące opłaty od uprawnień górniczych: a) na obszarze, na którym obowiązuje austrjackie i węgierskie ustawodawstwo górnicze: od wyłączności poszukiwań górniczych - 16 zł. rocznie, od hektara miary górniczej (kopalnianej, dziennej i przymiaru), nadanej na węgiel kamienny-4 zł., na rudę żelazną 1 zł., a na inny minerał zastrzeżony-2 zł. rocznie; b) na obszarach, na których obowiązuje rosyjskie i pruskie ustawodawstwo górnicze: od hektara zatwierdzonego nadania górniczego na węgiel kamienny-4 zł., na rudę żelazną-1 zł., a na inny minerał zastrzeżony - 2 zł. rocznie. Ułamek hektara liczy się jako cały hektar."
+      "content": "Ustanawia się następujące opłaty od uprawnień górniczych: na obszarze, na którym obowiązuje austrjackie i węgierskie ustawodawstwo górnicze: od wyłączności poszukiwań górniczych - 16 zł. rocznie, od hektara miary górniczej (kopalnianej, dziennej i przymiaru), nadanej na węgiel kamienny-4 zł., na rudę żelazną 1 zł., a na inny minerał zastrzeżony-2 zł. rocznie; na obszarach, na których obowiązuje rosyjskie i pruskie ustawodawstwo górnicze: od hektara zatwierdzonego nadania górniczego na węgiel kamienny-4 zł., na rudę żelazną-1 zł., a na inny minerał zastrzeżony - 2 zł. rocznie. Ułamek hektara liczy się jako cały hektar."
+    },
+    {
+      "provision_ref": "art1la",
+      "section": "1",
+      "title": "Art. 1 lit. a",
+      "content": "Ustanawia się następujące opłaty od uprawnień górniczych: na obszarze, na którym obowiązuje austrjackie i węgierskie ustawodawstwo górnicze: od wyłączności poszukiwań górniczych - 16 zł. rocznie, od hektara miary górniczej (kopalnianej, dziennej i przymiaru), nadanej na węgiel kamienny-4 zł., na rudę żelazną 1 zł., a na inny minerał zastrzeżony-2 zł. rocznie;"
+    },
+    {
+      "provision_ref": "art1lb",
+      "section": "1",
+      "title": "Art. 1 lit. b",
+      "content": "Ustanawia się następujące opłaty od uprawnień górniczych: na obszarach, na których obowiązuje rosyjskie i pruskie ustawodawstwo górnicze: od hektara zatwierdzonego nadania górniczego na węgiel kamienny-4 zł., na rudę żelazną-1 zł., a na inny minerał zastrzeżony - 2 zł. rocznie. Ułamek hektara liczy się jako cały hektar."
     },
     {
       "provision_ref": "art2",
@@ -49,7 +61,7 @@
       "provision_ref": "art7",
       "section": "7",
       "title": "Art. 7",
-      "content": "Ustawa niniejsza wchodzi w życie na całym obszarze Rzeczypospolitej Polskiej, z wyjątkiem obszaru województwa śląskiego, z dniem ogłoszenia, na obszarze zaś województwa śląskiego-z dniem ogłoszenia na nią zgody sejmu śląskiego. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"} ] } ];"
+      "content": "Ustawa niniejsza wchodzi w życie na całym obszarze Rzeczypospolitej Polskiej, z wyjątkiem obszaru województwa śląskiego, z dniem ogłoszenia, na obszarze zaś województwa śląskiego-z dniem ogłoszenia na nią zgody sejmu śląskiego."
     }
   ],
   "definitions": []

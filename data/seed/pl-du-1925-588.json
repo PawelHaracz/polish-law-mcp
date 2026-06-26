@@ -13,7 +13,31 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "Podporucznikiem korpusu oficerów administracji grupy kapelmistrzów mianowany zostaje ten, kto odpowiada następującym warunkom: a) wykształcenie ogólne w zakresie co najmniej 6 klas szkoły średniej; b) dyplom wyższej szkoły muzycznej, uznanej przez Państwo; c) odbycie ustawowo przewidzianej służby wojskowej z ukończeniem szkoły podchorążych rezerwy; d) kwalifikacje służbowe i moralne bez zarzutu."
+      "content": "Podporucznikiem korpusu oficerów administracji grupy kapelmistrzów mianowany zostaje ten, kto odpowiada następującym warunkom: wykształcenie ogólne w zakresie co najmniej 6 klas szkoły średniej; dyplom wyższej szkoły muzycznej, uznanej przez Państwo; odbycie ustawowo przewidzianej służby wojskowej z ukończeniem szkoły podchorążych rezerwy; kwalifikacje służbowe i moralne bez zarzutu."
+    },
+    {
+      "provision_ref": "art1la",
+      "section": "1",
+      "title": "Art. 1 lit. a",
+      "content": "Podporucznikiem korpusu oficerów administracji grupy kapelmistrzów mianowany zostaje ten, kto odpowiada następującym warunkom: wykształcenie ogólne w zakresie co najmniej 6 klas szkoły średniej;"
+    },
+    {
+      "provision_ref": "art1lb",
+      "section": "1",
+      "title": "Art. 1 lit. b",
+      "content": "Podporucznikiem korpusu oficerów administracji grupy kapelmistrzów mianowany zostaje ten, kto odpowiada następującym warunkom: dyplom wyższej szkoły muzycznej, uznanej przez Państwo;"
+    },
+    {
+      "provision_ref": "art1lc",
+      "section": "1",
+      "title": "Art. 1 lit. c",
+      "content": "Podporucznikiem korpusu oficerów administracji grupy kapelmistrzów mianowany zostaje ten, kto odpowiada następującym warunkom: odbycie ustawowo przewidzianej służby wojskowej z ukończeniem szkoły podchorążych rezerwy;"
+    },
+    {
+      "provision_ref": "art1ld",
+      "section": "1",
+      "title": "Art. 1 lit. d",
+      "content": "Podporucznikiem korpusu oficerów administracji grupy kapelmistrzów mianowany zostaje ten, kto odpowiada następującym warunkom: kwalifikacje służbowe i moralne bez zarzutu."
     },
     {
       "provision_ref": "art2",
@@ -31,7 +55,7 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_1-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia."
     }
   ],
   "definitions": []

@@ -31,7 +31,37 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "Osoby uprawnione winny w celu urzeczywistnienia swego prawa najdalej w ciągu trzech miesięcy od dnia wejścia w życie niniejszej ustawy zgłosić swe roszczenie do Ministerstwa Skarbu, podając: 1) imię, nazwisko i adres zgłaszającego roszczenie; 2) wywód swego uprawnienia; 3) nazwę, położenie i obszar dóbr skonfiskowanych; 4) czas i okoliczności, w jakich dobra zostały Utracone; 5) sąd, w którym sprawa się toczy, oraz stan, w jakim sprawa się znajduje w chwili zgłoszenia. Niezgłoszenie powyższych roszczeń w terminie trzymiesięcznym pociąga za sobą utratę uprawnień w stosunku do Skarbu Państwa. Termin trzymiesięczny nie obowiązuje osób, które uzyskały wyroki prawomocne."
+      "content": "Osoby uprawnione winny w celu urzeczywistnienia swego prawa najdalej w ciągu trzech miesięcy od dnia wejścia w życie niniejszej ustawy zgłosić swe roszczenie do Ministerstwa Skarbu, podając: imię, nazwisko i adres zgłaszającego roszczenie; wywód swego uprawnienia; nazwę, położenie i obszar dóbr skonfiskowanych; czas i okoliczności, w jakich dobra zostały Utracone; sąd, w którym sprawa się toczy, oraz stan, w jakim sprawa się znajduje w chwili zgłoszenia. Niezgłoszenie powyższych roszczeń w terminie trzymiesięcznym pociąga za sobą utratę uprawnień w stosunku do Skarbu Państwa. Termin trzymiesięczny nie obowiązuje osób, które uzyskały wyroki prawomocne."
+    },
+    {
+      "provision_ref": "art4p1",
+      "section": "4",
+      "title": "Art. 4 pkt 1",
+      "content": "Osoby uprawnione winny w celu urzeczywistnienia swego prawa najdalej w ciągu trzech miesięcy od dnia wejścia w życie niniejszej ustawy zgłosić swe roszczenie do Ministerstwa Skarbu, podając: imię, nazwisko i adres zgłaszającego roszczenie;"
+    },
+    {
+      "provision_ref": "art4p2",
+      "section": "4",
+      "title": "Art. 4 pkt 2",
+      "content": "Osoby uprawnione winny w celu urzeczywistnienia swego prawa najdalej w ciągu trzech miesięcy od dnia wejścia w życie niniejszej ustawy zgłosić swe roszczenie do Ministerstwa Skarbu, podając: wywód swego uprawnienia;"
+    },
+    {
+      "provision_ref": "art4p3",
+      "section": "4",
+      "title": "Art. 4 pkt 3",
+      "content": "Osoby uprawnione winny w celu urzeczywistnienia swego prawa najdalej w ciągu trzech miesięcy od dnia wejścia w życie niniejszej ustawy zgłosić swe roszczenie do Ministerstwa Skarbu, podając: nazwę, położenie i obszar dóbr skonfiskowanych;"
+    },
+    {
+      "provision_ref": "art4p4",
+      "section": "4",
+      "title": "Art. 4 pkt 4",
+      "content": "Osoby uprawnione winny w celu urzeczywistnienia swego prawa najdalej w ciągu trzech miesięcy od dnia wejścia w życie niniejszej ustawy zgłosić swe roszczenie do Ministerstwa Skarbu, podając: czas i okoliczności, w jakich dobra zostały Utracone;"
+    },
+    {
+      "provision_ref": "art4p5",
+      "section": "4",
+      "title": "Art. 4 pkt 5",
+      "content": "Osoby uprawnione winny w celu urzeczywistnienia swego prawa najdalej w ciągu trzech miesięcy od dnia wejścia w życie niniejszej ustawy zgłosić swe roszczenie do Ministerstwa Skarbu, podając: sąd, w którym sprawa się toczy, oraz stan, w jakim sprawa się znajduje w chwili zgłoszenia."
     },
     {
       "provision_ref": "art5",
@@ -85,7 +115,7 @@
       "provision_ref": "art13",
       "section": "13",
       "title": "Art. 13",
-      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_4-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_4-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_4-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_4-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"},{\"id\": \"arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"} ] } ];"
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia."
     }
   ],
   "definitions": []

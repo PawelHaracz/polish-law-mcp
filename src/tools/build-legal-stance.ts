@@ -5,6 +5,7 @@
 import type Database from '@ansvar/mcp-sqlite';
 import { buildFtsQueryVariants, buildLikePattern, sanitizeFtsInput } from '../utils/fts-query.js';
 import { resolveDocumentId } from '../utils/statute-id.js';
+import { collapseAncestorRefs } from '../utils/provision-ref.js';
 import { generateResponseMetadata, type ToolResponse } from '../utils/metadata.js';
 
 export interface BuildLegalStanceInput {
@@ -143,11 +144,14 @@ export async function buildLegalStance(
 /**
  * Deduplicate results by document_title + provision_ref.
  * Duplicate document IDs (numeric vs slug) cause the same provision to appear twice.
+ * Also collapses article aggregates when a more specific descendant row is present
+ * (the DB stores both — see collapseAncestorRefs).
  */
 function deduplicateResults(
   rows: LegalStanceResult[],
   limit: number,
 ): LegalStanceResult[] {
+  rows = collapseAncestorRefs(rows);
   const seen = new Set<string>();
   const deduped: LegalStanceResult[] = [];
   for (const row of rows) {

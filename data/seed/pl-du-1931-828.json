@@ -13,7 +13,19 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "Zezwala się na zamianę: a) między Skarbem Państwa a gminą miasta Krakowa: parcel, położonych w gminie katastralnej miasta Krakowa, stanowiących własność Skarbu Państwa, a będących w zarządzie przedsiębiorstwa „Polska Poczta, Telegraf i Telefon”, i oznaczonych w Dz. XIX 1 h. 355/5, część parceli 1k. 485/2, parceli 1k. 485/13, 485/15, część parceli 1k. 534/1, parceli 534/3, 535/1, 535/2, 536/1, 536/2, 537/1, 537/2, 582/3, 582/4, 583/1, 583/2 o łącznej powierzchni 49.850 m 2 , i w Dz. XXI część parceli 1k. 642 o powierzchni 13.840 m 2 , na parcelę, stanowiącą własność gminy miasta Krakowa w Dz. XV lk. 437/1 o powierzchni 6.178 m 2 ; b) między Skarbem Państwa a Zakładem Ubezpieczeń Pracowników Umysłowych we Lwowie: otrzymanej w sposób powyższy przez Skarb Państwa od gminy miasta Krakowa parceli, oznaczonej lk. 437/1 w Dz. XV miasta Krakowa o powierzchni 6.178 m 2 , na nieruchomość w Dz. XIX miasta Krakowa położoną Lwh. 424 ks. gr. gm. miasta Krakowa o powierzchni 22.908 m 2 , wraz z budynkami, składami i urządzeniami, własność Zakładu Ubezpieczeń Pracowników Umysłowych we Lwowie stanowiącą."
+      "content": "Zezwala się na zamianę: między Skarbem Państwa a gminą miasta Krakowa: parcel, położonych w gminie katastralnej miasta Krakowa, stanowiących własność Skarbu Państwa, a będących w zarządzie przedsiębiorstwa „Polska Poczta, Telegraf i Telefon”, i oznaczonych w Dz. XIX 1 h. 355/5, część parceli 1k. 485/2, parceli 1k. 485/13, 485/15, część parceli 1k. 534/1, parceli 534/3, 535/1, 535/2, 536/1, 536/2, 537/1, 537/2, 582/3, 582/4, 583/1, 583/2 o łącznej powierzchni 49.850 m 2 , i w Dz. XXI część parceli 1k. 642 o powierzchni 13.840 m 2 , na parcelę, stanowiącą własność gminy miasta Krakowa w Dz. XV lk. 437/1 o powierzchni 6.178 m 2 ; między Skarbem Państwa a Zakładem Ubezpieczeń Pracowników Umysłowych we Lwowie: otrzymanej w sposób powyższy przez Skarb Państwa od gminy miasta Krakowa parceli, oznaczonej lk. 437/1 w Dz. XV miasta Krakowa o powierzchni 6.178 m 2 , na nieruchomość w Dz. XIX miasta Krakowa położoną Lwh. 424 ks. gr. gm. miasta Krakowa o powierzchni 22.908 m 2 , wraz z budynkami, składami i urządzeniami, własność Zakładu Ubezpieczeń Pracowników Umysłowych we Lwowie stanowiącą."
+    },
+    {
+      "provision_ref": "art1la",
+      "section": "1",
+      "title": "Art. 1 lit. a",
+      "content": "Zezwala się na zamianę: między Skarbem Państwa a gminą miasta Krakowa: parcel, położonych w gminie katastralnej miasta Krakowa, stanowiących własność Skarbu Państwa, a będących w zarządzie przedsiębiorstwa „Polska Poczta, Telegraf i Telefon”, i oznaczonych w Dz. XIX 1 h. 355/5, część parceli 1k. 485/2, parceli 1k. 485/13, 485/15, część parceli 1k. 534/1, parceli 534/3, 535/1, 535/2, 536/1, 536/2, 537/1, 537/2, 582/3, 582/4, 583/1, 583/2 o łącznej powierzchni 49.850 m 2 , i w Dz. XXI część parceli 1k. 642 o powierzchni 13.840 m 2 , na parcelę, stanowiącą własność gminy miasta Krakowa w Dz. XV lk. 437/1 o powierzchni 6.178 m 2 ;"
+    },
+    {
+      "provision_ref": "art1lb",
+      "section": "1",
+      "title": "Art. 1 lit. b",
+      "content": "Zezwala się na zamianę: między Skarbem Państwa a Zakładem Ubezpieczeń Pracowników Umysłowych we Lwowie: otrzymanej w sposób powyższy przez Skarb Państwa od gminy miasta Krakowa parceli, oznaczonej lk. 437/1 w Dz. XV miasta Krakowa o powierzchni 6.178 m 2 , na nieruchomość w Dz. XIX miasta Krakowa położoną Lwh. 424 ks. gr. gm. miasta Krakowa o powierzchni 22.908 m 2 , wraz z budynkami, składami i urządzeniami, własność Zakładu Ubezpieczeń Pracowników Umysłowych we Lwowie stanowiącą."
     },
     {
       "provision_ref": "art2",
@@ -31,7 +43,7 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Prezes Rady Ministrów: A. Prystor Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia."
     }
   ],
   "definitions": []

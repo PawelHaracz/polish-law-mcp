@@ -19,7 +19,31 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Serwituty, których dotyczy art. 1, ulegają likwidacji na zasadach następujących: 1) podstawą do wyznaczenia ekwiwalentu jest rozmiar użytkowania, przysługującego szałaśnikom na podstawie stanu z końca r. 1852 w myśl nadań i zawartych ugód, zwłaszcza zaś w myśl ugody z r. 1800; 2) przy wyznaczeniu ekwiwalentu będzie wliczony ten ekwiwalent, który uprawnieni szałaśnicy już otrzymali na podstawie patentu cesarskiego z r. 1853; 3) uzupełnienie ekwiwalentu nastąpi z gruntu ongi służebnego, o ile grunt ten obecnie stanowi pastwisko, łąkę lub ziemię orną. Gdyby jednak grunt ongi służebny był obecnie zalesiony, będzie jako ekwiwalent wyznaczone pastwisko, łąka lub ziemia orna o tej samej wartości użytkowej, co pastwisko na tym samym gruncie założone, albo też przestrzeń pokryta lasem, przyczem właściciel będzie obowiązany w przeciągu lat trzech od wydania orzeczenia wyciąć i wywieźć drzewo. Gdyby ze względu na kulturę krajową wycięcie lasu okazało się niewskazanem, wówczas ekwiwalent będzie oznaczony w lesie wraz z drzewostanem lub w gotówce. 4) Wyznaczenie ekwiwalentu nastąpi na zasadach, ustalonych w art. 30 ustawy z dn. 7 maja 1920 r. o likwidacji serwitutów na terenie b. Królestwa Kongresowego (Dz. Ust. Rz. P. № 42, poz. 249)."
+      "content": "Serwituty, których dotyczy art. 1, ulegają likwidacji na zasadach następujących: podstawą do wyznaczenia ekwiwalentu jest rozmiar użytkowania, przysługującego szałaśnikom na podstawie stanu z końca r. 1852 w myśl nadań i zawartych ugód, zwłaszcza zaś w myśl ugody z r. 1800; przy wyznaczeniu ekwiwalentu będzie wliczony ten ekwiwalent, który uprawnieni szałaśnicy już otrzymali na podstawie patentu cesarskiego z r. 1853; uzupełnienie ekwiwalentu nastąpi z gruntu ongi służebnego, o ile grunt ten obecnie stanowi pastwisko, łąkę lub ziemię orną. Gdyby jednak grunt ongi służebny był obecnie zalesiony, będzie jako ekwiwalent wyznaczone pastwisko, łąka lub ziemia orna o tej samej wartości użytkowej, co pastwisko na tym samym gruncie założone, albo też przestrzeń pokryta lasem, przyczem właściciel będzie obowiązany w przeciągu lat trzech od wydania orzeczenia wyciąć i wywieźć drzewo. Gdyby ze względu na kulturę krajową wycięcie lasu okazało się niewskazanem, wówczas ekwiwalent będzie oznaczony w lesie wraz z drzewostanem lub w gotówce. Wyznaczenie ekwiwalentu nastąpi na zasadach, ustalonych w art. 30 ustawy z dn. 7 maja 1920 r. o likwidacji serwitutów na terenie b. Królestwa Kongresowego (Dz. Ust. Rz. P. № 42, poz. 249)."
+    },
+    {
+      "provision_ref": "art2p1",
+      "section": "2",
+      "title": "Art. 2 pkt 1",
+      "content": "Serwituty, których dotyczy art. 1, ulegają likwidacji na zasadach następujących: podstawą do wyznaczenia ekwiwalentu jest rozmiar użytkowania, przysługującego szałaśnikom na podstawie stanu z końca r. 1852 w myśl nadań i zawartych ugód, zwłaszcza zaś w myśl ugody z r. 1800;"
+    },
+    {
+      "provision_ref": "art2p2",
+      "section": "2",
+      "title": "Art. 2 pkt 2",
+      "content": "Serwituty, których dotyczy art. 1, ulegają likwidacji na zasadach następujących: przy wyznaczeniu ekwiwalentu będzie wliczony ten ekwiwalent, który uprawnieni szałaśnicy już otrzymali na podstawie patentu cesarskiego z r. 1853;"
+    },
+    {
+      "provision_ref": "art2p3",
+      "section": "2",
+      "title": "Art. 2 pkt 3",
+      "content": "Serwituty, których dotyczy art. 1, ulegają likwidacji na zasadach następujących: uzupełnienie ekwiwalentu nastąpi z gruntu ongi służebnego, o ile grunt ten obecnie stanowi pastwisko, łąkę lub ziemię orną."
+    },
+    {
+      "provision_ref": "art2p4",
+      "section": "2",
+      "title": "Art. 2 pkt 4",
+      "content": "Serwituty, których dotyczy art. 1, ulegają likwidacji na zasadach następujących: Wyznaczenie ekwiwalentu nastąpi na zasadach, ustalonych w art. 30 ustawy z dn. 7 maja 1920 r. o likwidacji serwitutów na terenie b. Królestwa Kongresowego (Dz. Ust. Rz. P. № 42, poz. 249)."
     },
     {
       "provision_ref": "art3",
@@ -43,7 +67,7 @@
       "provision_ref": "art6",
       "section": "6",
       "title": "Art. 6",
-      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Wykonanie jej porucza się Prezesowi Głównego Urzędu Ziemskiego w porozumieniu z Ministrem Rolnictwa i Dóbr Państwowych oraz Ministrem Sprawiedliwości. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Wykonanie jej porucza się Prezesowi Głównego Urzędu Ziemskiego w porozumieniu z Ministrem Rolnictwa i Dóbr Państwowych oraz Ministrem Sprawiedliwości."
     }
   ],
   "definitions": []

@@ -13,7 +13,31 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "Stawkę opłat stemplowych od przeniesienia tytułu własności nieruchomości, przewidzianą w wysokości 6%: a) dla obszaru b. dzielnicy rosyjskiej w art. 4 i 6 (punkcie a) ustawy z dnia 16 lipca 1920 r. (Dz. U. R. P. № 73 poz. 498), względnie w art. 11 dekretu № 446 Prezesa Tymczasowej Komisji Rządzącej Litwy Środkowej z dnia 27 grudnia 1921 r. (Dz. Urz. T. K. Litwy Środkowej № 1 z 1922 r.), b) dla obszaru województw poznańskiego i pomorskiego w § 2 rozporządzenia Ministra Skarbu z dnia 14 października 1922 r. (Dz. U. R. P. № 90 poz. 845), c) dla obszaru b. dzielnicy austrjackiej w art. 11 ustawy z dnia 16 lipca 1920 r. (Dz. U. R. P. № 73 poz. 498), d) dla obszaru górnośląskiej części województwa śląskiego w art. 1 § 1 ustawy śląskiej z dnia 21 listopada 1922 r. (Dz. U. Śl. № 35 poz. 123), jak również przewidzianą w tymże przepisie w wysokości 10%, - obniża się, na 4%."
+      "content": "Stawkę opłat stemplowych od przeniesienia tytułu własności nieruchomości, przewidzianą w wysokości 6%: dla obszaru b. dzielnicy rosyjskiej w art. 4 i 6 (punkcie a) ustawy z dnia 16 lipca 1920 r. (Dz. U. R. P. № 73 poz. 498), względnie w art. 11 dekretu № 446 Prezesa Tymczasowej Komisji Rządzącej Litwy Środkowej z dnia 27 grudnia 1921 r. (Dz. Urz. T. K. Litwy Środkowej № 1 z 1922 r.), dla obszaru województw poznańskiego i pomorskiego w § 2 rozporządzenia Ministra Skarbu z dnia 14 października 1922 r. (Dz. U. R. P. № 90 poz. 845), dla obszaru b. dzielnicy austrjackiej w art. 11 ustawy z dnia 16 lipca 1920 r. (Dz. U. R. P. № 73 poz. 498), dla obszaru górnośląskiej części województwa śląskiego w art. 1 § 1 ustawy śląskiej z dnia 21 listopada 1922 r. (Dz. U. Śl. № 35 poz. 123), jak również przewidzianą w tymże przepisie w wysokości 10%, - obniża się, na 4%."
+    },
+    {
+      "provision_ref": "art1la",
+      "section": "1",
+      "title": "Art. 1 lit. a",
+      "content": "Stawkę opłat stemplowych od przeniesienia tytułu własności nieruchomości, przewidzianą w wysokości 6%: dla obszaru b. dzielnicy rosyjskiej w art. 4 i 6 (punkcie a) ustawy z dnia 16 lipca 1920 r. (Dz. U. R. P. № 73 poz. 498), względnie w art. 11 dekretu № 446 Prezesa Tymczasowej Komisji Rządzącej Litwy Środkowej z dnia 27 grudnia 1921 r. (Dz. Urz. T. K. Litwy Środkowej № 1 z 1922 r.),"
+    },
+    {
+      "provision_ref": "art1lb",
+      "section": "1",
+      "title": "Art. 1 lit. b",
+      "content": "Stawkę opłat stemplowych od przeniesienia tytułu własności nieruchomości, przewidzianą w wysokości 6%: dla obszaru województw poznańskiego i pomorskiego w § 2 rozporządzenia Ministra Skarbu z dnia 14 października 1922 r. (Dz. U. R. P. № 90 poz. 845),"
+    },
+    {
+      "provision_ref": "art1lc",
+      "section": "1",
+      "title": "Art. 1 lit. c",
+      "content": "Stawkę opłat stemplowych od przeniesienia tytułu własności nieruchomości, przewidzianą w wysokości 6%: dla obszaru b. dzielnicy austrjackiej w art. 11 ustawy z dnia 16 lipca 1920 r. (Dz. U. R. P. № 73 poz. 498),"
+    },
+    {
+      "provision_ref": "art1ld",
+      "section": "1",
+      "title": "Art. 1 lit. d",
+      "content": "Stawkę opłat stemplowych od przeniesienia tytułu własności nieruchomości, przewidzianą w wysokości 6%: dla obszaru górnośląskiej części województwa śląskiego w art. 1 § 1 ustawy śląskiej z dnia 21 listopada 1922 r. (Dz. U. Śl. № 35 poz. 123), jak również przewidzianą w tymże przepisie w wysokości 10%, - obniża się, na 4%."
     },
     {
       "provision_ref": "art2",
@@ -37,7 +61,7 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Art. 5",
-      "content": "Ustawa niniejsza z wyłączeniem art. 2 wchodzi w życie w ciągu dni 7 od dnia ogłoszenia. Art. 2 niniejszej ustawy wchodzi w życie z dniem 1 stycznia 1925 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_1-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+      "content": "Ustawa niniejsza z wyłączeniem art. 2 wchodzi w życie w ciągu dni 7 od dnia ogłoszenia. Art. 2 niniejszej ustawy wchodzi w życie z dniem 1 stycznia 1925 r."
     }
   ],
   "definitions": []

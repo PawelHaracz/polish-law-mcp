@@ -13,7 +13,31 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji ( Dz. U. Nr 25, poz. 202 i Nr 175, poz. 1458 ) w art. 14: 1) ust. 1 otrzymuje brzmienie: „ 1. Wprowadzający pojazd, który jest obowiązany do zapewnienia sieci lub który złożył oświadczenie, o którym mowa w art. 11 ust. 4, i nie spełnia tego obowiązku, jest obowiązany do naliczenia i wpłacenia opłaty za brak sieci, z zastrzeżeniem ust. 5 i 6. ” ; 2) dodaje się ust. 5 i 6 w brzmieniu: „ 5. W przypadku zapewnienia sieci obejmującej co najmniej 95% terytorium kraju, podmiot, o którym mowa w ust. 1, jest zwolniony z opłaty za brak sieci. 6. W przypadku zapewnienia przez podmiot, o którym mowa w ust. 1, sieci obejmującej: 1) poniżej 95%, ale nie mniej niż 90% terytorium kraju - wysokość opłaty za brak sieci ulega obniżeniu o 75%; 2) poniżej 90%, ale nie mniej niż 85% terytorium kraju - wysokość opłaty za brak sieci ulega obniżeniu o 50%. ” ."
+      "content": "W ustawie z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji w art. 14: ust. 1 otrzymuje brzmienie: „ Wprowadzający pojazd, który jest obowiązany do zapewnienia sieci lub który złożył oświadczenie, o którym mowa w art. 11 ust. 4, i nie spełnia tego obowiązku, jest obowiązany do naliczenia i wpłacenia opłaty za brak sieci, z zastrzeżeniem ust. 5 i 6. ” ; dodaje się ust. 5 i 6 w brzmieniu: „ W przypadku zapewnienia sieci obejmującej co najmniej 95% terytorium kraju, podmiot, o którym mowa w ust. 1, jest zwolniony z opłaty za brak sieci. W przypadku zapewnienia przez podmiot, o którym mowa w ust. 1, sieci obejmującej: poniżej 95%, ale nie mniej niż 90% terytorium kraju - wysokość opłaty za brak sieci ulega obniżeniu o 75%; poniżej 90%, ale nie mniej niż 85% terytorium kraju - wysokość opłaty za brak sieci ulega obniżeniu o 50%. ” ."
+    },
+    {
+      "provision_ref": "art1p1u1",
+      "section": "1",
+      "title": "Art. 1 pkt 1 ust. 1",
+      "content": "W ustawie z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji w art. 14: ust. 1 otrzymuje brzmienie: „ Wprowadzający pojazd, który jest obowiązany do zapewnienia sieci lub który złożył oświadczenie, o którym mowa w art. 11 ust. 4, i nie spełnia tego obowiązku, jest obowiązany do naliczenia i wpłacenia opłaty za brak sieci, z zastrzeżeniem ust. 5 i 6."
+    },
+    {
+      "provision_ref": "art1p2u5",
+      "section": "1",
+      "title": "Art. 1 pkt 2 ust. 5",
+      "content": "W ustawie z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji w art. 14: dodaje się ust. 5 i 6 w brzmieniu: „ W przypadku zapewnienia sieci obejmującej co najmniej 95% terytorium kraju, podmiot, o którym mowa w ust. 1, jest zwolniony z opłaty za brak sieci."
+    },
+    {
+      "provision_ref": "art1p2u6p1",
+      "section": "1",
+      "title": "Art. 1 pkt 2 ust. 6 pkt 1",
+      "content": "W ustawie z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji w art. 14: dodaje się ust. 5 i 6 w brzmieniu: „ W przypadku zapewnienia przez podmiot, o którym mowa w ust. 1, sieci obejmującej: poniżej 95%, ale nie mniej niż 90% terytorium kraju - wysokość opłaty za brak sieci ulega obniżeniu o 75%;"
+    },
+    {
+      "provision_ref": "art1p2u6p2",
+      "section": "1",
+      "title": "Art. 1 pkt 2 ust. 6 pkt 2",
+      "content": "W ustawie z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji w art. 14: dodaje się ust. 5 i 6 w brzmieniu: „ W przypadku zapewnienia przez podmiot, o którym mowa w ust. 1, sieci obejmującej: poniżej 90%, ale nie mniej niż 85% terytorium kraju - wysokość opłaty za brak sieci ulega obniżeniu o 50%."
     },
     {
       "provision_ref": "art2",
@@ -25,7 +49,7 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
     }
   ],
   "definitions": []

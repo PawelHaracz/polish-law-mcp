@@ -25,7 +25,25 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "Główna Inspekcja Kolejowa spełnia swe zadanie przez: 1) kontrolą doraźną, wykonywaną według swego uznania we wszystkich działach służby i gospodarki kolejowej; 2) przeprowadzanie dochodzeń w razie dostrzeżenia nieprawidłowości lub nadużyć, a to celem ustalenia ich źródeł i zapobiegania im na przyszłość; 3) przeprowadzanie dochodzeń, zleconych przez Ministra Kolei."
+      "content": "Główna Inspekcja Kolejowa spełnia swe zadanie przez: kontrolą doraźną, wykonywaną według swego uznania we wszystkich działach służby i gospodarki kolejowej; przeprowadzanie dochodzeń w razie dostrzeżenia nieprawidłowości lub nadużyć, a to celem ustalenia ich źródeł i zapobiegania im na przyszłość; przeprowadzanie dochodzeń, zleconych przez Ministra Kolei."
+    },
+    {
+      "provision_ref": "art3p1",
+      "section": "3",
+      "title": "Art. 3 pkt 1",
+      "content": "Główna Inspekcja Kolejowa spełnia swe zadanie przez: kontrolą doraźną, wykonywaną według swego uznania we wszystkich działach służby i gospodarki kolejowej;"
+    },
+    {
+      "provision_ref": "art3p2",
+      "section": "3",
+      "title": "Art. 3 pkt 2",
+      "content": "Główna Inspekcja Kolejowa spełnia swe zadanie przez: przeprowadzanie dochodzeń w razie dostrzeżenia nieprawidłowości lub nadużyć, a to celem ustalenia ich źródeł i zapobiegania im na przyszłość;"
+    },
+    {
+      "provision_ref": "art3p3",
+      "section": "3",
+      "title": "Art. 3 pkt 3",
+      "content": "Główna Inspekcja Kolejowa spełnia swe zadanie przez: przeprowadzanie dochodzeń, zleconych przez Ministra Kolei."
     },
     {
       "provision_ref": "art4",
@@ -115,7 +133,7 @@
       "provision_ref": "art18",
       "section": "18",
       "title": "Art. 18",
-      "content": "Ustawa niniejsza wchodzi w życie w trzy miesiące po jej ogłoszeniu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_3-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"},{\"id\": \"arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"},{\"id\": \"arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\"},{\"id\": \"arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\"},{\"id\": \"arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\"},{\"id\": \"arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\"} ] } ];"
+      "content": "Ustawa niniejsza wchodzi w życie w trzy miesiące po jej ogłoszeniu."
     }
   ],
   "definitions": []

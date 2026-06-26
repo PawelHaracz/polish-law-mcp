@@ -13,7 +13,85 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "Dniami wolnymi od pracy są: 1) dni niżej wymienione: a) 1 stycznia - Nowy Rok, b) 6 stycznia - Trzech Króli, c) pierwszy dzień Wielkiej Nocy, d) drugi dzień Wielkiej Nocy, e) 1 maja - Święto Państwowe, f) pierwszy dzień Zielonych Świątek, g) dzień Bożego Ciała, h) 22 lipca - Święto Odrodzenia Polski, i) 15 sierpnia - Wniebowzięcie, j) 1 listopada - Wszystkich Świętych, k) 25 grudnia - pierwszy dzień Bożego Narodzenia, l) 26 grudnia - drugi dzień Bożego Narodzenia, 2) niedziele."
+      "content": "Dniami wolnymi od pracy są: dni niżej wymienione: 1 stycznia - Nowy Rok, 6 stycznia - Trzech Króli, pierwszy dzień Wielkiej Nocy, drugi dzień Wielkiej Nocy, 1 maja - Święto Państwowe, pierwszy dzień Zielonych Świątek, dzień Bożego Ciała, 22 lipca - Święto Odrodzenia Polski, 15 sierpnia - Wniebowzięcie, 1 listopada - Wszystkich Świętych, 25 grudnia - pierwszy dzień Bożego Narodzenia, 26 grudnia - drugi dzień Bożego Narodzenia, niedziele."
+    },
+    {
+      "provision_ref": "art1p1la",
+      "section": "1",
+      "title": "Art. 1 pkt 1 lit. a",
+      "content": "Dniami wolnymi od pracy są: dni niżej wymienione: 1 stycznia - Nowy Rok,"
+    },
+    {
+      "provision_ref": "art1p1lb",
+      "section": "1",
+      "title": "Art. 1 pkt 1 lit. b",
+      "content": "Dniami wolnymi od pracy są: dni niżej wymienione: 6 stycznia - Trzech Króli,"
+    },
+    {
+      "provision_ref": "art1p1lc",
+      "section": "1",
+      "title": "Art. 1 pkt 1 lit. c",
+      "content": "Dniami wolnymi od pracy są: dni niżej wymienione: pierwszy dzień Wielkiej Nocy,"
+    },
+    {
+      "provision_ref": "art1p1ld",
+      "section": "1",
+      "title": "Art. 1 pkt 1 lit. d",
+      "content": "Dniami wolnymi od pracy są: dni niżej wymienione: drugi dzień Wielkiej Nocy,"
+    },
+    {
+      "provision_ref": "art1p1le",
+      "section": "1",
+      "title": "Art. 1 pkt 1 lit. e",
+      "content": "Dniami wolnymi od pracy są: dni niżej wymienione: 1 maja - Święto Państwowe,"
+    },
+    {
+      "provision_ref": "art1p1lf",
+      "section": "1",
+      "title": "Art. 1 pkt 1 lit. f",
+      "content": "Dniami wolnymi od pracy są: dni niżej wymienione: pierwszy dzień Zielonych Świątek,"
+    },
+    {
+      "provision_ref": "art1p1lg",
+      "section": "1",
+      "title": "Art. 1 pkt 1 lit. g",
+      "content": "Dniami wolnymi od pracy są: dni niżej wymienione: dzień Bożego Ciała,"
+    },
+    {
+      "provision_ref": "art1p1lh",
+      "section": "1",
+      "title": "Art. 1 pkt 1 lit. h",
+      "content": "Dniami wolnymi od pracy są: dni niżej wymienione: 22 lipca - Święto Odrodzenia Polski,"
+    },
+    {
+      "provision_ref": "art1p1li",
+      "section": "1",
+      "title": "Art. 1 pkt 1 lit. i",
+      "content": "Dniami wolnymi od pracy są: dni niżej wymienione: 15 sierpnia - Wniebowzięcie,"
+    },
+    {
+      "provision_ref": "art1p1lj",
+      "section": "1",
+      "title": "Art. 1 pkt 1 lit. j",
+      "content": "Dniami wolnymi od pracy są: dni niżej wymienione: 1 listopada - Wszystkich Świętych,"
+    },
+    {
+      "provision_ref": "art1p1lk",
+      "section": "1",
+      "title": "Art. 1 pkt 1 lit. k",
+      "content": "Dniami wolnymi od pracy są: dni niżej wymienione: 25 grudnia - pierwszy dzień Bożego Narodzenia,"
+    },
+    {
+      "provision_ref": "art1p1ll",
+      "section": "1",
+      "title": "Art. 1 pkt 1 lit. l",
+      "content": "Dniami wolnymi od pracy są: dni niżej wymienione: 26 grudnia - drugi dzień Bożego Narodzenia,"
+    },
+    {
+      "provision_ref": "art1p2",
+      "section": "1",
+      "title": "Art. 1 pkt 2",
+      "content": "Dniami wolnymi od pracy są: niedziele."
     },
     {
       "provision_ref": "art2",
@@ -31,7 +109,7 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-pint_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_1-pint_1-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"arti_1-pint_1-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"},{\"id\": \"arti_1-pint_1-lett_f\",\"symbol\": \"lett_f\",\"type\": \"lett\",\"name\": \"f\",\"title\": \"f)\"},{\"id\": \"arti_1-pint_1-lett_g\",\"symbol\": \"lett_g\",\"type\": \"lett\",\"name\": \"g\",\"title\": \"g)\"},{\"id\": \"arti_1-pint_1-lett_h\",\"symbol\": \"lett_h\",\"type\": \"lett\",\"name\": \"h\",\"title\": \"h)\"},{\"id\": \"arti_1-pint_1-lett_i\",\"symbol\": \"lett_i\",\"type\": \"lett\",\"name\": \"i\",\"title\": \"i)\"},{\"id\": \"arti_1-pint_1-lett_j\",\"symbol\": \"lett_j\",\"type\": \"lett\",\"name\": \"j\",\"title\": \"j)\"},{\"id\": \"arti_1-pint_1-lett_k\",\"symbol\": \"lett_k\",\"type\": \"lett\",\"name\": \"k\",\"title\": \"k)\"},{\"id\": \"arti_1-pint_1-lett_l\",\"symbol\": \"lett_l\",\"type\": \"lett\",\"name\": \"l\",\"title\": \"l)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia."
     }
   ],
   "definitions": []

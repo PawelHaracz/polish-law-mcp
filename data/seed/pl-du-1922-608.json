@@ -19,7 +19,25 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Art. 14 ustęp pierwszy otrzymuje następujące brzmienie: „ Prawo do zaopatrzenia przysługuje wdowom po osobach, wymienionych w art. 1, o ile związek małżeński: a) został zawarty przed okaleczeniem lub chorobą, uprawniającą do renty; b) trwał w razie zawarcia ślubu już po okaleczeniu lub po wystąpieniu choroby, uprawniającej do zaopatrzenia na mocy niniejszej ustawy conajmniej dwa lata; wyjątek stanowi małżeństwo dzietne; c) o ile tytuł do zaopatrzenia powstał po 1 sierpnia 1914 r. Prawo wdowy rozpoczyna się z chwilą śmierci męża ” ."
+      "content": "Art. 14 ustęp pierwszy otrzymuje następujące brzmienie: „ Prawo do zaopatrzenia przysługuje wdowom po osobach, wymienionych w art. 1, o ile związek małżeński: został zawarty przed okaleczeniem lub chorobą, uprawniającą do renty; trwał w razie zawarcia ślubu już po okaleczeniu lub po wystąpieniu choroby, uprawniającej do zaopatrzenia na mocy niniejszej ustawy conajmniej dwa lata; wyjątek stanowi małżeństwo dzietne; o ile tytuł do zaopatrzenia powstał po 1 sierpnia 1914 r. Prawo wdowy rozpoczyna się z chwilą śmierci męża ” ."
+    },
+    {
+      "provision_ref": "art2la",
+      "section": "2",
+      "title": "Art. 2 lit. a",
+      "content": "Art. 14 ustęp pierwszy otrzymuje następujące brzmienie: „ Prawo do zaopatrzenia przysługuje wdowom po osobach, wymienionych w art. 1, o ile związek małżeński: został zawarty przed okaleczeniem lub chorobą, uprawniającą do renty;"
+    },
+    {
+      "provision_ref": "art2lb",
+      "section": "2",
+      "title": "Art. 2 lit. b",
+      "content": "Art. 14 ustęp pierwszy otrzymuje następujące brzmienie: „ Prawo do zaopatrzenia przysługuje wdowom po osobach, wymienionych w art. 1, o ile związek małżeński: trwał w razie zawarcia ślubu już po okaleczeniu lub po wystąpieniu choroby, uprawniającej do zaopatrzenia na mocy niniejszej ustawy conajmniej dwa lata; wyjątek stanowi małżeństwo dzietne;"
+    },
+    {
+      "provision_ref": "art2lc",
+      "section": "2",
+      "title": "Art. 2 lit. c",
+      "content": "Art. 14 ustęp pierwszy otrzymuje następujące brzmienie: „ Prawo do zaopatrzenia przysługuje wdowom po osobach, wymienionych w art. 1, o ile związek małżeński: o ile tytuł do zaopatrzenia powstał po 1 sierpnia 1914 r."
     },
     {
       "provision_ref": "art3",
@@ -49,7 +67,19 @@
       "provision_ref": "art7",
       "section": "7",
       "title": "Art. 7",
-      "content": "Art. 28 otrzymuje następujące brzmienie: „ Pełna renta inwalidy wraz z dodatkiem drożyźnianym może ulec skapitalizowaniu w celu umożliwienia pobierającym rentę nabycia lub uruchomienia warsztatu na roli, w przemyśle lub rzemiośle, oraz w celu kształcenia i dokształcania, o ile: 1) osoba, pobierająca rentę, jest pełnoletnią i nie przekroczyła 55 roku życia, 2) istnieje gwarancja celowego użycia skapitalizowanej renty, w myśl motywów wnioskodawcy. Zaopatrzenie pozostałych nie może ulec skapitalizowaniu ” ."
+      "content": "Art. 28 otrzymuje następujące brzmienie: „ Pełna renta inwalidy wraz z dodatkiem drożyźnianym może ulec skapitalizowaniu w celu umożliwienia pobierającym rentę nabycia lub uruchomienia warsztatu na roli, w przemyśle lub rzemiośle, oraz w celu kształcenia i dokształcania, o ile: osoba, pobierająca rentę, jest pełnoletnią i nie przekroczyła 55 roku życia, istnieje gwarancja celowego użycia skapitalizowanej renty, w myśl motywów wnioskodawcy. Zaopatrzenie pozostałych nie może ulec skapitalizowaniu ” ."
+    },
+    {
+      "provision_ref": "art7p1",
+      "section": "7",
+      "title": "Art. 7 pkt 1",
+      "content": "Art. 28 otrzymuje następujące brzmienie: „ Pełna renta inwalidy wraz z dodatkiem drożyźnianym może ulec skapitalizowaniu w celu umożliwienia pobierającym rentę nabycia lub uruchomienia warsztatu na roli, w przemyśle lub rzemiośle, oraz w celu kształcenia i dokształcania, o ile: osoba, pobierająca rentę, jest pełnoletnią i nie przekroczyła 55 roku życia,"
+    },
+    {
+      "provision_ref": "art7p2",
+      "section": "7",
+      "title": "Art. 7 pkt 2",
+      "content": "Art. 28 otrzymuje następujące brzmienie: „ Pełna renta inwalidy wraz z dodatkiem drożyźnianym może ulec skapitalizowaniu w celu umożliwienia pobierającym rentę nabycia lub uruchomienia warsztatu na roli, w przemyśle lub rzemiośle, oraz w celu kształcenia i dokształcania, o ile: istnieje gwarancja celowego użycia skapitalizowanej renty, w myśl motywów wnioskodawcy."
     },
     {
       "provision_ref": "art8",
@@ -109,7 +139,7 @@
       "provision_ref": "art17",
       "section": "17",
       "title": "Art. 17",
-      "content": "Ustawa niniejsza wchodzi w tycie z dniem jej ogłoszenia, postanowienia zaś, zmieniające przepisy ustawy z dnia 18 marca 1921 r., obowiązują od dnia wejścia w życie ustawy z dnia 18 marca 1921 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"},{\"id\": \"arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\"},{\"id\": \"arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\"},{\"id\": \"arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\"} ] } ];"
+      "content": "Ustawa niniejsza wchodzi w tycie z dniem jej ogłoszenia, postanowienia zaś, zmieniające przepisy ustawy z dnia 18 marca 1921 r., obowiązują od dnia wejścia w życie ustawy z dnia 18 marca 1921 r."
     }
   ],
   "definitions": []

@@ -19,13 +19,61 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Skład Rady stanowią: a) Naczelnik Państwa, jako przewodniczący, b) Marszałek Sejmu Ustawodawczego, c) dziesięciu posłów, wyznaczonych przez Sejm Ustawodawczy, d) Prezydent Ministrów, e) trzech członków Rządu, wyznaczonych przez Radę Ministrów, f) trzech przedstawicieli wojskowości, wyznaczonych przez Naczelnego Wodza Wojsk Polskich. W zastępstwie Naczelnika Państwa przewodniczy Radzie Prezydent Ministrów."
+      "content": "Skład Rady stanowią: Naczelnik Państwa, jako przewodniczący, Marszałek Sejmu Ustawodawczego, dziesięciu posłów, wyznaczonych przez Sejm Ustawodawczy, Prezydent Ministrów, trzech członków Rządu, wyznaczonych przez Radę Ministrów, trzech przedstawicieli wojskowości, wyznaczonych przez Naczelnego Wodza Wojsk Polskich. W zastępstwie Naczelnika Państwa przewodniczy Radzie Prezydent Ministrów."
+    },
+    {
+      "provision_ref": "art2la",
+      "section": "2",
+      "title": "Art. 2 lit. a",
+      "content": "Skład Rady stanowią: Naczelnik Państwa, jako przewodniczący,"
+    },
+    {
+      "provision_ref": "art2lb",
+      "section": "2",
+      "title": "Art. 2 lit. b",
+      "content": "Skład Rady stanowią: Marszałek Sejmu Ustawodawczego,"
+    },
+    {
+      "provision_ref": "art2lc",
+      "section": "2",
+      "title": "Art. 2 lit. c",
+      "content": "Skład Rady stanowią: dziesięciu posłów, wyznaczonych przez Sejm Ustawodawczy,"
+    },
+    {
+      "provision_ref": "art2ld",
+      "section": "2",
+      "title": "Art. 2 lit. d",
+      "content": "Skład Rady stanowią: Prezydent Ministrów,"
+    },
+    {
+      "provision_ref": "art2le",
+      "section": "2",
+      "title": "Art. 2 lit. e",
+      "content": "Skład Rady stanowią: trzech członków Rządu, wyznaczonych przez Radę Ministrów,"
+    },
+    {
+      "provision_ref": "art2lf",
+      "section": "2",
+      "title": "Art. 2 lit. f",
+      "content": "Skład Rady stanowią: trzech przedstawicieli wojskowości, wyznaczonych przez Naczelnego Wodza Wojsk Polskich."
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "Do zakresu działania Rady należy: a) decydowanie we wszystkich sprawach, związanych z prowadzeniem i zakończeniem wojny oraz z zawarciem pokoju; b) wydawanie w tych sprawach rozporządzeń i zarządzeń."
+      "content": "Do zakresu działania Rady należy: decydowanie we wszystkich sprawach, związanych z prowadzeniem i zakończeniem wojny oraz z zawarciem pokoju; wydawanie w tych sprawach rozporządzeń i zarządzeń."
+    },
+    {
+      "provision_ref": "art3la",
+      "section": "3",
+      "title": "Art. 3 lit. a",
+      "content": "Do zakresu działania Rady należy: decydowanie we wszystkich sprawach, związanych z prowadzeniem i zakończeniem wojny oraz z zawarciem pokoju;"
+    },
+    {
+      "provision_ref": "art3lb",
+      "section": "3",
+      "title": "Art. 3 lit. b",
+      "content": "Do zakresu działania Rady należy: wydawanie w tych sprawach rozporządzeń i zarządzeń."
     },
     {
       "provision_ref": "art4",
@@ -61,7 +109,7 @@
       "provision_ref": "art9",
       "section": "9",
       "title": "Art. 9",
-      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_2-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_2-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"arti_2-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"},{\"id\": \"arti_2-lett_f\",\"symbol\": \"lett_f\",\"type\": \"lett\",\"name\": \"f\",\"title\": \"f)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"} ] } ];"
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia."
     }
   ],
   "definitions": []

@@ -13,7 +13,19 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 9 marca 1932 r. o Funduszu Obrotowym Reformy Rolnej (Dz. U. R. P. z 1934 r. Nr 40, poz. 364) wprowadza się zmiany następujące: 1) w art. 2 punkt i) otrzymuje brzmienie następujące: „ i) należności i wpływy Skarbu Państwa z tytułów, zawartych w przepisach ustaw i rozporządzeń, wymienionych w art. 1 rozporządzenia Prezydenta Rzeczypospolitej z dnia 19 listopada 1927 r. o powierzeniu Państwowemu Bankowi Rolnemu prowadzenia likwidacji spraw instytucji osadniczych i finansowych, które udzielały kredytów na cele agrarne w województwie pomorskim, poznańskim i górnośląskiej części województwa śląskiego (Dz. U. R. P. Nr 109, poz. 924) oraz należności i wpływy z tytułu pożyczek, udzielonych przez b. krajową komisję dla włości rentowych na podstawie ustawy z dnia 17 lutego 1905 r. o tworzeniu włości rentowych (Dz. Ust. i Rozp. Kraj. Nr 40) ” ; 2) w art. 3 ust. (1) punkt e) otrzymuje brzmienie następujące: „ e) opłatę kuponów i wykup obligacji państwowej renty ziemskiej, spłatę skryptów dłużnych Skarbu Państwa, wystawianych w związku z przejęciem ziemi na rzecz Państwa, oraz opłatę kuponów i wykup listów rentowych b. krajowej komisji dla włości rentowych; ” ."
+      "content": "W ustawie z dnia 9 marca 1932 r. o Funduszu Obrotowym Reformy Rolnej (Dz. U. R. P. z 1934 r. Nr 40, poz. 364) wprowadza się zmiany następujące: w art. 2 punkt i) otrzymuje brzmienie następujące: „ należności i wpływy Skarbu Państwa z tytułów, zawartych w przepisach ustaw i rozporządzeń, wymienionych w art. 1 rozporządzenia Prezydenta Rzeczypospolitej z dnia 19 listopada 1927 r. o powierzeniu Państwowemu Bankowi Rolnemu prowadzenia likwidacji spraw instytucji osadniczych i finansowych, które udzielały kredytów na cele agrarne w województwie pomorskim, poznańskim i górnośląskiej części województwa śląskiego (Dz. U. R. P. Nr 109, poz. 924) oraz należności i wpływy z tytułu pożyczek, udzielonych przez b. krajową komisję dla włości rentowych na podstawie ustawy z dnia 17 lutego 1905 r. o tworzeniu włości rentowych (Dz. Ust. i Rozp. Kraj. Nr 40) ” ; w art. 3 ust. (1) punkt e) otrzymuje brzmienie następujące: „ opłatę kuponów i wykup obligacji państwowej renty ziemskiej, spłatę skryptów dłużnych Skarbu Państwa, wystawianych w związku z przejęciem ziemi na rzecz Państwa, oraz opłatę kuponów i wykup listów rentowych b. krajowej komisji dla włości rentowych; ” ."
+    },
+    {
+      "provision_ref": "art1p1sli",
+      "section": "1",
+      "title": "Art. 1 pkt 1 podlit. i",
+      "content": "W ustawie z dnia 9 marca 1932 r. o Funduszu Obrotowym Reformy Rolnej (Dz. U. R. P. z 1934 r. Nr 40, poz. 364) wprowadza się zmiany następujące: w art. 2 punkt i) otrzymuje brzmienie następujące: „ należności i wpływy Skarbu Państwa z tytułów, zawartych w przepisach ustaw i rozporządzeń, wymienionych w art. 1 rozporządzenia Prezydenta Rzeczypospolitej z dnia 19 listopada 1927 r. o powierzeniu Państwowemu Bankowi Rolnemu prowadzenia likwidacji spraw instytucji osadniczych i finansowych, które udzielały kredytów na cele agrarne w województwie pomorskim, poznańskim i górnośląskiej części województwa śląskiego (Dz. U. R. P. Nr 109, poz. 924) oraz należności i wpływy z tytułu pożyczek, udzielonych przez b. krajową komisję dla włości rentowych na podstawie ustawy z dnia 17 lutego 1905 r. o tworzeniu włości rentowych (Dz. Ust. i Rozp. Kraj. Nr 40)"
+    },
+    {
+      "provision_ref": "art1p2le",
+      "section": "1",
+      "title": "Art. 1 pkt 2 lit. e",
+      "content": "W ustawie z dnia 9 marca 1932 r. o Funduszu Obrotowym Reformy Rolnej (Dz. U. R. P. z 1934 r. Nr 40, poz. 364) wprowadza się zmiany następujące: w art. 3 ust. (1) punkt e) otrzymuje brzmienie następujące: „ opłatę kuponów i wykup obligacji państwowej renty ziemskiej, spłatę skryptów dłużnych Skarbu Państwa, wystawianych w związku z przejęciem ziemi na rzecz Państwa, oraz opłatę kuponów i wykup listów rentowych b. krajowej komisji dla włości rentowych;"
     },
     {
       "provision_ref": "art2",
@@ -31,7 +43,7 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia."
     }
   ],
   "definitions": []

@@ -13,55 +13,601 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "Ustawa określa: 1) kategorie i zasady wyrobu napojów spirytusowych; 2) zasady wykonywania działalności gospodarczej w zakresie wyrobu lub rozlewu napojów spirytusowych oraz obrotu tymi napojami."
+      "content": "Ustawa określa: kategorie i zasady wyrobu napojów spirytusowych; zasady wykonywania działalności gospodarczej w zakresie wyrobu lub rozlewu napojów spirytusowych oraz obrotu tymi napojami."
+    },
+    {
+      "provision_ref": "art1p1",
+      "section": "1",
+      "title": "Art. 1 pkt 1",
+      "content": "Ustawa określa: kategorie i zasady wyrobu napojów spirytusowych;"
+    },
+    {
+      "provision_ref": "art1p2",
+      "section": "1",
+      "title": "Art. 1 pkt 2",
+      "content": "Ustawa określa: zasady wykonywania działalności gospodarczej w zakresie wyrobu lub rozlewu napojów spirytusowych oraz obrotu tymi napojami."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Użyte w ustawie określenia oznaczają: 1) alkohol etylowy rolniczy (spirytus rektyfikowany rolniczy) - alkohol etylowy uzyskany w wyniku destylacji po fermentacji alkoholowej produktów rolniczych (surowców) lub w wyniku innych procesów technologicznych, o określonych właściwościach fizykochemicznych i organoleptycznych, który nie ma właściwości napoju spirytusowego; 2) aromatyzowanie - użycie przy wyrobie napojów spirytusowych co najmniej jednej substancji naturalnej lub preparatu aromatycznego, ewentualnie substancji aromatycznej identycznej z naturalną, dopuszczonej na podstawie przepisów o warunkach zdrowotnych żywności i żywienia; 3) barwienie - użycie przy wyrobie napojów spirytusowych co najmniej jednego barwnika dozwolonego na podstawie przepisów o warunkach zdrowotnych żywności i żywienia; 4) destylat rolniczy (spirytus surowy rolniczy) - płyn alkoholowy uzyskany w wyniku destylacji po fermentacji alkoholowej produktów rolniczych, który nie ma właściwości alkoholu etylowego rolniczego ani właściwości napoju spirytusowego, lecz zachowuje zapach i smak pochodzące od użytych surowców; 5) dodawanie alkoholu - postępowanie polegające na dodawaniu alkoholu etylowego rolniczego do napoju spirytusowego; 6) kategoria napoju spirytusowego - wyodrębniona nazwą grupa napojów spirytusowych spełniająca określone wymagania w zakresie jakości oraz metod zastosowanych przy ich wyrobie; 7) kupażowanie - połączenie co najmniej dwóch napojów spirytusowych należących do tej samej kategorii, lecz różniących się nieznacznie składem z uwagi na metody zastosowane przy ich wyrobie, sposoby przeprowadzania destylacji, okresy leżakowania lub geograficzny obszar produkcji; 8) leżakowanie (dojrzewanie) - pozostawienie napoju spirytusowego, na określony czas, w specjalnych pojemnikach, umożliwiające naturalny przebieg reakcji fizykochemicznych, nadających napojowi spirytusowemu charakterystyczne cechy organoleptyczne; 9) maceracja - proces technologiczny, w którym przez ekstrakcję surowców roślinnych alkoholem etylowym rolniczym uzyskuje się roztwór wodno-alkoholowy, stanowiący półprodukt do sporządzania napojów spirytusowych (macerat); 10) mors - sok surowy z owoców lub rozcieńczony sok z owoców uprzednio zagęszczony i utrwalony alkoholem etylowym rolniczym, o zawartości alkoholu nie mniejszej niż 16% obj. i nie większej niż 20% obj., stanowiący półprodukt do wyrobu napojów spirytusowych; 11) zawartość alkoholu etylowego - stosunek objętości czystego alkoholu etylowego zawartego w danym napoju spirytusowym do całkowitej objętości tego napoju w temperaturze 20° Celsjusza, wyrażony jako „% obj.”; 12) zawartość substancji lotnych - ilość substancji lotnych innych niż alkohol etylowy i metylowy, pochodzących wyłącznie z destylacji, zawarta w napoju spirytusowym uzyskanym wyłącznie w wyniku destylacji lub powtórnej destylacji (redestylacji) użytych surowców; 13) zestawianie - zmieszanie co najmniej dwóch napojów spirytusowych, jak również zmieszanie półproduktów w celu uzyskania napoju spirytusowego."
+      "content": "Użyte w ustawie określenia oznaczają: alkohol etylowy rolniczy (spirytus rektyfikowany rolniczy) - alkohol etylowy uzyskany w wyniku destylacji po fermentacji alkoholowej produktów rolniczych (surowców) lub w wyniku innych procesów technologicznych, o określonych właściwościach fizykochemicznych i organoleptycznych, który nie ma właściwości napoju spirytusowego; aromatyzowanie - użycie przy wyrobie napojów spirytusowych co najmniej jednej substancji naturalnej lub preparatu aromatycznego, ewentualnie substancji aromatycznej identycznej z naturalną, dopuszczonej na podstawie przepisów o warunkach zdrowotnych żywności i żywienia; barwienie - użycie przy wyrobie napojów spirytusowych co najmniej jednego barwnika dozwolonego na podstawie przepisów o warunkach zdrowotnych żywności i żywienia; destylat rolniczy (spirytus surowy rolniczy) - płyn alkoholowy uzyskany w wyniku destylacji po fermentacji alkoholowej produktów rolniczych, który nie ma właściwości alkoholu etylowego rolniczego ani właściwości napoju spirytusowego, lecz zachowuje zapach i smak pochodzące od użytych surowców; dodawanie alkoholu - postępowanie polegające na dodawaniu alkoholu etylowego rolniczego do napoju spirytusowego; kategoria napoju spirytusowego - wyodrębniona nazwą grupa napojów spirytusowych spełniająca określone wymagania w zakresie jakości oraz metod zastosowanych przy ich wyrobie; kupażowanie - połączenie co najmniej dwóch napojów spirytusowych należących do tej samej kategorii, lecz różniących się nieznacznie składem z uwagi na metody zastosowane przy ich wyrobie, sposoby przeprowadzania destylacji, okresy leżakowania lub geograficzny obszar produkcji; leżakowanie (dojrzewanie) - pozostawienie napoju spirytusowego, na określony czas, w specjalnych pojemnikach, umożliwiające naturalny przebieg reakcji fizykochemicznych, nadających napojowi spirytusowemu charakterystyczne cechy organoleptyczne; maceracja - proces technologiczny, w którym przez ekstrakcję surowców roślinnych alkoholem etylowym rolniczym uzyskuje się roztwór wodno-alkoholowy, stanowiący półprodukt do sporządzania napojów spirytusowych (macerat); mors - sok surowy z owoców lub rozcieńczony sok z owoców uprzednio zagęszczony i utrwalony alkoholem etylowym rolniczym, o zawartości alkoholu nie mniejszej niż 16% obj. i nie większej niż 20% obj., stanowiący półprodukt do wyrobu napojów spirytusowych; zawartość alkoholu etylowego - stosunek objętości czystego alkoholu etylowego zawartego w danym napoju spirytusowym do całkowitej objętości tego napoju w temperaturze 20° Celsjusza, wyrażony jako „% obj.”; zawartość substancji lotnych - ilość substancji lotnych innych niż alkohol etylowy i metylowy, pochodzących wyłącznie z destylacji, zawarta w napoju spirytusowym uzyskanym wyłącznie w wyniku destylacji lub powtórnej destylacji (redestylacji) użytych surowców; zestawianie - zmieszanie co najmniej dwóch napojów spirytusowych, jak również zmieszanie półproduktów w celu uzyskania napoju spirytusowego."
+    },
+    {
+      "provision_ref": "art2p1",
+      "section": "2",
+      "title": "Art. 2 pkt 1",
+      "content": "Użyte w ustawie określenia oznaczają: alkohol etylowy rolniczy (spirytus rektyfikowany rolniczy) - alkohol etylowy uzyskany w wyniku destylacji po fermentacji alkoholowej produktów rolniczych (surowców) lub w wyniku innych procesów technologicznych, o określonych właściwościach fizykochemicznych i organoleptycznych, który nie ma właściwości napoju spirytusowego;"
+    },
+    {
+      "provision_ref": "art2p2",
+      "section": "2",
+      "title": "Art. 2 pkt 2",
+      "content": "Użyte w ustawie określenia oznaczają: aromatyzowanie - użycie przy wyrobie napojów spirytusowych co najmniej jednej substancji naturalnej lub preparatu aromatycznego, ewentualnie substancji aromatycznej identycznej z naturalną, dopuszczonej na podstawie przepisów o warunkach zdrowotnych żywności i żywienia;"
+    },
+    {
+      "provision_ref": "art2p3",
+      "section": "2",
+      "title": "Art. 2 pkt 3",
+      "content": "Użyte w ustawie określenia oznaczają: barwienie - użycie przy wyrobie napojów spirytusowych co najmniej jednego barwnika dozwolonego na podstawie przepisów o warunkach zdrowotnych żywności i żywienia;"
+    },
+    {
+      "provision_ref": "art2p4",
+      "section": "2",
+      "title": "Art. 2 pkt 4",
+      "content": "Użyte w ustawie określenia oznaczają: destylat rolniczy (spirytus surowy rolniczy) - płyn alkoholowy uzyskany w wyniku destylacji po fermentacji alkoholowej produktów rolniczych, który nie ma właściwości alkoholu etylowego rolniczego ani właściwości napoju spirytusowego, lecz zachowuje zapach i smak pochodzące od użytych surowców;"
+    },
+    {
+      "provision_ref": "art2p5",
+      "section": "2",
+      "title": "Art. 2 pkt 5",
+      "content": "Użyte w ustawie określenia oznaczają: dodawanie alkoholu - postępowanie polegające na dodawaniu alkoholu etylowego rolniczego do napoju spirytusowego;"
+    },
+    {
+      "provision_ref": "art2p6",
+      "section": "2",
+      "title": "Art. 2 pkt 6",
+      "content": "Użyte w ustawie określenia oznaczają: kategoria napoju spirytusowego - wyodrębniona nazwą grupa napojów spirytusowych spełniająca określone wymagania w zakresie jakości oraz metod zastosowanych przy ich wyrobie;"
+    },
+    {
+      "provision_ref": "art2p7",
+      "section": "2",
+      "title": "Art. 2 pkt 7",
+      "content": "Użyte w ustawie określenia oznaczają: kupażowanie - połączenie co najmniej dwóch napojów spirytusowych należących do tej samej kategorii, lecz różniących się nieznacznie składem z uwagi na metody zastosowane przy ich wyrobie, sposoby przeprowadzania destylacji, okresy leżakowania lub geograficzny obszar produkcji;"
+    },
+    {
+      "provision_ref": "art2p8",
+      "section": "2",
+      "title": "Art. 2 pkt 8",
+      "content": "Użyte w ustawie określenia oznaczają: leżakowanie (dojrzewanie) - pozostawienie napoju spirytusowego, na określony czas, w specjalnych pojemnikach, umożliwiające naturalny przebieg reakcji fizykochemicznych, nadających napojowi spirytusowemu charakterystyczne cechy organoleptyczne;"
+    },
+    {
+      "provision_ref": "art2p9",
+      "section": "2",
+      "title": "Art. 2 pkt 9",
+      "content": "Użyte w ustawie określenia oznaczają: maceracja - proces technologiczny, w którym przez ekstrakcję surowców roślinnych alkoholem etylowym rolniczym uzyskuje się roztwór wodno-alkoholowy, stanowiący półprodukt do sporządzania napojów spirytusowych (macerat);"
+    },
+    {
+      "provision_ref": "art2p10",
+      "section": "2",
+      "title": "Art. 2 pkt 10",
+      "content": "Użyte w ustawie określenia oznaczają: mors - sok surowy z owoców lub rozcieńczony sok z owoców uprzednio zagęszczony i utrwalony alkoholem etylowym rolniczym, o zawartości alkoholu nie mniejszej niż 16% obj. i nie większej niż 20% obj., stanowiący półprodukt do wyrobu napojów spirytusowych;"
+    },
+    {
+      "provision_ref": "art2p11",
+      "section": "2",
+      "title": "Art. 2 pkt 11",
+      "content": "Użyte w ustawie określenia oznaczają: zawartość alkoholu etylowego - stosunek objętości czystego alkoholu etylowego zawartego w danym napoju spirytusowym do całkowitej objętości tego napoju w temperaturze 20° Celsjusza, wyrażony jako „% obj.”;"
+    },
+    {
+      "provision_ref": "art2p12",
+      "section": "2",
+      "title": "Art. 2 pkt 12",
+      "content": "Użyte w ustawie określenia oznaczają: zawartość substancji lotnych - ilość substancji lotnych innych niż alkohol etylowy i metylowy, pochodzących wyłącznie z destylacji, zawarta w napoju spirytusowym uzyskanym wyłącznie w wyniku destylacji lub powtórnej destylacji (redestylacji) użytych surowców;"
+    },
+    {
+      "provision_ref": "art2p13",
+      "section": "2",
+      "title": "Art. 2 pkt 13",
+      "content": "Użyte w ustawie określenia oznaczają: zestawianie - zmieszanie co najmniej dwóch napojów spirytusowych, jak również zmieszanie półproduktów w celu uzyskania napoju spirytusowego."
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "Napojem spirytusowym jest płyn: 1) przeznaczony do spożycia; 2) zawierający alkohol etylowy w ilości nie mniejszej niż 15% obj., z wyjątkiem likieru jajecznego (advocaat) o zawartości alkoholu etylowego nie mniejszej niż 14% obj.; 3) uzyskany: a) bezpośrednio w wyniku destylacji po fermentacji alkoholowej produktów rolniczych lub w wyniku maceracji surowców roślinnych, z ewentualnym dodatkiem substancji aromatycznych lub cukrów, lub innych środków słodzących, lub produktów rolniczych do alkoholu etylowego rolniczego lub do destylatu rolniczego, lub do wódki naturalnej, albo b) w wyniku zestawienia napoju spirytusowego z jednym lub wieloma innymi napojami spirytusowymi lub c) w wyniku zmieszania napoju spirytusowego z: - alkoholem etylowym rolniczym, destylatem rolniczym lub wódką naturalną, lub - jednym lub wieloma napojami zawierającymi alkohol etylowy, lub - jednym lub wieloma różnymi napojami; 4) wykazujący zapach i smak charakterystyczne dla surowców użytych do jego wyrobu."
+      "content": "Napojem spirytusowym jest płyn: przeznaczony do spożycia; zawierający alkohol etylowy w ilości nie mniejszej niż 15% obj., z wyjątkiem likieru jajecznego (advocaat) o zawartości alkoholu etylowego nie mniejszej niż 14% obj.; uzyskany: bezpośrednio w wyniku destylacji po fermentacji alkoholowej produktów rolniczych lub w wyniku maceracji surowców roślinnych, z ewentualnym dodatkiem substancji aromatycznych lub cukrów, lub innych środków słodzących, lub produktów rolniczych do alkoholu etylowego rolniczego lub do destylatu rolniczego, lub do wódki naturalnej, albo w wyniku zestawienia napoju spirytusowego z jednym lub wieloma innymi napojami spirytusowymi lub w wyniku zmieszania napoju spirytusowego z: - alkoholem etylowym rolniczym, destylatem rolniczym lub wódką naturalną, lub - jednym lub wieloma napojami zawierającymi alkohol etylowy, lub - jednym lub wieloma różnymi napojami; wykazujący zapach i smak charakterystyczne dla surowców użytych do jego wyrobu."
+    },
+    {
+      "provision_ref": "art3p1",
+      "section": "3",
+      "title": "Art. 3 pkt 1",
+      "content": "Napojem spirytusowym jest płyn: przeznaczony do spożycia;"
+    },
+    {
+      "provision_ref": "art3p2",
+      "section": "3",
+      "title": "Art. 3 pkt 2",
+      "content": "Napojem spirytusowym jest płyn: zawierający alkohol etylowy w ilości nie mniejszej niż 15% obj., z wyjątkiem likieru jajecznego (advocaat) o zawartości alkoholu etylowego nie mniejszej niż 14% obj.;"
+    },
+    {
+      "provision_ref": "art3p3la",
+      "section": "3",
+      "title": "Art. 3 pkt 3 lit. a",
+      "content": "Napojem spirytusowym jest płyn: uzyskany: bezpośrednio w wyniku destylacji po fermentacji alkoholowej produktów rolniczych lub w wyniku maceracji surowców roślinnych, z ewentualnym dodatkiem substancji aromatycznych lub cukrów, lub innych środków słodzących, lub produktów rolniczych do alkoholu etylowego rolniczego lub do destylatu rolniczego, lub do wódki naturalnej, albo"
+    },
+    {
+      "provision_ref": "art3p3lb",
+      "section": "3",
+      "title": "Art. 3 pkt 3 lit. b",
+      "content": "Napojem spirytusowym jest płyn: uzyskany: w wyniku zestawienia napoju spirytusowego z jednym lub wieloma innymi napojami spirytusowymi lub"
+    },
+    {
+      "provision_ref": "art3p3lc",
+      "section": "3",
+      "title": "Art. 3 pkt 3 lit. c",
+      "content": "Napojem spirytusowym jest płyn: uzyskany: w wyniku zmieszania napoju spirytusowego z: - alkoholem etylowym rolniczym, destylatem rolniczym lub wódką naturalną, lub - jednym lub wieloma napojami zawierającymi alkohol etylowy, lub - jednym lub wieloma różnymi napojami;"
+    },
+    {
+      "provision_ref": "art3p4",
+      "section": "3",
+      "title": "Art. 3 pkt 4",
+      "content": "Napojem spirytusowym jest płyn: wykazujący zapach i smak charakterystyczne dla surowców użytych do jego wyrobu."
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "Do kategorii napojów spirytusowych zalicza się: 1) rum, będący: a) napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 37,5% obj., uzyskanym wyłącznie w wyniku fermentacji alkoholowej i destylacji melas lub syropów otrzymanych w procesie produkcji cukru trzcinowego, lub soków z trzciny cukrowej, destylowanym do osiągnięcia zawartości alkoholu etylowego mniejszej niż 96% obj. w sposób zapewniający zachowanie cech organoleptycznych właściwych dla rumu, b) napojem spirytusowym z trzciny cukrowej o zawartości alkoholu etylowego nie mniejszej niż 37,5% obj., uzyskanym wyłącznie w wyniku fermentacji alkoholowej i destylacji soku z trzciny cukrowej, posiadającym charakterystyczny dla rumu zapach, zawierającym substancje lotne w ilości nie mniejszej niż 225 gramów w hektolitrze alkoholu 100% obj.; 2) whisky, będącą napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 40% obj., uzyskanym z zacieru zbożowego scukrzonego przez zawarte w nim amylazy słodu lub przez dodanie naturalnych enzymów, który podlega fermentacji z udziałem drożdży i destylacji do osiągnięcia zawartości alkoholu etylowego mniejszej niż 94,8% obj. w sposób zapewniający zachowanie zapachu i smaku surowców użytych do jego wyrobu, a następnie leżakowaniu; 3) okowitę (wódkę naturalną): a) zbożową, będącą napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 35% obj., uzyskanym w wyniku destylacji przefermentowanego zacieru zbożowego, wykazującym cechy organoleptyczne pochodzące od surowców użytych do jego wyrobu, b) z wina gronowego, będącą napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 37,5% obj., uzyskanym wyłącznie w wyniku destylacji wina gronowego lub alkoholizowanego wina gronowego do osiągnięcia zawartości alkoholu etylowego mniejszej niż 86% obj., lub w wyniku redestylacji destylatu z wina gronowego do osiągnięcia zawartości alkoholu etylowego mniejszej niż 86% obj., zawierającym: - substancje lotne w ilości co najmniej 125 gramów w hektolitrze alkoholu 100% obj., - alkohol metylowy w ilości nie większej niż 200 gramów w hektolitrze alkoholu 100% obj., c) z wytłoków z winogron, będącą napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 37,5% obj., uzyskanym z wytłoków z winogron przefermentowanych, destylowanych lub redestylowanych bezpośrednio z parą wodną albo przy dodaniu wody do osiągnięcia zawartości alkoholu etylowego mniejszej niż 86% obj., zawierającym: - substancje lotne w ilości co najmniej 140 gramów w hektolitrze alkoholu 100% obj., - alkohol metylowy w ilości nie większej niż 1 000 gramów w hektolitrze alkoholu 100% obj., d) z wytłoków z owoców, będącą napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 37,5% obj., uzyskanym z wytłoków z owoców innych niż wytłoki z winogron winorośli właściwej (Vitis vinifera L.), przefermentowanych, destylowanych lub redestylowanych do osiągnięcia zawartości alkoholu etylowego mniejszej niż 86% obj., zawierającym: - substancje lotne w ilości co najmniej 200 gramów w hektolitrze alkoholu 100% obj., - alkohol metylowy w ilości nie większej niż 1 500 gramów w hektolitrze alkoholu 100% obj., - kwas cyjanowodorowy w ilości nie większej niż 10 gramów w hektolitrze alkoholu 100% obj. w przypadku wódek naturalnych z wytłoków owoców pestkowych, e) z rodzynków, będącą napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 37,5% obj., uzyskanym wyłącznie z suszonych winogron odmian „Czarna Koryntka” lub „Malaga Muskat” przefermentowanych i destylowanych do osiągnięcia zawartości alkoholu etylowego mniejszej niż 94,5% obj., zachowującym zapach i smak charakterystyczny dla surowców użytych do jego wyrobu, f) z owoców, będącą napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 37,5% obj., uzyskanym wyłącznie z miąższu owoców lub moszczu owocowego, z pestkami albo bez pestek, przefermentowanego i destylowanego do osiągnięcia zawartości alkoholu etylowego mniejszej niż 86% obj. lub uzyskanym przez macerację określonych jagód, lub innych owoców, które mogą być częściowo poddawane fermentacji w alkoholu etylowym rolniczym, w wódce naturalnej lub destylacie rolniczym, a następnie destylowanym, zachowującym zapach i smak charakterystyczne dla surowców użytych do jego wyrobu oraz zawierającym: - substancje lotne w ilości co najmniej 200 gramów w hektolitrze alkoholu 100% obj., - alkohol metylowy w ilości nie większej niż 1 000 gramów w hektolitrze alkoholu 100% obj., - kwas cyjanowodorowy w ilości nie większej niż 10 gramów w hektolitrze alkoholu 100% obj. w przypadku wódek z owoców pestkowych, g) z wina z jabłek albo z wina z gruszek, będącą napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 37,5% obj., uzyskanym wyłącznie przez destylację wina z jabłek albo wina z gruszek do osiągnięcia zawartości alkoholu etylowego mniejszej niż 86% obj., zachowującym zapach i smak charakterystyczny dla owocu użytego do jego wyrobu oraz zawierającym: - substancje lotne w ilości co najmniej 200 gramów w hektolitrze alkoholu 100% obj., - alkohol metylowy w ilości nie większej niż 1 000 gramów w hektolitrze alkoholu 100% obj., h) z goryczki, będącą napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 37,5% obj., uzyskanym wyłącznie z destylatu przefermentowanych korzeni goryczki, z ewentualnym dodatkiem alkoholu etylowego rolniczego; 4) brandy zbożową, będącą napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 35% obj., uzyskanym w wyniku destylacji przefermentowanego zacieru zbożowego do osiągnięcia zawartości alkoholu etylowego mniejszej niż 95% obj., zachowującym cechy organoleptyczne charakterystyczne dla surowców użytych do jego wyrobu; 5) brandy, będącą napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 36% obj., uzyskanym z wódki naturalnej z wina gronowego, który może być zmieszany z destylatem z wina gronowego destylowanym do osiągnięcia zawartości alkoholu etylowego mniejszej niż 94,8% obj., z tym że ilość alkoholu zawartego w destylacie nie może przekroczyć 50% alkoholu zawartego w wyrobie gotowym, oraz zawierającym: a) substancje lotne w ilości co najmniej 125 gramów w hektolitrze alkoholu 100% obj., z tym że substancje lotne mogą pochodzić wyłącznie z destylacji lub redestylacji użytych surowców, b) alkohol metylowy w ilości nie większej niż 200 gramów w hektolitrze alkoholu 100% obj.; 6) napój spirytusowy owocowy, będący napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 25% obj., uzyskanym w wyniku maceracji owoców w alkoholu etylowym rolniczym lub destylacie rolniczym, lub wódce naturalnej, ewentualnie aromatyzowanym naturalnymi substancjami aromatycznymi lub preparatami aromatycznymi innymi niż pochodzące z owoców użytych do jego wyrobu, o charakterystycznym smaku i barwie pochodzących wyłącznie od owocu będącego podstawą jego wyrobu; 7) napój spirytusowy jałowcowy, będący: a) napojem spirytusowym uzyskanym w wyniku aromatyzacji jagodami jałowca (Juniperus communis) alkoholu etylowego rolniczego lub wódki naturalnej zbożowej, lub destylatu zbożowego, o cechach organoleptycznych charakterystycznych dla jagód jałowca, b) ginem, to jest napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 37,5% obj., uzyskanym w wyniku aromatyzacji alkoholu etylowego rolniczego o pożądanych cechach organoleptycznych i jakościowych naturalnymi substancjami aromatycznymi lub substancjami aromatycznymi identycznymi z naturalnymi, lub preparatami aromatycznymi, o smaku jagód jałowca jako smaku dominującym, c) ginem destylowanym, to jest napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 37,5% obj., uzyskanym wyłącznie w wyniku redestylacji alkoholu etylowego rolniczego o pożądanych cechach organoleptycznych i jakościowych oraz o początkowej zawartości alkoholu etylowego nie mniejszej niż 96% obj., w obecności jagód jałowca i innych naturalnych produktów roślinnych, o smaku jagód jałowca jako smaku dominującym, z zastrzeżeniem art. 16 ust. 1; 8) napój spirytusowy kminkowy, będący napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 30% obj., uzyskanym w wyniku aromatyzacji kminkiem (Carum carvi L.) alkoholu etylowego rolniczego; 9) napój spirytusowy anyżowy, będący napojem spirytusowym uzyskanym w wyniku aromatyzacji alkoholu etylowego rolniczego ekstraktami naturalnymi anyżu gwiazdkowatego (lllicium verum) lub anyżu zielonego (Pimpinella anisum), lub kopru włoskiego (Foeniculum vulgare), lub innych roślin zawierających ten sam składnik aromatyzujący; 10) napój spirytusowy gorzki (bitter), będący napojem spirytusowym o dominującym gorzkim smaku, uzyskanym wyłącznie w wyniku aromatyzacji alkoholu etylowego rolniczego naturalnymi substancjami aromatycznymi lub substancjami aromatycznymi identycznymi z naturalnymi, lub preparatami aromatycznymi; 11) wódkę, będącą: a) napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 37,5% obj., uzyskanym z alkoholu etylowego rolniczego rektyfikowanego lub filtrowanego przez węgiel aktywowany, w tym przypadku poddanego destylacji lub równoważnej obróbce dla selektywnego zredukowania cech użytych surowców, ewentualnie aromatyzowanym w celu nadania mu specyficznych cech organoleptycznych, w szczególności łagodnego smaku, b) wódką ziołową aromatyzowaną ekstraktem z trawy żubrowej, to jest napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 40% obj., uzyskanym wyłącznie przez aromatyzowanie alkoholu etylowego rolniczego o zawartości alkoholu nie mniejszej niż 96,5% obj. maceratem trawy żubrowej (Hierochloe odorata i Hierochloe australis) dziko rosnącej w Puszczy Białowieskiej, o zawartości cukru nie większej niż 4,5 grama na litr w przeliczeniu na cukier inwertowany, wyprodukowanym na terytorium Rzeczypospolitej Polskiej w regionie Niziny Północnopodlaskiej, z polskich surowców; 12) likier, będący: a) napojem spirytusowym uzyskanym w wyniku aromatyzowania alkoholu etylowego rolniczego lub destylatu rolniczego, lub jednego lub większej liczby napojów spirytusowych, lub mieszanki wymienionych produktów, i dosłodzonym, przy czym do uzyskanego w ten sposób napoju jest dozwolone dodanie produktów rolniczych, w szczególności śmietany, mleka lub innych przetworów mlecznych, owoców, wina gronowego, wina gronowego aromatyzowanego, o zawartości cukru: - co najmniej 100 gramów na litr w przeliczeniu na cukier inwertowany, - nie mniejszej niż 80 gramów w litrze napoju dla likieru z goryczki, jeżeli goryczka jest jedyną użytą substancją aromatyczną, - nie mniejszej niż 70 gramów w litrze napoju dla likieru z owoców wiśni, jeżeli zawarty w nim alkohol etylowy pochodzi wyłącznie z destylatu rolniczego z owoców wiśni, b) polish cherry, to jest napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 24% obj., wyprodukowanym na terytorium Rzeczypospolitej Polskiej z morsu oraz maceratu wiśni z niewielkim dodatkiem morsów z innych owoców jagodowych oraz naturalnego olejku migdałowego, o zawartości ekstraktu nie mniejszej niż 340 gramów w litrze napoju, o charakterystycznych cechach organoleptycznych pochodzących od owoców sokowych wiśni uprawianych na terytorium Rzeczypospolitej Polskiej; 13) krem będący napojem spirytusowym określonym w pkt 12 lit. a o zawartości cukru nie mniejszej niż 250 gramów w litrze w przeliczeniu na cukier inwertowany, uzyskany bez dodatku przetworów mlecznych; 14) likier jajeczny (advocaat), będący napojem spirytusowym uzyskanym z alkoholu etylowego rolniczego, z dodatkiem żółtka jaja, białka jaja, cukru lub miodu, zawierającym: a) ewentualny dodatek substancji aromatycznych, b) w litrze wyrobu gotowego nie mniej niż 140 gramów żółtka jaja oraz 150 gramów cukru lub miodu; 15) likier z dodatkiem jaj, będący napojem spirytusowym uzyskanym z alkoholu etylowego rolniczego, z dodatkiem żółtka jaja, białka jaja, cukru lub miodu, zawierającym w litrze wyrobu gotowego nie mniej niż 70 gramów żółtka jaja oraz 150 gramów cukru l"
+      "content": "Do kategorii napojów spirytusowych zalicza się: rum, będący: napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 37,5% obj., uzyskanym wyłącznie w wyniku fermentacji alkoholowej i destylacji melas lub syropów otrzymanych w procesie produkcji cukru trzcinowego, lub soków z trzciny cukrowej, destylowanym do osiągnięcia zawartości alkoholu etylowego mniejszej niż 96% obj. w sposób zapewniający zachowanie cech organoleptycznych właściwych dla rumu, napojem spirytusowym z trzciny cukrowej o zawartości alkoholu etylowego nie mniejszej niż 37,5% obj., uzyskanym wyłącznie w wyniku fermentacji alkoholowej i destylacji soku z trzciny cukrowej, posiadającym charakterystyczny dla rumu zapach, zawierającym substancje lotne w ilości nie mniejszej niż 225 gramów w hektolitrze alkoholu 100% obj.; whisky, będącą napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 40% obj., uzyskanym z zacieru zbożowego scukrzonego przez zawarte w nim amylazy słodu lub przez dodanie naturalnych enzymów, który podlega fermentacji z udziałem drożdży i destylacji do osiągnięcia zawartości alkoholu etylowego mniejszej niż 94,8% obj. w sposób zapewniający zachowanie zapachu i smaku surowców użytych do jego wyrobu, a następnie leżakowaniu; okowitę (wódkę naturalną): zbożową, będącą napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 35% obj., uzyskanym w wyniku destylacji przefermentowanego zacieru zbożowego, wykazującym cechy organoleptyczne pochodzące od surowców użytych do jego wyrobu, z wina gronowego, będącą napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 37,5% obj., uzyskanym wyłącznie w wyniku destylacji wina gronowego lub alkoholizowanego wina gronowego do osiągnięcia zawartości alkoholu etylowego mniejszej niż 86% obj., lub w wyniku redestylacji destylatu z wina gronowego do osiągnięcia zawartości alkoholu etylowego mniejszej niż 86% obj., zawierającym: - substancje lotne w ilości co najmniej 125 gramów w hektolitrze alkoholu 100% obj., - alkohol metylowy w ilości nie większej niż 200 gramów w hektolitrze alkoholu 100% obj., z wytłoków z winogron, będącą napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 37,5% obj., uzyskanym z wytłoków z winogron przefermentowanych, destylowanych lub redestylowanych bezpośrednio z parą wodną albo przy dodaniu wody do osiągnięcia zawartości alkoholu etylowego mniejszej niż 86% obj., zawierającym: - substancje lotne w ilości co najmniej 140 gramów w hektolitrze alkoholu 100% obj., - alkohol metylowy w ilości nie większej niż 1 000 gramów w hektolitrze alkoholu 100% obj., z wytłoków z owoców, będącą napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 37,5% obj., uzyskanym z wytłoków z owoców innych niż wytłoki z winogron winorośli właściwej (Vitis vinifera L.), przefermentowanych, destylowanych lub redestylowanych do osiągnięcia zawartości alkoholu etylowego mniejszej niż 86% obj., zawierającym: - substancje lotne w ilości co najmniej 200 gramów w hektolitrze alkoholu 100% obj., - alkohol metylowy w ilości nie większej niż 1 500 gramów w hektolitrze alkoholu 100% obj., - kwas cyjanowodorowy w ilości nie większej niż 10 gramów w hektolitrze alkoholu 100% obj. w przypadku wódek naturalnych z wytłoków owoców pestkowych, z rodzynków, będącą napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 37,5% obj., uzyskanym wyłącznie z suszonych winogron odmian „Czarna Koryntka” lub „Malaga Muskat” przefermentowanych i destylowanych do osiągnięcia zawartości alkoholu etylowego mniejszej niż 94,5% obj., zachowującym zapach i smak charakterystyczny dla surowców użytych do jego wyrobu, z owoców, będącą napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 37,5% obj., uzyskanym wyłącznie z miąższu owoców lub moszczu owocowego, z pestkami albo bez pestek, przefermentowanego i destylowanego do osiągnięcia zawartości alkoholu etylowego mniejszej niż 86% obj. lub uzyskanym przez macerację określonych jagód, lub innych owoców, które mogą być częściowo poddawane fermentacji w alkoholu etylowym rolniczym, w wódce naturalnej lub destylacie rolniczym, a następnie destylowanym, zachowującym zapach i smak charakterystyczne dla surowców użytych do jego wyrobu oraz zawierającym: - substancje lotne w ilości co najmniej 200 gramów w hektolitrze alkoholu 100% obj., - alkohol metylowy w ilości nie większej niż 1 000 gramów w hektolitrze alkoholu 100% obj., - kwas cyjanowodorowy w ilości nie większej niż 10 gramów w hektolitrze alkoholu 100% obj. w przypadku wódek z owoców pestkowych, z wina z jabłek albo z wina z gruszek, będącą napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 37,5% obj., uzyskanym wyłącznie przez destylację wina z jabłek albo wina z gruszek do osiągnięcia zawartości alkoholu etylowego mniejszej niż 86% obj., zachowującym zapach i smak charakterystyczny dla owocu użytego do jego wyrobu oraz zawierającym: - substancje lotne w ilości co najmniej 200 gramów w hektolitrze alkoholu 100% obj., - alkohol metylowy w ilości nie większej niż 1 000 gramów w hektolitrze alkoholu 100% obj., z goryczki, będącą napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 37,5% obj., uzyskanym wyłącznie z destylatu przefermentowanych korzeni goryczki, z ewentualnym dodatkiem alkoholu etylowego rolniczego; brandy zbożową, będącą napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 35% obj., uzyskanym w wyniku destylacji przefermentowanego zacieru zbożowego do osiągnięcia zawartości alkoholu etylowego mniejszej niż 95% obj., zachowującym cechy organoleptyczne charakterystyczne dla surowców użytych do jego wyrobu; brandy, będącą napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 36% obj., uzyskanym z wódki naturalnej z wina gronowego, który może być zmieszany z destylatem z wina gronowego destylowanym do osiągnięcia zawartości alkoholu etylowego mniejszej niż 94,8% obj., z tym że ilość alkoholu zawartego w destylacie nie może przekroczyć 50% alkoholu zawartego w wyrobie gotowym, oraz zawierającym: substancje lotne w ilości co najmniej 125 gramów w hektolitrze alkoholu 100% obj., z tym że substancje lotne mogą pochodzić wyłącznie z destylacji lub redestylacji użytych surowców, alkohol metylowy w ilości nie większej niż 200 gramów w hektolitrze alkoholu 100% obj.; napój spirytusowy owocowy, będący napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 25% obj., uzyskanym w wyniku maceracji owoców w alkoholu etylowym rolniczym lub destylacie rolniczym, lub wódce naturalnej, ewentualnie aromatyzowanym naturalnymi substancjami aromatycznymi lub preparatami aromatycznymi innymi niż pochodzące z owoców użytych do jego wyrobu, o charakterystycznym smaku i barwie pochodzących wyłącznie od owocu będącego podstawą jego wyrobu; napój spirytusowy jałowcowy, będący: napojem spirytusowym uzyskanym w wyniku aromatyzacji jagodami jałowca (Juniperus communis) alkoholu etylowego rolniczego lub wódki naturalnej zbożowej, lub destylatu zbożowego, o cechach organoleptycznych charakterystycznych dla jagód jałowca, ginem, to jest napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 37,5% obj., uzyskanym w wyniku aromatyzacji alkoholu etylowego rolniczego o pożądanych cechach organoleptycznych i jakościowych naturalnymi substancjami aromatycznymi lub substancjami aromatycznymi identycznymi z naturalnymi, lub preparatami aromatycznymi, o smaku jagód jałowca jako smaku dominującym, ginem destylowanym, to jest napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 37,5% obj., uzyskanym wyłącznie w wyniku redestylacji alkoholu etylowego rolniczego o pożądanych cechach organoleptycznych i jakościowych oraz o początkowej zawartości alkoholu etylowego nie mniejszej niż 96% obj., w obecności jagód jałowca i innych naturalnych produktów roślinnych, o smaku jagód jałowca jako smaku dominującym, z zastrzeżeniem art. 16 ust. 1; napój spirytusowy kminkowy, będący napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 30% obj., uzyskanym w wyniku aromatyzacji kminkiem (Carum carvi L.) alkoholu etylowego rolniczego; napój spirytusowy anyżowy, będący napojem spirytusowym uzyskanym w wyniku aromatyzacji alkoholu etylowego rolniczego ekstraktami naturalnymi anyżu gwiazdkowatego (lllicium verum) lub anyżu zielonego (Pimpinella anisum), lub kopru włoskiego (Foeniculum vulgare), lub innych roślin zawierających ten sam składnik aromatyzujący; napój spirytusowy gorzki (bitter), będący napojem spirytusowym o dominującym gorzkim smaku, uzyskanym wyłącznie w wyniku aromatyzacji alkoholu etylowego rolniczego naturalnymi substancjami aromatycznymi lub substancjami aromatycznymi identycznymi z naturalnymi, lub preparatami aromatycznymi; wódkę, będącą: napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 37,5% obj., uzyskanym z alkoholu etylowego rolniczego rektyfikowanego lub filtrowanego przez węgiel aktywowany, w tym przypadku poddanego destylacji lub równoważnej obróbce dla selektywnego zredukowania cech użytych surowców, ewentualnie aromatyzowanym w celu nadania mu specyficznych cech organoleptycznych, w szczególności łagodnego smaku, wódką ziołową aromatyzowaną ekstraktem z trawy żubrowej, to jest napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 40% obj., uzyskanym wyłącznie przez aromatyzowanie alkoholu etylowego rolniczego o zawartości alkoholu nie mniejszej niż 96,5% obj. maceratem trawy żubrowej (Hierochloe odorata i Hierochloe australis) dziko rosnącej w Puszczy Białowieskiej, o zawartości cukru nie większej niż 4,5 grama na litr w przeliczeniu na cukier inwertowany, wyprodukowanym na terytorium Rzeczypospolitej Polskiej w regionie Niziny Północnopodlaskiej, z polskich surowców; likier, będący: napojem spirytusowym uzyskanym w wyniku aromatyzowania alkoholu etylowego rolniczego lub destylatu rolniczego, lub jednego lub większej liczby napojów spirytusowych, lub mieszanki wymienionych produktów, i dosłodzonym, przy czym do uzyskanego w ten sposób napoju jest dozwolone dodanie produktów rolniczych, w szczególności śmietany, mleka lub innych przetworów mlecznych, owoców, wina gronowego, wina gronowego aromatyzowanego, o zawartości cukru: - co najmniej 100 gramów na litr w przeliczeniu na cukier inwertowany, - nie mniejszej niż 80 gramów w litrze napoju dla likieru z goryczki, jeżeli goryczka jest jedyną użytą substancją aromatyczną, - nie mniejszej niż 70 gramów w litrze napoju dla likieru z owoców wiśni, jeżeli zawarty w nim alkohol etylowy pochodzi wyłącznie z destylatu rolniczego z owoców wiśni, polish cherry, to jest napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 24% obj., wyprodukowanym na terytorium Rzeczypospolitej Polskiej z morsu oraz maceratu wiśni z niewielkim dodatkiem morsów z innych owoców jagodowych oraz naturalnego olejku migdałowego, o zawartości ekstraktu nie mniejszej niż 340 gramów w litrze napoju, o charakterystycznych cechach organoleptycznych pochodzących od owoców sokowych wiśni uprawianych na terytorium Rzeczypospolitej Polskiej; krem będący napojem spirytusowym określonym w pkt 12 lit. a o zawartości cukru nie mniejszej niż 250 gramów w litrze w przeliczeniu na cukier inwertowany, uzyskany bez dodatku przetworów mlecznych; likier jajeczny (advocaat), będący napojem spirytusowym uzyskanym z alkoholu etylowego rolniczego, z dodatkiem żółtka jaja, białka jaja, cukru lub miodu, zawierającym: ewentualny dodatek substancji aromatycznych, w litrze wyrobu gotowego nie mniej niż 140 gramów żółtka jaja oraz 150 gramów cukru lub miodu; likier z dodatkiem jaj, będący napojem spirytusowym uzyskanym z alkoholu etylowego rolniczego, z dodatkiem żółtka jaja, białka jaja, cukru lub miodu, zawierającym w litrze wyrobu gotowego nie mniej niż 70 gramów żółtka jaja oraz 150 gramów cukru lub miodu, a także, ewentualnie, zawierającym dodatek substancji aromatycznych."
+    },
+    {
+      "provision_ref": "art4p1la",
+      "section": "4",
+      "title": "Art. 4 pkt 1 lit. a",
+      "content": "Do kategorii napojów spirytusowych zalicza się: rum, będący: napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 37,5% obj., uzyskanym wyłącznie w wyniku fermentacji alkoholowej i destylacji melas lub syropów otrzymanych w procesie produkcji cukru trzcinowego, lub soków z trzciny cukrowej, destylowanym do osiągnięcia zawartości alkoholu etylowego mniejszej niż 96% obj. w sposób zapewniający zachowanie cech organoleptycznych właściwych dla rumu,"
+    },
+    {
+      "provision_ref": "art4p1lb",
+      "section": "4",
+      "title": "Art. 4 pkt 1 lit. b",
+      "content": "Do kategorii napojów spirytusowych zalicza się: rum, będący: napojem spirytusowym z trzciny cukrowej o zawartości alkoholu etylowego nie mniejszej niż 37,5% obj., uzyskanym wyłącznie w wyniku fermentacji alkoholowej i destylacji soku z trzciny cukrowej, posiadającym charakterystyczny dla rumu zapach, zawierającym substancje lotne w ilości nie mniejszej niż 225 gramów w hektolitrze alkoholu 100% obj.;"
+    },
+    {
+      "provision_ref": "art4p2",
+      "section": "4",
+      "title": "Art. 4 pkt 2",
+      "content": "Do kategorii napojów spirytusowych zalicza się: whisky, będącą napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 40% obj., uzyskanym z zacieru zbożowego scukrzonego przez zawarte w nim amylazy słodu lub przez dodanie naturalnych enzymów, który podlega fermentacji z udziałem drożdży i destylacji do osiągnięcia zawartości alkoholu etylowego mniejszej niż 94,8% obj. w sposób zapewniający zachowanie zapachu i smaku surowców użytych do jego wyrobu, a następnie leżakowaniu;"
+    },
+    {
+      "provision_ref": "art4p3la",
+      "section": "4",
+      "title": "Art. 4 pkt 3 lit. a",
+      "content": "Do kategorii napojów spirytusowych zalicza się: okowitę (wódkę naturalną): zbożową, będącą napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 35% obj., uzyskanym w wyniku destylacji przefermentowanego zacieru zbożowego, wykazującym cechy organoleptyczne pochodzące od surowców użytych do jego wyrobu,"
+    },
+    {
+      "provision_ref": "art4p3lb",
+      "section": "4",
+      "title": "Art. 4 pkt 3 lit. b",
+      "content": "Do kategorii napojów spirytusowych zalicza się: okowitę (wódkę naturalną): z wina gronowego, będącą napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 37,5% obj., uzyskanym wyłącznie w wyniku destylacji wina gronowego lub alkoholizowanego wina gronowego do osiągnięcia zawartości alkoholu etylowego mniejszej niż 86% obj., lub w wyniku redestylacji destylatu z wina gronowego do osiągnięcia zawartości alkoholu etylowego mniejszej niż 86% obj., zawierającym: - substancje lotne w ilości co najmniej 125 gramów w hektolitrze alkoholu 100% obj., - alkohol metylowy w ilości nie większej niż 200 gramów w hektolitrze alkoholu 100% obj.,"
+    },
+    {
+      "provision_ref": "art4p3lc",
+      "section": "4",
+      "title": "Art. 4 pkt 3 lit. c",
+      "content": "Do kategorii napojów spirytusowych zalicza się: okowitę (wódkę naturalną): z wytłoków z winogron, będącą napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 37,5% obj., uzyskanym z wytłoków z winogron przefermentowanych, destylowanych lub redestylowanych bezpośrednio z parą wodną albo przy dodaniu wody do osiągnięcia zawartości alkoholu etylowego mniejszej niż 86% obj., zawierającym: - substancje lotne w ilości co najmniej 140 gramów w hektolitrze alkoholu 100% obj., - alkohol metylowy w ilości nie większej niż 1 000 gramów w hektolitrze alkoholu 100% obj.,"
+    },
+    {
+      "provision_ref": "art4p3ld",
+      "section": "4",
+      "title": "Art. 4 pkt 3 lit. d",
+      "content": "Do kategorii napojów spirytusowych zalicza się: okowitę (wódkę naturalną): z wytłoków z owoców, będącą napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 37,5% obj., uzyskanym z wytłoków z owoców innych niż wytłoki z winogron winorośli właściwej (Vitis vinifera L.), przefermentowanych, destylowanych lub redestylowanych do osiągnięcia zawartości alkoholu etylowego mniejszej niż 86% obj., zawierającym: - substancje lotne w ilości co najmniej 200 gramów w hektolitrze alkoholu 100% obj., - alkohol metylowy w ilości nie większej niż 1 500 gramów w hektolitrze alkoholu 100% obj., - kwas cyjanowodorowy w ilości nie większej niż 10 gramów w hektolitrze alkoholu 100% obj. w przypadku wódek naturalnych z wytłoków owoców pestkowych,"
+    },
+    {
+      "provision_ref": "art4p3le",
+      "section": "4",
+      "title": "Art. 4 pkt 3 lit. e",
+      "content": "Do kategorii napojów spirytusowych zalicza się: okowitę (wódkę naturalną): z rodzynków, będącą napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 37,5% obj., uzyskanym wyłącznie z suszonych winogron odmian „Czarna Koryntka” lub „Malaga Muskat” przefermentowanych i destylowanych do osiągnięcia zawartości alkoholu etylowego mniejszej niż 94,5% obj., zachowującym zapach i smak charakterystyczny dla surowców użytych do jego wyrobu,"
+    },
+    {
+      "provision_ref": "art4p3lf",
+      "section": "4",
+      "title": "Art. 4 pkt 3 lit. f",
+      "content": "Do kategorii napojów spirytusowych zalicza się: okowitę (wódkę naturalną): z owoców, będącą napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 37,5% obj., uzyskanym wyłącznie z miąższu owoców lub moszczu owocowego, z pestkami albo bez pestek, przefermentowanego i destylowanego do osiągnięcia zawartości alkoholu etylowego mniejszej niż 86% obj. lub uzyskanym przez macerację określonych jagód, lub innych owoców, które mogą być częściowo poddawane fermentacji w alkoholu etylowym rolniczym, w wódce naturalnej lub destylacie rolniczym, a następnie destylowanym, zachowującym zapach i smak charakterystyczne dla surowców użytych do jego wyrobu oraz zawierającym: - substancje lotne w ilości co najmniej 200 gramów w hektolitrze alkoholu 100% obj., - alkohol metylowy w ilości nie większej niż 1 000 gramów w hektolitrze alkoholu 100% obj., - kwas cyjanowodorowy w ilości nie większej niż 10 gramów w hektolitrze alkoholu 100% obj. w przypadku wódek z owoców pestkowych,"
+    },
+    {
+      "provision_ref": "art4p3lg",
+      "section": "4",
+      "title": "Art. 4 pkt 3 lit. g",
+      "content": "Do kategorii napojów spirytusowych zalicza się: okowitę (wódkę naturalną): z wina z jabłek albo z wina z gruszek, będącą napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 37,5% obj., uzyskanym wyłącznie przez destylację wina z jabłek albo wina z gruszek do osiągnięcia zawartości alkoholu etylowego mniejszej niż 86% obj., zachowującym zapach i smak charakterystyczny dla owocu użytego do jego wyrobu oraz zawierającym: - substancje lotne w ilości co najmniej 200 gramów w hektolitrze alkoholu 100% obj., - alkohol metylowy w ilości nie większej niż 1 000 gramów w hektolitrze alkoholu 100% obj.,"
+    },
+    {
+      "provision_ref": "art4p3lh",
+      "section": "4",
+      "title": "Art. 4 pkt 3 lit. h",
+      "content": "Do kategorii napojów spirytusowych zalicza się: okowitę (wódkę naturalną): z goryczki, będącą napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 37,5% obj., uzyskanym wyłącznie z destylatu przefermentowanych korzeni goryczki, z ewentualnym dodatkiem alkoholu etylowego rolniczego;"
+    },
+    {
+      "provision_ref": "art4p4",
+      "section": "4",
+      "title": "Art. 4 pkt 4",
+      "content": "Do kategorii napojów spirytusowych zalicza się: brandy zbożową, będącą napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 35% obj., uzyskanym w wyniku destylacji przefermentowanego zacieru zbożowego do osiągnięcia zawartości alkoholu etylowego mniejszej niż 95% obj., zachowującym cechy organoleptyczne charakterystyczne dla surowców użytych do jego wyrobu;"
+    },
+    {
+      "provision_ref": "art4p5la",
+      "section": "4",
+      "title": "Art. 4 pkt 5 lit. a",
+      "content": "Do kategorii napojów spirytusowych zalicza się: brandy, będącą napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 36% obj., uzyskanym z wódki naturalnej z wina gronowego, który może być zmieszany z destylatem z wina gronowego destylowanym do osiągnięcia zawartości alkoholu etylowego mniejszej niż 94,8% obj., z tym że ilość alkoholu zawartego w destylacie nie może przekroczyć 50% alkoholu zawartego w wyrobie gotowym, oraz zawierającym: substancje lotne w ilości co najmniej 125 gramów w hektolitrze alkoholu 100% obj., z tym że substancje lotne mogą pochodzić wyłącznie z destylacji lub redestylacji użytych surowców,"
+    },
+    {
+      "provision_ref": "art4p5lb",
+      "section": "4",
+      "title": "Art. 4 pkt 5 lit. b",
+      "content": "Do kategorii napojów spirytusowych zalicza się: brandy, będącą napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 36% obj., uzyskanym z wódki naturalnej z wina gronowego, który może być zmieszany z destylatem z wina gronowego destylowanym do osiągnięcia zawartości alkoholu etylowego mniejszej niż 94,8% obj., z tym że ilość alkoholu zawartego w destylacie nie może przekroczyć 50% alkoholu zawartego w wyrobie gotowym, oraz zawierającym: alkohol metylowy w ilości nie większej niż 200 gramów w hektolitrze alkoholu 100% obj.;"
+    },
+    {
+      "provision_ref": "art4p6",
+      "section": "4",
+      "title": "Art. 4 pkt 6",
+      "content": "Do kategorii napojów spirytusowych zalicza się: napój spirytusowy owocowy, będący napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 25% obj., uzyskanym w wyniku maceracji owoców w alkoholu etylowym rolniczym lub destylacie rolniczym, lub wódce naturalnej, ewentualnie aromatyzowanym naturalnymi substancjami aromatycznymi lub preparatami aromatycznymi innymi niż pochodzące z owoców użytych do jego wyrobu, o charakterystycznym smaku i barwie pochodzących wyłącznie od owocu będącego podstawą jego wyrobu;"
+    },
+    {
+      "provision_ref": "art4p7la",
+      "section": "4",
+      "title": "Art. 4 pkt 7 lit. a",
+      "content": "Do kategorii napojów spirytusowych zalicza się: napój spirytusowy jałowcowy, będący: napojem spirytusowym uzyskanym w wyniku aromatyzacji jagodami jałowca (Juniperus communis) alkoholu etylowego rolniczego lub wódki naturalnej zbożowej, lub destylatu zbożowego, o cechach organoleptycznych charakterystycznych dla jagód jałowca,"
+    },
+    {
+      "provision_ref": "art4p7lb",
+      "section": "4",
+      "title": "Art. 4 pkt 7 lit. b",
+      "content": "Do kategorii napojów spirytusowych zalicza się: napój spirytusowy jałowcowy, będący: ginem, to jest napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 37,5% obj., uzyskanym w wyniku aromatyzacji alkoholu etylowego rolniczego o pożądanych cechach organoleptycznych i jakościowych naturalnymi substancjami aromatycznymi lub substancjami aromatycznymi identycznymi z naturalnymi, lub preparatami aromatycznymi, o smaku jagód jałowca jako smaku dominującym,"
+    },
+    {
+      "provision_ref": "art4p7lc",
+      "section": "4",
+      "title": "Art. 4 pkt 7 lit. c",
+      "content": "Do kategorii napojów spirytusowych zalicza się: napój spirytusowy jałowcowy, będący: ginem destylowanym, to jest napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 37,5% obj., uzyskanym wyłącznie w wyniku redestylacji alkoholu etylowego rolniczego o pożądanych cechach organoleptycznych i jakościowych oraz o początkowej zawartości alkoholu etylowego nie mniejszej niż 96% obj., w obecności jagód jałowca i innych naturalnych produktów roślinnych, o smaku jagód jałowca jako smaku dominującym, z zastrzeżeniem art. 16 ust. 1;"
+    },
+    {
+      "provision_ref": "art4p8",
+      "section": "4",
+      "title": "Art. 4 pkt 8",
+      "content": "Do kategorii napojów spirytusowych zalicza się: napój spirytusowy kminkowy, będący napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 30% obj., uzyskanym w wyniku aromatyzacji kminkiem (Carum carvi L.) alkoholu etylowego rolniczego;"
+    },
+    {
+      "provision_ref": "art4p9",
+      "section": "4",
+      "title": "Art. 4 pkt 9",
+      "content": "Do kategorii napojów spirytusowych zalicza się: napój spirytusowy anyżowy, będący napojem spirytusowym uzyskanym w wyniku aromatyzacji alkoholu etylowego rolniczego ekstraktami naturalnymi anyżu gwiazdkowatego (lllicium verum) lub anyżu zielonego (Pimpinella anisum), lub kopru włoskiego (Foeniculum vulgare), lub innych roślin zawierających ten sam składnik aromatyzujący;"
+    },
+    {
+      "provision_ref": "art4p10",
+      "section": "4",
+      "title": "Art. 4 pkt 10",
+      "content": "Do kategorii napojów spirytusowych zalicza się: napój spirytusowy gorzki (bitter), będący napojem spirytusowym o dominującym gorzkim smaku, uzyskanym wyłącznie w wyniku aromatyzacji alkoholu etylowego rolniczego naturalnymi substancjami aromatycznymi lub substancjami aromatycznymi identycznymi z naturalnymi, lub preparatami aromatycznymi;"
+    },
+    {
+      "provision_ref": "art4p11la",
+      "section": "4",
+      "title": "Art. 4 pkt 11 lit. a",
+      "content": "Do kategorii napojów spirytusowych zalicza się: wódkę, będącą: napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 37,5% obj., uzyskanym z alkoholu etylowego rolniczego rektyfikowanego lub filtrowanego przez węgiel aktywowany, w tym przypadku poddanego destylacji lub równoważnej obróbce dla selektywnego zredukowania cech użytych surowców, ewentualnie aromatyzowanym w celu nadania mu specyficznych cech organoleptycznych, w szczególności łagodnego smaku,"
+    },
+    {
+      "provision_ref": "art4p11lb",
+      "section": "4",
+      "title": "Art. 4 pkt 11 lit. b",
+      "content": "Do kategorii napojów spirytusowych zalicza się: wódkę, będącą: wódką ziołową aromatyzowaną ekstraktem z trawy żubrowej, to jest napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 40% obj., uzyskanym wyłącznie przez aromatyzowanie alkoholu etylowego rolniczego o zawartości alkoholu nie mniejszej niż 96,5% obj. maceratem trawy żubrowej (Hierochloe odorata i Hierochloe australis) dziko rosnącej w Puszczy Białowieskiej, o zawartości cukru nie większej niż 4,5 grama na litr w przeliczeniu na cukier inwertowany, wyprodukowanym na terytorium Rzeczypospolitej Polskiej w regionie Niziny Północnopodlaskiej, z polskich surowców;"
+    },
+    {
+      "provision_ref": "art4p12la",
+      "section": "4",
+      "title": "Art. 4 pkt 12 lit. a",
+      "content": "Do kategorii napojów spirytusowych zalicza się: likier, będący: napojem spirytusowym uzyskanym w wyniku aromatyzowania alkoholu etylowego rolniczego lub destylatu rolniczego, lub jednego lub większej liczby napojów spirytusowych, lub mieszanki wymienionych produktów, i dosłodzonym, przy czym do uzyskanego w ten sposób napoju jest dozwolone dodanie produktów rolniczych, w szczególności śmietany, mleka lub innych przetworów mlecznych, owoców, wina gronowego, wina gronowego aromatyzowanego, o zawartości cukru: - co najmniej 100 gramów na litr w przeliczeniu na cukier inwertowany, - nie mniejszej niż 80 gramów w litrze napoju dla likieru z goryczki, jeżeli goryczka jest jedyną użytą substancją aromatyczną, - nie mniejszej niż 70 gramów w litrze napoju dla likieru z owoców wiśni, jeżeli zawarty w nim alkohol etylowy pochodzi wyłącznie z destylatu rolniczego z owoców wiśni,"
+    },
+    {
+      "provision_ref": "art4p12lb",
+      "section": "4",
+      "title": "Art. 4 pkt 12 lit. b",
+      "content": "Do kategorii napojów spirytusowych zalicza się: likier, będący: polish cherry, to jest napojem spirytusowym o zawartości alkoholu etylowego nie mniejszej niż 24% obj., wyprodukowanym na terytorium Rzeczypospolitej Polskiej z morsu oraz maceratu wiśni z niewielkim dodatkiem morsów z innych owoców jagodowych oraz naturalnego olejku migdałowego, o zawartości ekstraktu nie mniejszej niż 340 gramów w litrze napoju, o charakterystycznych cechach organoleptycznych pochodzących od owoców sokowych wiśni uprawianych na terytorium Rzeczypospolitej Polskiej;"
+    },
+    {
+      "provision_ref": "art4p13",
+      "section": "4",
+      "title": "Art. 4 pkt 13",
+      "content": "Do kategorii napojów spirytusowych zalicza się: krem będący napojem spirytusowym określonym w pkt 12 lit. a o zawartości cukru nie mniejszej niż 250 gramów w litrze w przeliczeniu na cukier inwertowany, uzyskany bez dodatku przetworów mlecznych;"
+    },
+    {
+      "provision_ref": "art4p14la",
+      "section": "4",
+      "title": "Art. 4 pkt 14 lit. a",
+      "content": "Do kategorii napojów spirytusowych zalicza się: likier jajeczny (advocaat), będący napojem spirytusowym uzyskanym z alkoholu etylowego rolniczego, z dodatkiem żółtka jaja, białka jaja, cukru lub miodu, zawierającym: ewentualny dodatek substancji aromatycznych,"
+    },
+    {
+      "provision_ref": "art4p14lb",
+      "section": "4",
+      "title": "Art. 4 pkt 14 lit. b",
+      "content": "Do kategorii napojów spirytusowych zalicza się: likier jajeczny (advocaat), będący napojem spirytusowym uzyskanym z alkoholu etylowego rolniczego, z dodatkiem żółtka jaja, białka jaja, cukru lub miodu, zawierającym: w litrze wyrobu gotowego nie mniej niż 140 gramów żółtka jaja oraz 150 gramów cukru lub miodu;"
+    },
+    {
+      "provision_ref": "art4p15",
+      "section": "4",
+      "title": "Art. 4 pkt 15",
+      "content": "Do kategorii napojów spirytusowych zalicza się: likier z dodatkiem jaj, będący napojem spirytusowym uzyskanym z alkoholu etylowego rolniczego, z dodatkiem żółtka jaja, białka jaja, cukru lub miodu, zawierającym w litrze wyrobu gotowego nie mniej niż 70 gramów żółtka jaja oraz 150 gramów cukru lub miodu, a także, ewentualnie, zawierającym dodatek substancji aromatycznych."
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Art. 5",
-      "content": "1. Przy wyrobie napojów spirytusowych jest dozwolone dodanie alkoholu etylowego rolniczego: 1) o smaku pochodzącym od użytego do jego wyrobu surowca i niewyczuwalnych innych smakach; 2) o zawartości alkoholu etylowego nie mniejszej niż 96% obj.; 3) o niewykrywalnym furfuralu; 4) o zawartości: a) estrów, wyrażonej jako octan etylu, nie większej niż 1,3 grama, b) aldehydów, wyrażonej jako aldehyd octowy, nie większej niż 0,5 grama, c) alkoholi wyższych, wyrażonej jako metyl-2 propan-1-ol (alkohol izobutylowy), nie większej niż 0,5 grama, d) alkoholu metylowego nie większej niż 50 gramów, e) suchej pozostałości po odparowaniu nie większej niż 1,5 grama, f) lotnych zasad azotowych, wyrażonej jako azot, nie większej niż 0,1 grama, g) kwasowości całkowitej, wyrażonej jako kwas octowy, nie większej niż 1,5 grama - w hektolitrze alkoholu 100% obj. 2. Alkohol etylowy rolniczy lub destylat rolniczy uzyskany ze wskazanego w nazwie surowca może być wytworzony wyłącznie z tego surowca."
+      "content": "Przy wyrobie napojów spirytusowych jest dozwolone dodanie alkoholu etylowego rolniczego: o smaku pochodzącym od użytego do jego wyrobu surowca i niewyczuwalnych innych smakach; o zawartości alkoholu etylowego nie mniejszej niż 96% obj.; o niewykrywalnym furfuralu; o zawartości: estrów, wyrażonej jako octan etylu, nie większej niż 1,3 grama, aldehydów, wyrażonej jako aldehyd octowy, nie większej niż 0,5 grama, alkoholi wyższych, wyrażonej jako metyl-2 propan-1-ol (alkohol izobutylowy), nie większej niż 0,5 grama, alkoholu metylowego nie większej niż 50 gramów, suchej pozostałości po odparowaniu nie większej niż 1,5 grama, lotnych zasad azotowych, wyrażonej jako azot, nie większej niż 0,1 grama, kwasowości całkowitej, wyrażonej jako kwas octowy, nie większej niż 1,5 grama - w hektolitrze alkoholu 100% obj. Alkohol etylowy rolniczy lub destylat rolniczy uzyskany ze wskazanego w nazwie surowca może być wytworzony wyłącznie z tego surowca."
+    },
+    {
+      "provision_ref": "art5u1p1",
+      "section": "5",
+      "title": "Art. 5 ust. 1 pkt 1",
+      "content": "Przy wyrobie napojów spirytusowych jest dozwolone dodanie alkoholu etylowego rolniczego: o smaku pochodzącym od użytego do jego wyrobu surowca i niewyczuwalnych innych smakach;"
+    },
+    {
+      "provision_ref": "art5u1p2",
+      "section": "5",
+      "title": "Art. 5 ust. 1 pkt 2",
+      "content": "Przy wyrobie napojów spirytusowych jest dozwolone dodanie alkoholu etylowego rolniczego: o zawartości alkoholu etylowego nie mniejszej niż 96% obj.;"
+    },
+    {
+      "provision_ref": "art5u1p3",
+      "section": "5",
+      "title": "Art. 5 ust. 1 pkt 3",
+      "content": "Przy wyrobie napojów spirytusowych jest dozwolone dodanie alkoholu etylowego rolniczego: o niewykrywalnym furfuralu;"
+    },
+    {
+      "provision_ref": "art5u1p4la",
+      "section": "5",
+      "title": "Art. 5 ust. 1 pkt 4 lit. a",
+      "content": "Przy wyrobie napojów spirytusowych jest dozwolone dodanie alkoholu etylowego rolniczego: o zawartości: estrów, wyrażonej jako octan etylu, nie większej niż 1,3 grama,"
+    },
+    {
+      "provision_ref": "art5u1p4lb",
+      "section": "5",
+      "title": "Art. 5 ust. 1 pkt 4 lit. b",
+      "content": "Przy wyrobie napojów spirytusowych jest dozwolone dodanie alkoholu etylowego rolniczego: o zawartości: aldehydów, wyrażonej jako aldehyd octowy, nie większej niż 0,5 grama,"
+    },
+    {
+      "provision_ref": "art5u1p4lc",
+      "section": "5",
+      "title": "Art. 5 ust. 1 pkt 4 lit. c",
+      "content": "Przy wyrobie napojów spirytusowych jest dozwolone dodanie alkoholu etylowego rolniczego: o zawartości: alkoholi wyższych, wyrażonej jako metyl-2 propan-1-ol (alkohol izobutylowy), nie większej niż 0,5 grama,"
+    },
+    {
+      "provision_ref": "art5u1p4ld",
+      "section": "5",
+      "title": "Art. 5 ust. 1 pkt 4 lit. d",
+      "content": "Przy wyrobie napojów spirytusowych jest dozwolone dodanie alkoholu etylowego rolniczego: o zawartości: alkoholu metylowego nie większej niż 50 gramów,"
+    },
+    {
+      "provision_ref": "art5u1p4le",
+      "section": "5",
+      "title": "Art. 5 ust. 1 pkt 4 lit. e",
+      "content": "Przy wyrobie napojów spirytusowych jest dozwolone dodanie alkoholu etylowego rolniczego: o zawartości: suchej pozostałości po odparowaniu nie większej niż 1,5 grama,"
+    },
+    {
+      "provision_ref": "art5u1p4lf",
+      "section": "5",
+      "title": "Art. 5 ust. 1 pkt 4 lit. f",
+      "content": "Przy wyrobie napojów spirytusowych jest dozwolone dodanie alkoholu etylowego rolniczego: o zawartości: lotnych zasad azotowych, wyrażonej jako azot, nie większej niż 0,1 grama,"
+    },
+    {
+      "provision_ref": "art5u1p4lg",
+      "section": "5",
+      "title": "Art. 5 ust. 1 pkt 4 lit. g",
+      "content": "Przy wyrobie napojów spirytusowych jest dozwolone dodanie alkoholu etylowego rolniczego: o zawartości: kwasowości całkowitej, wyrażonej jako kwas"
+    },
+    {
+      "provision_ref": "art5u2",
+      "section": "5",
+      "title": "Art. 5 ust. 2",
+      "content": "Alkohol etylowy rolniczy lub destylat rolniczy uzyskany ze wskazanego w nazwie surowca może być wytworzony wyłącznie z tego surowca."
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Art. 6",
-      "content": "1. Przy wyrobie okowit: 1) ze śliwek (Prunus domestica L.); 2) z mirabelek (Prunus domestica L. var. syriaca); 3) ze śliwek quetsch (Prunus domestica L.); 4) z jabłek (Malus domestica Borkh.); 5) z gruszek (Pyrus communis L.); 6) z malin (Rubus idaeus L.); 7) z jeżyn (Rubus fruticosus L.) - dopuszcza się zawartość alkoholu metylowego do 1 200 gramów w hektolitrze alkoholu 100% obj. 2. Przy wyrobie okowit z: 1) porzeczek czarnych i kolorowych (Ribes species); 2) bzu czarnego (Sambucus nigra); 3) jarzębiny (Sorbus aucuparia) - dopuszcza się zawartość alkoholu metylowego do 1 350 gramów w hektolitrze alkoholu 100% obj. 3. Przy wyrobie okowit z gruszek Williamsa (Pyrus communis Williams) dopuszcza się zawartość alkoholu metylowego do 1 500 gramów w hektolitrze alkoholu 100% obj."
+      "content": "Przy wyrobie okowit: ze śliwek (Prunus domestica L.); z mirabelek (Prunus domestica L. var. syriaca); ze śliwek quetsch (Prunus domestica L.); z jabłek (Malus domestica Borkh.); z gruszek (Pyrus communis L.); z malin (Rubus idaeus L.); z jeżyn (Rubus fruticosus L.) - dopuszcza się zawartość alkoholu metylowego do 1 200 gramów w hektolitrze alkoholu 100% obj. Przy wyrobie okowit z: porzeczek czarnych i kolorowych (Ribes species); bzu czarnego (Sambucus nigra); jarzębiny (Sorbus aucuparia) - dopuszcza się zawartość alkoholu metylowego do 1 350 gramów w hektolitrze alkoholu 100% obj. Przy wyrobie okowit z gruszek Williamsa (Pyrus communis Williams) dopuszcza się zawartość alkoholu metylowego do 1 500 gramów w hektolitrze alkoholu 100% obj."
+    },
+    {
+      "provision_ref": "art6u1p1",
+      "section": "6",
+      "title": "Art. 6 ust. 1 pkt 1",
+      "content": "Przy wyrobie okowit: ze śliwek (Prunus domestica L.);"
+    },
+    {
+      "provision_ref": "art6u1p2",
+      "section": "6",
+      "title": "Art. 6 ust. 1 pkt 2",
+      "content": "Przy wyrobie okowit: z mirabelek (Prunus domestica L. var. syriaca);"
+    },
+    {
+      "provision_ref": "art6u1p3",
+      "section": "6",
+      "title": "Art. 6 ust. 1 pkt 3",
+      "content": "Przy wyrobie okowit: ze śliwek quetsch (Prunus domestica L.);"
+    },
+    {
+      "provision_ref": "art6u1p4",
+      "section": "6",
+      "title": "Art. 6 ust. 1 pkt 4",
+      "content": "Przy wyrobie okowit: z jabłek (Malus domestica Borkh.);"
+    },
+    {
+      "provision_ref": "art6u1p5",
+      "section": "6",
+      "title": "Art. 6 ust. 1 pkt 5",
+      "content": "Przy wyrobie okowit: z gruszek (Pyrus communis L.);"
+    },
+    {
+      "provision_ref": "art6u1p6",
+      "section": "6",
+      "title": "Art. 6 ust. 1 pkt 6",
+      "content": "Przy wyrobie okowit: z malin (Rubus idaeus L.);"
+    },
+    {
+      "provision_ref": "art6u1p7",
+      "section": "6",
+      "title": "Art. 6 ust. 1 pkt 7",
+      "content": "Przy wyrobie okowit: z jeżyn (Rubus fruticosus L.)"
+    },
+    {
+      "provision_ref": "art6u2p1",
+      "section": "6",
+      "title": "Art. 6 ust. 2 pkt 1",
+      "content": "Przy wyrobie okowit z: porzeczek czarnych i kolorowych (Ribes species);"
+    },
+    {
+      "provision_ref": "art6u2p2",
+      "section": "6",
+      "title": "Art. 6 ust. 2 pkt 2",
+      "content": "Przy wyrobie okowit z: bzu czarnego (Sambucus nigra);"
+    },
+    {
+      "provision_ref": "art6u2p3",
+      "section": "6",
+      "title": "Art. 6 ust. 2 pkt 3",
+      "content": "Przy wyrobie okowit z: jarzębiny (Sorbus aucuparia)"
+    },
+    {
+      "provision_ref": "art6u3",
+      "section": "6",
+      "title": "Art. 6 ust. 3",
+      "content": "Przy wyrobie okowit z gruszek Williamsa (Pyrus communis Williams) dopuszcza się zawartość alkoholu metylowego do 1 500 gramów w hektolitrze alkoholu 100% obj."
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Art. 7",
-      "content": "Przy wyrobie napojów spirytusowych dopuszcza się stosowanie, jako środków słodzących: 1) sacharozy w postaci: a) cukru białego, b) cukru białego rafinowanego, c) cukru półbiałego; 2) dekstrozy; 3) fruktozy; 4) syropu glukozowego; 5) cukru płynnego; 6) inwertowanego cukru płynnego i syropu z cukru inwertowanego; 7) zagęszczonego, oczyszczonego moszczu gronowego; 8) zagęszczonego moszczu gronowego; 9) moszczu gronowego; 10) karmelu otrzymanego wyłącznie w wyniku kontrolowanego podgrzania sacharozy bez współudziału zasad, kwasów mineralnych i innych substancji chemicznych; 11) miodu; 12) syropu z owoców chleba świętojańskiego; 13) innych naturalnych substancji węglowodanowych, dozwolonych na podstawie przepisów o warunkach zdrowotnych żywności i żywienia."
+      "content": "Przy wyrobie napojów spirytusowych dopuszcza się stosowanie, jako środków słodzących: sacharozy w postaci: cukru białego, cukru białego rafinowanego, cukru półbiałego; dekstrozy; fruktozy; syropu glukozowego; cukru płynnego; inwertowanego cukru płynnego i syropu z cukru inwertowanego; zagęszczonego, oczyszczonego moszczu gronowego; zagęszczonego moszczu gronowego; moszczu gronowego; karmelu otrzymanego wyłącznie w wyniku kontrolowanego podgrzania sacharozy bez współudziału zasad, kwasów mineralnych i innych substancji chemicznych; miodu; syropu z owoców chleba świętojańskiego; innych naturalnych substancji węglowodanowych, dozwolonych na podstawie przepisów o warunkach zdrowotnych żywności i żywienia."
+    },
+    {
+      "provision_ref": "art7p1la",
+      "section": "7",
+      "title": "Art. 7 pkt 1 lit. a",
+      "content": "Przy wyrobie napojów spirytusowych dopuszcza się stosowanie, jako środków słodzących: sacharozy w postaci: cukru białego,"
+    },
+    {
+      "provision_ref": "art7p1lb",
+      "section": "7",
+      "title": "Art. 7 pkt 1 lit. b",
+      "content": "Przy wyrobie napojów spirytusowych dopuszcza się stosowanie, jako środków słodzących: sacharozy w postaci: cukru białego rafinowanego,"
+    },
+    {
+      "provision_ref": "art7p1lc",
+      "section": "7",
+      "title": "Art. 7 pkt 1 lit. c",
+      "content": "Przy wyrobie napojów spirytusowych dopuszcza się stosowanie, jako środków słodzących: sacharozy w postaci: cukru półbiałego;"
+    },
+    {
+      "provision_ref": "art7p2",
+      "section": "7",
+      "title": "Art. 7 pkt 2",
+      "content": "Przy wyrobie napojów spirytusowych dopuszcza się stosowanie, jako środków słodzących: dekstrozy;"
+    },
+    {
+      "provision_ref": "art7p3",
+      "section": "7",
+      "title": "Art. 7 pkt 3",
+      "content": "Przy wyrobie napojów spirytusowych dopuszcza się stosowanie, jako środków słodzących: fruktozy;"
+    },
+    {
+      "provision_ref": "art7p4",
+      "section": "7",
+      "title": "Art. 7 pkt 4",
+      "content": "Przy wyrobie napojów spirytusowych dopuszcza się stosowanie, jako środków słodzących: syropu glukozowego;"
+    },
+    {
+      "provision_ref": "art7p5",
+      "section": "7",
+      "title": "Art. 7 pkt 5",
+      "content": "Przy wyrobie napojów spirytusowych dopuszcza się stosowanie, jako środków słodzących: cukru płynnego;"
+    },
+    {
+      "provision_ref": "art7p6",
+      "section": "7",
+      "title": "Art. 7 pkt 6",
+      "content": "Przy wyrobie napojów spirytusowych dopuszcza się stosowanie, jako środków słodzących: inwertowanego cukru płynnego i syropu z cukru inwertowanego;"
+    },
+    {
+      "provision_ref": "art7p7",
+      "section": "7",
+      "title": "Art. 7 pkt 7",
+      "content": "Przy wyrobie napojów spirytusowych dopuszcza się stosowanie, jako środków słodzących: zagęszczonego, oczyszczonego moszczu gronowego;"
+    },
+    {
+      "provision_ref": "art7p8",
+      "section": "7",
+      "title": "Art. 7 pkt 8",
+      "content": "Przy wyrobie napojów spirytusowych dopuszcza się stosowanie, jako środków słodzących: zagęszczonego moszczu gronowego;"
+    },
+    {
+      "provision_ref": "art7p9",
+      "section": "7",
+      "title": "Art. 7 pkt 9",
+      "content": "Przy wyrobie napojów spirytusowych dopuszcza się stosowanie, jako środków słodzących: moszczu gronowego;"
+    },
+    {
+      "provision_ref": "art7p10",
+      "section": "7",
+      "title": "Art. 7 pkt 10",
+      "content": "Przy wyrobie napojów spirytusowych dopuszcza się stosowanie, jako środków słodzących: karmelu otrzymanego wyłącznie w wyniku kontrolowanego podgrzania sacharozy bez współudziału zasad, kwasów mineralnych i innych substancji chemicznych;"
+    },
+    {
+      "provision_ref": "art7p11",
+      "section": "7",
+      "title": "Art. 7 pkt 11",
+      "content": "Przy wyrobie napojów spirytusowych dopuszcza się stosowanie, jako środków słodzących: miodu;"
+    },
+    {
+      "provision_ref": "art7p12",
+      "section": "7",
+      "title": "Art. 7 pkt 12",
+      "content": "Przy wyrobie napojów spirytusowych dopuszcza się stosowanie, jako środków słodzących: syropu z owoców chleba świętojańskiego;"
+    },
+    {
+      "provision_ref": "art7p13",
+      "section": "7",
+      "title": "Art. 7 pkt 13",
+      "content": "Przy wyrobie napojów spirytusowych dopuszcza się stosowanie, jako środków słodzących: innych naturalnych substancji węglowodanowych, dozwolonych na podstawie przepisów o warunkach zdrowotnych żywności i żywienia."
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Art. 8",
-      "content": "1. Do aromatyzowania napojów spirytusowych można stosować substancje dopuszczone na podstawie przepisów o warunkach zdrowotnych żywności i żywienia, z zastrzeżeniem ust. 2. 2. Przy wyrobie likierów i kremów z ananasa, porzeczki czarnej, wiśni, maliny, jeżyny, czarnych jagód, maliny moroszki, maliny tekszli, żurawiny wielkoowocowej, rokitnika pospolitego, borówki brusznicy i owoców cytrusowych oraz likierów z mięty, goryczki, anyżu, bylicy i przelotu pospolitego stosuje się wyłącznie naturalne substancje aromatyczne."
+      "content": "Do aromatyzowania napojów spirytusowych można stosować substancje dopuszczone na podstawie przepisów o warunkach zdrowotnych żywności i żywienia, z zastrzeżeniem ust. 2. Przy wyrobie likierów i kremów z ananasa, porzeczki czarnej, wiśni, maliny, jeżyny, czarnych jagód, maliny moroszki, maliny tekszli, żurawiny wielkoowocowej, rokitnika pospolitego, borówki brusznicy i owoców cytrusowych oraz likierów z mięty, goryczki, anyżu, bylicy i przelotu pospolitego stosuje się wyłącznie naturalne substancje aromatyczne."
+    },
+    {
+      "provision_ref": "art8u1",
+      "section": "8",
+      "title": "Art. 8 ust. 1",
+      "content": "Do aromatyzowania napojów spirytusowych można stosować substancje dopuszczone na podstawie przepisów o warunkach zdrowotnych żywności i żywienia, z zastrzeżeniem ust. 2."
+    },
+    {
+      "provision_ref": "art8u2",
+      "section": "8",
+      "title": "Art. 8 ust. 2",
+      "content": "Przy wyrobie likierów i kremów z ananasa, porzeczki czarnej, wiśni, maliny, jeżyny, czarnych jagód, maliny moroszki, maliny tekszli, żurawiny wielkoowocowej, rokitnika pospolitego, borówki brusznicy i owoców cytrusowych oraz likierów z mięty, goryczki, anyżu, bylicy i przelotu pospolitego stosuje się wyłącznie naturalne substancje aromatyczne."
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Art. 9",
-      "content": "1. Przy wyrobie napojów spirytusowych dopuszcza się dodanie wody destylowanej lub demineralizowanej, pod warunkiem że dodatek wody nie zmieni charakteru napoju. 2. Woda, o której mowa w ust. 1, powinna spełniać wymagania, jakim odpowiada woda przeznaczona do spożycia przez ludzi i na potrzeby gospodarcze."
+      "content": "Przy wyrobie napojów spirytusowych dopuszcza się dodanie wody destylowanej lub demineralizowanej, pod warunkiem że dodatek wody nie zmieni charakteru napoju. Woda, o której mowa w ust. 1, powinna spełniać wymagania, jakim odpowiada woda przeznaczona do spożycia przez ludzi i na potrzeby gospodarcze."
+    },
+    {
+      "provision_ref": "art9u1",
+      "section": "9",
+      "title": "Art. 9 ust. 1",
+      "content": "Przy wyrobie napojów spirytusowych dopuszcza się dodanie wody destylowanej lub demineralizowanej, pod warunkiem że dodatek wody nie zmieni charakteru napoju."
+    },
+    {
+      "provision_ref": "art9u2",
+      "section": "9",
+      "title": "Art. 9 ust. 2",
+      "content": "Woda, o której mowa w ust. 1, powinna spełniać wymagania, jakim odpowiada woda przeznaczona do spożycia przez ludzi i na potrzeby gospodarcze."
     },
     {
       "provision_ref": "art10",
@@ -79,7 +625,25 @@
       "provision_ref": "art12",
       "section": "12",
       "title": "Art. 12",
-      "content": "Leżakowanie napojów spirytusowych odbywa się: 1) w drewnianych beczkach o pojemności nie większej niż 700 litrów, co najmniej przez 3 lata - w przypadku whisky; 2) w beczkach dębowych co najmniej przez rok, a gdy pojemność beczek jest mniejsza niż 1 000 litrów, co najmniej przez 6 miesięcy - w przypadku brandy; 3) przez okres co najmniej równy okresowi leżakowania brandy - w przypadku wódki naturalnej z wina gronowego."
+      "content": "Leżakowanie napojów spirytusowych odbywa się: w drewnianych beczkach o pojemności nie większej niż 700 litrów, co najmniej przez 3 lata - w przypadku whisky; w beczkach dębowych co najmniej przez rok, a gdy pojemność beczek jest mniejsza niż 1 000 litrów, co najmniej przez 6 miesięcy - w przypadku brandy; przez okres co najmniej równy okresowi leżakowania brandy - w przypadku wódki naturalnej z wina gronowego."
+    },
+    {
+      "provision_ref": "art12p1",
+      "section": "12",
+      "title": "Art. 12 pkt 1",
+      "content": "Leżakowanie napojów spirytusowych odbywa się: w drewnianych beczkach o pojemności nie większej niż 700 litrów, co najmniej przez 3 lata - w przypadku whisky;"
+    },
+    {
+      "provision_ref": "art12p2",
+      "section": "12",
+      "title": "Art. 12 pkt 2",
+      "content": "Leżakowanie napojów spirytusowych odbywa się: w beczkach dębowych co najmniej przez rok, a gdy pojemność beczek jest mniejsza niż 1 000 litrów, co najmniej przez 6 miesięcy - w przypadku brandy;"
+    },
+    {
+      "provision_ref": "art12p3",
+      "section": "12",
+      "title": "Art. 12 pkt 3",
+      "content": "Leżakowanie napojów spirytusowych odbywa się: przez okres co najmniej równy okresowi leżakowania brandy - w przypadku wódki naturalnej z wina gronowego."
     },
     {
       "provision_ref": "art13",
@@ -91,19 +655,79 @@
       "provision_ref": "art14",
       "section": "14",
       "title": "Art. 14",
-      "content": "1. Ilość owoców użytych przy wyrobie okowit z owoców wytworzonych wyłącznie w wyniku fermentacji wynosi co najmniej 5 kilogramów na 20 litrów alkoholu 100% obj. 2. Ilość owoców użytych przy wyrobie okowit z owoców uzyskanych w wyniku maceracji wynosi co najmniej 100 kilogramów owoców na 20 litrów alkoholu 100% obj. 3. W przypadku, o którym mowa w ust. 2, określenie „okowita” może być stosowane w połączeniu z nazwą użytego w trakcie procesu maceracji owocu."
+      "content": "Ilość owoców użytych przy wyrobie okowit z owoców wytworzonych wyłącznie w wyniku fermentacji wynosi co najmniej 5 kilogramów na 20 litrów alkoholu 100% obj. Ilość owoców użytych przy wyrobie okowit z owoców uzyskanych w wyniku maceracji wynosi co najmniej 100 kilogramów owoców na 20 litrów alkoholu 100% obj. W przypadku, o którym mowa w ust. 2, określenie „okowita” może być stosowane w połączeniu z nazwą użytego w trakcie procesu maceracji owocu."
+    },
+    {
+      "provision_ref": "art14u1",
+      "section": "14",
+      "title": "Art. 14 ust. 1",
+      "content": "Ilość owoców użytych przy wyrobie okowit z owoców wytworzonych wyłącznie w wyniku fermentacji wynosi co najmniej 5 kilogramów na 20 litrów alkoholu 100% obj."
+    },
+    {
+      "provision_ref": "art14u2",
+      "section": "14",
+      "title": "Art. 14 ust. 2",
+      "content": "Ilość owoców użytych przy wyrobie okowit z owoców uzyskanych w wyniku maceracji wynosi co najmniej 100 kilogramów owoców na 20 litrów alkoholu 100% obj."
+    },
+    {
+      "provision_ref": "art14u3",
+      "section": "14",
+      "title": "Art. 14 ust. 3",
+      "content": "W przypadku, o którym mowa w ust. 2, określenie „okowita” może być stosowane w połączeniu z nazwą użytego w trakcie procesu maceracji owocu."
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Art. 15",
-      "content": "1. Przy wyrobie napoju spirytusowego jałowcowego mogą być użyte dodatkowo, oprócz jagód jałowca, następujące substancje aromatyczne: 1) rośliny aromatyczne albo ich części lub 2) naturalne substancje aromatyczne, lub 3) substancje aromatyczne identyczne z naturalnymi, lub 4) preparaty aromatyczne. 2. W napoju spirytusowym jałowcowym, przy wyrobie którego zastosowano substancje aromatyczne, o których mowa w ust. 1, smak jagód jałowca powinien być wyczuwalny."
+      "content": "Przy wyrobie napoju spirytusowego jałowcowego mogą być użyte dodatkowo, oprócz jagód jałowca, następujące substancje aromatyczne: rośliny aromatyczne albo ich części lub naturalne substancje aromatyczne, lub substancje aromatyczne identyczne z naturalnymi, lub preparaty aromatyczne. W napoju spirytusowym jałowcowym, przy wyrobie którego zastosowano substancje aromatyczne, o których mowa w ust. 1, smak jagód jałowca powinien być wyczuwalny."
+    },
+    {
+      "provision_ref": "art15u1p1",
+      "section": "15",
+      "title": "Art. 15 ust. 1 pkt 1",
+      "content": "Przy wyrobie napoju spirytusowego jałowcowego mogą być użyte dodatkowo, oprócz jagód jałowca, następujące substancje aromatyczne: rośliny aromatyczne albo ich części lub"
+    },
+    {
+      "provision_ref": "art15u1p2",
+      "section": "15",
+      "title": "Art. 15 ust. 1 pkt 2",
+      "content": "Przy wyrobie napoju spirytusowego jałowcowego mogą być użyte dodatkowo, oprócz jagód jałowca, następujące substancje aromatyczne: naturalne substancje aromatyczne, lub"
+    },
+    {
+      "provision_ref": "art15u1p3",
+      "section": "15",
+      "title": "Art. 15 ust. 1 pkt 3",
+      "content": "Przy wyrobie napoju spirytusowego jałowcowego mogą być użyte dodatkowo, oprócz jagód jałowca, następujące substancje aromatyczne: substancje aromatyczne identyczne z naturalnymi, lub"
+    },
+    {
+      "provision_ref": "art15u1p4",
+      "section": "15",
+      "title": "Art. 15 ust. 1 pkt 4",
+      "content": "Przy wyrobie napoju spirytusowego jałowcowego mogą być użyte dodatkowo, oprócz jagód jałowca, następujące substancje aromatyczne: preparaty aromatyczne."
+    },
+    {
+      "provision_ref": "art15u2",
+      "section": "15",
+      "title": "Art. 15 ust. 2",
+      "content": "W napoju spirytusowym jałowcowym, przy wyrobie którego zastosowano substancje aromatyczne, o których mowa w ust. 1, smak jagód jałowca powinien być wyczuwalny."
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Art. 16",
-      "content": "1. Dopuszcza się wyrób ginu destylowanego przez zmieszanie ginu destylowanego z alkoholem etylowym rolniczym o takich samych cechach organoleptycznych i jakościowych oraz o takiej samej zawartości alkoholu etylowego. 2. Do aromatyzacji ginu destylowanego mogą być dodatkowo użyte substancje aromatyczne naturalne lub identyczne z naturalnymi lub preparaty aromatyczne."
+      "content": "Dopuszcza się wyrób ginu destylowanego przez zmieszanie ginu destylowanego z alkoholem etylowym rolniczym o takich samych cechach organoleptycznych i jakościowych oraz o takiej samej zawartości alkoholu etylowego. Do aromatyzacji ginu destylowanego mogą być dodatkowo użyte substancje aromatyczne naturalne lub identyczne z naturalnymi lub preparaty aromatyczne."
+    },
+    {
+      "provision_ref": "art16u1",
+      "section": "16",
+      "title": "Art. 16 ust. 1",
+      "content": "Dopuszcza się wyrób ginu destylowanego przez zmieszanie ginu destylowanego z alkoholem etylowym rolniczym o takich samych cechach organoleptycznych i jakościowych oraz o takiej samej zawartości alkoholu etylowego."
+    },
+    {
+      "provision_ref": "art16u2",
+      "section": "16",
+      "title": "Art. 16 ust. 2",
+      "content": "Do aromatyzacji ginu destylowanego mogą być dodatkowo użyte substancje aromatyczne naturalne lub identyczne z naturalnymi lub preparaty aromatyczne."
     },
     {
       "provision_ref": "art17",
@@ -115,7 +739,25 @@
       "provision_ref": "art18",
       "section": "18",
       "title": "Art. 18",
-      "content": "1. Napój spirytusowy anyżowy uzyskuje się w wyniku: 1) maceracji, destylacji lub redestylacji alkoholu etylowego rolniczego z dodatkiem nasion lub innych części roślin, o których mowa w art. 4 pkt 9, lub 2) dodania do alkoholu etylowego rolniczego naturalnych ekstraktów destylowanych z roślin, o których mowa w art. 4 pkt 9. 2. Przy wyrobie napoju, o którym mowa w ust. 1, mogą być stosowane inne naturalne ekstrakty roślinne i nasiona aromatyczne niż wymienione w art. 4 pkt 9, pod warunkiem że smak anyżu pozostaje dominujący."
+      "content": "Napój spirytusowy anyżowy uzyskuje się w wyniku: maceracji, destylacji lub redestylacji alkoholu etylowego rolniczego z dodatkiem nasion lub innych części roślin, o których mowa w art. 4 pkt 9, lub dodania do alkoholu etylowego rolniczego naturalnych ekstraktów destylowanych z roślin, o których mowa w art. 4 pkt 9. Przy wyrobie napoju, o którym mowa w ust. 1, mogą być stosowane inne naturalne ekstrakty roślinne i nasiona aromatyczne niż wymienione w art. 4 pkt 9, pod warunkiem że smak anyżu pozostaje dominujący."
+    },
+    {
+      "provision_ref": "art18u1p1",
+      "section": "18",
+      "title": "Art. 18 ust. 1 pkt 1",
+      "content": "Napój spirytusowy anyżowy uzyskuje się w wyniku: maceracji, destylacji lub redestylacji alkoholu etylowego rolniczego z dodatkiem nasion lub innych części roślin, o których mowa w art. 4 pkt 9, lub"
+    },
+    {
+      "provision_ref": "art18u1p2",
+      "section": "18",
+      "title": "Art. 18 ust. 1 pkt 2",
+      "content": "Napój spirytusowy anyżowy uzyskuje się w wyniku: dodania do alkoholu etylowego rolniczego naturalnych ekstraktów destylowanych z roślin, o których mowa w art. 4 pkt 9."
+    },
+    {
+      "provision_ref": "art18u2",
+      "section": "18",
+      "title": "Art. 18 ust. 2",
+      "content": "Przy wyrobie napoju, o którym mowa w ust. 1, mogą być stosowane inne naturalne ekstrakty roślinne i nasiona aromatyczne niż wymienione w art. 4 pkt 9, pod warunkiem że smak anyżu pozostaje dominujący."
     },
     {
       "provision_ref": "art19",
@@ -133,7 +775,19 @@
       "provision_ref": "art21",
       "section": "21",
       "title": "Art. 21",
-      "content": "1. Wykonywanie działalności gospodarczej w zakresie wyrobu lub rozlewu napojów spirytusowych wymaga uzyskania zezwolenia, zwanego dalej „zezwoleniem”. 2. Zezwolenie na wyrób napojów spirytusowych obejmuje również zezwolenie na rozlew tych napojów."
+      "content": "Wykonywanie działalności gospodarczej w zakresie wyrobu lub rozlewu napojów spirytusowych wymaga uzyskania zezwolenia, zwanego dalej „zezwoleniem”. Zezwolenie na wyrób napojów spirytusowych obejmuje również zezwolenie na rozlew tych napojów."
+    },
+    {
+      "provision_ref": "art21u1",
+      "section": "21",
+      "title": "Art. 21 ust. 1",
+      "content": "Wykonywanie działalności gospodarczej w zakresie wyrobu lub rozlewu napojów spirytusowych wymaga uzyskania zezwolenia, zwanego dalej „zezwoleniem”."
+    },
+    {
+      "provision_ref": "art21u2",
+      "section": "21",
+      "title": "Art. 21 ust. 2",
+      "content": "Zezwolenie na wyrób napojów spirytusowych obejmuje również zezwolenie na rozlew tych napojów."
     },
     {
       "provision_ref": "art22",
@@ -145,25 +799,151 @@
       "provision_ref": "art23",
       "section": "23",
       "title": "Art. 23",
-      "content": "1. Wniosek o wydanie zezwolenia, poza wymaganiami określonymi w przepisach o działalności gospodarczej, powinien zawierać informacje o: 1) zdolności wyrobu lub rozlewu posiadanych przez wnioskodawcę urządzeń technicznych w skali roku kalendarzowego; 2) rodzaju surowców. 2. Do wniosku, o którym mowa w ust. 1, dołącza się: 1) dokument potwierdzający tytuł prawny wnioskodawcy do obiektów budowlanych, w których ma być wykonywana działalność gospodarcza objęta wnioskiem; 2) zaświadczenia właściwego urzędu skarbowego oraz Zakładu Ubezpieczeń Społecznych stwierdzające, że wnioskodawca nie zalega z wpłatami należności na rzecz tych instytucji; 3) informację z Krajowego Rejestru Karnego potwierdzającą niekaralność ubiegającego się o zezwolenie przedsiębiorcy będącego osobą fizyczną lub członków zarządu osoby prawnej za przestępstwa przeciwko mieniu i wiarygodności dokumentów; 4) zaświadczenia komendanta powiatowego Państwowej Straży Pożarnej, państwowego powiatowego inspektora sanitarnego oraz wojewódzkiego inspektora ochrony środowiska stwierdzające, że obiekty budowlane i urządzenia techniczne przeznaczone do wykonywania działalności gospodarczej objętej wnioskiem spełniają wymagania określone odpowiednio w przepisach o ochronie przeciwpożarowej, sanitarnych i o ochronie środowiska."
+      "content": "Wniosek o wydanie zezwolenia, poza wymaganiami określonymi w przepisach o działalności gospodarczej, powinien zawierać informacje o: zdolności wyrobu lub rozlewu posiadanych przez wnioskodawcę urządzeń technicznych w skali roku kalendarzowego; rodzaju surowców. Do wniosku, o którym mowa w ust. 1, dołącza się: dokument potwierdzający tytuł prawny wnioskodawcy do obiektów budowlanych, w których ma być wykonywana działalność gospodarcza objęta wnioskiem; zaświadczenia właściwego urzędu skarbowego oraz Zakładu Ubezpieczeń Społecznych stwierdzające, że wnioskodawca nie zalega z wpłatami należności na rzecz tych instytucji; informację z Krajowego Rejestru Karnego potwierdzającą niekaralność ubiegającego się o zezwolenie przedsiębiorcy będącego osobą fizyczną lub członków zarządu osoby prawnej za przestępstwa przeciwko mieniu i wiarygodności dokumentów; zaświadczenia komendanta powiatowego Państwowej Straży Pożarnej, państwowego powiatowego inspektora sanitarnego oraz wojewódzkiego inspektora ochrony środowiska stwierdzające, że obiekty budowlane i urządzenia techniczne przeznaczone do wykonywania działalności gospodarczej objętej wnioskiem spełniają wymagania określone odpowiednio w przepisach o ochronie przeciwpożarowej, sanitarnych i o ochronie środowiska."
+    },
+    {
+      "provision_ref": "art23u1p1",
+      "section": "23",
+      "title": "Art. 23 ust. 1 pkt 1",
+      "content": "Wniosek o wydanie zezwolenia, poza wymaganiami określonymi w przepisach o działalności gospodarczej, powinien zawierać informacje o: zdolności wyrobu lub rozlewu posiadanych przez wnioskodawcę urządzeń technicznych w skali roku kalendarzowego;"
+    },
+    {
+      "provision_ref": "art23u1p2",
+      "section": "23",
+      "title": "Art. 23 ust. 1 pkt 2",
+      "content": "Wniosek o wydanie zezwolenia, poza wymaganiami określonymi w przepisach o działalności gospodarczej, powinien zawierać informacje o: rodzaju surowców."
+    },
+    {
+      "provision_ref": "art23u2p1",
+      "section": "23",
+      "title": "Art. 23 ust. 2 pkt 1",
+      "content": "Do wniosku, o którym mowa w ust. 1, dołącza się: dokument potwierdzający tytuł prawny wnioskodawcy do obiektów budowlanych, w których ma być wykonywana działalność gospodarcza objęta wnioskiem;"
+    },
+    {
+      "provision_ref": "art23u2p2",
+      "section": "23",
+      "title": "Art. 23 ust. 2 pkt 2",
+      "content": "Do wniosku, o którym mowa w ust. 1, dołącza się: zaświadczenia właściwego urzędu skarbowego oraz Zakładu Ubezpieczeń Społecznych stwierdzające, że wnioskodawca nie zalega z wpłatami należności na rzecz tych instytucji;"
+    },
+    {
+      "provision_ref": "art23u2p3",
+      "section": "23",
+      "title": "Art. 23 ust. 2 pkt 3",
+      "content": "Do wniosku, o którym mowa w ust. 1, dołącza się: informację z Krajowego Rejestru Karnego potwierdzającą niekaralność ubiegającego się o zezwolenie przedsiębiorcy będącego osobą fizyczną lub członków zarządu osoby prawnej za przestępstwa przeciwko mieniu i wiarygodności dokumentów;"
+    },
+    {
+      "provision_ref": "art23u2p4",
+      "section": "23",
+      "title": "Art. 23 ust. 2 pkt 4",
+      "content": "Do wniosku, o którym mowa w ust. 1, dołącza się: zaświadczenia komendanta powiatowego Państwowej Straży Pożarnej, państwowego powiatowego inspektora sanitarnego oraz wojewódzkiego inspektora ochrony środowiska stwierdzające, że obiekty budowlane i urządzenia techniczne przeznaczone do wykonywania działalności gospodarczej objętej wnioskiem spełniają wymagania określone odpowiednio w przepisach o ochronie przeciwpożarowej, sanitarnych i o ochronie środowiska."
     },
     {
       "provision_ref": "art24",
       "section": "24",
       "title": "Art. 24",
-      "content": "1. Zezwolenie wydaje się po spełnieniu warunków, o których mowa w art. 23. 2. Zezwolenie określa w szczególności: 1) nazwę lub firmę, pod którą wykonuje działalność przedsiębiorca, jego adres i siedzibę, a w przypadku osoby fizycznej imię i nazwisko, miejsce zamieszkania oraz adres; 2) rodzaj działalności gospodarczej objętej zezwoleniem; 3) wielkość wyrobu lub rozlewu napojów spirytusowych w skali roku kalendarzowego, zgodną ze zdolnościami w zakresie wyrobu lub rozlewu posiadanych przez przedsiębiorcę urządzeń technicznych; 4) miejsce wykonywania działalności gospodarczej."
+      "content": "Zezwolenie wydaje się po spełnieniu warunków, o których mowa w art. 23. Zezwolenie określa w szczególności: nazwę lub firmę, pod którą wykonuje działalność przedsiębiorca, jego adres i siedzibę, a w przypadku osoby fizycznej imię i nazwisko, miejsce zamieszkania oraz adres; rodzaj działalności gospodarczej objętej zezwoleniem; wielkość wyrobu lub rozlewu napojów spirytusowych w skali roku kalendarzowego, zgodną ze zdolnościami w zakresie wyrobu lub rozlewu posiadanych przez przedsiębiorcę urządzeń technicznych; miejsce wykonywania działalności gospodarczej."
+    },
+    {
+      "provision_ref": "art24u1",
+      "section": "24",
+      "title": "Art. 24 ust. 1",
+      "content": "Zezwolenie wydaje się po spełnieniu warunków, o których mowa w art. 23."
+    },
+    {
+      "provision_ref": "art24u2p1",
+      "section": "24",
+      "title": "Art. 24 ust. 2 pkt 1",
+      "content": "Zezwolenie określa w szczególności: nazwę lub firmę, pod którą wykonuje działalność przedsiębiorca, jego adres i siedzibę, a w przypadku osoby fizycznej imię i nazwisko, miejsce zamieszkania oraz adres;"
+    },
+    {
+      "provision_ref": "art24u2p2",
+      "section": "24",
+      "title": "Art. 24 ust. 2 pkt 2",
+      "content": "Zezwolenie określa w szczególności: rodzaj działalności gospodarczej objętej zezwoleniem;"
+    },
+    {
+      "provision_ref": "art24u2p3",
+      "section": "24",
+      "title": "Art. 24 ust. 2 pkt 3",
+      "content": "Zezwolenie określa w szczególności: wielkość wyrobu lub rozlewu napojów spirytusowych w skali roku kalendarzowego, zgodną ze zdolnościami w zakresie wyrobu lub rozlewu posiadanych przez przedsiębiorcę urządzeń technicznych;"
+    },
+    {
+      "provision_ref": "art24u2p4",
+      "section": "24",
+      "title": "Art. 24 ust. 2 pkt 4",
+      "content": "Zezwolenie określa w szczególności: miejsce wykonywania działalności gospodarczej."
     },
     {
       "provision_ref": "art25",
       "section": "25",
       "title": "Art. 25",
-      "content": "1. W razie powzięcia przez organ zezwalający informacji lub stwierdzenia okoliczności uzasadniających cofnięcie zezwolenia, organ ten wszczyna z urzędu postępowanie w tej sprawie. 2. Organ zezwalający cofa zezwolenie w przypadkach określonych w przepisach o działalności gospodarczej."
+      "content": "W razie powzięcia przez organ zezwalający informacji lub stwierdzenia okoliczności uzasadniających cofnięcie zezwolenia, organ ten wszczyna z urzędu postępowanie w tej sprawie. Organ zezwalający cofa zezwolenie w przypadkach określonych w przepisach o działalności gospodarczej."
+    },
+    {
+      "provision_ref": "art25u1",
+      "section": "25",
+      "title": "Art. 25 ust. 1",
+      "content": "W razie powzięcia przez organ zezwalający informacji lub stwierdzenia okoliczności uzasadniających cofnięcie zezwolenia, organ ten wszczyna z urzędu postępowanie w tej sprawie."
+    },
+    {
+      "provision_ref": "art25u2",
+      "section": "25",
+      "title": "Art. 25 ust. 2",
+      "content": "Organ zezwalający cofa zezwolenie w przypadkach określonych w przepisach o działalności gospodarczej."
     },
     {
       "provision_ref": "art26",
       "section": "26",
       "title": "Art. 26",
-      "content": "1. Przedsiębiorca, który uzyskał zezwolenie, jest obowiązany do: 1) wdrożenia systemu wewnętrznej kontroli wyrobu lub rozlewu napojów spirytusowych, obejmującego w szczególności określenie: a) częstotliwości i sposobu pobierania próbek do badań jakościowych, b) metody badań, c) sposobu postępowania z napojami spirytusowymi nieodpowiadającymi wymaganiom jakościowym; 2) dysponowania planem zakładu obejmującym w szczególności pomieszczenia produkcyjne, magazynowe, socjalne i sanitarne, z zaznaczeniem: a) linii technologicznych, b) dróg przemieszczania surowców i produktów gotowych, c) stanowisk pracy; 3) wyznaczenia osoby odpowiedzialnej za kontrolę jakości napojów spirytusowych. 2. W przypadku zakończenia działalności gospodarczej określonej w zezwoleniu przedsiębiorca jest obowiązany zawiadomić o tym, w terminie 14 dni, organ zezwalający."
+      "content": "Przedsiębiorca, który uzyskał zezwolenie, jest obowiązany do: wdrożenia systemu wewnętrznej kontroli wyrobu lub rozlewu napojów spirytusowych, obejmującego w szczególności określenie: częstotliwości i sposobu pobierania próbek do badań jakościowych, metody badań, sposobu postępowania z napojami spirytusowymi nieodpowiadającymi wymaganiom jakościowym; dysponowania planem zakładu obejmującym w szczególności pomieszczenia produkcyjne, magazynowe, socjalne i sanitarne, z zaznaczeniem: linii technologicznych, dróg przemieszczania surowców i produktów gotowych, stanowisk pracy; wyznaczenia osoby odpowiedzialnej za kontrolę jakości napojów spirytusowych. W przypadku zakończenia działalności gospodarczej określonej w zezwoleniu przedsiębiorca jest obowiązany zawiadomić o tym, w terminie 14 dni, organ zezwalający."
+    },
+    {
+      "provision_ref": "art26u1p1la",
+      "section": "26",
+      "title": "Art. 26 ust. 1 pkt 1 lit. a",
+      "content": "Przedsiębiorca, który uzyskał zezwolenie, jest obowiązany do: wdrożenia systemu wewnętrznej kontroli wyrobu lub rozlewu napojów spirytusowych, obejmującego w szczególności określenie: częstotliwości i sposobu pobierania próbek do badań jakościowych,"
+    },
+    {
+      "provision_ref": "art26u1p1lb",
+      "section": "26",
+      "title": "Art. 26 ust. 1 pkt 1 lit. b",
+      "content": "Przedsiębiorca, który uzyskał zezwolenie, jest obowiązany do: wdrożenia systemu wewnętrznej kontroli wyrobu lub rozlewu napojów spirytusowych, obejmującego w szczególności określenie: metody badań,"
+    },
+    {
+      "provision_ref": "art26u1p1lc",
+      "section": "26",
+      "title": "Art. 26 ust. 1 pkt 1 lit. c",
+      "content": "Przedsiębiorca, który uzyskał zezwolenie, jest obowiązany do: wdrożenia systemu wewnętrznej kontroli wyrobu lub rozlewu napojów spirytusowych, obejmującego w szczególności określenie: sposobu postępowania z napojami spirytusowymi nieodpowiadającymi wymaganiom jakościowym;"
+    },
+    {
+      "provision_ref": "art26u1p2la",
+      "section": "26",
+      "title": "Art. 26 ust. 1 pkt 2 lit. a",
+      "content": "Przedsiębiorca, który uzyskał zezwolenie, jest obowiązany do: dysponowania planem zakładu obejmującym w szczególności pomieszczenia produkcyjne, magazynowe, socjalne i sanitarne, z zaznaczeniem: linii technologicznych,"
+    },
+    {
+      "provision_ref": "art26u1p2lb",
+      "section": "26",
+      "title": "Art. 26 ust. 1 pkt 2 lit. b",
+      "content": "Przedsiębiorca, który uzyskał zezwolenie, jest obowiązany do: dysponowania planem zakładu obejmującym w szczególności pomieszczenia produkcyjne, magazynowe, socjalne i sanitarne, z zaznaczeniem: dróg przemieszczania surowców i produktów gotowych,"
+    },
+    {
+      "provision_ref": "art26u1p2lc",
+      "section": "26",
+      "title": "Art. 26 ust. 1 pkt 2 lit. c",
+      "content": "Przedsiębiorca, który uzyskał zezwolenie, jest obowiązany do: dysponowania planem zakładu obejmującym w szczególności pomieszczenia produkcyjne, magazynowe, socjalne i sanitarne, z zaznaczeniem: stanowisk pracy;"
+    },
+    {
+      "provision_ref": "art26u1p3",
+      "section": "26",
+      "title": "Art. 26 ust. 1 pkt 3",
+      "content": "Przedsiębiorca, który uzyskał zezwolenie, jest obowiązany do: wyznaczenia osoby odpowiedzialnej za kontrolę jakości napojów spirytusowych."
+    },
+    {
+      "provision_ref": "art26u2",
+      "section": "26",
+      "title": "Art. 26 ust. 2",
+      "content": "W przypadku zakończenia działalności gospodarczej określonej w zezwoleniu przedsiębiorca jest obowiązany zawiadomić o tym, w terminie 14 dni, organ zezwalający."
     },
     {
       "provision_ref": "art27",
@@ -175,7 +955,19 @@
       "provision_ref": "art28",
       "section": "28",
       "title": "Art. 28",
-      "content": "1. Nazwy kategorii napojów spirytusowych oraz inne nazwy napojów spirytusowych, o których mowa w ustawie, nie mogą być uzupełniane określeniami „podobny”, „typu”, „rodzaju”, „o smaku”, „w stylu” lub innymi sugerującymi podobieństwo do tych napojów spirytusowych. 2. Wódki wyprodukowane na terytorium Rzeczypospolitej Polskiej z polskich surowców rolniczych mogą być dodatkowo określane jako „Polska wódka/Polish vodka”."
+      "content": "Nazwy kategorii napojów spirytusowych oraz inne nazwy napojów spirytusowych, o których mowa w ustawie, nie mogą być uzupełniane określeniami „podobny”, „typu”, „rodzaju”, „o smaku”, „w stylu” lub innymi sugerującymi podobieństwo do tych napojów spirytusowych. Wódki wyprodukowane na terytorium Rzeczypospolitej Polskiej z polskich surowców rolniczych mogą być dodatkowo określane jako „Polska wódka/Polish vodka”."
+    },
+    {
+      "provision_ref": "art28u1",
+      "section": "28",
+      "title": "Art. 28 ust. 1",
+      "content": "Nazwy kategorii napojów spirytusowych oraz inne nazwy napojów spirytusowych, o których mowa w ustawie, nie mogą być uzupełniane określeniami „podobny”, „typu”, „rodzaju”, „o smaku”, „w stylu” lub innymi sugerującymi podobieństwo do tych napojów spirytusowych."
+    },
+    {
+      "provision_ref": "art28u2",
+      "section": "28",
+      "title": "Art. 28 ust. 2",
+      "content": "Wódki wyprodukowane na terytorium Rzeczypospolitej Polskiej z polskich surowców rolniczych mogą być dodatkowo określane jako „Polska wódka/Polish vodka”."
     },
     {
       "provision_ref": "art29",
@@ -187,13 +979,43 @@
       "provision_ref": "art30",
       "section": "30",
       "title": "Art. 30",
-      "content": "Kto: 1) wyrabia napoje spirytusowe niezgodnie z zasadami określonymi w ustawie lub wprowadza tak wytworzone napoje do obrotu; 2) wprowadza do obrotu napój spirytusowy niespełniający właściwych dla niego wymagań organoleptycznych oraz fizykochemicznych; 3) uzupełnia nazwy kategorii napojów spirytusowych oraz inne nazwy napojów spirytusowych określeniami „podobny”, „typu”, „rodzaju”, „o smaku”, „w stylu” lub innymi sugerującymi podobieństwo do tych napojów spirytusowych - podlega grzywnie albo karze ograniczenia wolności do roku."
+      "content": "Kto: wyrabia napoje spirytusowe niezgodnie z zasadami określonymi w ustawie lub wprowadza tak wytworzone napoje do obrotu; wprowadza do obrotu napój spirytusowy niespełniający właściwych dla niego wymagań organoleptycznych oraz fizykochemicznych; uzupełnia nazwy kategorii napojów spirytusowych oraz inne nazwy napojów spirytusowych określeniami „podobny”, „typu”, „rodzaju”, „o smaku”, „w stylu” lub innymi sugerującymi podobieństwo do tych napojów spirytusowych - podlega grzywnie albo karze ograniczenia wolności do roku."
+    },
+    {
+      "provision_ref": "art30p1",
+      "section": "30",
+      "title": "Art. 30 pkt 1",
+      "content": "Kto: wyrabia napoje spirytusowe niezgodnie z zasadami określonymi w ustawie lub wprowadza tak wytworzone napoje do obrotu;"
+    },
+    {
+      "provision_ref": "art30p2",
+      "section": "30",
+      "title": "Art. 30 pkt 2",
+      "content": "Kto: wprowadza do obrotu napój spirytusowy niespełniający właściwych dla niego wymagań organoleptycznych oraz fizykochemicznych;"
+    },
+    {
+      "provision_ref": "art30p3",
+      "section": "30",
+      "title": "Art. 30 pkt 3",
+      "content": "Kto: uzupełnia nazwy kategorii napojów spirytusowych oraz inne nazwy napojów spirytusowych określeniami „podobny”, „typu”, „rodzaju”, „o smaku”, „w stylu” lub innymi sugerującymi podobieństwo do tych napojów spirytusowych"
     },
     {
       "provision_ref": "art31",
       "section": "31",
       "title": "Art. 31",
-      "content": "1. Kto bez wymaganego zezwolenia wyrabia lub rozlewa napoje spirytusowe - podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku. 2. Kto dopuszcza się czynu określonego w ust. 1, jeżeli czyn ten dotyczy napojów spirytusowych znacznej wartości - podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2."
+      "content": "Kto bez wymaganego zezwolenia wyrabia lub rozlewa napoje spirytusowe - podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku. Kto dopuszcza się czynu określonego w ust. 1, jeżeli czyn ten dotyczy napojów spirytusowych znacznej wartości - podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2."
+    },
+    {
+      "provision_ref": "art31u1",
+      "section": "31",
+      "title": "Art. 31 ust. 1",
+      "content": "Kto bez wymaganego zezwolenia wyrabia lub rozlewa napoje spirytusowe - podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku."
+    },
+    {
+      "provision_ref": "art31u2",
+      "section": "31",
+      "title": "Art. 31 ust. 2",
+      "content": "Kto dopuszcza się czynu określonego w ust. 1, jeżeli czyn ten dotyczy napojów spirytusowych znacznej wartości - podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2."
     },
     {
       "provision_ref": "art32",
@@ -211,19 +1033,103 @@
       "provision_ref": "art34",
       "section": "34",
       "title": "Art. 34",
-      "content": "W ustawie z dnia 2 marca 2001 r. o wyrobie spirytusu, wyrobie i rozlewie wyrobów spirytusowych oraz wytwarzaniu wyrobów tytoniowych ( Dz. U. z 2001 r. Nr 31, poz. 353 ) wprowadza się następujące zmiany: 1) tytuł ustawy otrzymuje brzmienie: „ o wyrobie alkoholu etylowego oraz wytwarzaniu wyrobów tytoniowych. ” ; 2) art. 1 otrzymuje brzmienie: „ Art. 1. Ustawa określa zasady i warunki podejmowania i wykonywania działalności gospodarczej w zakresie wyrobu alkoholu etylowego i jego skażania oraz wytwarzania wyrobów tytoniowych. ” ; 3) art. 2 otrzymuje brzmienie: „ Art. 2. W rozumieniu niniejszej ustawy: 1) alkohol etylowy oznacza płyn alkoholowy uzyskany w wyniku destylacji po fermentacji alkoholowej produktów rolniczych albo płyn alkoholowy uzyskany w sposób syntetyczny, 2) wyrób tytoniowy oznacza wyrób wyprodukowany z tytoniu przeznaczony do palenia oraz tabakę. ” ; 4) art. 3 otrzymuje brzmienie: „ Art. 3. Wykonywanie działalności gospodarczej w zakresie: 1) wyrobu, oczyszczania, skażania lub odwadniania alkoholu etylowego, 2) wytwarzania wyrobów tytoniowych - wymaga uzyskania zezwolenia. ” ; 5) w art. 8-11 i w art. 13 użyty w różnych przypadkach wyraz „spirytus” zastępuje się użytymi w odpowiednich przypadkach wyrazami „alkohol etylowy” ; 6) art. 12 otrzymuje brzmienie: „ Art. 12. Kto posiadając zezwolenie na wykonywanie działalności gospodarczej w zakresie wyrobu, oczyszczania, skażania lub odwadniania alkoholu etylowego albo wytwarzania wyrobów tytoniowych: 1) nie wdrożył systemu kontroli wewnętrznej, nie dysponuje planem zakładu lub nie wyznaczył osoby odpowiedzialnej za kontrolę jakości, 2) nie zawiadomił organu zezwalającego o zakończeniu działalności gospodarczej określonej w zezwoleniu w terminie 14 dni od dnia zakończenia tej działalności - podlega grzywnie. ” ; 7) po art. 12 dodaje się art. 12a w brzmieniu: „ Art. 12a. 1. Kto bez wymaganego zezwolenia wyrabia, skaża, oczyszcza lub odwadnia alkohol etylowy albo wytwarza wyroby tytoniowe - podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku. 2. Kto dopuszcza się czynu określonego w ust. 1, jeżeli czyn ten dotyczy alkoholu etylowego lub wyrobów tytoniowych znacznej wartości - podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2. ” ; 8) w art. 14 po wyrazach „art. 12” dodaje się przecinek oraz wyrazy „art. 12a” ; 9) po art. 14 dodaje się art. 14a w brzmieniu: „ Art. 14a. W przypadkach określonych w art. 12a i art. 13 sąd może orzec przepadek rzeczy stanowiącej przedmiot przestępstwa albo służących lub przeznaczonych do jego popełnienia, choćby nie były własnością sprawcy. ” ."
+      "content": "W ustawie z dnia 2 marca 2001 r. o wyrobie spirytusu, wyrobie i rozlewie wyrobów spirytusowych oraz wytwarzaniu wyrobów tytoniowych wprowadza się następujące zmiany: tytuł ustawy otrzymuje brzmienie: „ o wyrobie alkoholu etylowego oraz wytwarzaniu wyrobów tytoniowych. ” ; art. 1 otrzymuje brzmienie: „ Ustawa określa zasady i warunki podejmowania i wykonywania działalności gospodarczej w zakresie wyrobu alkoholu etylowego i jego skażania oraz wytwarzania wyrobów tytoniowych. ” ; art. 2 otrzymuje brzmienie: „ W rozumieniu niniejszej ustawy: alkohol etylowy oznacza płyn alkoholowy uzyskany w wyniku destylacji po fermentacji alkoholowej produktów rolniczych albo płyn alkoholowy uzyskany w sposób syntetyczny, wyrób tytoniowy oznacza wyrób wyprodukowany z tytoniu przeznaczony do palenia oraz tabakę. ” ; art. 3 otrzymuje brzmienie: „ Wykonywanie działalności gospodarczej w zakresie: wyrobu, oczyszczania, skażania lub odwadniania alkoholu etylowego, wytwarzania wyrobów tytoniowych - wymaga uzyskania zezwolenia. ” ; w art. 8-11 i w art. 13 użyty w różnych przypadkach wyraz „spirytus” zastępuje się użytymi w odpowiednich przypadkach wyrazami „alkohol etylowy” ; art. 12 otrzymuje brzmienie: „ Kto posiadając zezwolenie na wykonywanie działalności gospodarczej w zakresie wyrobu, oczyszczania, skażania lub odwadniania alkoholu etylowego albo wytwarzania wyrobów tytoniowych: nie wdrożył systemu kontroli wewnętrznej, nie dysponuje planem zakładu lub nie wyznaczył osoby odpowiedzialnej za kontrolę jakości, nie zawiadomił organu zezwalającego o zakończeniu działalności gospodarczej określonej w zezwoleniu w terminie 14 dni od dnia zakończenia tej działalności - podlega grzywnie. ” ; po art. 12 dodaje się art. 12a w brzmieniu: „ Kto bez wymaganego zezwolenia wyrabia, skaża, oczyszcza lub odwadnia alkohol etylowy albo wytwarza wyroby tytoniowe - podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku. Kto dopuszcza się czynu określonego w ust. 1, jeżeli czyn ten dotyczy alkoholu etylowego lub wyrobów tytoniowych znacznej wartości - podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2. ” ; w art. 14 po wyrazach „art. 12” dodaje się przecinek oraz wyrazy „art. 12a” ; po art. 14 dodaje się art. 14a w brzmieniu: „ W przypadkach określonych w art. 12a i art. 13 sąd może orzec przepadek rzeczy stanowiącej przedmiot przestępstwa albo służących lub przeznaczonych do jego popełnienia, choćby nie były własnością sprawcy. ” ."
+    },
+    {
+      "provision_ref": "art34p1",
+      "section": "34",
+      "title": "Art. 34 pkt 1",
+      "content": "W ustawie z dnia 2 marca 2001 r. o wyrobie spirytusu, wyrobie i rozlewie wyrobów spirytusowych oraz wytwarzaniu wyrobów tytoniowych wprowadza się następujące zmiany: tytuł ustawy otrzymuje brzmienie: „ o wyrobie alkoholu etylowego oraz wytwarzaniu wyrobów tytoniowych. ” ;"
+    },
+    {
+      "provision_ref": "art34p2",
+      "section": "34",
+      "title": "Art. 34 pkt 2",
+      "content": "W ustawie z dnia 2 marca 2001 r. o wyrobie spirytusu, wyrobie i rozlewie wyrobów spirytusowych oraz wytwarzaniu wyrobów tytoniowych wprowadza się następujące zmiany: art. 1 otrzymuje brzmienie: „ Ustawa określa zasady i warunki podejmowania i wykonywania działalności gospodarczej w zakresie wyrobu alkoholu etylowego i jego skażania oraz wytwarzania wyrobów tytoniowych. ” ;"
+    },
+    {
+      "provision_ref": "art34p3p1",
+      "section": "34",
+      "title": "Art. 34 pkt 3 pkt 1",
+      "content": "W ustawie z dnia 2 marca 2001 r. o wyrobie spirytusu, wyrobie i rozlewie wyrobów spirytusowych oraz wytwarzaniu wyrobów tytoniowych wprowadza się następujące zmiany: art. 2 otrzymuje brzmienie: „ W rozumieniu niniejszej ustawy: alkohol etylowy oznacza płyn alkoholowy uzyskany w wyniku destylacji po fermentacji alkoholowej produktów rolniczych albo płyn alkoholowy uzyskany w sposób syntetyczny,"
+    },
+    {
+      "provision_ref": "art34p3p2",
+      "section": "34",
+      "title": "Art. 34 pkt 3 pkt 2",
+      "content": "W ustawie z dnia 2 marca 2001 r. o wyrobie spirytusu, wyrobie i rozlewie wyrobów spirytusowych oraz wytwarzaniu wyrobów tytoniowych wprowadza się następujące zmiany: art. 2 otrzymuje brzmienie: „ W rozumieniu niniejszej ustawy: wyrób tytoniowy oznacza wyrób wyprodukowany z tytoniu przeznaczony do palenia oraz tabakę."
+    },
+    {
+      "provision_ref": "art34p4p1",
+      "section": "34",
+      "title": "Art. 34 pkt 4 pkt 1",
+      "content": "W ustawie z dnia 2 marca 2001 r. o wyrobie spirytusu, wyrobie i rozlewie wyrobów spirytusowych oraz wytwarzaniu wyrobów tytoniowych wprowadza się następujące zmiany: art. 3 otrzymuje brzmienie: „ Wykonywanie działalności gospodarczej w zakresie: wyrobu, oczyszczania, skażania lub odwadniania alkoholu etylowego,"
+    },
+    {
+      "provision_ref": "art34p4p2",
+      "section": "34",
+      "title": "Art. 34 pkt 4 pkt 2",
+      "content": "W ustawie z dnia 2 marca 2001 r. o wyrobie spirytusu, wyrobie i rozlewie wyrobów spirytusowych oraz wytwarzaniu wyrobów tytoniowych wprowadza się następujące zmiany: art. 3 otrzymuje brzmienie: „ Wykonywanie działalności gospodarczej w zakresie: wytwarzania wyrobów tytoniowych"
+    },
+    {
+      "provision_ref": "art34p5",
+      "section": "34",
+      "title": "Art. 34 pkt 5",
+      "content": "W ustawie z dnia 2 marca 2001 r. o wyrobie spirytusu, wyrobie i rozlewie wyrobów spirytusowych oraz wytwarzaniu wyrobów tytoniowych wprowadza się następujące zmiany: w art. 8-11 i w art. 13 użyty w różnych przypadkach wyraz „spirytus” zastępuje się użytymi w odpowiednich przypadkach wyrazami „alkohol etylowy” ;"
+    },
+    {
+      "provision_ref": "art34p6p1",
+      "section": "34",
+      "title": "Art. 34 pkt 6 pkt 1",
+      "content": "W ustawie z dnia 2 marca 2001 r. o wyrobie spirytusu, wyrobie i rozlewie wyrobów spirytusowych oraz wytwarzaniu wyrobów tytoniowych wprowadza się następujące zmiany: art. 12 otrzymuje brzmienie: „ Kto posiadając zezwolenie na wykonywanie działalności gospodarczej w zakresie wyrobu, oczyszczania, skażania lub odwadniania alkoholu etylowego albo wytwarzania wyrobów tytoniowych: nie wdrożył systemu kontroli wewnętrznej, nie dysponuje planem zakładu lub nie wyznaczył osoby odpowiedzialnej za kontrolę jakości,"
+    },
+    {
+      "provision_ref": "art34p6p2",
+      "section": "34",
+      "title": "Art. 34 pkt 6 pkt 2",
+      "content": "W ustawie z dnia 2 marca 2001 r. o wyrobie spirytusu, wyrobie i rozlewie wyrobów spirytusowych oraz wytwarzaniu wyrobów tytoniowych wprowadza się następujące zmiany: art. 12 otrzymuje brzmienie: „ Kto posiadając zezwolenie na wykonywanie działalności gospodarczej w zakresie wyrobu, oczyszczania, skażania lub odwadniania alkoholu etylowego albo wytwarzania wyrobów tytoniowych: nie zawiadomił organu zezwalającego o zakończeniu działalności gospodarczej określonej w zezwoleniu w terminie 14 dni od dnia zakończenia tej działalności"
+    },
+    {
+      "provision_ref": "art34p7u1",
+      "section": "34",
+      "title": "Art. 34 pkt 7 ust. 1",
+      "content": "W ustawie z dnia 2 marca 2001 r. o wyrobie spirytusu, wyrobie i rozlewie wyrobów spirytusowych oraz wytwarzaniu wyrobów tytoniowych wprowadza się następujące zmiany: po art. 12 dodaje się art. 12a w brzmieniu: „ Kto bez wymaganego zezwolenia wyrabia, skaża, oczyszcza lub odwadnia alkohol etylowy albo wytwarza wyroby tytoniowe - podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku."
+    },
+    {
+      "provision_ref": "art34p7u2",
+      "section": "34",
+      "title": "Art. 34 pkt 7 ust. 2",
+      "content": "W ustawie z dnia 2 marca 2001 r. o wyrobie spirytusu, wyrobie i rozlewie wyrobów spirytusowych oraz wytwarzaniu wyrobów tytoniowych wprowadza się następujące zmiany: po art. 12 dodaje się art. 12a w brzmieniu: „ Kto dopuszcza się czynu określonego w ust. 1, jeżeli czyn ten dotyczy alkoholu etylowego lub wyrobów tytoniowych znacznej wartości - podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2."
+    },
+    {
+      "provision_ref": "art34p8",
+      "section": "34",
+      "title": "Art. 34 pkt 8",
+      "content": "W ustawie z dnia 2 marca 2001 r. o wyrobie spirytusu, wyrobie i rozlewie wyrobów spirytusowych oraz wytwarzaniu wyrobów tytoniowych wprowadza się następujące zmiany: w art. 14 po wyrazach „art. 12” dodaje się przecinek oraz wyrazy „art. 12a” ;"
+    },
+    {
+      "provision_ref": "art34p9",
+      "section": "34",
+      "title": "Art. 34 pkt 9",
+      "content": "W ustawie z dnia 2 marca 2001 r. o wyrobie spirytusu, wyrobie i rozlewie wyrobów spirytusowych oraz wytwarzaniu wyrobów tytoniowych wprowadza się następujące zmiany: po art. 14 dodaje się art. 14a w brzmieniu: „ W przypadkach określonych w art. 12a i art. 13 sąd może orzec przepadek rzeczy stanowiącej przedmiot przestępstwa albo służących lub przeznaczonych do jego popełnienia, choćby nie były własnością sprawcy. ” ."
     },
     {
       "provision_ref": "art35",
       "section": "35",
       "title": "Art. 35",
-      "content": "W ustawie z dnia 11 maja 2001 r. o warunkach zdrowotnych żywności i żywienia ( Dz. U. z 2001 r. Nr 63, poz. 634 i Nr 128, poz. 1408 oraz z 2002 r. Nr 135, poz. 1145 ) w art. 1 ust. 2 otrzymuje brzmienie: „ 2. Przepisy ustawy dotyczące dozwolonych substancji dodatkowych i zanieczyszczeń, wymagań sanitarnych w zakładach produkcyjnych, wymagań zdrowotnych wobec osób biorących udział w procesie produkcji i w obrocie, a także przepisy dotyczące materiałów i wyrobów przeznaczonych do kontaktu z żywnością stosuje się również do wyrobu i rozlewu wyrobów winiarskich, a także do wyrobu alkoholu etylowego oraz wyrobu i rozlewu napojów spirytusowych. ” ."
+      "content": "W ustawie z dnia 11 maja 2001 r. o warunkach zdrowotnych żywności i żywienia w art. 1 ust. 2 otrzymuje brzmienie: „ Przepisy ustawy dotyczące dozwolonych substancji dodatkowych i zanieczyszczeń, wymagań sanitarnych w zakładach produkcyjnych, wymagań zdrowotnych wobec osób biorących udział w procesie produkcji i w obrocie, a także przepisy dotyczące materiałów i wyrobów przeznaczonych do kontaktu z żywnością stosuje się również do wyrobu i rozlewu wyrobów winiarskich, a także do wyrobu alkoholu etylowego oraz wyrobu i rozlewu napojów spirytusowych. ” ."
+    },
+    {
+      "provision_ref": "art35u2",
+      "section": "35",
+      "title": "Art. 35 ust. 2",
+      "content": "W ustawie z dnia 11 maja 2001 r. o warunkach zdrowotnych żywności i żywienia w art. 1 ust. 2 otrzymuje brzmienie: „ Przepisy ustawy dotyczące dozwolonych substancji dodatkowych i zanieczyszczeń, wymagań sanitarnych w zakładach produkcyjnych, wymagań zdrowotnych wobec osób biorących udział w procesie produkcji i w obrocie, a także przepisy dotyczące materiałów i wyrobów przeznaczonych do kontaktu z żywnością stosuje się również do wyrobu i rozlewu wyrobów winiarskich, a także do wyrobu alkoholu etylowego oraz wyrobu i rozlewu napojów spirytusowych."
     },
     {
       "provision_ref": "art36",
       "section": "36",
       "title": "Art. 36",
-      "content": "Zezwolenia na wyrób lub rozlew wyrobów spirytusowych, wyrób, oczyszczanie, skażanie lub odwadnianie spirytusu wydane przed dniem wejścia w życie niniejszej ustawy na podstawie ustawy z dnia 2 marca 2001 r. o wyrobie spirytusu, wyrobie i rozlewie wyrobów spirytusowych oraz wytwarzaniu wyrobów tytoniowych ( Dz. U. z 2001 r. Nr 31, poz. 353 ) stają się zezwoleniami odpowiednio na wyrób lub rozlew napojów spirytusowych, wyrób, oczyszczanie, skażanie lub odwadnianie alkoholu etylowego na czas, na który zostały wydane."
+      "content": "Zezwolenia na wyrób lub rozlew wyrobów spirytusowych, wyrób, oczyszczanie, skażanie lub odwadnianie spirytusu wydane przed dniem wejścia w życie niniejszej ustawy na podstawie ustawy z dnia 2 marca 2001 r. o wyrobie spirytusu, wyrobie i rozlewie wyrobów spirytusowych oraz wytwarzaniu wyrobów tytoniowych stają się zezwoleniami odpowiednio na wyrób lub rozlew napojów spirytusowych, wyrób, oczyszczanie, skażanie lub odwadnianie alkoholu etylowego na czas, na który zostały wydane."
     },
     {
       "provision_ref": "art37",
@@ -241,74 +1147,8 @@
       "provision_ref": "art39",
       "section": "39",
       "title": "Art. 39",
-      "content": "Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_2-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_2-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_2-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"arti_2-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"},{\"id\": \"arti_2-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\"},{\"id\": \"arti_2-pint_10\",\"symbol\": \"pint_10\",\"type\": \"pint\",\"name\": \"10\",\"title\": \"10)\"},{\"id\": \"arti_2-pint_11\",\"symbol\": \"pint_11\",\"type\": \"pint\",\"name\": \"11\",\"title\": \"11)\"},{\"id\": \"arti_2-pint_12\",\"symbol\": \"pint_12\",\"type\": \"pint\",\"name\": \"12\",\"title\": \"12)\"},{\"id\": \"arti_2-pint_13\",\"symbol\": \"pint_13\",\"type\": \"pint\",\"name\": \"13\",\"title\": \"13)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_3-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\",\"children\": [{\"id\": \"arti_3-pint_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_3-pint_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_3-pint_3-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"arti_3-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_4-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_4-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_4-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_4-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\",\"children\": [{\"id\": \"arti_4-pint_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_4-pint_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_4-pint_3-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_4-pint_3-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"arti_4-pint_3-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"},{\"id\": \"arti_4-pint_3-lett_f\",\"symbol\": \"lett_f\",\"type\": \"lett\",\"name\": \"f\",\"title\": \"f)\"},{\"id\": \"arti_4-pint_3-lett_g\",\"symbol\": \"lett_g\",\"type\": \"lett\",\"name\": \"g\",\"title\": \"g)\"},{\"id\": \"arti_4-pint_3-lett_h\",\"symbol\": \"lett_h\",\"type\": \"lett\",\"name\": \"h\",\"title\": \"h)\"}]},{\"id\": \"arti_4-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_4-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\",\"children\": [{\"id\": \"arti_4-pint_5-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_4-pint_5-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_4-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_4-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\",\"children\": [{\"id\": \"arti_4-pint_7-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_4-pint_7-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_4-pint_7-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"arti_4-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"},{\"id\": \"arti_4-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\"},{\"id\": \"arti_4-pint_10\",\"symbol\": \"pint_10\",\"type\": \"pint\",\"name\": \"10\",\"title\": \"10)\"},{\"id\": \"arti_4-pint_11\",\"symbol\": \"pint_11\",\"type\": \"pint\",\"name\": \"11\",\"title\": \"11)\",\"children\": [{\"id\": \"arti_4-pint_11-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_4-pint_11-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_4-pint_12\",\"symbol\": \"pint_12\",\"type\": \"pint\",\"name\": \"12\",\"title\": \"12)\",\"children\": [{\"id\": \"arti_4-pint_12-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_4-pint_12-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_4-pint_13\",\"symbol\": \"pint_13\",\"type\": \"pint\",\"name\": \"13\",\"title\": \"13)\"},{\"id\": \"arti_4-pint_14\",\"symbol\": \"pint_14\",\"type\": \"pint\",\"name\": \"14\",\"title\": \"14)\",\"children\": [{\"id\": \"arti_4-pint_14-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_4-pint_14-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_4-pint_15\",\"symbol\": \"pint_15\",\"type\": \"pint\",\"name\": \"15\",\"title\": \"15)\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_5-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_5-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_5-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_5-pass_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\",\"children\": [{\"id\": \"arti_5-pass_1-pint_4-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_5-pass_1-pint_4-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_5-pass_1-pint_4-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_5-pass_1-pint_4-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"arti_5-pass_1-pint_4-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"},{\"id\": \"arti_5-pass_1-pint_4-lett_f\",\"symbol\": \"lett_f\",\"type\": \"lett\",\"name\": \"f\",\"title\": \"f)\"},{\"id\": \"arti_5-pass_1-pint_4-lett_g\",\"symbol\": \"lett_g\",\"type\": \"lett\",\"name\": \"g\",\"title\": \"g)\"}]}]},{\"id\": \"arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_6-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_6-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_6-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_6-pass_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_6-pass_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_6-pass_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_6-pass_1-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"}]},{\"id\": \"arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"arti_6-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_6-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_6-pass_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_6-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"arti_7-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_7-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_7-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_7-pint_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"arti_7-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_7-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_7-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_7-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_7-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_7-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"arti_7-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"},{\"id\": \"arti_7-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\"},{\"id\": \"arti_7-pint_10\",\"symbol\": \"pint_10\",\"type\": \"pint\",\"name\": \"10\",\"title\": \"10)\"},{\"id\": \"arti_7-pint_11\",\"symbol\": \"pint_11\",\"type\": \"pint\",\"name\": \"11\",\"title\": \"11)\"},{\"id\": \"arti_7-pint_12\",\"symbol\": \"pint_12\",\"type\": \"pint\",\"name\": \"12\",\"title\": \"12)\"},{\"id\": \"arti_7-pint_13\",\"symbol\": \"pint_13\",\"type\": \"pint\",\"name\": \"13\",\"title\": \"13)\"}]},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"arti_8-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_8-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"arti_9-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_9-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\",\"children\": [{\"id\": \"arti_12-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_12-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_12-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\",\"children\": [{\"id\": \"arti_14-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_14-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_14-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\",\"children\": [{\"id\": \"arti_15-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_15-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_15-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_15-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_15-pass_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_15-pass_2\",\"symbol\": \"pass_2\",\"type\":"
+      "content": "Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia."
     }
   ],
-  "definitions": [
-    {
-      "term": "alkohol etylowy rolniczy (spirytus rektyfikowany rolniczy)",
-      "definition": "alkohol etylowy uzyskany w wyniku destylacji po fermentacji alkoholowej produktów rolniczych (surowców) lub w wyniku innych procesów technologicznych, o określonych właściwościach fizykochemicznych i organoleptycznych, który nie ma właściwości napoju spirytusowego",
-      "source_provision": "art2"
-    },
-    {
-      "term": "aromatyzowanie",
-      "definition": "użycie przy wyrobie napojów spirytusowych co najmniej jednej substancji naturalnej lub preparatu aromatycznego, ewentualnie substancji aromatycznej identycznej z naturalną, dopuszczonej na podstawie przepisów o warunkach zdrowotnych żywności i żywienia",
-      "source_provision": "art2"
-    },
-    {
-      "term": "barwienie",
-      "definition": "użycie przy wyrobie napojów spirytusowych co najmniej jednego barwnika dozwolonego na podstawie przepisów o warunkach zdrowotnych żywności i żywienia",
-      "source_provision": "art2"
-    },
-    {
-      "term": "destylat rolniczy (spirytus surowy rolniczy)",
-      "definition": "płyn alkoholowy uzyskany w wyniku destylacji po fermentacji alkoholowej produktów rolniczych, który nie ma właściwości alkoholu etylowego rolniczego ani właściwości napoju spirytusowego, lecz zachowuje zapach i smak pochodzące od użytych surowców",
-      "source_provision": "art2"
-    },
-    {
-      "term": "dodawanie alkoholu",
-      "definition": "postępowanie polegające na dodawaniu alkoholu etylowego rolniczego do napoju spirytusowego",
-      "source_provision": "art2"
-    },
-    {
-      "term": "kategoria napoju spirytusowego",
-      "definition": "wyodrębniona nazwą grupa napojów spirytusowych spełniająca określone wymagania w zakresie jakości oraz metod zastosowanych przy ich wyrobie",
-      "source_provision": "art2"
-    },
-    {
-      "term": "kupażowanie",
-      "definition": "połączenie co najmniej dwóch napojów spirytusowych należących do tej samej kategorii, lecz różniących się nieznacznie składem z uwagi na metody zastosowane przy ich wyrobie, sposoby przeprowadzania destylacji, okresy leżakowania lub geograficzny obszar produkcji",
-      "source_provision": "art2"
-    },
-    {
-      "term": "leżakowanie (dojrzewanie)",
-      "definition": "pozostawienie napoju spirytusowego, na określony czas, w specjalnych pojemnikach, umożliwiające naturalny przebieg reakcji fizykochemicznych, nadających napojowi spirytusowemu charakterystyczne cechy organoleptyczne",
-      "source_provision": "art2"
-    },
-    {
-      "term": "maceracja",
-      "definition": "proces technologiczny, w którym przez ekstrakcję surowców roślinnych alkoholem etylowym rolniczym uzyskuje się roztwór wodno-alkoholowy, stanowiący półprodukt do sporządzania napojów spirytusowych (macerat)",
-      "source_provision": "art2"
-    },
-    {
-      "term": "mors",
-      "definition": "sok surowy z owoców lub rozcieńczony sok z owoców uprzednio zagęszczony i utrwalony alkoholem etylowym rolniczym, o zawartości alkoholu nie mniejszej niż 16% obj. i nie większej niż 20% obj., stanowiący półprodukt do wyrobu napojów spirytusowych",
-      "source_provision": "art2"
-    },
-    {
-      "term": "zawartość alkoholu etylowego",
-      "definition": "stosunek objętości czystego alkoholu etylowego zawartego w danym napoju spirytusowym do całkowitej objętości tego napoju w temperaturze 20° Celsjusza, wyrażony jako „% obj.”",
-      "source_provision": "art2"
-    },
-    {
-      "term": "zawartość substancji lotnych",
-      "definition": "ilość substancji lotnych innych niż alkohol etylowy i metylowy, pochodzących wyłącznie z destylacji, zawarta w napoju spirytusowym uzyskanym wyłącznie w wyniku destylacji lub powtórnej destylacji (redestylacji) użytych surowców",
-      "source_provision": "art2"
-    },
-    {
-      "term": "zestawianie",
-      "definition": "zmieszanie co najmniej dwóch napojów spirytusowych, jak również zmieszanie półproduktów w celu uzyskania napoju spirytusowego.",
-      "source_provision": "art2"
-    }
-  ]
+  "definitions": []
 }

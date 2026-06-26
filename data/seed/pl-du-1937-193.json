@@ -19,7 +19,25 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Zezwala się na bezpłatne odstąpienie następujących nieruchomości państwowych: 1) gminie m. st. Warszawy - nieruchomości położonych przy ulicach: Marszałka Focha, Senatorskiej, Wierzbowej i Trębackiej w Warszawie, a oznaczonych Nr hip.: 474, 475, 476a, 614a i 635, 2) Uniwersytetowi Józefa Piłsudskiego w Warszawie dla potrzeb Domu Medyków, - placu o powierzchni 1108,42 m 2 , wydzielonego z nieruchomości, położonej przy ulicy Oczki Nr 7 w Warszawie, 3) gminie w Mickunach w powiecie wileńsko-trockim, w województwie wileńskim - parceli we wsi Bujwidze, o powierzchni 5667m 2 , razem ze znajdującym się na niej budynkiem, ograniczonej od południa i zachodu gruntami kościelnymi, od północy gruntami prywatnymi i od wschodu traktem Bystrzyce-Punżany."
+      "content": "Zezwala się na bezpłatne odstąpienie następujących nieruchomości państwowych: gminie m. st. Warszawy - nieruchomości położonych przy ulicach: Marszałka Focha, Senatorskiej, Wierzbowej i Trębackiej w Warszawie, a oznaczonych Nr hip.: 474, 475, 476a, 614a i 635, Uniwersytetowi Józefa Piłsudskiego w Warszawie dla potrzeb Domu Medyków, - placu o powierzchni 1108,42 m 2 , wydzielonego z nieruchomości, położonej przy ulicy Oczki Nr 7 w Warszawie, gminie w Mickunach w powiecie wileńsko-trockim, w województwie wileńskim - parceli we wsi Bujwidze, o powierzchni 5667m 2 , razem ze znajdującym się na niej budynkiem, ograniczonej od południa i zachodu gruntami kościelnymi, od północy gruntami prywatnymi i od wschodu traktem Bystrzyce-Punżany."
+    },
+    {
+      "provision_ref": "art2p1",
+      "section": "2",
+      "title": "Art. 2 pkt 1",
+      "content": "Zezwala się na bezpłatne odstąpienie następujących nieruchomości państwowych: gminie m. st. Warszawy - nieruchomości położonych przy ulicach: Marszałka Focha, Senatorskiej, Wierzbowej i Trębackiej w Warszawie, a oznaczonych Nr hip.: 474, 475, 476a, 614a i 635,"
+    },
+    {
+      "provision_ref": "art2p2",
+      "section": "2",
+      "title": "Art. 2 pkt 2",
+      "content": "Zezwala się na bezpłatne odstąpienie następujących nieruchomości państwowych: Uniwersytetowi Józefa Piłsudskiego w Warszawie dla potrzeb Domu Medyków, - placu o powierzchni 1108,42 m 2 , wydzielonego z nieruchomości, położonej przy ulicy Oczki Nr 7 w Warszawie,"
+    },
+    {
+      "provision_ref": "art2p3",
+      "section": "2",
+      "title": "Art. 2 pkt 3",
+      "content": "Zezwala się na bezpłatne odstąpienie następujących nieruchomości państwowych: gminie w Mickunach w powiecie wileńsko-trockim, w województwie wileńskim - parceli we wsi Bujwidze, o powierzchni 5667m 2 , razem ze znajdującym się na niej budynkiem, ograniczonej od południa i zachodu gruntami kościelnymi, od północy gruntami prywatnymi i od wschodu traktem Bystrzyce-Punżany."
     },
     {
       "provision_ref": "art3",
@@ -31,7 +49,7 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia."
     }
   ],
   "definitions": []
