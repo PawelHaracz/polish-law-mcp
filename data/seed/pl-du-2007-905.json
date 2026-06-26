@@ -2161,5 +2161,39 @@
       "definition": "1)} = K_{Ogaz(i - 1)} - K_{Ogazf(i - 1)} \\) gdzie poszczególne symbole oznaczają: K Ogaz (i-1) - kwota kosztów, o których mowa w art. 44, dla roku „i-1”, obliczana według wzoru: \\( K_{Ogaz(i - 1)} = A_{i - 1} \\left[ {\\left( {J_{kg(i - 1)} - J_{kw(i - 1)} } \\right) - \\left( {C_{g(i - 1)} - C_{w(i - 1)} } \\right)} \\right]W_g \\) gdzie poszczególne symbole oznaczają: A i-1 - ilość energii elektrycznej wytworzoną przez danego wytwórcę w roku „i-1”, wynikającą z ilości gazu zakupionego na podstawie umowy z dostawcą paliwa gazowego, obowiązującej w roku i-1” J kg (i-1) - średnioroczny faktyczny koszt gazu na jedną megawatogodzinę produkcji w roku „i-1” poniesiony przez danego wytwórcę, obliczony z uwzględnieniem całości opłat poniesionych w roku „i-1” na rzecz dostawcy gazu oraz kosztów przesyłu gazu, J kw (j-1) - średnioroczny jednostkowy koszt węgla zużywanego na wytworzenie jednej megawatogodziny energii elektrycznej w roku „i-1” u wytwórców eksploatujących jednostki centralnie dysponowane opalane węglem, z uwzględnieniem kosztów transportu węgla, C g (i-1) - średnią cenę energii elektrycznej wytworzonej przez danego wytwórcę w jednostkach opalanych gazem w roku „i-1”, C w (i-1) - średnią cenę energii elektrycznej wytworzonej w jednostkach centralnie dysponowanych opalanych węglem w roku „i-1”, W g - współczynnik korygujący, którego wartość wynosi: - 1 dla wytwórców nabywających gaz ziemny pochodzący ze złóż krajowych, - \\( {{J{}_{kgk(i - 1)}} \\over {J{}_{kgs(i - 1)}}} \\) dla pozostałych wytwórców gdzie: J kgk (i-1) - średnioroczny koszt gazu ziemnego dla wytwórców nabywających gaz ziemny pochodzący ze złóż krajowych w roku „i-1” obliczony z uwzględnieniem poniesionych kosztów jego dostarczania, wyrażony w złotych na MWh, J kgs (i-1) - średnioroczny koszt gazu ziemnego dla pozostałych wytwórców w roku „i-1” obliczony z uwzględnieniem poniesionych kosztów jego dostarczania, wyrażony w złotych na MWh, K ogazf (i-1) - kwota zaliczki wypłaconej wytwórcy za rok „i-1” z tytułu pokrycia kosztów, o których mowa w art. 44.",
       "source_provision": "art46u1"
     }
+  ],
+  "references": [
+    {
+      "target_document_id": "pl-du-2002-694",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2006-625",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2000-654",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1964-296",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2004-535",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2000-1037",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2005-1954",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2005-60",
+      "ref_type": "references"
+    }
   ]
 }

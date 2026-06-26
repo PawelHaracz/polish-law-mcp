@@ -19,6 +19,7 @@ import { formatCitationTool, type FormatCitationInput } from './format-citation.
 import { checkCurrency, type CheckCurrencyInput } from './check-currency.js';
 import { getEUBasis, type GetEUBasisInput } from './get-eu-basis.js';
 import { getPolishImplementations, type GetPolishImplementationsInput } from './get-polish-implementations.js';
+import { getRelatedActs, type GetRelatedActsInput } from './get-related-acts.js';
 import { searchEUImplementations, type SearchEUImplementationsInput } from './search-eu-implementations.js';
 import { getProvisionEUBasis, type GetProvisionEUBasisInput } from './get-provision-eu-basis.js';
 import { validateEUCompliance, type ValidateEUComplianceInput } from './validate-eu-compliance.js';
@@ -253,6 +254,41 @@ export const TOOLS: Tool[] = [
     },
   },
   {
+    name: 'get_related_acts',
+    description:
+      'Find acts related to a given statute through the citation graph. ' +
+      'Returns neighbours in both directions: acts that this one amends or cites (outbound) ' +
+      'and acts that amend or cite this one (inbound), via cross_references edges ' +
+      '(ref_type: amended_by | references). Use to answer "what amends the Labour Code?" or ' +
+      '"which acts does this amendment touch?". Results are ordered by source-of-law rank then status.',
+    inputSchema: {
+      type: 'object',
+      properties: {
+        document_id: {
+          type: 'string',
+          description: 'Statute identifier: title, abbreviation, or internal ID (e.g., "Kodeks pracy", "pl-du-1974-141").',
+        },
+        direction: {
+          type: 'string',
+          enum: ['outbound', 'inbound', 'both'],
+          description: 'outbound = acts this one cites/amends; inbound = acts citing/amending this one; both (default).',
+          default: 'both',
+        },
+        ref_type: {
+          type: 'string',
+          enum: ['references', 'amended_by'],
+          description: 'Optional: filter edges by type.',
+        },
+        limit: {
+          type: 'number',
+          description: 'Max results per direction (default: 25, max: 100).',
+          default: 25,
+        },
+      },
+      required: ['document_id'],
+    },
+  },
+  {
     name: 'search_eu_implementations',
     description:
       'Search for EU directives and regulations that are referenced by Polish legislation. ' +
@@ -385,6 +421,9 @@ export function registerTools(
           break;
         case 'get_polish_implementations':
           result = await getPolishImplementations(db, args as unknown as GetPolishImplementationsInput);
+          break;
+        case 'get_related_acts':
+          result = await getRelatedActs(db, args as unknown as GetRelatedActsInput);
           break;
         case 'search_eu_implementations':
           result = await searchEUImplementations(db, args as unknown as SearchEUImplementationsInput);

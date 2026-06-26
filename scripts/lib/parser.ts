@@ -48,6 +48,16 @@ export interface ParsedDefinition {
   source_provision?: string;
 }
 
+/**
+ * An outbound citation to another act, harvested from the ELI HTML's
+ * `<A class="pro-lexlink" href=".../DU/YYYY/POZ/...">` links BEFORE stripHtml
+ * removes them. target_document_id is in this project's id form (pl-du-YYYY-POZ).
+ */
+export interface ParsedReference {
+  target_document_id: string;
+  ref_type: 'references' | 'amended_by';
+}
+
 export interface ParsedAct {
   id: string;
   type: 'statute';
@@ -61,6 +71,7 @@ export interface ParsedAct {
   description?: string;
   provisions: ParsedProvision[];
   definitions: ParsedDefinition[];
+  references?: ParsedReference[];
 }
 
 /**
@@ -136,6 +147,36 @@ function trimActFooter(html: string): string {
     }
   }
   return cut < html.length ? html.slice(0, cut) : html;
+}
+
+/**
+ * Harvest outbound citations from the raw HTML before stripHtml discards the
+ * <A> tags. ELI marks cross-act links with class="pro-lexlink" and an href like
+ * https://api.sejm.gov.pl/eli/acts/DU/1974/141/text.html — we map DU/YYYY/POZ to
+ * this project's id form pl-du-YYYY-POZ. Self-references and duplicates dropped.
+ *
+ * amended_by is derived from the title ("o zmianie ustawy …"): an act whose title
+ * announces it amends another is recorded as referencing that target with
+ * ref_type 'amended_by'. We can't always resolve the exact target id from the
+ * title alone, so the strongest amend signal we keep is the link set on a
+ * titled-amending act, typed as 'amended_by' rather than plain 'references'.
+ */
+function extractReferences(rawHtml: string, selfId: string, title: string): ParsedReference[] {
+  const isAmendingAct = /\bo\s+zmianie\b/i.test(title);
+  const seen = new Map<string, ParsedReference['ref_type']>();
+
+  const linkRe = /class="pro-lexlink"[^>]*href="[^"]*\/DU\/(\d{4})\/(\d+)\b/gi;
+  let m: RegExpExecArray | null;
+  while ((m = linkRe.exec(rawHtml)) !== null) {
+    const targetId = `pl-du-${m[1]}-${m[2]}`;
+    if (targetId === selfId) continue;
+    // An amending act's links are predominantly to the act(s) it modifies.
+    const type: ParsedReference['ref_type'] = isAmendingAct ? 'amended_by' : 'references';
+    // Keep the stronger 'amended_by' if seen both ways.
+    if (seen.get(targetId) !== 'amended_by') seen.set(targetId, type);
+  }
+
+  return Array.from(seen, ([target_document_id, ref_type]) => ({ target_document_id, ref_type }));
 }
 
 /**
@@ -541,6 +582,7 @@ export function parsePolishHtml(rawHtml: string, act: ActIndexEntry): ParsedAct 
     description: act.description,
     provisions,
     definitions,
+    references: extractReferences(rawHtml, act.id, act.title),
   };
 }
 
