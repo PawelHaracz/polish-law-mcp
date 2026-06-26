@@ -9,6 +9,22 @@
 const BOOLEAN_OPERATORS = new Set(['AND', 'OR', 'NOT']);
 
 /**
+ * Fold Polish letters that SQLite's `unicode61` tokenizer does NOT strip.
+ *
+ * `unicode61` (with default `remove_diacritics 1`) folds NFD-decomposable
+ * diacritics — ą, ć, ę, ń, ó, ś, ź, ż all match their bare forms. But `ł`/`Ł`
+ * are a separate Unicode codepoint (L WITH STROKE), not a base letter + combining
+ * mark, so NFD leaves them intact and they tokenize as distinct letters.
+ *
+ * Result: a user searching "oplata" finds 3 rows while "opłata" finds 1318.
+ * We fold ł→l (and Ł→L) on BOTH the indexing side (build-db) and the query side
+ * so the two converge. This is the only fold unicode61 misses for Polish.
+ */
+export function normalizePolishForFts(input: string): string {
+  return input.replace(/ł/g, 'l').replace(/Ł/g, 'L');
+}
+
+/**
  * Common English suffixes for naive stemming.
  * Ordered longest-first so we strip the most specific suffix.
  */
@@ -50,7 +66,8 @@ function containsBooleanOperators(tokens: string[]): boolean {
  * preserving AND, OR, NOT as boolean operators when they appear
  * between search terms.
  */
-export function sanitizeFtsInput(input: string): string {
+export function sanitizeFtsInput(rawInput: string): string {
+  const input = normalizePolishForFts(rawInput);
   const tokens = input.split(/\s+/).filter(t => t.length > 0);
   if (tokens.length === 0) return '';
 
@@ -116,15 +133,27 @@ export function buildFtsQueryVariants(sanitized: string): string[] {
     variants.push(prefixTerms.join(' AND '));
   }
 
-  // Tier 4: Stemmed prefix (all terms stemmed with wildcards)
+  // Tier 4: All-token prefix AND — the key tier for Polish inflection.
+  // Polish is heavily inflected (świadczenie / świadczenia / świadczeniu /
+  // świadczeń), so wildcarding EVERY token catches case/number variants that an
+  // exact match misses. Measured: "świadcz*" matches 12470 rows vs 2306 for the
+  // exact form — a 5x recall gain. Ordered ahead of the OR fallback so precise
+  // (AND-joined) prefix hits win before the noisier OR pass.
+  if (tokens.length > 1) {
+    const allPrefix = tokens.map(t => `${t}*`).join(' AND ');
+    if (!variants.includes(allPrefix)) variants.push(allPrefix);
+  }
+
+  // Tier 5: English stemmed prefix — secondary fallback for English loanwords
+  // and English-language titles. stemWord() returns null for Polish words
+  // (English suffix list), so this only differs from Tier 4 for English input.
   const stemmed = tokens.map(t => stemWord(t) ?? `${t}*`);
   const stemmedQuery = stemmed.join(' AND ');
-  // Only add if different from tier 3
   if (!variants.includes(stemmedQuery)) {
     variants.push(stemmedQuery);
   }
 
-  // Tier 5: OR query (broadest FTS5 variant)
+  // Tier 6: OR query (broadest FTS5 variant)
   if (tokens.length > 1) {
     variants.push(tokens.join(' OR '));
   }
@@ -162,6 +191,10 @@ export function buildFtsQueryVariantsLegacy(query: string): FtsQueryVariants {
 }
 
 export function buildLikePattern(input: string): string {
+  // Intentionally NOT ł-folded: the LIKE fallback queries the raw
+  // legal_provisions.content column, which keeps original Polish spelling.
+  // Folding here ("opłata" -> "oplata") would make the pattern miss the
+  // raw text entirely (1806 rows -> 4). FTS folding happens via sanitizeFtsInput.
   const tokens = input
     .replace(/['"(){}[\]^~*:@#$%&+=<>|\\/.!?,;]/g, ' ')
     .replace(/\s+/g, ' ')

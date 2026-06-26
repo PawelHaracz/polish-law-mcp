@@ -61,6 +61,11 @@ export async function searchLegislation(
 
   let queryStrategy = 'none';
   for (const ftsQuery of queryVariants) {
+    // bm25 weights: content (col 0) is the primary signal; doc_title (col 1) is
+    // weighted higher so a query matching the statute name (e.g. "kodeks karny")
+    // surfaces that act's provisions ahead of incidental body mentions.
+    // Snippet is built from the RAW lp.content (not the ł-folded FTS copy) so the
+    // displayed text keeps correct Polish spelling.
     let sql = `
       SELECT
         lp.document_id,
@@ -69,8 +74,8 @@ export async function searchLegislation(
         lp.chapter,
         lp.section,
         lp.title,
-        snippet(provisions_fts, 0, '>>>', '<<<', '...', 32) as snippet,
-        bm25(provisions_fts) as relevance
+        substr(lp.content, 1, 240) as snippet,
+        bm25(provisions_fts, 1.0, 8.0) as relevance
       FROM provisions_fts
       JOIN legal_provisions lp ON lp.id = provisions_fts.rowid
       JOIN legal_documents ld ON ld.id = lp.document_id

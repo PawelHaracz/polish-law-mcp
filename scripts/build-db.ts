@@ -100,29 +100,56 @@ CREATE TABLE legal_provisions (
 CREATE INDEX idx_provisions_doc ON legal_provisions(document_id);
 CREATE INDEX idx_provisions_chapter ON legal_provisions(document_id, chapter);
 
--- FTS5 for provision search
+-- FTS5 for provision search.
+--
+-- Standalone (NOT external-content) so we can store ł-folded text for matching
+-- while the raw legal_provisions.content stays intact for display/snippets.
+-- Columns:
+--   content   — ł-folded provision body (unicode61 strips the other diacritics)
+--   doc_title — ł-folded parent document title, so "kodeks karny" finds the
+--               statute even though provision bodies rarely repeat the act name.
+-- bm25 weights are applied at query time (see search-legislation.ts).
 CREATE VIRTUAL TABLE provisions_fts USING fts5(
-  content, title,
-  content='legal_provisions',
-  content_rowid='id',
+  content, doc_title,
   tokenize='unicode61'
 );
 
+-- ł/Ł is a distinct Unicode codepoint that unicode61 does NOT fold, so we fold
+-- it ourselves on the way into the index. The query side folds identically
+-- (see normalizePolishForFts) so the two converge.
 CREATE TRIGGER provisions_ai AFTER INSERT ON legal_provisions BEGIN
-  INSERT INTO provisions_fts(rowid, content, title)
-  VALUES (new.id, new.content, new.title);
+  INSERT INTO provisions_fts(rowid, content, doc_title)
+  VALUES (
+    new.id,
+    replace(replace(new.content, 'ł', 'l'), 'Ł', 'L'),
+    replace(replace(
+      (SELECT title FROM legal_documents WHERE id = new.document_id),
+      'ł', 'l'), 'Ł', 'L')
+  );
 END;
 
 CREATE TRIGGER provisions_ad AFTER DELETE ON legal_provisions BEGIN
-  INSERT INTO provisions_fts(provisions_fts, rowid, content, title)
-  VALUES ('delete', old.id, old.content, old.title);
+  INSERT INTO provisions_fts(provisions_fts, rowid, content, doc_title)
+  VALUES ('delete', old.id,
+    replace(replace(old.content, 'ł', 'l'), 'Ł', 'L'),
+    replace(replace(
+      (SELECT title FROM legal_documents WHERE id = old.document_id),
+      'ł', 'l'), 'Ł', 'L'));
 END;
 
 CREATE TRIGGER provisions_au AFTER UPDATE ON legal_provisions BEGIN
-  INSERT INTO provisions_fts(provisions_fts, rowid, content, title)
-  VALUES ('delete', old.id, old.content, old.title);
-  INSERT INTO provisions_fts(rowid, content, title)
-  VALUES (new.id, new.content, new.title);
+  INSERT INTO provisions_fts(provisions_fts, rowid, content, doc_title)
+  VALUES ('delete', old.id,
+    replace(replace(old.content, 'ł', 'l'), 'Ł', 'L'),
+    replace(replace(
+      (SELECT title FROM legal_documents WHERE id = old.document_id),
+      'ł', 'l'), 'Ł', 'L'));
+  INSERT INTO provisions_fts(rowid, content, doc_title)
+  VALUES (new.id,
+    replace(replace(new.content, 'ł', 'l'), 'Ł', 'L'),
+    replace(replace(
+      (SELECT title FROM legal_documents WHERE id = new.document_id),
+      'ł', 'l'), 'Ł', 'L'));
 END;
 
 -- Cross-references between provisions/documents
