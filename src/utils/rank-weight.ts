@@ -38,12 +38,32 @@ export function statusPenalty(status: string | null | undefined): number {
 }
 
 /**
- * Final rerank score from a raw bm25 value and the document status.
- * Lower = better, same direction as bm25, so existing ORDER BY ASC keeps working.
- *
- * Designed to extend: a future legal_rank (Konstytucja=0 … prawo miejscowe=4)
- * becomes another additive term here without touching call sites.
+ * Per-rung penalty for the source-of-law hierarchy (legal_rank). Konstytucja=0
+ * gets no penalty; each rung down (ustawa, rozporządzenie, …) adds a small nudge.
+ * Deliberately SMALLER than the status penalties: validity ("is this still
+ * binding") matters more than rank ("how high in the hierarchy") for surfacing
+ * the right provision. Tunable.
  */
-export function rerankScore(bm25: number, status: string | null | undefined): number {
-  return bm25 + statusPenalty(status);
+export const RANK_PENALTY_PER_RUNG = 0.25;
+
+/** Penalty added to bm25 by source-of-law rank (0=Konstytucja … 4=local). */
+export function rankPenalty(legalRank: number | null | undefined): number {
+  if (typeof legalRank !== 'number' || legalRank <= 0) return 0;
+  return legalRank * RANK_PENALTY_PER_RUNG;
+}
+
+/**
+ * Final rerank score from a raw bm25 value, the document status, and the
+ * source-of-law rank. Lower = better, same direction as bm25, so existing
+ * ORDER BY ASC keeps working.
+ *
+ * Combined signal: bm25 (relevance) + status penalty (validity) + rank penalty
+ * (hierarchy). Status dominates rank by design.
+ */
+export function rerankScore(
+  bm25: number,
+  status: string | null | undefined,
+  legalRank?: number | null,
+): number {
+  return bm25 + statusPenalty(status) + rankPenalty(legalRank);
 }

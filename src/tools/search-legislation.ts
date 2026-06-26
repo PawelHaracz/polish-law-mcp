@@ -29,6 +29,8 @@ export interface SearchLegislationResult {
   relevance: number;
   /** Document validity status — used internally for reranking; not part of the public shape. */
   status?: string | null;
+  /** Source-of-law rank — used internally for reranking. */
+  legal_rank?: number | null;
 }
 
 const DEFAULT_LIMIT = 10;
@@ -80,7 +82,8 @@ export async function searchLegislation(
         lp.title,
         substr(lp.content, 1, 240) as snippet,
         bm25(provisions_fts, 1.0, 8.0) as relevance,
-        ld.status as status
+        ld.status as status,
+        ld.legal_rank as legal_rank
       FROM provisions_fts
       JOIN legal_provisions lp ON lp.id = provisions_fts.rowid
       JOIN legal_documents ld ON ld.id = lp.document_id
@@ -179,7 +182,10 @@ export async function searchLegislation(
  * Sorts ascending because both bm25 and the penalty are "lower = better".
  */
 function rerankByStatus(rows: SearchLegislationResult[]): void {
-  rows.sort((a, b) => rerankScore(a.relevance, a.status) - rerankScore(b.relevance, b.status));
+  rows.sort((a, b) =>
+    rerankScore(a.relevance, a.status, a.legal_rank) -
+    rerankScore(b.relevance, b.status, b.legal_rank),
+  );
 }
 
 /**

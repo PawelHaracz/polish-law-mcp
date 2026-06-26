@@ -1,5 +1,10 @@
 import { describe, it, expect } from 'vitest';
-import { statusPenalty, rerankScore, STATUS_PENALTY } from '../src/utils/rank-weight.js';
+import {
+  statusPenalty,
+  rerankScore,
+  rankPenalty,
+  STATUS_PENALTY,
+} from '../src/utils/rank-weight.js';
 
 describe('statusPenalty', () => {
   it('penalises repealed most, then not-yet-in-force/amended, never in_force', () => {
@@ -35,5 +40,26 @@ describe('rerankScore', () => {
     const repealed = rerankScore(-25, 'repealed'); // -23
     const inForce = rerankScore(-17, 'in_force');  // -17
     expect(repealed).toBeLessThan(inForce);
+  });
+});
+
+describe('rankPenalty + hierarchy in rerankScore', () => {
+  it('penalises lower source-of-law rank, never the Constitution (rank 0)', () => {
+    expect(rankPenalty(0)).toBe(0);                 // Konstytucja
+    expect(rankPenalty(2)).toBeGreaterThan(0);      // ustawa
+    expect(rankPenalty(3)).toBeGreaterThan(rankPenalty(2)); // rozporządzenie below ustawa
+    expect(rankPenalty(null)).toBe(0);
+  });
+
+  it('status dominates rank: an in-force statute beats a repealed constitution match', () => {
+    const repealedConst = rerankScore(-17, 'repealed', 0); // status penalty 2.0, rank 0
+    const inForceStatute = rerankScore(-17, 'in_force', 2); // rank penalty 0.5
+    expect(inForceStatute).toBeLessThan(repealedConst);
+  });
+
+  it('rank breaks ties between equally-relevant in-force sources', () => {
+    const konstytucja = rerankScore(-17, 'in_force', 0);
+    const ustawa = rerankScore(-17, 'in_force', 2);
+    expect(konstytucja).toBeLessThan(ustawa); // Constitution ranks higher
   });
 });

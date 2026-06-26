@@ -12,6 +12,7 @@ import Database from 'better-sqlite3';
 import * as fs from 'fs';
 import * as path from 'path';
 import { fileURLToPath } from 'url';
+import { classifyLegalRank } from '../src/utils/legal-rank.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -81,6 +82,9 @@ CREATE TABLE legal_documents (
   in_force_date TEXT,
   url TEXT,
   description TEXT,
+  -- Source-of-law hierarchy (art. 87/91): 0=Konstytucja, 1=umowa międzynar.,
+  -- 2=ustawa, 3=rozporządzenie, 4=prawo miejscowe. Secondary reranking signal.
+  legal_rank INTEGER NOT NULL DEFAULT 2,
   last_updated TEXT DEFAULT (datetime('now'))
 );
 
@@ -390,8 +394,8 @@ function buildDatabase(): void {
   db.exec(SCHEMA);
 
   const insertDoc = db.prepare(`
-    INSERT INTO legal_documents (id, type, title, title_en, short_name, status, issued_date, in_force_date, url, description)
-    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+    INSERT INTO legal_documents (id, type, title, title_en, short_name, status, issued_date, in_force_date, url, description, legal_rank)
+    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
   `);
 
   const insertProvision = db.prepare(`
@@ -450,6 +454,7 @@ function buildDatabase(): void {
         seed.short_name ?? null, seed.status ?? 'in_force',
         seed.issued_date ?? null, seed.in_force_date ?? null,
         seed.url ?? null, seed.description ?? null,
+        classifyLegalRank(seed.title),
       );
       totalDocs++;
 
