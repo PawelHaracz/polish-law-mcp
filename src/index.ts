@@ -12,7 +12,7 @@ import Database from '@ansvar/mcp-sqlite';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import { createHash } from 'crypto';
-import { readFileSync } from 'fs';
+import { existsSync, readFileSync } from 'fs';
 
 import { registerTools, type AboutContext } from './tools/registry.js';
 import { detectCapabilities, readDbMetadata } from './capabilities.js';
@@ -37,6 +37,15 @@ let db: InstanceType<typeof Database> | null = null;
 function getDb(): InstanceType<typeof Database> {
   if (!db) {
     const dbPath = resolveDbPath();
+    if (!existsSync(dbPath)) {
+      // The database (~1.4 GB) is shipped separately, not bundled in the npm
+      // package. Fail with an actionable message instead of an opaque copy error.
+      throw new Error(
+        `Polish Law database not found at "${dbPath}". The database is distributed ` +
+        `separately from this package. Download it and either place it at that path ` +
+        `or set ${DB_ENV_VAR} to its location. See the README "Database" section.`,
+      );
+    }
     db = new Database(ensureReadableDb(dbPath), { readonly: true });
     db.pragma('foreign_keys = ON');
 
