@@ -13,10 +13,20 @@ export interface ResponseMetadata {
   query_strategy?: string;
 }
 
+/** A graph neighbour surfaced alongside a provision (e.g. an amending act). */
+export interface RelatedActRef {
+  document_id: string;
+  document_title: string;
+  ref_type: string;
+  direction: 'inbound' | 'outbound';
+}
+
 export interface ToolResponse<T> {
   results: T;
   _metadata: ResponseMetadata;
   _citation?: import('./citation.js').CitationMetadata;
+  /** Graph-aware context: related acts via the citation graph, when relevant. */
+  _related?: RelatedActRef[];
 }
 
 export function generateResponseMetadata(

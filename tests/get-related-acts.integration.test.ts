@@ -42,3 +42,20 @@ run('get_related_acts (integration)', () => {
     expect(res._metadata?.note).toMatch(/No document found/);
   });
 });
+
+run('get_provision _related enrichment (integration)', () => {
+  let db2: import('better-sqlite3').Database;
+  beforeAll(async () => {
+    const Database = (await import('better-sqlite3')).default;
+    db2 = new Database(DB_PATH, { readonly: true });
+  });
+  afterAll(() => { db2?.close(); });
+
+  it('attaches amending acts as _related when fetching a provision of an amended act', async () => {
+    const { getProvision } = await import('../src/tools/get-provision.js');
+    const res = await getProvision(db2 as never, { document_id: 'pl-du-1974-141', provision_ref: 'art30' });
+    expect(res.results.length).toBe(1);
+    expect(res._related && res._related.length).toBeGreaterThan(0);
+    for (const r of res._related ?? []) expect(r.ref_type).toBe('amended_by');
+  });
+});

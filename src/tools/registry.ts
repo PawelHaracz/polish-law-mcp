@@ -95,6 +95,8 @@ export const TOOLS: Tool[] = [
       'provision_ref is hierarchical: art1 returns the whole article (aggregate), while art1u2 (ust. 2), ' +
       'art1u2p3 (pkt 3), art1u2p3la (lit. a), art4par2 (§ 2) return the exact sub-unit. ' +
       'Omit section/provision_ref to get ALL provisions in the statute (use sparingly — can be large). ' +
+      'When the act has been amended, the response includes a _related list of the amending acts ' +
+      '(citation-graph context) — use get_related_acts for the full graph. ' +
       'Subsection references like "13(1)" or "s29(2)(a)" resolve to the parent section. ' +
       'Returns provision text, chapter, section number, and metadata. ' +
       'Supports Act title references (e.g., "Privacy Act 1988"), abbreviations, and full titles. ' +
