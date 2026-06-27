@@ -402,7 +402,12 @@ function emitProvision(
   }
 }
 
-/** Parse one top-level article: emit its aggregate row + recurse into sub-units. */
+/**
+ * Parse one top-level unit (an artykuł in ustawy, or a paragraf § in
+ * rozporządzenia — they use § as the primary unit, no Art.): emit its aggregate
+ * row + recurse into sub-units. baseRef/title derive from the unit's level so a
+ * top-level § becomes par1 (not art1par1).
+ */
 function walkArticle(
   node: UnitNode,
   act: ActIndexEntry,
@@ -410,17 +415,21 @@ function walkArticle(
   provisions: ParsedProvision[],
   definitions: ParsedDefinition[],
 ): void {
-  const num = unitNumber(node.html, 'arti') || node.id.match(/arti_(\d+[a-z]*)/i)?.[1] || '';
+  const level: UnitLevel = node.level === 'para' ? 'para' : 'arti';
+  const num =
+    unitNumber(node.html, level) ||
+    node.id.match(/(?:arti|para)_(\d+[a-z]*)/i)?.[1] || '';
   if (!num) return;
-  const baseRef = `art${num}`;
+  const baseRef = `${LEVEL_TAG[level]}${num}`;
+  const titlePrefix = level === 'para' ? `§ ${num}` : `Art. ${num}`;
 
-  // Aggregate row — full recursive text (backward-compatible whole-article view).
+  // Aggregate row — full recursive text (backward-compatible whole-unit view).
   emitProvision(
     provisions, definitions, act, baseRef, chapter, num,
-    `Art. ${num}`, stripHtml(stripHeadings(node.html)),
+    titlePrefix, stripHtml(stripHeadings(node.html)),
   );
 
-  // Leaf rows — recurse into the article's direct numbered children.
+  // Leaf rows — recurse into the unit's direct numbered children.
   const children = directChildUnits(node.html);
   if (children.length === 0) return;
   const chapeau = leadingChapeau(node.html);
@@ -558,13 +567,16 @@ export function parsePolishHtml(rawHtml: string, act: ActIndexEntry): ParsedAct 
   // Cut at the first footer marker that appears after article content.
   const html = trimActFooter(rawHtml);
 
-  // Enumerate TOP-LEVEL articles only (skip nested arti inside amendment
-  // cite-boxes — those are the new wording of a DIFFERENT act and are kept inline
-  // in their parent punkt, never promoted to their own rows).
-  const articleNodes = findChildUnits(html, ['arti']);
+  // Enumerate TOP-LEVEL units. Ustawy use artykuły (unit_arti); rozporządzenia
+  // use paragrafy § (unit_para) as the primary unit with no Art. layer. Prefer
+  // arti; fall back to top-level para only when an act has no articles at all.
+  // (Skip nested arti inside amendment cite-boxes — different act, kept inline.)
+  let topNodes = findChildUnits(html, ['arti']).filter(n => !isNestedOrCiteBoxId(n.id));
+  if (topNodes.length === 0) {
+    topNodes = findChildUnits(html, ['para']).filter(n => !isNestedOrCiteBoxId(n.id));
+  }
 
-  for (const node of articleNodes) {
-    if (isNestedOrCiteBoxId(node.id)) continue;
+  for (const node of topNodes) {
     const chapter = findChapterHeading(html, node.pos);
     walkArticle(node, act, chapter, provisions, definitions);
   }

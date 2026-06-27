@@ -49,6 +49,7 @@
     "census": "node --import tsx scripts/census.ts",
     "ingest": "node --import tsx scripts/ingest.ts",
     "ingest:pdf": "node --import tsx scripts/ingest-pdf.ts",
+    "ingest:regulations": "node --import tsx scripts/ingest-regulations.ts",
     "test:contract": "vitest run --passWithNoTests __tests__/contract/",
     "drift:detect": "node --import tsx scripts/drift-detect.ts",
     "validate": "npm run lint && npm test && npm run test:contract",

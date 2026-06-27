@@ -193,3 +193,35 @@ describe('parsePolishHtml — amendment cite-box handling (P3)', () => {
     expect(agg.content).toContain('wprowadza się następujące zmiany');
   });
 });
+
+/** A rozporządzenie: § is the primary unit (no Art.), with punkty inside. */
+function htmlRegulation(): string {
+  return `
+<div class="unit unit_para pro-text false" id="para_1" data-id="para_1">
+  <h3><B>§&nbsp;1.</B></h3>
+  <div class="unit-inner">
+    <div data-template="xText" class="pro-text">Rozporządzenie określa:</div>
+    <div class="unit unit_pint pro-text false" id="para_1-pint_1" data-id="pint_1">
+      <h3 class="pro-align-padding-right">1)</h3>
+      <div class="unit-inner"><div data-template="xText" class="pro-text">tryb przyznawania świadczeń;</div></div>
+    </div>
+    <div class="unit unit_pint pro-text false" id="para_1-pint_2" data-id="pint_2">
+      <h3 class="pro-align-padding-right">2)</h3>
+      <div class="unit-inner"><div data-template="xText" class="pro-text">wysokość zasiłku.</div></div>
+    </div>
+  </div>
+</div>`;
+}
+
+describe('parsePolishHtml — rozporządzenie (§ as top-level unit)', () => {
+  it('parses § units when the act has no articles', () => {
+    const parsed = parsePolishHtml(htmlRegulation(), ACT);
+    const refs = parsed.provisions.map(p => p.provision_ref);
+    expect(refs).toContain('par1');      // top-level § (not art1par1)
+    expect(refs).toContain('par1p1');    // § 1 pkt 1
+    expect(refs).toContain('par1p2');
+    const leaf = parsed.provisions.find(p => p.provision_ref === 'par1p1')!;
+    expect(leaf.title).toBe('§ 1 pkt 1');
+    expect(leaf.content).toContain('tryb przyznawania świadczeń');
+  });
+});
