@@ -1,0 +1,458 @@
+{
+  "id": "pl-du-2024-1862",
+  "type": "statute",
+  "title": "Rozporządzenie Ministra Cyfryzacji z dnia 4 grudnia 2024 r. w sprawie planu numeracji krajowej dla publicznych sieci telekomunikacyjnych",
+  "title_en": "",
+  "short_name": "pl-du-2024-1862",
+  "status": "in_force",
+  "issued_date": "2024-12-04",
+  "in_force_date": "2024-12-17",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2024/1862",
+  "provisions": [
+    {
+      "provision_ref": "par1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Ustala się plan numeracji krajowej dla publicznych sieci telekomunikacyjnych, który określa załącznik do rozporządzenia. Plan, o którym mowa w ust. 1, ustala się w zakresie: formatów numerów oraz schematów ich wybierania; wskaźników strefy numeracyjnej oraz ich przyporządkowania do obszaru; wyróżników sieci i usług telekomunikacyjnych oraz ich wykorzystania w numeracji krajowej."
+    },
+    {
+      "provision_ref": "par1u1",
+      "section": "1",
+      "title": "§ 1 ust. 1",
+      "content": "Ustala się plan numeracji krajowej dla publicznych sieci telekomunikacyjnych, który określa załącznik do rozporządzenia."
+    },
+    {
+      "provision_ref": "par1u2p1",
+      "section": "1",
+      "title": "§ 1 ust. 2 pkt 1",
+      "content": "Plan, o którym mowa w ust. 1, ustala się w zakresie: formatów numerów oraz schematów ich wybierania;"
+    },
+    {
+      "provision_ref": "par1u2p2",
+      "section": "1",
+      "title": "§ 1 ust. 2 pkt 2",
+      "content": "Plan, o którym mowa w ust. 1, ustala się w zakresie: wskaźników strefy numeracyjnej oraz ich przyporządkowania do obszaru;"
+    },
+    {
+      "provision_ref": "par1u2p3",
+      "section": "1",
+      "title": "§ 1 ust. 2 pkt 3",
+      "content": "Plan, o którym mowa w ust. 1, ustala się w zakresie: wyróżników sieci i usług telekomunikacyjnych oraz ich wykorzystania w numeracji krajowej."
+    },
+    {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r., z wyjątkiem § 11 i § 13 załącznika do rozporządzenia, które wchodzą w życie z dniem 1 stycznia 2029 r. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Administracji i Cyfryzacji z dnia 30 października 2013 r. w sprawie planu numeracji krajowej dla publicznych sieci telekomunikacyjnych, w których świadczone są publicznie dostępne usługi telefoniczne (Dz. U. z 2023 r. poz. 145), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 104 pkt 13 lit. a tiret pierwsze ustawy z dnia 12 lipca 2024 r. - Przepisy wprowadzające ustawę - Prawo komunikacji elektronicznej (Dz. U. poz. 1222)."
+    },
+    {
+      "provision_ref": "par1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Plan numeracji krajowej określa definicje oraz sposób korzystania z krajowych zasobów numeracji stosowanych dla publicznych sieci telekomunikacyjnych na obszarze Rzeczypospolitej Polskiej."
+    },
+    {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Określenia charakteryzujące numerację: prefiks międzynarodowy są to cyfry „00”, wybierane przed numerem międzynarodowym, o którym mowa w pkt 6; wskaźnik strefy numeracyjnej, zwany dalej „WSN”, jest to kombinacja dwóch cyfr „AB” przyporządkowana strefie numeracyjnej, wyróżniająca daną strefę w stacjonarnej publicznej sieci telekomunikacyjnej; strefa numeracyjna, zwana dalej „SN”, jest to część obszaru Rzeczypospolitej Polskiej będąca częścią stacjonarnej publicznej sieci telekomunikacyjnej, zwanej dalej „siecią stacjonarną”, charakteryzująca się tym, że: każdemu obszarowi SN przyporządkowany jest jeden WSN, identyfikujący daną SN; w przypadkach uzasadnionych potrzebami wynikającymi z wprowadzenia wybierania numeru krajowego, o którym mowa w pkt 7, dopuszcza się stosowanie jednego WSN dla kilku SN i rozróżnianie tych SN za pomocą pierwszych trzech cyfr numeru krajowego oznaczonych symbolicznie „ABS”, na obszarach powiatów podzielonych granicami SN dopuszcza się przyznawanie zakresu numeracji innej SN występującej w tym powiecie, ze szczególnym uwzględnieniem przebiegu granic województw; wyróżnik sieci, zwany dalej „WST”, jest to kombinacja dwóch lub trzech cyfr „AB”, „ABS” lub „ABZ” wyróżniająca sieć lub usługę; numer dostępu dostawcy usług, zwany dalej „NDS”, jest to kombinacja cyfr umożliwiająca wybór dostawcy usług; numer międzynarodowy, zwany dalej „MNA”, jest to numer identyfikujący kraj [CC - wskaźnik (kod) kraju] i zakończenie sieci w tym kraju - maksymalnie 15 cyfr; numer krajowy, zwany dalej „KNA”, jest to kombinacja cyfr identyfikująca zakończenie sieci, zawierająca WSN lub WST oraz pozostałe cyfry numeru zakończenia sieci, oznaczone symbolicznie „SPQMCDU” lub „PQMCDU”; numery skrócone są to: numery abonenckich usług specjalnych, zwane dalej numerami „AUS”, przeznaczone dla usług świadczonych w sieci stacjonarnej, polegających na udzielaniu różnych informacji, przyjmowaniu zleceń oraz całodobowym przyjmowaniu wywołań kierowanych na numery alarmowe, zharmonizowane europejskie numery skrócone (Harmonised European Short Codes), z zakresu 11X, gdzie X - jedna, dwie, trzy lub cztery cyfry - w tym wspólny numer alarmowy 112 dostępny całodobowo, zwane dalej numerami „HESC”, dostępne w państwach członkowskich Unii Europejskiej, przeznaczone dla usług o szczególnym znaczeniu społecznym świadczonych w sieciach telekomunikacyjnych polegających na udzielaniu informacji, świadczeniu pomocy lub przyjmowaniu zgłoszeń. Wykorzystanie cyfr „AB”, „ABS” i „ABZ” w numeracji krajowej określa tablica."
+    },
+    {
+      "provision_ref": "par2u1p1",
+      "section": "2",
+      "title": "§ 2 ust. 1 pkt 1",
+      "content": "Określenia charakteryzujące numerację: prefiks międzynarodowy są to cyfry „00”, wybierane przed numerem międzynarodowym, o którym mowa w pkt 6;"
+    },
+    {
+      "provision_ref": "par2u1p2",
+      "section": "2",
+      "title": "§ 2 ust. 1 pkt 2",
+      "content": "Określenia charakteryzujące numerację: wskaźnik strefy numeracyjnej, zwany dalej „WSN”, jest to kombinacja dwóch cyfr „AB” przyporządkowana strefie numeracyjnej, wyróżniająca daną strefę w stacjonarnej publicznej sieci telekomunikacyjnej;"
+    },
+    {
+      "provision_ref": "par2u1p3la",
+      "section": "2",
+      "title": "§ 2 ust. 1 pkt 3 lit. a",
+      "content": "Określenia charakteryzujące numerację: strefa numeracyjna, zwana dalej „SN”, jest to część obszaru Rzeczypospolitej Polskiej będąca częścią stacjonarnej publicznej sieci telekomunikacyjnej, zwanej dalej „siecią stacjonarną”, charakteryzująca się tym, że: każdemu obszarowi SN przyporządkowany jest jeden WSN, identyfikujący daną SN; w przypadkach uzasadnionych potrzebami wynikającymi z wprowadzenia wybierania numeru krajowego, o którym mowa w pkt 7, dopuszcza się stosowanie jednego WSN dla kilku SN i rozróżnianie tych SN za pomocą pierwszych trzech cyfr numeru krajowego oznaczonych symbolicznie „ABS”,"
+    },
+    {
+      "provision_ref": "par2u1p3lb",
+      "section": "2",
+      "title": "§ 2 ust. 1 pkt 3 lit. b",
+      "content": "Określenia charakteryzujące numerację: strefa numeracyjna, zwana dalej „SN”, jest to część obszaru Rzeczypospolitej Polskiej będąca częścią stacjonarnej publicznej sieci telekomunikacyjnej, zwanej dalej „siecią stacjonarną”, charakteryzująca się tym, że: na obszarach powiatów podzielonych granicami SN dopuszcza się przyznawanie zakresu numeracji innej SN występującej w tym powiecie, ze szczególnym uwzględnieniem przebiegu granic województw;"
+    },
+    {
+      "provision_ref": "par2u1p4",
+      "section": "2",
+      "title": "§ 2 ust. 1 pkt 4",
+      "content": "Określenia charakteryzujące numerację: wyróżnik sieci, zwany dalej „WST”, jest to kombinacja dwóch lub trzech cyfr „AB”, „ABS” lub „ABZ” wyróżniająca sieć lub usługę;"
+    },
+    {
+      "provision_ref": "par2u1p5",
+      "section": "2",
+      "title": "§ 2 ust. 1 pkt 5",
+      "content": "Określenia charakteryzujące numerację: numer dostępu dostawcy usług, zwany dalej „NDS”, jest to kombinacja cyfr umożliwiająca wybór dostawcy usług;"
+    },
+    {
+      "provision_ref": "par2u1p6",
+      "section": "2",
+      "title": "§ 2 ust. 1 pkt 6",
+      "content": "Określenia charakteryzujące numerację: numer międzynarodowy, zwany dalej „MNA”, jest to numer identyfikujący kraj [CC - wskaźnik (kod) kraju] i zakończenie sieci w tym kraju - maksymalnie 15 cyfr;"
+    },
+    {
+      "provision_ref": "par2u1p7",
+      "section": "2",
+      "title": "§ 2 ust. 1 pkt 7",
+      "content": "Określenia charakteryzujące numerację: numer krajowy, zwany dalej „KNA”, jest to kombinacja cyfr identyfikująca zakończenie sieci, zawierająca WSN lub WST oraz pozostałe cyfry numeru zakończenia sieci, oznaczone symbolicznie „SPQMCDU” lub „PQMCDU”;"
+    },
+    {
+      "provision_ref": "par2u1p8la",
+      "section": "2",
+      "title": "§ 2 ust. 1 pkt 8 lit. a",
+      "content": "Określenia charakteryzujące numerację: numery skrócone są to: numery abonenckich usług specjalnych, zwane dalej numerami „AUS”, przeznaczone dla usług świadczonych w sieci stacjonarnej, polegających na udzielaniu różnych informacji, przyjmowaniu zleceń oraz całodobowym przyjmowaniu wywołań kierowanych na numery alarmowe,"
+    },
+    {
+      "provision_ref": "par2u1p8lb",
+      "section": "2",
+      "title": "§ 2 ust. 1 pkt 8 lit. b",
+      "content": "Określenia charakteryzujące numerację: numery skrócone są to: zharmonizowane europejskie numery skrócone (Harmonised European Short Codes), z zakresu 11X, gdzie X - jedna, dwie, trzy lub cztery cyfry - w tym wspólny numer alarmowy 112 dostępny całodobowo, zwane dalej numerami „HESC”, dostępne w państwach członkowskich Unii Europejskiej, przeznaczone dla usług o szczególnym znaczeniu społecznym świadczonych w sieciach telekomunikacyjnych polegających na udzielaniu informacji, świadczeniu pomocy lub przyjmowaniu zgłoszeń."
+    },
+    {
+      "provision_ref": "par2u2",
+      "section": "2",
+      "title": "§ 2 ust. 2",
+      "content": "Wykorzystanie cyfr „AB”, „ABS” i „ABZ” w numeracji krajowej określa tablica."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Dla MNA ustala się: format MNA: MNA = CC + KNA, gdzie: CC - wskaźnik (kod) kraju (Country Code), dla Rzeczypospolitej Polskiej CC = 48, MNA = CC + pozostała część numeru zakończenia sieci; schemat wybierania MNA: z sieci stacjonarnej: ~ 00 + MNA, gdzie: ~ sygnał zgłoszenia; ~ NDS + 00 + MNA, z ruchomej publicznej sieci telekomunikacyjnej, zwanej dalej „siecią ruchomą”: 00 + MNA, „+” MNA."
+    },
+    {
+      "provision_ref": "par3p1la",
+      "section": "3",
+      "title": "§ 3 pkt 1 lit. a",
+      "content": "Dla MNA ustala się: format MNA: MNA = CC + KNA,"
+    },
+    {
+      "provision_ref": "par3p1lb",
+      "section": "3",
+      "title": "§ 3 pkt 1 lit. b",
+      "content": "Dla MNA ustala się: format MNA: MNA = CC + pozostała część numeru zakończenia sieci;"
+    },
+    {
+      "provision_ref": "par3p2la",
+      "section": "3",
+      "title": "§ 3 pkt 2 lit. a",
+      "content": "Dla MNA ustala się: schemat wybierania MNA: z sieci stacjonarnej: ~ 00 + MNA, gdzie: ~ sygnał zgłoszenia; ~ NDS + 00 + MNA,"
+    },
+    {
+      "provision_ref": "par3p2lb",
+      "section": "3",
+      "title": "§ 3 pkt 2 lit. b",
+      "content": "Dla MNA ustala się: schemat wybierania MNA: z ruchomej publicznej sieci telekomunikacyjnej, zwanej dalej „siecią ruchomą”: 00 + MNA, „+” MNA."
+    },
+    {
+      "provision_ref": "par4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Dla KNA ustala się: format KNA: KNA = WSN + pozostałe cyfry numeru zakończenia sieci właściwego dla danej SN, KNA = WST + pozostałe cyfry numeru zakończenia sieci, gdzie: WSN = AB i WST = AB, a cyfra A przyjmuje wartości od 1 do 9; schemat wybierania KNA: z sieci stacjonarnej: ~ KNA, ~ NDS + KNA, z sieci ruchomej: KNA."
+    },
+    {
+      "provision_ref": "par4p1",
+      "section": "4",
+      "title": "§ 4 pkt 1",
+      "content": "Dla KNA ustala się: format KNA: KNA = WSN + pozostałe cyfry numeru zakończenia sieci właściwego dla danej SN, KNA = WST + pozostałe cyfry numeru zakończenia sieci, gdzie: WSN = AB i WST = AB, a cyfra A przyjmuje wartości od 1 do 9;"
+    },
+    {
+      "provision_ref": "par4p2la",
+      "section": "4",
+      "title": "§ 4 pkt 2 lit. a",
+      "content": "Dla KNA ustala się: schemat wybierania KNA: z sieci stacjonarnej: ~ KNA, ~ NDS + KNA,"
+    },
+    {
+      "provision_ref": "par4p2lb",
+      "section": "4",
+      "title": "§ 4 pkt 2 lit. b",
+      "content": "Dla KNA ustala się: schemat wybierania KNA: z sieci ruchomej: KNA."
+    },
+    {
+      "provision_ref": "par5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Dla numeracji dostępu do radiowych sieci przywoławczych, zwanych dalej „SP”, ustala się: format numeru dostępu: NDSP = 64 + S + 000 (6 cyfr), gdzie: NDSP - numer dostępu do SP, S - cyfra wyróżniająca SP, 000 - cyfry określające dostęp do stanowisk operatorskich, NASP = 64 + SPQMCDU (9 cyfr), gdzie: NASP - numer abonenta SP; schemat wybierania numeru dostępu: dla sieci stacjonarnej: ~ NDSP, ~ NASP, dla sieci ruchomej: NDSP, NASP."
+    },
+    {
+      "provision_ref": "par5p1la",
+      "section": "5",
+      "title": "§ 5 pkt 1 lit. a",
+      "content": "Dla numeracji dostępu do radiowych sieci przywoławczych, zwanych dalej „SP”, ustala się: format numeru dostępu: NDSP = 64 + S + 000 (6 cyfr),"
+    },
+    {
+      "provision_ref": "par5p1lb",
+      "section": "5",
+      "title": "§ 5 pkt 1 lit. b",
+      "content": "Dla numeracji dostępu do radiowych sieci przywoławczych, zwanych dalej „SP”, ustala się: format numeru dostępu: NASP = 64 + SPQMCDU (9 cyfr),"
+    },
+    {
+      "provision_ref": "par5p2la",
+      "section": "5",
+      "title": "§ 5 pkt 2 lit. a",
+      "content": "Dla numeracji dostępu do radiowych sieci przywoławczych, zwanych dalej „SP”, ustala się: schemat wybierania numeru dostępu: dla sieci stacjonarnej: ~ NDSP, ~ NASP,"
+    },
+    {
+      "provision_ref": "par5p2lb",
+      "section": "5",
+      "title": "§ 5 pkt 2 lit. b",
+      "content": "Dla numeracji dostępu do radiowych sieci przywoławczych, zwanych dalej „SP”, ustala się: schemat wybierania numeru dostępu: dla sieci ruchomej: NDSP, NASP."
+    },
+    {
+      "provision_ref": "par6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "Dla numeracji dostępu dostawcy usług świadczącego usługi przez numer dostępu lub w drodze preselekcji ustala się format NDS: NDS = AB + KI, gdzie: AB = 10, KI - kod identyfikacji dostawcy usług (dwie lub trzy cyfry)."
+    },
+    {
+      "provision_ref": "par7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "Dla numeracji dostępu do sieci teleinformatycznych ustala się: format numeru dostępu: NDSI = WST + MCDU (6 cyfr), gdzie: WST = 20, NDSI - numer dostępu do sieci teleinformatycznych, MCDU - cyfry określające dostawcę usług teleinformatycznych i rodzaj usługi; schemat wybierania numeru dostępu: ~ NDSI."
+    },
+    {
+      "provision_ref": "par7p1",
+      "section": "7",
+      "title": "§ 7 pkt 1",
+      "content": "Dla numeracji dostępu do sieci teleinformatycznych ustala się: format numeru dostępu: NDSI = WST + MCDU (6 cyfr), gdzie: WST = 20, NDSI - numer dostępu do sieci teleinformatycznych, MCDU - cyfry określające dostawcę usług teleinformatycznych i rodzaj usługi;"
+    },
+    {
+      "provision_ref": "par7p2",
+      "section": "7",
+      "title": "§ 7 pkt 2",
+      "content": "Dla numeracji dostępu do sieci teleinformatycznych ustala się: schemat wybierania numeru dostępu: ~ NDSI."
+    },
+    {
+      "provision_ref": "par8",
+      "section": "8",
+      "title": "§ 8",
+      "content": "Dla numeracji dostępu do usług sieci inteligentnych ustala się: format numeru dostępu: NDIN = WST + SPQMCDU (9 cyfr), gdzie: NDIN - numer dostępu do usług sieci inteligentnych, WST = 70 i 80; schemat wybierania numeru dostępu: dla sieci stacjonarnej: ~ NDIN, dla sieci ruchomej: NDIN."
+    },
+    {
+      "provision_ref": "par8p1",
+      "section": "8",
+      "title": "§ 8 pkt 1",
+      "content": "Dla numeracji dostępu do usług sieci inteligentnych ustala się: format numeru dostępu: NDIN = WST + SPQMCDU (9 cyfr), gdzie: NDIN - numer dostępu do usług sieci inteligentnych, WST = 70 i 80;"
+    },
+    {
+      "provision_ref": "par8p2la",
+      "section": "8",
+      "title": "§ 8 pkt 2 lit. a",
+      "content": "Dla numeracji dostępu do usług sieci inteligentnych ustala się: schemat wybierania numeru dostępu: dla sieci stacjonarnej: ~ NDIN,"
+    },
+    {
+      "provision_ref": "par8p2lb",
+      "section": "8",
+      "title": "§ 8 pkt 2 lit. b",
+      "content": "Dla numeracji dostępu do usług sieci inteligentnych ustala się: schemat wybierania numeru dostępu: dla sieci ruchomej: NDIN."
+    },
+    {
+      "provision_ref": "par9",
+      "section": "9",
+      "title": "§ 9",
+      "content": "Dla numerów skróconych ustala się: format numeru AUS: alarmowy AUS = 9XY (3 cyfry) dla służb ustawowo powołanych do niesienia pomocy, gdzie: 984 - pogotowie rzeczne, 985 - ratownictwo morskie i górskie, 986 - straż miejska, 997 - Policja, 998 - Państwowa Straż Pożarna, 999 - pogotowie ratunkowe - dyspozytornie medyczne, alarmowy interwencyjny AUS = 9XY (3 cyfry) dla służb interwencyjnych powołanych do niesienia pomocy w przypadkach awarii komunalnej infrastruktury technicznej, gdzie: 991 - pogotowie elektrowni, 992 - pogotowie gazowni, 993 - pogotowie ciepłowni, 994 - pogotowie wodociągów, alarmowy interwencyjny AUS = 9XY (3 cyfry): 995 - Komendant Główny Policji - system Child Alert, 996 - Centrum Antyterrorystyczne - Agencja Bezpieczeństwa Wewnętrznego, alarmowy informacyjno-koordynacyjny AUS = 9XY (3 cyfry) dla administracji rządowej: 987 - Wojewódzkie Centrum Zarządzania Kryzysowego, 989 - telefoniczna informacja Narodowego Funduszu Zdrowia, strefowy AUS: AUS = 19XYZ (5 cyfr), w ramach którego ustala się numery dla usług o szczególnym znaczeniu społecznym: 19111 - telefoniczna informacja drogowa Generalnej Dyrekcji Dróg Krajowych i Autostrad, 19115 - usługi informacyjne administracji samorządowej, 19239 - usługi realizowane przez Centrum e-Zdrowia, 19457 - usługi realizowane przez Centrum e-Zdrowia, międzynarodowy (MAUS) - dla połączeń przychodzących: MAUS = CC + WSN + AUS, gdzie AUS = 19XYZ (5 cyfr); schemat wybierania numeru AUS: z sieci stacjonarnej: ~ AUS, ~ WSN + AUS, gdzie AUS ≠ 9XY, a WSN ≠ WSN właściwego dla zakończenia sieci, z którego następuje wywołanie, z sieci ruchomej: AUS, WSN + AUS, gdzie AUS ≠ 9XY; format numeru HESC: 112 - wspólny numer alarmowy dla wszystkich służb ustawowo powołanych do niesienia pomocy, 118CDU - dla usług informacji o numerach, 116CDU - dla usług o szczególnym znaczeniu społecznym, pozostałe numery z zakresu 11X, gdzie X ≠ 2, 6, 8, przeznaczone są dla numeracji skróconej, CC + HESC, gdzie HESC ≠ 112 dla międzynarodowych połączeń przychodzących; schemat wybierania numeru HESC: z sieci stacjonarnej: ~ 112, ~ 118CDU, ~ 116CDU, ~ 11X, z sieci ruchomej: 112, 118CDU, 116CDU, 11X."
+    },
+    {
+      "provision_ref": "par9p1la",
+      "section": "9",
+      "title": "§ 9 pkt 1 lit. a",
+      "content": "Dla numerów skróconych ustala się: format numeru AUS: alarmowy AUS = 9XY (3 cyfry) dla służb ustawowo powołanych do niesienia pomocy,"
+    },
+    {
+      "provision_ref": "par9p1lb",
+      "section": "9",
+      "title": "§ 9 pkt 1 lit. b",
+      "content": "Dla numerów skróconych ustala się: format numeru AUS: alarmowy interwencyjny AUS = 9XY (3 cyfry) dla służb interwencyjnych powołanych do niesienia pomocy w przypadkach awarii komunalnej infrastruktury technicznej,"
+    },
+    {
+      "provision_ref": "par9p1lc",
+      "section": "9",
+      "title": "§ 9 pkt 1 lit. c",
+      "content": "Dla numerów skróconych ustala się: format numeru AUS: alarmowy interwencyjny AUS = 9XY (3 cyfry): 995 - Komendant Główny Policji - system Child Alert, 996 - Centrum Antyterrorystyczne - Agencja Bezpieczeństwa Wewnętrznego,"
+    },
+    {
+      "provision_ref": "par9p1ld",
+      "section": "9",
+      "title": "§ 9 pkt 1 lit. d",
+      "content": "Dla numerów skróconych ustala się: format numeru AUS: alarmowy informacyjno-koordynacyjny AUS = 9XY (3 cyfry) dla administracji rządowej: 987 - Wojewódzkie Centrum Zarządzania Kryzysowego, 989 - telefoniczna informacja Narodowego Funduszu Zdrowia,"
+    },
+    {
+      "provision_ref": "par9p1le",
+      "section": "9",
+      "title": "§ 9 pkt 1 lit. e",
+      "content": "Dla numerów skróconych ustala się: format numeru AUS: strefowy AUS: AUS = 19XYZ (5 cyfr), w ramach którego ustala się numery dla usług o szczególnym znaczeniu społecznym: 19111 - telefoniczna informacja drogowa Generalnej Dyrekcji Dróg Krajowych i Autostrad, 19115 - usługi informacyjne administracji samorządowej, 19239 - usługi realizowane przez Centrum e-Zdrowia, 19457 - usługi realizowane przez Centrum e-Zdrowia,"
+    },
+    {
+      "provision_ref": "par9p1lf",
+      "section": "9",
+      "title": "§ 9 pkt 1 lit. f",
+      "content": "Dla numerów skróconych ustala się: format numeru AUS: międzynarodowy (MAUS) - dla połączeń przychodzących: MAUS = CC + WSN + AUS, gdzie AUS = 19XYZ (5 cyfr);"
+    },
+    {
+      "provision_ref": "par9p2la",
+      "section": "9",
+      "title": "§ 9 pkt 2 lit. a",
+      "content": "Dla numerów skróconych ustala się: schemat wybierania numeru AUS: z sieci stacjonarnej: ~ AUS, ~ WSN + AUS, gdzie AUS ≠ 9XY, a WSN ≠ WSN właściwego dla zakończenia sieci, z którego następuje wywołanie,"
+    },
+    {
+      "provision_ref": "par9p2lb",
+      "section": "9",
+      "title": "§ 9 pkt 2 lit. b",
+      "content": "Dla numerów skróconych ustala się: schemat wybierania numeru AUS: z sieci ruchomej: AUS, WSN + AUS, gdzie AUS ≠ 9XY;"
+    },
+    {
+      "provision_ref": "par9p3la",
+      "section": "9",
+      "title": "§ 9 pkt 3 lit. a",
+      "content": "Dla numerów skróconych ustala się: format numeru HESC: 112 - wspólny numer alarmowy dla wszystkich służb ustawowo powołanych do niesienia pomocy,"
+    },
+    {
+      "provision_ref": "par9p3lb",
+      "section": "9",
+      "title": "§ 9 pkt 3 lit. b",
+      "content": "Dla numerów skróconych ustala się: format numeru HESC: 118CDU - dla usług informacji o numerach,"
+    },
+    {
+      "provision_ref": "par9p3lc",
+      "section": "9",
+      "title": "§ 9 pkt 3 lit. c",
+      "content": "Dla numerów skróconych ustala się: format numeru HESC: 116CDU - dla usług o szczególnym znaczeniu społecznym,"
+    },
+    {
+      "provision_ref": "par9p3ld",
+      "section": "9",
+      "title": "§ 9 pkt 3 lit. d",
+      "content": "Dla numerów skróconych ustala się: format numeru HESC: pozostałe numery z zakresu 11X,"
+    },
+    {
+      "provision_ref": "par9p3le",
+      "section": "9",
+      "title": "§ 9 pkt 3 lit. e",
+      "content": "Dla numerów skróconych ustala się: format numeru HESC: CC + HESC,"
+    },
+    {
+      "provision_ref": "par9p4la",
+      "section": "9",
+      "title": "§ 9 pkt 4 lit. a",
+      "content": "Dla numerów skróconych ustala się: schemat wybierania numeru HESC: z sieci stacjonarnej: ~ 112, ~ 118CDU, ~ 116CDU, ~ 11X,"
+    },
+    {
+      "provision_ref": "par9p4lb",
+      "section": "9",
+      "title": "§ 9 pkt 4 lit. b",
+      "content": "Dla numerów skróconych ustala się: schemat wybierania numeru HESC: z sieci ruchomej: 112, 118CDU, 116CDU, 11X."
+    },
+    {
+      "provision_ref": "par10",
+      "section": "10",
+      "title": "§ 10",
+      "content": "Dla numeracji dla komunikacji maszyna-maszyna ustala się: format numeru: NBS = WST + SPQMCDU (9 cyfr), gdzie: NBS - numer dla komunikacji maszyna-maszyna, WST = AB, przy czym AB = 21, SPQMCDU - pozostałe cyfry numeru zakończenia sieci; schemat wybierania numeru: z sieci stacjonarnej: ~ NBS, z sieci ruchomej: NBS, 00 + CC + NBS, „+” + CC + NBS, gdzie CC = 48."
+    },
+    {
+      "provision_ref": "par10p1",
+      "section": "10",
+      "title": "§ 10 pkt 1",
+      "content": "Dla numeracji dla komunikacji maszyna-maszyna ustala się: format numeru: NBS = WST + SPQMCDU (9 cyfr), gdzie: NBS - numer dla komunikacji maszyna-maszyna, WST = AB, przy czym AB = 21, SPQMCDU - pozostałe cyfry numeru zakończenia sieci;"
+    },
+    {
+      "provision_ref": "par10p2la",
+      "section": "10",
+      "title": "§ 10 pkt 2 lit. a",
+      "content": "Dla numeracji dla komunikacji maszyna-maszyna ustala się: schemat wybierania numeru: z sieci stacjonarnej: ~ NBS,"
+    },
+    {
+      "provision_ref": "par10p2lb",
+      "section": "10",
+      "title": "§ 10 pkt 2 lit. b",
+      "content": "Dla numeracji dla komunikacji maszyna-maszyna ustala się: schemat wybierania numeru: z sieci ruchomej: NBS, 00 + CC + NBS, „+” + CC + NBS, gdzie CC = 48."
+    },
+    {
+      "provision_ref": "par11",
+      "section": "11",
+      "title": "§ 11",
+      "content": "Dla dziesięciocyfrowej numeracji dla komunikacji maszyna-maszyna ustala się: format numeru: NBS10 = WST + SPQMCDU (10 cyfr), gdzie: NBS10 - dziesięciocyfrowy numer dla komunikacji maszyna-maszyna, WST = ABZ, przy czym AB = 28, a cyfra Z przyjmuje wartość od 0 do 4, SPQMCDU - pozostałe cyfry numeru zakończenia sieci; schemat wybierania numeru: z sieci stacjonarnej: ~ NBS10, z sieci ruchomej: NBS10, 00 + CC + NBS10, „+” + CC + NBS10, gdzie CC = 48."
+    },
+    {
+      "provision_ref": "par11p1",
+      "section": "11",
+      "title": "§ 11 pkt 1",
+      "content": "Dla dziesięciocyfrowej numeracji dla komunikacji maszyna-maszyna ustala się: format numeru: NBS10 = WST + SPQMCDU (10 cyfr), gdzie: NBS10 - dziesięciocyfrowy numer dla komunikacji maszyna-maszyna, WST = ABZ, przy czym AB = 28, a cyfra Z przyjmuje wartość od 0 do 4, SPQMCDU - pozostałe cyfry numeru zakończenia sieci;"
+    },
+    {
+      "provision_ref": "par11p2la",
+      "section": "11",
+      "title": "§ 11 pkt 2 lit. a",
+      "content": "Dla dziesięciocyfrowej numeracji dla komunikacji maszyna-maszyna ustala się: schemat wybierania numeru: z sieci stacjonarnej: ~ NBS10,"
+    },
+    {
+      "provision_ref": "par11p2lb",
+      "section": "11",
+      "title": "§ 11 pkt 2 lit. b",
+      "content": "Dla dziesięciocyfrowej numeracji dla komunikacji maszyna-maszyna ustala się: schemat wybierania numeru: z sieci ruchomej: NBS10, 00 + CC + NBS10, „+” + CC + NBS10, gdzie CC = 48."
+    },
+    {
+      "provision_ref": "par12",
+      "section": "12",
+      "title": "§ 12",
+      "content": "Dla numeracji dla komunikacji maszyna-maszyna z wykorzystaniem na terenie całej Unii Europejskiej ustala się: format numeru: ENBS = WST + PQMCDU (9 cyfr), gdzie: ENBS - numer dla komunikacji maszyna-maszyna z wykorzystaniem na terenie całej Unii Europejskiej, WST = ABS, przy czym AB = 27, a cyfra S przyjmuje wartości od 0 do 4, PQMCDU - pozostałe cyfry numeru zakończenia sieci; schemat wybierania numeru: z sieci stacjonarnej: ~ ENBS, z sieci ruchomej: ENBS, 00 + CC + ENBS, „+” + CC + ENBS, gdzie CC = 48."
+    },
+    {
+      "provision_ref": "par12p1",
+      "section": "12",
+      "title": "§ 12 pkt 1",
+      "content": "Dla numeracji dla komunikacji maszyna-maszyna z wykorzystaniem na terenie całej Unii Europejskiej ustala się: format numeru: ENBS = WST + PQMCDU (9 cyfr), gdzie: ENBS - numer dla komunikacji maszyna-maszyna z wykorzystaniem na terenie całej Unii Europejskiej, WST = ABS, przy czym AB = 27, a cyfra S przyjmuje wartości od 0 do 4, PQMCDU - pozostałe cyfry numeru zakończenia sieci;"
+    },
+    {
+      "provision_ref": "par12p2la",
+      "section": "12",
+      "title": "§ 12 pkt 2 lit. a",
+      "content": "Dla numeracji dla komunikacji maszyna-maszyna z wykorzystaniem na terenie całej Unii Europejskiej ustala się: schemat wybierania numeru: z sieci stacjonarnej: ~ ENBS,"
+    },
+    {
+      "provision_ref": "par12p2lb",
+      "section": "12",
+      "title": "§ 12 pkt 2 lit. b",
+      "content": "Dla numeracji dla komunikacji maszyna-maszyna z wykorzystaniem na terenie całej Unii Europejskiej ustala się: schemat wybierania numeru: z sieci ruchomej: ENBS, 00 + CC + ENBS, „+” + CC + ENBS, gdzie CC = 48."
+    },
+    {
+      "provision_ref": "par13",
+      "section": "13",
+      "title": "§ 13",
+      "content": "Dla dziesięciocyfrowej numeracji dla komunikacji maszyna-maszyna z wykorzystaniem na terenie całej Unii Europejskiej ustala się: format numeru: ENBS10 = WST + SPQMCDU (10 cyfr), gdzie: ENBS10 - dziesięciocyfrowy numer dla komunikacji maszyna-maszyna z wykorzystaniem na terenie całej Unii Europejskiej, WST = ABZ, przy czym AB = 28, a cyfra Z przyjmuje wartość od 5 do 9, SPQMCDU - pozostałe cyfry numeru zakończenia sieci; schemat wybierania numeru: z sieci stacjonarnej: ~ ENBS10, z sieci ruchomej: ENBS10, 00 + CC + ENBS10, „+” + CC + ENBS10, gdzie CC = 48."
+    },
+    {
+      "provision_ref": "par13p1",
+      "section": "13",
+      "title": "§ 13 pkt 1",
+      "content": "Dla dziesięciocyfrowej numeracji dla komunikacji maszyna-maszyna z wykorzystaniem na terenie całej Unii Europejskiej ustala się: format numeru: ENBS10 = WST + SPQMCDU (10 cyfr), gdzie: ENBS10 - dziesięciocyfrowy numer dla komunikacji maszyna-maszyna z wykorzystaniem na terenie całej Unii Europejskiej, WST = ABZ, przy czym AB = 28, a cyfra Z przyjmuje wartość od 5 do 9, SPQMCDU - pozostałe cyfry numeru zakończenia sieci;"
+    },
+    {
+      "provision_ref": "par13p2la",
+      "section": "13",
+      "title": "§ 13 pkt 2 lit. a",
+      "content": "Dla dziesięciocyfrowej numeracji dla komunikacji maszyna-maszyna z wykorzystaniem na terenie całej Unii Europejskiej ustala się: schemat wybierania numeru: z sieci stacjonarnej: ~ ENBS10,"
+    },
+    {
+      "provision_ref": "par13p2lb",
+      "section": "13",
+      "title": "§ 13 pkt 2 lit. b",
+      "content": "Dla dziesięciocyfrowej numeracji dla komunikacji maszyna-maszyna z wykorzystaniem na terenie całej Unii Europejskiej ustala się: schemat wybierania numeru: z sieci ruchomej: ENBS10, 00 + CC + ENBS10, „+” + CC + ENBS10, gdzie CC = 48."
+    }
+  ],
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2024-1221",
+      "ref_type": "references"
+    }
+  ]
+}

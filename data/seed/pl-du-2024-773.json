@@ -1,0 +1,982 @@
+{
+  "id": "pl-du-2024-773",
+  "type": "statute",
+  "title": "Rozporządzenie Rady Ministrów z dnia 21 maja 2024 r. w sprawie Krajowych Ram Interoperacyjności, minimalnych wymagań dla rejestrów publicznych i wymiany informacji w postaci elektronicznej oraz minimalnych wymagań dla systemów teleinformatycznych",
+  "title_en": "",
+  "short_name": "pl-du-2024-773",
+  "status": "in_force",
+  "issued_date": "2024-05-21",
+  "in_force_date": "2024-05-22",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2024/773",
+  "provisions": [
+    {
+      "provision_ref": "par1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Rozporządzenie określa: Krajowe Ramy Interoperacyjności; minimalne wymagania dla rejestrów publicznych i wymiany informacji w postaci elektronicznej; minimalne wymagania dla systemów teleinformatycznych, w tym: specyfikację formatów danych oraz protokołów komunikacyjnych i szyfrujących, które mają być stosowane w oprogramowaniu interfejsowym, sposoby zapewnienia bezpieczeństwa przy wymianie informacji, standardy techniczne zapewniające wymianę informacji z udziałem podmiotów publicznych z uwzględnieniem wymiany transgranicznej."
+    },
+    {
+      "provision_ref": "par1p1",
+      "section": "1",
+      "title": "§ 1 pkt 1",
+      "content": "Rozporządzenie określa: Krajowe Ramy Interoperacyjności;"
+    },
+    {
+      "provision_ref": "par1p2",
+      "section": "1",
+      "title": "§ 1 pkt 2",
+      "content": "Rozporządzenie określa: minimalne wymagania dla rejestrów publicznych i wymiany informacji w postaci elektronicznej;"
+    },
+    {
+      "provision_ref": "par1p3la",
+      "section": "1",
+      "title": "§ 1 pkt 3 lit. a",
+      "content": "Rozporządzenie określa: minimalne wymagania dla systemów teleinformatycznych, w tym: specyfikację formatów danych oraz protokołów komunikacyjnych i szyfrujących, które mają być stosowane w oprogramowaniu interfejsowym,"
+    },
+    {
+      "provision_ref": "par1p3lb",
+      "section": "1",
+      "title": "§ 1 pkt 3 lit. b",
+      "content": "Rozporządzenie określa: minimalne wymagania dla systemów teleinformatycznych, w tym: sposoby zapewnienia bezpieczeństwa przy wymianie informacji,"
+    },
+    {
+      "provision_ref": "par1p3lc",
+      "section": "1",
+      "title": "§ 1 pkt 3 lit. c",
+      "content": "Rozporządzenie określa: minimalne wymagania dla systemów teleinformatycznych, w tym: standardy techniczne zapewniające wymianę informacji z udziałem podmiotów publicznych z uwzględnieniem wymiany transgranicznej."
+    },
+    {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: architektura systemu teleinformatycznego - opis składników systemu teleinformatycznego, powiązań i relacji pomiędzy tymi składnikami; autentyczność - właściwość polegającą na tym, że pochodzenie lub zawartość danych opisujących obiekt są takie, jak deklarowane; dane referencyjne - dane opisujące cechę informacyjną obiektu pierwotnie wprowadzone do rejestru publicznego w wyniku określonego zdarzenia, z domniemania opatrzone atrybutem autentyczności; dostępność - właściwość określającą, że zasób systemu teleinformatycznego jest możliwy do wykorzystania na żądanie, w założonym czasie, przez podmiot uprawniony do pracy w systemie teleinformatycznym; integralność - właściwość polegającą na tym, że zasób systemu teleinformatycznego nie został zmodyfikowany w sposób nieuprawniony; interesariusz - osobę lub podmiot posiadający interes prawny albo faktyczny w sprawach interoperacyjności; model architektury - formalny opis architektury systemu teleinformatycznego; model usługowy - model architektury, w którym dla użytkowników zdefiniowano stanowiące odrębną całość funkcje systemu teleinformatycznego (usługi sieciowe) oraz opisano sposób korzystania z tych funkcji, inaczej system zorientowany na usługi (Service Oriented Architecture - SOA); niezaprzeczalność - brak możliwości zanegowania swego uczestnictwa w całości lub w części wymiany danych przez jeden z podmiotów uczestniczących w tej wymianie; obiekt - przedmiot opisu w rejestrze publicznym; obiekt przestrzenny - w rozumieniu przepisów ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej ; podatność systemu teleinformatycznego - właściwość systemu teleinformatycznego, która może być wykorzystana przez co najmniej jedno zagrożenie; podmiot - osobę prawną, jednostkę organizacyjną nieposiadającą osobowości prawnej lub organ administracji publicznej; poufność - właściwość zapewniającą, że informacja nie jest udostępniana lub wyjawiana nieupoważnionym osobom fizycznym; polityka bezpieczeństwa informacji - zestaw efektywnych, udokumentowanych zasad i procedur bezpieczeństwa wraz z ich planem wdrożenia i egzekwowania; rekomendacja interoperacyjności - uzgodnienie przyjęte bez stanowiska sprzeciwu pomiędzy interesariuszami regulujące na poziomie organizacyjnym, semantycznym lub technologicznym dowolny aspekt interoperacyjności; repozytorium interoperacyjności - część zasobów ePUAP przeznaczoną do udostępniania informacji służących osiąganiu interoperacyjności; rozliczalność - właściwość systemu pozwalającą przypisać określone działanie w systemie do osoby fizycznej lub procesu oraz umiejscowić je w czasie; usługa sieciowa - właściwość systemu teleinformatycznego polegającą na powtarzalnym wykonywaniu przez ten system z góry określonych funkcji po otrzymaniu, za pomocą sieci teleinformatycznej, danych uporządkowanych w określonej strukturze; ustawa - ustawę z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne ; wzór dokumentu elektronicznego - wzór, o którym mowa w art. 19b ustawy; zagrożenie systemu teleinformatycznego - potencjalną przyczynę niepożądanego zdarzenia, która może wywołać szkodę w systemie teleinformatycznym."
+    },
+    {
+      "provision_ref": "par2p1",
+      "section": "2",
+      "title": "§ 2 pkt 1",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: architektura systemu teleinformatycznego - opis składników systemu teleinformatycznego, powiązań i relacji pomiędzy tymi składnikami;"
+    },
+    {
+      "provision_ref": "par2p2",
+      "section": "2",
+      "title": "§ 2 pkt 2",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: autentyczność - właściwość polegającą na tym, że pochodzenie lub zawartość danych opisujących obiekt są takie, jak deklarowane;"
+    },
+    {
+      "provision_ref": "par2p3",
+      "section": "2",
+      "title": "§ 2 pkt 3",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: dane referencyjne - dane opisujące cechę informacyjną obiektu pierwotnie wprowadzone do rejestru publicznego w wyniku określonego zdarzenia, z domniemania opatrzone atrybutem autentyczności;"
+    },
+    {
+      "provision_ref": "par2p4",
+      "section": "2",
+      "title": "§ 2 pkt 4",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: dostępność - właściwość określającą, że zasób systemu teleinformatycznego jest możliwy do wykorzystania na żądanie, w założonym czasie, przez podmiot uprawniony do pracy w systemie teleinformatycznym;"
+    },
+    {
+      "provision_ref": "par2p5",
+      "section": "2",
+      "title": "§ 2 pkt 5",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: integralność - właściwość polegającą na tym, że zasób systemu teleinformatycznego nie został zmodyfikowany w sposób nieuprawniony;"
+    },
+    {
+      "provision_ref": "par2p6",
+      "section": "2",
+      "title": "§ 2 pkt 6",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: interesariusz - osobę lub podmiot posiadający interes prawny albo faktyczny w sprawach interoperacyjności;"
+    },
+    {
+      "provision_ref": "par2p7",
+      "section": "2",
+      "title": "§ 2 pkt 7",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: model architektury - formalny opis architektury systemu teleinformatycznego;"
+    },
+    {
+      "provision_ref": "par2p8",
+      "section": "2",
+      "title": "§ 2 pkt 8",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: model usługowy - model architektury, w którym dla użytkowników zdefiniowano stanowiące odrębną całość funkcje systemu teleinformatycznego (usługi sieciowe) oraz opisano sposób korzystania z tych funkcji, inaczej system zorientowany na usługi (Service Oriented Architecture - SOA);"
+    },
+    {
+      "provision_ref": "par2p9",
+      "section": "2",
+      "title": "§ 2 pkt 9",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: niezaprzeczalność - brak możliwości zanegowania swego uczestnictwa w całości lub w części wymiany danych przez jeden z podmiotów uczestniczących w tej wymianie;"
+    },
+    {
+      "provision_ref": "par2p10",
+      "section": "2",
+      "title": "§ 2 pkt 10",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: obiekt - przedmiot opisu w rejestrze publicznym;"
+    },
+    {
+      "provision_ref": "par2p11",
+      "section": "2",
+      "title": "§ 2 pkt 11",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: obiekt przestrzenny - w rozumieniu przepisów ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej ;"
+    },
+    {
+      "provision_ref": "par2p12",
+      "section": "2",
+      "title": "§ 2 pkt 12",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: podatność systemu teleinformatycznego - właściwość systemu teleinformatycznego, która może być wykorzystana przez co najmniej jedno zagrożenie;"
+    },
+    {
+      "provision_ref": "par2p13",
+      "section": "2",
+      "title": "§ 2 pkt 13",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: podmiot - osobę prawną, jednostkę organizacyjną nieposiadającą osobowości prawnej lub organ administracji publicznej;"
+    },
+    {
+      "provision_ref": "par2p14",
+      "section": "2",
+      "title": "§ 2 pkt 14",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: poufność - właściwość zapewniającą, że informacja nie jest udostępniana lub wyjawiana nieupoważnionym osobom fizycznym;"
+    },
+    {
+      "provision_ref": "par2p15",
+      "section": "2",
+      "title": "§ 2 pkt 15",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: polityka bezpieczeństwa informacji - zestaw efektywnych, udokumentowanych zasad i procedur bezpieczeństwa wraz z ich planem wdrożenia i egzekwowania;"
+    },
+    {
+      "provision_ref": "par2p16",
+      "section": "2",
+      "title": "§ 2 pkt 16",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: rekomendacja interoperacyjności - uzgodnienie przyjęte bez stanowiska sprzeciwu pomiędzy interesariuszami regulujące na poziomie organizacyjnym, semantycznym lub technologicznym dowolny aspekt interoperacyjności;"
+    },
+    {
+      "provision_ref": "par2p17",
+      "section": "2",
+      "title": "§ 2 pkt 17",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: repozytorium interoperacyjności - część zasobów ePUAP przeznaczoną do udostępniania informacji służących osiąganiu interoperacyjności;"
+    },
+    {
+      "provision_ref": "par2p18",
+      "section": "2",
+      "title": "§ 2 pkt 18",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: rozliczalność - właściwość systemu pozwalającą przypisać określone działanie w systemie do osoby fizycznej lub procesu oraz umiejscowić je w czasie;"
+    },
+    {
+      "provision_ref": "par2p19",
+      "section": "2",
+      "title": "§ 2 pkt 19",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: usługa sieciowa - właściwość systemu teleinformatycznego polegającą na powtarzalnym wykonywaniu przez ten system z góry określonych funkcji po otrzymaniu, za pomocą sieci teleinformatycznej, danych uporządkowanych w określonej strukturze;"
+    },
+    {
+      "provision_ref": "par2p20",
+      "section": "2",
+      "title": "§ 2 pkt 20",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: ustawa - ustawę z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne ;"
+    },
+    {
+      "provision_ref": "par2p21",
+      "section": "2",
+      "title": "§ 2 pkt 21",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: wzór dokumentu elektronicznego - wzór, o którym mowa w art. 19b ustawy;"
+    },
+    {
+      "provision_ref": "par2p22",
+      "section": "2",
+      "title": "§ 2 pkt 22",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: zagrożenie systemu teleinformatycznego - potencjalną przyczynę niepożądanego zdarzenia, która może wywołać szkodę w systemie teleinformatycznym."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Krajowe Ramy Interoperacyjności określają: sposoby postępowania podmiotu realizującego zadania publiczne w zakresie doboru środków, metod i standardów wykorzystywanych do ustanowienia, wdrożenia, eksploatacji, monitorowania, przeglądu, utrzymania i udoskonalania systemu teleinformatycznego wykorzystywanego do realizacji zadań tego podmiotu oraz procedur organizacyjnych, mające na celu: zapewnienie obywatelom oraz przedsiębiorcom dostępności usług świadczonych przez podmioty realizujące zadania publiczne w postaci elektronicznej, zwiększenie efektywności usług świadczonych przez administrację publiczną, zapewnienie obywatelom i przedsiębiorcom zmniejszenia obciążeń związanych z realizacją uprawnień i obowiązków przewidzianych w przepisach odrębnych, zapewnienie podmiotom publicznym redukcji kosztów funkcjonowania, zapewnienie racjonalnego gospodarowania funduszami publicznymi, zapewnienie swobody gospodarczej i równego dostępu do rynku informatycznego w zakresie usług i dostaw podczas udzielania zamówień publicznych dla wszystkich jego uczestników, efektywną realizację drogą elektroniczną ponadgranicznych usług administracji publicznej; sposoby postępowania podmiotu realizującego zadania publiczne w zakresie przejrzystego wyboru norm, standardów i rekomendacji w zakresie interoperacyjności semantycznej, organizacyjnej oraz technologicznej, z zapewnieniem zasady neutralności technologicznej. Na Krajowe Ramy Interoperacyjności składają się: sposoby osiągania interoperacyjności; architektura systemów teleinformatycznych podmiotów realizujących zadania publiczne; repozytorium interoperacyjności na ePUAP."
+    },
+    {
+      "provision_ref": "par3u1p1la",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 1 lit. a",
+      "content": "Krajowe Ramy Interoperacyjności określają: sposoby postępowania podmiotu realizującego zadania publiczne w zakresie doboru środków, metod i standardów wykorzystywanych do ustanowienia, wdrożenia, eksploatacji, monitorowania, przeglądu, utrzymania i udoskonalania systemu teleinformatycznego wykorzystywanego do realizacji zadań tego podmiotu oraz procedur organizacyjnych, mające na celu: zapewnienie obywatelom oraz przedsiębiorcom dostępności usług świadczonych przez podmioty realizujące zadania publiczne w postaci elektronicznej,"
+    },
+    {
+      "provision_ref": "par3u1p1lb",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 1 lit. b",
+      "content": "Krajowe Ramy Interoperacyjności określają: sposoby postępowania podmiotu realizującego zadania publiczne w zakresie doboru środków, metod i standardów wykorzystywanych do ustanowienia, wdrożenia, eksploatacji, monitorowania, przeglądu, utrzymania i udoskonalania systemu teleinformatycznego wykorzystywanego do realizacji zadań tego podmiotu oraz procedur organizacyjnych, mające na celu: zwiększenie efektywności usług świadczonych przez administrację publiczną,"
+    },
+    {
+      "provision_ref": "par3u1p1lc",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 1 lit. c",
+      "content": "Krajowe Ramy Interoperacyjności określają: sposoby postępowania podmiotu realizującego zadania publiczne w zakresie doboru środków, metod i standardów wykorzystywanych do ustanowienia, wdrożenia, eksploatacji, monitorowania, przeglądu, utrzymania i udoskonalania systemu teleinformatycznego wykorzystywanego do realizacji zadań tego podmiotu oraz procedur organizacyjnych, mające na celu: zapewnienie obywatelom i przedsiębiorcom zmniejszenia obciążeń związanych z realizacją uprawnień i obowiązków przewidzianych w przepisach odrębnych,"
+    },
+    {
+      "provision_ref": "par3u1p1ld",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 1 lit. d",
+      "content": "Krajowe Ramy Interoperacyjności określają: sposoby postępowania podmiotu realizującego zadania publiczne w zakresie doboru środków, metod i standardów wykorzystywanych do ustanowienia, wdrożenia, eksploatacji, monitorowania, przeglądu, utrzymania i udoskonalania systemu teleinformatycznego wykorzystywanego do realizacji zadań tego podmiotu oraz procedur organizacyjnych, mające na celu: zapewnienie podmiotom publicznym redukcji kosztów funkcjonowania,"
+    },
+    {
+      "provision_ref": "par3u1p1le",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 1 lit. e",
+      "content": "Krajowe Ramy Interoperacyjności określają: sposoby postępowania podmiotu realizującego zadania publiczne w zakresie doboru środków, metod i standardów wykorzystywanych do ustanowienia, wdrożenia, eksploatacji, monitorowania, przeglądu, utrzymania i udoskonalania systemu teleinformatycznego wykorzystywanego do realizacji zadań tego podmiotu oraz procedur organizacyjnych, mające na celu: zapewnienie racjonalnego gospodarowania funduszami publicznymi,"
+    },
+    {
+      "provision_ref": "par3u1p1lf",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 1 lit. f",
+      "content": "Krajowe Ramy Interoperacyjności określają: sposoby postępowania podmiotu realizującego zadania publiczne w zakresie doboru środków, metod i standardów wykorzystywanych do ustanowienia, wdrożenia, eksploatacji, monitorowania, przeglądu, utrzymania i udoskonalania systemu teleinformatycznego wykorzystywanego do realizacji zadań tego podmiotu oraz procedur organizacyjnych, mające na celu: zapewnienie swobody gospodarczej i równego dostępu do rynku informatycznego w zakresie usług i dostaw podczas udzielania zamówień publicznych dla wszystkich jego uczestników,"
+    },
+    {
+      "provision_ref": "par3u1p1lg",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 1 lit. g",
+      "content": "Krajowe Ramy Interoperacyjności określają: sposoby postępowania podmiotu realizującego zadania publiczne w zakresie doboru środków, metod i standardów wykorzystywanych do ustanowienia, wdrożenia, eksploatacji, monitorowania, przeglądu, utrzymania i udoskonalania systemu teleinformatycznego wykorzystywanego do realizacji zadań tego podmiotu oraz procedur organizacyjnych, mające na celu: efektywną realizację drogą elektroniczną ponadgranicznych usług administracji publicznej;"
+    },
+    {
+      "provision_ref": "par3u1p2",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 2",
+      "content": "Krajowe Ramy Interoperacyjności określają: sposoby postępowania podmiotu realizującego zadania publiczne w zakresie przejrzystego wyboru norm, standardów i rekomendacji w zakresie interoperacyjności semantycznej, organizacyjnej oraz technologicznej, z zapewnieniem zasady neutralności technologicznej."
+    },
+    {
+      "provision_ref": "par3u2p1",
+      "section": "3",
+      "title": "§ 3 ust. 2 pkt 1",
+      "content": "Na Krajowe Ramy Interoperacyjności składają się: sposoby osiągania interoperacyjności;"
+    },
+    {
+      "provision_ref": "par3u2p2",
+      "section": "3",
+      "title": "§ 3 ust. 2 pkt 2",
+      "content": "Na Krajowe Ramy Interoperacyjności składają się: architektura systemów teleinformatycznych podmiotów realizujących zadania publiczne;"
+    },
+    {
+      "provision_ref": "par3u2p3",
+      "section": "3",
+      "title": "§ 3 ust. 2 pkt 3",
+      "content": "Na Krajowe Ramy Interoperacyjności składają się: repozytorium interoperacyjności na ePUAP."
+    },
+    {
+      "provision_ref": "par4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Interoperacyjność osiąga się przez: ujednolicenie, rozumiane jako zastosowanie kompatybilnych norm, standardów i procedur przez różne podmioty realizujące zadania publiczne, lub wymienność, rozumianą jako możliwość zastąpienia produktu, procesu lub usługi bez jednoczesnego zakłócenia wymiany informacji pomiędzy podmiotami realizującymi zadania publiczne lub pomiędzy tymi podmiotami a ich klientami, przy jednoczesnym spełnieniu wszystkich wymagań funkcjonalnych i pozafunkcjonalnych współpracujących systemów, lub zgodność, rozumianą jako przydatność produktów, procesów lub usług przeznaczonych do wspólnego użytkowania, pod specyficznymi warunkami zapewniającymi spełnienie istotnych wymagań i przy braku niepożądanych oddziaływań. Zastosowanie reguł określonych w ust. 1 zależne jest od okoliczności wynikających z szacowania ryzyka oraz z właściwości projektowanego systemu teleinformatycznego, jego zasięgu oraz dostępnych rozwiązań na rynku dostaw i usług w zakresie informatyki. Zastosowany przez podmiot realizujący zadania publiczne sposób osiągnięcia interoperacyjności nie może naruszać zasady neutralności technologicznej."
+    },
+    {
+      "provision_ref": "par4u1p1",
+      "section": "4",
+      "title": "§ 4 ust. 1 pkt 1",
+      "content": "Interoperacyjność osiąga się przez: ujednolicenie, rozumiane jako zastosowanie kompatybilnych norm, standardów i procedur przez różne podmioty realizujące zadania publiczne, lub"
+    },
+    {
+      "provision_ref": "par4u1p2",
+      "section": "4",
+      "title": "§ 4 ust. 1 pkt 2",
+      "content": "Interoperacyjność osiąga się przez: wymienność, rozumianą jako możliwość zastąpienia produktu, procesu lub usługi bez jednoczesnego zakłócenia wymiany informacji pomiędzy podmiotami realizującymi zadania publiczne lub pomiędzy tymi podmiotami a ich klientami, przy jednoczesnym spełnieniu wszystkich wymagań funkcjonalnych i pozafunkcjonalnych współpracujących systemów, lub"
+    },
+    {
+      "provision_ref": "par4u1p3",
+      "section": "4",
+      "title": "§ 4 ust. 1 pkt 3",
+      "content": "Interoperacyjność osiąga się przez: zgodność, rozumianą jako przydatność produktów, procesów lub usług przeznaczonych do wspólnego użytkowania, pod specyficznymi warunkami zapewniającymi spełnienie istotnych wymagań i przy braku niepożądanych oddziaływań."
+    },
+    {
+      "provision_ref": "par4u2",
+      "section": "4",
+      "title": "§ 4 ust. 2",
+      "content": "Zastosowanie reguł określonych w ust. 1 zależne jest od okoliczności wynikających z szacowania ryzyka oraz z właściwości projektowanego systemu teleinformatycznego, jego zasięgu oraz dostępnych rozwiązań na rynku dostaw i usług w zakresie informatyki."
+    },
+    {
+      "provision_ref": "par4u3",
+      "section": "4",
+      "title": "§ 4 ust. 3",
+      "content": "Zastosowany przez podmiot realizujący zadania publiczne sposób osiągnięcia interoperacyjności nie może naruszać zasady neutralności technologicznej."
+    },
+    {
+      "provision_ref": "par5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Podmioty realizujące zadania publiczne stosują rozwiązania z zakresu interoperacyjności na poziomie organizacyjnym, semantycznym i technologicznym. Interoperacyjność na poziomie organizacyjnym osiągana jest przez: informowanie przez podmioty realizujące zadania publiczne, w sposób umożliwiający skuteczne zapoznanie się, o sposobie dostępu oraz zakresie użytkowym serwisów dla usług realizowanych przez te podmioty; wskazanie przez ministra właściwego do spraw informatyzacji miejsca przeznaczonego do publikacji informacji, o których mowa w pkt 1; standaryzację i ujednolicenie procedur z uwzględnieniem konieczności zapewnienia poprawnej współpracy podmiotów realizujących zadania publiczne; publikowanie i uaktualnianie w Biuletynie Informacji Publicznej przez podmiot realizujący zadania publiczne opisów procedur obowiązujących przy załatwianiu spraw z zakresu jego właściwości drogą elektroniczną. Interoperacyjność na poziomie semantycznym osiągana jest przez: stosowanie struktur danych i znaczenia danych zawartych w tych strukturach, określonych w niniejszym rozporządzeniu; stosowanie struktur danych i znaczenia danych zawartych w tych strukturach publikowanych w repozytorium interoperacyjności na podstawie przepisów § 8 ust. 3 oraz § 10 ust. 5, 6, 11 i 12; stosowanie w rejestrach prowadzonych przez podmioty publiczne odwołań do rejestrów zawierających dane referencyjne w zakresie niezbędnym do realizacji zadań. Interoperacyjność na poziomie technologicznym osiągana jest przez: stosowanie minimalnych wymagań dla systemów teleinformatycznych, określonych w rozdziale 4; stosowanie regulacji zawartych w przepisach odrębnych, a w przypadku ich braku uwzględnienia postanowień odpowiednich Polskich Norm, norm międzynarodowych lub standardów uznanych w drodze dobrej praktyki przez organizacje międzynarodowe."
+    },
+    {
+      "provision_ref": "par5u1",
+      "section": "5",
+      "title": "§ 5 ust. 1",
+      "content": "Podmioty realizujące zadania publiczne stosują rozwiązania z zakresu interoperacyjności na poziomie organizacyjnym, semantycznym i technologicznym."
+    },
+    {
+      "provision_ref": "par5u2p1",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 1",
+      "content": "Interoperacyjność na poziomie organizacyjnym osiągana jest przez: informowanie przez podmioty realizujące zadania publiczne, w sposób umożliwiający skuteczne zapoznanie się, o sposobie dostępu oraz zakresie użytkowym serwisów dla usług realizowanych przez te podmioty;"
+    },
+    {
+      "provision_ref": "par5u2p2",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 2",
+      "content": "Interoperacyjność na poziomie organizacyjnym osiągana jest przez: wskazanie przez ministra właściwego do spraw informatyzacji miejsca przeznaczonego do publikacji informacji, o których mowa w pkt 1;"
+    },
+    {
+      "provision_ref": "par5u2p3",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 3",
+      "content": "Interoperacyjność na poziomie organizacyjnym osiągana jest przez: standaryzację i ujednolicenie procedur z uwzględnieniem konieczności zapewnienia poprawnej współpracy podmiotów realizujących zadania publiczne;"
+    },
+    {
+      "provision_ref": "par5u2p4",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 4",
+      "content": "Interoperacyjność na poziomie organizacyjnym osiągana jest przez: publikowanie i uaktualnianie w Biuletynie Informacji Publicznej przez podmiot realizujący zadania publiczne opisów procedur obowiązujących przy załatwianiu spraw z zakresu jego właściwości drogą elektroniczną."
+    },
+    {
+      "provision_ref": "par5u3p1",
+      "section": "5",
+      "title": "§ 5 ust. 3 pkt 1",
+      "content": "Interoperacyjność na poziomie semantycznym osiągana jest przez: stosowanie struktur danych i znaczenia danych zawartych w tych strukturach, określonych w niniejszym rozporządzeniu;"
+    },
+    {
+      "provision_ref": "par5u3p2",
+      "section": "5",
+      "title": "§ 5 ust. 3 pkt 2",
+      "content": "Interoperacyjność na poziomie semantycznym osiągana jest przez: stosowanie struktur danych i znaczenia danych zawartych w tych strukturach publikowanych w repozytorium interoperacyjności na podstawie przepisów § 8 ust. 3 oraz § 10 ust. 5, 6, 11 i 12;"
+    },
+    {
+      "provision_ref": "par5u3p3",
+      "section": "5",
+      "title": "§ 5 ust. 3 pkt 3",
+      "content": "Interoperacyjność na poziomie semantycznym osiągana jest przez: stosowanie w rejestrach prowadzonych przez podmioty publiczne odwołań do rejestrów zawierających dane referencyjne w zakresie niezbędnym do realizacji zadań."
+    },
+    {
+      "provision_ref": "par5u4p1",
+      "section": "5",
+      "title": "§ 5 ust. 4 pkt 1",
+      "content": "Interoperacyjność na poziomie technologicznym osiągana jest przez: stosowanie minimalnych wymagań dla systemów teleinformatycznych, określonych w rozdziale 4;"
+    },
+    {
+      "provision_ref": "par5u4p2",
+      "section": "5",
+      "title": "§ 5 ust. 4 pkt 2",
+      "content": "Interoperacyjność na poziomie technologicznym osiągana jest przez: stosowanie regulacji zawartych w przepisach odrębnych, a w przypadku ich braku uwzględnienia postanowień odpowiednich Polskich Norm, norm międzynarodowych lub standardów uznanych w drodze dobrej praktyki przez organizacje międzynarodowe."
+    },
+    {
+      "provision_ref": "par6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "W repozytorium interoperacyjności, oprócz struktur danych, o których mowa w § 8 ust. 3 oraz w § 10 ust. 5, 6, 11 i 12, publikuje się także rekomendacje interoperacyjności stanowiące dobre praktyki ułatwiające osiągnięcie interoperacyjności na każdym z poziomów, o których mowa w § 5."
+    },
+    {
+      "provision_ref": "par7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "Informacje publikowane w repozytorium interoperacyjności oznaczone są w szczególności: nazwą; opisem; wersją; datą i czasem publikacji; statusem obowiązywania; identyfikatorem pozwalającym na identyfikację osoby publikującej. Opublikowana informacja nie może być modyfikowana lub usunięta z repozytorium."
+    },
+    {
+      "provision_ref": "par7u1p1",
+      "section": "7",
+      "title": "§ 7 ust. 1 pkt 1",
+      "content": "Informacje publikowane w repozytorium interoperacyjności oznaczone są w szczególności: nazwą;"
+    },
+    {
+      "provision_ref": "par7u1p2",
+      "section": "7",
+      "title": "§ 7 ust. 1 pkt 2",
+      "content": "Informacje publikowane w repozytorium interoperacyjności oznaczone są w szczególności: opisem;"
+    },
+    {
+      "provision_ref": "par7u1p3",
+      "section": "7",
+      "title": "§ 7 ust. 1 pkt 3",
+      "content": "Informacje publikowane w repozytorium interoperacyjności oznaczone są w szczególności: wersją;"
+    },
+    {
+      "provision_ref": "par7u1p4",
+      "section": "7",
+      "title": "§ 7 ust. 1 pkt 4",
+      "content": "Informacje publikowane w repozytorium interoperacyjności oznaczone są w szczególności: datą i czasem publikacji;"
+    },
+    {
+      "provision_ref": "par7u1p5",
+      "section": "7",
+      "title": "§ 7 ust. 1 pkt 5",
+      "content": "Informacje publikowane w repozytorium interoperacyjności oznaczone są w szczególności: statusem obowiązywania;"
+    },
+    {
+      "provision_ref": "par7u1p6",
+      "section": "7",
+      "title": "§ 7 ust. 1 pkt 6",
+      "content": "Informacje publikowane w repozytorium interoperacyjności oznaczone są w szczególności: identyfikatorem pozwalającym na identyfikację osoby publikującej."
+    },
+    {
+      "provision_ref": "par7u2",
+      "section": "7",
+      "title": "§ 7 ust. 2",
+      "content": "Opublikowana informacja nie może być modyfikowana lub usunięta z repozytorium."
+    },
+    {
+      "provision_ref": "par8",
+      "section": "8",
+      "title": "§ 8",
+      "content": "Dla systemów teleinformatycznych służących do realizacji zadań publicznych stosuje się rozwiązania oparte na modelu usługowym. Do opisu protokołów i struktur wymiany danych usługi sieciowej wykorzystuje się Web Services Description Language (WSDL). Organ podmiotu udostępniającego usługę sieciową, w celu zapewnienia poprawnej współpracy systemów teleinformatycznych, przekazuje opis, o którym mowa w ust. 2, do repozytorium interoperacyjności. W przypadkach uzasadnionych specyfiką podmiotu publicznego lub świadczonych przez niego usług dopuszcza się inny model architektury."
+    },
+    {
+      "provision_ref": "par8u1",
+      "section": "8",
+      "title": "§ 8 ust. 1",
+      "content": "Dla systemów teleinformatycznych służących do realizacji zadań publicznych stosuje się rozwiązania oparte na modelu usługowym."
+    },
+    {
+      "provision_ref": "par8u2",
+      "section": "8",
+      "title": "§ 8 ust. 2",
+      "content": "Do opisu protokołów i struktur wymiany danych usługi sieciowej wykorzystuje się Web Services Description Language (WSDL)."
+    },
+    {
+      "provision_ref": "par8u3",
+      "section": "8",
+      "title": "§ 8 ust. 3",
+      "content": "Organ podmiotu udostępniającego usługę sieciową, w celu zapewnienia poprawnej współpracy systemów teleinformatycznych, przekazuje opis, o którym mowa w ust. 2, do repozytorium interoperacyjności."
+    },
+    {
+      "provision_ref": "par8u4",
+      "section": "8",
+      "title": "§ 8 ust. 4",
+      "content": "W przypadkach uzasadnionych specyfiką podmiotu publicznego lub świadczonych przez niego usług dopuszcza się inny model architektury."
+    },
+    {
+      "provision_ref": "par9",
+      "section": "9",
+      "title": "§ 9",
+      "content": "Minister właściwy do spraw informatyzacji zapewnia: realizację publicznej dyskusji nad rekomendacjami interoperacyjności z zachowaniem zasady neutralności technologicznej oraz zgodności z normami zatwierdzonymi przez krajową jednostkę normalizacyjną lub normami albo standardami rekomendowanymi lub ustalanymi jako obowiązujące przez organy Unii Europejskiej, prowadzonej w sposób, który zapewni każdemu interesariuszowi możliwość realnego wpływu na opracowanie rekomendacji; prowadzenie repozytorium interoperacyjności."
+    },
+    {
+      "provision_ref": "par9p1",
+      "section": "9",
+      "title": "§ 9 pkt 1",
+      "content": "Minister właściwy do spraw informatyzacji zapewnia: realizację publicznej dyskusji nad rekomendacjami interoperacyjności z zachowaniem zasady neutralności technologicznej oraz zgodności z normami zatwierdzonymi przez krajową jednostkę normalizacyjną lub normami albo standardami rekomendowanymi lub ustalanymi jako obowiązujące przez organy Unii Europejskiej, prowadzonej w sposób, który zapewni każdemu interesariuszowi możliwość realnego wpływu na opracowanie rekomendacji;"
+    },
+    {
+      "provision_ref": "par9p2",
+      "section": "9",
+      "title": "§ 9 pkt 2",
+      "content": "Minister właściwy do spraw informatyzacji zapewnia: prowadzenie repozytorium interoperacyjności."
+    },
+    {
+      "provision_ref": "par10",
+      "section": "10",
+      "title": "§ 10",
+      "content": "W rejestrach publicznych wyróżnia się w szczególności następujące typy obiektów: osobę fizyczną; podmiot; obiekt przestrzenny. Dla każdego obiektu, o którym mowa w ust. 1, w obrębie danego typu, nadaje się unikatowy identyfikator. Strukturę identyfikatorów typów obiektów, o których mowa w ust. 1 pkt 1 i 2, a także pkt 3 w zakresie dotyczącym punktu adresowego i działki ewidencyjnej, z zastrzeżeniem ust. 9 i 10, określa załącznik nr 1 do rozporządzenia. Przepis, o którym mowa w ust. 2 w związku z ust. 1 pkt 3, nie wyłącza stosowania przepisów wydanych: w wykonaniu dyrektywy 2007/2/WE Parlamentu Europejskiego i Rady z dnia 14 marca 2007 r. ustanawiającej infrastrukturę informacji przestrzennej we Wspólnocie Europejskiej (INSPIRE) 1) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 73 z 15.03.2008, str. 36 oraz Dz. Urz. UE L 170 z 25.06.2019, str. 115. w zakresie interoperacyjności zbiorów i usług danych przestrzennych; na podstawie art. 19 ust. 1 pkt 6-10 i ust. 1a, art. 24b ust. 4, art. 26 ust. 2 oraz art. 47b ust. 5 ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne . Minister właściwy do spraw informatyzacji publikuje w repozytorium interoperacyjności na ePUAP schemat XML struktury danych cech informacyjnych obiektów, o których mowa w ust. 1. Podmioty realizujące zadania publiczne z wykorzystaniem wymiany informacji za pomocą środków komunikacji elektronicznej lub za pomocą pism w formie dokumentów elektronicznych sporządzonych według wzorów elektronicznych, w których mają zastosowanie obiekty, o których mowa w ust. 1, stosują strukturę danych cech informacyjnych tych obiektów zgodną ze strukturą publikowaną przez ministra właściwego do spraw informatyzacji w postaci schematów XML w repozytorium interoperacyjności na podstawie wniosków organu prowadzącego rejestr referencyjny właściwy dla danego typu obiektu. W strukturze, o której mowa w ust. 6, należy zawrzeć w szczególności nazwy i zakresy danych cech informacyjnych obiektów. Jeżeli z przepisów prawa wynika, że stosuje się podzbiór cech informacyjnych obiektu, o którym mowa w ust. 1, to zachowuje się typy i zakresy danych określone w schemacie, o którym mowa w ust. 6. Jeśli podmiot publiczny prowadzi rejestr publiczny obejmujący typ obiektu, jakim są osoby fizyczne nieposiadające numeru PESEL, identyfikacja takiej osoby odbywa się według cechy informacyjnej właściwej dla danego rejestru. Jeśli podmiot publiczny prowadzi rejestr publiczny obejmujący typ obiektu, jakim są podmioty nieposiadające nadanego numeru identyfikacyjnego REGON, identyfikacja takiego podmiotu odbywa się według cechy informacyjnej właściwej dla danego rejestru. Struktury danych dodatkowych cech informacyjnych, o których mowa w ust. 9 i 10, podlegają zgłoszeniu do repozytorium interoperacyjności. Organ władzy publicznej, prowadzący rejestr publiczny zawierający obiekty inne niż wymienione w ust. 1, wnioskuje do ministra właściwego do spraw informatyzacji o opublikowanie w repozytorium interoperacyjności, prowadzonym w ramach ePUAP, schematu XML struktur danych cech informacyjnych tych obiektów."
+    },
+    {
+      "provision_ref": "par10u1p1",
+      "section": "10",
+      "title": "§ 10 ust. 1 pkt 1",
+      "content": "W rejestrach publicznych wyróżnia się w szczególności następujące typy obiektów: osobę fizyczną;"
+    },
+    {
+      "provision_ref": "par10u1p2",
+      "section": "10",
+      "title": "§ 10 ust. 1 pkt 2",
+      "content": "W rejestrach publicznych wyróżnia się w szczególności następujące typy obiektów: podmiot;"
+    },
+    {
+      "provision_ref": "par10u1p3",
+      "section": "10",
+      "title": "§ 10 ust. 1 pkt 3",
+      "content": "W rejestrach publicznych wyróżnia się w szczególności następujące typy obiektów: obiekt przestrzenny."
+    },
+    {
+      "provision_ref": "par10u2",
+      "section": "10",
+      "title": "§ 10 ust. 2",
+      "content": "Dla każdego obiektu, o którym mowa w ust. 1, w obrębie danego typu, nadaje się unikatowy identyfikator."
+    },
+    {
+      "provision_ref": "par10u3",
+      "section": "10",
+      "title": "§ 10 ust. 3",
+      "content": "Strukturę identyfikatorów typów obiektów, o których mowa w ust. 1 pkt 1 i 2, a także pkt 3 w zakresie dotyczącym punktu adresowego i działki ewidencyjnej, z zastrzeżeniem ust. 9 i 10, określa załącznik nr 1 do rozporządzenia."
+    },
+    {
+      "provision_ref": "par10u4p1",
+      "section": "10",
+      "title": "§ 10 ust. 4 pkt 1",
+      "content": "Przepis, o którym mowa w ust. 2 w związku z ust. 1 pkt 3, nie wyłącza stosowania przepisów wydanych: w wykonaniu dyrektywy 2007/2/WE Parlamentu Europejskiego i Rady z dnia 14 marca 2007 r. ustanawiającej infrastrukturę informacji przestrzennej we Wspólnocie Europejskiej (INSPIRE) 1) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 73 z 15.03.2008, str. 36 oraz Dz. Urz. UE L 170 z 25.06.2019, str. 115. w zakresie interoperacyjności zbiorów i usług danych przestrzennych;"
+    },
+    {
+      "provision_ref": "par10u4p2",
+      "section": "10",
+      "title": "§ 10 ust. 4 pkt 2",
+      "content": "Przepis, o którym mowa w ust. 2 w związku z ust. 1 pkt 3, nie wyłącza stosowania przepisów wydanych: na podstawie art. 19 ust. 1 pkt 6-10 i ust. 1a, art. 24b ust. 4, art. 26 ust. 2 oraz art. 47b ust. 5 ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne ."
+    },
+    {
+      "provision_ref": "par10u5",
+      "section": "10",
+      "title": "§ 10 ust. 5",
+      "content": "Minister właściwy do spraw informatyzacji publikuje w repozytorium interoperacyjności na ePUAP schemat XML struktury danych cech informacyjnych obiektów, o których mowa w ust. 1."
+    },
+    {
+      "provision_ref": "par10u6",
+      "section": "10",
+      "title": "§ 10 ust. 6",
+      "content": "Podmioty realizujące zadania publiczne z wykorzystaniem wymiany informacji za pomocą środków komunikacji elektronicznej lub za pomocą pism w formie dokumentów elektronicznych sporządzonych według wzorów elektronicznych, w których mają zastosowanie obiekty, o których mowa w ust. 1, stosują strukturę danych cech informacyjnych tych obiektów zgodną ze strukturą publikowaną przez ministra właściwego do spraw informatyzacji w postaci schematów XML w repozytorium interoperacyjności na podstawie wniosków organu prowadzącego rejestr referencyjny właściwy dla danego typu obiektu."
+    },
+    {
+      "provision_ref": "par10u7",
+      "section": "10",
+      "title": "§ 10 ust. 7",
+      "content": "W strukturze, o której mowa w ust. 6, należy zawrzeć w szczególności nazwy i zakresy danych cech informacyjnych obiektów."
+    },
+    {
+      "provision_ref": "par10u8",
+      "section": "10",
+      "title": "§ 10 ust. 8",
+      "content": "Jeżeli z przepisów prawa wynika, że stosuje się podzbiór cech informacyjnych obiektu, o którym mowa w ust. 1, to zachowuje się typy i zakresy danych określone w schemacie, o którym mowa w ust. 6."
+    },
+    {
+      "provision_ref": "par10u9",
+      "section": "10",
+      "title": "§ 10 ust. 9",
+      "content": "Jeśli podmiot publiczny prowadzi rejestr publiczny obejmujący typ obiektu, jakim są osoby fizyczne nieposiadające numeru PESEL, identyfikacja takiej osoby odbywa się według cechy informacyjnej właściwej dla danego rejestru."
+    },
+    {
+      "provision_ref": "par10u10",
+      "section": "10",
+      "title": "§ 10 ust. 10",
+      "content": "Jeśli podmiot publiczny prowadzi rejestr publiczny obejmujący typ obiektu, jakim są podmioty nieposiadające nadanego numeru identyfikacyjnego REGON, identyfikacja takiego podmiotu odbywa się według cechy informacyjnej właściwej dla danego rejestru."
+    },
+    {
+      "provision_ref": "par10u11",
+      "section": "10",
+      "title": "§ 10 ust. 11",
+      "content": "Struktury danych dodatkowych cech informacyjnych, o których mowa w ust. 9 i 10, podlegają zgłoszeniu do repozytorium interoperacyjności."
+    },
+    {
+      "provision_ref": "par10u12",
+      "section": "10",
+      "title": "§ 10 ust. 12",
+      "content": "Organ władzy publicznej, prowadzący rejestr publiczny zawierający obiekty inne niż wymienione w ust. 1, wnioskuje do ministra właściwego do spraw informatyzacji o opublikowanie w repozytorium interoperacyjności, prowadzonym w ramach ePUAP, schematu XML struktur danych cech informacyjnych tych obiektów."
+    },
+    {
+      "provision_ref": "par11",
+      "section": "11",
+      "title": "§ 11",
+      "content": "Podmiot publiczny prowadzący rejestr publiczny, wydając informacje z tego rejestru w drodze wymiany, jest obowiązany zapewnić rozliczalność takiej operacji. Podmiot otrzymujący informacje z rejestru publicznego w drodze wymiany jest obowiązany do jej ochrony na poziomie nie mniejszym niż ten, który ma zastosowanie w tym rejestrze."
+    },
+    {
+      "provision_ref": "par11u1",
+      "section": "11",
+      "title": "§ 11 ust. 1",
+      "content": "Podmiot publiczny prowadzący rejestr publiczny, wydając informacje z tego rejestru w drodze wymiany, jest obowiązany zapewnić rozliczalność takiej operacji."
+    },
+    {
+      "provision_ref": "par11u2",
+      "section": "11",
+      "title": "§ 11 ust. 2",
+      "content": "Podmiot otrzymujący informacje z rejestru publicznego w drodze wymiany jest obowiązany do jej ochrony na poziomie nie mniejszym niż ten, który ma zastosowanie w tym rejestrze."
+    },
+    {
+      "provision_ref": "par12",
+      "section": "12",
+      "title": "§ 12",
+      "content": "Określając funkcjonalność rejestrów publicznych oraz systemów teleinformatycznych, uwzględnia się potrzebę zapewnienia podmiotom uprawnionym realizacji zadań wynikających z odrębnych przepisów."
+    },
+    {
+      "provision_ref": "par13",
+      "section": "13",
+      "title": "§ 13",
+      "content": "Wymiana danych dokonywana pomiędzy rejestrami publicznymi obejmuje jedynie informacje niezbędne do prawidłowego funkcjonowania tych rejestrów. Wymiana danych odbywa się przez bezpośrednie odwołanie się do danych referencyjnych przez rejestr inicjujący wymianę. Jeśli wymiana danych w trybie, o którym mowa w ust. 2, jest niemożliwa lub znacznie utrudniona, dopuszcza się wymianę danych w innym trybie, w tym przez kopiowanie danych przez rejestr inicjujący wymianę."
+    },
+    {
+      "provision_ref": "par13u1",
+      "section": "13",
+      "title": "§ 13 ust. 1",
+      "content": "Wymiana danych dokonywana pomiędzy rejestrami publicznymi obejmuje jedynie informacje niezbędne do prawidłowego funkcjonowania tych rejestrów."
+    },
+    {
+      "provision_ref": "par13u2",
+      "section": "13",
+      "title": "§ 13 ust. 2",
+      "content": "Wymiana danych odbywa się przez bezpośrednie odwołanie się do danych referencyjnych przez rejestr inicjujący wymianę."
+    },
+    {
+      "provision_ref": "par13u3",
+      "section": "13",
+      "title": "§ 13 ust. 3",
+      "content": "Jeśli wymiana danych w trybie, o którym mowa w ust. 2, jest niemożliwa lub znacznie utrudniona, dopuszcza się wymianę danych w innym trybie, w tym przez kopiowanie danych przez rejestr inicjujący wymianę."
+    },
+    {
+      "provision_ref": "par14",
+      "section": "14",
+      "title": "§ 14",
+      "content": "W trakcie tworzenia lub modernizacji rejestrów publicznych oraz systemów teleinformatycznych uwzględnia się potrzebę zapewnienia bezpłatnego dostępu oraz publikacji w repozytorium interoperacyjności opisów usług, schematów XML oraz innych wzorów."
+    },
+    {
+      "provision_ref": "par15",
+      "section": "15",
+      "title": "§ 15",
+      "content": "Systemy teleinformatyczne używane przez podmioty realizujące zadania publiczne projektuje się, wdraża oraz eksploatuje z uwzględnieniem ich funkcjonalności, niezawodności, używalności, wydajności, przenoszalności i pielęgnowalności, przy zastosowaniu norm oraz uznanych w obrocie profesjonalnym standardów i metodyk. Zarządzanie usługami realizowanymi przez systemy teleinformatyczne ma na celu dostarczanie tych usług na deklarowanym poziomie dostępności i odbywa się w oparciu o udokumentowane procedury. Wymagania określone w ust. 1 i 2 uznaje się za spełnione, jeśli projektowanie, wdrażanie, eksploatowanie, monitorowanie, przeglądanie, utrzymanie i udoskonalanie zarządzania usługą podmiotu realizującego zadanie publiczne odbywają się z uwzględnieniem Polskich Norm: PN-ISO/IEC 20000-1 i PN-ISO/IEC 20000-2."
+    },
+    {
+      "provision_ref": "par15u1",
+      "section": "15",
+      "title": "§ 15 ust. 1",
+      "content": "Systemy teleinformatyczne używane przez podmioty realizujące zadania publiczne projektuje się, wdraża oraz eksploatuje z uwzględnieniem ich funkcjonalności, niezawodności, używalności, wydajności, przenoszalności i pielęgnowalności, przy zastosowaniu norm oraz uznanych w obrocie profesjonalnym standardów i metodyk."
+    },
+    {
+      "provision_ref": "par15u2",
+      "section": "15",
+      "title": "§ 15 ust. 2",
+      "content": "Zarządzanie usługami realizowanymi przez systemy teleinformatyczne ma na celu dostarczanie tych usług na deklarowanym poziomie dostępności i odbywa się w oparciu o udokumentowane procedury."
+    },
+    {
+      "provision_ref": "par15u3",
+      "section": "15",
+      "title": "§ 15 ust. 3",
+      "content": "Wymagania określone w ust. 1 i 2 uznaje się za spełnione, jeśli projektowanie, wdrażanie, eksploatowanie, monitorowanie, przeglądanie, utrzymanie i udoskonalanie zarządzania usługą podmiotu realizującego zadanie publiczne odbywają się z uwzględnieniem Polskich Norm: PN-ISO/IEC 20000-1 i PN-ISO/IEC 20000-2."
+    },
+    {
+      "provision_ref": "par16",
+      "section": "16",
+      "title": "§ 16",
+      "content": "Systemy teleinformatyczne używane przez podmioty realizujące zadania publiczne wyposaża się w składniki sprzętowe lub oprogramowanie umożliwiające wymianę danych z innymi systemami teleinformatycznymi za pomocą protokołów komunikacyjnych i szyfrujących określonych w obowiązujących przepisach, normach, standardach lub rekomendacjach ustanowionych przez krajową jednostkę normalizacyjną lub jednostkę normalizacyjną Unii Europejskiej. W przypadku gdy w danej sprawie brak jest przepisów, norm lub standardów, o których mowa w ust. 1, stosuje się standardy uznane na poziomie międzynarodowym, w szczególności opracowane przez: Internet Engineering Task Force (IETF) i publikowane w postaci Request For Comments (RFC), World Wide Web Consortium (W3C) i publikowane w postaci W3C Recommendation (REC) - adekwatnie do potrzeb wynikających z realizowanych zadań oraz bieżącego stanu technologii informatycznych. Informację o dostępności opisów standardów, o których mowa w ust. 2, minister właściwy do spraw informatyzacji publikuje w Biuletynie Informacji Publicznej."
+    },
+    {
+      "provision_ref": "par16u1",
+      "section": "16",
+      "title": "§ 16 ust. 1",
+      "content": "Systemy teleinformatyczne używane przez podmioty realizujące zadania publiczne wyposaża się w składniki sprzętowe lub oprogramowanie umożliwiające wymianę danych z innymi systemami teleinformatycznymi za pomocą protokołów komunikacyjnych i szyfrujących określonych w obowiązujących przepisach, normach, standardach lub rekomendacjach ustanowionych przez krajową jednostkę normalizacyjną lub jednostkę normalizacyjną Unii Europejskiej."
+    },
+    {
+      "provision_ref": "par16u2p1",
+      "section": "16",
+      "title": "§ 16 ust. 2 pkt 1",
+      "content": "W przypadku gdy w danej sprawie brak jest przepisów, norm lub standardów, o których mowa w ust. 1, stosuje się standardy uznane na poziomie międzynarodowym, w szczególności opracowane przez: Internet Engineering Task Force (IETF) i publikowane w postaci Request For Comments (RFC),"
+    },
+    {
+      "provision_ref": "par16u2p2",
+      "section": "16",
+      "title": "§ 16 ust. 2 pkt 2",
+      "content": "W przypadku gdy w danej sprawie brak jest przepisów, norm lub standardów, o których mowa w ust. 1, stosuje się standardy uznane na poziomie międzynarodowym, w szczególności opracowane przez: World Wide Web Consortium (W3C) i publikowane w postaci W3C Recommendation (REC)"
+    },
+    {
+      "provision_ref": "par16u3",
+      "section": "16",
+      "title": "§ 16 ust. 3",
+      "content": "Informację o dostępności opisów standardów, o których mowa w ust. 2, minister właściwy do spraw informatyzacji publikuje w Biuletynie Informacji Publicznej."
+    },
+    {
+      "provision_ref": "par17",
+      "section": "17",
+      "title": "§ 17",
+      "content": "Kodowanie znaków w dokumentach wysyłanych z systemów teleinformatycznych podmiotów realizujących zadania publiczne lub odbieranych przez takie systemy, także w odniesieniu do informacji wymienianej przez te systemy z innymi systemami na drodze teletransmisji, o ile wymiana ta ma charakter wymiany znaków, odbywa się według standardu Unicode UTF-8 określonego przez normę ISO/IEC 10646 wraz ze zmianami lub normę ją zastępującą. W uzasadnionych przypadkach dopuszcza się kodowanie znaków według standardu Unicode UTF-16 określonego przez normę, o której mowa w ust. 1. Zastosowanie kodowania, o którym mowa w ust. 2, nie może negatywnie wpływać na współpracę z systemami teleinformatycznymi używającymi kodowania określonego w ust. 1."
+    },
+    {
+      "provision_ref": "par17u1",
+      "section": "17",
+      "title": "§ 17 ust. 1",
+      "content": "Kodowanie znaków w dokumentach wysyłanych z systemów teleinformatycznych podmiotów realizujących zadania publiczne lub odbieranych przez takie systemy, także w odniesieniu do informacji wymienianej przez te systemy z innymi systemami na drodze teletransmisji, o ile wymiana ta ma charakter wymiany znaków, odbywa się według standardu Unicode UTF-8 określonego przez normę ISO/IEC 10646 wraz ze zmianami lub normę ją zastępującą."
+    },
+    {
+      "provision_ref": "par17u2",
+      "section": "17",
+      "title": "§ 17 ust. 2",
+      "content": "W uzasadnionych przypadkach dopuszcza się kodowanie znaków według standardu Unicode UTF-16 określonego przez normę, o której mowa w ust. 1."
+    },
+    {
+      "provision_ref": "par17u3",
+      "section": "17",
+      "title": "§ 17 ust. 3",
+      "content": "Zastosowanie kodowania, o którym mowa w ust. 2, nie może negatywnie wpływać na współpracę z systemami teleinformatycznymi używającymi kodowania określonego w ust. 1."
+    },
+    {
+      "provision_ref": "par18",
+      "section": "18",
+      "title": "§ 18",
+      "content": "Systemy teleinformatyczne podmiotów realizujących zadania publiczne udostępniają zasoby informacyjne co najmniej w jednym z formatów danych określonych w załączniku nr 2 do rozporządzenia. Jeżeli z przepisów szczegółowych albo opublikowanych w repozytorium interoperacyjności schematów XML lub innych wzorów nie wynika inaczej, podmioty realizujące zadania publiczne umożliwiają przyjmowanie dokumentów elektronicznych służących do załatwiania spraw należących do zakresu ich działania w formatach danych określonych w załącznikach nr 2 i 3 do rozporządzenia."
+    },
+    {
+      "provision_ref": "par18u1",
+      "section": "18",
+      "title": "§ 18 ust. 1",
+      "content": "Systemy teleinformatyczne podmiotów realizujących zadania publiczne udostępniają zasoby informacyjne co najmniej w jednym z formatów danych określonych w załączniku nr 2 do rozporządzenia."
+    },
+    {
+      "provision_ref": "par18u2",
+      "section": "18",
+      "title": "§ 18 ust. 2",
+      "content": "Jeżeli z przepisów szczegółowych albo opublikowanych w repozytorium interoperacyjności schematów XML lub innych wzorów nie wynika inaczej, podmioty realizujące zadania publiczne umożliwiają przyjmowanie dokumentów elektronicznych służących do załatwiania spraw należących do zakresu ich działania w formatach danych określonych w załącznikach nr 2 i 3 do rozporządzenia."
+    },
+    {
+      "provision_ref": "par19",
+      "section": "19",
+      "title": "§ 19",
+      "content": "Podmiot realizujący zadania publiczne opracowuje i ustanawia, wdraża i eksploatuje, monitoruje i przegląda oraz utrzymuje i doskonali system zarządzania bezpieczeństwem informacji zapewniający poufność, dostępność i integralność informacji z uwzględnieniem takich atrybutów, jak autentyczność, rozliczalność, niezaprzeczalność i niezawodność. Zarządzanie bezpieczeństwem informacji realizowane jest w szczególności przez zapewnienie przez kierownictwo podmiotu publicznego warunków umożliwiających realizację i egzekwowanie następujących działań: zapewnienia aktualizacji regulacji wewnętrznych w zakresie dotyczącym zmieniającego się otoczenia; utrzymywania aktualności inwentaryzacji sprzętu i oprogramowania służącego do przetwarzania informacji obejmującej ich rodzaj i konfigurację; przeprowadzania okresowych analiz ryzyka utraty integralności, dostępności lub poufności informacji oraz podejmowania działań minimalizujących to ryzyko, stosownie do wyników przeprowadzonej analizy; podejmowania działań zapewniających, że osoby zaangażowane w proces przetwarzania informacji posiadają stosowne uprawnienia i uczestniczą w tym procesie w stopniu adekwatnym do realizowanych przez nie zadań oraz obowiązków mających na celu zapewnienie bezpieczeństwa informacji; bezzwłocznej zmiany uprawnień, w przypadku zmiany zadań osób, o których mowa w pkt 4; zapewnienia szkolenia osób zaangażowanych w proces przetwarzania informacji ze szczególnym uwzględnieniem takich zagadnień, jak: zagrożenia bezpieczeństwa informacji, skutki naruszenia zasad bezpieczeństwa informacji, w tym odpowiedzialność prawna, stosowanie środków zapewniających bezpieczeństwo informacji, w tym urządzenia i oprogramowanie minimalizujące ryzyko błędów ludzkich; zapewnienia ochrony przetwarzanych informacji przed ich kradzieżą, nieuprawnionym dostępem, uszkodzeniami lub zakłóceniami, przez: monitorowanie dostępu do informacji, czynności zmierzające do wykrycia nieautoryzowanych działań związanych z przetwarzaniem informacji, zapewnienie środków uniemożliwiających nieautoryzowany dostęp na poziomie systemów operacyjnych, usług sieciowych i aplikacji; ustanowienia podstawowych zasad gwarantujących bezpieczną pracę przy przetwarzaniu mobilnym i pracy na odległość; zabezpieczenia informacji w sposób uniemożliwiający nieuprawnionemu jej ujawnienie, modyfikacje, usunięcie lub zniszczenie; zawierania w umowach serwisowych podpisanych ze stronami trzecimi zapisów gwarantujących odpowiedni poziom bezpieczeństwa informacji; ustalenia zasad postępowania z informacjami, zapewniających minimalizację wystąpienia ryzyka kradzieży informacji i środków przetwarzania informacji, w tym urządzeń mobilnych; zapewnienia odpowiedniego poziomu bezpieczeństwa w systemach teleinformatycznych, polegającego w szczególności na: dbałości o aktualizację oprogramowania, minimalizowaniu ryzyka utraty informacji w wyniku awarii, ochronie przed błędami, utratą, nieuprawnioną modyfikacją, stosowaniu mechanizmów kryptograficznych w sposób adekwatny do zagrożeń lub wymogów przepisu prawa, zapewnieniu bezpieczeństwa plików systemowych, redukcji ryzyk wynikających z wykorzystania opublikowanych podatności technicznych systemów teleinformatycznych, niezwłocznym podejmowaniu działań po dostrzeżeniu nieujawnionych podatności systemów teleinformatycznych na możliwość naruszenia bezpieczeństwa, kontroli zgodności systemów teleinformatycznych z odpowiednimi normami i politykami bezpieczeństwa; bezzwłocznego zgłaszania incydentów naruszenia bezpieczeństwa informacji w określony i z góry ustalony sposób, umożliwiający szybkie podjęcie działań korygujących; zapewnienia okresowego audytu wewnętrznego w zakresie bezpieczeństwa informacji, nie rzadziej niż raz na rok. Wymagania określone w ust. 1 i 2 uznaje się za spełnione, jeżeli system zarządzania bezpieczeństwem informacji został opracowany na podstawie Polskiej Normy PN-ISO/IEC 27001, a ustanawianie zabezpieczeń, zarządzanie ryzykiem oraz audytowanie odbywa się na podstawie Polskich Norm związanych z tą normą, w tym: PN-ISO/IEC 27002 - w odniesieniu do ustanawiania zabezpieczeń; PN-ISO/IEC 27005 - w odniesieniu do zarządzania ryzykiem. Niezależnie od zapewnienia działań, o których mowa w ust. 2, w przypadkach uzasadnionych analizą ryzyka w systemach teleinformatycznych podmiotów realizujących zadania publiczne należy ustanowić dodatkowe zabezpieczenia."
+    },
+    {
+      "provision_ref": "par19u1",
+      "section": "19",
+      "title": "§ 19 ust. 1",
+      "content": "Podmiot realizujący zadania publiczne opracowuje i ustanawia, wdraża i eksploatuje, monitoruje i przegląda oraz utrzymuje i doskonali system zarządzania bezpieczeństwem informacji zapewniający poufność, dostępność i integralność informacji z uwzględnieniem takich atrybutów, jak autentyczność, rozliczalność, niezaprzeczalność i niezawodność."
+    },
+    {
+      "provision_ref": "par19u2p1",
+      "section": "19",
+      "title": "§ 19 ust. 2 pkt 1",
+      "content": "Zarządzanie bezpieczeństwem informacji realizowane jest w szczególności przez zapewnienie przez kierownictwo podmiotu publicznego warunków umożliwiających realizację i egzekwowanie następujących działań: zapewnienia aktualizacji regulacji wewnętrznych w zakresie dotyczącym zmieniającego się otoczenia;"
+    },
+    {
+      "provision_ref": "par19u2p2",
+      "section": "19",
+      "title": "§ 19 ust. 2 pkt 2",
+      "content": "Zarządzanie bezpieczeństwem informacji realizowane jest w szczególności przez zapewnienie przez kierownictwo podmiotu publicznego warunków umożliwiających realizację i egzekwowanie następujących działań: utrzymywania aktualności inwentaryzacji sprzętu i oprogramowania służącego do przetwarzania informacji obejmującej ich rodzaj i konfigurację;"
+    },
+    {
+      "provision_ref": "par19u2p3",
+      "section": "19",
+      "title": "§ 19 ust. 2 pkt 3",
+      "content": "Zarządzanie bezpieczeństwem informacji realizowane jest w szczególności przez zapewnienie przez kierownictwo podmiotu publicznego warunków umożliwiających realizację i egzekwowanie następujących działań: przeprowadzania okresowych analiz ryzyka utraty integralności, dostępności lub poufności informacji oraz podejmowania działań minimalizujących to ryzyko, stosownie do wyników przeprowadzonej analizy;"
+    },
+    {
+      "provision_ref": "par19u2p4",
+      "section": "19",
+      "title": "§ 19 ust. 2 pkt 4",
+      "content": "Zarządzanie bezpieczeństwem informacji realizowane jest w szczególności przez zapewnienie przez kierownictwo podmiotu publicznego warunków umożliwiających realizację i egzekwowanie następujących działań: podejmowania działań zapewniających, że osoby zaangażowane w proces przetwarzania informacji posiadają stosowne uprawnienia i uczestniczą w tym procesie w stopniu adekwatnym do realizowanych przez nie zadań oraz obowiązków mających na celu zapewnienie bezpieczeństwa informacji;"
+    },
+    {
+      "provision_ref": "par19u2p5",
+      "section": "19",
+      "title": "§ 19 ust. 2 pkt 5",
+      "content": "Zarządzanie bezpieczeństwem informacji realizowane jest w szczególności przez zapewnienie przez kierownictwo podmiotu publicznego warunków umożliwiających realizację i egzekwowanie następujących działań: bezzwłocznej zmiany uprawnień, w przypadku zmiany zadań osób, o których mowa w pkt 4;"
+    },
+    {
+      "provision_ref": "par19u2p6la",
+      "section": "19",
+      "title": "§ 19 ust. 2 pkt 6 lit. a",
+      "content": "Zarządzanie bezpieczeństwem informacji realizowane jest w szczególności przez zapewnienie przez kierownictwo podmiotu publicznego warunków umożliwiających realizację i egzekwowanie następujących działań: zapewnienia szkolenia osób zaangażowanych w proces przetwarzania informacji ze szczególnym uwzględnieniem takich zagadnień, jak: zagrożenia bezpieczeństwa informacji,"
+    },
+    {
+      "provision_ref": "par19u2p6lb",
+      "section": "19",
+      "title": "§ 19 ust. 2 pkt 6 lit. b",
+      "content": "Zarządzanie bezpieczeństwem informacji realizowane jest w szczególności przez zapewnienie przez kierownictwo podmiotu publicznego warunków umożliwiających realizację i egzekwowanie następujących działań: zapewnienia szkolenia osób zaangażowanych w proces przetwarzania informacji ze szczególnym uwzględnieniem takich zagadnień, jak: skutki naruszenia zasad bezpieczeństwa informacji, w tym odpowiedzialność prawna,"
+    },
+    {
+      "provision_ref": "par19u2p6lc",
+      "section": "19",
+      "title": "§ 19 ust. 2 pkt 6 lit. c",
+      "content": "Zarządzanie bezpieczeństwem informacji realizowane jest w szczególności przez zapewnienie przez kierownictwo podmiotu publicznego warunków umożliwiających realizację i egzekwowanie następujących działań: zapewnienia szkolenia osób zaangażowanych w proces przetwarzania informacji ze szczególnym uwzględnieniem takich zagadnień, jak: stosowanie środków zapewniających bezpieczeństwo informacji, w tym urządzenia i oprogramowanie minimalizujące ryzyko błędów ludzkich;"
+    },
+    {
+      "provision_ref": "par19u2p7la",
+      "section": "19",
+      "title": "§ 19 ust. 2 pkt 7 lit. a",
+      "content": "Zarządzanie bezpieczeństwem informacji realizowane jest w szczególności przez zapewnienie przez kierownictwo podmiotu publicznego warunków umożliwiających realizację i egzekwowanie następujących działań: zapewnienia ochrony przetwarzanych informacji przed ich kradzieżą, nieuprawnionym dostępem, uszkodzeniami lub zakłóceniami, przez: monitorowanie dostępu do informacji,"
+    },
+    {
+      "provision_ref": "par19u2p7lb",
+      "section": "19",
+      "title": "§ 19 ust. 2 pkt 7 lit. b",
+      "content": "Zarządzanie bezpieczeństwem informacji realizowane jest w szczególności przez zapewnienie przez kierownictwo podmiotu publicznego warunków umożliwiających realizację i egzekwowanie następujących działań: zapewnienia ochrony przetwarzanych informacji przed ich kradzieżą, nieuprawnionym dostępem, uszkodzeniami lub zakłóceniami, przez: czynności zmierzające do wykrycia nieautoryzowanych działań związanych z przetwarzaniem informacji,"
+    },
+    {
+      "provision_ref": "par19u2p7lc",
+      "section": "19",
+      "title": "§ 19 ust. 2 pkt 7 lit. c",
+      "content": "Zarządzanie bezpieczeństwem informacji realizowane jest w szczególności przez zapewnienie przez kierownictwo podmiotu publicznego warunków umożliwiających realizację i egzekwowanie następujących działań: zapewnienia ochrony przetwarzanych informacji przed ich kradzieżą, nieuprawnionym dostępem, uszkodzeniami lub zakłóceniami, przez: zapewnienie środków uniemożliwiających nieautoryzowany dostęp na poziomie systemów operacyjnych, usług sieciowych i aplikacji;"
+    },
+    {
+      "provision_ref": "par19u2p8",
+      "section": "19",
+      "title": "§ 19 ust. 2 pkt 8",
+      "content": "Zarządzanie bezpieczeństwem informacji realizowane jest w szczególności przez zapewnienie przez kierownictwo podmiotu publicznego warunków umożliwiających realizację i egzekwowanie następujących działań: ustanowienia podstawowych zasad gwarantujących bezpieczną pracę przy przetwarzaniu mobilnym i pracy na odległość;"
+    },
+    {
+      "provision_ref": "par19u2p9",
+      "section": "19",
+      "title": "§ 19 ust. 2 pkt 9",
+      "content": "Zarządzanie bezpieczeństwem informacji realizowane jest w szczególności przez zapewnienie przez kierownictwo podmiotu publicznego warunków umożliwiających realizację i egzekwowanie następujących działań: zabezpieczenia informacji w sposób uniemożliwiający nieuprawnionemu jej ujawnienie, modyfikacje, usunięcie lub zniszczenie;"
+    },
+    {
+      "provision_ref": "par19u2p10",
+      "section": "19",
+      "title": "§ 19 ust. 2 pkt 10",
+      "content": "Zarządzanie bezpieczeństwem informacji realizowane jest w szczególności przez zapewnienie przez kierownictwo podmiotu publicznego warunków umożliwiających realizację i egzekwowanie następujących działań: zawierania w umowach serwisowych podpisanych ze stronami trzecimi zapisów gwarantujących odpowiedni poziom bezpieczeństwa informacji;"
+    },
+    {
+      "provision_ref": "par19u2p11",
+      "section": "19",
+      "title": "§ 19 ust. 2 pkt 11",
+      "content": "Zarządzanie bezpieczeństwem informacji realizowane jest w szczególności przez zapewnienie przez kierownictwo podmiotu publicznego warunków umożliwiających realizację i egzekwowanie następujących działań: ustalenia zasad postępowania z informacjami, zapewniających minimalizację wystąpienia ryzyka kradzieży informacji i środków przetwarzania informacji, w tym urządzeń mobilnych;"
+    },
+    {
+      "provision_ref": "par19u2p12la",
+      "section": "19",
+      "title": "§ 19 ust. 2 pkt 12 lit. a",
+      "content": "Zarządzanie bezpieczeństwem informacji realizowane jest w szczególności przez zapewnienie przez kierownictwo podmiotu publicznego warunków umożliwiających realizację i egzekwowanie następujących działań: zapewnienia odpowiedniego poziomu bezpieczeństwa w systemach teleinformatycznych, polegającego w szczególności na: dbałości o aktualizację oprogramowania,"
+    },
+    {
+      "provision_ref": "par19u2p12lb",
+      "section": "19",
+      "title": "§ 19 ust. 2 pkt 12 lit. b",
+      "content": "Zarządzanie bezpieczeństwem informacji realizowane jest w szczególności przez zapewnienie przez kierownictwo podmiotu publicznego warunków umożliwiających realizację i egzekwowanie następujących działań: zapewnienia odpowiedniego poziomu bezpieczeństwa w systemach teleinformatycznych, polegającego w szczególności na: minimalizowaniu ryzyka utraty informacji w wyniku awarii,"
+    },
+    {
+      "provision_ref": "par19u2p12lc",
+      "section": "19",
+      "title": "§ 19 ust. 2 pkt 12 lit. c",
+      "content": "Zarządzanie bezpieczeństwem informacji realizowane jest w szczególności przez zapewnienie przez kierownictwo podmiotu publicznego warunków umożliwiających realizację i egzekwowanie następujących działań: zapewnienia odpowiedniego poziomu bezpieczeństwa w systemach teleinformatycznych, polegającego w szczególności na: ochronie przed błędami, utratą, nieuprawnioną modyfikacją,"
+    },
+    {
+      "provision_ref": "par19u2p12ld",
+      "section": "19",
+      "title": "§ 19 ust. 2 pkt 12 lit. d",
+      "content": "Zarządzanie bezpieczeństwem informacji realizowane jest w szczególności przez zapewnienie przez kierownictwo podmiotu publicznego warunków umożliwiających realizację i egzekwowanie następujących działań: zapewnienia odpowiedniego poziomu bezpieczeństwa w systemach teleinformatycznych, polegającego w szczególności na: stosowaniu mechanizmów kryptograficznych w sposób adekwatny do zagrożeń lub wymogów przepisu prawa,"
+    },
+    {
+      "provision_ref": "par19u2p12le",
+      "section": "19",
+      "title": "§ 19 ust. 2 pkt 12 lit. e",
+      "content": "Zarządzanie bezpieczeństwem informacji realizowane jest w szczególności przez zapewnienie przez kierownictwo podmiotu publicznego warunków umożliwiających realizację i egzekwowanie następujących działań: zapewnienia odpowiedniego poziomu bezpieczeństwa w systemach teleinformatycznych, polegającego w szczególności na: zapewnieniu bezpieczeństwa plików systemowych,"
+    },
+    {
+      "provision_ref": "par19u2p12lf",
+      "section": "19",
+      "title": "§ 19 ust. 2 pkt 12 lit. f",
+      "content": "Zarządzanie bezpieczeństwem informacji realizowane jest w szczególności przez zapewnienie przez kierownictwo podmiotu publicznego warunków umożliwiających realizację i egzekwowanie następujących działań: zapewnienia odpowiedniego poziomu bezpieczeństwa w systemach teleinformatycznych, polegającego w szczególności na: redukcji ryzyk wynikających z wykorzystania opublikowanych podatności technicznych systemów teleinformatycznych,"
+    },
+    {
+      "provision_ref": "par19u2p12lg",
+      "section": "19",
+      "title": "§ 19 ust. 2 pkt 12 lit. g",
+      "content": "Zarządzanie bezpieczeństwem informacji realizowane jest w szczególności przez zapewnienie przez kierownictwo podmiotu publicznego warunków umożliwiających realizację i egzekwowanie następujących działań: zapewnienia odpowiedniego poziomu bezpieczeństwa w systemach teleinformatycznych, polegającego w szczególności na: niezwłocznym podejmowaniu działań po dostrzeżeniu nieujawnionych podatności systemów teleinformatycznych na możliwość naruszenia bezpieczeństwa,"
+    },
+    {
+      "provision_ref": "par19u2p12lh",
+      "section": "19",
+      "title": "§ 19 ust. 2 pkt 12 lit. h",
+      "content": "Zarządzanie bezpieczeństwem informacji realizowane jest w szczególności przez zapewnienie przez kierownictwo podmiotu publicznego warunków umożliwiających realizację i egzekwowanie następujących działań: zapewnienia odpowiedniego poziomu bezpieczeństwa w systemach teleinformatycznych, polegającego w szczególności na: kontroli zgodności systemów teleinformatycznych z odpowiednimi normami i politykami bezpieczeństwa;"
+    },
+    {
+      "provision_ref": "par19u2p13",
+      "section": "19",
+      "title": "§ 19 ust. 2 pkt 13",
+      "content": "Zarządzanie bezpieczeństwem informacji realizowane jest w szczególności przez zapewnienie przez kierownictwo podmiotu publicznego warunków umożliwiających realizację i egzekwowanie następujących działań: bezzwłocznego zgłaszania incydentów naruszenia bezpieczeństwa informacji w określony i z góry ustalony sposób, umożliwiający szybkie podjęcie działań korygujących;"
+    },
+    {
+      "provision_ref": "par19u2p14",
+      "section": "19",
+      "title": "§ 19 ust. 2 pkt 14",
+      "content": "Zarządzanie bezpieczeństwem informacji realizowane jest w szczególności przez zapewnienie przez kierownictwo podmiotu publicznego warunków umożliwiających realizację i egzekwowanie następujących działań: zapewnienia okresowego audytu wewnętrznego w zakresie bezpieczeństwa informacji, nie rzadziej niż raz na rok."
+    },
+    {
+      "provision_ref": "par19u3p1",
+      "section": "19",
+      "title": "§ 19 ust. 3 pkt 1",
+      "content": "Wymagania określone w ust. 1 i 2 uznaje się za spełnione, jeżeli system zarządzania bezpieczeństwem informacji został opracowany na podstawie Polskiej Normy PN-ISO/IEC 27001, a ustanawianie zabezpieczeń, zarządzanie ryzykiem oraz audytowanie odbywa się na podstawie Polskich Norm związanych z tą normą, w tym: PN-ISO/IEC 27002 - w odniesieniu do ustanawiania zabezpieczeń;"
+    },
+    {
+      "provision_ref": "par19u3p2",
+      "section": "19",
+      "title": "§ 19 ust. 3 pkt 2",
+      "content": "Wymagania określone w ust. 1 i 2 uznaje się za spełnione, jeżeli system zarządzania bezpieczeństwem informacji został opracowany na podstawie Polskiej Normy PN-ISO/IEC 27001, a ustanawianie zabezpieczeń, zarządzanie ryzykiem oraz audytowanie odbywa się na podstawie Polskich Norm związanych z tą normą, w tym: PN-ISO/IEC 27005 - w odniesieniu do zarządzania ryzykiem."
+    },
+    {
+      "provision_ref": "par19u4",
+      "section": "19",
+      "title": "§ 19 ust. 4",
+      "content": "Niezależnie od zapewnienia działań, o których mowa w ust. 2, w przypadkach uzasadnionych analizą ryzyka w systemach teleinformatycznych podmiotów realizujących zadania publiczne należy ustanowić dodatkowe zabezpieczenia."
+    },
+    {
+      "provision_ref": "par20",
+      "section": "20",
+      "title": "§ 20",
+      "content": "Rozliczalność w systemach teleinformatycznych podlega wiarygodnemu dokumentowaniu w postaci elektronicznych zapisów w dziennikach systemów (logach). W dziennikach systemów odnotowuje się obligatoryjnie działania użytkowników lub obiektów systemowych polegające na dostępie do: systemu z uprawnieniami administracyjnymi; konfiguracji systemu, w tym konfiguracji zabezpieczeń; przetwarzanych w systemach danych podlegających prawnej ochronie w zakresie wymaganym przepisami prawa. Poza informacjami wymienionymi w ust. 2 mogą być odnotowywane działania użytkowników lub obiektów systemowych, a także inne zdarzenia związane z eksploatacją systemu w postaci: działań użytkowników nieposiadających uprawnień administracyjnych, zdarzeń systemowych nieposiadających krytycznego znaczenia dla funkcjonowania systemu, zdarzeń i parametrów środowiska, w którym eksploatowany jest system teleinformatyczny - w zakresie wynikającym z analizy ryzyka. Informacje w dziennikach systemów przechowywane są od dnia ich zapisu, przez okres wskazany w przepisach odrębnych, a w przypadku braku przepisów odrębnych przez dwa lata. Zapisy dzienników systemów mogą być składowane na zewnętrznych informatycznych nośnikach danych w warunkach zapewniających bezpieczeństwo informacji. W uzasadnionych przypadkach dzienniki systemów mogą być prowadzone na nośniku papierowym."
+    },
+    {
+      "provision_ref": "par20u1",
+      "section": "20",
+      "title": "§ 20 ust. 1",
+      "content": "Rozliczalność w systemach teleinformatycznych podlega wiarygodnemu dokumentowaniu w postaci elektronicznych zapisów w dziennikach systemów (logach)."
+    },
+    {
+      "provision_ref": "par20u2p1",
+      "section": "20",
+      "title": "§ 20 ust. 2 pkt 1",
+      "content": "W dziennikach systemów odnotowuje się obligatoryjnie działania użytkowników lub obiektów systemowych polegające na dostępie do: systemu z uprawnieniami administracyjnymi;"
+    },
+    {
+      "provision_ref": "par20u2p2",
+      "section": "20",
+      "title": "§ 20 ust. 2 pkt 2",
+      "content": "W dziennikach systemów odnotowuje się obligatoryjnie działania użytkowników lub obiektów systemowych polegające na dostępie do: konfiguracji systemu, w tym konfiguracji zabezpieczeń;"
+    },
+    {
+      "provision_ref": "par20u2p3",
+      "section": "20",
+      "title": "§ 20 ust. 2 pkt 3",
+      "content": "W dziennikach systemów odnotowuje się obligatoryjnie działania użytkowników lub obiektów systemowych polegające na dostępie do: przetwarzanych w systemach danych podlegających prawnej ochronie w zakresie wymaganym przepisami prawa."
+    },
+    {
+      "provision_ref": "par20u3p1",
+      "section": "20",
+      "title": "§ 20 ust. 3 pkt 1",
+      "content": "Poza informacjami wymienionymi w ust. 2 mogą być odnotowywane działania użytkowników lub obiektów systemowych, a także inne zdarzenia związane z eksploatacją systemu w postaci: działań użytkowników nieposiadających uprawnień administracyjnych,"
+    },
+    {
+      "provision_ref": "par20u3p2",
+      "section": "20",
+      "title": "§ 20 ust. 3 pkt 2",
+      "content": "Poza informacjami wymienionymi w ust. 2 mogą być odnotowywane działania użytkowników lub obiektów systemowych, a także inne zdarzenia związane z eksploatacją systemu w postaci: zdarzeń systemowych nieposiadających krytycznego znaczenia dla funkcjonowania systemu,"
+    },
+    {
+      "provision_ref": "par20u3p3",
+      "section": "20",
+      "title": "§ 20 ust. 3 pkt 3",
+      "content": "Poza informacjami wymienionymi w ust. 2 mogą być odnotowywane działania użytkowników lub obiektów systemowych, a także inne zdarzenia związane z eksploatacją systemu w postaci: zdarzeń i parametrów środowiska, w którym eksploatowany jest system teleinformatyczny"
+    },
+    {
+      "provision_ref": "par20u4",
+      "section": "20",
+      "title": "§ 20 ust. 4",
+      "content": "Informacje w dziennikach systemów przechowywane są od dnia ich zapisu, przez okres wskazany w przepisach odrębnych, a w przypadku braku przepisów odrębnych przez dwa lata."
+    },
+    {
+      "provision_ref": "par20u5",
+      "section": "20",
+      "title": "§ 20 ust. 5",
+      "content": "Zapisy dzienników systemów mogą być składowane na zewnętrznych informatycznych nośnikach danych w warunkach zapewniających bezpieczeństwo informacji. W uzasadnionych przypadkach dzienniki systemów mogą być prowadzone na nośniku papierowym."
+    },
+    {
+      "provision_ref": "par21",
+      "section": "21",
+      "title": "§ 21",
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 12 kwietnia 2012 r. w sprawie Krajowych Ram Interoperacyjności, minimalnych wymagań dla rejestrów publicznych i wymiany informacji w postaci elektronicznej oraz minimalnych wymagań dla systemów teleinformatycznych (Dz. U. z 2017 r. poz. 2247), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 26 ustawy z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (Dz. U. z 2023 r. poz. 1440)."
+    }
+  ],
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2024-307",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-214",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1752",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1615",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1688",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1762",
+      "ref_type": "references"
+    }
+  ]
+}

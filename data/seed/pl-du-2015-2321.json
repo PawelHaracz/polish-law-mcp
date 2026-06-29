@@ -1,0 +1,452 @@
+{
+  "id": "pl-du-2015-2321",
+  "type": "statute",
+  "title": "Rozporządzenie Ministra Finansów z dnia 23 grudnia 2015 r. w sprawie szczegółowego sposobu obliczania podstawowego kapitałowego wymogu wypłacalności według formuły standardowej",
+  "title_en": "",
+  "short_name": "pl-du-2015-2321",
+  "status": "in_force",
+  "issued_date": "2015-12-23",
+  "in_force_date": "2015-12-30",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2015/2321",
+  "provisions": [
+    {
+      "provision_ref": "par1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: zobowiązania o charakterze zobowiązań z tytułu umów pozostałych ubezpieczeń osobowych oraz ubezpieczeń majątkowych i umów reasekuracji pozostałych ubezpieczeń osobowych oraz ubezpieczeń majątkowych - zobowiązania, o których mowa w lit. A pkt 4-12, lit. B pkt 16-24 oraz lit. C pkt 26-28 Załącznika I do rozporządzenia delegowanego Komisji (UE) 2015/35 z dnia 10 października 2014 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2009/138/WE w sprawie podejmowania i prowadzenia działalności ubezpieczeniowej i reasekuracyjnej (Wypłacalność II) , zwanego dalej „rozporządzeniem delegowanym Komisji (UE) 2015/35”; zobowiązania o charakterze zobowiązań z tytułu umów ubezpieczenia na życie i umów reasekuracji ubezpieczeń na życie - zobowiązania, o których mowa w lit. D pkt 30-32 i 34 oraz lit. E pkt 36 Załącznika I do rozporządzenia delegowanego Komisji (UE) 2015/35; zobowiązania o charakterze zobowiązań z tytułu umów ubezpieczeń zdrowotnych i umów reasekuracji ubezpieczeń zdrowotnych ‒ zobowiązania, o których mowa w lit. A pkt 1-3, lit. B 13-15, lit. C pkt 25, lit. D pkt 29 i 33 oraz lit. E pkt 35 Załącznika I do rozporządzenia delegowanego Komisji (UE) 2015/35; ryzyko składki i rezerw w pozostałych ubezpieczeniach osobowych oraz ubezpieczeniach majątkowych ‒ ryzyko straty lub niekorzystnej zmiany wartości zobowiązań o charakterze zobowiązań z tytułu umów pozostałych ubezpieczeń osobowych oraz ubezpieczeń majątkowych i umów reasekuracji pozostałych ubezpieczeń osobowych oraz ubezpieczeń majątkowych, wynikające ze zmienności w zakresie występowania, częstotliwości i dotkliwości zdarzeń losowych objętych ochroną ubezpieczeniową lub umowami reasekuracji oraz ze zmienności w zakresie terminu i wysokości wypłat odszkodowań i innych świadczeń; ryzyko katastroficzne w pozostałych ubezpieczeniach osobowych oraz ubezpieczeniach majątkowych ‒ ryzyko straty lub niekorzystnej zmiany wartości zobowiązań o charakterze zobowiązań z tytułu umów pozostałych ubezpieczeń osobowych oraz ubezpieczeń majątkowych i umów reasekuracji pozostałych ubezpieczeń osobowych oraz ubezpieczeń majątkowych, wynikające ze znaczącej niepewności założeń dotyczących ustalania wysokości składek oraz tworzenia i ustalania wartości rezerw techniczno-ubezpieczeniowych dla celów wypłacalności, związanych z ekstremalnymi lub wyjątkowymi zdarzeniami losowymi; ryzyko śmiertelności ‒ ryzyko straty lub niekorzystnej zmiany wartości zobowiązań o charakterze zobowiązań z tytułu umów ubezpieczenia na życie i umów reasekuracji ubezpieczeń na życie, wynikające ze zmian poziomu, zmian trendu lub wahań zmienności współczynników umieralności, w przypadku gdy wzrost współczynników umieralności prowadzi do zwiększenia wartości tych zobowiązań; ryzyko długowieczności ‒ ryzyko straty lub niekorzystnej zmiany wartości zobowiązań o charakterze zobowiązań z tytułu umów ubezpieczenia na życie i umów reasekuracji ubezpieczeń na życie, wynikające ze zmian poziomu, zmian trendu lub wahań zmienności współczynników umieralności, w przypadku gdy spadek współczynników umieralności prowadzi do zwiększenia wartości tych zobowiązań; ryzyko niezdolności do pracy i zachorowalności ‒ ryzyko straty lub niekorzystnej zmiany wartości zobowiązań o charakterze zobowiązań z tytułu umów ubezpieczenia na życie i umów reasekuracji ubezpieczeń na życie, wynikające ze zmian poziomu, zmian trendu lub wahań zmienności współczynników niezdolności do pracy, chorobowości i zachorowalności; ryzyko kosztów w ubezpieczeniach na życie ‒ ryzyko straty lub niekorzystnej zmiany wartości zobowiązań o charakterze zobowiązań z tytułu umów ubezpieczenia na życie i umów reasekuracji ubezpieczeń na życie, wynikające ze zmian wysokości, zmian trendu lub wahań zmienności kosztów obsługi umów ubezpieczenia i umów reasekuracji; ryzyko rewizji wysokości rent ‒ ryzyko straty lub niekorzystnej zmiany wartości zobowiązań o charakterze zobowiązań z tytułu umów ubezpieczenia na życie i umów reasekuracji ubezpieczeń na życie, wynikające ze zmian poziomu, zmian trendu lub wahań zmienności współczynników rewizji wysokości rent, w związku ze zmianami stanu prawnego lub stanu zdrowia osób ubezpieczonych lub uprawnionych z umów ubezpieczenia; ryzyko związane z rezygnacjami z umów w ubezpieczeniach na życie ‒ ryzyko straty lub niekorzystnej zmiany wartości zobowiązań o charakterze zobowiązań z tytułu umów ubezpieczenia na życie i umów reasekuracji ubezpieczeń na życie, wynikające ze zmian poziomu, zmian trendu lub wahań zmienności współczynników wypowiedzeń umów ubezpieczenia i umów reasekuracji, odstąpień od umów ubezpieczenia i umów reasekuracji, przedłużeń umów ubezpieczenia i umów reasekuracji oraz wykupów ubezpieczenia; ryzyko katastroficzne w ubezpieczeniach na życie ‒ ryzyko straty lub niekorzystnej zmiany wartości zobowiązań o charakterze zobowiązań z tytułu umów ubezpieczenia na życie i umów reasekuracji ubezpieczeń na życie, wynikające ze znaczącej niepewności założeń dotyczących ustalania wysokości składek oraz tworzenia i ustalania wartości rezerw techniczno-ubezpieczeniowych dla celów wypłacalności, związanych z ekstremalnymi lub wyjątkowymi zdarzeniami losowymi; ryzyko składki i rezerw w ubezpieczeniach zdrowotnych o charakterze pozostałych ubezpieczeń osobowych oraz ubezpieczeń majątkowych ‒ ryzyko straty lub niekorzystnej zmiany wartości zobowiązań o charakterze zobowiązań z tytułu umów ubezpieczeń zdrowotnych i umów reasekuracji ubezpieczeń zdrowotnych, wynikające ze zmienności w zakresie występowania, częstotliwości i dotkliwości zdarzeń losowych objętych ochroną ubezpieczeniową lub umowami reasekuracji oraz ze zmienności w zakresie terminu i wysokości wypłat odszkodowań i innych świadczeń; ryzyko kosztów w ubezpieczeniach zdrowotnych - ryzyko straty lub niekorzystnej zmiany wartości zobowiązań o charakterze zobowiązań z tytułu umów ubezpieczeń zdrowotnych i umów reasekuracji ubezpieczeń zdrowotnych, wynikające ze zmian wysokości, zmian trendu lub wahań zmienności kosztów obsługi umów ubezpieczenia i umów reasekuracji; ryzyko pandemii ‒ ryzyko straty lub niekorzystnej zmiany wartości zobowiązań o charakterze zobowiązań z tytułu umów ubezpieczeń zdrowotnych i umów reasekuracji ubezpieczeń zdrowotnych, wynikające ze znaczącej niepewności założeń dotyczących ustalania wysokości składek oraz tworzenia i ustalania wartości rezerw techniczno-ubezpieczeniowych dla celów wypłacalności, związanych z wybuchami pandemii, jak również z kumulacją ryzyka w takich ekstremalnych warunkach; ryzyko stopy procentowej ‒ ryzyko związane z wrażliwością wartości aktywów, zobowiązań i instrumentów finansowych na zmiany w strukturze terminowej stóp procentowych lub wahania zmienności stóp procentowych; ryzyko cen akcji ‒ ryzyko związane z wrażliwością wartości aktywów, zobowiązań i instrumentów finansowych na zmiany rynkowych cen akcji lub wahania zmienności rynkowych cen akcji; ryzyko cen nieruchomości ‒ ryzyko związane z wrażliwością wartości aktywów, zobowiązań i instrumentów finansowych na zmiany rynkowych cen nieruchomości lub wahania zmienności rynkowych cen nieruchomości; ryzyko spreadu kredytowego ‒ ryzyko związane z wrażliwością wartości aktywów, zobowiązań i instrumentów finansowych na zmiany w poziomie spreadów kredytowych w odniesieniu do struktury terminowej stóp procentowych wolnych od ryzyka lub wahania ich zmienności; ryzyko walutowe ‒ ryzyko związane z wrażliwością wartości aktywów, zobowiązań i instrumentów finansowych na zmiany kursów wymiany walut lub wahania zmienności tych kursów; ryzyko koncentracji aktywów ‒ dodatkowe ryzyka, na które narażony jest zakład ubezpieczeń lub zakład reasekuracji, wynikające z braku dywersyfikacji portfela aktywów lub znaczącej ekspozycji na ryzyko niewykonania zobowiązania przez emitenta papierów wartościowych lub grupę emitentów powiązanych ze sobą."
+    },
+    {
+      "provision_ref": "par1p1",
+      "section": "1",
+      "title": "§ 1 pkt 1",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: zobowiązania o charakterze zobowiązań z tytułu umów pozostałych ubezpieczeń osobowych oraz ubezpieczeń majątkowych i umów reasekuracji pozostałych ubezpieczeń osobowych oraz ubezpieczeń majątkowych - zobowiązania, o których mowa w lit. A pkt 4-12, lit. B pkt 16-24 oraz lit. C pkt 26-28 Załącznika I do rozporządzenia delegowanego Komisji (UE) 2015/35 z dnia 10 października 2014 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2009/138/WE w sprawie podejmowania i prowadzenia działalności ubezpieczeniowej i reasekuracyjnej (Wypłacalność II) , zwanego dalej „rozporządzeniem delegowanym Komisji (UE) 2015/35”;"
+    },
+    {
+      "provision_ref": "par1p2",
+      "section": "1",
+      "title": "§ 1 pkt 2",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: zobowiązania o charakterze zobowiązań z tytułu umów ubezpieczenia na życie i umów reasekuracji ubezpieczeń na życie - zobowiązania, o których mowa w lit. D pkt 30-32 i 34 oraz lit. E pkt 36 Załącznika I do rozporządzenia delegowanego Komisji (UE) 2015/35;"
+    },
+    {
+      "provision_ref": "par1p3",
+      "section": "1",
+      "title": "§ 1 pkt 3",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: zobowiązania o charakterze zobowiązań z tytułu umów ubezpieczeń zdrowotnych i umów reasekuracji ubezpieczeń zdrowotnych ‒ zobowiązania, o których mowa w lit. A pkt 1-3, lit. B 13-15, lit. C pkt 25, lit. D pkt 29 i 33 oraz lit. E pkt 35 Załącznika I do rozporządzenia delegowanego Komisji (UE) 2015/35;"
+    },
+    {
+      "provision_ref": "par1p4",
+      "section": "1",
+      "title": "§ 1 pkt 4",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: ryzyko składki i rezerw w pozostałych ubezpieczeniach osobowych oraz ubezpieczeniach majątkowych ‒ ryzyko straty lub niekorzystnej zmiany wartości zobowiązań o charakterze zobowiązań z tytułu umów pozostałych ubezpieczeń osobowych oraz ubezpieczeń majątkowych i umów reasekuracji pozostałych ubezpieczeń osobowych oraz ubezpieczeń majątkowych, wynikające ze zmienności w zakresie występowania, częstotliwości i dotkliwości zdarzeń losowych objętych ochroną ubezpieczeniową lub umowami reasekuracji oraz ze zmienności w zakresie terminu i wysokości wypłat odszkodowań i innych świadczeń;"
+    },
+    {
+      "provision_ref": "par1p5",
+      "section": "1",
+      "title": "§ 1 pkt 5",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: ryzyko katastroficzne w pozostałych ubezpieczeniach osobowych oraz ubezpieczeniach majątkowych ‒ ryzyko straty lub niekorzystnej zmiany wartości zobowiązań o charakterze zobowiązań z tytułu umów pozostałych ubezpieczeń osobowych oraz ubezpieczeń majątkowych i umów reasekuracji pozostałych ubezpieczeń osobowych oraz ubezpieczeń majątkowych, wynikające ze znaczącej niepewności założeń dotyczących ustalania wysokości składek oraz tworzenia i ustalania wartości rezerw techniczno-ubezpieczeniowych dla celów wypłacalności, związanych z ekstremalnymi lub wyjątkowymi zdarzeniami losowymi;"
+    },
+    {
+      "provision_ref": "par1p6",
+      "section": "1",
+      "title": "§ 1 pkt 6",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: ryzyko śmiertelności ‒ ryzyko straty lub niekorzystnej zmiany wartości zobowiązań o charakterze zobowiązań z tytułu umów ubezpieczenia na życie i umów reasekuracji ubezpieczeń na życie, wynikające ze zmian poziomu, zmian trendu lub wahań zmienności współczynników umieralności, w przypadku gdy wzrost współczynników umieralności prowadzi do zwiększenia wartości tych zobowiązań;"
+    },
+    {
+      "provision_ref": "par1p7",
+      "section": "1",
+      "title": "§ 1 pkt 7",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: ryzyko długowieczności ‒ ryzyko straty lub niekorzystnej zmiany wartości zobowiązań o charakterze zobowiązań z tytułu umów ubezpieczenia na życie i umów reasekuracji ubezpieczeń na życie, wynikające ze zmian poziomu, zmian trendu lub wahań zmienności współczynników umieralności, w przypadku gdy spadek współczynników umieralności prowadzi do zwiększenia wartości tych zobowiązań;"
+    },
+    {
+      "provision_ref": "par1p8",
+      "section": "1",
+      "title": "§ 1 pkt 8",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: ryzyko niezdolności do pracy i zachorowalności ‒ ryzyko straty lub niekorzystnej zmiany wartości zobowiązań o charakterze zobowiązań z tytułu umów ubezpieczenia na życie i umów reasekuracji ubezpieczeń na życie, wynikające ze zmian poziomu, zmian trendu lub wahań zmienności współczynników niezdolności do pracy, chorobowości i zachorowalności;"
+    },
+    {
+      "provision_ref": "par1p9",
+      "section": "1",
+      "title": "§ 1 pkt 9",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: ryzyko kosztów w ubezpieczeniach na życie ‒ ryzyko straty lub niekorzystnej zmiany wartości zobowiązań o charakterze zobowiązań z tytułu umów ubezpieczenia na życie i umów reasekuracji ubezpieczeń na życie, wynikające ze zmian wysokości, zmian trendu lub wahań zmienności kosztów obsługi umów ubezpieczenia i umów reasekuracji;"
+    },
+    {
+      "provision_ref": "par1p10",
+      "section": "1",
+      "title": "§ 1 pkt 10",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: ryzyko rewizji wysokości rent ‒ ryzyko straty lub niekorzystnej zmiany wartości zobowiązań o charakterze zobowiązań z tytułu umów ubezpieczenia na życie i umów reasekuracji ubezpieczeń na życie, wynikające ze zmian poziomu, zmian trendu lub wahań zmienności współczynników rewizji wysokości rent, w związku ze zmianami stanu prawnego lub stanu zdrowia osób ubezpieczonych lub uprawnionych z umów ubezpieczenia;"
+    },
+    {
+      "provision_ref": "par1p11",
+      "section": "1",
+      "title": "§ 1 pkt 11",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: ryzyko związane z rezygnacjami z umów w ubezpieczeniach na życie ‒ ryzyko straty lub niekorzystnej zmiany wartości zobowiązań o charakterze zobowiązań z tytułu umów ubezpieczenia na życie i umów reasekuracji ubezpieczeń na życie, wynikające ze zmian poziomu, zmian trendu lub wahań zmienności współczynników wypowiedzeń umów ubezpieczenia i umów reasekuracji, odstąpień od umów ubezpieczenia i umów reasekuracji, przedłużeń umów ubezpieczenia i umów reasekuracji oraz wykupów ubezpieczenia;"
+    },
+    {
+      "provision_ref": "par1p12",
+      "section": "1",
+      "title": "§ 1 pkt 12",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: ryzyko katastroficzne w ubezpieczeniach na życie ‒ ryzyko straty lub niekorzystnej zmiany wartości zobowiązań o charakterze zobowiązań z tytułu umów ubezpieczenia na życie i umów reasekuracji ubezpieczeń na życie, wynikające ze znaczącej niepewności założeń dotyczących ustalania wysokości składek oraz tworzenia i ustalania wartości rezerw techniczno-ubezpieczeniowych dla celów wypłacalności, związanych z ekstremalnymi lub wyjątkowymi zdarzeniami losowymi;"
+    },
+    {
+      "provision_ref": "par1p13",
+      "section": "1",
+      "title": "§ 1 pkt 13",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: ryzyko składki i rezerw w ubezpieczeniach zdrowotnych o charakterze pozostałych ubezpieczeń osobowych oraz ubezpieczeń majątkowych ‒ ryzyko straty lub niekorzystnej zmiany wartości zobowiązań o charakterze zobowiązań z tytułu umów ubezpieczeń zdrowotnych i umów reasekuracji ubezpieczeń zdrowotnych, wynikające ze zmienności w zakresie występowania, częstotliwości i dotkliwości zdarzeń losowych objętych ochroną ubezpieczeniową lub umowami reasekuracji oraz ze zmienności w zakresie terminu i wysokości wypłat odszkodowań i innych świadczeń;"
+    },
+    {
+      "provision_ref": "par1p14",
+      "section": "1",
+      "title": "§ 1 pkt 14",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: ryzyko kosztów w ubezpieczeniach zdrowotnych - ryzyko straty lub niekorzystnej zmiany wartości zobowiązań o charakterze zobowiązań z tytułu umów ubezpieczeń zdrowotnych i umów reasekuracji ubezpieczeń zdrowotnych, wynikające ze zmian wysokości, zmian trendu lub wahań zmienności kosztów obsługi umów ubezpieczenia i umów reasekuracji;"
+    },
+    {
+      "provision_ref": "par1p15",
+      "section": "1",
+      "title": "§ 1 pkt 15",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: ryzyko pandemii ‒ ryzyko straty lub niekorzystnej zmiany wartości zobowiązań o charakterze zobowiązań z tytułu umów ubezpieczeń zdrowotnych i umów reasekuracji ubezpieczeń zdrowotnych, wynikające ze znaczącej niepewności założeń dotyczących ustalania wysokości składek oraz tworzenia i ustalania wartości rezerw techniczno-ubezpieczeniowych dla celów wypłacalności, związanych z wybuchami pandemii, jak również z kumulacją ryzyka w takich ekstremalnych warunkach;"
+    },
+    {
+      "provision_ref": "par1p16",
+      "section": "1",
+      "title": "§ 1 pkt 16",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: ryzyko stopy procentowej ‒ ryzyko związane z wrażliwością wartości aktywów, zobowiązań i instrumentów finansowych na zmiany w strukturze terminowej stóp procentowych lub wahania zmienności stóp procentowych;"
+    },
+    {
+      "provision_ref": "par1p17",
+      "section": "1",
+      "title": "§ 1 pkt 17",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: ryzyko cen akcji ‒ ryzyko związane z wrażliwością wartości aktywów, zobowiązań i instrumentów finansowych na zmiany rynkowych cen akcji lub wahania zmienności rynkowych cen akcji;"
+    },
+    {
+      "provision_ref": "par1p18",
+      "section": "1",
+      "title": "§ 1 pkt 18",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: ryzyko cen nieruchomości ‒ ryzyko związane z wrażliwością wartości aktywów, zobowiązań i instrumentów finansowych na zmiany rynkowych cen nieruchomości lub wahania zmienności rynkowych cen nieruchomości;"
+    },
+    {
+      "provision_ref": "par1p19",
+      "section": "1",
+      "title": "§ 1 pkt 19",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: ryzyko spreadu kredytowego ‒ ryzyko związane z wrażliwością wartości aktywów, zobowiązań i instrumentów finansowych na zmiany w poziomie spreadów kredytowych w odniesieniu do struktury terminowej stóp procentowych wolnych od ryzyka lub wahania ich zmienności;"
+    },
+    {
+      "provision_ref": "par1p20",
+      "section": "1",
+      "title": "§ 1 pkt 20",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: ryzyko walutowe ‒ ryzyko związane z wrażliwością wartości aktywów, zobowiązań i instrumentów finansowych na zmiany kursów wymiany walut lub wahania zmienności tych kursów;"
+    },
+    {
+      "provision_ref": "par1p21",
+      "section": "1",
+      "title": "§ 1 pkt 21",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: ryzyko koncentracji aktywów ‒ dodatkowe ryzyka, na które narażony jest zakład ubezpieczeń lub zakład reasekuracji, wynikające z braku dywersyfikacji portfela aktywów lub znaczącej ekspozycji na ryzyko niewykonania zobowiązania przez emitenta papierów wartościowych lub grupę emitentów powiązanych ze sobą."
+    },
+    {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Zakład ubezpieczeń i zakład reasekuracji obliczają podstawowy kapitałowy wymóg wypłacalności według formuły standardowej zgodnie z pkt 1 załącznika do rozporządzenia."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Moduł ryzyka aktuarialnego w pozostałych ubezpieczeniach osobowych oraz ubezpieczeniach majątkowych odzwierciedla ryzyko wynikające ze zobowiązań o charakterze zobowiązań z tytułu umów pozostałych ubezpieczeń osobowych oraz ubezpieczeń majątkowych i umów reasekuracji pozostałych ubezpieczeń osobowych oraz ubezpieczeń majątkowych, związane z objętymi ochroną ubezpieczeniową lub umowami reasekuracji zdarzeniami losowymi i procesami stosowanymi przez zakład ubezpieczeń i zakład reasekuracji w wykonywanej działalności. Moduł ryzyka aktuarialnego w pozostałych ubezpieczeniach osobowych oraz ubezpieczeniach majątkowych uwzględnia niepewność wyników zakładu ubezpieczeń lub zakładu reasekuracji w odniesieniu do: zawartych umów ubezpieczenia, umów gwarancji ubezpieczeniowych i umów reasekuracji; umów ubezpieczenia, umów gwarancji ubezpieczeniowych i umów reasekuracji, których spodziewane rozpoczęcie nastąpi w terminie kolejnych dwunastu miesięcy. Moduł ryzyka aktuarialnego w pozostałych ubezpieczeniach osobowych oraz ubezpieczeniach majątkowych składa się co najmniej z następujących podmodułów: ryzyka składki i rezerw w pozostałych ubezpieczeniach osobowych oraz ubezpieczeniach majątkowych; ryzyka katastroficznego w pozostałych ubezpieczeniach osobowych oraz ubezpieczeniach majątkowych. Zakład ubezpieczeń i zakład reasekuracji obliczają moduł ryzyka aktuarialnego w pozostałych ubezpieczeniach osobowych oraz ubezpieczeniach majątkowych zgodnie z pkt 2 załącznika do rozporządzenia."
+    },
+    {
+      "provision_ref": "par3u1",
+      "section": "3",
+      "title": "§ 3 ust. 1",
+      "content": "Moduł ryzyka aktuarialnego w pozostałych ubezpieczeniach osobowych oraz ubezpieczeniach majątkowych odzwierciedla ryzyko wynikające ze zobowiązań o charakterze zobowiązań z tytułu umów pozostałych ubezpieczeń osobowych oraz ubezpieczeń majątkowych i umów reasekuracji pozostałych ubezpieczeń osobowych oraz ubezpieczeń majątkowych, związane z objętymi ochroną ubezpieczeniową lub umowami reasekuracji zdarzeniami losowymi i procesami stosowanymi przez zakład ubezpieczeń i zakład reasekuracji w wykonywanej działalności."
+    },
+    {
+      "provision_ref": "par3u2p1",
+      "section": "3",
+      "title": "§ 3 ust. 2 pkt 1",
+      "content": "Moduł ryzyka aktuarialnego w pozostałych ubezpieczeniach osobowych oraz ubezpieczeniach majątkowych uwzględnia niepewność wyników zakładu ubezpieczeń lub zakładu reasekuracji w odniesieniu do: zawartych umów ubezpieczenia, umów gwarancji ubezpieczeniowych i umów reasekuracji;"
+    },
+    {
+      "provision_ref": "par3u2p2",
+      "section": "3",
+      "title": "§ 3 ust. 2 pkt 2",
+      "content": "Moduł ryzyka aktuarialnego w pozostałych ubezpieczeniach osobowych oraz ubezpieczeniach majątkowych uwzględnia niepewność wyników zakładu ubezpieczeń lub zakładu reasekuracji w odniesieniu do: umów ubezpieczenia, umów gwarancji ubezpieczeniowych i umów reasekuracji, których spodziewane rozpoczęcie nastąpi w terminie kolejnych dwunastu miesięcy."
+    },
+    {
+      "provision_ref": "par3u3p1",
+      "section": "3",
+      "title": "§ 3 ust. 3 pkt 1",
+      "content": "Moduł ryzyka aktuarialnego w pozostałych ubezpieczeniach osobowych oraz ubezpieczeniach majątkowych składa się co najmniej z następujących podmodułów: ryzyka składki i rezerw w pozostałych ubezpieczeniach osobowych oraz ubezpieczeniach majątkowych;"
+    },
+    {
+      "provision_ref": "par3u3p2",
+      "section": "3",
+      "title": "§ 3 ust. 3 pkt 2",
+      "content": "Moduł ryzyka aktuarialnego w pozostałych ubezpieczeniach osobowych oraz ubezpieczeniach majątkowych składa się co najmniej z następujących podmodułów: ryzyka katastroficznego w pozostałych ubezpieczeniach osobowych oraz ubezpieczeniach majątkowych."
+    },
+    {
+      "provision_ref": "par3u4",
+      "section": "3",
+      "title": "§ 3 ust. 4",
+      "content": "Zakład ubezpieczeń i zakład reasekuracji obliczają moduł ryzyka aktuarialnego w pozostałych ubezpieczeniach osobowych oraz ubezpieczeniach majątkowych zgodnie z pkt 2 załącznika do rozporządzenia."
+    },
+    {
+      "provision_ref": "par4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Moduł ryzyka aktuarialnego w ubezpieczeniach na życie odzwierciedla ryzyko wynikające ze zobowiązań o charakterze zobowiązań z tytułu umów ubezpieczenia na życie i umów reasekuracji ubezpieczeń na życie, związane z objętymi ochroną ubezpieczeniową lub umowami reasekuracji zdarzeniami losowymi i procesami stosowanymi przez zakład ubezpieczeń lub zakład reasekuracji w wykonywanej działalności. Moduł ryzyka aktuarialnego w ubezpieczeniach na życie składa się co najmniej z następujących podmodułów: ryzyka śmiertelności; ryzyka długowieczności; ryzyka niezdolności do pracy i zachorowalności; ryzyka kosztów w ubezpieczeniach na życie; ryzyka rewizji wysokości rent; ryzyka związanego z rezygnacjami z umów w ubezpieczeniach na życie; ryzyka katastroficznego w ubezpieczeniach na życie. Zakład ubezpieczeń i zakład reasekuracji obliczają moduł ryzyka aktuarialnego w ubezpieczeniach na życie zgodnie z pkt 3 załącznika do rozporządzenia."
+    },
+    {
+      "provision_ref": "par4u1",
+      "section": "4",
+      "title": "§ 4 ust. 1",
+      "content": "Moduł ryzyka aktuarialnego w ubezpieczeniach na życie odzwierciedla ryzyko wynikające ze zobowiązań o charakterze zobowiązań z tytułu umów ubezpieczenia na życie i umów reasekuracji ubezpieczeń na życie, związane z objętymi ochroną ubezpieczeniową lub umowami reasekuracji zdarzeniami losowymi i procesami stosowanymi przez zakład ubezpieczeń lub zakład reasekuracji w wykonywanej działalności."
+    },
+    {
+      "provision_ref": "par4u2p1",
+      "section": "4",
+      "title": "§ 4 ust. 2 pkt 1",
+      "content": "Moduł ryzyka aktuarialnego w ubezpieczeniach na życie składa się co najmniej z następujących podmodułów: ryzyka śmiertelności;"
+    },
+    {
+      "provision_ref": "par4u2p2",
+      "section": "4",
+      "title": "§ 4 ust. 2 pkt 2",
+      "content": "Moduł ryzyka aktuarialnego w ubezpieczeniach na życie składa się co najmniej z następujących podmodułów: ryzyka długowieczności;"
+    },
+    {
+      "provision_ref": "par4u2p3",
+      "section": "4",
+      "title": "§ 4 ust. 2 pkt 3",
+      "content": "Moduł ryzyka aktuarialnego w ubezpieczeniach na życie składa się co najmniej z następujących podmodułów: ryzyka niezdolności do pracy i zachorowalności;"
+    },
+    {
+      "provision_ref": "par4u2p4",
+      "section": "4",
+      "title": "§ 4 ust. 2 pkt 4",
+      "content": "Moduł ryzyka aktuarialnego w ubezpieczeniach na życie składa się co najmniej z następujących podmodułów: ryzyka kosztów w ubezpieczeniach na życie;"
+    },
+    {
+      "provision_ref": "par4u2p5",
+      "section": "4",
+      "title": "§ 4 ust. 2 pkt 5",
+      "content": "Moduł ryzyka aktuarialnego w ubezpieczeniach na życie składa się co najmniej z następujących podmodułów: ryzyka rewizji wysokości rent;"
+    },
+    {
+      "provision_ref": "par4u2p6",
+      "section": "4",
+      "title": "§ 4 ust. 2 pkt 6",
+      "content": "Moduł ryzyka aktuarialnego w ubezpieczeniach na życie składa się co najmniej z następujących podmodułów: ryzyka związanego z rezygnacjami z umów w ubezpieczeniach na życie;"
+    },
+    {
+      "provision_ref": "par4u2p7",
+      "section": "4",
+      "title": "§ 4 ust. 2 pkt 7",
+      "content": "Moduł ryzyka aktuarialnego w ubezpieczeniach na życie składa się co najmniej z następujących podmodułów: ryzyka katastroficznego w ubezpieczeniach na życie."
+    },
+    {
+      "provision_ref": "par4u3",
+      "section": "4",
+      "title": "§ 4 ust. 3",
+      "content": "Zakład ubezpieczeń i zakład reasekuracji obliczają moduł ryzyka aktuarialnego w ubezpieczeniach na życie zgodnie z pkt 3 załącznika do rozporządzenia."
+    },
+    {
+      "provision_ref": "par5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Moduł ryzyka aktuarialnego w ubezpieczeniach zdrowotnych odzwierciedla ryzyko wynikające ze zobowiązań o charakterze zobowiązań z tytułu umów ubezpieczeń zdrowotnych i umów reasekuracji ubezpieczeń zdrowotnych, związane z objętymi ochroną ubezpieczeniową lub umowami reasekuracji zdarzeniami losowymi i procesami stosowanymi przez zakład ubezpieczeń lub zakład reasekuracji w wykonywanej działalności. Moduł ryzyka aktuarialnego w ubezpieczeniach zdrowotnych składa się co najmniej z następujących podmodułów: ryzyka składki i rezerw w ubezpieczeniach zdrowotnych o charakterze pozostałych ubezpieczeń osobowych oraz ubezpieczeń majątkowych; ryzyka kosztów w ubezpieczeniach zdrowotnych; ryzyka pandemii. Zakład ubezpieczeń i zakład reasekuracji obliczają moduł ryzyka aktuarialnego w ubezpieczeniach zdrowotnych zgodnie z pkt 4 załącznika do rozporządzenia."
+    },
+    {
+      "provision_ref": "par5u1",
+      "section": "5",
+      "title": "§ 5 ust. 1",
+      "content": "Moduł ryzyka aktuarialnego w ubezpieczeniach zdrowotnych odzwierciedla ryzyko wynikające ze zobowiązań o charakterze zobowiązań z tytułu umów ubezpieczeń zdrowotnych i umów reasekuracji ubezpieczeń zdrowotnych, związane z objętymi ochroną ubezpieczeniową lub umowami reasekuracji zdarzeniami losowymi i procesami stosowanymi przez zakład ubezpieczeń lub zakład reasekuracji w wykonywanej działalności."
+    },
+    {
+      "provision_ref": "par5u2p1",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 1",
+      "content": "Moduł ryzyka aktuarialnego w ubezpieczeniach zdrowotnych składa się co najmniej z następujących podmodułów: ryzyka składki i rezerw w ubezpieczeniach zdrowotnych o charakterze pozostałych ubezpieczeń osobowych oraz ubezpieczeń majątkowych;"
+    },
+    {
+      "provision_ref": "par5u2p2",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 2",
+      "content": "Moduł ryzyka aktuarialnego w ubezpieczeniach zdrowotnych składa się co najmniej z następujących podmodułów: ryzyka kosztów w ubezpieczeniach zdrowotnych;"
+    },
+    {
+      "provision_ref": "par5u2p3",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 3",
+      "content": "Moduł ryzyka aktuarialnego w ubezpieczeniach zdrowotnych składa się co najmniej z następujących podmodułów: ryzyka pandemii."
+    },
+    {
+      "provision_ref": "par5u3",
+      "section": "5",
+      "title": "§ 5 ust. 3",
+      "content": "Zakład ubezpieczeń i zakład reasekuracji obliczają moduł ryzyka aktuarialnego w ubezpieczeniach zdrowotnych zgodnie z pkt 4 załącznika do rozporządzenia."
+    },
+    {
+      "provision_ref": "par6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "Moduł ryzyka rynkowego odzwierciedla: ryzyko wynikające z poziomu lub zmienności cen rynkowych instrumentów finansowych, które mają wpływ na wartość aktywów i zobowiązań zakładu ubezpieczeń i zakładu reasekuracji; strukturalne niedopasowanie aktywów i zobowiązań, w szczególności w odniesieniu do okresu trwania aktywów i zobowiązań. Moduł ryzyka rynkowego składa się co najmniej z następujących podmodułów: ryzyka stopy procentowej; ryzyka cen akcji; ryzyka cen nieruchomości; ryzyka spreadu kredytowego; ryzyka walutowego; ryzyka koncentracji aktywów. Zakład ubezpieczeń i zakład reasekuracji przy obliczaniu podmodułu ryzyka cen akcji uwzględniają symetryczne dostosowanie wymogu kapitałowego związanego z inwestowaniem w akcje. Symetryczne dostosowanie, o którym mowa w ust. 3, jest funkcją różnicy między: bieżącą wartością odpowiedniego indeksu akcji oraz średnią ważoną wartością tego indeksu, ustalaną w okresie, o którym mowa w art. 172 ust. 2 lit. b rozporządzenia delegowanego Komisji (UE) 2015/35. Szok dla ryzyka cen akcji z uwzględnieniem symetrycznego dostosowania, o którym mowa w ust. 3, nie może być: wyższy od standardowego szoku dla ryzyka cen akcji o więcej niż 10 punktów procentowych; niższy od standardowego szoku dla ryzyka cen akcji o więcej niż 10 punktów procentowych. Zakład ubezpieczeń i zakład reasekuracji obliczają moduł ryzyka rynkowego zgodnie z pkt 5 załącznika do rozporządzenia."
+    },
+    {
+      "provision_ref": "par6u1p1",
+      "section": "6",
+      "title": "§ 6 ust. 1 pkt 1",
+      "content": "Moduł ryzyka rynkowego odzwierciedla: ryzyko wynikające z poziomu lub zmienności cen rynkowych instrumentów finansowych, które mają wpływ na wartość aktywów i zobowiązań zakładu ubezpieczeń i zakładu reasekuracji;"
+    },
+    {
+      "provision_ref": "par6u1p2",
+      "section": "6",
+      "title": "§ 6 ust. 1 pkt 2",
+      "content": "Moduł ryzyka rynkowego odzwierciedla: strukturalne niedopasowanie aktywów i zobowiązań, w szczególności w odniesieniu do okresu trwania aktywów i zobowiązań."
+    },
+    {
+      "provision_ref": "par6u2p1",
+      "section": "6",
+      "title": "§ 6 ust. 2 pkt 1",
+      "content": "Moduł ryzyka rynkowego składa się co najmniej z następujących podmodułów: ryzyka stopy procentowej;"
+    },
+    {
+      "provision_ref": "par6u2p2",
+      "section": "6",
+      "title": "§ 6 ust. 2 pkt 2",
+      "content": "Moduł ryzyka rynkowego składa się co najmniej z następujących podmodułów: ryzyka cen akcji;"
+    },
+    {
+      "provision_ref": "par6u2p3",
+      "section": "6",
+      "title": "§ 6 ust. 2 pkt 3",
+      "content": "Moduł ryzyka rynkowego składa się co najmniej z następujących podmodułów: ryzyka cen nieruchomości;"
+    },
+    {
+      "provision_ref": "par6u2p4",
+      "section": "6",
+      "title": "§ 6 ust. 2 pkt 4",
+      "content": "Moduł ryzyka rynkowego składa się co najmniej z następujących podmodułów: ryzyka spreadu kredytowego;"
+    },
+    {
+      "provision_ref": "par6u2p5",
+      "section": "6",
+      "title": "§ 6 ust. 2 pkt 5",
+      "content": "Moduł ryzyka rynkowego składa się co najmniej z następujących podmodułów: ryzyka walutowego;"
+    },
+    {
+      "provision_ref": "par6u2p6",
+      "section": "6",
+      "title": "§ 6 ust. 2 pkt 6",
+      "content": "Moduł ryzyka rynkowego składa się co najmniej z następujących podmodułów: ryzyka koncentracji aktywów."
+    },
+    {
+      "provision_ref": "par6u3",
+      "section": "6",
+      "title": "§ 6 ust. 3",
+      "content": "Zakład ubezpieczeń i zakład reasekuracji przy obliczaniu podmodułu ryzyka cen akcji uwzględniają symetryczne dostosowanie wymogu kapitałowego związanego z inwestowaniem w akcje."
+    },
+    {
+      "provision_ref": "par6u4p1",
+      "section": "6",
+      "title": "§ 6 ust. 4 pkt 1",
+      "content": "Symetryczne dostosowanie, o którym mowa w ust. 3, jest funkcją różnicy między: bieżącą wartością odpowiedniego indeksu akcji oraz"
+    },
+    {
+      "provision_ref": "par6u4p2",
+      "section": "6",
+      "title": "§ 6 ust. 4 pkt 2",
+      "content": "Symetryczne dostosowanie, o którym mowa w ust. 3, jest funkcją różnicy między: średnią ważoną wartością tego indeksu, ustalaną w okresie, o którym mowa w art. 172 ust. 2 lit. b rozporządzenia delegowanego Komisji (UE) 2015/35."
+    },
+    {
+      "provision_ref": "par6u5p1",
+      "section": "6",
+      "title": "§ 6 ust. 5 pkt 1",
+      "content": "Szok dla ryzyka cen akcji z uwzględnieniem symetrycznego dostosowania, o którym mowa w ust. 3, nie może być: wyższy od standardowego szoku dla ryzyka cen akcji o więcej niż 10 punktów procentowych;"
+    },
+    {
+      "provision_ref": "par6u5p2",
+      "section": "6",
+      "title": "§ 6 ust. 5 pkt 2",
+      "content": "Szok dla ryzyka cen akcji z uwzględnieniem symetrycznego dostosowania, o którym mowa w ust. 3, nie może być: niższy od standardowego szoku dla ryzyka cen akcji o więcej niż 10 punktów procentowych."
+    },
+    {
+      "provision_ref": "par6u6",
+      "section": "6",
+      "title": "§ 6 ust. 6",
+      "content": "Zakład ubezpieczeń i zakład reasekuracji obliczają moduł ryzyka rynkowego zgodnie z pkt 5 załącznika do rozporządzenia."
+    },
+    {
+      "provision_ref": "par7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "Moduł ryzyka niewykonania zobowiązania przez kontrahenta odzwierciedla straty możliwe w związku z nieoczekiwanym niewykonaniem zobowiązań przez kontrahentów i dłużników zakładu ubezpieczeń lub zakładu reasekuracji lub pogorszenia się ich zdolności kredytowej w ciągu kolejnych 12 miesięcy. Moduł ryzyka niewykonania zobowiązania przez kontrahenta obejmuje umowy ograniczania ryzyka, a w szczególności: umowy reasekuracji; sekurytyzację w zakresie ubezpieczeń; instrumenty pochodne; należności od pośredników ubezpieczeniowych; ekspozycje kredytowe nieobjęte ryzykiem spreadu kredytowego. Zakład ubezpieczeń i zakład reasekuracji przy obliczaniu modułu ryzyka niewykonania zobowiązania przez kontrahenta uwzględniają zabezpieczenia lub inne papiery wartościowe posiadane przez lub na rzecz tego zakładu oraz ryzyka związane z tymi zabezpieczeniami lub papierami wartościowymi. Zakład ubezpieczeń i zakład reasekuracji przy obliczaniu modułu ryzyka niewykonania zobowiązania przez kontrahenta uwzględniają całkowitą ekspozycję zakładu na ryzyko w stosunku do każdego kontrahenta, niezależnie od formy prawnej zobowiązań umownych tego kontrahenta względem zakładu. Zakład ubezpieczeń i zakład reasekuracji obliczają moduł ryzyka niewykonania zobowiązania przez kontrahenta zgodnie z art. 189 rozporządzenia delegowanego Komisji (UE) 2015/35."
+    },
+    {
+      "provision_ref": "par7u1",
+      "section": "7",
+      "title": "§ 7 ust. 1",
+      "content": "Moduł ryzyka niewykonania zobowiązania przez kontrahenta odzwierciedla straty możliwe w związku z nieoczekiwanym niewykonaniem zobowiązań przez kontrahentów i dłużników zakładu ubezpieczeń lub zakładu reasekuracji lub pogorszenia się ich zdolności kredytowej w ciągu kolejnych 12 miesięcy."
+    },
+    {
+      "provision_ref": "par7u2p1",
+      "section": "7",
+      "title": "§ 7 ust. 2 pkt 1",
+      "content": "Moduł ryzyka niewykonania zobowiązania przez kontrahenta obejmuje umowy ograniczania ryzyka, a w szczególności: umowy reasekuracji;"
+    },
+    {
+      "provision_ref": "par7u2p2",
+      "section": "7",
+      "title": "§ 7 ust. 2 pkt 2",
+      "content": "Moduł ryzyka niewykonania zobowiązania przez kontrahenta obejmuje umowy ograniczania ryzyka, a w szczególności: sekurytyzację w zakresie ubezpieczeń;"
+    },
+    {
+      "provision_ref": "par7u2p3",
+      "section": "7",
+      "title": "§ 7 ust. 2 pkt 3",
+      "content": "Moduł ryzyka niewykonania zobowiązania przez kontrahenta obejmuje umowy ograniczania ryzyka, a w szczególności: instrumenty pochodne;"
+    },
+    {
+      "provision_ref": "par7u2p4",
+      "section": "7",
+      "title": "§ 7 ust. 2 pkt 4",
+      "content": "Moduł ryzyka niewykonania zobowiązania przez kontrahenta obejmuje umowy ograniczania ryzyka, a w szczególności: należności od pośredników ubezpieczeniowych;"
+    },
+    {
+      "provision_ref": "par7u2p5",
+      "section": "7",
+      "title": "§ 7 ust. 2 pkt 5",
+      "content": "Moduł ryzyka niewykonania zobowiązania przez kontrahenta obejmuje umowy ograniczania ryzyka, a w szczególności: ekspozycje kredytowe nieobjęte ryzykiem spreadu kredytowego."
+    },
+    {
+      "provision_ref": "par7u3",
+      "section": "7",
+      "title": "§ 7 ust. 3",
+      "content": "Zakład ubezpieczeń i zakład reasekuracji przy obliczaniu modułu ryzyka niewykonania zobowiązania przez kontrahenta uwzględniają zabezpieczenia lub inne papiery wartościowe posiadane przez lub na rzecz tego zakładu oraz ryzyka związane z tymi zabezpieczeniami lub papierami wartościowymi."
+    },
+    {
+      "provision_ref": "par7u4",
+      "section": "7",
+      "title": "§ 7 ust. 4",
+      "content": "Zakład ubezpieczeń i zakład reasekuracji przy obliczaniu modułu ryzyka niewykonania zobowiązania przez kontrahenta uwzględniają całkowitą ekspozycję zakładu na ryzyko w stosunku do każdego kontrahenta, niezależnie od formy prawnej zobowiązań umownych tego kontrahenta względem zakładu."
+    },
+    {
+      "provision_ref": "par7u5",
+      "section": "7",
+      "title": "§ 7 ust. 5",
+      "content": "Zakład ubezpieczeń i zakład reasekuracji obliczają moduł ryzyka niewykonania zobowiązania przez kontrahenta zgodnie z art. 189 rozporządzenia delegowanego Komisji (UE) 2015/35."
+    },
+    {
+      "provision_ref": "par8",
+      "section": "8",
+      "title": "§ 8",
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r."
+    }
+  ],
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2015-1844",
+      "ref_type": "references"
+    }
+  ]
+}

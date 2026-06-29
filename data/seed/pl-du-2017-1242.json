@@ -1,0 +1,72 @@
+{
+  "id": "pl-du-2017-1242",
+  "type": "statute",
+  "title": "Rozporządzenie Ministra Zdrowia z dnia 20 czerwca 2017 r. w sprawie sposobu ustalania ryczałtu systemu podstawowego szpitalnego zabezpieczenia świadczeń opieki zdrowotnej na pierwszy okres rozliczeniowy",
+  "title_en": "",
+  "short_name": "pl-du-2017-1242",
+  "status": "in_force",
+  "issued_date": "2017-06-20",
+  "in_force_date": "2017-06-26",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2017/1242",
+  "provisions": [
+    {
+      "provision_ref": "par1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Rozporządzenie określa sposób ustalania ryczałtu systemu podstawowego szpitalnego zabezpieczenia świadczeń opieki zdrowotnej, zwanego dalej „systemem zabezpieczenia”, na pierwszy okres rozliczeniowy."
+    },
+    {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: jednostka rozliczeniowa - miarę przyjętą do określenia wartości względnej świadczeń opieki zdrowotnej finansowanych w ramach ryczałtu systemu zabezpieczenia na pierwszy okres rozliczeniowy, którą jest punkt; plan zakupu - plan zakupu świadczeń opieki zdrowotnej, o którym mowa w art. 131b ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych ) , zwanej dalej „ustawą”; ryczałt - ryczałt systemu zabezpieczenia na pierwszy okres rozliczeniowy; ustawa zmieniająca - ustawę z dnia 23 marca 2017 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych ."
+    },
+    {
+      "provision_ref": "par2p1",
+      "section": "2",
+      "title": "§ 2 pkt 1",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: jednostka rozliczeniowa - miarę przyjętą do określenia wartości względnej świadczeń opieki zdrowotnej finansowanych w ramach ryczałtu systemu zabezpieczenia na pierwszy okres rozliczeniowy, którą jest punkt;"
+    },
+    {
+      "provision_ref": "par2p2",
+      "section": "2",
+      "title": "§ 2 pkt 2",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: plan zakupu - plan zakupu świadczeń opieki zdrowotnej, o którym mowa w art. 131b ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych ) , zwanej dalej „ustawą”;"
+    },
+    {
+      "provision_ref": "par2p3",
+      "section": "2",
+      "title": "§ 2 pkt 3",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: ryczałt - ryczałt systemu zabezpieczenia na pierwszy okres rozliczeniowy;"
+    },
+    {
+      "provision_ref": "par2p4",
+      "section": "2",
+      "title": "§ 2 pkt 4",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: ustawa zmieniająca - ustawę z dnia 23 marca 2017 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych ."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Wartość ryczałtu dla danego świadczeniodawcy wylicza się według wzoru: \\( R_{l,0} = w_{s,0} \\sum\\nolimits_{i = 1}^x {} {{L_{l,s,i} \\times T_{s,i} \\times Q_{l,s,i} \\times C_{l,s,i} } \\over {k_0 }} + w_{a,0} \\sum\\nolimits_{j = 1}^z {} {{L_{l,a,j} \\times T_{a,j} \\times Q_{l,a,j} \\times C_{l,a,j} } \\over {k_0 }} + D_{l,0} \\) gdzie: R l,0 - wartość ryczałtu dla danego świadczeniodawcy l, w s,0 - wskaźnik dynamiki wysokości środków finansowych zaplanowanych na finansowanie świadczeń opieki zdrowotnej w zakresie leczenia szpitalnego, w formie ryczałtu, określony w planie zakupu, odpowiadający relacji wyceny świadczeń na pierwszy okres rozliczeniowy do wyceny świadczeń według stanu na dzień wejścia w życie ustawy zmieniającej, x - liczba świadczeń i, i - oznacza i-te świadczenie opieki zdrowotnej w zakresie leczenia szpitalnego objęte ryczałtem (i=1,..., x ), L l,s,i - liczba świadczeń opieki zdrowotnej i, ustalona dla danego świadczeniodawcy l zgodnie z art. 5 ust. 1 albo ust. 2 ustawy zmieniającej, w zakresie leczenia szpitalnego, T s,i - taryfa świadczeń albo liczba jednostek rozliczeniowych ustalona w przepisach wydanych na podstawie art. 146 ust. 1 pkt 2 ustawy, odpowiadająca danemu świadczeniu opieki zdrowotnej w zakresie leczenia szpitalnego, według stanu na dzień wejścia w życie ustawy zmieniającej, z zastrzeżeniem, że jeżeli danemu świadczeniu opieki zdrowotnej może odpowiadać więcej niż jedna taryfa świadczeń albo liczba jednostek rozliczeniowych, przyjmuje się większą taryfę świadczeń albo większą liczbę jednostek rozliczeniowych, natomiast jeżeli danemu świadczeniu opieki zdrowotnej nie można przyporządkować dokładnej taryfy świadczeń albo liczby jednostek rozliczeniowych, przyjmuje się taryfę świadczeń albo liczbę jednostek rozliczeniowych dla świadczenia opieki zdrowotnej najbardziej zbliżonego pod względem medycznym, Q l,s,i - współczynnik korygujący świadczenia opieki zdrowotnej w zakresie leczenia szpitalnego, dla danego świadczeniodawcy l, określony zgodnie z przepisami wydanymi na podstawie art. 137 ust. 2 ustawy, według stanu na dzień wejścia w życie ustawy zmieniającej, gdzie: R l,0 - wartość ryczałtu dla danego świadczeniodawcy l, w s,0 - wskaźnik dynamiki wysokości środków finansowych zaplanowanych na finansowanie świadczeń opieki zdrowotnej w zakresie leczenia szpitalnego, w formie ryczałtu, określony w planie zakupu, odpowiadający relacji wyceny świadczeń na pierwszy okres rozliczeniowy do wyceny świadczeń według stanu na dzień wejścia w życie ustawy zmieniającej, x - liczba świadczeń i, i - oznacza i-te świadczenie opieki zdrowotnej w zakresie leczenia szpitalneg objęte ryczałtem (i=1, ... , x ), L l,s,i - liczba świadczeń opieki zdrowotnej i, ustalona dla danego świadczeniodawcy l zgodnie z art. 5 ust. 1 albo ust. 2 ustawy zmieniającej, w zakresie leczenia szpitalnego, T s,i - taryfa świadczeń albo liczba jednostek rozliczeniowych ustalona w przepisach wydanych na podstawie art. 146 ust. 1 pkt 2 ustawy, odpowiadająca danemu świadczeniu opieki zdrowotnej w zakresie leczenia szpitalnego, według stanu na dzień wejścia w życie ustawy zmieniającej, z zastrzeżeniem, że jeżeli danemu świadczeniu opieki zdrowotnej może odpowiadać więcej niż jedna taryfa świadczeń albo liczba jednostek rozliczeniowych, przyjmuje się większą taryfę świadczeń albo większą liczbę jednostek rozliczeniowych, natomiast jeżeli danemu świadczeniu opieki zdrowotnej nie można przyporządkować dokładnej taryfy świadczeń albo liczby jednostek rozliczeniowych, przyjmuje się taryfę świadczeń albo liczbę jednostek rozliczeniowych dla świadczenia opieki zdrowotnej najbardziej zbliżonego pod względem medycznym, Q l,s,i - współczynnik korygujący świadczenia opieki zdrowotnej w zakresie leczenia szpitalnego, dla danego świadczeniodawcy l, określony zgodnie z przepisami wydanymi na podstawie art. 137 ust. 2 ustawy, według stanu na dzień wejścia w życie ustawy zmieniającej, C l,s,i - cena jednostki rozliczeniowej świadczenia opieki zdrowotnej w zakresie leczenia szpitalnego, dla danego świadczeniodawcy l, według stanu na dzień wejścia w życie ustawy zmieniającej, k 0 - współczynnik proporcjonalności czasowej, stanowiący iloraz liczby miesięcy w roku kalendarzowym oraz liczby miesięcy w pierwszym okresie rozliczeniowym, w a,0 - wskaźnik dynamiki wysokości środków finansowych zaplanowanych na finansowanie świadczeń opieki zdrowotnej w zakresie ambulatoryjnej opieki specjalistycznej, w formie ryczałtu, określony w planie zakupu, odpowiadający relacji wyceny świadczeń na pierwszy okres rozliczeniowy do wyceny świadczeń według stanu na dzień wejścia w życie ustawy zmieniającej, z - liczba świadczeń j, j - oznacza j-te świadczenie opieki zdrowotnej w zakresie ambulatoryjnej opieki specjalistycznej objęte ryczałtem (j=1, ... , z), L l,a,j - liczba świadczeń opieki zdrowotnej j, ustalona dla danego świadczeniodawcy l zgodnie z art. 5 ust. 1 albo ust. 2 ustawy zmieniającej, w zakresie ambulatoryjnej opieki specjalistycznej, T a,j - taryfa świadczeń albo liczba jednostek rozliczeniowych ustalona w przepisach wydanych na podstawie art. 146 ust. 1 pkt 2 ustawy, odpowiadająca danemu świadczeniu opieki zdrowotnej w zakresie ambulatoryjnej opieki specjalistycznej, według stanu na dzień wejścia w życie ustawy zmieniającej, z zastrzeżeniem, że jeżeli danemu świadczeniu opieki zdrowotnej może odpowiadać więcej niż jedna taryfa świadczeń albo liczba jednostek rozliczeniowych, przyjmuje się większą taryfę świadczeń albo większą liczbę jednostek rozliczeniowych, natomiast jeżeli danemu świadczeniu opieki zdrowotnej nie można przyporządkować dokładnej taryfy świadczeń albo liczby jednostek rozliczeniowych, przyjmuje się taryfę świadczeń albo liczbę jednostek rozliczeniowych dla świadczenia opieki zdrowotnej najbardziej zbliżonego pod względem medycznym, Q l,a,j - współczynnik korygujący świadczenia opieki zdrowotnej w zakresie ambulatoryjnej opieki specjalistycznej, dla danego świadczeniodawcy l, określony zgodnie z przepisami wydanymi na podstawie art. 137 ust. 2 ustawy, według stanu na dzień wejścia w życie ustawy zmieniającej, C l,a,j - cena jednostki rozliczeniowej świadczenia opieki zdrowotnej w zakresie ambulatoryjnej opieki specjalistycznej, dla danego świadczeniodawcy l, według stanu na dzień wejścia w życie ustawy zmieniającej, D l,0 - dodatkowa korekta ryczałtu dla danego świadczeniodawcy l, o której mowa w art. 136c ust. 4 ustawy, związana z: - przerwą w udzielaniu świadczeń opieki zdrowotnej przez świadczeniodawcę, o której mowa w przepisach wydanych na podstawie art. 137 ust. 2 ustawy, albo - innymi uzasadnionymi sytuacjami związanymi ze zmianą zakresu działalności leczniczej świadczeniodawcy, w tym wynikającymi ze zmiany taryfy i polegającymi na zwiększeniu liczby wykonanych świadczeń opieki zdrowotnej w 2016 r."
+    },
+    {
+      "provision_ref": "par4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+    }
+  ],
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2017-844",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2016-1793",
+      "ref_type": "references"
+    }
+  ]
+}

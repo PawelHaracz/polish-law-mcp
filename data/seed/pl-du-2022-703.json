@@ -1,0 +1,262 @@
+{
+  "id": "pl-du-2022-703",
+  "type": "statute",
+  "title": "Rozporządzenie Ministra Klimatu i Środowiska z dnia 23 marca 2022 r. w sprawie dokonywania rejestracji, bilansowania i udostępniania danych pomiarowych oraz rozliczeń spółdzielni energetycznych",
+  "title_en": "",
+  "short_name": "pl-du-2022-703",
+  "status": "in_force",
+  "issued_date": "2022-03-23",
+  "in_force_date": "2022-03-30",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2022/703",
+  "provisions": [
+    {
+      "provision_ref": "par1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Rozporządzenie określa szczegółowy: zakres oraz sposób dokonywania rejestracji danych pomiarowych oraz bilansowania ilości energii, o których mowa w art. 38c ust. 5 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii , zwanej dalej „ustawą”; sposób dokonywania rozliczenia, o którym mowa w art. 38c ust. 6 ustawy, oraz sposób wyliczenia opłat, o których mowa w art. 38c ust. 7 ustawy, z uwzględnieniem cen i stawek opłat w poszczególnych grupach taryfowych stosowanych wobec spółdzielni energetycznej i poszczególnych jej członków; zakres danych pomiarowych, o których mowa w art. 38c ust. 5 ustawy: przekazywanych między przedsiębiorstwami energetycznymi oraz sposób przekazywania tych danych, udostępnianych przez sprzedawcę, o którym mowa w art. 40 ust. 1a ustawy, spółdzielni energetycznej i poszczególnym członkom tej spółdzielni oraz sposób udostępniania tych danych w systemie teleinformatycznym; zakres informacji dotyczących rozliczenia, o których mowa w art. 38c ust. 6 ustawy; podmiotowy zakres spółdzielni energetycznej."
+    },
+    {
+      "provision_ref": "par1p1",
+      "section": "1",
+      "title": "§ 1 pkt 1",
+      "content": "Rozporządzenie określa szczegółowy: zakres oraz sposób dokonywania rejestracji danych pomiarowych oraz bilansowania ilości energii, o których mowa w art. 38c ust. 5 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii , zwanej dalej „ustawą”;"
+    },
+    {
+      "provision_ref": "par1p2",
+      "section": "1",
+      "title": "§ 1 pkt 2",
+      "content": "Rozporządzenie określa szczegółowy: sposób dokonywania rozliczenia, o którym mowa w art. 38c ust. 6 ustawy, oraz sposób wyliczenia opłat, o których mowa w art. 38c ust. 7 ustawy, z uwzględnieniem cen i stawek opłat w poszczególnych grupach taryfowych stosowanych wobec spółdzielni energetycznej i poszczególnych jej członków;"
+    },
+    {
+      "provision_ref": "par1p3la",
+      "section": "1",
+      "title": "§ 1 pkt 3 lit. a",
+      "content": "Rozporządzenie określa szczegółowy: zakres danych pomiarowych, o których mowa w art. 38c ust. 5 ustawy: przekazywanych między przedsiębiorstwami energetycznymi oraz sposób przekazywania tych danych,"
+    },
+    {
+      "provision_ref": "par1p3lb",
+      "section": "1",
+      "title": "§ 1 pkt 3 lit. b",
+      "content": "Rozporządzenie określa szczegółowy: zakres danych pomiarowych, o których mowa w art. 38c ust. 5 ustawy: udostępnianych przez sprzedawcę, o którym mowa w art. 40 ust. 1a ustawy, spółdzielni energetycznej i poszczególnym członkom tej spółdzielni oraz sposób udostępniania tych danych w systemie teleinformatycznym;"
+    },
+    {
+      "provision_ref": "par1p4",
+      "section": "1",
+      "title": "§ 1 pkt 4",
+      "content": "Rozporządzenie określa szczegółowy: zakres informacji dotyczących rozliczenia, o których mowa w art. 38c ust. 6 ustawy;"
+    },
+    {
+      "provision_ref": "par1p5",
+      "section": "1",
+      "title": "§ 1 pkt 5",
+      "content": "Rozporządzenie określa szczegółowy: podmiotowy zakres spółdzielni energetycznej."
+    },
+    {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Dane pomiarowe, o których mowa w art. 38c ust. 5 ustawy, są rejestrowane przez liczniki zdalnego odczytu, o których mowa w przepisach ustawy z dnia 10 kwietnia 1997 r. - Prawo energetyczne ) . Liczniki zdalnego odczytu rejestrują odrębnie ilość energii elektrycznej poszczególnych wytwórców lub odbiorców będących członkami danej spółdzielni energetycznej: wprowadzonej do sieci dystrybucyjnej elektroenergetycznej - stanowiącej sumę energii elektrycznej wprowadzonej do tej sieci z wszystkich faz; pobranej z sieci dystrybucyjnej elektroenergetycznej - stanowiącej sumę energii elektrycznej pobranej z tej sieci z wszystkich faz. Sumaryczne bilansowanie ilości energii elektrycznej, o którym mowa w art. 38c ust. 5 ustawy, jest realizowane w systemie informatycznym operatora systemu dystrybucyjnego elektroenergetycznego wektorową metodą bilansowania międzyfazowego dla: poszczególnych wytwórców lub odbiorców energii elektrycznej będących członkami danej spółdzielni energetycznej zgodnie ze wzorem: \\( Eb{}_{(t)} = Ep_{(t)} - Ew_{(t)} \\) gdzie poszczególne symbole oznaczają: Eb (t) - ilość energii elektrycznej sumarycznie zbilansowanej w danej godzinie t zgodnie z art. 38c ust. 5 ustawy; wartość dodatnia oznacza ilość energii elektrycznej pobranej z sieci dystrybucyjnej elektroenergetycznej, a wartość ujemna oznacza ilość energii elektrycznej wprowadzonej do tej sieci, t - daną godzinę, dla której dokonuje się bilansowania ilości energii elektrycznej, Ep (t) - ilość energii elektrycznej zarejestrowaną zgodnie z ust. 2 pkt 2 zsumowaną z wszystkich faz, Ew (t) - ilość energii elektrycznej zarejestrowaną zgodnie z ust. 2 pkt 1 zsumowaną z wszystkich faz; spółdzielni energetycznej zgodnie ze wzorem: \\( Ebs{}_{(t)} = \\sum\\limits_{k = 1}^n {Eb_{(t)(k)} } \\) gdzie poszczególne symbole oznaczają: Ebs (t) - ilość energii elektrycznej sumarycznie zbilansowanej w danej godzinie t dla n członków spółdzielni energetycznej zgodnie z art. 38c ust. 5 ustawy, podlegającą rozliczeniu w danym okresie rozliczeniowym, o której informację przekazuje operator systemu dystrybucyjnego elektroenergetycznego sprzedawcy, o którym mowa w art. 40 ust. 1a ustawy; wartość dodatnia - ilość energii elektrycznej pobranej z sieci dystrybucyjnej elektroenergetycznej, a wartość ujemna oznacza ilość energii elektrycznej wprowadzonej do tej sieci, t - oznacza daną godzinę, dla której dokonuje się bilansowania ilości energii elektrycznej, n - liczbę członków spółdzielni energetycznej, k - członka spółdzielni, Eb (t) - ilość energii elektrycznej, o której mowa w pkt 1. Ilość energii elektrycznej wprowadzonej w godzinie t do sieci dystrybucyjnej elektroenergetycznej z jednofazowej instalacji odnawialnego źródła energii zalicza się do ilości energii oznaczonej we wzorze określonym w ust. 3 pkt 1 symbolem Ew (t) oraz bilansuje się zgodnie z tym wzorem."
+    },
+    {
+      "provision_ref": "par2u1",
+      "section": "2",
+      "title": "§ 2 ust. 1",
+      "content": "Dane pomiarowe, o których mowa w art. 38c ust. 5 ustawy, są rejestrowane przez liczniki zdalnego odczytu, o których mowa w przepisach ustawy z dnia 10 kwietnia 1997 r. - Prawo energetyczne ) ."
+    },
+    {
+      "provision_ref": "par2u2p1",
+      "section": "2",
+      "title": "§ 2 ust. 2 pkt 1",
+      "content": "Liczniki zdalnego odczytu rejestrują odrębnie ilość energii elektrycznej poszczególnych wytwórców lub odbiorców będących członkami danej spółdzielni energetycznej: wprowadzonej do sieci dystrybucyjnej elektroenergetycznej - stanowiącej sumę energii elektrycznej wprowadzonej do tej sieci z wszystkich faz;"
+    },
+    {
+      "provision_ref": "par2u2p2",
+      "section": "2",
+      "title": "§ 2 ust. 2 pkt 2",
+      "content": "Liczniki zdalnego odczytu rejestrują odrębnie ilość energii elektrycznej poszczególnych wytwórców lub odbiorców będących członkami danej spółdzielni energetycznej: pobranej z sieci dystrybucyjnej elektroenergetycznej - stanowiącej sumę energii elektrycznej pobranej z tej sieci z wszystkich faz."
+    },
+    {
+      "provision_ref": "par2u3p1",
+      "section": "2",
+      "title": "§ 2 ust. 3 pkt 1",
+      "content": "Sumaryczne bilansowanie ilości energii elektrycznej, o którym mowa w art. 38c ust. 5 ustawy, jest realizowane w systemie informatycznym operatora systemu dystrybucyjnego elektroenergetycznego wektorową metodą bilansowania międzyfazowego dla: poszczególnych wytwórców lub odbiorców energii elektrycznej będących członkami danej spółdzielni energetycznej zgodnie ze wzorem: \\( Eb{}_{(t)} = Ep_{(t)} - Ew_{(t)} \\) gdzie poszczególne symbole oznaczają: Eb (t) - ilość energii elektrycznej sumarycznie zbilansowanej w danej godzinie t zgodnie z art. 38c ust. 5 ustawy; wartość dodatnia oznacza ilość energii elektrycznej pobranej z sieci dystrybucyjnej elektroenergetycznej, a wartość ujemna oznacza ilość energii elektrycznej wprowadzonej do tej sieci, t - daną godzinę, dla której dokonuje się bilansowania ilości energii elektrycznej, Ep (t) - ilość energii elektrycznej zarejestrowaną zgodnie z ust. 2 pkt 2 zsumowaną z wszystkich faz, Ew (t) - ilość energii elektrycznej zarejestrowaną zgodnie z ust. 2 pkt 1 zsumowaną z wszystkich faz;"
+    },
+    {
+      "provision_ref": "par2u3p2",
+      "section": "2",
+      "title": "§ 2 ust. 3 pkt 2",
+      "content": "Sumaryczne bilansowanie ilości energii elektrycznej, o którym mowa w art. 38c ust. 5 ustawy, jest realizowane w systemie informatycznym operatora systemu dystrybucyjnego elektroenergetycznego wektorową metodą bilansowania międzyfazowego dla: spółdzielni energetycznej zgodnie ze wzorem: \\( Ebs{}_{(t)} = \\sum\\limits_{k = 1}^n {Eb_{(t)(k)} } \\) gdzie poszczególne symbole oznaczają: Ebs (t) - ilość energii elektrycznej sumarycznie zbilansowanej w danej godzinie t dla n członków spółdzielni energetycznej zgodnie z art. 38c ust. 5 ustawy, podlegającą rozliczeniu w danym okresie rozliczeniowym, o której informację przekazuje operator systemu dystrybucyjnego elektroenergetycznego sprzedawcy, o którym mowa w art. 40 ust. 1a ustawy; wartość dodatnia - ilość energii elektrycznej pobranej z sieci dystrybucyjnej elektroenergetycznej, a wartość ujemna oznacza ilość energii elektrycznej wprowadzonej do tej sieci, t - oznacza daną godzinę, dla której dokonuje się bilansowania ilości energii elektrycznej, n - liczbę członków spółdzielni energetycznej, k - członka spółdzielni, Eb (t) - ilość energii elektrycznej, o której mowa w pkt 1."
+    },
+    {
+      "provision_ref": "par2u4",
+      "section": "2",
+      "title": "§ 2 ust. 4",
+      "content": "Ilość energii elektrycznej wprowadzonej w godzinie t do sieci dystrybucyjnej elektroenergetycznej z jednofazowej instalacji odnawialnego źródła energii zalicza się do ilości energii oznaczonej we wzorze określonym w ust. 3 pkt 1 symbolem Ew (t) oraz bilansuje się zgodnie z tym wzorem."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Rozliczenie, o którym mowa w art. 38c ust. 6 ustawy, dokonuje się zgodnie ze wzorem: [wzór] gdzie poszczególne symbole oznaczają: Er (o) - ilość energii elektrycznej rozliczoną w danym okresie rozliczeniowym, zgodnie z art. 38c ust. 3 ustawy, z uwzględnieniem kolejności określonej w § 4, Ebsp - sumę ilości energii elektrycznej zbilansowanej w danych godzinach t , podlegającej rozliczeniu w danym okresie rozliczeniowym oznaczonej we wzorze określonym w § 2 ust. 3 pkt 2 symbolem Ebs (t) , dla której wynik bilansowania jest dodatni, Ebsw - sumę ilości energii elektrycznej zbilansowanej w danych g dzinach t , podlegającej rozliczeniu w danym okresie rozliczeniowym, oznaczonej we wzorze określonym w § 2 ust. 3 pkt 2 symbolem Ebs (t) , dla której wynik bilansowania jest ujemny, Wi - stosunek ilościowy, o którym mowa w art. 38c ust. 3 ustawy, Er (po) - rozliczenie energii elektrycznej z poprzednich okresów rozliczeniowych przeniesione zgodnie z art. 38c ust. 8 ustawy, dla której wartość rozliczenia jest ujemna. Opłaty ponoszone w rozliczeniu ze sprzedawcą, o którym mowa w art. 40 ust. 1a ustawy, ustala się na podstawie ilości energii elektrycznej rozliczonej oznaczonej we wzorze określonym w ust. 1 symbolem Er (o) oraz zgodnie z cenami i stawkami opłat ustalonymi w obowiązujących grupach taryfowych dla poszczególnych odbiorców w danym okresie rozliczeniowym. W przypadku gdy rozliczenie ilości energii elektrycznej ma wartość dodatnią: ilość tej energii elektrycznej rozdziela się proporcjonalnie pomiędzy poszczególnych wytwórców i odbiorców energii elektrycznej spółdzielni energetycznej, dla których w danym okresie rozliczeniowym suma ilości energii elektrycznej zbilansowanej w danych godzinach t oznaczonych we wzorze określonym w § 2 ust. 3 pkt 1 symbolem Eb (t) ma wartość dodatnią; ilość tej energii elektrycznej po dokonaniu podziału, o którym mowa w pkt 1, uwzględnia się do naliczenia opłat zgodnie z cenami i stawkami opłat ustalonymi w obowiązujących grupach taryfowych dla poszczególnych odbiorców w danym okresie rozliczeniowym."
+    },
+    {
+      "provision_ref": "par3u1",
+      "section": "3",
+      "title": "§ 3 ust. 1",
+      "content": "Rozliczenie, o którym mowa w art. 38c ust. 6 ustawy, dokonuje się zgodnie ze wzorem: [wzór] gdzie poszczególne symbole oznaczają: Er (o) - ilość energii elektrycznej rozliczoną w danym okresie rozliczeniowym, zgodnie z art. 38c ust. 3 ustawy, z uwzględnieniem kolejności określonej w § 4, Ebsp - sumę ilości energii elektrycznej zbilansowanej w danych godzinach t , podlegającej rozliczeniu w danym okresie rozliczeniowym oznaczonej we wzorze określonym w § 2 ust. 3 pkt 2 symbolem Ebs (t) , dla której wynik bilansowania jest dodatni, Ebsw - sumę ilości energii elektrycznej zbilansowanej w danych g dzinach t , podlegającej rozliczeniu w danym okresie rozliczeniowym, oznaczonej we wzorze określonym w § 2 ust. 3 pkt 2 symbolem Ebs (t) , dla której wynik bilansowania jest ujemny, Wi - stosunek ilościowy, o którym mowa w art. 38c ust. 3 ustawy, Er (po) - rozliczenie energii elektrycznej z poprzednich okresów rozliczeniowych przeniesione zgodnie z art. 38c ust. 8 ustawy, dla której wartość rozliczenia jest ujemna."
+    },
+    {
+      "provision_ref": "par3u2",
+      "section": "3",
+      "title": "§ 3 ust. 2",
+      "content": "Opłaty ponoszone w rozliczeniu ze sprzedawcą, o którym mowa w art. 40 ust. 1a ustawy, ustala się na podstawie ilości energii elektrycznej rozliczonej oznaczonej we wzorze określonym w ust. 1 symbolem Er (o) oraz zgodnie z cenami i stawkami opłat ustalonymi w obowiązujących grupach taryfowych dla poszczególnych odbiorców w danym okresie rozliczeniowym."
+    },
+    {
+      "provision_ref": "par3u3p1",
+      "section": "3",
+      "title": "§ 3 ust. 3 pkt 1",
+      "content": "W przypadku gdy rozliczenie ilości energii elektrycznej ma wartość dodatnią: ilość tej energii elektrycznej rozdziela się proporcjonalnie pomiędzy poszczególnych wytwórców i odbiorców energii elektrycznej spółdzielni energetycznej, dla których w danym okresie rozliczeniowym suma ilości energii elektrycznej zbilansowanej w danych godzinach t oznaczonych we wzorze określonym w § 2 ust. 3 pkt 1 symbolem Eb (t) ma wartość dodatnią;"
+    },
+    {
+      "provision_ref": "par3u3p2",
+      "section": "3",
+      "title": "§ 3 ust. 3 pkt 2",
+      "content": "W przypadku gdy rozliczenie ilości energii elektrycznej ma wartość dodatnią: ilość tej energii elektrycznej po dokonaniu podziału, o którym mowa w pkt 1, uwzględnia się do naliczenia opłat zgodnie z cenami i stawkami opłat ustalonymi w obowiązujących grupach taryfowych dla poszczególnych odbiorców w danym okresie rozliczeniowym."
+    },
+    {
+      "provision_ref": "par4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "W pierwszej kolejności rozlicza się energię elektryczną z najstarszą datą wprowadzenia do sieci dystrybucyjnej elektroenergetycznej, z zastrzeżeniem art. 38c ust. 8 ustawy. W przypadku, w którym wytwórcy lub odbiorcy energii elektrycznej będący członkami spółdzielni energetycznej są rozliczani w grupie taryfowej wielostrefowej, energia elektryczna wprowadzona przez nich do sieci dystrybucyjnej elektroenergetycznej jest rozliczana z uwzględnieniem kolejności określonej w ust. 1, w pierwszej kolejności z energią elektryczną pobraną w tej samej strefie czasowej. Jeżeli po rozliczeniu ilości energii elektrycznej dokonanym zgodnie z § 3 ust. 1, w danej strefie czasowej powstaną nadwyżki ilości energii elektrycznej wprowadzonej do sieci dystrybucyjnej elektroenergetycznej w stosunku do ilości energii elektrycznej pobranej z sieci dystrybucyjnej elektroenergetycznej, nadwyżki te uwzględnia się w rozliczeniu pozostałych stref czasowych. W przypadku grup taryfowych wielostrefowych, które obejmują więcej niż dwie strefy czasowe, występujące nadwyżki uwzględnia się w strefach czasowych w kolejności od strefy czasowej z najwyższym poziomem składnika zmiennego stawki sieciowej przewidzianej w danej grupie taryfowej taryfy operatora systemu dystrybucyjnego elektroenergetycznego do strefy czasowej z najniższym poziomem tego składnika."
+    },
+    {
+      "provision_ref": "par4u1",
+      "section": "4",
+      "title": "§ 4 ust. 1",
+      "content": "W pierwszej kolejności rozlicza się energię elektryczną z najstarszą datą wprowadzenia do sieci dystrybucyjnej elektroenergetycznej, z zastrzeżeniem art. 38c ust. 8 ustawy."
+    },
+    {
+      "provision_ref": "par4u2",
+      "section": "4",
+      "title": "§ 4 ust. 2",
+      "content": "W przypadku, w którym wytwórcy lub odbiorcy energii elektrycznej będący członkami spółdzielni energetycznej są rozliczani w grupie taryfowej wielostrefowej, energia elektryczna wprowadzona przez nich do sieci dystrybucyjnej elektroenergetycznej jest rozliczana z uwzględnieniem kolejności określonej w ust. 1, w pierwszej kolejności z energią elektryczną pobraną w tej samej strefie czasowej."
+    },
+    {
+      "provision_ref": "par4u3",
+      "section": "4",
+      "title": "§ 4 ust. 3",
+      "content": "Jeżeli po rozliczeniu ilości energii elektrycznej dokonanym zgodnie z § 3 ust. 1, w danej strefie czasowej powstaną nadwyżki ilości energii elektrycznej wprowadzonej do sieci dystrybucyjnej elektroenergetycznej w stosunku do ilości energii elektrycznej pobranej z sieci dystrybucyjnej elektroenergetycznej, nadwyżki te uwzględnia się w rozliczeniu pozostałych stref czasowych."
+    },
+    {
+      "provision_ref": "par4u4",
+      "section": "4",
+      "title": "§ 4 ust. 4",
+      "content": "W przypadku grup taryfowych wielostrefowych, które obejmują więcej niż dwie strefy czasowe, występujące nadwyżki uwzględnia się w strefach czasowych w kolejności od strefy czasowej z najwyższym poziomem składnika zmiennego stawki sieciowej przewidzianej w danej grupie taryfowej taryfy operatora systemu dystrybucyjnego elektroenergetycznego do strefy czasowej z najniższym poziomem tego składnika."
+    },
+    {
+      "provision_ref": "par5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Dane pomiarowe, o których mowa w art. 38c ust. 5 ustawy, operator systemu dystrybucyjnego elektroenergetycznego przekazuje sprzedawcy, o którym mowa w art. 40 ust. 1a ustawy, w sposób określony w załączniku do rozporządzenia. Sprzedawca, o którym mowa w art. 40 ust. 1a ustawy, udostępnia: spółdzielni energetycznej - zagregowane dane pomiarowe, o których mowa w art. 38c ust. 5 ustawy, z podziałem na poszczególnych jej członków, z częstotliwością ich rejestracji, poszczególnym wytwórcom i odbiorcom energii elektrycznej będącym członkami danej spółdzielni energetycznej - dane pomiarowe, o których mowa w art. 38c ust. 5 ustawy - w przejrzystej i zrozumiałej formie, w sposób określony w załączniku do rozporządzenia, oraz zapewnia danej spółdzielni energetycznej i jej członkom możliwość pobrania tych danych. Szczegółowe informacje dotyczące rozliczenia, o którym mowa w art. 38c ust. 6 ustawy, obejmują: łączną ilość energii elektrycznej wprowadzonej do sieci dystrybucyjnej elektroenergetycznej przez poszczególnych członków danej spółdzielni energetycznej; łączną ilość energii elektrycznej pobranej z sieci dystrybucyjnej elektroenergetycznej przez poszczególnych członków danej spółdzielni energetycznej; łączną ilość energii elektrycznej sumarycznie zbilansowanej, o której mowa w § 2 ust. 3 pkt 1 i 2; ceny i stawki opłat zgodnie z grupą taryfową taryfy danego odbiorcy przyjęte do rozliczenia; łączne należności wynikające z rozliczenia."
+    },
+    {
+      "provision_ref": "par5u1",
+      "section": "5",
+      "title": "§ 5 ust. 1",
+      "content": "Dane pomiarowe, o których mowa w art. 38c ust. 5 ustawy, operator systemu dystrybucyjnego elektroenergetycznego przekazuje sprzedawcy, o którym mowa w art. 40 ust. 1a ustawy, w sposób określony w załączniku do rozporządzenia."
+    },
+    {
+      "provision_ref": "par5u2p1",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 1",
+      "content": "Sprzedawca, o którym mowa w art. 40 ust. 1a ustawy, udostępnia: spółdzielni energetycznej - zagregowane dane pomiarowe, o których mowa w art. 38c ust. 5 ustawy, z podziałem na poszczególnych jej członków, z częstotliwością ich rejestracji,"
+    },
+    {
+      "provision_ref": "par5u2p2",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 2",
+      "content": "Sprzedawca, o którym mowa w art. 40 ust. 1a ustawy, udostępnia: poszczególnym wytwórcom i odbiorcom energii elektrycznej będącym członkami danej spółdzielni energetycznej - dane pomiarowe, o których mowa w art. 38c ust. 5 ustawy"
+    },
+    {
+      "provision_ref": "par5u3p1",
+      "section": "5",
+      "title": "§ 5 ust. 3 pkt 1",
+      "content": "Szczegółowe informacje dotyczące rozliczenia, o którym mowa w art. 38c ust. 6 ustawy, obejmują: łączną ilość energii elektrycznej wprowadzonej do sieci dystrybucyjnej elektroenergetycznej przez poszczególnych członków danej spółdzielni energetycznej;"
+    },
+    {
+      "provision_ref": "par5u3p2",
+      "section": "5",
+      "title": "§ 5 ust. 3 pkt 2",
+      "content": "Szczegółowe informacje dotyczące rozliczenia, o którym mowa w art. 38c ust. 6 ustawy, obejmują: łączną ilość energii elektrycznej pobranej z sieci dystrybucyjnej elektroenergetycznej przez poszczególnych członków danej spółdzielni energetycznej;"
+    },
+    {
+      "provision_ref": "par5u3p3",
+      "section": "5",
+      "title": "§ 5 ust. 3 pkt 3",
+      "content": "Szczegółowe informacje dotyczące rozliczenia, o którym mowa w art. 38c ust. 6 ustawy, obejmują: łączną ilość energii elektrycznej sumarycznie zbilansowanej, o której mowa w § 2 ust. 3 pkt 1 i 2;"
+    },
+    {
+      "provision_ref": "par5u3p4",
+      "section": "5",
+      "title": "§ 5 ust. 3 pkt 4",
+      "content": "Szczegółowe informacje dotyczące rozliczenia, o którym mowa w art. 38c ust. 6 ustawy, obejmują: ceny i stawki opłat zgodnie z grupą taryfową taryfy danego odbiorcy przyjęte do rozliczenia;"
+    },
+    {
+      "provision_ref": "par5u3p5",
+      "section": "5",
+      "title": "§ 5 ust. 3 pkt 5",
+      "content": "Szczegółowe informacje dotyczące rozliczenia, o którym mowa w art. 38c ust. 6 ustawy, obejmują: łączne należności wynikające z rozliczenia."
+    },
+    {
+      "provision_ref": "par6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "Podmiotowy zakres spółdzielni energetycznej prowadzącej działalność w zakresie wytwarzania energii elektrycznej lub ciepła, lub biogazu obejmuje: spółdzielnię energetyczną będącą wytwórcą lub odbiorcą energii elektrycznej; wszystkich wytwórców i odbiorców energii elektrycznej będących członkami danej spółdzielni energetycznej."
+    },
+    {
+      "provision_ref": "par6p1",
+      "section": "6",
+      "title": "§ 6 pkt 1",
+      "content": "Podmiotowy zakres spółdzielni energetycznej prowadzącej działalność w zakresie wytwarzania energii elektrycznej lub ciepła, lub biogazu obejmuje: spółdzielnię energetyczną będącą wytwórcą lub odbiorcą energii elektrycznej;"
+    },
+    {
+      "provision_ref": "par6p2",
+      "section": "6",
+      "title": "§ 6 pkt 2",
+      "content": "Podmiotowy zakres spółdzielni energetycznej prowadzącej działalność w zakresie wytwarzania energii elektrycznej lub ciepła, lub biogazu obejmuje: wszystkich wytwórców i odbiorców energii elektrycznej będących członkami danej spółdzielni energetycznej."
+    },
+    {
+      "provision_ref": "par7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2022 r."
+    }
+  ],
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2021-610",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1093",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1873",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-2376",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-467",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-716",
+      "ref_type": "references"
+    }
+  ]
+}

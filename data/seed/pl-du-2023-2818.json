@@ -1,0 +1,70 @@
+{
+  "id": "pl-du-2023-2818",
+  "type": "statute",
+  "title": "Rozporządzenie Ministra Finansów z dnia 28 grudnia 2023 r. zmieniające rozporządzenie w sprawie szczegółowych zasad wyznaczania składek na finansowanie przymusowej restrukturyzacji kas w oparciu o ryzyko",
+  "title_en": "",
+  "short_name": "pl-du-2023-2818",
+  "status": "in_force",
+  "issued_date": "2023-12-28",
+  "in_force_date": "2023-12-29",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2023/2818",
+  "provisions": [
+    {
+      "provision_ref": "par1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "W rozporządzeniu Ministra Rozwoju i Finansów z dnia 15 lutego 2017 r. w sprawie szczegółowych zasad wyznaczania składek na finansowanie przymusowej restrukturyzacji kas w oparciu o ryzyko w załączniku: pkt 4 „Przypisanie kasie całkowitej wagi ryzyka (ARW)” otrzymuje brzmienie: „ Przypisanie kasie całkowitej wagi ryzyka (ARW) Fundusz przypisuje kasom ich całkowite wagi ryzyka (ARW) na podstawie ich całkowitych ocen punktowych ryzyka (ARS) przy użyciu metody skali ruchomej. W metodzie skali ruchomej ARSi jest przeliczana na całkowitą wagę ryzyka (ARWi) w oparciu o wzór funkcji wykładniczej. ARW i związana z ARS i ma charakter wykładniczy, z górną i dolną granicą 150% i 75%. Przeliczenie ARS i na ARW i metodą funkcji wykładniczej jest dokonywane według wzoru: \\( ARW_i = 75\\% \\times \\left( {{{150\\% } \\over {75\\% }}} \\right)^{\\left( {{{ARS_i } \\over {100}}} \\right)} ; \\) ” w pkt 5 „Obliczanie składek uzależnionych od ryzyka”: ppkt 1 otrzymuje brzmienie: „ Składki na fundusz przymusowej restrukturyzacji kas wnoszone przez poszczególne kasy są obliczane według wzoru: \\( C_i = CR \\times ARW_i \\times B_i \\times \\mu \\) gdzie: C i - składka kasy „i”, CR - stawka (taka sama dla wszystkich kas), ARW i - całkowita waga ryzyka dla kasy „i”, B i - wysokość podstawy wyznaczania składki w kasie „i” wyznaczana jako wartość pasywów zgromadzonych w kasie „i” pomniejszona o kwotę funduszy własnych zgromadzonych w kasie „i” oraz o kwotę środków gwarantowanych zgromadzonych w kasie „i”, μ - współczynnik korekty (taki sam dla wszystkich kas). ” , ppkt 3 otrzymuje brzmienie: „ Współczynnik korekty (μ) jest wyznaczany według wzoru: \\( \\mu = {{CL - \\sum\\nolimits_i {L_i } } \\over {\\sum\\nolimits_i {\\left( {CR \\times ARW_i \\times B_i } \\right)} }} \\) ” ."
+    },
+    {
+      "provision_ref": "par1p1u4",
+      "section": "1",
+      "title": "§ 1 pkt 1 ust. 4",
+      "content": "W rozporządzeniu Ministra Rozwoju i Finansów z dnia 15 lutego 2017 r. w sprawie szczegółowych zasad wyznaczania składek na finansowanie przymusowej restrukturyzacji kas w oparciu o ryzyko w załączniku: pkt 4 „Przypisanie kasie całkowitej wagi ryzyka (ARW)” otrzymuje brzmienie: „ Przypisanie kasie całkowitej wagi ryzyka (ARW) Fundusz przypisuje kasom ich całkowite wagi ryzyka (ARW) na podstawie ich całkowitych ocen punktowych ryzyka (ARS) przy użyciu metody skali ruchomej. W metodzie skali ruchomej ARSi jest przeliczana na całkowitą wagę ryzyka (ARWi) w oparciu o wzór funkcji wykładniczej. ARW i związana z ARS i ma charakter wykładniczy, z górną i dolną granicą 150% i 75%. Przeliczenie ARS i na ARW i metodą funkcji wykładniczej jest dokonywane według wzoru: \\( ARW_i = 75\\% \\times \\left( {{{150\\% } \\over {75\\% }}} \\right)^{\\left( {{{ARS_i } \\over {100}}} \\right)} ; \\)"
+    },
+    {
+      "provision_ref": "par1p2lap1",
+      "section": "1",
+      "title": "§ 1 pkt 2 lit. ap",
+      "content": "W rozporządzeniu Ministra Rozwoju i Finansów z dnia 15 lutego 2017 r. w sprawie szczegółowych zasad wyznaczania składek na finansowanie przymusowej restrukturyzacji kas w oparciu o ryzyko w załączniku: w pkt 5 „Obliczanie składek uzależnionych od ryzyka”: ppkt 1 otrzymuje brzmienie: „ Składki na fundusz przymusowej restrukturyzacji kas wnoszone przez poszczególne kasy są obliczane według wzoru: \\( C_i = CR \\times ARW_i \\times B_i \\times \\mu \\) gdzie: C i - składka kasy „i”, CR - stawka (taka sama dla wszystkich kas), ARW i - całkowita waga ryzyka dla kasy „i”, B i - wysokość podstawy wyznaczania składki w kasie „i” wyznaczana jako wartość pasywów zgromadzonych w kasie „i” pomniejszona o kwotę funduszy własnych zgromadzonych w kasie „i” oraz o kwotę środków gwarantowanych zgromadzonych w kasie „i”, μ - współczynnik korekty (taki sam dla wszystkich kas)."
+    },
+    {
+      "provision_ref": "par1p2lbp3",
+      "section": "1",
+      "title": "§ 1 pkt 2 lit. bp",
+      "content": "W rozporządzeniu Ministra Rozwoju i Finansów z dnia 15 lutego 2017 r. w sprawie szczegółowych zasad wyznaczania składek na finansowanie przymusowej restrukturyzacji kas w oparciu o ryzyko w załączniku: w pkt 5 „Obliczanie składek uzależnionych od ryzyka”: ppkt 3 otrzymuje brzmienie: „ Współczynnik korekty (μ) jest wyznaczany według wzoru: \\( \\mu = {{CL - \\sum\\nolimits_i {L_i } } \\over {\\sum\\nolimits_i {\\left( {CR \\times ARW_i \\times B_i } \\right)} }} \\)"
+    },
+    {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 2024 r."
+    }
+  ],
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2022-2253",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-825",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1705",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1784",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1843",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-1727",
+      "ref_type": "references"
+    }
+  ]
+}

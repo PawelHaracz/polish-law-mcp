@@ -1,0 +1,294 @@
+{
+  "id": "pl-du-2020-399",
+  "type": "statute",
+  "title": "Rozporządzenie Ministra Cyfryzacji z dnia 10 marca 2020 r. w sprawie szczegółowych warunków organizacyjnych i technicznych, które powinien spełniać system teleinformatyczny służący do uwierzytelniania użytkowników",
+  "title_en": "",
+  "short_name": "pl-du-2020-399",
+  "status": "in_force",
+  "issued_date": "2020-03-10",
+  "in_force_date": "2020-03-11",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/399",
+  "provisions": [
+    {
+      "provision_ref": "par1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Rozporządzenie określa szczegółowe warunki organizacyjne i techniczne, które powinien spełniać system teleinformatyczny służący do wydania certyfikatu oraz stosowania technologii, o których mowa w art. 20a ust. 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne , zwanej dalej „ustawą”, w tym zakres i okres przechowywania danych w systemie oraz obowiązki informacyjne, do których zobowiązany jest administrator systemu."
+    },
+    {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "System teleinformatyczny służący do wydania certyfikatu wykorzystywanego przez podmioty publiczne do uwierzytelniania użytkowników spełnia następujące warunki techniczne i organizacyjne: umożliwia wystawienie certyfikatu oraz jego wydanie użytkownikowi, dla którego został on wystawiony; umożliwia niezwłoczne unieważnienie certyfikatu; określa dokładny czas wystawienia i unieważnienia certyfikatu, zgodnie z czasem uniwersalnym koordynowanym UTC(PL); potwierdza tożsamość użytkownika, któremu wydano certyfikat; posiada zabezpieczenia na wypadek zagrożeń w zakresie bezpieczeństwa teleinformatycznego dobierane na podstawie szacowania ryzyka; nie gromadzi ani nie kopiuje danych służących użytkownikom do potwierdzania tożsamości z wykorzystaniem certyfikatów. System, o którym mowa w ust. 1, przechowuje dane dotyczące wystawionych certyfikatów przez okres 20 lat, licząc od dnia 1 stycznia roku następującego po roku, w którym certyfikat został wystawiony. Zapewnienie bieżącej poprawności i użyteczności funkcjonalnej systemu, o którym mowa w ust. 1, wymaga spełnienia następujących warunków technicznych i organizacyjnych: dokonywania systematycznego przeglądu skuteczności zastosowanych środków zabezpieczeń na wypadek zagrożeń bezpieczeństwa teleinformatycznego, w celu wprowadzania ich usprawnień; utrzymywania w aktualnym stanie dokumentacji operacyjnej i technicznej systemu, w celu zapewnienia jego bezpiecznej eksploatacji; zapewniania organizacyjnego, technicznego i kryptograficznego bezpieczeństwa działania systemu; prowadzenia działań zapobiegających fałszowaniu certyfikatów, w tym zapewniania poufności podczas procesu tworzenia danych do potwierdzania tożsamości użytkownika; informowania osób ubiegających się o certyfikat o warunkach stosowania certyfikatu zawartych w polityce certyfikacji. Warunki, o których mowa w ust. 1-3, zostały spełnione, gdy: została wdrożona polityka certyfikacji spełniająca wymagania wskazane w normie PN-ETSI EN 319 411 lub nowszej; zapewnione zostały warunki organizacyjne i techniczne zgodne z wymaganiami specyfikacji technicznej CEN/TS 419261 lub nowszej w zakresie świadczenia usług innych niż wydawanie certyfikatów kwalifikowanych; zastosowane zostały systemy i produkty zgodne z wymaganiami specyfikacji technicznej CEN/TS 419221 lub nowszej. Administrator systemu, o którym mowa w ust. 1, udostępnia deklarację o spełnieniu wymagań określonych w ust. 3 oraz politykę certyfikacji: w Biuletynie Informacji Publicznej albo na stronie internetowej administratora - w przypadku podmiotów niezobowiązanych do udostępniania informacji publicznej w Biuletynie Informacji Publicznej."
+    },
+    {
+      "provision_ref": "par2u1p1",
+      "section": "2",
+      "title": "§ 2 ust. 1 pkt 1",
+      "content": "System teleinformatyczny służący do wydania certyfikatu wykorzystywanego przez podmioty publiczne do uwierzytelniania użytkowników spełnia następujące warunki techniczne i organizacyjne: umożliwia wystawienie certyfikatu oraz jego wydanie użytkownikowi, dla którego został on wystawiony;"
+    },
+    {
+      "provision_ref": "par2u1p2",
+      "section": "2",
+      "title": "§ 2 ust. 1 pkt 2",
+      "content": "System teleinformatyczny służący do wydania certyfikatu wykorzystywanego przez podmioty publiczne do uwierzytelniania użytkowników spełnia następujące warunki techniczne i organizacyjne: umożliwia niezwłoczne unieważnienie certyfikatu;"
+    },
+    {
+      "provision_ref": "par2u1p3",
+      "section": "2",
+      "title": "§ 2 ust. 1 pkt 3",
+      "content": "System teleinformatyczny służący do wydania certyfikatu wykorzystywanego przez podmioty publiczne do uwierzytelniania użytkowników spełnia następujące warunki techniczne i organizacyjne: określa dokładny czas wystawienia i unieważnienia certyfikatu, zgodnie z czasem uniwersalnym koordynowanym UTC(PL);"
+    },
+    {
+      "provision_ref": "par2u1p4",
+      "section": "2",
+      "title": "§ 2 ust. 1 pkt 4",
+      "content": "System teleinformatyczny służący do wydania certyfikatu wykorzystywanego przez podmioty publiczne do uwierzytelniania użytkowników spełnia następujące warunki techniczne i organizacyjne: potwierdza tożsamość użytkownika, któremu wydano certyfikat;"
+    },
+    {
+      "provision_ref": "par2u1p5",
+      "section": "2",
+      "title": "§ 2 ust. 1 pkt 5",
+      "content": "System teleinformatyczny służący do wydania certyfikatu wykorzystywanego przez podmioty publiczne do uwierzytelniania użytkowników spełnia następujące warunki techniczne i organizacyjne: posiada zabezpieczenia na wypadek zagrożeń w zakresie bezpieczeństwa teleinformatycznego dobierane na podstawie szacowania ryzyka;"
+    },
+    {
+      "provision_ref": "par2u1p6",
+      "section": "2",
+      "title": "§ 2 ust. 1 pkt 6",
+      "content": "System teleinformatyczny służący do wydania certyfikatu wykorzystywanego przez podmioty publiczne do uwierzytelniania użytkowników spełnia następujące warunki techniczne i organizacyjne: nie gromadzi ani nie kopiuje danych służących użytkownikom do potwierdzania tożsamości z wykorzystaniem certyfikatów."
+    },
+    {
+      "provision_ref": "par2u2",
+      "section": "2",
+      "title": "§ 2 ust. 2",
+      "content": "System, o którym mowa w ust. 1, przechowuje dane dotyczące wystawionych certyfikatów przez okres 20 lat, licząc od dnia 1 stycznia roku następującego po roku, w którym certyfikat został wystawiony."
+    },
+    {
+      "provision_ref": "par2u3p1",
+      "section": "2",
+      "title": "§ 2 ust. 3 pkt 1",
+      "content": "Zapewnienie bieżącej poprawności i użyteczności funkcjonalnej systemu, o którym mowa w ust. 1, wymaga spełnienia następujących warunków technicznych i organizacyjnych: dokonywania systematycznego przeglądu skuteczności zastosowanych środków zabezpieczeń na wypadek zagrożeń bezpieczeństwa teleinformatycznego, w celu wprowadzania ich usprawnień;"
+    },
+    {
+      "provision_ref": "par2u3p2",
+      "section": "2",
+      "title": "§ 2 ust. 3 pkt 2",
+      "content": "Zapewnienie bieżącej poprawności i użyteczności funkcjonalnej systemu, o którym mowa w ust. 1, wymaga spełnienia następujących warunków technicznych i organizacyjnych: utrzymywania w aktualnym stanie dokumentacji operacyjnej i technicznej systemu, w celu zapewnienia jego bezpiecznej eksploatacji;"
+    },
+    {
+      "provision_ref": "par2u3p3",
+      "section": "2",
+      "title": "§ 2 ust. 3 pkt 3",
+      "content": "Zapewnienie bieżącej poprawności i użyteczności funkcjonalnej systemu, o którym mowa w ust. 1, wymaga spełnienia następujących warunków technicznych i organizacyjnych: zapewniania organizacyjnego, technicznego i kryptograficznego bezpieczeństwa działania systemu;"
+    },
+    {
+      "provision_ref": "par2u3p4",
+      "section": "2",
+      "title": "§ 2 ust. 3 pkt 4",
+      "content": "Zapewnienie bieżącej poprawności i użyteczności funkcjonalnej systemu, o którym mowa w ust. 1, wymaga spełnienia następujących warunków technicznych i organizacyjnych: prowadzenia działań zapobiegających fałszowaniu certyfikatów, w tym zapewniania poufności podczas procesu tworzenia danych do potwierdzania tożsamości użytkownika;"
+    },
+    {
+      "provision_ref": "par2u3p5",
+      "section": "2",
+      "title": "§ 2 ust. 3 pkt 5",
+      "content": "Zapewnienie bieżącej poprawności i użyteczności funkcjonalnej systemu, o którym mowa w ust. 1, wymaga spełnienia następujących warunków technicznych i organizacyjnych: informowania osób ubiegających się o certyfikat o warunkach stosowania certyfikatu zawartych w polityce certyfikacji."
+    },
+    {
+      "provision_ref": "par2u4p1",
+      "section": "2",
+      "title": "§ 2 ust. 4 pkt 1",
+      "content": "Warunki, o których mowa w ust. 1-3, zostały spełnione, gdy: została wdrożona polityka certyfikacji spełniająca wymagania wskazane w normie PN-ETSI EN 319 411 lub nowszej;"
+    },
+    {
+      "provision_ref": "par2u4p2",
+      "section": "2",
+      "title": "§ 2 ust. 4 pkt 2",
+      "content": "Warunki, o których mowa w ust. 1-3, zostały spełnione, gdy: zapewnione zostały warunki organizacyjne i techniczne zgodne z wymaganiami specyfikacji technicznej CEN/TS 419261 lub nowszej w zakresie świadczenia usług innych niż wydawanie certyfikatów kwalifikowanych;"
+    },
+    {
+      "provision_ref": "par2u4p3",
+      "section": "2",
+      "title": "§ 2 ust. 4 pkt 3",
+      "content": "Warunki, o których mowa w ust. 1-3, zostały spełnione, gdy: zastosowane zostały systemy i produkty zgodne z wymaganiami specyfikacji technicznej CEN/TS 419221 lub nowszej."
+    },
+    {
+      "provision_ref": "par2u5p1",
+      "section": "2",
+      "title": "§ 2 ust. 5 pkt 1",
+      "content": "Administrator systemu, o którym mowa w ust. 1, udostępnia deklarację o spełnieniu wymagań określonych w ust. 3 oraz politykę certyfikacji: w Biuletynie Informacji Publicznej albo"
+    },
+    {
+      "provision_ref": "par2u5p2",
+      "section": "2",
+      "title": "§ 2 ust. 5 pkt 2",
+      "content": "Administrator systemu, o którym mowa w ust. 1, udostępnia deklarację o spełnieniu wymagań określonych w ust. 3 oraz politykę certyfikacji: na stronie internetowej administratora - w przypadku podmiotów niezobowiązanych do udostępniania informacji publicznej w Biuletynie Informacji Publicznej."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "System teleinformatyczny przetwarzający dane dotyczące tożsamości użytkowników wykorzystywany przez podmioty publiczne do uwierzytelniania użytkowników w oparciu o inne technologie niż certyfikat: rejestruje użytkowników; potwierdza tożsamość użytkowników; przechowuje i udostępnia dane identyfikacyjne użytkowników systemom autoryzującym uprawnionym do ich otrzymania; umożliwia zablokowanie konta użytkownika na jego żądanie; zapewnia rozliczalność, rozumianą jako przypisanie określonego działania w systemie do osoby fizycznej lub procesu oraz umiejscowienie ich w czasie; zapewnia integralność, autentyczność i poufność danych identyfikacyjnych i uwierzytelniających użytkownika; zapewnia codzienną synchronizację czasu systemowego z czasem uniwersalnym koordynowanym UTC(PL). System, o którym mowa w ust. 1, przechowuje dane dotyczące tożsamości użytkownika przez okres 20 lat, licząc od dnia 1 stycznia roku następującego po roku, w którym wykonano w systemie ostatnią operację z użyciem tożsamości tego użytkownika. System, o którym mowa w ust. 1, spełnia następujące warunki techniczne i organizacyjne w zakresie administrowania: zapewnianie wiarygodności procesu rejestracji użytkowników i potwierdzania ich tożsamości; utrzymywanie w aktualnym stanie dokumentacji operacyjnej i technicznej systemu, w celu zapewnienia jego bezpiecznej eksploatacji; opracowywanie i ustanawianie, wdrażanie i eksploatowanie, monitorowanie i przeglądanie oraz utrzymywanie i doskonalenie systemu zarządzania bezpieczeństwem informacji spełniającego wymagania Polskiej Normy PN-EN ISO/IEC 27001, o którym mowa w przepisach wydanych na podstawie art. 18 ustawy. Warunki określone w ust. 3 uważa się za spełnione, jeżeli: system zarządzania bezpieczeństwem informacji, o którym mowa w ust. 3 pkt 3, został oceniony pozytywnie przez jednostkę oceniającą zgodność, zgodnie z ustawą z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku , albo administrator systemu, o którym mowa w ust. 1, udostępnił deklarację o spełnieniu wymagań określonych w ust. 3: w Biuletynie Informacji Publicznej albo na stronie internetowej administratora - w przypadku podmiotów niezobowiązanych do udostępniania informacji publicznej w Biuletynie Informacji Publicznej."
+    },
+    {
+      "provision_ref": "par3u1p1",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 1",
+      "content": "System teleinformatyczny przetwarzający dane dotyczące tożsamości użytkowników wykorzystywany przez podmioty publiczne do uwierzytelniania użytkowników w oparciu o inne technologie niż certyfikat: rejestruje użytkowników;"
+    },
+    {
+      "provision_ref": "par3u1p2",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 2",
+      "content": "System teleinformatyczny przetwarzający dane dotyczące tożsamości użytkowników wykorzystywany przez podmioty publiczne do uwierzytelniania użytkowników w oparciu o inne technologie niż certyfikat: potwierdza tożsamość użytkowników;"
+    },
+    {
+      "provision_ref": "par3u1p3",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 3",
+      "content": "System teleinformatyczny przetwarzający dane dotyczące tożsamości użytkowników wykorzystywany przez podmioty publiczne do uwierzytelniania użytkowników w oparciu o inne technologie niż certyfikat: przechowuje i udostępnia dane identyfikacyjne użytkowników systemom autoryzującym uprawnionym do ich otrzymania;"
+    },
+    {
+      "provision_ref": "par3u1p4",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 4",
+      "content": "System teleinformatyczny przetwarzający dane dotyczące tożsamości użytkowników wykorzystywany przez podmioty publiczne do uwierzytelniania użytkowników w oparciu o inne technologie niż certyfikat: umożliwia zablokowanie konta użytkownika na jego żądanie;"
+    },
+    {
+      "provision_ref": "par3u1p5",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 5",
+      "content": "System teleinformatyczny przetwarzający dane dotyczące tożsamości użytkowników wykorzystywany przez podmioty publiczne do uwierzytelniania użytkowników w oparciu o inne technologie niż certyfikat: zapewnia rozliczalność, rozumianą jako przypisanie określonego działania w systemie do osoby fizycznej lub procesu oraz umiejscowienie ich w czasie;"
+    },
+    {
+      "provision_ref": "par3u1p6",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 6",
+      "content": "System teleinformatyczny przetwarzający dane dotyczące tożsamości użytkowników wykorzystywany przez podmioty publiczne do uwierzytelniania użytkowników w oparciu o inne technologie niż certyfikat: zapewnia integralność, autentyczność i poufność danych identyfikacyjnych i uwierzytelniających użytkownika;"
+    },
+    {
+      "provision_ref": "par3u1p7",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 7",
+      "content": "System teleinformatyczny przetwarzający dane dotyczące tożsamości użytkowników wykorzystywany przez podmioty publiczne do uwierzytelniania użytkowników w oparciu o inne technologie niż certyfikat: zapewnia codzienną synchronizację czasu systemowego z czasem uniwersalnym koordynowanym UTC(PL)."
+    },
+    {
+      "provision_ref": "par3u2",
+      "section": "3",
+      "title": "§ 3 ust. 2",
+      "content": "System, o którym mowa w ust. 1, przechowuje dane dotyczące tożsamości użytkownika przez okres 20 lat, licząc od dnia 1 stycznia roku następującego po roku, w którym wykonano w systemie ostatnią operację z użyciem tożsamości tego użytkownika."
+    },
+    {
+      "provision_ref": "par3u3p1",
+      "section": "3",
+      "title": "§ 3 ust. 3 pkt 1",
+      "content": "System, o którym mowa w ust. 1, spełnia następujące warunki techniczne i organizacyjne w zakresie administrowania: zapewnianie wiarygodności procesu rejestracji użytkowników i potwierdzania ich tożsamości;"
+    },
+    {
+      "provision_ref": "par3u3p2",
+      "section": "3",
+      "title": "§ 3 ust. 3 pkt 2",
+      "content": "System, o którym mowa w ust. 1, spełnia następujące warunki techniczne i organizacyjne w zakresie administrowania: utrzymywanie w aktualnym stanie dokumentacji operacyjnej i technicznej systemu, w celu zapewnienia jego bezpiecznej eksploatacji;"
+    },
+    {
+      "provision_ref": "par3u3p3",
+      "section": "3",
+      "title": "§ 3 ust. 3 pkt 3",
+      "content": "System, o którym mowa w ust. 1, spełnia następujące warunki techniczne i organizacyjne w zakresie administrowania: opracowywanie i ustanawianie, wdrażanie i eksploatowanie, monitorowanie i przeglądanie oraz utrzymywanie i doskonalenie systemu zarządzania bezpieczeństwem informacji spełniającego wymagania Polskiej Normy PN-EN ISO/IEC 27001, o którym mowa w przepisach wydanych na podstawie art. 18 ustawy."
+    },
+    {
+      "provision_ref": "par3u4p1",
+      "section": "3",
+      "title": "§ 3 ust. 4 pkt 1",
+      "content": "Warunki określone w ust. 3 uważa się za spełnione, jeżeli: system zarządzania bezpieczeństwem informacji, o którym mowa w ust. 3 pkt 3, został oceniony pozytywnie przez jednostkę oceniającą zgodność, zgodnie z ustawą z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku , albo"
+    },
+    {
+      "provision_ref": "par3u4p2la",
+      "section": "3",
+      "title": "§ 3 ust. 4 pkt 2 lit. a",
+      "content": "Warunki określone w ust. 3 uważa się za spełnione, jeżeli: administrator systemu, o którym mowa w ust. 1, udostępnił deklarację o spełnieniu wymagań określonych w ust. 3: w Biuletynie Informacji Publicznej albo"
+    },
+    {
+      "provision_ref": "par3u4p2lb",
+      "section": "3",
+      "title": "§ 3 ust. 4 pkt 2 lit. b",
+      "content": "Warunki określone w ust. 3 uważa się za spełnione, jeżeli: administrator systemu, o którym mowa w ust. 1, udostępnił deklarację o spełnieniu wymagań określonych w ust. 3: na stronie internetowej administratora - w przypadku podmiotów niezobowiązanych do udostępniania informacji publicznej w Biuletynie Informacji Publicznej."
+    },
+    {
+      "provision_ref": "par4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "System teleinformatyczny, o którym mowa w art. 20a ust. 2 ustawy, uwierzytelniając użytkowników, dokonuje weryfikacji tożsamości użytkowników, wykorzystując certyfikaty wydane w systemie, o którym mowa w § 2 ust. 1, lub usługi systemu, o którym mowa w § 3 ust. 1, oraz przechowuje dane potwierdzające tę weryfikację. Dane potwierdzające weryfikację, o których mowa w ust. 1, umożliwiają w sposób jednoznaczny: ustalenie tożsamości użytkownika, który dokonał czynności w postaci elektronicznej; ustalenie czasu dokonania czynności; stwierdzenie ważności uprawnień w momencie dokonania czynności."
+    },
+    {
+      "provision_ref": "par4u1",
+      "section": "4",
+      "title": "§ 4 ust. 1",
+      "content": "System teleinformatyczny, o którym mowa w art. 20a ust. 2 ustawy, uwierzytelniając użytkowników, dokonuje weryfikacji tożsamości użytkowników, wykorzystując certyfikaty wydane w systemie, o którym mowa w § 2 ust. 1, lub usługi systemu, o którym mowa w § 3 ust. 1, oraz przechowuje dane potwierdzające tę weryfikację."
+    },
+    {
+      "provision_ref": "par4u2p1",
+      "section": "4",
+      "title": "§ 4 ust. 2 pkt 1",
+      "content": "Dane potwierdzające weryfikację, o których mowa w ust. 1, umożliwiają w sposób jednoznaczny: ustalenie tożsamości użytkownika, który dokonał czynności w postaci elektronicznej;"
+    },
+    {
+      "provision_ref": "par4u2p2",
+      "section": "4",
+      "title": "§ 4 ust. 2 pkt 2",
+      "content": "Dane potwierdzające weryfikację, o których mowa w ust. 1, umożliwiają w sposób jednoznaczny: ustalenie czasu dokonania czynności;"
+    },
+    {
+      "provision_ref": "par4u2p3",
+      "section": "4",
+      "title": "§ 4 ust. 2 pkt 3",
+      "content": "Dane potwierdzające weryfikację, o których mowa w ust. 1, umożliwiają w sposób jednoznaczny: stwierdzenie ważności uprawnień w momencie dokonania czynności."
+    },
+    {
+      "provision_ref": "par5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Zakres danych przetwarzanych w certyfikatach wydawanych w systemie, o którym mowa w § 2 ust. 1, w przypadku wydawania certyfikatów: osobom fizycznym - jest zgodny z profilem certyfikatu określonym w normie PN-ETSI EN 319 412-2 lub nowszej; osobom prawnym - jest zgodny z profilem certyfikatu określonym w normie PN-ETSI EN 319 412-3 lub nowszej. Zakres danych przetwarzanych w systemie, o którym mowa w § 3 ust. 1, odnoszących się do tożsamości użytkowników jest odpowiedni do zakresu danych profilu zaufanego, określonego w przepisach wydanych na podstawie art. 20d ustawy."
+    },
+    {
+      "provision_ref": "par5u1p1",
+      "section": "5",
+      "title": "§ 5 ust. 1 pkt 1",
+      "content": "Zakres danych przetwarzanych w certyfikatach wydawanych w systemie, o którym mowa w § 2 ust. 1, w przypadku wydawania certyfikatów: osobom fizycznym - jest zgodny z profilem certyfikatu określonym w normie PN-ETSI EN 319 412-2 lub nowszej;"
+    },
+    {
+      "provision_ref": "par5u1p2",
+      "section": "5",
+      "title": "§ 5 ust. 1 pkt 2",
+      "content": "Zakres danych przetwarzanych w certyfikatach wydawanych w systemie, o którym mowa w § 2 ust. 1, w przypadku wydawania certyfikatów: osobom prawnym - jest zgodny z profilem certyfikatu określonym w normie PN-ETSI EN 319 412-3 lub nowszej."
+    },
+    {
+      "provision_ref": "par5u2",
+      "section": "5",
+      "title": "§ 5 ust. 2",
+      "content": "Zakres danych przetwarzanych w systemie, o którym mowa w § 3 ust. 1, odnoszących się do tożsamości użytkowników jest odpowiedni do zakresu danych profilu zaufanego, określonego w przepisach wydanych na podstawie art. 20d ustawy."
+    },
+    {
+      "provision_ref": "par6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "Systemy teleinformatyczne podmiotów realizujących zadania publiczne, służące do wydania certyfikatu oraz stosowania technologii, o których mowa w art. 20a ust. 2 ustawy, funkcjonujące w dniu wejścia w życie niniejszego rozporządzenia, należy dostosować do wymagań określonych w przepisach niniejszego rozporządzenia nie później niż do dnia 12 marca 2022 r."
+    },
+    {
+      "provision_ref": "par7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "Rozporządzenie wchodzi w życie z dniem 12 marca 2020 r. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Cyfryzacji z dnia 5 października 2016 r. w sprawie szczegółowych warunków organizacyjnych i technicznych, które powinien spełniać system teleinformatyczny służący do uwierzytelniania użytkowników (Dz. U. poz. 1627), które traci moc z dniem 11 marca 2020 r. na podstawie art. 61 ustawy z dnia 5 lipca 2018 r. o zmianie ustawy o usługach zaufania oraz identyfikacji elektronicznej oraz niektórych innych ustaw (Dz. U. poz. 1544 oraz z 2019 r. poz. 60 i 934)."
+    }
+  ],
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2020-346",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-544",
+      "ref_type": "references"
+    }
+  ]
+}

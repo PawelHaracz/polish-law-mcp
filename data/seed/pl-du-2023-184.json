@@ -1,0 +1,266 @@
+{
+  "id": "pl-du-2023-184",
+  "type": "statute",
+  "title": "Rozporządzenie Ministra Finansów z dnia 17 stycznia 2023 r. w sprawie środków i warunków technicznych służących do przekazywania niektórych informacji przez podmioty nadzorowane przez Komisję Nadzoru Finansowego",
+  "title_en": "",
+  "short_name": "pl-du-2023-184",
+  "status": "in_force",
+  "issued_date": "2023-01-17",
+  "in_force_date": "2023-01-26",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2023/184",
+  "provisions": [
+    {
+      "provision_ref": "par1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Rozporządzenie określa środki techniczne służące do przekazywania przez podmioty podlegające nadzorowi Komisji Nadzoru Finansowego, zwane dalej „podmiotami nadzorowanymi”, informacji w ramach wykonywania obowiązków informacyjnych i sprawozdawczych określonych w ustawach, o których mowa w art. 2 pkt 1-4a ustawy z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym , w przepisach wykonawczych wydanych na ich podstawie oraz w bezpośrednio stosowanych aktach prawa Unii Europejskiej, zwanych dalej „informacjami”, oraz techniczne warunki przekazywania informacji przy użyciu tych środków."
+    },
+    {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Informacje, z wyłączeniem informacji, o których mowa w § 7, przekazuje się za pomocą urządzeń teletransmisji danych w sposób zapewniający bezpieczeństwo teleinformatyczne i bezpieczeństwo przekazywanych informacji, z wykorzystaniem Elektronicznego Systemu Przekazywania Informacji, zwanego dalej „ESPI”, administrowanego przez Urząd Komisji Nadzoru Finansowego."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Informacja jest przekazywana przez sieć Internet, z wykorzystaniem protokołu komunikacyjnego HTTP oraz protokołu TLS zgodnie z aktualnymi standardami opracowanymi przez Internet Engineering Task Force (IETF), opublikowanymi w postaci Request For Comments (RFC), stosowanymi adekwatnie do potrzeb w zakresie bezpieczeństwa transmisji danych. Przed przekazaniem informacja podlega kompresji GZIP według opisu zawartego w standardzie RFC 1952. Czynności związane z przekazaniem informacji wykonują osoby uprawnione do reprezentacji podmiotu nadzorowanego lub osoby będące upoważnionymi pracownikami podmiotu nadzorowanego, zwane dalej „operatorami”. O udzieleniu upoważnienia podmiot nadzorowany zawiadamia Urząd Komisji Nadzoru Finansowego. Operator potwierdza posiadanie uprawnień do przekazywania informacji przez podanie swojego identyfikatora i hasła."
+    },
+    {
+      "provision_ref": "par3u1",
+      "section": "3",
+      "title": "§ 3 ust. 1",
+      "content": "Informacja jest przekazywana przez sieć Internet, z wykorzystaniem protokołu komunikacyjnego HTTP oraz protokołu TLS zgodnie z aktualnymi standardami opracowanymi przez Internet Engineering Task Force (IETF), opublikowanymi w postaci Request For Comments (RFC), stosowanymi adekwatnie do potrzeb w zakresie bezpieczeństwa transmisji danych."
+    },
+    {
+      "provision_ref": "par3u2",
+      "section": "3",
+      "title": "§ 3 ust. 2",
+      "content": "Przed przekazaniem informacja podlega kompresji GZIP według opisu zawartego w standardzie RFC 1952."
+    },
+    {
+      "provision_ref": "par3u3",
+      "section": "3",
+      "title": "§ 3 ust. 3",
+      "content": "Czynności związane z przekazaniem informacji wykonują osoby uprawnione do reprezentacji podmiotu nadzorowanego lub osoby będące upoważnionymi pracownikami podmiotu nadzorowanego, zwane dalej „operatorami”. O udzieleniu upoważnienia podmiot nadzorowany zawiadamia Urząd Komisji Nadzoru Finansowego."
+    },
+    {
+      "provision_ref": "par3u4",
+      "section": "3",
+      "title": "§ 3 ust. 4",
+      "content": "Operator potwierdza posiadanie uprawnień do przekazywania informacji przez podanie swojego identyfikatora i hasła."
+    },
+    {
+      "provision_ref": "par4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Informacja jest przekazywana na formularzu elektronicznym ESPI, właściwym dla określonego zdarzenia podlegającego obowiązkowi informacyjnemu, po uprzednim wpisaniu jej w odpowiednie pola formularza oraz załączeniu dokumentu elektronicznego, jeżeli jego przekazanie jest konieczne do prawidłowej realizacji obowiązku informacyjnego. Dokumenty elektroniczne załączane do formularza elektronicznego ESPI mogą być sporządzane w następujących formatach: Rich Text Format (RTF); Adobe Portable Document Format (PDF), z wyłączeniem dokumentów elektronicznych szyfrowanych; Comma Separated Value (CSV) - w oparciu o plik wzorcowy udostępniony wraz ze specyfikacją techniczną na stronie internetowej Komisji Nadzoru Finansowego, zwanej dalej „Komisją”; Extensible Markup Language (XML); Extensible HyperText Markup Language (XHTML), w tym z zastosowaniem specyfikacji Inline Extensible Business Reporting Language (Inline XBRL). Dokumenty elektroniczne załączane do formularza elektronicznego ESPI mogą podlegać kompresji."
+    },
+    {
+      "provision_ref": "par4u1",
+      "section": "4",
+      "title": "§ 4 ust. 1",
+      "content": "Informacja jest przekazywana na formularzu elektronicznym ESPI, właściwym dla określonego zdarzenia podlegającego obowiązkowi informacyjnemu, po uprzednim wpisaniu jej w odpowiednie pola formularza oraz załączeniu dokumentu elektronicznego, jeżeli jego przekazanie jest konieczne do prawidłowej realizacji obowiązku informacyjnego."
+    },
+    {
+      "provision_ref": "par4u2p1",
+      "section": "4",
+      "title": "§ 4 ust. 2 pkt 1",
+      "content": "Dokumenty elektroniczne załączane do formularza elektronicznego ESPI mogą być sporządzane w następujących formatach: Rich Text Format (RTF);"
+    },
+    {
+      "provision_ref": "par4u2p2",
+      "section": "4",
+      "title": "§ 4 ust. 2 pkt 2",
+      "content": "Dokumenty elektroniczne załączane do formularza elektronicznego ESPI mogą być sporządzane w następujących formatach: Adobe Portable Document Format (PDF), z wyłączeniem dokumentów elektronicznych szyfrowanych;"
+    },
+    {
+      "provision_ref": "par4u2p3",
+      "section": "4",
+      "title": "§ 4 ust. 2 pkt 3",
+      "content": "Dokumenty elektroniczne załączane do formularza elektronicznego ESPI mogą być sporządzane w następujących formatach: Comma Separated Value (CSV) - w oparciu o plik wzorcowy udostępniony wraz ze specyfikacją techniczną na stronie internetowej Komisji Nadzoru Finansowego, zwanej dalej „Komisją”;"
+    },
+    {
+      "provision_ref": "par4u2p4",
+      "section": "4",
+      "title": "§ 4 ust. 2 pkt 4",
+      "content": "Dokumenty elektroniczne załączane do formularza elektronicznego ESPI mogą być sporządzane w następujących formatach: Extensible Markup Language (XML);"
+    },
+    {
+      "provision_ref": "par4u2p5",
+      "section": "4",
+      "title": "§ 4 ust. 2 pkt 5",
+      "content": "Dokumenty elektroniczne załączane do formularza elektronicznego ESPI mogą być sporządzane w następujących formatach: Extensible HyperText Markup Language (XHTML), w tym z zastosowaniem specyfikacji Inline Extensible Business Reporting Language (Inline XBRL)."
+    },
+    {
+      "provision_ref": "par4u3",
+      "section": "4",
+      "title": "§ 4 ust. 3",
+      "content": "Dokumenty elektroniczne załączane do formularza elektronicznego ESPI mogą podlegać kompresji."
+    },
+    {
+      "provision_ref": "par5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "W przypadku awarii ESPI lub zaistnienia zdarzeń uniemożliwiających przekazanie informacji przy zastosowaniu tego systemu informacje przekazuje się na informatycznym nośniku danych w rozumieniu art. 3 pkt 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne zawierającym jedną informację i zapewniającym jej przekazanie w całości lub za pomocą środków komunikacji elektronicznej w rozumieniu art. 3 pkt 4 tej ustawy. Przepisy § 4 ust. 2 i 3 stosuje się. W przypadku, o którym mowa w ust. 1, do informacji dołącza się opis zawierający: pełną nazwę podmiotu nadzorowanego zgodną z identyfikacją w ESPI; określenie rodzaju przekazywanej informacji oraz nazw dokumentów elektronicznych wchodzących w jej skład; nazwę (symbol, typ) formularza; nazwę kancelarii systemu, do której powinna zostać przekazana informacja; imię i nazwisko oraz podpis operatora. Przekazanie informacji na informatycznym nośniku danych następuje: bezpośrednio przez pracownika podmiotu nadzorowanego; za pośrednictwem przedsiębiorcy posiadającego koncesję na prowadzenie działalności gospodarczej w zakresie usług ochrony osób i mienia, wydaną na podstawie przepisów ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia ; przez nadanie w polskiej placówce pocztowej operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe lub w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej. W przypadkach, o których mowa w ust. 3 pkt 1 i 2, przekazanie następuje za potwierdzeniem odbioru. Informacje przekazywane za pośrednictwem podmiotów, o których mowa w ust. 3 pkt 3, są nadawane wyłącznie przesyłką rejestrowaną w rozumieniu przepisów ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe . Przesyłka powinna być opatrzona klauzulą „Informacje poufne”. W przypadku gdy informacje przekazane na informatycznym nośniku danych zawierają błędy, przekazanie informacji poprawionych następuje niezwłocznie po ujawnieniu błędów, przy wykorzystaniu takiego samego informatycznego nośnika danych, jak nośnik, na którym przekazano informacje zawierające błędy, niezależnie od tego, czy awaria ESPI została usunięta, czy nie. Niezwłocznie po usunięciu awarii ESPI lub ustaniu zdarzeń, o których mowa w ust. 1, informacje przekazane na informatycznym nośniku danych przekazuje się za pośrednictwem ESPI."
+    },
+    {
+      "provision_ref": "par5u1",
+      "section": "5",
+      "title": "§ 5 ust. 1",
+      "content": "W przypadku awarii ESPI lub zaistnienia zdarzeń uniemożliwiających przekazanie informacji przy zastosowaniu tego systemu informacje przekazuje się na informatycznym nośniku danych w rozumieniu art. 3 pkt 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne zawierającym jedną informację i zapewniającym jej przekazanie w całości lub za pomocą środków komunikacji elektronicznej w rozumieniu art. 3 pkt 4 tej ustawy. Przepisy § 4 ust. 2 i 3 stosuje się."
+    },
+    {
+      "provision_ref": "par5u2p1",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 1",
+      "content": "W przypadku, o którym mowa w ust. 1, do informacji dołącza się opis zawierający: pełną nazwę podmiotu nadzorowanego zgodną z identyfikacją w ESPI;"
+    },
+    {
+      "provision_ref": "par5u2p2",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 2",
+      "content": "W przypadku, o którym mowa w ust. 1, do informacji dołącza się opis zawierający: określenie rodzaju przekazywanej informacji oraz nazw dokumentów elektronicznych wchodzących w jej skład;"
+    },
+    {
+      "provision_ref": "par5u2p3",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 3",
+      "content": "W przypadku, o którym mowa w ust. 1, do informacji dołącza się opis zawierający: nazwę (symbol, typ) formularza;"
+    },
+    {
+      "provision_ref": "par5u2p4",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 4",
+      "content": "W przypadku, o którym mowa w ust. 1, do informacji dołącza się opis zawierający: nazwę kancelarii systemu, do której powinna zostać przekazana informacja;"
+    },
+    {
+      "provision_ref": "par5u2p5",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 5",
+      "content": "W przypadku, o którym mowa w ust. 1, do informacji dołącza się opis zawierający: imię i nazwisko oraz podpis operatora."
+    },
+    {
+      "provision_ref": "par5u3p1",
+      "section": "5",
+      "title": "§ 5 ust. 3 pkt 1",
+      "content": "Przekazanie informacji na informatycznym nośniku danych następuje: bezpośrednio przez pracownika podmiotu nadzorowanego;"
+    },
+    {
+      "provision_ref": "par5u3p2",
+      "section": "5",
+      "title": "§ 5 ust. 3 pkt 2",
+      "content": "Przekazanie informacji na informatycznym nośniku danych następuje: za pośrednictwem przedsiębiorcy posiadającego koncesję na prowadzenie działalności gospodarczej w zakresie usług ochrony osób i mienia, wydaną na podstawie przepisów ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia ;"
+    },
+    {
+      "provision_ref": "par5u3p3",
+      "section": "5",
+      "title": "§ 5 ust. 3 pkt 3",
+      "content": "Przekazanie informacji na informatycznym nośniku danych następuje: przez nadanie w polskiej placówce pocztowej operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe lub w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej."
+    },
+    {
+      "provision_ref": "par5u4",
+      "section": "5",
+      "title": "§ 5 ust. 4",
+      "content": "W przypadkach, o których mowa w ust. 3 pkt 1 i 2, przekazanie następuje za potwierdzeniem odbioru."
+    },
+    {
+      "provision_ref": "par5u5",
+      "section": "5",
+      "title": "§ 5 ust. 5",
+      "content": "Informacje przekazywane za pośrednictwem podmiotów, o których mowa w ust. 3 pkt 3, są nadawane wyłącznie przesyłką rejestrowaną w rozumieniu przepisów ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe . Przesyłka powinna być opatrzona klauzulą „Informacje poufne”."
+    },
+    {
+      "provision_ref": "par5u6",
+      "section": "5",
+      "title": "§ 5 ust. 6",
+      "content": "W przypadku gdy informacje przekazane na informatycznym nośniku danych zawierają błędy, przekazanie informacji poprawionych następuje niezwłocznie po ujawnieniu błędów, przy wykorzystaniu takiego samego informatycznego nośnika danych, jak nośnik, na którym przekazano informacje zawierające błędy, niezależnie od tego, czy awaria ESPI została usunięta, czy nie."
+    },
+    {
+      "provision_ref": "par5u7",
+      "section": "5",
+      "title": "§ 5 ust. 7",
+      "content": "Niezwłocznie po usunięciu awarii ESPI lub ustaniu zdarzeń, o których mowa w ust. 1, informacje przekazane na informatycznym nośniku danych przekazuje się za pośrednictwem ESPI."
+    },
+    {
+      "provision_ref": "par6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "W przypadku stwierdzenia przez Komisję, że przesyłka zawierająca informatyczny nośnik danych jest uszkodzona lub informacji zamieszczonej na tym nośniku nie można odczytać, lub że informacja została przekazana z naruszeniem § 5, podmiot nadzorowany, na żądanie Komisji, przekazuje te informacje ponownie. Ponowne przekazanie informacji następuje niezwłocznie po otrzymaniu żądania Komisji. W przypadku, o którym mowa w ust. 1, podmiot nadzorowany przekazuje informacje w oddzielnej przesyłce opatrzonej klauzulą „Przesyłka powtórna”."
+    },
+    {
+      "provision_ref": "par6u1",
+      "section": "6",
+      "title": "§ 6 ust. 1",
+      "content": "W przypadku stwierdzenia przez Komisję, że przesyłka zawierająca informatyczny nośnik danych jest uszkodzona lub informacji zamieszczonej na tym nośniku nie można odczytać, lub że informacja została przekazana z naruszeniem § 5, podmiot nadzorowany, na żądanie Komisji, przekazuje te informacje ponownie. Ponowne przekazanie informacji następuje niezwłocznie po otrzymaniu żądania Komisji."
+    },
+    {
+      "provision_ref": "par6u2",
+      "section": "6",
+      "title": "§ 6 ust. 2",
+      "content": "W przypadku, o którym mowa w ust. 1, podmiot nadzorowany przekazuje informacje w oddzielnej przesyłce opatrzonej klauzulą „Przesyłka powtórna”."
+    },
+    {
+      "provision_ref": "par7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "Przekazanie informacji o transakcjach, o których mowa w art. 19 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 596/2014 z dnia 16 kwietnia 2014 r. w sprawie nadużyć na rynku (rozporządzenie w sprawie nadużyć na rynku) oraz uchylającego dyrektywę 2003/6/WE Parlamentu Europejskiego i Rady i dyrektywy Komisji 2003/124/WE, 2003/125/WE i 2004/72/WE 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 171 z 29.06.2016, str. 1, Dz. Urz. UE L 175 z 30.06.2016, str. 1, Dz. Urz. UE L 287 z 21.10.2016, str. 320, Dz. Urz. UE L 254 z 10.10.2018, str. 19, Dz. Urz. UE L 320 z 11.12.2019, str. 1 oraz Dz. Urz. UE L 283 z 03.11.2022, str. 15. , przez osoby pełniące obowiązki zarządcze oraz osoby blisko z nimi związane, w rozumieniu art. 3 ust. 1 pkt 25 i 26 tego rozporządzenia, następuje za pomocą systemu teleinformatycznego umożliwiającego składanie powiadomień, do którego dostęp zapewnia Komisja na swojej stronie internetowej. W przypadku awarii systemu teleinformatycznego, o którym mowa w ust. 1, lub zaistnienia zdarzeń uniemożliwiających przekazanie informacji za pośrednictwem tego systemu przekazanie informacji, o których mowa w ust. 1, następuje na adres poczty elektronicznej wskazany przez Komisję na jej stronie internetowej. Niezwłocznie po usunięciu awarii systemu teleinformatycznego, o którym mowa w ust. 1, lub ustaniu zdarzeń, o których mowa w ust. 2, przekazanie informacji, o których mowa w ust. 1, następuje również za pomocą systemu teleinformatycznego, o którym mowa w ust. 1."
+    },
+    {
+      "provision_ref": "par7u1",
+      "section": "7",
+      "title": "§ 7 ust. 1",
+      "content": "Przekazanie informacji o transakcjach, o których mowa w art. 19 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 596/2014 z dnia 16 kwietnia 2014 r. w sprawie nadużyć na rynku (rozporządzenie w sprawie nadużyć na rynku) oraz uchylającego dyrektywę 2003/6/WE Parlamentu Europejskiego i Rady i dyrektywy Komisji 2003/124/WE, 2003/125/WE i 2004/72/WE 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 171 z 29.06.2016, str. 1, Dz. Urz. UE L 175 z 30.06.2016, str. 1, Dz. Urz. UE L 287 z 21.10.2016, str. 320, Dz. Urz. UE L 254 z 10.10.2018, str. 19, Dz. Urz. UE L 320 z 11.12.2019, str. 1 oraz Dz. Urz. UE L 283 z 03.11.2022, str. 15. , przez osoby pełniące obowiązki zarządcze oraz osoby blisko z nimi związane, w rozumieniu art. 3 ust. 1 pkt 25 i 26 tego rozporządzenia, następuje za pomocą systemu teleinformatycznego umożliwiającego składanie powiadomień, do którego dostęp zapewnia Komisja na swojej stronie internetowej."
+    },
+    {
+      "provision_ref": "par7u2",
+      "section": "7",
+      "title": "§ 7 ust. 2",
+      "content": "W przypadku awarii systemu teleinformatycznego, o którym mowa w ust. 1, lub zaistnienia zdarzeń uniemożliwiających przekazanie informacji za pośrednictwem tego systemu przekazanie informacji, o których mowa w ust. 1, następuje na adres poczty elektronicznej wskazany przez Komisję na jej stronie internetowej."
+    },
+    {
+      "provision_ref": "par7u3",
+      "section": "7",
+      "title": "§ 7 ust. 3",
+      "content": "Niezwłocznie po usunięciu awarii systemu teleinformatycznego, o którym mowa w ust. 1, lub ustaniu zdarzeń, o których mowa w ust. 2, przekazanie informacji, o których mowa w ust. 1, następuje również za pomocą systemu teleinformatycznego, o którym mowa w ust. 1."
+    },
+    {
+      "provision_ref": "par8",
+      "section": "8",
+      "title": "§ 8",
+      "content": "Rozporządzenie wchodzi w życie z dniem 30 stycznia 2023 r. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 27 grudnia 2016 r. w sprawie środków i warunków technicznych służących do przekazywania niektórych informacji przez podmioty nadzorowane przez Komisję Nadzoru Finansowego (Dz. U. z 2020 r. poz. 2195), które traci moc z dniem 30 stycznia 2023 r. zgodnie z art. 92 pkt 2 ustawy z dnia 7 lipca 2022 r. o finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom (Dz. U. poz. 1488, 2180 i 2640)."
+    }
+  ],
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2022-837",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-1488",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-57",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1995",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-896",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-1933",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2042",
+      "ref_type": "references"
+    }
+  ]
+}

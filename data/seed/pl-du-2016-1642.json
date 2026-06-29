@@ -1,0 +1,240 @@
+{
+  "id": "pl-du-2016-1642",
+  "type": "statute",
+  "title": "Rozporządzenie Ministra Finansów z dnia 26 września 2016 r. w sprawie wymogów dla systemów wyliczania utrzymywanych w podmiotach objętych systemem gwarantowania",
+  "title_en": "",
+  "short_name": "pl-du-2016-1642",
+  "status": "in_force",
+  "issued_date": "2016-09-26",
+  "in_force_date": "2016-10-07",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2016/1642",
+  "provisions": [
+    {
+      "provision_ref": "par1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Rozporządzenie określa: minimalne wymogi, jakie powinien spełniać system wyliczania, o którym mowa w art. 28 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji , zwanej dalej „ustawą”; szczegółowy zakres i strukturę danych zawartych w systemie wyliczania, a także standard techniczny ich przygotowania i zapisu; format i tryb przekazywania danych do Bankowego Funduszu Gwarancyjnego; sposób oznaczenia środków gwarantowanych, których dotyczy postępowanie w sprawach określonych w art. 165a lub art. 299 ustawy z dnia 6 czerwca 1997 r. - Kodeks karny ; tryb i sposób kontroli prawidłowości danych zawartych w systemie wyliczania."
+    },
+    {
+      "provision_ref": "par1p1",
+      "section": "1",
+      "title": "§ 1 pkt 1",
+      "content": "Rozporządzenie określa: minimalne wymogi, jakie powinien spełniać system wyliczania, o którym mowa w art. 28 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji , zwanej dalej „ustawą”;"
+    },
+    {
+      "provision_ref": "par1p2",
+      "section": "1",
+      "title": "§ 1 pkt 2",
+      "content": "Rozporządzenie określa: szczegółowy zakres i strukturę danych zawartych w systemie wyliczania, a także standard techniczny ich przygotowania i zapisu;"
+    },
+    {
+      "provision_ref": "par1p3",
+      "section": "1",
+      "title": "§ 1 pkt 3",
+      "content": "Rozporządzenie określa: format i tryb przekazywania danych do Bankowego Funduszu Gwarancyjnego;"
+    },
+    {
+      "provision_ref": "par1p4",
+      "section": "1",
+      "title": "§ 1 pkt 4",
+      "content": "Rozporządzenie określa: sposób oznaczenia środków gwarantowanych, których dotyczy postępowanie w sprawach określonych w art. 165a lub art. 299 ustawy z dnia 6 czerwca 1997 r. - Kodeks karny ;"
+    },
+    {
+      "provision_ref": "par1p5",
+      "section": "1",
+      "title": "§ 1 pkt 5",
+      "content": "Rozporządzenie określa: tryb i sposób kontroli prawidłowości danych zawartych w systemie wyliczania."
+    },
+    {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Minimalne wymogi, jakie powinien spełniać system wyliczania, określa załącznik nr 1 do rozporządzenia. Szczegółowy zakres i strukturę danych zawartych w systemie wyliczania podmiotu objętego systemem gwarantowania, zwanego dalej „podmiotem”, o którym mowa w: art. 2 pkt 41 lit. a i b ustawy, określa załącznik nr 2 do rozporządzenia; art. 2 pkt 41 lit. c ustawy, określa załącznik nr 3 do rozporządzenia."
+    },
+    {
+      "provision_ref": "par2u1",
+      "section": "2",
+      "title": "§ 2 ust. 1",
+      "content": "Minimalne wymogi, jakie powinien spełniać system wyliczania, określa załącznik nr 1 do rozporządzenia."
+    },
+    {
+      "provision_ref": "par2u2p1",
+      "section": "2",
+      "title": "§ 2 ust. 2 pkt 1",
+      "content": "Szczegółowy zakres i strukturę danych zawartych w systemie wyliczania podmiotu objętego systemem gwarantowania, zwanego dalej „podmiotem”, o którym mowa w: art. 2 pkt 41 lit. a i b ustawy, określa załącznik nr 2 do rozporządzenia;"
+    },
+    {
+      "provision_ref": "par2u2p2",
+      "section": "2",
+      "title": "§ 2 ust. 2 pkt 2",
+      "content": "Szczegółowy zakres i strukturę danych zawartych w systemie wyliczania podmiotu objętego systemem gwarantowania, zwanego dalej „podmiotem”, o którym mowa w: art. 2 pkt 41 lit. c ustawy, określa załącznik nr 3 do rozporządzenia."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Dane przygotowane w systemie wyliczania są zapisywane w dokumencie elektronicznym w formacie XML w wersji 1.0. Kodowania pliku dokonuje się w standardzie UTF-8. Dokument elektroniczny, o którym mowa w ust. 1, jest zgodny ze schematem XSD, który Bankowy Fundusz Gwarancyjny udostępnia podmiotowi w wersji elektronicznej na stronie internetowej Bankowego Funduszu Gwarancyjnego. Wartości danych słownikowych oraz ich aktualizację Bankowy Fundusz Gwarancyjny udostępnia w wersji elektronicznej na stronie internetowej Bankowego Funduszu Gwarancyjnego."
+    },
+    {
+      "provision_ref": "par3u1",
+      "section": "3",
+      "title": "§ 3 ust. 1",
+      "content": "Dane przygotowane w systemie wyliczania są zapisywane w dokumencie elektronicznym w formacie XML w wersji 1.0. Kodowania pliku dokonuje się w standardzie UTF-8."
+    },
+    {
+      "provision_ref": "par3u2",
+      "section": "3",
+      "title": "§ 3 ust. 2",
+      "content": "Dokument elektroniczny, o którym mowa w ust. 1, jest zgodny ze schematem XSD, który Bankowy Fundusz Gwarancyjny udostępnia podmiotowi w wersji elektronicznej na stronie internetowej Bankowego Funduszu Gwarancyjnego."
+    },
+    {
+      "provision_ref": "par3u3",
+      "section": "3",
+      "title": "§ 3 ust. 3",
+      "content": "Wartości danych słownikowych oraz ich aktualizację Bankowy Fundusz Gwarancyjny udostępnia w wersji elektronicznej na stronie internetowej Bankowego Funduszu Gwarancyjnego."
+    },
+    {
+      "provision_ref": "par4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Dokumenty elektroniczne zawierające dane przygotowane w systemie wyliczania są opatrzone kwalifikowanym podpisem elektronicznym, przez osoby uprawnione do reprezentowania podmiotu. Podpisy osób uprawnionych, o których mowa w ust. 1, stanowią również potwierdzenie rzetelności i prawidłowości przekazywanych danych. W celu przekazywania dokumentów elektronicznych Bankowy Fundusz Gwarancyjny udostępnia w sieci Internet aplikację, zwaną dalej „portalem internetowym”, umożliwiającą przesyłanie plików kanałem wykorzystującym protokół SSL. Podmiot zgłasza do Bankowego Funduszu Gwarancyjnego dane osób uprawnionych do reprezentowania podmiotu, wyposażonych w kwalifikowane certyfikaty podpisu elektronicznego, oraz osób obsługujących komunikację z Bankowym Funduszem Gwarancyjnym, wyposażonych w certyfikaty do uwierzytelnienia użytkownika w systemach teleinformatycznych. Dokumenty elektroniczne, przed wysłaniem, kompresuje się do formatu archiwum RAR lub ZIP oraz szyfruje się udostępnionym w tym celu kluczem publicznym Bankowego Funduszu Gwarancyjnego."
+    },
+    {
+      "provision_ref": "par4u1",
+      "section": "4",
+      "title": "§ 4 ust. 1",
+      "content": "Dokumenty elektroniczne zawierające dane przygotowane w systemie wyliczania są opatrzone kwalifikowanym podpisem elektronicznym, przez osoby uprawnione do reprezentowania podmiotu."
+    },
+    {
+      "provision_ref": "par4u2",
+      "section": "4",
+      "title": "§ 4 ust. 2",
+      "content": "Podpisy osób uprawnionych, o których mowa w ust. 1, stanowią również potwierdzenie rzetelności i prawidłowości przekazywanych danych."
+    },
+    {
+      "provision_ref": "par4u3",
+      "section": "4",
+      "title": "§ 4 ust. 3",
+      "content": "W celu przekazywania dokumentów elektronicznych Bankowy Fundusz Gwarancyjny udostępnia w sieci Internet aplikację, zwaną dalej „portalem internetowym”, umożliwiającą przesyłanie plików kanałem wykorzystującym protokół SSL."
+    },
+    {
+      "provision_ref": "par4u4",
+      "section": "4",
+      "title": "§ 4 ust. 4",
+      "content": "Podmiot zgłasza do Bankowego Funduszu Gwarancyjnego dane osób uprawnionych do reprezentowania podmiotu, wyposażonych w kwalifikowane certyfikaty podpisu elektronicznego, oraz osób obsługujących komunikację z Bankowym Funduszem Gwarancyjnym, wyposażonych w certyfikaty do uwierzytelnienia użytkownika w systemach teleinformatycznych."
+    },
+    {
+      "provision_ref": "par4u5",
+      "section": "4",
+      "title": "§ 4 ust. 5",
+      "content": "Dokumenty elektroniczne, przed wysłaniem, kompresuje się do formatu archiwum RAR lub ZIP oraz szyfruje się udostępnionym w tym celu kluczem publicznym Bankowego Funduszu Gwarancyjnego."
+    },
+    {
+      "provision_ref": "par5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Dane zawarte w systemie wyliczania są przekazywane na żądanie, o którym mowa w art. 32 ust. 2 ustawy, do Bankowego Funduszu Gwarancyjnego w terminie określonym w żądaniu. Przekazywanie danych następuje za pośrednictwem portalu internetowego. Szczegółowe informacje umożliwiające przekazywanie danych są publikowane na stronie internetowej Bankowego Funduszu Gwarancyjnego. W uzasadnionych przypadkach, za zgodą Bankowego Funduszu Gwarancyjnego, dane mogą być przekazywane na informatycznym nośniku danych jednokrotnego zapisu."
+    },
+    {
+      "provision_ref": "par5u1",
+      "section": "5",
+      "title": "§ 5 ust. 1",
+      "content": "Dane zawarte w systemie wyliczania są przekazywane na żądanie, o którym mowa w art. 32 ust. 2 ustawy, do Bankowego Funduszu Gwarancyjnego w terminie określonym w żądaniu."
+    },
+    {
+      "provision_ref": "par5u2",
+      "section": "5",
+      "title": "§ 5 ust. 2",
+      "content": "Przekazywanie danych następuje za pośrednictwem portalu internetowego. Szczegółowe informacje umożliwiające przekazywanie danych są publikowane na stronie internetowej Bankowego Funduszu Gwarancyjnego."
+    },
+    {
+      "provision_ref": "par5u3",
+      "section": "5",
+      "title": "§ 5 ust. 3",
+      "content": "W uzasadnionych przypadkach, za zgodą Bankowego Funduszu Gwarancyjnego, dane mogą być przekazywane na informatycznym nośniku danych jednokrotnego zapisu."
+    },
+    {
+      "provision_ref": "par6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "Kontrola, o której mowa w art. 32 ust. 1 pkt 1 ustawy, jest przeprowadzana w siedzibie Bankowego Funduszu Gwarancyjnego i obejmuje dokonywaną przez Bankowy Fundusz Gwarancyjny ocenę poprawności i kompletności danych niezbędnych do identyfikacji deponentów oraz należnych im kwot środków gwarantowanych. Podmiot udziela niezwłocznie Bankowemu Funduszowi Gwarancyjnemu wyjaśnień na temat przekazanych danych. Bankowy Fundusz Gwarancyjny przekazuje niezwłocznie podmiotowi pisemną informację o wynikach z przeprowadzonej kontroli."
+    },
+    {
+      "provision_ref": "par6u1",
+      "section": "6",
+      "title": "§ 6 ust. 1",
+      "content": "Kontrola, o której mowa w art. 32 ust. 1 pkt 1 ustawy, jest przeprowadzana w siedzibie Bankowego Funduszu Gwarancyjnego i obejmuje dokonywaną przez Bankowy Fundusz Gwarancyjny ocenę poprawności i kompletności danych niezbędnych do identyfikacji deponentów oraz należnych im kwot środków gwarantowanych."
+    },
+    {
+      "provision_ref": "par6u2",
+      "section": "6",
+      "title": "§ 6 ust. 2",
+      "content": "Podmiot udziela niezwłocznie Bankowemu Funduszowi Gwarancyjnemu wyjaśnień na temat przekazanych danych."
+    },
+    {
+      "provision_ref": "par6u3",
+      "section": "6",
+      "title": "§ 6 ust. 3",
+      "content": "Bankowy Fundusz Gwarancyjny przekazuje niezwłocznie podmiotowi pisemną informację o wynikach z przeprowadzonej kontroli."
+    },
+    {
+      "provision_ref": "par7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "Kontrola, o której mowa w art. 32 ust. 1 pkt 2 ustawy, jest przeprowadzana w siedzibie podmiotu i obejmuje w szczególności sprawdzenie poprawności: danych zawartych w systemie wyliczania na podstawie dokumentów źródłowych znajdujących się w posiadaniu tego podmiotu; stosowania przez ten podmiot definicji deponenta i środków gwarantowanych, określonych w ustawie."
+    },
+    {
+      "provision_ref": "par7p1",
+      "section": "7",
+      "title": "§ 7 pkt 1",
+      "content": "Kontrola, o której mowa w art. 32 ust. 1 pkt 2 ustawy, jest przeprowadzana w siedzibie podmiotu i obejmuje w szczególności sprawdzenie poprawności: danych zawartych w systemie wyliczania na podstawie dokumentów źródłowych znajdujących się w posiadaniu tego podmiotu;"
+    },
+    {
+      "provision_ref": "par7p2",
+      "section": "7",
+      "title": "§ 7 pkt 2",
+      "content": "Kontrola, o której mowa w art. 32 ust. 1 pkt 2 ustawy, jest przeprowadzana w siedzibie podmiotu i obejmuje w szczególności sprawdzenie poprawności: stosowania przez ten podmiot definicji deponenta i środków gwarantowanych, określonych w ustawie."
+    },
+    {
+      "provision_ref": "par8",
+      "section": "8",
+      "title": "§ 8",
+      "content": "Z przeprowadzonej przez Bankowy Fundusz Gwarancyjny kontroli określonej w § 7 jest sporządzany protokół. Protokół podpisują osoby uprawnione do reprezentowania podmiotu w terminie 7 dni od dnia przedstawienia go do podpisu."
+    },
+    {
+      "provision_ref": "par8u1",
+      "section": "8",
+      "title": "§ 8 ust. 1",
+      "content": "Z przeprowadzonej przez Bankowy Fundusz Gwarancyjny kontroli określonej w § 7 jest sporządzany protokół."
+    },
+    {
+      "provision_ref": "par8u2",
+      "section": "8",
+      "title": "§ 8 ust. 2",
+      "content": "Protokół podpisują osoby uprawnione do reprezentowania podmiotu w terminie 7 dni od dnia przedstawienia go do podpisu."
+    },
+    {
+      "provision_ref": "par9",
+      "section": "9",
+      "title": "§ 9",
+      "content": "Podmiot, w terminie 14 dni od dnia otrzymania informacji, o której mowa w § 6 ust. 3, albo od dnia podpisania protokołu, o którym mowa w § 8 ust. 1, informuje w formie pisemnej Bankowy Fundusz Gwarancyjny o podjętych działaniach mających na celu usunięcie nieprawidłowości wskazanych przez Bankowy Fundusz Gwarancyjny."
+    },
+    {
+      "provision_ref": "par10",
+      "section": "10",
+      "title": "§ 10",
+      "content": "Rozporządzenie wchodzi w życie z dniem 9 października 2016 r. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 27 stycznia 2011 r. w sprawie wymogów dla systemów wyliczania utrzymywanych w podmiotach objętych obowiązkowym systemem gwarantowania (Dz. U. z 2013 r. poz. 1469) oraz rozporządzeniem Ministra Finansów z dnia 26 września 2013 r. w sprawie wymogów dla systemów wyliczania utrzymywanych w spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. poz. 1198), które tracą moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 386 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. poz. 996)."
+    }
+  ],
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2016-996",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2016-1137",
+      "ref_type": "references"
+    }
+  ]
+}

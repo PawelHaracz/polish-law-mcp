@@ -1,0 +1,980 @@
+{
+  "id": "pl-du-2020-1656",
+  "type": "statute",
+  "title": "Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 10 września 2020 r. w sprawie systemu informacyjnego gospodarowania wodami",
+  "title_en": "",
+  "short_name": "pl-du-2020-1656",
+  "status": "in_force",
+  "issued_date": "2020-09-10",
+  "in_force_date": "2020-09-28",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/1656",
+  "provisions": [
+    {
+      "provision_ref": "par1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Rozporządzenie określa: szczegółowy zakres informacji gromadzonych w systemie informacyjnym gospodarowania wodami, zwanym dalej „SIGW”; organizację, sposób i standardy techniczne prowadzenia SIGW; źródła danych dla SIGW oraz częstotliwość i standardy przekazywania danych do SIGW."
+    },
+    {
+      "provision_ref": "par1p1",
+      "section": "1",
+      "title": "§ 1 pkt 1",
+      "content": "Rozporządzenie określa: szczegółowy zakres informacji gromadzonych w systemie informacyjnym gospodarowania wodami, zwanym dalej „SIGW”;"
+    },
+    {
+      "provision_ref": "par1p2",
+      "section": "1",
+      "title": "§ 1 pkt 2",
+      "content": "Rozporządzenie określa: organizację, sposób i standardy techniczne prowadzenia SIGW;"
+    },
+    {
+      "provision_ref": "par1p3",
+      "section": "1",
+      "title": "§ 1 pkt 3",
+      "content": "Rozporządzenie określa: źródła danych dla SIGW oraz częstotliwość i standardy przekazywania danych do SIGW."
+    },
+    {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: danych przestrzennych - rozumie się przez to dane przestrzenne w rozumieniu art. 3 pkt 1 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej ; ewidencji zbiorów oraz usług danych przestrzennych - rozumie się przez to ewidencję zbiorów oraz usług danych przestrzennych, o której mowa w art. 13 ust. 2 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej ; obiekcie przestrzennym - rozumie się przez to obiekt przestrzenny w rozumieniu art. 3 pkt 5 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej ; organie administracji - rozumie się przez to organ administracji, o którym mowa w art. 9 ust. 1 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej ; półroczu letnim - rozumie się przez to okres od dnia 1 maja do dnia 31 października; półroczu zimowym - rozumie się przez to okres od dnia 1 listopada do dnia 30 kwietnia; usługach danych przestrzennych - rozumie się przez to usługi danych przestrzennych w rozumieniu art. 3 pkt 10 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej ."
+    },
+    {
+      "provision_ref": "par2p1",
+      "section": "2",
+      "title": "§ 2 pkt 1",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: danych przestrzennych - rozumie się przez to dane przestrzenne w rozumieniu art. 3 pkt 1 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej ;"
+    },
+    {
+      "provision_ref": "par2p2",
+      "section": "2",
+      "title": "§ 2 pkt 2",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: ewidencji zbiorów oraz usług danych przestrzennych - rozumie się przez to ewidencję zbiorów oraz usług danych przestrzennych, o której mowa w art. 13 ust. 2 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej ;"
+    },
+    {
+      "provision_ref": "par2p3",
+      "section": "2",
+      "title": "§ 2 pkt 3",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: obiekcie przestrzennym - rozumie się przez to obiekt przestrzenny w rozumieniu art. 3 pkt 5 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej ;"
+    },
+    {
+      "provision_ref": "par2p4",
+      "section": "2",
+      "title": "§ 2 pkt 4",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: organie administracji - rozumie się przez to organ administracji, o którym mowa w art. 9 ust. 1 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej ;"
+    },
+    {
+      "provision_ref": "par2p5",
+      "section": "2",
+      "title": "§ 2 pkt 5",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: półroczu letnim - rozumie się przez to okres od dnia 1 maja do dnia 31 października;"
+    },
+    {
+      "provision_ref": "par2p6",
+      "section": "2",
+      "title": "§ 2 pkt 6",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: półroczu zimowym - rozumie się przez to okres od dnia 1 listopada do dnia 30 kwietnia;"
+    },
+    {
+      "provision_ref": "par2p7",
+      "section": "2",
+      "title": "§ 2 pkt 7",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: usługach danych przestrzennych - rozumie się przez to usługi danych przestrzennych w rozumieniu art. 3 pkt 10 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej ."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "W SIGW gromadzi się informacje o: sieci hydrograficznej, zawartej na Mapie Podziału Hydrograficznego Polski w skali 1: 10 000, obejmujące: cieki i odcinki cieków, zawierające: - nazwę cieku, - lokalizację cieku albo odcinka cieku, - długość cieku albo odcinka cieku, - powierzchnię cieków o szerokości koryta powyżej 30 m, - identyfikator hydrologiczny cieku albo cieku i odcinka cieku, węzły na ciekach, zawierające: - lokalizację węzła cieku, - typ zmiany charakterystyki cieku, jeziora i inne zbiorniki wodne, zawierające: - nazwę jeziora albo innego zbiornika wodnego, - granicę jeziora albo innego zbiornika wodnego, - powierzchnię jeziora albo innego zbiornika wodnego, - obwód jeziora albo innego zbiornika wodnego, - identyfikator hydrologiczny jeziora albo innego zbiornika wodnego; przebiegu granic i obszarach zlewni, obejmujące: zlewnie elementarne i zlewnie hierarchiczne poszczególnych poziomów, zawierające: - nazwę zlewni, - granicę zlewni, - powierzchnię zlewni, - obwód zlewni, - identyfikator hydrologiczny zlewni, działy wodne, zawierające: - długość działu wodnego, - rząd podziału hydrograficznego, - podział działu wodnego na typ naturalny, brzeg morza albo zalewu, - sposób wyznaczenia działu wodnego, - lokalizację działu wodnego, węzły na działach wodnych, zawierające: - lokalizację węzła działu wodnego, - typ zmiany charakterystyki działu wodnego; obszarach dorzeczy, regionach wodnych i jednostkach organizacyjnych Państwowego Gospodarstwa Wodnego Wody Polskie, zwanego dalej „Wodami Polskimi”, obejmujące: obszary dorzeczy, zawierające: - nazwę obszaru dorzecza, - kod obszaru dorzecza, - granicę obszaru dorzecza, regiony wodne, zawierające: - nazwę regionu wodnego, - kod regionu wodnego, - granicę regionu wodnego, regionalne zarządy gospodarki wodnej, zwane dalej „rzgw”, zawierające: - nazwę rzgw, - obszar działalności rzgw, - siedzibę rzgw, zarządy zlewni, zawierające: - nazwę zarządu zlewni, - nazwę właściwego miejscowo rzgw, - obszar działalności zarządu zlewni, - siedzibę zarządu zlewni, nadzory wodne, zawierające: - nazwę nadzoru wodnego, - nazwę właściwego miejscowo zarządu zlewni, - nazwę właściwego miejscowo rzgw, - obszar działalności nadzoru wodnego, - siedzibę nadzoru wodnego; hydrologicznych i meteorologicznych punktach, stacjach i posterunkach pomiarowych, obejmujące: stacje synoptyczne, zawierające: - nazwę stacji synoptycznej, - kod stacji synoptycznej, - datę założenia stacji synoptycznej, - datę likwidacji stacji synoptycznej, - opis zmiany stacji synoptycznej, - lokalizację stacji synoptycznej, stacje klimatologiczne, zawierające: - nazwę stacji klimatologicznej, - kod stacji klimatologicznej, - datę założenia stacji klimatologicznej, - datę likwidacji stacji klimatologicznej, - opis zmiany stacji klimatologicznej, - lokalizację stacji klimatologicznej, stacje opadowe, zawierające: - nazwę stacji opadowej, - kod stacji opadowej, - datę założenia stacji opadowej, - datę likwidacji stacji opadowej, - opis zmiany stacji opadowej, - lokalizację stacji opadowej, stacje wodowskazowe oraz stanowiska obserwacyjne, zawierające: - nazwę stacji wodowskazowej albo stanowiska obserwacyjnego, - kod stacji wodowskazowej albo stanowiska obserwacyjnego, - rząd stacji wodowskazowej, - nazwę cieku, - identyfikator hydrologiczny cieku, - rzędną zera wodowskazu na stacji wodowskazowej, - wysokościowy układ odniesienia rzędnej zera wodowskazu na stacji wodowskazowej, - stan ostrzegawczy określony dla stacji wodowskazowej, - stan alarmowy określony dla stacji wodowskazowej, - datę założenia stacji wodowskazowej albo stanowiska obserwacyjnego, - datę likwidacji stacji wodowskazowej albo stanowiska obserwacyjnego, - opis zmiany stacji wodowskazowej albo stanowiska obserwacyjnego, - lokalizację stacji wodowskazowej albo stanowiska obserwacyjnego; sieci obserwacyjno-badawczej wód podziemnych, składającej się z punktów monitoringu stanu ilościowego wód podziemnych, punktów monitoringu stanu chemicznego wód podziemnych oraz punktów monitoringu badawczego wód podziemnych, zwanych dalej „punktami monitoringu wód podziemnych”, obejmujące: nazwę punktu monitoringu wód podziemnych, kod punktu monitoringu wód podziemnych, kod jednolitej części wód podziemnych, na której jest zlokalizowany punkt monitoringu wód podziemnych, datę ustanowienia punktu monitoringu wód podziemnych, datę wygaszenia punktu monitoringu wód podziemnych, kod wygaszonego punktu monitoringu wód podziemnych, zastępowanego przez dany punkt monitoringu wód podziemnych, kod punktu monitoringu wód podziemnych, zastępującego dany punkt monitoringu wód podziemnych, rodzaje monitoringu wód podziemnych realizowanego w punkcie monitoringu wód podziemnych, ze wskazaniem roku ich realizacji, lokalizację punktu monitoringu wód podziemnych; ilości i jakości zasobów wód podziemnych, w tym dostępnych zasobów wód podziemnych, oraz głównych i lokalnych zbiornikach wód podziemnych, obejmujące: wyniki pomiarów zwierciadła wód podziemnych i wydajności źródeł będących wypływem wód podziemnych na powierzchnię ziemi w punktach monitoringu wód podziemnych, wyniki pomiarów wskaźników stanu chemicznego jednolitych części wód podziemnych w punktach monitoringu wód podziemnych, wyniki klasyfikacji wskaźników stanu chemicznego jednolitych części wód podziemnych w punktach monitoringu wód podziemnych, wyniki oceny stanu jednolitych części wód podziemnych, wraz z klasyfikacją stanu chemicznego i ilościowego, o których mowa w przepisach wydanych na podstawie art. 53 ust. 1 ustawy z dnia 20 lipca 2017 r. - Prawo wodne , zwanej dalej „ustawą”, dokonanych zgodnie z przepisami art. 349 ust. 11 pkt 2, 4 i 5 ustawy, w podziale na jednolite części wód podziemnych, obszary bilansowe wód podziemnych, zawierające: - nazwę obszaru bilansowego wód podziemnych, - kod obszaru bilansowego wód podziemnych, - granicę obszaru bilansowego wód podziemnych, rejony wodnogospodarcze wód podziemnych, zawierające: - nazwę rejonu wodnogospodarczego wód podziemnych, - kod rejonu wodnogospodarczego wód podziemnych, - granicę rejonu wodnogospodarczego wód podziemnych, zasoby dyspozycyjne wód podziemnych w obszarach bilansowych tych wód, zawierające: - nazwę obszaru bilansowego wód podziemnych, - kod obszaru bilansowego wód podziemnych, - stan zasobów dyspozycyjnych wód podziemnych określony dla obszaru bilansowego na dzień 31 grudnia roku poprzedniego w m 3 /h, zasoby eksploatacyjne wód podziemnych, zawierające: - nazwę województwa, - stan zasobów eksploatacyjnych na dzień 31 grudnia roku poprzedniego w m 3 /h, - przyrost zasobów eksploatacyjnych w stosunku do roku poprzedniego w m 3 /h, - sumaryczne podsumowanie stanu zasobów eksploatacyjnych dla obszaru kraju w m 3 /h, główne zbiorniki wód podziemnych, zawierające: - nazwę głównego zbiornika wód podziemnych, - kod głównego zbiornika wód podziemnych, - granicę głównego zbiornika wód podziemnych, lokalne zbiorniki wód podziemnych, zawierające: - nazwę lokalnego zbiornika wód podziemnych, - kod lokalnego zbiornika wód podziemnych, - granicę lokalnego zbiornika wód podziemnych; sieci monitoringu jednolitych części wód powierzchniowych, składającej się z punktów pomiarowo-kontrolnych monitoringu jednolitych części wód powierzchniowych, zwanych dalej „punktami pomiarowymi wód powierzchniowych”, obejmujące: nazwę punktu pomiarowego wód powierzchniowych, kod punktu pomiarowego wód powierzchniowych, kod jednolitej części wód powierzchniowych, na której jest zlokalizowany punkt pomiarowy wód powierzchniowych, rodzaj punktu pomiarowego wód powierzchniowych, datę ustanowienia punktu pomiarowego wód powierzchniowych, datę wygaszenia punktu pomiarowego wód powierzchniowych, kod wygaszonego punktu pomiarowego wód powierzchniowych, zastępowanego przez dany punkt pomiarowy wód powierzchniowych, kod punktu pomiarowego wód powierzchniowych, zastępującego dany punkt pomiarowy wód powierzchniowych, rodzaje monitoringu wód powierzchniowych realizowanego w punkcie pomiarowym wód powierzchniowych, ze wskazaniem roku ich realizacji, lokalizację punktu pomiarowego wód powierzchniowych; ilości i jakości zasobów wód powierzchniowych, w tym o stanie ekologicznym, potencjale ekologicznym, stanie chemicznym jednolitych części wód powierzchniowych oraz stanie wód powierzchniowych, obejmujące: dobowe stany wód powierzchniowych w stacjach wodowskazowych oraz stanowiskach obserwacyjnych, dobowe przepływy wód powierzchniowych w stacjach wodowskazowych oraz stanowiskach obserwacyjnych, średnie roczne stany wód powierzchniowych z roku hydrologicznego w stacjach wodowskazowych oraz stanowiskach obserwacyjnych, średnie stany wód powierzchniowych z półrocza zimowego w stacjach wodowskazowych oraz stanowiskach obserwacyjnych, średnie stany wód powierzchniowych z półrocza letniego w stacjach wodowskazowych oraz stanowiskach obserwacyjnych, minimalne stany wód powierzchniowych z półrocza zimowego w stacjach wodowskazowych oraz stanowiskach obserwacyjnych, minimalne stany wód powierzchniowych z półrocza letniego w stacjach wodowskazowych oraz stanowiskach obserwacyjnych, maksymalne stany wód powierzchniowych z półrocza zimowego w stacjach wodowskazowych oraz stanowiskach obserwacyjnych, maksymalne stany wód powierzchniowych z półrocza letniego w stacjach wodowskazowych oraz stanowiskach obserwacyjnych, średnie roczne przepływy wód powierzchniowych z roku hydrologicznego w stacjach wodowskazowych oraz stanowiskach obserwacyjnych, średnie przepływy wód powierzchniowych z półrocza zimowego w stacjach wodowskazowych oraz stanowiskach obserwacyjnych, średnie przepływy wód powierzchniowych z półrocza letniego w stacjach wodowskazowych oraz stanowiskach obserwacyjnych, minimalne przepływy wód powierzchniowych z półrocza zimowego w stacjach wodowskazowych oraz stanowiskach obserwacyjnych, minimalne przepływy wód powierzchniowych z półrocza letniego w stacjach wodowskazowych oraz stanowiskach obserwacyjnych, maksymalne przepływy wód powierzchniowych z półrocza zimowego w stacjach wodowskazowych oraz stanowiskach obserwacyjnych, maksymalne przepływy wód powierzchniowych z półrocza letniego w stacjach wodowskazowych oraz stanowiskach obserwacyjnych, wyniki badań elementów biologicznych wód powierzchniowych w punktach pomiarowych wód powierzchniowych, wyniki klasyfikacji biologicznych wskaźników jakości jednolitych części wód powierzchniowych w punktach pomiarowych wód powierzchniowych, wyniki pomiarów fizykochemicznych i chemicznych wskaźników jednolitych części wód powierzchniowych w punktach pomiarowych wód powierzchniowych, wyniki klasyfikacji fizykochemicznych wskaźników jakości jednolitych części wód powierzchniowych w punktach pomiarowych wód powierzchniowych, wyniki klasyfikacji chemicznych wskaźników jakości jednolitych części wód powierzchniowych w punktach pomiarowych wód powierzchniowych, wyniki klasyfikacji stanu ekologicznego jednolitych części wód powierzchniowych w podziale na jednolite części wód powierzchniowych, wyniki klasyfikacji potencjału ekologicznego jednolitych części wód powierzchniowych w podziale na jednolite części wód powierzchniowych, wyniki klasyfikacji stanu chemicznego jednolitych części wód powierzchniowych w podziale na jednolite części wód powierzchniowych, wyniki oceny stanu jednolitych części wód powierzchniowych, o której mowa w art. 349 ust. 10 ustawy, w podziale na jednolite części wód powierzchniowych; wielkości poboru wód podziemnych i wód powierzchniowych oraz wielkości zrzutów ścieków i wód opadowych lub roztopowych wprowadzanych albo odprowadzanych do wód lub do ziemi, według informacji z pozwoleń wodnoprawnych i pozwoleń zintegrowanych oraz według wskazań przyrządów pomiarowych, obejmujące: wielkości poboru wód podziemnych według informacji z pozwoleń wodnoprawnych i pozwoleń zintegrowanych, wielkości poboru wód podziemnych według wskazań przyrządów pomiarowych, wielkości poboru wód powierzchniowych według informacji z pozwoleń wodnoprawnych i pozwoleń zintegrowanych, wielkości poboru wód powierzchniowych według wskazań przyrządów pomiarowych, wielkości zrzutów ścieków i wód opadowych lub roztopowych wprowadzanych albo odprowadzanych do wód lub do ziemi według informacji z pozwoleń wodnoprawnych i pozwoleń zintegrowanych, wielkości zrzutów ścieków i wód opadowych lub roztopowych wprowadzanych albo odprowadzanych do wód lub do ziemi według wskazań przyrządów pomiarowych; lokalizacji źródeł zanieczyszczeń punktowych, z podaniem ich współrzędnych, i źródeł zanieczyszczeń obszarowych, wraz z ich charakterystyką, obejmujące: punkty zrzutu ścieków i wód opadowych lub roztopowych służące do wprowadzania albo odprowadzania do wód lub do ziemi: - ścieków bytowych, - ścieków komunalnych, - ścieków przemysłowych, - wód opadowych lub roztopowych, - ścieków i wód, innych niż wskazane w tiret pierwszym-czwartym, źródła zanieczyszczeń obszarowych: - pochodzenia rolniczego, - wynikających z rolniczego wykorzystania ścieków, - innych niż wskazane w tiret pierwszym i drugim; obwodach rybackich, obejmujące: wykaz obwodów rybackich wraz z opisem ich granic, podstawę prawną ich wyznaczenia oraz wskazanie uprawnionego do rybactwa, kopie operatów rybackich i kopie opinii uprawnionych jednostek, o których mowa w art. 6a ust. 5 ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym , kopie ksiąg gospodarczych prowadzonych dla obwodów rybackich zgodnie z przepisami wydanymi na podstawie art. 4a ust. 2 ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym , kopie zestawień rocznych prowadzonych zgodnie z przepisami wydanymi na podstawie art. 4a ust. 2 ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym , informację przestrzenną obrazującą obwody rybackie, zawierającą: - nazwę obwodu rybackiego, - opis obwodu rybackiego, - granicę obwodu rybackiego, kopie aktów prawa miejscowego ustanawiających obwody rybackie; profilach wody w kąpieliskach, obejmujące: wykaz profili wody w kąpieliskach, kopie aktualnych profili wody w kąpieliskach; pozwoleniach wodnoprawnych, ocenach wodnoprawnych oraz pozwoleniach zintegrowanych w zakresie poboru wód powierzchniowych lub wód podziemnych oraz wprowadzania ścieków i odprowadzania wód opadowych lub roztopowych do wód lub do ziemi, obejmujące: wykaz pozwoleń wodnoprawnych, ocen wodnoprawnych oraz pozwoleń zintegrowanych, kopie pozwoleń wodnoprawnych, ocen wodnoprawnych oraz pozwoleń zintegrowanych, ilość i rodzaj substancji szczególnie szkodliwych dla środowiska wodnego określonych w pozwoleniach wodnoprawnych oraz pozwoleniach zintegrowanych; urządzeniach wodnych, obejmujące dane, o których mowa w art. 331 ust. 4 ustawy, oraz ich zmiany; strefach ochronnych ujęć wody i obszarach ochronnych zbiorników wód śródlądowych, obejmujące: w zakresie stref ochronnych ujęć wody: - nazwę strefy ochronnej ujęcia wody, - kod strefy ochronnej ujęcia wody, - granice terenów ochrony bezpośredniej i terenów ochrony pośredniej ujęcia wody, - kopie decyzji ustanawiających strefy ochronne ujęć wody obejmujące wyłącznie teren ochrony bezpośredniej dla stref ustanawianych z urzędu przez właściwy organ Wód Polskich, - kopie aktów prawa miejscowego ustanawiających strefy ochronne ujęć wody obejmujące teren ochrony bezpośredniej i teren ochrony pośredniej dla stref ustanawianych przez wojewodę, w zakresie obszarów ochronnych zbiorników wód śródlądowych: - nazwę obszaru ochronnego zbiornika wód śródlądowych, - granicę obszaru ochronnego zbiornika wód śródlądowych, - kopie aktów prawa miejscowego ustanawiających obszary ochronne zbiorników wód śródlądowych; wynikach badań i oceny wód powierzchniowych wykorzystywanych do zaopatrzenia ludności w wodę przeznaczoną do spożycia przez ludzi, obejmujące: punkty pomiarowe ustanowione na potrzeby oceny jakości wód powierzchniowych wykorzystywanych do zaopatrzenia ludności w wodę przeznaczoną do spożycia przez ludzi, zwane dalej „punktami pomiarowymi wody przeznaczonej do spożycia”, zawierające: - nazwę punktu pomiarowego wody przeznaczonej do spożycia, - kod punktu pomiarowego wody przeznaczonej do spożycia, - kod jednolitej części wód, na której jest zlokalizowany punkt pomiarowy wody przeznaczonej do spożycia, - datę ustanowienia punktu pomiarowego wody przeznaczonej do spożycia, - datę wygaszenia punktu pomiarowego wody przeznaczonej do spożycia, - kod wygaszonego punktu pomiarowego wody przeznaczonej do spożycia, zastępowanego przez dany punkt pomiarowy wody przeznaczonej do spożycia, - kod punktu pomiarowego wody przeznaczonej do spożycia, zastępującego dany punkt pomiarowy wody przeznaczonej do spożycia, - lokalizację punktu pomiarowego wody przeznaczonej do spożycia, wyniki pomiarów w punktach pomiarowych wody przeznaczonej do spożycia, wyniki oceny jakości wód powierzchniowych wykorzystywanych do zaopatrzenia ludności w wodę przeznaczoną do spożycia przez ludzi; ocenach obszarowych jakości wody przeznaczonej do spożycia przez ludzi, o których mowa w art. 349 ust. 16 pkt 1 ustawy, obejmujące kopie tych ocen; ocenie jakości wody w kąpielisku, o której mowa w art. 344 ust. 1 pkt 1 ustawy, obejmujące: punkty pobierania próbek wody do badań ustanowione na potrzeby tej oceny, zawierające: - lokalizację punktu pobierania próbek wody, - nazwę kąpieliska, - kod kąpieliska, wyniki klasyfikacji jakości wody w kąpielisku w punktach pobierania próbek wody, kopię oceny jakości wody w kąpielisku, o której mowa w art. 344 ust. 1 pkt 1 lit. b ustawy; spółkach wodnych i związkach spółek wodnych, obejmujące: dane dotyczące spółek wodnych, o których mowa w art. 449 ust. 2 ustawy, oraz ich zmiany, kopie zatwierdzonych statutów spółek wodnych, dane dotyczące związków spółek wodnych, o których mowa odpowiednio w art. 449 ust. 2 ustawy, oraz ich zmiany, kopie zatwierdzonych statutów związków spółek wodnych; planach gospodarowania wodami na obszarach dorzeczy i ich aktualizacjach, o których mowa w art. 318 ustawy, obejmujące: wykaz jednolitych części wód powierzchniowych, wykaz jednolitych części wód podziemnych, wykazy obszarów chronionych, o których mowa w art. 317 ust. 4 ustawy, wykaz celów środowiskowych dla jednolitych części wód i obszarów chronionych; planach zarządzania ryzykiem powodziowym, obejmujące katalog działań służących osiągnięciu celów zarządzania ryzykiem powodziowym, o którym mowa w art. 172 ust. 3 pkt 4 ustawy; planach przeciwdziałania skutkom suszy, obejmujące działania służące przeciwdziałaniu skutkom suszy, o których mowa w art. 184 ust. 2 pkt 4 ustawy; wstępnej ocenie ryzyka powodziowego, obejmujące zawartość tej wstępnej oceny; mapach zagrożenia powodziowego, obejmujące bazę danych przestrzennych oraz wersje kartograficzne, o których mowa w przepisach wydanych na podstawie art. 174 ustawy; mapach ryzyka powodziowego, obejmujące bazę danych przestrzennych oraz wersje kartograficzne, o których mowa w przepisach wydanych na podstawie art. 174 ustawy; programie ochrony wód morskich, obejmujące: wykaz działań zawartych w programie ochrony wód morskich, z uwzględnieniem sposobu osiągania ustanowionych celów środowiskowych dla wód morskich, przebieg granic obszarów podlegających ocenie stanu środowiska na wodach morskich; urządzeniach melioracji wodnych oraz zmeliorowanych gruntach, obejmujące dane zawarte w ewidencji urządzeń melioracji wodnych oraz zmeliorowanych gruntów."
+    },
+    {
+      "provision_ref": "par3p1la",
+      "section": "3",
+      "title": "§ 3 pkt 1 lit. a",
+      "content": "W SIGW gromadzi się informacje o: sieci hydrograficznej, zawartej na Mapie Podziału Hydrograficznego Polski w skali 1: 10 000, obejmujące: cieki i odcinki cieków, zawierające: - nazwę cieku, - lokalizację cieku albo odcinka cieku, - długość cieku albo odcinka cieku, - powierzchnię cieków o szerokości koryta powyżej 30 m, - identyfikator hydrologiczny cieku albo cieku i odcinka cieku,"
+    },
+    {
+      "provision_ref": "par3p1lb",
+      "section": "3",
+      "title": "§ 3 pkt 1 lit. b",
+      "content": "W SIGW gromadzi się informacje o: sieci hydrograficznej, zawartej na Mapie Podziału Hydrograficznego Polski w skali 1: 10 000, obejmujące: węzły na ciekach, zawierające: - lokalizację węzła cieku, - typ zmiany charakterystyki cieku,"
+    },
+    {
+      "provision_ref": "par3p1lc",
+      "section": "3",
+      "title": "§ 3 pkt 1 lit. c",
+      "content": "W SIGW gromadzi się informacje o: sieci hydrograficznej, zawartej na Mapie Podziału Hydrograficznego Polski w skali 1: 10 000, obejmujące: jeziora i inne zbiorniki wodne, zawierające: - nazwę jeziora albo innego zbiornika wodnego, - granicę jeziora albo innego zbiornika wodnego, - powierzchnię jeziora albo innego zbiornika wodnego, - obwód jeziora albo innego zbiornika wodnego, - identyfikator hydrologiczny jeziora albo innego zbiornika wodnego;"
+    },
+    {
+      "provision_ref": "par3p2la",
+      "section": "3",
+      "title": "§ 3 pkt 2 lit. a",
+      "content": "W SIGW gromadzi się informacje o: przebiegu granic i obszarach zlewni, obejmujące: zlewnie elementarne i zlewnie hierarchiczne poszczególnych poziomów, zawierające: - nazwę zlewni, - granicę zlewni, - powierzchnię zlewni, - obwód zlewni, - identyfikator hydrologiczny zlewni,"
+    },
+    {
+      "provision_ref": "par3p2lb",
+      "section": "3",
+      "title": "§ 3 pkt 2 lit. b",
+      "content": "W SIGW gromadzi się informacje o: przebiegu granic i obszarach zlewni, obejmujące: działy wodne, zawierające: - długość działu wodnego, - rząd podziału hydrograficznego, - podział działu wodnego na typ naturalny, brzeg morza albo zalewu, - sposób wyznaczenia działu wodnego, - lokalizację działu wodnego,"
+    },
+    {
+      "provision_ref": "par3p2lc",
+      "section": "3",
+      "title": "§ 3 pkt 2 lit. c",
+      "content": "W SIGW gromadzi się informacje o: przebiegu granic i obszarach zlewni, obejmujące: węzły na działach wodnych, zawierające: - lokalizację węzła działu wodnego, - typ zmiany charakterystyki działu wodnego;"
+    },
+    {
+      "provision_ref": "par3p3la",
+      "section": "3",
+      "title": "§ 3 pkt 3 lit. a",
+      "content": "W SIGW gromadzi się informacje o: obszarach dorzeczy, regionach wodnych i jednostkach organizacyjnych Państwowego Gospodarstwa Wodnego Wody Polskie, zwanego dalej „Wodami Polskimi”, obejmujące: obszary dorzeczy, zawierające: - nazwę obszaru dorzecza, - kod obszaru dorzecza, - granicę obszaru dorzecza,"
+    },
+    {
+      "provision_ref": "par3p3lb",
+      "section": "3",
+      "title": "§ 3 pkt 3 lit. b",
+      "content": "W SIGW gromadzi się informacje o: obszarach dorzeczy, regionach wodnych i jednostkach organizacyjnych Państwowego Gospodarstwa Wodnego Wody Polskie, zwanego dalej „Wodami Polskimi”, obejmujące: regiony wodne, zawierające: - nazwę regionu wodnego, - kod regionu wodnego, - granicę regionu wodnego,"
+    },
+    {
+      "provision_ref": "par3p3lc",
+      "section": "3",
+      "title": "§ 3 pkt 3 lit. c",
+      "content": "W SIGW gromadzi się informacje o: obszarach dorzeczy, regionach wodnych i jednostkach organizacyjnych Państwowego Gospodarstwa Wodnego Wody Polskie, zwanego dalej „Wodami Polskimi”, obejmujące: regionalne zarządy gospodarki wodnej, zwane dalej „rzgw”, zawierające: - nazwę rzgw, - obszar działalności rzgw, - siedzibę rzgw,"
+    },
+    {
+      "provision_ref": "par3p3ld",
+      "section": "3",
+      "title": "§ 3 pkt 3 lit. d",
+      "content": "W SIGW gromadzi się informacje o: obszarach dorzeczy, regionach wodnych i jednostkach organizacyjnych Państwowego Gospodarstwa Wodnego Wody Polskie, zwanego dalej „Wodami Polskimi”, obejmujące: zarządy zlewni, zawierające: - nazwę zarządu zlewni, - nazwę właściwego miejscowo rzgw, - obszar działalności zarządu zlewni, - siedzibę zarządu zlewni,"
+    },
+    {
+      "provision_ref": "par3p3le",
+      "section": "3",
+      "title": "§ 3 pkt 3 lit. e",
+      "content": "W SIGW gromadzi się informacje o: obszarach dorzeczy, regionach wodnych i jednostkach organizacyjnych Państwowego Gospodarstwa Wodnego Wody Polskie, zwanego dalej „Wodami Polskimi”, obejmujące: nadzory wodne, zawierające: - nazwę nadzoru wodnego, - nazwę właściwego miejscowo zarządu zlewni, - nazwę właściwego miejscowo rzgw, - obszar działalności nadzoru wodnego, - siedzibę nadzoru wodnego;"
+    },
+    {
+      "provision_ref": "par3p4la",
+      "section": "3",
+      "title": "§ 3 pkt 4 lit. a",
+      "content": "W SIGW gromadzi się informacje o: hydrologicznych i meteorologicznych punktach, stacjach i posterunkach pomiarowych, obejmujące: stacje synoptyczne, zawierające: - nazwę stacji synoptycznej, - kod stacji synoptycznej, - datę założenia stacji synoptycznej, - datę likwidacji stacji synoptycznej, - opis zmiany stacji synoptycznej, - lokalizację stacji synoptycznej,"
+    },
+    {
+      "provision_ref": "par3p4lb",
+      "section": "3",
+      "title": "§ 3 pkt 4 lit. b",
+      "content": "W SIGW gromadzi się informacje o: hydrologicznych i meteorologicznych punktach, stacjach i posterunkach pomiarowych, obejmujące: stacje klimatologiczne, zawierające: - nazwę stacji klimatologicznej, - kod stacji klimatologicznej, - datę założenia stacji klimatologicznej, - datę likwidacji stacji klimatologicznej, - opis zmiany stacji klimatologicznej, - lokalizację stacji klimatologicznej,"
+    },
+    {
+      "provision_ref": "par3p4lc",
+      "section": "3",
+      "title": "§ 3 pkt 4 lit. c",
+      "content": "W SIGW gromadzi się informacje o: hydrologicznych i meteorologicznych punktach, stacjach i posterunkach pomiarowych, obejmujące: stacje opadowe, zawierające: - nazwę stacji opadowej, - kod stacji opadowej, - datę założenia stacji opadowej, - datę likwidacji stacji opadowej, - opis zmiany stacji opadowej, - lokalizację stacji opadowej,"
+    },
+    {
+      "provision_ref": "par3p4ld",
+      "section": "3",
+      "title": "§ 3 pkt 4 lit. d",
+      "content": "W SIGW gromadzi się informacje o: hydrologicznych i meteorologicznych punktach, stacjach i posterunkach pomiarowych, obejmujące: stacje wodowskazowe oraz stanowiska obserwacyjne, zawierające: - nazwę stacji wodowskazowej albo stanowiska obserwacyjnego, - kod stacji wodowskazowej albo stanowiska obserwacyjnego, - rząd stacji wodowskazowej, - nazwę cieku, - identyfikator hydrologiczny cieku, - rzędną zera wodowskazu na stacji wodowskazowej, - wysokościowy układ odniesienia rzędnej zera wodowskazu na stacji wodowskazowej, - stan ostrzegawczy określony dla stacji wodowskazowej, - stan alarmowy określony dla stacji wodowskazowej, - datę założenia stacji wodowskazowej albo stanowiska obserwacyjnego, - datę likwidacji stacji wodowskazowej albo stanowiska obserwacyjnego, - opis zmiany stacji wodowskazowej albo stanowiska obserwacyjnego, - lokalizację stacji wodowskazowej albo stanowiska obserwacyjnego;"
+    },
+    {
+      "provision_ref": "par3p5la",
+      "section": "3",
+      "title": "§ 3 pkt 5 lit. a",
+      "content": "W SIGW gromadzi się informacje o: sieci obserwacyjno-badawczej wód podziemnych, składającej się z punktów monitoringu stanu ilościowego wód podziemnych, punktów monitoringu stanu chemicznego wód podziemnych oraz punktów monitoringu badawczego wód podziemnych, zwanych dalej „punktami monitoringu wód podziemnych”, obejmujące: nazwę punktu monitoringu wód podziemnych,"
+    },
+    {
+      "provision_ref": "par3p5lb",
+      "section": "3",
+      "title": "§ 3 pkt 5 lit. b",
+      "content": "W SIGW gromadzi się informacje o: sieci obserwacyjno-badawczej wód podziemnych, składającej się z punktów monitoringu stanu ilościowego wód podziemnych, punktów monitoringu stanu chemicznego wód podziemnych oraz punktów monitoringu badawczego wód podziemnych, zwanych dalej „punktami monitoringu wód podziemnych”, obejmujące: kod punktu monitoringu wód podziemnych,"
+    },
+    {
+      "provision_ref": "par3p5lc",
+      "section": "3",
+      "title": "§ 3 pkt 5 lit. c",
+      "content": "W SIGW gromadzi się informacje o: sieci obserwacyjno-badawczej wód podziemnych, składającej się z punktów monitoringu stanu ilościowego wód podziemnych, punktów monitoringu stanu chemicznego wód podziemnych oraz punktów monitoringu badawczego wód podziemnych, zwanych dalej „punktami monitoringu wód podziemnych”, obejmujące: kod jednolitej części wód podziemnych, na której jest zlokalizowany punkt monitoringu wód podziemnych,"
+    },
+    {
+      "provision_ref": "par3p5ld",
+      "section": "3",
+      "title": "§ 3 pkt 5 lit. d",
+      "content": "W SIGW gromadzi się informacje o: sieci obserwacyjno-badawczej wód podziemnych, składającej się z punktów monitoringu stanu ilościowego wód podziemnych, punktów monitoringu stanu chemicznego wód podziemnych oraz punktów monitoringu badawczego wód podziemnych, zwanych dalej „punktami monitoringu wód podziemnych”, obejmujące: datę ustanowienia punktu monitoringu wód podziemnych,"
+    },
+    {
+      "provision_ref": "par3p5le",
+      "section": "3",
+      "title": "§ 3 pkt 5 lit. e",
+      "content": "W SIGW gromadzi się informacje o: sieci obserwacyjno-badawczej wód podziemnych, składającej się z punktów monitoringu stanu ilościowego wód podziemnych, punktów monitoringu stanu chemicznego wód podziemnych oraz punktów monitoringu badawczego wód podziemnych, zwanych dalej „punktami monitoringu wód podziemnych”, obejmujące: datę wygaszenia punktu monitoringu wód podziemnych,"
+    },
+    {
+      "provision_ref": "par3p5lf",
+      "section": "3",
+      "title": "§ 3 pkt 5 lit. f",
+      "content": "W SIGW gromadzi się informacje o: sieci obserwacyjno-badawczej wód podziemnych, składającej się z punktów monitoringu stanu ilościowego wód podziemnych, punktów monitoringu stanu chemicznego wód podziemnych oraz punktów monitoringu badawczego wód podziemnych, zwanych dalej „punktami monitoringu wód podziemnych”, obejmujące: kod wygaszonego punktu monitoringu wód podziemnych, zastępowanego przez dany punkt monitoringu wód podziemnych,"
+    },
+    {
+      "provision_ref": "par3p5lg",
+      "section": "3",
+      "title": "§ 3 pkt 5 lit. g",
+      "content": "W SIGW gromadzi się informacje o: sieci obserwacyjno-badawczej wód podziemnych, składającej się z punktów monitoringu stanu ilościowego wód podziemnych, punktów monitoringu stanu chemicznego wód podziemnych oraz punktów monitoringu badawczego wód podziemnych, zwanych dalej „punktami monitoringu wód podziemnych”, obejmujące: kod punktu monitoringu wód podziemnych, zastępującego dany punkt monitoringu wód podziemnych,"
+    },
+    {
+      "provision_ref": "par3p5lh",
+      "section": "3",
+      "title": "§ 3 pkt 5 lit. h",
+      "content": "W SIGW gromadzi się informacje o: sieci obserwacyjno-badawczej wód podziemnych, składającej się z punktów monitoringu stanu ilościowego wód podziemnych, punktów monitoringu stanu chemicznego wód podziemnych oraz punktów monitoringu badawczego wód podziemnych, zwanych dalej „punktami monitoringu wód podziemnych”, obejmujące: rodzaje monitoringu wód podziemnych realizowanego w punkcie monitoringu wód podziemnych, ze wskazaniem roku ich realizacji,"
+    },
+    {
+      "provision_ref": "par3p5li",
+      "section": "3",
+      "title": "§ 3 pkt 5 lit. i",
+      "content": "W SIGW gromadzi się informacje o: sieci obserwacyjno-badawczej wód podziemnych, składającej się z punktów monitoringu stanu ilościowego wód podziemnych, punktów monitoringu stanu chemicznego wód podziemnych oraz punktów monitoringu badawczego wód podziemnych, zwanych dalej „punktami monitoringu wód podziemnych”, obejmujące: lokalizację punktu monitoringu wód podziemnych;"
+    },
+    {
+      "provision_ref": "par3p6la",
+      "section": "3",
+      "title": "§ 3 pkt 6 lit. a",
+      "content": "W SIGW gromadzi się informacje o: ilości i jakości zasobów wód podziemnych, w tym dostępnych zasobów wód podziemnych, oraz głównych i lokalnych zbiornikach wód podziemnych, obejmujące: wyniki pomiarów zwierciadła wód podziemnych i wydajności źródeł będących wypływem wód podziemnych na powierzchnię ziemi w punktach monitoringu wód podziemnych,"
+    },
+    {
+      "provision_ref": "par3p6lb",
+      "section": "3",
+      "title": "§ 3 pkt 6 lit. b",
+      "content": "W SIGW gromadzi się informacje o: ilości i jakości zasobów wód podziemnych, w tym dostępnych zasobów wód podziemnych, oraz głównych i lokalnych zbiornikach wód podziemnych, obejmujące: wyniki pomiarów wskaźników stanu chemicznego jednolitych części wód podziemnych w punktach monitoringu wód podziemnych,"
+    },
+    {
+      "provision_ref": "par3p6lc",
+      "section": "3",
+      "title": "§ 3 pkt 6 lit. c",
+      "content": "W SIGW gromadzi się informacje o: ilości i jakości zasobów wód podziemnych, w tym dostępnych zasobów wód podziemnych, oraz głównych i lokalnych zbiornikach wód podziemnych, obejmujące: wyniki klasyfikacji wskaźników stanu chemicznego jednolitych części wód podziemnych w punktach monitoringu wód podziemnych,"
+    },
+    {
+      "provision_ref": "par3p6ld",
+      "section": "3",
+      "title": "§ 3 pkt 6 lit. d",
+      "content": "W SIGW gromadzi się informacje o: ilości i jakości zasobów wód podziemnych, w tym dostępnych zasobów wód podziemnych, oraz głównych i lokalnych zbiornikach wód podziemnych, obejmujące: wyniki oceny stanu jednolitych części wód podziemnych, wraz z klasyfikacją stanu chemicznego i ilościowego, o których mowa w przepisach wydanych na podstawie art. 53 ust. 1 ustawy z dnia 20 lipca 2017 r. - Prawo wodne , zwanej dalej „ustawą”, dokonanych zgodnie z przepisami art. 349 ust. 11 pkt 2, 4 i 5 ustawy, w podziale na jednolite części wód podziemnych,"
+    },
+    {
+      "provision_ref": "par3p6le",
+      "section": "3",
+      "title": "§ 3 pkt 6 lit. e",
+      "content": "W SIGW gromadzi się informacje o: ilości i jakości zasobów wód podziemnych, w tym dostępnych zasobów wód podziemnych, oraz głównych i lokalnych zbiornikach wód podziemnych, obejmujące: obszary bilansowe wód podziemnych, zawierające: - nazwę obszaru bilansowego wód podziemnych, - kod obszaru bilansowego wód podziemnych, - granicę obszaru bilansowego wód podziemnych,"
+    },
+    {
+      "provision_ref": "par3p6lf",
+      "section": "3",
+      "title": "§ 3 pkt 6 lit. f",
+      "content": "W SIGW gromadzi się informacje o: ilości i jakości zasobów wód podziemnych, w tym dostępnych zasobów wód podziemnych, oraz głównych i lokalnych zbiornikach wód podziemnych, obejmujące: rejony wodnogospodarcze wód podziemnych, zawierające: - nazwę rejonu wodnogospodarczego wód podziemnych, - kod rejonu wodnogospodarczego wód podziemnych, - granicę rejonu wodnogospodarczego wód podziemnych,"
+    },
+    {
+      "provision_ref": "par3p6lg",
+      "section": "3",
+      "title": "§ 3 pkt 6 lit. g",
+      "content": "W SIGW gromadzi się informacje o: ilości i jakości zasobów wód podziemnych, w tym dostępnych zasobów wód podziemnych, oraz głównych i lokalnych zbiornikach wód podziemnych, obejmujące: zasoby dyspozycyjne wód podziemnych w obszarach bilansowych tych wód, zawierające: - nazwę obszaru bilansowego wód podziemnych, - kod obszaru bilansowego wód podziemnych, - stan zasobów dyspozycyjnych wód podziemnych określony dla obszaru bilansowego na dzień 31 grudnia roku poprzedniego w m 3 /h,"
+    },
+    {
+      "provision_ref": "par3p6lh",
+      "section": "3",
+      "title": "§ 3 pkt 6 lit. h",
+      "content": "W SIGW gromadzi się informacje o: ilości i jakości zasobów wód podziemnych, w tym dostępnych zasobów wód podziemnych, oraz głównych i lokalnych zbiornikach wód podziemnych, obejmujące: zasoby eksploatacyjne wód podziemnych, zawierające: - nazwę województwa, - stan zasobów eksploatacyjnych na dzień 31 grudnia roku poprzedniego w m 3 /h, - przyrost zasobów eksploatacyjnych w stosunku do roku poprzedniego w m 3 /h, - sumaryczne podsumowanie stanu zasobów eksploatacyjnych dla obszaru kraju w m 3 /h,"
+    },
+    {
+      "provision_ref": "par3p6li",
+      "section": "3",
+      "title": "§ 3 pkt 6 lit. i",
+      "content": "W SIGW gromadzi się informacje o: ilości i jakości zasobów wód podziemnych, w tym dostępnych zasobów wód podziemnych, oraz głównych i lokalnych zbiornikach wód podziemnych, obejmujące: główne zbiorniki wód podziemnych, zawierające: - nazwę głównego zbiornika wód podziemnych, - kod głównego zbiornika wód podziemnych, - granicę głównego zbiornika wód podziemnych,"
+    },
+    {
+      "provision_ref": "par3p6lj",
+      "section": "3",
+      "title": "§ 3 pkt 6 lit. j",
+      "content": "W SIGW gromadzi się informacje o: ilości i jakości zasobów wód podziemnych, w tym dostępnych zasobów wód podziemnych, oraz głównych i lokalnych zbiornikach wód podziemnych, obejmujące: lokalne zbiorniki wód podziemnych, zawierające: - nazwę lokalnego zbiornika wód podziemnych, - kod lokalnego zbiornika wód podziemnych, - granicę lokalnego zbiornika wód podziemnych;"
+    },
+    {
+      "provision_ref": "par3p7la",
+      "section": "3",
+      "title": "§ 3 pkt 7 lit. a",
+      "content": "W SIGW gromadzi się informacje o: sieci monitoringu jednolitych części wód powierzchniowych, składającej się z punktów pomiarowo-kontrolnych monitoringu jednolitych części wód powierzchniowych, zwanych dalej „punktami pomiarowymi wód powierzchniowych”, obejmujące: nazwę punktu pomiarowego wód powierzchniowych,"
+    },
+    {
+      "provision_ref": "par3p7lb",
+      "section": "3",
+      "title": "§ 3 pkt 7 lit. b",
+      "content": "W SIGW gromadzi się informacje o: sieci monitoringu jednolitych części wód powierzchniowych, składającej się z punktów pomiarowo-kontrolnych monitoringu jednolitych części wód powierzchniowych, zwanych dalej „punktami pomiarowymi wód powierzchniowych”, obejmujące: kod punktu pomiarowego wód powierzchniowych,"
+    },
+    {
+      "provision_ref": "par3p7lc",
+      "section": "3",
+      "title": "§ 3 pkt 7 lit. c",
+      "content": "W SIGW gromadzi się informacje o: sieci monitoringu jednolitych części wód powierzchniowych, składającej się z punktów pomiarowo-kontrolnych monitoringu jednolitych części wód powierzchniowych, zwanych dalej „punktami pomiarowymi wód powierzchniowych”, obejmujące: kod jednolitej części wód powierzchniowych, na której jest zlokalizowany punkt pomiarowy wód powierzchniowych,"
+    },
+    {
+      "provision_ref": "par3p7ld",
+      "section": "3",
+      "title": "§ 3 pkt 7 lit. d",
+      "content": "W SIGW gromadzi się informacje o: sieci monitoringu jednolitych części wód powierzchniowych, składającej się z punktów pomiarowo-kontrolnych monitoringu jednolitych części wód powierzchniowych, zwanych dalej „punktami pomiarowymi wód powierzchniowych”, obejmujące: rodzaj punktu pomiarowego wód powierzchniowych,"
+    },
+    {
+      "provision_ref": "par3p7le",
+      "section": "3",
+      "title": "§ 3 pkt 7 lit. e",
+      "content": "W SIGW gromadzi się informacje o: sieci monitoringu jednolitych części wód powierzchniowych, składającej się z punktów pomiarowo-kontrolnych monitoringu jednolitych części wód powierzchniowych, zwanych dalej „punktami pomiarowymi wód powierzchniowych”, obejmujące: datę ustanowienia punktu pomiarowego wód powierzchniowych,"
+    },
+    {
+      "provision_ref": "par3p7lf",
+      "section": "3",
+      "title": "§ 3 pkt 7 lit. f",
+      "content": "W SIGW gromadzi się informacje o: sieci monitoringu jednolitych części wód powierzchniowych, składającej się z punktów pomiarowo-kontrolnych monitoringu jednolitych części wód powierzchniowych, zwanych dalej „punktami pomiarowymi wód powierzchniowych”, obejmujące: datę wygaszenia punktu pomiarowego wód powierzchniowych,"
+    },
+    {
+      "provision_ref": "par3p7lg",
+      "section": "3",
+      "title": "§ 3 pkt 7 lit. g",
+      "content": "W SIGW gromadzi się informacje o: sieci monitoringu jednolitych części wód powierzchniowych, składającej się z punktów pomiarowo-kontrolnych monitoringu jednolitych części wód powierzchniowych, zwanych dalej „punktami pomiarowymi wód powierzchniowych”, obejmujące: kod wygaszonego punktu pomiarowego wód powierzchniowych, zastępowanego przez dany punkt pomiarowy wód powierzchniowych,"
+    },
+    {
+      "provision_ref": "par3p7lh",
+      "section": "3",
+      "title": "§ 3 pkt 7 lit. h",
+      "content": "W SIGW gromadzi się informacje o: sieci monitoringu jednolitych części wód powierzchniowych, składającej się z punktów pomiarowo-kontrolnych monitoringu jednolitych części wód powierzchniowych, zwanych dalej „punktami pomiarowymi wód powierzchniowych”, obejmujące: kod punktu pomiarowego wód powierzchniowych, zastępującego dany punkt pomiarowy wód powierzchniowych,"
+    },
+    {
+      "provision_ref": "par3p7li",
+      "section": "3",
+      "title": "§ 3 pkt 7 lit. i",
+      "content": "W SIGW gromadzi się informacje o: sieci monitoringu jednolitych części wód powierzchniowych, składającej się z punktów pomiarowo-kontrolnych monitoringu jednolitych części wód powierzchniowych, zwanych dalej „punktami pomiarowymi wód powierzchniowych”, obejmujące: rodzaje monitoringu wód powierzchniowych realizowanego w punkcie pomiarowym wód powierzchniowych, ze wskazaniem roku ich realizacji,"
+    },
+    {
+      "provision_ref": "par3p7lj",
+      "section": "3",
+      "title": "§ 3 pkt 7 lit. j",
+      "content": "W SIGW gromadzi się informacje o: sieci monitoringu jednolitych części wód powierzchniowych, składającej się z punktów pomiarowo-kontrolnych monitoringu jednolitych części wód powierzchniowych, zwanych dalej „punktami pomiarowymi wód powierzchniowych”, obejmujące: lokalizację punktu pomiarowego wód powierzchniowych;"
+    },
+    {
+      "provision_ref": "par3p8la",
+      "section": "3",
+      "title": "§ 3 pkt 8 lit. a",
+      "content": "W SIGW gromadzi się informacje o: ilości i jakości zasobów wód powierzchniowych, w tym o stanie ekologicznym, potencjale ekologicznym, stanie chemicznym jednolitych części wód powierzchniowych oraz stanie wód powierzchniowych, obejmujące: dobowe stany wód powierzchniowych w stacjach wodowskazowych oraz stanowiskach obserwacyjnych,"
+    },
+    {
+      "provision_ref": "par3p8lb",
+      "section": "3",
+      "title": "§ 3 pkt 8 lit. b",
+      "content": "W SIGW gromadzi się informacje o: ilości i jakości zasobów wód powierzchniowych, w tym o stanie ekologicznym, potencjale ekologicznym, stanie chemicznym jednolitych części wód powierzchniowych oraz stanie wód powierzchniowych, obejmujące: dobowe przepływy wód powierzchniowych w stacjach wodowskazowych oraz stanowiskach obserwacyjnych,"
+    },
+    {
+      "provision_ref": "par3p8lc",
+      "section": "3",
+      "title": "§ 3 pkt 8 lit. c",
+      "content": "W SIGW gromadzi się informacje o: ilości i jakości zasobów wód powierzchniowych, w tym o stanie ekologicznym, potencjale ekologicznym, stanie chemicznym jednolitych części wód powierzchniowych oraz stanie wód powierzchniowych, obejmujące: średnie roczne stany wód powierzchniowych z roku hydrologicznego w stacjach wodowskazowych oraz stanowiskach obserwacyjnych,"
+    },
+    {
+      "provision_ref": "par3p8ld",
+      "section": "3",
+      "title": "§ 3 pkt 8 lit. d",
+      "content": "W SIGW gromadzi się informacje o: ilości i jakości zasobów wód powierzchniowych, w tym o stanie ekologicznym, potencjale ekologicznym, stanie chemicznym jednolitych części wód powierzchniowych oraz stanie wód powierzchniowych, obejmujące: średnie stany wód powierzchniowych z półrocza zimowego w stacjach wodowskazowych oraz stanowiskach obserwacyjnych,"
+    },
+    {
+      "provision_ref": "par3p8le",
+      "section": "3",
+      "title": "§ 3 pkt 8 lit. e",
+      "content": "W SIGW gromadzi się informacje o: ilości i jakości zasobów wód powierzchniowych, w tym o stanie ekologicznym, potencjale ekologicznym, stanie chemicznym jednolitych części wód powierzchniowych oraz stanie wód powierzchniowych, obejmujące: średnie stany wód powierzchniowych z półrocza letniego w stacjach wodowskazowych oraz stanowiskach obserwacyjnych,"
+    },
+    {
+      "provision_ref": "par3p8lf",
+      "section": "3",
+      "title": "§ 3 pkt 8 lit. f",
+      "content": "W SIGW gromadzi się informacje o: ilości i jakości zasobów wód powierzchniowych, w tym o stanie ekologicznym, potencjale ekologicznym, stanie chemicznym jednolitych części wód powierzchniowych oraz stanie wód powierzchniowych, obejmujące: minimalne stany wód powierzchniowych z półrocza zimowego w stacjach wodowskazowych oraz stanowiskach obserwacyjnych,"
+    },
+    {
+      "provision_ref": "par3p8lg",
+      "section": "3",
+      "title": "§ 3 pkt 8 lit. g",
+      "content": "W SIGW gromadzi się informacje o: ilości i jakości zasobów wód powierzchniowych, w tym o stanie ekologicznym, potencjale ekologicznym, stanie chemicznym jednolitych części wód powierzchniowych oraz stanie wód powierzchniowych, obejmujące: minimalne stany wód powierzchniowych z półrocza letniego w stacjach wodowskazowych oraz stanowiskach obserwacyjnych,"
+    },
+    {
+      "provision_ref": "par3p8lh",
+      "section": "3",
+      "title": "§ 3 pkt 8 lit. h",
+      "content": "W SIGW gromadzi się informacje o: ilości i jakości zasobów wód powierzchniowych, w tym o stanie ekologicznym, potencjale ekologicznym, stanie chemicznym jednolitych części wód powierzchniowych oraz stanie wód powierzchniowych, obejmujące: maksymalne stany wód powierzchniowych z półrocza zimowego w stacjach wodowskazowych oraz stanowiskach obserwacyjnych,"
+    },
+    {
+      "provision_ref": "par3p8li",
+      "section": "3",
+      "title": "§ 3 pkt 8 lit. i",
+      "content": "W SIGW gromadzi się informacje o: ilości i jakości zasobów wód powierzchniowych, w tym o stanie ekologicznym, potencjale ekologicznym, stanie chemicznym jednolitych części wód powierzchniowych oraz stanie wód powierzchniowych, obejmujące: maksymalne stany wód powierzchniowych z półrocza letniego w stacjach wodowskazowych oraz stanowiskach obserwacyjnych,"
+    },
+    {
+      "provision_ref": "par3p8lj",
+      "section": "3",
+      "title": "§ 3 pkt 8 lit. j",
+      "content": "W SIGW gromadzi się informacje o: ilości i jakości zasobów wód powierzchniowych, w tym o stanie ekologicznym, potencjale ekologicznym, stanie chemicznym jednolitych części wód powierzchniowych oraz stanie wód powierzchniowych, obejmujące: średnie roczne przepływy wód powierzchniowych z roku hydrologicznego w stacjach wodowskazowych oraz stanowiskach obserwacyjnych,"
+    },
+    {
+      "provision_ref": "par3p8lk",
+      "section": "3",
+      "title": "§ 3 pkt 8 lit. k",
+      "content": "W SIGW gromadzi się informacje o: ilości i jakości zasobów wód powierzchniowych, w tym o stanie ekologicznym, potencjale ekologicznym, stanie chemicznym jednolitych części wód powierzchniowych oraz stanie wód powierzchniowych, obejmujące: średnie przepływy wód powierzchniowych z półrocza zimowego w stacjach wodowskazowych oraz stanowiskach obserwacyjnych,"
+    },
+    {
+      "provision_ref": "par3p8ll",
+      "section": "3",
+      "title": "§ 3 pkt 8 lit. l",
+      "content": "W SIGW gromadzi się informacje o: ilości i jakości zasobów wód powierzchniowych, w tym o stanie ekologicznym, potencjale ekologicznym, stanie chemicznym jednolitych części wód powierzchniowych oraz stanie wód powierzchniowych, obejmujące: średnie przepływy wód powierzchniowych z półrocza letniego w stacjach wodowskazowych oraz stanowiskach obserwacyjnych,"
+    },
+    {
+      "provision_ref": "par3p8lm",
+      "section": "3",
+      "title": "§ 3 pkt 8 lit. m",
+      "content": "W SIGW gromadzi się informacje o: ilości i jakości zasobów wód powierzchniowych, w tym o stanie ekologicznym, potencjale ekologicznym, stanie chemicznym jednolitych części wód powierzchniowych oraz stanie wód powierzchniowych, obejmujące: minimalne przepływy wód powierzchniowych z półrocza zimowego w stacjach wodowskazowych oraz stanowiskach obserwacyjnych,"
+    },
+    {
+      "provision_ref": "par3p8ln",
+      "section": "3",
+      "title": "§ 3 pkt 8 lit. n",
+      "content": "W SIGW gromadzi się informacje o: ilości i jakości zasobów wód powierzchniowych, w tym o stanie ekologicznym, potencjale ekologicznym, stanie chemicznym jednolitych części wód powierzchniowych oraz stanie wód powierzchniowych, obejmujące: minimalne przepływy wód powierzchniowych z półrocza letniego w stacjach wodowskazowych oraz stanowiskach obserwacyjnych,"
+    },
+    {
+      "provision_ref": "par3p8lo",
+      "section": "3",
+      "title": "§ 3 pkt 8 lit. o",
+      "content": "W SIGW gromadzi się informacje o: ilości i jakości zasobów wód powierzchniowych, w tym o stanie ekologicznym, potencjale ekologicznym, stanie chemicznym jednolitych części wód powierzchniowych oraz stanie wód powierzchniowych, obejmujące: maksymalne przepływy wód powierzchniowych z półrocza zimowego w stacjach wodowskazowych oraz stanowiskach obserwacyjnych,"
+    },
+    {
+      "provision_ref": "par3p8lp",
+      "section": "3",
+      "title": "§ 3 pkt 8 lit. p",
+      "content": "W SIGW gromadzi się informacje o: ilości i jakości zasobów wód powierzchniowych, w tym o stanie ekologicznym, potencjale ekologicznym, stanie chemicznym jednolitych części wód powierzchniowych oraz stanie wód powierzchniowych, obejmujące: maksymalne przepływy wód powierzchniowych z półrocza letniego w stacjach wodowskazowych oraz stanowiskach obserwacyjnych,"
+    },
+    {
+      "provision_ref": "par3p8lq",
+      "section": "3",
+      "title": "§ 3 pkt 8 lit. q",
+      "content": "W SIGW gromadzi się informacje o: ilości i jakości zasobów wód powierzchniowych, w tym o stanie ekologicznym, potencjale ekologicznym, stanie chemicznym jednolitych części wód powierzchniowych oraz stanie wód powierzchniowych, obejmujące: wyniki badań elementów biologicznych wód powierzchniowych w punktach pomiarowych wód powierzchniowych,"
+    },
+    {
+      "provision_ref": "par3p8lr",
+      "section": "3",
+      "title": "§ 3 pkt 8 lit. r",
+      "content": "W SIGW gromadzi się informacje o: ilości i jakości zasobów wód powierzchniowych, w tym o stanie ekologicznym, potencjale ekologicznym, stanie chemicznym jednolitych części wód powierzchniowych oraz stanie wód powierzchniowych, obejmujące: wyniki klasyfikacji biologicznych wskaźników jakości jednolitych części wód powierzchniowych w punktach pomiarowych wód powierzchniowych,"
+    },
+    {
+      "provision_ref": "par3p8ls",
+      "section": "3",
+      "title": "§ 3 pkt 8 lit. s",
+      "content": "W SIGW gromadzi się informacje o: ilości i jakości zasobów wód powierzchniowych, w tym o stanie ekologicznym, potencjale ekologicznym, stanie chemicznym jednolitych części wód powierzchniowych oraz stanie wód powierzchniowych, obejmujące: wyniki pomiarów fizykochemicznych i chemicznych wskaźników jednolitych części wód powierzchniowych w punktach pomiarowych wód powierzchniowych,"
+    },
+    {
+      "provision_ref": "par3p8lt",
+      "section": "3",
+      "title": "§ 3 pkt 8 lit. t",
+      "content": "W SIGW gromadzi się informacje o: ilości i jakości zasobów wód powierzchniowych, w tym o stanie ekologicznym, potencjale ekologicznym, stanie chemicznym jednolitych części wód powierzchniowych oraz stanie wód powierzchniowych, obejmujące: wyniki klasyfikacji fizykochemicznych wskaźników jakości jednolitych części wód powierzchniowych w punktach pomiarowych wód powierzchniowych,"
+    },
+    {
+      "provision_ref": "par3p8lu",
+      "section": "3",
+      "title": "§ 3 pkt 8 lit. u",
+      "content": "W SIGW gromadzi się informacje o: ilości i jakości zasobów wód powierzchniowych, w tym o stanie ekologicznym, potencjale ekologicznym, stanie chemicznym jednolitych części wód powierzchniowych oraz stanie wód powierzchniowych, obejmujące: wyniki klasyfikacji chemicznych wskaźników jakości jednolitych części wód powierzchniowych w punktach pomiarowych wód powierzchniowych,"
+    },
+    {
+      "provision_ref": "par3p8lv",
+      "section": "3",
+      "title": "§ 3 pkt 8 lit. v",
+      "content": "W SIGW gromadzi się informacje o: ilości i jakości zasobów wód powierzchniowych, w tym o stanie ekologicznym, potencjale ekologicznym, stanie chemicznym jednolitych części wód powierzchniowych oraz stanie wód powierzchniowych, obejmujące: wyniki klasyfikacji stanu ekologicznego jednolitych części wód powierzchniowych w podziale na jednolite części wód powierzchniowych,"
+    },
+    {
+      "provision_ref": "par3p8lw",
+      "section": "3",
+      "title": "§ 3 pkt 8 lit. w",
+      "content": "W SIGW gromadzi się informacje o: ilości i jakości zasobów wód powierzchniowych, w tym o stanie ekologicznym, potencjale ekologicznym, stanie chemicznym jednolitych części wód powierzchniowych oraz stanie wód powierzchniowych, obejmujące: wyniki klasyfikacji potencjału ekologicznego jednolitych części wód powierzchniowych w podziale na jednolite części wód powierzchniowych,"
+    },
+    {
+      "provision_ref": "par3p8lx",
+      "section": "3",
+      "title": "§ 3 pkt 8 lit. x",
+      "content": "W SIGW gromadzi się informacje o: ilości i jakości zasobów wód powierzchniowych, w tym o stanie ekologicznym, potencjale ekologicznym, stanie chemicznym jednolitych części wód powierzchniowych oraz stanie wód powierzchniowych, obejmujące: wyniki klasyfikacji stanu chemicznego jednolitych części wód powierzchniowych w podziale na jednolite części wód powierzchniowych,"
+    },
+    {
+      "provision_ref": "par3p8ly",
+      "section": "3",
+      "title": "§ 3 pkt 8 lit. y",
+      "content": "W SIGW gromadzi się informacje o: ilości i jakości zasobów wód powierzchniowych, w tym o stanie ekologicznym, potencjale ekologicznym, stanie chemicznym jednolitych części wód powierzchniowych oraz stanie wód powierzchniowych, obejmujące: wyniki oceny stanu jednolitych części wód powierzchniowych, o której mowa w art. 349 ust. 10 ustawy, w podziale na jednolite części wód powierzchniowych;"
+    },
+    {
+      "provision_ref": "par3p9la",
+      "section": "3",
+      "title": "§ 3 pkt 9 lit. a",
+      "content": "W SIGW gromadzi się informacje o: wielkości poboru wód podziemnych i wód powierzchniowych oraz wielkości zrzutów ścieków i wód opadowych lub roztopowych wprowadzanych albo odprowadzanych do wód lub do ziemi, według informacji z pozwoleń wodnoprawnych i pozwoleń zintegrowanych oraz według wskazań przyrządów pomiarowych, obejmujące: wielkości poboru wód podziemnych według informacji z pozwoleń wodnoprawnych i pozwoleń zintegrowanych,"
+    },
+    {
+      "provision_ref": "par3p9lb",
+      "section": "3",
+      "title": "§ 3 pkt 9 lit. b",
+      "content": "W SIGW gromadzi się informacje o: wielkości poboru wód podziemnych i wód powierzchniowych oraz wielkości zrzutów ścieków i wód opadowych lub roztopowych wprowadzanych albo odprowadzanych do wód lub do ziemi, według informacji z pozwoleń wodnoprawnych i pozwoleń zintegrowanych oraz według wskazań przyrządów pomiarowych, obejmujące: wielkości poboru wód podziemnych według wskazań przyrządów pomiarowych,"
+    },
+    {
+      "provision_ref": "par3p9lc",
+      "section": "3",
+      "title": "§ 3 pkt 9 lit. c",
+      "content": "W SIGW gromadzi się informacje o: wielkości poboru wód podziemnych i wód powierzchniowych oraz wielkości zrzutów ścieków i wód opadowych lub roztopowych wprowadzanych albo odprowadzanych do wód lub do ziemi, według informacji z pozwoleń wodnoprawnych i pozwoleń zintegrowanych oraz według wskazań przyrządów pomiarowych, obejmujące: wielkości poboru wód powierzchniowych według informacji z pozwoleń wodnoprawnych i pozwoleń zintegrowanych,"
+    },
+    {
+      "provision_ref": "par3p9ld",
+      "section": "3",
+      "title": "§ 3 pkt 9 lit. d",
+      "content": "W SIGW gromadzi się informacje o: wielkości poboru wód podziemnych i wód powierzchniowych oraz wielkości zrzutów ścieków i wód opadowych lub roztopowych wprowadzanych albo odprowadzanych do wód lub do ziemi, według informacji z pozwoleń wodnoprawnych i pozwoleń zintegrowanych oraz według wskazań przyrządów pomiarowych, obejmujące: wielkości poboru wód powierzchniowych według wskazań przyrządów pomiarowych,"
+    },
+    {
+      "provision_ref": "par3p9le",
+      "section": "3",
+      "title": "§ 3 pkt 9 lit. e",
+      "content": "W SIGW gromadzi się informacje o: wielkości poboru wód podziemnych i wód powierzchniowych oraz wielkości zrzutów ścieków i wód opadowych lub roztopowych wprowadzanych albo odprowadzanych do wód lub do ziemi, według informacji z pozwoleń wodnoprawnych i pozwoleń zintegrowanych oraz według wskazań przyrządów pomiarowych, obejmujące: wielkości zrzutów ścieków i wód opadowych lub roztopowych wprowadzanych albo odprowadzanych do wód lub do ziemi według informacji z pozwoleń wodnoprawnych i pozwoleń zintegrowanych,"
+    },
+    {
+      "provision_ref": "par3p9lf",
+      "section": "3",
+      "title": "§ 3 pkt 9 lit. f",
+      "content": "W SIGW gromadzi się informacje o: wielkości poboru wód podziemnych i wód powierzchniowych oraz wielkości zrzutów ścieków i wód opadowych lub roztopowych wprowadzanych albo odprowadzanych do wód lub do ziemi, według informacji z pozwoleń wodnoprawnych i pozwoleń zintegrowanych oraz według wskazań przyrządów pomiarowych, obejmujące: wielkości zrzutów ścieków i wód opadowych lub roztopowych wprowadzanych albo odprowadzanych do wód lub do ziemi według wskazań przyrządów pomiarowych;"
+    },
+    {
+      "provision_ref": "par3p10la",
+      "section": "3",
+      "title": "§ 3 pkt 10 lit. a",
+      "content": "W SIGW gromadzi się informacje o: lokalizacji źródeł zanieczyszczeń punktowych, z podaniem ich współrzędnych, i źródeł zanieczyszczeń obszarowych, wraz z ich charakterystyką, obejmujące: punkty zrzutu ścieków i wód opadowych lub roztopowych służące do wprowadzania albo odprowadzania do wód lub do ziemi: - ścieków bytowych, - ścieków komunalnych, - ścieków przemysłowych, - wód opadowych lub roztopowych, - ścieków i wód, innych niż wskazane w tiret pierwszym-czwartym,"
+    },
+    {
+      "provision_ref": "par3p10lb",
+      "section": "3",
+      "title": "§ 3 pkt 10 lit. b",
+      "content": "W SIGW gromadzi się informacje o: lokalizacji źródeł zanieczyszczeń punktowych, z podaniem ich współrzędnych, i źródeł zanieczyszczeń obszarowych, wraz z ich charakterystyką, obejmujące: źródła zanieczyszczeń obszarowych: - pochodzenia rolniczego, - wynikających z rolniczego wykorzystania ścieków, - innych niż wskazane w tiret pierwszym i drugim;"
+    },
+    {
+      "provision_ref": "par3p11la",
+      "section": "3",
+      "title": "§ 3 pkt 11 lit. a",
+      "content": "W SIGW gromadzi się informacje o: obwodach rybackich, obejmujące: wykaz obwodów rybackich wraz z opisem ich granic, podstawę prawną ich wyznaczenia oraz wskazanie uprawnionego do rybactwa,"
+    },
+    {
+      "provision_ref": "par3p11lb",
+      "section": "3",
+      "title": "§ 3 pkt 11 lit. b",
+      "content": "W SIGW gromadzi się informacje o: obwodach rybackich, obejmujące: kopie operatów rybackich i kopie opinii uprawnionych jednostek, o których mowa w art. 6a ust. 5 ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym ,"
+    },
+    {
+      "provision_ref": "par3p11lc",
+      "section": "3",
+      "title": "§ 3 pkt 11 lit. c",
+      "content": "W SIGW gromadzi się informacje o: obwodach rybackich, obejmujące: kopie ksiąg gospodarczych prowadzonych dla obwodów rybackich zgodnie z przepisami wydanymi na podstawie art. 4a ust. 2 ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym ,"
+    },
+    {
+      "provision_ref": "par3p11ld",
+      "section": "3",
+      "title": "§ 3 pkt 11 lit. d",
+      "content": "W SIGW gromadzi się informacje o: obwodach rybackich, obejmujące: kopie zestawień rocznych prowadzonych zgodnie z przepisami wydanymi na podstawie art. 4a ust. 2 ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym ,"
+    },
+    {
+      "provision_ref": "par3p11le",
+      "section": "3",
+      "title": "§ 3 pkt 11 lit. e",
+      "content": "W SIGW gromadzi się informacje o: obwodach rybackich, obejmujące: informację przestrzenną obrazującą obwody rybackie, zawierającą: - nazwę obwodu rybackiego, - opis obwodu rybackiego, - granicę obwodu rybackiego,"
+    },
+    {
+      "provision_ref": "par3p11lf",
+      "section": "3",
+      "title": "§ 3 pkt 11 lit. f",
+      "content": "W SIGW gromadzi się informacje o: obwodach rybackich, obejmujące: kopie aktów prawa miejscowego ustanawiających obwody rybackie;"
+    },
+    {
+      "provision_ref": "par3p12la",
+      "section": "3",
+      "title": "§ 3 pkt 12 lit. a",
+      "content": "W SIGW gromadzi się informacje o: profilach wody w kąpieliskach, obejmujące: wykaz profili wody w kąpieliskach,"
+    },
+    {
+      "provision_ref": "par3p12lb",
+      "section": "3",
+      "title": "§ 3 pkt 12 lit. b",
+      "content": "W SIGW gromadzi się informacje o: profilach wody w kąpieliskach, obejmujące: kopie aktualnych profili wody w kąpieliskach;"
+    },
+    {
+      "provision_ref": "par3p13la",
+      "section": "3",
+      "title": "§ 3 pkt 13 lit. a",
+      "content": "W SIGW gromadzi się informacje o: pozwoleniach wodnoprawnych, ocenach wodnoprawnych oraz pozwoleniach zintegrowanych w zakresie poboru wód powierzchniowych lub wód podziemnych oraz wprowadzania ścieków i odprowadzania wód opadowych lub roztopowych do wód lub do ziemi, obejmujące: wykaz pozwoleń wodnoprawnych, ocen wodnoprawnych oraz pozwoleń zintegrowanych,"
+    },
+    {
+      "provision_ref": "par3p13lb",
+      "section": "3",
+      "title": "§ 3 pkt 13 lit. b",
+      "content": "W SIGW gromadzi się informacje o: pozwoleniach wodnoprawnych, ocenach wodnoprawnych oraz pozwoleniach zintegrowanych w zakresie poboru wód powierzchniowych lub wód podziemnych oraz wprowadzania ścieków i odprowadzania wód opadowych lub roztopowych do wód lub do ziemi, obejmujące: kopie pozwoleń wodnoprawnych, ocen wodnoprawnych oraz pozwoleń zintegrowanych,"
+    },
+    {
+      "provision_ref": "par3p13lc",
+      "section": "3",
+      "title": "§ 3 pkt 13 lit. c",
+      "content": "W SIGW gromadzi się informacje o: pozwoleniach wodnoprawnych, ocenach wodnoprawnych oraz pozwoleniach zintegrowanych w zakresie poboru wód powierzchniowych lub wód podziemnych oraz wprowadzania ścieków i odprowadzania wód opadowych lub roztopowych do wód lub do ziemi, obejmujące: ilość i rodzaj substancji szczególnie szkodliwych dla środowiska wodnego określonych w pozwoleniach wodnoprawnych oraz pozwoleniach zintegrowanych;"
+    },
+    {
+      "provision_ref": "par3p14",
+      "section": "3",
+      "title": "§ 3 pkt 14",
+      "content": "W SIGW gromadzi się informacje o: urządzeniach wodnych, obejmujące dane, o których mowa w art. 331 ust. 4 ustawy, oraz ich zmiany;"
+    },
+    {
+      "provision_ref": "par3p15la",
+      "section": "3",
+      "title": "§ 3 pkt 15 lit. a",
+      "content": "W SIGW gromadzi się informacje o: strefach ochronnych ujęć wody i obszarach ochronnych zbiorników wód śródlądowych, obejmujące: w zakresie stref ochronnych ujęć wody: - nazwę strefy ochronnej ujęcia wody, - kod strefy ochronnej ujęcia wody, - granice terenów ochrony bezpośredniej i terenów ochrony pośredniej ujęcia wody, - kopie decyzji ustanawiających strefy ochronne ujęć wody obejmujące wyłącznie teren ochrony bezpośredniej dla stref ustanawianych z urzędu przez właściwy organ Wód Polskich, - kopie aktów prawa miejscowego ustanawiających strefy ochronne ujęć wody obejmujące teren ochrony bezpośredniej i teren ochrony pośredniej dla stref ustanawianych przez wojewodę,"
+    },
+    {
+      "provision_ref": "par3p15lb",
+      "section": "3",
+      "title": "§ 3 pkt 15 lit. b",
+      "content": "W SIGW gromadzi się informacje o: strefach ochronnych ujęć wody i obszarach ochronnych zbiorników wód śródlądowych, obejmujące: w zakresie obszarów ochronnych zbiorników wód śródlądowych: - nazwę obszaru ochronnego zbiornika wód śródlądowych, - granicę obszaru ochronnego zbiornika wód śródlądowych, - kopie aktów prawa miejscowego ustanawiających obszary ochronne zbiorników wód śródlądowych;"
+    },
+    {
+      "provision_ref": "par3p16la",
+      "section": "3",
+      "title": "§ 3 pkt 16 lit. a",
+      "content": "W SIGW gromadzi się informacje o: wynikach badań i oceny wód powierzchniowych wykorzystywanych do zaopatrzenia ludności w wodę przeznaczoną do spożycia przez ludzi, obejmujące: punkty pomiarowe ustanowione na potrzeby oceny jakości wód powierzchniowych wykorzystywanych do zaopatrzenia ludności w wodę przeznaczoną do spożycia przez ludzi, zwane dalej „punktami pomiarowymi wody przeznaczonej do spożycia”, zawierające: - nazwę punktu pomiarowego wody przeznaczonej do spożycia, - kod punktu pomiarowego wody przeznaczonej do spożycia, - kod jednolitej części wód, na której jest zlokalizowany punkt pomiarowy wody przeznaczonej do spożycia, - datę ustanowienia punktu pomiarowego wody przeznaczonej do spożycia, - datę wygaszenia punktu pomiarowego wody przeznaczonej do spożycia, - kod wygaszonego punktu pomiarowego wody przeznaczonej do spożycia, zastępowanego przez dany punkt pomiarowy wody przeznaczonej do spożycia, - kod punktu pomiarowego wody przeznaczonej do spożycia, zastępującego dany punkt pomiarowy wody przeznaczonej do spożycia, - lokalizację punktu pomiarowego wody przeznaczonej do spożycia,"
+    },
+    {
+      "provision_ref": "par3p16lb",
+      "section": "3",
+      "title": "§ 3 pkt 16 lit. b",
+      "content": "W SIGW gromadzi się informacje o: wynikach badań i oceny wód powierzchniowych wykorzystywanych do zaopatrzenia ludności w wodę przeznaczoną do spożycia przez ludzi, obejmujące: wyniki pomiarów w punktach pomiarowych wody przeznaczonej do spożycia,"
+    },
+    {
+      "provision_ref": "par3p16lc",
+      "section": "3",
+      "title": "§ 3 pkt 16 lit. c",
+      "content": "W SIGW gromadzi się informacje o: wynikach badań i oceny wód powierzchniowych wykorzystywanych do zaopatrzenia ludności w wodę przeznaczoną do spożycia przez ludzi, obejmujące: wyniki oceny jakości wód powierzchniowych wykorzystywanych do zaopatrzenia ludności w wodę przeznaczoną do spożycia przez ludzi;"
+    },
+    {
+      "provision_ref": "par3p17",
+      "section": "3",
+      "title": "§ 3 pkt 17",
+      "content": "W SIGW gromadzi się informacje o: ocenach obszarowych jakości wody przeznaczonej do spożycia przez ludzi, o których mowa w art. 349 ust. 16 pkt 1 ustawy, obejmujące kopie tych ocen;"
+    },
+    {
+      "provision_ref": "par3p18la",
+      "section": "3",
+      "title": "§ 3 pkt 18 lit. a",
+      "content": "W SIGW gromadzi się informacje o: ocenie jakości wody w kąpielisku, o której mowa w art. 344 ust. 1 pkt 1 ustawy, obejmujące: punkty pobierania próbek wody do badań ustanowione na potrzeby tej oceny, zawierające: - lokalizację punktu pobierania próbek wody, - nazwę kąpieliska, - kod kąpieliska,"
+    },
+    {
+      "provision_ref": "par3p18lb",
+      "section": "3",
+      "title": "§ 3 pkt 18 lit. b",
+      "content": "W SIGW gromadzi się informacje o: ocenie jakości wody w kąpielisku, o której mowa w art. 344 ust. 1 pkt 1 ustawy, obejmujące: wyniki klasyfikacji jakości wody w kąpielisku w punktach pobierania próbek wody,"
+    },
+    {
+      "provision_ref": "par3p18lc",
+      "section": "3",
+      "title": "§ 3 pkt 18 lit. c",
+      "content": "W SIGW gromadzi się informacje o: ocenie jakości wody w kąpielisku, o której mowa w art. 344 ust. 1 pkt 1 ustawy, obejmujące: kopię oceny jakości wody w kąpielisku, o której mowa w art. 344 ust. 1 pkt 1 lit. b ustawy;"
+    },
+    {
+      "provision_ref": "par3p19la",
+      "section": "3",
+      "title": "§ 3 pkt 19 lit. a",
+      "content": "W SIGW gromadzi się informacje o: spółkach wodnych i związkach spółek wodnych, obejmujące: dane dotyczące spółek wodnych, o których mowa w art. 449 ust. 2 ustawy, oraz ich zmiany,"
+    },
+    {
+      "provision_ref": "par3p19lb",
+      "section": "3",
+      "title": "§ 3 pkt 19 lit. b",
+      "content": "W SIGW gromadzi się informacje o: spółkach wodnych i związkach spółek wodnych, obejmujące: kopie zatwierdzonych statutów spółek wodnych,"
+    },
+    {
+      "provision_ref": "par3p19lc",
+      "section": "3",
+      "title": "§ 3 pkt 19 lit. c",
+      "content": "W SIGW gromadzi się informacje o: spółkach wodnych i związkach spółek wodnych, obejmujące: dane dotyczące związków spółek wodnych, o których mowa odpowiednio w art. 449 ust. 2 ustawy, oraz ich zmiany,"
+    },
+    {
+      "provision_ref": "par3p19ld",
+      "section": "3",
+      "title": "§ 3 pkt 19 lit. d",
+      "content": "W SIGW gromadzi się informacje o: spółkach wodnych i związkach spółek wodnych, obejmujące: kopie zatwierdzonych statutów związków spółek wodnych;"
+    },
+    {
+      "provision_ref": "par3p20la",
+      "section": "3",
+      "title": "§ 3 pkt 20 lit. a",
+      "content": "W SIGW gromadzi się informacje o: planach gospodarowania wodami na obszarach dorzeczy i ich aktualizacjach, o których mowa w art. 318 ustawy, obejmujące: wykaz jednolitych części wód powierzchniowych,"
+    },
+    {
+      "provision_ref": "par3p20lb",
+      "section": "3",
+      "title": "§ 3 pkt 20 lit. b",
+      "content": "W SIGW gromadzi się informacje o: planach gospodarowania wodami na obszarach dorzeczy i ich aktualizacjach, o których mowa w art. 318 ustawy, obejmujące: wykaz jednolitych części wód podziemnych,"
+    },
+    {
+      "provision_ref": "par3p20lc",
+      "section": "3",
+      "title": "§ 3 pkt 20 lit. c",
+      "content": "W SIGW gromadzi się informacje o: planach gospodarowania wodami na obszarach dorzeczy i ich aktualizacjach, o których mowa w art. 318 ustawy, obejmujące: wykazy obszarów chronionych, o których mowa w art. 317 ust. 4 ustawy,"
+    },
+    {
+      "provision_ref": "par3p20ld",
+      "section": "3",
+      "title": "§ 3 pkt 20 lit. d",
+      "content": "W SIGW gromadzi się informacje o: planach gospodarowania wodami na obszarach dorzeczy i ich aktualizacjach, o których mowa w art. 318 ustawy, obejmujące: wykaz celów środowiskowych dla jednolitych części wód i obszarów chronionych;"
+    },
+    {
+      "provision_ref": "par3p21",
+      "section": "3",
+      "title": "§ 3 pkt 21",
+      "content": "W SIGW gromadzi się informacje o: planach zarządzania ryzykiem powodziowym, obejmujące katalog działań służących osiągnięciu celów zarządzania ryzykiem powodziowym, o którym mowa w art. 172 ust. 3 pkt 4 ustawy;"
+    },
+    {
+      "provision_ref": "par3p22",
+      "section": "3",
+      "title": "§ 3 pkt 22",
+      "content": "W SIGW gromadzi się informacje o: planach przeciwdziałania skutkom suszy, obejmujące działania służące przeciwdziałaniu skutkom suszy, o których mowa w art. 184 ust. 2 pkt 4 ustawy;"
+    },
+    {
+      "provision_ref": "par3p23",
+      "section": "3",
+      "title": "§ 3 pkt 23",
+      "content": "W SIGW gromadzi się informacje o: wstępnej ocenie ryzyka powodziowego, obejmujące zawartość tej wstępnej oceny;"
+    },
+    {
+      "provision_ref": "par3p24",
+      "section": "3",
+      "title": "§ 3 pkt 24",
+      "content": "W SIGW gromadzi się informacje o: mapach zagrożenia powodziowego, obejmujące bazę danych przestrzennych oraz wersje kartograficzne, o których mowa w przepisach wydanych na podstawie art. 174 ustawy;"
+    },
+    {
+      "provision_ref": "par3p25",
+      "section": "3",
+      "title": "§ 3 pkt 25",
+      "content": "W SIGW gromadzi się informacje o: mapach ryzyka powodziowego, obejmujące bazę danych przestrzennych oraz wersje kartograficzne, o których mowa w przepisach wydanych na podstawie art. 174 ustawy;"
+    },
+    {
+      "provision_ref": "par3p26la",
+      "section": "3",
+      "title": "§ 3 pkt 26 lit. a",
+      "content": "W SIGW gromadzi się informacje o: programie ochrony wód morskich, obejmujące: wykaz działań zawartych w programie ochrony wód morskich, z uwzględnieniem sposobu osiągania ustanowionych celów środowiskowych dla wód morskich,"
+    },
+    {
+      "provision_ref": "par3p26lb",
+      "section": "3",
+      "title": "§ 3 pkt 26 lit. b",
+      "content": "W SIGW gromadzi się informacje o: programie ochrony wód morskich, obejmujące: przebieg granic obszarów podlegających ocenie stanu środowiska na wodach morskich;"
+    },
+    {
+      "provision_ref": "par3p27",
+      "section": "3",
+      "title": "§ 3 pkt 27",
+      "content": "W SIGW gromadzi się informacje o: urządzeniach melioracji wodnych oraz zmeliorowanych gruntach, obejmujące dane zawarte w ewidencji urządzeń melioracji wodnych oraz zmeliorowanych gruntów."
+    },
+    {
+      "provision_ref": "par4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Określa się następującą organizację SIGW: pakiet I - obejmujący dane przekazywane do SIGW przez podmiot inny niż minister właściwy do spraw gospodarki wodnej oraz Wody Polskie; pakiet II - obejmujący dane inne niż wskazane w pkt 1. SIGW prowadzi się w sposób umożliwiający: wspieranie zarządzania zasobami wodnymi; kontrolę dostępu do SIGW i autoryzację użytkowników SIGW; tworzenie, zapisywanie, aktualizację oraz zabezpieczenie i utrzymywanie zbiorów danych; kontrolę jakości zbiorów danych; kontrolę poprawności relacji topologicznych między obiektami przestrzennymi ujawnionymi w SIGW; wyszukiwanie, przeglądanie, a w przypadku zbiorów danych przestrzennych - wizualizację kompozycji mapowych zbiorów danych; wykonywanie analiz przestrzennych; transformacje i przetwarzanie zbiorów danych; udostępnianie danych; generowanie raportów i zestawień; zasilanie baz publikacyjnych Hydroportalu. Dane do SIGW wprowadzają Wody Polskie: w przypadku pakietu I - w terminie 4 miesięcy od dnia ich przekazania, z wyłączeniem danych przekazywanych przez organ administracji w sposób określony w ust. 4, które są wprowadzane do SIGW w terminie ich przekazania; w przypadku pakietu II - w terminach określonych w załączniku do rozporządzenia. Aktualizacja danych w zakresie pakietu I może być przekazywana do SIGW przez organy administracji za pomocą usług danych przestrzennych publikowanych w strukturze określonej w wytycznych technicznych INSPIRE (INSPIRE Technical Guidance), o których mowa w art. 6 ust. 1 rozporządzenia Komisji (UE) nr 1089/2010 z dnia 23 listopada 2010 r. w sprawie wykonania dyrektywy 2007/2/WE Parlamentu Europejskiego i Rady w zakresie interoperacyjności zbiorów i usług danych przestrzennych 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 31 z 05.02.2011, str. 13, Dz. Urz. UE L 313 z 13.11.2012, str. 20, Dz. Urz. UE L 331 z 10.12.2013, str. 1 i Dz. Urz. UE L 354 z 11.12.2014, str. 8. ."
+    },
+    {
+      "provision_ref": "par4u1p1",
+      "section": "4",
+      "title": "§ 4 ust. 1 pkt 1",
+      "content": "Określa się następującą organizację SIGW: pakiet I - obejmujący dane przekazywane do SIGW przez podmiot inny niż minister właściwy do spraw gospodarki wodnej oraz Wody Polskie;"
+    },
+    {
+      "provision_ref": "par4u1p2",
+      "section": "4",
+      "title": "§ 4 ust. 1 pkt 2",
+      "content": "Określa się następującą organizację SIGW: pakiet II - obejmujący dane inne niż wskazane w pkt 1."
+    },
+    {
+      "provision_ref": "par4u2p1",
+      "section": "4",
+      "title": "§ 4 ust. 2 pkt 1",
+      "content": "SIGW prowadzi się w sposób umożliwiający: wspieranie zarządzania zasobami wodnymi;"
+    },
+    {
+      "provision_ref": "par4u2p2",
+      "section": "4",
+      "title": "§ 4 ust. 2 pkt 2",
+      "content": "SIGW prowadzi się w sposób umożliwiający: kontrolę dostępu do SIGW i autoryzację użytkowników SIGW;"
+    },
+    {
+      "provision_ref": "par4u2p3",
+      "section": "4",
+      "title": "§ 4 ust. 2 pkt 3",
+      "content": "SIGW prowadzi się w sposób umożliwiający: tworzenie, zapisywanie, aktualizację oraz zabezpieczenie i utrzymywanie zbiorów danych;"
+    },
+    {
+      "provision_ref": "par4u2p4",
+      "section": "4",
+      "title": "§ 4 ust. 2 pkt 4",
+      "content": "SIGW prowadzi się w sposób umożliwiający: kontrolę jakości zbiorów danych;"
+    },
+    {
+      "provision_ref": "par4u2p5",
+      "section": "4",
+      "title": "§ 4 ust. 2 pkt 5",
+      "content": "SIGW prowadzi się w sposób umożliwiający: kontrolę poprawności relacji topologicznych między obiektami przestrzennymi ujawnionymi w SIGW;"
+    },
+    {
+      "provision_ref": "par4u2p6",
+      "section": "4",
+      "title": "§ 4 ust. 2 pkt 6",
+      "content": "SIGW prowadzi się w sposób umożliwiający: wyszukiwanie, przeglądanie, a w przypadku zbiorów danych przestrzennych - wizualizację kompozycji mapowych zbiorów danych;"
+    },
+    {
+      "provision_ref": "par4u2p7",
+      "section": "4",
+      "title": "§ 4 ust. 2 pkt 7",
+      "content": "SIGW prowadzi się w sposób umożliwiający: wykonywanie analiz przestrzennych;"
+    },
+    {
+      "provision_ref": "par4u2p8",
+      "section": "4",
+      "title": "§ 4 ust. 2 pkt 8",
+      "content": "SIGW prowadzi się w sposób umożliwiający: transformacje i przetwarzanie zbiorów danych;"
+    },
+    {
+      "provision_ref": "par4u2p9",
+      "section": "4",
+      "title": "§ 4 ust. 2 pkt 9",
+      "content": "SIGW prowadzi się w sposób umożliwiający: udostępnianie danych;"
+    },
+    {
+      "provision_ref": "par4u2p10",
+      "section": "4",
+      "title": "§ 4 ust. 2 pkt 10",
+      "content": "SIGW prowadzi się w sposób umożliwiający: generowanie raportów i zestawień;"
+    },
+    {
+      "provision_ref": "par4u2p11",
+      "section": "4",
+      "title": "§ 4 ust. 2 pkt 11",
+      "content": "SIGW prowadzi się w sposób umożliwiający: zasilanie baz publikacyjnych Hydroportalu."
+    },
+    {
+      "provision_ref": "par4u3p1",
+      "section": "4",
+      "title": "§ 4 ust. 3 pkt 1",
+      "content": "Dane do SIGW wprowadzają Wody Polskie: w przypadku pakietu I - w terminie 4 miesięcy od dnia ich przekazania, z wyłączeniem danych przekazywanych przez organ administracji w sposób określony w ust. 4, które są wprowadzane do SIGW w terminie ich przekazania;"
+    },
+    {
+      "provision_ref": "par4u3p2",
+      "section": "4",
+      "title": "§ 4 ust. 3 pkt 2",
+      "content": "Dane do SIGW wprowadzają Wody Polskie: w przypadku pakietu II - w terminach określonych w załączniku do rozporządzenia."
+    },
+    {
+      "provision_ref": "par4u4",
+      "section": "4",
+      "title": "§ 4 ust. 4",
+      "content": "Aktualizacja danych w zakresie pakietu I może być przekazywana do SIGW przez organy administracji za pomocą usług danych przestrzennych publikowanych w strukturze określonej w wytycznych technicznych INSPIRE (INSPIRE Technical Guidance), o których mowa w art. 6 ust. 1 rozporządzenia Komisji (UE) nr 1089/2010 z dnia 23 listopada 2010 r. w sprawie wykonania dyrektywy 2007/2/WE Parlamentu Europejskiego i Rady w zakresie interoperacyjności zbiorów i usług danych przestrzennych 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 31 z 05.02.2011, str. 13, Dz. Urz. UE L 313 z 13.11.2012, str. 20, Dz. Urz. UE L 331 z 10.12.2013, str. 1 i Dz. Urz. UE L 354 z 11.12.2014, str. 8. ."
+    },
+    {
+      "provision_ref": "par5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "SIGW spełnia następujące standardy techniczne: system teleinformatyczny, w którym jest prowadzony SIGW, nadaje obiektom ujawnionym w SIGW unikalny identyfikator, z tym że w przypadku obiektów przekazywanych przez organ administracji system zachowuje unikalny identyfikator posiadany przez te obiekty; dane przestrzenne są gromadzone w układzie współrzędnych płaskich prostokątnych PL-1992, o którym mowa w przepisach wydanych na podstawie art. 3 ust. 5 ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne . Unikalny identyfikator nadawany obiektom ujawnionym w SIGW: w przypadku obiektów przestrzennych składa się z: przestrzeni nazw utworzonej z identyfikatora zbioru danych przestrzennych, do którego należy dany obiekt przestrzenny, wskazanego w ewidencji zbiorów oraz usług danych przestrzennych, identyfikatora lokalnego odróżniającego w sposób jednoznaczny dany obiekt przestrzenny od innych obiektów ujawnionych w SIGW; w przypadku obiektów innych niż obiekty przestrzenne składa się z identyfikatora lokalnego, o którym mowa w pkt 1 lit. b."
+    },
+    {
+      "provision_ref": "par5u1p1",
+      "section": "5",
+      "title": "§ 5 ust. 1 pkt 1",
+      "content": "SIGW spełnia następujące standardy techniczne: system teleinformatyczny, w którym jest prowadzony SIGW, nadaje obiektom ujawnionym w SIGW unikalny identyfikator, z tym że w przypadku obiektów przekazywanych przez organ administracji system zachowuje unikalny identyfikator posiadany przez te obiekty;"
+    },
+    {
+      "provision_ref": "par5u1p2",
+      "section": "5",
+      "title": "§ 5 ust. 1 pkt 2",
+      "content": "SIGW spełnia następujące standardy techniczne: dane przestrzenne są gromadzone w układzie współrzędnych płaskich prostokątnych PL-1992, o którym mowa w przepisach wydanych na podstawie art. 3 ust. 5 ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne ."
+    },
+    {
+      "provision_ref": "par5u2p1la",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 1 lit. a",
+      "content": "Unikalny identyfikator nadawany obiektom ujawnionym w SIGW: w przypadku obiektów przestrzennych składa się z: przestrzeni nazw utworzonej z identyfikatora zbioru danych przestrzennych, do którego należy dany obiekt przestrzenny, wskazanego w ewidencji zbiorów oraz usług danych przestrzennych,"
+    },
+    {
+      "provision_ref": "par5u2p1lb",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 1 lit. b",
+      "content": "Unikalny identyfikator nadawany obiektom ujawnionym w SIGW: w przypadku obiektów przestrzennych składa się z: identyfikatora lokalnego odróżniającego w sposób jednoznaczny dany obiekt przestrzenny od innych obiektów ujawnionych w SIGW;"
+    },
+    {
+      "provision_ref": "par5u2p2",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 2",
+      "content": "Unikalny identyfikator nadawany obiektom ujawnionym w SIGW: w przypadku obiektów innych niż obiekty przestrzenne składa się z identyfikatora lokalnego, o którym mowa w pkt 1 lit. b."
+    },
+    {
+      "provision_ref": "par6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "Źródła danych dla SIGW, częstotliwość i standardy przekazywania danych do SIGW w zakresie pakietu I, które nie są przekazywane za pomocą usług danych przestrzennych, oraz terminy wprowadzania danych do SIGW w zakresie pakietu II są określone w załączniku do rozporządzenia. Dla danych w zakresie pakietu I, o których mowa w § 4 ust. 4, standardy przekazywania danych do SIGW są określone w normach ISO z serii 19100, a częstotliwość przekazywania tych danych jest określona w art. 8 ust. 2 rozporządzenia Komisji (UE) nr 1089/2010 z dnia 23 listopada 2010 r. w sprawie wykonania dyrektywy 2007/2/WE Parlamentu Europejskiego i Rady w zakresie interoperacyjności zbiorów i usług danych przestrzennych ."
+    },
+    {
+      "provision_ref": "par6u1",
+      "section": "6",
+      "title": "§ 6 ust. 1",
+      "content": "Źródła danych dla SIGW, częstotliwość i standardy przekazywania danych do SIGW w zakresie pakietu I, które nie są przekazywane za pomocą usług danych przestrzennych, oraz terminy wprowadzania danych do SIGW w zakresie pakietu II są określone w załączniku do rozporządzenia."
+    },
+    {
+      "provision_ref": "par6u2",
+      "section": "6",
+      "title": "§ 6 ust. 2",
+      "content": "Dla danych w zakresie pakietu I, o których mowa w § 4 ust. 4, standardy przekazywania danych do SIGW są określone w normach ISO z serii 19100, a częstotliwość przekazywania tych danych jest określona w art. 8 ust. 2 rozporządzenia Komisji (UE) nr 1089/2010 z dnia 23 listopada 2010 r. w sprawie wykonania dyrektywy 2007/2/WE Parlamentu Europejskiego i Rady w zakresie interoperacyjności zbiorów i usług danych przestrzennych ."
+    },
+    {
+      "provision_ref": "par7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    }
+  ],
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2020-310",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-284",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-695",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-782",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-875",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-1378",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-177",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-2168",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-276",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-1086",
+      "ref_type": "references"
+    }
+  ]
+}

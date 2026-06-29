@@ -1,0 +1,474 @@
+{
+  "id": "pl-du-2017-1018",
+  "type": "statute",
+  "title": "Rozporządzenie Ministra Rozwoju i Finansów z dnia 18 maja 2017 r. w sprawie sposobu oraz zakresu archiwizacji danych związanych z urządzanymi grami hazardowymi przez sieć Internet",
+  "title_en": "",
+  "short_name": "pl-du-2017-1018",
+  "status": "in_force",
+  "issued_date": "2017-05-18",
+  "in_force_date": "2017-05-25",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2017/1018",
+  "provisions": [
+    {
+      "provision_ref": "par1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Rozporządzenie określa: sposób archiwizacji danych związanych z urządzanymi grami hazardowymi przez sieć Internet, w tym wymagania dotyczące urządzeń archiwizujących oraz ich oprogramowania; zakres danych, które podmiot urządzający gry hazardowe przez sieć Internet jest obowiązany archiwizować."
+    },
+    {
+      "provision_ref": "par1p1",
+      "section": "1",
+      "title": "§ 1 pkt 1",
+      "content": "Rozporządzenie określa: sposób archiwizacji danych związanych z urządzanymi grami hazardowymi przez sieć Internet, w tym wymagania dotyczące urządzeń archiwizujących oraz ich oprogramowania;"
+    },
+    {
+      "provision_ref": "par1p2",
+      "section": "1",
+      "title": "§ 1 pkt 2",
+      "content": "Rozporządzenie określa: zakres danych, które podmiot urządzający gry hazardowe przez sieć Internet jest obowiązany archiwizować."
+    },
+    {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Archiwizacji danych dokonuje się w sposób zapewniający integralność, kompletność, poufność i rozliczalność danych podczas wszystkich procesów dotyczących danych, w tym ich przesyłania, przechowywania i udostępniania. Dane archiwizuje się w sposób zapewniający uzyskanie jednoznacznej informacji o czasie zdarzenia oraz czasie jego zapisania, z podaniem daty i czasu z dokładnością pozwalającą na określenie kolejności zdarzeń i ich archiwizacji. Zapisu danych dokonuje się w sposób uniemożliwiający ich zmianę bez wykrycia tego zdarzenia przez oprogramowanie urządzenia archiwizującego. Urządzenie archiwizujące oraz jego oprogramowanie zapewniają możliwość odtworzenia zarchiwizowanych danych w razie ich niezamierzonej całkowitej lub częściowej utraty przed upływem 5 lat, licząc od końca roku kalendarzowego, w którym dokonano ich archiwizacji, w szczególności poprzez ich kopiowanie na zewnętrzne nośniki."
+    },
+    {
+      "provision_ref": "par2u1",
+      "section": "2",
+      "title": "§ 2 ust. 1",
+      "content": "Archiwizacji danych dokonuje się w sposób zapewniający integralność, kompletność, poufność i rozliczalność danych podczas wszystkich procesów dotyczących danych, w tym ich przesyłania, przechowywania i udostępniania."
+    },
+    {
+      "provision_ref": "par2u2",
+      "section": "2",
+      "title": "§ 2 ust. 2",
+      "content": "Dane archiwizuje się w sposób zapewniający uzyskanie jednoznacznej informacji o czasie zdarzenia oraz czasie jego zapisania, z podaniem daty i czasu z dokładnością pozwalającą na określenie kolejności zdarzeń i ich archiwizacji."
+    },
+    {
+      "provision_ref": "par2u3",
+      "section": "2",
+      "title": "§ 2 ust. 3",
+      "content": "Zapisu danych dokonuje się w sposób uniemożliwiający ich zmianę bez wykrycia tego zdarzenia przez oprogramowanie urządzenia archiwizującego."
+    },
+    {
+      "provision_ref": "par2u4",
+      "section": "2",
+      "title": "§ 2 ust. 4",
+      "content": "Urządzenie archiwizujące oraz jego oprogramowanie zapewniają możliwość odtworzenia zarchiwizowanych danych w razie ich niezamierzonej całkowitej lub częściowej utraty przed upływem 5 lat, licząc od końca roku kalendarzowego, w którym dokonano ich archiwizacji, w szczególności poprzez ich kopiowanie na zewnętrzne nośniki."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Urządzenie archiwizujące oraz jego oprogramowanie zapewniają: wyszukiwanie, sortowanie, filtrowanie, przeglądanie i wydruk danych, o których mowa w § 5 i § 6, odrębnie dla gier hazardowych urządzanych na różnych stronach internetowych i w ramach poszczególnych zezwoleń; kopiowanie danych z urządzenia archiwizującego na informatyczne nośniki danych; zdalny dostęp do danych i pobieranie tych danych, uporządkowanych w sposób pozwalający na ich późniejszą analizę. Urządzenie archiwizujące oraz jego oprogramowanie uniemożliwiają usunięcie danych przed upływem 5 lat, licząc od końca roku kalendarzowego, w którym dokonano ich archiwizacji. W celu realizacji wymogu, o którym mowa w § 2 ust. 1, urządzenie archiwizujące oraz jego oprogramowanie w szczególności: zapewniają ciągłą, niemodyfikowalną i jednoznacznie identyfikującą każde zdarzenie niepowtarzalną numerację dla każdego typu archiwizowanych zdarzeń, w szczególności założenia konta, dokonania wpłaty stawki pieniężnej czy wypłaty wygranej, sposobu obstawienia zakładu wzajemnego lub określonego działania w grze hazardowej; obliczają dla każdego archiwizowanego zdarzenia skrót kryptograficzny obliczany przy wykorzystaniu niesymetrycznego algorytmu SHA2, zgodnego z normą ISO/IEC 10118-3:2004, zwanego dalej „skrótem SHA2”; systematycznie weryfikują ciągłość numeracji zarchiwizowanych zdarzeń oraz ich zgodność z odpowiadającymi im i obliczonymi zgodnie z ust. 4 skrótami SHA2. Skrót SHA2 jest obliczany od zawartości cyfrowej reprezentacji tego zdarzenia oraz skrótu SHA2 zdarzenia bezpośrednio poprzedzającego w numeracji, przy czym dla pierwszego zdarzenia w numeracji pomija się skrót SHA2 zdarzenia bezpośrednio poprzedzającego."
+    },
+    {
+      "provision_ref": "par3u1p1",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 1",
+      "content": "Urządzenie archiwizujące oraz jego oprogramowanie zapewniają: wyszukiwanie, sortowanie, filtrowanie, przeglądanie i wydruk danych, o których mowa w § 5 i § 6, odrębnie dla gier hazardowych urządzanych na różnych stronach internetowych i w ramach poszczególnych zezwoleń;"
+    },
+    {
+      "provision_ref": "par3u1p2",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 2",
+      "content": "Urządzenie archiwizujące oraz jego oprogramowanie zapewniają: kopiowanie danych z urządzenia archiwizującego na informatyczne nośniki danych;"
+    },
+    {
+      "provision_ref": "par3u1p3",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 3",
+      "content": "Urządzenie archiwizujące oraz jego oprogramowanie zapewniają: zdalny dostęp do danych i pobieranie tych danych, uporządkowanych w sposób pozwalający na ich późniejszą analizę."
+    },
+    {
+      "provision_ref": "par3u2",
+      "section": "3",
+      "title": "§ 3 ust. 2",
+      "content": "Urządzenie archiwizujące oraz jego oprogramowanie uniemożliwiają usunięcie danych przed upływem 5 lat, licząc od końca roku kalendarzowego, w którym dokonano ich archiwizacji."
+    },
+    {
+      "provision_ref": "par3u3p1",
+      "section": "3",
+      "title": "§ 3 ust. 3 pkt 1",
+      "content": "W celu realizacji wymogu, o którym mowa w § 2 ust. 1, urządzenie archiwizujące oraz jego oprogramowanie w szczególności: zapewniają ciągłą, niemodyfikowalną i jednoznacznie identyfikującą każde zdarzenie niepowtarzalną numerację dla każdego typu archiwizowanych zdarzeń, w szczególności założenia konta, dokonania wpłaty stawki pieniężnej czy wypłaty wygranej, sposobu obstawienia zakładu wzajemnego lub określonego działania w grze hazardowej;"
+    },
+    {
+      "provision_ref": "par3u3p2",
+      "section": "3",
+      "title": "§ 3 ust. 3 pkt 2",
+      "content": "W celu realizacji wymogu, o którym mowa w § 2 ust. 1, urządzenie archiwizujące oraz jego oprogramowanie w szczególności: obliczają dla każdego archiwizowanego zdarzenia skrót kryptograficzny obliczany przy wykorzystaniu niesymetrycznego algorytmu SHA2, zgodnego z normą ISO/IEC 10118-3:2004, zwanego dalej „skrótem SHA2”;"
+    },
+    {
+      "provision_ref": "par3u3p3",
+      "section": "3",
+      "title": "§ 3 ust. 3 pkt 3",
+      "content": "W celu realizacji wymogu, o którym mowa w § 2 ust. 1, urządzenie archiwizujące oraz jego oprogramowanie w szczególności: systematycznie weryfikują ciągłość numeracji zarchiwizowanych zdarzeń oraz ich zgodność z odpowiadającymi im i obliczonymi zgodnie z ust. 4 skrótami SHA2."
+    },
+    {
+      "provision_ref": "par3u4",
+      "section": "3",
+      "title": "§ 3 ust. 4",
+      "content": "Skrót SHA2 jest obliczany od zawartości cyfrowej reprezentacji tego zdarzenia oraz skrótu SHA2 zdarzenia bezpośrednio poprzedzającego w numeracji, przy czym dla pierwszego zdarzenia w numeracji pomija się skrót SHA2 zdarzenia bezpośrednio poprzedzającego."
+    },
+    {
+      "provision_ref": "par4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Urządzenie archiwizujące oraz jego oprogramowanie: są zabezpieczone przed nieuprawnionym dostępem, w szczególności poprzez zastosowanie mechanizmów uwierzytelniania i autoryzacji; zapewniają ciągłość i prawidłowość działania, w tym poprzez zastosowanie rozwiązań sprzętowych oraz programowych na wypadek zdarzeń losowych, które mogłyby grozić zmianą bądź utratą zarchiwizowanych danych albo brakiem ich archiwizacji."
+    },
+    {
+      "provision_ref": "par4p1",
+      "section": "4",
+      "title": "§ 4 pkt 1",
+      "content": "Urządzenie archiwizujące oraz jego oprogramowanie: są zabezpieczone przed nieuprawnionym dostępem, w szczególności poprzez zastosowanie mechanizmów uwierzytelniania i autoryzacji;"
+    },
+    {
+      "provision_ref": "par4p2",
+      "section": "4",
+      "title": "§ 4 pkt 2",
+      "content": "Urządzenie archiwizujące oraz jego oprogramowanie: zapewniają ciągłość i prawidłowość działania, w tym poprzez zastosowanie rozwiązań sprzętowych oraz programowych na wypadek zdarzeń losowych, które mogłyby grozić zmianą bądź utratą zarchiwizowanych danych albo brakiem ich archiwizacji."
+    },
+    {
+      "provision_ref": "par5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Archiwizacji w zakresie zakładów wzajemnych podlegają: dane pozwalające na ustalenie przebiegu i wyniku zakładów wzajemnych, obejmujące: katalog prowadzonych przez podmiot zakładów wzajemnych, liczbę przyjętych zakładów wzajemnych, stawki poszczególnych zakładów wzajemnych, liczbę wygranych, liczbę przegranych, typowania przez uczestników zakładów wzajemnych wyników sportowego współzawodnictwa ludzi lub zwierząt, będących przedmiotem zakładów wzajemnych, typowania przez uczestników zakładów wzajemnych zaistnienia różnych zdarzeń będących przedmiotem zakładów wzajemnych, wyniki sportowego współzawodnictwa ludzi lub zwierząt będące przedmiotem zakładów wzajemnych, zdarzenia będące przedmiotem zakładów wzajemnych, działania wykonane przez uczestników zakładów wzajemnych na kontach służących do rozpoczęcia i prowadzenia zakładów wzajemnych urządzanych przez sieć Internet, utworzonych na urządzeniu archiwizującym dane dotyczące zakładów wzajemnych urządzanych przez sieć Internet, zwanych dalej „kontami”, operacje dotyczące zakładów wzajemnych zrealizowane przez uczestników zakładów wzajemnych, a także wszelkie dane związane z saldem na kontach, w szczególności wartość wpłat, wartość wygranych uczestnika zakładów wzajemnych oraz kwot zwróconych na konto; dane pozwalające na ustalenie przeprowadzonych transakcji związanych z zakładem wzajemnym, dotyczące przepływów finansowych wynikających z zawieranych zakładów wzajemnych przypisanych do poszczególnych uczestników zakładów wzajemnych, obejmujące: wpływy z tytułu wpłaty uczestnika zakładu wzajemnego, kwoty wypłacone przez podmiot uczestnikowi zakładu wzajemnego wraz z tytułem wypłaty, numer rachunku płatniczego uczestnika zakładu wzajemnego służącego do rozliczeń z podmiotem urządzającym zakłady wzajemne, numer rachunku płatniczego podmiotu urządzającego zakłady wzajemne służącego do rozliczeń z uczestnikiem zakładu wzajemnego; dane niezbędne do identyfikacji uczestnika zakładu wzajemnego, obejmujące: imię (imiona) i nazwisko, adres zamieszkania oraz adres poczty elektronicznej, identyfikator pozwalający na dostęp do konta (login), pseudonim - nazwę uczestnika zakładu wzajemnego, jeżeli jest inna niż login, dane teleinformatyczne o połączeniu uczestnika zakładu wzajemnego ze stroną podmiotu urządzającego zakłady wzajemne, profile uczestników zakładów wzajemnych aktywowane w chwili założenia konta i zawierające historię zakładów wzajemnych zawieranych przez danego uczestnika i ich przebieg; dane związane z funkcjonowaniem urządzeń archiwizujących oraz ich oprogramowania, obejmujące: modyfikacje urządzeń archiwizujących lub oprogramowania oraz inne czynności techniczne w toku ich eksploatacji, w tym zmiany ustawień urządzenia archiwizującego lub oprogramowania, w szczególności ustawień zegara czasu rzeczywistego, kontrole przeprowadzane z inicjatywy podmiotu urządzającego zakłady wzajemne, w szczególności zakres, wyniki i osoby odpowiedzialne za przeprowadzenie tych kontroli, dodanie, usunięcie lub modyfikację danych lub próby dokonania tych działań, błędy oraz inne sytuacje awaryjne, zaistniałe w trakcie pracy urządzenia archiwizującego i oprogramowania, w szczególności błędy wykryte podczas weryfikacji, o której mowa w § 3 ust. 3 pkt 3, oraz podjęte działania naprawcze, udostępnianie zarchiwizowanych danych, w szczególności informacje o osobach, którym dane udostępniono, oraz o podstawie prawnej udostępnienia danych."
+    },
+    {
+      "provision_ref": "par5p1la",
+      "section": "5",
+      "title": "§ 5 pkt 1 lit. a",
+      "content": "Archiwizacji w zakresie zakładów wzajemnych podlegają: dane pozwalające na ustalenie przebiegu i wyniku zakładów wzajemnych, obejmujące: katalog prowadzonych przez podmiot zakładów wzajemnych,"
+    },
+    {
+      "provision_ref": "par5p1lb",
+      "section": "5",
+      "title": "§ 5 pkt 1 lit. b",
+      "content": "Archiwizacji w zakresie zakładów wzajemnych podlegają: dane pozwalające na ustalenie przebiegu i wyniku zakładów wzajemnych, obejmujące: liczbę przyjętych zakładów wzajemnych,"
+    },
+    {
+      "provision_ref": "par5p1lc",
+      "section": "5",
+      "title": "§ 5 pkt 1 lit. c",
+      "content": "Archiwizacji w zakresie zakładów wzajemnych podlegają: dane pozwalające na ustalenie przebiegu i wyniku zakładów wzajemnych, obejmujące: stawki poszczególnych zakładów wzajemnych,"
+    },
+    {
+      "provision_ref": "par5p1ld",
+      "section": "5",
+      "title": "§ 5 pkt 1 lit. d",
+      "content": "Archiwizacji w zakresie zakładów wzajemnych podlegają: dane pozwalające na ustalenie przebiegu i wyniku zakładów wzajemnych, obejmujące: liczbę wygranych,"
+    },
+    {
+      "provision_ref": "par5p1le",
+      "section": "5",
+      "title": "§ 5 pkt 1 lit. e",
+      "content": "Archiwizacji w zakresie zakładów wzajemnych podlegają: dane pozwalające na ustalenie przebiegu i wyniku zakładów wzajemnych, obejmujące: liczbę przegranych,"
+    },
+    {
+      "provision_ref": "par5p1lf",
+      "section": "5",
+      "title": "§ 5 pkt 1 lit. f",
+      "content": "Archiwizacji w zakresie zakładów wzajemnych podlegają: dane pozwalające na ustalenie przebiegu i wyniku zakładów wzajemnych, obejmujące: typowania przez uczestników zakładów wzajemnych wyników sportowego współzawodnictwa ludzi lub zwierząt, będących przedmiotem zakładów wzajemnych,"
+    },
+    {
+      "provision_ref": "par5p1lg",
+      "section": "5",
+      "title": "§ 5 pkt 1 lit. g",
+      "content": "Archiwizacji w zakresie zakładów wzajemnych podlegają: dane pozwalające na ustalenie przebiegu i wyniku zakładów wzajemnych, obejmujące: typowania przez uczestników zakładów wzajemnych zaistnienia różnych zdarzeń będących przedmiotem zakładów wzajemnych,"
+    },
+    {
+      "provision_ref": "par5p1lh",
+      "section": "5",
+      "title": "§ 5 pkt 1 lit. h",
+      "content": "Archiwizacji w zakresie zakładów wzajemnych podlegają: dane pozwalające na ustalenie przebiegu i wyniku zakładów wzajemnych, obejmujące: wyniki sportowego współzawodnictwa ludzi lub zwierząt będące przedmiotem zakładów wzajemnych,"
+    },
+    {
+      "provision_ref": "par5p1li",
+      "section": "5",
+      "title": "§ 5 pkt 1 lit. i",
+      "content": "Archiwizacji w zakresie zakładów wzajemnych podlegają: dane pozwalające na ustalenie przebiegu i wyniku zakładów wzajemnych, obejmujące: zdarzenia będące przedmiotem zakładów wzajemnych,"
+    },
+    {
+      "provision_ref": "par5p1lj",
+      "section": "5",
+      "title": "§ 5 pkt 1 lit. j",
+      "content": "Archiwizacji w zakresie zakładów wzajemnych podlegają: dane pozwalające na ustalenie przebiegu i wyniku zakładów wzajemnych, obejmujące: działania wykonane przez uczestników zakładów wzajemnych na kontach służących do rozpoczęcia i prowadzenia zakładów wzajemnych urządzanych przez sieć Internet, utworzonych na urządzeniu archiwizującym dane dotyczące zakładów wzajemnych urządzanych przez sieć Internet, zwanych dalej „kontami”,"
+    },
+    {
+      "provision_ref": "par5p1lk",
+      "section": "5",
+      "title": "§ 5 pkt 1 lit. k",
+      "content": "Archiwizacji w zakresie zakładów wzajemnych podlegają: dane pozwalające na ustalenie przebiegu i wyniku zakładów wzajemnych, obejmujące: operacje dotyczące zakładów wzajemnych zrealizowane przez uczestników zakładów wzajemnych, a także wszelkie dane związane z saldem na kontach, w szczególności wartość wpłat, wartość wygranych uczestnika zakładów wzajemnych oraz kwot zwróconych na konto;"
+    },
+    {
+      "provision_ref": "par5p2la",
+      "section": "5",
+      "title": "§ 5 pkt 2 lit. a",
+      "content": "Archiwizacji w zakresie zakładów wzajemnych podlegają: dane pozwalające na ustalenie przeprowadzonych transakcji związanych z zakładem wzajemnym, dotyczące przepływów finansowych wynikających z zawieranych zakładów wzajemnych przypisanych do poszczególnych uczestników zakładów wzajemnych, obejmujące: wpływy z tytułu wpłaty uczestnika zakładu wzajemnego,"
+    },
+    {
+      "provision_ref": "par5p2lb",
+      "section": "5",
+      "title": "§ 5 pkt 2 lit. b",
+      "content": "Archiwizacji w zakresie zakładów wzajemnych podlegają: dane pozwalające na ustalenie przeprowadzonych transakcji związanych z zakładem wzajemnym, dotyczące przepływów finansowych wynikających z zawieranych zakładów wzajemnych przypisanych do poszczególnych uczestników zakładów wzajemnych, obejmujące: kwoty wypłacone przez podmiot uczestnikowi zakładu wzajemnego wraz z tytułem wypłaty,"
+    },
+    {
+      "provision_ref": "par5p2lc",
+      "section": "5",
+      "title": "§ 5 pkt 2 lit. c",
+      "content": "Archiwizacji w zakresie zakładów wzajemnych podlegają: dane pozwalające na ustalenie przeprowadzonych transakcji związanych z zakładem wzajemnym, dotyczące przepływów finansowych wynikających z zawieranych zakładów wzajemnych przypisanych do poszczególnych uczestników zakładów wzajemnych, obejmujące: numer rachunku płatniczego uczestnika zakładu wzajemnego służącego do rozliczeń z podmiotem urządzającym zakłady wzajemne,"
+    },
+    {
+      "provision_ref": "par5p2ld",
+      "section": "5",
+      "title": "§ 5 pkt 2 lit. d",
+      "content": "Archiwizacji w zakresie zakładów wzajemnych podlegają: dane pozwalające na ustalenie przeprowadzonych transakcji związanych z zakładem wzajemnym, dotyczące przepływów finansowych wynikających z zawieranych zakładów wzajemnych przypisanych do poszczególnych uczestników zakładów wzajemnych, obejmujące: numer rachunku płatniczego podmiotu urządzającego zakłady wzajemne służącego do rozliczeń z uczestnikiem zakładu wzajemnego;"
+    },
+    {
+      "provision_ref": "par5p3la",
+      "section": "5",
+      "title": "§ 5 pkt 3 lit. a",
+      "content": "Archiwizacji w zakresie zakładów wzajemnych podlegają: dane niezbędne do identyfikacji uczestnika zakładu wzajemnego, obejmujące: imię (imiona) i nazwisko,"
+    },
+    {
+      "provision_ref": "par5p3lb",
+      "section": "5",
+      "title": "§ 5 pkt 3 lit. b",
+      "content": "Archiwizacji w zakresie zakładów wzajemnych podlegają: dane niezbędne do identyfikacji uczestnika zakładu wzajemnego, obejmujące: adres zamieszkania oraz adres poczty elektronicznej,"
+    },
+    {
+      "provision_ref": "par5p3lc",
+      "section": "5",
+      "title": "§ 5 pkt 3 lit. c",
+      "content": "Archiwizacji w zakresie zakładów wzajemnych podlegają: dane niezbędne do identyfikacji uczestnika zakładu wzajemnego, obejmujące: identyfikator pozwalający na dostęp do konta (login),"
+    },
+    {
+      "provision_ref": "par5p3ld",
+      "section": "5",
+      "title": "§ 5 pkt 3 lit. d",
+      "content": "Archiwizacji w zakresie zakładów wzajemnych podlegają: dane niezbędne do identyfikacji uczestnika zakładu wzajemnego, obejmujące: pseudonim - nazwę uczestnika zakładu wzajemnego, jeżeli jest inna niż login,"
+    },
+    {
+      "provision_ref": "par5p3le",
+      "section": "5",
+      "title": "§ 5 pkt 3 lit. e",
+      "content": "Archiwizacji w zakresie zakładów wzajemnych podlegają: dane niezbędne do identyfikacji uczestnika zakładu wzajemnego, obejmujące: dane teleinformatyczne o połączeniu uczestnika zakładu wzajemnego ze stroną podmiotu urządzającego zakłady wzajemne,"
+    },
+    {
+      "provision_ref": "par5p3lf",
+      "section": "5",
+      "title": "§ 5 pkt 3 lit. f",
+      "content": "Archiwizacji w zakresie zakładów wzajemnych podlegają: dane niezbędne do identyfikacji uczestnika zakładu wzajemnego, obejmujące: profile uczestników zakładów wzajemnych aktywowane w chwili założenia konta i zawierające historię zakładów wzajemnych zawieranych przez danego uczestnika i ich przebieg;"
+    },
+    {
+      "provision_ref": "par5p4la",
+      "section": "5",
+      "title": "§ 5 pkt 4 lit. a",
+      "content": "Archiwizacji w zakresie zakładów wzajemnych podlegają: dane związane z funkcjonowaniem urządzeń archiwizujących oraz ich oprogramowania, obejmujące: modyfikacje urządzeń archiwizujących lub oprogramowania oraz inne czynności techniczne w toku ich eksploatacji, w tym zmiany ustawień urządzenia archiwizującego lub oprogramowania, w szczególności ustawień zegara czasu rzeczywistego,"
+    },
+    {
+      "provision_ref": "par5p4lb",
+      "section": "5",
+      "title": "§ 5 pkt 4 lit. b",
+      "content": "Archiwizacji w zakresie zakładów wzajemnych podlegają: dane związane z funkcjonowaniem urządzeń archiwizujących oraz ich oprogramowania, obejmujące: kontrole przeprowadzane z inicjatywy podmiotu urządzającego zakłady wzajemne, w szczególności zakres, wyniki i osoby odpowiedzialne za przeprowadzenie tych kontroli,"
+    },
+    {
+      "provision_ref": "par5p4lc",
+      "section": "5",
+      "title": "§ 5 pkt 4 lit. c",
+      "content": "Archiwizacji w zakresie zakładów wzajemnych podlegają: dane związane z funkcjonowaniem urządzeń archiwizujących oraz ich oprogramowania, obejmujące: dodanie, usunięcie lub modyfikację danych lub próby dokonania tych działań,"
+    },
+    {
+      "provision_ref": "par5p4ld",
+      "section": "5",
+      "title": "§ 5 pkt 4 lit. d",
+      "content": "Archiwizacji w zakresie zakładów wzajemnych podlegają: dane związane z funkcjonowaniem urządzeń archiwizujących oraz ich oprogramowania, obejmujące: błędy oraz inne sytuacje awaryjne, zaistniałe w trakcie pracy urządzenia archiwizującego i oprogramowania, w szczególności błędy wykryte podczas weryfikacji, o której mowa w § 3 ust. 3 pkt 3, oraz podjęte działania naprawcze,"
+    },
+    {
+      "provision_ref": "par5p4le",
+      "section": "5",
+      "title": "§ 5 pkt 4 lit. e",
+      "content": "Archiwizacji w zakresie zakładów wzajemnych podlegają: dane związane z funkcjonowaniem urządzeń archiwizujących oraz ich oprogramowania, obejmujące: udostępnianie zarchiwizowanych danych, w szczególności informacje o osobach, którym dane udostępniono, oraz o podstawie prawnej udostępnienia danych."
+    },
+    {
+      "provision_ref": "par6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "Archiwizacji w zakresie gier hazardowych innych niż określone w § 5 podlegają: dane pozwalające na ustalenie przebiegu i wyniku gier hazardowych, obejmujące: katalog organizowanych przez podmiot gier, liczbę przeprowadzonych gier, stawki w poszczególnych grach, liczbę wygranych, liczbę przegranych, przebieg poszczególnych gier, w tym działania wykonane przez uczestników gier w ramach poszczególnych gier, działania wykonane przez uczestników gier na kontach służących do rozpoczęcia i prowadzenia gier urządzanych przez sieć Internet, utworzonych na urządzeniu archiwizującym dane dotyczące gier urządzanych przez sieć Internet, zwanych dalej „kontami gier”, operacje dotyczące gier zrealizowane przez uczestników tych gier, a także wszelkie dane związane z saldem na kontach gier, w szczególności wartość wpłat, wartość wygranych uczestnika gier oraz kwot zwróconych na konto gry; dane pozwalające na ustalenie przeprowadzonych transakcji związanych z grą, dotyczące przepływów finansowych wynikających z działań wykonanych przez uczestnika gry w ramach poszczególnych gier, obejmujące: wpływy z tytułu wpłaty uczestnika gry, kwoty wypłacone przez podmiot uczestnikowi gry wraz z tytułem wypłaty, numer rachunku płatniczego uczestnika gry służącego do rozliczeń z podmiotem urządzającym gry hazardowe, numer rachunku płatniczego podmiotu urządzającego gry hazardowe służącego do rozliczeń z uczestnikiem gry; dane niezbędne do identyfikacji uczestnika gry, obejmujące: imię (imiona) i nazwisko, adres zamieszkania oraz adres poczty elektronicznej, identyfikator pozwalający na dostęp do konta gry (login), pseudonim - nazwę uczestnika gry, jeżeli jest inna niż login, dane teleinformatyczne o połączeniu uczestnika gry ze stroną podmiotu urządzającego gry hazardowe, profile uczestników gry aktywowane w chwili założenia konta gry i zawierające historię gier danego uczestnika i ich przebieg; dane związane z funkcjonowaniem urządzeń archiwizujących oraz ich oprogramowania, obejmujące: modyfikacje urządzeń archiwizujących lub oprogramowania oraz inne czynności techniczne w toku ich eksploatacji, w tym zmiany ustawień urządzenia archiwizującego lub oprogramowania, w szczególności ustawień zegara czasu rzeczywistego, kontrole przeprowadzane z inicjatywy podmiotu urządzającego gry, w szczególności zakres, wyniki i osoby odpowiedzialne za przeprowadzenie tych kontroli, dodanie, usunięcie lub modyfikację danych lub próby dokonania tych działań, błędy oraz inne sytuacje awaryjne, zaistniałe w trakcie pracy urządzenia archiwizującego i oprogramowania, w szczególności błędy wykryte podczas weryfikacji, o której mowa w § 3 ust. 3 pkt 3, oraz podjęte działania naprawcze, udostępnianie zarchiwizowanych danych, w szczególności informacje o osobach, którym dane udostępniono, oraz o podstawie prawnej udostępnienia danych."
+    },
+    {
+      "provision_ref": "par6p1la",
+      "section": "6",
+      "title": "§ 6 pkt 1 lit. a",
+      "content": "Archiwizacji w zakresie gier hazardowych innych niż określone w § 5 podlegają: dane pozwalające na ustalenie przebiegu i wyniku gier hazardowych, obejmujące: katalog organizowanych przez podmiot gier,"
+    },
+    {
+      "provision_ref": "par6p1lb",
+      "section": "6",
+      "title": "§ 6 pkt 1 lit. b",
+      "content": "Archiwizacji w zakresie gier hazardowych innych niż określone w § 5 podlegają: dane pozwalające na ustalenie przebiegu i wyniku gier hazardowych, obejmujące: liczbę przeprowadzonych gier,"
+    },
+    {
+      "provision_ref": "par6p1lc",
+      "section": "6",
+      "title": "§ 6 pkt 1 lit. c",
+      "content": "Archiwizacji w zakresie gier hazardowych innych niż określone w § 5 podlegają: dane pozwalające na ustalenie przebiegu i wyniku gier hazardowych, obejmujące: stawki w poszczególnych grach,"
+    },
+    {
+      "provision_ref": "par6p1ld",
+      "section": "6",
+      "title": "§ 6 pkt 1 lit. d",
+      "content": "Archiwizacji w zakresie gier hazardowych innych niż określone w § 5 podlegają: dane pozwalające na ustalenie przebiegu i wyniku gier hazardowych, obejmujące: liczbę wygranych,"
+    },
+    {
+      "provision_ref": "par6p1le",
+      "section": "6",
+      "title": "§ 6 pkt 1 lit. e",
+      "content": "Archiwizacji w zakresie gier hazardowych innych niż określone w § 5 podlegają: dane pozwalające na ustalenie przebiegu i wyniku gier hazardowych, obejmujące: liczbę przegranych,"
+    },
+    {
+      "provision_ref": "par6p1lf",
+      "section": "6",
+      "title": "§ 6 pkt 1 lit. f",
+      "content": "Archiwizacji w zakresie gier hazardowych innych niż określone w § 5 podlegają: dane pozwalające na ustalenie przebiegu i wyniku gier hazardowych, obejmujące: przebieg poszczególnych gier, w tym działania wykonane przez uczestników gier w ramach poszczególnych gier,"
+    },
+    {
+      "provision_ref": "par6p1lg",
+      "section": "6",
+      "title": "§ 6 pkt 1 lit. g",
+      "content": "Archiwizacji w zakresie gier hazardowych innych niż określone w § 5 podlegają: dane pozwalające na ustalenie przebiegu i wyniku gier hazardowych, obejmujące: działania wykonane przez uczestników gier na kontach służących do rozpoczęcia i prowadzenia gier urządzanych przez sieć Internet, utworzonych na urządzeniu archiwizującym dane dotyczące gier urządzanych przez sieć Internet, zwanych dalej „kontami gier”,"
+    },
+    {
+      "provision_ref": "par6p1lh",
+      "section": "6",
+      "title": "§ 6 pkt 1 lit. h",
+      "content": "Archiwizacji w zakresie gier hazardowych innych niż określone w § 5 podlegają: dane pozwalające na ustalenie przebiegu i wyniku gier hazardowych, obejmujące: operacje dotyczące gier zrealizowane przez uczestników tych gier, a także wszelkie dane związane z saldem na kontach gier, w szczególności wartość wpłat, wartość wygranych uczestnika gier oraz kwot zwróconych na konto gry;"
+    },
+    {
+      "provision_ref": "par6p2la",
+      "section": "6",
+      "title": "§ 6 pkt 2 lit. a",
+      "content": "Archiwizacji w zakresie gier hazardowych innych niż określone w § 5 podlegają: dane pozwalające na ustalenie przeprowadzonych transakcji związanych z grą, dotyczące przepływów finansowych wynikających z działań wykonanych przez uczestnika gry w ramach poszczególnych gier, obejmujące: wpływy z tytułu wpłaty uczestnika gry,"
+    },
+    {
+      "provision_ref": "par6p2lb",
+      "section": "6",
+      "title": "§ 6 pkt 2 lit. b",
+      "content": "Archiwizacji w zakresie gier hazardowych innych niż określone w § 5 podlegają: dane pozwalające na ustalenie przeprowadzonych transakcji związanych z grą, dotyczące przepływów finansowych wynikających z działań wykonanych przez uczestnika gry w ramach poszczególnych gier, obejmujące: kwoty wypłacone przez podmiot uczestnikowi gry wraz z tytułem wypłaty,"
+    },
+    {
+      "provision_ref": "par6p2lc",
+      "section": "6",
+      "title": "§ 6 pkt 2 lit. c",
+      "content": "Archiwizacji w zakresie gier hazardowych innych niż określone w § 5 podlegają: dane pozwalające na ustalenie przeprowadzonych transakcji związanych z grą, dotyczące przepływów finansowych wynikających z działań wykonanych przez uczestnika gry w ramach poszczególnych gier, obejmujące: numer rachunku płatniczego uczestnika gry służącego do rozliczeń z podmiotem urządzającym gry hazardowe,"
+    },
+    {
+      "provision_ref": "par6p2ld",
+      "section": "6",
+      "title": "§ 6 pkt 2 lit. d",
+      "content": "Archiwizacji w zakresie gier hazardowych innych niż określone w § 5 podlegają: dane pozwalające na ustalenie przeprowadzonych transakcji związanych z grą, dotyczące przepływów finansowych wynikających z działań wykonanych przez uczestnika gry w ramach poszczególnych gier, obejmujące: numer rachunku płatniczego podmiotu urządzającego gry hazardowe służącego do rozliczeń z uczestnikiem gry;"
+    },
+    {
+      "provision_ref": "par6p3la",
+      "section": "6",
+      "title": "§ 6 pkt 3 lit. a",
+      "content": "Archiwizacji w zakresie gier hazardowych innych niż określone w § 5 podlegają: dane niezbędne do identyfikacji uczestnika gry, obejmujące: imię (imiona) i nazwisko,"
+    },
+    {
+      "provision_ref": "par6p3lb",
+      "section": "6",
+      "title": "§ 6 pkt 3 lit. b",
+      "content": "Archiwizacji w zakresie gier hazardowych innych niż określone w § 5 podlegają: dane niezbędne do identyfikacji uczestnika gry, obejmujące: adres zamieszkania oraz adres poczty elektronicznej,"
+    },
+    {
+      "provision_ref": "par6p3lc",
+      "section": "6",
+      "title": "§ 6 pkt 3 lit. c",
+      "content": "Archiwizacji w zakresie gier hazardowych innych niż określone w § 5 podlegają: dane niezbędne do identyfikacji uczestnika gry, obejmujące: identyfikator pozwalający na dostęp do konta gry (login),"
+    },
+    {
+      "provision_ref": "par6p3ld",
+      "section": "6",
+      "title": "§ 6 pkt 3 lit. d",
+      "content": "Archiwizacji w zakresie gier hazardowych innych niż określone w § 5 podlegają: dane niezbędne do identyfikacji uczestnika gry, obejmujące: pseudonim - nazwę uczestnika gry, jeżeli jest inna niż login,"
+    },
+    {
+      "provision_ref": "par6p3le",
+      "section": "6",
+      "title": "§ 6 pkt 3 lit. e",
+      "content": "Archiwizacji w zakresie gier hazardowych innych niż określone w § 5 podlegają: dane niezbędne do identyfikacji uczestnika gry, obejmujące: dane teleinformatyczne o połączeniu uczestnika gry ze stroną podmiotu urządzającego gry hazardowe,"
+    },
+    {
+      "provision_ref": "par6p3lf",
+      "section": "6",
+      "title": "§ 6 pkt 3 lit. f",
+      "content": "Archiwizacji w zakresie gier hazardowych innych niż określone w § 5 podlegają: dane niezbędne do identyfikacji uczestnika gry, obejmujące: profile uczestników gry aktywowane w chwili założenia konta gry i zawierające historię gier danego uczestnika i ich przebieg;"
+    },
+    {
+      "provision_ref": "par6p4la",
+      "section": "6",
+      "title": "§ 6 pkt 4 lit. a",
+      "content": "Archiwizacji w zakresie gier hazardowych innych niż określone w § 5 podlegają: dane związane z funkcjonowaniem urządzeń archiwizujących oraz ich oprogramowania, obejmujące: modyfikacje urządzeń archiwizujących lub oprogramowania oraz inne czynności techniczne w toku ich eksploatacji, w tym zmiany ustawień urządzenia archiwizującego lub oprogramowania, w szczególności ustawień zegara czasu rzeczywistego,"
+    },
+    {
+      "provision_ref": "par6p4lb",
+      "section": "6",
+      "title": "§ 6 pkt 4 lit. b",
+      "content": "Archiwizacji w zakresie gier hazardowych innych niż określone w § 5 podlegają: dane związane z funkcjonowaniem urządzeń archiwizujących oraz ich oprogramowania, obejmujące: kontrole przeprowadzane z inicjatywy podmiotu urządzającego gry, w szczególności zakres, wyniki i osoby odpowiedzialne za przeprowadzenie tych kontroli,"
+    },
+    {
+      "provision_ref": "par6p4lc",
+      "section": "6",
+      "title": "§ 6 pkt 4 lit. c",
+      "content": "Archiwizacji w zakresie gier hazardowych innych niż określone w § 5 podlegają: dane związane z funkcjonowaniem urządzeń archiwizujących oraz ich oprogramowania, obejmujące: dodanie, usunięcie lub modyfikację danych lub próby dokonania tych działań,"
+    },
+    {
+      "provision_ref": "par6p4ld",
+      "section": "6",
+      "title": "§ 6 pkt 4 lit. d",
+      "content": "Archiwizacji w zakresie gier hazardowych innych niż określone w § 5 podlegają: dane związane z funkcjonowaniem urządzeń archiwizujących oraz ich oprogramowania, obejmujące: błędy oraz inne sytuacje awaryjne, zaistniałe w trakcie pracy urządzenia archiwizującego i oprogramowania, w szczególności błędy wykryte podczas weryfikacji, o której mowa w § 3 ust. 3 pkt 3, oraz podjęte działania naprawcze,"
+    },
+    {
+      "provision_ref": "par6p4le",
+      "section": "6",
+      "title": "§ 6 pkt 4 lit. e",
+      "content": "Archiwizacji w zakresie gier hazardowych innych niż określone w § 5 podlegają: dane związane z funkcjonowaniem urządzeń archiwizujących oraz ich oprogramowania, obejmujące: udostępnianie zarchiwizowanych danych, w szczególności informacje o osobach, którym dane udostępniono, oraz o podstawie prawnej udostępnienia danych."
+    },
+    {
+      "provision_ref": "par7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "Podmioty posiadające w dniu wejścia w życie niniejszego rozporządzenia zezwolenie na urządzanie gier hazardowych przez sieć Internet lub urządzające gry hazardowe przez sieć Internet na podstawie zatwierdzonego regulaminu dostosują sposób oraz zakres archiwizacji danych w okresie 3 miesięcy od dnia wejścia w życie niniejszego rozporządzenia."
+    },
+    {
+      "provision_ref": "par8",
+      "section": "8",
+      "title": "§ 8",
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 9 lipca 2012 r. w sprawie sposobu archiwizacji danych oraz zakresu danych związanych z urządzaniem zakładów wzajemnych przez sieć Internet podlegających archiwizacji (Dz. U. poz. 833), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 11 ustawy z dnia 15 grudnia 2016 r. o zmianie ustawy o grach hazardowych oraz niektórych innych ustaw (Dz. U. z 2017 r. poz. 88)."
+    }
+  ],
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2016-471",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2016-1948",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2016-2260",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2017-88",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2017-379",
+      "ref_type": "references"
+    }
+  ]
+}

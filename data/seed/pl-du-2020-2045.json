@@ -1,0 +1,606 @@
+{
+  "id": "pl-du-2020-2045",
+  "type": "statute",
+  "title": "Rozporządzenie Ministra Zdrowia z dnia 26 października 2020 r. w sprawie zaleceń dotyczących standardu rachunku kosztów u świadczeniodawców",
+  "title_en": "",
+  "short_name": "pl-du-2020-2045",
+  "status": "in_force",
+  "issued_date": "2020-10-26",
+  "in_force_date": "2020-11-19",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/2045",
+  "provisions": [
+    {
+      "provision_ref": "par1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Rozporządzenie określa zalecenia dotyczące standardu rachunku kosztów u świadczeniodawców, o których mowa w art. 31lc ust. 6 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych , zwanych dalej „świadczeniodawcami”."
+    },
+    {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: Agencja - Agencja Oceny Technologii Medycznych i Taryfikacji; działalność komercyjna - działalność gospodarcza finansowana ze środków innych niż publiczne; działalność podstawowa - działalność lecznicza świadczeniodawcy lub inna działalność świadczeniodawcy wynikająca z celu działalności świadczeniodawcy; działalność pomocnicza - działalność wspomagająca działalność podstawową świadczeniodawcy; jednostka kalkulacyjna - wartość kosztów pośrednich procedury medycznej przypadająca na jednostkę kosztu normatywnego tej procedury; klucz podziałowy - wielkość wyrażona ilościowo lub wartościowo służąca jako podstawa rozliczania kosztów OPK, przy uwzględnieniu zależności przyczynowo-skutkowej; koszty bezpośrednie OPK: koszty poniesione w okresie rozliczeniowym, które w sposób jednoznaczny, na podstawie dowodów księgowych, można przypisać do OPK, oraz pozostałe koszty bezpośrednie, przypisane do OPK według przyjętych rozdzielników kosztów wspólnych; koszt bezpośredni procedury medycznej - łączny koszt zasobów zużywanych podczas wykonywania procedury medycznej, zgodnie z przyjętym przez świadczeniodawcę sposobem wyceny; koszty pośrednie OPK - alokowane koszty innych OPK działalności podstawowej i pomocniczej, rozliczone według przyjętych kluczy podziałowych; koszt pośredni procedury medycznej - pozostałe koszty OPK proceduralnego niebędące kosztem bezpośrednim procedury medycznej, przypadające na jedną procedurę medyczną; koszty wytworzenia OPK - suma kosztów bezpośrednich i pośrednich, o których mowa w pkt 7 i 9; koszt wytworzenia procedury medycznej - suma kosztów bezpośrednich i pośrednich, o których mowa w pkt 8 i 10; OPK (ośrodek powstawania kosztów) - wyodrębniona przez świadczeniodawcę jednostka organizacyjna lub komórka organizacyjna, zespół jednostek organizacyjnych lub komórek organizacyjnych, ich część lub wyodrębniony zakres działalności świadczeniodawcy, dla których jest prowadzona ewidencja kosztów; OPK proceduralny - OPK działalności podstawowej, w którym są realizowane wyłącznie procedury medyczne; procedura medyczna - procedura medyczna w rozumieniu art. 5 pkt 42 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych , zwanej dalej „ustawą”, wyodrębniona na potrzeby kalkulacji kosztów; rozdzielnik kosztów wspólnych - jednostka miary umożliwiająca przypisanie pierwotnie zgrupowanych kosztów bezpośrednich do OPK; świadczenie zdrowotne rzeczowe - świadczenie w rozumieniu art. 5 pkt 37 ustawy; zarząd - działalność generująca koszty związane z zarządzaniem podmiotem leczniczym jako całością."
+    },
+    {
+      "provision_ref": "par2p1",
+      "section": "2",
+      "title": "§ 2 pkt 1",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: Agencja - Agencja Oceny Technologii Medycznych i Taryfikacji;"
+    },
+    {
+      "provision_ref": "par2p2",
+      "section": "2",
+      "title": "§ 2 pkt 2",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: działalność komercyjna - działalność gospodarcza finansowana ze środków innych niż publiczne;"
+    },
+    {
+      "provision_ref": "par2p3",
+      "section": "2",
+      "title": "§ 2 pkt 3",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: działalność podstawowa - działalność lecznicza świadczeniodawcy lub inna działalność świadczeniodawcy wynikająca z celu działalności świadczeniodawcy;"
+    },
+    {
+      "provision_ref": "par2p4",
+      "section": "2",
+      "title": "§ 2 pkt 4",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: działalność pomocnicza - działalność wspomagająca działalność podstawową świadczeniodawcy;"
+    },
+    {
+      "provision_ref": "par2p5",
+      "section": "2",
+      "title": "§ 2 pkt 5",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: jednostka kalkulacyjna - wartość kosztów pośrednich procedury medycznej przypadająca na jednostkę kosztu normatywnego tej procedury;"
+    },
+    {
+      "provision_ref": "par2p6",
+      "section": "2",
+      "title": "§ 2 pkt 6",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: klucz podziałowy - wielkość wyrażona ilościowo lub wartościowo służąca jako podstawa rozliczania kosztów OPK, przy uwzględnieniu zależności przyczynowo-skutkowej;"
+    },
+    {
+      "provision_ref": "par2p7la",
+      "section": "2",
+      "title": "§ 2 pkt 7 lit. a",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: koszty bezpośrednie OPK: koszty poniesione w okresie rozliczeniowym, które w sposób jednoznaczny, na podstawie dowodów księgowych, można przypisać do OPK, oraz"
+    },
+    {
+      "provision_ref": "par2p7lb",
+      "section": "2",
+      "title": "§ 2 pkt 7 lit. b",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: koszty bezpośrednie OPK: pozostałe koszty bezpośrednie, przypisane do OPK według przyjętych rozdzielników kosztów wspólnych;"
+    },
+    {
+      "provision_ref": "par2p8",
+      "section": "2",
+      "title": "§ 2 pkt 8",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: koszt bezpośredni procedury medycznej - łączny koszt zasobów zużywanych podczas wykonywania procedury medycznej, zgodnie z przyjętym przez świadczeniodawcę sposobem wyceny;"
+    },
+    {
+      "provision_ref": "par2p9",
+      "section": "2",
+      "title": "§ 2 pkt 9",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: koszty pośrednie OPK - alokowane koszty innych OPK działalności podstawowej i pomocniczej, rozliczone według przyjętych kluczy podziałowych;"
+    },
+    {
+      "provision_ref": "par2p10",
+      "section": "2",
+      "title": "§ 2 pkt 10",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: koszt pośredni procedury medycznej - pozostałe koszty OPK proceduralnego niebędące kosztem bezpośrednim procedury medycznej, przypadające na jedną procedurę medyczną;"
+    },
+    {
+      "provision_ref": "par2p11",
+      "section": "2",
+      "title": "§ 2 pkt 11",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: koszty wytworzenia OPK - suma kosztów bezpośrednich i pośrednich, o których mowa w pkt 7 i 9;"
+    },
+    {
+      "provision_ref": "par2p12",
+      "section": "2",
+      "title": "§ 2 pkt 12",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: koszt wytworzenia procedury medycznej - suma kosztów bezpośrednich i pośrednich, o których mowa w pkt 8 i 10;"
+    },
+    {
+      "provision_ref": "par2p13",
+      "section": "2",
+      "title": "§ 2 pkt 13",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: OPK (ośrodek powstawania kosztów) - wyodrębniona przez świadczeniodawcę jednostka organizacyjna lub komórka organizacyjna, zespół jednostek organizacyjnych lub komórek organizacyjnych, ich część lub wyodrębniony zakres działalności świadczeniodawcy, dla których jest prowadzona ewidencja kosztów;"
+    },
+    {
+      "provision_ref": "par2p14",
+      "section": "2",
+      "title": "§ 2 pkt 14",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: OPK proceduralny - OPK działalności podstawowej, w którym są realizowane wyłącznie procedury medyczne;"
+    },
+    {
+      "provision_ref": "par2p15",
+      "section": "2",
+      "title": "§ 2 pkt 15",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: procedura medyczna - procedura medyczna w rozumieniu art. 5 pkt 42 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych , zwanej dalej „ustawą”, wyodrębniona na potrzeby kalkulacji kosztów;"
+    },
+    {
+      "provision_ref": "par2p16",
+      "section": "2",
+      "title": "§ 2 pkt 16",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: rozdzielnik kosztów wspólnych - jednostka miary umożliwiająca przypisanie pierwotnie zgrupowanych kosztów bezpośrednich do OPK;"
+    },
+    {
+      "provision_ref": "par2p17",
+      "section": "2",
+      "title": "§ 2 pkt 17",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: świadczenie zdrowotne rzeczowe - świadczenie w rozumieniu art. 5 pkt 37 ustawy;"
+    },
+    {
+      "provision_ref": "par2p18",
+      "section": "2",
+      "title": "§ 2 pkt 18",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: zarząd - działalność generująca koszty związane z zarządzaniem podmiotem leczniczym jako całością."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "U świadczeniodawcy wyodrębnia się OPK działalności podstawowej, działalności pomocniczej i zarządu, zgodnie z kodami funkcji ośrodków powstawania kosztów określonymi w załączniku nr 1 do rozporządzenia. Szczegółowy wykaz OPK ustala świadczeniodawca, biorąc pod uwagę swoją strukturę organizacyjną i zasady wyodrębniania OPK określone w załączniku nr 2 do rozporządzenia. W celu rozdzielenia poszczególnych rodzajów działalności świadczeniodawcy, świadczeniodawca prowadzi ewidencję kosztów OPK w układzie podmiotowo-funkcjonalnym. Przekazując do Agencji dane, o których mowa w art. 31lc ust. 2 ustawy, dla każdego wyodrębnionego OPK świadczeniodawca przypisuje właściwy kod funkcji zgodnie z kodami funkcji ośrodków powstawania kosztów, o których mowa w ust. 1, oraz kody charakteryzujące specjalność komórki organizacyjnej zakładu leczniczego zawarte w zasadach przypisywania kodów charakteryzujących funkcje i specjalność komórki organizacyjnej do rodzajów działalności, określonymi w załączniku nr 3 do rozporządzenia, w układzie zgodnym ze wzorem przypisania OPK świadczeniodawcy w układzie podmiotowo-funkcjonalnym (konta zespołu 5) do kodów funkcji oraz kodów charakteryzujących specjalności komórki organizacyjnej, określonym w załączniku nr 4 do rozporządzenia. Kod syntetyczny konta OPK w systemie finansowo-księgowym może być tożsamy z kodem funkcji."
+    },
+    {
+      "provision_ref": "par3u1",
+      "section": "3",
+      "title": "§ 3 ust. 1",
+      "content": "U świadczeniodawcy wyodrębnia się OPK działalności podstawowej, działalności pomocniczej i zarządu, zgodnie z kodami funkcji ośrodków powstawania kosztów określonymi w załączniku nr 1 do rozporządzenia."
+    },
+    {
+      "provision_ref": "par3u2",
+      "section": "3",
+      "title": "§ 3 ust. 2",
+      "content": "Szczegółowy wykaz OPK ustala świadczeniodawca, biorąc pod uwagę swoją strukturę organizacyjną i zasady wyodrębniania OPK określone w załączniku nr 2 do rozporządzenia."
+    },
+    {
+      "provision_ref": "par3u3",
+      "section": "3",
+      "title": "§ 3 ust. 3",
+      "content": "W celu rozdzielenia poszczególnych rodzajów działalności świadczeniodawcy, świadczeniodawca prowadzi ewidencję kosztów OPK w układzie podmiotowo-funkcjonalnym."
+    },
+    {
+      "provision_ref": "par3u4",
+      "section": "3",
+      "title": "§ 3 ust. 4",
+      "content": "Przekazując do Agencji dane, o których mowa w art. 31lc ust. 2 ustawy, dla każdego wyodrębnionego OPK świadczeniodawca przypisuje właściwy kod funkcji zgodnie z kodami funkcji ośrodków powstawania kosztów, o których mowa w ust. 1, oraz kody charakteryzujące specjalność komórki organizacyjnej zakładu leczniczego zawarte w zasadach przypisywania kodów charakteryzujących funkcje i specjalność komórki organizacyjnej do rodzajów działalności, określonymi w załączniku nr 3 do rozporządzenia, w układzie zgodnym ze wzorem przypisania OPK świadczeniodawcy w układzie podmiotowo-funkcjonalnym (konta zespołu 5) do kodów funkcji oraz kodów charakteryzujących specjalności komórki organizacyjnej, określonym w załączniku nr 4 do rozporządzenia."
+    },
+    {
+      "provision_ref": "par3u5",
+      "section": "3",
+      "title": "§ 3 ust. 5",
+      "content": "Kod syntetyczny konta OPK w systemie finansowo-księgowym może być tożsamy z kodem funkcji."
+    },
+    {
+      "provision_ref": "par4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Kalkulacja kosztu wytworzenia OPK, z uwzględnieniem rodzajów prowadzonych działalności, obejmuje następujące etapy: etap I - ewidencja kosztów bezpośrednich OPK, prowadzona zgodnie z § 5; etap II - alokacja kosztów pośrednich, wynikająca z kosztów OPK działalności pomocniczej na rzecz innych OPK, prowadzona zgodnie z § 6; etap III - alokacja pozostałych kosztów pośrednich, wynikająca z kosztów OPK działalności podstawowej, w tym kosztów OPK proceduralnych na rzecz OPK, dla których realizowały usługi, prowadzona zgodnie z § 7. Poszczególne etapy alokacji kosztów między OPK mogą być przeprowadzane w jednym lub kilku podetapach, w zależności od złożoności zidentyfikowanych relacji między OPK."
+    },
+    {
+      "provision_ref": "par4u1p1",
+      "section": "4",
+      "title": "§ 4 ust. 1 pkt 1",
+      "content": "Kalkulacja kosztu wytworzenia OPK, z uwzględnieniem rodzajów prowadzonych działalności, obejmuje następujące etapy: etap I - ewidencja kosztów bezpośrednich OPK, prowadzona zgodnie z § 5;"
+    },
+    {
+      "provision_ref": "par4u1p2",
+      "section": "4",
+      "title": "§ 4 ust. 1 pkt 2",
+      "content": "Kalkulacja kosztu wytworzenia OPK, z uwzględnieniem rodzajów prowadzonych działalności, obejmuje następujące etapy: etap II - alokacja kosztów pośrednich, wynikająca z kosztów OPK działalności pomocniczej na rzecz innych OPK, prowadzona zgodnie z § 6;"
+    },
+    {
+      "provision_ref": "par4u1p3",
+      "section": "4",
+      "title": "§ 4 ust. 1 pkt 3",
+      "content": "Kalkulacja kosztu wytworzenia OPK, z uwzględnieniem rodzajów prowadzonych działalności, obejmuje następujące etapy: etap III - alokacja pozostałych kosztów pośrednich, wynikająca z kosztów OPK działalności podstawowej, w tym kosztów OPK proceduralnych na rzecz OPK, dla których realizowały usługi, prowadzona zgodnie z § 7."
+    },
+    {
+      "provision_ref": "par4u2",
+      "section": "4",
+      "title": "§ 4 ust. 2",
+      "content": "Poszczególne etapy alokacji kosztów między OPK mogą być przeprowadzane w jednym lub kilku podetapach, w zależności od złożoności zidentyfikowanych relacji między OPK."
+    },
+    {
+      "provision_ref": "par5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "W celu ustalenia kosztów OPK dokonuje się ewidencji kosztów bezpośrednich tego OPK. Ewidencją kosztów obejmuje się wszystkie ponoszone przez świadczeniodawcę koszty, z uwzględnieniem kryterium rodzajowego. Ewidencja kosztów według kryterium rodzajowego - zespół kont 4 jest prowadzona zgodnie z załącznikiem nr 5 do rozporządzenia. Szczegółowa ewidencja kosztów w układzie rodzajowym jest prowadzona na kolejnych poziomach kont analitycznych. Ewidencjonowanie kosztów świadczeń zdrowotnych rzeczowych następuje w momencie najbliższym rzeczywistemu ich zużyciu. Wszystkie koszty przypisuje się do tych OPK, w których są realizowane świadczenia opieki zdrowotnej lub czynności, z którymi koszty te są związane. Koszty osobowe są ujmowane proporcjonalnie do pracy wykonywanej na rzecz poszczególnych OPK. Koszty bezpośrednie, których nie można przypisać do OPK w sposób jednoznaczny na podstawie dokumentów źródłowych, są przypisywane według standardowych rozdzielników kosztów wspólnych, określonych w załączniku nr 6 do rozporządzenia. Dopuszcza się stosowanie u świadczeniodawcy rozdzielnika kosztów innego niż określony w załączniku nr 6 do rozporządzenia, jeżeli zasadność jego zastosowania jest uzasadniona możliwością dokładniejszej alokacji kosztów. W przypadku grup kosztów wspólnych niewyszczególnionych w załączniku nr 6 do rozporządzenia świadczeniodawca stosuje własne rozdzielniki kosztów. Świadczeniodawca przekazuje Agencji wykaz stosowanych rozdzielników kosztów w ramach udostępnienia danych, o których mowa w art. 31lc ust. 2 ustawy."
+    },
+    {
+      "provision_ref": "par5u1",
+      "section": "5",
+      "title": "§ 5 ust. 1",
+      "content": "W celu ustalenia kosztów OPK dokonuje się ewidencji kosztów bezpośrednich tego OPK."
+    },
+    {
+      "provision_ref": "par5u2",
+      "section": "5",
+      "title": "§ 5 ust. 2",
+      "content": "Ewidencją kosztów obejmuje się wszystkie ponoszone przez świadczeniodawcę koszty, z uwzględnieniem kryterium rodzajowego."
+    },
+    {
+      "provision_ref": "par5u3",
+      "section": "5",
+      "title": "§ 5 ust. 3",
+      "content": "Ewidencja kosztów według kryterium rodzajowego - zespół kont 4 jest prowadzona zgodnie z załącznikiem nr 5 do rozporządzenia. Szczegółowa ewidencja kosztów w układzie rodzajowym jest prowadzona na kolejnych poziomach kont analitycznych."
+    },
+    {
+      "provision_ref": "par5u4",
+      "section": "5",
+      "title": "§ 5 ust. 4",
+      "content": "Ewidencjonowanie kosztów świadczeń zdrowotnych rzeczowych następuje w momencie najbliższym rzeczywistemu ich zużyciu."
+    },
+    {
+      "provision_ref": "par5u5",
+      "section": "5",
+      "title": "§ 5 ust. 5",
+      "content": "Wszystkie koszty przypisuje się do tych OPK, w których są realizowane świadczenia opieki zdrowotnej lub czynności, z którymi koszty te są związane. Koszty osobowe są ujmowane proporcjonalnie do pracy wykonywanej na rzecz poszczególnych OPK."
+    },
+    {
+      "provision_ref": "par5u6",
+      "section": "5",
+      "title": "§ 5 ust. 6",
+      "content": "Koszty bezpośrednie, których nie można przypisać do OPK w sposób jednoznaczny na podstawie dokumentów źródłowych, są przypisywane według standardowych rozdzielników kosztów wspólnych, określonych w załączniku nr 6 do rozporządzenia."
+    },
+    {
+      "provision_ref": "par5u7",
+      "section": "5",
+      "title": "§ 5 ust. 7",
+      "content": "Dopuszcza się stosowanie u świadczeniodawcy rozdzielnika kosztów innego niż określony w załączniku nr 6 do rozporządzenia, jeżeli zasadność jego zastosowania jest uzasadniona możliwością dokładniejszej alokacji kosztów."
+    },
+    {
+      "provision_ref": "par5u8",
+      "section": "5",
+      "title": "§ 5 ust. 8",
+      "content": "W przypadku grup kosztów wspólnych niewyszczególnionych w załączniku nr 6 do rozporządzenia świadczeniodawca stosuje własne rozdzielniki kosztów."
+    },
+    {
+      "provision_ref": "par5u9",
+      "section": "5",
+      "title": "§ 5 ust. 9",
+      "content": "Świadczeniodawca przekazuje Agencji wykaz stosowanych rozdzielników kosztów w ramach udostępnienia danych, o których mowa w art. 31lc ust. 2 ustawy."
+    },
+    {
+      "provision_ref": "par6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "W celu określenia kosztów pośrednich OPK dokonuje się alokacji kosztów OPK działalności pomocniczej. Na koszty OPK działalności pomocniczej składają się: koszty bezpośrednie poniesione w tym OPK; koszty pośrednie przypisane z innych OPK działalności podstawowej i pomocniczej, wykonujących usługi na rzecz tego OPK. Alokacja kosztów OPK działalności pomocniczej, o których mowa w ust. 2, na rzecz innych OPK, dla których świadczy usługi, jest dokonywana w taki sposób, aby wszystkie koszty działalności pomocniczej zostały alokowane na te OPK. Dla każdego OPK działalności pomocniczej ustala się klucz podziałowy, zgodnie ze standardowymi kluczami podziałowymi służącymi rozliczaniu kosztów działalności pomocniczej, które zostały określone w załączniku nr 7 do rozporządzenia. Dopuszcza się stosowanie przez świadczeniodawcę klucza podziałowego innego niż określony w załączniku nr 7 do rozporządzenia, jeżeli jest to uzasadnione możliwością dokładniejszej alokacji kosztów OPK działalności pomocniczej. W przypadku rodzajów działalności pomocniczej niewyszczególnionej w załączniku nr 7 do rozporządzenia świadczeniodawca stosuje własne klucze podziałowe, które odzwierciedlają zależność przyczynowo-skutkową powstawania kosztów w OPK działalności pomocniczej i umożliwiają dokładniejszą alokację kosztów niż przy zastosowaniu kluczy podziałowych wskazanych w załączniku nr 7 do rozporządzenia. Świadczeniodawca przekazuje Agencji wykaz stosowanych kluczy podziałowych w ramach udostępnienia danych, o których mowa w art. 31lc ust. 2 ustawy. Stawka kosztów na jednostkę przyjętą jako klucz podziałowy stanowi iloraz całkowitych kosztów OPK działalności pomocniczej i całkowitej liczby jednostek przyjętego klucza podziałowego. Wysokość kosztów usług realizowanych przez OPK działalności pomocniczej na rzecz innych OPK ustala się jako iloczyn liczby jednostek klucza podziałowego przypisanych do danego OPK i ustalonej stawki kosztów na jednostkę przyjętego klucza podziałowego."
+    },
+    {
+      "provision_ref": "par6u1",
+      "section": "6",
+      "title": "§ 6 ust. 1",
+      "content": "W celu określenia kosztów pośrednich OPK dokonuje się alokacji kosztów OPK działalności pomocniczej."
+    },
+    {
+      "provision_ref": "par6u2p1",
+      "section": "6",
+      "title": "§ 6 ust. 2 pkt 1",
+      "content": "Na koszty OPK działalności pomocniczej składają się: koszty bezpośrednie poniesione w tym OPK;"
+    },
+    {
+      "provision_ref": "par6u2p2",
+      "section": "6",
+      "title": "§ 6 ust. 2 pkt 2",
+      "content": "Na koszty OPK działalności pomocniczej składają się: koszty pośrednie przypisane z innych OPK działalności podstawowej i pomocniczej, wykonujących usługi na rzecz tego OPK."
+    },
+    {
+      "provision_ref": "par6u3",
+      "section": "6",
+      "title": "§ 6 ust. 3",
+      "content": "Alokacja kosztów OPK działalności pomocniczej, o których mowa w ust. 2, na rzecz innych OPK, dla których świadczy usługi, jest dokonywana w taki sposób, aby wszystkie koszty działalności pomocniczej zostały alokowane na te OPK."
+    },
+    {
+      "provision_ref": "par6u4",
+      "section": "6",
+      "title": "§ 6 ust. 4",
+      "content": "Dla każdego OPK działalności pomocniczej ustala się klucz podziałowy, zgodnie ze standardowymi kluczami podziałowymi służącymi rozliczaniu kosztów działalności pomocniczej, które zostały określone w załączniku nr 7 do rozporządzenia."
+    },
+    {
+      "provision_ref": "par6u5",
+      "section": "6",
+      "title": "§ 6 ust. 5",
+      "content": "Dopuszcza się stosowanie przez świadczeniodawcę klucza podziałowego innego niż określony w załączniku nr 7 do rozporządzenia, jeżeli jest to uzasadnione możliwością dokładniejszej alokacji kosztów OPK działalności pomocniczej."
+    },
+    {
+      "provision_ref": "par6u6",
+      "section": "6",
+      "title": "§ 6 ust. 6",
+      "content": "W przypadku rodzajów działalności pomocniczej niewyszczególnionej w załączniku nr 7 do rozporządzenia świadczeniodawca stosuje własne klucze podziałowe, które odzwierciedlają zależność przyczynowo-skutkową powstawania kosztów w OPK działalności pomocniczej i umożliwiają dokładniejszą alokację kosztów niż przy zastosowaniu kluczy podziałowych wskazanych w załączniku nr 7 do rozporządzenia."
+    },
+    {
+      "provision_ref": "par6u7",
+      "section": "6",
+      "title": "§ 6 ust. 7",
+      "content": "Świadczeniodawca przekazuje Agencji wykaz stosowanych kluczy podziałowych w ramach udostępnienia danych, o których mowa w art. 31lc ust. 2 ustawy."
+    },
+    {
+      "provision_ref": "par6u8",
+      "section": "6",
+      "title": "§ 6 ust. 8",
+      "content": "Stawka kosztów na jednostkę przyjętą jako klucz podziałowy stanowi iloraz całkowitych kosztów OPK działalności pomocniczej i całkowitej liczby jednostek przyjętego klucza podziałowego."
+    },
+    {
+      "provision_ref": "par6u9",
+      "section": "6",
+      "title": "§ 6 ust. 9",
+      "content": "Wysokość kosztów usług realizowanych przez OPK działalności pomocniczej na rzecz innych OPK ustala się jako iloczyn liczby jednostek klucza podziałowego przypisanych do danego OPK i ustalonej stawki kosztów na jednostkę przyjętego klucza podziałowego."
+    },
+    {
+      "provision_ref": "par7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "Alokacja kosztów OPK działalności podstawowej, w tym OPK proceduralnych, świadczących usługi na rzecz innych OPK, jest dokonywana w taki sposób, aby wszystkie koszty OPK zostały alokowane na rzecz OPK, dla których były świadczone usługi, przy zastosowaniu kluczy podziałowych zgodnych ze standardowymi kluczami podziałowymi służącymi rozliczaniu kosztów działalności podstawowej, w tym OPK proceduralnych, określonymi w załączniku nr 8 do rozporządzenia. Na koszty OPK proceduralnego składają się: koszty bezpośrednie poniesione w tym OPK; koszty pośrednie przypisane z innych OPK działalności pomocniczej i podstawowej, wykonujących usługi na rzecz tego OPK. Do alokacji kosztów OPK proceduralnych stosuje się koszty wytworzenia procedur medycznych, które wycenia się według rzeczywistych kosztów zużytych zasobów. W przypadku braku możliwości zastosowania wyceny według rzeczywistych kosztów zużytych zasobów stosuje się wycenę na podstawie kosztów typowo zużywanych zasobów materiałowych i osobowych. Sposób wyceny procedur medycznych na podstawie kosztów typowo zużywanych zasobów materiałowych i osobowych jest uzależniony od sposobu naliczania kosztów pośrednich procedury medycznej: proporcjonalnie do czasu trwania procedur medycznych lub na podstawie jednostki kalkulacyjnej. Sposoby wyceny procedur medycznych zostały określone w załączniku nr 9 do rozporządzenia. Dla każdego OPK proceduralnego świadczeniodawca sporządza wykaz procedur w nim wykonywanych, w sposób wyczerpujący całokształt jego działalności, przy wykorzystaniu aktualnego Słownika Procedur Medycznych (ICD-9 PL) ogłaszanego w formie komunikatu przez Narodowy Fundusz Zdrowia. W przypadku procedur, które nie posiadają kodu w klasyfikacji ICD-9 PL lub jeżeli kod własny doprecyzowuje informacje o procedurze, jest dopuszczalne użycie własnego kodu. W przypadku wykazania kodów własnych świadczeniodawca przekazuje Agencji słownik kodów własnych z przyporządkowaniem kodu ze słownika ICD-9 PL, w ramach udostępnienia danych, o których mowa w art. 31lc ust. 2 ustawy. Dla wszystkich procedur realizowanych w OPK proceduralnym świadczeniodawca prowadzi ilościową ewidencję ich wykonań. Dla każdej z procedur umieszczonych w wykazie OPK proceduralnego świadczeniodawca sporządza ilościowe zestawienie zasobów materiałowych zużywanych podczas jej wykonywania, zgodnie z przyjętym przez świadczeniodawcę sposobem wyceny, o którym mowa w ust. 3. Przy alokacji kosztów OPK proceduralnego przyjmuje się, że przypisane bezpośrednio do świadczeniobiorcy koszty świadczeń zdrowotnych rzeczowych przenosi się na OPK odpowiednio do miejsca ujęcia przychodu i nie stanowią one kosztu wytworzenia procedury medycznej. Koszty osobowe personelu zaangażowanego w wykonanie procedury medycznej ustala się na podstawie czasu trwania procedury oraz stawki wynagrodzeń tego personelu wraz z pochodnymi od wynagrodzeń, zgodnie z metodyką określoną w pkt 3 załącznika nr 9 do rozporządzenia. Koszt pośredni procedury medycznej jest wyliczany zgodnie z przyjętym sposobem wyceny wskazanym w ust. 4. Jednostkowy koszt wytworzenia procedury medycznej stanowi suma jego jednostkowego kosztu bezpośredniego oraz kosztu pośredniego. Świadczeniodawca przekazuje Agencji informacje o przyjętym sposobie wyceny procedur medycznych w ramach udostępnienia danych, o których mowa w art. 31lc ust. 2 ustawy."
+    },
+    {
+      "provision_ref": "par7u1",
+      "section": "7",
+      "title": "§ 7 ust. 1",
+      "content": "Alokacja kosztów OPK działalności podstawowej, w tym OPK proceduralnych, świadczących usługi na rzecz innych OPK, jest dokonywana w taki sposób, aby wszystkie koszty OPK zostały alokowane na rzecz OPK, dla których były świadczone usługi, przy zastosowaniu kluczy podziałowych zgodnych ze standardowymi kluczami podziałowymi służącymi rozliczaniu kosztów działalności podstawowej, w tym OPK proceduralnych, określonymi w załączniku nr 8 do rozporządzenia."
+    },
+    {
+      "provision_ref": "par7u2p1",
+      "section": "7",
+      "title": "§ 7 ust. 2 pkt 1",
+      "content": "Na koszty OPK proceduralnego składają się: koszty bezpośrednie poniesione w tym OPK;"
+    },
+    {
+      "provision_ref": "par7u2p2",
+      "section": "7",
+      "title": "§ 7 ust. 2 pkt 2",
+      "content": "Na koszty OPK proceduralnego składają się: koszty pośrednie przypisane z innych OPK działalności pomocniczej i podstawowej, wykonujących usługi na rzecz tego OPK."
+    },
+    {
+      "provision_ref": "par7u3",
+      "section": "7",
+      "title": "§ 7 ust. 3",
+      "content": "Do alokacji kosztów OPK proceduralnych stosuje się koszty wytworzenia procedur medycznych, które wycenia się według rzeczywistych kosztów zużytych zasobów. W przypadku braku możliwości zastosowania wyceny według rzeczywistych kosztów zużytych zasobów stosuje się wycenę na podstawie kosztów typowo zużywanych zasobów materiałowych i osobowych."
+    },
+    {
+      "provision_ref": "par7u4p1",
+      "section": "7",
+      "title": "§ 7 ust. 4 pkt 1",
+      "content": "Sposób wyceny procedur medycznych na podstawie kosztów typowo zużywanych zasobów materiałowych i osobowych jest uzależniony od sposobu naliczania kosztów pośrednich procedury medycznej: proporcjonalnie do czasu trwania procedur medycznych lub"
+    },
+    {
+      "provision_ref": "par7u4p2",
+      "section": "7",
+      "title": "§ 7 ust. 4 pkt 2",
+      "content": "Sposób wyceny procedur medycznych na podstawie kosztów typowo zużywanych zasobów materiałowych i osobowych jest uzależniony od sposobu naliczania kosztów pośrednich procedury medycznej: na podstawie jednostki kalkulacyjnej."
+    },
+    {
+      "provision_ref": "par7u5",
+      "section": "7",
+      "title": "§ 7 ust. 5",
+      "content": "Sposoby wyceny procedur medycznych zostały określone w załączniku nr 9 do rozporządzenia."
+    },
+    {
+      "provision_ref": "par7u6",
+      "section": "7",
+      "title": "§ 7 ust. 6",
+      "content": "Dla każdego OPK proceduralnego świadczeniodawca sporządza wykaz procedur w nim wykonywanych, w sposób wyczerpujący całokształt jego działalności, przy wykorzystaniu aktualnego Słownika Procedur Medycznych (ICD-9 PL) ogłaszanego w formie komunikatu przez Narodowy Fundusz Zdrowia. W przypadku procedur, które nie posiadają kodu w klasyfikacji ICD-9 PL lub jeżeli kod własny doprecyzowuje informacje o procedurze, jest dopuszczalne użycie własnego kodu. W przypadku wykazania kodów własnych świadczeniodawca przekazuje Agencji słownik kodów własnych z przyporządkowaniem kodu ze słownika ICD-9 PL, w ramach udostępnienia danych, o których mowa w art. 31lc ust. 2 ustawy."
+    },
+    {
+      "provision_ref": "par7u7",
+      "section": "7",
+      "title": "§ 7 ust. 7",
+      "content": "Dla wszystkich procedur realizowanych w OPK proceduralnym świadczeniodawca prowadzi ilościową ewidencję ich wykonań."
+    },
+    {
+      "provision_ref": "par7u8",
+      "section": "7",
+      "title": "§ 7 ust. 8",
+      "content": "Dla każdej z procedur umieszczonych w wykazie OPK proceduralnego świadczeniodawca sporządza ilościowe zestawienie zasobów materiałowych zużywanych podczas jej wykonywania, zgodnie z przyjętym przez świadczeniodawcę sposobem wyceny, o którym mowa w ust. 3."
+    },
+    {
+      "provision_ref": "par7u9",
+      "section": "7",
+      "title": "§ 7 ust. 9",
+      "content": "Przy alokacji kosztów OPK proceduralnego przyjmuje się, że przypisane bezpośrednio do świadczeniobiorcy koszty świadczeń zdrowotnych rzeczowych przenosi się na OPK odpowiednio do miejsca ujęcia przychodu i nie stanowią one kosztu wytworzenia procedury medycznej."
+    },
+    {
+      "provision_ref": "par7u10",
+      "section": "7",
+      "title": "§ 7 ust. 10",
+      "content": "Koszty osobowe personelu zaangażowanego w wykonanie procedury medycznej ustala się na podstawie czasu trwania procedury oraz stawki wynagrodzeń tego personelu wraz z pochodnymi od wynagrodzeń, zgodnie z metodyką określoną w pkt 3 załącznika nr 9 do rozporządzenia."
+    },
+    {
+      "provision_ref": "par7u11",
+      "section": "7",
+      "title": "§ 7 ust. 11",
+      "content": "Koszt pośredni procedury medycznej jest wyliczany zgodnie z przyjętym sposobem wyceny wskazanym w ust. 4."
+    },
+    {
+      "provision_ref": "par7u12",
+      "section": "7",
+      "title": "§ 7 ust. 12",
+      "content": "Jednostkowy koszt wytworzenia procedury medycznej stanowi suma jego jednostkowego kosztu bezpośredniego oraz kosztu pośredniego."
+    },
+    {
+      "provision_ref": "par7u13",
+      "section": "7",
+      "title": "§ 7 ust. 13",
+      "content": "Świadczeniodawca przekazuje Agencji informacje o przyjętym sposobie wyceny procedur medycznych w ramach udostępnienia danych, o których mowa w art. 31lc ust. 2 ustawy."
+    },
+    {
+      "provision_ref": "par8",
+      "section": "8",
+      "title": "§ 8",
+      "content": "Koszty zarządu gromadzi się na OPK zarządu i stanowią one sumę kosztów bezpośrednich tych OPK i kosztów alokowanych z innych OPK. Do kosztów zarządu zalicza się koszty komórek organizacyjnych realizujących działalność o następującym charakterze: kierownictwo świadczeniodawcy; kancelaria (w tym dziennik podawczy i kancelaria tajna); dział finansowo-księgowy; dział ekonomiczny, kontroli, controllingu, statystyki, rozliczeń; dział kadr i płac; dział organizacyjny, dział prawny - radcowie prawni, dział inwentaryzacji; dział bezpieczeństwa i higieny pracy, przeciwpożarowy; kontrola wewnętrzna, kontrola zarządcza, audyt; pełnomocnicy, rzecznicy; dział zamówień publicznych; dział marketingu i promocji; ubezpieczenie od odpowiedzialności z tytułu cyberprzestępstw; ubezpieczenie odpowiedzialności zarządu; kaplica, kapelan. Do kosztów zarządu nie zalicza się kosztów: ubezpieczenia odpowiedzialności cywilnej i majątkowej; całkowitej wartości amortyzacji budynków; całkowitych energii elektrycznej, cieplnej i innych mediów; usług sprzątania; usług dozoru; wywozu odpadów; działu informatyki. Koszty, o których mowa w ust. 3, są alokowane na OPK rozdzielnikiem kosztów, zgodnie z warunkami określonymi w § 5."
+    },
+    {
+      "provision_ref": "par8u1",
+      "section": "8",
+      "title": "§ 8 ust. 1",
+      "content": "Koszty zarządu gromadzi się na OPK zarządu i stanowią one sumę kosztów bezpośrednich tych OPK i kosztów alokowanych z innych OPK."
+    },
+    {
+      "provision_ref": "par8u2p1",
+      "section": "8",
+      "title": "§ 8 ust. 2 pkt 1",
+      "content": "Do kosztów zarządu zalicza się koszty komórek organizacyjnych realizujących działalność o następującym charakterze: kierownictwo świadczeniodawcy;"
+    },
+    {
+      "provision_ref": "par8u2p2",
+      "section": "8",
+      "title": "§ 8 ust. 2 pkt 2",
+      "content": "Do kosztów zarządu zalicza się koszty komórek organizacyjnych realizujących działalność o następującym charakterze: kancelaria (w tym dziennik podawczy i kancelaria tajna);"
+    },
+    {
+      "provision_ref": "par8u2p3",
+      "section": "8",
+      "title": "§ 8 ust. 2 pkt 3",
+      "content": "Do kosztów zarządu zalicza się koszty komórek organizacyjnych realizujących działalność o następującym charakterze: dział finansowo-księgowy;"
+    },
+    {
+      "provision_ref": "par8u2p4",
+      "section": "8",
+      "title": "§ 8 ust. 2 pkt 4",
+      "content": "Do kosztów zarządu zalicza się koszty komórek organizacyjnych realizujących działalność o następującym charakterze: dział ekonomiczny, kontroli, controllingu, statystyki, rozliczeń;"
+    },
+    {
+      "provision_ref": "par8u2p5",
+      "section": "8",
+      "title": "§ 8 ust. 2 pkt 5",
+      "content": "Do kosztów zarządu zalicza się koszty komórek organizacyjnych realizujących działalność o następującym charakterze: dział kadr i płac;"
+    },
+    {
+      "provision_ref": "par8u2p6",
+      "section": "8",
+      "title": "§ 8 ust. 2 pkt 6",
+      "content": "Do kosztów zarządu zalicza się koszty komórek organizacyjnych realizujących działalność o następującym charakterze: dział organizacyjny, dział prawny - radcowie prawni, dział inwentaryzacji;"
+    },
+    {
+      "provision_ref": "par8u2p7",
+      "section": "8",
+      "title": "§ 8 ust. 2 pkt 7",
+      "content": "Do kosztów zarządu zalicza się koszty komórek organizacyjnych realizujących działalność o następującym charakterze: dział bezpieczeństwa i higieny pracy, przeciwpożarowy;"
+    },
+    {
+      "provision_ref": "par8u2p8",
+      "section": "8",
+      "title": "§ 8 ust. 2 pkt 8",
+      "content": "Do kosztów zarządu zalicza się koszty komórek organizacyjnych realizujących działalność o następującym charakterze: kontrola wewnętrzna, kontrola zarządcza, audyt;"
+    },
+    {
+      "provision_ref": "par8u2p9",
+      "section": "8",
+      "title": "§ 8 ust. 2 pkt 9",
+      "content": "Do kosztów zarządu zalicza się koszty komórek organizacyjnych realizujących działalność o następującym charakterze: pełnomocnicy, rzecznicy;"
+    },
+    {
+      "provision_ref": "par8u2p10",
+      "section": "8",
+      "title": "§ 8 ust. 2 pkt 10",
+      "content": "Do kosztów zarządu zalicza się koszty komórek organizacyjnych realizujących działalność o następującym charakterze: dział zamówień publicznych;"
+    },
+    {
+      "provision_ref": "par8u2p11",
+      "section": "8",
+      "title": "§ 8 ust. 2 pkt 11",
+      "content": "Do kosztów zarządu zalicza się koszty komórek organizacyjnych realizujących działalność o następującym charakterze: dział marketingu i promocji;"
+    },
+    {
+      "provision_ref": "par8u2p12",
+      "section": "8",
+      "title": "§ 8 ust. 2 pkt 12",
+      "content": "Do kosztów zarządu zalicza się koszty komórek organizacyjnych realizujących działalność o następującym charakterze: ubezpieczenie od odpowiedzialności z tytułu cyberprzestępstw;"
+    },
+    {
+      "provision_ref": "par8u2p13",
+      "section": "8",
+      "title": "§ 8 ust. 2 pkt 13",
+      "content": "Do kosztów zarządu zalicza się koszty komórek organizacyjnych realizujących działalność o następującym charakterze: ubezpieczenie odpowiedzialności zarządu;"
+    },
+    {
+      "provision_ref": "par8u2p14",
+      "section": "8",
+      "title": "§ 8 ust. 2 pkt 14",
+      "content": "Do kosztów zarządu zalicza się koszty komórek organizacyjnych realizujących działalność o następującym charakterze: kaplica, kapelan."
+    },
+    {
+      "provision_ref": "par8u3p1",
+      "section": "8",
+      "title": "§ 8 ust. 3 pkt 1",
+      "content": "Do kosztów zarządu nie zalicza się kosztów: ubezpieczenia odpowiedzialności cywilnej i majątkowej;"
+    },
+    {
+      "provision_ref": "par8u3p2",
+      "section": "8",
+      "title": "§ 8 ust. 3 pkt 2",
+      "content": "Do kosztów zarządu nie zalicza się kosztów: całkowitej wartości amortyzacji budynków;"
+    },
+    {
+      "provision_ref": "par8u3p3",
+      "section": "8",
+      "title": "§ 8 ust. 3 pkt 3",
+      "content": "Do kosztów zarządu nie zalicza się kosztów: całkowitych energii elektrycznej, cieplnej i innych mediów;"
+    },
+    {
+      "provision_ref": "par8u3p4",
+      "section": "8",
+      "title": "§ 8 ust. 3 pkt 4",
+      "content": "Do kosztów zarządu nie zalicza się kosztów: usług sprzątania;"
+    },
+    {
+      "provision_ref": "par8u3p5",
+      "section": "8",
+      "title": "§ 8 ust. 3 pkt 5",
+      "content": "Do kosztów zarządu nie zalicza się kosztów: usług dozoru;"
+    },
+    {
+      "provision_ref": "par8u3p6",
+      "section": "8",
+      "title": "§ 8 ust. 3 pkt 6",
+      "content": "Do kosztów zarządu nie zalicza się kosztów: wywozu odpadów;"
+    },
+    {
+      "provision_ref": "par8u3p7",
+      "section": "8",
+      "title": "§ 8 ust. 3 pkt 7",
+      "content": "Do kosztów zarządu nie zalicza się kosztów: działu informatyki."
+    },
+    {
+      "provision_ref": "par8u4",
+      "section": "8",
+      "title": "§ 8 ust. 4",
+      "content": "Koszty, o których mowa w ust. 3, są alokowane na OPK rozdzielnikiem kosztów, zgodnie z warunkami określonymi w § 5."
+    },
+    {
+      "provision_ref": "par9",
+      "section": "9",
+      "title": "§ 9",
+      "content": "Koszt własny sprzedaży OPK stanowi suma kosztu wytworzenia OPK działalności podstawowej ustalonego zgodnie z § 4 rozporządzenia oraz alokowanych kosztów zarządu."
+    },
+    {
+      "provision_ref": "par10",
+      "section": "10",
+      "title": "§ 10",
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r."
+    }
+  ],
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2020-1398",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-1492",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-1493",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-1578",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-1875",
+      "ref_type": "references"
+    }
+  ]
+}

@@ -1,0 +1,956 @@
+{
+  "id": "pl-du-2019-1310",
+  "type": "statute",
+  "title": "Rozporządzenie Ministra Zdrowia z dnia 3 lipca 2019 r. w sprawie Systemu Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego",
+  "title_en": "",
+  "short_name": "pl-du-2019-1310",
+  "status": "in_force",
+  "issued_date": "2019-07-03",
+  "in_force_date": "2019-07-15",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/1310",
+  "provisions": [
+    {
+      "provision_ref": "par1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Rozporządzenie określa: minimalne funkcjonalności Systemu Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego, zwanego dalej „SWD PRM”; sposób utrzymania SWD PRM; sposób działania SWD PRM w sytuacji awarii SWD PRM; sposób zarządzania SWD PRM; minimalne wyposażenie stanowisk pracy SWD PRM w dyspozytorni medycznej, w miejscu stacjonowania zespołu ratownictwa medycznego, w specjalistycznym środku transportu sanitarnego wykorzystywanym przez zespół ratownictwa medycznego i na stanowisku pracy wojewódzkiego koordynatora ratownictwa medycznego."
+    },
+    {
+      "provision_ref": "par1p1",
+      "section": "1",
+      "title": "§ 1 pkt 1",
+      "content": "Rozporządzenie określa: minimalne funkcjonalności Systemu Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego, zwanego dalej „SWD PRM”;"
+    },
+    {
+      "provision_ref": "par1p2",
+      "section": "1",
+      "title": "§ 1 pkt 2",
+      "content": "Rozporządzenie określa: sposób utrzymania SWD PRM;"
+    },
+    {
+      "provision_ref": "par1p3",
+      "section": "1",
+      "title": "§ 1 pkt 3",
+      "content": "Rozporządzenie określa: sposób działania SWD PRM w sytuacji awarii SWD PRM;"
+    },
+    {
+      "provision_ref": "par1p4",
+      "section": "1",
+      "title": "§ 1 pkt 4",
+      "content": "Rozporządzenie określa: sposób zarządzania SWD PRM;"
+    },
+    {
+      "provision_ref": "par1p5",
+      "section": "1",
+      "title": "§ 1 pkt 5",
+      "content": "Rozporządzenie określa: minimalne wyposażenie stanowisk pracy SWD PRM w dyspozytorni medycznej, w miejscu stacjonowania zespołu ratownictwa medycznego, w specjalistycznym środku transportu sanitarnego wykorzystywanym przez zespół ratownictwa medycznego i na stanowisku pracy wojewódzkiego koordynatora ratownictwa medycznego."
+    },
+    {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: certyfikacie - rozumie się przez to elektroniczny dokument realizujący funkcję autentyczności w stosunku do klucza publicznego podmiotu; infrastrukturze klucza publicznego - rozumie się przez to zbiór osób, polityk, procedur i systemów komputerowych niezbędnych do świadczenia usług uwierzytelniania, szyfrowania, integralności i niezaprzeczalności za pośrednictwem kryptografii klucza publicznego i prywatnego oraz certyfikatów; incydencie - rozumie się przez to wystąpienie każdej nieprawidłowości w działaniu SWD PRM lub systemów współpracujących z SWD PRM; podsystemie zintegrowanej łączności - rozumie się przez to system umożliwiający w warstwie telekomunikacyjnej łączności głosowej i bezgłosowej obsługę zgłoszeń telefonicznych, w tym zgłoszeń bezgłosowych przekazywanych z urządzeń eCall oraz przesyłanych w formacie SMS, jak i rejestrację i archiwizację zapisów rozmów głosowych i połączeń bezgłosowych; raportach predefiniowanych - rozumie się przez to przygotowane i zaimplementowane raporty w module raportowym SWD PRM; raportach swobodnych - rozumie się przez to możliwe do wygenerowania raporty, zgodnie z wprowadzonymi parametrami, w module raportowym SWD PRM; rolach systemowych - rozumie się przez to nazwany zbiór uprawnień systemowych przypisanych do kategorii użytkownika; systemie operacyjnym - rozumie się przez to oprogramowanie zarządzające systemem komputerowym, tworzące środowisko do uruchamiania i kontroli zadań użytkownika; uprawnieniach systemowych - rozumie się przez to zbiór czynności zezwalających użytkownikowi na wykonywanie w SWD PRM operacji określonego typu, które mogą być kontrolowane przy pomocy ról systemowych; użytkowniku końcowym - rozumie się przez to osobę, grupę osób lub instytucję, która ma prawo do użytkowania systemu teleinformatycznego; zakończeniu sieci - rozumie się przez to fizyczny punkt, w którym abonent otrzymuje dostęp do publicznej sieci telekomunikacyjnej, identyfikujący się za pomocą konkretnego adresu lub geograficznym położeniem urządzenia końcowego użytkownika; zdarzeniu - rozumie się przez to zgłoszenie, które wpłynęło do dyspozytorni medycznej i decyzją dyspozytora medycznego, na podstawie zebranego wywiadu medycznego, zostało przyjęte i zakwalifikowane jako podejrzenie stanu nagłego zagrożenia zdrowotnego, w celu przekazania do realizacji przez zespół ratownictwa medycznego."
+    },
+    {
+      "provision_ref": "par2p1",
+      "section": "2",
+      "title": "§ 2 pkt 1",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: certyfikacie - rozumie się przez to elektroniczny dokument realizujący funkcję autentyczności w stosunku do klucza publicznego podmiotu;"
+    },
+    {
+      "provision_ref": "par2p2",
+      "section": "2",
+      "title": "§ 2 pkt 2",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: infrastrukturze klucza publicznego - rozumie się przez to zbiór osób, polityk, procedur i systemów komputerowych niezbędnych do świadczenia usług uwierzytelniania, szyfrowania, integralności i niezaprzeczalności za pośrednictwem kryptografii klucza publicznego i prywatnego oraz certyfikatów;"
+    },
+    {
+      "provision_ref": "par2p3",
+      "section": "2",
+      "title": "§ 2 pkt 3",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: incydencie - rozumie się przez to wystąpienie każdej nieprawidłowości w działaniu SWD PRM lub systemów współpracujących z SWD PRM;"
+    },
+    {
+      "provision_ref": "par2p4",
+      "section": "2",
+      "title": "§ 2 pkt 4",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: podsystemie zintegrowanej łączności - rozumie się przez to system umożliwiający w warstwie telekomunikacyjnej łączności głosowej i bezgłosowej obsługę zgłoszeń telefonicznych, w tym zgłoszeń bezgłosowych przekazywanych z urządzeń eCall oraz przesyłanych w formacie SMS, jak i rejestrację i archiwizację zapisów rozmów głosowych i połączeń bezgłosowych;"
+    },
+    {
+      "provision_ref": "par2p5",
+      "section": "2",
+      "title": "§ 2 pkt 5",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: raportach predefiniowanych - rozumie się przez to przygotowane i zaimplementowane raporty w module raportowym SWD PRM;"
+    },
+    {
+      "provision_ref": "par2p6",
+      "section": "2",
+      "title": "§ 2 pkt 6",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: raportach swobodnych - rozumie się przez to możliwe do wygenerowania raporty, zgodnie z wprowadzonymi parametrami, w module raportowym SWD PRM;"
+    },
+    {
+      "provision_ref": "par2p7",
+      "section": "2",
+      "title": "§ 2 pkt 7",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: rolach systemowych - rozumie się przez to nazwany zbiór uprawnień systemowych przypisanych do kategorii użytkownika;"
+    },
+    {
+      "provision_ref": "par2p8",
+      "section": "2",
+      "title": "§ 2 pkt 8",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: systemie operacyjnym - rozumie się przez to oprogramowanie zarządzające systemem komputerowym, tworzące środowisko do uruchamiania i kontroli zadań użytkownika;"
+    },
+    {
+      "provision_ref": "par2p9",
+      "section": "2",
+      "title": "§ 2 pkt 9",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: uprawnieniach systemowych - rozumie się przez to zbiór czynności zezwalających użytkownikowi na wykonywanie w SWD PRM operacji określonego typu, które mogą być kontrolowane przy pomocy ról systemowych;"
+    },
+    {
+      "provision_ref": "par2p10",
+      "section": "2",
+      "title": "§ 2 pkt 10",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: użytkowniku końcowym - rozumie się przez to osobę, grupę osób lub instytucję, która ma prawo do użytkowania systemu teleinformatycznego;"
+    },
+    {
+      "provision_ref": "par2p11",
+      "section": "2",
+      "title": "§ 2 pkt 11",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: zakończeniu sieci - rozumie się przez to fizyczny punkt, w którym abonent otrzymuje dostęp do publicznej sieci telekomunikacyjnej, identyfikujący się za pomocą konkretnego adresu lub geograficznym położeniem urządzenia końcowego użytkownika;"
+    },
+    {
+      "provision_ref": "par2p12",
+      "section": "2",
+      "title": "§ 2 pkt 12",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: zdarzeniu - rozumie się przez to zgłoszenie, które wpłynęło do dyspozytorni medycznej i decyzją dyspozytora medycznego, na podstawie zebranego wywiadu medycznego, zostało przyjęte i zakwalifikowane jako podejrzenie stanu nagłego zagrożenia zdrowotnego, w celu przekazania do realizacji przez zespół ratownictwa medycznego."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "SWD PRM w ramach minimalnych funkcjonalności zapewnia: przyjmowanie zgłoszeń alarmowych przekazywanych z centrów powiadamiania ratunkowego, o których mowa w art. 3 ust. 2 ustawy z dnia 22 listopada 2013 r. o systemie powiadamiania ratunkowego , zwanej dalej „ustawą o systemie powiadamiania ratunkowego”, oraz powiadomień o zdarzeniach kierowanych do dyspozytorni medycznej, o której mowa w art. 3 pkt 14a ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym , zwanej dalej „ustawą”; rejestrowanie zdarzeń medycznych; dysponowanie zespołami ratownictwa medycznego; wymianę informacji i danych z systemami teleinformatycznymi centrów powiadamiania ratunkowego, Policji oraz Państwowej Straży Pożarnej za pośrednictwem interfejsu komunikacyjnego, o którym mowa w art. 13 ust. 2 ustawy o systemie powiadamiania ratunkowego ; wykorzystywanie danych przestrzennych i związanych z nimi usług, udostępnianych w ramach stałego dostępu z wykorzystaniem środków komunikacji elektronicznej na potrzeby wizualizacji graficznej miejsca zgłoszenia alarmowego lub powiadomienia o zdarzeniu oraz miejsca zdarzenia za pośrednictwem systemu, o którym mowa w art. 40 ust. 3e ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne ; wykorzystywanie informacji dotyczących lokalizacji zakończenia sieci, z którego zostało wykonane połączenie do numeru alarmowego, oraz danych dotyczących abonenta, o których mowa w art. 78 ust. 2 ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne , udostępnionych za pośrednictwem centralnego punktu systemu powiadamiania ratunkowego, o którym mowa w art. 78 ust. 4 pkt 1 tej ustawy; pozycjonowanie zespołów ratownictwa medycznego; wspomaganie obsługi zdarzeń medycznych; wspomaganie realizacji zadań przez zespoły ratownictwa medycznego; wspomaganie realizacji zadań przez wojewódzkiego koordynatora ratownictwa medycznego; generowanie raportów predefiniowanych i swobodnych oraz statystyk dotyczących funkcjonowania przedszpitalnego systemu Państwowe Ratownictwo Medyczne, o którym mowa w art. 1 ustawy; wykonywanie kopii bezpieczeństwa przetwarzanych danych, w tym dokumentacji medycznej; prowadzenie ewidencji zasobów ratowniczych, rozumianych jako siły i środki znajdujące się w posiadaniu dysponentów zespołów ratownictwa medycznego; pracę w architekturze centralnej w Podstawowym Ośrodku Krajowym, zwanym dalej „POK”, i Zapasowym Ośrodku Krajowym, zwanym dalej „ZOK”, przetwarzania danych; całodobową dostępność przez 7 dni w tygodniu; zachowanie ciągłości działania w sytuacji awaryjnej; środowisko szkoleniowe, posiadające funkcjonalności środowiska produkcyjnego SWD PRM, umożliwiające prowadzenie szkoleń użytkowników SWD PRM; kontrolę dostępu użytkowników do danych; rejestrowanie dokonywanych przez użytkowników zmian i odtworzenie historii każdego zdarzenia, zgłoszenia alarmowego i powiadomienia o zdarzeniu; moduł administratora umożliwiający realizację zadań w modelu kaskadowym, z podziałem na administratora centralnego, wojewódzkiego i dysponenta, o których mowa w § 9 ust. 4-6; prowadzenie dokumentacji medycznej w postaci elektronicznej, z możliwością wydruku."
+    },
+    {
+      "provision_ref": "par3p1",
+      "section": "3",
+      "title": "§ 3 pkt 1",
+      "content": "SWD PRM w ramach minimalnych funkcjonalności zapewnia: przyjmowanie zgłoszeń alarmowych przekazywanych z centrów powiadamiania ratunkowego, o których mowa w art. 3 ust. 2 ustawy z dnia 22 listopada 2013 r. o systemie powiadamiania ratunkowego , zwanej dalej „ustawą o systemie powiadamiania ratunkowego”, oraz powiadomień o zdarzeniach kierowanych do dyspozytorni medycznej, o której mowa w art. 3 pkt 14a ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym , zwanej dalej „ustawą”;"
+    },
+    {
+      "provision_ref": "par3p2",
+      "section": "3",
+      "title": "§ 3 pkt 2",
+      "content": "SWD PRM w ramach minimalnych funkcjonalności zapewnia: rejestrowanie zdarzeń medycznych;"
+    },
+    {
+      "provision_ref": "par3p3",
+      "section": "3",
+      "title": "§ 3 pkt 3",
+      "content": "SWD PRM w ramach minimalnych funkcjonalności zapewnia: dysponowanie zespołami ratownictwa medycznego;"
+    },
+    {
+      "provision_ref": "par3p4",
+      "section": "3",
+      "title": "§ 3 pkt 4",
+      "content": "SWD PRM w ramach minimalnych funkcjonalności zapewnia: wymianę informacji i danych z systemami teleinformatycznymi centrów powiadamiania ratunkowego, Policji oraz Państwowej Straży Pożarnej za pośrednictwem interfejsu komunikacyjnego, o którym mowa w art. 13 ust. 2 ustawy o systemie powiadamiania ratunkowego ;"
+    },
+    {
+      "provision_ref": "par3p5",
+      "section": "3",
+      "title": "§ 3 pkt 5",
+      "content": "SWD PRM w ramach minimalnych funkcjonalności zapewnia: wykorzystywanie danych przestrzennych i związanych z nimi usług, udostępnianych w ramach stałego dostępu z wykorzystaniem środków komunikacji elektronicznej na potrzeby wizualizacji graficznej miejsca zgłoszenia alarmowego lub powiadomienia o zdarzeniu oraz miejsca zdarzenia za pośrednictwem systemu, o którym mowa w art. 40 ust. 3e ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne ;"
+    },
+    {
+      "provision_ref": "par3p6",
+      "section": "3",
+      "title": "§ 3 pkt 6",
+      "content": "SWD PRM w ramach minimalnych funkcjonalności zapewnia: wykorzystywanie informacji dotyczących lokalizacji zakończenia sieci, z którego zostało wykonane połączenie do numeru alarmowego, oraz danych dotyczących abonenta, o których mowa w art. 78 ust. 2 ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne , udostępnionych za pośrednictwem centralnego punktu systemu powiadamiania ratunkowego, o którym mowa w art. 78 ust. 4 pkt 1 tej ustawy;"
+    },
+    {
+      "provision_ref": "par3p7",
+      "section": "3",
+      "title": "§ 3 pkt 7",
+      "content": "SWD PRM w ramach minimalnych funkcjonalności zapewnia: pozycjonowanie zespołów ratownictwa medycznego;"
+    },
+    {
+      "provision_ref": "par3p8",
+      "section": "3",
+      "title": "§ 3 pkt 8",
+      "content": "SWD PRM w ramach minimalnych funkcjonalności zapewnia: wspomaganie obsługi zdarzeń medycznych;"
+    },
+    {
+      "provision_ref": "par3p9",
+      "section": "3",
+      "title": "§ 3 pkt 9",
+      "content": "SWD PRM w ramach minimalnych funkcjonalności zapewnia: wspomaganie realizacji zadań przez zespoły ratownictwa medycznego;"
+    },
+    {
+      "provision_ref": "par3p10",
+      "section": "3",
+      "title": "§ 3 pkt 10",
+      "content": "SWD PRM w ramach minimalnych funkcjonalności zapewnia: wspomaganie realizacji zadań przez wojewódzkiego koordynatora ratownictwa medycznego;"
+    },
+    {
+      "provision_ref": "par3p11",
+      "section": "3",
+      "title": "§ 3 pkt 11",
+      "content": "SWD PRM w ramach minimalnych funkcjonalności zapewnia: generowanie raportów predefiniowanych i swobodnych oraz statystyk dotyczących funkcjonowania przedszpitalnego systemu Państwowe Ratownictwo Medyczne, o którym mowa w art. 1 ustawy;"
+    },
+    {
+      "provision_ref": "par3p12",
+      "section": "3",
+      "title": "§ 3 pkt 12",
+      "content": "SWD PRM w ramach minimalnych funkcjonalności zapewnia: wykonywanie kopii bezpieczeństwa przetwarzanych danych, w tym dokumentacji medycznej;"
+    },
+    {
+      "provision_ref": "par3p13",
+      "section": "3",
+      "title": "§ 3 pkt 13",
+      "content": "SWD PRM w ramach minimalnych funkcjonalności zapewnia: prowadzenie ewidencji zasobów ratowniczych, rozumianych jako siły i środki znajdujące się w posiadaniu dysponentów zespołów ratownictwa medycznego;"
+    },
+    {
+      "provision_ref": "par3p14",
+      "section": "3",
+      "title": "§ 3 pkt 14",
+      "content": "SWD PRM w ramach minimalnych funkcjonalności zapewnia: pracę w architekturze centralnej w Podstawowym Ośrodku Krajowym, zwanym dalej „POK”, i Zapasowym Ośrodku Krajowym, zwanym dalej „ZOK”, przetwarzania danych;"
+    },
+    {
+      "provision_ref": "par3p15",
+      "section": "3",
+      "title": "§ 3 pkt 15",
+      "content": "SWD PRM w ramach minimalnych funkcjonalności zapewnia: całodobową dostępność przez 7 dni w tygodniu;"
+    },
+    {
+      "provision_ref": "par3p16",
+      "section": "3",
+      "title": "§ 3 pkt 16",
+      "content": "SWD PRM w ramach minimalnych funkcjonalności zapewnia: zachowanie ciągłości działania w sytuacji awaryjnej;"
+    },
+    {
+      "provision_ref": "par3p17",
+      "section": "3",
+      "title": "§ 3 pkt 17",
+      "content": "SWD PRM w ramach minimalnych funkcjonalności zapewnia: środowisko szkoleniowe, posiadające funkcjonalności środowiska produkcyjnego SWD PRM, umożliwiające prowadzenie szkoleń użytkowników SWD PRM;"
+    },
+    {
+      "provision_ref": "par3p18",
+      "section": "3",
+      "title": "§ 3 pkt 18",
+      "content": "SWD PRM w ramach minimalnych funkcjonalności zapewnia: kontrolę dostępu użytkowników do danych;"
+    },
+    {
+      "provision_ref": "par3p19",
+      "section": "3",
+      "title": "§ 3 pkt 19",
+      "content": "SWD PRM w ramach minimalnych funkcjonalności zapewnia: rejestrowanie dokonywanych przez użytkowników zmian i odtworzenie historii każdego zdarzenia, zgłoszenia alarmowego i powiadomienia o zdarzeniu;"
+    },
+    {
+      "provision_ref": "par3p20",
+      "section": "3",
+      "title": "§ 3 pkt 20",
+      "content": "SWD PRM w ramach minimalnych funkcjonalności zapewnia: moduł administratora umożliwiający realizację zadań w modelu kaskadowym, z podziałem na administratora centralnego, wojewódzkiego i dysponenta, o których mowa w § 9 ust. 4-6;"
+    },
+    {
+      "provision_ref": "par3p21",
+      "section": "3",
+      "title": "§ 3 pkt 21",
+      "content": "SWD PRM w ramach minimalnych funkcjonalności zapewnia: prowadzenie dokumentacji medycznej w postaci elektronicznej, z możliwością wydruku."
+    },
+    {
+      "provision_ref": "par4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "SWD PRM działa w oparciu o: POK, ZOK - w których są gromadzone dane oraz ich kopie bezpieczeństwa."
+    },
+    {
+      "provision_ref": "par4p1",
+      "section": "4",
+      "title": "§ 4 pkt 1",
+      "content": "SWD PRM działa w oparciu o: POK,"
+    },
+    {
+      "provision_ref": "par4p2",
+      "section": "4",
+      "title": "§ 4 pkt 2",
+      "content": "SWD PRM działa w oparciu o: ZOK"
+    },
+    {
+      "provision_ref": "par5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Utrzymanie SWD PRM jest realizowane na poziomie centralnym i wojewódzkim. Utrzymanie SWD PRM na poziomie centralnym ma na celu zachowanie ciągłości działania SWD PRM i polega w szczególności na: obsłudze technicznej i serwisowaniu infrastruktury sprzętowej SWD PRM w ośrodkach przetwarzania danych, o których mowa w § 4, przez stały monitoring infrastruktury oraz dokonywanie przeglądów i konserwacji; zapewnieniu sprzętu o odpowiedniej mocy obliczeniowej oraz pojemności pamięci masowych w celu zagwarantowania właściwej wydajności przetwarzania danych oraz ich gromadzenia; organizacji całodobowego wsparcia technicznego przez 7 dni w tygodniu; wykonywaniu kopii bezpieczeństwa przetwarzanych danych, o której mowa w § 3 pkt 12; monitorowaniu funkcjonowania sieci transmisji danych, pracy aplikacji, baz danych oraz systemu operacyjnego; monitorowaniu dostępności sieci teleinformatycznej na potrzeby obsługi numerów alarmowych, o której mowa w art. 2 pkt 5 ustawy o systemie powiadamiania ratunkowego , na stanowiskach dyspozytorów medycznych; rozwoju minimalnych funkcjonalności, o których mowa w § 3, oraz modernizacji infrastruktury sprzętowej i oprogramowania na potrzeby SWD PRM; wdrażaniu rozwiązań poprawiających parametry funkcjonalne SWD PRM i bezpieczeństwo przetwarzanych danych. Utrzymanie SWD PRM na poziomie wojewódzkim ma na celu zachowanie ciągłości działania SWD PRM i polega w szczególności na: obsłudze technicznej, serwisowaniu i konfiguracji infrastruktury sprzętowej; organizacji wsparcia technicznego dla użytkowników SWD PRM z terenu województwa."
+    },
+    {
+      "provision_ref": "par5u1",
+      "section": "5",
+      "title": "§ 5 ust. 1",
+      "content": "Utrzymanie SWD PRM jest realizowane na poziomie centralnym i wojewódzkim."
+    },
+    {
+      "provision_ref": "par5u2p1",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 1",
+      "content": "Utrzymanie SWD PRM na poziomie centralnym ma na celu zachowanie ciągłości działania SWD PRM i polega w szczególności na: obsłudze technicznej i serwisowaniu infrastruktury sprzętowej SWD PRM w ośrodkach przetwarzania danych, o których mowa w § 4, przez stały monitoring infrastruktury oraz dokonywanie przeglądów i konserwacji;"
+    },
+    {
+      "provision_ref": "par5u2p2",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 2",
+      "content": "Utrzymanie SWD PRM na poziomie centralnym ma na celu zachowanie ciągłości działania SWD PRM i polega w szczególności na: zapewnieniu sprzętu o odpowiedniej mocy obliczeniowej oraz pojemności pamięci masowych w celu zagwarantowania właściwej wydajności przetwarzania danych oraz ich gromadzenia;"
+    },
+    {
+      "provision_ref": "par5u2p3",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 3",
+      "content": "Utrzymanie SWD PRM na poziomie centralnym ma na celu zachowanie ciągłości działania SWD PRM i polega w szczególności na: organizacji całodobowego wsparcia technicznego przez 7 dni w tygodniu;"
+    },
+    {
+      "provision_ref": "par5u2p4",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 4",
+      "content": "Utrzymanie SWD PRM na poziomie centralnym ma na celu zachowanie ciągłości działania SWD PRM i polega w szczególności na: wykonywaniu kopii bezpieczeństwa przetwarzanych danych, o której mowa w § 3 pkt 12;"
+    },
+    {
+      "provision_ref": "par5u2p5",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 5",
+      "content": "Utrzymanie SWD PRM na poziomie centralnym ma na celu zachowanie ciągłości działania SWD PRM i polega w szczególności na: monitorowaniu funkcjonowania sieci transmisji danych, pracy aplikacji, baz danych oraz systemu operacyjnego;"
+    },
+    {
+      "provision_ref": "par5u2p6",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 6",
+      "content": "Utrzymanie SWD PRM na poziomie centralnym ma na celu zachowanie ciągłości działania SWD PRM i polega w szczególności na: monitorowaniu dostępności sieci teleinformatycznej na potrzeby obsługi numerów alarmowych, o której mowa w art. 2 pkt 5 ustawy o systemie powiadamiania ratunkowego , na stanowiskach dyspozytorów medycznych;"
+    },
+    {
+      "provision_ref": "par5u2p7",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 7",
+      "content": "Utrzymanie SWD PRM na poziomie centralnym ma na celu zachowanie ciągłości działania SWD PRM i polega w szczególności na: rozwoju minimalnych funkcjonalności, o których mowa w § 3, oraz modernizacji infrastruktury sprzętowej i oprogramowania na potrzeby SWD PRM;"
+    },
+    {
+      "provision_ref": "par5u2p8",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 8",
+      "content": "Utrzymanie SWD PRM na poziomie centralnym ma na celu zachowanie ciągłości działania SWD PRM i polega w szczególności na: wdrażaniu rozwiązań poprawiających parametry funkcjonalne SWD PRM i bezpieczeństwo przetwarzanych danych."
+    },
+    {
+      "provision_ref": "par5u3p1",
+      "section": "5",
+      "title": "§ 5 ust. 3 pkt 1",
+      "content": "Utrzymanie SWD PRM na poziomie wojewódzkim ma na celu zachowanie ciągłości działania SWD PRM i polega w szczególności na: obsłudze technicznej, serwisowaniu i konfiguracji infrastruktury sprzętowej;"
+    },
+    {
+      "provision_ref": "par5u3p2",
+      "section": "5",
+      "title": "§ 5 ust. 3 pkt 2",
+      "content": "Utrzymanie SWD PRM na poziomie wojewódzkim ma na celu zachowanie ciągłości działania SWD PRM i polega w szczególności na: organizacji wsparcia technicznego dla użytkowników SWD PRM z terenu województwa."
+    },
+    {
+      "provision_ref": "par6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "W przypadku wystąpienia sytuacji awaryjnej uniemożliwiającej: realizację zadań na jednym stanowisku pracy dyspozytora medycznego - SWD PRM umożliwia przejęcie ich przez inne stanowisko pracy dyspozytora medycznego w tej samej dyspozytorni medycznej; przesyłanie danych - SWD PRM zapewnia rejestrację czynności podejmowanych na stanowisku pracy dyspozytora medycznego w trybie off-line do czasu przywrócenia łączności z ośrodkiem krajowym; funkcjonowanie POK - SWD PRM umożliwia automatyczne przełączenie do ZOK."
+    },
+    {
+      "provision_ref": "par6p1",
+      "section": "6",
+      "title": "§ 6 pkt 1",
+      "content": "W przypadku wystąpienia sytuacji awaryjnej uniemożliwiającej: realizację zadań na jednym stanowisku pracy dyspozytora medycznego - SWD PRM umożliwia przejęcie ich przez inne stanowisko pracy dyspozytora medycznego w tej samej dyspozytorni medycznej;"
+    },
+    {
+      "provision_ref": "par6p2",
+      "section": "6",
+      "title": "§ 6 pkt 2",
+      "content": "W przypadku wystąpienia sytuacji awaryjnej uniemożliwiającej: przesyłanie danych - SWD PRM zapewnia rejestrację czynności podejmowanych na stanowisku pracy dyspozytora medycznego w trybie off-line do czasu przywrócenia łączności z ośrodkiem krajowym;"
+    },
+    {
+      "provision_ref": "par6p3",
+      "section": "6",
+      "title": "§ 6 pkt 3",
+      "content": "W przypadku wystąpienia sytuacji awaryjnej uniemożliwiającej: funkcjonowanie POK - SWD PRM umożliwia automatyczne przełączenie do ZOK."
+    },
+    {
+      "provision_ref": "par7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "SWD PRM, współpracując z podsystemem zintegrowanej łączności, posiada parametry funkcjonalne umożliwiające realizację zadań dyspozytora medycznego w przypadku wystąpienia sytuacji awaryjnej przez przekierowanie połączenia na inne stanowisko pracy dyspozytora medycznego: w danej dyspozytorni medycznej; poza daną dyspozytornią medyczną; do dyspozytorni, w której w danej chwili jest najlepszy stosunek liczby połączeń oczekujących w kolejce do liczby zalogowanych dyspozytorów medycznych."
+    },
+    {
+      "provision_ref": "par7p1",
+      "section": "7",
+      "title": "§ 7 pkt 1",
+      "content": "SWD PRM, współpracując z podsystemem zintegrowanej łączności, posiada parametry funkcjonalne umożliwiające realizację zadań dyspozytora medycznego w przypadku wystąpienia sytuacji awaryjnej przez przekierowanie połączenia na inne stanowisko pracy dyspozytora medycznego: w danej dyspozytorni medycznej;"
+    },
+    {
+      "provision_ref": "par7p2",
+      "section": "7",
+      "title": "§ 7 pkt 2",
+      "content": "SWD PRM, współpracując z podsystemem zintegrowanej łączności, posiada parametry funkcjonalne umożliwiające realizację zadań dyspozytora medycznego w przypadku wystąpienia sytuacji awaryjnej przez przekierowanie połączenia na inne stanowisko pracy dyspozytora medycznego: poza daną dyspozytornią medyczną;"
+    },
+    {
+      "provision_ref": "par7p3",
+      "section": "7",
+      "title": "§ 7 pkt 3",
+      "content": "SWD PRM, współpracując z podsystemem zintegrowanej łączności, posiada parametry funkcjonalne umożliwiające realizację zadań dyspozytora medycznego w przypadku wystąpienia sytuacji awaryjnej przez przekierowanie połączenia na inne stanowisko pracy dyspozytora medycznego: do dyspozytorni, w której w danej chwili jest najlepszy stosunek liczby połączeń oczekujących w kolejce do liczby zalogowanych dyspozytorów medycznych."
+    },
+    {
+      "provision_ref": "par8",
+      "section": "8",
+      "title": "§ 8",
+      "content": "SWD PRM zapewnia zachowanie ciągłości działania w sytuacjach: awarii: pojedynczego stanowiska pracy dyspozytora medycznego, w danej dyspozytorni medycznej, całej dyspozytorni medycznej, kilku dyspozytorni medycznych; pracy SWD PRM w trybie off-line."
+    },
+    {
+      "provision_ref": "par8p1la",
+      "section": "8",
+      "title": "§ 8 pkt 1 lit. a",
+      "content": "SWD PRM zapewnia zachowanie ciągłości działania w sytuacjach: awarii: pojedynczego stanowiska pracy dyspozytora medycznego, w danej dyspozytorni medycznej,"
+    },
+    {
+      "provision_ref": "par8p1lb",
+      "section": "8",
+      "title": "§ 8 pkt 1 lit. b",
+      "content": "SWD PRM zapewnia zachowanie ciągłości działania w sytuacjach: awarii: całej dyspozytorni medycznej,"
+    },
+    {
+      "provision_ref": "par8p1lc",
+      "section": "8",
+      "title": "§ 8 pkt 1 lit. c",
+      "content": "SWD PRM zapewnia zachowanie ciągłości działania w sytuacjach: awarii: kilku dyspozytorni medycznych;"
+    },
+    {
+      "provision_ref": "par8p2",
+      "section": "8",
+      "title": "§ 8 pkt 2",
+      "content": "SWD PRM zapewnia zachowanie ciągłości działania w sytuacjach: pracy SWD PRM w trybie off-line."
+    },
+    {
+      "provision_ref": "par9",
+      "section": "9",
+      "title": "§ 9",
+      "content": "Sposób zarządzania SWD PRM polega na prowadzeniu przedsięwzięć, realizowanych przez ministra właściwego do spraw zdrowia, dysponenta lotniczych zespołów ratownictwa medycznego, wojewodów i dysponentów zespołów ratownictwa medycznego, niezbędnych do zapewnienia funkcjonowania SWD PRM. Przedsięwzięcia podejmowane przez ministra właściwego do spraw zdrowia obejmują w szczególności: określanie: zakresu rozbudowy SWD PRM, wymagań funkcjonalnych SWD PRM, modyfikacji SWD PRM, uprawnień i ról systemowych w SWD PRM, kategorii zdarzeń w SWD PRM, sposobu i trybu zastępowalności dyspozytorni medycznych w SWD PRM; opracowywanie i przekazywanie w postaci wytycznych i procedur: identyfikacyjnych oznaczeń w systemie Państwowe Ratownictwo Medyczne na potrzeby SWD PRM i nazw technicznych w SWD PRM, dotyczących zastępowalności dyspozytorni medycznych w SWD PRM, sposobu zgłaszania nowych funkcjonalności SWD PRM i modyfikacji funkcjonalności już zaimplementowanych w SWD PRM; opiniowanie i zatwierdzanie: wymagań niefunkcjonalnych SWD PRM w zakresie sposobu realizacji kluczowych rozwiązań architektonicznych, w szczególności dostępności rozwiązania i sposobu wykonania, dokumentacji wytworzonej w ramach rozbudowy i modyfikacji SWD PRM; realizację zadań związanych z współadministrowaniem danymi przetwarzanymi w SWD PRM; zapewnienie dostępu do aplikacji Analityka Uniwersalnego Modułu Mapowego, zwanego dalej „AUMM”, na potrzeby SWD PRM. Przedsięwzięcia podejmowane przez dysponenta lotniczych zespołów ratownictwa medycznego, wojewodów i dysponentów zespołów ratownictwa medycznego są realizowane w szczególności w oparciu o moduł administratora, o którym mowa w § 3 pkt 20. Przedsięwzięcia podejmowane przez dysponenta lotniczych zespołów ratownictwa medycznego jako administratora centralnego SWD PRM obejmują w szczególności: zadania, o których mowa w § 5 ust. 2; zarządzanie infrastrukturą klucza publicznego na potrzeby centrum certyfikatów dedykowanego SWD PRM; zarządzanie certyfikatami zewnętrznymi i wewnętrznymi; zarządzanie wirtualną siecią prywatną, utworzoną na potrzeby SWD PRM; zarządzanie aplikacją i połączeniami stacji roboczych i terminali mobilnych ze środowiskiem SWD PRM; zabezpieczanie połączenia między stacjami roboczymi i terminalami mobilnymi, a SWD PRM; zarządzanie aplikacją oprogramowania standardowego i aplikacyjnego; zarządzanie kontami użytkowników oraz ich uprawnieniami systemowymi w SWD PRM na poziomie wszystkich dysponentów zespołów ratownictwa medycznego; zarządzanie elementami konfiguracji i nadawanie ról systemowych użytkownikom SWD PRM; zarządzanie słownikami i kategoriami SWD PRM, w tym ich aktualizacją; nadawanie uprawnień systemowych w SWD PRM; wprowadzenie domyślnego mapowania między kategoriami SWD PRM a systemem teleinformatycznym, o którym mowa w art. 2 pkt 4 ustawy o systemie powiadamiania ratunkowego ; przyjmowanie i monitorowanie zgłoszeń incydentów w ramach zapewnienia całodobowej obsługi technicznej na rzecz użytkowników SWD PRM, zgodnie z procedurami, o których mowa w pkt 17 lit. a; bieżąca obsługa zgłaszanych incydentów; przekazywanie błędów do wykonawców systemu; tworzenie kont użytkowników i nadanie uprawnień do aplikacji AUMM na potrzeby SWD PRM; opracowywanie niezbędnych dokumentów i procedur dotyczących: obsługi zgłoszeń użytkowników SWD PRM, specyfikacji technicznych i minimalnych wymagań technicznych na potrzeby wyposażenia stanowisk pracy, o których mowa w § 10 ust. 1-3, w sprzęt do obsługi SWD PRM, innych zadań realizowanych na potrzeby SWD PRM; sporządzanie miesięcznych raportów z prowadzonych działań i przekazywanie ich ministrowi właściwemu do spraw zdrowia; informowanie ministra właściwego do spraw zdrowia o awariach systemu SWD PRM, wpływających na realizowanie zadań przez jego użytkowników; współpraca z współadministratorami danych przetwarzanych w SWD PRM; współpraca z administratorem systemu teleinformatycznego, o którym mowa w art. 2 pkt 4 ustawy o systemie powiadamiania ratunkowego ; zapewnienie prawidłowego funkcjonowania SWD PRM. Przedsięwzięcia podejmowane przez wojewodów jako administratorów wojewódzkich obejmują w szczególności: współpracę z: administratorem centralnym SWD PRM, o którym mowa w ust. 4, administratorem dysponenta SWD PRM, o którym mowa w ust. 6, współadministratorami danych przetwarzanych w SWD PRM; tworzenie kont użytkowników; nadawanie uprawnień i ról systemowych w SWD PRM; zarządzanie kontami użytkowników oraz ich uprawnieniami systemowymi w SWD PRM; zarządzanie elementami konfiguracji SWD PRM określonymi w dokumentacji technicznej SWD PRM; generowanie raportów predefiniowanych i swobodnych w module raportowym, w zakresie działalności dysponentów z terenu danego województwa; weryfikacja incydentów zgłaszanych przez administratorów dysponenta SWD PRM; zgłaszanie do administratora centralnego, o którym mowa w ust. 4, incydentów zgodnie z procedurami, o których mowa w ust. 4 pkt 17 lit. a; występowanie do ministra właściwego do spraw zdrowia o utworzenie kont użytkowników i nadanie uprawnień do aplikacji AUMM; realizacja zadań wynikających z wprowadzania i aktualizacji danych w SWD PRM z wykorzystaniem aplikacji AUMM; weryfikację błędów ewidencji miejscowości, ulic i adresów, o której mowa w art. 47a ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne , zgłoszonych przez administratorów dysponenta SWD PRM, o których mowa w ust. 6, oraz zgłaszanie ich zgodnie z procedurą określającą postępowanie z błędami w systemie, o którym mowa w art. 40 ust. 3e ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne ; nadzór i weryfikację poprawności danych wprowadzanych do SWD PRM przez administratora dysponenta; realizację zadań, o których mowa w § 5 ust. 3. Przedsięwzięcia podejmowane przez dysponenta zespołów ratownictwa medycznego jako administratora dysponenta SWD PRM obejmują w szczególności: współpracę z administratorem centralnym i wojewódzkim SWD PRM; instalację sprzętu i oprogramowania, w tym jego aktualizację i bieżącą obsługę techniczną w dyspozytorniach medycznych, miejscach stacjonowania i w specjalistycznych środkach transportu sanitarnego; konfigurowanie systemu nawigacji satelitarnej w specjalistycznych środkach transportu sanitarnego; instalację i aktualizację certyfikatów wewnętrznych na stacjach roboczych i terminalach mobilnych; tworzenie i aktualizację kont użytkowników; zarządzanie kontami użytkowników oraz ich uprawnieniami i rolami systemowymi w SWD PRM; administrowanie siłami i środkami dysponenta przez zarządzanie elementami konfiguracji SWD PRM, określonymi w dokumentacji technicznej SWD PRM; generowanie raportów predefiniowanych i swobodnych w module raportowym; przyjmowanie zgłoszeń o incydentach od użytkowników końcowych SWD PRM i ich weryfikacja; zgłaszanie incydentów do administratora wojewódzkiego i centralnego SWD PRM, zgodnie z procedurami, o których mowa w ust. 4 pkt 17 lit. a; współpracę z współadministratorami danych przetwarzanych w SWD PRM; weryfikację błędów ewidencji miejscowości, ulic i adresów, o której mowa w art. 47a ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne , zgłaszanych przez użytkowników SWD PRM oraz zgłaszanie ich zgodnie z procedurą określającą postępowanie z błędami w systemie, o którym mowa w art. 40 ust. 3e ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne ; utrzymanie poprawności danych wprowadzanych do SWD PRM; realizacja zadania, o którym mowa w § 5 ust. 3 pkt 1."
+    },
+    {
+      "provision_ref": "par9u1",
+      "section": "9",
+      "title": "§ 9 ust. 1",
+      "content": "Sposób zarządzania SWD PRM polega na prowadzeniu przedsięwzięć, realizowanych przez ministra właściwego do spraw zdrowia, dysponenta lotniczych zespołów ratownictwa medycznego, wojewodów i dysponentów zespołów ratownictwa medycznego, niezbędnych do zapewnienia funkcjonowania SWD PRM."
+    },
+    {
+      "provision_ref": "par9u2p1la",
+      "section": "9",
+      "title": "§ 9 ust. 2 pkt 1 lit. a",
+      "content": "Przedsięwzięcia podejmowane przez ministra właściwego do spraw zdrowia obejmują w szczególności: określanie: zakresu rozbudowy SWD PRM,"
+    },
+    {
+      "provision_ref": "par9u2p1lb",
+      "section": "9",
+      "title": "§ 9 ust. 2 pkt 1 lit. b",
+      "content": "Przedsięwzięcia podejmowane przez ministra właściwego do spraw zdrowia obejmują w szczególności: określanie: wymagań funkcjonalnych SWD PRM,"
+    },
+    {
+      "provision_ref": "par9u2p1lc",
+      "section": "9",
+      "title": "§ 9 ust. 2 pkt 1 lit. c",
+      "content": "Przedsięwzięcia podejmowane przez ministra właściwego do spraw zdrowia obejmują w szczególności: określanie: modyfikacji SWD PRM,"
+    },
+    {
+      "provision_ref": "par9u2p1ld",
+      "section": "9",
+      "title": "§ 9 ust. 2 pkt 1 lit. d",
+      "content": "Przedsięwzięcia podejmowane przez ministra właściwego do spraw zdrowia obejmują w szczególności: określanie: uprawnień i ról systemowych w SWD PRM,"
+    },
+    {
+      "provision_ref": "par9u2p1le",
+      "section": "9",
+      "title": "§ 9 ust. 2 pkt 1 lit. e",
+      "content": "Przedsięwzięcia podejmowane przez ministra właściwego do spraw zdrowia obejmują w szczególności: określanie: kategorii zdarzeń w SWD PRM,"
+    },
+    {
+      "provision_ref": "par9u2p1lf",
+      "section": "9",
+      "title": "§ 9 ust. 2 pkt 1 lit. f",
+      "content": "Przedsięwzięcia podejmowane przez ministra właściwego do spraw zdrowia obejmują w szczególności: określanie: sposobu i trybu zastępowalności dyspozytorni medycznych w SWD PRM;"
+    },
+    {
+      "provision_ref": "par9u2p2la",
+      "section": "9",
+      "title": "§ 9 ust. 2 pkt 2 lit. a",
+      "content": "Przedsięwzięcia podejmowane przez ministra właściwego do spraw zdrowia obejmują w szczególności: opracowywanie i przekazywanie w postaci wytycznych i procedur: identyfikacyjnych oznaczeń w systemie Państwowe Ratownictwo Medyczne na potrzeby SWD PRM i nazw technicznych w SWD PRM,"
+    },
+    {
+      "provision_ref": "par9u2p2lb",
+      "section": "9",
+      "title": "§ 9 ust. 2 pkt 2 lit. b",
+      "content": "Przedsięwzięcia podejmowane przez ministra właściwego do spraw zdrowia obejmują w szczególności: opracowywanie i przekazywanie w postaci wytycznych i procedur: dotyczących zastępowalności dyspozytorni medycznych w SWD PRM,"
+    },
+    {
+      "provision_ref": "par9u2p2lc",
+      "section": "9",
+      "title": "§ 9 ust. 2 pkt 2 lit. c",
+      "content": "Przedsięwzięcia podejmowane przez ministra właściwego do spraw zdrowia obejmują w szczególności: opracowywanie i przekazywanie w postaci wytycznych i procedur: sposobu zgłaszania nowych funkcjonalności SWD PRM i modyfikacji funkcjonalności już zaimplementowanych w SWD PRM;"
+    },
+    {
+      "provision_ref": "par9u2p3la",
+      "section": "9",
+      "title": "§ 9 ust. 2 pkt 3 lit. a",
+      "content": "Przedsięwzięcia podejmowane przez ministra właściwego do spraw zdrowia obejmują w szczególności: opiniowanie i zatwierdzanie: wymagań niefunkcjonalnych SWD PRM w zakresie sposobu realizacji kluczowych rozwiązań architektonicznych, w szczególności dostępności rozwiązania i sposobu wykonania,"
+    },
+    {
+      "provision_ref": "par9u2p3lb",
+      "section": "9",
+      "title": "§ 9 ust. 2 pkt 3 lit. b",
+      "content": "Przedsięwzięcia podejmowane przez ministra właściwego do spraw zdrowia obejmują w szczególności: opiniowanie i zatwierdzanie: dokumentacji wytworzonej w ramach rozbudowy i modyfikacji SWD PRM;"
+    },
+    {
+      "provision_ref": "par9u2p4",
+      "section": "9",
+      "title": "§ 9 ust. 2 pkt 4",
+      "content": "Przedsięwzięcia podejmowane przez ministra właściwego do spraw zdrowia obejmują w szczególności: realizację zadań związanych z współadministrowaniem danymi przetwarzanymi w SWD PRM;"
+    },
+    {
+      "provision_ref": "par9u2p5",
+      "section": "9",
+      "title": "§ 9 ust. 2 pkt 5",
+      "content": "Przedsięwzięcia podejmowane przez ministra właściwego do spraw zdrowia obejmują w szczególności: zapewnienie dostępu do aplikacji Analityka Uniwersalnego Modułu Mapowego, zwanego dalej „AUMM”, na potrzeby SWD PRM."
+    },
+    {
+      "provision_ref": "par9u3",
+      "section": "9",
+      "title": "§ 9 ust. 3",
+      "content": "Przedsięwzięcia podejmowane przez dysponenta lotniczych zespołów ratownictwa medycznego, wojewodów i dysponentów zespołów ratownictwa medycznego są realizowane w szczególności w oparciu o moduł administratora, o którym mowa w § 3 pkt 20."
+    },
+    {
+      "provision_ref": "par9u4p1",
+      "section": "9",
+      "title": "§ 9 ust. 4 pkt 1",
+      "content": "Przedsięwzięcia podejmowane przez dysponenta lotniczych zespołów ratownictwa medycznego jako administratora centralnego SWD PRM obejmują w szczególności: zadania, o których mowa w § 5 ust. 2;"
+    },
+    {
+      "provision_ref": "par9u4p2",
+      "section": "9",
+      "title": "§ 9 ust. 4 pkt 2",
+      "content": "Przedsięwzięcia podejmowane przez dysponenta lotniczych zespołów ratownictwa medycznego jako administratora centralnego SWD PRM obejmują w szczególności: zarządzanie infrastrukturą klucza publicznego na potrzeby centrum certyfikatów dedykowanego SWD PRM;"
+    },
+    {
+      "provision_ref": "par9u4p3",
+      "section": "9",
+      "title": "§ 9 ust. 4 pkt 3",
+      "content": "Przedsięwzięcia podejmowane przez dysponenta lotniczych zespołów ratownictwa medycznego jako administratora centralnego SWD PRM obejmują w szczególności: zarządzanie certyfikatami zewnętrznymi i wewnętrznymi;"
+    },
+    {
+      "provision_ref": "par9u4p4",
+      "section": "9",
+      "title": "§ 9 ust. 4 pkt 4",
+      "content": "Przedsięwzięcia podejmowane przez dysponenta lotniczych zespołów ratownictwa medycznego jako administratora centralnego SWD PRM obejmują w szczególności: zarządzanie wirtualną siecią prywatną, utworzoną na potrzeby SWD PRM;"
+    },
+    {
+      "provision_ref": "par9u4p5",
+      "section": "9",
+      "title": "§ 9 ust. 4 pkt 5",
+      "content": "Przedsięwzięcia podejmowane przez dysponenta lotniczych zespołów ratownictwa medycznego jako administratora centralnego SWD PRM obejmują w szczególności: zarządzanie aplikacją i połączeniami stacji roboczych i terminali mobilnych ze środowiskiem SWD PRM;"
+    },
+    {
+      "provision_ref": "par9u4p6",
+      "section": "9",
+      "title": "§ 9 ust. 4 pkt 6",
+      "content": "Przedsięwzięcia podejmowane przez dysponenta lotniczych zespołów ratownictwa medycznego jako administratora centralnego SWD PRM obejmują w szczególności: zabezpieczanie połączenia między stacjami roboczymi i terminalami mobilnymi, a SWD PRM;"
+    },
+    {
+      "provision_ref": "par9u4p7",
+      "section": "9",
+      "title": "§ 9 ust. 4 pkt 7",
+      "content": "Przedsięwzięcia podejmowane przez dysponenta lotniczych zespołów ratownictwa medycznego jako administratora centralnego SWD PRM obejmują w szczególności: zarządzanie aplikacją oprogramowania standardowego i aplikacyjnego;"
+    },
+    {
+      "provision_ref": "par9u4p8",
+      "section": "9",
+      "title": "§ 9 ust. 4 pkt 8",
+      "content": "Przedsięwzięcia podejmowane przez dysponenta lotniczych zespołów ratownictwa medycznego jako administratora centralnego SWD PRM obejmują w szczególności: zarządzanie kontami użytkowników oraz ich uprawnieniami systemowymi w SWD PRM na poziomie wszystkich dysponentów zespołów ratownictwa medycznego;"
+    },
+    {
+      "provision_ref": "par9u4p9",
+      "section": "9",
+      "title": "§ 9 ust. 4 pkt 9",
+      "content": "Przedsięwzięcia podejmowane przez dysponenta lotniczych zespołów ratownictwa medycznego jako administratora centralnego SWD PRM obejmują w szczególności: zarządzanie elementami konfiguracji i nadawanie ról systemowych użytkownikom SWD PRM;"
+    },
+    {
+      "provision_ref": "par9u4p10",
+      "section": "9",
+      "title": "§ 9 ust. 4 pkt 10",
+      "content": "Przedsięwzięcia podejmowane przez dysponenta lotniczych zespołów ratownictwa medycznego jako administratora centralnego SWD PRM obejmują w szczególności: zarządzanie słownikami i kategoriami SWD PRM, w tym ich aktualizacją;"
+    },
+    {
+      "provision_ref": "par9u4p11",
+      "section": "9",
+      "title": "§ 9 ust. 4 pkt 11",
+      "content": "Przedsięwzięcia podejmowane przez dysponenta lotniczych zespołów ratownictwa medycznego jako administratora centralnego SWD PRM obejmują w szczególności: nadawanie uprawnień systemowych w SWD PRM;"
+    },
+    {
+      "provision_ref": "par9u4p12",
+      "section": "9",
+      "title": "§ 9 ust. 4 pkt 12",
+      "content": "Przedsięwzięcia podejmowane przez dysponenta lotniczych zespołów ratownictwa medycznego jako administratora centralnego SWD PRM obejmują w szczególności: wprowadzenie domyślnego mapowania między kategoriami SWD PRM a systemem teleinformatycznym, o którym mowa w art. 2 pkt 4 ustawy o systemie powiadamiania ratunkowego ;"
+    },
+    {
+      "provision_ref": "par9u4p13",
+      "section": "9",
+      "title": "§ 9 ust. 4 pkt 13",
+      "content": "Przedsięwzięcia podejmowane przez dysponenta lotniczych zespołów ratownictwa medycznego jako administratora centralnego SWD PRM obejmują w szczególności: przyjmowanie i monitorowanie zgłoszeń incydentów w ramach zapewnienia całodobowej obsługi technicznej na rzecz użytkowników SWD PRM, zgodnie z procedurami, o których mowa w pkt 17 lit. a;"
+    },
+    {
+      "provision_ref": "par9u4p14",
+      "section": "9",
+      "title": "§ 9 ust. 4 pkt 14",
+      "content": "Przedsięwzięcia podejmowane przez dysponenta lotniczych zespołów ratownictwa medycznego jako administratora centralnego SWD PRM obejmują w szczególności: bieżąca obsługa zgłaszanych incydentów;"
+    },
+    {
+      "provision_ref": "par9u4p15",
+      "section": "9",
+      "title": "§ 9 ust. 4 pkt 15",
+      "content": "Przedsięwzięcia podejmowane przez dysponenta lotniczych zespołów ratownictwa medycznego jako administratora centralnego SWD PRM obejmują w szczególności: przekazywanie błędów do wykonawców systemu;"
+    },
+    {
+      "provision_ref": "par9u4p16",
+      "section": "9",
+      "title": "§ 9 ust. 4 pkt 16",
+      "content": "Przedsięwzięcia podejmowane przez dysponenta lotniczych zespołów ratownictwa medycznego jako administratora centralnego SWD PRM obejmują w szczególności: tworzenie kont użytkowników i nadanie uprawnień do aplikacji AUMM na potrzeby SWD PRM;"
+    },
+    {
+      "provision_ref": "par9u4p17la",
+      "section": "9",
+      "title": "§ 9 ust. 4 pkt 17 lit. a",
+      "content": "Przedsięwzięcia podejmowane przez dysponenta lotniczych zespołów ratownictwa medycznego jako administratora centralnego SWD PRM obejmują w szczególności: opracowywanie niezbędnych dokumentów i procedur dotyczących: obsługi zgłoszeń użytkowników SWD PRM,"
+    },
+    {
+      "provision_ref": "par9u4p17lb",
+      "section": "9",
+      "title": "§ 9 ust. 4 pkt 17 lit. b",
+      "content": "Przedsięwzięcia podejmowane przez dysponenta lotniczych zespołów ratownictwa medycznego jako administratora centralnego SWD PRM obejmują w szczególności: opracowywanie niezbędnych dokumentów i procedur dotyczących: specyfikacji technicznych i minimalnych wymagań technicznych na potrzeby wyposażenia stanowisk pracy, o których mowa w § 10 ust. 1-3, w sprzęt do obsługi SWD PRM,"
+    },
+    {
+      "provision_ref": "par9u4p17lc",
+      "section": "9",
+      "title": "§ 9 ust. 4 pkt 17 lit. c",
+      "content": "Przedsięwzięcia podejmowane przez dysponenta lotniczych zespołów ratownictwa medycznego jako administratora centralnego SWD PRM obejmują w szczególności: opracowywanie niezbędnych dokumentów i procedur dotyczących: innych zadań realizowanych na potrzeby SWD PRM;"
+    },
+    {
+      "provision_ref": "par9u4p18",
+      "section": "9",
+      "title": "§ 9 ust. 4 pkt 18",
+      "content": "Przedsięwzięcia podejmowane przez dysponenta lotniczych zespołów ratownictwa medycznego jako administratora centralnego SWD PRM obejmują w szczególności: sporządzanie miesięcznych raportów z prowadzonych działań i przekazywanie ich ministrowi właściwemu do spraw zdrowia;"
+    },
+    {
+      "provision_ref": "par9u4p19",
+      "section": "9",
+      "title": "§ 9 ust. 4 pkt 19",
+      "content": "Przedsięwzięcia podejmowane przez dysponenta lotniczych zespołów ratownictwa medycznego jako administratora centralnego SWD PRM obejmują w szczególności: informowanie ministra właściwego do spraw zdrowia o awariach systemu SWD PRM, wpływających na realizowanie zadań przez jego użytkowników;"
+    },
+    {
+      "provision_ref": "par9u4p20",
+      "section": "9",
+      "title": "§ 9 ust. 4 pkt 20",
+      "content": "Przedsięwzięcia podejmowane przez dysponenta lotniczych zespołów ratownictwa medycznego jako administratora centralnego SWD PRM obejmują w szczególności: współpraca z współadministratorami danych przetwarzanych w SWD PRM;"
+    },
+    {
+      "provision_ref": "par9u4p21",
+      "section": "9",
+      "title": "§ 9 ust. 4 pkt 21",
+      "content": "Przedsięwzięcia podejmowane przez dysponenta lotniczych zespołów ratownictwa medycznego jako administratora centralnego SWD PRM obejmują w szczególności: współpraca z administratorem systemu teleinformatycznego, o którym mowa w art. 2 pkt 4 ustawy o systemie powiadamiania ratunkowego ;"
+    },
+    {
+      "provision_ref": "par9u4p22",
+      "section": "9",
+      "title": "§ 9 ust. 4 pkt 22",
+      "content": "Przedsięwzięcia podejmowane przez dysponenta lotniczych zespołów ratownictwa medycznego jako administratora centralnego SWD PRM obejmują w szczególności: zapewnienie prawidłowego funkcjonowania SWD PRM."
+    },
+    {
+      "provision_ref": "par9u5p1la",
+      "section": "9",
+      "title": "§ 9 ust. 5 pkt 1 lit. a",
+      "content": "Przedsięwzięcia podejmowane przez wojewodów jako administratorów wojewódzkich obejmują w szczególności: współpracę z: administratorem centralnym SWD PRM, o którym mowa w ust. 4,"
+    },
+    {
+      "provision_ref": "par9u5p1lb",
+      "section": "9",
+      "title": "§ 9 ust. 5 pkt 1 lit. b",
+      "content": "Przedsięwzięcia podejmowane przez wojewodów jako administratorów wojewódzkich obejmują w szczególności: współpracę z: administratorem dysponenta SWD PRM, o którym mowa w ust. 6,"
+    },
+    {
+      "provision_ref": "par9u5p1lc",
+      "section": "9",
+      "title": "§ 9 ust. 5 pkt 1 lit. c",
+      "content": "Przedsięwzięcia podejmowane przez wojewodów jako administratorów wojewódzkich obejmują w szczególności: współpracę z: współadministratorami danych przetwarzanych w SWD PRM;"
+    },
+    {
+      "provision_ref": "par9u5p2",
+      "section": "9",
+      "title": "§ 9 ust. 5 pkt 2",
+      "content": "Przedsięwzięcia podejmowane przez wojewodów jako administratorów wojewódzkich obejmują w szczególności: tworzenie kont użytkowników;"
+    },
+    {
+      "provision_ref": "par9u5p3",
+      "section": "9",
+      "title": "§ 9 ust. 5 pkt 3",
+      "content": "Przedsięwzięcia podejmowane przez wojewodów jako administratorów wojewódzkich obejmują w szczególności: nadawanie uprawnień i ról systemowych w SWD PRM;"
+    },
+    {
+      "provision_ref": "par9u5p4",
+      "section": "9",
+      "title": "§ 9 ust. 5 pkt 4",
+      "content": "Przedsięwzięcia podejmowane przez wojewodów jako administratorów wojewódzkich obejmują w szczególności: zarządzanie kontami użytkowników oraz ich uprawnieniami systemowymi w SWD PRM;"
+    },
+    {
+      "provision_ref": "par9u5p5",
+      "section": "9",
+      "title": "§ 9 ust. 5 pkt 5",
+      "content": "Przedsięwzięcia podejmowane przez wojewodów jako administratorów wojewódzkich obejmują w szczególności: zarządzanie elementami konfiguracji SWD PRM określonymi w dokumentacji technicznej SWD PRM;"
+    },
+    {
+      "provision_ref": "par9u5p6",
+      "section": "9",
+      "title": "§ 9 ust. 5 pkt 6",
+      "content": "Przedsięwzięcia podejmowane przez wojewodów jako administratorów wojewódzkich obejmują w szczególności: generowanie raportów predefiniowanych i swobodnych w module raportowym, w zakresie działalności dysponentów z terenu danego województwa;"
+    },
+    {
+      "provision_ref": "par9u5p7",
+      "section": "9",
+      "title": "§ 9 ust. 5 pkt 7",
+      "content": "Przedsięwzięcia podejmowane przez wojewodów jako administratorów wojewódzkich obejmują w szczególności: weryfikacja incydentów zgłaszanych przez administratorów dysponenta SWD PRM;"
+    },
+    {
+      "provision_ref": "par9u5p8",
+      "section": "9",
+      "title": "§ 9 ust. 5 pkt 8",
+      "content": "Przedsięwzięcia podejmowane przez wojewodów jako administratorów wojewódzkich obejmują w szczególności: zgłaszanie do administratora centralnego, o którym mowa w ust. 4, incydentów zgodnie z procedurami, o których mowa w ust. 4 pkt 17 lit. a;"
+    },
+    {
+      "provision_ref": "par9u5p9",
+      "section": "9",
+      "title": "§ 9 ust. 5 pkt 9",
+      "content": "Przedsięwzięcia podejmowane przez wojewodów jako administratorów wojewódzkich obejmują w szczególności: występowanie do ministra właściwego do spraw zdrowia o utworzenie kont użytkowników i nadanie uprawnień do aplikacji AUMM;"
+    },
+    {
+      "provision_ref": "par9u5p10",
+      "section": "9",
+      "title": "§ 9 ust. 5 pkt 10",
+      "content": "Przedsięwzięcia podejmowane przez wojewodów jako administratorów wojewódzkich obejmują w szczególności: realizacja zadań wynikających z wprowadzania i aktualizacji danych w SWD PRM z wykorzystaniem aplikacji AUMM;"
+    },
+    {
+      "provision_ref": "par9u5p11",
+      "section": "9",
+      "title": "§ 9 ust. 5 pkt 11",
+      "content": "Przedsięwzięcia podejmowane przez wojewodów jako administratorów wojewódzkich obejmują w szczególności: weryfikację błędów ewidencji miejscowości, ulic i adresów, o której mowa w art. 47a ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne , zgłoszonych przez administratorów dysponenta SWD PRM, o których mowa w ust. 6, oraz zgłaszanie ich zgodnie z procedurą określającą postępowanie z błędami w systemie, o którym mowa w art. 40 ust. 3e ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne ;"
+    },
+    {
+      "provision_ref": "par9u5p12",
+      "section": "9",
+      "title": "§ 9 ust. 5 pkt 12",
+      "content": "Przedsięwzięcia podejmowane przez wojewodów jako administratorów wojewódzkich obejmują w szczególności: nadzór i weryfikację poprawności danych wprowadzanych do SWD PRM przez administratora dysponenta;"
+    },
+    {
+      "provision_ref": "par9u5p13",
+      "section": "9",
+      "title": "§ 9 ust. 5 pkt 13",
+      "content": "Przedsięwzięcia podejmowane przez wojewodów jako administratorów wojewódzkich obejmują w szczególności: realizację zadań, o których mowa w § 5 ust. 3."
+    },
+    {
+      "provision_ref": "par9u6p1",
+      "section": "9",
+      "title": "§ 9 ust. 6 pkt 1",
+      "content": "Przedsięwzięcia podejmowane przez dysponenta zespołów ratownictwa medycznego jako administratora dysponenta SWD PRM obejmują w szczególności: współpracę z administratorem centralnym i wojewódzkim SWD PRM;"
+    },
+    {
+      "provision_ref": "par9u6p2",
+      "section": "9",
+      "title": "§ 9 ust. 6 pkt 2",
+      "content": "Przedsięwzięcia podejmowane przez dysponenta zespołów ratownictwa medycznego jako administratora dysponenta SWD PRM obejmują w szczególności: instalację sprzętu i oprogramowania, w tym jego aktualizację i bieżącą obsługę techniczną w dyspozytorniach medycznych, miejscach stacjonowania i w specjalistycznych środkach transportu sanitarnego;"
+    },
+    {
+      "provision_ref": "par9u6p3",
+      "section": "9",
+      "title": "§ 9 ust. 6 pkt 3",
+      "content": "Przedsięwzięcia podejmowane przez dysponenta zespołów ratownictwa medycznego jako administratora dysponenta SWD PRM obejmują w szczególności: konfigurowanie systemu nawigacji satelitarnej w specjalistycznych środkach transportu sanitarnego;"
+    },
+    {
+      "provision_ref": "par9u6p4",
+      "section": "9",
+      "title": "§ 9 ust. 6 pkt 4",
+      "content": "Przedsięwzięcia podejmowane przez dysponenta zespołów ratownictwa medycznego jako administratora dysponenta SWD PRM obejmują w szczególności: instalację i aktualizację certyfikatów wewnętrznych na stacjach roboczych i terminalach mobilnych;"
+    },
+    {
+      "provision_ref": "par9u6p5",
+      "section": "9",
+      "title": "§ 9 ust. 6 pkt 5",
+      "content": "Przedsięwzięcia podejmowane przez dysponenta zespołów ratownictwa medycznego jako administratora dysponenta SWD PRM obejmują w szczególności: tworzenie i aktualizację kont użytkowników;"
+    },
+    {
+      "provision_ref": "par9u6p6",
+      "section": "9",
+      "title": "§ 9 ust. 6 pkt 6",
+      "content": "Przedsięwzięcia podejmowane przez dysponenta zespołów ratownictwa medycznego jako administratora dysponenta SWD PRM obejmują w szczególności: zarządzanie kontami użytkowników oraz ich uprawnieniami i rolami systemowymi w SWD PRM;"
+    },
+    {
+      "provision_ref": "par9u6p7",
+      "section": "9",
+      "title": "§ 9 ust. 6 pkt 7",
+      "content": "Przedsięwzięcia podejmowane przez dysponenta zespołów ratownictwa medycznego jako administratora dysponenta SWD PRM obejmują w szczególności: administrowanie siłami i środkami dysponenta przez zarządzanie elementami konfiguracji SWD PRM, określonymi w dokumentacji technicznej SWD PRM;"
+    },
+    {
+      "provision_ref": "par9u6p8",
+      "section": "9",
+      "title": "§ 9 ust. 6 pkt 8",
+      "content": "Przedsięwzięcia podejmowane przez dysponenta zespołów ratownictwa medycznego jako administratora dysponenta SWD PRM obejmują w szczególności: generowanie raportów predefiniowanych i swobodnych w module raportowym;"
+    },
+    {
+      "provision_ref": "par9u6p9",
+      "section": "9",
+      "title": "§ 9 ust. 6 pkt 9",
+      "content": "Przedsięwzięcia podejmowane przez dysponenta zespołów ratownictwa medycznego jako administratora dysponenta SWD PRM obejmują w szczególności: przyjmowanie zgłoszeń o incydentach od użytkowników końcowych SWD PRM i ich weryfikacja;"
+    },
+    {
+      "provision_ref": "par9u6p10",
+      "section": "9",
+      "title": "§ 9 ust. 6 pkt 10",
+      "content": "Przedsięwzięcia podejmowane przez dysponenta zespołów ratownictwa medycznego jako administratora dysponenta SWD PRM obejmują w szczególności: zgłaszanie incydentów do administratora wojewódzkiego i centralnego SWD PRM, zgodnie z procedurami, o których mowa w ust. 4 pkt 17 lit. a;"
+    },
+    {
+      "provision_ref": "par9u6p11",
+      "section": "9",
+      "title": "§ 9 ust. 6 pkt 11",
+      "content": "Przedsięwzięcia podejmowane przez dysponenta zespołów ratownictwa medycznego jako administratora dysponenta SWD PRM obejmują w szczególności: współpracę z współadministratorami danych przetwarzanych w SWD PRM;"
+    },
+    {
+      "provision_ref": "par9u6p12",
+      "section": "9",
+      "title": "§ 9 ust. 6 pkt 12",
+      "content": "Przedsięwzięcia podejmowane przez dysponenta zespołów ratownictwa medycznego jako administratora dysponenta SWD PRM obejmują w szczególności: weryfikację błędów ewidencji miejscowości, ulic i adresów, o której mowa w art. 47a ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne , zgłaszanych przez użytkowników SWD PRM oraz zgłaszanie ich zgodnie z procedurą określającą postępowanie z błędami w systemie, o którym mowa w art. 40 ust. 3e ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne ;"
+    },
+    {
+      "provision_ref": "par9u6p13",
+      "section": "9",
+      "title": "§ 9 ust. 6 pkt 13",
+      "content": "Przedsięwzięcia podejmowane przez dysponenta zespołów ratownictwa medycznego jako administratora dysponenta SWD PRM obejmują w szczególności: utrzymanie poprawności danych wprowadzanych do SWD PRM;"
+    },
+    {
+      "provision_ref": "par9u6p14",
+      "section": "9",
+      "title": "§ 9 ust. 6 pkt 14",
+      "content": "Przedsięwzięcia podejmowane przez dysponenta zespołów ratownictwa medycznego jako administratora dysponenta SWD PRM obejmują w szczególności: realizacja zadania, o którym mowa w § 5 ust. 3 pkt 1."
+    },
+    {
+      "provision_ref": "par10",
+      "section": "10",
+      "title": "§ 10",
+      "content": "W skład minimalnego wyposażenia stanowiska pracy dyspozytora medycznego i stanowiska pracy wojewódzkiego koordynatora ratownictwa medycznego wchodzą: dotykowa konsola dyspozytorska z systemem zintegrowanej łączności; stacja robocza z co najmniej dwoma monitorami umożliwiającymi korzystanie z SWD PRM i systemu, o którym mowa w art. 40 ust. 3e ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne . W skład minimalnego wyposażenia stanowiska pracy członków zespołów ratownictwa medycznego w miejscu stacjonowania zespołu ratownictwa medycznego wchodzi: stacja robocza z monitorem umożliwiającym korzystanie z SWD PRM; drukarka współpracująca ze stacją roboczą, drukująca na formacie A4; połączenie z Internetem. Na wyposażeniu specjalistycznego środka transportu sanitarnego wykorzystywanego przez zespół ratownictwa medycznego pozostają: terminal mobilny wraz ze stacją dokującą, umożliwiający korzystanie z SWD PRM; drukarka współpracująca z terminalem mobilnym i SWD PRM drukująca na formacie A4; urządzenie systemu nawigacji satelitarnej przekazujące dane do SWD PRM."
+    },
+    {
+      "provision_ref": "par10u1p1",
+      "section": "10",
+      "title": "§ 10 ust. 1 pkt 1",
+      "content": "W skład minimalnego wyposażenia stanowiska pracy dyspozytora medycznego i stanowiska pracy wojewódzkiego koordynatora ratownictwa medycznego wchodzą: dotykowa konsola dyspozytorska z systemem zintegrowanej łączności;"
+    },
+    {
+      "provision_ref": "par10u1p2",
+      "section": "10",
+      "title": "§ 10 ust. 1 pkt 2",
+      "content": "W skład minimalnego wyposażenia stanowiska pracy dyspozytora medycznego i stanowiska pracy wojewódzkiego koordynatora ratownictwa medycznego wchodzą: stacja robocza z co najmniej dwoma monitorami umożliwiającymi korzystanie z SWD PRM i systemu, o którym mowa w art. 40 ust. 3e ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne ."
+    },
+    {
+      "provision_ref": "par10u2p1",
+      "section": "10",
+      "title": "§ 10 ust. 2 pkt 1",
+      "content": "W skład minimalnego wyposażenia stanowiska pracy członków zespołów ratownictwa medycznego w miejscu stacjonowania zespołu ratownictwa medycznego wchodzi: stacja robocza z monitorem umożliwiającym korzystanie z SWD PRM;"
+    },
+    {
+      "provision_ref": "par10u2p2",
+      "section": "10",
+      "title": "§ 10 ust. 2 pkt 2",
+      "content": "W skład minimalnego wyposażenia stanowiska pracy członków zespołów ratownictwa medycznego w miejscu stacjonowania zespołu ratownictwa medycznego wchodzi: drukarka współpracująca ze stacją roboczą, drukująca na formacie A4;"
+    },
+    {
+      "provision_ref": "par10u2p3",
+      "section": "10",
+      "title": "§ 10 ust. 2 pkt 3",
+      "content": "W skład minimalnego wyposażenia stanowiska pracy członków zespołów ratownictwa medycznego w miejscu stacjonowania zespołu ratownictwa medycznego wchodzi: połączenie z Internetem."
+    },
+    {
+      "provision_ref": "par10u3p1",
+      "section": "10",
+      "title": "§ 10 ust. 3 pkt 1",
+      "content": "Na wyposażeniu specjalistycznego środka transportu sanitarnego wykorzystywanego przez zespół ratownictwa medycznego pozostają: terminal mobilny wraz ze stacją dokującą, umożliwiający korzystanie z SWD PRM;"
+    },
+    {
+      "provision_ref": "par10u3p2",
+      "section": "10",
+      "title": "§ 10 ust. 3 pkt 2",
+      "content": "Na wyposażeniu specjalistycznego środka transportu sanitarnego wykorzystywanego przez zespół ratownictwa medycznego pozostają: drukarka współpracująca z terminalem mobilnym i SWD PRM drukująca na formacie A4;"
+    },
+    {
+      "provision_ref": "par10u3p3",
+      "section": "10",
+      "title": "§ 10 ust. 3 pkt 3",
+      "content": "Na wyposażeniu specjalistycznego środka transportu sanitarnego wykorzystywanego przez zespół ratownictwa medycznego pozostają: urządzenie systemu nawigacji satelitarnej przekazujące dane do SWD PRM."
+    },
+    {
+      "provision_ref": "par11",
+      "section": "11",
+      "title": "§ 11",
+      "content": "Przepisu § 10 ust. 3 nie stosuje się w odniesieniu do lotniczych zespołów ratownictwa medycznego."
+    },
+    {
+      "provision_ref": "par12",
+      "section": "12",
+      "title": "§ 12",
+      "content": "Przepis § 10 ust. 1 pkt 1 w zakresie wyposażenia stanowiska pracy wojewódzkiego koordynatora ratownictwa medycznego stosuje się od dnia 1 stycznia 2021 r."
+    },
+    {
+      "provision_ref": "par13",
+      "section": "13",
+      "title": "§ 13",
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Administracji i Cyfryzacji z dnia 31 grudnia 2014 r. w sprawie Systemu Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego (Dz. U. poz. 1994), które utraciło moc z dniem 1 stycznia 2019 r. zgodnie z art. 22 pkt 3 ustawy z dnia 10 maja 2018 r. o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw (Dz. U. poz. 1115, 1942 i 2130)."
+    }
+  ],
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2019-993",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-1077",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-725",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-730",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-1309",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-1954",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-2245",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-2354",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-643",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-1030",
+      "ref_type": "references"
+    }
+  ]
+}

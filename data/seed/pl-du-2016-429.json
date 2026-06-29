@@ -1,0 +1,206 @@
+{
+  "id": "pl-du-2016-429",
+  "type": "statute",
+  "title": "Rozporządzenie Ministra Cyfryzacji z dnia 30 marca 2016 r. w sprawie wymagań technicznych i jakościowych w zakresie standardów przesyłanych danych do centralnej ewidencji kierowców",
+  "title_en": "",
+  "short_name": "pl-du-2016-429",
+  "status": "in_force",
+  "issued_date": "2016-03-30",
+  "in_force_date": "2016-03-31",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2016/429",
+  "provisions": [
+    {
+      "provision_ref": "par1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Rozporządzenie określa wymagania techniczne i jakościowe w zakresie standardów przesyłanych danych oraz tryb wprowadzania danych do centralnej ewidencji kierowców, zwanej dalej „ewidencją”."
+    },
+    {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: obiekt - obiekt w rozumieniu przepisów wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne ; schemat zasilania - strukturę danych cech informacyjnych obiektów przekazywanych do ewidencji; suma kontrolna - zestaw danych generowany przez system teleinformatyczny obsługujący ewidencję, potwierdzający aktualność danych zgromadzonych w ewidencji."
+    },
+    {
+      "provision_ref": "par2p1",
+      "section": "2",
+      "title": "§ 2 pkt 1",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: obiekt - obiekt w rozumieniu przepisów wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne ;"
+    },
+    {
+      "provision_ref": "par2p2",
+      "section": "2",
+      "title": "§ 2 pkt 2",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: schemat zasilania - strukturę danych cech informacyjnych obiektów przekazywanych do ewidencji;"
+    },
+    {
+      "provision_ref": "par2p3",
+      "section": "2",
+      "title": "§ 2 pkt 3",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: suma kontrolna - zestaw danych generowany przez system teleinformatyczny obsługujący ewidencję, potwierdzający aktualność danych zgromadzonych w ewidencji."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Wprowadzanie danych do ewidencji jest realizowane zgodnie ze schematem zasilania udostępnionym przez administratora ewidencji. W przypadku zmiany schematu zasilania administrator ewidencji przekazuje niezwłocznie podmiotom obowiązanym do wprowadzania danych do ewidencji zaktualizowany schemat zasilania."
+    },
+    {
+      "provision_ref": "par3u1",
+      "section": "3",
+      "title": "§ 3 ust. 1",
+      "content": "Wprowadzanie danych do ewidencji jest realizowane zgodnie ze schematem zasilania udostępnionym przez administratora ewidencji."
+    },
+    {
+      "provision_ref": "par3u2",
+      "section": "3",
+      "title": "§ 3 ust. 2",
+      "content": "W przypadku zmiany schematu zasilania administrator ewidencji przekazuje niezwłocznie podmiotom obowiązanym do wprowadzania danych do ewidencji zaktualizowany schemat zasilania."
+    },
+    {
+      "provision_ref": "par4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Dane zgromadzone w ewidencji, pobrane w celu wprowadzenia danych do ewidencji, opatrzone są sumą kontrolną potwierdzającą aktualność tych danych. Wprowadzenie danych do ewidencji, w celu aktualizacji ewidencji, wymaga użycia przez podmiot obowiązany do wprowadzania danych do ewidencji, sumy kontrolnej potwierdzającej aktualność danych."
+    },
+    {
+      "provision_ref": "par4u1",
+      "section": "4",
+      "title": "§ 4 ust. 1",
+      "content": "Dane zgromadzone w ewidencji, pobrane w celu wprowadzenia danych do ewidencji, opatrzone są sumą kontrolną potwierdzającą aktualność tych danych."
+    },
+    {
+      "provision_ref": "par4u2",
+      "section": "4",
+      "title": "§ 4 ust. 2",
+      "content": "Wprowadzenie danych do ewidencji, w celu aktualizacji ewidencji, wymaga użycia przez podmiot obowiązany do wprowadzania danych do ewidencji, sumy kontrolnej potwierdzającej aktualność danych."
+    },
+    {
+      "provision_ref": "par5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "W przypadku pobrania danych zgromadzonych w ewidencji, w celu wprowadzenia danych do ewidencji, dotyczących więcej niż jednego obiektu, podmiot obowiązany do wprowadzania danych do ewidencji wskazuje, którego obiektu dotyczą wprowadzane dane."
+    },
+    {
+      "provision_ref": "par6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "Administrator ewidencji weryfikuje poprawność wprowadzanych danych w oparciu o dane zgromadzone w rejestrach PESEL, REGON i TERYT. W przypadku komunikatu o negatywnej weryfikacji poprawności wprowadzanych danych, wraz z tym komunikatem wskazane zostają dane zawierające błędy oraz określające ich rodzaj."
+    },
+    {
+      "provision_ref": "par6u1",
+      "section": "6",
+      "title": "§ 6 ust. 1",
+      "content": "Administrator ewidencji weryfikuje poprawność wprowadzanych danych w oparciu o dane zgromadzone w rejestrach PESEL, REGON i TERYT."
+    },
+    {
+      "provision_ref": "par6u2",
+      "section": "6",
+      "title": "§ 6 ust. 2",
+      "content": "W przypadku komunikatu o negatywnej weryfikacji poprawności wprowadzanych danych, wraz z tym komunikatem wskazane zostają dane zawierające błędy oraz określające ich rodzaj."
+    },
+    {
+      "provision_ref": "par7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "Wprowadzenie danych do ewidencji wymaga użycia danych słownikowych udostępnianych przez system teleinformatyczny obsługujący ewidencję. W przypadku konieczności uzupełnienia udostępnionych przez system teleinformatyczny obsługujący ewidencję danych słownikowych, podmiot obowiązany do wprowadzania danych do ewidencji zgłasza, za pośrednictwem systemu teleinformatycznego obsługującego ewidencję lub systemu teleinformatycznego obsługującego zadania realizowane przez ten podmiot, administratorowi ewidencji konieczność uzupełnienia danych słownikowych. Uzupełnienia danych słownikowych dokonuje administrator ewidencji niezwłocznie po stwierdzeniu konieczności ich uzupełnienia. W przypadku braku konieczności uzupełnienia danych słownikowych administrator ewidencji niezwłocznie powiadamia podmiot, o którym mowa w ust. 2, o danej słownikowej, której należy użyć. W przypadku gdy uzupełnienie danych słownikowych wymaga uprzedniego wprowadzenia danych do rejestrów lub ewidencji, o których mowa w art. 28 ust. 1, art. 30 ust. 1, art. 33 ust. 1 pkt 9, art. 38 ust. 2, art. 58 ust. 1 pkt 10, art. 77 ust. 1 pkt 5, art. 85 ust. 1, art. 86 ust. 4, art. 87 ust. 2 pkt 4, art. 114 ust. 1, art. 116 ust. 4 i art. 117 ust. 2 pkt 8 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami ) oraz w art. 100ag ust. 1 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym , administrator ewidencji niezwłocznie przekazuje zgłoszenie do organu właściwego do prowadzenia tego rejestru lub ewidencji. Uzupełnienie danych słownikowych, o którym mowa w ust. 3, następuje po potwierdzeniu przez organ właściwy do prowadzenia rejestru lub ewidencji zasadności zgłoszenia."
+    },
+    {
+      "provision_ref": "par7u1",
+      "section": "7",
+      "title": "§ 7 ust. 1",
+      "content": "Wprowadzenie danych do ewidencji wymaga użycia danych słownikowych udostępnianych przez system teleinformatyczny obsługujący ewidencję."
+    },
+    {
+      "provision_ref": "par7u2",
+      "section": "7",
+      "title": "§ 7 ust. 2",
+      "content": "W przypadku konieczności uzupełnienia udostępnionych przez system teleinformatyczny obsługujący ewidencję danych słownikowych, podmiot obowiązany do wprowadzania danych do ewidencji zgłasza, za pośrednictwem systemu teleinformatycznego obsługującego ewidencję lub systemu teleinformatycznego obsługującego zadania realizowane przez ten podmiot, administratorowi ewidencji konieczność uzupełnienia danych słownikowych."
+    },
+    {
+      "provision_ref": "par7u3",
+      "section": "7",
+      "title": "§ 7 ust. 3",
+      "content": "Uzupełnienia danych słownikowych dokonuje administrator ewidencji niezwłocznie po stwierdzeniu konieczności ich uzupełnienia."
+    },
+    {
+      "provision_ref": "par7u4",
+      "section": "7",
+      "title": "§ 7 ust. 4",
+      "content": "W przypadku braku konieczności uzupełnienia danych słownikowych administrator ewidencji niezwłocznie powiadamia podmiot, o którym mowa w ust. 2, o danej słownikowej, której należy użyć."
+    },
+    {
+      "provision_ref": "par7u5",
+      "section": "7",
+      "title": "§ 7 ust. 5",
+      "content": "W przypadku gdy uzupełnienie danych słownikowych wymaga uprzedniego wprowadzenia danych do rejestrów lub ewidencji, o których mowa w art. 28 ust. 1, art. 30 ust. 1, art. 33 ust. 1 pkt 9, art. 38 ust. 2, art. 58 ust. 1 pkt 10, art. 77 ust. 1 pkt 5, art. 85 ust. 1, art. 86 ust. 4, art. 87 ust. 2 pkt 4, art. 114 ust. 1, art. 116 ust. 4 i art. 117 ust. 2 pkt 8 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami ) oraz w art. 100ag ust. 1 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym , administrator ewidencji niezwłocznie przekazuje zgłoszenie do organu właściwego do prowadzenia tego rejestru lub ewidencji. Uzupełnienie danych słownikowych, o którym mowa w ust. 3, następuje po potwierdzeniu przez organ właściwy do prowadzenia rejestru lub ewidencji zasadności zgłoszenia."
+    },
+    {
+      "provision_ref": "par8",
+      "section": "8",
+      "title": "§ 8",
+      "content": "Otrzymanie komunikatu z systemu teleinformatycznego obsługującego ewidencję, potwierdzającego poprawne wprowadzenie danych do ewidencji, wymaga: wskazania sumy kontrolnej potwierdzającej aktualność danych; wskazania obiektu, którego dane dotyczą; wskazania wszystkich danych wymaganych przepisami prawa; użycia schematu zasilania udostępnianego przez administratora ewidencji; wyjaśnienia niepoprawności w przypadku zidentyfikowania niezgodności z danymi zgromadzonymi w rejestrze PESEL i REGON. W przypadku braku możliwości wprowadzenia danych do ewidencji administrator ewidencji za pomocą systemu teleinformatycznego obsługującego ewidencję przekaże podmiotowi obowiązanemu do wprowadzania danych do ewidencji informacje o danych, które powodują brak możliwości wprowadzenia danych do ewidencji, i o konieczności ponownego wprowadzenia danych."
+    },
+    {
+      "provision_ref": "par8u1p1",
+      "section": "8",
+      "title": "§ 8 ust. 1 pkt 1",
+      "content": "Otrzymanie komunikatu z systemu teleinformatycznego obsługującego ewidencję, potwierdzającego poprawne wprowadzenie danych do ewidencji, wymaga: wskazania sumy kontrolnej potwierdzającej aktualność danych;"
+    },
+    {
+      "provision_ref": "par8u1p2",
+      "section": "8",
+      "title": "§ 8 ust. 1 pkt 2",
+      "content": "Otrzymanie komunikatu z systemu teleinformatycznego obsługującego ewidencję, potwierdzającego poprawne wprowadzenie danych do ewidencji, wymaga: wskazania obiektu, którego dane dotyczą;"
+    },
+    {
+      "provision_ref": "par8u1p3",
+      "section": "8",
+      "title": "§ 8 ust. 1 pkt 3",
+      "content": "Otrzymanie komunikatu z systemu teleinformatycznego obsługującego ewidencję, potwierdzającego poprawne wprowadzenie danych do ewidencji, wymaga: wskazania wszystkich danych wymaganych przepisami prawa;"
+    },
+    {
+      "provision_ref": "par8u1p4",
+      "section": "8",
+      "title": "§ 8 ust. 1 pkt 4",
+      "content": "Otrzymanie komunikatu z systemu teleinformatycznego obsługującego ewidencję, potwierdzającego poprawne wprowadzenie danych do ewidencji, wymaga: użycia schematu zasilania udostępnianego przez administratora ewidencji;"
+    },
+    {
+      "provision_ref": "par8u1p5",
+      "section": "8",
+      "title": "§ 8 ust. 1 pkt 5",
+      "content": "Otrzymanie komunikatu z systemu teleinformatycznego obsługującego ewidencję, potwierdzającego poprawne wprowadzenie danych do ewidencji, wymaga: wyjaśnienia niepoprawności w przypadku zidentyfikowania niezgodności z danymi zgromadzonymi w rejestrze PESEL i REGON."
+    },
+    {
+      "provision_ref": "par8u2",
+      "section": "8",
+      "title": "§ 8 ust. 2",
+      "content": "W przypadku braku możliwości wprowadzenia danych do ewidencji administrator ewidencji za pomocą systemu teleinformatycznego obsługującego ewidencję przekaże podmiotowi obowiązanemu do wprowadzania danych do ewidencji informacje o danych, które powodują brak możliwości wprowadzenia danych do ewidencji, i o konieczności ponownego wprowadzenia danych."
+    },
+    {
+      "provision_ref": "par9",
+      "section": "9",
+      "title": "§ 9",
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r."
+    }
+  ],
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2012-1137",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2014-1114",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2016-352",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2015-155",
+      "ref_type": "references"
+    }
+  ]
+}

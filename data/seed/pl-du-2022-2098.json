@@ -1,0 +1,800 @@
+{
+  "id": "pl-du-2022-2098",
+  "type": "statute",
+  "title": "Rozporządzenie Ministra Obrony Narodowej z dnia 29 września 2022 r. w sprawie trybu oceny i sposobu dopuszczania rozwiązań informatycznych, w których mają być przetwarzane informacje niejawne",
+  "title_en": "",
+  "short_name": "pl-du-2022-2098",
+  "status": "in_force",
+  "issued_date": "2022-09-29",
+  "in_force_date": "2022-10-14",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2022/2098",
+  "provisions": [
+    {
+      "provision_ref": "par1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Rozporządzenie określa tryb oceny i sposób dopuszczania rozwiązań informatycznych niebędących systemami teleinformatycznymi do przetwarzania informacji niejawnych."
+    },
+    {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: dopuszczeniu rozwiązania informatycznego - należy przez to rozumieć formalne potwierdzenie realizacji wymogów określonych w rozporządzeniu w odniesieniu do rozwiązania informatycznego; dostępności - należy przez to rozumieć właściwość zasobu określającą możliwość jego wykorzystania na żądanie, w założonym czasie, przez uprawniony podmiot; gestorze rozwiązania informatycznego - należy przez to rozumieć jednostkę lub komórkę organizacyjną odpowiedzialną za realizację czynności związanych z oceną rozwiązania informatycznego planowanego do przetwarzania informacji niejawnych; głównym użytkowniku - należy przez to rozumieć kierownika jednostki organizacyjnej, w której jest eksploatowane rozwiązanie informatyczne podlegające dopuszczeniu; incydencie - należy przez to rozumieć incydent w rozumieniu art. 2 pkt 5 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa ; integralności - należy przez to rozumieć właściwość zasobu określającą, że nie został on zmodyfikowany w sposób nieuprawniony; komponencie rozwiązania informatycznego - należy przez to rozumieć część rozwiązania informatycznego realizującą daną funkcjonalność w jego obrębie; podatności - należy przez to rozumieć słabość zasobu lub zabezpieczenia, która może zostać wykorzystana przez zagrożenie; poufności - należy przez to rozumieć właściwość określającą, że informacja nie jest udostępniana lub ujawniana nieuprawnionym do tego podmiotom; przekazywaniu informacji - należy przez to rozumieć zarówno przekazywanie informacji na informatycznych nośnikach danych, na których zostały utrwalone, jak i w formie teletransmisji; rozwiązaniu informatycznym - należy przez to rozumieć rozwiązanie informatyczne, o którym mowa w art. 2 pkt 19 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych , zwanej dalej „ustawą”; ryzyku - należy przez to rozumieć ryzyko w rozumieniu art. 2 pkt 12 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa ; SKW - należy przez to rozumieć Służbę Kontrwywiadu Wojskowego; testach bezpieczeństwa - należy przez to rozumieć testy mające na celu weryfikację poprawności i skuteczności funkcjonowania zabezpieczeń, ustalenie ich aktualnego stanu oraz rekomendowanie skutecznych rozwiązań służących zapewnieniu odporności rozwiązania informatycznego oraz współpracujących z nim systemów teleinformatycznych na zagrożenia, w skład których wchodzą testy weryfikacyjne, podatnościowe oraz penetracyjne; testach penetracyjnych - należy przez to rozumieć element testów bezpieczeństwa obejmujący zaplanowanie i przeprowadzenie kontrolowanego ataku mającego na celu praktyczną weryfikację poprawności i skuteczności funkcjonowania procedur i zabezpieczeń oraz opracowanie rekomendacji dotyczących skutecznych rozwiązań, które zwiększają poziom odporności rozwiązania informatycznego oraz współpracujących z nim systemów teleinformatycznych na zagrożenia; testach podatnościowych - należy przez to rozumieć element testów bezpieczeństwa umożliwiający: identyfikację oraz ocenę wagi podatnych na zagrożenia słabych punktów w rozwiązaniu informatycznym oraz interfejsach współpracujących z nim systemów teleinformatycznych, w tym w wykorzystywanych w nich rozwiązaniach sprzętowych, programowych, infrastrukturalnych oraz organizacyjnych, dostarczanie gestorowi rozwiązania informatycznego informacji o rzeczywistych podatnościach zasobów niezbędnych do prawidłowego projektowania, wdrażania i optymalizacji jego zabezpieczeń, przy uwzględnieniu wyników szacowania ryzyka; testach weryfikacyjnych - należy przez to rozumieć element testów bezpieczeństwa mający na celu weryfikację poprawności implementacji zabezpieczeń w rozwiązaniu informatycznym oraz w interfejsach współpracujących z nim systemów teleinformatycznych; zabezpieczeniu - należy przez to rozumieć środki o charakterze fizycznym, technicznym lub proceduralnym zmniejszające ryzyko; zagrożeniu - należy przez to rozumieć potencjalną przyczynę niepożądanego zdarzenia, które może wywołać szkodę w rozwiązaniu informatycznym oraz we współpracujących z nim systemach teleinformatycznych."
+    },
+    {
+      "provision_ref": "par2p1",
+      "section": "2",
+      "title": "§ 2 pkt 1",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: dopuszczeniu rozwiązania informatycznego - należy przez to rozumieć formalne potwierdzenie realizacji wymogów określonych w rozporządzeniu w odniesieniu do rozwiązania informatycznego;"
+    },
+    {
+      "provision_ref": "par2p2",
+      "section": "2",
+      "title": "§ 2 pkt 2",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: dostępności - należy przez to rozumieć właściwość zasobu określającą możliwość jego wykorzystania na żądanie, w założonym czasie, przez uprawniony podmiot;"
+    },
+    {
+      "provision_ref": "par2p3",
+      "section": "2",
+      "title": "§ 2 pkt 3",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: gestorze rozwiązania informatycznego - należy przez to rozumieć jednostkę lub komórkę organizacyjną odpowiedzialną za realizację czynności związanych z oceną rozwiązania informatycznego planowanego do przetwarzania informacji niejawnych;"
+    },
+    {
+      "provision_ref": "par2p4",
+      "section": "2",
+      "title": "§ 2 pkt 4",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: głównym użytkowniku - należy przez to rozumieć kierownika jednostki organizacyjnej, w której jest eksploatowane rozwiązanie informatyczne podlegające dopuszczeniu;"
+    },
+    {
+      "provision_ref": "par2p5",
+      "section": "2",
+      "title": "§ 2 pkt 5",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: incydencie - należy przez to rozumieć incydent w rozumieniu art. 2 pkt 5 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa ;"
+    },
+    {
+      "provision_ref": "par2p6",
+      "section": "2",
+      "title": "§ 2 pkt 6",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: integralności - należy przez to rozumieć właściwość zasobu określającą, że nie został on zmodyfikowany w sposób nieuprawniony;"
+    },
+    {
+      "provision_ref": "par2p7",
+      "section": "2",
+      "title": "§ 2 pkt 7",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: komponencie rozwiązania informatycznego - należy przez to rozumieć część rozwiązania informatycznego realizującą daną funkcjonalność w jego obrębie;"
+    },
+    {
+      "provision_ref": "par2p8",
+      "section": "2",
+      "title": "§ 2 pkt 8",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: podatności - należy przez to rozumieć słabość zasobu lub zabezpieczenia, która może zostać wykorzystana przez zagrożenie;"
+    },
+    {
+      "provision_ref": "par2p9",
+      "section": "2",
+      "title": "§ 2 pkt 9",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: poufności - należy przez to rozumieć właściwość określającą, że informacja nie jest udostępniana lub ujawniana nieuprawnionym do tego podmiotom;"
+    },
+    {
+      "provision_ref": "par2p10",
+      "section": "2",
+      "title": "§ 2 pkt 10",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: przekazywaniu informacji - należy przez to rozumieć zarówno przekazywanie informacji na informatycznych nośnikach danych, na których zostały utrwalone, jak i w formie teletransmisji;"
+    },
+    {
+      "provision_ref": "par2p11",
+      "section": "2",
+      "title": "§ 2 pkt 11",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: rozwiązaniu informatycznym - należy przez to rozumieć rozwiązanie informatyczne, o którym mowa w art. 2 pkt 19 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych , zwanej dalej „ustawą”;"
+    },
+    {
+      "provision_ref": "par2p12",
+      "section": "2",
+      "title": "§ 2 pkt 12",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: ryzyku - należy przez to rozumieć ryzyko w rozumieniu art. 2 pkt 12 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa ;"
+    },
+    {
+      "provision_ref": "par2p13",
+      "section": "2",
+      "title": "§ 2 pkt 13",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: SKW - należy przez to rozumieć Służbę Kontrwywiadu Wojskowego;"
+    },
+    {
+      "provision_ref": "par2p14",
+      "section": "2",
+      "title": "§ 2 pkt 14",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: testach bezpieczeństwa - należy przez to rozumieć testy mające na celu weryfikację poprawności i skuteczności funkcjonowania zabezpieczeń, ustalenie ich aktualnego stanu oraz rekomendowanie skutecznych rozwiązań służących zapewnieniu odporności rozwiązania informatycznego oraz współpracujących z nim systemów teleinformatycznych na zagrożenia, w skład których wchodzą testy weryfikacyjne, podatnościowe oraz penetracyjne;"
+    },
+    {
+      "provision_ref": "par2p15",
+      "section": "2",
+      "title": "§ 2 pkt 15",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: testach penetracyjnych - należy przez to rozumieć element testów bezpieczeństwa obejmujący zaplanowanie i przeprowadzenie kontrolowanego ataku mającego na celu praktyczną weryfikację poprawności i skuteczności funkcjonowania procedur i zabezpieczeń oraz opracowanie rekomendacji dotyczących skutecznych rozwiązań, które zwiększają poziom odporności rozwiązania informatycznego oraz współpracujących z nim systemów teleinformatycznych na zagrożenia;"
+    },
+    {
+      "provision_ref": "par2p16la",
+      "section": "2",
+      "title": "§ 2 pkt 16 lit. a",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: testach podatnościowych - należy przez to rozumieć element testów bezpieczeństwa umożliwiający: identyfikację oraz ocenę wagi podatnych na zagrożenia słabych punktów w rozwiązaniu informatycznym oraz interfejsach współpracujących z nim systemów teleinformatycznych, w tym w wykorzystywanych w nich rozwiązaniach sprzętowych, programowych, infrastrukturalnych oraz organizacyjnych,"
+    },
+    {
+      "provision_ref": "par2p16lb",
+      "section": "2",
+      "title": "§ 2 pkt 16 lit. b",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: testach podatnościowych - należy przez to rozumieć element testów bezpieczeństwa umożliwiający: dostarczanie gestorowi rozwiązania informatycznego informacji o rzeczywistych podatnościach zasobów niezbędnych do prawidłowego projektowania, wdrażania i optymalizacji jego zabezpieczeń, przy uwzględnieniu wyników szacowania ryzyka;"
+    },
+    {
+      "provision_ref": "par2p17",
+      "section": "2",
+      "title": "§ 2 pkt 17",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: testach weryfikacyjnych - należy przez to rozumieć element testów bezpieczeństwa mający na celu weryfikację poprawności implementacji zabezpieczeń w rozwiązaniu informatycznym oraz w interfejsach współpracujących z nim systemów teleinformatycznych;"
+    },
+    {
+      "provision_ref": "par2p18",
+      "section": "2",
+      "title": "§ 2 pkt 18",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: zabezpieczeniu - należy przez to rozumieć środki o charakterze fizycznym, technicznym lub proceduralnym zmniejszające ryzyko;"
+    },
+    {
+      "provision_ref": "par2p19",
+      "section": "2",
+      "title": "§ 2 pkt 19",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: zagrożeniu - należy przez to rozumieć potencjalną przyczynę niepożądanego zdarzenia, które może wywołać szkodę w rozwiązaniu informatycznym oraz we współpracujących z nim systemach teleinformatycznych."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "W ramach rozwiązań informatycznych dopuszcza się przetwarzanie informacji na poziomach taktycznym i operacyjnym, niezbędne do wykonania zadania realizowanego z wykorzystaniem danego rozwiązania informatycznego, w szczególności o krótkotrwałym charakterze przetwarzanych informacji niejawnych."
+    },
+    {
+      "provision_ref": "par4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "W ramach trybu oceny za rozwiązania informatyczne niebędące systemem teleinformatycznym można uznawać wyłącznie sprzęt wojskowy lub sprzęt, który podlega procesowi pozyskiwania w ramach procedury pozyskiwania, zwany dalej „SpW”, oraz jego elementy."
+    },
+    {
+      "provision_ref": "par5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Rozwiązania informatyczne ocenia się w zakresie wdrożenia spójnego zbioru zabezpieczeń służących zapewnieniu zachowania bezpieczeństwa informacji niejawnych przetwarzanych przy ich zastosowaniu, na podstawie właściwego doboru w danym rozwiązaniu informatycznym metod realizacji następujących celów bezpieczeństwa: poufności informacji niejawnych; integralności informacji niejawnych; dostępności informacji niejawnych. Realizując cele bezpieczeństwa: wdraża się spójny zbiór zabezpieczeń w zakresie bezpieczeństwa osobowego, bezpieczeństwa fizycznego, bezpieczeństwa informatycznego, a także odpowiednie procedury związane z wykorzystywaniem rozwiązań informatycznych do określonych zastosowań; ogranicza się zakres obszarów zastosowania rozwiązań informatycznych z uwzględnieniem sposobu i przypadków ich użycia; ogranicza się dostęp do wykorzystania rozwiązań informatycznych tylko przez podmioty uprawnione w zakresie wynikającym z ich zadań oraz wyłącznie w zakresie niezbędnym do ich realizacji; stosuje się wielopoziomową ochronę, polegającą na stosowaniu zabezpieczeń na różnych poziomach, w celu ograniczenia występowania przypadków, w których przełamanie pojedynczego zabezpieczenia skutkuje przełamaniem pozostałych; wdraża się procedury wymiany informacji niejawnych z systemami teleinformatycznymi; zapewnia się sprawowanie nadzoru nad poprawną eksploatacją rozwiązania informatycznego zgodnie z warunkami jego dopuszczenia. Projektując zbiór zabezpieczeń, o których mowa w ust. 2, stosuje się, w zależności od możliwości technicznych oraz poziomu ryzyka ujawnienia, utraty lub naruszenia integralności informacji niejawnych, odpowiednio do zadań realizowanych przy wykorzystywaniu rozwiązań informatycznych: zabezpieczenia realizujące kontrolę dostępu do zasobów rozwiązań informatycznych, w szczególności zapewnienie ochrony fizycznej ich komponentów; warunki i sposób przydziału uprawnień do eksploatacji rozwiązań informatycznych; procedury postępowania związane z wykorzystywaniem rozwiązań informatycznych, w tym w czasie wojny, w razie ogłoszenia stanu nadzwyczajnego, mobilizacji lub sytuacji kryzysowej; środki zapewniające ochronę transmisji danych przed wykryciem, przechwyceniem lub zakłóceniem; środki zapewniające ochronę elektromagnetyczną; mechanizmy lub procedury dotyczące reagowania na incydenty; inne niezbędne procedury i mechanizmy zabezpieczania informacji niejawnych przetwarzanych w ramach rozwiązania informatycznego. Działania, o których mowa w ust. 3, opisuje się szczegółowo w dokumencie „Wymagania ochrony informacji niejawnych” opracowywanym dla danego rozwiązania informatycznego."
+    },
+    {
+      "provision_ref": "par5u1p1",
+      "section": "5",
+      "title": "§ 5 ust. 1 pkt 1",
+      "content": "Rozwiązania informatyczne ocenia się w zakresie wdrożenia spójnego zbioru zabezpieczeń służących zapewnieniu zachowania bezpieczeństwa informacji niejawnych przetwarzanych przy ich zastosowaniu, na podstawie właściwego doboru w danym rozwiązaniu informatycznym metod realizacji następujących celów bezpieczeństwa: poufności informacji niejawnych;"
+    },
+    {
+      "provision_ref": "par5u1p2",
+      "section": "5",
+      "title": "§ 5 ust. 1 pkt 2",
+      "content": "Rozwiązania informatyczne ocenia się w zakresie wdrożenia spójnego zbioru zabezpieczeń służących zapewnieniu zachowania bezpieczeństwa informacji niejawnych przetwarzanych przy ich zastosowaniu, na podstawie właściwego doboru w danym rozwiązaniu informatycznym metod realizacji następujących celów bezpieczeństwa: integralności informacji niejawnych;"
+    },
+    {
+      "provision_ref": "par5u1p3",
+      "section": "5",
+      "title": "§ 5 ust. 1 pkt 3",
+      "content": "Rozwiązania informatyczne ocenia się w zakresie wdrożenia spójnego zbioru zabezpieczeń służących zapewnieniu zachowania bezpieczeństwa informacji niejawnych przetwarzanych przy ich zastosowaniu, na podstawie właściwego doboru w danym rozwiązaniu informatycznym metod realizacji następujących celów bezpieczeństwa: dostępności informacji niejawnych."
+    },
+    {
+      "provision_ref": "par5u2p1",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 1",
+      "content": "Realizując cele bezpieczeństwa: wdraża się spójny zbiór zabezpieczeń w zakresie bezpieczeństwa osobowego, bezpieczeństwa fizycznego, bezpieczeństwa informatycznego, a także odpowiednie procedury związane z wykorzystywaniem rozwiązań informatycznych do określonych zastosowań;"
+    },
+    {
+      "provision_ref": "par5u2p2",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 2",
+      "content": "Realizując cele bezpieczeństwa: ogranicza się zakres obszarów zastosowania rozwiązań informatycznych z uwzględnieniem sposobu i przypadków ich użycia;"
+    },
+    {
+      "provision_ref": "par5u2p3",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 3",
+      "content": "Realizując cele bezpieczeństwa: ogranicza się dostęp do wykorzystania rozwiązań informatycznych tylko przez podmioty uprawnione w zakresie wynikającym z ich zadań oraz wyłącznie w zakresie niezbędnym do ich realizacji;"
+    },
+    {
+      "provision_ref": "par5u2p4",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 4",
+      "content": "Realizując cele bezpieczeństwa: stosuje się wielopoziomową ochronę, polegającą na stosowaniu zabezpieczeń na różnych poziomach, w celu ograniczenia występowania przypadków, w których przełamanie pojedynczego zabezpieczenia skutkuje przełamaniem pozostałych;"
+    },
+    {
+      "provision_ref": "par5u2p5",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 5",
+      "content": "Realizując cele bezpieczeństwa: wdraża się procedury wymiany informacji niejawnych z systemami teleinformatycznymi;"
+    },
+    {
+      "provision_ref": "par5u2p6",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 6",
+      "content": "Realizując cele bezpieczeństwa: zapewnia się sprawowanie nadzoru nad poprawną eksploatacją rozwiązania informatycznego zgodnie z warunkami jego dopuszczenia."
+    },
+    {
+      "provision_ref": "par5u3p1",
+      "section": "5",
+      "title": "§ 5 ust. 3 pkt 1",
+      "content": "Projektując zbiór zabezpieczeń, o których mowa w ust. 2, stosuje się, w zależności od możliwości technicznych oraz poziomu ryzyka ujawnienia, utraty lub naruszenia integralności informacji niejawnych, odpowiednio do zadań realizowanych przy wykorzystywaniu rozwiązań informatycznych: zabezpieczenia realizujące kontrolę dostępu do zasobów rozwiązań informatycznych, w szczególności zapewnienie ochrony fizycznej ich komponentów;"
+    },
+    {
+      "provision_ref": "par5u3p2",
+      "section": "5",
+      "title": "§ 5 ust. 3 pkt 2",
+      "content": "Projektując zbiór zabezpieczeń, o których mowa w ust. 2, stosuje się, w zależności od możliwości technicznych oraz poziomu ryzyka ujawnienia, utraty lub naruszenia integralności informacji niejawnych, odpowiednio do zadań realizowanych przy wykorzystywaniu rozwiązań informatycznych: warunki i sposób przydziału uprawnień do eksploatacji rozwiązań informatycznych;"
+    },
+    {
+      "provision_ref": "par5u3p3",
+      "section": "5",
+      "title": "§ 5 ust. 3 pkt 3",
+      "content": "Projektując zbiór zabezpieczeń, o których mowa w ust. 2, stosuje się, w zależności od możliwości technicznych oraz poziomu ryzyka ujawnienia, utraty lub naruszenia integralności informacji niejawnych, odpowiednio do zadań realizowanych przy wykorzystywaniu rozwiązań informatycznych: procedury postępowania związane z wykorzystywaniem rozwiązań informatycznych, w tym w czasie wojny, w razie ogłoszenia stanu nadzwyczajnego, mobilizacji lub sytuacji kryzysowej;"
+    },
+    {
+      "provision_ref": "par5u3p4",
+      "section": "5",
+      "title": "§ 5 ust. 3 pkt 4",
+      "content": "Projektując zbiór zabezpieczeń, o których mowa w ust. 2, stosuje się, w zależności od możliwości technicznych oraz poziomu ryzyka ujawnienia, utraty lub naruszenia integralności informacji niejawnych, odpowiednio do zadań realizowanych przy wykorzystywaniu rozwiązań informatycznych: środki zapewniające ochronę transmisji danych przed wykryciem, przechwyceniem lub zakłóceniem;"
+    },
+    {
+      "provision_ref": "par5u3p5",
+      "section": "5",
+      "title": "§ 5 ust. 3 pkt 5",
+      "content": "Projektując zbiór zabezpieczeń, o których mowa w ust. 2, stosuje się, w zależności od możliwości technicznych oraz poziomu ryzyka ujawnienia, utraty lub naruszenia integralności informacji niejawnych, odpowiednio do zadań realizowanych przy wykorzystywaniu rozwiązań informatycznych: środki zapewniające ochronę elektromagnetyczną;"
+    },
+    {
+      "provision_ref": "par5u3p6",
+      "section": "5",
+      "title": "§ 5 ust. 3 pkt 6",
+      "content": "Projektując zbiór zabezpieczeń, o których mowa w ust. 2, stosuje się, w zależności od możliwości technicznych oraz poziomu ryzyka ujawnienia, utraty lub naruszenia integralności informacji niejawnych, odpowiednio do zadań realizowanych przy wykorzystywaniu rozwiązań informatycznych: mechanizmy lub procedury dotyczące reagowania na incydenty;"
+    },
+    {
+      "provision_ref": "par5u3p7",
+      "section": "5",
+      "title": "§ 5 ust. 3 pkt 7",
+      "content": "Projektując zbiór zabezpieczeń, o których mowa w ust. 2, stosuje się, w zależności od możliwości technicznych oraz poziomu ryzyka ujawnienia, utraty lub naruszenia integralności informacji niejawnych, odpowiednio do zadań realizowanych przy wykorzystywaniu rozwiązań informatycznych: inne niezbędne procedury i mechanizmy zabezpieczania informacji niejawnych przetwarzanych w ramach rozwiązania informatycznego."
+    },
+    {
+      "provision_ref": "par5u4",
+      "section": "5",
+      "title": "§ 5 ust. 4",
+      "content": "Działania, o których mowa w ust. 3, opisuje się szczegółowo w dokumencie „Wymagania ochrony informacji niejawnych” opracowywanym dla danego rozwiązania informatycznego."
+    },
+    {
+      "provision_ref": "par6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "W celu zagwarantowania poufności i integralności informacji niejawnych przekazywanych przez komponenty rozwiązań informatycznych, w formie transmisji poza obszarami objętymi ochroną fizyczną, stosuje się ochronę kryptograficzną. Doboru rozwiązań z zakresu ochrony kryptograficznej, o których mowa w ust. 1, dokonuje się z uwzględnieniem wyników procesu szacowania ryzyka dla bezpieczeństwa informacji niejawnych przetwarzanych za pomocą rozwiązania informatycznego oraz opinii Dowództwa Komponentu Wojsk Obrony Cyberprzestrzeni."
+    },
+    {
+      "provision_ref": "par6u1",
+      "section": "6",
+      "title": "§ 6 ust. 1",
+      "content": "W celu zagwarantowania poufności i integralności informacji niejawnych przekazywanych przez komponenty rozwiązań informatycznych, w formie transmisji poza obszarami objętymi ochroną fizyczną, stosuje się ochronę kryptograficzną."
+    },
+    {
+      "provision_ref": "par6u2",
+      "section": "6",
+      "title": "§ 6 ust. 2",
+      "content": "Doboru rozwiązań z zakresu ochrony kryptograficznej, o których mowa w ust. 1, dokonuje się z uwzględnieniem wyników procesu szacowania ryzyka dla bezpieczeństwa informacji niejawnych przetwarzanych za pomocą rozwiązania informatycznego oraz opinii Dowództwa Komponentu Wojsk Obrony Cyberprzestrzeni."
+    },
+    {
+      "provision_ref": "par7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "W celu zagwarantowania poufności informacji niejawnych przetwarzanych przy użyciu rozwiązań informatycznych, zagrożonych w wyniku elektromagnetycznej emisji ujawniającej, rozwiązania z zakresu ochrony elektromagnetycznej dobiera się z uwzględnieniem wyników procesu szacowania ryzyka dla bezpieczeństwa informacji niejawnych. W szczególnym przypadku rozwiązania informatyczne lub ich komponenty mogą podlegać badaniom poziomu ich emisyjności w celu zapewnienia właściwej ochrony elektromagnetycznej, z uwzględnieniem zaleceń."
+    },
+    {
+      "provision_ref": "par8",
+      "section": "8",
+      "title": "§ 8",
+      "content": "W celu zagwarantowania realizacji procesu wykrywania incydentów, a także zapewnienia niezwłocznego informowania odpowiednich osób o wykrytym incydencie, w dokumencie „Wymagania ochrony informacji niejawnych” stosuje się procedury reagowania na incydenty związane z przetwarzaniem informacji niejawnych za pomocą rozwiązań informatycznych."
+    },
+    {
+      "provision_ref": "par9",
+      "section": "9",
+      "title": "§ 9",
+      "content": "W celu zapewnienia właściwej ochrony informacji niejawnych przetwarzanych w ramach rozwiązania informatycznego na niejawnych wymiennych informatycznych nośnikach danych, które można wyodrębnić z rozwiązania informatycznego, stosuje się procedury właściwe dla ochrony materiału niejawnego w rozumieniu art. 2 pkt 4 ustawy, stosownie do najwyższej klauzuli przechowywanych informacji."
+    },
+    {
+      "provision_ref": "par10",
+      "section": "10",
+      "title": "§ 10",
+      "content": "Rozwiązania informatyczne dopuszczone do przetwarzania informacji niejawnych mogą wymieniać informacje niejawne z systemami teleinformatycznymi posiadającymi akredytację bezpieczeństwa teleinformatycznego w rozumieniu przepisów ustawy z zastosowaniem wyłącznie procedur określonych w dokumencie „Wymagania ochrony informacji niejawnych”, które zostały uwzględnione w dokumentacji szczególnych wymagań bezpieczeństwa oraz procedur bezpiecznej eksploatacji dla przedmiotowego systemu, wykonanymi według wymagań ustawy. Wymianę informacji, o której mowa w ust. 1, realizuje się, zapewniając minimalizację wymienianych danych, stosownie do sytuacji i realizowanych zadań, oraz odpowiednio uwzględnia się wymaganie ograniczonego zaufania, o którym mowa w przepisach wydanych na podstawie art. 49 ust. 9 ustawy, z tym zastrzeżeniem, że potencjalnym źródłem zagrożeń może być zarówno inny system teleinformatyczny, jak i inne rozwiązanie informatyczne."
+    },
+    {
+      "provision_ref": "par10u1",
+      "section": "10",
+      "title": "§ 10 ust. 1",
+      "content": "Rozwiązania informatyczne dopuszczone do przetwarzania informacji niejawnych mogą wymieniać informacje niejawne z systemami teleinformatycznymi posiadającymi akredytację bezpieczeństwa teleinformatycznego w rozumieniu przepisów ustawy z zastosowaniem wyłącznie procedur określonych w dokumencie „Wymagania ochrony informacji niejawnych”, które zostały uwzględnione w dokumentacji szczególnych wymagań bezpieczeństwa oraz procedur bezpiecznej eksploatacji dla przedmiotowego systemu, wykonanymi według wymagań ustawy."
+    },
+    {
+      "provision_ref": "par10u2",
+      "section": "10",
+      "title": "§ 10 ust. 2",
+      "content": "Wymianę informacji, o której mowa w ust. 1, realizuje się, zapewniając minimalizację wymienianych danych, stosownie do sytuacji i realizowanych zadań, oraz odpowiednio uwzględnia się wymaganie ograniczonego zaufania, o którym mowa w przepisach wydanych na podstawie art. 49 ust. 9 ustawy, z tym zastrzeżeniem, że potencjalnym źródłem zagrożeń może być zarówno inny system teleinformatyczny, jak i inne rozwiązanie informatyczne."
+    },
+    {
+      "provision_ref": "par11",
+      "section": "11",
+      "title": "§ 11",
+      "content": "Dopuszczenie rozwiązania informatycznego do przetwarzania informacji niejawnych realizuje się przed rozpoczęciem przetwarzania informacji niejawnych w ramach jego eksploatacji."
+    },
+    {
+      "provision_ref": "par12",
+      "section": "12",
+      "title": "§ 12",
+      "content": "W celu dopuszczenia rozwiązań informatycznych do przetwarzania informacji niejawnych, w rozumieniu art. 51 ust. 3 ustawy, opracowuje się dokument „Wymagania ochrony informacji niejawnych”. Dokument „Wymagania ochrony informacji niejawnych” zawiera informacje o: rodzajach oraz najwyższej klauzuli informacji niejawnych, które mogą być przetwarzane za pomocą rozwiązania informatycznego; przeznaczeniu rozwiązania informatycznego; podmiotach uprawnionych do eksploatacji rozwiązania informatycznego; podmiocie sprawującym nadzór nad eksploatacją zgodną z warunkami określonymi w dokumencie „Wymagania ochrony informacji niejawnych”; wymaganych środkach w zakresie bezpieczeństwa osobowego przed dopuszczeniem do pracy z wykorzystaniem rozwiązania informatycznego; środkach ochrony fizycznej komponentów rozwiązania informatycznego; rozwiązaniach w zakresie zapewnienia ochrony elektromagnetycznej; stosowaniu ochrony kryptograficznej lub innych rozwiązań w zakresie bezpieczeństwa transmisji; certyfikatach lub innych dokumentach potwierdzających ocenę bezpieczeństwa rozwiązania informatycznego lub jego komponentu wydanych przez krajowe władze bezpieczeństwa państwa członkowskiego NATO lub UE lub właściwy organ NATO lub UE; ochronie nośników danych, w szczególności ich ochronie fizycznej; procedurach wykorzystania rozwiązania informatycznego w stanach nadzwyczajnych, w tym w czasie wojny, w razie ogłoszenia stanu nadzwyczajnego, mobilizacji lub sytuacji kryzysowej; niezbędnych szkoleniach dla podmiotów użytkujących rozwiązania informatyczne; procedurach wymiany danych z systemami teleinformatycznymi posiadającymi akredytację bezpieczeństwa teleinformatycznego oraz systemami informacyjnymi, o których mowa w art. 2 pkt 14 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa ; procedurach reagowania na incydenty związane z eksploatacją rozwiązania informatycznego; procedurach reagowania na incydenty związane z przetwarzaniem informacji niejawnych za pomocą rozwiązań informatycznych; wynikach procesu szacowania ryzyka dla bezpieczeństwa informacji niejawnych przetwarzanych w ramach rozwiązania informatycznego; przyjętych w ramach zarządzania ryzykiem sposobów osiągania i utrzymywania odpowiedniego poziomu bezpieczeństwa informacji niejawnych przetwarzanych w ramach rozwiązania informatycznego; aspektach budowy, dostępnych trybów pracy, działania i eksploatacji rozwiązania informatycznego, które mają związek z bezpieczeństwem informacji niejawnych przetwarzanych w ramach rozwiązania informatycznego lub wpływają na ich bezpieczeństwo; oświadczeniu zrealizowania procesu oceny bezpieczeństwa rozwiązania informatycznego zgodnie z wymogami niniejszego rozporządzenia; wykazie zaleceń i wymagań dla głównego użytkownika; innych danych niezbędnych do prawidłowego wdrożenia rozwiązania informatycznego oraz prawidłowej ochrony informacji niejawnych."
+    },
+    {
+      "provision_ref": "par12u1",
+      "section": "12",
+      "title": "§ 12 ust. 1",
+      "content": "W celu dopuszczenia rozwiązań informatycznych do przetwarzania informacji niejawnych, w rozumieniu art. 51 ust. 3 ustawy, opracowuje się dokument „Wymagania ochrony informacji niejawnych”."
+    },
+    {
+      "provision_ref": "par12u2p1",
+      "section": "12",
+      "title": "§ 12 ust. 2 pkt 1",
+      "content": "Dokument „Wymagania ochrony informacji niejawnych” zawiera informacje o: rodzajach oraz najwyższej klauzuli informacji niejawnych, które mogą być przetwarzane za pomocą rozwiązania informatycznego;"
+    },
+    {
+      "provision_ref": "par12u2p2",
+      "section": "12",
+      "title": "§ 12 ust. 2 pkt 2",
+      "content": "Dokument „Wymagania ochrony informacji niejawnych” zawiera informacje o: przeznaczeniu rozwiązania informatycznego;"
+    },
+    {
+      "provision_ref": "par12u2p3",
+      "section": "12",
+      "title": "§ 12 ust. 2 pkt 3",
+      "content": "Dokument „Wymagania ochrony informacji niejawnych” zawiera informacje o: podmiotach uprawnionych do eksploatacji rozwiązania informatycznego;"
+    },
+    {
+      "provision_ref": "par12u2p4",
+      "section": "12",
+      "title": "§ 12 ust. 2 pkt 4",
+      "content": "Dokument „Wymagania ochrony informacji niejawnych” zawiera informacje o: podmiocie sprawującym nadzór nad eksploatacją zgodną z warunkami określonymi w dokumencie „Wymagania ochrony informacji niejawnych”;"
+    },
+    {
+      "provision_ref": "par12u2p5",
+      "section": "12",
+      "title": "§ 12 ust. 2 pkt 5",
+      "content": "Dokument „Wymagania ochrony informacji niejawnych” zawiera informacje o: wymaganych środkach w zakresie bezpieczeństwa osobowego przed dopuszczeniem do pracy z wykorzystaniem rozwiązania informatycznego;"
+    },
+    {
+      "provision_ref": "par12u2p6",
+      "section": "12",
+      "title": "§ 12 ust. 2 pkt 6",
+      "content": "Dokument „Wymagania ochrony informacji niejawnych” zawiera informacje o: środkach ochrony fizycznej komponentów rozwiązania informatycznego;"
+    },
+    {
+      "provision_ref": "par12u2p7",
+      "section": "12",
+      "title": "§ 12 ust. 2 pkt 7",
+      "content": "Dokument „Wymagania ochrony informacji niejawnych” zawiera informacje o: rozwiązaniach w zakresie zapewnienia ochrony elektromagnetycznej;"
+    },
+    {
+      "provision_ref": "par12u2p8",
+      "section": "12",
+      "title": "§ 12 ust. 2 pkt 8",
+      "content": "Dokument „Wymagania ochrony informacji niejawnych” zawiera informacje o: stosowaniu ochrony kryptograficznej lub innych rozwiązań w zakresie bezpieczeństwa transmisji;"
+    },
+    {
+      "provision_ref": "par12u2p9",
+      "section": "12",
+      "title": "§ 12 ust. 2 pkt 9",
+      "content": "Dokument „Wymagania ochrony informacji niejawnych” zawiera informacje o: certyfikatach lub innych dokumentach potwierdzających ocenę bezpieczeństwa rozwiązania informatycznego lub jego komponentu wydanych przez krajowe władze bezpieczeństwa państwa członkowskiego NATO lub UE lub właściwy organ NATO lub UE;"
+    },
+    {
+      "provision_ref": "par12u2p10",
+      "section": "12",
+      "title": "§ 12 ust. 2 pkt 10",
+      "content": "Dokument „Wymagania ochrony informacji niejawnych” zawiera informacje o: ochronie nośników danych, w szczególności ich ochronie fizycznej;"
+    },
+    {
+      "provision_ref": "par12u2p11",
+      "section": "12",
+      "title": "§ 12 ust. 2 pkt 11",
+      "content": "Dokument „Wymagania ochrony informacji niejawnych” zawiera informacje o: procedurach wykorzystania rozwiązania informatycznego w stanach nadzwyczajnych, w tym w czasie wojny, w razie ogłoszenia stanu nadzwyczajnego, mobilizacji lub sytuacji kryzysowej;"
+    },
+    {
+      "provision_ref": "par12u2p12",
+      "section": "12",
+      "title": "§ 12 ust. 2 pkt 12",
+      "content": "Dokument „Wymagania ochrony informacji niejawnych” zawiera informacje o: niezbędnych szkoleniach dla podmiotów użytkujących rozwiązania informatyczne;"
+    },
+    {
+      "provision_ref": "par12u2p13",
+      "section": "12",
+      "title": "§ 12 ust. 2 pkt 13",
+      "content": "Dokument „Wymagania ochrony informacji niejawnych” zawiera informacje o: procedurach wymiany danych z systemami teleinformatycznymi posiadającymi akredytację bezpieczeństwa teleinformatycznego oraz systemami informacyjnymi, o których mowa w art. 2 pkt 14 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa ;"
+    },
+    {
+      "provision_ref": "par12u2p14",
+      "section": "12",
+      "title": "§ 12 ust. 2 pkt 14",
+      "content": "Dokument „Wymagania ochrony informacji niejawnych” zawiera informacje o: procedurach reagowania na incydenty związane z eksploatacją rozwiązania informatycznego;"
+    },
+    {
+      "provision_ref": "par12u2p15",
+      "section": "12",
+      "title": "§ 12 ust. 2 pkt 15",
+      "content": "Dokument „Wymagania ochrony informacji niejawnych” zawiera informacje o: procedurach reagowania na incydenty związane z przetwarzaniem informacji niejawnych za pomocą rozwiązań informatycznych;"
+    },
+    {
+      "provision_ref": "par12u2p16",
+      "section": "12",
+      "title": "§ 12 ust. 2 pkt 16",
+      "content": "Dokument „Wymagania ochrony informacji niejawnych” zawiera informacje o: wynikach procesu szacowania ryzyka dla bezpieczeństwa informacji niejawnych przetwarzanych w ramach rozwiązania informatycznego;"
+    },
+    {
+      "provision_ref": "par12u2p17",
+      "section": "12",
+      "title": "§ 12 ust. 2 pkt 17",
+      "content": "Dokument „Wymagania ochrony informacji niejawnych” zawiera informacje o: przyjętych w ramach zarządzania ryzykiem sposobów osiągania i utrzymywania odpowiedniego poziomu bezpieczeństwa informacji niejawnych przetwarzanych w ramach rozwiązania informatycznego;"
+    },
+    {
+      "provision_ref": "par12u2p18",
+      "section": "12",
+      "title": "§ 12 ust. 2 pkt 18",
+      "content": "Dokument „Wymagania ochrony informacji niejawnych” zawiera informacje o: aspektach budowy, dostępnych trybów pracy, działania i eksploatacji rozwiązania informatycznego, które mają związek z bezpieczeństwem informacji niejawnych przetwarzanych w ramach rozwiązania informatycznego lub wpływają na ich bezpieczeństwo;"
+    },
+    {
+      "provision_ref": "par12u2p19",
+      "section": "12",
+      "title": "§ 12 ust. 2 pkt 19",
+      "content": "Dokument „Wymagania ochrony informacji niejawnych” zawiera informacje o: oświadczeniu zrealizowania procesu oceny bezpieczeństwa rozwiązania informatycznego zgodnie z wymogami niniejszego rozporządzenia;"
+    },
+    {
+      "provision_ref": "par12u2p20",
+      "section": "12",
+      "title": "§ 12 ust. 2 pkt 20",
+      "content": "Dokument „Wymagania ochrony informacji niejawnych” zawiera informacje o: wykazie zaleceń i wymagań dla głównego użytkownika;"
+    },
+    {
+      "provision_ref": "par12u2p21",
+      "section": "12",
+      "title": "§ 12 ust. 2 pkt 21",
+      "content": "Dokument „Wymagania ochrony informacji niejawnych” zawiera informacje o: innych danych niezbędnych do prawidłowego wdrożenia rozwiązania informatycznego oraz prawidłowej ochrony informacji niejawnych."
+    },
+    {
+      "provision_ref": "par13",
+      "section": "13",
+      "title": "§ 13",
+      "content": "Tryb oceny bezpieczeństwa rozwiązania informatycznego przeznaczonego do przetwarzania informacji niejawnych realizowany przez: Szefa Sztabu Generalnego Wojska Polskiego, zwanego dalej „Szefem Sztabu Generalnego WP” - obejmuje czynności, o których mowa w § 14 pkt 2 i 3; gestora rozwiązania informatycznego - obejmuje czynności, o których mowa w § 15."
+    },
+    {
+      "provision_ref": "par13p1",
+      "section": "13",
+      "title": "§ 13 pkt 1",
+      "content": "Tryb oceny bezpieczeństwa rozwiązania informatycznego przeznaczonego do przetwarzania informacji niejawnych realizowany przez: Szefa Sztabu Generalnego Wojska Polskiego, zwanego dalej „Szefem Sztabu Generalnego WP” - obejmuje czynności, o których mowa w § 14 pkt 2 i 3;"
+    },
+    {
+      "provision_ref": "par13p2",
+      "section": "13",
+      "title": "§ 13 pkt 2",
+      "content": "Tryb oceny bezpieczeństwa rozwiązania informatycznego przeznaczonego do przetwarzania informacji niejawnych realizowany przez: gestora rozwiązania informatycznego - obejmuje czynności, o których mowa w § 15."
+    },
+    {
+      "provision_ref": "par14",
+      "section": "14",
+      "title": "§ 14",
+      "content": "W zakresie czynności realizowanych w ramach trybu oceny rozwiązania informatycznego przeznaczonego do przetwarzania informacji niejawnych Szef Sztabu Generalnego WP podejmuje następujące czynności: wyznacza, w formie rozkazu, gestora rozwiązania informatycznego oraz wyznacza lub wskazuje eksperckie jednostki wspierające; akceptuje wyniki procesu szacowania ryzyka zrealizowanego przez gestora rozwiązania informatycznego oraz zapewnia właściwą organizację ochrony informacji niejawnych, związanej z eksploatacją rozwiązania informatycznego w Siłach Zbrojnych Rzeczypospolitej Polskiej, z uwzględnieniem wyników przedmiotowego procesu; zatwierdza i przesyła do SKW dokument „Wymagania ochrony informacji niejawnych”; nadzoruje realizację zadań przez gestora rozwiązania informatycznego; informuje SKW, w formie pisemnej, o wycofaniu rozwiązania informatycznego z eksploatacji; prowadzi wykaz rozwiązań informatycznych dopuszczonych do przetwarzania informacji niejawnych przez SKW."
+    },
+    {
+      "provision_ref": "par14p1",
+      "section": "14",
+      "title": "§ 14 pkt 1",
+      "content": "W zakresie czynności realizowanych w ramach trybu oceny rozwiązania informatycznego przeznaczonego do przetwarzania informacji niejawnych Szef Sztabu Generalnego WP podejmuje następujące czynności: wyznacza, w formie rozkazu, gestora rozwiązania informatycznego oraz wyznacza lub wskazuje eksperckie jednostki wspierające;"
+    },
+    {
+      "provision_ref": "par14p2",
+      "section": "14",
+      "title": "§ 14 pkt 2",
+      "content": "W zakresie czynności realizowanych w ramach trybu oceny rozwiązania informatycznego przeznaczonego do przetwarzania informacji niejawnych Szef Sztabu Generalnego WP podejmuje następujące czynności: akceptuje wyniki procesu szacowania ryzyka zrealizowanego przez gestora rozwiązania informatycznego oraz zapewnia właściwą organizację ochrony informacji niejawnych, związanej z eksploatacją rozwiązania informatycznego w Siłach Zbrojnych Rzeczypospolitej Polskiej, z uwzględnieniem wyników przedmiotowego procesu;"
+    },
+    {
+      "provision_ref": "par14p3",
+      "section": "14",
+      "title": "§ 14 pkt 3",
+      "content": "W zakresie czynności realizowanych w ramach trybu oceny rozwiązania informatycznego przeznaczonego do przetwarzania informacji niejawnych Szef Sztabu Generalnego WP podejmuje następujące czynności: zatwierdza i przesyła do SKW dokument „Wymagania ochrony informacji niejawnych”;"
+    },
+    {
+      "provision_ref": "par14p4",
+      "section": "14",
+      "title": "§ 14 pkt 4",
+      "content": "W zakresie czynności realizowanych w ramach trybu oceny rozwiązania informatycznego przeznaczonego do przetwarzania informacji niejawnych Szef Sztabu Generalnego WP podejmuje następujące czynności: nadzoruje realizację zadań przez gestora rozwiązania informatycznego;"
+    },
+    {
+      "provision_ref": "par14p5",
+      "section": "14",
+      "title": "§ 14 pkt 5",
+      "content": "W zakresie czynności realizowanych w ramach trybu oceny rozwiązania informatycznego przeznaczonego do przetwarzania informacji niejawnych Szef Sztabu Generalnego WP podejmuje następujące czynności: informuje SKW, w formie pisemnej, o wycofaniu rozwiązania informatycznego z eksploatacji;"
+    },
+    {
+      "provision_ref": "par14p6",
+      "section": "14",
+      "title": "§ 14 pkt 6",
+      "content": "W zakresie czynności realizowanych w ramach trybu oceny rozwiązania informatycznego przeznaczonego do przetwarzania informacji niejawnych Szef Sztabu Generalnego WP podejmuje następujące czynności: prowadzi wykaz rozwiązań informatycznych dopuszczonych do przetwarzania informacji niejawnych przez SKW."
+    },
+    {
+      "provision_ref": "par15",
+      "section": "15",
+      "title": "§ 15",
+      "content": "W zakresie czynności realizowanych w ramach trybu oceny rozwiązania informatycznego przeznaczonego do przetwarzania informacji niejawnych gestor rozwiązania informatycznego, na etapie planowania, projektowania i pozyskania rozwiązania informatycznego: analizuje kierunki zastosowania rozwiązania informatycznego w Siłach Zbrojnych Rzeczypospolitej Polskiej, w tym w czasie wojny, w razie ogłoszenia stanu nadzwyczajnego, mobilizacji lub sytuacji kryzysowej; analizuje funkcjonalności zabezpieczeń dostarczanych przez dane rozwiązanie informatyczne, które mogą zostać zastosowane do zabezpieczenia poufności, integralności i dostępności informacji niejawnych; przeprowadza proces wstępnego szacowania ryzyka dla bezpieczeństwa informacji niejawnych przetwarzanych z zastosowaniem rozwiązania informatycznego; projektuje zbiór dodatkowych zabezpieczeń, z uwzględnieniem wymogów określonych w § 5 ust. 2 i 3 oraz z uwzględnieniem wyników realizacji czynności, o których mowa w pkt 1-3; współpracuje z instytucjami odpowiedzialnymi za pozyskanie i wprowadzenie na wyposażenie Sił Zbrojnych Rzeczypospolitej Polskiej „SpW” zawierającego rozwiązania informatyczne lub ich komponenty; współpracuje z eksperckimi jednostkami wspierającymi, o których mowa w § 14 pkt 1. Na etapie, o którym mowa w ust. 1, gestor rozwiązania informatycznego może opracować i uzgodnić z SKW plan dopuszczenia rozwiązania informatycznego. Plan ten obejmuje zakres i harmonogram przedsięwzięć wymaganych do uzyskania dopuszczenia rozwiązania informatycznego do przetwarzania informacji niejawnych. Opracowanie planu możliwe jest w przypadkach rozpatrywania szczególnie skomplikowanych rozwiązań informatycznych. Na etapie wdrażania rozwiązania informatycznego gestor rozwiązania informatycznego odpowiada za: analizę funkcjonalności dodatkowych zabezpieczeń zastosowanych do wzmocnienia poziomu ochrony dostarczanych przez dane rozwiązanie informatyczne, które mogą zostać zastosowane do zabezpieczenia poufności, integralności i dostępności przetwarzanych informacji niejawnych; przeprowadzenie procesu szacowania ryzyka dla bezpieczeństwa informacji niejawnych przetwarzanych z zastosowaniem rozwiązania informatycznego, z uwzględnieniem przepisów ustawy; opracowanie procedur wymiany informacji oraz stosowanie dodatkowych zabezpieczeń na styku z systemami teleinformatycznymi, z uwzględnieniem postanowień, o których mowa w § 10; zaplanowanie i przeprowadzenie testów bezpieczeństwa we współpracy z Dowódcą Komponentu Wojsk Obrony Cyberprzestrzeni; opracowanie dokumentu „Wymagania ochrony informacji niejawnych” dla danego rozwiązania informatycznego; współpracę z eksperckimi jednostkami wspierającymi, o których mowa w § 14 pkt 1; uzgodnienie dokumentu „Wymagania ochrony informacji niejawnych” z właściwym pełnomocnikiem do spraw ochrony informacji niejawnych oraz Dowódcą Komponentu Wojsk Obrony Cyberprzestrzeni. Na etapie eksploatacji rozwiązania informatycznego gestor rozwiązania informatycznego odpowiada za: nadzór nad utrzymywaniem zgodności eksploatacji rozwiązania informatycznego z dokumentem „Wymagania ochrony informacji niejawnych”; prowadzenie szkoleń w zakresie eksploatacji rozwiązania informatycznego zgodnie z dokumentem „Wymagania ochrony informacji niejawnych”; bieżące monitorowanie podatności, zagrożeń, poziomu ryzyka, oraz w miarę potrzeb wprowadzanie adekwatnych zmian w dokumencie „Wymagania ochrony informacji niejawnych”; konsultowanie, w przypadku dostrzeżenia takiej potrzeby, planowanych do wprowadzenia zmian z właściwym pełnomocnikiem do spraw ochrony informacji niejawnych lub Dowódcą Komponentu Wojsk Obrony Cyberprzestrzeni. Na etapie wycofywania rozwiązania informatycznego gestor rozwiązania informatycznego odpowiada za koordynowanie przedsięwzięć związanych z wycofaniem z wyposażenia Sił Zbrojnych Rzeczypospolitej Polskiej rozwiązania informatycznego."
+    },
+    {
+      "provision_ref": "par15u1p1",
+      "section": "15",
+      "title": "§ 15 ust. 1 pkt 1",
+      "content": "W zakresie czynności realizowanych w ramach trybu oceny rozwiązania informatycznego przeznaczonego do przetwarzania informacji niejawnych gestor rozwiązania informatycznego, na etapie planowania, projektowania i pozyskania rozwiązania informatycznego: analizuje kierunki zastosowania rozwiązania informatycznego w Siłach Zbrojnych Rzeczypospolitej Polskiej, w tym w czasie wojny, w razie ogłoszenia stanu nadzwyczajnego, mobilizacji lub sytuacji kryzysowej;"
+    },
+    {
+      "provision_ref": "par15u1p2",
+      "section": "15",
+      "title": "§ 15 ust. 1 pkt 2",
+      "content": "W zakresie czynności realizowanych w ramach trybu oceny rozwiązania informatycznego przeznaczonego do przetwarzania informacji niejawnych gestor rozwiązania informatycznego, na etapie planowania, projektowania i pozyskania rozwiązania informatycznego: analizuje funkcjonalności zabezpieczeń dostarczanych przez dane rozwiązanie informatyczne, które mogą zostać zastosowane do zabezpieczenia poufności, integralności i dostępności informacji niejawnych;"
+    },
+    {
+      "provision_ref": "par15u1p3",
+      "section": "15",
+      "title": "§ 15 ust. 1 pkt 3",
+      "content": "W zakresie czynności realizowanych w ramach trybu oceny rozwiązania informatycznego przeznaczonego do przetwarzania informacji niejawnych gestor rozwiązania informatycznego, na etapie planowania, projektowania i pozyskania rozwiązania informatycznego: przeprowadza proces wstępnego szacowania ryzyka dla bezpieczeństwa informacji niejawnych przetwarzanych z zastosowaniem rozwiązania informatycznego;"
+    },
+    {
+      "provision_ref": "par15u1p4",
+      "section": "15",
+      "title": "§ 15 ust. 1 pkt 4",
+      "content": "W zakresie czynności realizowanych w ramach trybu oceny rozwiązania informatycznego przeznaczonego do przetwarzania informacji niejawnych gestor rozwiązania informatycznego, na etapie planowania, projektowania i pozyskania rozwiązania informatycznego: projektuje zbiór dodatkowych zabezpieczeń, z uwzględnieniem wymogów określonych w § 5 ust. 2 i 3 oraz z uwzględnieniem wyników realizacji czynności, o których mowa w pkt 1-3;"
+    },
+    {
+      "provision_ref": "par15u1p5",
+      "section": "15",
+      "title": "§ 15 ust. 1 pkt 5",
+      "content": "W zakresie czynności realizowanych w ramach trybu oceny rozwiązania informatycznego przeznaczonego do przetwarzania informacji niejawnych gestor rozwiązania informatycznego, na etapie planowania, projektowania i pozyskania rozwiązania informatycznego: współpracuje z instytucjami odpowiedzialnymi za pozyskanie i wprowadzenie na wyposażenie Sił Zbrojnych Rzeczypospolitej Polskiej „SpW” zawierającego rozwiązania informatyczne lub ich komponenty;"
+    },
+    {
+      "provision_ref": "par15u1p6",
+      "section": "15",
+      "title": "§ 15 ust. 1 pkt 6",
+      "content": "W zakresie czynności realizowanych w ramach trybu oceny rozwiązania informatycznego przeznaczonego do przetwarzania informacji niejawnych gestor rozwiązania informatycznego, na etapie planowania, projektowania i pozyskania rozwiązania informatycznego: współpracuje z eksperckimi jednostkami wspierającymi, o których mowa w § 14 pkt 1."
+    },
+    {
+      "provision_ref": "par15u2",
+      "section": "15",
+      "title": "§ 15 ust. 2",
+      "content": "Na etapie, o którym mowa w ust. 1, gestor rozwiązania informatycznego może opracować i uzgodnić z SKW plan dopuszczenia rozwiązania informatycznego. Plan ten obejmuje zakres i harmonogram przedsięwzięć wymaganych do uzyskania dopuszczenia rozwiązania informatycznego do przetwarzania informacji niejawnych. Opracowanie planu możliwe jest w przypadkach rozpatrywania szczególnie skomplikowanych rozwiązań informatycznych."
+    },
+    {
+      "provision_ref": "par15u3p1",
+      "section": "15",
+      "title": "§ 15 ust. 3 pkt 1",
+      "content": "Na etapie wdrażania rozwiązania informatycznego gestor rozwiązania informatycznego odpowiada za: analizę funkcjonalności dodatkowych zabezpieczeń zastosowanych do wzmocnienia poziomu ochrony dostarczanych przez dane rozwiązanie informatyczne, które mogą zostać zastosowane do zabezpieczenia poufności, integralności i dostępności przetwarzanych informacji niejawnych;"
+    },
+    {
+      "provision_ref": "par15u3p2",
+      "section": "15",
+      "title": "§ 15 ust. 3 pkt 2",
+      "content": "Na etapie wdrażania rozwiązania informatycznego gestor rozwiązania informatycznego odpowiada za: przeprowadzenie procesu szacowania ryzyka dla bezpieczeństwa informacji niejawnych przetwarzanych z zastosowaniem rozwiązania informatycznego, z uwzględnieniem przepisów ustawy;"
+    },
+    {
+      "provision_ref": "par15u3p3",
+      "section": "15",
+      "title": "§ 15 ust. 3 pkt 3",
+      "content": "Na etapie wdrażania rozwiązania informatycznego gestor rozwiązania informatycznego odpowiada za: opracowanie procedur wymiany informacji oraz stosowanie dodatkowych zabezpieczeń na styku z systemami teleinformatycznymi, z uwzględnieniem postanowień, o których mowa w § 10;"
+    },
+    {
+      "provision_ref": "par15u3p4",
+      "section": "15",
+      "title": "§ 15 ust. 3 pkt 4",
+      "content": "Na etapie wdrażania rozwiązania informatycznego gestor rozwiązania informatycznego odpowiada za: zaplanowanie i przeprowadzenie testów bezpieczeństwa we współpracy z Dowódcą Komponentu Wojsk Obrony Cyberprzestrzeni;"
+    },
+    {
+      "provision_ref": "par15u3p5",
+      "section": "15",
+      "title": "§ 15 ust. 3 pkt 5",
+      "content": "Na etapie wdrażania rozwiązania informatycznego gestor rozwiązania informatycznego odpowiada za: opracowanie dokumentu „Wymagania ochrony informacji niejawnych” dla danego rozwiązania informatycznego;"
+    },
+    {
+      "provision_ref": "par15u3p6",
+      "section": "15",
+      "title": "§ 15 ust. 3 pkt 6",
+      "content": "Na etapie wdrażania rozwiązania informatycznego gestor rozwiązania informatycznego odpowiada za: współpracę z eksperckimi jednostkami wspierającymi, o których mowa w § 14 pkt 1;"
+    },
+    {
+      "provision_ref": "par15u3p7",
+      "section": "15",
+      "title": "§ 15 ust. 3 pkt 7",
+      "content": "Na etapie wdrażania rozwiązania informatycznego gestor rozwiązania informatycznego odpowiada za: uzgodnienie dokumentu „Wymagania ochrony informacji niejawnych” z właściwym pełnomocnikiem do spraw ochrony informacji niejawnych oraz Dowódcą Komponentu Wojsk Obrony Cyberprzestrzeni."
+    },
+    {
+      "provision_ref": "par15u4p1",
+      "section": "15",
+      "title": "§ 15 ust. 4 pkt 1",
+      "content": "Na etapie eksploatacji rozwiązania informatycznego gestor rozwiązania informatycznego odpowiada za: nadzór nad utrzymywaniem zgodności eksploatacji rozwiązania informatycznego z dokumentem „Wymagania ochrony informacji niejawnych”;"
+    },
+    {
+      "provision_ref": "par15u4p2",
+      "section": "15",
+      "title": "§ 15 ust. 4 pkt 2",
+      "content": "Na etapie eksploatacji rozwiązania informatycznego gestor rozwiązania informatycznego odpowiada za: prowadzenie szkoleń w zakresie eksploatacji rozwiązania informatycznego zgodnie z dokumentem „Wymagania ochrony informacji niejawnych”;"
+    },
+    {
+      "provision_ref": "par15u4p3",
+      "section": "15",
+      "title": "§ 15 ust. 4 pkt 3",
+      "content": "Na etapie eksploatacji rozwiązania informatycznego gestor rozwiązania informatycznego odpowiada za: bieżące monitorowanie podatności, zagrożeń, poziomu ryzyka, oraz w miarę potrzeb wprowadzanie adekwatnych zmian w dokumencie „Wymagania ochrony informacji niejawnych”;"
+    },
+    {
+      "provision_ref": "par15u4p4",
+      "section": "15",
+      "title": "§ 15 ust. 4 pkt 4",
+      "content": "Na etapie eksploatacji rozwiązania informatycznego gestor rozwiązania informatycznego odpowiada za: konsultowanie, w przypadku dostrzeżenia takiej potrzeby, planowanych do wprowadzenia zmian z właściwym pełnomocnikiem do spraw ochrony informacji niejawnych lub Dowódcą Komponentu Wojsk Obrony Cyberprzestrzeni."
+    },
+    {
+      "provision_ref": "par15u5",
+      "section": "15",
+      "title": "§ 15 ust. 5",
+      "content": "Na etapie wycofywania rozwiązania informatycznego gestor rozwiązania informatycznego odpowiada za koordynowanie przedsięwzięć związanych z wycofaniem z wyposażenia Sił Zbrojnych Rzeczypospolitej Polskiej rozwiązania informatycznego."
+    },
+    {
+      "provision_ref": "par16",
+      "section": "16",
+      "title": "§ 16",
+      "content": "Główny użytkownik, w ramach dopuszczenia rozwiązania informatycznego na etapie eksploatacji i wycofywania, odpowiada za przestrzeganie wymagań i zaleceń określonych w dokumencie „Wymagania ochrony informacji niejawnych”."
+    },
+    {
+      "provision_ref": "par17",
+      "section": "17",
+      "title": "§ 17",
+      "content": "W zakresie czynności realizowanych w ramach trybu oceny rozwiązania informatycznego przeznaczonego do przetwarzania informacji niejawnych ekspercka jednostka wspierająca, o której mowa w § 14 pkt 1, jest obowiązana udzielać pomocy gestorowi w procesie oceny i dopuszczenia rozwiązania informatycznego do przetwarzania informacji niejawnych - zgodnie z zakresem posiadanych kompetencji."
+    },
+    {
+      "provision_ref": "par18",
+      "section": "18",
+      "title": "§ 18",
+      "content": "W celu dopuszczenia rozwiązania informatycznego do przetwarzania informacji niejawnych dokument „Wymagania ochrony informacji niejawnych” jest opracowywany przez gestora rozwiązania informatycznego, a następnie podlega uzgodnieniu z: właściwym pełnomocnikiem do spraw ochrony informacji niejawnych - w zakresie zgodności z przepisami ustawy; Dowódcą Komponentu Wojsk Obrony Cyberprzestrzeni - w zakresie zapewnienia odporności rozwiązania informatycznego na zagrożenia pochodzące z cyberprzestrzeni przy zastosowaniu rozwiązań w nim opisanych."
+    },
+    {
+      "provision_ref": "par18p1",
+      "section": "18",
+      "title": "§ 18 pkt 1",
+      "content": "W celu dopuszczenia rozwiązania informatycznego do przetwarzania informacji niejawnych dokument „Wymagania ochrony informacji niejawnych” jest opracowywany przez gestora rozwiązania informatycznego, a następnie podlega uzgodnieniu z: właściwym pełnomocnikiem do spraw ochrony informacji niejawnych - w zakresie zgodności z przepisami ustawy;"
+    },
+    {
+      "provision_ref": "par18p2",
+      "section": "18",
+      "title": "§ 18 pkt 2",
+      "content": "W celu dopuszczenia rozwiązania informatycznego do przetwarzania informacji niejawnych dokument „Wymagania ochrony informacji niejawnych” jest opracowywany przez gestora rozwiązania informatycznego, a następnie podlega uzgodnieniu z: Dowódcą Komponentu Wojsk Obrony Cyberprzestrzeni - w zakresie zapewnienia odporności rozwiązania informatycznego na zagrożenia pochodzące z cyberprzestrzeni przy zastosowaniu rozwiązań w nim opisanych."
+    },
+    {
+      "provision_ref": "par19",
+      "section": "19",
+      "title": "§ 19",
+      "content": "W ramach trybu dopuszczenia rozwiązania informatycznego do przetwarzania informacji niejawnych uzgodniony dokument „Wymagania ochrony informacji niejawnych”, podpisany przez gestora rozwiązania informatycznego, po zatwierdzeniu, Szef Sztabu Generalnego WP przesyła do SKW. W przypadku braku uzgodnień, o których mowa w § 18, dokument nie jest rozpatrywany."
+    },
+    {
+      "provision_ref": "par20",
+      "section": "20",
+      "title": "§ 20",
+      "content": "SKW rozstrzyga w przedmiocie dopuszczenia rozwiązania informatycznego po otrzymaniu dokumentu „Wymagania ochrony informacji niejawnych”. O dopuszczeniu rozwiązania informatycznego SKW informuje, w formie pisemnej, Szefa Sztabu Generalnego WP. Rozstrzygnięcie w przedmiocie dopuszczenia rozwiązania informatycznego jest podejmowane bez zbędnej zwłoki, jednak nie później niż w ciągu 3 miesięcy od dnia otrzymania dokumentu „Wymagania ochrony informacji niejawnych”. W sprawach szczególnie skomplikowanych rozstrzygnięcie w przedmiocie dopuszczenia rozwiązania informatycznego jest podejmowane nie później niż w ciągu 6 miesięcy od dnia otrzymania dokumentu „Wymagania ochrony informacji niejawnych”. SKW, na podstawie wyników oceny bezpieczeństwa rozwiązania informatycznego, przy uwzględnieniu poziomu zagrożenia bezpieczeństwa informacji niejawnych, określa termin ważności dopuszczenia, a także może skrócić jego termin ważności, zawiesić dopuszczenie lub je cofnąć w każdym czasie. O wyniku rozstrzygnięcia informuje, w formie pisemnej, Szefa Sztabu Generalnego WP."
+    },
+    {
+      "provision_ref": "par20u1",
+      "section": "20",
+      "title": "§ 20 ust. 1",
+      "content": "SKW rozstrzyga w przedmiocie dopuszczenia rozwiązania informatycznego po otrzymaniu dokumentu „Wymagania ochrony informacji niejawnych”. O dopuszczeniu rozwiązania informatycznego SKW informuje, w formie pisemnej, Szefa Sztabu Generalnego WP."
+    },
+    {
+      "provision_ref": "par20u2",
+      "section": "20",
+      "title": "§ 20 ust. 2",
+      "content": "Rozstrzygnięcie w przedmiocie dopuszczenia rozwiązania informatycznego jest podejmowane bez zbędnej zwłoki, jednak nie później niż w ciągu 3 miesięcy od dnia otrzymania dokumentu „Wymagania ochrony informacji niejawnych”."
+    },
+    {
+      "provision_ref": "par20u3",
+      "section": "20",
+      "title": "§ 20 ust. 3",
+      "content": "W sprawach szczególnie skomplikowanych rozstrzygnięcie w przedmiocie dopuszczenia rozwiązania informatycznego jest podejmowane nie później niż w ciągu 6 miesięcy od dnia otrzymania dokumentu „Wymagania ochrony informacji niejawnych”."
+    },
+    {
+      "provision_ref": "par20u4",
+      "section": "20",
+      "title": "§ 20 ust. 4",
+      "content": "SKW, na podstawie wyników oceny bezpieczeństwa rozwiązania informatycznego, przy uwzględnieniu poziomu zagrożenia bezpieczeństwa informacji niejawnych, określa termin ważności dopuszczenia, a także może skrócić jego termin ważności, zawiesić dopuszczenie lub je cofnąć w każdym czasie. O wyniku rozstrzygnięcia informuje, w formie pisemnej, Szefa Sztabu Generalnego WP."
+    },
+    {
+      "provision_ref": "par21",
+      "section": "21",
+      "title": "§ 21",
+      "content": "Brak informacji o dopuszczeniu rozwiązania informatycznego, o której mowa w § 20 ust. 1, jest równoznaczny z brakiem dopuszczenia rozwiązania informatycznego do przetwarzania informacji niejawnych."
+    },
+    {
+      "provision_ref": "par22",
+      "section": "22",
+      "title": "§ 22",
+      "content": "W ramach trybu dopuszczenia rozwiązań informatycznych do przetwarzania informacji niejawnych, po uzyskaniu dopuszczenia SKW, Szef Sztabu Generalnego WP umieszcza dane rozwiązanie w wykazie rozwiązań informatycznych dopuszczonych do przetwarzania informacji niejawnych. Wykaz, o którym mowa w ust. 1, zawiera: nazwę rozwiązania informatycznego; maksymalną klauzulę tajności informacji niejawnych, do których przetwarzania rozwiązanie informatyczne zostało dopuszczone; gestora rozwiązania informatycznego; okres ważności dopuszczenia rozwiązania informatycznego; inne dane niezbędne do prawidłowego wdrożenia rozwiązania informatycznego."
+    },
+    {
+      "provision_ref": "par22u1",
+      "section": "22",
+      "title": "§ 22 ust. 1",
+      "content": "W ramach trybu dopuszczenia rozwiązań informatycznych do przetwarzania informacji niejawnych, po uzyskaniu dopuszczenia SKW, Szef Sztabu Generalnego WP umieszcza dane rozwiązanie w wykazie rozwiązań informatycznych dopuszczonych do przetwarzania informacji niejawnych."
+    },
+    {
+      "provision_ref": "par22u2p1",
+      "section": "22",
+      "title": "§ 22 ust. 2 pkt 1",
+      "content": "Wykaz, o którym mowa w ust. 1, zawiera: nazwę rozwiązania informatycznego;"
+    },
+    {
+      "provision_ref": "par22u2p2",
+      "section": "22",
+      "title": "§ 22 ust. 2 pkt 2",
+      "content": "Wykaz, o którym mowa w ust. 1, zawiera: maksymalną klauzulę tajności informacji niejawnych, do których przetwarzania rozwiązanie informatyczne zostało dopuszczone;"
+    },
+    {
+      "provision_ref": "par22u2p3",
+      "section": "22",
+      "title": "§ 22 ust. 2 pkt 3",
+      "content": "Wykaz, o którym mowa w ust. 1, zawiera: gestora rozwiązania informatycznego;"
+    },
+    {
+      "provision_ref": "par22u2p4",
+      "section": "22",
+      "title": "§ 22 ust. 2 pkt 4",
+      "content": "Wykaz, o którym mowa w ust. 1, zawiera: okres ważności dopuszczenia rozwiązania informatycznego;"
+    },
+    {
+      "provision_ref": "par22u2p5",
+      "section": "22",
+      "title": "§ 22 ust. 2 pkt 5",
+      "content": "Wykaz, o którym mowa w ust. 1, zawiera: inne dane niezbędne do prawidłowego wdrożenia rozwiązania informatycznego."
+    },
+    {
+      "provision_ref": "par23",
+      "section": "23",
+      "title": "§ 23",
+      "content": "W przypadku wprowadzania zmian w dokumencie „Wymagania ochrony informacji niejawnych” w ramach trybu dopuszczania rozwiązań informatycznych do przetwarzania informacji niejawnych, przepisy § 15-20 stosuje się odpowiednio. Aktualizacja dokumentu, o którym mowa w ust. 1, może odbywać się w formie aneksu."
+    },
+    {
+      "provision_ref": "par23u1",
+      "section": "23",
+      "title": "§ 23 ust. 1",
+      "content": "W przypadku wprowadzania zmian w dokumencie „Wymagania ochrony informacji niejawnych” w ramach trybu dopuszczania rozwiązań informatycznych do przetwarzania informacji niejawnych, przepisy § 15-20 stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "par23u2",
+      "section": "23",
+      "title": "§ 23 ust. 2",
+      "content": "Aktualizacja dokumentu, o którym mowa w ust. 1, może odbywać się w formie aneksu."
+    },
+    {
+      "provision_ref": "par24",
+      "section": "24",
+      "title": "§ 24",
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+    }
+  ],
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2019-742",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-655",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-1933",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-1863",
+      "ref_type": "references"
+    }
+  ]
+}

@@ -1,0 +1,902 @@
+{
+  "id": "pl-du-2022-234",
+  "type": "statute",
+  "title": "Rozporządzenie Ministra Klimatu i Środowiska z dnia 10 stycznia 2022 r. w sprawie procesów rynku energii",
+  "title_en": "",
+  "short_name": "pl-du-2022-234",
+  "status": "in_force",
+  "issued_date": "2022-01-10",
+  "in_force_date": "2022-02-01",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2022/234",
+  "provisions": [
+    {
+      "provision_ref": "par1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Rozporządzenie określa: wykaz procesów rynku energii elektrycznej realizowanych za pośrednictwem centralnego systemu informacji rynku energii, zwanego dalej „CSIRE”; sposób realizacji procesów, o których mowa w pkt 1; zakres poleceń wysyłanych do licznika zdalnego odczytu za pośrednictwem CSIRE oraz warunki ich wysyłania; wymagania dotyczące zapewnienia poprawności i kompletności informacji rynku energii oraz ich weryfikacji; wskaźniki jakości informacji rynku energii przekazywanych przez poszczególnych użytkowników systemu i sposób ich publikacji; wzór szablonu oceny skutków w zakresie ochrony danych pomiarowych."
+    },
+    {
+      "provision_ref": "par1p1",
+      "section": "1",
+      "title": "§ 1 pkt 1",
+      "content": "Rozporządzenie określa: wykaz procesów rynku energii elektrycznej realizowanych za pośrednictwem centralnego systemu informacji rynku energii, zwanego dalej „CSIRE”;"
+    },
+    {
+      "provision_ref": "par1p2",
+      "section": "1",
+      "title": "§ 1 pkt 2",
+      "content": "Rozporządzenie określa: sposób realizacji procesów, o których mowa w pkt 1;"
+    },
+    {
+      "provision_ref": "par1p3",
+      "section": "1",
+      "title": "§ 1 pkt 3",
+      "content": "Rozporządzenie określa: zakres poleceń wysyłanych do licznika zdalnego odczytu za pośrednictwem CSIRE oraz warunki ich wysyłania;"
+    },
+    {
+      "provision_ref": "par1p4",
+      "section": "1",
+      "title": "§ 1 pkt 4",
+      "content": "Rozporządzenie określa: wymagania dotyczące zapewnienia poprawności i kompletności informacji rynku energii oraz ich weryfikacji;"
+    },
+    {
+      "provision_ref": "par1p5",
+      "section": "1",
+      "title": "§ 1 pkt 5",
+      "content": "Rozporządzenie określa: wskaźniki jakości informacji rynku energii przekazywanych przez poszczególnych użytkowników systemu i sposób ich publikacji;"
+    },
+    {
+      "provision_ref": "par1p6",
+      "section": "1",
+      "title": "§ 1 pkt 6",
+      "content": "Rozporządzenie określa: wzór szablonu oceny skutków w zakresie ochrony danych pomiarowych."
+    },
+    {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: charakterystyka punktu pomiarowego - informacje rynku energii dotyczące punktu pomiarowego, których zakres określają standardy wymiany informacji CSIRE, z wyłączeniem danych pomiarowych, informacji o zdarzeniach rejestrowanych przez licznik zdalnego odczytu i poleceń odbieranych przez licznik zdalnego odczytu; generalna umowa dystrybucji dla usługi kompleksowej - umowę o świadczenie usług dystrybucji energii elektrycznej zawieraną pomiędzy operatorem systemu dystrybucyjnego elektroenergetycznego a sprzedawcą energii elektrycznej w celu realizacji umowy kompleksowej w rozumieniu art. 5 ust. 3 ustawy z dnia 10 kwietnia 1997 r. - Prawo energetyczne , zwanej dalej „ustawą”, zawartej pomiędzy sprzedawcą a odbiorcą końcowym przyłączonym do sieci tego operatora; informacje rozliczeniowe generalnej umowy dystrybucji dla usługi kompleksowej - dane, których zakres określają standardy wymiany informacji CSIRE, służące do rozliczeń wynikających z generalnej umowy dystrybucji dla usługi kompleksowej; komunikat - uporządkowany zbiór informacji o zestandaryzowanej postaci i strukturze, przekazywany w formie elektronicznej w ramach realizacji procesów rynku energii pomiędzy użytkownikami systemu; obiekt pomiarowy - zbiór fizyczny lub wirtualny obejmujący co najmniej jeden punkt pomiarowy; paszport punktu pomiarowego - zbiór informacji wyodrębnionych z charakterystyki punktu pomiarowego, udostępniany za pośrednictwem CSIRE na potrzeby zawarcia umowy kompleksowej z odbiorcą końcowym; sprzedawca podstawowy - sprzedawcę dokonującego sprzedaży energii elektrycznej dostarczanej do danego punktu pomiarowego odbiorcy korzystającemu z prawa wyboru sprzedawcy, a w przypadku odbiorcy niekorzystającego z prawa wyboru sprzedawcy - sprzedawcę z urzędu, z wyłączeniem sprzedawcy z urzędu sprzedającego energię elektryczną na podstawie umowy zawartej w trybie art. 5ab ust. 1 ustawy; standardy wymiany informacji CSIRE - standardy wymiany informacji CSIRE opracowane przez operatora informacji rynku energii na podstawie art. 11y ust. 1 pkt 5 ustawy."
+    },
+    {
+      "provision_ref": "par2p1",
+      "section": "2",
+      "title": "§ 2 pkt 1",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: charakterystyka punktu pomiarowego - informacje rynku energii dotyczące punktu pomiarowego, których zakres określają standardy wymiany informacji CSIRE, z wyłączeniem danych pomiarowych, informacji o zdarzeniach rejestrowanych przez licznik zdalnego odczytu i poleceń odbieranych przez licznik zdalnego odczytu;"
+    },
+    {
+      "provision_ref": "par2p2",
+      "section": "2",
+      "title": "§ 2 pkt 2",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: generalna umowa dystrybucji dla usługi kompleksowej - umowę o świadczenie usług dystrybucji energii elektrycznej zawieraną pomiędzy operatorem systemu dystrybucyjnego elektroenergetycznego a sprzedawcą energii elektrycznej w celu realizacji umowy kompleksowej w rozumieniu art. 5 ust. 3 ustawy z dnia 10 kwietnia 1997 r. - Prawo energetyczne , zwanej dalej „ustawą”, zawartej pomiędzy sprzedawcą a odbiorcą końcowym przyłączonym do sieci tego operatora;"
+    },
+    {
+      "provision_ref": "par2p3",
+      "section": "2",
+      "title": "§ 2 pkt 3",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: informacje rozliczeniowe generalnej umowy dystrybucji dla usługi kompleksowej - dane, których zakres określają standardy wymiany informacji CSIRE, służące do rozliczeń wynikających z generalnej umowy dystrybucji dla usługi kompleksowej;"
+    },
+    {
+      "provision_ref": "par2p4",
+      "section": "2",
+      "title": "§ 2 pkt 4",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: komunikat - uporządkowany zbiór informacji o zestandaryzowanej postaci i strukturze, przekazywany w formie elektronicznej w ramach realizacji procesów rynku energii pomiędzy użytkownikami systemu;"
+    },
+    {
+      "provision_ref": "par2p5",
+      "section": "2",
+      "title": "§ 2 pkt 5",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: obiekt pomiarowy - zbiór fizyczny lub wirtualny obejmujący co najmniej jeden punkt pomiarowy;"
+    },
+    {
+      "provision_ref": "par2p6",
+      "section": "2",
+      "title": "§ 2 pkt 6",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: paszport punktu pomiarowego - zbiór informacji wyodrębnionych z charakterystyki punktu pomiarowego, udostępniany za pośrednictwem CSIRE na potrzeby zawarcia umowy kompleksowej z odbiorcą końcowym;"
+    },
+    {
+      "provision_ref": "par2p7",
+      "section": "2",
+      "title": "§ 2 pkt 7",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: sprzedawca podstawowy - sprzedawcę dokonującego sprzedaży energii elektrycznej dostarczanej do danego punktu pomiarowego odbiorcy korzystającemu z prawa wyboru sprzedawcy, a w przypadku odbiorcy niekorzystającego z prawa wyboru sprzedawcy - sprzedawcę z urzędu, z wyłączeniem sprzedawcy z urzędu sprzedającego energię elektryczną na podstawie umowy zawartej w trybie art. 5ab ust. 1 ustawy;"
+    },
+    {
+      "provision_ref": "par2p8",
+      "section": "2",
+      "title": "§ 2 pkt 8",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: standardy wymiany informacji CSIRE - standardy wymiany informacji CSIRE opracowane przez operatora informacji rynku energii na podstawie art. 11y ust. 1 pkt 5 ustawy."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Za pośrednictwem CSIRE realizowany jest proces rynku energii: dotyczący umowy sprzedaży lub umowy kompleksowej, w tym umowy sprzedaży rezerwowej oraz umowy kompleksowej zawierającej postanowienia umowy sprzedaży rezerwowej, dla danego punktu pomiarowego; dotyczący przypisania odbiorcy, wytwórcy lub posiadacza magazynu energii elektrycznej do punktu pomiarowego albo wykreślenia takiego przypisania; dotyczący umowy o świadczenie usług dystrybucji lub przesyłania energii elektrycznej, z wyłączeniem umów objętych procesem, o którym mowa w pkt 5; dotyczący wymiany informacji o punkcie pomiarowym; dotyczący umowy o świadczenie usług dystrybucji energii elektrycznej zawieranej ze sprzedawcą, umożliwiającej temu sprzedawcy zawieranie umów sprzedaży, umów kompleksowych, w tym umów sprzedaży rezerwowej oraz umów kompleksowych zawierających postanowienia umowy sprzedaży rezerwowej; dotyczący umowy o świadczenie usług przesyłania lub dystrybucji energii elektrycznej zawieranej z podmiotem odpowiedzialnym za bilansowanie handlowe, umożliwiającej temu podmiotowi świadczenie bilansowania handlowego na obszarze działania danego operatora systemu elektroenergetycznego; dotyczący umowy zawieranej przez podmiot odpowiedzialny za bilansowanie handlowe, na podstawie której świadczone są usługi bilansowania handlowego; w zakresie danych pomiarowych, a w przypadku licznika zdalnego odczytu także zdarzeń rejestrowanych przez ten licznik, niezbędnych do realizacji procesów rynku energii; dotyczący rozliczeń wynikających z generalnej umowy dystrybucji dla usługi kompleksowej; dotyczący rozliczeń dodatkowych z tytułu świadczenia usług dystrybucji energii elektrycznej; w zakresie zarządzania dostarczaniem energii elektrycznej do odbiorcy; dotyczący wymiany informacji pomiędzy użytkownikami systemu, którzy są stronami umowy, o której mowa w art. 11zg ust. 1 ustawy; dotyczący wymiany informacji dotyczących jakości dostarczanej energii elektrycznej; dotyczący zarządzania obiektem pomiarowym; związany z realizacją zadań operatorów systemów elektroenergetycznych."
+    },
+    {
+      "provision_ref": "par3p1",
+      "section": "3",
+      "title": "§ 3 pkt 1",
+      "content": "Za pośrednictwem CSIRE realizowany jest proces rynku energii: dotyczący umowy sprzedaży lub umowy kompleksowej, w tym umowy sprzedaży rezerwowej oraz umowy kompleksowej zawierającej postanowienia umowy sprzedaży rezerwowej, dla danego punktu pomiarowego;"
+    },
+    {
+      "provision_ref": "par3p2",
+      "section": "3",
+      "title": "§ 3 pkt 2",
+      "content": "Za pośrednictwem CSIRE realizowany jest proces rynku energii: dotyczący przypisania odbiorcy, wytwórcy lub posiadacza magazynu energii elektrycznej do punktu pomiarowego albo wykreślenia takiego przypisania;"
+    },
+    {
+      "provision_ref": "par3p3",
+      "section": "3",
+      "title": "§ 3 pkt 3",
+      "content": "Za pośrednictwem CSIRE realizowany jest proces rynku energii: dotyczący umowy o świadczenie usług dystrybucji lub przesyłania energii elektrycznej, z wyłączeniem umów objętych procesem, o którym mowa w pkt 5;"
+    },
+    {
+      "provision_ref": "par3p4",
+      "section": "3",
+      "title": "§ 3 pkt 4",
+      "content": "Za pośrednictwem CSIRE realizowany jest proces rynku energii: dotyczący wymiany informacji o punkcie pomiarowym;"
+    },
+    {
+      "provision_ref": "par3p5",
+      "section": "3",
+      "title": "§ 3 pkt 5",
+      "content": "Za pośrednictwem CSIRE realizowany jest proces rynku energii: dotyczący umowy o świadczenie usług dystrybucji energii elektrycznej zawieranej ze sprzedawcą, umożliwiającej temu sprzedawcy zawieranie umów sprzedaży, umów kompleksowych, w tym umów sprzedaży rezerwowej oraz umów kompleksowych zawierających postanowienia umowy sprzedaży rezerwowej;"
+    },
+    {
+      "provision_ref": "par3p6",
+      "section": "3",
+      "title": "§ 3 pkt 6",
+      "content": "Za pośrednictwem CSIRE realizowany jest proces rynku energii: dotyczący umowy o świadczenie usług przesyłania lub dystrybucji energii elektrycznej zawieranej z podmiotem odpowiedzialnym za bilansowanie handlowe, umożliwiającej temu podmiotowi świadczenie bilansowania handlowego na obszarze działania danego operatora systemu elektroenergetycznego;"
+    },
+    {
+      "provision_ref": "par3p7",
+      "section": "3",
+      "title": "§ 3 pkt 7",
+      "content": "Za pośrednictwem CSIRE realizowany jest proces rynku energii: dotyczący umowy zawieranej przez podmiot odpowiedzialny za bilansowanie handlowe, na podstawie której świadczone są usługi bilansowania handlowego;"
+    },
+    {
+      "provision_ref": "par3p8",
+      "section": "3",
+      "title": "§ 3 pkt 8",
+      "content": "Za pośrednictwem CSIRE realizowany jest proces rynku energii: w zakresie danych pomiarowych, a w przypadku licznika zdalnego odczytu także zdarzeń rejestrowanych przez ten licznik, niezbędnych do realizacji procesów rynku energii;"
+    },
+    {
+      "provision_ref": "par3p9",
+      "section": "3",
+      "title": "§ 3 pkt 9",
+      "content": "Za pośrednictwem CSIRE realizowany jest proces rynku energii: dotyczący rozliczeń wynikających z generalnej umowy dystrybucji dla usługi kompleksowej;"
+    },
+    {
+      "provision_ref": "par3p10",
+      "section": "3",
+      "title": "§ 3 pkt 10",
+      "content": "Za pośrednictwem CSIRE realizowany jest proces rynku energii: dotyczący rozliczeń dodatkowych z tytułu świadczenia usług dystrybucji energii elektrycznej;"
+    },
+    {
+      "provision_ref": "par3p11",
+      "section": "3",
+      "title": "§ 3 pkt 11",
+      "content": "Za pośrednictwem CSIRE realizowany jest proces rynku energii: w zakresie zarządzania dostarczaniem energii elektrycznej do odbiorcy;"
+    },
+    {
+      "provision_ref": "par3p12",
+      "section": "3",
+      "title": "§ 3 pkt 12",
+      "content": "Za pośrednictwem CSIRE realizowany jest proces rynku energii: dotyczący wymiany informacji pomiędzy użytkownikami systemu, którzy są stronami umowy, o której mowa w art. 11zg ust. 1 ustawy;"
+    },
+    {
+      "provision_ref": "par3p13",
+      "section": "3",
+      "title": "§ 3 pkt 13",
+      "content": "Za pośrednictwem CSIRE realizowany jest proces rynku energii: dotyczący wymiany informacji dotyczących jakości dostarczanej energii elektrycznej;"
+    },
+    {
+      "provision_ref": "par3p14",
+      "section": "3",
+      "title": "§ 3 pkt 14",
+      "content": "Za pośrednictwem CSIRE realizowany jest proces rynku energii: dotyczący zarządzania obiektem pomiarowym;"
+    },
+    {
+      "provision_ref": "par3p15",
+      "section": "3",
+      "title": "§ 3 pkt 15",
+      "content": "Za pośrednictwem CSIRE realizowany jest proces rynku energii: związany z realizacją zadań operatorów systemów elektroenergetycznych."
+    },
+    {
+      "provision_ref": "par4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Procesy rynku energii, o których mowa w § 3, realizuje się w następujący sposób: do punktu pomiarowego jako: operatora systemu dystrybucyjnego elektroenergetycznego, operatora systemu przesyłowego elektroenergetycznego, operatora ogólnodostępnej stacji ładowania, sprzedawcę podstawowego, sprzedawcę rezerwowego lub podmiot odpowiedzialny za bilansowanie handlowe, przypisuje się jeden podmiot, który spełnia jednocześnie każdą z tych funkcji w danym czasie; przekazanie do CSIRE informacji dotyczących umów, o których mowa w § 3 pkt 1, 3, 5 lub 6, następuje przed rozpoczęciem realizacji tych umów, z wyłączeniem umów, o których mowa w art. 5aa ust. 7 zdanie pierwsze ustawy lub w art. 5ab ust. 2 zdanie drugie ustawy, dla których przekazanie takich informacji może również nastąpić w momencie albo po rozpoczęciu realizacji tych umów; przekazane do CSIRE informacje dotyczące umów, o których mowa w § 3 pkt 1, 3, 5 lub 6, są rejestrowane w CSIRE ze skutkiem na przyszłość, z wyłączeniem informacji przekazanych do CSIRE w trybie reklamacyjnym oraz dotyczących umów, o których mowa w art. 5aa ust. 7 zdanie pierwsze ustawy lub w art. 5ab ust. 2 zdanie drugie ustawy, które są rejestrowane ze skutkiem również na moment przekazania do CSIRE albo wstecz; przekazane do CSIRE informacje dotyczące umów, o których mowa w § 3 pkt 1, 3, 5 lub 6, są rejestrowane w CSIRE ze skutkiem od początku doby; przypisanie umów, o których mowa w § 3 pkt 1 i 3, do punktu pomiarowego jest możliwe, jeżeli do tego punktu pomiarowego jest przypisany odbiorca, wytwórca lub posiadacz magazynu energii elektrycznej będący stroną tych umów; przypisanie odbiorcy, wytwórcy lub posiadacza magazynu energii elektrycznej do punktu pomiarowego lub wykreślenie takiego przypisania dokonywane jest w wyniku przekazania do CSIRE informacji przez operatora systemu elektroenergetycznego, a w przypadku przypisania lub wykreślenia przypisania odbiorcy będącego stroną umowy kompleksowej - informacji przekazanych przez sprzedawcę będącego stroną tej umowy; przypisanie sprzedawcy do punktu pomiarowego zgodnie z zawartą umową sprzedaży jest możliwe po uprzednim przypisaniu do tego punktu pomiarowego umowy o świadczenie usług przesyłania lub dystrybucji energii elektrycznej, bez względu na kolejność zawarcia tych umów; do punktu pomiarowego przypisuje się jedną umowę o świadczenie usług przesyłania lub dystrybucji energii elektrycznej albo jedną umowę kompleksową; przypisanie umowy kompleksowej do punktu pomiarowego powoduje wykreślenie przypisania do tego punktu pomiarowego umowy o świadczenie usług dystrybucji energii elektrycznej, jeżeli stroną tych umów jest ten sam odbiorca; przypisanie umowy o świadczenie usług dystrybucji energii elektrycznej do punktu pomiarowego powoduje wykreślenie przypisania do tego punktu pomiarowego umowy kompleksowej, jeżeli stroną tych umów jest ten sam odbiorca; przypisanie do punktu pomiarowego odbiorcy, wytwórcy lub posiadacza magazynu energii elektrycznej wymaga uprzedniego wykreślenia przypisania do tego punktu pomiarowego dotychczasowego odbiorcy, wytwórcy lub posiadacza magazynu energii elektrycznej, jeżeli taki podmiot był przypisany do tego punktu; jeżeli stwierdzono rozbieżności między przekazanymi do CSIRE informacjami dotyczącymi przypisania lub wykreślenia przypisania odbiorcy, wytwórcy lub posiadacza magazynu energii elektrycznej do punktu pomiarowego, do przypisania lub wykreślenia przypisania wykorzystuje się informację przekazaną do tego systemu przez podmiot, który przekazał do tego systemu informację o utworzeniu danego punktu pomiarowego; wykreślenie przypisania odbiorcy, wytwórcy lub posiadacza magazynu energii elektrycznej do punktu pomiarowego powoduje wykreślenie przypisania wszystkich umów, o których mowa w § 3 pkt 1 i 3, przypisanych do tego punktu pomiarowego; wykreślenie przypisania umowy o świadczenie usług przesyłania lub dystrybucji energii elektrycznej powoduje wykreślenie przypisania do danego punktu pomiarowego umowy sprzedaży; wykreślenie przypisania umowy sprzedaży lub umowy kompleksowej, w tym umowy sprzedaży rezerwowej oraz umowy kompleksowej zawierającej postanowienia umowy sprzedaży rezerwowej, powoduje wykreślenie przypisania do danego punktu pomiarowego podmiotu odpowiedzialnego za bilansowanie handlowe; w przypadku wytwórców lub posiadacza magazynu energii elektrycznej wykreślenie przypisania umowy o świadczenie usług przesyłania lub dystrybucji energii elektrycznej powoduje wykreślenie przypisania do danego punktu pomiarowego podmiotu odpowiedzialnego za bilansowanie handlowe; zgłoszenia w CSIRE dokonuje się na podstawie umocowania udzielonego przez podmiot uprawniony do dokonania zgłoszenia; za przekazane do CSIRE informacje, dane lub zapytania uznaje się te zgłoszone informacje, dane lub zapytania, które zostały pozytywnie zweryfikowane w ramach walidacji technicznej, o której mowa w § 7 ust. 2, oraz walidacji biznesowej, o której mowa w § 7 ust. 4; dane pomiarowe przekazane do CSIRE na godzinę 00:00:00 traktuje się jako kończące okres pomiarowy dla doby poprzedniej i rozpoczynające okres pomiarowy dla doby kolejnej; dane pomiarowe przekazane do CSIRE na inną godzinę doby traktuje się w rozliczeniach tak, jakby były one zarejestrowane przez układ pomiarowo-rozliczeniowy na koniec tej doby; jeżeli przekazanie do CSIRE informacji o procesach, o których mowa w § 3, nie zakończy się zgodnie z instrukcją, o której mowa w art. 9g ust. 5c ustawy, zwaną dalej „instrukcją”, można zakończyć proces z pominięciem pozostałej sekwencji działań określonych dla tego procesu oraz powiadomić, w sposób określony w instrukcji, podmiot, który przekazał do tego systemu informację, o przyczynie zakończenia procesu."
+    },
+    {
+      "provision_ref": "par4p1",
+      "section": "4",
+      "title": "§ 4 pkt 1",
+      "content": "Procesy rynku energii, o których mowa w § 3, realizuje się w następujący sposób: do punktu pomiarowego jako: operatora systemu dystrybucyjnego elektroenergetycznego, operatora systemu przesyłowego elektroenergetycznego, operatora ogólnodostępnej stacji ładowania, sprzedawcę podstawowego, sprzedawcę rezerwowego lub podmiot odpowiedzialny za bilansowanie handlowe, przypisuje się jeden podmiot, który spełnia jednocześnie każdą z tych funkcji w danym czasie;"
+    },
+    {
+      "provision_ref": "par4p2",
+      "section": "4",
+      "title": "§ 4 pkt 2",
+      "content": "Procesy rynku energii, o których mowa w § 3, realizuje się w następujący sposób: przekazanie do CSIRE informacji dotyczących umów, o których mowa w § 3 pkt 1, 3, 5 lub 6, następuje przed rozpoczęciem realizacji tych umów, z wyłączeniem umów, o których mowa w art. 5aa ust. 7 zdanie pierwsze ustawy lub w art. 5ab ust. 2 zdanie drugie ustawy, dla których przekazanie takich informacji może również nastąpić w momencie albo po rozpoczęciu realizacji tych umów;"
+    },
+    {
+      "provision_ref": "par4p3",
+      "section": "4",
+      "title": "§ 4 pkt 3",
+      "content": "Procesy rynku energii, o których mowa w § 3, realizuje się w następujący sposób: przekazane do CSIRE informacje dotyczące umów, o których mowa w § 3 pkt 1, 3, 5 lub 6, są rejestrowane w CSIRE ze skutkiem na przyszłość, z wyłączeniem informacji przekazanych do CSIRE w trybie reklamacyjnym oraz dotyczących umów, o których mowa w art. 5aa ust. 7 zdanie pierwsze ustawy lub w art. 5ab ust. 2 zdanie drugie ustawy, które są rejestrowane ze skutkiem również na moment przekazania do CSIRE albo wstecz;"
+    },
+    {
+      "provision_ref": "par4p4",
+      "section": "4",
+      "title": "§ 4 pkt 4",
+      "content": "Procesy rynku energii, o których mowa w § 3, realizuje się w następujący sposób: przekazane do CSIRE informacje dotyczące umów, o których mowa w § 3 pkt 1, 3, 5 lub 6, są rejestrowane w CSIRE ze skutkiem od początku doby;"
+    },
+    {
+      "provision_ref": "par4p5",
+      "section": "4",
+      "title": "§ 4 pkt 5",
+      "content": "Procesy rynku energii, o których mowa w § 3, realizuje się w następujący sposób: przypisanie umów, o których mowa w § 3 pkt 1 i 3, do punktu pomiarowego jest możliwe, jeżeli do tego punktu pomiarowego jest przypisany odbiorca, wytwórca lub posiadacz magazynu energii elektrycznej będący stroną tych umów;"
+    },
+    {
+      "provision_ref": "par4p6",
+      "section": "4",
+      "title": "§ 4 pkt 6",
+      "content": "Procesy rynku energii, o których mowa w § 3, realizuje się w następujący sposób: przypisanie odbiorcy, wytwórcy lub posiadacza magazynu energii elektrycznej do punktu pomiarowego lub wykreślenie takiego przypisania dokonywane jest w wyniku przekazania do CSIRE informacji przez operatora systemu elektroenergetycznego, a w przypadku przypisania lub wykreślenia przypisania odbiorcy będącego stroną umowy kompleksowej - informacji przekazanych przez sprzedawcę będącego stroną tej umowy;"
+    },
+    {
+      "provision_ref": "par4p7",
+      "section": "4",
+      "title": "§ 4 pkt 7",
+      "content": "Procesy rynku energii, o których mowa w § 3, realizuje się w następujący sposób: przypisanie sprzedawcy do punktu pomiarowego zgodnie z zawartą umową sprzedaży jest możliwe po uprzednim przypisaniu do tego punktu pomiarowego umowy o świadczenie usług przesyłania lub dystrybucji energii elektrycznej, bez względu na kolejność zawarcia tych umów;"
+    },
+    {
+      "provision_ref": "par4p8",
+      "section": "4",
+      "title": "§ 4 pkt 8",
+      "content": "Procesy rynku energii, o których mowa w § 3, realizuje się w następujący sposób: do punktu pomiarowego przypisuje się jedną umowę o świadczenie usług przesyłania lub dystrybucji energii elektrycznej albo jedną umowę kompleksową;"
+    },
+    {
+      "provision_ref": "par4p9",
+      "section": "4",
+      "title": "§ 4 pkt 9",
+      "content": "Procesy rynku energii, o których mowa w § 3, realizuje się w następujący sposób: przypisanie umowy kompleksowej do punktu pomiarowego powoduje wykreślenie przypisania do tego punktu pomiarowego umowy o świadczenie usług dystrybucji energii elektrycznej, jeżeli stroną tych umów jest ten sam odbiorca;"
+    },
+    {
+      "provision_ref": "par4p10",
+      "section": "4",
+      "title": "§ 4 pkt 10",
+      "content": "Procesy rynku energii, o których mowa w § 3, realizuje się w następujący sposób: przypisanie umowy o świadczenie usług dystrybucji energii elektrycznej do punktu pomiarowego powoduje wykreślenie przypisania do tego punktu pomiarowego umowy kompleksowej, jeżeli stroną tych umów jest ten sam odbiorca;"
+    },
+    {
+      "provision_ref": "par4p11",
+      "section": "4",
+      "title": "§ 4 pkt 11",
+      "content": "Procesy rynku energii, o których mowa w § 3, realizuje się w następujący sposób: przypisanie do punktu pomiarowego odbiorcy, wytwórcy lub posiadacza magazynu energii elektrycznej wymaga uprzedniego wykreślenia przypisania do tego punktu pomiarowego dotychczasowego odbiorcy, wytwórcy lub posiadacza magazynu energii elektrycznej, jeżeli taki podmiot był przypisany do tego punktu;"
+    },
+    {
+      "provision_ref": "par4p12",
+      "section": "4",
+      "title": "§ 4 pkt 12",
+      "content": "Procesy rynku energii, o których mowa w § 3, realizuje się w następujący sposób: jeżeli stwierdzono rozbieżności między przekazanymi do CSIRE informacjami dotyczącymi przypisania lub wykreślenia przypisania odbiorcy, wytwórcy lub posiadacza magazynu energii elektrycznej do punktu pomiarowego, do przypisania lub wykreślenia przypisania wykorzystuje się informację przekazaną do tego systemu przez podmiot, który przekazał do tego systemu informację o utworzeniu danego punktu pomiarowego;"
+    },
+    {
+      "provision_ref": "par4p13",
+      "section": "4",
+      "title": "§ 4 pkt 13",
+      "content": "Procesy rynku energii, o których mowa w § 3, realizuje się w następujący sposób: wykreślenie przypisania odbiorcy, wytwórcy lub posiadacza magazynu energii elektrycznej do punktu pomiarowego powoduje wykreślenie przypisania wszystkich umów, o których mowa w § 3 pkt 1 i 3, przypisanych do tego punktu pomiarowego;"
+    },
+    {
+      "provision_ref": "par4p14",
+      "section": "4",
+      "title": "§ 4 pkt 14",
+      "content": "Procesy rynku energii, o których mowa w § 3, realizuje się w następujący sposób: wykreślenie przypisania umowy o świadczenie usług przesyłania lub dystrybucji energii elektrycznej powoduje wykreślenie przypisania do danego punktu pomiarowego umowy sprzedaży;"
+    },
+    {
+      "provision_ref": "par4p15",
+      "section": "4",
+      "title": "§ 4 pkt 15",
+      "content": "Procesy rynku energii, o których mowa w § 3, realizuje się w następujący sposób: wykreślenie przypisania umowy sprzedaży lub umowy kompleksowej, w tym umowy sprzedaży rezerwowej oraz umowy kompleksowej zawierającej postanowienia umowy sprzedaży rezerwowej, powoduje wykreślenie przypisania do danego punktu pomiarowego podmiotu odpowiedzialnego za bilansowanie handlowe;"
+    },
+    {
+      "provision_ref": "par4p16",
+      "section": "4",
+      "title": "§ 4 pkt 16",
+      "content": "Procesy rynku energii, o których mowa w § 3, realizuje się w następujący sposób: w przypadku wytwórców lub posiadacza magazynu energii elektrycznej wykreślenie przypisania umowy o świadczenie usług przesyłania lub dystrybucji energii elektrycznej powoduje wykreślenie przypisania do danego punktu pomiarowego podmiotu odpowiedzialnego za bilansowanie handlowe;"
+    },
+    {
+      "provision_ref": "par4p17",
+      "section": "4",
+      "title": "§ 4 pkt 17",
+      "content": "Procesy rynku energii, o których mowa w § 3, realizuje się w następujący sposób: zgłoszenia w CSIRE dokonuje się na podstawie umocowania udzielonego przez podmiot uprawniony do dokonania zgłoszenia;"
+    },
+    {
+      "provision_ref": "par4p18",
+      "section": "4",
+      "title": "§ 4 pkt 18",
+      "content": "Procesy rynku energii, o których mowa w § 3, realizuje się w następujący sposób: za przekazane do CSIRE informacje, dane lub zapytania uznaje się te zgłoszone informacje, dane lub zapytania, które zostały pozytywnie zweryfikowane w ramach walidacji technicznej, o której mowa w § 7 ust. 2, oraz walidacji biznesowej, o której mowa w § 7 ust. 4;"
+    },
+    {
+      "provision_ref": "par4p19",
+      "section": "4",
+      "title": "§ 4 pkt 19",
+      "content": "Procesy rynku energii, o których mowa w § 3, realizuje się w następujący sposób: dane pomiarowe przekazane do CSIRE na godzinę 00:00:00 traktuje się jako kończące okres pomiarowy dla doby poprzedniej i rozpoczynające okres pomiarowy dla doby kolejnej; dane pomiarowe przekazane do CSIRE na inną godzinę doby traktuje się w rozliczeniach tak, jakby były one zarejestrowane przez układ pomiarowo-rozliczeniowy na koniec tej doby;"
+    },
+    {
+      "provision_ref": "par4p20",
+      "section": "4",
+      "title": "§ 4 pkt 20",
+      "content": "Procesy rynku energii, o których mowa w § 3, realizuje się w następujący sposób: jeżeli przekazanie do CSIRE informacji o procesach, o których mowa w § 3, nie zakończy się zgodnie z instrukcją, o której mowa w art. 9g ust. 5c ustawy, zwaną dalej „instrukcją”, można zakończyć proces z pominięciem pozostałej sekwencji działań określonych dla tego procesu oraz powiadomić, w sposób określony w instrukcji, podmiot, który przekazał do tego systemu informację, o przyczynie zakończenia procesu."
+    },
+    {
+      "provision_ref": "par5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 1: każdorazowe przekazanie do CSIRE informacji o zawartej z odbiorcą, zakończonej lub zmienionej umowie sprzedaży, umowie kompleksowej, umowie sprzedaży rezerwowej lub umowie kompleksowej zawierającej postanowienia umowy sprzedaży rezerwowej dla danego punktu pomiarowego, udostępnianie z CSIRE informacji, o których mowa w lit. a; w przypadku procesu, o którym mowa w § 3 pkt 2: przekazywanie do CSIRE informacji o odbiorcy, wytwórcy lub posiadaczu magazynu energii elektrycznej w celu przypisania tego odbiorcy, wytwórcy lub posiadacza magazynu energii elektrycznej do punktu pomiarowego lub w celu wykreślenia takiego przypisania, udostępnianie z CSIRE informacji, o których mowa w lit. a; w przypadku procesu, o którym mowa w § 3 pkt 3: każdorazowe przekazanie do CSIRE informacji o zawartej, zakończonej lub zmienionej umowie o świadczenie usług dystrybucji energii elektrycznej dla punktu pomiarowego, której stroną jest odbiorca, wytwórca lub posiadacz magazynu energii elektrycznej, każdorazowe przekazanie do CSIRE informacji o zawartej, zakończonej lub zmienionej umowie o świadczenie usług przesyłania energii elektrycznej dla punktu pomiarowego, której stroną jest odbiorca końcowy, wytwórca lub posiadacz magazynu energii elektrycznej, przekazywanie do CSIRE informacji niezbędnych do zawarcia umowy o świadczenie usług dystrybucji poprzez złożenie przez odbiorcę końcowego będącego dotychczas stroną umowy kompleksowej stosownego oświadczenia woli działającemu w jego imieniu i na jego rzecz sprzedawcy energii elektrycznej, z którym ten odbiorca końcowy zawarł umowę sprzedaży zastępującą dotychczasową umowę kompleksową, udostępnianie z CSIRE informacji, o których mowa w lit. a-c; w przypadku procesu, o którym mowa w § 3 pkt 4: przekazywanie do CSIRE informacji dotyczących utworzenia charakterystyki punktu pomiarowego lub zmianie danych zawartych w tej charakterystyce, udostępnianie z CSIRE danych zawartych w charakterystyce punktu pomiarowego, przekazywanie do CSIRE zapytań o status punktu pomiarowego, paszport punktu pomiarowego, charakterystykę punktu pomiarowego lub zestaw punktów pomiarowych, udostępnianie z CSIRE informacji i danych objętych zapytaniem, o którym mowa w lit. c; w przypadku procesu, o którym mowa w § 3 pkt 5: każdorazowe przekazanie do CSIRE informacji o zawartej, zakończonej lub zmienionej umowie o świadczenie usług dystrybucji energii elektrycznej zawieranej pomiędzy przedsiębiorstwem wykonującym działalność gospodarczą w zakresie dystrybucji energii elektrycznej a sprzedawcą, umożliwiającej temu sprzedawcy zawieranie umów sprzedaży, umów kompleksowych, w tym umów sprzedaży rezerwowej lub umów kompleksowych zawierających postanowienia umowy sprzedaży rezerwowej, udostępnianie z CSIRE informacji, o których mowa w lit. a; w przypadku procesu, o którym mowa w § 3 pkt 6: każdorazowe przekazanie do CSIRE informacji o zawartej, zakończonej lub zmienionej umowie o świadczenie usług przesyłania lub dystrybucji energii elektrycznej zawieranej pomiędzy operatorem systemu elektroenergetycznego a podmiotem odpowiedzialnym za bilansowanie handlowe, umożliwiającej temu podmiotowi świadczenie bilansowania handlowego na obszarze działania operatora systemu elektroenergetycznego, z którym ten podmiot ma zawartą umowę, udostępnianie z CSIRE informacji, o których mowa w lit. a; w przypadku procesu, o którym mowa w § 3 pkt 7: każdorazowe przekazanie do CSIRE informacji w sprawie przypisania, zmiany lub wykreślenia przypisania podmiotu odpowiedzialnego za bilansowanie handlowe do punktu pomiarowego, do którego jest przypisany wytwórca lub posiadacz magazynu energii elektrycznej, każdorazowe przekazanie do CSIRE informacji w sprawie przypisania, zmiany lub wykreślenia przypisania podmiotu odpowiedzialnego za bilansowanie handlowe, który został wybrany przez sprzedawcę energii elektrycznej działającego na obszarze działania danego operatora systemu elektroenergetycznego, udostępnianie z CSIRE informacji, o których mowa w lit. a i b; w przypadku procesu, o którym mowa w § 3 pkt 8: przekazywanie do CSIRE danych pomiarowych, w tym skorygowanych danych pomiarowych, oraz zarejestrowanych zdarzeń, przekazywanie do CSIRE zapytań dotyczących danych pomiarowych, w tym danych zagregowanych, oraz żądań dodatkowego odczytu danych pomiarowych, udostępnianie z CSIRE danych, o których mowa w lit. a i b; w przypadku procesu, o którym mowa w § 3 pkt 9: przekazywanie do CSIRE informacji rozliczeniowych wynikających z generalnej umowy dystrybucji dla usługi kompleksowej, w tym korekty tych informacji, przekazywanie do CSIRE zapytań dotyczących informacji rozliczeniowych wynikających z generalnej umowy dystrybucji dla usługi kompleksowej, udostępnianie z CSIRE informacji, o których mowa w lit. a; w przypadku procesu, o którym mowa w § 3 pkt 10: przekazywanie do CSIRE informacji o opłatach dodatkowych wynikających z generalnej umowy dystrybucji dla usługi kompleksowej, w tym korekty tych informacji, przekazywanie do CSIRE informacji o naliczonej bonifikacie wynikającej z generalnej umowy dystrybucji dla usługi kompleksowej, przekazywanie do CSIRE zapytań dotyczących rozliczeń dodatkowych, udostępnianie z CSIRE informacji, o których mowa w lit. a i b; w przypadku procesu, o którym mowa w § 3 pkt 11: przekazywanie do CSIRE informacji dla punktu pomiarowego, w tym żądania wstrzymania dostarczania energii elektrycznej, o którym mowa w art. 6b ust. 2 ustawy, albo wniosku o wznowienie dostarczania energii elektrycznej, o którym mowa w art. 6b ust. 5 ustawy, przekazywanie do CSIRE informacji, w tym żądań, dotyczących ograniczenia mocy dostępnej dla punktu pomiarowego, przekazywanie do CSIRE informacji, w tym żądań, dotyczących załączenia lub wyłączenia dostarczania energii elektrycznej, w tym w ramach pracy licznika zdalnego odczytu w trybie przedpłatowym, udostępnianie z CSIRE informacji, o których mowa w lit. a-c, udostępnianie z CSIRE informacji o działaniach podjętych w rezultacie przekazania do tego systemu lub udostępnienia z tego systemu informacji i żądań, o których mowa w lit. a-c; w przypadku procesu, o którym mowa w § 3 pkt 12 - przekazywanie do CSIRE lub udostępnianie z CSIRE: informacji dotyczących reklamacji dotyczącej usług i zobowiązań umownych związanych z dostarczaniem energii elektrycznej i realizowanych przez użytkowników systemu będących stronami umowy, o której mowa w art. 11zg ust. 1 ustawy, której rozpatrzenie wymaga wymiany tych informacji, informacji dotyczących niedotrzymania standardów jakości obsługi odbiorców końcowych przy realizacji umowy kompleksowej, w tym naliczenia bonifikaty, informacji dotyczących niedotrzymania parametrów jakościowych energii elektrycznej przy realizacji umowy kompleksowej, w tym naliczenia bonifikaty, informacji dotyczących żądań związanych z realizacją umowy kompleksowej w zakresie: - sprawdzenia prawidłowości działania układu pomiarowo-rozliczeniowego, - laboratoryjnego sprawdzenia licznika energii elektrycznej, - wykonania dodatkowej ekspertyzy po uprzednim badaniu laboratoryjnym, innych informacji na potrzeby realizacji procesów rynku energii; w przypadku procesu, o którym mowa w § 3 pkt 13: przekazywanie do CSIRE informacji o przerwach w dostarczaniu energii elektrycznej, przekazywanie do CSIRE informacji o wartości wskaźników jakościowych energii elektrycznej, przekazywanie do CSIRE informacji dotyczących parametrów energii elektrycznej w przypadku przekroczenia dopuszczalnych wartości wskaźników jakości energii elektrycznej, udostępnianie z CSIRE informacji, o których mowa w lit. a-c; w przypadku procesu, o którym mowa w § 3 pkt 14 - przekazywanie do CSIRE i udostępnianie z tego systemu informacji o utworzeniu, zmianie lub likwidacji obiektu pomiarowego; w przypadku procesu, o którym mowa w § 3 pkt 15: przekazywanie do CSIRE informacji o sprzedawcy zobowiązanym oraz sprzedawcy z urzędu na obszarze działania danego operatora systemu elektroenergetycznego, przekazywanie do CSIRE informacji o grupach taryfowych dostępnych na obszarze działania danego operatora systemu elektroenergetycznego, przekazywanie do CSIRE lub udostępnianie z tego systemu informacji rynku energii niezbędnych do realizacji pozostałych procesów rynku energii."
+    },
+    {
+      "provision_ref": "par5p1la",
+      "section": "5",
+      "title": "§ 5 pkt 1 lit. a",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 1: każdorazowe przekazanie do CSIRE informacji o zawartej z odbiorcą, zakończonej lub zmienionej umowie sprzedaży, umowie kompleksowej, umowie sprzedaży rezerwowej lub umowie kompleksowej zawierającej postanowienia umowy sprzedaży rezerwowej dla danego punktu pomiarowego,"
+    },
+    {
+      "provision_ref": "par5p1lb",
+      "section": "5",
+      "title": "§ 5 pkt 1 lit. b",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 1: udostępnianie z CSIRE informacji, o których mowa w lit. a;"
+    },
+    {
+      "provision_ref": "par5p2la",
+      "section": "5",
+      "title": "§ 5 pkt 2 lit. a",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 2: przekazywanie do CSIRE informacji o odbiorcy, wytwórcy lub posiadaczu magazynu energii elektrycznej w celu przypisania tego odbiorcy, wytwórcy lub posiadacza magazynu energii elektrycznej do punktu pomiarowego lub w celu wykreślenia takiego przypisania,"
+    },
+    {
+      "provision_ref": "par5p2lb",
+      "section": "5",
+      "title": "§ 5 pkt 2 lit. b",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 2: udostępnianie z CSIRE informacji, o których mowa w lit. a;"
+    },
+    {
+      "provision_ref": "par5p3la",
+      "section": "5",
+      "title": "§ 5 pkt 3 lit. a",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 3: każdorazowe przekazanie do CSIRE informacji o zawartej, zakończonej lub zmienionej umowie o świadczenie usług dystrybucji energii elektrycznej dla punktu pomiarowego, której stroną jest odbiorca, wytwórca lub posiadacz magazynu energii elektrycznej,"
+    },
+    {
+      "provision_ref": "par5p3lb",
+      "section": "5",
+      "title": "§ 5 pkt 3 lit. b",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 3: każdorazowe przekazanie do CSIRE informacji o zawartej, zakończonej lub zmienionej umowie o świadczenie usług przesyłania energii elektrycznej dla punktu pomiarowego, której stroną jest odbiorca końcowy, wytwórca lub posiadacz magazynu energii elektrycznej,"
+    },
+    {
+      "provision_ref": "par5p3lc",
+      "section": "5",
+      "title": "§ 5 pkt 3 lit. c",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 3: przekazywanie do CSIRE informacji niezbędnych do zawarcia umowy o świadczenie usług dystrybucji poprzez złożenie przez odbiorcę końcowego będącego dotychczas stroną umowy kompleksowej stosownego oświadczenia woli działającemu w jego imieniu i na jego rzecz sprzedawcy energii elektrycznej, z którym ten odbiorca końcowy zawarł umowę sprzedaży zastępującą dotychczasową umowę kompleksową,"
+    },
+    {
+      "provision_ref": "par5p3ld",
+      "section": "5",
+      "title": "§ 5 pkt 3 lit. d",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 3: udostępnianie z CSIRE informacji, o których mowa w lit. a-c;"
+    },
+    {
+      "provision_ref": "par5p4la",
+      "section": "5",
+      "title": "§ 5 pkt 4 lit. a",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 4: przekazywanie do CSIRE informacji dotyczących utworzenia charakterystyki punktu pomiarowego lub zmianie danych zawartych w tej charakterystyce,"
+    },
+    {
+      "provision_ref": "par5p4lb",
+      "section": "5",
+      "title": "§ 5 pkt 4 lit. b",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 4: udostępnianie z CSIRE danych zawartych w charakterystyce punktu pomiarowego,"
+    },
+    {
+      "provision_ref": "par5p4lc",
+      "section": "5",
+      "title": "§ 5 pkt 4 lit. c",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 4: przekazywanie do CSIRE zapytań o status punktu pomiarowego, paszport punktu pomiarowego, charakterystykę punktu pomiarowego lub zestaw punktów pomiarowych,"
+    },
+    {
+      "provision_ref": "par5p4ld",
+      "section": "5",
+      "title": "§ 5 pkt 4 lit. d",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 4: udostępnianie z CSIRE informacji i danych objętych zapytaniem, o którym mowa w lit. c;"
+    },
+    {
+      "provision_ref": "par5p5la",
+      "section": "5",
+      "title": "§ 5 pkt 5 lit. a",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 5: każdorazowe przekazanie do CSIRE informacji o zawartej, zakończonej lub zmienionej umowie o świadczenie usług dystrybucji energii elektrycznej zawieranej pomiędzy przedsiębiorstwem wykonującym działalność gospodarczą w zakresie dystrybucji energii elektrycznej a sprzedawcą, umożliwiającej temu sprzedawcy zawieranie umów sprzedaży, umów kompleksowych, w tym umów sprzedaży rezerwowej lub umów kompleksowych zawierających postanowienia umowy sprzedaży rezerwowej,"
+    },
+    {
+      "provision_ref": "par5p5lb",
+      "section": "5",
+      "title": "§ 5 pkt 5 lit. b",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 5: udostępnianie z CSIRE informacji, o których mowa w lit. a;"
+    },
+    {
+      "provision_ref": "par5p6la",
+      "section": "5",
+      "title": "§ 5 pkt 6 lit. a",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 6: każdorazowe przekazanie do CSIRE informacji o zawartej, zakończonej lub zmienionej umowie o świadczenie usług przesyłania lub dystrybucji energii elektrycznej zawieranej pomiędzy operatorem systemu elektroenergetycznego a podmiotem odpowiedzialnym za bilansowanie handlowe, umożliwiającej temu podmiotowi świadczenie bilansowania handlowego na obszarze działania operatora systemu elektroenergetycznego, z którym ten podmiot ma zawartą umowę,"
+    },
+    {
+      "provision_ref": "par5p6lb",
+      "section": "5",
+      "title": "§ 5 pkt 6 lit. b",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 6: udostępnianie z CSIRE informacji, o których mowa w lit. a;"
+    },
+    {
+      "provision_ref": "par5p7la",
+      "section": "5",
+      "title": "§ 5 pkt 7 lit. a",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 7: każdorazowe przekazanie do CSIRE informacji w sprawie przypisania, zmiany lub wykreślenia przypisania podmiotu odpowiedzialnego za bilansowanie handlowe do punktu pomiarowego, do którego jest przypisany wytwórca lub posiadacz magazynu energii elektrycznej,"
+    },
+    {
+      "provision_ref": "par5p7lb",
+      "section": "5",
+      "title": "§ 5 pkt 7 lit. b",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 7: każdorazowe przekazanie do CSIRE informacji w sprawie przypisania, zmiany lub wykreślenia przypisania podmiotu odpowiedzialnego za bilansowanie handlowe, który został wybrany przez sprzedawcę energii elektrycznej działającego na obszarze działania danego operatora systemu elektroenergetycznego,"
+    },
+    {
+      "provision_ref": "par5p7lc",
+      "section": "5",
+      "title": "§ 5 pkt 7 lit. c",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 7: udostępnianie z CSIRE informacji, o których mowa w lit. a i b;"
+    },
+    {
+      "provision_ref": "par5p8la",
+      "section": "5",
+      "title": "§ 5 pkt 8 lit. a",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 8: przekazywanie do CSIRE danych pomiarowych, w tym skorygowanych danych pomiarowych, oraz zarejestrowanych zdarzeń,"
+    },
+    {
+      "provision_ref": "par5p8lb",
+      "section": "5",
+      "title": "§ 5 pkt 8 lit. b",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 8: przekazywanie do CSIRE zapytań dotyczących danych pomiarowych, w tym danych zagregowanych, oraz żądań dodatkowego odczytu danych pomiarowych,"
+    },
+    {
+      "provision_ref": "par5p8lc",
+      "section": "5",
+      "title": "§ 5 pkt 8 lit. c",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 8: udostępnianie z CSIRE danych, o których mowa w lit. a i b;"
+    },
+    {
+      "provision_ref": "par5p9la",
+      "section": "5",
+      "title": "§ 5 pkt 9 lit. a",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 9: przekazywanie do CSIRE informacji rozliczeniowych wynikających z generalnej umowy dystrybucji dla usługi kompleksowej, w tym korekty tych informacji,"
+    },
+    {
+      "provision_ref": "par5p9lb",
+      "section": "5",
+      "title": "§ 5 pkt 9 lit. b",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 9: przekazywanie do CSIRE zapytań dotyczących informacji rozliczeniowych wynikających z generalnej umowy dystrybucji dla usługi kompleksowej,"
+    },
+    {
+      "provision_ref": "par5p9lc",
+      "section": "5",
+      "title": "§ 5 pkt 9 lit. c",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 9: udostępnianie z CSIRE informacji, o których mowa w lit. a;"
+    },
+    {
+      "provision_ref": "par5p10la",
+      "section": "5",
+      "title": "§ 5 pkt 10 lit. a",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 10: przekazywanie do CSIRE informacji o opłatach dodatkowych wynikających z generalnej umowy dystrybucji dla usługi kompleksowej, w tym korekty tych informacji,"
+    },
+    {
+      "provision_ref": "par5p10lb",
+      "section": "5",
+      "title": "§ 5 pkt 10 lit. b",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 10: przekazywanie do CSIRE informacji o naliczonej bonifikacie wynikającej z generalnej umowy dystrybucji dla usługi kompleksowej,"
+    },
+    {
+      "provision_ref": "par5p10lc",
+      "section": "5",
+      "title": "§ 5 pkt 10 lit. c",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 10: przekazywanie do CSIRE zapytań dotyczących rozliczeń dodatkowych,"
+    },
+    {
+      "provision_ref": "par5p10ld",
+      "section": "5",
+      "title": "§ 5 pkt 10 lit. d",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 10: udostępnianie z CSIRE informacji, o których mowa w lit. a i b;"
+    },
+    {
+      "provision_ref": "par5p11la",
+      "section": "5",
+      "title": "§ 5 pkt 11 lit. a",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 11: przekazywanie do CSIRE informacji dla punktu pomiarowego, w tym żądania wstrzymania dostarczania energii elektrycznej, o którym mowa w art. 6b ust. 2 ustawy, albo wniosku o wznowienie dostarczania energii elektrycznej, o którym mowa w art. 6b ust. 5 ustawy,"
+    },
+    {
+      "provision_ref": "par5p11lb",
+      "section": "5",
+      "title": "§ 5 pkt 11 lit. b",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 11: przekazywanie do CSIRE informacji, w tym żądań, dotyczących ograniczenia mocy dostępnej dla punktu pomiarowego,"
+    },
+    {
+      "provision_ref": "par5p11lc",
+      "section": "5",
+      "title": "§ 5 pkt 11 lit. c",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 11: przekazywanie do CSIRE informacji, w tym żądań, dotyczących załączenia lub wyłączenia dostarczania energii elektrycznej, w tym w ramach pracy licznika zdalnego odczytu w trybie przedpłatowym,"
+    },
+    {
+      "provision_ref": "par5p11ld",
+      "section": "5",
+      "title": "§ 5 pkt 11 lit. d",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 11: udostępnianie z CSIRE informacji, o których mowa w lit. a-c,"
+    },
+    {
+      "provision_ref": "par5p11le",
+      "section": "5",
+      "title": "§ 5 pkt 11 lit. e",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 11: udostępnianie z CSIRE informacji o działaniach podjętych w rezultacie przekazania do tego systemu lub udostępnienia z tego systemu informacji i żądań, o których mowa w lit. a-c;"
+    },
+    {
+      "provision_ref": "par5p12la",
+      "section": "5",
+      "title": "§ 5 pkt 12 lit. a",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 12 - przekazywanie do CSIRE lub udostępnianie z CSIRE: informacji dotyczących reklamacji dotyczącej usług i zobowiązań umownych związanych z dostarczaniem energii elektrycznej i realizowanych przez użytkowników systemu będących stronami umowy, o której mowa w art. 11zg ust. 1 ustawy, której rozpatrzenie wymaga wymiany tych informacji,"
+    },
+    {
+      "provision_ref": "par5p12lb",
+      "section": "5",
+      "title": "§ 5 pkt 12 lit. b",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 12 - przekazywanie do CSIRE lub udostępnianie z CSIRE: informacji dotyczących niedotrzymania standardów jakości obsługi odbiorców końcowych przy realizacji umowy kompleksowej, w tym naliczenia bonifikaty,"
+    },
+    {
+      "provision_ref": "par5p12lc",
+      "section": "5",
+      "title": "§ 5 pkt 12 lit. c",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 12 - przekazywanie do CSIRE lub udostępnianie z CSIRE: informacji dotyczących niedotrzymania parametrów jakościowych energii elektrycznej przy realizacji umowy kompleksowej, w tym naliczenia bonifikaty,"
+    },
+    {
+      "provision_ref": "par5p12ld",
+      "section": "5",
+      "title": "§ 5 pkt 12 lit. d",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 12 - przekazywanie do CSIRE lub udostępnianie z CSIRE: informacji dotyczących żądań związanych z realizacją umowy kompleksowej w zakresie: - sprawdzenia prawidłowości działania układu pomiarowo-rozliczeniowego, - laboratoryjnego sprawdzenia licznika energii elektrycznej, - wykonania dodatkowej ekspertyzy po uprzednim badaniu laboratoryjnym,"
+    },
+    {
+      "provision_ref": "par5p12le",
+      "section": "5",
+      "title": "§ 5 pkt 12 lit. e",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 12 - przekazywanie do CSIRE lub udostępnianie z CSIRE: innych informacji na potrzeby realizacji procesów rynku energii;"
+    },
+    {
+      "provision_ref": "par5p13la",
+      "section": "5",
+      "title": "§ 5 pkt 13 lit. a",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 13: przekazywanie do CSIRE informacji o przerwach w dostarczaniu energii elektrycznej,"
+    },
+    {
+      "provision_ref": "par5p13lb",
+      "section": "5",
+      "title": "§ 5 pkt 13 lit. b",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 13: przekazywanie do CSIRE informacji o wartości wskaźników jakościowych energii elektrycznej,"
+    },
+    {
+      "provision_ref": "par5p13lc",
+      "section": "5",
+      "title": "§ 5 pkt 13 lit. c",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 13: przekazywanie do CSIRE informacji dotyczących parametrów energii elektrycznej w przypadku przekroczenia dopuszczalnych wartości wskaźników jakości energii elektrycznej,"
+    },
+    {
+      "provision_ref": "par5p13ld",
+      "section": "5",
+      "title": "§ 5 pkt 13 lit. d",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 13: udostępnianie z CSIRE informacji, o których mowa w lit. a-c;"
+    },
+    {
+      "provision_ref": "par5p14",
+      "section": "5",
+      "title": "§ 5 pkt 14",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 14 - przekazywanie do CSIRE i udostępnianie z tego systemu informacji o utworzeniu, zmianie lub likwidacji obiektu pomiarowego;"
+    },
+    {
+      "provision_ref": "par5p15la",
+      "section": "5",
+      "title": "§ 5 pkt 15 lit. a",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 15: przekazywanie do CSIRE informacji o sprzedawcy zobowiązanym oraz sprzedawcy z urzędu na obszarze działania danego operatora systemu elektroenergetycznego,"
+    },
+    {
+      "provision_ref": "par5p15lb",
+      "section": "5",
+      "title": "§ 5 pkt 15 lit. b",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 15: przekazywanie do CSIRE informacji o grupach taryfowych dostępnych na obszarze działania danego operatora systemu elektroenergetycznego,"
+    },
+    {
+      "provision_ref": "par5p15lc",
+      "section": "5",
+      "title": "§ 5 pkt 15 lit. c",
+      "content": "CSIRE zapewnia realizację procesów rynku energii, o których mowa w § 3, w następujący sposób: w przypadku procesu, o którym mowa w § 3 pkt 15: przekazywanie do CSIRE lub udostępnianie z tego systemu informacji rynku energii niezbędnych do realizacji pozostałych procesów rynku energii."
+    },
+    {
+      "provision_ref": "par6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "CSIRE po przekazaniu do tego systemu żądania realizacji polecenia, o którym mowa w art. 11u ust. 2 ustawy, udostępnia to żądanie operatorowi systemu dystrybucyjnego elektroenergetycznego. Żądanie to może być realizowane w zakresie: wyłączenia lub załączenia dostarczania energii elektrycznej do celów wstrzymania dostarczania energii elektrycznej, o którym mowa w art. 6b ust. 2 ustawy, lub wznowienia dostarczania energii elektrycznej, o którym mowa w art. 6b ust. 5 ustawy, lub wyłączenia lub załączenia dostarczania energii elektrycznej do pozostałych celów określonych w art. 11u ust. 2 ustawy, lub ograniczenia mocy dostępnej w danym punkcie pomiarowym. Żądanie, o którym mowa w ust. 1 pkt 1, określa czynności, które mają być wykonane. Żądania, o których mowa w ust. 1 pkt 2 i 3, określają czynności, które mają być wykonane, oraz wnioskowany termin ich wykonania."
+    },
+    {
+      "provision_ref": "par6u1p1",
+      "section": "6",
+      "title": "§ 6 ust. 1 pkt 1",
+      "content": "CSIRE po przekazaniu do tego systemu żądania realizacji polecenia, o którym mowa w art. 11u ust. 2 ustawy, udostępnia to żądanie operatorowi systemu dystrybucyjnego elektroenergetycznego. Żądanie to może być realizowane w zakresie: wyłączenia lub załączenia dostarczania energii elektrycznej do celów wstrzymania dostarczania energii elektrycznej, o którym mowa w art. 6b ust. 2 ustawy, lub wznowienia dostarczania energii elektrycznej, o którym mowa w art. 6b ust. 5 ustawy, lub"
+    },
+    {
+      "provision_ref": "par6u1p2",
+      "section": "6",
+      "title": "§ 6 ust. 1 pkt 2",
+      "content": "CSIRE po przekazaniu do tego systemu żądania realizacji polecenia, o którym mowa w art. 11u ust. 2 ustawy, udostępnia to żądanie operatorowi systemu dystrybucyjnego elektroenergetycznego. Żądanie to może być realizowane w zakresie: wyłączenia lub załączenia dostarczania energii elektrycznej do pozostałych celów określonych w art. 11u ust. 2 ustawy, lub"
+    },
+    {
+      "provision_ref": "par6u1p3",
+      "section": "6",
+      "title": "§ 6 ust. 1 pkt 3",
+      "content": "CSIRE po przekazaniu do tego systemu żądania realizacji polecenia, o którym mowa w art. 11u ust. 2 ustawy, udostępnia to żądanie operatorowi systemu dystrybucyjnego elektroenergetycznego. Żądanie to może być realizowane w zakresie: ograniczenia mocy dostępnej w danym punkcie pomiarowym."
+    },
+    {
+      "provision_ref": "par6u2",
+      "section": "6",
+      "title": "§ 6 ust. 2",
+      "content": "Żądanie, o którym mowa w ust. 1 pkt 1, określa czynności, które mają być wykonane."
+    },
+    {
+      "provision_ref": "par6u3",
+      "section": "6",
+      "title": "§ 6 ust. 3",
+      "content": "Żądania, o których mowa w ust. 1 pkt 2 i 3, określają czynności, które mają być wykonane, oraz wnioskowany termin ich wykonania."
+    },
+    {
+      "provision_ref": "par7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "Informacje rynku energii przekazywane do CSIRE są weryfikowane pod względem ich poprawności i kompletności za pomocą walidacji technicznej oraz walidacji biznesowej, które są realizowane w tym systemie. Informacje rynku energii udostępnianie z CSIRE są weryfikowane pod względem ich poprawności i kompletności za pomocą walidacji technicznej oraz dodatkowych reguł walidacji realizowanych w tym systemie. Walidacja techniczna obejmuje w szczególności zbadanie: poprawności struktury komunikatu; zakresu atrybutów w komunikacie; zawartości elementów komunikatu. Komunikaty przekazywane do CSIRE oraz udostępniane z CSIRE podlegają weryfikacji pod względem użytych zabezpieczeń. Walidacja biznesowa jest przeprowadzana po pozytywnym zakończeniu walidacji technicznej i obejmuje zbadanie zawartości danych w poszczególnych elementach komunikatów oraz związków i zależności między tymi elementami w odniesieniu do reguł określonych w standardach wymiany informacji CSIRE, w szczególności: poprawności struktury numerów identyfikacyjnych i kodów z ich wzorcami określonymi w rejestrach powszechnych; zgodności danych i informacji identyfikacyjnych zawartych w komunikacie z danymi i informacjami identyfikacyjnymi zarejestrowanymi w CSIRE; zgodności rodzaju danych zawartych w komunikacie z rodzajem czynności, której dany komunikat dotyczy. Po pozytywnym zakończeniu walidacji technicznej, o której mowa w ust. 2, i walidacji biznesowej, o której mowa w ust. 4, informacje rynku energii przekazywane do CSIRE mogą podlegać dodatkowym weryfikacjom związanym ze sprawdzeniem ich kompletności i spójności z innymi informacjami rynku energii zarejestrowanymi w CSIRE. Sposób dokonywania walidacji technicznej jest określony w standardach wymiany informacji CSIRE. Nie dotyczy to informacji, których udostępnienie mogłoby zagrozić bezpieczeństwu i integralności tego systemu."
+    },
+    {
+      "provision_ref": "par7u1",
+      "section": "7",
+      "title": "§ 7 ust. 1",
+      "content": "Informacje rynku energii przekazywane do CSIRE są weryfikowane pod względem ich poprawności i kompletności za pomocą walidacji technicznej oraz walidacji biznesowej, które są realizowane w tym systemie. Informacje rynku energii udostępnianie z CSIRE są weryfikowane pod względem ich poprawności i kompletności za pomocą walidacji technicznej oraz dodatkowych reguł walidacji realizowanych w tym systemie."
+    },
+    {
+      "provision_ref": "par7u2p1",
+      "section": "7",
+      "title": "§ 7 ust. 2 pkt 1",
+      "content": "Walidacja techniczna obejmuje w szczególności zbadanie: poprawności struktury komunikatu;"
+    },
+    {
+      "provision_ref": "par7u2p2",
+      "section": "7",
+      "title": "§ 7 ust. 2 pkt 2",
+      "content": "Walidacja techniczna obejmuje w szczególności zbadanie: zakresu atrybutów w komunikacie;"
+    },
+    {
+      "provision_ref": "par7u2p3",
+      "section": "7",
+      "title": "§ 7 ust. 2 pkt 3",
+      "content": "Walidacja techniczna obejmuje w szczególności zbadanie: zawartości elementów komunikatu."
+    },
+    {
+      "provision_ref": "par7u3",
+      "section": "7",
+      "title": "§ 7 ust. 3",
+      "content": "Komunikaty przekazywane do CSIRE oraz udostępniane z CSIRE podlegają weryfikacji pod względem użytych zabezpieczeń."
+    },
+    {
+      "provision_ref": "par7u4p1",
+      "section": "7",
+      "title": "§ 7 ust. 4 pkt 1",
+      "content": "Walidacja biznesowa jest przeprowadzana po pozytywnym zakończeniu walidacji technicznej i obejmuje zbadanie zawartości danych w poszczególnych elementach komunikatów oraz związków i zależności między tymi elementami w odniesieniu do reguł określonych w standardach wymiany informacji CSIRE, w szczególności: poprawności struktury numerów identyfikacyjnych i kodów z ich wzorcami określonymi w rejestrach powszechnych;"
+    },
+    {
+      "provision_ref": "par7u4p2",
+      "section": "7",
+      "title": "§ 7 ust. 4 pkt 2",
+      "content": "Walidacja biznesowa jest przeprowadzana po pozytywnym zakończeniu walidacji technicznej i obejmuje zbadanie zawartości danych w poszczególnych elementach komunikatów oraz związków i zależności między tymi elementami w odniesieniu do reguł określonych w standardach wymiany informacji CSIRE, w szczególności: zgodności danych i informacji identyfikacyjnych zawartych w komunikacie z danymi i informacjami identyfikacyjnymi zarejestrowanymi w CSIRE;"
+    },
+    {
+      "provision_ref": "par7u4p3",
+      "section": "7",
+      "title": "§ 7 ust. 4 pkt 3",
+      "content": "Walidacja biznesowa jest przeprowadzana po pozytywnym zakończeniu walidacji technicznej i obejmuje zbadanie zawartości danych w poszczególnych elementach komunikatów oraz związków i zależności między tymi elementami w odniesieniu do reguł określonych w standardach wymiany informacji CSIRE, w szczególności: zgodności rodzaju danych zawartych w komunikacie z rodzajem czynności, której dany komunikat dotyczy."
+    },
+    {
+      "provision_ref": "par7u5",
+      "section": "7",
+      "title": "§ 7 ust. 5",
+      "content": "Po pozytywnym zakończeniu walidacji technicznej, o której mowa w ust. 2, i walidacji biznesowej, o której mowa w ust. 4, informacje rynku energii przekazywane do CSIRE mogą podlegać dodatkowym weryfikacjom związanym ze sprawdzeniem ich kompletności i spójności z innymi informacjami rynku energii zarejestrowanymi w CSIRE."
+    },
+    {
+      "provision_ref": "par7u6",
+      "section": "7",
+      "title": "§ 7 ust. 6",
+      "content": "Sposób dokonywania walidacji technicznej jest określony w standardach wymiany informacji CSIRE. Nie dotyczy to informacji, których udostępnienie mogłoby zagrozić bezpieczeństwu i integralności tego systemu."
+    },
+    {
+      "provision_ref": "par8",
+      "section": "8",
+      "title": "§ 8",
+      "content": "Operator informacji rynku energii wyznacza oraz publikuje na swojej stronie internetowej wskaźniki jakości informacji rynku energii przekazywanych do CSIRE oraz wskaźniki jakości informacji rynku energii udostępnianych z CSIRE, w tym co najmniej wskaźnik: kompletności przekazanych do tego systemu informacji rynku energii określający stosunek liczby przekazanych do tego systemu komunikatów do liczby wszystkich komunikatów wymaganych do przekazania do tego systemu; kompletności udostępnionych informacji rynku energii określający stosunek liczby udostępnionych z tego systemu komunikatów do liczby wszystkich komunikatów wymaganych do udostępnienia z tego systemu; terminowości przekazanych informacji rynku energii określający stosunek liczby przekazanych do tego systemu w terminie komunikatów do liczby wszystkich przekazanych do tego systemu komunikatów; terminowości udostępnionych z tego systemu informacji rynku energii określający stosunek liczby udostępnionych z tego systemu w terminie komunikatów do liczby wszystkich udostępnionych z tego systemu komunikatów; poprawności określający stosunek liczby poprawnych przekazanych do tego systemu komunikatów do liczby wszystkich komunikatów zgłoszonych do tego systemu. Wskaźnik kompletności, o którym mowa w ust. 1 pkt 1, wyznacza się zgodnie ze wzorem: \\( Wkp_n = {{Kp_n } \\over {Kwp_n }} \\times 100\\% \\) gdzie: n - to komunikat określony w ust. 7, dla którego odrębnie wyznaczany jest wskaźnik kompletności, Wkp n - to wskaźnik kompletności przekazanych do CSIRE komunikatów wyrażony w procentach, Kp n - to liczba przekazanych do CSIRE komunikatów, Kwp n - to liczba wszystkich wymaganych do przekazania do CSIRE komunikatów. Wskaźnik kompletności, o którym mowa w ust. 1 pkt 2, wyznacza się zgodnie ze wzorem: \\( Wku_n = {{Ku_n } \\over {Kwu_n }} \\times 100\\% \\) gdzie: n - to komunikat określony w ust. 8, dla którego odrębnie wyznaczany jest wskaźnik kompletności, Wku n - to wskaźnik kompletności udostępnionych z CSIRE komunikatów wyrażony w procentach, Ku n - to liczba udostępnionych z CSIRE komunikatów, Kwu n - to liczba wszystkich wymaganych do udostępnienia z CSIRE komunikatów. Wskaźnik terminowości, o którym mowa w ust. 1 pkt 3, wyznacza się zgodnie ze wzorem: \\( Wtp_n = {{Tp_n } \\over {Twp_n }} \\times 100\\% \\) gdzie: n - to komunikat określony w ust. 9, dla którego odrębnie wyznaczany jest wskaźnik terminowości, Wtp n - to wskaźnik terminowości przekazanych do CSIRE komunikatów wyrażony w procentach, Tp n - to liczba przekazanych do CSIRE w terminie komunikatów, Twp n - to liczba wszystkich przekazanych do CSIRE komunikatów. Wskaźnik terminowości, o którym mowa w ust. 1 pkt 4, wyznacza się zgodnie ze wzorem: \\( Wtu_n = {{Tu_n } \\over {Twu_n }} \\times 100\\% \\) gdzie: n - to komunikat określony w ust. 10, dla którego odrębnie wyznaczany jest wskaźnik terminowości, Wtu n - to wskaźnik terminowości udostępnionych z CSIRE komunikatów wyrażony w procentach, Tu n - to liczba udostępnionych z CSIRE w terminie komunikatów, Twu n - to liczba wszystkich udostępnionych z CSIRE komunikatów. Wskaźnik poprawności, o którym mowa w ust. 1 pkt 5, wyznacza się zgodnie ze wzorem: \\( Wp_n = {{P_n } \\over {Pw_n }} \\times 100\\% \\) gdzie: n - to komunikat określony w ust. 11, dla którego odrębnie wyznaczany jest wskaźnik poprawności, Wp n - to wskaźnik poprawności wyrażony w procentach, P n - to liczba przekazanych do CSIRE poprawnych komunikatów, Pw n - to liczba wszystkich komunikatów zgłoszonych do CSIRE. Wskaźnik kompletności, o którym mowa w ust. 1 pkt 1, wyznacza się co najmniej dla: komunikatów dotyczących danych pomiarowych przekazywanych do CSIRE w cyklu dobowym; komunikatów dotyczących danych pomiarowych przekazywanych do CSIRE za okres rozliczeniowy; komunikatów dotyczących danych pomiarowych przekazywanych do CSIRE na potrzeby rozliczeń, o których mowa w art. 4j ust. 7 ustawy. Wskaźnik kompletności, o którym mowa w ust. 1 pkt 2, wyznacza się co najmniej dla komunikatów dotyczących danych pomiarowych udostępnionych z CSIRE na żądanie uczestnika rynku. Wskaźnik terminowości, o którym mowa w ust. 1 pkt 3, wyznacza się co najmniej dla: komunikatów dotyczących danych pomiarowych przekazywanych do CSIRE w cyklu dobowym; komunikatów dotyczących danych pomiarowych przekazywanych do CSIRE na koniec okresu rozliczeniowego; komunikatów dotyczących danych pomiarowych przekazywanych do CSIRE na potrzeby rozliczeń, o których mowa w art. 4j ust. 7 ustawy; komunikatów przekazywanych do CSIRE przez użytkowników systemu będących częścią przebiegu procesów rynku energii, dla których określono terminy ich realizacji w standardach wymiany informacji CSIRE. Wskaźnik terminowości, o którym mowa w ust. 1 pkt 4, wyznacza się co najmniej dla komunikatów dotyczących danych pomiarowych udostępnionych z CSIRE na żądanie użytkownika systemu. Wskaźnik poprawności, o którym mowa w ust. 1 pkt 5, wyznacza się co najmniej dla komunikatów dotyczących danych pomiarowych przekazywanych do CSIRE w cyklu dobowym. Wskaźniki jakości informacji rynku energii przekazywanych do CSIRE są publikowane na stronach internetowych operatora informacji rynku energii odrębnie dla każdego podmiotu zobowiązanego do przekazywania do tego systemu informacji rynku energii oraz dla wszystkich podmiotów łącznie jako wskaźniki zagregowane za okres: jednego dnia - w przypadku komunikatów, o których mowa w ust. 7 pkt 1, ust. 9 pkt 1 i ust. 11; pięciu dni - w przypadku komunikatów, o których mowa w ust. 7 pkt 1, ust. 9 pkt 1 i ust. 11; miesiąca - w przypadku komunikatów, o których mowa w ust. 7, 9 i 11; sześciu miesięcy - w przypadku komunikatów, o których mowa w ust. 7, 9 i 11. Wskaźniki jakości informacji rynku energii udostępnianych z CSIRE, o których mowa w ust. 8 i 10, są publikowane na stronach internetowych operatora informacji rynku energii jako wskaźniki zagregowane dla zbioru komunikatów przetwarzanych w CSIRE za okres jednego dnia, pięciu dni, jednego miesiąca i sześciu miesięcy. Na stronie operatora informacji rynku energii mogą być publikowane wskaźniki jakości wyznaczane dla informacji rynku energii inne niż wymienione w ust. 7-11."
+    },
+    {
+      "provision_ref": "par8u1p1",
+      "section": "8",
+      "title": "§ 8 ust. 1 pkt 1",
+      "content": "Operator informacji rynku energii wyznacza oraz publikuje na swojej stronie internetowej wskaźniki jakości informacji rynku energii przekazywanych do CSIRE oraz wskaźniki jakości informacji rynku energii udostępnianych z CSIRE, w tym co najmniej wskaźnik: kompletności przekazanych do tego systemu informacji rynku energii określający stosunek liczby przekazanych do tego systemu komunikatów do liczby wszystkich komunikatów wymaganych do przekazania do tego systemu;"
+    },
+    {
+      "provision_ref": "par8u1p2",
+      "section": "8",
+      "title": "§ 8 ust. 1 pkt 2",
+      "content": "Operator informacji rynku energii wyznacza oraz publikuje na swojej stronie internetowej wskaźniki jakości informacji rynku energii przekazywanych do CSIRE oraz wskaźniki jakości informacji rynku energii udostępnianych z CSIRE, w tym co najmniej wskaźnik: kompletności udostępnionych informacji rynku energii określający stosunek liczby udostępnionych z tego systemu komunikatów do liczby wszystkich komunikatów wymaganych do udostępnienia z tego systemu;"
+    },
+    {
+      "provision_ref": "par8u1p3",
+      "section": "8",
+      "title": "§ 8 ust. 1 pkt 3",
+      "content": "Operator informacji rynku energii wyznacza oraz publikuje na swojej stronie internetowej wskaźniki jakości informacji rynku energii przekazywanych do CSIRE oraz wskaźniki jakości informacji rynku energii udostępnianych z CSIRE, w tym co najmniej wskaźnik: terminowości przekazanych informacji rynku energii określający stosunek liczby przekazanych do tego systemu w terminie komunikatów do liczby wszystkich przekazanych do tego systemu komunikatów;"
+    },
+    {
+      "provision_ref": "par8u1p4",
+      "section": "8",
+      "title": "§ 8 ust. 1 pkt 4",
+      "content": "Operator informacji rynku energii wyznacza oraz publikuje na swojej stronie internetowej wskaźniki jakości informacji rynku energii przekazywanych do CSIRE oraz wskaźniki jakości informacji rynku energii udostępnianych z CSIRE, w tym co najmniej wskaźnik: terminowości udostępnionych z tego systemu informacji rynku energii określający stosunek liczby udostępnionych z tego systemu w terminie komunikatów do liczby wszystkich udostępnionych z tego systemu komunikatów;"
+    },
+    {
+      "provision_ref": "par8u1p5",
+      "section": "8",
+      "title": "§ 8 ust. 1 pkt 5",
+      "content": "Operator informacji rynku energii wyznacza oraz publikuje na swojej stronie internetowej wskaźniki jakości informacji rynku energii przekazywanych do CSIRE oraz wskaźniki jakości informacji rynku energii udostępnianych z CSIRE, w tym co najmniej wskaźnik: poprawności określający stosunek liczby poprawnych przekazanych do tego systemu komunikatów do liczby wszystkich komunikatów zgłoszonych do tego systemu."
+    },
+    {
+      "provision_ref": "par8u2",
+      "section": "8",
+      "title": "§ 8 ust. 2",
+      "content": "Wskaźnik kompletności, o którym mowa w ust. 1 pkt 1, wyznacza się zgodnie ze wzorem: \\( Wkp_n = {{Kp_n } \\over {Kwp_n }} \\times 100\\% \\) gdzie: n - to komunikat określony w ust. 7, dla którego odrębnie wyznaczany jest wskaźnik kompletności, Wkp n - to wskaźnik kompletności przekazanych do CSIRE komunikatów wyrażony w procentach, Kp n - to liczba przekazanych do CSIRE komunikatów, Kwp n - to liczba wszystkich wymaganych do przekazania do CSIRE komunikatów."
+    },
+    {
+      "provision_ref": "par8u3",
+      "section": "8",
+      "title": "§ 8 ust. 3",
+      "content": "Wskaźnik kompletności, o którym mowa w ust. 1 pkt 2, wyznacza się zgodnie ze wzorem: \\( Wku_n = {{Ku_n } \\over {Kwu_n }} \\times 100\\% \\) gdzie: n - to komunikat określony w ust. 8, dla którego odrębnie wyznaczany jest wskaźnik kompletności, Wku n - to wskaźnik kompletności udostępnionych z CSIRE komunikatów wyrażony w procentach, Ku n - to liczba udostępnionych z CSIRE komunikatów, Kwu n - to liczba wszystkich wymaganych do udostępnienia z CSIRE komunikatów."
+    },
+    {
+      "provision_ref": "par8u4",
+      "section": "8",
+      "title": "§ 8 ust. 4",
+      "content": "Wskaźnik terminowości, o którym mowa w ust. 1 pkt 3, wyznacza się zgodnie ze wzorem: \\( Wtp_n = {{Tp_n } \\over {Twp_n }} \\times 100\\% \\) gdzie: n - to komunikat określony w ust. 9, dla którego odrębnie wyznaczany jest wskaźnik terminowości, Wtp n - to wskaźnik terminowości przekazanych do CSIRE komunikatów wyrażony w procentach, Tp n - to liczba przekazanych do CSIRE w terminie komunikatów, Twp n - to liczba wszystkich przekazanych do CSIRE komunikatów."
+    },
+    {
+      "provision_ref": "par8u5",
+      "section": "8",
+      "title": "§ 8 ust. 5",
+      "content": "Wskaźnik terminowości, o którym mowa w ust. 1 pkt 4, wyznacza się zgodnie ze wzorem: \\( Wtu_n = {{Tu_n } \\over {Twu_n }} \\times 100\\% \\) gdzie: n - to komunikat określony w ust. 10, dla którego odrębnie wyznaczany jest wskaźnik terminowości, Wtu n - to wskaźnik terminowości udostępnionych z CSIRE komunikatów wyrażony w procentach, Tu n - to liczba udostępnionych z CSIRE w terminie komunikatów, Twu n - to liczba wszystkich udostępnionych z CSIRE komunikatów."
+    },
+    {
+      "provision_ref": "par8u6",
+      "section": "8",
+      "title": "§ 8 ust. 6",
+      "content": "Wskaźnik poprawności, o którym mowa w ust. 1 pkt 5, wyznacza się zgodnie ze wzorem: \\( Wp_n = {{P_n } \\over {Pw_n }} \\times 100\\% \\) gdzie: n - to komunikat określony w ust. 11, dla którego odrębnie wyznaczany jest wskaźnik poprawności, Wp n - to wskaźnik poprawności wyrażony w procentach, P n - to liczba przekazanych do CSIRE poprawnych komunikatów, Pw n - to liczba wszystkich komunikatów zgłoszonych do CSIRE."
+    },
+    {
+      "provision_ref": "par8u7p1",
+      "section": "8",
+      "title": "§ 8 ust. 7 pkt 1",
+      "content": "Wskaźnik kompletności, o którym mowa w ust. 1 pkt 1, wyznacza się co najmniej dla: komunikatów dotyczących danych pomiarowych przekazywanych do CSIRE w cyklu dobowym;"
+    },
+    {
+      "provision_ref": "par8u7p2",
+      "section": "8",
+      "title": "§ 8 ust. 7 pkt 2",
+      "content": "Wskaźnik kompletności, o którym mowa w ust. 1 pkt 1, wyznacza się co najmniej dla: komunikatów dotyczących danych pomiarowych przekazywanych do CSIRE za okres rozliczeniowy;"
+    },
+    {
+      "provision_ref": "par8u7p3",
+      "section": "8",
+      "title": "§ 8 ust. 7 pkt 3",
+      "content": "Wskaźnik kompletności, o którym mowa w ust. 1 pkt 1, wyznacza się co najmniej dla: komunikatów dotyczących danych pomiarowych przekazywanych do CSIRE na potrzeby rozliczeń, o których mowa w art. 4j ust. 7 ustawy."
+    },
+    {
+      "provision_ref": "par8u8",
+      "section": "8",
+      "title": "§ 8 ust. 8",
+      "content": "Wskaźnik kompletności, o którym mowa w ust. 1 pkt 2, wyznacza się co najmniej dla komunikatów dotyczących danych pomiarowych udostępnionych z CSIRE na żądanie uczestnika rynku."
+    },
+    {
+      "provision_ref": "par8u9p1",
+      "section": "8",
+      "title": "§ 8 ust. 9 pkt 1",
+      "content": "Wskaźnik terminowości, o którym mowa w ust. 1 pkt 3, wyznacza się co najmniej dla: komunikatów dotyczących danych pomiarowych przekazywanych do CSIRE w cyklu dobowym;"
+    },
+    {
+      "provision_ref": "par8u9p2",
+      "section": "8",
+      "title": "§ 8 ust. 9 pkt 2",
+      "content": "Wskaźnik terminowości, o którym mowa w ust. 1 pkt 3, wyznacza się co najmniej dla: komunikatów dotyczących danych pomiarowych przekazywanych do CSIRE na koniec okresu rozliczeniowego;"
+    },
+    {
+      "provision_ref": "par8u9p3",
+      "section": "8",
+      "title": "§ 8 ust. 9 pkt 3",
+      "content": "Wskaźnik terminowości, o którym mowa w ust. 1 pkt 3, wyznacza się co najmniej dla: komunikatów dotyczących danych pomiarowych przekazywanych do CSIRE na potrzeby rozliczeń, o których mowa w art. 4j ust. 7 ustawy;"
+    },
+    {
+      "provision_ref": "par8u9p4",
+      "section": "8",
+      "title": "§ 8 ust. 9 pkt 4",
+      "content": "Wskaźnik terminowości, o którym mowa w ust. 1 pkt 3, wyznacza się co najmniej dla: komunikatów przekazywanych do CSIRE przez użytkowników systemu będących częścią przebiegu procesów rynku energii, dla których określono terminy ich realizacji w standardach wymiany informacji CSIRE."
+    },
+    {
+      "provision_ref": "par8u10",
+      "section": "8",
+      "title": "§ 8 ust. 10",
+      "content": "Wskaźnik terminowości, o którym mowa w ust. 1 pkt 4, wyznacza się co najmniej dla komunikatów dotyczących danych pomiarowych udostępnionych z CSIRE na żądanie użytkownika systemu."
+    },
+    {
+      "provision_ref": "par8u11",
+      "section": "8",
+      "title": "§ 8 ust. 11",
+      "content": "Wskaźnik poprawności, o którym mowa w ust. 1 pkt 5, wyznacza się co najmniej dla komunikatów dotyczących danych pomiarowych przekazywanych do CSIRE w cyklu dobowym."
+    },
+    {
+      "provision_ref": "par8u12p1",
+      "section": "8",
+      "title": "§ 8 ust. 12 pkt 1",
+      "content": "Wskaźniki jakości informacji rynku energii przekazywanych do CSIRE są publikowane na stronach internetowych operatora informacji rynku energii odrębnie dla każdego podmiotu zobowiązanego do przekazywania do tego systemu informacji rynku energii oraz dla wszystkich podmiotów łącznie jako wskaźniki zagregowane za okres: jednego dnia - w przypadku komunikatów, o których mowa w ust. 7 pkt 1, ust. 9 pkt 1 i ust. 11;"
+    },
+    {
+      "provision_ref": "par8u12p2",
+      "section": "8",
+      "title": "§ 8 ust. 12 pkt 2",
+      "content": "Wskaźniki jakości informacji rynku energii przekazywanych do CSIRE są publikowane na stronach internetowych operatora informacji rynku energii odrębnie dla każdego podmiotu zobowiązanego do przekazywania do tego systemu informacji rynku energii oraz dla wszystkich podmiotów łącznie jako wskaźniki zagregowane za okres: pięciu dni - w przypadku komunikatów, o których mowa w ust. 7 pkt 1, ust. 9 pkt 1 i ust. 11;"
+    },
+    {
+      "provision_ref": "par8u12p3",
+      "section": "8",
+      "title": "§ 8 ust. 12 pkt 3",
+      "content": "Wskaźniki jakości informacji rynku energii przekazywanych do CSIRE są publikowane na stronach internetowych operatora informacji rynku energii odrębnie dla każdego podmiotu zobowiązanego do przekazywania do tego systemu informacji rynku energii oraz dla wszystkich podmiotów łącznie jako wskaźniki zagregowane za okres: miesiąca - w przypadku komunikatów, o których mowa w ust. 7, 9 i 11;"
+    },
+    {
+      "provision_ref": "par8u12p4",
+      "section": "8",
+      "title": "§ 8 ust. 12 pkt 4",
+      "content": "Wskaźniki jakości informacji rynku energii przekazywanych do CSIRE są publikowane na stronach internetowych operatora informacji rynku energii odrębnie dla każdego podmiotu zobowiązanego do przekazywania do tego systemu informacji rynku energii oraz dla wszystkich podmiotów łącznie jako wskaźniki zagregowane za okres: sześciu miesięcy - w przypadku komunikatów, o których mowa w ust. 7, 9 i 11."
+    },
+    {
+      "provision_ref": "par8u13",
+      "section": "8",
+      "title": "§ 8 ust. 13",
+      "content": "Wskaźniki jakości informacji rynku energii udostępnianych z CSIRE, o których mowa w ust. 8 i 10, są publikowane na stronach internetowych operatora informacji rynku energii jako wskaźniki zagregowane dla zbioru komunikatów przetwarzanych w CSIRE za okres jednego dnia, pięciu dni, jednego miesiąca i sześciu miesięcy."
+    },
+    {
+      "provision_ref": "par8u14",
+      "section": "8",
+      "title": "§ 8 ust. 14",
+      "content": "Na stronie operatora informacji rynku energii mogą być publikowane wskaźniki jakości wyznaczane dla informacji rynku energii inne niż wymienione w ust. 7-11."
+    },
+    {
+      "provision_ref": "par9",
+      "section": "9",
+      "title": "§ 9",
+      "content": "Wzór szablonu oceny skutków w zakresie ochrony danych pomiarowych określa załącznik do rozporządzenia."
+    },
+    {
+      "provision_ref": "par10",
+      "section": "10",
+      "title": "§ 10",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    }
+  ],
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2021-716",
+      "ref_type": "references"
+    }
+  ]
+}

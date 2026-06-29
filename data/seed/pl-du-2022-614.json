@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-2022-614",
+  "type": "statute",
+  "title": "Rozporządzenie Ministra Klimatu i Środowiska z dnia 9 marca 2022 r. zmieniające rozporządzenie w sprawie wymagań w zakresie prowadzenia pomiarów wielkości emisji",
+  "title_en": "",
+  "short_name": "pl-du-2022-614",
+  "status": "in_force",
+  "issued_date": "2022-03-09",
+  "in_force_date": "2022-03-16",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2022/614",
+  "provisions": [
+    {
+      "provision_ref": "par1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "W rozporządzeniu Ministra Klimatu i Środowiska z dnia 7 września 2021 r. w sprawie wymagań w zakresie prowadzenia pomiarów wielkości emisji w załączniku nr 7 do rozporządzenia w części E w tytule II w pkt 2 w ust. 6 wzór: \\( L_{Aeqt} = 10\\lg \\left( {{1 \\over T}\\sum\\limits_{j = 1}^m {t_j 10^{0,1L_{Aekj} } } } \\right) \\) zastępuje się wzorem: \\( L_{AeqT} = 10\\lg \\left( {{1 \\over T}\\sum\\limits_{j = 1}^m {t_j 10^{0,1L_{Aekj} } } } \\right) \\)"
+    },
+    {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia."
+    }
+  ],
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2021-1973",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-2127",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-2269",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1710",
+      "ref_type": "references"
+    }
+  ]
+}
