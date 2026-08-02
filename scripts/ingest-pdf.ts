@@ -12,6 +12,9 @@
  *   npm run ingest:pdf                 # all in-force PDF-only acts (resume-aware)
  *   npm run ingest:pdf -- --limit 20   # first N
  *   npm run ingest:pdf -- --force      # re-ingest even if seed exists
+ *   npm run ingest:pdf -- --id a,b     # only these acts (repealed ones skipped)
+ *   npm run ingest:pdf -- --id-file f  # ids from a file
+ *   npm run ingest:pdf -- --include-repealed   # keep repealed acts in an --id run
  *
  * Requires poppler's `pdftotext` on PATH (build-time only).
  */
@@ -42,18 +45,24 @@ interface TextEntry { fileName: string; type: string }
 
 function parseArgs() {
   const a = process.argv.slice(2);
-  let limit: number | null = null, force = false;
+  let limit: number | null = null, force = false, includeRepealed = false;
   let ids: Set<string> | null = null;
   for (let i = 0; i < a.length; i++) {
     if (a[i] === '--limit' && a[i + 1]) { limit = parseInt(a[++i], 10); }
     else if (a[i] === '--force') force = true;
+    else if (a[i] === '--include-repealed') includeRepealed = true;
     else if (a[i] === '--id' && a[i + 1]) {
       ids = new Set(a[++i]!.split(',').map(s => s.trim()).filter(Boolean));
     } else if (a[i] === '--id-file' && a[i + 1]) {
       ids = new Set(fs.readFileSync(a[++i]!, 'utf-8').split(/[\s,]+/).map(s => s.trim()).filter(Boolean));
     }
   }
-  return { limit, force, ids };
+  return { limit, force, ids, includeRepealed };
+}
+
+/** True when the act is currently binding law, per census/ISAP status. */
+function isInForce(e: CensusEntry): boolean {
+  return e.sejm_status === 'obowiązujący' || e.status === 'in_force';
 }
 
 /**
@@ -121,7 +130,7 @@ function censusToAct(e: CensusEntry): ActIndexEntry {
 }
 
 async function main() {
-  const { limit, force, ids } = parseArgs();
+  const { limit, force, ids, includeRepealed } = parseArgs();
   console.log('Polish Law MCP — PDF ingestion\n' + '='.repeat(40));
 
   const census: Census = JSON.parse(fs.readFileSync(CENSUS_PATH, 'utf-8'));
@@ -131,15 +140,30 @@ async function main() {
   // though the base act has HTML (every major code is in this group).
   let todo = ids
     ? census.laws.filter(e => ids.has(e.id))
-    : census.laws.filter(e =>
-        e.skip_reason === PDF_ONLY_REASON &&
-        (e.sejm_status === 'obowiązujący' || e.status === 'in_force'),
-      );
+    : census.laws.filter(e => e.skip_reason === PDF_ONLY_REASON && isInForce(e));
 
   if (ids) {
     const missing = [...ids].filter(id => !todo.some(e => e.id === id));
     if (missing.length > 0) {
       console.log(`  WARNING: ${missing.length} id(s) not in census: ${missing.slice(0, 5).join(', ')}${missing.length > 5 ? ' ...' : ''}`);
+    }
+
+    // --id bypasses the in-force filter the default path applies, so a repealed
+    // act can slip into a run and then "fail" on unreadable pre-war OCR — noise
+    // that reads like a real gap. Drop them by default; --include-repealed keeps
+    // them for deliberate historical re-ingest.
+    const repealed = todo.filter(e => !isInForce(e));
+    if (repealed.length > 0) {
+      if (includeRepealed) {
+        console.log(`  NOTE: ${repealed.length} repealed act(s) included via --include-repealed`);
+      } else {
+        console.log(`  Skipping ${repealed.length} repealed act(s) (use --include-repealed to ingest them):`);
+        for (const e of repealed.slice(0, 5)) {
+          console.log(`    ${e.id} — ${e.sejm_status || e.status} — ${e.title.slice(0, 55)}`);
+        }
+        if (repealed.length > 5) console.log(`    ... and ${repealed.length - 5} more`);
+        todo = todo.filter(isInForce);
+      }
     }
   }
 
