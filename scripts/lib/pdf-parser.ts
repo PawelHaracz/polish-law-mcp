@@ -153,36 +153,65 @@ function buildArticleRows(
     content: body,
   });
 
-  // Split ustępy on " N. " boundaries (numbered paragraphs). Keep the leading
-  // chapeau (text before the first "1.") attached to each leaf for context.
-  const ustepParts = splitNumbered(body, /(?:^|\s)(\d+)\.\s+/g);
-  if (ustepParts.length > 1) {
+  // Codes (KC, KK, KSH, KPC …) divide articles into paragrafy — "§ 1." — while
+  // ordinary statutes use ustępy ("1."). An article uses one scheme or the other,
+  // so try § first and only fall back to ustępy when no § marker is present.
+  const paragrafParts = splitNumbered(body, /(?:^|\s)§\s*(\d+[a-z]*)\.\s+/g);
+  if (paragrafParts.some(p => p.n)) {
+    for (const { n, text } of paragrafParts) {
+      if (!n) continue;
+      const ref = `${baseRef}par${n}`;
+      emitLeafWithPunkty(ref, `Art. ${num} § ${n}`, num, text, provisions);
+    }
+    return;
+  }
+
+  // Split ustępy on " N. " boundaries. Keep the leading chapeau (text before the
+  // first "1.") attached to each leaf for context.
+  const ustepParts = splitNumbered(body, USTEP_RE);
+  if (ustepParts.some(p => p.n)) {
     for (const { n, text } of ustepParts) {
       if (!n) continue; // chapeau handled inside splitNumbered consumers
-      const ref = `${baseRef}u${n}`;
-      // Further split punkty inside the ustęp ("N) ...").
-      const punktParts = splitNumbered(text, /(?:^|\s)(\d+)\)\s+/g);
-      if (punktParts.filter(p => p.n).length > 1) {
-        for (const p of punktParts) {
-          if (!p.n) continue;
-          provisions.push({
-            provision_ref: `${ref}p${p.n}`,
-            section: num,
-            title: `Art. ${num} ust. ${n} pkt ${p.n}`,
-            content: p.text,
-          });
-        }
-      } else {
-        provisions.push({
-          provision_ref: ref,
-          section: num,
-          title: `Art. ${num} ust. ${n}`,
-          content: text,
-        });
-      }
+      emitLeafWithPunkty(`${baseRef}u${n}`, `Art. ${num} ust. ${n}`, num, text, provisions);
     }
   }
 }
+
+/**
+ * Emit one sub-unit row, split further into punkty ("N) …") when it has them.
+ * Shared by the § and ustęp paths so both produce the same leaf shape.
+ */
+function emitLeafWithPunkty(
+  ref: string,
+  title: string,
+  section: string,
+  text: string,
+  provisions: ParsedProvision[],
+): void {
+  const punktParts = splitNumbered(text, /(?:^|\s)(\d+[a-z]*)\)\s+/g);
+  if (punktParts.filter(p => p.n).length > 1) {
+    for (const p of punktParts) {
+      if (!p.n) continue;
+      provisions.push({
+        provision_ref: `${ref}p${p.n}`,
+        section,
+        title: `${title} pkt ${p.n}`,
+        content: p.text,
+      });
+    }
+    return;
+  }
+  provisions.push({ provision_ref: ref, section, title, content: text });
+}
+
+/**
+ * Ustęp marker: " N. " starting a sentence. Requires an uppercase/quote opening
+ * after the number so citations and cross-references do not register as ustępy —
+ * "Dz.U. 2026 poz. 795" and "art. 5 ust. 2. zdanie" previously produced bogus
+ * refs like art4u31p795. Ustęp numbers are also capped at 3 digits (real ones are
+ * small; a 4-digit "number" is a year or a Dz.U. position).
+ */
+const USTEP_RE = /(?:^|\s)(\d{1,3}[a-z]*)\.\s+(?=[A-ZŁŚŻŹĆŃÓĄĘ„"])/g;
 
 /** Split text on a numbered-marker regex, returning {n, text} segments. */
 function splitNumbered(text: string, re: RegExp): Array<{ n: string | null; text: string }> {

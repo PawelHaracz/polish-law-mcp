@@ -42,6 +42,67 @@ const ELI_API_BASE = 'https://api.sejm.gov.pl/eli/acts/DU';
 /** Log progress every N acts */
 const LOG_INTERVAL = 10;
 
+/**
+ * Newest consolidated text (tekst jednolity) of an act, if one exists.
+ *
+ * The base act (e.g. DU/1964/93 for the Civil Code) carries its ORIGINAL 1964
+ * wording — amendments are published as separate acts and only folded together
+ * in a consolidated text. Ingesting the base act therefore yields text that can
+ * be decades out of date. Roughly 2% of in-force acts have a consolidated text;
+ * for the rest the base act is the correct source and this returns null.
+ */
+interface ConsolidatedText {
+  year: number;
+  poz: number;
+  displayAddress: string;
+}
+
+async function resolveConsolidatedText(
+  year: number,
+  poz: number,
+): Promise<ConsolidatedText | null> {
+  let refsResult;
+  try {
+    refsResult = await fetchWithRateLimit(`${ELI_API_BASE}/${year}/${poz}/references`, 2, 30_000);
+  } catch {
+    return null;
+  }
+  if (refsResult.status !== 200) return null;
+
+  let refs: Record<string, Array<{ act?: Record<string, unknown> }>>;
+  try {
+    refs = JSON.parse(refsResult.body);
+  } catch {
+    return null;
+  }
+
+  const entries = refs['Inf. o tekście jednolitym'];
+  if (!Array.isArray(entries) || entries.length === 0) return null;
+
+  const acts = entries
+    .map((e) => e.act)
+    .filter((a): a is Record<string, unknown> => Boolean(a) && typeof a === 'object');
+  if (acts.length === 0) return null;
+
+  // Highest (year, poz) wins — consolidated texts are published in order.
+  acts.sort((a, b) => {
+    const ay = Number(a['year'] ?? 0);
+    const by = Number(b['year'] ?? 0);
+    return ay !== by ? ay - by : Number(a['pos'] ?? 0) - Number(b['pos'] ?? 0);
+  });
+  const newest = acts[acts.length - 1]!;
+
+  const ny = Number(newest['year'] ?? 0);
+  const np = Number(newest['pos'] ?? 0);
+  if (!ny || !np) return null;
+
+  return {
+    year: ny,
+    poz: np,
+    displayAddress: String(newest['displayAddress'] ?? `Dz.U. ${ny} poz. ${np}`),
+  };
+}
+
 interface CensusEntry {
   id: string;
   title: string;
@@ -81,11 +142,17 @@ interface Census {
   laws: CensusEntry[];
 }
 
-function parseArgs(): { limit: number | null; skipFetch: boolean; force: boolean } {
+function parseArgs(): {
+  limit: number | null;
+  skipFetch: boolean;
+  force: boolean;
+  ids: Set<string> | null;
+} {
   const args = process.argv.slice(2);
   let limit: number | null = null;
   let skipFetch = false;
   let force = false;
+  let ids: Set<string> | null = null;
 
   for (let i = 0; i < args.length; i++) {
     if (args[i] === '--limit' && args[i + 1]) {
@@ -95,10 +162,29 @@ function parseArgs(): { limit: number | null; skipFetch: boolean; force: boolean
       skipFetch = true;
     } else if (args[i] === '--force') {
       force = true;
+    } else if (args[i] === '--id' && args[i + 1]) {
+      // Comma-separated act ids, e.g. --id pl-du-1964-93,pl-du-2000-1037
+      ids = new Set(
+        args[i + 1]!
+          .split(',')
+          .map((s) => s.trim())
+          .filter(Boolean),
+      );
+      i++;
+    } else if (args[i] === '--id-file' && args[i + 1]) {
+      // Newline- or comma-separated ids from a file (for large re-ingest runs).
+      const raw = fs.readFileSync(args[i + 1]!, 'utf-8');
+      ids = new Set(
+        raw
+          .split(/[\s,]+/)
+          .map((s) => s.trim())
+          .filter(Boolean),
+      );
+      i++;
     }
   }
 
-  return { limit, skipFetch, force };
+  return { limit, skipFetch, force, ids };
 }
 
 /**
@@ -121,7 +207,7 @@ function censusToActEntry(entry: CensusEntry): ActIndexEntry {
 }
 
 async function main(): Promise<void> {
-  const { limit, skipFetch, force } = parseArgs();
+  const { limit, skipFetch, force, ids } = parseArgs();
 
   console.log('Polish Law MCP -- Census-Driven Ingestion Pipeline');
   console.log('===================================================\n');
@@ -132,6 +218,7 @@ async function main(): Promise<void> {
   if (limit) console.log(`  --limit ${limit}`);
   if (skipFetch) console.log(`  --skip-fetch`);
   if (force) console.log(`  --force (re-ingest all)`);
+  if (ids) console.log(`  --id (${ids.size} act(s) selected)`);
 
   // Load census
   if (!fs.existsSync(CENSUS_PATH)) {
@@ -148,8 +235,18 @@ async function main(): Promise<void> {
   // Filter to ingestable acts
   let toIngest = census.laws.filter(e => e.classification === 'ingestable');
 
-  // Skip already-ingested unless --force
-  if (!force) {
+  // Restrict to explicitly selected ids (implies --force: selecting an act by id
+  // means you want it re-fetched even though its seed already exists).
+  if (ids) {
+    toIngest = toIngest.filter(e => ids.has(e.id));
+    const missing = [...ids].filter(id => !toIngest.some(e => e.id === id));
+    if (missing.length > 0) {
+      console.log(`  WARNING: ${missing.length} id(s) not ingestable/not in census: ${missing.slice(0, 5).join(', ')}${missing.length > 5 ? ' ...' : ''}`);
+    }
+  }
+
+  // Skip already-ingested unless --force (or an explicit id selection)
+  if (!force && !ids) {
     toIngest = toIngest.filter(e => {
       const seedFile = path.join(SEED_DIR, `${e.id}.json`);
       return !fs.existsSync(seedFile);
@@ -192,41 +289,72 @@ async function main(): Promise<void> {
       if (fs.existsSync(sourceFile) && skipFetch) {
         html = fs.readFileSync(sourceFile, 'utf-8');
       } else {
-        const textUrl = `${ELI_API_BASE}/${act.year}/${act.poz}/text.html`;
+        // Prefer the newest consolidated text — the base act holds the ORIGINAL
+        // wording, which for amended acts is stale (see resolveConsolidatedText).
+        // The /references payload does not say which formats exist, so we simply
+        // try the consolidated text's HTML and fall back to the base act if it is
+        // missing (PDF-only consolidations are handled by `npm run ingest:pdf`).
+        const consolidated = await resolveConsolidatedText(act.year, act.poz);
 
-        let result;
-        try {
-          result = await fetchWithRateLimit(textUrl, 3, 60_000);
-        } catch (fetchError) {
-          const msg = fetchError instanceof Error ? fetchError.message : String(fetchError);
-          if (processed % LOG_INTERVAL === 0 || processed < 5) {
-            console.log(`  [${processed + 1}/${toIngest.length}] FETCH ERROR ${act.id}: ${msg}`);
+        const candidates: Array<{ year: number; poz: number; label: string }> = [];
+        if (consolidated) {
+          candidates.push({
+            year: consolidated.year,
+            poz: consolidated.poz,
+            label: `consolidated ${consolidated.displayAddress}`,
+          });
+        }
+        candidates.push({ year: act.year, poz: act.poz, label: 'base act' });
+
+        let result: Awaited<ReturnType<typeof fetchWithRateLimit>> | null = null;
+        let usedLabel = '';
+
+        for (const c of candidates) {
+          const textUrl = `${ELI_API_BASE}/${c.year}/${c.poz}/text.html`;
+          let r;
+          try {
+            r = await fetchWithRateLimit(textUrl, 3, 60_000);
+          } catch (fetchError) {
+            const msg = fetchError instanceof Error ? fetchError.message : String(fetchError);
+            if (processed % LOG_INTERVAL === 0 || processed < 5) {
+              console.log(`  [${processed + 1}/${toIngest.length}] FETCH ERROR ${act.id} (${c.label}): ${msg}`);
+            }
+            continue;
           }
+          // A consolidated text that exists only as PDF still answers 200 here —
+          // with an empty body. Treat that (and bot challenges) as a miss so the
+          // base act is tried instead of storing nothing.
+          const usable =
+            r.status === 200 &&
+            r.body.trim().length > 0 &&
+            !r.body.includes('window["bobcmn"]');
+          if (usable) {
+            result = r;
+            usedLabel = c.label;
+            break;
+          }
+          if (processed % LOG_INTERVAL === 0 || processed < 5) {
+            console.log(`  [${processed + 1}/${toIngest.length}] HTTP ${r.status} for ${act.id} (${c.label})`);
+          }
+        }
+
+        if (!result) {
           failed++;
           processed++;
           continue;
         }
 
-        if (result.status !== 200) {
-          if (processed % LOG_INTERVAL === 0 || processed < 5) {
-            console.log(`  [${processed + 1}/${toIngest.length}] HTTP ${result.status} for ${act.id}`);
-          }
-          failed++;
-          processed++;
-          continue;
+        if (consolidated && usedLabel === 'base act') {
+          // Consolidated text exists but has no HTML — the base act text we are
+          // about to store is out of date. Surface it loudly; ingest:pdf fixes it.
+          console.log(
+            `  [${processed + 1}/${toIngest.length}] ${act.id}: consolidated text ${consolidated.displayAddress} has no HTML — stored text will be STALE (run ingest:pdf)`,
+          );
+        } else if (consolidated && (processed % LOG_INTERVAL === 0 || processed < 5)) {
+          console.log(`  [${processed + 1}/${toIngest.length}] ${act.id}: using ${usedLabel}`);
         }
 
         html = result.body;
-
-        // Validate: check for bot challenge or empty content
-        if (html.includes('window["bobcmn"]')) {
-          if (processed % LOG_INTERVAL === 0 || processed < 5) {
-            console.log(`  [${processed + 1}/${toIngest.length}] BLOCKED (bot challenge) ${act.id}`);
-          }
-          failed++;
-          processed++;
-          continue;
-        }
 
         // Some acts may not have article structure (very short, or special acts)
         if (!html.includes('unit_arti') && !html.includes('Art.')) {
