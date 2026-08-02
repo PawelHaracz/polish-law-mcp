@@ -19,7 +19,19 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Upoważnia się Ministra Skarbu: 1) do przekazywania zarządom gminnym na obszarze b. dzielnicy pruskiej i górnośląskiej części województwa śląskiego czynności wstępnych do wymiaru podatku dochodowego, przewidzianych w art. 45-48 ustawy o państwowym podatku dochodowym w brzmieniu, ogłoszonem w rozporządzeniu Ministra Skarbu z dnia 14 lipca 1923 r.; 2) do tworzenia na oznaczonym wyżej obszarze podkomisji szacunkowych dla dokonywania przedwstępnego oszacowania dochodów, podległych podatkowi, oraz do określania składu tych podkomisji i trybu ich postępowania."
+      "content": "Upoważnia się Ministra Skarbu: do przekazywania zarządom gminnym na obszarze b. dzielnicy pruskiej i górnośląskiej części województwa śląskiego czynności wstępnych do wymiaru podatku dochodowego, przewidzianych w art. 45-48 ustawy o państwowym podatku dochodowym w brzmieniu, ogłoszonem w rozporządzeniu Ministra Skarbu z dnia 14 lipca 1923 r.; do tworzenia na oznaczonym wyżej obszarze podkomisji szacunkowych dla dokonywania przedwstępnego oszacowania dochodów, podległych podatkowi, oraz do określania składu tych podkomisji i trybu ich postępowania."
+    },
+    {
+      "provision_ref": "art2p1",
+      "section": "2",
+      "title": "Art. 2 pkt 1",
+      "content": "Upoważnia się Ministra Skarbu: do przekazywania zarządom gminnym na obszarze b. dzielnicy pruskiej i górnośląskiej części województwa śląskiego czynności wstępnych do wymiaru podatku dochodowego, przewidzianych w art. 45-48 ustawy o państwowym podatku dochodowym w brzmieniu, ogłoszonem w rozporządzeniu Ministra Skarbu z dnia 14 lipca 1923 r.;"
+    },
+    {
+      "provision_ref": "art2p2",
+      "section": "2",
+      "title": "Art. 2 pkt 2",
+      "content": "Upoważnia się Ministra Skarbu: do tworzenia na oznaczonym wyżej obszarze podkomisji szacunkowych dla dokonywania przedwstępnego oszacowania dochodów, podległych podatkowi, oraz do określania składu tych podkomisji i trybu ich postępowania."
     },
     {
       "provision_ref": "art3",
@@ -43,7 +55,7 @@
       "provision_ref": "art6",
       "section": "6",
       "title": "Art. 6",
-      "content": "Na obszarze b. dzielnicy pruskiej i górnośląskiej części województwa śląskiego art. 5 niniejszej ustawy nie ma zastosowania. Natomiast pobiera się tam dodatki do państwowego podatku dochodowego na rzecz gmin i powiatowych związków komunalnych. Dodatki te wynoszą przy dochodzie podatkowym: A. według skali art. 23 ustawy o państwowym podatku dochodowym w brzmieniu, ogłoszonem w rozporządzeniu Ministra Skarbu z dnia 14 lipca 1923 r. ponad 1.378 frank. złot. do 20.674 frank. złot.-4% ,, 20.674 ,, ,, ,, 68.913 ,, ,, -4,5% ,, 68.913 ,, ,, ,, -5% B. według skali art. 11 niniejszej ustawy 3%, poczynając jednak dopiero od 4 stopnia tejże skali."
+      "content": "Na obszarze b. dzielnicy pruskiej i górnośląskiej części województwa śląskiego art. 5 niniejszej ustawy nie ma zastosowania. Natomiast pobiera się tam dodatki do państwowego podatku dochodowego na rzecz gmin i powiatowych związków komunalnych. Dodatki te wynoszą przy dochodzie podatkowym: według skali art. 23 ustawy o państwowym podatku dochodowym w brzmieniu, ogłoszonem w rozporządzeniu Ministra Skarbu z dnia 14 lipca 1923 r. ponad 1.378 frank. złot. do 20.674 frank. złot.-4% ,, 20.674 ,, ,, ,, 68.913 ,, ,, -4,5% ,, 68.913 ,, ,, ,, -5% według skali art. 11 niniejszej ustawy 3%, poczynając jednak dopiero od 4 stopnia tejże skali."
     },
     {
       "provision_ref": "art7",
@@ -121,8 +133,9 @@
       "provision_ref": "art19",
       "section": "19",
       "title": "Art. 19",
-      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Skarbu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-none_A\",\"symbol\": \"none_A\",\"type\": \"none\",\"name\": \"A\",\"title\": \"A.\"},{\"id\": \"arti_6-none_B\",\"symbol\": \"none_B\",\"type\": \"none\",\"name\": \"B\",\"title\": \"B.\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"},{\"id\": \"arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"},{\"id\": \"arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\"},{\"id\": \"arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\"},{\"id\": \"arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\"},{\"id\": \"arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\"},{\"id\": \"arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\"} ] } ];"
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Skarbu."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": []
 }

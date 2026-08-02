@@ -13,14 +13,24 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "Traci moc ustawa z dnia 22 marca 1990 r. o likwidacji Robotniczej Spółdzielni Wydawniczej „Prasa-Książka-Ruch” ( Dz. U. Nr 21, poz. 125 oraz z 1997 r. Nr 101, poz. 630 ) ."
+      "content": "Traci moc ustawa z dnia 22 marca 1990 r. o likwidacji Robotniczej Spółdzielni Wydawniczej „Prasa-Książka-Ruch” ."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-1990-125",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1997-630",
+      "ref_type": "references"
+    }
+  ]
 }

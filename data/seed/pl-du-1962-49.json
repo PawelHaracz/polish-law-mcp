@@ -10,6 +10,30 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/1962/49",
   "provisions": [
     {
+      "provision_ref": "art113",
+      "section": "113",
+      "title": "Art. 113",
+      "content": "Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem: art. 85 ust. 1, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia, art. 69-75 oraz art. 85 ust. 7, które wchodzą w życie z dniem 1 stycznia 1999 r."
+    },
+    {
+      "provision_ref": "art113p1",
+      "section": "113",
+      "title": "Art. 113 pkt 1",
+      "content": "Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem: art. 85 ust. 1, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia,"
+    },
+    {
+      "provision_ref": "art113p2",
+      "section": "113",
+      "title": "Art. 113 pkt 2",
+      "content": "Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem: art. 69-75 oraz art. 85 ust. 7, które wchodzą w życie z dniem 1 stycznia 1999 r."
+    },
+    {
+      "provision_ref": "art150",
+      "section": "150",
+      "title": "Art. 150",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 1999 r., z wyjątkiem art. 26, art. 128 pkt 2, art. 139 pkt 1 i 10, art. 145 ust. 2 i 4, art. 146 ust. 2 i 4 oraz art. 147 ust. 2 i 3, które wchodzą w życie z dniem ogłoszenia, i art. 34 pkt 1, art. 36 pkt 23, art. 48 pkt 1 i 3, art. 84, art. 97 pkt 1-3, 5-10 i 12-36 oraz art. 139 pkt 9 lit. a), które wchodzą w życie z dniem 1 stycznia 2000 r."
+    },
+    {
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
@@ -25,13 +49,37 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "1. Zawarcie związku małżeńskiego przez obywatela polskiego z osobą, nie będącą obywatelem polskim, nie powoduje zmian w obywatelstwie małżonków. 2. Zmiana obywatelstwa jednego z małżonków nie pociąga za sobą zmiany obywatelstwa drugiego małżonka. Rozdział 2 Nabycie obywatelstwa polskiego"
+      "content": "Zawarcie związku małżeńskiego przez obywatela polskiego z osobą, nie będącą obywatelem polskim, nie powoduje zmian w obywatelstwie małżonków. Zmiana obywatelstwa jednego z małżonków nie pociąga za sobą zmiany obywatelstwa drugiego małżonka."
+    },
+    {
+      "provision_ref": "art3u1",
+      "section": "3",
+      "title": "Art. 3 ust. 1",
+      "content": "Zawarcie związku małżeńskiego przez obywatela polskiego z osobą, nie będącą obywatelem polskim, nie powoduje zmian w obywatelstwie małżonków."
+    },
+    {
+      "provision_ref": "art3u2",
+      "section": "3",
+      "title": "Art. 3 ust. 2",
+      "content": "Zmiana obywatelstwa jednego z małżonków nie pociąga za sobą zmiany obywatelstwa drugiego małżonka."
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "Dziecko nabywa przez urodzenie obywatelstwo polskie, gdy: 1) oboje rodzice są obywatelami polskimi albo 2) jedno z rodziców jest obywatelem polskim, a drugie jest nieznane bądź nieokreślone jest jego obywatelstwo lub nie posiada żadnego obywatelstwa."
+      "content": "Dziecko nabywa przez urodzenie obywatelstwo polskie, gdy: oboje rodzice są obywatelami polskimi albo jedno z rodziców jest obywatelem polskim, a drugie jest nieznane bądź nieokreślone jest jego obywatelstwo lub nie posiada żadnego obywatelstwa."
+    },
+    {
+      "provision_ref": "art4p1",
+      "section": "4",
+      "title": "Art. 4 pkt 1",
+      "content": "Dziecko nabywa przez urodzenie obywatelstwo polskie, gdy: oboje rodzice są obywatelami polskimi albo"
+    },
+    {
+      "provision_ref": "art4p2",
+      "section": "4",
+      "title": "Art. 4 pkt 2",
+      "content": "Dziecko nabywa przez urodzenie obywatelstwo polskie, gdy: jedno z rodziców jest obywatelem polskim, a drugie jest nieznane bądź nieokreślone jest jego obywatelstwo lub nie posiada żadnego obywatelstwa."
     },
     {
       "provision_ref": "art5",
@@ -43,98 +91,398 @@
       "provision_ref": "art6",
       "section": "6",
       "title": "Art. 6",
-      "content": "1. Dziecko rodziców, z których jedno jest obywatelem polskim, drugie zaś obywatelem innego państwa, nabywa przez urodzenie obywatelstwo polskie. Jednakże rodzice w oświadczeniu złożonym zgodnie przed właściwym organem w ciągu trzech miesięcy od dnia urodzenia się dziecka mogą wybrać dla niego obywatelstwo państwa obcego, którego obywatelem jest jedno z rodziców, jeżeli według prawa tego państwa dziecko nabywa jego obywatelstwo. 2. W braku porozumienia między rodzicami każde z nich może zwrócić się w ciągu trzech miesięcy od dnia urodzenia się dziecka o rozstrzygnięcie do sądu. 3. Dziecko, które nabyło obywatelstwo obce zgodnie z ust. 1 lub 2, nabywa obywatelstwo polskie, jeżeli po ukończeniu szesnastu lat, a przed upływem sześciu miesięcy od dnia osiągnięcia pełnoletności złoży odpowiednie oświadczenie przed właściwym organem i organ ten wyda decyzję o przyjęciu oświadczenia."
+      "content": "Dziecko rodziców, z których jedno jest obywatelem polskim, drugie zaś obywatelem innego państwa, nabywa przez urodzenie obywatelstwo polskie. Jednakże rodzice w oświadczeniu złożonym zgodnie przed właściwym organem w ciągu trzech miesięcy od dnia urodzenia się dziecka mogą wybrać dla niego obywatelstwo państwa obcego, którego obywatelem jest jedno z rodziców, jeżeli według prawa tego państwa dziecko nabywa jego obywatelstwo. W braku porozumienia między rodzicami każde z nich może zwrócić się w ciągu trzech miesięcy od dnia urodzenia się dziecka o rozstrzygnięcie do sądu. Dziecko, które nabyło obywatelstwo obce zgodnie z ust. 1 lub 2, nabywa obywatelstwo polskie, jeżeli po ukończeniu szesnastu lat, a przed upływem sześciu miesięcy od dnia osiągnięcia pełnoletności złoży odpowiednie oświadczenie przed właściwym organem i organ ten wyda decyzję o przyjęciu oświadczenia."
+    },
+    {
+      "provision_ref": "art6u1",
+      "section": "6",
+      "title": "Art. 6 ust. 1",
+      "content": "Dziecko rodziców, z których jedno jest obywatelem polskim, drugie zaś obywatelem innego państwa, nabywa przez urodzenie obywatelstwo polskie. Jednakże rodzice w oświadczeniu złożonym zgodnie przed właściwym organem w ciągu trzech miesięcy od dnia urodzenia się dziecka mogą wybrać dla niego obywatelstwo państwa obcego, którego obywatelem jest jedno z rodziców, jeżeli według prawa tego państwa dziecko nabywa jego obywatelstwo."
+    },
+    {
+      "provision_ref": "art6u2",
+      "section": "6",
+      "title": "Art. 6 ust. 2",
+      "content": "W braku porozumienia między rodzicami każde z nich może zwrócić się w ciągu trzech miesięcy od dnia urodzenia się dziecka o rozstrzygnięcie do sądu."
+    },
+    {
+      "provision_ref": "art6u3",
+      "section": "6",
+      "title": "Art. 6 ust. 3",
+      "content": "Dziecko, które nabyło obywatelstwo obce zgodnie z ust. 1 lub 2, nabywa obywatelstwo polskie, jeżeli po ukończeniu szesnastu lat, a przed upływem sześciu miesięcy od dnia osiągnięcia pełnoletności złoży odpowiednie oświadczenie przed właściwym organem i organ ten wyda decyzję o przyjęciu oświadczenia."
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Art. 7",
-      "content": "1. Zmiany w ustaleniu osoby albo obywatelstwa jednego lub obojga rodziców podlegają uwzględnieniu przy określeniu obywatelstwa dziecka, jeżeli nastąpiły przed upływem roku od dnia urodzenia się dziecka. Trzymiesięczny termin określony w art. 6 ust. 1 i 2 liczy się od dnia, w którym zmiana została ustalona. 2. Zmiany w ustaleniu osoby ojca, wynikające z orzeczenia sądu wydanego na skutek powództwa o zaprzeczenie ojcostwa lub o unieważnienie uznania, podlegają uwzględnieniu przy określeniu obywatelstwa dziecka, chyba że osiągnęło ono już pełnoletność. Jeżeli dziecko ukończyło szesnaście lat, zmiana obywatelstwa może nastąpić jedynie za jego zgodą."
+      "content": "Zmiany w ustaleniu osoby albo obywatelstwa jednego lub obojga rodziców podlegają uwzględnieniu przy określeniu obywatelstwa dziecka, jeżeli nastąpiły przed upływem roku od dnia urodzenia się dziecka. Trzymiesięczny termin określony w art. 6 ust. 1 i 2 liczy się od dnia, w którym zmiana została ustalona. Zmiany w ustaleniu osoby ojca, wynikające z orzeczenia sądu wydanego na skutek powództwa o zaprzeczenie ojcostwa lub o unieważnienie uznania, podlegają uwzględnieniu przy określeniu obywatelstwa dziecka, chyba że osiągnęło ono już pełnoletność. Jeżeli dziecko ukończyło szesnaście lat, zmiana obywatelstwa może nastąpić jedynie za jego zgodą."
+    },
+    {
+      "provision_ref": "art7u1",
+      "section": "7",
+      "title": "Art. 7 ust. 1",
+      "content": "Zmiany w ustaleniu osoby albo obywatelstwa jednego lub obojga rodziców podlegają uwzględnieniu przy określeniu obywatelstwa dziecka, jeżeli nastąpiły przed upływem roku od dnia urodzenia się dziecka. Trzymiesięczny termin określony w art. 6 ust. 1 i 2 liczy się od dnia, w którym zmiana została ustalona."
+    },
+    {
+      "provision_ref": "art7u2",
+      "section": "7",
+      "title": "Art. 7 ust. 2",
+      "content": "Zmiany w ustaleniu osoby ojca, wynikające z orzeczenia sądu wydanego na skutek powództwa o zaprzeczenie ojcostwa lub o unieważnienie uznania, podlegają uwzględnieniu przy określeniu obywatelstwa dziecka, chyba że osiągnęło ono już pełnoletność. Jeżeli dziecko ukończyło szesnaście lat, zmiana obywatelstwa może nastąpić jedynie za jego zgodą."
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Art. 8",
-      "content": "1. Cudzoziemcowi można na jego wniosek nadać obywatelstwo polskie, jeżeli zamieszkuje w Polsce co najmniej pięć lat. 2. W przypadkach szczególnie uzasadnionych można cudzoziemcowi nadać na jego wniosek obywatelstwo polskie, chociażby nie odpowiadał on warunkom określonym w ust. 1. 3. Nadanie obywatelstwa polskiego może być uzależnione od złożenia dowodu utraty lub zwolnienia z obywatelstwa obcego. 4. Nadanie obywatelstwa polskiego obojgu rodzicom rozciąga się na dzieci pozostające pod ich władzą rodzicielską. 5. Nadanie obywatelstwa polskiego tylko jednemu z rodziców rozciąga się na dzieci, jeżeli: 1) pozostają wyłącznie pod jego władzą rodzicielską albo 2) drugie z rodziców jest obywatelem polskim lub 3) drugie z rodziców wyraziło zgodę przed właściwym organem na nabycie przez dziecko obywatelstwa polskiego. 6. Dzieciom pozostającym pod opieką obywatelstwo polskie może być nadane jedynie za zgodą opiekuna wyrażoną w odpowiednim oświadczeniu złożonym przed właściwym organem po uprzednim zadośćuczynieniu wymogom właściwego prawa obcego. 7. Nadanie lub rozciągnięcie nadania obywatelstwa polskiego na dzieci, które ukończyły szesnaście lat, następuje jedynie za ich zgodą."
+      "content": "Cudzoziemcowi można na jego wniosek nadać obywatelstwo polskie, jeżeli zamieszkuje w Polsce na podstawie zezwolenia na osiedlenie się, co najmniej pięć lat. W przypadkach szczególnie uzasadnionych można cudzoziemcowi nadać na jego wniosek obywatelstwo polskie, chociażby nie odpowiadał on warunkom określonym w ust. 1. Nadanie obywatelstwa polskiego może być uzależnione od złożenia dowodu utraty lub zwolnienia z obywatelstwa obcego. Nadanie obywatelstwa polskiego obojgu rodzicom rozciąga się na dzieci pozostające pod ich władzą rodzicielską. Nadanie obywatelstwa polskiego tylko jednemu z rodziców rozciąga się na dzieci, jeżeli: pozostają wyłącznie pod jego władzą rodzicielską albo drugie z rodziców jest obywatelem polskim lub drugie z rodziców wyraziło zgodę przed właściwym organem na nabycie przez dziecko obywatelstwa polskiego. Dzieciom pozostającym pod opieką obywatelstwo polskie może być nadane jedynie za zgodą opiekuna wyrażoną w odpowiednim oświadczeniu złożonym przed właściwym organem po uprzednim zadośćuczynieniu wymogom właściwego prawa obcego. Nadanie lub rozciągnięcie nadania obywatelstwa polskiego na dzieci, które ukończyły szesnaście lat, następuje jedynie za ich zgodą."
+    },
+    {
+      "provision_ref": "art8u1",
+      "section": "8",
+      "title": "Art. 8 ust. 1",
+      "content": "Cudzoziemcowi można na jego wniosek nadać obywatelstwo polskie, jeżeli zamieszkuje w Polsce na podstawie zezwolenia na osiedlenie się, co najmniej pięć lat."
+    },
+    {
+      "provision_ref": "art8u2",
+      "section": "8",
+      "title": "Art. 8 ust. 2",
+      "content": "W przypadkach szczególnie uzasadnionych można cudzoziemcowi nadać na jego wniosek obywatelstwo polskie, chociażby nie odpowiadał on warunkom określonym w ust. 1."
+    },
+    {
+      "provision_ref": "art8u3",
+      "section": "8",
+      "title": "Art. 8 ust. 3",
+      "content": "Nadanie obywatelstwa polskiego może być uzależnione od złożenia dowodu utraty lub zwolnienia z obywatelstwa obcego."
+    },
+    {
+      "provision_ref": "art8u4",
+      "section": "8",
+      "title": "Art. 8 ust. 4",
+      "content": "Nadanie obywatelstwa polskiego obojgu rodzicom rozciąga się na dzieci pozostające pod ich władzą rodzicielską."
+    },
+    {
+      "provision_ref": "art8u5p1",
+      "section": "8",
+      "title": "Art. 8 ust. 5 pkt 1",
+      "content": "Nadanie obywatelstwa polskiego tylko jednemu z rodziców rozciąga się na dzieci, jeżeli: pozostają wyłącznie pod jego władzą rodzicielską albo"
+    },
+    {
+      "provision_ref": "art8u5p2",
+      "section": "8",
+      "title": "Art. 8 ust. 5 pkt 2",
+      "content": "Nadanie obywatelstwa polskiego tylko jednemu z rodziców rozciąga się na dzieci, jeżeli: drugie z rodziców jest obywatelem polskim lub"
+    },
+    {
+      "provision_ref": "art8u5p3",
+      "section": "8",
+      "title": "Art. 8 ust. 5 pkt 3",
+      "content": "Nadanie obywatelstwa polskiego tylko jednemu z rodziców rozciąga się na dzieci, jeżeli: drugie z rodziców wyraziło zgodę przed właściwym organem na nabycie przez dziecko obywatelstwa polskiego."
+    },
+    {
+      "provision_ref": "art8u6",
+      "section": "8",
+      "title": "Art. 8 ust. 6",
+      "content": "Dzieciom pozostającym pod opieką obywatelstwo polskie może być nadane jedynie za zgodą opiekuna wyrażoną w odpowiednim oświadczeniu złożonym przed właściwym organem po uprzednim zadośćuczynieniu wymogom właściwego prawa obcego."
+    },
+    {
+      "provision_ref": "art8u7",
+      "section": "8",
+      "title": "Art. 8 ust. 7",
+      "content": "Nadanie lub rozciągnięcie nadania obywatelstwa polskiego na dzieci, które ukończyły szesnaście lat, następuje jedynie za ich zgodą."
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Art. 9",
-      "content": "1. Może być uznana za obywatela polskiego osoba o nieokreślonym obywatelstwie lub nie posiadająca żadnego obywatelstwa, jeżeli zamieszkuje w Polsce co najmniej pięć lat. 2. Uznanie za obywatela polskiego następuje na wniosek osoby zainteresowanej. 3. Uznanie za obywatela polskiego rozciąga się na dzieci uznanego, jeżeli zamieszkują w Polsce. 4. Przepisy art. 8 ust. 4-7 stosuje się odpowiednio."
+      "content": "Może być uznana za obywatela polskiego osoba o nieokreślonym obywatelstwie lub nie posiadająca żadnego obywatelstwa, jeżeli zamieszkuje w Polsce na podstawie zezwolenia na osiedlenie się, co najmniej pięć lat. Uznanie za obywatela polskiego następuje na wniosek osoby zainteresowanej. Uznanie za obywatela polskiego rozciąga się na dzieci uznanego, jeżeli zamieszkują w Polsce. Przepisy art. 8 ust. 4-7 stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "art9u1",
+      "section": "9",
+      "title": "Art. 9 ust. 1",
+      "content": "Może być uznana za obywatela polskiego osoba o nieokreślonym obywatelstwie lub nie posiadająca żadnego obywatelstwa, jeżeli zamieszkuje w Polsce na podstawie zezwolenia na osiedlenie się, co najmniej pięć lat."
+    },
+    {
+      "provision_ref": "art9u2",
+      "section": "9",
+      "title": "Art. 9 ust. 2",
+      "content": "Uznanie za obywatela polskiego następuje na wniosek osoby zainteresowanej."
+    },
+    {
+      "provision_ref": "art9u3",
+      "section": "9",
+      "title": "Art. 9 ust. 3",
+      "content": "Uznanie za obywatela polskiego rozciąga się na dzieci uznanego, jeżeli zamieszkują w Polsce."
+    },
+    {
+      "provision_ref": "art9u4",
+      "section": "9",
+      "title": "Art. 9 ust. 4",
+      "content": "Przepisy art. 8 ust. 4-7 stosuje się odpowiednio."
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Art. 10",
-      "content": "1. Cudzoziemka, która zawarła związek małżeński z obywatelem polskim, nabywa obywatelstwo polskie, jeżeli w ciągu trzech miesięcy od dnia zawarcia małżeństwa złoży odpowiednie oświadczenie przed właściwym organem i organ ten wyda decyzję o przyjęciu oświadczenia. 2. Przyjęcie oświadczenia może być uzależnione od złożenia dowodu utraty lub zwolnienia z obywatelstwa obcego."
+      "content": "Cudzoziemiec, któremu udzielono zezwolenia na osiedlenie się na terytorium Rzeczypospolitej Polskiej i który pozostaje co najmniej 3 lata w związku małżeńskim z osobą posiadającą obywatelstwo polskie, nabywa obywatelstwo polskie, jeżeli w terminie określonym w ust. 1a złoży odpowiednie oświadczenie przed właściwym organem i organ ten wyda decyzję o przyjęciu oświadczenia. Termin do złożenia oświadczenia woli, o którym mowa w ust. 1, wynosi 6 miesięcy od dnia uzyskania przez cudzoziemca zezwolenia na osiedlenie się albo 3 lata i 6 miesięcy od dnia zawarcia związku małżeńskiego z osobą posiadającą obywatelstwo polskie. Przyjęcie oświadczenia może być uzależnione od złożenia dowodu utraty lub zwolnienia z obywatelstwa obcego."
+    },
+    {
+      "provision_ref": "art10u1",
+      "section": "10",
+      "title": "Art. 10 ust. 1",
+      "content": "Cudzoziemiec, któremu udzielono zezwolenia na osiedlenie się na terytorium Rzeczypospolitej Polskiej i który pozostaje co najmniej 3 lata w związku małżeńskim z osobą posiadającą obywatelstwo polskie, nabywa obywatelstwo polskie, jeżeli w terminie określonym w ust. 1a złoży odpowiednie oświadczenie przed właściwym organem i organ ten wyda decyzję o przyjęciu oświadczenia."
+    },
+    {
+      "provision_ref": "art10u1a",
+      "section": "10",
+      "title": "Art. 10 ust. 1a",
+      "content": "Termin do złożenia oświadczenia woli, o którym mowa w ust. 1, wynosi 6 miesięcy od dnia uzyskania przez cudzoziemca zezwolenia na osiedlenie się albo 3 lata i 6 miesięcy od dnia zawarcia związku małżeńskiego z osobą posiadającą obywatelstwo polskie."
+    },
+    {
+      "provision_ref": "art10u2",
+      "section": "10",
+      "title": "Art. 10 ust. 2",
+      "content": "Przyjęcie oświadczenia może być uzależnione od złożenia dowodu utraty lub zwolnienia z obywatelstwa obcego."
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Art. 11",
-      "content": "1. Kobieta, która utraciła obywatelstwo polskie przez nabycie obywatelstwa obcego wskutek zawarcia małżeństwa z cudzoziemcem lub w związku z zawarciem takiego małżeństwa, odzyskuje obywatelstwo polskie, jeżeli po ustaniu tego małżeństwa lub jego unieważnieniu złoży odpowiednie oświadczenie przed właściwym organem i organ ten wyda decyzję o przyjęciu oświadczenia. 2. Przyjęcie oświadczenia może być uzależnione od złożenia dowodu utraty lub zwolnienia z obywatelstwa obcego."
+      "content": "Osoba, która utraciła obywatelstwo polskie przez nabycie obywatelstwa obcego wskutek zawarcia małżeństwa z cudzoziemcem lub w związku z zawarciem takiego małżeństwa, odzyskuje obywatelstwo polskie, jeżeli po ustaniu tego małżeństwa lub jego unieważnieniu złoży odpowiednie oświadczenie przed właściwym organem i organ ten wyda decyzję o przyjęciu oświadczenia. Przyjęcie oświadczenia może być uzależnione od złożenia dowodu utraty lub zwolnienia z obywatelstwa obcego."
+    },
+    {
+      "provision_ref": "art11u1",
+      "section": "11",
+      "title": "Art. 11 ust. 1",
+      "content": "Osoba, która utraciła obywatelstwo polskie przez nabycie obywatelstwa obcego wskutek zawarcia małżeństwa z cudzoziemcem lub w związku z zawarciem takiego małżeństwa, odzyskuje obywatelstwo polskie, jeżeli po ustaniu tego małżeństwa lub jego unieważnieniu złoży odpowiednie oświadczenie przed właściwym organem i organ ten wyda decyzję o przyjęciu oświadczenia."
+    },
+    {
+      "provision_ref": "art11u2",
+      "section": "11",
+      "title": "Art. 11 ust. 2",
+      "content": "Przyjęcie oświadczenia może być uzależnione od złożenia dowodu utraty lub zwolnienia z obywatelstwa obcego."
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Art. 12",
-      "content": "1. Osoby przybywające do Polski jako repatrianci nabywają obywatelstwo polskie z mocy prawa. 2. W rozumieniu niniejszej ustawy repatriantem jest cudzoziemiec narodowości lub pochodzenia polskiego, który przybył do Polski z zamiarem osiedlenia się na stałe, uzyskując na to zezwolenie właściwego organu polskiego. 3. Przez repatriację nabywają obywatelstwo polskie również dzieci repatriantów, pozostające pod ich władzą rodzicielską. Jednakże w przypadku, gdy repatriantem jest tylko jedno z rodziców, dziecko nabywa obywatelstwo polskie jedynie za zgodą drugiego z rodziców wyrażoną w odpowiednim oświadczeniu złożonym przed właściwym organem polskim. 4. Dzieci pozostające pod opieką nabywają obywatelstwo polskie przez repatriację, jeżeli dokonały jej za zgodą opiekuna wyrażoną w odpowiednim oświadczeniu złożonym przed właściwym organem polskim. 5. Nabycie obywatelstwa polskiego w myśl ust. 3 i 4 przez dziecko, które ukończyło szesnaście lat, może nastąpić jedynie za jego zgodą. 6. Osoba, która utraciła obywatelstwo polskie nabyte przez repatriację, nie może w tym trybie nabyć go ponownie. Rozdział 3 Utrata obywatelstwa polskiego"
+      "content": "Osoby przybywające do Polski jako repatrianci nabywają obywatelstwo polskie z mocy prawa. Repatriantem jest osoba, która przybyła do Polski na podstawie wizy repatriacyjnej. Tryb i zasady udzielania wizy repatriacyjnej określają przepisy ustawy z dnia 25 czerwca 1997 r. o cudzoziemcach . Przez repatriację nabywają obywatelstwo polskie również dzieci repatriantów, pozostające pod ich władzą rodzicielską. Jednakże w przypadku, gdy repatriantem jest tylko jedno z rodziców, dziecko nabywa obywatelstwo polskie jedynie za zgodą drugiego z rodziców wyrażoną w odpowiednim oświadczeniu złożonym przed właściwym organem polskim. Dzieci pozostające pod opieką nabywają obywatelstwo polskie przez repatriację, jeżeli dokonały jej za zgodą opiekuna wyrażoną w odpowiednim oświadczeniu złożonym przed właściwym organem polskim. Nabycie obywatelstwa polskiego w myśl ust. 3 i 4 przez dziecko, które ukończyło szesnaście lat, może nastąpić jedynie za jego zgodą. Osoba, która utraciła obywatelstwo polskie nabyte przez repatriację, nie może w tym trybie nabyć go ponownie."
+    },
+    {
+      "provision_ref": "art12u1",
+      "section": "12",
+      "title": "Art. 12 ust. 1",
+      "content": "Osoby przybywające do Polski jako repatrianci nabywają obywatelstwo polskie z mocy prawa."
+    },
+    {
+      "provision_ref": "art12u2",
+      "section": "12",
+      "title": "Art. 12 ust. 2",
+      "content": "Repatriantem jest osoba, która przybyła do Polski na podstawie wizy repatriacyjnej. Tryb i zasady udzielania wizy repatriacyjnej określają przepisy ustawy z dnia 25 czerwca 1997 r. o cudzoziemcach ."
+    },
+    {
+      "provision_ref": "art12u3",
+      "section": "12",
+      "title": "Art. 12 ust. 3",
+      "content": "Przez repatriację nabywają obywatelstwo polskie również dzieci repatriantów, pozostające pod ich władzą rodzicielską. Jednakże w przypadku, gdy repatriantem jest tylko jedno z rodziców, dziecko nabywa obywatelstwo polskie jedynie za zgodą drugiego z rodziców wyrażoną w odpowiednim oświadczeniu złożonym przed właściwym organem polskim."
+    },
+    {
+      "provision_ref": "art12u4",
+      "section": "12",
+      "title": "Art. 12 ust. 4",
+      "content": "Dzieci pozostające pod opieką nabywają obywatelstwo polskie przez repatriację, jeżeli dokonały jej za zgodą opiekuna wyrażoną w odpowiednim oświadczeniu złożonym przed właściwym organem polskim."
+    },
+    {
+      "provision_ref": "art12u5",
+      "section": "12",
+      "title": "Art. 12 ust. 5",
+      "content": "Nabycie obywatelstwa polskiego w myśl ust. 3 i 4 przez dziecko, które ukończyło szesnaście lat, może nastąpić jedynie za jego zgodą."
+    },
+    {
+      "provision_ref": "art12u6",
+      "section": "12",
+      "title": "Art. 12 ust. 6",
+      "content": "Osoba, która utraciła obywatelstwo polskie nabyte przez repatriację, nie może w tym trybie nabyć go ponownie."
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Art. 13",
-      "content": "1. Z zastrzeżeniem wyjątków w ustawie przewidzianych obywatel polski może nabyć obywatelstwo obce jedynie za zezwoleniem właściwego organu polskiego na zmianę obywatelstwa. Nabycie obywatelstwa obcego pociąga za sobą utratę obywatelstwa polskiego. 2. Zezwolenie na zmianę obywatelstwa udzielone rodzicom rozciąga się na dzieci pozostające pod ich władzą rodzicielską. 3. Zezwolenie na zmianę obywatelstwa udzielone jednemu z rodziców rozciąga się na dzieci pozostające pod jego władzą rodzicielską, gdy drugiemu z rodziców nie służy władza rodzicielska lub nie jest ono obywatelem polskim albo - będąc obywatelem polskim - wyrazi przed właściwym organem zgodę na zmianę obywatelstwa dzieci. 4. W przypadku gdy drugie z rodziców będąc obywatelem polskim sprzeciwia się zmianie obywatelstwa dzieci lub gdy porozumienie się rodziców napotyka trudne do przezwyciężenia przeszkody, każde z rodziców może zwrócić się o rozstrzygnięcie do sądu. 5. Zezwolenie na zmianę obywatelstwa rozciąga się na dzieci, które ukończyły szesnaście lat, jedynie za ich zgodą."
+      "content": "Obywatel polski traci obywatelstwo polskie na swój wniosek po uzyskaniu zgody Prezydenta Rzeczypospolitej Polskiej na zrzeczenie się obywatelstwa polskiego. Zgoda na zrzeczenie się obywatelstwa udzielona rodzicom rozciąga się na dzieci pozostające pod ich władzą rodzicielską. Zgoda na zrzeczenie się obywatelstwa polskiego udzielona jednemu z rodziców rozciąga się na dzieci pozostające pod jego władzą rodzicielską, gdy drugiemu z rodziców nie przysługuje władza rodzicielska lub nie jest on obywatelem polskim albo gdy jest obywatelem polskim i wyrazi przed właściwym organem zgodę na utratę obywatelstwa polskiego przez dzieci. W przypadku gdy drugie z rodziców jest obywatelem polskim i sprzeciwia się rozciągnięciu na dzieci zgody na zrzeczenie się obywatelstwa polskiego udzielonej pierwszemu z rodziców lub gdy porozumienie napotyka trudne do przezwyciężenia przeszkody, każde z rodziców może zwrócić się o rozstrzygnięcie do sądu. Zgoda na zrzeczenie się obywatelstwa rozciąga się na dzieci, które ukończyły szesnaście lat, jedynie za ich zgodą."
+    },
+    {
+      "provision_ref": "art13u1",
+      "section": "13",
+      "title": "Art. 13 ust. 1",
+      "content": "Obywatel polski traci obywatelstwo polskie na swój wniosek po uzyskaniu zgody Prezydenta Rzeczypospolitej Polskiej na zrzeczenie się obywatelstwa polskiego."
+    },
+    {
+      "provision_ref": "art13u2",
+      "section": "13",
+      "title": "Art. 13 ust. 2",
+      "content": "Zgoda na zrzeczenie się obywatelstwa udzielona rodzicom rozciąga się na dzieci pozostające pod ich władzą rodzicielską."
+    },
+    {
+      "provision_ref": "art13u3",
+      "section": "13",
+      "title": "Art. 13 ust. 3",
+      "content": "Zgoda na zrzeczenie się obywatelstwa polskiego udzielona jednemu z rodziców rozciąga się na dzieci pozostające pod jego władzą rodzicielską, gdy drugiemu z rodziców nie przysługuje władza rodzicielska lub nie jest on obywatelem polskim albo gdy jest obywatelem polskim i wyrazi przed właściwym organem zgodę na utratę obywatelstwa polskiego przez dzieci."
+    },
+    {
+      "provision_ref": "art13u4",
+      "section": "13",
+      "title": "Art. 13 ust. 4",
+      "content": "W przypadku gdy drugie z rodziców jest obywatelem polskim i sprzeciwia się rozciągnięciu na dzieci zgody na zrzeczenie się obywatelstwa polskiego udzielonej pierwszemu z rodziców lub gdy porozumienie napotyka trudne do przezwyciężenia przeszkody, każde z rodziców może zwrócić się o rozstrzygnięcie do sądu."
+    },
+    {
+      "provision_ref": "art13u5",
+      "section": "13",
+      "title": "Art. 13 ust. 5",
+      "content": "Zgoda na zrzeczenie się obywatelstwa rozciąga się na dzieci, które ukończyły szesnaście lat, jedynie za ich zgodą."
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Art. 14",
-      "content": "Obywatelka polska, która: 1) w myśl prawa obcego nabyła obywatelstwo obce wskutek zawarcia małżeństwa z cudzoziemcem lub w związku z zawarciem takiego małżeństwa bądź 2) posiadając obywatelstwo obce nabyła wskutek zawarcia małżeństwa z obywatelem polskim lub w związku z zawarciem takiego małżeństwa obywatelstwo polskie, po czym małżeństwo to ustało lub zostało unieważnione i osoba ta w myśl prawa obcego posiada obywatelstwo obce, traci obywatelstwo polskie, jeżeli złoży odpowiednie oświadczenie przed właściwym organem polskim i organ ten wyda decyzję o przyjęciu oświadczenia."
+      "content": "(skreślony). 10) Przez art. 19 pkt 4 ustawy powołanej w przypisie 2."
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Art. 15",
-      "content": "1. Obywatel polski, który przebywa za granicą, może być pozbawiony obywatelstwa polskiego, jeżeli: 1) naruszył obowiązek wierności wobec Polskiej Rzeczypospolitej Ludowej, 2) działał na szkodę żywotnych interesów Polskiej Rzeczypospolitej Ludowej, 3) nielegalnie opuścił obszar Polskiej Rzeczypospolitej Ludowej po dniu 9 maja 1945 r., 4) odmówił powrotu do Polski na wezwanie właściwego organu państwowego, 5) uchyla się od wykonania obowiązku wojskowego, przewidzianego przez prawo polskie, 6) skazany został za granicą za przestępstwo stanowiące zbrodnię pospolitą również w rozumieniu prawa polskiego lub jest recydywistą. 2. W razie niemożności doręczenia orzeczenia o pozbawieniu obywatelstwa polskiego do rąk osoby, której to orzeczenie dotyczy, lub jeżeli odmawia ona przyjęcia takiego orzeczenia, wywieszenie orzeczenia o pozbawieniu obywatelstwa polskiego w lokalu właściwego polskiego urzędu konsularnego w ciągu dni czternastu zastępuje jego doręczenie. Rozdział 4 Właściwość organów"
+      "content": "(skreślony). 10) Przez art. 19 pkt 4 ustawy powołanej w przypisie 2."
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Art. 16",
-      "content": "1. O nadaniu, zezwoleniu na zmianę i pozbawieniu obywatelstwa polskiego orzeka Rada Państwa. 2. Zezwolenie na zmianę obywatelstwa polskiego następuje na wniosek Ministra Spraw Wewnętrznych, a pozbawienie obywatelstwa polskiego - na wniosek Ministra Spraw Zagranicznych. 3. Rada Państwa może upoważnić Ministra Spraw Zagranicznych do udzielania zezwoleń na zmianę obywatelstwa polskiego osobom zamieszkałym za granicą, jak również wyrazić zgodę na przekazanie przez Ministra Spraw Zagranicznych decyzji w tych sprawach kierownikom niektórych urzędów konsularnych. 4. Podania o nadanie obywatelstwa polskiego oraz o zezwolenie na zmianę obywatelstwa polskiego osoby zamieszkałe w Polsce wnoszą do organów do spraw wewnętrznych prezydiów powiatowych rad narodowych, a zamieszkałe za granicą - do polskich urzędów konsularnych."
+      "content": "Prezydent Rzeczypospolitej Polskiej nadaje obywatelstwo polskie i wyraża zgodę na zrzeczenie się obywatelstwa polskiego. Podania do Prezydenta Rzeczypospolitej Polskiej o nadanie obywatelstwa polskiego oraz o wyrażenie zgody na zrzeczenie się obywatelstwa polskiego osoby zamieszkałe w Polsce wnoszą za pośrednictwem starosty, a zamieszkałe za granicą - za pośrednictwem konsula Rzeczypospolitej Polskiej."
+    },
+    {
+      "provision_ref": "art16u1",
+      "section": "16",
+      "title": "Art. 16 ust. 1",
+      "content": "Prezydent Rzeczypospolitej Polskiej nadaje obywatelstwo polskie i wyraża zgodę na zrzeczenie się obywatelstwa polskiego."
+    },
+    {
+      "provision_ref": "art16u2",
+      "section": "16",
+      "title": "Art. 16 ust. 2",
+      "content": "Podania do Prezydenta Rzeczypospolitej Polskiej o nadanie obywatelstwa polskiego oraz o wyrażenie zgody na zrzeczenie się obywatelstwa polskiego osoby zamieszkałe w Polsce wnoszą za pośrednictwem starosty, a zamieszkałe za granicą - za pośrednictwem konsula Rzeczypospolitej Polskiej."
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Art. 17",
-      "content": "1. O uznaniu za obywatela polskiego orzeka organ do spraw wewnętrznych prezydium wojewódzkiej rady narodowej. 2. W sprawach określonych w art. 6 ust. 3, art. 10, 11 i 14 orzekają: 1) organ do spraw wewnętrznych prezydium wojewódzkiej rady narodowej - w stosunku do osób zamieszkałych w Polsce, 2) polski urząd konsularny - w stosunku do osób zamieszkałych za granicą. 3. Oświadczenia o wyborze obywatelstwa obcego (art. 6 ust. 1) oraz o wyrażeniu zgody na nabycie lub zmianę przez dzieci obywatelstwa polskiego (art. 8 ust. 5 pkt 3 i ust. 6, art. 12 ust. 3 i 4 oraz art. 13 ust. 3) przyjmuje: 1) organ do spraw wewnętrznych prezydium powiatowej rady narodowej od osób zamieszkałych w Polsce, 2) polski urząd konsularny od osób zamieszkałych za granicą. 4. Posiadanie i utratę obywatelstwa polskiego stwierdza organ do spraw wewnętrznych prezydium powiatowej rady narodowej. 5. W sprawach przekazanych do rozstrzygnięcia sądowi (art. 6 ust. 2, art. 13 ust. 4) orzeka sąd polski. Rzeczowo właściwym jest sąd powiatowy, działający jako władza opiekuńcza. Miejscową właściwość sądu określa się według miejsca zamieszkania dziecka w Polsce, a jeśli nie ma ono miejsca zamieszkania w Polsce - według miejsca jego pobytu w Polsce. W braku tych podstaw właściwym jest Sąd Powiatowy dla m. st. Warszawy."
+      "content": "Decyzję w sprawie uznania za obywatela polskiego wydaje wojewoda, o ile przepisy innych ustaw nie stanowią inaczej. Decyzje w sprawach określonych w art. 6 ust. 3 oraz w art. 10 i 11 wydają: właściwy miejscowo starosta - w stosunku do osób zamieszkałych w Polsce, konsul Rzeczypospolitej Polskiej - w stosunku do osób zamieszkałych za granicą. Oświadczenie o wyborze obywatelstwa obcego, o którym mowa w art. 6 ust. 1, i o wyrażeniu zgody na nabycie obywatelstwa polskiego, o którym mowa w art. 8 ust. 5 pkt 3 i ust. 6 oraz w art. 12 ust. 3 i 4, a także o wyrażeniu zgody na utratę przez dzieci obywatelstwa polskiego, o którym mowa w art. 13 ust. 3, przyjmuje: właściwy miejscowo starosta - od osób zamieszkałych w Polsce, konsul Rzeczypospolitej Polskiej - od osób zamieszkałych za granicą. Posiadanie i utratę obywatelstwa polskiego stwierdza wojewoda. Odmowa stwierdzenia posiadania obywatelstwa polskiego lub jego utraty następuje w drodze decyzji administracyjnej. W sprawach, o których mowa w art. 6 ust. 2 i w art. 13 ust. 4, przekazanych do rozstrzygnięcia sądowi, orzeka sąd polski. Rzeczowo właściwym jest sąd rejonowy, działający jako władza opiekuńcza. Miejscową właściwość sądu określa się według miejsca zamieszkania dziecka w Polsce, a jeżeli nie ma ono miejsca zamieszkania w Polsce - według miejsca jego pobytu w Polsce. W razie braku tych podstaw właściwym jest Sąd Rejonowy dla m.st. Warszawy."
+    },
+    {
+      "provision_ref": "art17u1",
+      "section": "17",
+      "title": "Art. 17 ust. 1",
+      "content": "Decyzję w sprawie uznania za obywatela polskiego wydaje wojewoda, o ile przepisy innych ustaw nie stanowią inaczej."
+    },
+    {
+      "provision_ref": "art17u2p1",
+      "section": "17",
+      "title": "Art. 17 ust. 2 pkt 1",
+      "content": "Decyzje w sprawach określonych w art. 6 ust. 3 oraz w art. 10 i 11 wydają: właściwy miejscowo starosta - w stosunku do osób zamieszkałych w Polsce,"
+    },
+    {
+      "provision_ref": "art17u2p2",
+      "section": "17",
+      "title": "Art. 17 ust. 2 pkt 2",
+      "content": "Decyzje w sprawach określonych w art. 6 ust. 3 oraz w art. 10 i 11 wydają: konsul Rzeczypospolitej Polskiej - w stosunku do osób zamieszkałych za granicą."
+    },
+    {
+      "provision_ref": "art17u3p1",
+      "section": "17",
+      "title": "Art. 17 ust. 3 pkt 1",
+      "content": "Oświadczenie o wyborze obywatelstwa obcego, o którym mowa w art. 6 ust. 1, i o wyrażeniu zgody na nabycie obywatelstwa polskiego, o którym mowa w art. 8 ust. 5 pkt 3 i ust. 6 oraz w art. 12 ust. 3 i 4, a także o wyrażeniu zgody na utratę przez dzieci obywatelstwa polskiego, o którym mowa w art. 13 ust. 3, przyjmuje: właściwy miejscowo starosta - od osób zamieszkałych w Polsce,"
+    },
+    {
+      "provision_ref": "art17u3p2",
+      "section": "17",
+      "title": "Art. 17 ust. 3 pkt 2",
+      "content": "Oświadczenie o wyborze obywatelstwa obcego, o którym mowa w art. 6 ust. 1, i o wyrażeniu zgody na nabycie obywatelstwa polskiego, o którym mowa w art. 8 ust. 5 pkt 3 i ust. 6 oraz w art. 12 ust. 3 i 4, a także o wyrażeniu zgody na utratę przez dzieci obywatelstwa polskiego, o którym mowa w art. 13 ust. 3, przyjmuje: konsul Rzeczypospolitej Polskiej - od osób zamieszkałych za granicą."
+    },
+    {
+      "provision_ref": "art17u4",
+      "section": "17",
+      "title": "Art. 17 ust. 4",
+      "content": "Posiadanie i utratę obywatelstwa polskiego stwierdza wojewoda. Odmowa stwierdzenia posiadania obywatelstwa polskiego lub jego utraty następuje w drodze decyzji administracyjnej."
+    },
+    {
+      "provision_ref": "art17u5",
+      "section": "17",
+      "title": "Art. 17 ust. 5",
+      "content": "W sprawach, o których mowa w art. 6 ust. 2 i w art. 13 ust. 4, przekazanych do rozstrzygnięcia sądowi, orzeka sąd polski. Rzeczowo właściwym jest sąd rejonowy, działający jako władza opiekuńcza. Miejscową właściwość sądu określa się według miejsca zamieszkania dziecka w Polsce, a jeżeli nie ma ono miejsca zamieszkania w Polsce - według miejsca jego pobytu w Polsce. W razie braku tych podstaw właściwym jest Sąd Rejonowy dla m.st. Warszawy."
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Art. 18",
-      "content": "1. O miejscowej właściwości organu do spraw wewnętrznych prezydium rady narodowej stanowi kolejno: miejsce zamieszkania osoby, której postępowanie ma dotyczyć, miejsce jej pobytu, wreszcie miejsce jej ostatniego zamieszkania lub pobytu. W braku którejkolwiek z tych podstaw właściwy jest organ do spraw wewnętrznych Prezydium Rady Narodowej m. st. Warszawy, gdy orzekanie należy do organu stopnia wojewódzkiego (art. 17 ust. 1 i ust. 2 pkt 1) bądź organ do spraw wewnętrznych Prezydium Dzielnicowej Rady Narodowej Warszawa-Śródmieście, gdy orzekanie należy do organu stopnia powiatowego (art. 17 ust. 3 pkt 1 i ust. 4). 2. O właściwości miejscowej urzędu konsularnego (art. 17 ust. 2 pkt 2 i ust. 3 pkt 2) stanowi miejsce zamieszkania osoby, której postępowanie ma dotyczyć, a w braku miejsca zamieszkania - miejsce pobytu. 3. Przepisy niniejszej ustawy dotyczące organów do spraw wewnętrznych prezydiów wojewódzkich rad narodowych stosuje się odpowiednio do organów do spraw wewnętrznych prezydiów rad narodowych miast wyłączonych z województw, a przepisy dotyczące organów do spraw wewnętrznych prezydiów powiatowych rad narodowych - do organów do spraw wewnętrznych prezydiów rad narodowych miast stanowiących powiaty i dzielnicowych rad narodowych miast wyłączonych z województw. Rozdział 5 Przepisy przejściowe i końcowe"
+      "content": "O właściwości miejscowej wojewody - w sprawach określonych w art. 17 ust. 4 - stanowią kolejno: miejsce zamieszkania osoby, której postępowanie ma dotyczyć, miejsce jej pobytu, miejsce jej ostatniego zamieszkania lub pobytu. W razie braku tych podstaw, właściwy jest wojewoda warszawski. O właściwości miejscowej starosty w sprawach określonych w art. 16 ust. 2 oraz w art. 17 w ust. 2 pkt 1 i w ust. 3 pkt 1 stanowią kolejno: miejsce zamieszkania osoby, której postępowanie ma dotyczyć, miejsce jej pobytu, miejsce jej ostatniego zamieszkania lub pobytu. W razie braku tych podstaw właściwy jest Prezydent m.st. Warszawy jako organ wykonawczy gminy Warszawa-Centrum 12) Stosownie do art. 1 pkt 3 ustawy z dnia 18 marca 1999 r. o zmianie ustawy o ustroju miasta stołecznego Warszawy (Dz. U. Nr 92, poz. 1044), która weszła w życie z dniem 17 listopada 1999 r., Prezydent m.st. Warszawy nie jest organem wykonawczym gminy Warszawa-Centrum. ."
+    },
+    {
+      "provision_ref": "art18u1",
+      "section": "18",
+      "title": "Art. 18 ust. 1",
+      "content": "O właściwości miejscowej wojewody - w sprawach określonych w art. 17 ust. 4 - stanowią kolejno: miejsce zamieszkania osoby, której postępowanie ma dotyczyć, miejsce jej pobytu, miejsce jej ostatniego zamieszkania lub pobytu. W razie braku tych podstaw, właściwy jest wojewoda warszawski."
+    },
+    {
+      "provision_ref": "art18u2",
+      "section": "18",
+      "title": "Art. 18 ust. 2",
+      "content": "O właściwości miejscowej starosty w sprawach określonych w art. 16 ust. 2 oraz w art. 17 w ust. 2 pkt 1 i w ust. 3 pkt 1 stanowią kolejno: miejsce zamieszkania osoby, której postępowanie ma dotyczyć, miejsce jej pobytu, miejsce jej ostatniego zamieszkania lub pobytu. W razie braku tych podstaw właściwy jest Prezydent m.st. Warszawy jako organ wykonawczy gminy Warszawa-Centrum 12) Stosownie do art. 1 pkt 3 ustawy z dnia 18 marca 1999 r. o zmianie ustawy o ustroju miasta stołecznego Warszawy (Dz. U. Nr 92, poz. 1044), która weszła w życie z dniem 17 listopada 1999 r., Prezydent m.st. Warszawy nie jest organem wykonawczym gminy Warszawa-Centrum. ."
+    },
+    {
+      "provision_ref": "art18a",
+      "section": "18a",
+      "title": "Art. 18a",
+      "content": "Prezydent Rzeczypospolitej Polskiej określi, w drodze rozporządzenia, szczegółowy tryb postępowania w sprawach o nadanie lub wyrażenie zgody na zrzeczenie się obywatelstwa polskiego oraz wzory zaświadczeń i wniosków."
+    },
+    {
+      "provision_ref": "art18b",
+      "section": "18b",
+      "title": "Art. 18b",
+      "content": "Określone w ustawie zadania i kompetencje starosty są zadaniami z zakresu administracji rządowej."
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Art. 19",
-      "content": "Osoby, które nabyły obywatelstwo polskie na podstawie art. 2a i 3 ust. 2 ustawy z dnia 20 stycznia 1920 r. o obywatelstwie Państwa Polskiego ( Dz. U. Nr 7, poz. 44 z późniejszymi zmianami) , nie są obywatelami polskimi, jeżeli posiadają obywatelstwo państwa obcego i zamieszkują za granicą."
+      "content": "Osoby, które nabyły obywatelstwo polskie na podstawie art. 2a i 3 ust. 2 ustawy z dnia 20 stycznia 1920 r. o obywatelstwie Państwa Polskiego , nie są obywatelami polskimi, jeżeli posiadają obywatelstwo państwa obcego i zamieszkują za granicą."
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Art. 20",
-      "content": "Traci moc ustawa z dnia 8 stycznia 1951 r. o obywatelstwie polskim ( Dz. U. Nr 4, poz. 25 ) ."
+      "content": "Traci moc ustawa z dnia 8 stycznia 1951 r. o obywatelstwie polskim ."
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Art. 21",
-      "content": "Ustawa wchodzi w życie po upływie sześciu miesięcy od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"chpt_1\",\"symbol\": \"chpt_1\",\"type\": \"chpt\",\"name\": \"1\",\"title\": \"Rozdział 1 - Obywatele polscy\",\"children\": [{\"id\": \"chpt_1-arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"chpt_1-arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"chpt_1-arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"chpt_1-arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]}]},{\"id\": \"chpt_2\",\"symbol\": \"chpt_2\",\"type\": \"chpt\",\"name\": \"2\",\"title\": \"Rozdział 2 - Nabycie obywatelstwa polskiego\",\"children\": [{\"id\": \"chpt_2-arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"chpt_2-arti_4-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_4-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"chpt_2-arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"chpt_2-arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"chpt_2-arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_6-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_2-arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"chpt_2-arti_7-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_7-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_2-arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"chpt_2-arti_8-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_8-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_8-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_2-arti_8-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"chpt_2-arti_8-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\",\"children\": [{\"id\": \"chpt_2-arti_8-pass_5-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_8-pass_5-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_2-arti_8-pass_5-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"chpt_2-arti_8-pass_6\",\"symbol\": \"pass_6\",\"type\": \"pass\",\"name\": \"6\",\"title\": \"6.\"},{\"id\": \"chpt_2-arti_8-pass_7\",\"symbol\": \"pass_7\",\"type\": \"pass\",\"name\": \"7\",\"title\": \"7.\"}]},{\"id\": \"chpt_2-arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"chpt_2-arti_9-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_9-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_9-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_2-arti_9-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"chpt_2-arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\",\"children\": [{\"id\": \"chpt_2-arti_10-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_10-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_2-arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\",\"children\": [{\"id\": \"chpt_2-arti_11-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_11-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_2-arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\",\"children\": [{\"id\": \"chpt_2-arti_12-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_12-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_12-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_2-arti_12-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"chpt_2-arti_12-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"},{\"id\": \"chpt_2-arti_12-pass_6\",\"symbol\": \"pass_6\",\"type\": \"pass\",\"name\": \"6\",\"title\": \"6.\"}]}]},{\"id\": \"chpt_3\",\"symbol\": \"chpt_3\",\"type\": \"chpt\",\"name\": \"3\",\"title\": \"Rozdział 3 - Utrata obywatelstwa polskiego\",\"children\": [{\"id\": \"chpt_3-arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\",\"children\": [{\"id\": \"chpt_3-arti_13-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-arti_13-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_3-arti_13-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_3-arti_13-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"chpt_3-arti_13-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"chpt_3-arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\",\"children\": [{\"id\": \"chpt_3-arti_14-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_3-arti_14-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"chpt_3-arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\",\"children\": [{\"id\": \"chpt_3-arti_15-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"chpt_3-arti_15-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_3-arti_15-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_3-arti_15-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_3-arti_15-pass_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"chpt_3-arti_15-pass_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"chpt_3-arti_15-pass_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"}]},{\"id\": \"chpt_3-arti_15-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]}]},{\"id\": \"chpt_4\",\"symbol\": \"chpt_4\",\"type\": \"chpt\",\"name\": \"4\",\"title\": \"Rozdział 4 - Właściwość organów\",\"children\": [{\"id\": \"chpt_4-arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\",\"children\": [{\"id\": \"chpt_4-arti_16-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_4-arti_16-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_4-arti_16-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_4-arti_16-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"chpt_4-arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\",\"children\": [{\"id\": \"chpt_4-arti_17-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_4-arti_17-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"chpt_4-arti_17-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_4-arti_17-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"chpt_4-arti_17-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\",\"children\": [{\"id\": \"chpt_4-arti_17-pass_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_4-arti_17-pass_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"chpt_4-arti_17-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"chpt_4-arti_17-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"chpt_4-arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\",\"children\": [{\"id\": \"chpt_4-arti_18-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_4-arti_18-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_4-arti_18-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]}]},{\"id\": \"chpt_5\",\"symbol\": \"chpt_5\",\"type\": \"chpt\",\"name\": \"5\",\"title\": \"Rozdział 5 - Przepisy przejściowe i końcowe\",\"children\": [{\"id\": \"chpt_5-arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\"},{\"id\": \"chpt_5-arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\"},{\"id\": \"chpt_5-arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\"}]} ] } ];"
+      "content": "Ustawa wchodzi w życie po upływie sześciu miesięcy od dnia ogłoszenia. 13) Ustawa została ogłoszona dnia 21 lutego 1962 r."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-1998-668",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1997-739",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1998-1126",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1951-25",
+      "ref_type": "references"
+    }
+  ]
 }

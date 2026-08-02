@@ -13,7 +13,7 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 11 września 1944 roku o kompetencji Przewodniczącego Krajowej Rady Narodowej ( Dz. U. R. P. Nr 5, poz. 23 ) zastępuje się wyraz „Przewodniczący” we wszystkich artykułach, gdzie wyraz ten został użyty, wyrazem „Prezydent” ."
+      "content": "W ustawie z dnia 11 września 1944 roku o kompetencji Przewodniczącego Krajowej Rady Narodowej zastępuje się wyraz „Przewodniczący” we wszystkich artykułach, gdzie wyraz ten został użyty, wyrazem „Prezydent” ."
     },
     {
       "provision_ref": "art2",
@@ -25,8 +25,14 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-1944-23",
+      "ref_type": "amended_by"
+    }
+  ]
 }

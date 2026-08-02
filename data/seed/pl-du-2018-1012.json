@@ -1,0 +1,86 @@
+{
+  "id": "pl-du-2018-1012",
+  "type": "statute",
+  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 22 maja 2018 r. w sprawie określenia protokołów i formatów danych wykorzystywanych przez przewoźników lotniczych w celu przekazywania danych PNR do Krajowej Jednostki do spraw Informacji o Pasażerach",
+  "title_en": "",
+  "short_name": "pl-du-2018-1012",
+  "status": "in_force",
+  "issued_date": "2018-05-22",
+  "in_force_date": "2018-05-25",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2018/1012",
+  "provisions": [
+    {
+      "provision_ref": "par1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Rozporządzenie określa: protokoły i formaty danych wykorzystywane do przekazywania danych PNR do JIP; format danych, zgodnie z którym są przekazywane dane API, które przewoźnicy lotniczy gromadzą odrębnie od pozostałych danych PNR dla tego samego lotu PNR."
+    },
+    {
+      "provision_ref": "par1p1",
+      "section": "1",
+      "title": "§ 1 pkt 1",
+      "content": "Rozporządzenie określa: protokoły i formaty danych wykorzystywane do przekazywania danych PNR do JIP;"
+    },
+    {
+      "provision_ref": "par1p2",
+      "section": "1",
+      "title": "§ 1 pkt 2",
+      "content": "Rozporządzenie określa: format danych, zgodnie z którym są przekazywane dane API, które przewoźnicy lotniczy gromadzą odrębnie od pozostałych danych PNR dla tego samego lotu PNR."
+    },
+    {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Przewoźnik lotniczy przekazuje dane PNR do JIP, wykorzystując następujące formaty danych: EDIFACT PNRGOV (Electronic Data Interchange For Administration), opisany w normach dotyczących wymiany danych o pasażerach i portach lotniczych PADIS (Passenger and Airport Data Interchange Standards; EDIFACT Implementation Guide), w wersji 11.1 lub późniejszej, albo XML PNRGOV (Extensible Markup Language), opisany w normach dotyczących wymiany danych o pasażerach i portach lotniczych PADIS (Passenger and Airport Data Interchange Standards; XML Implementation Guide), w wersji 13.1 lub późniejszej. Przewoźnik lotniczy przekazuje dane PNR, wykorzystując do transmisji danych następujące protokoły: IBM MQ albo IATA Type B, albo AS4 Profile of ebMS 3.0 w wersji 1.0."
+    },
+    {
+      "provision_ref": "par2u1p1",
+      "section": "2",
+      "title": "§ 2 ust. 1 pkt 1",
+      "content": "Przewoźnik lotniczy przekazuje dane PNR do JIP, wykorzystując następujące formaty danych: EDIFACT PNRGOV (Electronic Data Interchange For Administration), opisany w normach dotyczących wymiany danych o pasażerach i portach lotniczych PADIS (Passenger and Airport Data Interchange Standards; EDIFACT Implementation Guide), w wersji 11.1 lub późniejszej, albo"
+    },
+    {
+      "provision_ref": "par2u1p2",
+      "section": "2",
+      "title": "§ 2 ust. 1 pkt 2",
+      "content": "Przewoźnik lotniczy przekazuje dane PNR do JIP, wykorzystując następujące formaty danych: XML PNRGOV (Extensible Markup Language), opisany w normach dotyczących wymiany danych o pasażerach i portach lotniczych PADIS (Passenger and Airport Data Interchange Standards; XML Implementation Guide), w wersji 13.1 lub późniejszej."
+    },
+    {
+      "provision_ref": "par2u2p1",
+      "section": "2",
+      "title": "§ 2 ust. 2 pkt 1",
+      "content": "Przewoźnik lotniczy przekazuje dane PNR, wykorzystując do transmisji danych następujące protokoły: IBM MQ albo"
+    },
+    {
+      "provision_ref": "par2u2p2",
+      "section": "2",
+      "title": "§ 2 ust. 2 pkt 2",
+      "content": "Przewoźnik lotniczy przekazuje dane PNR, wykorzystując do transmisji danych następujące protokoły: IATA Type B, albo"
+    },
+    {
+      "provision_ref": "par2u2p3",
+      "section": "2",
+      "title": "§ 2 ust. 2 pkt 3",
+      "content": "Przewoźnik lotniczy przekazuje dane PNR, wykorzystując do transmisji danych następujące protokoły: AS4 Profile of ebMS 3.0 w wersji 1.0."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Przewoźnik lotniczy, który zbiera dane API odrębnie od pozostałych danych PNR dla tego samego lotu PNR, przesyła te dane w formacie EDIFACT PAXLST, opisanym w WCO/IATA/ICAO Passenger List Message (PAXLST) Implementation Guide, w wersji z 2003 r. lub późniejszej."
+    },
+    {
+      "provision_ref": "par4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Rozporządzenie wchodzi w życie z dniem 29 maja 2018 r."
+    }
+  ],
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2018-894",
+      "ref_type": "references"
+    }
+  ]
+}

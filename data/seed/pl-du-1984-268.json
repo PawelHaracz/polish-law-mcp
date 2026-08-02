@@ -13,97 +13,1003 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "1. Opodatkowaniu podatkiem rolnym podlegają określone w ustawie grunty indywidualnych i uspołecznionych gospodarstw rolnych oraz dochody z niektórych rodzajów upraw i produkcji zwierzęcej, zwanych dalej „działami specjalnymi produkcji rolnej”. 2. Za gospodarstwo rolne dla celów podatku rolnego uważa się obszar użytków rolnych, lasów i gruntów leśnych, gruntów pod stawami oraz gruntów pod zabudowaniami związanymi z prowadzeniem tego gospodarstwa o łącznej powierzchni przekraczającej 0,5 ha, stanowiących własność lub znajdujących się w posiadaniu: 1) osoby fizycznej lub osoby prawnej nie będącej jednostką gospodarki uspołecznionej, 2) jednostki gospodarki uspołecznionej, 3) dwóch lub więcej osób fizycznych lub osób prawnych prowadzących wspólną gospodarkę rolną. 3. Przez wspólną gospodarkę rolną rozumie się wspólne prowadzenie gospodarstwa rolnego, a w szczególności wspólne dokonywanie upraw i zbiorów oraz zaspokajania potrzeb z przychodów uzyskiwanych z tego gospodarstwa jako całości. 4. Za działy specjalne produkcji rolnej dla celów podatku rolnego uważa się: 1) uprawy w szklarniach, tunelach foliowych i inspektach oraz uprawy grzybów i ich grzybni, 2) uprawy kwiatów w gruncie oraz ich nasiennictwo, 3) uprawy krzewów owocowych i roślin zielnych owocujących, 4) szkółki drzew i krzewów ozdobnych, 5) sady jabłoniowe, 6) fermową hodowlę i chów drobiu rzeźnego i nieśnego, 7) wylęgarnie drobiu, 8) hodowlę i chów zwierząt futerkowych. 5. Rada Ministrów, w drodze rozporządzenia, może określić, które z wymienionych w ust. 4 rodzaje upraw i produkcji zwierzęcej ze względu na ich rozmiary lub wiek upraw nie stanowią działu specjalnego produkcji rolnej, a także - po zasięgnięciu opinii właściwych komisji sejmowych - może uznać za dział specjalny produkcji rolnej inne uprawy i rodzaje produkcji zwierzęcej niż wymienione w ust. 4."
+      "content": "Opodatkowaniu podatkiem rolnym podlegają grunty sklasyfikowane w ewidencji gruntów i budynków jako użytki rolne, z wyjątkiem gruntów zajętych na prowadzenie działalności gospodarczej innej niż działalność rolnicza."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Nie podlegają opodatkowaniu grunty: 1) pod jeziorami i wodami płynącymi, grunty, na których mieszczą się zbiorniki wody służące do zaopatrzenia ludności w wodę oraz grunty pod wałami przeciwpowodziowymi, 2) uznane za nieużytki, 3) pod lasami uznanymi za ochronne i zarejestrowanymi parkami, 4) będące w zarządzie przedsiębiorstw lasów państwowych, w tym również grunty oddane w użytkowania pracownikom lasów jako działki deputatowe, 5) stanowiące działki przyzagrodowe członków rolniczych spółdzielni produkcyjnych, którzy osiągnęli wiek emerytalny bądź są inwalidami I lub II grupy."
+      "content": "1. Za gospodarstwo rolne uważa się obszar gruntów, o których mowa w art. 1, o łącznej powierzchni przekraczającej 1 ha lub 1 ha przeliczeniowy, stanowiących własność lub znajdujących się w posiadaniu osoby fizycznej, osoby prawnej albo jednostki organizacyjnej, w tym spółki, nieposiadającej osobowości prawnej. 2. Za działalność rolniczą uważa się produkcję roślinną i zwierzęcą, w tym również produkcję materiału siewnego, szkółkarskiego, hodowlanego oraz reprodukcyjnego, produkcję warzywniczą, roślin ozdobnych, grzybów uprawnych, sadownictwa, hodowlę i produkcję materiału zarodowego zwierząt, ptactwa i owadów użytkowych, produkcję zwierzęcą typu przemysłowego fermowego oraz chów i hodowlę ryb. 3. Za grunty zajęte na prowadzenie działalności gospodarczej innej niż działalność rolnicza nie uważa się gruntów sklasyfikowanych w ewidencji gruntów i budynków jako użytki rolne: 1) przez które przebiegają urządzenia, o których mowa w art. 49 § 1 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071 i 1172), wchodzące w skład przedsiębiorstwa przedsiębiorcy prowadzącego działalność telekomunikacyjną, działalność w zakresie przesyłania lub dystrybucji płynów, pary, gazów lub energii elektrycznej lub zajmującego się transportem wydobytego gazu ziemnego lub ropy naftowej, 2) zajętych na pasy technologiczne stanowiące grunt w otoczeniu urządzeń, o których mowa w pkt 1, konieczny dla zapewnienia właściwej eksploatacji tych urządzeń, 3) zajętych na strefy bezpieczeństwa oraz strefy kontrolowane urządzeń, o których mowa w pkt 1, służących do przesyłania lub dystrybucji ropy naftowej, paliw ciekłych lub paliw gazowych, lub transportu wydobytego gazu ziemnego lub ropy naftowej, które zostały określone w odrębnych przepisach – chyba że grunty te są jednocześnie zajęte na prowadzenie działalności gospodarczej innej niż działalność rolnicza oraz innej niż działalność, o której mowa w pkt 1. 4. Przepisu ust. 3 nie stosuje się do gruntów sklasyfikowanych w ewidencji gruntów i budynków jako użytki rolne będących w posiadaniu samoistnym, użytkowaniu wieczystym lub będących własnością przedsiębiorcy, o którym mowa w ust. 3 pkt 1."
+    },
+    {
+      "provision_ref": "art2u1",
+      "section": "2",
+      "title": "Art. 2 ust. 1",
+      "content": "Za gospodarstwo rolne uważa się obszar gruntów, o których mowa w art. 1, o łącznej powierzchni przekraczającej 1 ha lub 1 ha przeliczeniowy, stanowiących własność lub znajdujących się w posiadaniu osoby fizycznej, osoby prawnej albo jednostki organizacyjnej, w tym spółki, nieposiadającej osobowości prawnej."
+    },
+    {
+      "provision_ref": "art2u2",
+      "section": "2",
+      "title": "Art. 2 ust. 2",
+      "content": "Za działalność rolniczą uważa się produkcję roślinną i zwierzęcą, w tym również produkcję materiału siewnego, szkółkarskiego, hodowlanego oraz reprodukcyjnego, produkcję warzywniczą, roślin ozdobnych, grzybów uprawnych, sadownictwa, hodowlę i produkcję materiału zarodowego zwierząt, ptactwa i owadów użytkowych, produkcję zwierzęcą typu przemysłowego fermowego oraz chów i hodowlę ryb."
+    },
+    {
+      "provision_ref": "art2u3p1",
+      "section": "2",
+      "title": "Art. 2 ust. 3 pkt 1",
+      "content": "przez które przebiegają urządzenia, o których mowa w art. 49 § 1 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071 i 1172), wchodzące w skład przedsiębiorstwa przedsiębiorcy prowadzącego działalność telekomunikacyjną, działalność w zakresie przesyłania lub dystrybucji płynów, pary, gazów lub energii elektrycznej lub zajmującego się transportem wydobytego gazu ziemnego lub ropy naftowej,"
+    },
+    {
+      "provision_ref": "art2u3p2",
+      "section": "2",
+      "title": "Art. 2 ust. 3 pkt 2",
+      "content": "zajętych na pasy technologiczne stanowiące grunt w otoczeniu urządzeń, o których mowa w pkt 1, konieczny dla zapewnienia właściwej eksploatacji tych urządzeń,"
+    },
+    {
+      "provision_ref": "art2u3p3",
+      "section": "2",
+      "title": "Art. 2 ust. 3 pkt 3",
+      "content": "zajętych na strefy bezpieczeństwa oraz strefy kontrolowane urządzeń, o których mowa w pkt 1, służących do przesyłania lub dystrybucji ropy naftowej, paliw ciekłych lub paliw gazowych, lub transportu wydobytego gazu ziemnego lub ropy naftowej, które zostały określone w odrębnych przepisach – chyba że grunty te są jednocześnie zajęte na prowadzenie działalności gospodarczej innej niż działalność rolnicza oraz innej niż działalność, o której mowa w pkt 1."
+    },
+    {
+      "provision_ref": "art2u4",
+      "section": "2",
+      "title": "Art. 2 ust. 4",
+      "content": "Przepisu ust. 3 nie stosuje się do gruntów sklasyfikowanych w ewidencji gruntów i budynków jako użytki rolne będących w posiadaniu samoistnym, użytkowaniu wieczystym lub będących własnością przedsiębiorcy, o którym mowa w ust. 3 pkt 1."
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "1. Obowiązek podatkowy w podatku rolnym od gruntów ciąży na osobach fizycznych, osobach prawnych i jednostkach gospodarki uspołecznionej będących w dniu 1 stycznia roku podatkowego właścicielami lub samoistnymi posiadaczami gospodarstw rolnych. 2. Obowiązek podatkowy w podatku rolnym od dochodów z działów specjalnych produkcji rolnej ciąży na osobach fizycznych, osobach prawnych i jednostkach gospodarki uspołecznionej będących właścicielami lub samoistnymi posiadaczami gruntu od miesiąca, w którym rozpoczęto prowadzenie działów specjalnych na tym gruncie. 3. W wypadku prowadzenia działów specjalnych przez spółkę prawa cywilnego zawartą w formie aktu notarialnego obowiązek podatkowy, o którym mowa w ust. 2, ciąży na spółce. 4. Obowiązek podatkowy z tytułów określonych w ust. 1 i 2 ciąży również na jednostkach gospodarki uspołecznionej będących posiadaczami zależnymi. 5. Jeżeli gospodarstwo rolne lub dział specjalny produkcji rolnej stanowi współwłasność małżonków lub odrębną własność każdego z nich, obowiązek podatkowy ciąży łącznie na obojgu małżonkach. 6. W wypadku chowu zwierząt futerkowych przez osoby fizyczne obowiązek podatkowy ciąży na właścicielu zwierząt, jeżeli własność zwierząt zostanie udokumentowana i potwierdzona przez organizacje społeczno-zawodowe lub spółdzielnie hodowców drobnego inwentarza. 7. Obowiązek podatkowy w podatku rolnym ciąży także na osobach fizycznych oraz na osobach prawnych nie będących jednostkami gospodarki uspołecznionej, które gospodarują na gruntach państwowych na podstawie zawartej umowy lub bezumownie, z tym że obowiązek podatkowy w podatku rolnym od gruntów rozpoczyna się z dniem 1 stycznia tego roku, w którym objęto grunty w zagospodarowanie, a jeżeli objęcie nastąpiło po żniwach - z dniem 1 stycznia roku następnego. Obowiązek podatkowy wygasa z upływem tego roku, w ciągu którego ustało gospodarowanie, a jeżeli gospodarowanie ustało przed żniwami - z końcem roku poprzedniego. Rozdział 2 Podatek rolny od gruntów"
+      "content": "1. Podatnikami podatku rolnego są osoby fizyczne, osoby prawne, jednostki organizacyjne, w tym spółki, nieposiadające osobowości prawnej, będące: 1) właścicielami gruntów, z zastrzeżeniem ust. 2; 2) posiadaczami samoistnymi gruntów; 3) użytkownikami wieczystymi gruntów; 4) posiadaczami gruntów, stanowiących własność Skarbu Państwa lub jednostki samorządu terytorialnego, jeżeli posiadanie: a) wynika z umowy zawartej z właścicielem, z Krajowym Ośrodkiem Wsparcia Rolnictwa lub z innego tytułu prawnego, a także jeżeli dotyczy nieruchomości znajdujących się w Zasobie, o którym mowa w art. 2 ustawy z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. z 2025 r. poz. 834), albo b) jest bez tytułu prawnego, z wyjątkiem gruntów wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa lub będących w zarządzie Lasów Państwowych; w tym przypadku podatnikami są odpowiednio jednostki organizacyjne Krajowego Ośrodka Wsparcia Rolnictwa i Lasów Państwowych. 2. Jeżeli grunty znajdują się w posiadaniu samoistnym, obowiązek podatkowy w zakresie podatku rolnego ciąży na posiadaczu samoistnym. 3. Jeżeli grunty gospodarstwa rolnego zostały w całości lub w części wydzierżawione na podstawie umowy zawartej stosownie do przepisów o ubezpieczeniu społecznym rolników lub przepisów dotyczących uzyskiwania rent strukturalnych, podatnikiem podatku rolnego jest dzierżawca. 4. Jeżeli grunty gospodarstwa rolnego zostały wniesione do spółdzielni produkcyjnej jako wkład gruntowy, podatnikiem podatku rolnego jest spółdzielnia produkcyjna. 5. Jeżeli grunty, o których mowa w art. 1, stanowią współwłasność lub znajdują się w posiadaniu dwóch lub więcej podmiotów, to stanowią odrębny przedmiot opodatkowania podatkiem rolnym, a obowiązek podatkowy ciąży solidarnie na wszystkich współwłaścicielach (posiadaczach), z zastrzeżeniem ust. 6 i 7. 6. Jeżeli grunty, o których mowa w ust. 5, stanowią gospodarstwo rolne, obowiązek podatkowy ciąży na tej osobie będącej współwłaścicielem (posiadaczem), która to gospodarstwo prowadzi w całości. 7. Zasady odpowiedzialności solidarnej za zobowiązanie podatkowe, o której mowa w ust. 5, nie stosuje się, jeżeli jeden lub kilku współwłaścicieli (posiadaczy) jest zwolnionych od podatku rolnego albo nie podlega temu podatkowi. W takiej sytuacji obowiązek podatkowy ciąży solidarnie na współwłaścicielach (posiadaczach), którzy podlegają podatkowi rolnemu oraz nie są zwolnieni od tego podatku, w zakresie odpowiadającym ich łącznemu udziałowi w prawie własności lub posiadaniu."
+    },
+    {
+      "provision_ref": "art3u1p1",
+      "section": "3",
+      "title": "Art. 3 ust. 1 pkt 1",
+      "content": "właścicielami gruntów, z zastrzeżeniem ust. 2;"
+    },
+    {
+      "provision_ref": "art3u1p2",
+      "section": "3",
+      "title": "Art. 3 ust. 1 pkt 2",
+      "content": "posiadaczami samoistnymi gruntów;"
+    },
+    {
+      "provision_ref": "art3u1p3",
+      "section": "3",
+      "title": "Art. 3 ust. 1 pkt 3",
+      "content": "użytkownikami wieczystymi gruntów;"
+    },
+    {
+      "provision_ref": "art3u1p4",
+      "section": "3",
+      "title": "Art. 3 ust. 1 pkt 4",
+      "content": "posiadaczami gruntów, stanowiących własność Skarbu Państwa lub jednostki samorządu terytorialnego, jeżeli posiadanie: a) wynika z umowy zawartej z właścicielem, z Krajowym Ośrodkiem Wsparcia Rolnictwa lub z innego tytułu prawnego, a także jeżeli dotyczy nieruchomości znajdujących się w Zasobie, o którym mowa w art. 2 ustawy z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. z 2025 r. poz. 834), albo b) jest bez tytułu prawnego, z wyjątkiem gruntów wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa lub będących w zarządzie Lasów Państwowych; w tym przypadku podatnikami są odpowiednio jednostki organizacyjne Krajowego Ośrodka Wsparcia Rolnictwa i Lasów Państwowych."
+    },
+    {
+      "provision_ref": "art3u2",
+      "section": "3",
+      "title": "Art. 3 ust. 2",
+      "content": "Jeżeli grunty znajdują się w posiadaniu samoistnym, obowiązek podatkowy w zakresie podatku rolnego ciąży na posiadaczu samoistnym."
+    },
+    {
+      "provision_ref": "art3u3",
+      "section": "3",
+      "title": "Art. 3 ust. 3",
+      "content": "Jeżeli grunty gospodarstwa rolnego zostały w całości lub w części wydzierżawione na podstawie umowy zawartej stosownie do przepisów o ubezpieczeniu społecznym rolników lub przepisów dotyczących uzyskiwania rent strukturalnych, podatnikiem podatku rolnego jest dzierżawca."
+    },
+    {
+      "provision_ref": "art3u4",
+      "section": "3",
+      "title": "Art. 3 ust. 4",
+      "content": "Jeżeli grunty gospodarstwa rolnego zostały wniesione do spółdzielni produkcyjnej jako wkład gruntowy, podatnikiem podatku rolnego jest spółdzielnia produkcyjna."
+    },
+    {
+      "provision_ref": "art3u5",
+      "section": "3",
+      "title": "Art. 3 ust. 5",
+      "content": "Jeżeli grunty, o których mowa w art. 1, stanowią współwłasność lub znajdują się w posiadaniu dwóch lub więcej podmiotów, to stanowią odrębny przedmiot opodatkowania podatkiem rolnym, a obowiązek podatkowy ciąży solidarnie na wszystkich współwłaścicielach (posiadaczach), z zastrzeżeniem ust. 6 i 7."
+    },
+    {
+      "provision_ref": "art3u6",
+      "section": "3",
+      "title": "Art. 3 ust. 6",
+      "content": "Jeżeli grunty, o których mowa w ust. 5, stanowią gospodarstwo rolne, obowiązek podatkowy ciąży na tej osobie będącej współwłaścicielem (posiadaczem), która to gospodarstwo prowadzi w całości."
+    },
+    {
+      "provision_ref": "art3u7",
+      "section": "3",
+      "title": "Art. 3 ust. 7",
+      "content": "Zasady odpowiedzialności solidarnej za zobowiązanie podatkowe, o której mowa w ust. 5, nie stosuje się, jeżeli jeden lub kilku współwłaścicieli (posiadaczy) jest zwolnionych od podatku rolnego albo nie podlega temu podatkowi. W takiej sytuacji obowiązek podatkowy ciąży solidarnie na współwłaścicielach (posiadaczach), którzy podlegają podatkowi rolnemu oraz nie są zwolnieni od tego podatku, w zakresie odpowiadającym ich łącznemu udziałowi w prawie własności lub posiadaniu."
+    },
+    {
+      "provision_ref": "art3a",
+      "section": "3a",
+      "title": "Art. 3a",
+      "content": "Obowiązek podatkowy, o którym mowa w art. 3, nie dotyczy: 1) Skarbu Państwa; 2) gmin."
+    },
+    {
+      "provision_ref": "art3b",
+      "section": "3b",
+      "title": "Art. 3b",
+      "content": "Zadania sejmiku województwa, o których mowa w art. 5 ust. 2 i art. 13b ust. 2, są zadaniami z zakresu administracji rządowej. Rozdział 2 Zasady ustalania podatku i przekazywania jego części na rzecz uprawnionego podmiotu"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "1. Podstawę opodatkowania podatkiem rolnym od gruntów stanowi liczba hektarów przeliczeniowych. 2. Liczbę hektarów przeliczeniowych ustala się na podstawie powierzchni, rodzajów i klas użytków rolnych wynikających z ewidencji gruntów oraz zaliczenia do okręgu podatkowego. 3. Przeliczeniu na hektary przeliczeniowe nie podlegają grunty, na których znajdują się obiekty służące do prowadzenia działów specjalnych produkcji rolnej, oraz grunty zajęte pod uprawy podlegające opodatkowaniu podatkiem rolnym z działów specjalnych. 4. Ustala się 4 okręgi podatkowe, do których zalicza się gminy, miasta oraz dzielnice w miastach w zależności od warunków ekonomicznych i produkcyjno-klimatycznych. 5. Ustala się następujące przeliczniki powierzchni użytków rolnych: Rodzaje użytków rolnych: Grunty orne Łąki i pastwiska Okręgi podatkowe I II III IV I II III IV Klasy użytków rolnych Przeliczniki I 1,90 1,75 1,60 1,40 1,70 1,55 1,40 1,30 II 1,75 1,60 1,45 1,30 1,40 1,30 1,20 1,05 IIIa 1,60 1,45 1,35 1,20 III 1,20 1,10 1,00 0,90 IIIb 1,35 1,25 1,15 1,00 IVa 1,10 1,00 0,90 0,80 IV 0,75 0,70 0,60 0,55 IVb 0,80 0,75 0,65 0,60 V 0,50 0,45 0,40 0,35 0,35 0,35 0,30 0,25 VI 0,20 0,15 0,10 0,05 0,15 0,15 0,10 0,05 6. Grunty pod lasami przelicza się na hektary przeliczeniowe przy zastosowaniu przelicznika dla VI klasy gruntów ornych. 7. Grunty pod stawami zarybionymi bez względu na miejsce położenia przelicza się na hektary przeliczeniowe według następujących przeliczników: 1) 1 ha stawu zarybionego łososiem, trocią, głowacicą, palią i pstrągiem - 1,0 ha przeliczeniowy, 2) 1 ha stawu zarybionego innymi gatunkami ryb - 0,20 ha przeliczeniowego. 8. Grunty pod stawami nie zarybionymi przelicza się na hektary przeliczeniowe według przeliczników ustalonych w ust. 5."
+      "content": "1. Podstawę opodatkowania podatkiem rolnym stanowi: 1) dla gruntów gospodarstw rolnych – liczba hektarów przeliczeniowych ustalana na podstawie powierzchni, rodzajów i klas użytków rolnych wynikających z ewidencji gruntów i budynków oraz zaliczenia do okręgu podatkowego; 2) dla pozostałych gruntów – liczba hektarów wynikająca z ewidencji gruntów i budynków. 2. (uchylony) 3. (uchylony) 4. Ustala się 4 okręgi podatkowe, do których zalicza się gminy oraz miasta w zależności od warunków ekonomicznych i produkcyjno-klimatycznych. 5. Ustala się następujące przeliczniki powierzchni użytków rolnych: Rodzaje użytków rolnych: Okręgi podatkowe Grunty orne I II III Łąki i pastwiska IV Klasy użytków rolnych I II III IV Przeliczniki I 1,95 1,80 1,65 1,45 1,75 1,60 1,45 1,35 II 1,80 1,65 1,50 1,35 1,45 1,35 1,25 1,10 IIIa 1,65 1,50 1,40 1,25 1,25 1,15 1,05 0,95 0,75 0,70 0,60 0,55 III IIIb 1,35 1,25 1,15 1,00 IVa 1,10 1,00 0,90 0,80 IV IVb 0,80 0,75 0,65 0,60 V 0,35 0,30 0,25 0,20 0,20 0,20 0,15 0,15 VI 0,20 0,15 0,10 0,05 0,15 0,15 0,10 0,05 6. Sady przelicza się na hektary przeliczeniowe według przeliczników określonych w ust. 5 dla gruntów ornych, z tym że do sadów klasy III i IV stosuje się odpowiednio przeliczniki dla klasy IIIa i IVa. 7. Grunty pod stawami, grunty zadrzewione i zakrzewione na użytkach rolnych, grunty pod rowami oraz grunty rolne zabudowane – bez względu na zaliczenie do okręgu podatkowego – przelicza się na hektary przeliczeniowe według następujących przeliczników: 1) 1 ha gruntów pod stawami zarybionymi łososiem, trocią, głowacicą, palią i pstrągiem oraz gruntów rolnych zabudowanych – 1 ha przeliczeniowy; 2) 1 ha gruntów pod stawami zarybionymi innymi gatunkami ryb, gruntów pod stawami niezarybionymi, gruntów zadrzewionych i zakrzewionych na użytkach rolnych oraz gruntów pod rowami – 0,20 ha przeliczeniowego. 8. (uchylony) 9. Jeżeli nie można ustalić przelicznika powierzchni użytków rolnych na podstawie ust. 5–7, przyjmuje się, że 1 ha fizyczny odpowiada 1 ha przeliczeniowemu."
+    },
+    {
+      "provision_ref": "art4u1p1",
+      "section": "4",
+      "title": "Art. 4 ust. 1 pkt 1",
+      "content": "dla gruntów gospodarstw rolnych – liczba hektarów przeliczeniowych ustalana na podstawie powierzchni, rodzajów i klas użytków rolnych wynikających z ewidencji gruntów i budynków oraz zaliczenia do okręgu podatkowego;"
+    },
+    {
+      "provision_ref": "art4u1p2",
+      "section": "4",
+      "title": "Art. 4 ust. 1 pkt 2",
+      "content": "dla pozostałych gruntów – liczba hektarów wynikająca z ewidencji gruntów i budynków. 2. (uchylony) 3. (uchylony)"
+    },
+    {
+      "provision_ref": "art4u4",
+      "section": "4",
+      "title": "Art. 4 ust. 4",
+      "content": "Ustala się 4 okręgi podatkowe, do których zalicza się gminy oraz miasta w zależności od warunków ekonomicznych i produkcyjno-klimatycznych."
+    },
+    {
+      "provision_ref": "art4u5",
+      "section": "4",
+      "title": "Art. 4 ust. 5",
+      "content": "Ustala się następujące przeliczniki powierzchni użytków rolnych: Rodzaje użytków rolnych: Okręgi podatkowe Grunty orne I II III Łąki i pastwiska IV Klasy użytków rolnych I II III IV Przeliczniki I 1,95 1,80 1,65 1,45 1,75 1,60 1,45 1,35 II 1,80 1,65 1,50 1,35 1,45 1,35 1,25 1,10 IIIa 1,65 1,50 1,40 1,25 1,25 1,15 1,05 0,95 0,75 0,70 0,60 0,55 III IIIb 1,35 1,25 1,15 1,00 IVa 1,10 1,00 0,90 0,80 IV IVb 0,80 0,75 0,65 0,60 V 0,35 0,30 0,25 0,20 0,20 0,20 0,15 0,15 VI 0,20 0,15 0,10 0,05 0,15 0,15 0,10 0,05"
+    },
+    {
+      "provision_ref": "art4u6",
+      "section": "4",
+      "title": "Art. 4 ust. 6",
+      "content": "Sady przelicza się na hektary przeliczeniowe według przeliczników określonych w ust. 5 dla gruntów ornych, z tym że do sadów klasy III i IV stosuje się odpowiednio przeliczniki dla klasy IIIa i IVa."
+    },
+    {
+      "provision_ref": "art4u7p1",
+      "section": "4",
+      "title": "Art. 4 ust. 7 pkt 1",
+      "content": "1 ha gruntów pod stawami zarybionymi łososiem, trocią, głowacicą, palią i pstrągiem oraz gruntów rolnych zabudowanych – 1 ha przeliczeniowy;"
+    },
+    {
+      "provision_ref": "art4u7p2",
+      "section": "4",
+      "title": "Art. 4 ust. 7 pkt 2",
+      "content": "1 ha gruntów pod stawami zarybionymi innymi gatunkami ryb, gruntów pod stawami niezarybionymi, gruntów zadrzewionych i zakrzewionych na użytkach rolnych oraz gruntów pod rowami – 0,20 ha przeliczeniowego. 8. (uchylony)"
+    },
+    {
+      "provision_ref": "art4u9",
+      "section": "4",
+      "title": "Art. 4 ust. 9",
+      "content": "Jeżeli nie można ustalić przelicznika powierzchni użytków rolnych na podstawie ust. 5–7, przyjmuje się, że 1 ha fizyczny odpowiada 1 ha przeliczeniowemu."
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Art. 5",
-      "content": "1. Rada Ministrów, w drodze rozporządzenia, zalicza każdą gminę, miasto oraz dzielnicę miasta do jednego z czterech okręgów podatkowych, kierując się kryteriami określonymi w art. 4 ust. 4. 2. Wojewódzka rada narodowa na wniosek terenowego organu administracji państwowej o właściwości ogólnej stopnia wojewódzkiego może w szczególnych, gospodarczo uzasadnionych wypadkach zaliczyć niektóre gminy do innego okręgu podatkowego niż określony w rozporządzeniu, o którym mowa w ust. 1, jednakże nie może to spowodować zmniejszenia liczby hektarów przeliczeniowych dla tego województwa o więcej niż 0,5%. 3. Rada narodowa stopnia podstawowego na wniosek terenowego organu administracji państwowej o właściwości ogólnej stopnia podstawowego może w szczególnych, gospodarczo uzasadnionych wypadkach zaliczyć niektóre wsie do innego okręgu podatkowego niż określony dla gminy, na podstawie upoważnień zawartych w ust. 1 i 2, jednakże nie może to spowodować zmniejszenie liczby hektarów przeliczeniowych dla tej gminy o więcej niż 0,5%."
+      "content": "1. Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw rolnictwa i ministrem właściwym do spraw rozwoju wsi oraz po zasięgnięciu opinii Krajowej Rady Izb Rolniczych, w drodze rozporządzenia, zalicza każdą gminę, miasto oraz dzielnicę miasta do jednego z czterech okręgów podatkowych, kierując się kryteriami określonymi w art. 4 ust. 4. 2. Sejmik województwa na wniosek rady gminy może, po zasięgnięciu opinii izby rolniczej, w szczególnych, gospodarczo uzasadnionych wypadkach zaliczyć niektóre gminy do innego okręgu podatkowego niż określony w rozporządzeniu, o którym mowa w ust. 1, jednakże nie może to spowodować zmniejszenia liczby hektarów przeliczeniowych dla tego województwa o więcej niż 1,5 %. 3. Rada gminy, po zasięgnięciu opinii izby rolniczej, może w szczególnych, gospodarczo uzasadnionych wypadkach zaliczyć niektóre wsie do innego okręgu podatkowego niż określony dla gminy, na podstawie upoważnień zawartych w ust. 1 i 2, jednakże nie może to spowodować zmniejszenia liczby hektarów przeliczeniowych dla tej gminy o więcej niż 1,5 %."
+    },
+    {
+      "provision_ref": "art5u1",
+      "section": "5",
+      "title": "Art. 5 ust. 1",
+      "content": "Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw rolnictwa i ministrem właściwym do spraw rozwoju wsi oraz po zasięgnięciu opinii Krajowej Rady Izb Rolniczych, w drodze rozporządzenia, zalicza każdą gminę, miasto oraz dzielnicę miasta do jednego z czterech okręgów podatkowych, kierując się kryteriami określonymi w art. 4 ust. 4."
+    },
+    {
+      "provision_ref": "art5u2",
+      "section": "5",
+      "title": "Art. 5 ust. 2",
+      "content": "Sejmik województwa na wniosek rady gminy może, po zasięgnięciu opinii izby rolniczej, w szczególnych, gospodarczo uzasadnionych wypadkach zaliczyć niektóre gminy do innego okręgu podatkowego niż określony w rozporządzeniu, o którym mowa w ust. 1, jednakże nie może to spowodować zmniejszenia liczby hektarów przeliczeniowych dla tego województwa o więcej niż 1,5 %."
+    },
+    {
+      "provision_ref": "art5u3",
+      "section": "5",
+      "title": "Art. 5 ust. 3",
+      "content": "Rada gminy, po zasięgnięciu opinii izby rolniczej, może w szczególnych, gospodarczo uzasadnionych wypadkach zaliczyć niektóre wsie do innego okręgu podatkowego niż określony dla gminy, na podstawie upoważnień zawartych w ust. 1 i 2, jednakże nie może to spowodować zmniejszenia liczby hektarów przeliczeniowych dla tej gminy o więcej niż 1,5 %."
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Art. 6",
-      "content": "1. Podatek rolny z 1 hektara przeliczeniowego stanowi równowartość pieniężną 2,5 q żyta, obliczoną według cen urzędowych obowiązujących w uspołecznionych jednostkach skupu dla zbóż kontraktowanych w dniu 1 stycznia roku podatkowego, z wyłączeniem premii okresowych. 2. W latach 1985 i 1986 podatek rolny od gruntów ustala się w wysokości równowartości pieniężnej: 1) w 1985 r. - 1,5 q żyta z 1 ha przeliczeniowego, 2) w 1986 r. - 2,0 q żyta z 1 ha przeliczeniowego. 3. Termin wejścia w życie przepisu o wysokości podatku ustalonej w ust. 1 określi uchwała Sejmu. Rozdział 3 Podatek rolny od dochodów z działów specjalnych produkcji rolnej"
+      "content": "1. Podatek rolny za rok podatkowy wynosi: 1) od 1 ha przeliczeniowego gruntów, o których mowa w art. 4 ust. 1 pkt 1 – równowartość pieniężną 2,5 q żyta, 2) od 1 ha gruntów, o których mowa w art. 4 ust. 1 pkt 2 – równowartość pieniężną 5 q żyta – obliczone według średniej ceny skupu żyta za 11 kwartałów poprzedzających kwartał poprzedzający rok podatkowy. 2. Średnią cenę skupu żyta, o której mowa w ust. 1, ustala się na podstawie komunikatu Prezesa Głównego Urzędu Statystycznego, ogłaszanego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w terminie do dnia 20 października roku poprzedzającego rok podatkowy. 3. Rady gmin są uprawnione do obniżenia cen skupu określonych w ust. 2, przyjmowanych jako podstawa obliczania podatku rolnego na obszarze gminy."
     },
     {
-      "provision_ref": "art7",
-      "section": "7",
-      "title": "Art. 7",
-      "content": "1. Podstawą opodatkowania podatkiem rolnym od dochodów z działów specjalnych produkcji rolnej stanowi dochód obliczony przy zastosowaniu norm szacunkowych dochodu z określonej jednostki powierzchni upraw lub jednostek produkcji zwierzęcej. 2. Rada Ministrów, w drodze rozporządzenia, po zasięgnięciu opinii właściwych komisji sejmowych, określa normy szacunkowe dochodu, o których mowa w ust. 1. 3. Wojewódzka rada narodowa, na wniosek terenowego organu administracji państwowej o właściwości ogólnej stopnia wojewódzkiego, w zależności od miejscowych warunków i opłacalności upraw lub produkcji, może obniżać lub podwyższać w całym województwie albo na niektórych jego obszarach w granicach do 20% normy szacunkowe dochodu, o których mowa w ust. 2, ze wszystkich lub niektórych rodzajów upraw i produkcji zwierzęcej. 4. Na wniosek podatnika podstawa opodatkowania może być ustalana na podstawie faktycznych przychodów i wydatków stanowiących koszty uzyskania przychodu w rozumieniu przepisów o podatku dochodowym, pod warunkiem prowadzenia ksiąg wykazujących te przychody i wydatki; o zamiarze założenia ksiąg podatnik jest obowiązany zawiadomić właściwy urząd skarbowy przed rozpoczęciem roku podatkowego."
+      "provision_ref": "art6u1p1",
+      "section": "6",
+      "title": "Art. 6 ust. 1 pkt 1",
+      "content": "od 1 ha przeliczeniowego gruntów, o których mowa w art. 4 ust. 1 pkt 1 – równowartość pieniężną 2,5 q żyta,"
     },
     {
-      "provision_ref": "art8",
-      "section": "8",
-      "title": "Art. 8",
-      "content": "1. Podatek rolny od dochodów z działów specjalnych produkcji rolnej ustala się według następującej skali: Dochód podlegający opodatkowaniu rocznie w zł Podatek wynosi ponad do 1 2 do 400 000 10% 400 000- 420 000 40 000 zł + 11% od kwoty ponad 400 000 zł 420 000- 456 000 42 200 zł + 14% „ „ 420 000 zł 450 000- 492 000 47 240 zł + 18% „ „ 436 000 zł 492 000- 540 000 53 720 zł + 22% „ „ 492 000 zł 540 000- 588 000 64 280 zł + 26% „ „ 540 000 zł 588 000- 660 000 76 760 zł + 30% „ „ 588 000 zł 660 000- 732 000 98 360 zł + 35% „ „ 660 000 zł 732 000- 828 000 123 560 zł + 40% „ „ 732 000 zł 828 000- 924 000 161 960 zł + 45% „ „ 828 000 zł 924 000- 1 020 000 205 160 zł + 50% „ „ 924 000 zł 1 020 000- 1 140 000 253 160 zł + 55% „ „ 1 020 000 zł 1 140 000- 1 260 000 319 160 zł + 60% „ „ 1 140 000 zł 1 260 000- 1 380 000 391 160 zł + 65% „ „ 1 260 000 zł 1 380 000- 1 500 000 469 160 zł + 70% „ „ 1 380 000 zł 1 500 000 i więcej 553 160 zł + 75% „ „ 1 500 000 zł 2. Rolnicze spółdzielnie produkcyjne prowadzące działy specjalne produkcji rolnej płacą podatek rolny od dochodu z tych działów według stawek zależnych od wysokości dochodu przypadającego na rodziny członków spółdzielni. 3. Jednostki gospodarki uspołecznionej nie wymieniona w ust. 2, które prowadzą działy specjalne produkcji rolnej płacą podatek w wysokości 10% dochodu z tych działów. 4. Rada Ministrów, w drodze rozporządzenia, może podwyższyć kwotę dochodu z działów specjalnych produkcji rolnej, podlegającą opodatkowaniu według stałej stawki procentowej, oraz zmniejszać stawki podatku określone w ust. 1."
+      "provision_ref": "art6u1p2",
+      "section": "6",
+      "title": "Art. 6 ust. 1 pkt 2",
+      "content": "od 1 ha gruntów, o których mowa w art. 4 ust. 1 pkt 2 – równowartość pieniężną 5 q żyta – obliczone według średniej ceny skupu żyta za 11 kwartałów poprzedzających kwartał poprzedzający rok podatkowy."
     },
     {
-      "provision_ref": "art9",
-      "section": "9",
-      "title": "Art. 9",
-      "content": "1. Jeżeli osoba fizyczna lub osoba prawna nie będąca jednostką gospodarki uspołecznionej oprócz dochodów z działów specjalnych produkcji rolnej, przekraczających w roku podatkowym 400 tys. zł, osiąga również: 1) dochody w rozumieniu przepisów o podatku wyrównawczym, 2) dochody w rozumieniu przepisów o podatku dochodowym lub z wykonywania rzemiosła, od których zamiast podatków obrotowego i dochodowego pobiera się opłatę skarbową, zwane dalej „dochodami z działalności produkcyjno-usługowej”, dochody te, po odliczeniu należnego podatku dochodowego lub opłaty skarbowej, łączy się z dochodami z działów specjalnych produkcji rolnej w celu określenia stopy procentowej podatku rolnego z działów specjalnych produkcji rolnej. 2. Przepis ust. 1 stosuje się odpowiednio do małżonków osiągających dochody z działów specjalnych produkcji rolnej, jeżeli jedno z nich lub oboje uzyskują dochody z działalności produkcyjno-usługowej lub działalności podlegającej podatkowi wyrównawczemu."
+      "provision_ref": "art6u2",
+      "section": "6",
+      "title": "Art. 6 ust. 2",
+      "content": "Średnią cenę skupu żyta, o której mowa w ust. 1, ustala się na podstawie komunikatu Prezesa Głównego Urzędu Statystycznego, ogłaszanego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w terminie do dnia 20 października roku poprzedzającego rok podatkowy."
     },
     {
-      "provision_ref": "art10",
-      "section": "10",
-      "title": "Art. 10",
-      "content": "1. W wypadkach określonych w art. 9 podatek rolny od dochodów z działów specjalnych produkcji rolnej ustala się w następujący sposób: 1) oblicza się kwotę podatku, jaki przypadałby od łącznej wysokości dochodu, 2) ustala się stopę procentową kwoty podatku obliczonej zgodnie z pkt 1 do łącznej wysokości dochodu, 3) ustaloną zgodnie z pkt 2 stopę procentową stosuje się do dochodu podlegającego opodatkowaniu podatkiem rolnym od dochodów z działów specjalnych produkcji rolnej. 2. Rada Ministrów, w drodze rozporządzenia, ustala szczegółowe zasady i tryb wymiaru podatku od dochodów z działów specjalnych produkcji rolnej."
+      "provision_ref": "art6u3",
+      "section": "6",
+      "title": "Art. 6 ust. 3",
+      "content": "Rady gmin są uprawnione do obniżenia cen skupu określonych w ust. 2, przyjmowanych jako podstawa obliczania podatku rolnego na obszarze gminy."
     },
     {
-      "provision_ref": "art11",
-      "section": "11",
-      "title": "Art. 11",
-      "content": "Jednostki gospodarki uspołecznionej są obowiązane obliczać i odprowadzać podatek rolny od dochodów z działów specjalnych produkcji rolnej na rachunek urzędu skarbowego, na którego terenie działania znajdują się prowadzone przez nie działy specjalne produkcji rolnej. Rozdział 4 Zwolnienia i ulgi podatkowe"
+      "provision_ref": "art6a",
+      "section": "6a",
+      "title": "Art. 6a",
+      "content": "1. Obowiązek podatkowy powstaje od pierwszego dnia miesiąca następującego po miesiącu, w którym zaistniały okoliczności uzasadniające powstanie tego obowiązku. 2. Obowiązek podatkowy wygasa ostatniego dnia miesiąca, w którym przestały istnieć okoliczności uzasadniające ten obowiązek. 3. Jeżeli obowiązek podatkowy powstał lub wygasł w ciągu roku, podatek rolny za ten rok ustala się proporcjonalnie do liczby miesięcy, w których istniał ten obowiązek. 4. Jeżeli w ciągu roku podatkowego grunty gospodarstwa rolnego zostały zajęte na prowadzenie innej działalności gospodarczej niż działalność rolnicza lub po zaprzestaniu prowadzenia tej działalności przywrócono na tych gruntach działalność rolniczą albo z innych powodów ich powierzchnia uległa zmniejszeniu lub zwiększeniu, kwota należnego podatku rolnego ulega obniżeniu lub podwyższeniu, poczynając od pierwszego dnia miesiąca następującego po miesiącu, w którym nastąpiła ta zmiana. 4a. Organem podatkowym właściwym w sprawach podatku rolnego jest wójt (burmistrz, prezydent miasta). 5. Osoby fizyczne, z zastrzeżeniem ust. 10, są obowiązane złożyć właściwemu organowi podatkowemu informacje o gruntach, sporządzone na formularzach według ustalonego wzoru, w terminie 14 dni od dnia zaistnienia okoliczności uzasadniających powstanie albo wygaśnięcie obowiązku podatkowego w zakresie podatku rolnego, lub o zaistnieniu zmian, o których mowa w ust. 4. 6. Podatek rolny na rok podatkowy od osób fizycznych, z zastrzeżeniem ust. 10, ustala, w drodze decyzji, organ podatkowy właściwy ze względu na miejsce położenia gruntów. Podatek jest płatny w ratach proporcjonalnych do czasu trwania obowiązku podatkowego w terminach do dnia 15 marca, 15 maja, 15 września i 15 listopada roku podatkowego. 6a. Nie wszczyna się postępowania, a postępowanie wszczęte umarza, jeżeli wysokość zobowiązania podatkowego na dany rok podatkowy nie przekraczałaby, określonych na dzień 1 stycznia roku podatkowego, najniższych kosztów doręczenia w obrocie krajowym przesyłki poleconej za potwierdzeniem odbioru przez operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366 i 820). W takim przypadku decyzję umarzającą postępowanie pozostawia się w aktach sprawy, a organ jest nią związany od chwili wydania. Do zmiany decyzji umarzającej postępowanie przepis art. 254 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm.1)) stosuje się odpowiednio. 7. Jeżeli w ciągu roku podatkowego nastąpiło wygaśnięcie obowiązku podatkowego w podatku rolnym lub zaistniały zmiany, o których mowa w ust. 4, organ podatkowy dokonuje zmiany decyzji, którą ustalono ten podatek. 8. Osoby prawne, jednostki organizacyjne, w tym spółki, nieposiadające osobowości prawnej, jednostki organizacyjne Krajowego Ośrodka Wsparcia Rolnictwa, a także jednostki organizacyjne Lasów Państwowych są obowiązane: 1) składać, w terminie do dnia 15 stycznia, organowi podatkowemu właściwemu ze względu na miejsce położenia gruntów deklaracje na podatek rolny na dany rok podatkowy, sporządzone na formularzu według ustalonego wzoru, a jeżeli obowiązek podatkowy powstał po tym dniu – w terminie 14 dni od dnia zaistnienia okoliczności uzasadniających powstanie tego obowiązku; 2) odpowiednio skorygować deklaracje, w razie zaistnienia zmian, o których mowa w ust. 4, w terminie 14 dni od dnia zaistnienia zmian; 3) wpłacać w ratach proporcjonalnych do czasu trwania obowiązku podatkowego obliczony w deklaracji podatek rolny na rachunek budżetu właściwej gminy w terminach do dnia 15 marca, 15 maja, 15 września i 15 listopada. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 497, 621, 622, 769, 820, 1203 i 1235. 8a. Informacje o gruntach oraz deklaracje na podatek rolny mogą być składane za pomocą środków komunikacji elektronicznej. 9. Obowiązek składania informacji o gruntach oraz deklaracji na podatek rolny, o którym mowa w ust. 5 i ust. 8 pkt 1, dotyczy również podatników korzystających ze zwolnień i ulg na podstawie przepisów ustawy. 10. Jeżeli grunty stanowią współwłasność lub znajdują się w posiadaniu osób fizycznych oraz osób prawnych, jednostek organizacyjnych, w tym spółek, nieposiadających osobowości prawnej – osoby fizyczne składają deklarację na podatek rolny oraz opłacają podatek na zasadach obowiązujących osoby prawne. 10a. W przypadku gdy kwota podatku nie przekracza 100 zł, podatek jest płatny jednorazowo w terminie płatności pierwszej raty. 11. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzory formularzy, o których mowa w ust. 5 i ust. 8 pkt 1, wraz z załącznikami, oraz szczegółowy zakres zawartych w nich danych niezbędnych do wymiaru i poboru podatku rolnego, z uwzględnieniem możliwości wprowadzania przez rady gmin zwolnień i ulg w tym podatku, wraz z objaśnieniami co do sposobu ich wypełniania, terminu i miejsca składania oraz niezbędnymi pouczeniami, mając na uwadze prawidłowe obliczenie podatku. 12. Minister właściwy do spraw finansów publicznych, w porozumieniu z ministrem właściwym do spraw informatyzacji, określi, w drodze rozporządzenia: 1) sposób przesyłania informacji o gruntach oraz deklaracji na podatek rolny za pomocą środków komunikacji elektronicznej, 2) rodzaje podpisu elektronicznego, którym powinny być opatrzone informacje o gruntach oraz deklaracje na podatek rolny – uwzględniając potrzebę zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności danych zawartych w tych informacjach i deklaracjach oraz potrzebę ich ochrony przed nieuprawnionym dostępem. 13. (uchylony) 14. Poświadczenie przez organ podatkowy złożenia informacji o gruntach lub deklaracji na podatek rolny za pomocą środków komunikacji elektronicznej odbywa się zgodnie z przepisami o informatyzacji działalności podmiotów realizujących zadania publiczne."
+    },
+    {
+      "provision_ref": "art6au1",
+      "section": "6a",
+      "title": "Art. 6a ust. 1",
+      "content": "Obowiązek podatkowy powstaje od pierwszego dnia miesiąca następującego po miesiącu, w którym zaistniały okoliczności uzasadniające powstanie tego obowiązku."
+    },
+    {
+      "provision_ref": "art6au2",
+      "section": "6a",
+      "title": "Art. 6a ust. 2",
+      "content": "Obowiązek podatkowy wygasa ostatniego dnia miesiąca, w którym przestały istnieć okoliczności uzasadniające ten obowiązek."
+    },
+    {
+      "provision_ref": "art6au3",
+      "section": "6a",
+      "title": "Art. 6a ust. 3",
+      "content": "Jeżeli obowiązek podatkowy powstał lub wygasł w ciągu roku, podatek rolny za ten rok ustala się proporcjonalnie do liczby miesięcy, w których istniał ten obowiązek."
+    },
+    {
+      "provision_ref": "art6au4",
+      "section": "6a",
+      "title": "Art. 6a ust. 4",
+      "content": "Jeżeli w ciągu roku podatkowego grunty gospodarstwa rolnego zostały zajęte na prowadzenie innej działalności gospodarczej niż działalność rolnicza lub po zaprzestaniu prowadzenia tej działalności przywrócono na tych gruntach działalność rolniczą albo z innych powodów ich powierzchnia uległa zmniejszeniu lub zwiększeniu, kwota należnego podatku rolnego ulega obniżeniu lub podwyższeniu, poczynając od pierwszego dnia miesiąca następującego po miesiącu, w którym nastąpiła ta zmiana."
+    },
+    {
+      "provision_ref": "art6au4a",
+      "section": "6a",
+      "title": "Art. 6a ust. 4a",
+      "content": "Organem podatkowym właściwym w sprawach podatku rolnego jest wójt (burmistrz, prezydent miasta)."
+    },
+    {
+      "provision_ref": "art6au5",
+      "section": "6a",
+      "title": "Art. 6a ust. 5",
+      "content": "Osoby fizyczne, z zastrzeżeniem ust. 10, są obowiązane złożyć właściwemu organowi podatkowemu informacje o gruntach, sporządzone na formularzach według ustalonego wzoru, w terminie 14 dni od dnia zaistnienia okoliczności uzasadniających powstanie albo wygaśnięcie obowiązku podatkowego w zakresie podatku rolnego, lub o zaistnieniu zmian, o których mowa w ust. 4."
+    },
+    {
+      "provision_ref": "art6au6",
+      "section": "6a",
+      "title": "Art. 6a ust. 6",
+      "content": "Podatek rolny na rok podatkowy od osób fizycznych, z zastrzeżeniem ust. 10, ustala, w drodze decyzji, organ podatkowy właściwy ze względu na miejsce położenia gruntów. Podatek jest płatny w ratach proporcjonalnych do czasu trwania obowiązku podatkowego w terminach do dnia 15 marca, 15 maja, 15 września i 15 listopada roku podatkowego."
+    },
+    {
+      "provision_ref": "art6au6a",
+      "section": "6a",
+      "title": "Art. 6a ust. 6a",
+      "content": "Nie wszczyna się postępowania, a postępowanie wszczęte umarza, jeżeli wysokość zobowiązania podatkowego na dany rok podatkowy nie przekraczałaby, określonych na dzień 1 stycznia roku podatkowego, najniższych kosztów doręczenia w obrocie krajowym przesyłki poleconej za potwierdzeniem odbioru przez operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366 i 820). W takim przypadku decyzję umarzającą postępowanie pozostawia się w aktach sprawy, a organ jest nią związany od chwili wydania. Do zmiany decyzji umarzającej postępowanie przepis art. 254 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm.1)) stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "art6au7",
+      "section": "6a",
+      "title": "Art. 6a ust. 7",
+      "content": "Jeżeli w ciągu roku podatkowego nastąpiło wygaśnięcie obowiązku podatkowego w podatku rolnym lub zaistniały zmiany, o których mowa w ust. 4, organ podatkowy dokonuje zmiany decyzji, którą ustalono ten podatek."
+    },
+    {
+      "provision_ref": "art6au8p1",
+      "section": "6a",
+      "title": "Art. 6a ust. 8 pkt 1",
+      "content": "składać, w terminie do dnia 15 stycznia, organowi podatkowemu właściwemu ze względu na miejsce położenia gruntów deklaracje na podatek rolny na dany rok podatkowy, sporządzone na formularzu według ustalonego wzoru, a jeżeli obowiązek podatkowy powstał po tym dniu – w terminie 14 dni od dnia zaistnienia okoliczności uzasadniających powstanie tego obowiązku;"
+    },
+    {
+      "provision_ref": "art6au8p2",
+      "section": "6a",
+      "title": "Art. 6a ust. 8 pkt 2",
+      "content": "odpowiednio skorygować deklaracje, w razie zaistnienia zmian, o których mowa w ust. 4, w terminie 14 dni od dnia zaistnienia zmian;"
+    },
+    {
+      "provision_ref": "art6au8p3",
+      "section": "6a",
+      "title": "Art. 6a ust. 8 pkt 3",
+      "content": "wpłacać w ratach proporcjonalnych do czasu trwania obowiązku podatkowego obliczony w deklaracji podatek rolny na rachunek budżetu właściwej gminy w terminach do dnia 15 marca, 15 maja, 15 września i 15 listopada."
+    },
+    {
+      "provision_ref": "art6au8p1",
+      "section": "6a",
+      "title": "Art. 6a ust. 8 pkt 1",
+      "content": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 497, 621, 622, 769, 820, 1203 i 1235."
+    },
+    {
+      "provision_ref": "art6au8a",
+      "section": "6a",
+      "title": "Art. 6a ust. 8a",
+      "content": "Informacje o gruntach oraz deklaracje na podatek rolny mogą być składane za pomocą środków komunikacji elektronicznej."
+    },
+    {
+      "provision_ref": "art6au9",
+      "section": "6a",
+      "title": "Art. 6a ust. 9",
+      "content": "Obowiązek składania informacji o gruntach oraz deklaracji na podatek rolny, o którym mowa w ust. 5 i ust. 8 pkt 1, dotyczy również podatników korzystających ze zwolnień i ulg na podstawie przepisów ustawy."
+    },
+    {
+      "provision_ref": "art6au10",
+      "section": "6a",
+      "title": "Art. 6a ust. 10",
+      "content": "Jeżeli grunty stanowią współwłasność lub znajdują się w posiadaniu osób fizycznych oraz osób prawnych, jednostek organizacyjnych, w tym spółek, nieposiadających osobowości prawnej – osoby fizyczne składają deklarację na podatek rolny oraz opłacają podatek na zasadach obowiązujących osoby prawne."
+    },
+    {
+      "provision_ref": "art6au10a",
+      "section": "6a",
+      "title": "Art. 6a ust. 10a",
+      "content": "W przypadku gdy kwota podatku nie przekracza 100 zł, podatek jest płatny jednorazowo w terminie płatności pierwszej raty."
+    },
+    {
+      "provision_ref": "art6au11",
+      "section": "6a",
+      "title": "Art. 6a ust. 11",
+      "content": "Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzory formularzy, o których mowa w ust. 5 i ust. 8 pkt 1, wraz z załącznikami, oraz szczegółowy zakres zawartych w nich danych niezbędnych do wymiaru i poboru podatku rolnego, z uwzględnieniem możliwości wprowadzania przez rady gmin zwolnień i ulg w tym podatku, wraz z objaśnieniami co do sposobu ich wypełniania, terminu i miejsca składania oraz niezbędnymi pouczeniami, mając na uwadze prawidłowe obliczenie podatku."
+    },
+    {
+      "provision_ref": "art6au12p1",
+      "section": "6a",
+      "title": "Art. 6a ust. 12 pkt 1",
+      "content": "sposób przesyłania informacji o gruntach oraz deklaracji na podatek rolny za pomocą środków komunikacji elektronicznej,"
+    },
+    {
+      "provision_ref": "art6au12p2",
+      "section": "6a",
+      "title": "Art. 6a ust. 12 pkt 2",
+      "content": "rodzaje podpisu elektronicznego, którym powinny być opatrzone informacje o gruntach oraz deklaracje na podatek rolny – uwzględniając potrzebę zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności danych zawartych w tych informacjach i deklaracjach oraz potrzebę ich ochrony przed nieuprawnionym dostępem. 13. (uchylony)"
+    },
+    {
+      "provision_ref": "art6au14",
+      "section": "6a",
+      "title": "Art. 6a ust. 14",
+      "content": "Poświadczenie przez organ podatkowy złożenia informacji o gruntach lub deklaracji na podatek rolny za pomocą środków komunikacji elektronicznej odbywa się zgodnie z przepisami o informatyzacji działalności podmiotów realizujących zadania publiczne."
+    },
+    {
+      "provision_ref": "art6b",
+      "section": "6b",
+      "title": "Art. 6b",
+      "content": "Rada gminy może zarządzać pobór podatku rolnego od osób fizycznych w drodze inkasa oraz określać inkasentów i wysokość wynagrodzenia za inkaso."
+    },
+    {
+      "provision_ref": "art6c",
+      "section": "6c",
+      "title": "Art. 6c",
+      "content": "1. Osobom fizycznym, na których ciąży obowiązek podatkowy w zakresie podatku rolnego oraz jednocześnie w zakresie podatku od nieruchomości lub podatku leśnego dotyczący przedmiotów opodatkowania położonych na terenie tej samej gminy, wysokość należnego zobowiązania podatkowego pobieranego w formie łącznego zobowiązania pieniężnego ustala organ podatkowy w jednej decyzji (nakazie płatniczym), z zastrzeżeniem ust. 2. Przepisy art. 6a ust. 6a i 10a stosuje się odpowiednio. 2. Łączne zobowiązanie pieniężne należne od przedmiotów opodatkowania stanowiących współwłasność lub znajdujących się w posiadaniu dwóch lub więcej osób fizycznych ustala się w odrębnej decyzji (nakazie płatniczym), który wystawia się na któregokolwiek ze współwłaścicieli (posiadaczy). Jeżeli gospodarstwo rolne prowadzi w całości jedna z tych osób, nakaz płatniczy wystawia się na tę osobę."
+    },
+    {
+      "provision_ref": "art6cu1",
+      "section": "6c",
+      "title": "Art. 6c ust. 1",
+      "content": "Osobom fizycznym, na których ciąży obowiązek podatkowy w zakresie podatku rolnego oraz jednocześnie w zakresie podatku od nieruchomości lub podatku leśnego dotyczący przedmiotów opodatkowania położonych na terenie tej samej gminy, wysokość należnego zobowiązania podatkowego pobieranego w formie łącznego zobowiązania pieniężnego ustala organ podatkowy w jednej decyzji (nakazie płatniczym), z zastrzeżeniem ust."
+    },
+    {
+      "provision_ref": "art6cu2",
+      "section": "6c",
+      "title": "Art. 6c ust. 2",
+      "content": "Przepisy art. 6a ust. 6a i 10a stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "art6cu2",
+      "section": "6c",
+      "title": "Art. 6c ust. 2",
+      "content": "Łączne zobowiązanie pieniężne należne od przedmiotów opodatkowania stanowiących współwłasność lub znajdujących się w posiadaniu dwóch lub więcej osób fizycznych ustala się w odrębnej decyzji (nakazie płatniczym), który wystawia się na któregokolwiek ze współwłaścicieli (posiadaczy). Jeżeli gospodarstwo rolne prowadzi w całości jedna z tych osób, nakaz płatniczy wystawia się na tę osobę."
+    },
+    {
+      "provision_ref": "art6d",
+      "section": "6d",
+      "title": "Art. 6d",
+      "content": "1. Organ podatkowy właściwy ze względu na miejsce położenia gruntów, na wniosek podatnika podatku rolnego, będącego osobą fizyczną, oraz podatnika podatku rolnego będącego rolniczą spółdzielnią produkcyjną przekazuje kwotę w wysokości 1,5 % należnego podatku rolnego na rzecz wybranego przez tego podatnika: 1) związku zawodowego rolników indywidualnych uprawnionego do otrzymania tej kwoty na podstawie art. 8b ust. 1 ustawy z dnia 7 kwietnia 1989 r. o związkach zawodowych rolników indywidualnych (Dz. U. z 2024 r. poz. 908) albo 2) związku rewizyjnego zrzeszającego rolnicze spółdzielnie produkcyjne, uprawnionego do otrzymania tej kwoty na podstawie art. 257a ust. 1 ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze (Dz. U. z 2024 r. poz. 593), albo 3) Krajowego Związku Rolników, Kółek i Organizacji Rolniczych uprawnionego do otrzymania tej kwoty na podstawie art. 35a ust. 1 ustawy z dnia 8 października 1982 r. o społeczno-zawodowych organizacjach rolników (Dz. U. z 2025 r. poz. 781) – zwanych dalej „podmiotami uprawnionymi”. 2. W przypadku gdy obowiązek podatkowy ciąży solidarnie na kilku współwłaścicielach (posiadaczach), organ podatkowy przekazuje kwotę w wysokości 1,5 % należnego podatku rolnego za dany rok podatkowy od kwoty zapłaconej z tytułu tego podatku przez współwłaściciela (posiadacza), na rzecz podmiotu uprawnionego wybranego przez tego współwłaściciela (posiadacza). 3. Warunkiem przekazania kwoty, o której mowa w ust. 1 lub 2, jest zapłata w pełnej wysokości podatku należnego stanowiącego podstawę obliczenia tej kwoty. 4. We wniosku, o którym mowa w ust. 1, podaje się, na rzecz jakiego podmiotu uprawnionego ma być przekazana kwota 1,5 % należnego podatku rolnego, wskazując numer wpisu podmiotu uprawnionego w Krajowym Rejestrze Sądowym. 5. Wniosek, o którym mowa w ust. 1: 1) sporządza się zgodnie z wzorem określonym w przepisach wydanych na podstawie ust. 7 i składa się od dnia 1 marca do dnia 15 listopada roku podatkowego; 2) może być złożony za pomocą środków komunikacji elektronicznej. 6. Poświadczenie przez organ podatkowy złożenia wniosku, o którym mowa w ust. 1, za pomocą środków komunikacji elektronicznej odbywa się zgodnie z przepisami o informatyzacji działalności podmiotów realizujących zadania publiczne. 7. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór wniosku, o którym mowa w ust. 1, oraz szczegółowy zakres zawartych w nim danych niezbędnych do przekazania podmiotowi uprawnionemu 1,5 % należnego podatku rolnego, mając na względzie umożliwienie identyfikacji podatnika i właściwego organu podatkowego, do którego jest składany ten wniosek, oraz poprawne przekazanie kwoty 1,5 % należnego podatku rolnego. 8. Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia: 1) sposób przekazywania wniosku, o którym mowa w ust. 1, za pomocą środków komunikacji elektronicznej, 2) rodzaje podpisu elektronicznego, którym powinien zostać opatrzony wniosek, o którym mowa w ust. 1 – uwzględniając potrzebę zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności danych zawartych w tym wniosku oraz potrzebę ochrony tych danych przed nieuprawnionym dostępem."
+    },
+    {
+      "provision_ref": "art6du1p1",
+      "section": "6d",
+      "title": "Art. 6d ust. 1 pkt 1",
+      "content": "związku zawodowego rolników indywidualnych uprawnionego do otrzymania tej kwoty na podstawie art. 8b ust. 1 ustawy z dnia 7 kwietnia 1989 r. o związkach zawodowych rolników indywidualnych (Dz. U. z 2024 r. poz."
+    },
+    {
+      "provision_ref": "art6du1p908",
+      "section": "6d",
+      "title": "Art. 6d ust. 1 pkt 908",
+      "content": "albo"
+    },
+    {
+      "provision_ref": "art6du1p2",
+      "section": "6d",
+      "title": "Art. 6d ust. 1 pkt 2",
+      "content": "związku rewizyjnego zrzeszającego rolnicze spółdzielnie produkcyjne, uprawnionego do otrzymania tej kwoty na podstawie art. 257a ust. 1 ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze (Dz. U. z 2024 r. poz. 593), albo"
+    },
+    {
+      "provision_ref": "art6du1p3",
+      "section": "6d",
+      "title": "Art. 6d ust. 1 pkt 3",
+      "content": "Krajowego Związku Rolników, Kółek i Organizacji Rolniczych uprawnionego do otrzymania tej kwoty na podstawie art. 35a ust. 1 ustawy z dnia 8 października 1982 r. o społeczno-zawodowych organizacjach rolników (Dz. U. z 2025 r. poz."
+    },
+    {
+      "provision_ref": "art6du1p781",
+      "section": "6d",
+      "title": "Art. 6d ust. 1 pkt 781",
+      "content": "– zwanych dalej „podmiotami uprawnionymi”."
+    },
+    {
+      "provision_ref": "art6du2",
+      "section": "6d",
+      "title": "Art. 6d ust. 2",
+      "content": "W przypadku gdy obowiązek podatkowy ciąży solidarnie na kilku współwłaścicielach (posiadaczach), organ podatkowy przekazuje kwotę w wysokości 1,5 % należnego podatku rolnego za dany rok podatkowy od kwoty zapłaconej z tytułu tego podatku przez współwłaściciela (posiadacza), na rzecz podmiotu uprawnionego wybranego przez tego współwłaściciela (posiadacza)."
+    },
+    {
+      "provision_ref": "art6du3",
+      "section": "6d",
+      "title": "Art. 6d ust. 3",
+      "content": "Warunkiem przekazania kwoty, o której mowa w ust. 1 lub 2, jest zapłata w pełnej wysokości podatku należnego stanowiącego podstawę obliczenia tej kwoty."
+    },
+    {
+      "provision_ref": "art6du4",
+      "section": "6d",
+      "title": "Art. 6d ust. 4",
+      "content": "We wniosku, o którym mowa w ust. 1, podaje się, na rzecz jakiego podmiotu uprawnionego ma być przekazana kwota 1,5 % należnego podatku rolnego, wskazując numer wpisu podmiotu uprawnionego w Krajowym Rejestrze Sądowym."
+    },
+    {
+      "provision_ref": "art6du5p1",
+      "section": "6d",
+      "title": "Art. 6d ust. 5 pkt 1",
+      "content": "sporządza się zgodnie z wzorem określonym w przepisach wydanych na podstawie ust. 7 i składa się od dnia 1 marca do dnia 15 listopada roku podatkowego;"
+    },
+    {
+      "provision_ref": "art6du5p2",
+      "section": "6d",
+      "title": "Art. 6d ust. 5 pkt 2",
+      "content": "może być złożony za pomocą środków komunikacji elektronicznej."
+    },
+    {
+      "provision_ref": "art6du6",
+      "section": "6d",
+      "title": "Art. 6d ust. 6",
+      "content": "Poświadczenie przez organ podatkowy złożenia wniosku, o którym mowa w ust. 1, za pomocą środków komunikacji elektronicznej odbywa się zgodnie z przepisami o informatyzacji działalności podmiotów realizujących zadania publiczne."
+    },
+    {
+      "provision_ref": "art6du7",
+      "section": "6d",
+      "title": "Art. 6d ust. 7",
+      "content": "Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór wniosku, o którym mowa w ust. 1, oraz szczegółowy zakres zawartych w nim danych niezbędnych do przekazania podmiotowi uprawnionemu 1,5 % należnego podatku rolnego, mając na względzie umożliwienie identyfikacji podatnika i właściwego organu podatkowego, do którego jest składany ten wniosek, oraz poprawne przekazanie kwoty 1,5 % należnego podatku rolnego."
+    },
+    {
+      "provision_ref": "art6du8p1",
+      "section": "6d",
+      "title": "Art. 6d ust. 8 pkt 1",
+      "content": "sposób przekazywania wniosku, o którym mowa w ust. 1, za pomocą środków komunikacji elektronicznej,"
+    },
+    {
+      "provision_ref": "art6du8p2",
+      "section": "6d",
+      "title": "Art. 6d ust. 8 pkt 2",
+      "content": "rodzaje podpisu elektronicznego, którym powinien zostać opatrzony wniosek, o którym mowa w ust. 1 – uwzględniając potrzebę zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności danych zawartych w tym wniosku oraz potrzebę ochrony tych danych przed nieuprawnionym dostępem."
+    },
+    {
+      "provision_ref": "art6e",
+      "section": "6e",
+      "title": "Art. 6e",
+      "content": "1. Kwotę, o której mowa w art. 6d ust. 1, zaokrągloną do pełnych dziesiątek groszy w dół, organ podatkowy przekazuje na rachunek bankowy lub rachunek w spółdzielczej kasie oszczędnościowo-kredytowej wybranego przez podatnika podmiotu uprawnionego, jednorazowo w terminie do dnia 31 grudnia roku podatkowego, z tym że tę kwotę pomniejsza się o koszty przelewu bankowego. 2. Jeżeli kwota, o której mowa w art. 6d ust. 1, nie zostanie przekazana podmiotowi uprawnionemu w terminie, o którym mowa w ust. 1, przysługują mu odsetki ustawowe."
+    },
+    {
+      "provision_ref": "art6eu1",
+      "section": "6e",
+      "title": "Art. 6e ust. 1",
+      "content": "Kwotę, o której mowa w art. 6d ust. 1, zaokrągloną do pełnych dziesiątek groszy w dół, organ podatkowy przekazuje na rachunek bankowy lub rachunek w spółdzielczej kasie oszczędnościowo-kredytowej wybranego przez podatnika podmiotu uprawnionego, jednorazowo w terminie do dnia 31 grudnia roku podatkowego, z tym że tę kwotę pomniejsza się o koszty przelewu bankowego."
+    },
+    {
+      "provision_ref": "art6eu2",
+      "section": "6e",
+      "title": "Art. 6e ust. 2",
+      "content": "Jeżeli kwota, o której mowa w art. 6d ust. 1, nie zostanie przekazana podmiotowi uprawnionemu w terminie, o którym mowa w ust. 1, przysługują mu odsetki ustawowe."
+    },
+    {
+      "provision_ref": "art6f",
+      "section": "6f",
+      "title": "Art. 6f",
+      "content": "1. Z tytułu przekazania kwot, o których mowa w art. 6d ust. 1 i 2, na rzecz podmiotów uprawnionych gminom przysługuje z budżetu państwa zwrot utraconych dochodów. 2. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, warunki i tryb zwrotu, o którym mowa w ust. 1, kierując się potrzebą zabezpieczenia budżetów gmin przed utratą dochodów. Rozdział 3 (uchylony) Rozdział 4 Zwolnienia i ulgi podatkowe"
+    },
+    {
+      "provision_ref": "art6fu1",
+      "section": "6f",
+      "title": "Art. 6f ust. 1",
+      "content": "Z tytułu przekazania kwot, o których mowa w art. 6d ust. 1 i 2, na rzecz podmiotów uprawnionych gminom przysługuje z budżetu państwa zwrot utraconych dochodów."
+    },
+    {
+      "provision_ref": "art6fu2",
+      "section": "6f",
+      "title": "Art. 6f ust. 2",
+      "content": "Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, warunki i tryb zwrotu, o którym mowa w ust. 1, kierując się potrzebą zabezpieczenia budżetów gmin przed utratą dochodów. Rozdział 3 (uchylony) Rozdział 4 Zwolnienia i ulgi podatkowe"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Art. 12",
-      "content": "1. Zwalnia się od podatku rolnego od gruntów: 1) użytki rolne klas VI i VIz, 2) grunty pod lasami z drzewostanem w wieku do lat 50, licząc od roku następnego po zalesieniu. 2. Rada Ministrów, w drodze rozporządzenia, może zwalniać od podatku rolnego inne grunty niż określone w ust. 1."
+      "content": "1. Zwalnia się od podatku rolnego: 1) użytki rolne klasy V, VI i VIz oraz grunty zadrzewione i zakrzewione ustanowione na użytkach rolnych; 2) grunty położone w pasie drogi granicznej; 3) grunty orne, łąki i pastwiska objęte melioracją – w roku, w którym uprawy zostały zniszczone wskutek robót drenarskich; 4) grunty przeznaczone na utworzenie nowego gospodarstwa rolnego lub powiększenie już istniejącego do powierzchni nieprzekraczającej 100 ha: a) będące przedmiotem prawa własności lub prawa użytkowania wieczystego, nabyte w drodze umowy sprzedaży, b) będące przedmiotem umowy o oddanie gruntów w użytkowanie wieczyste, c) wchodzące w skład Zasobu Własności Rolnej Skarbu Państwa, objęte w trwałe zagospodarowanie; 5) grunty gospodarstw rolnych powstałe z zagospodarowania nieużytków – na okres 5 lat, licząc od roku następnego po zakończeniu zagospodarowania; 6) grunty gospodarstw rolnych otrzymane w drodze wymiany lub scalenia – na 1 rok następujący po roku, w którym dokonano wymiany lub scalenia gruntów; 7) grunty gospodarstw rolnych, na których zaprzestano produkcji rolnej, z tym że zwolnienie może dotyczyć nie więcej niż 20 % powierzchni użytków rolnych gospodarstwa rolnego, lecz nie więcej niż 10 ha – na okres nie dłuższy niż 3 lata, w stosunku do tych samych gruntów; 8) użytki ekologiczne; 9) grunty zajęte przez zbiorniki wody służące do zaopatrzenia ludności w wodę; 10) grunty pod wałami przeciwpowodziowymi i grunty położone w międzywałach; 11) grunty wpisane do rejestru zabytków, pod warunkiem ich zagospodarowania i utrzymania zgodnie z przepisami o ochronie zabytków i opiece nad zabytkami; 12) grunty stanowiące działki przyzagrodowe członków rolniczych spółdzielni produkcyjnych, którzy: a) osiągnęli wiek emerytalny, b) są inwalidami zaliczonymi do I albo II grupy, c) są niepełnosprawnymi o znacznym lub umiarkowanym stopniu niepełnosprawności, d) są osobami całkowicie niezdolnymi do pracy w gospodarstwie rolnym albo niezdolnymi do samodzielnej egzystencji; 13) grunty położone na terenie rodzinnego ogrodu działkowego, z wyjątkiem będących w posiadaniu podmiotów innych niż działkowcy lub stowarzyszenia ogrodowe w rozumieniu ustawy z dnia 13 grudnia 2013 r. o rodzinnych ogrodach działkowych (Dz. U. z 2021 r. poz. 1073). 2. Od podatku rolnego zwalnia się również: 1) uczelnie; zwolnienie nie dotyczy gruntów przekazanych w posiadanie podmiotom innym niż uczelnie; 1a) federacje podmiotów systemu szkolnictwa wyższego i nauki; zwolnienie nie dotyczy gruntów przekazanych w posiadanie podmiotom innym niż te federacje; 2) publiczne i niepubliczne jednostki organizacyjne objęte systemem oświaty oraz prowadzące je organy, w zakresie gruntów zajętych na działalność oświatową; 3) instytuty naukowe i pomocnicze jednostki naukowe Polskiej Akademii Nauk, w odniesieniu do gruntów, które są niezbędne do realizacji zadań, o których mowa w art. 2 ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk (Dz. U. z 2020 r. poz. 1796 oraz z 2025 r. poz. 621); 4) prowadzących zakłady pracy chronionej spełniające warunek, o którym mowa w art. 28 ust. 1 pkt 1 lit. b ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2025 r. poz. 913), lub zakłady aktywności zawodowej – w zakresie gruntów zgłoszonych wojewodzie, jeżeli zgłoszenie zostało potwierdzone decyzją w sprawie przyznania statusu zakładu pracy chronionej lub zakładu aktywności zawodowej albo zaświadczeniem – zajętych na prowadzenie tego zakładu, z wyjątkiem gruntów znajdujących się w posiadaniu zależnym podmiotów niebędących prowadzącymi zakłady pracy chronionej spełniające warunek, o którym mowa w art. 28 ust. 1 pkt 1 lit. b ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych lub zakłady aktywności zawodowej; 5) instytuty badawcze; 5a) przedsiębiorców o statusie centrum badawczo-rozwojowego uzyskanym na zasadach określonych w przepisach o niektórych formach wspierania działalności innowacyjnej, w odniesieniu do przedmiotów opodatkowania zajętych na cele prowadzonych badań i prac rozwojowych; 6) (uchylony) 7) Krajowy Zasób Nieruchomości, w zakresie nieruchomości wchodzących w skład Zasobu Nieruchomości, o którym mowa w ustawie z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości; 8) Centrum Łukasiewicz i instytuty działające w ramach Sieci Badawczej Łukasiewicz. 3. Okres zwolnienia, o którym mowa w ust. 1 pkt 4, wynosi 5 lat, licząc od pierwszego dnia miesiąca następującego po miesiącu, w którym zawarto umowę sprzedaży gruntów lub prawa wieczystego użytkowania, ustanowiono prawo wieczystego użytkowania gruntów lub objęto grunty w trwałe zagospodarowanie w drodze umowy. 4. Jeżeli podatnik nabywa lub obejmuje grunty o powierzchni mniejszej niż 100 ha, zwolnienie, o którym mowa w ust. 1 pkt 4, dotyczy gruntów kolejno nabywanych lub obejmowanych w trwałe zagospodarowanie do powierzchni łącznie nieprzekraczającej 100 ha. 5. W razie nabycia gruntów od indywidualnych właścicieli gospodarstw rolnych, nie stosuje się zwolnienia, jeżeli nabywca jest małżonkiem, krewnym w linii prostej lub jego małżonkiem, pasierbem, zięciem lub synową sprzedawcy gruntów. 6. Po upływie okresu zwolnienia, o którym mowa w ust. 1 pkt 4, 5 i 6, stosuje się ulgę w podatku rolnym, polegającą na obniżeniu podatku w pierwszym roku o 75 % i w drugim roku o 50 %. 7. Zwolnienia i ulgi z tytułu nabycia gruntów z Zasobu Własności Rolnej Skarbu Państwa w drodze umowy sprzedaży nie stosuje się, jeżeli przedmiotem nabycia są grunty objęte uprzednio przez nabywcę w trwałe zagospodarowanie. 8. Za trwałe zagospodarowanie, o którym mowa w ust. 1 pkt 4 oraz ust. 3, 4 i 7, uważa się objęcie gruntów w dzierżawę lub użytkowanie na okres nie krótszy niż 10 lat. 9. Rada gminy określa, w drodze uchwały, tryb i szczegółowe warunki zwolnienia, o którym mowa w ust. 1 pkt 7. 10. Z tytułu zwolnienia od podatku rolnego, o którym mowa w ust. 2 pkt 5a, jednostkom samorządu terytorialnego przysługuje z budżetu państwa zwrot utraconych dochodów. 11. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, zasady i tryb zwrotu utraconych dochodów, o których mowa w ust. 10, kierując się potrzebą zabezpieczenia budżetów gmin przed utratą dochodów. 12. Zwolnienie i ulga, o których mowa w: 1) ust. 1 pkt 4–6 i ust. 6, stanowią pomoc de minimis w rolnictwie udzielaną w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis w rolnictwie; 2) ust. 2 pkt 5a, stanowi pomoc de minimis udzielaną w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis."
+    },
+    {
+      "provision_ref": "art12u1p1",
+      "section": "12",
+      "title": "Art. 12 ust. 1 pkt 1",
+      "content": "użytki rolne klasy V, VI i VIz oraz grunty zadrzewione i zakrzewione ustanowione na użytkach rolnych;"
+    },
+    {
+      "provision_ref": "art12u1p2",
+      "section": "12",
+      "title": "Art. 12 ust. 1 pkt 2",
+      "content": "grunty położone w pasie drogi granicznej;"
+    },
+    {
+      "provision_ref": "art12u1p3",
+      "section": "12",
+      "title": "Art. 12 ust. 1 pkt 3",
+      "content": "grunty orne, łąki i pastwiska objęte melioracją – w roku, w którym uprawy zostały zniszczone wskutek robót drenarskich;"
+    },
+    {
+      "provision_ref": "art12u1p4",
+      "section": "12",
+      "title": "Art. 12 ust. 1 pkt 4",
+      "content": "grunty przeznaczone na utworzenie nowego gospodarstwa rolnego lub powiększenie już istniejącego do powierzchni nieprzekraczającej 100 ha: a) będące przedmiotem prawa własności lub prawa użytkowania wieczystego, nabyte w drodze umowy sprzedaży, b) będące przedmiotem umowy o oddanie gruntów w użytkowanie wieczyste, c) wchodzące w skład Zasobu Własności Rolnej Skarbu Państwa, objęte w trwałe zagospodarowanie;"
+    },
+    {
+      "provision_ref": "art12u1p5",
+      "section": "12",
+      "title": "Art. 12 ust. 1 pkt 5",
+      "content": "grunty gospodarstw rolnych powstałe z zagospodarowania nieużytków – na okres 5 lat, licząc od roku następnego po zakończeniu zagospodarowania;"
+    },
+    {
+      "provision_ref": "art12u1p6",
+      "section": "12",
+      "title": "Art. 12 ust. 1 pkt 6",
+      "content": "grunty gospodarstw rolnych otrzymane w drodze wymiany lub scalenia – na 1 rok następujący po roku, w którym dokonano wymiany lub scalenia gruntów;"
+    },
+    {
+      "provision_ref": "art12u1p7",
+      "section": "12",
+      "title": "Art. 12 ust. 1 pkt 7",
+      "content": "grunty gospodarstw rolnych, na których zaprzestano produkcji rolnej, z tym że zwolnienie może dotyczyć nie więcej niż 20 % powierzchni użytków rolnych gospodarstwa rolnego, lecz nie więcej niż 10 ha – na okres nie dłuższy niż 3 lata, w stosunku do tych samych gruntów;"
+    },
+    {
+      "provision_ref": "art12u1p8",
+      "section": "12",
+      "title": "Art. 12 ust. 1 pkt 8",
+      "content": "użytki ekologiczne;"
+    },
+    {
+      "provision_ref": "art12u1p9",
+      "section": "12",
+      "title": "Art. 12 ust. 1 pkt 9",
+      "content": "grunty zajęte przez zbiorniki wody służące do zaopatrzenia ludności w wodę;"
+    },
+    {
+      "provision_ref": "art12u1p10",
+      "section": "12",
+      "title": "Art. 12 ust. 1 pkt 10",
+      "content": "grunty pod wałami przeciwpowodziowymi i grunty położone w międzywałach;"
+    },
+    {
+      "provision_ref": "art12u1p11",
+      "section": "12",
+      "title": "Art. 12 ust. 1 pkt 11",
+      "content": "grunty wpisane do rejestru zabytków, pod warunkiem ich zagospodarowania i utrzymania zgodnie z przepisami o ochronie zabytków i opiece nad zabytkami;"
+    },
+    {
+      "provision_ref": "art12u1p12",
+      "section": "12",
+      "title": "Art. 12 ust. 1 pkt 12",
+      "content": "grunty stanowiące działki przyzagrodowe członków rolniczych spółdzielni produkcyjnych, którzy: a) osiągnęli wiek emerytalny, b) są inwalidami zaliczonymi do I albo II grupy, c) są niepełnosprawnymi o znacznym lub umiarkowanym stopniu niepełnosprawności, d) są osobami całkowicie niezdolnymi do pracy w gospodarstwie rolnym albo niezdolnymi do samodzielnej egzystencji;"
+    },
+    {
+      "provision_ref": "art12u1p13",
+      "section": "12",
+      "title": "Art. 12 ust. 1 pkt 13",
+      "content": "grunty położone na terenie rodzinnego ogrodu działkowego, z wyjątkiem będących w posiadaniu podmiotów innych niż działkowcy lub stowarzyszenia ogrodowe w rozumieniu ustawy z dnia 13 grudnia 2013 r. o rodzinnych ogrodach działkowych (Dz. U. z 2021 r. poz. 1073)."
+    },
+    {
+      "provision_ref": "art12u2p1",
+      "section": "12",
+      "title": "Art. 12 ust. 2 pkt 1",
+      "content": "uczelnie; zwolnienie nie dotyczy gruntów przekazanych w posiadanie podmiotom innym niż uczelnie;"
+    },
+    {
+      "provision_ref": "art12u2p1a",
+      "section": "12",
+      "title": "Art. 12 ust. 2 pkt 1a",
+      "content": "federacje podmiotów systemu szkolnictwa wyższego i nauki; zwolnienie nie dotyczy gruntów przekazanych w posiadanie podmiotom innym niż te federacje;"
+    },
+    {
+      "provision_ref": "art12u2p2",
+      "section": "12",
+      "title": "Art. 12 ust. 2 pkt 2",
+      "content": "publiczne i niepubliczne jednostki organizacyjne objęte systemem oświaty oraz prowadzące je organy, w zakresie gruntów zajętych na działalność oświatową;"
+    },
+    {
+      "provision_ref": "art12u2p3",
+      "section": "12",
+      "title": "Art. 12 ust. 2 pkt 3",
+      "content": "instytuty naukowe i pomocnicze jednostki naukowe Polskiej Akademii Nauk, w odniesieniu do gruntów, które są niezbędne do realizacji zadań, o których mowa w art. 2 ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk (Dz. U. z 2020 r. poz. 1796 oraz z 2025 r. poz. 621);"
+    },
+    {
+      "provision_ref": "art12u2p4",
+      "section": "12",
+      "title": "Art. 12 ust. 2 pkt 4",
+      "content": "prowadzących zakłady pracy chronionej spełniające warunek, o którym mowa w art. 28 ust. 1 pkt 1 lit. b ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2025 r. poz. 913), lub zakłady aktywności zawodowej – w zakresie gruntów zgłoszonych wojewodzie, jeżeli zgłoszenie zostało potwierdzone decyzją w sprawie przyznania statusu zakładu pracy chronionej lub zakładu aktywności zawodowej albo zaświadczeniem – zajętych na prowadzenie tego zakładu, z wyjątkiem gruntów znajdujących się w posiadaniu zależnym podmiotów niebędących prowadzącymi zakłady pracy chronionej spełniające warunek, o którym mowa w art. 28 ust. 1 pkt 1 lit. b ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych lub zakłady aktywności zawodowej;"
+    },
+    {
+      "provision_ref": "art12u2p5",
+      "section": "12",
+      "title": "Art. 12 ust. 2 pkt 5",
+      "content": "instytuty badawcze;"
+    },
+    {
+      "provision_ref": "art12u2p5a",
+      "section": "12",
+      "title": "Art. 12 ust. 2 pkt 5a",
+      "content": "przedsiębiorców o statusie centrum badawczo-rozwojowego uzyskanym na zasadach określonych w przepisach o niektórych formach wspierania działalności innowacyjnej, w odniesieniu do przedmiotów opodatkowania zajętych na cele prowadzonych badań i prac rozwojowych;"
+    },
+    {
+      "provision_ref": "art12u2p6",
+      "section": "12",
+      "title": "Art. 12 ust. 2 pkt 6",
+      "content": "(uchylony)"
+    },
+    {
+      "provision_ref": "art12u2p7",
+      "section": "12",
+      "title": "Art. 12 ust. 2 pkt 7",
+      "content": "Krajowy Zasób Nieruchomości, w zakresie nieruchomości wchodzących w skład Zasobu Nieruchomości, o którym mowa w ustawie z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości;"
+    },
+    {
+      "provision_ref": "art12u2p8",
+      "section": "12",
+      "title": "Art. 12 ust. 2 pkt 8",
+      "content": "Centrum Łukasiewicz i instytuty działające w ramach Sieci Badawczej Łukasiewicz."
+    },
+    {
+      "provision_ref": "art12u3",
+      "section": "12",
+      "title": "Art. 12 ust. 3",
+      "content": "Okres zwolnienia, o którym mowa w ust. 1 pkt 4, wynosi 5 lat, licząc od pierwszego dnia miesiąca następującego po miesiącu, w którym zawarto umowę sprzedaży gruntów lub prawa wieczystego użytkowania, ustanowiono prawo wieczystego użytkowania gruntów lub objęto grunty w trwałe zagospodarowanie w drodze umowy."
+    },
+    {
+      "provision_ref": "art12u4",
+      "section": "12",
+      "title": "Art. 12 ust. 4",
+      "content": "Jeżeli podatnik nabywa lub obejmuje grunty o powierzchni mniejszej niż 100 ha, zwolnienie, o którym mowa w ust. 1 pkt 4, dotyczy gruntów kolejno nabywanych lub obejmowanych w trwałe zagospodarowanie do powierzchni łącznie nieprzekraczającej 100 ha."
+    },
+    {
+      "provision_ref": "art12u5",
+      "section": "12",
+      "title": "Art. 12 ust. 5",
+      "content": "W razie nabycia gruntów od indywidualnych właścicieli gospodarstw rolnych, nie stosuje się zwolnienia, jeżeli nabywca jest małżonkiem, krewnym w linii prostej lub jego małżonkiem, pasierbem, zięciem lub synową sprzedawcy gruntów."
+    },
+    {
+      "provision_ref": "art12u6",
+      "section": "12",
+      "title": "Art. 12 ust. 6",
+      "content": "Po upływie okresu zwolnienia, o którym mowa w ust. 1 pkt 4, 5 i 6, stosuje się ulgę w podatku rolnym, polegającą na obniżeniu podatku w pierwszym roku o 75 % i w drugim roku o 50 %."
+    },
+    {
+      "provision_ref": "art12u7",
+      "section": "12",
+      "title": "Art. 12 ust. 7",
+      "content": "Zwolnienia i ulgi z tytułu nabycia gruntów z Zasobu Własności Rolnej Skarbu Państwa w drodze umowy sprzedaży nie stosuje się, jeżeli przedmiotem nabycia są grunty objęte uprzednio przez nabywcę w trwałe zagospodarowanie."
+    },
+    {
+      "provision_ref": "art12u8",
+      "section": "12",
+      "title": "Art. 12 ust. 8",
+      "content": "Za trwałe zagospodarowanie, o którym mowa w ust. 1 pkt 4 oraz ust. 3, 4 i 7, uważa się objęcie gruntów w dzierżawę lub użytkowanie na okres nie krótszy niż 10 lat."
+    },
+    {
+      "provision_ref": "art12u9",
+      "section": "12",
+      "title": "Art. 12 ust. 9",
+      "content": "Rada gminy określa, w drodze uchwały, tryb i szczegółowe warunki zwolnienia, o którym mowa w ust. 1 pkt 7."
+    },
+    {
+      "provision_ref": "art12u10",
+      "section": "12",
+      "title": "Art. 12 ust. 10",
+      "content": "Z tytułu zwolnienia od podatku rolnego, o którym mowa w ust. 2 pkt 5a, jednostkom samorządu terytorialnego przysługuje z budżetu państwa zwrot utraconych dochodów."
+    },
+    {
+      "provision_ref": "art12u11",
+      "section": "12",
+      "title": "Art. 12 ust. 11",
+      "content": "Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, zasady i tryb zwrotu utraconych dochodów, o których mowa w ust. 10, kierując się potrzebą zabezpieczenia budżetów gmin przed utratą dochodów."
+    },
+    {
+      "provision_ref": "art12u12p1",
+      "section": "12",
+      "title": "Art. 12 ust. 12 pkt 1",
+      "content": "ust. 1 pkt 4–6 i ust. 6, stanowią pomoc de minimis w rolnictwie udzielaną w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis w rolnictwie;"
+    },
+    {
+      "provision_ref": "art12u12p2",
+      "section": "12",
+      "title": "Art. 12 ust. 12 pkt 2",
+      "content": "ust. 2 pkt 5a, stanowi pomoc de minimis udzielaną w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis."
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Art. 13",
-      "content": "1. Podatnikom podatku rolnego przysługują ulgi z tytułu: 1) inwestycji oraz modernizacji budynków gospodarczych, obiektów i urządzeń służących do produkcji rolnej, a także inwestycji polegających na budownictwie mieszkaniowym w gospodarstwach nowo tworzonych na gruntach zakupionych z Państwowego Funduszu Ziemi lub podlegających przepisom o osadnictwie rolnym, 2) nabycia gruntów, 3) przyjęcia gruntów w trwałe zagospodarowanie przez jednostki gospodarki uspołecznionej, 4) położenia gruntów na terenach podgórskich i górskich, 5) klęsk żywiołowych, 6) spełniania obowiązku służby wojskowej lub jej form zastępczych. 2. Ulga inwestycyjna z tytułu tej samej inwestycji nie może być stosowana dłużej niż przez 15 lat. 3. Wysokość ulgi z tytułów określonych w ust. 1 pkt 1, 4 i 6 nie może przekraczać 60% kwoty podatku rolnego, należnego w danym roku podatkowym. 4. Rada Ministrów, w drodze rozporządzenia, określi zasady, wysokość i tryb stosowania ulg wymienionych w ust. 1. Rozdział 5 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe"
+      "content": "1. Podatnikom podatku rolnego przysługuje ulga inwestycyjna z tytułu wydatków poniesionych na: 1) budowę lub modernizację budynków inwentarskich służących do chowu, hodowli i utrzymywania zwierząt gospodarskich oraz obiektów służących ochronie środowiska, 2) zakup i zainstalowanie: a) deszczowni, b) urządzeń melioracyjnych i urządzeń zaopatrzenia gospodarstwa w wodę, c) urządzeń do wykorzystywania na cele produkcyjne naturalnych źródeł energii (wiatru, biogazu, słońca, spadku wód) – jeżeli wydatki te nie zostały sfinansowane w całości lub w części z udziałem środków publicznych. 2. Ulga inwestycyjna przyznawana jest po zakończeniu inwestycji i polega na odliczeniu od należnego podatku rolnego od gruntów położonych na terenie gminy, w której została dokonana inwestycja – w wysokości 25 % udokumentowanych rachunkami nakładów inwestycyjnych. 3. Ulga z tytułu tej samej inwestycji nie może być stosowana dłużej niż przez 15 lat. 3a. Kwota ulgi inwestycyjnej jest odliczana z urzędu w decyzji ustalającej wysokość zobowiązania podatkowego. Podatnicy obowiązani do składania deklaracji na podatek rolny odliczają, określoną w decyzji w sprawie ulgi inwestycyjnej, kwotę przyznanej ulgi od należnego podatku rolnego. 4. Podatnik traci prawo do odliczenia od podatku rolnego niewykorzystanej kwoty ulgi inwestycyjnej w przypadku sprzedaży obiektów i urządzeń, od których przyznana została ta ulga, lub przeznaczenia ich na inne cele niż określone w ust. 1. 5. (uchylony)"
     },
     {
-      "provision_ref": "art14",
-      "section": "14",
-      "title": "Art. 14",
-      "content": "W ustawie z dnia 19 grudnia 1980 r. o zobowiązaniach podatkowych ( Dz. U. Nr 27, poz. 111 i z 1982 r. Nr 45, poz. 289 ) wprowadza się następujące zmiany: 1) w art. 2 dodaje się ust. 4 w brzmieniu: „ 4. Rada Ministrów w drodze rozporządzenia, może określić, że świadczenia pieniężne od gospodarstw rolnych i od nieruchomości położonych na terenie gmin wynikające z zobowiązań podatkowych oraz inne świadczenia pieniężne, na które zostały rozciągnięte przepisy ustawy, są pobierane w formie łącznego zobowiązania pieniężnego na podstawie jednego nakazu płatniczego, a także określić osoby, na które wystawia się nakaz płatniczy. W rozporządzeniu tym Rada Ministrów określi sposób zarachowywania wpłat na poczet poszczególnych świadczeń pieniężnych pobieranych w formie łącznego zobowiązania pieniężnego oraz zasady rozliczeń wpływów z tytułu tych świadczeń z poszczególnymi wierzycielami. ” , 2) po art. 48 dodaje się art. 48a w brzmieniu: „ Art. 48a. Za zobowiązania pieniężne, wchodzące w skład łącznego zobowiązania pieniężnego, należne od osób, których świadczenia wchodzą w skład tego zobowiązania, odpowiadają solidarnie te osoby oraz osoby, na które wystawia się nakaz płatniczy. ”"
+      "provision_ref": "art13u1p1",
+      "section": "13",
+      "title": "Art. 13 ust. 1 pkt 1",
+      "content": "budowę lub modernizację budynków inwentarskich służących do chowu, hodowli i utrzymywania zwierząt gospodarskich oraz obiektów służących ochronie środowiska,"
     },
     {
-      "provision_ref": "art15",
-      "section": "15",
-      "title": "Art. 15",
-      "content": "W ustawie z dnia 14 grudnia 1982 r. o zaopatrzeniu emerytalnym pracowników i ich rodzin ( Dz. U. Nr 40, poz. 267 ) w art. 82 w ust. 1 pkt 2 otrzymuje brzmienie: „ 2) dochodów z indywidualnego gospodarstwa rolnego oraz działów specjalnych produkcji rolnej w wysokości określonej przez Radę Ministrów w drodze rozporządzenia. ”"
+      "provision_ref": "art13u1p2",
+      "section": "13",
+      "title": "Art. 13 ust. 1 pkt 2",
+      "content": "zakup i zainstalowanie: a) deszczowni, b) urządzeń melioracyjnych i urządzeń zaopatrzenia gospodarstwa w wodę, c) urządzeń do wykorzystywania na cele produkcyjne naturalnych źródeł energii (wiatru, biogazu, słońca, spadku wód) – jeżeli wydatki te nie zostały sfinansowane w całości lub w części z udziałem środków publicznych."
     },
     {
-      "provision_ref": "art16",
-      "section": "16",
-      "title": "Art. 16",
-      "content": "1. Ulgi w podatku gruntowym, przyznane na podstawie dotychczasowych przepisów, stosuje się do czasu ich wykorzystania, jednak przez okres nie dłuższy niż określony w tych przepisach. 2. Ulgi przyznane na podstawie przepisów ustawy o podatku wyrównawczym stosuje się do czasu ich wykorzystania."
+      "provision_ref": "art13u2",
+      "section": "13",
+      "title": "Art. 13 ust. 2",
+      "content": "Ulga inwestycyjna przyznawana jest po zakończeniu inwestycji i polega na odliczeniu od należnego podatku rolnego od gruntów położonych na terenie gminy, w której została dokonana inwestycja – w wysokości 25 % udokumentowanych rachunkami nakładów inwestycyjnych."
+    },
+    {
+      "provision_ref": "art13u3",
+      "section": "13",
+      "title": "Art. 13 ust. 3",
+      "content": "Ulga z tytułu tej samej inwestycji nie może być stosowana dłużej niż przez 15 lat."
+    },
+    {
+      "provision_ref": "art13u3a",
+      "section": "13",
+      "title": "Art. 13 ust. 3a",
+      "content": "Kwota ulgi inwestycyjnej jest odliczana z urzędu w decyzji ustalającej wysokość zobowiązania podatkowego. Podatnicy obowiązani do składania deklaracji na podatek rolny odliczają, określoną w decyzji w sprawie ulgi inwestycyjnej, kwotę przyznanej ulgi od należnego podatku rolnego."
+    },
+    {
+      "provision_ref": "art13u4",
+      "section": "13",
+      "title": "Art. 13 ust. 4",
+      "content": "Podatnik traci prawo do odliczenia od podatku rolnego niewykorzystanej kwoty ulgi inwestycyjnej w przypadku sprzedaży obiektów i urządzeń, od których przyznana została ta ulga, lub przeznaczenia ich na inne cele niż określone w ust. 1. 5. (uchylony)"
+    },
+    {
+      "provision_ref": "art13a",
+      "section": "13a",
+      "title": "Art. 13a",
+      "content": "(uchylony)"
+    },
+    {
+      "provision_ref": "art13b",
+      "section": "13b",
+      "title": "Art. 13b",
+      "content": "1. Podatek rolny od gruntów położonych na terenach podgórskich i górskich obniża się o 30 % dla gruntów klas I, II, IIIa, III i IIIb, a o 60 % dla gruntów klas IVa, IV i IVb. 2. Za miejscowości położone na terenach podgórskich i górskich uważa się miejscowości, w których co najmniej 50 % użytków rolnych jest położonych powyżej 350 m nad poziomem morza. Wykaz tych miejscowości w danym województwie ustala sejmik województwa."
+    },
+    {
+      "provision_ref": "art13bu1",
+      "section": "13b",
+      "title": "Art. 13b ust. 1",
+      "content": "Podatek rolny od gruntów położonych na terenach podgórskich i górskich obniża się o 30 % dla gruntów klas I, II, IIIa, III i IIIb, a o 60 % dla gruntów klas IVa, IV i IVb."
+    },
+    {
+      "provision_ref": "art13bu2",
+      "section": "13b",
+      "title": "Art. 13b ust. 2",
+      "content": "Za miejscowości położone na terenach podgórskich i górskich uważa się miejscowości, w których co najmniej 50 % użytków rolnych jest położonych powyżej 350 m nad poziomem morza. Wykaz tych miejscowości w danym województwie ustala sejmik województwa."
+    },
+    {
+      "provision_ref": "art13c",
+      "section": "13c",
+      "title": "Art. 13c",
+      "content": "1. W przypadku wprowadzenia stanu klęski żywiołowej, o którym mowa w ustawie z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej (Dz. U. z 2025 r. poz. 112), organ podatkowy może przyznać podatnikowi ulgę w podatku rolnym przez zaniechanie jego ustalenia albo poboru w całości lub w części, w wysokości zależnej od rozmiarów strat spowodowanych klęską w gospodarstwie rolnym. 2. Przy przyznawaniu ulg i ustalaniu ich wysokości uwzględnia się wysokość otrzymanego odszkodowania z tytułu ubezpieczenia ustawowego. 3. Ulgę przyznaje się za ten rok podatkowy, w którym został wprowadzony stan klęski żywiołowej. Jeżeli stan klęski żywiołowej wprowadzony został po zapłaceniu podatku za dany rok, ulgę stosuje się w następnym roku podatkowym."
+    },
+    {
+      "provision_ref": "art13cu1",
+      "section": "13c",
+      "title": "Art. 13c ust. 1",
+      "content": "W przypadku wprowadzenia stanu klęski żywiołowej, o którym mowa w ustawie z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej (Dz. U. z 2025 r. poz. 112), organ podatkowy może przyznać podatnikowi ulgę w podatku rolnym przez zaniechanie jego ustalenia albo poboru w całości lub w części, w wysokości zależnej od rozmiarów strat spowodowanych klęską w gospodarstwie rolnym."
+    },
+    {
+      "provision_ref": "art13cu2",
+      "section": "13c",
+      "title": "Art. 13c ust. 2",
+      "content": "Przy przyznawaniu ulg i ustalaniu ich wysokości uwzględnia się wysokość otrzymanego odszkodowania z tytułu ubezpieczenia ustawowego."
+    },
+    {
+      "provision_ref": "art13cu3",
+      "section": "13c",
+      "title": "Art. 13c ust. 3",
+      "content": "Ulgę przyznaje się za ten rok podatkowy, w którym został wprowadzony stan klęski żywiołowej. Jeżeli stan klęski żywiołowej wprowadzony został po zapłaceniu podatku za dany rok, ulgę stosuje się w następnym roku podatkowym."
+    },
+    {
+      "provision_ref": "art13d",
+      "section": "13d",
+      "title": "Art. 13d",
+      "content": "1. Zwolnienia i ulgi podatkowe określone w art. 12 ust. 1 pkt 3–7 i ust. 6, art. 13 i art. 13c stosuje się na wniosek podatnika w drodze decyzji. 2. Do wniosku o przyznanie ulgi, o której mowa w art. 13, należy dołączyć zestawienie poniesionych wydatków inwestycyjnych wraz z rachunkami lub ich uwierzytelnionymi odpisami, stwierdzającymi wysokość tych wydatków. <2a. Sprawę zastosowania zwolnień i ulg określonych w art. 12 ust. 1 pkt 3–7 i ust. 6 uznaje się za załatwioną milcząco w sposób w całości uwzględniający żądanie wnioskodawcy, jeżeli w terminie 60 dni od dnia złożenia wniosku, o którym mowa w ust. 1, organ podatkowy nie wydał decyzji lub postanowienia kończącego postępowanie w tej sprawie. 2b. Przepisu ust. 2a nie stosuje się, jeżeli: 1) przed upływem terminu, o którym mowa w ust. 2a, organ podatkowy dokonał wezwania na podstawie art. 155 § 1 lub art. 169 § 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa; 2) termin, o którym mowa w ust. 2a, upływa w czasie trwania: a) stanu klęski żywiołowej albo stanu wyjątkowego, b) stanu epidemii albo stanu zagrożenia epidemicznego – na obszarze, na którym znajduje się siedziba organu podatkowego, do którego złożono wniosek, oraz w okresie 60 dni od dnia zniesienia, odwołania albo zakończenia tego stanu.> 3. Zwolnienia i ulgi podatkowe udzielone na wniosek podatnika stosuje się od pierwszego dnia miesiąca następującego po miesiącu, w którym złożono wniosek. <3a. Zawieszenie postępowania wstrzymuje bieg terminu, o którym mowa w ust. 2a. 3b. Milczące załatwienie sprawy, o której mowa w ust. 2a, następuje w dniu następującym po upływie terminu, o którym mowa w tym przepisie. 3c. W aktach sprawy, o której mowa w ust. 2a, zamieszcza się adnotację o milczącym załatwieniu sprawy, wskazując treść i przesłanki rozstrzygnięcia oraz jego podstawę prawną. 3d. Na wniosek podatnika organ podatkowy, w drodze postanowienia, wydaje zaświadczenie o milczącym załatwieniu sprawy, o której mowa w ust. 2a, albo odmawia wydania takiego zaświadczenia. 3e. Na postanowienie, o którym mowa w ust. 3d, przysługuje zażalenie. 3f. Zaświadczenie o milczącym załatwieniu sprawy, o której mowa w ust. 2a, zawiera: 1) oznaczenie organu podatkowego i wnioskodawcy; 2) datę wydania zaświadczenia o milczącym załatwieniu sprawy; 3) powołanie podstawy prawnej; Dodane ust. 2a i 2b oraz 3a-3j w art. 13d wejdą w życie z dn. 1.01.2027 r. (Dz. U. z 2026 r. poz. 875). 4) treść rozstrzygnięcia sprawy załatwionej milcząco; 5) datę milczącego załatwienia sprawy; 6) pouczenie o możliwości wniesienia zażalenia; 7) podpis z podaniem imienia i nazwiska oraz stanowiska służbowego pracownika organu podatkowego upoważnionego do wydania zaświadczenia. 3g. W zakresie nieuregulowanym w ust. 3d–3f do zaświadczenia o milczącym załatwieniu sprawy stosuje się przepisy działu VIIIA ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa. 3h. Do milczącego załatwienia sprawy, o którym mowa w ust. 2a, przepisy działu IV rozdziałów 17–19 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa stosuje się odpowiednio. Przyjmuje się, że skutek wydania decyzji ostatecznej powstał w terminie 14 dni od dnia upływu terminu, o którym mowa w ust. 3b. 3i. W sprawach, o których mowa w ust. 2a, załatwianych milcząco organ podatkowy udostępnia informacje, o których mowa w art. 13 ust. 1 i 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.2)), w Biuletynie Informacji Publicznej na swojej stronie podmiotowej, na swojej stronie internetowej oraz w widocznym miejscu w swojej siedzibie. 3j. Przekazanie informacji, o których mowa w art. 13 ust. 1 i 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE, w sposób określony w ust. 3i, nie zwalnia organu podatkowego z obowiązku ich przekazania przy pierwszej czynności skierowanej do strony.> 2)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35. 4. W przypadku zbiegu prawa do zwolnień i ulg z różnych tytułów, przy ustalaniu zobowiązania podatkowego w zakresie podatku rolnego za dany rok podatkowy w pierwszej kolejności stosuje się ulgi określone w art. 13b, następnie w art. 12 i w art. 13. Podstawę obliczenia ulgi z danego tytułu stanowi należny podatek po zastosowaniu ulgi z tytułu poprzedzającego. 5. Kwota ulgi inwestycyjnej niewykorzystana przez podatnika przechodzi na jego następców, jeżeli gospodarstwo rolne zostało nabyte stosownie do przepisów o ubezpieczeniu społecznym rolników lub w drodze dziedziczenia."
+    },
+    {
+      "provision_ref": "art13du1",
+      "section": "13d",
+      "title": "Art. 13d ust. 1",
+      "content": "Zwolnienia i ulgi podatkowe określone w art. 12 ust. 1 pkt 3–7 i ust. 6, art. 13 i art. 13c stosuje się na wniosek podatnika w drodze decyzji."
+    },
+    {
+      "provision_ref": "art13du2",
+      "section": "13d",
+      "title": "Art. 13d ust. 2",
+      "content": "Do wniosku o przyznanie ulgi, o której mowa w art. 13, należy dołączyć zestawienie poniesionych wydatków inwestycyjnych wraz z rachunkami lub ich uwierzytelnionymi odpisami, stwierdzającymi wysokość tych wydatków. <2a. Sprawę zastosowania zwolnień i ulg określonych w art. 12 ust. 1 pkt 3–7 i ust. 6 uznaje się za załatwioną milcząco w sposób w całości uwzględniający żądanie wnioskodawcy, jeżeli w terminie 60 dni od dnia złożenia wniosku, o którym mowa w ust. 1, organ podatkowy nie wydał decyzji lub postanowienia kończącego postępowanie w tej sprawie."
+    },
+    {
+      "provision_ref": "art13du2bp1",
+      "section": "13d",
+      "title": "Art. 13d ust. 2b pkt 1",
+      "content": "przed upływem terminu, o którym mowa w ust. 2a, organ podatkowy dokonał wezwania na podstawie art. 155 § 1 lub art. 169 § 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa;"
+    },
+    {
+      "provision_ref": "art13du2bp2",
+      "section": "13d",
+      "title": "Art. 13d ust. 2b pkt 2",
+      "content": "termin, o którym mowa w ust. 2a, upływa w czasie trwania: a) stanu klęski żywiołowej albo stanu wyjątkowego, b) stanu epidemii albo stanu zagrożenia epidemicznego – na obszarze, na którym znajduje się siedziba organu podatkowego, do którego złożono wniosek, oraz w okresie 60 dni od dnia zniesienia, odwołania albo zakończenia tego stanu.>"
+    },
+    {
+      "provision_ref": "art13du3",
+      "section": "13d",
+      "title": "Art. 13d ust. 3",
+      "content": "Zwolnienia i ulgi podatkowe udzielone na wniosek podatnika stosuje się od pierwszego dnia miesiąca następującego po miesiącu, w którym złożono wniosek. <3a. Zawieszenie postępowania wstrzymuje bieg terminu, o którym mowa w ust. 2a."
+    },
+    {
+      "provision_ref": "art13du3b",
+      "section": "13d",
+      "title": "Art. 13d ust. 3b",
+      "content": "Milczące załatwienie sprawy, o której mowa w ust. 2a, następuje w dniu następującym po upływie terminu, o którym mowa w tym przepisie."
+    },
+    {
+      "provision_ref": "art13du3c",
+      "section": "13d",
+      "title": "Art. 13d ust. 3c",
+      "content": "W aktach sprawy, o której mowa w ust. 2a, zamieszcza się adnotację o milczącym załatwieniu sprawy, wskazując treść i przesłanki rozstrzygnięcia oraz jego podstawę prawną."
+    },
+    {
+      "provision_ref": "art13du3d",
+      "section": "13d",
+      "title": "Art. 13d ust. 3d",
+      "content": "Na wniosek podatnika organ podatkowy, w drodze postanowienia, wydaje zaświadczenie o milczącym załatwieniu sprawy, o której mowa w ust. 2a, albo odmawia wydania takiego zaświadczenia."
+    },
+    {
+      "provision_ref": "art13du3e",
+      "section": "13d",
+      "title": "Art. 13d ust. 3e",
+      "content": "Na postanowienie, o którym mowa w ust. 3d, przysługuje zażalenie."
+    },
+    {
+      "provision_ref": "art13du3fp1",
+      "section": "13d",
+      "title": "Art. 13d ust. 3f pkt 1",
+      "content": "oznaczenie organu podatkowego i wnioskodawcy;"
+    },
+    {
+      "provision_ref": "art13du3fp2",
+      "section": "13d",
+      "title": "Art. 13d ust. 3f pkt 2",
+      "content": "datę wydania zaświadczenia o milczącym załatwieniu sprawy;"
+    },
+    {
+      "provision_ref": "art13du3fp3",
+      "section": "13d",
+      "title": "Art. 13d ust. 3f pkt 3",
+      "content": "powołanie podstawy prawnej; Dodane ust. 2a i 2b oraz 3a-3j w art. 13d wejdą w życie z dn. 1.01.2027 r. (Dz. U. z 2026 r. poz. 875)."
+    },
+    {
+      "provision_ref": "art13du3fp4",
+      "section": "13d",
+      "title": "Art. 13d ust. 3f pkt 4",
+      "content": "treść rozstrzygnięcia sprawy załatwionej milcząco;"
+    },
+    {
+      "provision_ref": "art13du3fp5",
+      "section": "13d",
+      "title": "Art. 13d ust. 3f pkt 5",
+      "content": "datę milczącego załatwienia sprawy;"
+    },
+    {
+      "provision_ref": "art13du3fp6",
+      "section": "13d",
+      "title": "Art. 13d ust. 3f pkt 6",
+      "content": "pouczenie o możliwości wniesienia zażalenia;"
+    },
+    {
+      "provision_ref": "art13du3fp7",
+      "section": "13d",
+      "title": "Art. 13d ust. 3f pkt 7",
+      "content": "podpis z podaniem imienia i nazwiska oraz stanowiska służbowego pracownika organu podatkowego upoważnionego do wydania zaświadczenia."
+    },
+    {
+      "provision_ref": "art13du3g",
+      "section": "13d",
+      "title": "Art. 13d ust. 3g",
+      "content": "W zakresie nieuregulowanym w ust. 3d–3f do zaświadczenia o milczącym załatwieniu sprawy stosuje się przepisy działu VIIIA ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa."
+    },
+    {
+      "provision_ref": "art13du3h",
+      "section": "13d",
+      "title": "Art. 13d ust. 3h",
+      "content": "Do milczącego załatwienia sprawy, o którym mowa w ust. 2a, przepisy działu IV rozdziałów 17–19 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa stosuje się odpowiednio. Przyjmuje się, że skutek wydania decyzji ostatecznej powstał w terminie 14 dni od dnia upływu terminu, o którym mowa w ust. 3b."
+    },
+    {
+      "provision_ref": "art13du3i",
+      "section": "13d",
+      "title": "Art. 13d ust. 3i",
+      "content": "W sprawach, o których mowa w ust. 2a, załatwianych milcząco organ podatkowy udostępnia informacje, o których mowa w art. 13 ust. 1 i 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.2)), w Biuletynie Informacji Publicznej na swojej stronie podmiotowej, na swojej stronie internetowej oraz w widocznym miejscu w swojej siedzibie."
+    },
+    {
+      "provision_ref": "art13du3j",
+      "section": "13d",
+      "title": "Art. 13d ust. 3j",
+      "content": "Przekazanie informacji, o których mowa w art. 13 ust. 1 i 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE, w sposób określony w ust. 3i, nie zwalnia organu podatkowego z obowiązku ich przekazania przy pierwszej czynności skierowanej do strony.> 2)Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35."
+    },
+    {
+      "provision_ref": "art13du4",
+      "section": "13d",
+      "title": "Art. 13d ust. 4",
+      "content": "W przypadku zbiegu prawa do zwolnień i ulg z różnych tytułów, przy ustalaniu zobowiązania podatkowego w zakresie podatku rolnego za dany rok podatkowy w pierwszej kolejności stosuje się ulgi określone w art. 13b, następnie w art. 12 i w art."
+    },
+    {
+      "provision_ref": "art13du13",
+      "section": "13d",
+      "title": "Art. 13d ust. 13",
+      "content": "Podstawę obliczenia ulgi z danego tytułu stanowi należny podatek po zastosowaniu ulgi z tytułu poprzedzającego."
+    },
+    {
+      "provision_ref": "art13du5",
+      "section": "13d",
+      "title": "Art. 13d ust. 5",
+      "content": "Kwota ulgi inwestycyjnej niewykorzystana przez podatnika przechodzi na jego następców, jeżeli gospodarstwo rolne zostało nabyte stosownie do przepisów o ubezpieczeniu społecznym rolników lub w drodze dziedziczenia."
+    },
+    {
+      "provision_ref": "art13e",
+      "section": "13e",
+      "title": "Art. 13e",
+      "content": "Rada gminy, w drodze uchwały, może wprowadzić inne zwolnienia i ulgi przedmiotowe niż określone w ustawie, z uwzględnieniem przepisów dotyczących pomocy publicznej."
+    },
+    {
+      "provision_ref": "art13f",
+      "section": "13f",
+      "title": "Art. 13f",
+      "content": "1. Ulga, o której mowa w art. 13, stanowi: 1) pomoc na inwestycje w rzeczowe aktywa trwałe lub wartości niematerialne i prawne w gospodarstwach rolnych powiązane z produkcją podstawową produktów rolnych zgodnie z warunkami ustanowionymi w rozporządzeniu Komisji (UE) 2022/2472 z dnia 14 grudnia 2022 r. uznającym niektóre kategorie pomocy w sektorach rolnym i leśnym oraz na obszarach wiejskich za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 327 z 21.12.2022, str. 1) lub 2) pomoc w ramach programu pomocowego notyfikowanego Komisji Europejskiej. 2. Ulgi, o których mowa w art. 13c i art. 13e, stanowią pomoc de minimis w rolnictwie udzielaną w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis w rolnictwie. Rozdział 5 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe Art. 14–16. (pominięte)"
+    },
+    {
+      "provision_ref": "art13fu1p1",
+      "section": "13f",
+      "title": "Art. 13f ust. 1 pkt 1",
+      "content": "pomoc na inwestycje w rzeczowe aktywa trwałe lub wartości niematerialne i prawne w gospodarstwach rolnych powiązane z produkcją podstawową produktów rolnych zgodnie z warunkami ustanowionymi w rozporządzeniu Komisji (UE) 2022/2472 z dnia 14 grudnia 2022 r. uznającym niektóre kategorie pomocy w sektorach rolnym i leśnym oraz na obszarach wiejskich za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 327 z 21.12.2022, str."
+    },
+    {
+      "provision_ref": "art13fu1p1",
+      "section": "13f",
+      "title": "Art. 13f ust. 1 pkt 1",
+      "content": "lub"
+    },
+    {
+      "provision_ref": "art13fu1p2",
+      "section": "13f",
+      "title": "Art. 13f ust. 1 pkt 2",
+      "content": "pomoc w ramach programu pomocowego notyfikowanego Komisji Europejskiej."
+    },
+    {
+      "provision_ref": "art13fu2",
+      "section": "13f",
+      "title": "Art. 13f ust. 2",
+      "content": "Ulgi, o których mowa w art. 13c i art. 13e, stanowią pomoc de minimis w rolnictwie udzielaną w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis w rolnictwie. Rozdział 5 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe Art. 14–16. (pominięte)"
     },
     {
       "provision_ref": "art17",
@@ -112,22 +1018,28 @@
       "content": "Ilekroć w odrębnych przepisach jest mowa o podatku gruntowym, rozumie się przez to podatek rolny."
     },
     {
+      "provision_ref": "art17a",
+      "section": "17a",
+      "title": "Art. 17a",
+      "content": "Ilekroć w odrębnych przepisach jest mowa o podatniku podatku rolnego, należy przez to rozumieć właściciela, posiadacza samoistnego, użytkownika wieczystego lub posiadacza gospodarstwa rolnego w rozumieniu przepisów ustawy."
+    },
+    {
       "provision_ref": "art18",
       "section": "18",
       "title": "Art. 18",
-      "content": "Minister Pracy, Płac i Spraw Socjalnych w porozumieniu z Ministrem Finansów na podstawie danych statystycznych ogłasza w terminie do dnia 30 czerwca każdego roku wysokość przeciętnego dochodu z pracy w rolnictwie nie uspołecznionym z 1 ha przeliczeniowego. Dochód w tej wysokości przyjmuje się dla celów ustalania uprawnień do świadczeń socjalnych rolników i członków ich rodzin od daty przyznania tych świadczeń przez okres roku."
+      "content": "Prezes Głównego Urzędu Statystycznego, na podstawie danych statystycznych, ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, nie później niż do dnia 23 września każdego roku, wysokość przeciętnego dochodu z pracy w indywidualnych gospodarstwach rolnych z 1 ha przeliczeniowego."
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Art. 19",
-      "content": "Tracą moc: 1) ustawa z dnia 11 listopada 1965 r. o rozszerzeniu uprawnień gromadzkich rad narodowych w zakresie podatkowym oraz o usprawnieniu w gromadach wymiaru i poboru podatków i innych należności pieniężnych ( Dz. U. Nr 46, poz. 288 ) , 2) ustawa z dnia 26 października 1971 r. o podatku gruntowym ( Dz. U. Nr 27, poz. 254 i z 1974 r. Nr 38, poz. 230 ) , 3) przepisy ustawy z dnia 28 lipca 1983 r. o podatku wyrównawczym ( Dz. U. Nr 42, poz. 188 ) w zakresie dotyczącym opodatkowania dochodów z niektórych rodzajów upraw i produkcji zwierzęcej."
+      "content": "Tracą moc: 1) ustawa z dnia 11 listopada 1965 r. o rozszerzeniu uprawnień gromadzkich rad narodowych w zakresie podatkowym oraz o usprawnieniu w gromadach wymiaru i poboru podatków i innych należności pieniężnych (Dz. U. poz. 288); 2) ustawa z dnia 26 października 1971 r. o podatku gruntowym (Dz. U. poz. 254 oraz z 1974 r. poz. 230); 3) przepisy ustawy z dnia 28 lipca 1983 r. o podatku wyrównawczym (Dz. U. poz. 188)3) w zakresie dotyczącym opodatkowania dochodów z niektórych rodzajów upraw i produkcji zwierzęcej."
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Art. 20",
-      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 1985 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"chpt_1\",\"symbol\": \"chpt_1\",\"type\": \"chpt\",\"name\": \"1\",\"title\": \"Rozdział 1 - Przepisy ogólne\",\"children\": [{\"id\": \"chpt_1-arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"chpt_1-arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"chpt_1-arti_1-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-arti_1-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_1-arti_1-pass_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"chpt_1-arti_1-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_1-arti_1-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\",\"children\": [{\"id\": \"chpt_1-arti_1-pass_4-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-arti_1-pass_4-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_1-arti_1-pass_4-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_1-arti_1-pass_4-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"chpt_1-arti_1-pass_4-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"chpt_1-arti_1-pass_4-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"chpt_1-arti_1-pass_4-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"chpt_1-arti_1-pass_4-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"}]},{\"id\": \"chpt_1-arti_1-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"chpt_1-arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"chpt_1-arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_1-arti_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_1-arti_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"chpt_1-arti_2-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"chpt_1-arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"chpt_1-arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_1-arti_3-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_1-arti_3-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"chpt_1-arti_3-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"},{\"id\": \"chpt_1-arti_3-pass_6\",\"symbol\": \"pass_6\",\"type\": \"pass\",\"name\": \"6\",\"title\": \"6.\"},{\"id\": \"chpt_1-arti_3-pass_7\",\"symbol\": \"pass_7\",\"type\": \"pass\",\"name\": \"7\",\"title\": \"7.\"}]}]},{\"id\": \"chpt_2\",\"symbol\": \"chpt_2\",\"type\": \"chpt\",\"name\": \"2\",\"title\": \"Rozdział 2 - Podatek rolny od gruntów\",\"children\": [{\"id\": \"chpt_2-arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"chpt_2-arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_4-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_2-arti_4-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"chpt_2-arti_4-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"},{\"id\": \"chpt_2-arti_4-pass_6\",\"symbol\": \"pass_6\",\"type\": \"pass\",\"name\": \"6\",\"title\": \"6.\"},{\"id\": \"chpt_2-arti_4-pass_7\",\"symbol\": \"pass_7\",\"type\": \"pass\",\"name\": \"7\",\"title\": \"7.\",\"children\": [{\"id\": \"chpt_2-arti_4-pass_7-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_4-pass_7-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"chpt_2-arti_4-pass_8\",\"symbol\": \"pass_8\",\"type\": \"pass\",\"name\": \"8\",\"title\": \"8.\"}]},{\"id\": \"chpt_2-arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"chpt_2-arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_5-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_2-arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"chpt_2-arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"chpt_2-arti_6-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_6-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"chpt_2-arti_6-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]}]},{\"id\": \"chpt_3\",\"symbol\": \"chpt_3\",\"type\": \"chpt\",\"name\": \"3\",\"title\": \"Rozdział 3 - Podatek rolny od dochodów z działów specjalnych produkcji rolnej\",\"children\": [{\"id\": \"chpt_3-arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"chpt_3-arti_7-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-arti_7-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_3-arti_7-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_3-arti_7-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"chpt_3-arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"chpt_3-arti_8-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-arti_8-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_3-arti_8-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_3-arti_8-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"chpt_3-arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"chpt_3-arti_9-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"chpt_3-arti_9-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_3-arti_9-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"chpt_3-arti_9-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_3-arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\",\"children\": [{\"id\": \"chpt_3-arti_10-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"chpt_3-arti_10-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_3-arti_10-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_3-arti_10-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"chpt_3-arti_10-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_3-arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"}]},{\"id\": \"chpt_4\",\"symbol\": \"chpt_4\",\"type\": \"chpt\",\"name\": \"4\",\"title\": \"Rozdział 4 - Zwolnienia i ulgi podatkowe\",\"children\": [{\"id\": \"chpt_4-arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\",\"children\": [{\"id\": \"chpt_4-arti_12-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"chpt_4-arti_12-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_4-arti_12-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"chpt_4-arti_12-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_4-arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\",\"children\": [{\"id\": \"chpt_4-arti_13-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"chpt_4-arti_13-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_4-arti_13-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_4-arti_13-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_4-arti_13-pass_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"chpt_4-arti_13-pass_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"chpt_4-arti_13-pass_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"}]},{\"id\": \"chpt_4-arti_13-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_4-arti_13-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_4-arti_13-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]}]},{\"id\": \"chpt_5\",\"symbol\": \"chpt_5\",\"type\": \"chpt\",\"name\": \"5\",\"title\": \"Rozdział 5 - Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe\",\"children\": [{\"id\": \"chpt_5-arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\",\"children\": [{\"id\": \"chpt_5-arti_14-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_5-arti_14-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"chpt_5-arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\"},{\"id\": \"chpt_5-arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\",\"children\": [{\"id\": \"chpt_5-arti_16-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_5-arti_16-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_5-arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\"},{\"id\": \"chpt_5-arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\"},{\"id\": \"chpt_5-arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\",\"children\": [{\"id\": \"chpt_5-arti_19-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_5-arti_19-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_5-arti_19-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"chpt_5-arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\"}]} ] } ];"
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 1985 r. 3) Ustawa utraciła moc na podstawie art. 54 ust. 1 pkt 3 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. poz. 350), która weszła w życie z dniem 1 stycznia 1992 r."
     }
   ],
   "definitions": []

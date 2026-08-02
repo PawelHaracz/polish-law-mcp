@@ -13,14 +13,32 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych ( Dz. U. z 2006 r. Nr 139, poz. 992 ) w art. 14 wprowadza się następujące zmiany: 1) po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. Dodatek przysługuje również na dziecko rozpoczynające roczne przygotowanie przedszkolne. ” ; 2) ust. 2 otrzymuje brzmienie: „ 2. Dodatek przysługuje raz w roku, w związku z rozpoczęciem roku szkolnego albo rocznego przygotowania przedszkolnego, w wysokości 100,00 zł na dziecko. ” ."
+      "content": "W ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych w art. 14 wprowadza się następujące zmiany: po ust. 1 dodaje się ust. 1a w brzmieniu: „ Dodatek przysługuje również na dziecko rozpoczynające roczne przygotowanie przedszkolne. ” ; ust. 2 otrzymuje brzmienie: „ Dodatek przysługuje raz w roku, w związku z rozpoczęciem roku szkolnego albo rocznego przygotowania przedszkolnego, w wysokości 100,00 zł na dziecko. ” ."
+    },
+    {
+      "provision_ref": "art1p1u1a",
+      "section": "1",
+      "title": "Art. 1 pkt 1 ust. 1a",
+      "content": "W ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych w art. 14 wprowadza się następujące zmiany: po ust. 1 dodaje się ust. 1a w brzmieniu: „ Dodatek przysługuje również na dziecko rozpoczynające roczne przygotowanie przedszkolne."
+    },
+    {
+      "provision_ref": "art1p2u2",
+      "section": "1",
+      "title": "Art. 1 pkt 2 ust. 2",
+      "content": "W ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych w art. 14 wprowadza się następujące zmiany: ust. 2 otrzymuje brzmienie: „ Dodatek przysługuje raz w roku, w związku z rozpoczęciem roku szkolnego albo rocznego przygotowania przedszkolnego, w wysokości 100,00 zł na dziecko."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z mocą od dnia 1 września 2006 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z mocą od dnia 1 września 2006 r."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2006-992",
+      "ref_type": "amended_by"
+    }
+  ]
 }

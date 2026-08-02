@@ -13,14 +13,20 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 5 sierpnia 2015 r. o kształtowaniu ustroju rolnego ( Dz. U. poz. 1433 ) art. 26 otrzymuje brzmienie: „ Art. 26. Ustawa wchodzi w życie z dniem 1 maja 2016 r. ” ."
+      "content": "W ustawie z dnia 5 sierpnia 2015 r. o kształtowaniu ustroju rolnego art. 26 otrzymuje brzmienie: „ Ustawa wchodzi w życie z dniem 1 maja 2016 r. ” ."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ustawa wchodzi w życie z dniem 31 grudnia 2015 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie z dniem 31 grudnia 2015 r."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2015-1433",
+      "ref_type": "amended_by"
+    }
+  ]
 }

@@ -13,7 +13,7 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 27 września 2013 r. o pomocy państwa w nabyciu pierwszego mieszkania przez młodych ludzi ( Dz. U. z 2017 r. poz. 1184 ) w art. 37 w ust. 1 w pkt 1 skreśla się wyrazy „95%” ."
+      "content": "W ustawie z dnia 27 września 2013 r. o pomocy państwa w nabyciu pierwszego mieszkania przez młodych ludzi w art. 37 w ust. 1 w pkt 1 skreśla się wyrazy „95%” ."
     },
     {
       "provision_ref": "art2",
@@ -25,8 +25,14 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "Ustawa wchodzi w życie z dniem 1 sierpnia 2017 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie z dniem 1 sierpnia 2017 r."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2017-1184",
+      "ref_type": "amended_by"
+    }
+  ]
 }

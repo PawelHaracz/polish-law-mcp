@@ -13,14 +13,26 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 15 listopada 1984 r. o podatku rolnym ( Dz. U. z 2006 r. Nr 136, poz. 969 ) w art. 3 ust. 3 otrzymuje brzmienie: „ 3. Jeżeli grunty gospodarstwa rolnego zostały w całości lub w części wydzierżawione na podstawie umowy zawartej stosownie do przepisów o ubezpieczeniu społecznym rolników lub przepisów dotyczących uzyskiwania rent strukturalnych, podatnikiem podatku rolnego jest dzierżawca. ” ."
+      "content": "W ustawie z dnia 15 listopada 1984 r. o podatku rolnym w art. 3 ust. 3 otrzymuje brzmienie: „ Jeżeli grunty gospodarstwa rolnego zostały w całości lub w części wydzierżawione na podstawie umowy zawartej stosownie do przepisów o ubezpieczeniu społecznym rolników lub przepisów dotyczących uzyskiwania rent strukturalnych, podatnikiem podatku rolnego jest dzierżawca. ” ."
+    },
+    {
+      "provision_ref": "art1u3",
+      "section": "1",
+      "title": "Art. 1 ust. 3",
+      "content": "W ustawie z dnia 15 listopada 1984 r. o podatku rolnym w art. 3 ust. 3 otrzymuje brzmienie: „ Jeżeli grunty gospodarstwa rolnego zostały w całości lub w części wydzierżawione na podstawie umowy zawartej stosownie do przepisów o ubezpieczeniu społecznym rolników lub przepisów dotyczących uzyskiwania rent strukturalnych, podatnikiem podatku rolnego jest dzierżawca."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2007 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2007 r."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2006-969",
+      "ref_type": "amended_by"
+    }
+  ]
 }

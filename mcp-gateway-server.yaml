@@ -1,0 +1,19 @@
+name: polish-law-mcp
+image: polish-law-mcp:local
+type: server
+title: Polish Law
+description: >-
+  Complete Polish law database — Acts (Ustawy) and provisions from the Sejm ELI
+  API (Dziennik Ustaw, 1918–2026) with Polish full-text search and EU
+  cross-references.
+metadata:
+  category: legal
+  tags:
+    - polish-law
+    - legislation
+    - rodo
+    - gdpr
+    - compliance
+    - eu
+  license: Apache-2.0
+  owner: local

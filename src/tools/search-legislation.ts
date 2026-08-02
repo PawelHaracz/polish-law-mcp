@@ -6,6 +6,8 @@ import type Database from '@ansvar/mcp-sqlite';
 import { buildFtsQueryVariants, buildLikePattern, sanitizeFtsInput } from '../utils/fts-query.js';
 import { normalizeAsOfDate } from '../utils/as-of-date.js';
 import { resolveDocumentId } from '../utils/statute-id.js';
+import { collapseAncestorRefs } from '../utils/provision-ref.js';
+import { rerankScore } from '../utils/rank-weight.js';
 import { generateResponseMetadata, type ToolResponse } from '../utils/metadata.js';
 
 export interface SearchLegislationInput {
@@ -25,6 +27,10 @@ export interface SearchLegislationResult {
   title: string | null;
   snippet: string;
   relevance: number;
+  /** Document validity status — used internally for reranking; not part of the public shape. */
+  status?: string | null;
+  /** Source-of-law rank — used internally for reranking. */
+  legal_rank?: number | null;
 }
 
 const DEFAULT_LIMIT = 10;
@@ -61,6 +67,11 @@ export async function searchLegislation(
 
   let queryStrategy = 'none';
   for (const ftsQuery of queryVariants) {
+    // bm25 weights: content (col 0) is the primary signal; doc_title (col 1) is
+    // weighted higher so a query matching the statute name (e.g. "kodeks karny")
+    // surfaces that act's provisions ahead of incidental body mentions.
+    // Snippet is built from the RAW lp.content (not the ł-folded FTS copy) so the
+    // displayed text keeps correct Polish spelling.
     let sql = `
       SELECT
         lp.document_id,
@@ -69,8 +80,10 @@ export async function searchLegislation(
         lp.chapter,
         lp.section,
         lp.title,
-        snippet(provisions_fts, 0, '>>>', '<<<', '...', 32) as snippet,
-        bm25(provisions_fts) as relevance
+        substr(lp.content, 1, 240) as snippet,
+        bm25(provisions_fts, 1.0, 8.0) as relevance,
+        ld.status as status,
+        ld.legal_rank as legal_rank
       FROM provisions_fts
       JOIN legal_provisions lp ON lp.id = provisions_fts.rowid
       JOIN legal_documents ld ON ld.id = lp.document_id
@@ -95,6 +108,7 @@ export async function searchLegislation(
       const rows = db.prepare(sql).all(...params) as SearchLegislationResult[];
       if (rows.length > 0) {
         queryStrategy = ftsQuery === queryVariants[0] ? 'exact' : 'fallback';
+        rerankByStatus(rows);
         const deduped = deduplicateResults(rows, limit);
         return {
           results: deduped,
@@ -162,14 +176,33 @@ export async function searchLegislation(
 }
 
 /**
+ * Rerank rows in place by relevance AND document validity status, so a repealed
+ * provision no longer outranks a comparably-relevant in-force one. bm25 rows come
+ * in pre-sorted by relevance; this is a stable demotion of repealed/amended rows.
+ * Sorts ascending because both bm25 and the penalty are "lower = better".
+ */
+function rerankByStatus(rows: SearchLegislationResult[]): void {
+  rows.sort((a, b) =>
+    rerankScore(a.relevance, a.status, a.legal_rank) -
+    rerankScore(b.relevance, b.status, b.legal_rank),
+  );
+}
+
+/**
  * Deduplicate search results by document_title + provision_ref.
  * Duplicate document IDs (numeric vs slug) cause the same provision to appear twice.
  * Keeps the first (highest-ranked) occurrence.
+ *
+ * First collapses ancestor rows: because the DB holds both an article aggregate
+ * and its leaf sub-units, a query can match both — we drop the broad article when
+ * a more specific descendant (e.g. art1u2p3) is present, so the hit points at the
+ * precise provision.
  */
 function deduplicateResults(
   rows: SearchLegislationResult[],
   limit: number,
 ): SearchLegislationResult[] {
+  rows = collapseAncestorRefs(rows);
   const seen = new Set<string>();
   const deduped: SearchLegislationResult[] = [];
   for (const row of rows) {

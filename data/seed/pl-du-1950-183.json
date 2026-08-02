@@ -13,7 +13,19 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "Nie wszczyna się postępowania karnego, wszczęte zaś umarza się, jeżeli przy dopełnianiu obowiązków, określonych w rozporządzeniach, wydanych na podstawie: 1) art. 10 ust. 2 dekretu Prezydenta Rzeczypospolitej z dnia 26 kwietnia 1936 r. w sprawie obrotu pieniężnego z zagranicą oraz obrotu zagranicznymi i krajowymi środkami płatniczymi ( Dz. U. R. P. z 1938 r. Nr 86, poz. 584 i z 1939 r. Nr 87, poz. 549 ) , 2) art. 1 ust. 2 ustawy z dnia 26 kwietnia 1950 r. o zgłaszaniu zobowiązań wobec zagranicy oraz znajdującego się w kraju mienia cudzoziemców ujawni się przestępstwo, przewidziane w powołanym wyżej dekrecie z dnia 26 kwietnia 1936 r. albo w prawie karnym skarbowym."
+      "content": "Nie wszczyna się postępowania karnego, wszczęte zaś umarza się, jeżeli przy dopełnianiu obowiązków, określonych w rozporządzeniach, wydanych na podstawie: art. 10 ust. 2 dekretu Prezydenta Rzeczypospolitej z dnia 26 kwietnia 1936 r. w sprawie obrotu pieniężnego z zagranicą oraz obrotu zagranicznymi i krajowymi środkami płatniczymi , art. 1 ust. 2 ustawy z dnia 26 kwietnia 1950 r. o zgłaszaniu zobowiązań wobec zagranicy oraz znajdującego się w kraju mienia cudzoziemców ujawni się przestępstwo, przewidziane w powołanym wyżej dekrecie z dnia 26 kwietnia 1936 r. albo w prawie karnym skarbowym."
+    },
+    {
+      "provision_ref": "art1p1",
+      "section": "1",
+      "title": "Art. 1 pkt 1",
+      "content": "Nie wszczyna się postępowania karnego, wszczęte zaś umarza się, jeżeli przy dopełnianiu obowiązków, określonych w rozporządzeniach, wydanych na podstawie: art. 10 ust. 2 dekretu Prezydenta Rzeczypospolitej z dnia 26 kwietnia 1936 r. w sprawie obrotu pieniężnego z zagranicą oraz obrotu zagranicznymi i krajowymi środkami płatniczymi ,"
+    },
+    {
+      "provision_ref": "art1p2",
+      "section": "1",
+      "title": "Art. 1 pkt 2",
+      "content": "Nie wszczyna się postępowania karnego, wszczęte zaś umarza się, jeżeli przy dopełnianiu obowiązków, określonych w rozporządzeniach, wydanych na podstawie: art. 1 ust. 2 ustawy z dnia 26 kwietnia 1950 r. o zgłaszaniu zobowiązań wobec zagranicy oraz znajdującego się w kraju mienia cudzoziemców ujawni się przestępstwo, przewidziane w powołanym wyżej dekrecie z dnia 26 kwietnia 1936 r. albo w prawie karnym skarbowym."
     },
     {
       "provision_ref": "art2",
@@ -43,8 +55,18 @@
       "provision_ref": "art6",
       "section": "6",
       "title": "Art. 6",
-      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-1938-584",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1939-549",
+      "ref_type": "references"
+    }
+  ]
 }

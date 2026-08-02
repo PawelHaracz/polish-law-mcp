@@ -13,7 +13,7 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 28 września 1991 r. o lasach ( Dz. U. z 2011 r. Nr 12, poz. 59 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 34, poz. 170, Nr 106, poz. 622 i Nr 224, poz. 1337, z 2013 r. poz. 628 i 1247 oraz z 2014 r. poz. 222. ) w art. 35 w ust. 1 uchyla się pkt 2b."
+      "content": "W ustawie z dnia 28 września 1991 r. o lasach ) w art. 35 w ust. 1 uchyla się pkt 2b."
     },
     {
       "provision_ref": "art2",
@@ -25,8 +25,14 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 34, poz. 170, Nr 106, poz. 622 i Nr 224, poz. 1337, z 2013 r. poz. 628 i 1247 oraz z 2014 r. poz. 222. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2011-59",
+      "ref_type": "amended_by"
+    }
+  ]
 }

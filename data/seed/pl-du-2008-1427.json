@@ -13,14 +13,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 6 lipca 2001 r. o ustanowieniu programu wieloletniego „Program dla Odry - 2006” ( Dz. U. Nr 98, poz. 1067 i Nr 154, poz. 1800 oraz z 2002 r. Nr 216, poz. 1827 ) art. 8 otrzymuje brzmienie: „ Art. 8. Rada Ministrów przedstawia Sejmowi, nie później niż do dnia 30 czerwca, roczną informację o realizacji zadań wynikających z Programu. ” ."
+      "content": "W ustawie z dnia 6 lipca 2001 r. o ustanowieniu programu wieloletniego „Program dla Odry - 2006” art. 8 otrzymuje brzmienie: „ Rada Ministrów przedstawia Sejmowi, nie później niż do dnia 30 czerwca, roczną informację o realizacji zadań wynikających z Programu. ” ."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2001-1067",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2001-1800",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2002-1827",
+      "ref_type": "amended_by"
+    }
+  ]
 }

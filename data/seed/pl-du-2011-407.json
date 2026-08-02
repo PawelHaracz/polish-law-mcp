@@ -13,7 +13,13 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 30 maja 1996 r. o uposażeniu byłego Prezydenta Rzeczypospolitej Polskiej ( Dz. U. Nr 75, poz. 356 oraz z 1998 r. Nr 160, poz. 1065 ) w art. 2 ust. 1 otrzymuje brzmienie: „ 1. Byłemu Prezydentowi przysługuje dożywotnio miesięczne uposażenie w wysokości odpowiadającej 75% kwoty wynagrodzenia zasadniczego ustalonego w przepisach o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe dla Prezydenta Rzeczypospolitej Polskiej, zwane dalej „uposażeniem”. ” ."
+      "content": "W ustawie z dnia 30 maja 1996 r. o uposażeniu byłego Prezydenta Rzeczypospolitej Polskiej w art. 2 ust. 1 otrzymuje brzmienie: „ Byłemu Prezydentowi przysługuje dożywotnio miesięczne uposażenie w wysokości odpowiadającej 75% kwoty wynagrodzenia zasadniczego ustalonego w przepisach o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe dla Prezydenta Rzeczypospolitej Polskiej, zwane dalej „uposażeniem”. ” ."
+    },
+    {
+      "provision_ref": "art1u1",
+      "section": "1",
+      "title": "Art. 1 ust. 1",
+      "content": "W ustawie z dnia 30 maja 1996 r. o uposażeniu byłego Prezydenta Rzeczypospolitej Polskiej w art. 2 ust. 1 otrzymuje brzmienie: „ Byłemu Prezydentowi przysługuje dożywotnio miesięczne uposażenie w wysokości odpowiadającej 75% kwoty wynagrodzenia zasadniczego ustalonego w przepisach o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe dla Prezydenta Rzeczypospolitej Polskiej, zwane dalej „uposażeniem”."
     },
     {
       "provision_ref": "art2",
@@ -25,8 +31,18 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-1996-356",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1998-1065",
+      "ref_type": "amended_by"
+    }
+  ]
 }

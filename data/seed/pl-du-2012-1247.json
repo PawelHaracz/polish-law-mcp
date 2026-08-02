@@ -1,0 +1,632 @@
+{
+  "id": "pl-du-2012-1247",
+  "type": "statute",
+  "title": "Rozporządzenie Rady Ministrów z dnia 15 października 2012 r. w sprawie państwowego systemu odniesień przestrzennych",
+  "title_en": "",
+  "short_name": "pl-du-2012-1247",
+  "status": "in_force",
+  "issued_date": "2012-10-15",
+  "in_force_date": "2012-11-14",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2012/1247",
+  "provisions": [
+    {
+      "provision_ref": "par1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Rozporządzenie określa państwowy system odniesień przestrzennych obowiązujący na terenie całego kraju."
+    },
+    {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: ETRS89 - rozumie się przez to geodezyjny europejski ziemski system odniesienia, przyjęty rezolucją nr 7 na XVII Zgromadzeniu Generalnym Międzynarodowej Unii Geodezji i Geofizyki w Canberze w 1979 r., zatwierdzony rezolucją nr 1 na zgromadzeniu podkomisji EUREF (IAG Reference Frame Sub-Commission for Europe) we Florencji w 1990 r. jako identyczny z Międzynarodowym Ziemskim Systemem Odniesienia ITRS (International Terrestrial Reference System) na epokę 1989.0; EVRS - rozumie się przez to kinematyczny, europejski system wysokościowy, wykorzystujący różnice potencjału siły ciężkości odniesione do poziomu odniesienia Amsterdam lub odpowiadające im wysokości normalne, zatwierdzony rezolucją nr 5 na zgromadzeniu podkomisji EUREF w Tromsø w 2000 r.; konserwacji geodezyjnego układu odniesienia - rozumie się przez to ciągłą lub okresową kontrolę stałości wyznaczanych współrzędnych wektorów położenia i prędkości punktów podstawowej osnowy geodezyjnej realizujących układ odniesienia; quasi-geoidzie - rozumie się przez to powierzchnię powstającą przez odłożenie od punktów na powierzchni Ziemi w kierunku ku elipsoidzie odniesienia, wzdłuż normalnych linii pionu, wysokości normalnych tych punktów; modelu quasi-geoidy - rozumie się przez to numeryczną, dyskretną (punktową) reprezentację wysokości powierzchni quasi-geoidy, wraz z algorytmem interpolacyjnym umożliwiającym obliczenie tej wysokości w określonym punkcie; obiekcie przestrzennym - rozumie się przez to obiekt, o którym mowa w art. 3 pkt 5 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej ; siatce odniesienia - rozumie się przez to siatkę złożoną z dwóch lub więcej zbiorów krzywych, tak że krzywe każdego zbioru przecinają krzywe innych zbiorów w sposób algorytmiczny; wysokości normalnej - rozumie się przez to wielkość powstałą z podzielenia liczby geopotencjalnej przez przeciętne wartości przyspieszenia normalnego siły ciężkości na elipsoidzie odniesienia."
+    },
+    {
+      "provision_ref": "par2p1",
+      "section": "2",
+      "title": "§ 2 pkt 1",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: ETRS89 - rozumie się przez to geodezyjny europejski ziemski system odniesienia, przyjęty rezolucją nr 7 na XVII Zgromadzeniu Generalnym Międzynarodowej Unii Geodezji i Geofizyki w Canberze w 1979 r., zatwierdzony rezolucją nr 1 na zgromadzeniu podkomisji EUREF (IAG Reference Frame Sub-Commission for Europe) we Florencji w 1990 r. jako identyczny z Międzynarodowym Ziemskim Systemem Odniesienia ITRS (International Terrestrial Reference System) na epokę 1989.0;"
+    },
+    {
+      "provision_ref": "par2p2",
+      "section": "2",
+      "title": "§ 2 pkt 2",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: EVRS - rozumie się przez to kinematyczny, europejski system wysokościowy, wykorzystujący różnice potencjału siły ciężkości odniesione do poziomu odniesienia Amsterdam lub odpowiadające im wysokości normalne, zatwierdzony rezolucją nr 5 na zgromadzeniu podkomisji EUREF w Tromsø w 2000 r.;"
+    },
+    {
+      "provision_ref": "par2p3",
+      "section": "2",
+      "title": "§ 2 pkt 3",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: konserwacji geodezyjnego układu odniesienia - rozumie się przez to ciągłą lub okresową kontrolę stałości wyznaczanych współrzędnych wektorów położenia i prędkości punktów podstawowej osnowy geodezyjnej realizujących układ odniesienia;"
+    },
+    {
+      "provision_ref": "par2p4",
+      "section": "2",
+      "title": "§ 2 pkt 4",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: quasi-geoidzie - rozumie się przez to powierzchnię powstającą przez odłożenie od punktów na powierzchni Ziemi w kierunku ku elipsoidzie odniesienia, wzdłuż normalnych linii pionu, wysokości normalnych tych punktów;"
+    },
+    {
+      "provision_ref": "par2p5",
+      "section": "2",
+      "title": "§ 2 pkt 5",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: modelu quasi-geoidy - rozumie się przez to numeryczną, dyskretną (punktową) reprezentację wysokości powierzchni quasi-geoidy, wraz z algorytmem interpolacyjnym umożliwiającym obliczenie tej wysokości w określonym punkcie;"
+    },
+    {
+      "provision_ref": "par2p6",
+      "section": "2",
+      "title": "§ 2 pkt 6",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: obiekcie przestrzennym - rozumie się przez to obiekt, o którym mowa w art. 3 pkt 5 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej ;"
+    },
+    {
+      "provision_ref": "par2p7",
+      "section": "2",
+      "title": "§ 2 pkt 7",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: siatce odniesienia - rozumie się przez to siatkę złożoną z dwóch lub więcej zbiorów krzywych, tak że krzywe każdego zbioru przecinają krzywe innych zbiorów w sposób algorytmiczny;"
+    },
+    {
+      "provision_ref": "par2p8",
+      "section": "2",
+      "title": "§ 2 pkt 8",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: wysokości normalnej - rozumie się przez to wielkość powstałą z podzielenia liczby geopotencjalnej przez przeciętne wartości przyspieszenia normalnego siły ciężkości na elipsoidzie odniesienia."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Państwowy system odniesień przestrzennych tworzą: geodezyjne układy odniesienia oznaczone symbolami PL-ETRF2000 i PL-ETRF89, będące matematyczną i fizyczną realizacją europejskiego ziemskiego systemu odniesienia ETRS89; układy wysokościowe oznaczone symbolami PL-KRON86-NH i PL-EVRF2007-NH, będące matematyczną i fizyczną realizacją europejskiego ziemskiego systemu wysokościowego EVRS; układy współrzędnych: geocentrycznych kartezjańskich oznaczone symbolem XYZ, geocentrycznych geodezyjnych oznaczone symbolem GRS80h oraz geodezyjnych oznaczone symbolem GRS80H; układy współrzędnych płaskich prostokątnych oznaczone symbolami: PL-LAEA, PL-LCC, PL-UTM, PL-1992 i PL-2000. Parametry techniczne geodezyjnych układów odniesienia, układów wysokościowych i układów współrzędnych, o których mowa w ust. 1, określa załącznik nr 1 do rozporządzenia. Specyfikację modelu pojęciowego państwowego systemu odniesień przestrzennych, w postaci schematu aplikacyjnego UML, określa załącznik nr 2 do rozporządzenia."
+    },
+    {
+      "provision_ref": "par3u1p1",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 1",
+      "content": "Państwowy system odniesień przestrzennych tworzą: geodezyjne układy odniesienia oznaczone symbolami PL-ETRF2000 i PL-ETRF89, będące matematyczną i fizyczną realizacją europejskiego ziemskiego systemu odniesienia ETRS89;"
+    },
+    {
+      "provision_ref": "par3u1p2",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 2",
+      "content": "Państwowy system odniesień przestrzennych tworzą: układy wysokościowe oznaczone symbolami PL-KRON86-NH i PL-EVRF2007-NH, będące matematyczną i fizyczną realizacją europejskiego ziemskiego systemu wysokościowego EVRS;"
+    },
+    {
+      "provision_ref": "par3u1p3",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 3",
+      "content": "Państwowy system odniesień przestrzennych tworzą: układy współrzędnych: geocentrycznych kartezjańskich oznaczone symbolem XYZ, geocentrycznych geodezyjnych oznaczone symbolem GRS80h oraz geodezyjnych oznaczone symbolem GRS80H;"
+    },
+    {
+      "provision_ref": "par3u1p4",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 4",
+      "content": "Państwowy system odniesień przestrzennych tworzą: układy współrzędnych płaskich prostokątnych oznaczone symbolami: PL-LAEA, PL-LCC, PL-UTM, PL-1992 i PL-2000."
+    },
+    {
+      "provision_ref": "par3u2",
+      "section": "3",
+      "title": "§ 3 ust. 2",
+      "content": "Parametry techniczne geodezyjnych układów odniesienia, układów wysokościowych i układów współrzędnych, o których mowa w ust. 1, określa załącznik nr 1 do rozporządzenia."
+    },
+    {
+      "provision_ref": "par3u3",
+      "section": "3",
+      "title": "§ 3 ust. 3",
+      "content": "Specyfikację modelu pojęciowego państwowego systemu odniesień przestrzennych, w postaci schematu aplikacyjnego UML, określa załącznik nr 2 do rozporządzenia."
+    },
+    {
+      "provision_ref": "par4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Fizyczną realizacją geodezyjnego układu odniesienia PL-ETRF2000 jest sieć europejskich stacji permanentnych EPN (European Permanent Network) o dokładnie wyznaczonych współrzędnych oraz zmianach tych współrzędnych w czasie. Przenoszenie na obszar Polski i konserwacja geodezyjnego układu odniesienia PL-ETRF2000 odbywają się przez sieć stacji permanentnych ASG-EUPOS (Aktywna Sieć Geodezyjna EUPOS)."
+    },
+    {
+      "provision_ref": "par4u1",
+      "section": "4",
+      "title": "§ 4 ust. 1",
+      "content": "Fizyczną realizacją geodezyjnego układu odniesienia PL-ETRF2000 jest sieć europejskich stacji permanentnych EPN (European Permanent Network) o dokładnie wyznaczonych współrzędnych oraz zmianach tych współrzędnych w czasie."
+    },
+    {
+      "provision_ref": "par4u2",
+      "section": "4",
+      "title": "§ 4 ust. 2",
+      "content": "Przenoszenie na obszar Polski i konserwacja geodezyjnego układu odniesienia PL-ETRF2000 odbywają się przez sieć stacji permanentnych ASG-EUPOS (Aktywna Sieć Geodezyjna EUPOS)."
+    },
+    {
+      "provision_ref": "par5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Przenoszenie na obszar Polski i konserwacja geodezyjnego układu odniesienia PL-ETRF89 odbywają się przez sieć punktów podstawowej osnowy geodezyjnej za pośrednictwem obserwacji satelitarnych GNSS (Global Navigation Satellite Systems)."
+    },
+    {
+      "provision_ref": "par6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "Geodezyjny układ wysokościowy PL-EVRF2007-NH tworzą wysokości normalne odniesione do średniego poziomu Morza Północnego, wyznaczonego dla mareografu w Amsterdamie (Normaal Amsterdams Peil), Holandia. Elipsoidą normalnego pola siły ciężkości jest elipsoida odniesienia GRS80."
+    },
+    {
+      "provision_ref": "par6u1",
+      "section": "6",
+      "title": "§ 6 ust. 1",
+      "content": "Geodezyjny układ wysokościowy PL-EVRF2007-NH tworzą wysokości normalne odniesione do średniego poziomu Morza Północnego, wyznaczonego dla mareografu w Amsterdamie (Normaal Amsterdams Peil), Holandia."
+    },
+    {
+      "provision_ref": "par6u2",
+      "section": "6",
+      "title": "§ 6 ust. 2",
+      "content": "Elipsoidą normalnego pola siły ciężkości jest elipsoida odniesienia GRS80."
+    },
+    {
+      "provision_ref": "par7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "Geodezyjny układ wysokościowy PL-KRON86-NH tworzą wysokości normalne odniesione do średniego poziomu Morza Bałtyckiego, wyznaczonego dla mareografu w Kronsztadzie koło Sankt Petersburga, Federacja Rosyjska."
+    },
+    {
+      "provision_ref": "par8",
+      "section": "8",
+      "title": "§ 8",
+      "content": "Fizyczną realizacją układów wysokościowych, o których mowa w § 3 ust. 1 pkt 2, jest podstawowa osnowa wysokościowa. Wysokości normalne określa się na podstawie pomiarów geodezyjnych odniesionych do pola grawitacyjnego Ziemi, względem przyjętej powierzchni odniesienia, albo na podstawie pomiarów satelitarnych GNSS, z uwzględnieniem wysokości obowiązującej quasi-geoidy nad elipsoidą odniesienia. Wysokości normalne oznacza się literą H i podaje w metrach [m]."
+    },
+    {
+      "provision_ref": "par8u1",
+      "section": "8",
+      "title": "§ 8 ust. 1",
+      "content": "Fizyczną realizacją układów wysokościowych, o których mowa w § 3 ust. 1 pkt 2, jest podstawowa osnowa wysokościowa."
+    },
+    {
+      "provision_ref": "par8u2",
+      "section": "8",
+      "title": "§ 8 ust. 2",
+      "content": "Wysokości normalne określa się na podstawie pomiarów geodezyjnych odniesionych do pola grawitacyjnego Ziemi, względem przyjętej powierzchni odniesienia, albo na podstawie pomiarów satelitarnych GNSS, z uwzględnieniem wysokości obowiązującej quasi-geoidy nad elipsoidą odniesienia."
+    },
+    {
+      "provision_ref": "par8u3",
+      "section": "8",
+      "title": "§ 8 ust. 3",
+      "content": "Wysokości normalne oznacza się literą H i podaje w metrach [m]."
+    },
+    {
+      "provision_ref": "par9",
+      "section": "9",
+      "title": "§ 9",
+      "content": "Układ współrzędnych płaskich prostokątnych PL-LAEA jest utworzony na podstawie matematycznie jednoznacznego przyporządkowania punktów na elipsoidzie odniesienia GRS80 odpowiednim punktom na płaszczyźnie według teorii azymutalnego równopowierzchniowego odwzorowania Lamberta."
+    },
+    {
+      "provision_ref": "par10",
+      "section": "10",
+      "title": "§ 10",
+      "content": "Układ współrzędnych płaskich prostokątnych PL-LCC jest utworzony na podstawie matematycznie jednoznacznego przyporządkowania punktów na elipsoidzie odniesienia GRS80 odpowiednim punktom na płaszczyźnie według teorii stożkowego równokątnego odwzorowania Lamberta. Obszar Polski obejmuje jeden pas równoleżnikowy układu współrzędnych PL-LCC."
+    },
+    {
+      "provision_ref": "par10u1",
+      "section": "10",
+      "title": "§ 10 ust. 1",
+      "content": "Układ współrzędnych płaskich prostokątnych PL-LCC jest utworzony na podstawie matematycznie jednoznacznego przyporządkowania punktów na elipsoidzie odniesienia GRS80 odpowiednim punktom na płaszczyźnie według teorii stożkowego równokątnego odwzorowania Lamberta."
+    },
+    {
+      "provision_ref": "par10u2",
+      "section": "10",
+      "title": "§ 10 ust. 2",
+      "content": "Obszar Polski obejmuje jeden pas równoleżnikowy układu współrzędnych PL-LCC."
+    },
+    {
+      "provision_ref": "par11",
+      "section": "11",
+      "title": "§ 11",
+      "content": "Układ współrzędnych płaskich prostokątnych PL-1992 jest utworzony na podstawie matematycznie jednoznacznego przyporządkowania punktów na elipsoidzie odniesienia GRS80 odpowiednim punktom na płaszczyźnie według teorii odwzorowania Gaussa-Krügera. Obszar Polski obejmuje jeden pas południkowy układu współrzędnych PL-1992 o rozciągłości od 14º00’E do 24º30’E i południku osiowym 19ºE."
+    },
+    {
+      "provision_ref": "par11u1",
+      "section": "11",
+      "title": "§ 11 ust. 1",
+      "content": "Układ współrzędnych płaskich prostokątnych PL-1992 jest utworzony na podstawie matematycznie jednoznacznego przyporządkowania punktów na elipsoidzie odniesienia GRS80 odpowiednim punktom na płaszczyźnie według teorii odwzorowania Gaussa-Krügera."
+    },
+    {
+      "provision_ref": "par11u2",
+      "section": "11",
+      "title": "§ 11 ust. 2",
+      "content": "Obszar Polski obejmuje jeden pas południkowy układu współrzędnych PL-1992 o rozciągłości od 14º00’E do 24º30’E i południku osiowym 19ºE."
+    },
+    {
+      "provision_ref": "par12",
+      "section": "12",
+      "title": "§ 12",
+      "content": "Układ współrzędnych płaskich prostokątnych PL-UTM jest utworzony na podstawie matematycznie jednoznacznego przyporządkowania punktów na elipsoidzie odniesienia GRS80 odpowiednim punktom na płaszczyźnie według teorii odwzorowania poprzecznego Merkatora. Obszar Polski obejmują trzy pasy południkowe układu współrzędnych PL-UTM o rozciągłości równej 6º długości geodezyjnej każdy, o południkach osiowych: 15ºE, 21ºE i 27ºE, oznaczane odpowiednio numerami: 33, 34 i 35."
+    },
+    {
+      "provision_ref": "par12u1",
+      "section": "12",
+      "title": "§ 12 ust. 1",
+      "content": "Układ współrzędnych płaskich prostokątnych PL-UTM jest utworzony na podstawie matematycznie jednoznacznego przyporządkowania punktów na elipsoidzie odniesienia GRS80 odpowiednim punktom na płaszczyźnie według teorii odwzorowania poprzecznego Merkatora."
+    },
+    {
+      "provision_ref": "par12u2",
+      "section": "12",
+      "title": "§ 12 ust. 2",
+      "content": "Obszar Polski obejmują trzy pasy południkowe układu współrzędnych PL-UTM o rozciągłości równej 6º długości geodezyjnej każdy, o południkach osiowych: 15ºE, 21ºE i 27ºE, oznaczane odpowiednio numerami: 33, 34 i 35."
+    },
+    {
+      "provision_ref": "par13",
+      "section": "13",
+      "title": "§ 13",
+      "content": "Układ współrzędnych płaskich prostokątnych PL-2000 jest utworzony na podstawie matematycznie jednoznacznego przyporządkowania punktów na elipsoidzie odniesienia GRS80 odpowiednim punktom na płaszczyźnie według teorii odwzorowania Gaussa-Krügera. Obszar Polski obejmują cztery pasy południkowe układu współrzędnych PL-2000 o rozciągłości równej 3º długości geodezyjnej każdy, o południkach osiowych: 15ºE, 18ºE, 21ºE i 24ºE, oznaczane odpowiednio numerami: 5, 6, 7 i 8."
+    },
+    {
+      "provision_ref": "par13u1",
+      "section": "13",
+      "title": "§ 13 ust. 1",
+      "content": "Układ współrzędnych płaskich prostokątnych PL-2000 jest utworzony na podstawie matematycznie jednoznacznego przyporządkowania punktów na elipsoidzie odniesienia GRS80 odpowiednim punktom na płaszczyźnie według teorii odwzorowania Gaussa-Krügera."
+    },
+    {
+      "provision_ref": "par13u2",
+      "section": "13",
+      "title": "§ 13 ust. 2",
+      "content": "Obszar Polski obejmują cztery pasy południkowe układu współrzędnych PL-2000 o rozciągłości równej 3º długości geodezyjnej każdy, o południkach osiowych: 15ºE, 18ºE, 21ºE i 24ºE, oznaczane odpowiednio numerami: 5, 6, 7 i 8."
+    },
+    {
+      "provision_ref": "par14",
+      "section": "14",
+      "title": "§ 14",
+      "content": "Katalog obiektów i atrybutów państwowego systemu odniesień przestrzennych określa załącznik nr 3 do rozporządzenia."
+    },
+    {
+      "provision_ref": "par15",
+      "section": "15",
+      "title": "§ 15",
+      "content": "Państwowy system odniesień przestrzennych stosuje się w pracach geodezyjnych i kartograficznych oraz przy tworzeniu zbiorów danych przestrzennych przez organy władzy publicznej, przy czym: układ współrzędnych PL-LAEA stosuje się na potrzeby analiz przestrzennych i sprawozdawczości na poziomie ogólnoeuropejskim; układ współrzędnych PL-LCC stosuje się na potrzeby wydawania map w skali 1:500 000 i w mniejszych skalach; układ współrzędnych PL-UTM stosuje się na potrzeby wydawania standardowych opracowań kartograficznych w skalach od 1:10 000 do 1:250 000, wydawania map morskich oraz wydawania innych map przeznaczonych na potrzeby bezpieczeństwa i obronności państwa; układ współrzędnych PL-2000 stosuje się na potrzeby wykonywania map w skalach większych od 1:10 000 - w szczególności mapy ewidencyjnej i mapy zasadniczej. W pracach geodezyjnych i kartograficznych innych niż wymienione w ust. 1 pkt 1-4 stosuje się układ współrzędnych PL-UTM lub układ współrzędnych PL-1992. W pracach geodezyjnych i kartograficznych, pracach hydrograficznych na akwenach morskich, a także przy tworzeniu zbiorów danych przestrzennych, będących przedmiotem umów międzynarodowych, których Polska jest sygnatariuszem, mogą być stosowane inne niż określone w § 3 układy odniesienia, układy wysokościowe lub układy współrzędnych. W przypadku gdy prace, o których mowa w ust. 3, dotyczą obiektów przestrzennych znajdujących się w bazach danych, o których mowa w art. 4 ust. 1a i 1b ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne , do określenia położenia tych obiektów oprócz układów odniesienia, układów wysokościowych lub układów współrzędnych określonych w umowie stosuje się także państwowy system odniesień przestrzennych. W pracach, w których wymagana dokładność określenia współrzędnych nie przekracza 1 m, a wykorzystuje się geocentryczne systemy odniesienia i powiązane z figurą Ziemi układy współrzędnych zgodne z konwencją Międzynarodowej Służby Ruchu Obrotowego Ziemi (IERS) z 1996 r., w szczególności: Światowy System Geodezyjny 1984 (WGS84), Międzynarodowy Ziemski System Odniesienia (ITRS), Europejski Ziemski System Odniesienia 1989 (ETRS89) - nie stosuje się transformacji współrzędnych między tymi systemami a układami odniesienia, o których mowa w § 3 ust. 1 pkt 1."
+    },
+    {
+      "provision_ref": "par15u1p1",
+      "section": "15",
+      "title": "§ 15 ust. 1 pkt 1",
+      "content": "Państwowy system odniesień przestrzennych stosuje się w pracach geodezyjnych i kartograficznych oraz przy tworzeniu zbiorów danych przestrzennych przez organy władzy publicznej, przy czym: układ współrzędnych PL-LAEA stosuje się na potrzeby analiz przestrzennych i sprawozdawczości na poziomie ogólnoeuropejskim;"
+    },
+    {
+      "provision_ref": "par15u1p2",
+      "section": "15",
+      "title": "§ 15 ust. 1 pkt 2",
+      "content": "Państwowy system odniesień przestrzennych stosuje się w pracach geodezyjnych i kartograficznych oraz przy tworzeniu zbiorów danych przestrzennych przez organy władzy publicznej, przy czym: układ współrzędnych PL-LCC stosuje się na potrzeby wydawania map w skali 1:500 000 i w mniejszych skalach;"
+    },
+    {
+      "provision_ref": "par15u1p3",
+      "section": "15",
+      "title": "§ 15 ust. 1 pkt 3",
+      "content": "Państwowy system odniesień przestrzennych stosuje się w pracach geodezyjnych i kartograficznych oraz przy tworzeniu zbiorów danych przestrzennych przez organy władzy publicznej, przy czym: układ współrzędnych PL-UTM stosuje się na potrzeby wydawania standardowych opracowań kartograficznych w skalach od 1:10 000 do 1:250 000, wydawania map morskich oraz wydawania innych map przeznaczonych na potrzeby bezpieczeństwa i obronności państwa;"
+    },
+    {
+      "provision_ref": "par15u1p4",
+      "section": "15",
+      "title": "§ 15 ust. 1 pkt 4",
+      "content": "Państwowy system odniesień przestrzennych stosuje się w pracach geodezyjnych i kartograficznych oraz przy tworzeniu zbiorów danych przestrzennych przez organy władzy publicznej, przy czym: układ współrzędnych PL-2000 stosuje się na potrzeby wykonywania map w skalach większych od 1:10 000 - w szczególności mapy ewidencyjnej i mapy zasadniczej."
+    },
+    {
+      "provision_ref": "par15u2",
+      "section": "15",
+      "title": "§ 15 ust. 2",
+      "content": "W pracach geodezyjnych i kartograficznych innych niż wymienione w ust. 1 pkt 1-4 stosuje się układ współrzędnych PL-UTM lub układ współrzędnych PL-1992."
+    },
+    {
+      "provision_ref": "par15u3",
+      "section": "15",
+      "title": "§ 15 ust. 3",
+      "content": "W pracach geodezyjnych i kartograficznych, pracach hydrograficznych na akwenach morskich, a także przy tworzeniu zbiorów danych przestrzennych, będących przedmiotem umów międzynarodowych, których Polska jest sygnatariuszem, mogą być stosowane inne niż określone w § 3 układy odniesienia, układy wysokościowe lub układy współrzędnych."
+    },
+    {
+      "provision_ref": "par15u4",
+      "section": "15",
+      "title": "§ 15 ust. 4",
+      "content": "W przypadku gdy prace, o których mowa w ust. 3, dotyczą obiektów przestrzennych znajdujących się w bazach danych, o których mowa w art. 4 ust. 1a i 1b ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne , do określenia położenia tych obiektów oprócz układów odniesienia, układów wysokościowych lub układów współrzędnych określonych w umowie stosuje się także państwowy system odniesień przestrzennych."
+    },
+    {
+      "provision_ref": "par15u5p1",
+      "section": "15",
+      "title": "§ 15 ust. 5 pkt 1",
+      "content": "W pracach, w których wymagana dokładność określenia współrzędnych nie przekracza 1 m, a wykorzystuje się geocentryczne systemy odniesienia i powiązane z figurą Ziemi układy współrzędnych zgodne z konwencją Międzynarodowej Służby Ruchu Obrotowego Ziemi (IERS) z 1996 r., w szczególności: Światowy System Geodezyjny 1984 (WGS84),"
+    },
+    {
+      "provision_ref": "par15u5p2",
+      "section": "15",
+      "title": "§ 15 ust. 5 pkt 2",
+      "content": "W pracach, w których wymagana dokładność określenia współrzędnych nie przekracza 1 m, a wykorzystuje się geocentryczne systemy odniesienia i powiązane z figurą Ziemi układy współrzędnych zgodne z konwencją Międzynarodowej Służby Ruchu Obrotowego Ziemi (IERS) z 1996 r., w szczególności: Międzynarodowy Ziemski System Odniesienia (ITRS),"
+    },
+    {
+      "provision_ref": "par15u5p3",
+      "section": "15",
+      "title": "§ 15 ust. 5 pkt 3",
+      "content": "W pracach, w których wymagana dokładność określenia współrzędnych nie przekracza 1 m, a wykorzystuje się geocentryczne systemy odniesienia i powiązane z figurą Ziemi układy współrzędnych zgodne z konwencją Międzynarodowej Służby Ruchu Obrotowego Ziemi (IERS) z 1996 r., w szczególności: Europejski Ziemski System Odniesienia 1989 (ETRS89)"
+    },
+    {
+      "provision_ref": "par16",
+      "section": "16",
+      "title": "§ 16",
+      "content": "Położenie obiektów przestrzennych w geodezyjnych układach odniesienia, o których mowa w § 3 ust. 1 pkt 1, określa się za pomocą układów współrzędnych: układu współrzędnych geocentrycznych kartezjańskich XYZ, którego osie są oznaczane literami: X, Y, Z, a wartości współrzędnych podawane w metrach [m], lub układu współrzędnych geocentrycznych geodezyjnych GRS80h, którego osie są oznaczane literami: szerokość geodezyjna - literą φ, długość geodezyjna - literą λ - wartości tych współrzędnych są podawane w stopniach [º], minutach [’] i sekundach [’’], przy czym za wartością współrzędnej φ dodaje się literę N (North), a za wartością współrzędnej λ dodaje się literę E (East), wysokość elipsoidalna - literą h, wartość tej współrzędnej jest podawana w metrach [m]. W przypadkach, w których wyznaczenie wysokości elipsoidalnych jednoczesne z wyznaczeniem współrzędnych geodezyjnych φ i λ jest niemożliwe, położenie obiektów przestrzennych określa się za pomocą współrzędnych geodezyjnych w układzie GRS80H oraz wysokości normalnych H. Osie układów współrzędnych płaskich prostokątnych, o których mowa w § 3 ust. 1 pkt 4, oznacza się literami: oś północną - literą x, a oś wschodnią - literą y, przy czym za wartością współrzędnej x dodaje się literę N (North), a za wartością współrzędnej y dodaje się literę E (East)."
+    },
+    {
+      "provision_ref": "par16u1p1",
+      "section": "16",
+      "title": "§ 16 ust. 1 pkt 1",
+      "content": "Położenie obiektów przestrzennych w geodezyjnych układach odniesienia, o których mowa w § 3 ust. 1 pkt 1, określa się za pomocą układów współrzędnych: układu współrzędnych geocentrycznych kartezjańskich XYZ, którego osie są oznaczane literami: X, Y, Z, a wartości współrzędnych podawane w metrach [m], lub"
+    },
+    {
+      "provision_ref": "par16u1p2la",
+      "section": "16",
+      "title": "§ 16 ust. 1 pkt 2 lit. a",
+      "content": "Położenie obiektów przestrzennych w geodezyjnych układach odniesienia, o których mowa w § 3 ust. 1 pkt 1, określa się za pomocą układów współrzędnych: układu współrzędnych geocentrycznych geodezyjnych GRS80h, którego osie są oznaczane literami: szerokość geodezyjna - literą φ,"
+    },
+    {
+      "provision_ref": "par16u1p2lb",
+      "section": "16",
+      "title": "§ 16 ust. 1 pkt 2 lit. b",
+      "content": "Położenie obiektów przestrzennych w geodezyjnych układach odniesienia, o których mowa w § 3 ust. 1 pkt 1, określa się za pomocą układów współrzędnych: układu współrzędnych geocentrycznych geodezyjnych GRS80h, którego osie są oznaczane literami: długość geodezyjna - literą λ"
+    },
+    {
+      "provision_ref": "par16u1p2lc",
+      "section": "16",
+      "title": "§ 16 ust. 1 pkt 2 lit. c",
+      "content": "Położenie obiektów przestrzennych w geodezyjnych układach odniesienia, o których mowa w § 3 ust. 1 pkt 1, określa się za pomocą układów współrzędnych: układu współrzędnych geocentrycznych geodezyjnych GRS80h, którego osie są oznaczane literami: wysokość elipsoidalna - literą h, wartość tej współrzędnej jest podawana w metrach [m]."
+    },
+    {
+      "provision_ref": "par16u2",
+      "section": "16",
+      "title": "§ 16 ust. 2",
+      "content": "W przypadkach, w których wyznaczenie wysokości elipsoidalnych jednoczesne z wyznaczeniem współrzędnych geodezyjnych φ i λ jest niemożliwe, położenie obiektów przestrzennych określa się za pomocą współrzędnych geodezyjnych w układzie GRS80H oraz wysokości normalnych H."
+    },
+    {
+      "provision_ref": "par16u3",
+      "section": "16",
+      "title": "§ 16 ust. 3",
+      "content": "Osie układów współrzędnych płaskich prostokątnych, o których mowa w § 3 ust. 1 pkt 4, oznacza się literami: oś północną - literą x, a oś wschodnią - literą y, przy czym za wartością współrzędnej x dodaje się literę N (North), a za wartością współrzędnej y dodaje się literę E (East)."
+    },
+    {
+      "provision_ref": "par17",
+      "section": "17",
+      "title": "§ 17",
+      "content": "Graficzną prezentacją współrzędnych, o których mowa w § 16 ust. 1 pkt 2 oraz ust. 2 i 3, na opracowaniach kartograficznych są siatki odniesienia, odpowiednio: siatka kartograficzna - dla współrzędnych geodezyjnych i siatka kilometrowa - dla współrzędnych płaskich prostokątnych, przy czym: współrzędne geodezyjne narożników arkuszy map i linie siatki kartograficznej opisuje się w pełnych stopniach, minutach lub sekundach; linie siatki kilometrowej opisuje się w metrach lub kilometrach; dopuszcza się podawanie tylko punktów przecięcia siatek odniesienia, o których mowa w pkt 1 i 2. Siatka kilometrowa otrzymuje nazwę od układu współrzędnych, dla którego została obliczona, przy czym: początek siatki pokrywa się z początkiem układu współrzędnych płaskich prostokątnych; linie siatki biegną z południa na północ i z zachodu na wschód; punktem odniesienia komórki siatki jest dolny lewy narożnik komórki siatki. Na potrzeby jednoznacznych odniesień i jednoznacznej identyfikacji komórki siatki stosuje się kod komórki, który zawiera wielkość komórki oraz współrzędne dolnego lewego rogu tej komórki. Wielkość komórki wyraża się w metrach [m] dla komórek o wielkości 100 m lub mniejszej oraz w kilometrach [km] dla komórek o wielkości 1000 m lub większej. Wartości współrzędnych północnych i współrzędnych wschodnich dzieli się przez 10 n , gdzie n oznacza liczbę zer znaczących dla wartości określającej wielkość komórki. Rozdzielczość siatki kilometrowej w zależności od skali mapy określa załącznik nr 4 do rozporządzenia."
+    },
+    {
+      "provision_ref": "par17u1p1",
+      "section": "17",
+      "title": "§ 17 ust. 1 pkt 1",
+      "content": "Graficzną prezentacją współrzędnych, o których mowa w § 16 ust. 1 pkt 2 oraz ust. 2 i 3, na opracowaniach kartograficznych są siatki odniesienia, odpowiednio: siatka kartograficzna - dla współrzędnych geodezyjnych i siatka kilometrowa - dla współrzędnych płaskich prostokątnych, przy czym: współrzędne geodezyjne narożników arkuszy map i linie siatki kartograficznej opisuje się w pełnych stopniach, minutach lub sekundach;"
+    },
+    {
+      "provision_ref": "par17u1p2",
+      "section": "17",
+      "title": "§ 17 ust. 1 pkt 2",
+      "content": "Graficzną prezentacją współrzędnych, o których mowa w § 16 ust. 1 pkt 2 oraz ust. 2 i 3, na opracowaniach kartograficznych są siatki odniesienia, odpowiednio: siatka kartograficzna - dla współrzędnych geodezyjnych i siatka kilometrowa - dla współrzędnych płaskich prostokątnych, przy czym: linie siatki kilometrowej opisuje się w metrach lub kilometrach;"
+    },
+    {
+      "provision_ref": "par17u1p3",
+      "section": "17",
+      "title": "§ 17 ust. 1 pkt 3",
+      "content": "Graficzną prezentacją współrzędnych, o których mowa w § 16 ust. 1 pkt 2 oraz ust. 2 i 3, na opracowaniach kartograficznych są siatki odniesienia, odpowiednio: siatka kartograficzna - dla współrzędnych geodezyjnych i siatka kilometrowa - dla współrzędnych płaskich prostokątnych, przy czym: dopuszcza się podawanie tylko punktów przecięcia siatek odniesienia, o których mowa w pkt 1 i 2."
+    },
+    {
+      "provision_ref": "par17u2p1",
+      "section": "17",
+      "title": "§ 17 ust. 2 pkt 1",
+      "content": "Siatka kilometrowa otrzymuje nazwę od układu współrzędnych, dla którego została obliczona, przy czym: początek siatki pokrywa się z początkiem układu współrzędnych płaskich prostokątnych;"
+    },
+    {
+      "provision_ref": "par17u2p2",
+      "section": "17",
+      "title": "§ 17 ust. 2 pkt 2",
+      "content": "Siatka kilometrowa otrzymuje nazwę od układu współrzędnych, dla którego została obliczona, przy czym: linie siatki biegną z południa na północ i z zachodu na wschód;"
+    },
+    {
+      "provision_ref": "par17u2p3",
+      "section": "17",
+      "title": "§ 17 ust. 2 pkt 3",
+      "content": "Siatka kilometrowa otrzymuje nazwę od układu współrzędnych, dla którego została obliczona, przy czym: punktem odniesienia komórki siatki jest dolny lewy narożnik komórki siatki."
+    },
+    {
+      "provision_ref": "par17u3",
+      "section": "17",
+      "title": "§ 17 ust. 3",
+      "content": "Na potrzeby jednoznacznych odniesień i jednoznacznej identyfikacji komórki siatki stosuje się kod komórki, który zawiera wielkość komórki oraz współrzędne dolnego lewego rogu tej komórki. Wielkość komórki wyraża się w metrach [m] dla komórek o wielkości 100 m lub mniejszej oraz w kilometrach [km] dla komórek o wielkości 1000 m lub większej. Wartości współrzędnych północnych i współrzędnych wschodnich dzieli się przez 10 n , gdzie n oznacza liczbę zer znaczących dla wartości określającej wielkość komórki."
+    },
+    {
+      "provision_ref": "par17u4",
+      "section": "17",
+      "title": "§ 17 ust. 4",
+      "content": "Rozdzielczość siatki kilometrowej w zależności od skali mapy określa załącznik nr 4 do rozporządzenia."
+    },
+    {
+      "provision_ref": "par18",
+      "section": "18",
+      "title": "§ 18",
+      "content": "Podstawą podziału na arkusze mapy i nadawania im godła w układzie współrzędnych PL-LCC, PL-UTM lub PL-1992 jest arkusz mapy w skali 1:1 000 000. Godło każdego arkusza składa się z litery i liczb oddzielonych myślnikiem, wynikających z podziału Międzynarodowej Mapy Świata w skali 1:1 000 000 na arkusze o wymiarach 4º szerokości i 6º długości, gdzie: litera oznacza pas równoleżnikowy (pas), do którego przynależy arkusz, dwucyfrowa liczba oznacza pas południkowy (słup), do którego przynależy arkusz - przy czym obszar Polski leży na przecięciu dwóch pasów oznaczonych literami M i N w kierunku z południa na północ i trzech słupów oznaczonych liczbami: 33, 34 i 35 w kierunku z zachodu na wschód. Godło arkusza mapy w skali 1:500 000, 1:250 000, 1:100 000, 1:50 000, 1:25 000 i 1:10 000 powstaje przez dodanie do godła mapy w skali 1:1 000 000 liter i liczb, wynikających z podziału odpowiednio: arkusza mapy w skali 1:1 000 000 na 4 arkusze mapy w skali 1:500 000, po 2 arkusze w rzędzie, oznaczone literami A, B, C i D, poczynając od górnego lewego arkusza, rzędami z lewej do prawej; arkusza mapy w skali 1:500 000 na 4 arkusze mapy w skali 1:250 000, po 2 arkusze w rzędzie, oznaczone literami a, b, c i d, poczynając od górnego lewego arkusza, rzędami z lewej do prawej; arkusza mapy w skali 1:1 000 000 na 144 arkusze mapy w skali 1:100 000, po 12 arkuszy w rzędzie, oznaczone liczbami od 001 do 144, poczynając od górnego lewego arkusza, rzędami z lewej do prawej; arkusza mapy w skali 1:100 000 na 4 arkusze mapy w skali 1:50 000, po 2 arkusze w rzędzie, oznaczone literami A, B, C i D, poczynając od górnego lewego arkusza, rzędami z lewej do prawej; arkusza mapy w skali 1:50 000 na 4 arkusze mapy w skali 1:25 000, po 2 arkusze w rzędzie, oznaczone literami a, b, c i d, poczynając od górnego lewego arkusza, rzędami z lewej do prawej; arkusza mapy w skali 1:25 000 na 4 arkusze mapy w skali 1:10 000, po 2 arkusze w rzędzie, oznaczone cyframi 1, 2, 3 i 4, poczynając od górnego lewego arkusza, rzędami z lewej do prawej. W pracach geodezyjnych i kartograficznych, pracach hydrograficznych na akwenach morskich, a także przy wydawaniu map będących przedmiotem umów międzynarodowych, których Polska jest sygnatariuszem, może być stosowany inny niż określony w ust. 1 i 2 podział map na arkusze i inny sposób nadawania godła."
+    },
+    {
+      "provision_ref": "par18u1p1",
+      "section": "18",
+      "title": "§ 18 ust. 1 pkt 1",
+      "content": "Podstawą podziału na arkusze mapy i nadawania im godła w układzie współrzędnych PL-LCC, PL-UTM lub PL-1992 jest arkusz mapy w skali 1:1 000 000. Godło każdego arkusza składa się z litery i liczb oddzielonych myślnikiem, wynikających z podziału Międzynarodowej Mapy Świata w skali 1:1 000 000 na arkusze o wymiarach 4º szerokości i 6º długości, gdzie: litera oznacza pas równoleżnikowy (pas), do którego przynależy arkusz,"
+    },
+    {
+      "provision_ref": "par18u1p2",
+      "section": "18",
+      "title": "§ 18 ust. 1 pkt 2",
+      "content": "Podstawą podziału na arkusze mapy i nadawania im godła w układzie współrzędnych PL-LCC, PL-UTM lub PL-1992 jest arkusz mapy w skali 1:1 000 000. Godło każdego arkusza składa się z litery i liczb oddzielonych myślnikiem, wynikających z podziału Międzynarodowej Mapy Świata w skali 1:1 000 000 na arkusze o wymiarach 4º szerokości i 6º długości, gdzie: dwucyfrowa liczba oznacza pas południkowy (słup), do którego przynależy arkusz"
+    },
+    {
+      "provision_ref": "par18u2p1",
+      "section": "18",
+      "title": "§ 18 ust. 2 pkt 1",
+      "content": "Godło arkusza mapy w skali 1:500 000, 1:250 000, 1:100 000, 1:50 000, 1:25 000 i 1:10 000 powstaje przez dodanie do godła mapy w skali 1:1 000 000 liter i liczb, wynikających z podziału odpowiednio: arkusza mapy w skali 1:1 000 000 na 4 arkusze mapy w skali 1:500 000, po 2 arkusze w rzędzie, oznaczone literami A, B, C i D, poczynając od górnego lewego arkusza, rzędami z lewej do prawej;"
+    },
+    {
+      "provision_ref": "par18u2p2",
+      "section": "18",
+      "title": "§ 18 ust. 2 pkt 2",
+      "content": "Godło arkusza mapy w skali 1:500 000, 1:250 000, 1:100 000, 1:50 000, 1:25 000 i 1:10 000 powstaje przez dodanie do godła mapy w skali 1:1 000 000 liter i liczb, wynikających z podziału odpowiednio: arkusza mapy w skali 1:500 000 na 4 arkusze mapy w skali 1:250 000, po 2 arkusze w rzędzie, oznaczone literami a, b, c i d, poczynając od górnego lewego arkusza, rzędami z lewej do prawej;"
+    },
+    {
+      "provision_ref": "par18u2p3",
+      "section": "18",
+      "title": "§ 18 ust. 2 pkt 3",
+      "content": "Godło arkusza mapy w skali 1:500 000, 1:250 000, 1:100 000, 1:50 000, 1:25 000 i 1:10 000 powstaje przez dodanie do godła mapy w skali 1:1 000 000 liter i liczb, wynikających z podziału odpowiednio: arkusza mapy w skali 1:1 000 000 na 144 arkusze mapy w skali 1:100 000, po 12 arkuszy w rzędzie, oznaczone liczbami od 001 do 144, poczynając od górnego lewego arkusza, rzędami z lewej do prawej;"
+    },
+    {
+      "provision_ref": "par18u2p4",
+      "section": "18",
+      "title": "§ 18 ust. 2 pkt 4",
+      "content": "Godło arkusza mapy w skali 1:500 000, 1:250 000, 1:100 000, 1:50 000, 1:25 000 i 1:10 000 powstaje przez dodanie do godła mapy w skali 1:1 000 000 liter i liczb, wynikających z podziału odpowiednio: arkusza mapy w skali 1:100 000 na 4 arkusze mapy w skali 1:50 000, po 2 arkusze w rzędzie, oznaczone literami A, B, C i D, poczynając od górnego lewego arkusza, rzędami z lewej do prawej;"
+    },
+    {
+      "provision_ref": "par18u2p5",
+      "section": "18",
+      "title": "§ 18 ust. 2 pkt 5",
+      "content": "Godło arkusza mapy w skali 1:500 000, 1:250 000, 1:100 000, 1:50 000, 1:25 000 i 1:10 000 powstaje przez dodanie do godła mapy w skali 1:1 000 000 liter i liczb, wynikających z podziału odpowiednio: arkusza mapy w skali 1:50 000 na 4 arkusze mapy w skali 1:25 000, po 2 arkusze w rzędzie, oznaczone literami a, b, c i d, poczynając od górnego lewego arkusza, rzędami z lewej do prawej;"
+    },
+    {
+      "provision_ref": "par18u2p6",
+      "section": "18",
+      "title": "§ 18 ust. 2 pkt 6",
+      "content": "Godło arkusza mapy w skali 1:500 000, 1:250 000, 1:100 000, 1:50 000, 1:25 000 i 1:10 000 powstaje przez dodanie do godła mapy w skali 1:1 000 000 liter i liczb, wynikających z podziału odpowiednio: arkusza mapy w skali 1:25 000 na 4 arkusze mapy w skali 1:10 000, po 2 arkusze w rzędzie, oznaczone cyframi 1, 2, 3 i 4, poczynając od górnego lewego arkusza, rzędami z lewej do prawej."
+    },
+    {
+      "provision_ref": "par18u3",
+      "section": "18",
+      "title": "§ 18 ust. 3",
+      "content": "W pracach geodezyjnych i kartograficznych, pracach hydrograficznych na akwenach morskich, a także przy wydawaniu map będących przedmiotem umów międzynarodowych, których Polska jest sygnatariuszem, może być stosowany inny niż określony w ust. 1 i 2 podział map na arkusze i inny sposób nadawania godła."
+    },
+    {
+      "provision_ref": "par19",
+      "section": "19",
+      "title": "§ 19",
+      "content": "Podstawą podziału na arkusze mapy i nadawania im godła w układzie współrzędnych PL-2000 jest arkusz mapy w skali 1:10 000 o wymiarach 5 km na 8 km, przy czym godło każdego arkusza mapy w skali 1:10 000 składa się z trzech liczb rozdzielonych kropkami, gdzie: pierwsza, jednocyfrowa liczba oznacza numer pasa południkowego (5, 6, 7 lub 8) i powstaje przez podzielenie wartości południka osiowego pasa południkowego przez liczbę 3; druga, trzycyfrowa liczba określa numer rzędu, do którego przynależy arkusz, i powstaje jako liczba całkowita dzielenia (x i - 4920) przez 5, gdzie x i oznacza współrzędną północną dowolnego punktu z pasa południkowego wyrażoną w kilometrach [km]; trzecia, dwucyfrowa liczba określa numer kolumny, do której przynależy arkusz, i powstaje jako liczba całkowita dzielenia (y i - 332) przez 8, gdzie y i oznacza współrzędną wschodnią dowolnego punktu z pasa południkowego wyrażoną w kilometrach [km] z pominięciem początkowej cyfry oznaczającej numer pasa południkowego. Godło arkusza mapy w skali 1:5000, 1:2000, 1:1000 i 1:500 powstaje przez dodanie do godła mapy w skali 1:10 000 liczby wynikającej z podziału odpowiednio: arkusza mapy w skali 1:10 000 na 4 arkusze mapy w skali 1:5000, po 2 arkusze w rzędzie, oznaczone liczbami 1, 2, 3 i 4, poczynając od górnego lewego arkusza, rzędami z lewej do prawej; arkusza mapy w skali 1:10 000 na 25 arkuszy mapy w skali 1:2000, po 5 arkuszy w rzędzie, oznaczone liczbami od 01 do 25, poczynając od górnego lewego arkusza, rzędami z lewej do prawej; arkusza mapy w skali 1:2000 na 4 arkusze mapy w skali 1:1000, po 2 arkusze w rzędzie, oznaczone liczbami 1, 2, 3 i 4, poczynając od górnego lewego arkusza, rzędami z lewej do prawej; arkusza mapy w skali 1:1000 na 4 arkusze mapy w skali 1:500, po 2 arkusze w rzędzie, oznaczone liczbami 1, 2, 3 i 4, poczynając od górnego lewego arkusza, rzędami z lewej do prawej."
+    },
+    {
+      "provision_ref": "par19u1p1",
+      "section": "19",
+      "title": "§ 19 ust. 1 pkt 1",
+      "content": "Podstawą podziału na arkusze mapy i nadawania im godła w układzie współrzędnych PL-2000 jest arkusz mapy w skali 1:10 000 o wymiarach 5 km na 8 km, przy czym godło każdego arkusza mapy w skali 1:10 000 składa się z trzech liczb rozdzielonych kropkami, gdzie: pierwsza, jednocyfrowa liczba oznacza numer pasa południkowego (5, 6, 7 lub 8) i powstaje przez podzielenie wartości południka osiowego pasa południkowego przez liczbę 3;"
+    },
+    {
+      "provision_ref": "par19u1p2",
+      "section": "19",
+      "title": "§ 19 ust. 1 pkt 2",
+      "content": "Podstawą podziału na arkusze mapy i nadawania im godła w układzie współrzędnych PL-2000 jest arkusz mapy w skali 1:10 000 o wymiarach 5 km na 8 km, przy czym godło każdego arkusza mapy w skali 1:10 000 składa się z trzech liczb rozdzielonych kropkami, gdzie: druga, trzycyfrowa liczba określa numer rzędu, do którego przynależy arkusz, i powstaje jako liczba całkowita dzielenia (x i - 4920) przez 5, gdzie x i oznacza współrzędną północną dowolnego punktu z pasa południkowego wyrażoną w kilometrach [km];"
+    },
+    {
+      "provision_ref": "par19u1p3",
+      "section": "19",
+      "title": "§ 19 ust. 1 pkt 3",
+      "content": "Podstawą podziału na arkusze mapy i nadawania im godła w układzie współrzędnych PL-2000 jest arkusz mapy w skali 1:10 000 o wymiarach 5 km na 8 km, przy czym godło każdego arkusza mapy w skali 1:10 000 składa się z trzech liczb rozdzielonych kropkami, gdzie: trzecia, dwucyfrowa liczba określa numer kolumny, do której przynależy arkusz, i powstaje jako liczba całkowita dzielenia (y i - 332) przez 8, gdzie y i oznacza współrzędną wschodnią dowolnego punktu z pasa południkowego wyrażoną w kilometrach [km] z pominięciem początkowej cyfry oznaczającej numer pasa południkowego."
+    },
+    {
+      "provision_ref": "par19u2p1",
+      "section": "19",
+      "title": "§ 19 ust. 2 pkt 1",
+      "content": "Godło arkusza mapy w skali 1:5000, 1:2000, 1:1000 i 1:500 powstaje przez dodanie do godła mapy w skali 1:10 000 liczby wynikającej z podziału odpowiednio: arkusza mapy w skali 1:10 000 na 4 arkusze mapy w skali 1:5000, po 2 arkusze w rzędzie, oznaczone liczbami 1, 2, 3 i 4, poczynając od górnego lewego arkusza, rzędami z lewej do prawej;"
+    },
+    {
+      "provision_ref": "par19u2p2",
+      "section": "19",
+      "title": "§ 19 ust. 2 pkt 2",
+      "content": "Godło arkusza mapy w skali 1:5000, 1:2000, 1:1000 i 1:500 powstaje przez dodanie do godła mapy w skali 1:10 000 liczby wynikającej z podziału odpowiednio: arkusza mapy w skali 1:10 000 na 25 arkuszy mapy w skali 1:2000, po 5 arkuszy w rzędzie, oznaczone liczbami od 01 do 25, poczynając od górnego lewego arkusza, rzędami z lewej do prawej;"
+    },
+    {
+      "provision_ref": "par19u2p3",
+      "section": "19",
+      "title": "§ 19 ust. 2 pkt 3",
+      "content": "Godło arkusza mapy w skali 1:5000, 1:2000, 1:1000 i 1:500 powstaje przez dodanie do godła mapy w skali 1:10 000 liczby wynikającej z podziału odpowiednio: arkusza mapy w skali 1:2000 na 4 arkusze mapy w skali 1:1000, po 2 arkusze w rzędzie, oznaczone liczbami 1, 2, 3 i 4, poczynając od górnego lewego arkusza, rzędami z lewej do prawej;"
+    },
+    {
+      "provision_ref": "par19u2p4",
+      "section": "19",
+      "title": "§ 19 ust. 2 pkt 4",
+      "content": "Godło arkusza mapy w skali 1:5000, 1:2000, 1:1000 i 1:500 powstaje przez dodanie do godła mapy w skali 1:10 000 liczby wynikającej z podziału odpowiednio: arkusza mapy w skali 1:1000 na 4 arkusze mapy w skali 1:500, po 2 arkusze w rzędzie, oznaczone liczbami 1, 2, 3 i 4, poczynając od górnego lewego arkusza, rzędami z lewej do prawej."
+    },
+    {
+      "provision_ref": "par20",
+      "section": "20",
+      "title": "§ 20",
+      "content": "Podział i oznaczenia arkuszy map w układach współrzędnych: PL-LCC, PL-1992, PL-UTM oraz PL-2000 określa załącznik nr 5 do rozporządzenia."
+    },
+    {
+      "provision_ref": "par21",
+      "section": "21",
+      "title": "§ 21",
+      "content": "Tworzenie, aktualizacja i udostępnianie parametrów technicznych państwowego systemu odniesień przestrzennych są realizowane zgodnie ze schematem aplikacyjnym GML, określonym w załączniku nr 6 do rozporządzenia oraz umieszczonym na ePUAP."
+    },
+    {
+      "provision_ref": "par22",
+      "section": "22",
+      "title": "§ 22",
+      "content": "Faktyczne granice pasów południkowych w układzie współrzędnych PL-2000 wyznacza się wzdłuż granic jednostek administracyjnych szczebla powiatowego, przy czym w przypadku jednostek administracyjnych przecinanych na dwie części przez południki graniczne pasów południkowych: 16,5ºE, 19,5ºE lub 22,5ºE o przynależności obszaru powiatu do określonego pasa południkowego przesądza część o większej powierzchni."
+    },
+    {
+      "provision_ref": "par23",
+      "section": "23",
+      "title": "§ 23",
+      "content": "Dane określające wartości modelu: różnic współrzędnych pomiędzy układami odniesienia PL-ETRF2000 a PL-ETRF89, różnic wysokości pomiędzy układami wysokościowymi PL-EVRF2007-NH a PL-KRON86-NH, obowiązującej quasi-geoidy - publikuje się w Biuletynie Informacji Publicznej Głównego Urzędu Geodezji i Kartografii, nie później niż w dniu 1 stycznia 2014 r."
+    },
+    {
+      "provision_ref": "par23p1",
+      "section": "23",
+      "title": "§ 23 pkt 1",
+      "content": "Dane określające wartości modelu: różnic współrzędnych pomiędzy układami odniesienia PL-ETRF2000 a PL-ETRF89,"
+    },
+    {
+      "provision_ref": "par23p2",
+      "section": "23",
+      "title": "§ 23 pkt 2",
+      "content": "Dane określające wartości modelu: różnic wysokości pomiędzy układami wysokościowymi PL-EVRF2007-NH a PL-KRON86-NH,"
+    },
+    {
+      "provision_ref": "par23p3",
+      "section": "23",
+      "title": "§ 23 pkt 3",
+      "content": "Dane określające wartości modelu: obowiązującej quasi-geoidy"
+    },
+    {
+      "provision_ref": "par24",
+      "section": "24",
+      "title": "§ 24",
+      "content": "Układ wysokościowy PL-KRON86-NH stosuje się do czasu wdrożenia układu wysokościowego PL-EVRF2007-NH na obszarze całego kraju, nie dłużej jednak niż do dnia 31 grudnia 2019 r. Parametry techniczne geodezyjnych układów odniesienia, układów wysokościowych i układów współrzędnych płaskich prostokątnych obowiązujących na mocy dotychczasowych przepisów, w przypadku wycofania tych układów, archiwizuje się w sposób zapewniający w razie potrzeby wykonanie przeliczeń lub transformacji współrzędnych i wysokości określonych w tych układach do układów tworzących państwowy system odniesień przestrzennych, o których mowa w § 3 ust. 1."
+    },
+    {
+      "provision_ref": "par24u1",
+      "section": "24",
+      "title": "§ 24 ust. 1",
+      "content": "Układ wysokościowy PL-KRON86-NH stosuje się do czasu wdrożenia układu wysokościowego PL-EVRF2007-NH na obszarze całego kraju, nie dłużej jednak niż do dnia 31 grudnia 2019 r."
+    },
+    {
+      "provision_ref": "par24u2",
+      "section": "24",
+      "title": "§ 24 ust. 2",
+      "content": "Parametry techniczne geodezyjnych układów odniesienia, układów wysokościowych i układów współrzędnych płaskich prostokątnych obowiązujących na mocy dotychczasowych przepisów, w przypadku wycofania tych układów, archiwizuje się w sposób zapewniający w razie potrzeby wykonanie przeliczeń lub transformacji współrzędnych i wysokości określonych w tych układach do układów tworzących państwowy system odniesień przestrzennych, o których mowa w § 3 ust. 1."
+    },
+    {
+      "provision_ref": "par25",
+      "section": "25",
+      "title": "§ 25",
+      "content": "Traci moc rozporządzenie Rady Ministrów z dnia 8 sierpnia 2000 r. w sprawie państwowego systemu odniesień przestrzennych ."
+    },
+    {
+      "provision_ref": "par26",
+      "section": "26",
+      "title": "§ 26",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    }
+  ],
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2010-1287",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2010-489",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2012-951",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2000-821",
+      "ref_type": "references"
+    }
+  ]
+}

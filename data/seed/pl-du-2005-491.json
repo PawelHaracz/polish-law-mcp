@@ -10,6 +10,24 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2005/491",
   "provisions": [
     {
+      "provision_ref": "art350",
+      "section": "350",
+      "title": "Art. 350",
+      "content": "Ustawa wchodzi w życie z dniem 1 października 2018 r., z wyjątkiem: art. 1 pkt 1, art. 42 pkt 2 lit. b oraz art. 334 ust. 2, które wchodzą w życie z dniem następującym po dniu ogłoszenia; art. 19 pkt 3 lit. b w zakresie dodawanego w art. 21 w ust. 1 pkt 39c, art. 120 pkt 1, art. 127 pkt 33-36 i 39 oraz art. 167, które wchodzą w życie z dniem 1 stycznia 2019 r."
+    },
+    {
+      "provision_ref": "art350p1",
+      "section": "350",
+      "title": "Art. 350 pkt 1",
+      "content": "Ustawa wchodzi w życie z dniem 1 października 2018 r., z wyjątkiem: art. 1 pkt 1, art. 42 pkt 2 lit. b oraz art. 334 ust. 2, które wchodzą w życie z dniem następującym po dniu ogłoszenia;"
+    },
+    {
+      "provision_ref": "art350p2",
+      "section": "350",
+      "title": "Art. 350 pkt 2",
+      "content": "Ustawa wchodzi w życie z dniem 1 października 2018 r., z wyjątkiem: art. 19 pkt 3 lit. b w zakresie dodawanego w art. 21 w ust. 1 pkt 39c, art. 120 pkt 1, art. 127 pkt 33-36 i 39 oraz art. 167, które wchodzą w życie z dniem 1 stycznia 2019 r."
+    },
+    {
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
@@ -19,13 +37,55 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Użyte w ustawie określenia oznaczają: 1) fundusz kapitałowy - osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, której wyłącznym przedmiotem działalności jest dokonywanie inwestycji; 2) inwestycje - inwestycje w rozumieniu przepisów o rachunkowości; 3) przedsiębiorcy - mikroprzedsiębiorców oraz małych i średnich przedsiębiorców spełniających warunki określone w załączniku I do rozporządzenia nr 70/2001/WE z dnia 12 stycznia 2001 r. w sprawie zastosowania art. 87 i 88 Traktatu WE w odniesieniu do pomocy państwa dla małych i średnich przedsiębiorstw ( Dz. Urz. L 10 z 13.01.2001 ) , zmienionego rozporządzeniem nr 364/2004/WE z dnia 25 lutego 2004 r. ( Dz. Urz. WE L 63 z 28.02.2004 ) ; 4) przychody i zyski - przychody i zyski w rozumieniu przepisów o rachunkowości."
+      "content": "Użyte w ustawie określenia oznaczają: fundusz kapitałowy - osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, której wyłącznym przedmiotem działalności jest dokonywanie inwestycji; inwestycje - inwestycje w rozumieniu przepisów o rachunkowości; przedsiębiorcy - mikroprzedsiębiorców oraz małych i średnich przedsiębiorców spełniających warunki określone w załączniku I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu ; przychody i zyski - przychody i zyski w rozumieniu przepisów o rachunkowości."
+    },
+    {
+      "provision_ref": "art2p1",
+      "section": "2",
+      "title": "Art. 2 pkt 1",
+      "content": "Użyte w ustawie określenia oznaczają: fundusz kapitałowy - osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, której wyłącznym przedmiotem działalności jest dokonywanie inwestycji;"
+    },
+    {
+      "provision_ref": "art2p2",
+      "section": "2",
+      "title": "Art. 2 pkt 2",
+      "content": "Użyte w ustawie określenia oznaczają: inwestycje - inwestycje w rozumieniu przepisów o rachunkowości;"
+    },
+    {
+      "provision_ref": "art2p3",
+      "section": "2",
+      "title": "Art. 2 pkt 3",
+      "content": "Użyte w ustawie określenia oznaczają: przedsiębiorcy - mikroprzedsiębiorców oraz małych i średnich przedsiębiorców spełniających warunki określone w załączniku I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu ;"
+    },
+    {
+      "provision_ref": "art2p4",
+      "section": "2",
+      "title": "Art. 2 pkt 4",
+      "content": "Użyte w ustawie określenia oznaczają: przychody i zyski - przychody i zyski w rozumieniu przepisów o rachunkowości."
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "1. Bank Gospodarstwa Krajowego, zwany dalej „BGK”, utworzy Krajowy Fundusz Kapitałowy w formie spółki akcyjnej, w trybie przepisów Kodeksu spółek handlowych . 2. W dniu utworzenia Krajowego Funduszu Kapitałowego BGK będzie jedynym jego akcjonariuszem. 3. Projekt statutu Krajowego Funduszu Kapitałowego oraz projekt jego zmiany podlegają zatwierdzeniu przez ministra właściwego do spraw gospodarki."
+      "content": "Bank Gospodarstwa Krajowego, zwany dalej „BGK”, utworzy Krajowy Fundusz Kapitałowy w formie spółki akcyjnej, w trybie przepisów Kodeksu spółek handlowych . W dniu utworzenia Krajowego Funduszu Kapitałowego BGK będzie jedynym jego akcjonariuszem. Projekt statutu Krajowego Funduszu Kapitałowego oraz projekt jego zmiany podlegają zatwierdzeniu przez ministra właściwego do spraw gospodarki."
+    },
+    {
+      "provision_ref": "art3u1",
+      "section": "3",
+      "title": "Art. 3 ust. 1",
+      "content": "Bank Gospodarstwa Krajowego, zwany dalej „BGK”, utworzy Krajowy Fundusz Kapitałowy w formie spółki akcyjnej, w trybie przepisów Kodeksu spółek handlowych ."
+    },
+    {
+      "provision_ref": "art3u2",
+      "section": "3",
+      "title": "Art. 3 ust. 2",
+      "content": "W dniu utworzenia Krajowego Funduszu Kapitałowego BGK będzie jedynym jego akcjonariuszem."
+    },
+    {
+      "provision_ref": "art3u3",
+      "section": "3",
+      "title": "Art. 3 ust. 3",
+      "content": "Projekt statutu Krajowego Funduszu Kapitałowego oraz projekt jego zmiany podlegają zatwierdzeniu przez ministra właściwego do spraw gospodarki."
     },
     {
       "provision_ref": "art4",
@@ -37,73 +97,559 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Art. 5",
-      "content": "Wyłącznym przedmiotem działalności Krajowego Funduszu Kapitałowego jest udzielanie wsparcia finansowego funduszom kapitałowym, inwestującym w przedsiębiorców mających siedzibę na terytorium Rzeczypospolitej Polskiej, w szczególności w przedsiębiorców innowacyjnych lub prowadzących działalność badawczo-rozwojową."
+      "content": "Podstawowym celem działalności Krajowego Funduszu Kapitałowego jest wspieranie polityki gospodarczej Rady Ministrów w zakresie stymulowania rozwoju gospodarczego państwa opartego na innowacyjności oraz konkurencyjności gospodarki. Cel, o którym mowa w ust. 1, Krajowy Fundusz Kapitałowy realizuje w szczególności poprzez: udzielanie pomocy finansowej przedsiębiorcom i inwestorom w rozumieniu odrębnych przepisów, bezpośrednio lub za pośrednictwem funduszy kapitałowych, którym Krajowy Fundusz Kapitałowy udziela wsparcia finansowego; dokonywanie inwestycji w przedsiębiorców poprzez obejmowanie emitowanych przez nich udziałów lub akcji, warrantów subskrypcyjnych, obligacji lub uczestniczenie jako wspólnik w przedsiębiorcach działających w formie spółek osobowych; udzielanie pożyczek, gwarancji oraz poręczeń w rozumieniu odrębnych przepisów; tworzenie lub współtworzenie funduszy kapitałowych; wykonywanie czynności zarządzania portfelem inwestycyjnym funduszu inwestycyjnego lub jego częścią, o których mowa w art. 46 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi , zarządzania ryzykiem funduszu inwestycyjnego, o którym mowa w art. 46b tej ustawy, a także zarządzania portfelem inwestycyjnym alternatywnej spółki inwestycyjnej lub jego częścią oraz zarządzania ryzykiem, o których mowa w art. 70g ust. 5 tej ustawy; wykonywanie innych zadań przewidzianych dla Krajowego Funduszu Kapitałowego w odrębnych przepisach. Krajowy Fundusz Kapitałowy może również pełnić rolę podmiotu wdrażającego instrument finansowy lub fundusz funduszy, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającym wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającym przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającym rozporządzenie Rady (WE) nr 1083/2006 . Zasady oraz warunki pełnienia roli, o której mowa w ust. 3, określają odrębne przepisy oraz umowy zawarte z właściwymi organami administracji rządowej lub jednostek samorządu terytorialnego."
+    },
+    {
+      "provision_ref": "art5u1",
+      "section": "5",
+      "title": "Art. 5 ust. 1",
+      "content": "Podstawowym celem działalności Krajowego Funduszu Kapitałowego jest wspieranie polityki gospodarczej Rady Ministrów w zakresie stymulowania rozwoju gospodarczego państwa opartego na innowacyjności oraz konkurencyjności gospodarki."
+    },
+    {
+      "provision_ref": "art5u2p1",
+      "section": "5",
+      "title": "Art. 5 ust. 2 pkt 1",
+      "content": "Cel, o którym mowa w ust. 1, Krajowy Fundusz Kapitałowy realizuje w szczególności poprzez: udzielanie pomocy finansowej przedsiębiorcom i inwestorom w rozumieniu odrębnych przepisów, bezpośrednio lub za pośrednictwem funduszy kapitałowych, którym Krajowy Fundusz Kapitałowy udziela wsparcia finansowego;"
+    },
+    {
+      "provision_ref": "art5u2p2",
+      "section": "5",
+      "title": "Art. 5 ust. 2 pkt 2",
+      "content": "Cel, o którym mowa w ust. 1, Krajowy Fundusz Kapitałowy realizuje w szczególności poprzez: dokonywanie inwestycji w przedsiębiorców poprzez obejmowanie emitowanych przez nich udziałów lub akcji, warrantów subskrypcyjnych, obligacji lub uczestniczenie jako wspólnik w przedsiębiorcach działających w formie spółek osobowych;"
+    },
+    {
+      "provision_ref": "art5u2p3",
+      "section": "5",
+      "title": "Art. 5 ust. 2 pkt 3",
+      "content": "Cel, o którym mowa w ust. 1, Krajowy Fundusz Kapitałowy realizuje w szczególności poprzez: udzielanie pożyczek, gwarancji oraz poręczeń w rozumieniu odrębnych przepisów;"
+    },
+    {
+      "provision_ref": "art5u2p4",
+      "section": "5",
+      "title": "Art. 5 ust. 2 pkt 4",
+      "content": "Cel, o którym mowa w ust. 1, Krajowy Fundusz Kapitałowy realizuje w szczególności poprzez: tworzenie lub współtworzenie funduszy kapitałowych;"
+    },
+    {
+      "provision_ref": "art5u2p5",
+      "section": "5",
+      "title": "Art. 5 ust. 2 pkt 5",
+      "content": "Cel, o którym mowa w ust. 1, Krajowy Fundusz Kapitałowy realizuje w szczególności poprzez: wykonywanie czynności zarządzania portfelem inwestycyjnym funduszu inwestycyjnego lub jego częścią, o których mowa w art. 46 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi , zarządzania ryzykiem funduszu inwestycyjnego, o którym mowa w art. 46b tej ustawy, a także zarządzania portfelem inwestycyjnym alternatywnej spółki inwestycyjnej lub jego częścią oraz zarządzania ryzykiem, o których mowa w art. 70g ust. 5 tej ustawy;"
+    },
+    {
+      "provision_ref": "art5u2p6",
+      "section": "5",
+      "title": "Art. 5 ust. 2 pkt 6",
+      "content": "Cel, o którym mowa w ust. 1, Krajowy Fundusz Kapitałowy realizuje w szczególności poprzez: wykonywanie innych zadań przewidzianych dla Krajowego Funduszu Kapitałowego w odrębnych przepisach."
+    },
+    {
+      "provision_ref": "art5u3",
+      "section": "5",
+      "title": "Art. 5 ust. 3",
+      "content": "Krajowy Fundusz Kapitałowy może również pełnić rolę podmiotu wdrażającego instrument finansowy lub fundusz funduszy, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającym wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającym przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającym rozporządzenie Rady (WE) nr 1083/2006 ."
+    },
+    {
+      "provision_ref": "art5u4",
+      "section": "5",
+      "title": "Art. 5 ust. 4",
+      "content": "Zasady oraz warunki pełnienia roli, o której mowa w ust. 3, określają odrębne przepisy oraz umowy zawarte z właściwymi organami administracji rządowej lub jednostek samorządu terytorialnego."
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Art. 6",
-      "content": "Przychodami Krajowego Funduszu Kapitałowego oprócz przychodów z działalności, o której mowa w art. 5, są: 1) dotacje celowe z budżetu państwa określone w ustawie budżetowej; 2) środki pochodzące z budżetu Unii Europejskiej oraz inne środki pochodzące ze źródeł zagranicznych, niepodlegające zwrotowi; 3) inne przychody. Rozdział 2 Organy Krajowego Funduszu Kapitałowego"
+      "content": "Przychodami Krajowego Funduszu Kapitałowego oprócz przychodów z działalności, o której mowa w art. 5, są: dotacje otrzymane z budżetu państwa; środki pochodzące z budżetu Unii Europejskiej oraz inne środki pochodzące ze źródeł zagranicznych, niepodlegające zwrotowi, w szczególności środki, o których mowa w art. 5 ust. 1 pkt 2 i 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych ) ; odsetki od środków, o których mowa w pkt 1 i 2, zgromadzonych na rachunkach bankowych Krajowego Funduszu Kapitałowego, o ile odrębne przepisy lub umowy dotyczące przekazania lub wykorzystania tych środków nie stanowią inaczej; przychody z działalności inwestycyjnej prowadzonej przez Krajowy Fundusz Kapitałowy, w szczególności dywidendy, przychody ze zbycia aktywów lub lokat, zwroty kapitałów i zysków oraz wszelkie inne wpływy wygenerowane przez inwestycje, o ile odrębne przepisy lub umowy dotyczące przekazania lub wykorzystania tych środków nie stanowią inaczej; przychody z działalności innej niż działalność, o której mowa w pkt 2b, prowadzonej przez Krajowy Fundusz Kapitałowy; inne przychody. Przychody, o których mowa w ust. 1, stanowią źródło finansowania celów działalności Krajowego Funduszu Kapitałowego, o których mowa w art. 5 ust. 1, w tym kosztów zarządzania, chyba że odrębne przepisy stanowią inaczej."
+    },
+    {
+      "provision_ref": "art6u1p1",
+      "section": "6",
+      "title": "Art. 6 ust. 1 pkt 1",
+      "content": "Przychodami Krajowego Funduszu Kapitałowego oprócz przychodów z działalności, o której mowa w art. 5, są: dotacje otrzymane z budżetu państwa;"
+    },
+    {
+      "provision_ref": "art6u1p2",
+      "section": "6",
+      "title": "Art. 6 ust. 1 pkt 2",
+      "content": "Przychodami Krajowego Funduszu Kapitałowego oprócz przychodów z działalności, o której mowa w art. 5, są: środki pochodzące z budżetu Unii Europejskiej oraz inne środki pochodzące ze źródeł zagranicznych, niepodlegające zwrotowi, w szczególności środki, o których mowa w art. 5 ust. 1 pkt 2 i 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych ) ;"
+    },
+    {
+      "provision_ref": "art6u1p2a",
+      "section": "6",
+      "title": "Art. 6 ust. 1 pkt 2a",
+      "content": "Przychodami Krajowego Funduszu Kapitałowego oprócz przychodów z działalności, o której mowa w art. 5, są: odsetki od środków, o których mowa w pkt 1 i 2, zgromadzonych na rachunkach bankowych Krajowego Funduszu Kapitałowego, o ile odrębne przepisy lub umowy dotyczące przekazania lub wykorzystania tych środków nie stanowią inaczej;"
+    },
+    {
+      "provision_ref": "art6u1p2b",
+      "section": "6",
+      "title": "Art. 6 ust. 1 pkt 2b",
+      "content": "Przychodami Krajowego Funduszu Kapitałowego oprócz przychodów z działalności, o której mowa w art. 5, są: przychody z działalności inwestycyjnej prowadzonej przez Krajowy Fundusz Kapitałowy, w szczególności dywidendy, przychody ze zbycia aktywów lub lokat, zwroty kapitałów i zysków oraz wszelkie inne wpływy wygenerowane przez inwestycje, o ile odrębne przepisy lub umowy dotyczące przekazania lub wykorzystania tych środków nie stanowią inaczej;"
+    },
+    {
+      "provision_ref": "art6u1p2c",
+      "section": "6",
+      "title": "Art. 6 ust. 1 pkt 2c",
+      "content": "Przychodami Krajowego Funduszu Kapitałowego oprócz przychodów z działalności, o której mowa w art. 5, są: przychody z działalności innej niż działalność, o której mowa w pkt 2b, prowadzonej przez Krajowy Fundusz Kapitałowy;"
+    },
+    {
+      "provision_ref": "art6u1p3",
+      "section": "6",
+      "title": "Art. 6 ust. 1 pkt 3",
+      "content": "Przychodami Krajowego Funduszu Kapitałowego oprócz przychodów z działalności, o której mowa w art. 5, są: inne przychody."
+    },
+    {
+      "provision_ref": "art6u2",
+      "section": "6",
+      "title": "Art. 6 ust. 2",
+      "content": "Przychody, o których mowa w ust. 1, stanowią źródło finansowania celów działalności Krajowego Funduszu Kapitałowego, o których mowa w art. 5 ust. 1, w tym kosztów zarządzania, chyba że odrębne przepisy stanowią inaczej."
+    },
+    {
+      "provision_ref": "art6a",
+      "section": "6a",
+      "title": "Art. 6a",
+      "content": "Obsługę bankową Krajowego Funduszu Kapitałowego prowadzi BGK w przypadku gdy w jego posiadaniu znajdują się akcje Krajowego Funduszu Kapitałowego w liczbie: uprawniającej do wykonywania co najmniej 50% ogólnej liczby głosów lub stanowiącej co najmniej 50% kapitału zakładowego."
+    },
+    {
+      "provision_ref": "art6ap1",
+      "section": "6a",
+      "title": "Art. 6a pkt 1",
+      "content": "Obsługę bankową Krajowego Funduszu Kapitałowego prowadzi BGK w przypadku gdy w jego posiadaniu znajdują się akcje Krajowego Funduszu Kapitałowego w liczbie: uprawniającej do wykonywania co najmniej 50% ogólnej liczby głosów lub"
+    },
+    {
+      "provision_ref": "art6ap2",
+      "section": "6a",
+      "title": "Art. 6a pkt 2",
+      "content": "Obsługę bankową Krajowego Funduszu Kapitałowego prowadzi BGK w przypadku gdy w jego posiadaniu znajdują się akcje Krajowego Funduszu Kapitałowego w liczbie: stanowiącej co najmniej 50% kapitału zakładowego."
+    },
+    {
+      "provision_ref": "art6b",
+      "section": "6b",
+      "title": "Art. 6b",
+      "content": "Krajowy Fundusz Kapitałowy przekazuje BGK oraz ministrowi właściwemu do spraw finansów publicznych informację o: planowanych wydatkach Funduszu na dany rok - do dnia 15 czerwca roku poprzedniego; realizacji wydatków Funduszu w danym roku - do dnia 30 kwietnia roku następnego."
+    },
+    {
+      "provision_ref": "art6bp1",
+      "section": "6b",
+      "title": "Art. 6b pkt 1",
+      "content": "Krajowy Fundusz Kapitałowy przekazuje BGK oraz ministrowi właściwemu do spraw finansów publicznych informację o: planowanych wydatkach Funduszu na dany rok - do dnia 15 czerwca roku poprzedniego;"
+    },
+    {
+      "provision_ref": "art6bp2",
+      "section": "6b",
+      "title": "Art. 6b pkt 2",
+      "content": "Krajowy Fundusz Kapitałowy przekazuje BGK oraz ministrowi właściwemu do spraw finansów publicznych informację o: realizacji wydatków Funduszu w danym roku - do dnia 30 kwietnia roku następnego."
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Art. 7",
-      "content": "1. Rada Nadzorcza Krajowego Funduszu Kapitałowego składa się z pięciu członków. 2. Minister właściwy do spraw gospodarki oraz minister właściwy do spraw nauki powołują po jednym członku Rady Nadzorczej. Ministrom tym przysługuje również odpowiednio uprawnienie do odwołania powołanego członka Rady Nadzorczej. 3. Członkowie Rady Nadzorczej są powoływani na okres wspólnej kadencji."
+      "content": "W skład Rady Nadzorczej Krajowego Funduszu Kapitałowego wchodzi od trzech do siedmiu członków. Minister właściwy do spraw gospodarki, minister właściwy do spraw instytucji finansowych oraz minister właściwy do spraw szkolnictwa wyższego i nauki powołują po jednym członku Rady Nadzorczej. Ministrom tym przysługuje również odpowiednio uprawnienie do odwołania powołanego członka Rady Nadzorczej. Członkowie Rady Nadzorczej są powoływani na okres wspólnej kadencji."
+    },
+    {
+      "provision_ref": "art7u1",
+      "section": "7",
+      "title": "Art. 7 ust. 1",
+      "content": "W skład Rady Nadzorczej Krajowego Funduszu Kapitałowego wchodzi od trzech do siedmiu członków."
+    },
+    {
+      "provision_ref": "art7u2",
+      "section": "7",
+      "title": "Art. 7 ust. 2",
+      "content": "Minister właściwy do spraw gospodarki, minister właściwy do spraw instytucji finansowych oraz minister właściwy do spraw szkolnictwa wyższego i nauki powołują po jednym członku Rady Nadzorczej. Ministrom tym przysługuje również odpowiednio uprawnienie do odwołania powołanego członka Rady Nadzorczej."
+    },
+    {
+      "provision_ref": "art7u3",
+      "section": "7",
+      "title": "Art. 7 ust. 3",
+      "content": "Członkowie Rady Nadzorczej są powoływani na okres wspólnej kadencji."
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Art. 8",
-      "content": "1. Organem doradczym Zarządu Krajowego Funduszu Kapitałowego do spraw opiniowania projektów, dla których ma być udzielone wsparcie finansowe, jest Komitet Inwestycyjny. 2. Komitet Inwestycyjny składa się z 5 członków. 3. Rada Nadzorcza Krajowego Funduszu Kapitałowego powołuje i odwołuje członków Komitetu Inwestycyjnego oraz uchwala jego regulamin. Regulamin określa w szczególności organizację Komitetu Inwestycyjnego, sposób wykonywania zadań, kwalifikacje członków Komitetu Inwestycyjnego, zasady ich wynagradzania oraz szczegółowy tryb wyłączenia, o którym mowa w art. 9 ust. 1."
+      "content": "Organem doradczym Zarządu Krajowego Funduszu Kapitałowego do spraw opiniowania projektów, dla których ma być udzielone wsparcie finansowe, jest Komitet Inwestycyjny. Komitet Inwestycyjny składa się z 5 członków. Rada Nadzorcza Krajowego Funduszu Kapitałowego powołuje i odwołuje członków Komitetu Inwestycyjnego oraz uchwala jego regulamin. Regulamin określa w szczególności organizację Komitetu Inwestycyjnego, sposób wykonywania zadań, kwalifikacje członków Komitetu Inwestycyjnego, zasady ich wynagradzania oraz szczegółowy tryb wyłączenia, o którym mowa w art. 9 ust. 1."
+    },
+    {
+      "provision_ref": "art8u1",
+      "section": "8",
+      "title": "Art. 8 ust. 1",
+      "content": "Organem doradczym Zarządu Krajowego Funduszu Kapitałowego do spraw opiniowania projektów, dla których ma być udzielone wsparcie finansowe, jest Komitet Inwestycyjny."
+    },
+    {
+      "provision_ref": "art8u2",
+      "section": "8",
+      "title": "Art. 8 ust. 2",
+      "content": "Komitet Inwestycyjny składa się z 5 członków."
+    },
+    {
+      "provision_ref": "art8u3",
+      "section": "8",
+      "title": "Art. 8 ust. 3",
+      "content": "Rada Nadzorcza Krajowego Funduszu Kapitałowego powołuje i odwołuje członków Komitetu Inwestycyjnego oraz uchwala jego regulamin. Regulamin określa w szczególności organizację Komitetu Inwestycyjnego, sposób wykonywania zadań, kwalifikacje członków Komitetu Inwestycyjnego, zasady ich wynagradzania oraz szczegółowy tryb wyłączenia, o którym mowa w art. 9 ust. 1."
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Art. 9",
-      "content": "1. Członek Komitetu Inwestycyjnego podlega wyłączeniu z opiniowania projektu funduszu kapitałowego, jeżeli wspólnik, akcjonariusz, członek organu zarządzającego lub nadzorczego tego funduszu albo osoba prowadząca lub nadzorująca ten fundusz jest jego małżonkiem, osobą pozostającą w faktycznym pożyciu, krewnym, powinowatym do drugiego stopnia albo osobą związaną z nim z tytułu przysposobienia, opieki lub kurateli. 2. Powody wyłączenia, o których mowa w ust. 1, trwają także po ustaniu uzasadniającego je małżeństwa, przysposobienia, opieki lub kurateli. 3. Wyłączenia, o którym mowa w ust. 1, dokonuje, w drodze uchwały, Komitet Inwestycyjny na wniosek członka tego komitetu lub wniosek Zarządu albo członka Rady Nadzorczej Krajowego Funduszu Kapitałowego. W głosowaniu nie bierze udziału osoba, której to głosowanie dotyczy."
+      "content": "Członek Komitetu Inwestycyjnego podlega wyłączeniu z opiniowania projektu funduszu kapitałowego, jeżeli wspólnik, akcjonariusz, członek organu zarządzającego lub nadzorczego tego funduszu albo osoba prowadząca lub nadzorująca ten fundusz jest jego małżonkiem, osobą pozostającą w faktycznym pożyciu, krewnym, powinowatym do drugiego stopnia albo osobą związaną z nim z tytułu przysposobienia, opieki lub kurateli. Powody wyłączenia, o których mowa w ust. 1, trwają także po ustaniu uzasadniającego je małżeństwa, przysposobienia, opieki lub kurateli. Wyłączenia, o którym mowa w ust. 1, dokonuje, w drodze uchwały, Komitet Inwestycyjny na wniosek członka tego komitetu lub wniosek Zarządu albo członka Rady Nadzorczej Krajowego Funduszu Kapitałowego. W głosowaniu nie bierze udziału osoba, której to głosowanie dotyczy."
+    },
+    {
+      "provision_ref": "art9u1",
+      "section": "9",
+      "title": "Art. 9 ust. 1",
+      "content": "Członek Komitetu Inwestycyjnego podlega wyłączeniu z opiniowania projektu funduszu kapitałowego, jeżeli wspólnik, akcjonariusz, członek organu zarządzającego lub nadzorczego tego funduszu albo osoba prowadząca lub nadzorująca ten fundusz jest jego małżonkiem, osobą pozostającą w faktycznym pożyciu, krewnym, powinowatym do drugiego stopnia albo osobą związaną z nim z tytułu przysposobienia, opieki lub kurateli."
+    },
+    {
+      "provision_ref": "art9u2",
+      "section": "9",
+      "title": "Art. 9 ust. 2",
+      "content": "Powody wyłączenia, o których mowa w ust. 1, trwają także po ustaniu uzasadniającego je małżeństwa, przysposobienia, opieki lub kurateli."
+    },
+    {
+      "provision_ref": "art9u3",
+      "section": "9",
+      "title": "Art. 9 ust. 3",
+      "content": "Wyłączenia, o którym mowa w ust. 1, dokonuje, w drodze uchwały, Komitet Inwestycyjny na wniosek członka tego komitetu lub wniosek Zarządu albo członka Rady Nadzorczej Krajowego Funduszu Kapitałowego. W głosowaniu nie bierze udziału osoba, której to głosowanie dotyczy."
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Art. 10",
-      "content": "Rada Nadzorcza może zawiesić lub odwołać przed upływem kadencji członków Zarządu, którzy ponoszą odpowiedzialność za zawarcie przez Krajowy Fundusz Kapitałowy z funduszem kapitałowym, bez opinii Komitetu Inwestycyjnego, umowy o udzielenie wsparcia finansowego. Rozdział 3 Zasady i tryb udzielania wsparcia"
+      "content": "Rada Nadzorcza może zawiesić lub odwołać przed upływem kadencji członków Zarządu, którzy ponoszą odpowiedzialność za zawarcie przez Krajowy Fundusz Kapitałowy z funduszem kapitałowym, bez opinii Komitetu Inwestycyjnego, umowy o udzielenie wsparcia finansowego."
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Art. 11",
-      "content": "1. Krajowy Fundusz Kapitałowy udziela wsparcia finansowego funduszom kapitałowym w formie: 1) obejmowania i nabywania ich udziałów lub akcji; 2) uczestniczenia w funduszach kapitałowych działających w formie spółek komandytowych, komandytowo-akcyjnych lub innych jednostek organizacyjnych nieposiadających osobowości prawnej; 3) nabywania ich certyfikatów inwestycyjnych lub jednostek uczestnictwa; 4) nabywania emitowanych przez nie obligacji, obligacji zamiennych na akcje, obligacji z prawem pierwszeństwa i warrantów subskrypcyjnych; 5) bezzwrotnych świadczeń na sfinansowanie części kosztów poniesionych przez fundusz kapitałowy na przygotowanie inwestycji i monitorowanie portfela tych inwestycji. 2. Wysokość wsparcia finansowego, o którym mowa w ust. 1 pkt 1-4, udzielonego przez Krajowy Fundusz Kapitałowy nie może być wyższa od łącznej kwoty wpłat do funduszu kapitałowego zrealizowanych przez podmioty dokonujące inwestycji w takim funduszu. 3. Kwota bezzwrotnych świadczeń na sfinansowanie części kosztów, o których mowa w ust. 1 pkt 5, nie może przekroczyć 65% tych kosztów. 4. Kwoty środków przekazanych w ramach wsparcia finansowego funduszowi kapitałowemu podlegają zwrotowi do Krajowego Funduszu Kapitałowego w przypadku ich wykorzystania w sposób niezgodny z przeznaczeniem określonym w umowie o udzielenie wsparcia finansowego."
+      "content": "Krajowy Fundusz Kapitałowy udziela wsparcia finansowego funduszom kapitałowym w formie: obejmowania i nabywania ich udziałów lub akcji; uczestniczenia w funduszach kapitałowych działających w formie spółek komandytowych, komandytowo-akcyjnych lub innych jednostek organizacyjnych nieposiadających osobowości prawnej; nabywania ich certyfikatów inwestycyjnych lub jednostek uczestnictwa; nabywania emitowanych przez nie obligacji, obligacji zamiennych na akcje, obligacji z prawem pierwszeństwa i warrantów subskrypcyjnych; bezzwrotnych świadczeń na sfinansowanie części kosztów poniesionych przez fundusz kapitałowy na przygotowanie inwestycji i monitorowanie portfela tych inwestycji. Wysokość wsparcia finansowego, o którym mowa w ust. 1 pkt 1-4, udzielonego przez Krajowy Fundusz Kapitałowy nie może być wyższa od łącznej kwoty wpłat do funduszu kapitałowego zrealizowanych przez podmioty dokonujące inwestycji w takim funduszu. Kwota bezzwrotnych świadczeń na sfinansowanie części kosztów, o których mowa w ust. 1 pkt 5, nie może przekroczyć 65% tych kosztów. Kwoty środków przekazanych w ramach wsparcia finansowego funduszowi kapitałowemu podlegają zwrotowi do Krajowego Funduszu Kapitałowego w przypadku ich wykorzystania w sposób niezgodny z przeznaczeniem określonym w umowie o udzielenie wsparcia finansowego."
+    },
+    {
+      "provision_ref": "art11u1p1",
+      "section": "11",
+      "title": "Art. 11 ust. 1 pkt 1",
+      "content": "Krajowy Fundusz Kapitałowy udziela wsparcia finansowego funduszom kapitałowym w formie: obejmowania i nabywania ich udziałów lub akcji;"
+    },
+    {
+      "provision_ref": "art11u1p2",
+      "section": "11",
+      "title": "Art. 11 ust. 1 pkt 2",
+      "content": "Krajowy Fundusz Kapitałowy udziela wsparcia finansowego funduszom kapitałowym w formie: uczestniczenia w funduszach kapitałowych działających w formie spółek komandytowych, komandytowo-akcyjnych lub innych jednostek organizacyjnych nieposiadających osobowości prawnej;"
+    },
+    {
+      "provision_ref": "art11u1p3",
+      "section": "11",
+      "title": "Art. 11 ust. 1 pkt 3",
+      "content": "Krajowy Fundusz Kapitałowy udziela wsparcia finansowego funduszom kapitałowym w formie: nabywania ich certyfikatów inwestycyjnych lub jednostek uczestnictwa;"
+    },
+    {
+      "provision_ref": "art11u1p4",
+      "section": "11",
+      "title": "Art. 11 ust. 1 pkt 4",
+      "content": "Krajowy Fundusz Kapitałowy udziela wsparcia finansowego funduszom kapitałowym w formie: nabywania emitowanych przez nie obligacji, obligacji zamiennych na akcje, obligacji z prawem pierwszeństwa i warrantów subskrypcyjnych;"
+    },
+    {
+      "provision_ref": "art11u1p5",
+      "section": "11",
+      "title": "Art. 11 ust. 1 pkt 5",
+      "content": "Krajowy Fundusz Kapitałowy udziela wsparcia finansowego funduszom kapitałowym w formie: bezzwrotnych świadczeń na sfinansowanie części kosztów poniesionych przez fundusz kapitałowy na przygotowanie inwestycji i monitorowanie portfela tych inwestycji."
+    },
+    {
+      "provision_ref": "art11u2",
+      "section": "11",
+      "title": "Art. 11 ust. 2",
+      "content": "Wysokość wsparcia finansowego, o którym mowa w ust. 1 pkt 1-4, udzielonego przez Krajowy Fundusz Kapitałowy nie może być wyższa od łącznej kwoty wpłat do funduszu kapitałowego zrealizowanych przez podmioty dokonujące inwestycji w takim funduszu."
+    },
+    {
+      "provision_ref": "art11u3",
+      "section": "11",
+      "title": "Art. 11 ust. 3",
+      "content": "Kwota bezzwrotnych świadczeń na sfinansowanie części kosztów, o których mowa w ust. 1 pkt 5, nie może przekroczyć 65% tych kosztów."
+    },
+    {
+      "provision_ref": "art11u4",
+      "section": "11",
+      "title": "Art. 11 ust. 4",
+      "content": "Kwoty środków przekazanych w ramach wsparcia finansowego funduszowi kapitałowemu podlegają zwrotowi do Krajowego Funduszu Kapitałowego w przypadku ich wykorzystania w sposób niezgodny z przeznaczeniem określonym w umowie o udzielenie wsparcia finansowego."
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Art. 12",
-      "content": "1. Krajowy Fundusz Kapitałowy udziela wsparcia finansowego funduszowi kapitałowemu wybranemu w drodze otwartego konkursu ofert. 2. Oferty w konkursie może składać fundusz kapitałowy lub podmiot zarządzający funduszem kapitałowym. 3. Krajowy Fundusz Kapitałowy, ogłaszając konkurs ofert, określa co najmniej: 1) termin składania ofert, nie krótszy niż 90 dni; 2) formy i warunki przekazania wsparcia finansowego; 3) termin i tryb wyboru oferty oraz kryteria stosowane przy wyborze oferty. 4. Ogłoszenie o konkursie ofert zamieszcza się w dzienniku o zasięgu ogólnopolskim oraz w Biuletynie Informacji Publicznej. 5. Warunkiem rozpatrzenia oferty, o której mowa w ust. 2, jest dołączenie do niej: 1) aktualnego odpisu potwierdzającego wpis do właściwej ewidencji lub rejestru, dotyczącego statusu prawnego składającego ofertę i prowadzonej przez niego działalności; 2) sprawozdania finansowego podmiotu składającego ofertę za ubiegły rok obrotowy lub w przypadku dotychczasowej krótszej działalności - za okres tej działalności; 3) zaświadczenia o niekaralności osób, o których mowa w ust. 6 pkt 7. 6. Oferta powinna zawierać informacje dotyczące: 1) formy organizacyjno-prawnej funduszu kapitałowego; 2) daty powstania funduszu kapitałowego i przewidywanego czasu jego trwania; 3) celu inwestycyjnego oraz zasad polityki inwestycyjnej funduszu kapitałowego i analizy ryzyka; 4) zakresu terytorialnego i zakresu branżowego działalności inwestycyjnej funduszu kapitałowego; 5) wielkości projektów inwestycyjnych oraz przewidywanego czasu ich trwania i minimalnej oczekiwanej stopy zwrotu; 6) oczekiwanych form i oczekiwanych wysokości wsparcia finansowego, wraz z przewidywaną wysokością kosztów przygotowania inwestycji i monitorowania ich portfela; 7) danych osobowych osób, które mają istotny wpływ na decyzje inwestycyjne funduszu kapitałowego, w tym w szczególności członków jego organu zarządzającego albo osób prowadzących sprawy funduszu, wraz z opisem ich kwalifikacji i doświadczeń zawodowych; 8) zakładanej, łącznej wysokości oraz terminów i warunków dokonywania wpłat do funduszu kapitałowego przez podmioty dokonujące inwestycji w tym funduszu; 9) praw inwestorów funduszu kapitałowego, ze szczególnym uwzględnieniem ich uprawnień do uczestniczenia w dochodach funduszu; 10) planu marketingowego oraz zamierzonych inwestycji funduszu kapitałowego; 11) dotychczasowego doświadczenia zarządzających funduszem kapitałowym w zakresie inwestycji przedsiębiorców innowacyjnych lub prowadzących działalność badawczo-rozwojową. 7. Krajowy Fundusz Kapitałowy jest uprawniony do żądania innych dokumentów niż wymienione w ust. 5, jeżeli są one konieczne do dokonania prawidłowej oceny oferty. 8. Wyniki konkursu ofert, wraz z uzasadnieniem, zamieszcza się w dzienniku o zasięgu ogólnopolskim oraz w Biuletynie Informacji Publicznej."
+      "content": "Krajowy Fundusz Kapitałowy udziela wsparcia finansowego funduszowi kapitałowemu wybranemu w drodze otwartego konkursu ofert lub utworzonemu w wyniku wyboru oferty podmiotu zarządzającego tym funduszem. Oferty w konkursie ofert może składać fundusz kapitałowy lub podmiot, który będzie zarządzał funduszem kapitałowym. Krajowy Fundusz Kapitałowy, ogłaszając konkurs ofert, określa co najmniej: termin składania ofert, nie krótszy niż 90 dni; formy i warunki przekazania wsparcia finansowego; termin i tryb wyboru oferty oraz kryteria stosowane przy wyborze oferty. Ogłoszenie o konkursie ofert zamieszcza się w dzienniku o zasięgu ogólnopolskim oraz w Biuletynie Informacji Publicznej. Warunkiem rozpatrzenia oferty, o której mowa w ust. 2, jest dołączenie do niej: oświadczenia o wpisie do właściwej ewidencji lub rejestru, dotyczącego statusu prawnego składającego ofertę i prowadzonej przez niego działalności; sprawozdania finansowego podmiotu składającego ofertę za ubiegły rok obrotowy lub w przypadku dotychczasowej krótszej działalności - za okres tej działalności; zaświadczenia o niekaralności za umyślne przestępstwa lub umyślne przestępstwa skarbowe osób, o których mowa w ust. 6 pkt 7. Oferta powinna zawierać informacje dotyczące: formy organizacyjno-prawnej funduszu kapitałowego; daty powstania funduszu kapitałowego i przewidywanego czasu jego trwania; celu inwestycyjnego oraz zasad polityki inwestycyjnej funduszu kapitałowego i analizy ryzyka; zakresu terytorialnego i zakresu branżowego działalności inwestycyjnej funduszu kapitałowego; wielkości projektów inwestycyjnych oraz przewidywanego czasu ich trwania i minimalnej oczekiwanej stopy zwrotu; oczekiwanych form i oczekiwanych wysokości wsparcia finansowego, wraz z przewidywaną wysokością kosztów przygotowania inwestycji i monitorowania ich portfela; danych osobowych osób, które mają istotny wpływ na decyzje inwestycyjne funduszu kapitałowego, w tym w szczególności członków jego organu zarządzającego albo osób prowadzących sprawy funduszu, wraz z opisem ich kwalifikacji i doświadczeń zawodowych; zakładanej, łącznej wysokości oraz terminów i warunków dokonywania wpłat do funduszu kapitałowego przez podmioty dokonujące inwestycji w tym funduszu; praw inwestorów funduszu kapitałowego, ze szczególnym uwzględnieniem ich uprawnień do uczestniczenia w dochodach funduszu; planu marketingowego oraz zamierzonych inwestycji funduszu kapitałowego; dotychczasowego doświadczenia zarządzających funduszem kapitałowym w zakresie inwestycji przedsiębiorców innowacyjnych lub prowadzących działalność badawczo-rozwojową. Krajowy Fundusz Kapitałowy jest uprawniony do żądania innych dokumentów niż wymienione w ust. 5, jeżeli są one konieczne do dokonania prawidłowej oceny oferty. Wyniki konkursu ofert, wraz z uzasadnieniem, zamieszcza się w dzienniku o zasięgu ogólnopolskim oraz w Biuletynie Informacji Publicznej."
+    },
+    {
+      "provision_ref": "art12u1",
+      "section": "12",
+      "title": "Art. 12 ust. 1",
+      "content": "Krajowy Fundusz Kapitałowy udziela wsparcia finansowego funduszowi kapitałowemu wybranemu w drodze otwartego konkursu ofert lub utworzonemu w wyniku wyboru oferty podmiotu zarządzającego tym funduszem."
+    },
+    {
+      "provision_ref": "art12u2",
+      "section": "12",
+      "title": "Art. 12 ust. 2",
+      "content": "Oferty w konkursie ofert może składać fundusz kapitałowy lub podmiot, który będzie zarządzał funduszem kapitałowym."
+    },
+    {
+      "provision_ref": "art12u3p1",
+      "section": "12",
+      "title": "Art. 12 ust. 3 pkt 1",
+      "content": "Krajowy Fundusz Kapitałowy, ogłaszając konkurs ofert, określa co najmniej: termin składania ofert, nie krótszy niż 90 dni;"
+    },
+    {
+      "provision_ref": "art12u3p2",
+      "section": "12",
+      "title": "Art. 12 ust. 3 pkt 2",
+      "content": "Krajowy Fundusz Kapitałowy, ogłaszając konkurs ofert, określa co najmniej: formy i warunki przekazania wsparcia finansowego;"
+    },
+    {
+      "provision_ref": "art12u3p3",
+      "section": "12",
+      "title": "Art. 12 ust. 3 pkt 3",
+      "content": "Krajowy Fundusz Kapitałowy, ogłaszając konkurs ofert, określa co najmniej: termin i tryb wyboru oferty oraz kryteria stosowane przy wyborze oferty."
+    },
+    {
+      "provision_ref": "art12u4",
+      "section": "12",
+      "title": "Art. 12 ust. 4",
+      "content": "Ogłoszenie o konkursie ofert zamieszcza się w dzienniku o zasięgu ogólnopolskim oraz w Biuletynie Informacji Publicznej."
+    },
+    {
+      "provision_ref": "art12u5p1",
+      "section": "12",
+      "title": "Art. 12 ust. 5 pkt 1",
+      "content": "Warunkiem rozpatrzenia oferty, o której mowa w ust. 2, jest dołączenie do niej: oświadczenia o wpisie do właściwej ewidencji lub rejestru, dotyczącego statusu prawnego składającego ofertę i prowadzonej przez niego działalności;"
+    },
+    {
+      "provision_ref": "art12u5p2",
+      "section": "12",
+      "title": "Art. 12 ust. 5 pkt 2",
+      "content": "Warunkiem rozpatrzenia oferty, o której mowa w ust. 2, jest dołączenie do niej: sprawozdania finansowego podmiotu składającego ofertę za ubiegły rok obrotowy lub w przypadku dotychczasowej krótszej działalności - za okres tej działalności;"
+    },
+    {
+      "provision_ref": "art12u5p3",
+      "section": "12",
+      "title": "Art. 12 ust. 5 pkt 3",
+      "content": "Warunkiem rozpatrzenia oferty, o której mowa w ust. 2, jest dołączenie do niej: zaświadczenia o niekaralności za umyślne przestępstwa lub umyślne przestępstwa skarbowe osób, o których mowa w ust. 6 pkt 7."
+    },
+    {
+      "provision_ref": "art12u6p1",
+      "section": "12",
+      "title": "Art. 12 ust. 6 pkt 1",
+      "content": "Oferta powinna zawierać informacje dotyczące: formy organizacyjno-prawnej funduszu kapitałowego;"
+    },
+    {
+      "provision_ref": "art12u6p2",
+      "section": "12",
+      "title": "Art. 12 ust. 6 pkt 2",
+      "content": "Oferta powinna zawierać informacje dotyczące: daty powstania funduszu kapitałowego i przewidywanego czasu jego trwania;"
+    },
+    {
+      "provision_ref": "art12u6p3",
+      "section": "12",
+      "title": "Art. 12 ust. 6 pkt 3",
+      "content": "Oferta powinna zawierać informacje dotyczące: celu inwestycyjnego oraz zasad polityki inwestycyjnej funduszu kapitałowego i analizy ryzyka;"
+    },
+    {
+      "provision_ref": "art12u6p4",
+      "section": "12",
+      "title": "Art. 12 ust. 6 pkt 4",
+      "content": "Oferta powinna zawierać informacje dotyczące: zakresu terytorialnego i zakresu branżowego działalności inwestycyjnej funduszu kapitałowego;"
+    },
+    {
+      "provision_ref": "art12u6p5",
+      "section": "12",
+      "title": "Art. 12 ust. 6 pkt 5",
+      "content": "Oferta powinna zawierać informacje dotyczące: wielkości projektów inwestycyjnych oraz przewidywanego czasu ich trwania i minimalnej oczekiwanej stopy zwrotu;"
+    },
+    {
+      "provision_ref": "art12u6p6",
+      "section": "12",
+      "title": "Art. 12 ust. 6 pkt 6",
+      "content": "Oferta powinna zawierać informacje dotyczące: oczekiwanych form i oczekiwanych wysokości wsparcia finansowego, wraz z przewidywaną wysokością kosztów przygotowania inwestycji i monitorowania ich portfela;"
+    },
+    {
+      "provision_ref": "art12u6p7",
+      "section": "12",
+      "title": "Art. 12 ust. 6 pkt 7",
+      "content": "Oferta powinna zawierać informacje dotyczące: danych osobowych osób, które mają istotny wpływ na decyzje inwestycyjne funduszu kapitałowego, w tym w szczególności członków jego organu zarządzającego albo osób prowadzących sprawy funduszu, wraz z opisem ich kwalifikacji i doświadczeń zawodowych;"
+    },
+    {
+      "provision_ref": "art12u6p8",
+      "section": "12",
+      "title": "Art. 12 ust. 6 pkt 8",
+      "content": "Oferta powinna zawierać informacje dotyczące: zakładanej, łącznej wysokości oraz terminów i warunków dokonywania wpłat do funduszu kapitałowego przez podmioty dokonujące inwestycji w tym funduszu;"
+    },
+    {
+      "provision_ref": "art12u6p9",
+      "section": "12",
+      "title": "Art. 12 ust. 6 pkt 9",
+      "content": "Oferta powinna zawierać informacje dotyczące: praw inwestorów funduszu kapitałowego, ze szczególnym uwzględnieniem ich uprawnień do uczestniczenia w dochodach funduszu;"
+    },
+    {
+      "provision_ref": "art12u6p10",
+      "section": "12",
+      "title": "Art. 12 ust. 6 pkt 10",
+      "content": "Oferta powinna zawierać informacje dotyczące: planu marketingowego oraz zamierzonych inwestycji funduszu kapitałowego;"
+    },
+    {
+      "provision_ref": "art12u6p11",
+      "section": "12",
+      "title": "Art. 12 ust. 6 pkt 11",
+      "content": "Oferta powinna zawierać informacje dotyczące: dotychczasowego doświadczenia zarządzających funduszem kapitałowym w zakresie inwestycji przedsiębiorców innowacyjnych lub prowadzących działalność badawczo-rozwojową."
+    },
+    {
+      "provision_ref": "art12u7",
+      "section": "12",
+      "title": "Art. 12 ust. 7",
+      "content": "Krajowy Fundusz Kapitałowy jest uprawniony do żądania innych dokumentów niż wymienione w ust. 5, jeżeli są one konieczne do dokonania prawidłowej oceny oferty."
+    },
+    {
+      "provision_ref": "art12u8",
+      "section": "12",
+      "title": "Art. 12 ust. 8",
+      "content": "Wyniki konkursu ofert, wraz z uzasadnieniem, zamieszcza się w dzienniku o zasięgu ogólnopolskim oraz w Biuletynie Informacji Publicznej."
+    },
+    {
+      "provision_ref": "art12a",
+      "section": "12a",
+      "title": "Art. 12a",
+      "content": "Oświadczenie, o którym mowa w art. 12 ust. 5 pkt 1, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań."
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Art. 13",
+      "content": "Krajowy Fundusz Kapitałowy oraz podmiot wyłoniony w drodze konkursu ofert zawierają umowę o udzielenie wsparcia finansowego. Jeżeli w drodze otwartego konkursu ofert została wybrana oferta spółki z siedzibą w państwie trzecim innym niż państwo członkowskie Unii Europejskiej lub Europejskiego Obszaru Gospodarczego, która będzie zarządzać funduszem kapitałowym w formie spółki komandytowej albo spółki komandytowo-akcyjnej, to spółka ta przekazuje Krajowemu Funduszowi Kapitałowemu kopię zezwolenia na wykonywanie działalności przez zarządzającego ASI w rozumieniu ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi albo oświadczenie o wpisie do rejestru zarządzających ASI w rozumieniu tej ustawy niezwłocznie po uzyskaniu zezwolenia albo dokonaniu wpisu."
+    },
+    {
+      "provision_ref": "art13u1",
+      "section": "13",
+      "title": "Art. 13 ust. 1",
       "content": "Krajowy Fundusz Kapitałowy oraz podmiot wyłoniony w drodze konkursu ofert zawierają umowę o udzielenie wsparcia finansowego."
+    },
+    {
+      "provision_ref": "art13u2",
+      "section": "13",
+      "title": "Art. 13 ust. 2",
+      "content": "Jeżeli w drodze otwartego konkursu ofert została wybrana oferta spółki z siedzibą w państwie trzecim innym niż państwo członkowskie Unii Europejskiej lub Europejskiego Obszaru Gospodarczego, która będzie zarządzać funduszem kapitałowym w formie spółki komandytowej albo spółki komandytowo-akcyjnej, to spółka ta przekazuje Krajowemu Funduszowi Kapitałowemu kopię zezwolenia na wykonywanie działalności przez zarządzającego ASI w rozumieniu ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi albo oświadczenie o wpisie do rejestru zarządzających ASI w rozumieniu tej ustawy niezwłocznie po uzyskaniu zezwolenia albo dokonaniu wpisu."
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Art. 14",
-      "content": "1. Do udzielania wsparcia finansowego przez Krajowy Fundusz Kapitałowy stosuje się przepisy o pomocy publicznej dla przedsiębiorców. 2. Minister właściwy do spraw gospodarki w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowe warunki, tryb przekazywania, sposób rozliczania wsparcia finansowego oraz jego zwrotu na podstawie przepisów niniejszej ustawy w odniesieniu do poszczególnych podmiotów, mając w szczególności na uwadze skuteczność realizacji celu, w tym wspieranie inwestycji w technologie innowacyjne i przedsiębiorstwa o dużym potencjale rozwoju, kategorie przedsięwzięć, które nie mogą być objęte wsparciem finansowym, a także efektywność wydatkowania środków, o których mowa w art. 6, oraz zapewnienie zgodności udzielanego wsparcia finansowego z warunkami dopuszczalności pomocy publicznej."
+      "content": "Do udzielania wsparcia finansowego przez Krajowy Fundusz Kapitałowy stosuje się przepisy o pomocy publicznej dla przedsiębiorców. Minister właściwy do spraw gospodarki w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowe warunki, tryb przekazywania, sposób rozliczania wsparcia finansowego oraz jego zwrotu na podstawie przepisów niniejszej ustawy w odniesieniu do poszczególnych podmiotów, mając w szczególności na uwadze skuteczność realizacji celu, w tym wspieranie inwestycji w technologie innowacyjne i przedsiębiorstwa o dużym potencjale rozwoju, kategorie przedsięwzięć, które nie mogą być objęte wsparciem finansowym, a także efektywność wydatkowania środków, o których mowa w art. 6, oraz zapewnienie zgodności udzielanego wsparcia finansowego z warunkami dopuszczalności pomocy publicznej."
+    },
+    {
+      "provision_ref": "art14u1",
+      "section": "14",
+      "title": "Art. 14 ust. 1",
+      "content": "Do udzielania wsparcia finansowego przez Krajowy Fundusz Kapitałowy stosuje się przepisy o pomocy publicznej dla przedsiębiorców."
+    },
+    {
+      "provision_ref": "art14u2",
+      "section": "14",
+      "title": "Art. 14 ust. 2",
+      "content": "Minister właściwy do spraw gospodarki w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowe warunki, tryb przekazywania, sposób rozliczania wsparcia finansowego oraz jego zwrotu na podstawie przepisów niniejszej ustawy w odniesieniu do poszczególnych podmiotów, mając w szczególności na uwadze skuteczność realizacji celu, w tym wspieranie inwestycji w technologie innowacyjne i przedsiębiorstwa o dużym potencjale rozwoju, kategorie przedsięwzięć, które nie mogą być objęte wsparciem finansowym, a także efektywność wydatkowania środków, o których mowa w art. 6, oraz zapewnienie zgodności udzielanego wsparcia finansowego z warunkami dopuszczalności pomocy publicznej."
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Art. 15",
-      "content": "1. Umowa o udzielenie wsparcia finansowego określa w szczególności: 1) przeznaczenie, wysokość, formę, warunki i tryb udzielanego wsparcia, a w razie gdy całość lub część wsparcia będzie udzielana w formie bezzwrotnych świadczeń, o których mowa w art. 11 ust. 1 pkt 5, zaznaczenie tej okoliczności; 2) skutki niewykonania lub nienależytego wykonania umowy; 3) wymagania dotyczące rocznego sprawozdania z dokonanych przez fundusz kapitałowy inwestycji przewidzianych w umowie wraz z wyceną portfela inwestycji; 4) zasady dostępu audytorów wyznaczanych przez Krajowy Fundusz Kapitałowy do ksiąg i dokumentów funduszu kapitałowego; 5) szczegółowe warunki oraz tryb zwrotu i rozliczenia wsparcia finansowego. 2. Projekt umowy o udzielenie wsparcia finansowego podlega zaopiniowaniu przez Komitet Inwestycyjny, o którym mowa w art. 8 ust. 1. 3. Fundusz kapitałowy będący stroną umowy o udzielenie wsparcia finansowego ma obowiązek udzielać Krajowemu Funduszowi Kapitałowemu informacji dotyczących: 1) zmian w organie zarządzającym funduszu kapitałowego lub zmian osób prowadzących sprawy funduszu, 2) złożenia wniosku o wszczęcie postępowania naprawczego lub upadłościowego wobec funduszu kapitałowego lub przedsiębiorcy, na rzecz którego fundusz kapitałowy dokonał inwestycji na mocy umowy, o której mowa w ust. 1 - w terminie 7 dni od dnia zaistnienia każdego z powyższych zdarzeń. 4. Strony umowy, o której mowa w ust. 1, nie mogą wyłączyć albo ograniczyć swojej odpowiedzialności z tytułu winy umyślnej lub rażącego niedbalstwa."
+      "content": "Umowa o udzielenie wsparcia finansowego określa w szczególności: przeznaczenie, wysokość, formę, warunki i tryb udzielanego wsparcia, a w razie gdy całość lub część wsparcia będzie udzielana w formie bezzwrotnych świadczeń, o których mowa w art. 11 ust. 1 pkt 5, zaznaczenie tej okoliczności; skutki niewykonania lub nienależytego wykonania umowy; wymagania dotyczące rocznego sprawozdania z dokonanych przez fundusz kapitałowy inwestycji przewidzianych w umowie wraz z wyceną portfela inwestycji; zasady dostępu audytorów wyznaczanych przez Krajowy Fundusz Kapitałowy do ksiąg i dokumentów funduszu kapitałowego; szczegółowe warunki oraz tryb zwrotu i rozliczenia wsparcia finansowego. Projekt umowy o udzielenie wsparcia finansowego podlega zaopiniowaniu przez Komitet Inwestycyjny, o którym mowa w art. 8 ust. 1. Fundusz kapitałowy będący stroną umowy o udzielenie wsparcia finansowego ma obowiązek udzielać Krajowemu Funduszowi Kapitałowemu informacji dotyczących: zmian w organie zarządzającym funduszu kapitałowego lub zmian osób prowadzących sprawy funduszu, złożenia wniosku o wszczęcie postępowania naprawczego lub upadłościowego wobec funduszu kapitałowego lub przedsiębiorcy, na rzecz którego fundusz kapitałowy dokonał inwestycji na mocy umowy, o której mowa w ust. 1 - w terminie 7 dni od dnia zaistnienia każdego z powyższych zdarzeń. Strony umowy, o której mowa w ust. 1, nie mogą wyłączyć albo ograniczyć swojej odpowiedzialności z tytułu winy umyślnej lub rażącego niedbalstwa. Krajowy Fundusz Kapitałowy jest uprawniony do kontroli funduszu kapitałowego, któremu udzielił wsparcia finansowego, w celu sprawdzenia, czy jego działalność jest zgodna z przepisami ustawy oraz umową, o której mowa w ust. 1. Krajowy Fundusz Kapitałowy jest uprawniony do kontroli przedsiębiorcy, na rzecz którego fundusz kapitałowy dokonał inwestycji na mocy umowy, o której mowa w ust. 1, w celu sprawdzenia sposobu wykorzystania środków z tej inwestycji, w przypadku gdy fundusz kapitałowy nie posiada dokumentów potwierdzających wykorzystanie środków z tej inwestycji lub w razie powzięcia wątpliwości co do prawidłowości lub rzetelności tych dokumentów."
+    },
+    {
+      "provision_ref": "art15u1p1",
+      "section": "15",
+      "title": "Art. 15 ust. 1 pkt 1",
+      "content": "Umowa o udzielenie wsparcia finansowego określa w szczególności: przeznaczenie, wysokość, formę, warunki i tryb udzielanego wsparcia, a w razie gdy całość lub część wsparcia będzie udzielana w formie bezzwrotnych świadczeń, o których mowa w art. 11 ust. 1 pkt 5, zaznaczenie tej okoliczności;"
+    },
+    {
+      "provision_ref": "art15u1p2",
+      "section": "15",
+      "title": "Art. 15 ust. 1 pkt 2",
+      "content": "Umowa o udzielenie wsparcia finansowego określa w szczególności: skutki niewykonania lub nienależytego wykonania umowy;"
+    },
+    {
+      "provision_ref": "art15u1p3",
+      "section": "15",
+      "title": "Art. 15 ust. 1 pkt 3",
+      "content": "Umowa o udzielenie wsparcia finansowego określa w szczególności: wymagania dotyczące rocznego sprawozdania z dokonanych przez fundusz kapitałowy inwestycji przewidzianych w umowie wraz z wyceną portfela inwestycji;"
+    },
+    {
+      "provision_ref": "art15u1p4",
+      "section": "15",
+      "title": "Art. 15 ust. 1 pkt 4",
+      "content": "Umowa o udzielenie wsparcia finansowego określa w szczególności: zasady dostępu audytorów wyznaczanych przez Krajowy Fundusz Kapitałowy do ksiąg i dokumentów funduszu kapitałowego;"
+    },
+    {
+      "provision_ref": "art15u1p5",
+      "section": "15",
+      "title": "Art. 15 ust. 1 pkt 5",
+      "content": "Umowa o udzielenie wsparcia finansowego określa w szczególności: szczegółowe warunki oraz tryb zwrotu i rozliczenia wsparcia finansowego."
+    },
+    {
+      "provision_ref": "art15u2",
+      "section": "15",
+      "title": "Art. 15 ust. 2",
+      "content": "Projekt umowy o udzielenie wsparcia finansowego podlega zaopiniowaniu przez Komitet Inwestycyjny, o którym mowa w art. 8 ust. 1."
+    },
+    {
+      "provision_ref": "art15u3p1",
+      "section": "15",
+      "title": "Art. 15 ust. 3 pkt 1",
+      "content": "Fundusz kapitałowy będący stroną umowy o udzielenie wsparcia finansowego ma obowiązek udzielać Krajowemu Funduszowi Kapitałowemu informacji dotyczących: zmian w organie zarządzającym funduszu kapitałowego lub zmian osób prowadzących sprawy funduszu,"
+    },
+    {
+      "provision_ref": "art15u3p2",
+      "section": "15",
+      "title": "Art. 15 ust. 3 pkt 2",
+      "content": "Fundusz kapitałowy będący stroną umowy o udzielenie wsparcia finansowego ma obowiązek udzielać Krajowemu Funduszowi Kapitałowemu informacji dotyczących: złożenia wniosku o wszczęcie postępowania naprawczego lub upadłościowego wobec funduszu kapitałowego lub przedsiębiorcy, na rzecz którego fundusz kapitałowy dokonał inwestycji na mocy umowy, o której mowa w ust. 1"
+    },
+    {
+      "provision_ref": "art15u4",
+      "section": "15",
+      "title": "Art. 15 ust. 4",
+      "content": "Strony umowy, o której mowa w ust. 1, nie mogą wyłączyć albo ograniczyć swojej odpowiedzialności z tytułu winy umyślnej lub rażącego niedbalstwa."
+    },
+    {
+      "provision_ref": "art15u5",
+      "section": "15",
+      "title": "Art. 15 ust. 5",
+      "content": "Krajowy Fundusz Kapitałowy jest uprawniony do kontroli funduszu kapitałowego, któremu udzielił wsparcia finansowego, w celu sprawdzenia, czy jego działalność jest zgodna z przepisami ustawy oraz umową, o której mowa w ust. 1."
+    },
+    {
+      "provision_ref": "art15u6",
+      "section": "15",
+      "title": "Art. 15 ust. 6",
+      "content": "Krajowy Fundusz Kapitałowy jest uprawniony do kontroli przedsiębiorcy, na rzecz którego fundusz kapitałowy dokonał inwestycji na mocy umowy, o której mowa w ust. 1, w celu sprawdzenia sposobu wykorzystania środków z tej inwestycji, w przypadku gdy fundusz kapitałowy nie posiada dokumentów potwierdzających wykorzystanie środków z tej inwestycji lub w razie powzięcia wątpliwości co do prawidłowości lub rzetelności tych dokumentów."
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Art. 16",
-      "content": "Wsparcie finansowe, o którym mowa w art. 5, może być udzielone funduszowi kapitałowemu wyłącznie w celu dokonania inwestycji w przedsiębiorców, którzy: 1) podlegają w Rzeczypospolitej Polskiej nieograniczonemu obowiązkowi podatkowemu, zgodnie z art. 3 ust. 1 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych ( Dz. U. z 2000 r. Nr 14, poz. 176 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 22, poz. 270, Nr 60, poz. 703, Nr 70, poz. 816, Nr 104, poz. 1104, Nr 117, poz. 1228 i Nr 122, poz. 1324, z 2001 r. Nr 4, poz. 27, Nr 8, poz. 64, Nr 52, poz. 539, Nr 73, poz. 764, Nr 74, poz. 784, Nr 88, poz. 961, Nr 89, poz. 968, Nr 102, poz. 1117, Nr 106, poz. 1150, Nr 110, poz. 1190 Nr 125, poz. 1363 i 1370 i Nr 134, poz. 1509, z 2002 r. Nr 19, poz. 199, Nr 25, poz. 253, Nr 74, poz. 676, Nr 78, poz. 715, Nr 89, poz. 804, Nr 135, poz. 1146, Nr 141, poz. 1182, Nr 169, poz. 1384, Nr 181, poz. 1515, Nr 200, poz. 1679 i Nr 240, poz. 2058, z 2003 r. Nr 7, poz. 79, Nr 45, poz. 391, Nr 65, poz. 595, Nr 84, poz. 774, Nr 90, poz. 844, Nr 96, poz. 874, Nr 122, poz. 1143, Nr 135, poz. 1268, Nr 137, poz. 1302, Nr 166, poz. 1608, Nr 202, poz. 1956, Nr 222, poz. 2201, Nr 223, poz. 2217 i Nr 228, poz. 2255, z 2004 r. Nr 29, poz. 257, Nr 54, poz. 535, Nr 93, poz. 894, Nr 99, poz. 1001, Nr 109, poz. 1163, Nr 116, poz. 1203, 1205 i 1207, Nr 120, poz. 1252, Nr 123, poz. 1291, Nr 162, poz. 1691, Nr 210, poz. 2135, Nr 263, poz. 2619 i Nr 281, poz. 2779 i 2781 oraz z 2005 r. Nr 25, poz. 202 i Nr 30, poz. 262. ) lub z art. 3 ust. 1 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych ( Dz. U. z 2000 r. Nr 54, poz. 654 , z późn. zm. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 60, poz. 700 i 703, Nr 86, poz. 958, Nr 103, poz. 1100, Nr 117, poz. 1228 i Nr 122, poz. 1315 i 1324, z 2001 r. Nr 106, poz. 1150, Nr 110, poz. 1190 i Nr 125, poz. 1363, z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676, Nr 93, poz. 820, Nr 141, poz. 1179, Nr 169, poz. 1384, Nr 199, poz. 1672, Nr 200, poz. 1684 i Nr 230, poz. 1922, z 2003 r. Nr 45, poz. 391, Nr 96, poz. 874, Nr 137, poz. 1302, Nr 180, poz. 1759, Nr 202, poz. 1957, Nr 217, poz. 2124 i Nr 223, poz. 2218, z 2004 r. Nr 6, poz. 39, Nr 29, poz. 257, Nr 54, poz. 535, Nr 93, poz. 894, Nr 121, poz. 1262, Nr 123, poz. 1291, Nr 146, poz. 1546, Nr 171, poz. 1800, Nr 210, poz. 2135 i Nr 254, poz. 2533 oraz z 2005 r. Nr 25, poz. 202. ) ; 2) nie posiadają zaległości podatkowych i wywiązują się z obowiązku opłacania składek na ubezpieczenia społeczne, z tym że warunek ten uznaje się za spełniony w przypadku, gdy posiadane przez przedsiębiorcę zaległości zostały przez właściwy urząd skarbowy lub właściwy oddział Zakładu Ubezpieczeń Społecznych prawomocną decyzją rozłożone na raty lub ich płatność odroczono; 3) nie zajmują się świadczeniem usług finansowych oraz produkcją lub obrotem: bronią, wyrobami tytoniowymi, napojami alkoholowymi lub środkami odurzającymi albo obrotem nieruchomościami; 4) prowadzą działalność mającą znaczenie dla rozwoju regionalnego, w tym dla tworzenia miejsc pracy."
+      "content": "Wsparcie finansowe, o którym mowa w art. 5 ust. 2 pkt 1, może być udzielone funduszowi kapitałowemu wyłącznie w celu dokonania inwestycji w przedsiębiorców, którzy: podlegają w Rzeczypospolitej Polskiej nieograniczonemu lub ograniczonemu obowiązkowi podatkowemu, zgodnie z przepisami ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych ) lub ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych ) ; nie posiadają zaległości podatkowych i wywiązują się z obowiązku opłacania składek na ubezpieczenia społeczne, z tym że warunek ten uznaje się za spełniony w przypadku, gdy posiadane przez przedsiębiorcę zaległości zostały przez właściwy urząd skarbowy lub właściwy oddział Zakładu Ubezpieczeń Społecznych prawomocną decyzją rozłożone na raty lub ich płatność odroczono; nie zajmują się świadczeniem usług finansowych oraz produkcją lub obrotem: bronią, wyrobami tytoniowymi, napojami alkoholowymi lub środkami odurzającymi albo obrotem nieruchomościami; prowadzą działalność mającą znaczenie dla rozwoju regionalnego, w tym dla tworzenia miejsc pracy."
+    },
+    {
+      "provision_ref": "art16p1",
+      "section": "16",
+      "title": "Art. 16 pkt 1",
+      "content": "Wsparcie finansowe, o którym mowa w art. 5 ust. 2 pkt 1, może być udzielone funduszowi kapitałowemu wyłącznie w celu dokonania inwestycji w przedsiębiorców, którzy: podlegają w Rzeczypospolitej Polskiej nieograniczonemu lub ograniczonemu obowiązkowi podatkowemu, zgodnie z przepisami ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych ) lub ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych ) ;"
+    },
+    {
+      "provision_ref": "art16p2",
+      "section": "16",
+      "title": "Art. 16 pkt 2",
+      "content": "Wsparcie finansowe, o którym mowa w art. 5 ust. 2 pkt 1, może być udzielone funduszowi kapitałowemu wyłącznie w celu dokonania inwestycji w przedsiębiorców, którzy: nie posiadają zaległości podatkowych i wywiązują się z obowiązku opłacania składek na ubezpieczenia społeczne, z tym że warunek ten uznaje się za spełniony w przypadku, gdy posiadane przez przedsiębiorcę zaległości zostały przez właściwy urząd skarbowy lub właściwy oddział Zakładu Ubezpieczeń Społecznych prawomocną decyzją rozłożone na raty lub ich płatność odroczono;"
+    },
+    {
+      "provision_ref": "art16p3",
+      "section": "16",
+      "title": "Art. 16 pkt 3",
+      "content": "Wsparcie finansowe, o którym mowa w art. 5 ust. 2 pkt 1, może być udzielone funduszowi kapitałowemu wyłącznie w celu dokonania inwestycji w przedsiębiorców, którzy: nie zajmują się świadczeniem usług finansowych oraz produkcją lub obrotem: bronią, wyrobami tytoniowymi, napojami alkoholowymi lub środkami odurzającymi albo obrotem nieruchomościami;"
+    },
+    {
+      "provision_ref": "art16p4",
+      "section": "16",
+      "title": "Art. 16 pkt 4",
+      "content": "Wsparcie finansowe, o którym mowa w art. 5 ust. 2 pkt 1, może być udzielone funduszowi kapitałowemu wyłącznie w celu dokonania inwestycji w przedsiębiorców, którzy: prowadzą działalność mającą znaczenie dla rozwoju regionalnego, w tym dla tworzenia miejsc pracy."
     },
     {
       "provision_ref": "art17",
@@ -115,13 +661,31 @@
       "provision_ref": "art18",
       "section": "18",
       "title": "Art. 18",
-      "content": "1. Fundusz kapitałowy korzystający ze wsparcia finansowego Krajowego Funduszu Kapitałowego nie może inwestować w spółkę handlową, której akcjonariusz, wspólnik, członek organu zarządzającego albo nadzorczego lub jego małżonek, krewny lub powinowaty do drugiego stopnia są powiązani kapitałowo lub osobiście ze wspólnikiem, akcjonariuszem lub z osobami prowadzącymi albo nadzorującymi ten fundusz kapitałowy. 2. Przepis ust. 1 stosuje się odpowiednio do wsparcia finansowego udzielanego przez fundusz kapitałowy przedsiębiorcy, który nie jest spółką handlową. Rozdział 4 Zmiany w przepisach obowiązujących oraz przepisy dostosowujące i końcowe"
+      "content": "Fundusz kapitałowy korzystający ze wsparcia finansowego Krajowego Funduszu Kapitałowego nie może inwestować w spółkę handlową, której akcjonariusz, wspólnik, członek organu zarządzającego albo nadzorczego lub jego małżonek, krewny lub powinowaty do drugiego stopnia są powiązani kapitałowo lub osobiście ze wspólnikiem, akcjonariuszem lub z osobami prowadzącymi albo nadzorującymi ten fundusz kapitałowy. Przepis ust. 1 stosuje się odpowiednio do wsparcia finansowego udzielanego przez fundusz kapitałowy przedsiębiorcy, który nie jest spółką handlową. Przepisów ust. 1 i 2 nie stosuje się w przypadku powiązań kapitałowych Krajowego Funduszu Kapitałowego z funduszami korzystającymi ze wsparcia finansowego."
+    },
+    {
+      "provision_ref": "art18u1",
+      "section": "18",
+      "title": "Art. 18 ust. 1",
+      "content": "Fundusz kapitałowy korzystający ze wsparcia finansowego Krajowego Funduszu Kapitałowego nie może inwestować w spółkę handlową, której akcjonariusz, wspólnik, członek organu zarządzającego albo nadzorczego lub jego małżonek, krewny lub powinowaty do drugiego stopnia są powiązani kapitałowo lub osobiście ze wspólnikiem, akcjonariuszem lub z osobami prowadzącymi albo nadzorującymi ten fundusz kapitałowy."
+    },
+    {
+      "provision_ref": "art18u2",
+      "section": "18",
+      "title": "Art. 18 ust. 2",
+      "content": "Przepis ust. 1 stosuje się odpowiednio do wsparcia finansowego udzielanego przez fundusz kapitałowy przedsiębiorcy, który nie jest spółką handlową."
+    },
+    {
+      "provision_ref": "art18u3",
+      "section": "18",
+      "title": "Art. 18 ust. 3",
+      "content": "Przepisów ust. 1 i 2 nie stosuje się w przypadku powiązań kapitałowych Krajowego Funduszu Kapitałowego z funduszami korzystającymi ze wsparcia finansowego."
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Art. 19",
-      "content": "W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych ( Dz. U. z 2000 r. Nr 54, poz. 654 , z późn. zm. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 60, poz. 700 i 703, Nr 86, poz. 958, Nr 103, poz. 1100, Nr 117, poz. 1228 i Nr 122, poz. 1315 i 1324, z 2001 r. Nr 106, poz. 1150, Nr 110, poz. 1190 i Nr 125, poz. 1363, z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676, Nr 93, poz. 820, Nr 141, poz. 1179, Nr 169, poz. 1384, Nr 199, poz. 1672, Nr 200, poz. 1684 i Nr 230, poz. 1922, z 2003 r. Nr 45, poz. 391, Nr 96, poz. 874, Nr 137, poz. 1302, Nr 180, poz. 1759, Nr 202, poz. 1957, Nr 217, poz. 2124 i Nr 223, poz. 2218, z 2004 r. Nr 6, poz. 39, Nr 29, poz. 257, Nr 54, poz. 535, Nr 93, poz. 894, Nr 121, poz. 1262, Nr 123, poz. 1291, Nr 146, poz. 1546, Nr 171, poz. 1800, Nr 210, poz. 2135 i Nr 254, poz. 2533 oraz z 2005 r. Nr 25, poz. 202. ) w art. 17 w ust. 1 dodaje się pkt 41 w brzmieniu: „ 41) dotacje celowe z budżetu państwa, środki pochodzące z budżetu Unii Europejskiej oraz inne środki pochodzące ze źródeł zagranicznych, niepodlegające zwrotowi, otrzymane przez Krajowy Fundusz Kapitałowy. ” ."
+      "content": "(pominięty)"
     },
     {
       "provision_ref": "art20",
@@ -133,29 +697,50 @@
       "provision_ref": "art21",
       "section": "21",
       "title": "Art. 21",
-      "content": "Ustawa wchodzi w życie po upływie 4 miesięcy od dnia ogłoszenia, z wyjątkiem art. 1, 3-5, 7, 8 i 20, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 22, poz. 270, Nr 60, poz. 703, Nr 70, poz. 816, Nr 104, poz. 1104, Nr 117, poz. 1228 i Nr 122, poz. 1324, z 2001 r. Nr 4, poz. 27, Nr 8, poz. 64, Nr 52, poz. 539, Nr 73, poz. 764, Nr 74, poz. 784, Nr 88, poz. 961, Nr 89, poz. 968, Nr 102, poz. 1117, Nr 106, poz. 1150, Nr 110, poz. 1190 Nr 125, poz. 1363 i 1370 i Nr 134, poz. 1509, z 2002 r. Nr 19, poz. 199, Nr 25, poz. 253, Nr 74, poz. 676, Nr 78, poz. 715, Nr 89, poz. 804, Nr 135, poz. 1146, Nr 141, poz. 1182, Nr 169, poz. 1384, Nr 181, poz. 1515, Nr 200, poz. 1679 i Nr 240, poz. 2058, z 2003 r. Nr 7, poz. 79, Nr 45, poz. 391, Nr 65, poz. 595, Nr 84, poz. 774, Nr 90, poz. 844, Nr 96, poz. 874, Nr 122, poz. 1143, Nr 135, poz. 1268, Nr 137, poz. 1302, Nr 166, poz. 1608, Nr 202, poz. 1956, Nr 222, poz. 2201, Nr 223, poz. 2217 i Nr 228, poz. 2255, z 2004 r. Nr 29, poz. 257, Nr 54, poz. 535, Nr 93, poz. 894, Nr 99, poz. 1001, Nr 109, poz. 1163, Nr 116, poz. 1203, 1205 i 1207, Nr 120, poz. 1252, Nr 123, poz. 1291, Nr 162, poz. 1691, Nr 210, poz. 2135, Nr 263, poz. 2619 i Nr 281, poz. 2779 i 2781 oraz z 2005 r. Nr 25, poz. 202 i Nr 30, poz. 262. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 60, poz. 700 i 703, Nr 86, poz. 958, Nr 103, poz. 1100, Nr 117, poz. 1228 i Nr 122, poz. 1315 i 1324, z 2001 r. Nr 106, poz. 1150, Nr 110, poz. 1190 i Nr 125, poz. 1363, z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676, Nr 93, poz. 820, Nr 141, poz. 1179, Nr 169, poz. 1384, Nr 199, poz. 1672, Nr 200, poz. 1684 i Nr 230, poz. 1922, z 2003 r. Nr 45, poz. 391, Nr 96, poz. 874, Nr 137, poz. 1302, Nr 180, poz. 1759, Nr 202, poz. 1957, Nr 217, poz. 2124 i Nr 223, poz. 2218, z 2004 r. Nr 6, poz. 39, Nr 29, poz. 257, Nr 54, poz. 535, Nr 93, poz. 894, Nr 121, poz. 1262, Nr 123, poz. 1291, Nr 146, poz. 1546, Nr 171, poz. 1800, Nr 210, poz. 2135 i Nr 254, poz. 2533 oraz z 2005 r. Nr 25, poz. 202. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 60, poz. 700 i 703, Nr 86, poz. 958, Nr 103, poz. 1100, Nr 117, poz. 1228 i Nr 122, poz. 1315 i 1324, z 2001 r. Nr 106, poz. 1150, Nr 110, poz. 1190 i Nr 125, poz. 1363, z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676, Nr 93, poz. 820, Nr 141, poz. 1179, Nr 169, poz. 1384, Nr 199, poz. 1672, Nr 200, poz. 1684 i Nr 230, poz. 1922, z 2003 r. Nr 45, poz. 391, Nr 96, poz. 874, Nr 137, poz. 1302, Nr 180, poz. 1759, Nr 202, poz. 1957, Nr 217, poz. 2124 i Nr 223, poz. 2218, z 2004 r. Nr 6, poz. 39, Nr 29, poz. 257, Nr 54, poz. 535, Nr 93, poz. 894, Nr 121, poz. 1262, Nr 123, poz. 1291, Nr 146, poz. 1546, Nr 171, poz. 1800, Nr 210, poz. 2135 i Nr 254, poz. 2533 oraz z 2005 r. Nr 25, poz. 202. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"chpt_1\",\"symbol\": \"chpt_1\",\"type\": \"chpt\",\"name\": \"1\",\"title\": \"Rozdział 1 - Przepisy ogólne\",\"children\": [{\"id\": \"chpt_1-arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"chpt_1-arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"chpt_1-arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_1-arti_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_1-arti_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"chpt_1-arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"chpt_1-arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_1-arti_3-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_1-arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"chpt_1-arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"chpt_1-arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"chpt_1-arti_6-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-arti_6-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_1-arti_6-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]}]},{\"id\": \"chpt_2\",\"symbol\": \"chpt_2\",\"type\": \"chpt\",\"name\": \"2\",\"title\": \"Rozdział 2 - Organy Krajowego Funduszu Kapitałowego\",\"children\": [{\"id\": \"chpt_2-arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"chpt_2-arti_7-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_7-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_7-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_2-arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"chpt_2-arti_8-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_8-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_8-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_2-arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"chpt_2-arti_9-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_9-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_9-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_2-arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"}]},{\"id\": \"chpt_3\",\"symbol\": \"chpt_3\",\"type\": \"chpt\",\"name\": \"3\",\"title\": \"Rozdział 3 - Zasady i tryb udzielania wsparcia\",\"children\": [{\"id\": \"chpt_3-arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\",\"children\": [{\"id\": \"chpt_3-arti_11-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"chpt_3-arti_11-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_3-arti_11-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_3-arti_11-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_3-arti_11-pass_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"chpt_3-arti_11-pass_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"chpt_3-arti_11-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_3-arti_11-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_3-arti_11-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"chpt_3-arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\",\"children\": [{\"id\": \"chpt_3-arti_12-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-arti_12-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_3-arti_12-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\",\"children\": [{\"id\": \"chpt_3-arti_12-pass_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_3-arti_12-pass_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_3-arti_12-pass_3-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"chpt_3-arti_12-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"chpt_3-arti_12-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\",\"children\": [{\"id\": \"chpt_3-arti_12-pass_5-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_3-arti_12-pass_5-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_3-arti_12-pass_5-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"chpt_3-arti_12-pass_6\",\"symbol\": \"pass_6\",\"type\": \"pass\",\"name\": \"6\",\"title\": \"6.\",\"children\": [{\"id\": \"chpt_3-arti_12-pass_6-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_3-arti_12-pass_6-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_3-arti_12-pass_6-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_3-arti_12-pass_6-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"chpt_3-arti_12-pass_6-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"chpt_3-arti_12-pass_6-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"chpt_3-arti_12-pass_6-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"chpt_3-arti_12-pass_6-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"},{\"id\": \"chpt_3-arti_12-pass_6-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\"},{\"id\": \"chpt_3-arti_12-pass_6-pint_10\",\"symbol\": \"pint_10\",\"type\": \"pint\",\"name\": \"10\",\"title\": \"10)\"},{\"id\": \"chpt_3-arti_12-pass_6-pint_11\",\"symbol\": \"pint_11\",\"type\": \"pint\",\"name\": \"11\",\"title\": \"11)\"}]},{\"id\": \"chpt_3-arti_12-pass_7\",\"symbol\": \"pass_7\",\"type\": \"pass\",\"name\": \"7\",\"title\": \"7.\"},{\"id\": \"chpt_3-arti_12-pass_8\",\"symbol\": \"pass_8\",\"type\": \"pass\",\"name\": \"8\",\"title\": \"8.\"}]},{\"id\": \"chpt_3-arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"chpt_3-arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\",\"children\": [{\"id\": \"chpt_3-arti_14-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-arti_14-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_3-arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\",\"children\": [{\"id\": \"chpt_3-arti_15-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"chpt_3-arti_15-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_3-arti_15-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_3-arti_15-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_3-arti_15-pass_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"chpt_3-arti_15-pass_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"chpt_3-arti_15-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_3-arti_15-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\",\"children\": [{\"id\": \"chpt_3-arti_15-pass_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_3-arti_15-pass_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"chpt_3-arti_15-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"chpt_3-arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\",\"children\": [{\"id\": \"chpt_3-arti_16-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_3-arti_16-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_3-arti_16-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_3-arti_16-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"chpt_3-arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\"},{\"id\": \"chpt_3-arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\",\"children\": [{\"id\": \"chpt_3-arti_18-pass_1\",\"symbol\": \"pass_1\",\"type\":"
+      "content": "Ustawa wchodzi w życie po upływie 4 miesięcy od dnia ogłoszenia 5) Ustawa została ogłoszona w dniu 6 kwietnia 2005 r. , z wyjątkiem art. 1, 3-5, 7, 8 i 20, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia."
     }
   ],
-  "definitions": [
+  "definitions": [],
+  "references": [
     {
-      "term": "fundusz kapitałowy",
-      "definition": "osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, której wyłącznym przedmiotem działalności jest dokonywanie inwestycji",
-      "source_provision": "art2"
+      "target_document_id": "pl-du-2017-1523",
+      "ref_type": "references"
     },
     {
-      "term": "inwestycje",
-      "definition": "inwestycje w rozumieniu przepisów o rachunkowości",
-      "source_provision": "art2"
+      "target_document_id": "pl-du-2018-2243",
+      "ref_type": "references"
     },
     {
-      "term": "przedsiębiorcy",
-      "definition": "mikroprzedsiębiorców oraz małych i średnich przedsiębiorców spełniających warunki określone w załączniku I do rozporządzenia nr 70/2001/WE z dnia 12 stycznia 2001 r. w sprawie zastosowania art. 87 i 88 Traktatu WE w odniesieniu do pomocy państwa dla małych i średnich przedsiębiorstw ( Dz. Urz. L 10 z 13.01.2001 ) , zmienionego rozporządzeniem nr 364/2004/WE z dnia 25 lutego 2004 r. ( Dz. Urz. WE L 63 z 28.02.2004 )",
-      "source_provision": "art2"
+      "target_document_id": "pl-du-2016-901",
+      "ref_type": "references"
     },
     {
-      "term": "przychody i zyski",
-      "definition": "przychody i zyski w rozumieniu przepisów o rachunkowości.",
-      "source_provision": "art2"
+      "target_document_id": "pl-du-2018-1669",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-1355",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-2215",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-2244",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2017-2077",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-1509",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-1036",
+      "ref_type": "references"
     }
   ]
 }

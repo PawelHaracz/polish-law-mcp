@@ -13,7 +13,25 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "Dniami wolnymi od pracy są: 1) dni niżej wymienione: a) 1 stycznia - Nowy Rok, b) 6 stycznia - Trzech Króli, c) pierwszy dzień Wielkiej Nocy, d) drugi dzień Wielkiej Nocy, e) 1 maja - Święto Państwowe, f) pierwszy dzień Zielonych Świątek, g) dzień Bożego Ciała, h) 22 lipca - Święto Odrodzenia Polski, i) 15 sierpnia - Wniebowzięcie, j) 1 listopada - Wszystkich Świętych, k) 25 grudnia - pierwszy dzień Bożego Narodzenia, l) 26 grudnia - drugi dzień Bożego Narodzenia, 2) niedziele."
+      "content": "Dniami wolnymi od pracy są: 1) dni niżej wymienione: a) 1 stycznia – Nowy Rok, b) 6 stycznia – Święto Trzech Króli, c) pierwszy dzień Wielkiej Nocy, d) drugi dzień Wielkiej Nocy, e) 1 maja – Święto Państwowe, f) 3 maja – Święto Narodowe Trzeciego Maja, g) pierwszy dzień Zielonych Świątek, h) dzień Bożego Ciała, i) 15 sierpnia – Wniebowzięcie Najświętszej Maryi Panny, j) 1 listopada – Wszystkich Świętych, k) 11 listopada – Narodowe Święto Niepodległości, ka)1) 24 grudnia – Wigilia Bożego Narodzenia, l) 25 grudnia – pierwszy dzień Bożego Narodzenia, m) 26 grudnia – drugi dzień Bożego Narodzenia; 2) niedziele."
+    },
+    {
+      "provision_ref": "art1a",
+      "section": "1a",
+      "title": "Art. 1a",
+      "content": "1. W przypadku ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii, dniem wolnym od pracy jest także dzień określony przez Prezesa Rady Ministrów, w drodze rozporządzenia. 2. Wydając rozporządzenie, o którym mowa w ust. 1, Prezes Rady Ministrów uwzględnia zapewnienie bezpieczeństwa zdrowotnego na terytorium Rzeczypospolitej Polskiej."
+    },
+    {
+      "provision_ref": "art1au1",
+      "section": "1a",
+      "title": "Art. 1a ust. 1",
+      "content": "W przypadku ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii, dniem wolnym od pracy jest także dzień określony przez Prezesa Rady Ministrów, w drodze rozporządzenia."
+    },
+    {
+      "provision_ref": "art1au2",
+      "section": "1a",
+      "title": "Art. 1a ust. 2",
+      "content": "Wydając rozporządzenie, o którym mowa w ust. 1, Prezes Rady Ministrów uwzględnia zapewnienie bezpieczeństwa zdrowotnego na terytorium Rzeczypospolitej Polskiej."
     },
     {
       "provision_ref": "art2",
@@ -31,7 +49,7 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-pint_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_1-pint_1-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"arti_1-pint_1-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"},{\"id\": \"arti_1-pint_1-lett_f\",\"symbol\": \"lett_f\",\"type\": \"lett\",\"name\": \"f\",\"title\": \"f)\"},{\"id\": \"arti_1-pint_1-lett_g\",\"symbol\": \"lett_g\",\"type\": \"lett\",\"name\": \"g\",\"title\": \"g)\"},{\"id\": \"arti_1-pint_1-lett_h\",\"symbol\": \"lett_h\",\"type\": \"lett\",\"name\": \"h\",\"title\": \"h)\"},{\"id\": \"arti_1-pint_1-lett_i\",\"symbol\": \"lett_i\",\"type\": \"lett\",\"name\": \"i\",\"title\": \"i)\"},{\"id\": \"arti_1-pint_1-lett_j\",\"symbol\": \"lett_j\",\"type\": \"lett\",\"name\": \"j\",\"title\": \"j)\"},{\"id\": \"arti_1-pint_1-lett_k\",\"symbol\": \"lett_k\",\"type\": \"lett\",\"name\": \"k\",\"title\": \"k)\"},{\"id\": \"arti_1-pint_1-lett_l\",\"symbol\": \"lett_l\",\"type\": \"lett\",\"name\": \"l\",\"title\": \"l)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia2). 1) 2) Dodana przez art. 1 ustawy z dnia 6 grudnia 2024 r. o zmianie ustawy o dniach wolnych od pracy oraz niektórych innych ustaw (Dz. U. poz. 1965), która weszła w życie z dniem 1 lutego 2025 r. Ustawa została ogłoszona w dniu 19 stycznia 1951 r."
     }
   ],
   "definitions": []

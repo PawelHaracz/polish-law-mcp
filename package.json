@@ -2,7 +2,7 @@
   "name": "@ansvar/polish-law-mcp",
   "version": "2.0.0",
   "mcpName": "eu.ansvar/polish-law-mcp",
-  "description": "Complete Polish law database — 8,943 Acts (Ustawy), 161,705 provisions from the Sejm ELI API covering all parliamentary legislation published in Dziennik Ustaw (1918-2026) with Polish full-text search and EU cross-references",
+  "description": "Complete Polish law database — 8,943 Acts (Ustawy), 944,498 provisions (article + ustęp/punkt/litera/§ granularity) from the Sejm ELI API covering all parliamentary legislation published in Dziennik Ustaw (1918-2026) with Polish full-text search, status-aware reranking, and EU cross-references. Database shipped separately; point POLISH_LAW_DB_PATH at it.",
   "author": "Ansvar Systems <hello@ansvar.eu>",
   "license": "Apache-2.0",
   "repository": {
@@ -30,25 +30,26 @@
     "ansvar"
   ],
   "type": "module",
-  "main": "dist/index.js",
+  "main": "dist/src/index.js",
   "bin": {
-    "polish-law-mcp": "dist/index.js"
+    "polish-law-mcp": "dist/src/index.js"
   },
   "files": [
     "dist",
-    "data/database.db",
     "server.json"
   ],
   "scripts": {
     "build": "tsc",
     "build:db": "node --import tsx scripts/build-db.ts",
     "dev": "node --import tsx src/index.ts",
-    "start": "node dist/index.js",
+    "start": "node dist/src/index.js",
     "test": "vitest run",
     "test:watch": "vitest",
     "test:coverage": "vitest run --coverage",
     "census": "node --import tsx scripts/census.ts",
     "ingest": "node --import tsx scripts/ingest.ts",
+    "ingest:pdf": "node --import tsx scripts/ingest-pdf.ts",
+    "ingest:regulations": "node --import tsx scripts/ingest-regulations.ts",
     "test:contract": "vitest run --passWithNoTests __tests__/contract/",
     "drift:detect": "node --import tsx scripts/drift-detect.ts",
     "validate": "npm run lint && npm test && npm run test:contract",

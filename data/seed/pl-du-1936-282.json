@@ -10,10 +10,88 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/1936/282",
   "provisions": [
     {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "W sprawach wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, w których przed dniem wejścia w życie niniejszej ustawy został wydany nakaz zapłaty, stosuje się art. 480 2 § 1 i 2 ustawy zmienianej w art. 1 oraz art. 19 ust. 4 ustawy zmienianej w art. 6, w brzmieniu dotychczasowym. W sprawach wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się art. 16 ust. 1 zdanie drugie ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą. Do weksli wystawionych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe."
+    },
+    {
+      "provision_ref": "art8u1",
+      "section": "8",
+      "title": "Art. 8 ust. 1",
+      "content": "W sprawach wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, w których przed dniem wejścia w życie niniejszej ustawy został wydany nakaz zapłaty, stosuje się art. 480 2 § 1 i 2 ustawy zmienianej w art. 1 oraz art. 19 ust. 4 ustawy zmienianej w art. 6, w brzmieniu dotychczasowym."
+    },
+    {
+      "provision_ref": "art8u2",
+      "section": "8",
+      "title": "Art. 8 ust. 2",
+      "content": "W sprawach wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się art. 16 ust. 1 zdanie drugie ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą."
+    },
+    {
+      "provision_ref": "art8u3",
+      "section": "8",
+      "title": "Art. 8 ust. 3",
+      "content": "Do weksli wystawionych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "Weksel trasowany zawiera: 1) nazwę „weksel” w samym tekście dokumentu, w języku, w jakim go wystawiono; 2) polecenie bezwarunkowe zapłacenia oznaczonej sumy pieniężnej; 3) nazwisko osoby, która ma zapłacić (trasata); 4) oznaczenie terminu płatności; 5) oznaczenie miejsca płatności; 6) nazwisko osoby, na której rzecz lub na której zlecenie zapłata ma być dokonana; 7) oznaczenie daty i miejsca wystawienia wekslu; 8) podpis wystawcy wekslu."
+      "content": "Weksel trasowany zawiera: nazwę „weksel” w samym tekście dokumentu, w języku, w jakim go wystawiono; polecenie bezwarunkowe zapłacenia oznaczonej sumy pieniężnej; nazwisko osoby, która ma zapłacić (trasata); oznaczenie terminu płatności; oznaczenie miejsca płatności; nazwisko osoby, na której rzecz lub na której zlecenie zapłata ma być dokonana; oznaczenie daty i miejsca wystawienia wekslu; podpis wystawcy wekslu."
+    },
+    {
+      "provision_ref": "art1p1",
+      "section": "1",
+      "title": "Art. 1 pkt 1",
+      "content": "Weksel trasowany zawiera: nazwę „weksel” w samym tekście dokumentu, w języku, w jakim go wystawiono;"
+    },
+    {
+      "provision_ref": "art1p2",
+      "section": "1",
+      "title": "Art. 1 pkt 2",
+      "content": "Weksel trasowany zawiera: polecenie bezwarunkowe zapłacenia oznaczonej sumy pieniężnej;"
+    },
+    {
+      "provision_ref": "art1p3",
+      "section": "1",
+      "title": "Art. 1 pkt 3",
+      "content": "Weksel trasowany zawiera: nazwisko osoby, która ma zapłacić (trasata);"
+    },
+    {
+      "provision_ref": "art1p4",
+      "section": "1",
+      "title": "Art. 1 pkt 4",
+      "content": "Weksel trasowany zawiera: oznaczenie terminu płatności;"
+    },
+    {
+      "provision_ref": "art1p5",
+      "section": "1",
+      "title": "Art. 1 pkt 5",
+      "content": "Weksel trasowany zawiera: oznaczenie miejsca płatności;"
+    },
+    {
+      "provision_ref": "art1p6",
+      "section": "1",
+      "title": "Art. 1 pkt 6",
+      "content": "Weksel trasowany zawiera: nazwisko osoby, na której rzecz lub na której zlecenie zapłata ma być dokonana;"
+    },
+    {
+      "provision_ref": "art1p7",
+      "section": "1",
+      "title": "Art. 1 pkt 7",
+      "content": "Weksel trasowany zawiera: oznaczenie daty i miejsca wystawienia wekslu;"
+    },
+    {
+      "provision_ref": "art1p8",
+      "section": "1",
+      "title": "Art. 1 pkt 8",
+      "content": "Weksel trasowany zawiera: podpis wystawcy wekslu."
     },
     {
       "provision_ref": "art2",
@@ -67,13 +145,19 @@
       "provision_ref": "art10",
       "section": "10",
       "title": "Art. 10",
-      "content": "Jeżeli weksel, niezupełny w chwili wystawienia, uzupełniony został niezgodnie z zawartem porozumieniem, nie można wobec posiadacza zasłaniać się zarzutem, że nie zastosowano się do tego porozumienia, chyba że posiadacz nabył weksel w złej wierze albo przy nabyciu dopuścił się rażącego niedbalstwa. Dział II Indos"
+      "content": "Jeżeli weksel, niezupełny w chwili wystawienia, uzupełniony został niezgodnie z zawartem porozumieniem, nie można wobec posiadacza zasłaniać się zarzutem, że nie zastosowano się do tego porozumienia, chyba że posiadacz nabył weksel w złej wierze albo przy nabyciu dopuścił się rażącego niedbalstwa."
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Art. 11",
-      "content": "Każdy weksel można przenieść przez indos, chociażby nie był wystawiony wyraźnie na zlecenie. Jeżeli wystawca umieścił w wekslu wyrazy „nie na zlecenie” lub inne zastrzeżenie równoznaczne, można przenieść weksel tylko w formie i ze skutkami zwykłego przelewu. Weksel można indosować również na trasata bez względu, czy przyjął on weksel, czy nie, a także na wystawcę lub na każdą inną osobę, wekslowo zobowiązaną. Osoby te mogą weksel dalej indosować."
+      "content": "Weksel można przenieść przez indos, chociażby nie był wystawiony wyraźnie na zlecenie. 1) Zdanie pierwsze w brzmieniu ustalonym przez art. 2 pkt 1 ustawy z dnia 11 sierpnia 2021 r. o zmianie ustawy - Kodeks postępowania cywilnego oraz niektórych innych ustaw (Dz. U. poz. 1655), która weszła w życie z dniem 24 września 2021 r. Jeżeli wystawca umieścił w wekslu wyrazy „nie na zlecenie” lub inne zastrzeżenie równoznaczne, można przenieść weksel tylko w formie i ze skutkami zwykłego przelewu. Weksel można indosować również na trasata bez względu, czy przyjął on weksel, czy nie, a także na wystawcę lub na każdą inną osobę, wekslowo zobowiązaną. Osoby te mogą weksel dalej indosować."
+    },
+    {
+      "provision_ref": "art11a",
+      "section": "11a",
+      "title": "Art. 11a",
+      "content": "Weksel wręczony przedsiębiorcy w rozumieniu art. 43 1 ustawy z dnia 23 kwietnia 1964 r. - Kodeks cywilny w celu spełnienia lub zabezpieczenia wierzytelności, która wynika z umowy zawartej z konsumentem w rozumieniu art. 22 1 ustawy z dnia 23 kwietnia 1964 r. - Kodeks cywilny , powinien zawierać zastrzeżenie „nie na zlecenie” lub inne równoznaczne. W razie przyjęcia przez przedsiębiorcę weksla, o którym mowa powyżej, niezawierającego zastrzeżenia „nie na zlecenie” lub innego równoznacznego i przeniesienia takiego weksla na inną osobę przedsiębiorca jest zobowiązany do naprawienia poniesionej przez wystawcę weksla szkody przez zapłatę weksla. Taka odpowiedzialność przedsiębiorcy względem wystawcy weksla istnieje także, gdy weksel znalazł się w posiadaniu innej osoby wbrew woli przedsiębiorcy. Przedsiębiorca jest zobowiązany niezwłocznie po spełnieniu świadczenia wynikającego z umowy zawartej z konsumentem zwrócić weksel jego wystawcy."
     },
     {
       "provision_ref": "art12",
@@ -91,7 +175,25 @@
       "provision_ref": "art14",
       "section": "14",
       "title": "Art. 14",
-      "content": "Indos przenosi wszystkie prawa z wekslu. Jeżeli indos jest in blanco, posiadacz wekslu może: 1) wypełnić indos nazwiskiem własnem lub innej osoby; 2) indosować weksel dalej in blanco lub na inną osobę; 3) przenieść weksel na inną osobę bez wypełnienia indosu in blanco i bez indosowania."
+      "content": "Indos przenosi wszystkie prawa z wekslu. Jeżeli indos jest in blanco, posiadacz wekslu może: wypełnić indos nazwiskiem własnem lub innej osoby; indosować weksel dalej in blanco lub na inną osobę; przenieść weksel na inną osobę bez wypełnienia indosu in blanco i bez indosowania."
+    },
+    {
+      "provision_ref": "art14p1",
+      "section": "14",
+      "title": "Art. 14 pkt 1",
+      "content": "Indos przenosi wszystkie prawa z wekslu. Jeżeli indos jest in blanco, posiadacz wekslu może: wypełnić indos nazwiskiem własnem lub innej osoby;"
+    },
+    {
+      "provision_ref": "art14p2",
+      "section": "14",
+      "title": "Art. 14 pkt 2",
+      "content": "Indos przenosi wszystkie prawa z wekslu. Jeżeli indos jest in blanco, posiadacz wekslu może: indosować weksel dalej in blanco lub na inną osobę;"
+    },
+    {
+      "provision_ref": "art14p3",
+      "section": "14",
+      "title": "Art. 14 pkt 3",
+      "content": "Indos przenosi wszystkie prawa z wekslu. Jeżeli indos jest in blanco, posiadacz wekslu może: przenieść weksel na inną osobę bez wypełnienia indosu in blanco i bez indosowania."
     },
     {
       "provision_ref": "art15",
@@ -127,7 +229,7 @@
       "provision_ref": "art20",
       "section": "20",
       "title": "Art. 20",
-      "content": "Indos po terminie płatności ma te same skutki, co indos przed tym terminem. Indos jednak po proteście spowodu niezapłacenia lub po upływie terminu, ustanowionego dla protestu, ma tylko skutki zwykłego przelewu. Aż do dowodu przeciwnego indos bez daty uważa się za dokonany przed upływem terminu, ustanowionego dla protestu. Dział III Przyjęcie"
+      "content": "Indos po terminie płatności ma te same skutki, co indos przed tym terminem. Indos jednak po proteście spowodu niezapłacenia lub po upływie terminu, ustanowionego dla protestu, ma tylko skutki zwykłego przelewu. Aż do dowodu przeciwnego indos bez daty uważa się za dokonany przed upływem terminu, ustanowionego dla protestu."
     },
     {
       "provision_ref": "art21",
@@ -181,7 +283,7 @@
       "provision_ref": "art29",
       "section": "29",
       "title": "Art. 29",
-      "content": "Jeżeli trasat przekreślił przyjęcie przed zwróceniem wekslu, uważa się, że przyjęcia odmówił. Aż do dowodu przeciwnego uważa się przekreślenie za dokonane przed zwróceniem wekslu. Jeżeli jednak trasat zawiadomił piśmiennie o przyjęciu posiadacza wekslu lub kogokolwiek z podpisanych na wekslu, odpowiada wobec nich według treści swego przyjęcia. Dział IV Poręczenie wekslowe"
+      "content": "Jeżeli trasat przekreślił przyjęcie przed zwróceniem wekslu, uważa się, że przyjęcia odmówił. Aż do dowodu przeciwnego uważa się przekreślenie za dokonane przed zwróceniem wekslu. Jeżeli jednak trasat zawiadomił piśmiennie o przyjęciu posiadacza wekslu lub kogokolwiek z podpisanych na wekslu, odpowiada wobec nich według treści swego przyjęcia."
     },
     {
       "provision_ref": "art30",
@@ -199,7 +301,7 @@
       "provision_ref": "art32",
       "section": "32",
       "title": "Art. 32",
-      "content": "Poręczyciel wekslowy odpowiada tak samo, jak ten, za kogo poręczył. Zobowiązanie poręczyciela jest ważne, chociażby nawet zobowiązanie, za które poręcza, było nieważne z jakiejkolwiek przyczyny z wyjątkiem wady formalnej. Poręczyciel wekslowy, który zapłacił weksel, nabywa prawa, wynikające z wekslu, przeciw osobie, za którą poręczył, i przeciw tym, którzy wobec tej osoby odpowiadają z wekslu. Dział V Płatność"
+      "content": "Poręczyciel wekslowy odpowiada tak samo, jak ten, za kogo poręczył. Zobowiązanie poręczyciela jest ważne, chociażby nawet zobowiązanie, za które poręcza, było nieważne z jakiejkolwiek przyczyny z wyjątkiem wady formalnej. Poręczyciel wekslowy, który zapłacił weksel, nabywa prawa, wynikające z wekslu, przeciw osobie, za którą poręczył, i przeciw tym, którzy wobec tej osoby odpowiadają z wekslu."
     },
     {
       "provision_ref": "art33",
@@ -223,13 +325,13 @@
       "provision_ref": "art36",
       "section": "36",
       "title": "Art. 36",
-      "content": "Jeżeli termin płatności wekslu jest oznaczony na jeden miesiąc lub na więcej miesięcy po dacie lub po okazaniu, weksel ten jest płatny w odpowiednim dniu tego miesiąca, w którym zapłata ma być dokonana. W braku takiego dnia weksel jest płatny w ostatnim dniu tego miesiąca. Jeżeli termin płatności wekslu jest oznaczony na jeden miesiąc lub na więcej miesięcy i pół miesiąca po dacie lub po okazaniu, liczy się najpierw miesiące całe. Jeżeli płatność wekslu jest oznaczona na początek, na środek (np. połowę stycznia, połowę lutego i t. d.) lub na koniec miesiąca, rozumie się przez to pierwszy, piętnasty lub ostatni dzień miesiąca. Określenie „osiem dni” lub „piętnaście dni” wyraża nie jeden lub dwa tygodnie, lecz okres całych ośmiu lub piętnastu dni. Określenie „pół miesiąca” oznacza piętnaście dni."
+      "content": "Jeżeli termin płatności wekslu jest oznaczony na jeden miesiąc lub na więcej miesięcy po dacie lub po okazaniu, weksel ten jest płatny w odpowiednim dniu tego miesiąca, w którym zapłata ma być dokonana. W braku takiego dnia weksel jest płatny w ostatnim dniu tego miesiąca. Jeżeli termin płatności wekslu jest oznaczony na jeden miesiąc lub na więcej miesięcy i pół miesiąca po dacie lub po okazaniu, liczy się najpierw miesiące cało. Jeżeli płatność wekslu jest oznaczona na początek, na środek (np. połowę stycznia, połowę lutego i t. d.) lub na koniec miesiąca, rozumie się przez to pierwszy, piętnasty lub ostatni dzień miesiąca. Określenie „osiem dni” lub „piętnaście dni” wyraża nie jeden lub dwa tygodnie, lecz okres całych ośmiu lub piętnastu dni. Określenie „pół miesiąca” oznacza piętnaście dni."
     },
     {
       "provision_ref": "art37",
       "section": "37",
       "title": "Art. 37",
-      "content": "Gdy weksel jest płatny w oznaczonym dniu w miejscu, gdzie obowiązuje kalendarz odmienny od kalendarza miejsca wystawienia, uważa się datę płatności za określoną według kalendarza miejsca płatności. Przy wekslu, przekazanym z jednego miejsca na inne, w którem obowiązuje kalendarz odmienny, a płatnym w pewien czas po dacie, przelicza się dzień wystawienia na dzień, odpowiadający kalendarzowi miejsca płatności, i podług tego oznacza się termin płatności. Zasadę ustępu poprzedzającego stosuje się także do obliczania terminów przedstawienia weksli. Przepisów tych nie stosuje się, jeżeli z zastrzeżenia w wekslu lub wogóle z jego treści wynika, że chciano zastosować inne zasady. Dział VI Zapłata"
+      "content": "Gdy weksel jest płatny w oznaczonym dniu w miejscu, gdzie obowiązuje kalendarz odmienny od kalendarza miejsca wystawienia, uważa się datę płatności za określoną według kalendarza miejsca płatności. Przy wekslu, przekazanym z jednego miejsca na inne, w którem obowiązuje kalendarz odmienny, a płatnym w pewien czas po dacie, przelicza się dzień wystawienia na dzień, odpowiadający kalendarzowi miejsca płatności, i podług tego oznacza się termin płatności. Zasadę ustępu poprzedzającego stosuje się także do obliczania terminów przedstawienia weksli. Przepisów tych nie stosuje się, jeżeli z zastrzeżenia w wekslu lub wogóle z jego treści wynika, że chciano zastosować inne zasady."
     },
     {
       "provision_ref": "art38",
@@ -259,25 +361,43 @@
       "provision_ref": "art42",
       "section": "42",
       "title": "Art. 42",
-      "content": "W przypadku nieprzedstawienia wekslu do zapłaty w terminie, oznaczonym w art. 38, każdy dłużnik może złożyć sumę wekslową do depozytu sądu miejsca płatności wekslu na koszt i niebezpieczeństwo posiadacza. Dział VII Zwrotne poszukiwanie spowodu nieprzyjęcia lub niezapłacenia"
+      "content": "W przypadku nieprzedstawienia wekslu do zapłaty w terminie, oznaczonym w art. 38, każdy dłużnik może złożyć sumę wekslową do depozytu sądu miejsca płatności wekslu na koszt i niebezpieczeństwo posiadacza."
     },
     {
       "provision_ref": "art43",
       "section": "43",
       "title": "Art. 43",
-      "content": "Posiadacz wekslu może wykonywać zwrotne poszukiwanie przeciw indosantom, wystawcy, tudzież innym dłużnikom wekslowym: po terminie płatności, jeżeli zapłata nie nastąpiła; już przed terminem płatności: 1) jeżeli odmówiono przyjęcia w całości lub w części; 2) jeżeli otwarto postępowanie układowe albo jeżeli ogłoszono upadłość trasata bez względu, czy weksel przyjął, czy nie, albo jeżeli trasat zaprzestał płacenia długów, choćby to zaprzestanie nie zostało stwierdzone orzeczeniem sądowem, lub też jeżeli przeprowadzono bezskutecznie egzekucję z jego majątku; 3) jeżeli otwarto postępowanie układowe albo jeżeli ogłoszono upadłość wystawcy wekslu, co do którego istnieje zakaz przedstawienia do przyjęcia. W przypadku zwrotnego poszukiwania przed terminem płatności, przewidzianego w ust. 1 pkt 2) i 5) artykułu niniejszego, sąd może udzielić zobowiązanemu zwrotnie odroczenia, które nie może w żadnym razie przekraczać terminu płatności wekslu."
+      "content": "Posiadacz wekslu może wykonywać zwrotne poszukiwanie przeciw indosantom, wystawcy, tudzież innym dłużnikom wekslowym: po terminie płatności, jeżeli zapłata nie nastąpiła; już przed terminem płatności: jeżeli odmówiono przyjęcia w całości lub w części; jeżeli otwarto postępowanie restrukturyzacyjne albo jeżeli ogłoszono upadłość trasata bez względu, czy weksel przyjął, czy nie, albo jeżeli trasat zaprzestał płacenia długów, choćby to zaprzestanie nie zostało stwierdzone orzeczeniem sądowym, lub też jeżeli przeprowadzono bezskutecznie egzekucję z jego majątku; jeżeli otwarto postępowanie restrukturyzacyjne albo jeżeli ogłoszono upadłość wystawcy wekslu, co do którego istnieje zakaz przedstawienia do przyjęcia. W przypadku zwrotnego poszukiwania przed terminem płatności, przewidzianego w ust. 1 pkt. 2 i 3 artykułu niniejszego, sąd może udzielić zobowiązanemu zwrotnie odroczenia, które nie może w żadnym razie przekraczać terminu płatności wekslu."
+    },
+    {
+      "provision_ref": "art43p1",
+      "section": "43",
+      "title": "Art. 43 pkt 1",
+      "content": "Posiadacz wekslu może wykonywać zwrotne poszukiwanie przeciw indosantom, wystawcy, tudzież innym dłużnikom wekslowym: po terminie płatności, jeżeli zapłata nie nastąpiła; już przed terminem płatności: jeżeli odmówiono przyjęcia w całości lub w części;"
+    },
+    {
+      "provision_ref": "art43p2",
+      "section": "43",
+      "title": "Art. 43 pkt 2",
+      "content": "Posiadacz wekslu może wykonywać zwrotne poszukiwanie przeciw indosantom, wystawcy, tudzież innym dłużnikom wekslowym: po terminie płatności, jeżeli zapłata nie nastąpiła; już przed terminem płatności: jeżeli otwarto postępowanie restrukturyzacyjne albo jeżeli ogłoszono upadłość trasata bez względu, czy weksel przyjął, czy nie, albo jeżeli trasat zaprzestał płacenia długów, choćby to zaprzestanie nie zostało stwierdzone orzeczeniem sądowym, lub też jeżeli przeprowadzono bezskutecznie egzekucję z jego majątku;"
+    },
+    {
+      "provision_ref": "art43p3",
+      "section": "43",
+      "title": "Art. 43 pkt 3",
+      "content": "Posiadacz wekslu może wykonywać zwrotne poszukiwanie przeciw indosantom, wystawcy, tudzież innym dłużnikom wekslowym: po terminie płatności, jeżeli zapłata nie nastąpiła; już przed terminem płatności: jeżeli otwarto postępowanie restrukturyzacyjne albo jeżeli ogłoszono upadłość wystawcy wekslu, co do którego istnieje zakaz przedstawienia do przyjęcia."
     },
     {
       "provision_ref": "art44",
       "section": "44",
       "title": "Art. 44",
-      "content": "Odmowa przyjęcia lub zapłaty powinna być stwierdzona aktem publicznym (protest spowodu nieprzyjęcia lub niezapłacenia). Protest spowodu nieprzyjęcia powinien być dokonany w terminach, w których ma nastąpić przedstawienie wekslu do przyjęcia. Jeżeli w przypadku art. 24 ust. 1 weksel został po raz pierwszy przedstawiony w ostatnim dniu terminu, protest może być dokonany jeszcze dnia następnego. Protest spowodu niezapłacenia wekslu, płatnego w oznaczonym dniu albo w pewien czas po dacie lub po okazaniu, powinien być dokonany w jednym z dwóch dni powszednich, następujących po dniu płatności. Jeżeli weksel jest płatny za okazaniem, protest powinien być dokonany z zachowaniem warunków dokonania protestu spowodu nieprzyjęcia, przewidzianych w ustępie poprzedzającym. Protest spowodu nieprzyjęcia zwalnia od przedstawienia do zapłaty i od protestu spowodu niezapłacenia. W przypadku, gdy trasat bez względu, czy weksel przyjął, czy nie, zaprzestał płacenia długów lub gdy przeprowadzono bezskutecznie egzekucję z jego majątku, posiadacz może wykonywać zwrotne poszukiwanie tylko po przedstawieniu wekslu trasatowi do zapłaty i po dokonaniu protestu. W przypadku otwarcia postępowania układowego albo ogłoszenia upadłości trasata, bez względu, czy weksel przyjął, czy nie, zarówno jak w przypadku otwarcia postępowania układowego albo ogłoszenia upadłości wystawcy wekslu, co do którego istnieje zakaz przedstawienia do przyjęcia, posiadacz wekslu może wykonywać zwrotne poszukiwanie już na podstawie orzeczenia, którem otwarto postępowanie układowe albo którem ogłoszono upadłość."
+      "content": "Odmowa przyjęcia lub zapłaty powinna być stwierdzona aktem publicznym (protest spowodu nieprzyjęcia lub niezapłacenia). Protest spowodu nieprzyjęcia powinien być dokonany w terminach, w których ma nastąpić przedstawienie wekslu do przyjęcia. Jeżeli w przypadku art. 24 ust. 1 weksel został po raz pierwszy przedstawiony w ostatnim dniu terminu, protest może być dokonany jeszcze dnia następnego. Protest spowodu niezapłacenia wekslu, płatnego w oznaczonym dniu albo w pewien czas po dacie lub po okazaniu, powinien być dokonany w jednym z dwóch dni powszednich, następujących po dniu płatności. Jeżeli weksel jest płatny za okazaniem, protest powinien być dokonany z zachowaniem warunków dokonania protestu spowodu nieprzyjęcia, przewidzianych w ustępie poprzedzającym. Protest spowodu nieprzyjęcia zwalnia od przedstawienia do zapłaty i od protestu spowodu niezapłacenia. W przypadku, gdy trasat bez względu, czy weksel przyjął, czy nie, zaprzestał płacenia długów lub gdy przeprowadzono bezskutecznie egzekucję z jego majątku, posiadacz może wykonywać zwrotne poszukiwanie tylko po przedstawieniu wekslu trasatowi do zapłaty i po dokonaniu protestu. W przypadku otwarcia postępowania restrukturyzacyjnego albo ogłoszenia upadłości trasata, bez względu, czy weksel przyjął, czy nie, zarówno jak w przypadku otwarcia postępowania restrukturyzacyjnego albo ogłoszenia upadłości wystawcy wekslu, co do którego istnieje zakaz przedstawienia do przyjęcia, posiadacz wekslu może wykonywać zwrotne poszukiwanie już na podstawie orzeczenia, którem otwarto postępowanie restrukturyzacyjne albo którem ogłoszono upadłość."
     },
     {
       "provision_ref": "art45",
       "section": "45",
       "title": "Art. 45",
-      "content": "Posiadacz wekslu powinien o nieprzyjęciu lub o niezapłaceniu zawiadomić swojego indosanta i wystawcę w ciągu czterech dni powszednich, następujących po dniu protestu, a w przypadku zastrzeżenia „bez kosztów” - po dniu przedstawienia. Każdy indosant powinien w ciągu dwóch dni powszednich, następujących po dniu, w którym otrzymał zawiadomienie, podać do wiadomości swojego poprzednika otrzymane zawiadomienia, wskazując nazwiska i adresy tych, którzy dokonali zawiadomień poprzednich, i tak kolejno aż do wystawcy. Terminy powyższe biegną od otrzymania zawiadomienia poprzedniego. Ilekroć w myśl ustępu poprzedzającego zawiadamia się osobę, podpisaną na wekslu, należy tak samo w tymże terminie zawiadomić jej poręczyciela. Jeżeli indosant nie wskazał swego adresu lub podał go w sposób nieczytelny, wystarczy zawiadomienie poprzedzającego go indosanta. Zawiadomienia można dokonać w jakikolwiek sposób, nawet przez proste odesłanie wekslu. Obowiązany do zawiadomienia ma udowodnić, że dokonał go w przepisanym terminie. Termin ten uważa się jako zachowany, jeżeli pismo z zawiadomieniem oddano na pocztę w przepisanym terminie. Kto nie zawiadomi w czasie powyżej oznaczonym, nie traci praw z wekslu, odpowiada jednak za szkodę, spowodowaną przez swe niedbalstwo, tylko do sumy, na jaką weksel jest wystawiony."
+      "content": "Posiadacz wekslu powinien o nieprzyjęciu lub o niezapłaceniu zawiadomić swojego indosanta i wystawcę w ciągu czterech dni powszednich, następujących po dniu protestu, a w przypadku zastrzeżenia „bez kosztów” - po dniu przedstawienia. Każdy indosant powinien w ciągu dwóch dni powszednich, następujących po dniu, w którym otrzymał zawiadomienie, podać do wiadomości swojego poprzednika otrzymane zawiadomienia, wskazując nazwiska i adresy tych, którzy dokonali zawiadomień poprzednich, i tak kolejno aż do wystawcy. Terminy powyższe biegną od otrzymania zawiadomienia poprzedniego. Ilekroć w myśl ustępu poprzedzającego zawiadamia się osobę, podpisaną na wekslu, należy tak samo w tymże terminie zawiadomić jej poręczyciela. Jeżeli indosant nie wskazał swego adresu lub podał go w sposób nieczytelny, wystarczy zawiadomienie poprzedzającego go indosanta. Zawiadomienia można dokonać w jakikolwiek sposób, nawet przez proste odesłanie wekslu. Obowiązany do zawiadomienia ma udowodnić, że dokonał go w przepisanym terminie. Termin ten uważa się jako zachowany, jeżeli pismo z zawiadomieniem oddano w polskiej placówce pocztowej operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe w przepisanym terminie. Kto nie zawiadomi w czasie powyżej oznaczonym, nie traci praw z wekslu, odpowiada jednak za szkodę, spowodowaną przez swe niedbalstwo, tylko do sumy, na jaką weksel jest wystawiony."
     },
     {
       "provision_ref": "art46",
@@ -295,13 +415,61 @@
       "provision_ref": "art48",
       "section": "48",
       "title": "Art. 48",
-      "content": "Posiadacz wekslu może żądać od zobowiązanego zwrotnie: 1) nieprzyjętej lub niezapłaconej sumy wekslowej wraz z odsetkami, jeżeli je zastrzeżono; 2) odsetek w wysokości sześć od sta, a przy wekslach, wystawionych i płatnych w Polsce, odsetek ustawowych od dnia płatności; 3) kosztów protestu, dokonanych zawiadomień, tudzież innych kosztów; 4) prowizji komisowej, która w braku umowy wynosi jedną szóstą od sta od sumy wekslowej i nie może przekroczyć tej stopy. W przypadku zwrotnego poszukiwania przed płatnością będzie potrącone dyskonto od sumy wekslowej. Dyskonto oblicza się według stopy dyskontowej Banku Polskiego w dniu zwrotnego poszukiwania w miejscu zamieszkania posiadacza."
+      "content": "Posiadacz wekslu może żądać od zobowiązanego zwrotnie: nieprzyjętej lub niezapłaconej sumy wekslowej wraz z odsetkami, jeżeli je zastrzeżono; odsetek od wysokości sześć od sta, a przy wekslach, wystawionych i płatnych w Polsce, odsetek ustawowych za opóźnienie od dnia płatności; kosztów protestu, dokonanych zawiadomień, tudzież innych kosztów; prowizji komisowej, która w braku umowy wynosi jedną szóstą od sta od sumy wekslowej i nie może przekroczyć tej stopy. W przypadku zwrotnego poszukiwania przed płatnością będzie potrącone dyskonto od sumy wekslowej. Dyskonto oblicza się według stopy dyskontowej Banku Polskiego w dniu zwrotnego poszukiwania w miejscu zamieszkania posiadacza."
+    },
+    {
+      "provision_ref": "art48p1",
+      "section": "48",
+      "title": "Art. 48 pkt 1",
+      "content": "Posiadacz wekslu może żądać od zobowiązanego zwrotnie: nieprzyjętej lub niezapłaconej sumy wekslowej wraz z odsetkami, jeżeli je zastrzeżono;"
+    },
+    {
+      "provision_ref": "art48p2",
+      "section": "48",
+      "title": "Art. 48 pkt 2",
+      "content": "Posiadacz wekslu może żądać od zobowiązanego zwrotnie: odsetek od wysokości sześć od sta, a przy wekslach, wystawionych i płatnych w Polsce, odsetek ustawowych za opóźnienie od dnia płatności;"
+    },
+    {
+      "provision_ref": "art48p3",
+      "section": "48",
+      "title": "Art. 48 pkt 3",
+      "content": "Posiadacz wekslu może żądać od zobowiązanego zwrotnie: kosztów protestu, dokonanych zawiadomień, tudzież innych kosztów;"
+    },
+    {
+      "provision_ref": "art48p4",
+      "section": "48",
+      "title": "Art. 48 pkt 4",
+      "content": "Posiadacz wekslu może żądać od zobowiązanego zwrotnie: prowizji komisowej, która w braku umowy wynosi jedną szóstą od sta od sumy wekslowej i nie może przekroczyć tej stopy."
     },
     {
       "provision_ref": "art49",
       "section": "49",
       "title": "Art. 49",
-      "content": "Kto weksel wykupił, może żądać od swoich poprzedników: 1) całkowitej sumy zapłaconej; 2) odsetek w wysokości sześć od sta, a przy wekslach, wystawionych i płatnych w Polsce, odsetek ustawowych od powyższej sumy, licząc od dnia wykupienia wekslu; 3) własnych kosztów; 4) prowizji komisowej od sumy wekslowej, obliczonej według art. 48 ust. 1 pkt 4)."
+      "content": "Kto weksel wykupił, może żądać od swoich poprzedników: całkowitej sumy zapłaconej; odsetek w wysokości sześć od sta, a przy wekslach, wystawionych i płatnych w Polsce, odsetek ustawowych za opóźnienie od powyższej sumy, licząc od dnia wykupienia wekslu; własnych kosztów; prowizji komisowej od sumy wekslowej, obliczonej według art. 48 ust. 1 pkt. 4."
+    },
+    {
+      "provision_ref": "art49p1",
+      "section": "49",
+      "title": "Art. 49 pkt 1",
+      "content": "Kto weksel wykupił, może żądać od swoich poprzedników: całkowitej sumy zapłaconej;"
+    },
+    {
+      "provision_ref": "art49p2",
+      "section": "49",
+      "title": "Art. 49 pkt 2",
+      "content": "Kto weksel wykupił, może żądać od swoich poprzedników: odsetek w wysokości sześć od sta, a przy wekslach, wystawionych i płatnych w Polsce, odsetek ustawowych za opóźnienie od powyższej sumy, licząc od dnia wykupienia wekslu;"
+    },
+    {
+      "provision_ref": "art49p3",
+      "section": "49",
+      "title": "Art. 49 pkt 3",
+      "content": "Kto weksel wykupił, może żądać od swoich poprzedników: własnych kosztów;"
+    },
+    {
+      "provision_ref": "art49p4",
+      "section": "49",
+      "title": "Art. 49 pkt 4",
+      "content": "Kto weksel wykupił, może żądać od swoich poprzedników: prowizji komisowej od sumy wekslowej, obliczonej według art. 48 ust. 1 pkt. 4."
     },
     {
       "provision_ref": "art50",
@@ -319,7 +487,7 @@
       "provision_ref": "art52",
       "section": "52",
       "title": "Art. 52",
-      "content": "Zwrotnie poszukujący może w braku zastrzeżenia przeciwnego wykonać swoje prawo także w ten sposób, że na jednego z zobowiązanych zwrotnie wystawia nowy weksel (weksel zwrotny), płatny za okazaniem i w miejscu zamieszkania zobowiązanego zwrotnie. Weksel zwrotny obejmuje prócz sum, wymienionych w art. 48 i 49, stręczne i opłatę stemplową za weksel zwrotny. Jeżeli weksel zwrotny wystawia posiadacz wekslu, wysokość sumy wekslowej oznaczona będzie podług kursu wekslu za okazaniem, przekazanego z miejsca płatności wekslu pierwotnego na miejsce zamieszkania zobowiązanego zwrotnie. Jeżeli weksel zwrotny wystawia indosant, wysokość sumy wekslowej oznaczona będzie podług kursu wekslu za okazaniem, przekazanego z miejsca zamieszkania wystawcy wekslu zwrotnego na miejsce zamieszkania zobowiązanego zwrotnie."
+      "content": "Zwrotnie poszukujący może w braku zastrzeżenia przeciwnego wykonać swoje prawo także w ten sposób, że na jednego z zobowiązanych zwrotnie wystawia nowy weksel (weksel zwrotny), płatny za okazaniem i w miejscu zamieszkania zobowiązanego zwrotnie. Weksel zwrotny obejmuje prócz sum, wymienionych w art. 48 i 49, stręczne i opłatę stemplową 3) Od dnia 1 maja 1947 r. opłata skarbowa, na podstawie art. 27 ust. 1 pkt 1 dekretu z dnia 3 lutego 1947 r. o podatku od nabycia praw majątkowych (Dz. U. Nr 27, poz. 106), który wszedł w życie z dniem 1 stycznia 1947 r., i art. 5 dekretu z dnia 3 lutego 1947 r. o opłacie skarbowej (Dz. U. Nr 27, poz. 107), który wszedł w życie z dniem 1 maja 1947 r. Od dnia 1 stycznia 2007 r., na podstawie ustawy z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. Nr 225, poz. 1635), zniesiono opłatę skarbową od weksli. za weksel zwrotny. Jeżeli weksel zwrotny wystawia posiadacz wekslu, wysokość sumy wekslowej oznaczona będzie podług kursu wekslu za okazaniem, przekazanego z miejsca płatności wekslu pierwotnego na miejsce zamieszkania zobowiązanego zwrotnie. Jeżeli weksel zwrotny wystawia indosant, wysokość sumy wekslowej oznaczona będzie podług kursu wekslu za okazaniem, przekazanego z miejsca zamieszkania wystawcy wekslu zwrotnego na miejsce zamieszkania zobowiązanego zwrotnie."
     },
     {
       "provision_ref": "art53",
@@ -331,13 +499,13 @@
       "provision_ref": "art54",
       "section": "54",
       "title": "Art. 54",
-      "content": "Jeżeli przedstawienie wekslu albo protest nie mogą być dokonane w terminach przepisanych spowodu przeszkody nie do przezwyciężenia (ustawowego przepisu któregokolwiek państwa albo innego wypadku siły wyższej), terminy te ulegają przedłużeniu. Posiadacz obowiązany jest zawiadomić bez zwłoki swego indosanta o wypadku siły wyższej i o tem zawiadomieniu zaznaczyć na wekslu lub na przedłużku z dodaniem daty i swego podpisu; pozatem stosuje się przepisy art. 45. Po ustaniu siły wyższej posiadacz wekslu powinien bez zwłoki przedstawić weksel do przyjęcia lub do zapłaty, a w razie potrzeby dokonać protestu. Jeżeli siła wyższa trwa dłużej niż trzydzieści dni, licząc od terminu płatności, można wykonać zwrotne poszukiwanie bez przedstawienia wekslu i bez protestu. Co do weksli, płatnych za okazaniem lub w pewien czas po okazaniu, termin trzydziestodniowy biegnie od dnia, w którym posiadacz zawiadomił swego indosanta o wypadku siły wyższej, chociażby nawet zawiadomienie takie nastąpiło jeszcze przed upływem terminu do przedstawienia; co do weksli, płatnych w pewien czas po okazaniu, termin trzydziestodniowy przedłuża się o czas, w jaki po okazaniu weksel był płatny. Okoliczności czysto osobistych, dotyczących posiadacza wekslu lub osoby, której zlecił on przedstawienie wekslu lub dokonanie protestu, nie uważa się za wypadki siły wyższej. Dział VIII Wyręczenie 1. Przepisy ogólne"
+      "content": "Jeżeli przedstawienie wekslu albo protest nie mogą być dokonane w terminach przepisanych spowodu przeszkody nie do przezwyciężenia (ustawowego przepisu któregokolwiek państwa albo innego wypadku siły wyższej), terminy te ulegają przedłużeniu. Posiadacz obowiązany jest zawiadomić bez zwłoki swego indosanta o wypadku siły wyższej i o tem zawiadomieniu zaznaczyć na wekslu lub na przedłużku z dodaniem daty i swego podpisu; pozatem stosuje się przepisy art. 45. Po ustaniu siły wyższej posiadacz wekslu powinien bez zwłoki przedstawić weksel do przyjęcia lub do zapłaty, a w razie potrzeby dokonać protestu. Jeżeli siła wyższa trwa dłużej niż trzydzieści dni, licząc od terminu płatności, można wykonać zwrotne poszukiwanie bez przedstawienia wekslu i bez protestu. Co do weksli, płatnych za okazaniem lub w pewien czas po okazaniu, termin trzydziestodniowy biegnie od dnia, w którym posiadacz zawiadomił swego indosanta o wypadku siły wyższej, chociażby nawet zawiadomienie takie nastąpiło jeszcze przed upływem terminu do przedstawienia; co do weksli, płatnych w pewien czas po okazaniu, termin trzydziestodniowy przedłuża się o czas, w jaki po okazaniu weksel był płatny. Okoliczności czysto osobistych, dotyczących posiadacza wekslu lub osoby, której zlecił on przedstawienie wekslu lub dokonanie protestu, nie uważa się za wypadki siły wyższej."
     },
     {
       "provision_ref": "art55",
       "section": "55",
       "title": "Art. 55",
-      "content": "Wystawca, indosant lub poręczyciel mogą wskazać osobę, która ma przyjąć albo zapłacić weksel w potrzebie. Weksel można pod warunkami niżej określonemi przyjąć lub zapłacić przez wyręczenie na rzecz któregokolwiek dłużnika, przeciw któremu może być wykonywane zwrotne poszukiwanie. Każda osoba trzecia, nawet trasat lub osoba, już zobowiązana z wekslu, z wyjątkiem akceptanta, mogą być wyręczycielami. O wyręczeniu wyręczyciel zawiadomi w ciągu dwóch dni powszednich osobę, którą wyręcza. Jeżeli terminu nie zachowa, odpowiada za szkodę spowodowaną przez swoje niedbalstwo, tylko do sumy, na jaką weksel jest wystawiony. 2. Przyjęcie przez wyręczenie"
+      "content": "Wystawca, indosant lub poręczyciel mogą wskazać osobę, która ma przyjąć albo zapłacić weksel w potrzebie. Weksel można pod warunkami niżej określonemi przyjąć lub zapłacić przez wyręczenie na rzecz któregokolwiek dłużnika, przeciw któremu może być wykonywane zwrotne poszukiwanie. Każda osoba trzecia, nawet trasat lub osoba, już zobowiązana z wekslu, z wyjątkiem akceptanta, mogą być wyręczycielami. O wyręczeniu wyręczyciel zawiadomi w ciągu dwóch dni powszednich osobę, którą wyręcza. Jeżeli terminu nie zachowa, odpowiada za szkodę, spowodowaną przez swoje niedbalstwo, tylko do sumy, na jaką weksel jest wystawiony."
     },
     {
       "provision_ref": "art56",
@@ -355,7 +523,7 @@
       "provision_ref": "art58",
       "section": "58",
       "title": "Art. 58",
-      "content": "Akceptant przez wyręczenie odpowiada wobec posiadacza oraz indosantów, następujących po wyręczonym, tak samo, jak ostatni. Pomimo przyjęcia przez wyręczenie wyręczony i jego poprzednicy mogą za zwrotem sumy, oznaczonej w art. 48, żądać od posiadacza wydania wekslu oraz protestu i rachunku pokwitowanego, jeżeli je sporządzono. 3. Zapłata przez wyręczenie"
+      "content": "Akceptant przez wyręczenie odpowiada wobec posiadacza oraz indosantów, następujących po wyręczonym, tak samo, jak ostatni. Pomimo przyjęcia przez wyręczenie wyręczony i jego poprzednicy mogą za zwrotem sumy, oznaczonej w art. 48, żądać od posiadacza wydania wekslu oraz protestu i rachunku pokwitowanego, jeżeli je sporządzono."
     },
     {
       "provision_ref": "art59",
@@ -367,7 +535,7 @@
       "provision_ref": "art60",
       "section": "60",
       "title": "Art. 60",
-      "content": "Jeżeli weksel przyjęty przez wyręczenie osoby, mające zamieszkanie w miejscu płatności, albo jeżeli osoby, mające zamieszkanie w tem samem miejscu, wskazano jako mające płacić w potrzebie, posiadacz przedstawi weksel wszystkim tym osobom i w razie nieuiszczenia zapłaty przez wyręczenie, dokona protestu spowodu niezapłacenia najpóźniej nazajutrz po ostatnim dniu, przepisanym dla protestu. W razie niedokonania protestu w tym czasie ten, kto wskazał adres w potrzebie lub na czyją rzecz nastąpiło przyjęcie, tudzież następujący po nim indosanci wolni są od odpowiedzialności."
+      "content": "Jeżeli weksel przyjęły przez wyręczenie osoby, mające zamieszkanie w miejscu płatności, albo jeżeli osoby, mające zamieszkanie w tem samem miejscu, wskazano jako mające płacić w potrzebie, posiadacz przedstawi weksel wszystkim tym osobom i w razie nieuiszczenia zapłaty przez wyręczenie, dokona protestu spowodu niezapłacenia najpóźniej nazajutrz po ostatnim dniu, przepisanym dla protestu. W razie niedokonania protestu w tym czasie ten, kto wskazał adres w potrzebie lub na czyją rzecz nastąpiło przyjęcie, tudzież następujący po nim indosanci wolni są od odpowiedzialności."
     },
     {
       "provision_ref": "art61",
@@ -385,7 +553,7 @@
       "provision_ref": "art63",
       "section": "63",
       "title": "Art. 63",
-      "content": "Płacący przez wyręczenie nabywa prawa, wynikające z wekslu, przeciw wyręczonemu i przeciw tym, którzy wobec wyręczonego odpowiadają z wekslu. Nie może on jednak dalej wekslu indosować. Indosanci, następujący po wyręczonym, są zwolnieni. W razie zbiegu kilku ofiarujących zapłatę przez wyręczenie, pierwszeństwo należy się temu, kto przez zapłatę zwalnia największą liczbę dłużników. Kto wbrew temu przepisowi, mimo świadomości stanu rzeczy, płaci przez wyręczenie, traci prawo zwrotnego poszukiwania przeciw tym, którzy byliby zwolnieni. Dział IX Wtóropisy i odpisy wekslu 1. Wtóropisy"
+      "content": "Płacący przez wyręczenie nabywa prawa, wynikające z wekslu, przeciw wyręczonemu i przeciw tym, którzy wobec wyręczonego odpowiadają z wekslu. Nie może on jednak dalej wekslu indosować. Indosanci, następujący po wyręczonym, są zwolnieni. W razie zbiegu kilku ofiarujących zapłatę przez wyręczenie, pierwszeństwo należy się temu, kto przez zapłatę zwalnia największą liczbę dłużników. Kto wbrew temu przepisowi, mimo świadomości stanu rzeczy, płaci przez wyręczenie, traci prawo zwrotnego poszukiwania przeciw tym, którzy byliby zwolnieni."
     },
     {
       "provision_ref": "art64",
@@ -403,7 +571,19 @@
       "provision_ref": "art66",
       "section": "66",
       "title": "Art. 66",
-      "content": "Kto przesyła jeden egzemplarz do przyjęcia, powinien oznaczyć na innych egzemplarzach nazwisko osoby, u której ów egzemplarz się znajduje. Osoba ta jest obowiązana wydać go prawnemu posiadaczowi innego egzemplarza. Jeżeli wydania odmówi, posiadacz może wykonać zwrotne poszukiwanie tylko po stwierdzeniu przez protest: 1) że egzemplarz, przesłany do przyjęcia, mimo żądania nie został mu wydany; 2) że na inny egzemplarz nie można było uzyskać przyjęcia lub zapłaty. 2. Odpisy"
+      "content": "Kto przesyła jeden egzemplarz do przyjęcia, powinien oznaczyć na innych egzemplarzach nazwisko osoby, u której ów egzemplarz się znajduje. Osoba ta jest obowiązana wydać go prawnemu posiadaczowi innego egzemplarza. Jeżeli wydania odmówi, posiadacz może wykonać zwrotne poszukiwanie tylko po stwierdzeniu przez protest: że egzemplarz, przesłany do przyjęcia, mimo żądania nie został mu wydany; że na inny egzemplarz nie można było uzyskać przyjęcia lub zapłaty."
+    },
+    {
+      "provision_ref": "art66p1",
+      "section": "66",
+      "title": "Art. 66 pkt 1",
+      "content": "Kto przesyła jeden egzemplarz do przyjęcia, powinien oznaczyć na innych egzemplarzach nazwisko osoby, u której ów egzemplarz się znajduje. Osoba ta jest obowiązana wydać go prawnemu posiadaczowi innego egzemplarza. Jeżeli wydania odmówi, posiadacz może wykonać zwrotne poszukiwanie tylko po stwierdzeniu przez protest: że egzemplarz, przesłany do przyjęcia, mimo żądania nie został mu wydany;"
+    },
+    {
+      "provision_ref": "art66p2",
+      "section": "66",
+      "title": "Art. 66 pkt 2",
+      "content": "Kto przesyła jeden egzemplarz do przyjęcia, powinien oznaczyć na innych egzemplarzach nazwisko osoby, u której ów egzemplarz się znajduje. Osoba ta jest obowiązana wydać go prawnemu posiadaczowi innego egzemplarza. Jeżeli wydania odmówi, posiadacz może wykonać zwrotne poszukiwanie tylko po stwierdzeniu przez protest: że na inny egzemplarz nie można było uzyskać przyjęcia lub zapłaty."
     },
     {
       "provision_ref": "art67",
@@ -415,13 +595,13 @@
       "provision_ref": "art68",
       "section": "68",
       "title": "Art. 68",
-      "content": "Odpis powinien wskazywać osobę, u której znajduje się oryginał. Jest ona zobowiązana wydać ten oryginał prawnemu posiadaczowi odpisu. Jeżeli osoba, u której znajduje się oryginał, odmówi wydania go, posiadacz odpisu może wykonać zwrotne poszukiwanie przeciw indosantom odpisu i przeciw tym, którzy poręczyli na odpisie, dopiero po stwierdzeniu przez protest, że mimo żądania posiadacza odpisu nie wydano mu oryginału. Jeżeli oryginał po ostatnim indosie, umieszczonym przed sporządzeniem odpisu, zawiera wzmiankę „odtąd indos ważny tylko na odpisie” lub inne wyrażenie równoznaczne, późniejszy indos na oryginale jest nieważny. Dział X Zmiany"
+      "content": "Odpis powinien wskazywać osobę, u której znajduje się oryginał. Jest ona zobowiązana wydać ten oryginał prawnemu posiadaczowi odpisu. Jeżeli osoba, u której znajduje się oryginał, odmówi wydania go, posiadacz odpisu może wykonać zwrotne poszukiwanie przeciw indosantom odpisu i przeciw tym, którzy poręczyli na odpisie, dopiero po stwierdzeniu przez protest, że mimo żądania posiadacza odpisu nie wydano mu oryginału. Jeżeli oryginał po ostatnim indosie, umieszczonym przed sporządzeniem odpisu, zawiera wzmiankę „odtąd indos ważny tylko na odpisie” lub inne wyrażenie równoznaczne, późniejszy indos na oryginale jest nieważny."
     },
     {
       "provision_ref": "art69",
       "section": "69",
       "title": "Art. 69",
-      "content": "W razie zmiany tekstu wekslu osoby, które weksel podpisały po dokonaniu zmiany, odpowiadają według brzmienia tekstu zmienionego; osoby, które weksel poprzednio podpisały, odpowiadają według brzmienia tekstu pierwotnego. Dział XI Przedawnienie"
+      "content": "W razie zmiany tekstu wekslu osoby, które weksel podpisały po dokonaniu zmiany, odpowiadają według brzmienia tekstu zmienionego; osoby, które weksel poprzednio podpisały, odpowiadają według brzmienia tekstu pierwotnego."
     },
     {
       "provision_ref": "art70",
@@ -433,7 +613,7 @@
       "provision_ref": "art71",
       "section": "71",
       "title": "Art. 71",
-      "content": "Prawo powszechne określa przyczyny przerwania i zawieszenia biegu przedawnienia roszczeń wekslowych. Przerwanie przedawnienia ma skutek jedynie wobec tego dłużnika wekslowego, którego dotyczy przyczyna przerwania. Dział XII Przepisy ogólne"
+      "content": "Prawo powszechne określa przyczyny przerwania i zawieszenia biegu przedawnienia roszczeń wekslowych. Przerwanie przedawnienia ma skutek jedynie wobec tego dłużnika wekslowego, którego dotyczy przyczyna przerwania."
     },
     {
       "provision_ref": "art72",
@@ -457,13 +637,13 @@
       "provision_ref": "art75",
       "section": "75",
       "title": "Art. 75",
-      "content": "Za niepiśmiennych lub niemogących pisać może podpisać na wekslu inna osoba, której podpis winien być uwierzytelniony przez notarjusza lub władze gminne z zaznaczeniem, że osoba ta podpisała się na życzenie niepiśmiennego lub niemogącego pisać. Uwierzytelnienie winno być umieszczone na wekslu lub na przedłużku. Dział XIII Roszczenie z tytułu niesłusznego zbogacenia"
+      "content": "Za niepiśmiennych lub niemogących pisać może podpisać się na wekslu inna osoba, której podpis winien być uwierzytelniony przez notarjusza lub władzę gminną z zaznaczeniem, że osoba ta podpisała się na życzenie niepiśmiennego lub niemogącego pisać. Uwierzytelnienie winno być umieszczone na wekslu lub na przedłużku."
     },
     {
       "provision_ref": "art76",
       "section": "76",
       "title": "Art. 76",
-      "content": "Wystawca i akceptant, których zobowiązanie wekslowe wygasło wskutek przedawnienia lub zaniedbania czynności zachowawczych, są zobowiązani wobec posiadacza wekslu, o ile z jego szkodą niesłusznie się zbogacili. Roszczenie z tytułu niesłusznego zbogacenia ulega przedawnieniu z upływem lat trzech, licząc od dnia wygaśnięcia zobowiązania wekslowego. Dział XIV Kolizja ustaw"
+      "content": "Wystawca i akceptant, których zobowiązanie wekslowe wygasło wskutek przedawnienia lub zaniedbania czynności zachowawczych, są zobowiązani wobec posiadacza wekslu, o ile z jego szkodą niesłusznie się zbogacili. Roszczenie z tytułu niesłusznego zbogacenia ulega przedawnieniu z upływem lat trzech, licząc od dnia wygaśnięcia zobowiązania wekslowego."
     },
     {
       "provision_ref": "art77",
@@ -505,13 +685,13 @@
       "provision_ref": "art83",
       "section": "83",
       "title": "Art. 83",
-      "content": "Formę i terminy protestu, tudzież formę innych czynności, potrzebnych do wykonania lub do zachowania praw wekslowych, ocenia się podług ustaw kraju, w którym protest ma być dokonany lub czynność przedsięwzięta."
+      "content": "Formę i terminy protestu, tudzież formę innych czynności, potrzebnych do wykonania lub do zachowania praw wekslowych , ocenia się podług ustaw kraju, w którym protest ma być dokonany lub czynność przedsięwzięta."
     },
     {
       "provision_ref": "art84",
       "section": "84",
       "title": "Art. 84",
-      "content": "Prawo kraju miejsca płatności wekslu określa środki, jakie należy przedsięwziąć w razie zaginięcia lub kradzieży wekslu. Dział XV Protest"
+      "content": "Prawo kraju miejsca płatności wekslu określa środki, jakie należy przedsięwziąć w razie zaginięcia lub kradzieży wekslu."
     },
     {
       "provision_ref": "art85",
@@ -523,7 +703,37 @@
       "provision_ref": "art86",
       "section": "86",
       "title": "Art. 86",
-      "content": "Protest zawiera: 1) nazwisko osoby, która żąda protestu, oraz osoby, przeciw której protest ma być dokonany; 2) stwierdzenie, że osoba, przeciw której protest ma być dokonany, nie uczyniła zadość wezwaniu, skierowanemu do niej, a nadto oświadczenie, złożone przez tę osobę, albo stwierdzenie, że jej nie zastano albo że nie można było odnaleźć lokalu jej przedsiębiorstwa lub mieszkania; 3) oznaczenie miejsca i dnia, w których wezwania dokonano lub bezskutecznie starano się go dokonać; 4) oznaczenie, ile egzemplarzy wekslu przedstawiono i jakie; 5) podpis organu, sporządzającego protest, pieczęć urzędową i numer protestu. Jeżeli trasat zażąda, aby mu weksel nazajutrz przedstawiono ponownie do przyjęcia, należy o tem zaznaczyć w proteście."
+      "content": "Protest zawiera: nazwisko osoby, która żąda protestu, oraz osoby, przeciw której protest ma być dokonany; stwierdzenie, że osoba, przeciw której protest ma być dokonany, nie uczyniła zadość wezwaniu, skierowanemu do niej, a nadto oświadczenie, złożone przez tę osobę, albo stwierdzenie, że jej nie zastano albo że nie można było odnaleźć lokalu jej przedsiębiorstwa lub mieszkania; oznaczenie miejsca i dnia, w których wezwania dokonano lub bezskutecznie starano się go dokonać; oznaczenie, ile egzemplarzy wekslu przedstawiono i jakie; podpis organu, sporządzającego protest, pieczęć urzędową i numer protestu. Jeżeli trasat zażąda, aby mu weksel nazajutrz przedstawiono ponownie do przyjęcia, należy o tem zaznaczyć w proteście."
+    },
+    {
+      "provision_ref": "art86p1",
+      "section": "86",
+      "title": "Art. 86 pkt 1",
+      "content": "Protest zawiera: nazwisko osoby, która żąda protestu, oraz osoby, przeciw której protest ma być dokonany;"
+    },
+    {
+      "provision_ref": "art86p2",
+      "section": "86",
+      "title": "Art. 86 pkt 2",
+      "content": "Protest zawiera: stwierdzenie, że osoba, przeciw której protest ma być dokonany, nie uczyniła zadość wezwaniu, skierowanemu do niej, a nadto oświadczenie, złożone przez tę osobę, albo stwierdzenie, że jej nie zastano albo że nie można było odnaleźć lokalu jej przedsiębiorstwa lub mieszkania;"
+    },
+    {
+      "provision_ref": "art86p3",
+      "section": "86",
+      "title": "Art. 86 pkt 3",
+      "content": "Protest zawiera: oznaczenie miejsca i dnia, w których wezwania dokonano lub bezskutecznie starano się go dokonać;"
+    },
+    {
+      "provision_ref": "art86p4",
+      "section": "86",
+      "title": "Art. 86 pkt 4",
+      "content": "Protest zawiera: oznaczenie, ile egzemplarzy wekslu przedstawiono i jakie;"
+    },
+    {
+      "provision_ref": "art86p5",
+      "section": "86",
+      "title": "Art. 86 pkt 5",
+      "content": "Protest zawiera: podpis organu, sporządzającego protest, pieczęć urzędową i numer protestu."
     },
     {
       "provision_ref": "art87",
@@ -577,13 +787,13 @@
       "provision_ref": "art95",
       "section": "95",
       "title": "Art. 95",
-      "content": "Minister Sprawiedliwości może w drodze rozporządzenia, wydanego w porozumieniu z Ministrem Poczt i Telegrafów, wprowadzić sporządzanie przez urzędy pocztowe protestów spowodu niezapłacenia wekslu; do protestów takich stosuje się przepisy art. 86-89, 91, 92 i 94. Dział XVI Weksle zaginione"
+      "content": "(uchylony)"
     },
     {
       "provision_ref": "art96",
       "section": "96",
       "title": "Art. 96",
-      "content": "Ten, komu weksel zaginął, może żądać od sądu grodzkiego miejsca płatności wekslu uznania go za umorzony. We wniosku należy podać istotną treść wekslu oraz uprawdopodobnić jego utratę, jak również interes prawny, który uzasadnia żądanie umorzenia. Sąd przez ogłoszenie w Monitorze Polskim wezwie posiadacza zaginionego wekslu do zgłoszenia się w ciągu sześćdziesięciu dni i do okazania wekslu sądowi. Termin ten biegnie od dnia płatności wekslu, a gdyby wniosek zgłoszono po terminie płatności lub gdyby termin płatności wekslu nie był oznaczony - od dnia ogłoszenia. Końcowy dzień terminu powinien być oznaczony w ogłoszeniu według daty kalendarza. Jeżeli w ciągu terminu, oznaczonego w wezwaniu, nikt nie zgłosi się z wekslem, sąd wyda orzeczenie, uznające weksel za umorzony. Jeżeli natomiast posiadacz wekslu zgłosi się przed wydaniem orzeczenia, sąd umorzy dalsze postępowanie po przesłuchaniu interesowanych i po okazaniu wekslu żądającemu umorzenia. Zarówno o wszczęciu postępowania, jako też o jego wyniku sąd zawiadomi trasata i wszystkich dłużników wekslowych, wskazanych przez żądającego umorzenia wekslu."
+      "content": "Ten, komu weksel zaginął, może żądać od sądu rejonowego miejsca płatności wekslu uznania go za umorzony. We wniosku należy podać istotną treść wekslu oraz uprawdopodobnić jego utratę, jak również interes prawny, który uzasadnia żądanie umorzenia. Sąd przez ogłoszenie w Monitorze Sądowym i Gospodarczym wezwie posiadacza zaginionego wekslu do zgłoszenia się w ciągu sześćdziesięciu dni i do okazania wekslu sądowi. Termin ten biegnie od dnia płatności wekslu, a gdyby wniosek zgłoszono po terminie płatności lub gdyby termin płatności wekslu nie był oznaczony - od dnia ogłoszenia. Końcowy dzień terminu powinien być oznaczony w ogłoszeniu według daty kalendarza. Jeżeli w ciągu terminu, oznaczonego w wezwaniu, nikt nie zgłosi się z wekslem, sąd wyda orzeczenie, uznające weksel za umorzony. Jeżeli natomiast posiadacz wekslu zgłosi się przed wydaniem orzeczenia, sąd umorzy dalsze postępowanie po przesłuchaniu interesowanych i po okazaniu wekslu żądającemu umorzenia. Zarówno o wszczęciu postępowania, jako też o jego wyniku sąd zawiadomi trasata i wszystkich dłużników wekslowych, wskazanych przez żądającego umorzenia wekslu."
     },
     {
       "provision_ref": "art97",
@@ -607,13 +817,55 @@
       "provision_ref": "art100",
       "section": "100",
       "title": "Art. 100",
-      "content": "Na podstawie orzeczenia, uznającego weksel za umorzony, można wykonywać wszystkie prawa z wekslu. Tytuł II Weksel własny"
+      "content": "Na podstawie orzeczenia, uznającego weksel za umorzony, można wykonywać wszystkie prawa z wekslu."
     },
     {
       "provision_ref": "art101",
       "section": "101",
       "title": "Art. 101",
-      "content": "Weksel własny zawiera: 1) nazwę „weksel” w samym tekście dokumentu, w języku, w jakim go wystawiono; 2) przyrzeczenie bezwarunkowe zapłacenia oznaczonej sumy pieniężnej; 3) oznaczenie terminu płatności; 4) oznaczenie miejsca płatności; 5) nazwisko osoby, na której rzecz lub na której zlecenie zapłata ma być dokonana; 6) oznaczenie daty i miejsca wystawienia wekslu; 7) podpis wystawcy wekslu."
+      "content": "Weksel własny zawiera: nazwę „weksel” w samym tekście dokumentu, w języku, w jakim go wystawiono; przyrzeczenie bezwarunkowe zapłacenia oznaczonej sumy pieniężnej; oznaczenie terminu płatności; oznaczenie miejsca płatności; nazwisko osoby, na której rzecz lub na której zlecenie zapłata ma być dokonana; oznaczenie daty i miejsca wystawienia wekslu; podpis wystawcy wekslu."
+    },
+    {
+      "provision_ref": "art101p1",
+      "section": "101",
+      "title": "Art. 101 pkt 1",
+      "content": "Weksel własny zawiera: nazwę „weksel” w samym tekście dokumentu, w języku, w jakim go wystawiono;"
+    },
+    {
+      "provision_ref": "art101p2",
+      "section": "101",
+      "title": "Art. 101 pkt 2",
+      "content": "Weksel własny zawiera: przyrzeczenie bezwarunkowe zapłacenia oznaczonej sumy pieniężnej;"
+    },
+    {
+      "provision_ref": "art101p3",
+      "section": "101",
+      "title": "Art. 101 pkt 3",
+      "content": "Weksel własny zawiera: oznaczenie terminu płatności;"
+    },
+    {
+      "provision_ref": "art101p4",
+      "section": "101",
+      "title": "Art. 101 pkt 4",
+      "content": "Weksel własny zawiera: oznaczenie miejsca płatności;"
+    },
+    {
+      "provision_ref": "art101p5",
+      "section": "101",
+      "title": "Art. 101 pkt 5",
+      "content": "Weksel własny zawiera: nazwisko osoby, na której rzecz lub na której zlecenie zapłata ma być dokonana;"
+    },
+    {
+      "provision_ref": "art101p6",
+      "section": "101",
+      "title": "Art. 101 pkt 6",
+      "content": "Weksel własny zawiera: oznaczenie daty i miejsca wystawienia wekslu;"
+    },
+    {
+      "provision_ref": "art101p7",
+      "section": "101",
+      "title": "Art. 101 pkt 7",
+      "content": "Weksel własny zawiera: podpis wystawcy wekslu."
     },
     {
       "provision_ref": "art102",
@@ -625,25 +877,25 @@
       "provision_ref": "art103",
       "section": "103",
       "title": "Art. 103",
-      "content": "Do wekslu własnego stosuje się przepisy o wekslu trasowanym, o ile z istotą wekslu własnego nie zostają w sprzeczności i dotyczą: indosu (art. 11-20); płatności (art. 33-37); zapłaty (art. 38-42); zwrotnego poszukiwania spowodu niezapłacenia (art. 43-50, 52-54); zapłaty przez wyręczenie (art. 55, 59-63); odpisów (art. 67 i 68); zmian (art. 69); przedawnienia (art. 70 i 71); dni świątecznych, obliczania terminów i zakazu dni ulgowych (art. 72, 73 i 74); sposobu uwierzytelniania podpisów osób niepiśmiennych lub niemogących pisać (art. 75); roszczenia z tytułu niesłusznego zbogacenia (art. 76); kolizji ustaw (art. 77-80 i 82-84); weksli zaginionych (art. 96-100). Również stosuje się do wekslu własnego przepisy o wekslu płatnym u trzeciego lub w innej miejscowości, niż miejsce zamieszkania trasata (art. 4 i 27), o zastrzeżeniu odsetek (art. 5), o różnicach w oznaczeniu sumy wekslowej (art. 6), o skutkach podpisu, złożonego w warunkach, przewidzianych w art. 7, o skutkach podpisu osoby, działającej bez pełnomocnictwa albo przekraczającej jego granice (art. 8), o wekslu in blanco (art. 10) oraz o protestach (art. 85-95) z tą różnicą, że protest ma być dokonany przeciw wystawcy. Do wekslu własnego stosuje się również przepisy o poręczeniu wekslowem (art. 30-32); w przypadku, przewidzianym w ustępie ostatnim art. 31, jeżeli poręczyciel nie wskazał, za kogo poręcza, uważa się, że poręczenie dał za wystawcę."
+      "content": "Do wekslu własnego stosuje się przepisy o wekslu trasowanym, o ile z istotą wekslu własnego nie zostają w sprzeczności i dotyczą: indosu (art. 11-20); płatności (art. 33-37); zapłaty (art. 38-42); zwrotnego poszukiwania spowodu niezapłacenia (art. 43-50, 52-54); zapłaty przez wyręczenie (art. 55, 59-63); odpisów (art. 67 i 68); zmian (art. 69); przedawnienia (art. 70 i 71); dni świątecznych, obliczania terminów i zakazu dni ulgowych (art. 72, 73 i 74); sposobu uwierzytelniania podpisów osób niepiśmiennych lub niemogących pisać (art. 75); roszczenia z tytułu niesłusznego zbogacenia (art. 76); kolizji ustaw (art. 77-80 i 82-84); weksli zaginionych (art. 96-100). Również stosuje się do wekslu własnego przepisy o wekslu płatnym u trzeciego lub w innej miejscowości, niż miejsce zamieszkania trasata (art. 4 i 27), o zastrzeżeniu odsetek (art. 5), o różnicach w oznaczeniu sumy wekslowej (art. 6), o skutkach podpisu, złożonego w warunkach, przewidzianych w art. 7, o skutkach podpisu osoby, działającej bez pełnomocnictwa albo przekraczającej jego granice (art. 8), o wekslu in blanco (art. 10) oraz o protestach (art. 85-94) z tą różnicą, że protest ma być dokonany przeciw wystawcy. Do wekslu własnego stosuje się również przepisy o poręczeniu wekslowem (art. 30-32); w przypadku, przewidzianym w ustępie ostatnim art. 31, jeżeli poręczyciel nie wskazał, za kogo poręcza, uważa się, że poręczenie dał za wystawcę."
     },
     {
       "provision_ref": "art104",
       "section": "104",
       "title": "Art. 104",
-      "content": "Odpowiedzialność wystawcy wekslu własnego jest taka sama, jak akceptanta wekslu trasowanego. Weksle własne, płatne w pewien czas po okazaniu, powinny być w terminach, oznaczonych w art. 23, przedstawione celem zaznaczenia wizy przez wystawcę. Termin po okazaniu biegnie od daty wizy, podpisanej przez wystawcę na wekslu. Jeżeli wystawca wzbrania się umieścić wizę lub zaopatrzyć ją datą, odmowę należy stwierdzić protestem (art. 25); od daty protestu biegnie termin, w jaki po okazaniu weksel był płatny. Tytuł III Przepisy końcowe i przejściowe"
+      "content": "Odpowiedzialność wystawcy wekslu własnego jest taka sama, jak akceptanta wekslu trasowanego. Weksle własne, płatne w pewien czas po okazaniu, powinny być w terminach, oznaczonych w art. 23, przedstawione celem zaznaczenia wizy przez wystawcę. Termin po okazaniu biegnie od daty wizy, podpisanej przez wystawcę na wekslu. Jeżeli wystawca wzbrania się umieścić wizę lub zaopatrzyć ją datą, odmowę należy stwierdzić protestem (art. 25); od daty protestu biegnie termin, w jaki po okazaniu weksel był płatny."
     },
     {
       "provision_ref": "art105",
       "section": "105",
       "title": "Art. 105",
-      "content": "Z dniem wejścia w życie prawa niniejszego traci moc rozporządzenie Prezydenta Rzeczypospolitej z dnia 14 listopada 1924 r. o prawie wekslowem ( Dz. U. R. P. Nr 100, poz. 926 ) wraz z wydanemi na jego podstawie rozporządzeniami."
+      "content": "Z dniem wejścia w życie prawa niniejszego traci moc rozporządzenie Prezydenta Rzeczypospolitej z dnia 14 listopada 1924 r. o prawie wekslowem wraz z wydanemi na jego podstawie rozporządzeniami."
     },
     {
       "provision_ref": "art106",
       "section": "106",
       "title": "Art. 106",
-      "content": "Ilekroć przepisy prawne powołują się na dotychczasowe prawo wekslowe, stosuje się odpowiednio przepisy prawa niniejszego."
+      "content": "Ilekroć przepisy prawne powołują się na dotychczasowe prawo wekslowe , stosuje się odpowiednio przepisy prawa niniejszego."
     },
     {
       "provision_ref": "art107",
@@ -655,7 +907,7 @@
       "provision_ref": "art108",
       "section": "108",
       "title": "Art. 108",
-      "content": "Pozostają w mocy przepisy rozporządzenia Prezydenta Rzeczypospolitej z dnia 12 czerwca 1934 r. o wierzytelnościach w walutach zagranicznych ( Dz. U. R. P. Nr 59, poz. 509 ) , z wyjątkiem przepisów art. 2 ust. (3) i art. 7 pkt 2), które tracą moc w stosunku do weksli, wystawionych po wejściu w życie prawa niniejszego."
+      "content": "Pozostają w mocy przepisy rozporządzenia Prezydenta Rzeczypospolitej z dnia 12 czerwca 1934 r. o wierzytelnościach w walutach zagranicznych , z wyjątkiem przepisów art. 2 ust. (3) i art. 7 pkt. 2, które tracą moc w stosunku do weksli, wystawionych po wejściu w życie prawa niniejszego."
     },
     {
       "provision_ref": "art109",
@@ -673,8 +925,52 @@
       "provision_ref": "art111",
       "section": "111",
       "title": "Art. 111",
-      "content": "Ustawa niniejsza wchodzi w życie z dniem 1 lipca 1936 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"titl_I\",\"symbol\": \"titl_I\",\"type\": \"titl\",\"name\": \"I\",\"title\": \"Tytuł I - Weksel trasowany\",\"children\": [{\"id\": \"titl_I-bran_I\",\"symbol\": \"bran_I\",\"type\": \"bran\",\"name\": \"I\",\"title\": \"Dział I - Wystawienie i forma weksla\",\"children\": [{\"id\": \"titl_I-bran_I-arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"titl_I-bran_I-arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"titl_I-bran_I-arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"titl_I-bran_I-arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"titl_I-bran_I-arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"titl_I-bran_I-arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"titl_I-bran_I-arti_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"titl_I-bran_I-arti_1-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"titl_I-bran_I-arti_1-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"}]},{\"id\": \"titl_I-bran_I-arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"titl_I-bran_I-arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"titl_I-bran_I-arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"titl_I-bran_I-arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"titl_I-bran_I-arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"titl_I-bran_I-arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"titl_I-bran_I-arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"titl_I-bran_I-arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"titl_I-bran_I-arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"}]},{\"id\": \"titl_I-bran_II\",\"symbol\": \"bran_II\",\"type\": \"bran\",\"name\": \"II\",\"title\": \"Dział II - Indos\",\"children\": [{\"id\": \"titl_I-bran_II-arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"titl_I-bran_II-arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"},{\"id\": \"titl_I-bran_II-arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"titl_I-bran_II-arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\",\"children\": [{\"id\": \"titl_I-bran_II-arti_14-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"titl_I-bran_II-arti_14-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"titl_I-bran_II-arti_14-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"titl_I-bran_II-arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\"},{\"id\": \"titl_I-bran_II-arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\"},{\"id\": \"titl_I-bran_II-arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\"},{\"id\": \"titl_I-bran_II-arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\"},{\"id\": \"titl_I-bran_II-arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\"},{\"id\": \"titl_I-bran_II-arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\"}]},{\"id\": \"titl_I-bran_III\",\"symbol\": \"bran_III\",\"type\": \"bran\",\"name\": \"III\",\"title\": \"Dział III - Przyjęcie\",\"children\": [{\"id\": \"titl_I-bran_III-arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\"},{\"id\": \"titl_I-bran_III-arti_22\",\"symbol\": \"arti_22\",\"type\": \"arti\",\"name\": \"22\",\"title\": \"Art. 22.\"},{\"id\": \"titl_I-bran_III-arti_23\",\"symbol\": \"arti_23\",\"type\": \"arti\",\"name\": \"23\",\"title\": \"Art. 23.\"},{\"id\": \"titl_I-bran_III-arti_24\",\"symbol\": \"arti_24\",\"type\": \"arti\",\"name\": \"24\",\"title\": \"Art. 24.\"},{\"id\": \"titl_I-bran_III-arti_25\",\"symbol\": \"arti_25\",\"type\": \"arti\",\"name\": \"25\",\"title\": \"Art. 25.\"},{\"id\": \"titl_I-bran_III-arti_26\",\"symbol\": \"arti_26\",\"type\": \"arti\",\"name\": \"26\",\"title\": \"Art. 26.\"},{\"id\": \"titl_I-bran_III-arti_27\",\"symbol\": \"arti_27\",\"type\": \"arti\",\"name\": \"27\",\"title\": \"Art. 27.\"},{\"id\": \"titl_I-bran_III-arti_28\",\"symbol\": \"arti_28\",\"type\": \"arti\",\"name\": \"28\",\"title\": \"Art. 28.\"},{\"id\": \"titl_I-bran_III-arti_29\",\"symbol\": \"arti_29\",\"type\": \"arti\",\"name\": \"29\",\"title\": \"Art. 29.\"}]},{\"id\": \"titl_I-bran_IV\",\"symbol\": \"bran_IV\",\"type\": \"bran\",\"name\": \"IV\",\"title\": \"Dział IV - Poręczenie wekslowe\",\"children\": [{\"id\": \"titl_I-bran_IV-arti_30\",\"symbol\": \"arti_30\",\"type\": \"arti\",\"name\": \"30\",\"title\": \"Art. 30.\"},{\"id\": \"titl_I-bran_IV-arti_31\",\"symbol\": \"arti_31\",\"type\": \"arti\",\"name\": \"31\",\"title\": \"Art. 31.\"},{\"id\": \"titl_I-bran_IV-arti_32\",\"symbol\": \"arti_32\",\"type\": \"arti\",\"name\": \"32\",\"title\": \"Art. 32.\"}]},{\"id\": \"titl_I-bran_V\",\"symbol\": \"bran_V\",\"type\": \"bran\",\"name\": \"V\",\"title\": \"Dział V - Płatność\",\"children\": [{\"id\": \"titl_I-bran_V-arti_33\",\"symbol\": \"arti_33\",\"type\": \"arti\",\"name\": \"33\",\"title\": \"Art. 33.\"},{\"id\": \"titl_I-bran_V-arti_34\",\"symbol\": \"arti_34\",\"type\": \"arti\",\"name\": \"34\",\"title\": \"Art. 34.\"},{\"id\": \"titl_I-bran_V-arti_35\",\"symbol\": \"arti_35\",\"type\": \"arti\",\"name\": \"35\",\"title\": \"Art. 35.\"},{\"id\": \"titl_I-bran_V-arti_36\",\"symbol\": \"arti_36\",\"type\": \"arti\",\"name\": \"36\",\"title\": \"Art. 36.\"},{\"id\": \"titl_I-bran_V-arti_37\",\"symbol\": \"arti_37\",\"type\": \"arti\",\"name\": \"37\",\"title\": \"Art. 37.\"}]},{\"id\": \"titl_I-bran_VI\",\"symbol\": \"bran_VI\",\"type\": \"bran\",\"name\": \"VI\",\"title\": \"Dział VI - Zapłata\",\"children\": [{\"id\": \"titl_I-bran_VI-arti_38\",\"symbol\": \"arti_38\",\"type\": \"arti\",\"name\": \"38\",\"title\": \"Art. 38.\"},{\"id\": \"titl_I-bran_VI-arti_39\",\"symbol\": \"arti_39\",\"type\": \"arti\",\"name\": \"39\",\"title\": \"Art. 39.\"},{\"id\": \"titl_I-bran_VI-arti_40\",\"symbol\": \"arti_40\",\"type\": \"arti\",\"name\": \"40\",\"title\": \"Art. 40.\"},{\"id\": \"titl_I-bran_VI-arti_41\",\"symbol\": \"arti_41\",\"type\": \"arti\",\"name\": \"41\",\"title\": \"Art. 41.\"},{\"id\": \"titl_I-bran_VI-arti_42\",\"symbol\": \"arti_42\",\"type\": \"arti\",\"name\": \"42\",\"title\": \"Art. 42.\"}]},{\"id\": \"titl_I-bran_VII\",\"symbol\": \"bran_VII\",\"type\": \"bran\",\"name\": \"VII\",\"title\": \"Dział VII - Zwrotne poszukiwanie spowodu nieprzyjęcia lub niezapłacenia\",\"children\": [{\"id\": \"titl_I-bran_VII-arti_43\",\"symbol\": \"arti_43\",\"type\": \"arti\",\"name\": \"43\",\"title\": \"Art. 43.\",\"children\": [{\"id\": \"titl_I-bran_VII-arti_43-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"titl_I-bran_VII-arti_43-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"titl_I-bran_VII-arti_43-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"titl_I-bran_VII-arti_44\",\"symbol\": \"arti_44\",\"type\": \"arti\",\"name\": \"44\",\"title\": \"Art. 44.\"},{\"id\": \"titl_I-bran_VII-arti_45\",\"symbol\": \"arti_45\",\"type\": \"arti\",\"name\": \"45\",\"title\": \"Art. 45.\"},{\"id\": \"titl_I-bran_VII-arti_46\",\"symbol\": \"arti_46\",\"type\": \"arti\",\"name\": \"46\",\"title\": \"Art. 46.\"},{\"id\": \"titl_I-bran_VII-arti_47\",\"symbol\": \"arti_47\",\"type\": \"arti\",\"name\": \"47\",\"title\": \"Art. 47.\"},{\"id\": \"titl_I-bran_VII-arti_48\",\"symbol\": \"arti_48\",\"type\": \"arti\",\"name\": \"48\",\"title\": \"Art. 48.\",\"children\": [{\"id\": \"titl_I-bran_VII-arti_48-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"titl_I-bran_VII-arti_48-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"titl_I-bran_VII-arti_48-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"titl_I-bran_VII-arti_48-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"titl_I-bran_VII-arti_49\",\"symbol\": \"arti_49\",\"type\": \"arti\",\"name\": \"49\",\"title\": \"Art. 49.\",\"children\": [{\"id\": \"titl_I-bran_VII-arti_49-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"titl_I-bran_VII-arti_49-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"titl_I-bran_VII-arti_49-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"titl_I-bran_VII-arti_49-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"titl_I-bran_VII-arti_50\",\"symbol\": \"arti_50\",\"type\": \"arti\",\"name\": \"50\",\"title\": \"Art. 50.\"},{\"id\": \"titl_I-bran_VII-arti_51\",\"symbol\": \"arti_51\",\"type\": \"arti\",\"name\": \"51\",\"title\": \"Art. 51.\"},{\"id\": \"titl_I-bran_VII-arti_52\",\"symbol\": \"arti_52\",\"type\": \"arti\",\"name\": \"52\",\"title\": \"Art. 52.\"},{\"id\": \"titl_I-bran_VII-arti_53\",\"symbol\": \"arti_53\",\"type\": \"arti\",\"name\": \"53\",\"title\": \"Art. 53.\"},{\"id\": \"titl_I-bran_VII-arti_54\",\"symbol\": \"arti_54\",\"type\": \"arti\",\"name\": \"54\",\"title\": \"Art. 54.\"}]},{\"id\": \"titl_I-bran_VIII\",\"symbol\": \"bran_VIII\",\"type\": \"bran\",\"name\": \"VIII\",\"title\": \"Dział VIII - Wyręczenie\",\"children\": [{\"id\": \"titl_I-bran_VIII-none_1\",\"symbol\": \"none_1\",\"type\": \"none\",\"name\": \"1\",\"title\": \"1. - Przepisy ogólne\",\"children\": [{\"id\": \"titl_I-bran_VIII-none_1-arti_55\",\"symbol\": \"arti_55\",\"type\": \"arti\",\"name\": \"55\",\"title\": \"Art. 55.\"}]},{\"id\": \"titl_I-bran_VIII-none_2\",\"symbol\": \"none_2\",\"type\": \"none\",\"name\": \"2\",\"title\": \"2. - Przyjęcie przez wyręczenie\",\"children\": [{\"id\": \"titl_I-bran_VIII-none_2-arti_56\",\"symbol\": \"arti_56\",\"type\": \"arti\",\"name\": \"56\",\"title\": \"Art. 56.\"},{\"id\": \"titl_I-bran_VIII-none_2-arti_57\",\"symbol\": \"arti_57\",\"type\": \"arti\",\"name\": \"57\",\"title\": \"Art. 57.\"},{\"id\": \"titl_I-bran_VIII-none_2-arti_58\",\"symbol\": \"arti_58\",\"type\": \"arti\",\"name\": \"58\",\"title\": \"Art. 58.\"}]},{\"id\": \"titl_I-bran_VIII-none_3\",\"symbol\": \"none_3\",\"type\": \"none\",\"name\": \"3\",\"title\": \"3. - Zapłata przez wyręczenie\",\"children\": [{\"id\": \"titl_I-bran_VIII-none_3-arti_59\",\"symbol\": \"arti_59\",\"type\": \"arti\",\"name\": \"59\",\"title\": \"Art. 59.\"},{\"id\": \"titl_I-bran_VIII-none_3-arti_60\",\"symbol\": \"arti_60\",\"type\": \"arti\",\"name\": \"60\",\"title\": \"Art. 60.\"},{\"id\": \"titl_I-bran_VIII-none_3-arti_61\",\"symbol\": \"arti_61\",\"type\": \"arti\",\"name\": \"61\",\"title\": \"Art. 61.\"},{\"id\": \"titl_I-bran_VIII-none_3-arti_62\",\"symbol\": \"arti_62\",\"type\": \"arti\",\"name\": \"62\",\"title\": \"Art. 62.\"},{\"id\": \"titl_I-bran_VIII-none_3-arti_63\",\"symbol\": \"arti_63\",\"type\": \"arti\",\"name\": \"63\",\"title\": \"Art. 63.\"}]}]},{\"id\": \"titl_I-bran_IX\",\"symbol\": \"bran_IX\",\"type\": \"bran\",\"name\": \"IX\",\"title\": \"Dział IX - Wtóropisy i odpisy wekslu\",\"children\": [{\"id\": \"titl_I-bran_IX-none_1\",\"symbol\": \"none_1\",\"type\": \"none\",\"name\": \"1\",\"title\": \"1. - Wtóropisy\",\"children\": [{\"id\": \"titl_I-bran_IX-none_1-arti_64\",\"symbol\": \"arti_64\",\"type\": \"arti\",\"name\": \"64\",\"title\": \"Art. 64.\"},{\"id\": \"titl_I-bran_IX-none_1-arti_65\",\"symbol\": \"arti_65\",\"type\": \"arti\",\"name\": \"65\",\"title\": \"Art. 65.\"},{\"id\": \"titl_I-bran_IX-none_1-arti_66\",\"symbol\": \"arti_66\",\"type\": \"arti\",\"name\": \"66\",\"title\": \"Art. 66.\",\"children\": [{\"id\": \"titl_I-bran_IX-none_1-arti_66-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"titl_I-bran_IX-none_1-arti_66-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]}]},{\"id\": \"titl_I-bran_IX-none_2\",\"symbol\": \"none_2\",\"type\": \"none\",\"name\": \"2\",\"title\": \"2. - Odpisy\",\"children\": [{\"id\": \"titl_I-bran_IX-none_2-arti_67\",\"symbol\": \"arti_67\",\"type\": \"arti\",\"name\": \"67\",\"title\": \"Art. 67.\"},{\"id\": \"titl_I-bran_IX-none_2-arti_68\",\"symbol\": \"arti_68\",\"type\": \"arti\",\"name\": \"68\",\"title\": \"Art. 68.\"}]}]},{\"id\": \"titl_I-bran_X\",\"symbol\": \"bran_X\",\"type\": \"bran\",\"name\": \"X\",\"title\": \"Dział X - Zmiany\",\"children\": [{\"id\": \"titl_I-bran_X-arti_69\",\"symbol\": \"arti_69\",\"type\": \"arti\",\"name\": \"69\",\"title\": \"Art. 69.\"}]},{\"id\": \"titl_I-bran_XI\",\"symbol\": \"bran_XI\",\"type\": \"bran\",\"name\": \"XI\",\"title\": \"Dział XI - Przedawnienie\",\"children\": [{\"id\": \"titl_I-bran_XI-arti_70\",\"symbol\": \"arti_70\",\"type\": \"arti\",\"name\": \"70\",\"title\": \"Art. 70.\"},{\"id\": \"titl_I-bran_XI-arti_7"
+      "content": "Ustawa niniejsza wchodzi w życie z dniem 1 lipca 1936 r."
     }
   ],
-  "definitions": []
+  "definitions": [
+    {
+      "term": "bez kosztów",
+      "definition": "po dniu przedstawienia. Każdy indosant powinien w ciągu dwóch dni powszednich, następujących po dniu, w którym otrzymał zawiadomienie, podać do wiadomości swojego poprzednika otrzymane zawiadomienia, wskazując nazwiska i adresy tych, którzy dokonali zawiadomień poprzednich, i tak kolejno aż do wystawcy. Terminy powyższe biegną od otrzymania zawiadomienia poprzedniego. Ilekroć w myśl ustępu poprzedzającego zawiadamia się osobę, podpisaną na wekslu, należy tak samo w tymże terminie zawiadomić jej poręczyciela. Jeżeli indosant nie wskazał swego adresu lub podał go w sposób nieczytelny, wystarczy zawiadomienie poprzedzającego go indosanta. Zawiadomienia można dokonać w jakikolwiek sposób, nawet przez proste odesłanie wekslu. Obowiązany do zawiadomienia ma udowodnić, że dokonał go w przepisanym terminie. Termin ten uważa się jako zachowany, jeżeli pismo z zawiadomieniem oddano w polskiej placówce pocztowej operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe w przepisanym terminie. Kto nie zawiadomi w czasie powyżej oznaczonym, nie traci praw z wekslu, odpowiada jednak za szkodę, spowodowaną przez swe niedbalstwo, tylko do sumy, na jaką weksel jest wystawiony",
+      "source_provision": "art45"
+    }
+  ],
+  "references": [
+    {
+      "target_document_id": "pl-du-2019-1461",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2016-160",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1655",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-1740",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-2320",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1509",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-1041",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1924-926",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1934-509",
+      "ref_type": "references"
+    }
+  ]
 }

@@ -13,14 +13,32 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 22 września 2006 r. o uruchamianiu środków pochodzących z budżetu Unii Europejskiej przeznaczonych na finansowanie wspólnej polityki rolnej ( Dz. U. Nr 187, poz. 1381 , z późn. zm. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 52, poz. 304 i Nr 214, poz. 1349, z 2009 r. Nr 157, poz. 1241 i Nr 219, poz. 1706 oraz z 2010 r. Nr 57, poz. 351 i Nr 123, poz. 835. ) w art. 10i: 1) w ust. 1 po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) przywracanie potencjału produkcji rolnej zniszczonego w wyniku wystąpienia klęsk żywiołowych oraz wprowadzenie odpowiednich działań zapobiegawczych; ” ; 2) w ust. 2 pkt 1 otrzymuje brzmienie: „ 1) jeżeli wnioskował o jej wypłatę we wniosku o przyznanie pomocy, o którym mowa w art. 24 ust. 1 ustawy PROW; ” ."
+      "content": "W ustawie z dnia 22 września 2006 r. o uruchamianiu środków pochodzących z budżetu Unii Europejskiej przeznaczonych na finansowanie wspólnej polityki rolnej ) w art. 10i: w ust. 1 po pkt 2 dodaje się pkt 2a w brzmieniu: „ przywracanie potencjału produkcji rolnej zniszczonego w wyniku wystąpienia klęsk żywiołowych oraz wprowadzenie odpowiednich działań zapobiegawczych; ” ; w ust. 2 pkt 1 otrzymuje brzmienie: „ jeżeli wnioskował o jej wypłatę we wniosku o przyznanie pomocy, o którym mowa w art. 24 ust. 1 ustawy PROW; ” ."
+    },
+    {
+      "provision_ref": "art1p1p2a",
+      "section": "1",
+      "title": "Art. 1 pkt 1 pkt 2a",
+      "content": "W ustawie z dnia 22 września 2006 r. o uruchamianiu środków pochodzących z budżetu Unii Europejskiej przeznaczonych na finansowanie wspólnej polityki rolnej ) w art. 10i: w ust. 1 po pkt 2 dodaje się pkt 2a w brzmieniu: „ przywracanie potencjału produkcji rolnej zniszczonego w wyniku wystąpienia klęsk żywiołowych oraz wprowadzenie odpowiednich działań zapobiegawczych;"
+    },
+    {
+      "provision_ref": "art1p2p1",
+      "section": "1",
+      "title": "Art. 1 pkt 2 pkt 1",
+      "content": "W ustawie z dnia 22 września 2006 r. o uruchamianiu środków pochodzących z budżetu Unii Europejskiej przeznaczonych na finansowanie wspólnej polityki rolnej ) w art. 10i: w ust. 2 pkt 1 otrzymuje brzmienie: „ jeżeli wnioskował o jej wypłatę we wniosku o przyznanie pomocy, o którym mowa w art. 24 ust. 1 ustawy PROW;"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 52, poz. 304 i Nr 214, poz. 1349, z 2009 r. Nr 157, poz. 1241 i Nr 219, poz. 1706 oraz z 2010 r. Nr 57, poz. 351 i Nr 123, poz. 835. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2006-1381",
+      "ref_type": "amended_by"
+    }
+  ]
 }

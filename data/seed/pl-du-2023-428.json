@@ -1,0 +1,468 @@
+{
+  "id": "pl-du-2023-428",
+  "type": "statute",
+  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 6 marca 2023 r. w sprawie warunków technicznych dokonywania wpisów danych SIS oraz aktualizowania, usuwania i wyszukiwania danych SIS poprzez Krajowy System Informatyczny (KSI)",
+  "title_en": "",
+  "short_name": "pl-du-2023-428",
+  "status": "in_force",
+  "issued_date": "2023-03-06",
+  "in_force_date": "2023-03-06",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2023/428",
+  "provisions": [
+    {
+      "provision_ref": "par1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Rozporządzenie określa: warunki techniczne, sposób i tryb dokonywania wpisów danych SIS oraz tworzenia odsyłaczy pomiędzy wpisami w SIS; sposób i tryb aktualizowania, usuwania i wyszukiwania danych SIS poprzez Krajowy System Informatyczny (KSI), zwany dalej „KSI”."
+    },
+    {
+      "provision_ref": "par1p1",
+      "section": "1",
+      "title": "§ 1 pkt 1",
+      "content": "Rozporządzenie określa: warunki techniczne, sposób i tryb dokonywania wpisów danych SIS oraz tworzenia odsyłaczy pomiędzy wpisami w SIS;"
+    },
+    {
+      "provision_ref": "par1p2",
+      "section": "1",
+      "title": "§ 1 pkt 2",
+      "content": "Rozporządzenie określa: sposób i tryb aktualizowania, usuwania i wyszukiwania danych SIS poprzez Krajowy System Informatyczny (KSI), zwany dalej „KSI”."
+    },
+    {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: brzegowym urządzeniu sieciowym - należy przez to rozumieć urządzenie typu firewall pełniące funkcję urządzenia dostępowego do KSI, terminujące tunel VPN IPsec; CWPK SIS (Centralnym Węźle Polskiego Komponentu SIS) - należy przez to rozumieć podsystem informacyjny stanowiący część infrastruktury technicznej i organizacyjnej KSI, mający na celu zapewnienie przepływu informacji między centralnym systemem SIS a systemami teleinformatycznymi użytkowników instytucjonalnych oraz aplikacją WWW SIS; certyfikacie - należy przez to rozumieć elektroniczne zaświadczenie będące elementem PKI, wydane zgodnie z obowiązującą Polityką certyfikacji, zapewniające poufność przesyłanych danych oraz bezpieczeństwo procesu uwierzytelniania użytkownika instytucjonalnego i użytkownika indywidualnego; dopasowaniu - należy przez to rozumieć dopasowanie, o którym mowa w art. 3 pkt 7 rozporządzenia 2018/1861 oraz w art. 3 pkt 6 rozporządzenia 2018/1862; Kodeksie postępowania certyfikacyjnego - należy przez to rozumieć dokument uszczegółowiający ogólne zasady postępowania certyfikacyjnego opisane w Polityce certyfikacji; uprawnionym organie - należy przez to rozumieć organ lub służbę uprawnioną do dostępu do Krajowego Systemu Informatycznego (KSI) oraz przetwarzania danych poprzez Krajowy System Informatyczny (KSI), o których mowa w art. 3 ust. 1 ustawy; PKI (Public Key Infrastructure) - należy przez to rozumieć Infrastrukturę Klucza Publicznego będącego kryptosystemem, w którego skład wchodzą urzędy certyfikacyjne, urzędy rejestracyjne, użytkownicy certyfikatów (subskrybenci), oprogramowanie i sprzęt; podręczniku SIRENE - należy przez to rozumieć podręcznik, o którym mowa w art. 8 ust. 4 rozporządzenia 2018/1861 oraz w art. 8 ust. 4 rozporządzenia 2018/1862; Polityce certyfikacji - należy przez to rozumieć dokument określający techniczne i organizacyjne warunki oraz zakres tworzenia i stosowania certyfikatów w standardzie X.509 wykorzystywanych przez użytkowników SIS; rozporządzeniu 2018/1861 - należy przez to rozumieć rozporządzenie Parlamentu Europejskiego i Rady (UE) 2018/1861 z dnia 28 listopada 2018 r. w sprawie utworzenia, funkcjonowania i użytkowania Systemu Informacyjnego Schengen (SIS) w dziedzinie odpraw granicznych, zmiany konwencji wykonawczej do układu z Schengen oraz zmiany i uchylenia rozporządzenia (WE) nr 1987/2006 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 135 z 22.05.2019, str. 27, Dz. Urz. UE L 248 z 13.07.2021, str. 11 oraz Dz. Urz. UE L 249 z 14.07.2021, str. 15. ; rozporządzeniu 2018/1862 - należy przez to rozumieć rozporządzenie Parlamentu Europejskiego i Rady (UE) 2018/1862 z dnia 28 listopada 2018 r. w sprawie utworzenia, funkcjonowania i użytkowania Systemu Informacyjnego Schengen (SIS) w dziedzinie współpracy policyjnej i współpracy wymiarów sprawiedliwości w sprawach karnych, zmiany i uchylenia decyzji Rady 2007/533/WSiSW oraz uchylenia rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1986/2006 i decyzji Komisji 2010/261/UE 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 135 z 22.05.2019, str. 85, Dz. Urz. UE L 316I z 06.12.2019, str. 4, Dz. Urz. UE L 248 z 13.07.2021, str. 1, Dz. Urz. UE L 249 z 14.07.2021, str. 1 oraz Dz. Urz. UE L 185 z 12.07.2022, str. 1. ; TLS (Transport Layer Security) - należy przez to rozumieć protokół służący do szyfrowania transmisji danych w sieci; transliteracji i transkrypcji - należy przez to rozumieć zapisywanie liter jednego alfabetu (transliteracja) lub głosek (transkrypcja) za pomocą odpowiadających im ściśle określonych zestawów znaków drugiego alfabetu, które dla danych SIS zostały określone w decyzjach wykonawczych Komisji Europejskiej do rozporządzenia 2018/1861 i do rozporządzenia 2018/1862 oraz w dokumencie kontroli interfejsu SIS i szczegółowych specyfikacjach technicznych; ustawie - należy przez to rozumieć ustawę z dnia 24 sierpnia 2007 r. o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym ; VPN (Virtual Private Network) - należy przez to rozumieć wirtualną sieć prywatną jako sieć przekazu danych korzystającą z publicznej infrastruktury telekomunikacyjnej, która dzięki stosowaniu protokołów tunelowania i procedur bezpieczeństwa zachowuje poufność danych; wartościach katalogowych - należy przez to rozumieć kodowany słownik danych będący zbiorem określonych dopuszczalnych wartości lub terminów wykorzystywanych przez interfejs CWPK SIS; wydzielonej sieci teleinformatycznej - należy przez to rozumieć niepubliczną sieć telekomunikacyjną, która dzięki zastosowaniu rozwiązań sprzętowych lub programowych zapewnia możliwość logicznej separacji od powszechnie dostępnej infrastruktury telekomunikacyjnej; X.509 - należy przez to rozumieć standard opisujący sposób użycia asymetrycznych algorytmów kryptograficznych."
+    },
+    {
+      "provision_ref": "par2p1",
+      "section": "2",
+      "title": "§ 2 pkt 1",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: brzegowym urządzeniu sieciowym - należy przez to rozumieć urządzenie typu firewall pełniące funkcję urządzenia dostępowego do KSI, terminujące tunel VPN IPsec;"
+    },
+    {
+      "provision_ref": "par2p2",
+      "section": "2",
+      "title": "§ 2 pkt 2",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: CWPK SIS (Centralnym Węźle Polskiego Komponentu SIS) - należy przez to rozumieć podsystem informacyjny stanowiący część infrastruktury technicznej i organizacyjnej KSI, mający na celu zapewnienie przepływu informacji między centralnym systemem SIS a systemami teleinformatycznymi użytkowników instytucjonalnych oraz aplikacją WWW SIS;"
+    },
+    {
+      "provision_ref": "par2p3",
+      "section": "2",
+      "title": "§ 2 pkt 3",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: certyfikacie - należy przez to rozumieć elektroniczne zaświadczenie będące elementem PKI, wydane zgodnie z obowiązującą Polityką certyfikacji, zapewniające poufność przesyłanych danych oraz bezpieczeństwo procesu uwierzytelniania użytkownika instytucjonalnego i użytkownika indywidualnego;"
+    },
+    {
+      "provision_ref": "par2p4",
+      "section": "2",
+      "title": "§ 2 pkt 4",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: dopasowaniu - należy przez to rozumieć dopasowanie, o którym mowa w art. 3 pkt 7 rozporządzenia 2018/1861 oraz w art. 3 pkt 6 rozporządzenia 2018/1862;"
+    },
+    {
+      "provision_ref": "par2p5",
+      "section": "2",
+      "title": "§ 2 pkt 5",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: Kodeksie postępowania certyfikacyjnego - należy przez to rozumieć dokument uszczegółowiający ogólne zasady postępowania certyfikacyjnego opisane w Polityce certyfikacji;"
+    },
+    {
+      "provision_ref": "par2p6",
+      "section": "2",
+      "title": "§ 2 pkt 6",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: uprawnionym organie - należy przez to rozumieć organ lub służbę uprawnioną do dostępu do Krajowego Systemu Informatycznego (KSI) oraz przetwarzania danych poprzez Krajowy System Informatyczny (KSI), o których mowa w art. 3 ust. 1 ustawy;"
+    },
+    {
+      "provision_ref": "par2p7",
+      "section": "2",
+      "title": "§ 2 pkt 7",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: PKI (Public Key Infrastructure) - należy przez to rozumieć Infrastrukturę Klucza Publicznego będącego kryptosystemem, w którego skład wchodzą urzędy certyfikacyjne, urzędy rejestracyjne, użytkownicy certyfikatów (subskrybenci), oprogramowanie i sprzęt;"
+    },
+    {
+      "provision_ref": "par2p8",
+      "section": "2",
+      "title": "§ 2 pkt 8",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: podręczniku SIRENE - należy przez to rozumieć podręcznik, o którym mowa w art. 8 ust. 4 rozporządzenia 2018/1861 oraz w art. 8 ust. 4 rozporządzenia 2018/1862;"
+    },
+    {
+      "provision_ref": "par2p9",
+      "section": "2",
+      "title": "§ 2 pkt 9",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: Polityce certyfikacji - należy przez to rozumieć dokument określający techniczne i organizacyjne warunki oraz zakres tworzenia i stosowania certyfikatów w standardzie X.509 wykorzystywanych przez użytkowników SIS;"
+    },
+    {
+      "provision_ref": "par2p10",
+      "section": "2",
+      "title": "§ 2 pkt 10",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: rozporządzeniu 2018/1861 - należy przez to rozumieć rozporządzenie Parlamentu Europejskiego i Rady (UE) 2018/1861 z dnia 28 listopada 2018 r. w sprawie utworzenia, funkcjonowania i użytkowania Systemu Informacyjnego Schengen (SIS) w dziedzinie odpraw granicznych, zmiany konwencji wykonawczej do układu z Schengen oraz zmiany i uchylenia rozporządzenia (WE) nr 1987/2006 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 135 z 22.05.2019, str. 27, Dz. Urz. UE L 248 z 13.07.2021, str. 11 oraz Dz. Urz. UE L 249 z 14.07.2021, str. 15. ;"
+    },
+    {
+      "provision_ref": "par2p11",
+      "section": "2",
+      "title": "§ 2 pkt 11",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: rozporządzeniu 2018/1862 - należy przez to rozumieć rozporządzenie Parlamentu Europejskiego i Rady (UE) 2018/1862 z dnia 28 listopada 2018 r. w sprawie utworzenia, funkcjonowania i użytkowania Systemu Informacyjnego Schengen (SIS) w dziedzinie współpracy policyjnej i współpracy wymiarów sprawiedliwości w sprawach karnych, zmiany i uchylenia decyzji Rady 2007/533/WSiSW oraz uchylenia rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1986/2006 i decyzji Komisji 2010/261/UE 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 135 z 22.05.2019, str. 85, Dz. Urz. UE L 316I z 06.12.2019, str. 4, Dz. Urz. UE L 248 z 13.07.2021, str. 1, Dz. Urz. UE L 249 z 14.07.2021, str. 1 oraz Dz. Urz. UE L 185 z 12.07.2022, str. 1. ;"
+    },
+    {
+      "provision_ref": "par2p12",
+      "section": "2",
+      "title": "§ 2 pkt 12",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: TLS (Transport Layer Security) - należy przez to rozumieć protokół służący do szyfrowania transmisji danych w sieci;"
+    },
+    {
+      "provision_ref": "par2p13",
+      "section": "2",
+      "title": "§ 2 pkt 13",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: transliteracji i transkrypcji - należy przez to rozumieć zapisywanie liter jednego alfabetu (transliteracja) lub głosek (transkrypcja) za pomocą odpowiadających im ściśle określonych zestawów znaków drugiego alfabetu, które dla danych SIS zostały określone w decyzjach wykonawczych Komisji Europejskiej do rozporządzenia 2018/1861 i do rozporządzenia 2018/1862 oraz w dokumencie kontroli interfejsu SIS i szczegółowych specyfikacjach technicznych;"
+    },
+    {
+      "provision_ref": "par2p14",
+      "section": "2",
+      "title": "§ 2 pkt 14",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: ustawie - należy przez to rozumieć ustawę z dnia 24 sierpnia 2007 r. o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym ;"
+    },
+    {
+      "provision_ref": "par2p15",
+      "section": "2",
+      "title": "§ 2 pkt 15",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: VPN (Virtual Private Network) - należy przez to rozumieć wirtualną sieć prywatną jako sieć przekazu danych korzystającą z publicznej infrastruktury telekomunikacyjnej, która dzięki stosowaniu protokołów tunelowania i procedur bezpieczeństwa zachowuje poufność danych;"
+    },
+    {
+      "provision_ref": "par2p16",
+      "section": "2",
+      "title": "§ 2 pkt 16",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: wartościach katalogowych - należy przez to rozumieć kodowany słownik danych będący zbiorem określonych dopuszczalnych wartości lub terminów wykorzystywanych przez interfejs CWPK SIS;"
+    },
+    {
+      "provision_ref": "par2p17",
+      "section": "2",
+      "title": "§ 2 pkt 17",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: wydzielonej sieci teleinformatycznej - należy przez to rozumieć niepubliczną sieć telekomunikacyjną, która dzięki zastosowaniu rozwiązań sprzętowych lub programowych zapewnia możliwość logicznej separacji od powszechnie dostępnej infrastruktury telekomunikacyjnej;"
+    },
+    {
+      "provision_ref": "par2p18",
+      "section": "2",
+      "title": "§ 2 pkt 18",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: X.509 - należy przez to rozumieć standard opisujący sposób użycia asymetrycznych algorytmów kryptograficznych."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Dokonywanie wpisów danych SIS oraz tworzenie odsyłaczy następuje odpowiednio za pomocą: aplikacji WWW SIS - w przypadku użytkownika indywidualnego; systemu teleinformatycznego użytkownika instytucjonalnego - w przypadku użytkownika końcowego."
+    },
+    {
+      "provision_ref": "par3p1",
+      "section": "3",
+      "title": "§ 3 pkt 1",
+      "content": "Dokonywanie wpisów danych SIS oraz tworzenie odsyłaczy następuje odpowiednio za pomocą: aplikacji WWW SIS - w przypadku użytkownika indywidualnego;"
+    },
+    {
+      "provision_ref": "par3p2",
+      "section": "3",
+      "title": "§ 3 pkt 2",
+      "content": "Dokonywanie wpisów danych SIS oraz tworzenie odsyłaczy następuje odpowiednio za pomocą: systemu teleinformatycznego użytkownika instytucjonalnego - w przypadku użytkownika końcowego."
+    },
+    {
+      "provision_ref": "par4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Warunki techniczne dokonywania wpisów danych SIS oraz tworzenia odsyłaczy pomiędzy wpisami w SIS obejmują: zapewnienie połączenia z KSI za pośrednictwem wydzielonej sieci teleinformatycznej z wykorzystaniem protokołu https oraz VPN; wykorzystanie protokołu TLS i certyfikatu X.509 w celu zabezpieczenia dostępu do CWPK SIS."
+    },
+    {
+      "provision_ref": "par4p1",
+      "section": "4",
+      "title": "§ 4 pkt 1",
+      "content": "Warunki techniczne dokonywania wpisów danych SIS oraz tworzenia odsyłaczy pomiędzy wpisami w SIS obejmują: zapewnienie połączenia z KSI za pośrednictwem wydzielonej sieci teleinformatycznej z wykorzystaniem protokołu https oraz VPN;"
+    },
+    {
+      "provision_ref": "par4p2",
+      "section": "4",
+      "title": "§ 4 pkt 2",
+      "content": "Warunki techniczne dokonywania wpisów danych SIS oraz tworzenia odsyłaczy pomiędzy wpisami w SIS obejmują: wykorzystanie protokołu TLS i certyfikatu X.509 w celu zabezpieczenia dostępu do CWPK SIS."
+    },
+    {
+      "provision_ref": "par5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "W celu dokonywania wpisów danych SIS oraz tworzenia odsyłaczy uprawniony organ występuje do centralnego organu technicznego KSI o: wydanie certyfikatów dla brzegowego urządzenia sieciowego oraz określenie i przekazanie parametrów konfiguracji brzegowego urządzenia sieciowego dla użytkownika indywidualnego, które umożliwia bezpieczne nawiązanie połączenia z KSI; przekazywanie Polityki certyfikacji i Kodeksu postępowania certyfikacyjnego; przekazanie dokumentacji zawierającej specyfikację interfejsu CWPK SIS; założenie kont dostępowych i przydzielenie uprawnień w SIS użytkownikom indywidualnym; wydanie certyfikatów cyfrowych na potrzeby uwierzytelniania się użytkowników indywidualnych w KSI."
+    },
+    {
+      "provision_ref": "par5p1",
+      "section": "5",
+      "title": "§ 5 pkt 1",
+      "content": "W celu dokonywania wpisów danych SIS oraz tworzenia odsyłaczy uprawniony organ występuje do centralnego organu technicznego KSI o: wydanie certyfikatów dla brzegowego urządzenia sieciowego oraz określenie i przekazanie parametrów konfiguracji brzegowego urządzenia sieciowego dla użytkownika indywidualnego, które umożliwia bezpieczne nawiązanie połączenia z KSI;"
+    },
+    {
+      "provision_ref": "par5p2",
+      "section": "5",
+      "title": "§ 5 pkt 2",
+      "content": "W celu dokonywania wpisów danych SIS oraz tworzenia odsyłaczy uprawniony organ występuje do centralnego organu technicznego KSI o: przekazywanie Polityki certyfikacji i Kodeksu postępowania certyfikacyjnego;"
+    },
+    {
+      "provision_ref": "par5p3",
+      "section": "5",
+      "title": "§ 5 pkt 3",
+      "content": "W celu dokonywania wpisów danych SIS oraz tworzenia odsyłaczy uprawniony organ występuje do centralnego organu technicznego KSI o: przekazanie dokumentacji zawierającej specyfikację interfejsu CWPK SIS;"
+    },
+    {
+      "provision_ref": "par5p4",
+      "section": "5",
+      "title": "§ 5 pkt 4",
+      "content": "W celu dokonywania wpisów danych SIS oraz tworzenia odsyłaczy uprawniony organ występuje do centralnego organu technicznego KSI o: założenie kont dostępowych i przydzielenie uprawnień w SIS użytkownikom indywidualnym;"
+    },
+    {
+      "provision_ref": "par5p5",
+      "section": "5",
+      "title": "§ 5 pkt 5",
+      "content": "W celu dokonywania wpisów danych SIS oraz tworzenia odsyłaczy uprawniony organ występuje do centralnego organu technicznego KSI o: wydanie certyfikatów cyfrowych na potrzeby uwierzytelniania się użytkowników indywidualnych w KSI."
+    },
+    {
+      "provision_ref": "par6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "Podczas dokonywania wpisów danych SIS oraz tworzenia odsyłaczy uprawniony organ zapewnia: przestrzeganie zasad obowiązujących w Polityce certyfikacji i Kodeksie postępowania certyfikacyjnego oraz zasad obowiązujących w specyfikacji interfejsu CWPK SIS; bezpieczeństwo własnej sieci teleinformatycznej podłączonej do CWPK SIS; stosowanie specyfikacji interfejsu CWPK SIS, w tym zasad transliteracji i transkrypcji, wartości katalogowych i podręcznika użytkownika aplikacji WWW SIS; poprzedzającą dokonanie wpisu danych SIS weryfikację istnienia wpisu dotyczącego osoby lub przedmiotu oraz - w przypadku pozytywnego wyniku tej weryfikacji - przeprowadzenie konsultacji w celu zapobieżenia powstaniu niezgodności wpisów wielokrotnych, bezpośrednio z organem wymienionym w art. 3 ustawy, który dokonał wpisu, albo za pośrednictwem biura SIRENE zgodnie z zasadami określonymi w podręczniku SIRENE; przedłużenie okresu utrzymywania wpisu danych SIS nie później niż 48 godzin przed upływem terminu wygaśnięcia obowiązywania wpisu; dokonywanie wpisów danych SIS przez użytkowników indywidualnych i użytkowników końcowych w sposób zapewniający legalność i poufność tych wpisów; zachowywanie bezpieczeństwa procesu uwierzytelniania przez użytkowników indywidualnych i użytkowników końcowych; odbieranie przez użytkowników indywidualnych i użytkowników końcowych komunikatów ostrzegawczych i komunikatów dotyczących błędów oraz niezwłoczne dokonywanie aktualizacji lub usunięcia wpisów danych SIS."
+    },
+    {
+      "provision_ref": "par6p1",
+      "section": "6",
+      "title": "§ 6 pkt 1",
+      "content": "Podczas dokonywania wpisów danych SIS oraz tworzenia odsyłaczy uprawniony organ zapewnia: przestrzeganie zasad obowiązujących w Polityce certyfikacji i Kodeksie postępowania certyfikacyjnego oraz zasad obowiązujących w specyfikacji interfejsu CWPK SIS;"
+    },
+    {
+      "provision_ref": "par6p2",
+      "section": "6",
+      "title": "§ 6 pkt 2",
+      "content": "Podczas dokonywania wpisów danych SIS oraz tworzenia odsyłaczy uprawniony organ zapewnia: bezpieczeństwo własnej sieci teleinformatycznej podłączonej do CWPK SIS;"
+    },
+    {
+      "provision_ref": "par6p3",
+      "section": "6",
+      "title": "§ 6 pkt 3",
+      "content": "Podczas dokonywania wpisów danych SIS oraz tworzenia odsyłaczy uprawniony organ zapewnia: stosowanie specyfikacji interfejsu CWPK SIS, w tym zasad transliteracji i transkrypcji, wartości katalogowych i podręcznika użytkownika aplikacji WWW SIS;"
+    },
+    {
+      "provision_ref": "par6p4",
+      "section": "6",
+      "title": "§ 6 pkt 4",
+      "content": "Podczas dokonywania wpisów danych SIS oraz tworzenia odsyłaczy uprawniony organ zapewnia: poprzedzającą dokonanie wpisu danych SIS weryfikację istnienia wpisu dotyczącego osoby lub przedmiotu oraz - w przypadku pozytywnego wyniku tej weryfikacji - przeprowadzenie konsultacji w celu zapobieżenia powstaniu niezgodności wpisów wielokrotnych, bezpośrednio z organem wymienionym w art. 3 ustawy, który dokonał wpisu, albo za pośrednictwem biura SIRENE zgodnie z zasadami określonymi w podręczniku SIRENE;"
+    },
+    {
+      "provision_ref": "par6p5",
+      "section": "6",
+      "title": "§ 6 pkt 5",
+      "content": "Podczas dokonywania wpisów danych SIS oraz tworzenia odsyłaczy uprawniony organ zapewnia: przedłużenie okresu utrzymywania wpisu danych SIS nie później niż 48 godzin przed upływem terminu wygaśnięcia obowiązywania wpisu;"
+    },
+    {
+      "provision_ref": "par6p6",
+      "section": "6",
+      "title": "§ 6 pkt 6",
+      "content": "Podczas dokonywania wpisów danych SIS oraz tworzenia odsyłaczy uprawniony organ zapewnia: dokonywanie wpisów danych SIS przez użytkowników indywidualnych i użytkowników końcowych w sposób zapewniający legalność i poufność tych wpisów;"
+    },
+    {
+      "provision_ref": "par6p7",
+      "section": "6",
+      "title": "§ 6 pkt 7",
+      "content": "Podczas dokonywania wpisów danych SIS oraz tworzenia odsyłaczy uprawniony organ zapewnia: zachowywanie bezpieczeństwa procesu uwierzytelniania przez użytkowników indywidualnych i użytkowników końcowych;"
+    },
+    {
+      "provision_ref": "par6p8",
+      "section": "6",
+      "title": "§ 6 pkt 8",
+      "content": "Podczas dokonywania wpisów danych SIS oraz tworzenia odsyłaczy uprawniony organ zapewnia: odbieranie przez użytkowników indywidualnych i użytkowników końcowych komunikatów ostrzegawczych i komunikatów dotyczących błędów oraz niezwłoczne dokonywanie aktualizacji lub usunięcia wpisów danych SIS."
+    },
+    {
+      "provision_ref": "par7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "Podczas dokonywania wpisów danych SIS oraz tworzenia odsyłaczy uprawniony organ może: utworzyć odsyłacz pomiędzy co najmniej dwoma dokonanymi przez siebie wpisami danych SIS albo pomiędzy dokonanym przez siebie wpisem lub wpisami danych SIS a wpisem lub wpisami danych SIS dokonanymi przez inny organ oraz usunąć utworzony odsyłacz; dodać kolejny wpis danych SIS do utworzonego odsyłacza oraz usunąć z odsyłacza dodany wpis; dokonać wglądu do danych odsyłacza zgodnie z przydzielonymi uprawnieniami."
+    },
+    {
+      "provision_ref": "par7p1",
+      "section": "7",
+      "title": "§ 7 pkt 1",
+      "content": "Podczas dokonywania wpisów danych SIS oraz tworzenia odsyłaczy uprawniony organ może: utworzyć odsyłacz pomiędzy co najmniej dwoma dokonanymi przez siebie wpisami danych SIS albo pomiędzy dokonanym przez siebie wpisem lub wpisami danych SIS a wpisem lub wpisami danych SIS dokonanymi przez inny organ oraz usunąć utworzony odsyłacz;"
+    },
+    {
+      "provision_ref": "par7p2",
+      "section": "7",
+      "title": "§ 7 pkt 2",
+      "content": "Podczas dokonywania wpisów danych SIS oraz tworzenia odsyłaczy uprawniony organ może: dodać kolejny wpis danych SIS do utworzonego odsyłacza oraz usunąć z odsyłacza dodany wpis;"
+    },
+    {
+      "provision_ref": "par7p3",
+      "section": "7",
+      "title": "§ 7 pkt 3",
+      "content": "Podczas dokonywania wpisów danych SIS oraz tworzenia odsyłaczy uprawniony organ może: dokonać wglądu do danych odsyłacza zgodnie z przydzielonymi uprawnieniami."
+    },
+    {
+      "provision_ref": "par8",
+      "section": "8",
+      "title": "§ 8",
+      "content": "W celu dokonania wpisu danych SIS lub utworzenia odsyłacza użytkownik indywidualny: dokonuje uwierzytelnienia na podstawie otrzymanego certyfikatu cyfrowego przechowywanego na karcie mikroprocesorowej zabezpieczonej PIN-em; dokonuje wpisu danych SIS lub tworzy odsyłacz zgodnie z przydzielonymi uprawnieniami; przekazuje do biura SIRENE informacje niezbędne do celów wymiany informacji uzupełniających z organami, o których mowa w art. 3 ust. 1: pkt 1, 2, 7-10 i pkt 11 lit. b ustawy, pkt 6 ustawy, jeżeli wpis dotyczy osób, które dla ich własnej ochrony lub w celu zapobieżenia stwarzanemu przez nie zagrożeniu dla porządku publicznego lub dla bezpieczeństwa publicznego powinny zostać umieszczone we właściwej placówce opiekuńczej lub leczniczej, w szczególności w wyniku decyzji o przymusowym umieszczeniu w takiej placówce, pkt 11 lit. a ustawy, jeżeli we wnioskowanych we wpisie działaniach zastrzeżono „niezwłoczne działanie”; w przypadku dodania do wpisu danych SIS danych biometrycznych i otrzymania, po dokonaniu tego wpisu, informacji o dopasowaniu przeprowadza działania wynikające z procedury weryfikacji danych biometrycznych na etapie wprowadzania wpisów danych SIS. W celu dokonania wpisu danych SIS lub utworzenia odsyłacza użytkownik instytucjonalny: uwierzytelnia użytkownika końcowego we własnym systemie teleinformatycznym na podstawie przydzielonych uprawnień; dokonuje wpisu danych SIS lub tworzy odsyłacz za pośrednictwem użytkownika końcowego, zgodnie z przydzielonymi uprawnieniami; automatycznie przekazuje informacje uzupełniające do biura SIRENE; prowadzi elektroniczny rejestr, w którym automatycznie odnotowuje informacje dotyczące: użytkownika końcowego - ze wskazaniem numeru identyfikatora kadrowego lub innego numeru identyfikującego użytkownika końcowego, daty i godziny dokonania wpisu danych SIS, danych SIS, których dotyczył wpis, niepowtarzalnego identyfikatora wpisu danych SIS nadanego przez KSI, rodzaju czynności wykonanej za pośrednictwem KSI."
+    },
+    {
+      "provision_ref": "par8u1p1",
+      "section": "8",
+      "title": "§ 8 ust. 1 pkt 1",
+      "content": "W celu dokonania wpisu danych SIS lub utworzenia odsyłacza użytkownik indywidualny: dokonuje uwierzytelnienia na podstawie otrzymanego certyfikatu cyfrowego przechowywanego na karcie mikroprocesorowej zabezpieczonej PIN-em;"
+    },
+    {
+      "provision_ref": "par8u1p2",
+      "section": "8",
+      "title": "§ 8 ust. 1 pkt 2",
+      "content": "W celu dokonania wpisu danych SIS lub utworzenia odsyłacza użytkownik indywidualny: dokonuje wpisu danych SIS lub tworzy odsyłacz zgodnie z przydzielonymi uprawnieniami;"
+    },
+    {
+      "provision_ref": "par8u1p3la",
+      "section": "8",
+      "title": "§ 8 ust. 1 pkt 3 lit. a",
+      "content": "W celu dokonania wpisu danych SIS lub utworzenia odsyłacza użytkownik indywidualny: przekazuje do biura SIRENE informacje niezbędne do celów wymiany informacji uzupełniających z organami, o których mowa w art. 3 ust. 1: pkt 1, 2, 7-10 i pkt 11 lit. b ustawy,"
+    },
+    {
+      "provision_ref": "par8u1p3lb",
+      "section": "8",
+      "title": "§ 8 ust. 1 pkt 3 lit. b",
+      "content": "W celu dokonania wpisu danych SIS lub utworzenia odsyłacza użytkownik indywidualny: przekazuje do biura SIRENE informacje niezbędne do celów wymiany informacji uzupełniających z organami, o których mowa w art. 3 ust. 1: pkt 6 ustawy, jeżeli wpis dotyczy osób, które dla ich własnej ochrony lub w celu zapobieżenia stwarzanemu przez nie zagrożeniu dla porządku publicznego lub dla bezpieczeństwa publicznego powinny zostać umieszczone we właściwej placówce opiekuńczej lub leczniczej, w szczególności w wyniku decyzji o przymusowym umieszczeniu w takiej placówce,"
+    },
+    {
+      "provision_ref": "par8u1p3lc",
+      "section": "8",
+      "title": "§ 8 ust. 1 pkt 3 lit. c",
+      "content": "W celu dokonania wpisu danych SIS lub utworzenia odsyłacza użytkownik indywidualny: przekazuje do biura SIRENE informacje niezbędne do celów wymiany informacji uzupełniających z organami, o których mowa w art. 3 ust. 1: pkt 11 lit. a ustawy, jeżeli we wnioskowanych we wpisie działaniach zastrzeżono „niezwłoczne działanie”;"
+    },
+    {
+      "provision_ref": "par8u1p4",
+      "section": "8",
+      "title": "§ 8 ust. 1 pkt 4",
+      "content": "W celu dokonania wpisu danych SIS lub utworzenia odsyłacza użytkownik indywidualny: w przypadku dodania do wpisu danych SIS danych biometrycznych i otrzymania, po dokonaniu tego wpisu, informacji o dopasowaniu przeprowadza działania wynikające z procedury weryfikacji danych biometrycznych na etapie wprowadzania wpisów danych SIS."
+    },
+    {
+      "provision_ref": "par8u2p1",
+      "section": "8",
+      "title": "§ 8 ust. 2 pkt 1",
+      "content": "W celu dokonania wpisu danych SIS lub utworzenia odsyłacza użytkownik instytucjonalny: uwierzytelnia użytkownika końcowego we własnym systemie teleinformatycznym na podstawie przydzielonych uprawnień;"
+    },
+    {
+      "provision_ref": "par8u2p2",
+      "section": "8",
+      "title": "§ 8 ust. 2 pkt 2",
+      "content": "W celu dokonania wpisu danych SIS lub utworzenia odsyłacza użytkownik instytucjonalny: dokonuje wpisu danych SIS lub tworzy odsyłacz za pośrednictwem użytkownika końcowego, zgodnie z przydzielonymi uprawnieniami;"
+    },
+    {
+      "provision_ref": "par8u2p3",
+      "section": "8",
+      "title": "§ 8 ust. 2 pkt 3",
+      "content": "W celu dokonania wpisu danych SIS lub utworzenia odsyłacza użytkownik instytucjonalny: automatycznie przekazuje informacje uzupełniające do biura SIRENE;"
+    },
+    {
+      "provision_ref": "par8u2p4la",
+      "section": "8",
+      "title": "§ 8 ust. 2 pkt 4 lit. a",
+      "content": "W celu dokonania wpisu danych SIS lub utworzenia odsyłacza użytkownik instytucjonalny: prowadzi elektroniczny rejestr, w którym automatycznie odnotowuje informacje dotyczące: użytkownika końcowego - ze wskazaniem numeru identyfikatora kadrowego lub innego numeru identyfikującego użytkownika końcowego,"
+    },
+    {
+      "provision_ref": "par8u2p4lb",
+      "section": "8",
+      "title": "§ 8 ust. 2 pkt 4 lit. b",
+      "content": "W celu dokonania wpisu danych SIS lub utworzenia odsyłacza użytkownik instytucjonalny: prowadzi elektroniczny rejestr, w którym automatycznie odnotowuje informacje dotyczące: daty i godziny dokonania wpisu danych SIS,"
+    },
+    {
+      "provision_ref": "par8u2p4lc",
+      "section": "8",
+      "title": "§ 8 ust. 2 pkt 4 lit. c",
+      "content": "W celu dokonania wpisu danych SIS lub utworzenia odsyłacza użytkownik instytucjonalny: prowadzi elektroniczny rejestr, w którym automatycznie odnotowuje informacje dotyczące: danych SIS, których dotyczył wpis,"
+    },
+    {
+      "provision_ref": "par8u2p4ld",
+      "section": "8",
+      "title": "§ 8 ust. 2 pkt 4 lit. d",
+      "content": "W celu dokonania wpisu danych SIS lub utworzenia odsyłacza użytkownik instytucjonalny: prowadzi elektroniczny rejestr, w którym automatycznie odnotowuje informacje dotyczące: niepowtarzalnego identyfikatora wpisu danych SIS nadanego przez KSI,"
+    },
+    {
+      "provision_ref": "par8u2p4le",
+      "section": "8",
+      "title": "§ 8 ust. 2 pkt 4 lit. e",
+      "content": "W celu dokonania wpisu danych SIS lub utworzenia odsyłacza użytkownik instytucjonalny: prowadzi elektroniczny rejestr, w którym automatycznie odnotowuje informacje dotyczące: rodzaju czynności wykonanej za pośrednictwem KSI."
+    },
+    {
+      "provision_ref": "par9",
+      "section": "9",
+      "title": "§ 9",
+      "content": "W przypadku braku dostępu do KSI, o którym mowa w art. 3 ust. 2 ustawy, organ występuje do centralnego organu technicznego KSI z: pisemnym wnioskiem o dokonanie wpisu danych SIS wraz z informacją o wystąpieniu przesłanek uzasadniających dokonanie wpisu za pośrednictwem centralnego organu technicznego KSI; wypełnioną kartą wpisu danych SIS, której wzór jest określony w przepisach wykonawczych wydanych na podstawie art. 22 ust. 3 ustawy."
+    },
+    {
+      "provision_ref": "par9p1",
+      "section": "9",
+      "title": "§ 9 pkt 1",
+      "content": "W przypadku braku dostępu do KSI, o którym mowa w art. 3 ust. 2 ustawy, organ występuje do centralnego organu technicznego KSI z: pisemnym wnioskiem o dokonanie wpisu danych SIS wraz z informacją o wystąpieniu przesłanek uzasadniających dokonanie wpisu za pośrednictwem centralnego organu technicznego KSI;"
+    },
+    {
+      "provision_ref": "par9p2",
+      "section": "9",
+      "title": "§ 9 pkt 2",
+      "content": "W przypadku braku dostępu do KSI, o którym mowa w art. 3 ust. 2 ustawy, organ występuje do centralnego organu technicznego KSI z: wypełnioną kartą wpisu danych SIS, której wzór jest określony w przepisach wykonawczych wydanych na podstawie art. 22 ust. 3 ustawy."
+    },
+    {
+      "provision_ref": "par10",
+      "section": "10",
+      "title": "§ 10",
+      "content": "Aktualizowanie, usuwanie i wyszukiwanie danych SIS poprzez KSI odbywa się z wykorzystaniem: aplikacji WWW SIS przez: użytkownika indywidualnego, centralny organ techniczny KSI - w przypadku określonym w art. 22 ust. 2 ustawy; systemu teleinformatycznego użytkownika instytucjonalnego. Do aktualizowania, usuwania i wyszukiwania danych SIS poprzez KSI stosuje się odpowiednio § 8. W przypadku wyszukiwania danych SIS w rejestrze, o którym mowa w § 8 ust. 2 pkt 4, odnotowuje się również informacje dotyczące: kryteriów wyszukiwania; listy wyników wyszukiwania, do których użytkownik końcowy uzyskał dostęp. Uprawniony organ, w zakresie dokonywania weryfikacji, przedłużania i usuwania wpisów danych SIS zapewnia rejestrowanie oceny, o której mowa w art. 39 ust. 4 rozporządzenia 2018/1861 oraz w art. 53 ust. 6 rozporządzenia 2018/1862."
+    },
+    {
+      "provision_ref": "par10u1p1la",
+      "section": "10",
+      "title": "§ 10 ust. 1 pkt 1 lit. a",
+      "content": "Aktualizowanie, usuwanie i wyszukiwanie danych SIS poprzez KSI odbywa się z wykorzystaniem: aplikacji WWW SIS przez: użytkownika indywidualnego,"
+    },
+    {
+      "provision_ref": "par10u1p1lb",
+      "section": "10",
+      "title": "§ 10 ust. 1 pkt 1 lit. b",
+      "content": "Aktualizowanie, usuwanie i wyszukiwanie danych SIS poprzez KSI odbywa się z wykorzystaniem: aplikacji WWW SIS przez: centralny organ techniczny KSI - w przypadku określonym w art. 22 ust. 2 ustawy;"
+    },
+    {
+      "provision_ref": "par10u1p2",
+      "section": "10",
+      "title": "§ 10 ust. 1 pkt 2",
+      "content": "Aktualizowanie, usuwanie i wyszukiwanie danych SIS poprzez KSI odbywa się z wykorzystaniem: systemu teleinformatycznego użytkownika instytucjonalnego."
+    },
+    {
+      "provision_ref": "par10u2",
+      "section": "10",
+      "title": "§ 10 ust. 2",
+      "content": "Do aktualizowania, usuwania i wyszukiwania danych SIS poprzez KSI stosuje się odpowiednio § 8."
+    },
+    {
+      "provision_ref": "par10u3p1",
+      "section": "10",
+      "title": "§ 10 ust. 3 pkt 1",
+      "content": "W przypadku wyszukiwania danych SIS w rejestrze, o którym mowa w § 8 ust. 2 pkt 4, odnotowuje się również informacje dotyczące: kryteriów wyszukiwania;"
+    },
+    {
+      "provision_ref": "par10u3p2",
+      "section": "10",
+      "title": "§ 10 ust. 3 pkt 2",
+      "content": "W przypadku wyszukiwania danych SIS w rejestrze, o którym mowa w § 8 ust. 2 pkt 4, odnotowuje się również informacje dotyczące: listy wyników wyszukiwania, do których użytkownik końcowy uzyskał dostęp."
+    },
+    {
+      "provision_ref": "par10u4",
+      "section": "10",
+      "title": "§ 10 ust. 4",
+      "content": "Uprawniony organ, w zakresie dokonywania weryfikacji, przedłużania i usuwania wpisów danych SIS zapewnia rejestrowanie oceny, o której mowa w art. 39 ust. 4 rozporządzenia 2018/1861 oraz w art. 53 ust. 6 rozporządzenia 2018/1862."
+    },
+    {
+      "provision_ref": "par11",
+      "section": "11",
+      "title": "§ 11",
+      "content": "Rozporządzenie wchodzi w życie z dniem 7 marca 2023 r. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych z dnia 3 kwietnia 2013 r. w sprawie dokonywania wpisów danych SIS oraz aktualizowania, usuwania i wyszukiwania danych SIS poprzez Krajowy System Informatyczny (KSI) (Dz. U. z 2020 r. poz. 1126), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 8 ust. 1 ustawy z dnia 1 grudnia 2022 r. o zmianie ustawy o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym oraz niektórych innych ustaw (Dz. U. poz. 2642)."
+    }
+  ],
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2021-1041",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2642",
+      "ref_type": "references"
+    }
+  ]
+}

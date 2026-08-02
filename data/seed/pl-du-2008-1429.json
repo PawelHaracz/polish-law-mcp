@@ -13,14 +13,26 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 7 września 2007 r. o zmianie ustawy o dochodach jednostek samorządu terytorialnego oraz ustawy o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego ( Dz. U. Nr 191, poz. 1370 ) w art. 12 pkt 2 otrzymuje brzmienie: „ 2) art. 1 pkt 18 lit. a, który wchodzi w życie z dniem 1 stycznia 2012 r. ” ."
+      "content": "W ustawie z dnia 7 września 2007 r. o zmianie ustawy o dochodach jednostek samorządu terytorialnego oraz ustawy o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego w art. 12 pkt 2 otrzymuje brzmienie: „ art. 1 pkt 18 lit. a, który wchodzi w życie z dniem 1 stycznia 2012 r. ” ."
+    },
+    {
+      "provision_ref": "art1p2",
+      "section": "1",
+      "title": "Art. 1 pkt 2",
+      "content": "W ustawie z dnia 7 września 2007 r. o zmianie ustawy o dochodach jednostek samorządu terytorialnego oraz ustawy o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego w art. 12 pkt 2 otrzymuje brzmienie: „ art. 1 pkt 18 lit. a, który wchodzi w życie z dniem 1 stycznia 2012 r."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2007-1370",
+      "ref_type": "amended_by"
+    }
+  ]
 }

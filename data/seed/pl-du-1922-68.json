@@ -37,7 +37,31 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Art. 5",
-      "content": "Przepisy ustawy niniejszej nie mają zastosowania do osób: 1) które po 1 stycznia 1921 r. rozpoczęły uprawę działek, lub zajęły pomieszczenia wbrew wyraźnej woli obecnego na miejscu właściciela, bądź osoby, prawa jego przedstawiającej, 2) które dewastują zajmowane budynki, sady i urządzenia gospodarcze lub eksploatują wnętrze ziemi bez osobnego uprawnienia, 3) które po wejściu w życie tej ustawy dopuszczą się względem właścicieli, lub osób, ich prawa przedstawiających, czynów, karanych przez prawo karne, i 4) które nie zapłacą do 1 kwietnia 1922 r. wynagrodzenia, określonego w art. 3 niniejszej ustawy, za czas użytkowania do 31 października 1921 r."
+      "content": "Przepisy ustawy niniejszej nie mają zastosowania do osób: które po 1 stycznia 1921 r. rozpoczęły uprawę działek, lub zajęły pomieszczenia wbrew wyraźnej woli obecnego na miejscu właściciela, bądź osoby, prawa jego przedstawiającej, które dewastują zajmowane budynki, sady i urządzenia gospodarcze lub eksploatują wnętrze ziemi bez osobnego uprawnienia, które po wejściu w życie tej ustawy dopuszczą się względem właścicieli, lub osób, ich prawa przedstawiających, czynów, karanych przez prawo karne, i które nie zapłacą do 1 kwietnia 1922 r. wynagrodzenia, określonego w art. 3 niniejszej ustawy, za czas użytkowania do 31 października 1921 r."
+    },
+    {
+      "provision_ref": "art5p1",
+      "section": "5",
+      "title": "Art. 5 pkt 1",
+      "content": "Przepisy ustawy niniejszej nie mają zastosowania do osób: które po 1 stycznia 1921 r. rozpoczęły uprawę działek, lub zajęły pomieszczenia wbrew wyraźnej woli obecnego na miejscu właściciela, bądź osoby, prawa jego przedstawiającej,"
+    },
+    {
+      "provision_ref": "art5p2",
+      "section": "5",
+      "title": "Art. 5 pkt 2",
+      "content": "Przepisy ustawy niniejszej nie mają zastosowania do osób: które dewastują zajmowane budynki, sady i urządzenia gospodarcze lub eksploatują wnętrze ziemi bez osobnego uprawnienia,"
+    },
+    {
+      "provision_ref": "art5p3",
+      "section": "5",
+      "title": "Art. 5 pkt 3",
+      "content": "Przepisy ustawy niniejszej nie mają zastosowania do osób: które po wejściu w życie tej ustawy dopuszczą się względem właścicieli, lub osób, ich prawa przedstawiających, czynów, karanych przez prawo karne, i"
+    },
+    {
+      "provision_ref": "art5p4",
+      "section": "5",
+      "title": "Art. 5 pkt 4",
+      "content": "Przepisy ustawy niniejszej nie mają zastosowania do osób: które nie zapłacą do 1 kwietnia 1922 r. wynagrodzenia, określonego w art. 3 niniejszej ustawy, za czas użytkowania do 31 października 1921 r."
     },
     {
       "provision_ref": "art6",
@@ -55,8 +79,9 @@
       "provision_ref": "art8",
       "section": "8",
       "title": "Art. 8",
-      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_5-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_5-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_5-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"} ] } ];"
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": []
 }

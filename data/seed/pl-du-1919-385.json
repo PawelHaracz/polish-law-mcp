@@ -43,7 +43,31 @@
       "provision_ref": "art6",
       "section": "6",
       "title": "Art. 6",
-      "content": "Minister b. dzielnicy pruskiej ma następujące zadania: a) przejęcie wszystkich władz i urzędów od Komisarjatu Naczelnej Rady Ludowej i od organów państwowych niemieckich i pruskich, b) sprawowanie administracji b. dzielnicy pruskiej według postanowień niniejszej ustawy, do czasu oddania wszystkich działów tej administracji pod bezpośrednie kierownictwo właściwych Ministrów, c) przygotowanie przejścia wszystkich władz i urzędów b. dzielnicy pruskiej pod bezpośrednie kierownictwo właściwych Ministrów oraz przeprowadzenie reorganizacji tych władz stosownie do zasad dla całego Państwa przyjętych, d) wydawanie w porozumieniu z właściwymi Ministrami przepisów wykonawczych dla wprowadzenia polskich ustaw oraz wydawanie rozporządzeń, zaprowadzających zmiany niemieckich i pruskich ustaw i rozporządzeń, potrzebne celem zupełnego odłączenia władz i urzędów od Niemiec i przystosowanie ich ustroju i procedury do nowych warunków politycznych, wypływających z przyłączenia do Rzeczypospolitej Polskiej."
+      "content": "Minister b. dzielnicy pruskiej ma następujące zadania: przejęcie wszystkich władz i urzędów od Komisarjatu Naczelnej Rady Ludowej i od organów państwowych niemieckich i pruskich, sprawowanie administracji b. dzielnicy pruskiej według postanowień niniejszej ustawy, do czasu oddania wszystkich działów tej administracji pod bezpośrednie kierownictwo właściwych Ministrów, przygotowanie przejścia wszystkich władz i urzędów b. dzielnicy pruskiej pod bezpośrednie kierownictwo właściwych Ministrów oraz przeprowadzenie reorganizacji tych władz stosownie do zasad dla całego Państwa przyjętych, wydawanie w porozumieniu z właściwymi Ministrami przepisów wykonawczych dla wprowadzenia polskich ustaw oraz wydawanie rozporządzeń, zaprowadzających zmiany niemieckich i pruskich ustaw i rozporządzeń, potrzebne celem zupełnego odłączenia władz i urzędów od Niemiec i przystosowanie ich ustroju i procedury do nowych warunków politycznych, wypływających z przyłączenia do Rzeczypospolitej Polskiej."
+    },
+    {
+      "provision_ref": "art6la",
+      "section": "6",
+      "title": "Art. 6 lit. a",
+      "content": "Minister b. dzielnicy pruskiej ma następujące zadania: przejęcie wszystkich władz i urzędów od Komisarjatu Naczelnej Rady Ludowej i od organów państwowych niemieckich i pruskich,"
+    },
+    {
+      "provision_ref": "art6lb",
+      "section": "6",
+      "title": "Art. 6 lit. b",
+      "content": "Minister b. dzielnicy pruskiej ma następujące zadania: sprawowanie administracji b. dzielnicy pruskiej według postanowień niniejszej ustawy, do czasu oddania wszystkich działów tej administracji pod bezpośrednie kierownictwo właściwych Ministrów,"
+    },
+    {
+      "provision_ref": "art6lc",
+      "section": "6",
+      "title": "Art. 6 lit. c",
+      "content": "Minister b. dzielnicy pruskiej ma następujące zadania: przygotowanie przejścia wszystkich władz i urzędów b. dzielnicy pruskiej pod bezpośrednie kierownictwo właściwych Ministrów oraz przeprowadzenie reorganizacji tych władz stosownie do zasad dla całego Państwa przyjętych,"
+    },
+    {
+      "provision_ref": "art6ld",
+      "section": "6",
+      "title": "Art. 6 lit. d",
+      "content": "Minister b. dzielnicy pruskiej ma następujące zadania: wydawanie w porozumieniu z właściwymi Ministrami przepisów wykonawczych dla wprowadzenia polskich ustaw oraz wydawanie rozporządzeń, zaprowadzających zmiany niemieckich i pruskich ustaw i rozporządzeń, potrzebne celem zupełnego odłączenia władz i urzędów od Niemiec i przystosowanie ich ustroju i procedury do nowych warunków politycznych, wypływających z przyłączenia do Rzeczypospolitej Polskiej."
     },
     {
       "provision_ref": "art7",
@@ -139,8 +163,9 @@
       "provision_ref": "art22",
       "section": "22",
       "title": "Art. 22",
-      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_6-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_6-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_6-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"},{\"id\": \"arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"},{\"id\": \"arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\"},{\"id\": \"arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\"},{\"id\": \"arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\"},{\"id\": \"arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\"},{\"id\": \"arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\"},{\"id\": \"arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\"},{\"id\": \"arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\"},{\"id\": \"arti_22\",\"symbol\": \"arti_22\",\"type\": \"arti\",\"name\": \"22\",\"title\": \"Art. 22.\"} ] } ];"
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": []
 }

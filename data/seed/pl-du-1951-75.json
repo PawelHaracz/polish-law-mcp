@@ -13,7 +13,25 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "1. Poddaje się przepisom o publicznej gospodarce lokalami i o najmie lokali budynki i lokale, wyłączone dotychczas spod tych przepisów jako nowowybudowane lub gruntownie naprawione (odbudowane). 2. Czynsz, uiszczony z góry za lokale, określone w ust. 1, nie podlega zwrotowi i oblicza się za okres, za który nastąpiła wpłata, stosownie do umowy między wynajmującym a najemcą. 3. Od najemców pobiera się oprócz czynszu, określonego według art. 3 dekretu o najmie lokali , zryczałtowane opłaty za świadczenia w wysokości, stosowanej w budynkach, wybudowanych przez Zakład Osiedli Robotniczych."
+      "content": "Poddaje się przepisom o publicznej gospodarce lokalami i o najmie lokali budynki i lokale, wyłączone dotychczas spod tych przepisów jako nowowybudowane lub gruntownie naprawione (odbudowane). Czynsz, uiszczony z góry za lokale, określone w ust. 1, nie podlega zwrotowi i oblicza się za okres, za który nastąpiła wpłata, stosownie do umowy między wynajmującym a najemcą. Od najemców pobiera się oprócz czynszu, określonego według art. 3 dekretu o najmie lokali , zryczałtowane opłaty za świadczenia w wysokości, stosowanej w budynkach, wybudowanych przez Zakład Osiedli Robotniczych."
+    },
+    {
+      "provision_ref": "art1u1",
+      "section": "1",
+      "title": "Art. 1 ust. 1",
+      "content": "Poddaje się przepisom o publicznej gospodarce lokalami i o najmie lokali budynki i lokale, wyłączone dotychczas spod tych przepisów jako nowowybudowane lub gruntownie naprawione (odbudowane)."
+    },
+    {
+      "provision_ref": "art1u2",
+      "section": "1",
+      "title": "Art. 1 ust. 2",
+      "content": "Czynsz, uiszczony z góry za lokale, określone w ust. 1, nie podlega zwrotowi i oblicza się za okres, za który nastąpiła wpłata, stosownie do umowy między wynajmującym a najemcą."
+    },
+    {
+      "provision_ref": "art1u3",
+      "section": "1",
+      "title": "Art. 1 ust. 3",
+      "content": "Od najemców pobiera się oprócz czynszu, określonego według art. 3 dekretu o najmie lokali , zryczałtowane opłaty za świadczenia w wysokości, stosowanej w budynkach, wybudowanych przez Zakład Osiedli Robotniczych."
     },
     {
       "provision_ref": "art2",
@@ -31,7 +49,31 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "Tracą moc: 1) art. 6 dekretu z dnia 26 października 1945 r. o rozbiórce i naprawie budynków zniszczonych i uszkodzonych wskutek wojny ( Dz. U. R. P. z 1947 r. Nr 37, poz. 181 i z 1948 r. Nr 50, poz. 389 ) , 2) art. 2 ust. 1 lit. c), art. 6 i art. 20 ustawy z dnia 3 lipca 1947 r. o popieraniu budownictwa ( Dz. U. R. P. Nr 52, poz. 270 ) oraz 3) art. 3 ust. 1 pkt 1) i ust. 2 dekretu z dnia 21 grudnia 1945 r. o publicznej gospodarce lokalami ( Dz. U. R. P. z 1950 r. Nr 36, poz. 343 ) , 4) art. 1 ust. 2 lit. a) dekretu z dnia 28 lipca 1948 r. o najmie lokali ( Dz. U. R. P. z 1950 r. Nr 51, poz. 479 ) ."
+      "content": "Tracą moc: art. 6 dekretu z dnia 26 października 1945 r. o rozbiórce i naprawie budynków zniszczonych i uszkodzonych wskutek wojny , art. 2 ust. 1 lit. c), art. 6 i art. 20 ustawy z dnia 3 lipca 1947 r. o popieraniu budownictwa oraz art. 3 ust. 1 pkt 1) i ust. 2 dekretu z dnia 21 grudnia 1945 r. o publicznej gospodarce lokalami , art. 1 ust. 2 lit. a) dekretu z dnia 28 lipca 1948 r. o najmie lokali ."
+    },
+    {
+      "provision_ref": "art4p1",
+      "section": "4",
+      "title": "Art. 4 pkt 1",
+      "content": "Tracą moc: art. 6 dekretu z dnia 26 października 1945 r. o rozbiórce i naprawie budynków zniszczonych i uszkodzonych wskutek wojny ,"
+    },
+    {
+      "provision_ref": "art4p2",
+      "section": "4",
+      "title": "Art. 4 pkt 2",
+      "content": "Tracą moc: art. 2 ust. 1 lit. c), art. 6 i art. 20 ustawy z dnia 3 lipca 1947 r. o popieraniu budownictwa oraz"
+    },
+    {
+      "provision_ref": "art4p3",
+      "section": "4",
+      "title": "Art. 4 pkt 3",
+      "content": "Tracą moc: art. 3 ust. 1 pkt 1) i ust. 2 dekretu z dnia 21 grudnia 1945 r. o publicznej gospodarce lokalami ,"
+    },
+    {
+      "provision_ref": "art4p4",
+      "section": "4",
+      "title": "Art. 4 pkt 4",
+      "content": "Tracą moc: art. 1 ust. 2 lit. a) dekretu z dnia 28 lipca 1948 r. o najmie lokali ."
     },
     {
       "provision_ref": "art5",
@@ -43,8 +85,30 @@
       "provision_ref": "art6",
       "section": "6",
       "title": "Art. 6",
-      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_1-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_4-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_4-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_4-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-1947-181",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1948-389",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1947-270",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1950-343",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1950-479",
+      "ref_type": "references"
+    }
+  ]
 }

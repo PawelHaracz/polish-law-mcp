@@ -13,14 +13,38 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 25 września 1954 r. o reformie podziału administracyjnego wsi i powołaniu gromadzkich rad narodowych ( Dz. U. Nr 43, poz. 191 ) wprowadza się następujące zmiany: 1) art. 3 otrzymuje brzmienie: „ Art. 3. 1. Tworzenie, łączenie i znoszenie gromad, zmiana ich granic oraz ustalanie siedzib gromadzkich rad narodowych następuje w drodze uchwały wojewódzkiej rady narodowej, ogłoszonej w dzienniku urzędowym wojewódzkiej rady narodowej. 2. Uchwała wojewódzkiej rady narodowej o tworzeniu, łączeniu i znoszeniu gromad wymaga zatwierdzenia przez Radę Ministrów. ” ; 2) art. 40 skreśla się."
+      "content": "W ustawie z dnia 25 września 1954 r. o reformie podziału administracyjnego wsi i powołaniu gromadzkich rad narodowych wprowadza się następujące zmiany: art. 3 otrzymuje brzmienie: „ Tworzenie, łączenie i znoszenie gromad, zmiana ich granic oraz ustalanie siedzib gromadzkich rad narodowych następuje w drodze uchwały wojewódzkiej rady narodowej, ogłoszonej w dzienniku urzędowym wojewódzkiej rady narodowej. Uchwała wojewódzkiej rady narodowej o tworzeniu, łączeniu i znoszeniu gromad wymaga zatwierdzenia przez Radę Ministrów. ” ; art. 40 skreśla się."
+    },
+    {
+      "provision_ref": "art1p1u1",
+      "section": "1",
+      "title": "Art. 1 pkt 1 ust. 1",
+      "content": "W ustawie z dnia 25 września 1954 r. o reformie podziału administracyjnego wsi i powołaniu gromadzkich rad narodowych wprowadza się następujące zmiany: art. 3 otrzymuje brzmienie: „ Tworzenie, łączenie i znoszenie gromad, zmiana ich granic oraz ustalanie siedzib gromadzkich rad narodowych następuje w drodze uchwały wojewódzkiej rady narodowej, ogłoszonej w dzienniku urzędowym wojewódzkiej rady narodowej."
+    },
+    {
+      "provision_ref": "art1p1u2",
+      "section": "1",
+      "title": "Art. 1 pkt 1 ust. 2",
+      "content": "W ustawie z dnia 25 września 1954 r. o reformie podziału administracyjnego wsi i powołaniu gromadzkich rad narodowych wprowadza się następujące zmiany: art. 3 otrzymuje brzmienie: „ Uchwała wojewódzkiej rady narodowej o tworzeniu, łączeniu i znoszeniu gromad wymaga zatwierdzenia przez Radę Ministrów."
+    },
+    {
+      "provision_ref": "art1p2",
+      "section": "1",
+      "title": "Art. 1 pkt 2",
+      "content": "W ustawie z dnia 25 września 1954 r. o reformie podziału administracyjnego wsi i powołaniu gromadzkich rad narodowych wprowadza się następujące zmiany: art. 40 skreśla się."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-1954-191",
+      "ref_type": "amended_by"
+    }
+  ]
 }

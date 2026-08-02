@@ -13,7 +13,13 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W rozporządzeniu Prezydenta Rzeczypospolitej z dnia 16 lutego 1928 r. o prawie budowlanym i zabudowaniu osiedli ( Dz. U. R. P. z 1939 r. Nr 34, poz. 216 i Nr 77, poz. 514 , z 1946 r. Nr 16, poz. 109 i z 1948 r. Nr 35, poz. 240 ) art. 416 ust. 3 otrzymuje brzmienie: „ (3) Minister Odbudowy w porozumieniu z Ministrami: Administracji Publicznej, Ziem Odzyskanych, Obrony Narodowej oraz Pracy i Opieki Społecznej może wydawać w drodze rozporządzeń dla całego obszaru Państwa lub jego części ulgowe przepisy policyjno-budowlane, dopuszczające odchylenia od wymagań art. 172 - 316. Przepisy dla wsi będą wydawane w porozumieniu z Ministrem Rolnictwa i Reform Rolnych ” ."
+      "content": "W rozporządzeniu Prezydenta Rzeczypospolitej z dnia 16 lutego 1928 r. o prawie budowlanym i zabudowaniu osiedli art. 416 ust. 3 otrzymuje brzmienie: „ Minister Odbudowy w porozumieniu z Ministrami: Administracji Publicznej, Ziem Odzyskanych, Obrony Narodowej oraz Pracy i Opieki Społecznej może wydawać w drodze rozporządzeń dla całego obszaru Państwa lub jego części ulgowe przepisy policyjno-budowlane, dopuszczające odchylenia od wymagań art. 172 - 316. Przepisy dla wsi będą wydawane w porozumieniu z Ministrem Rolnictwa i Reform Rolnych ” ."
+    },
+    {
+      "provision_ref": "art1u3",
+      "section": "1",
+      "title": "Art. 1 ust. 3",
+      "content": "W rozporządzeniu Prezydenta Rzeczypospolitej z dnia 16 lutego 1928 r. o prawie budowlanym i zabudowaniu osiedli art. 416 ust. 3 otrzymuje brzmienie: „ Minister Odbudowy w porozumieniu z Ministrami: Administracji Publicznej, Ziem Odzyskanych, Obrony Narodowej oraz Pracy i Opieki Społecznej może wydawać w drodze rozporządzeń dla całego obszaru Państwa lub jego części ulgowe przepisy policyjno-budowlane, dopuszczające odchylenia od wymagań art. 172 - 316. Przepisy dla wsi będą wydawane w porozumieniu z Ministrem Rolnictwa i Reform Rolnych"
     },
     {
       "provision_ref": "art2",
@@ -25,8 +31,26 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-1939-216",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1939-514",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1946-109",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1948-240",
+      "ref_type": "amended_by"
+    }
+  ]
 }

@@ -19,7 +19,31 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "1. Czasem urzędowym na obszarze Rzeczypospolitej Polskiej jest czas środkowoeuropejski albo czas letni środkowoeuropejski w okresie od jego wprowadzenia do odwołania. 2. Czas środkowoeuropejski jest czasem zwiększonym o jedną godzinę w stosunku do uniwersalnego czasu koordynowanego UTC(PL). 3. Czas letni środkowoeuropejski jest czasem zwiększonym o dwie godziny w stosunku do uniwersalnego czasu koordynowanego UTC(PL). 4. Uniwersalny czas koordynowany UTC(PL) jest polską realizacją międzynarodowego uniwersalnego czasu koordynowanego UTC i wyznaczany jest przez państwowy wzorzec jednostek miar czasu i częstotliwości."
+      "content": "Czasem urzędowym na obszarze Rzeczypospolitej Polskiej jest czas środkowoeuropejski albo czas letni środkowoeuropejski w okresie od jego wprowadzenia do odwołania. Czas środkowoeuropejski jest czasem zwiększonym o jedną godzinę w stosunku do uniwersalnego czasu koordynowanego UTC(PL). Czas letni środkowoeuropejski jest czasem zwiększonym o dwie godziny w stosunku do uniwersalnego czasu koordynowanego UTC(PL). Uniwersalny czas koordynowany UTC(PL) jest polską realizacją międzynarodowego uniwersalnego czasu koordynowanego UTC i wyznaczany jest przez państwowy wzorzec jednostek miar czasu i częstotliwości."
+    },
+    {
+      "provision_ref": "art2u1",
+      "section": "2",
+      "title": "Art. 2 ust. 1",
+      "content": "Czasem urzędowym na obszarze Rzeczypospolitej Polskiej jest czas środkowoeuropejski albo czas letni środkowoeuropejski w okresie od jego wprowadzenia do odwołania."
+    },
+    {
+      "provision_ref": "art2u2",
+      "section": "2",
+      "title": "Art. 2 ust. 2",
+      "content": "Czas środkowoeuropejski jest czasem zwiększonym o jedną godzinę w stosunku do uniwersalnego czasu koordynowanego UTC(PL)."
+    },
+    {
+      "provision_ref": "art2u3",
+      "section": "2",
+      "title": "Art. 2 ust. 3",
+      "content": "Czas letni środkowoeuropejski jest czasem zwiększonym o dwie godziny w stosunku do uniwersalnego czasu koordynowanego UTC(PL)."
+    },
+    {
+      "provision_ref": "art2u4",
+      "section": "2",
+      "title": "Art. 2 ust. 4",
+      "content": "Uniwersalny czas koordynowany UTC(PL) jest polską realizacją międzynarodowego uniwersalnego czasu koordynowanego UTC i wyznaczany jest przez państwowy wzorzec jednostek miar czasu i częstotliwości."
     },
     {
       "provision_ref": "art3",
@@ -31,20 +55,38 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "1. Organem uprawnionym do utrzymywania czasu urzędowego i uniwersalnego czasu koordynowanego UTC(PL) oraz do rozpowszechniania sygnałów tych czasów jest Prezes Głównego Urzędu Miar. 2. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, sposoby rozpowszechniania sygnałów czasu urzędowego i uniwersalnego czasu koordynowanego UTC(PL), uwzględniając w szczególności standardy międzynarodowe i potrzeby użytkowników."
+      "content": "Organem uprawnionym do utrzymywania czasu urzędowego i uniwersalnego czasu koordynowanego UTC(PL) oraz do rozpowszechniania sygnałów tych czasów jest Prezes Głównego Urzędu Miar. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, sposoby rozpowszechniania sygnałów czasu urzędowego i uniwersalnego czasu koordynowanego UTC(PL), uwzględniając w szczególności standardy międzynarodowe i potrzeby użytkowników."
+    },
+    {
+      "provision_ref": "art4u1",
+      "section": "4",
+      "title": "Art. 4 ust. 1",
+      "content": "Organem uprawnionym do utrzymywania czasu urzędowego i uniwersalnego czasu koordynowanego UTC(PL) oraz do rozpowszechniania sygnałów tych czasów jest Prezes Głównego Urzędu Miar."
+    },
+    {
+      "provision_ref": "art4u2",
+      "section": "4",
+      "title": "Art. 4 ust. 2",
+      "content": "Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, sposoby rozpowszechniania sygnałów czasu urzędowego i uniwersalnego czasu koordynowanego UTC(PL), uwzględniając w szczególności standardy międzynarodowe i potrzeby użytkowników."
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Art. 5",
-      "content": "Traci moc ustawa z dnia 18 stycznia 1996 r. o czasie letnim ( Dz. U. Nr 29, poz. 128 ) ."
+      "content": "Traci moc ustawa z dnia 18 stycznia 1996 r. o czasie letnim ."
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Art. 6",
-      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_2-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_2-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-1996-128",
+      "ref_type": "references"
+    }
+  ]
 }

@@ -13,14 +13,32 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 11 kwietnia 2001 r. o zmianie ustawy o ewidencji ludności i dowodach osobistych oraz o zmianie niektórych innych ustaw ( Dz. U. Nr 43, poz. 476 ) art. 5 otrzymuje brzmienie: „ Art. 5. 1. Zbiory meldunkowe prowadzone w systemie kartotecznym mogą być nadal prowadzone w tym systemie do czasu uzupełnienia zbiorów meldunkowych prowadzonych w systemie informatycznym, nie dłużej jednak niż do dnia 31 grudnia 2010 r. 2. Ewidencja wydanych i utraconych dowodów osobistych (rejestry numerowe) prowadzona w systemie kartotecznym może być nadal prowadzona w tym systemie do czasu zakończenia wymiany książeczkowych dowodów osobistych, nie dłużej jednak niż do dnia 31 grudnia 2007 r. ” ."
+      "content": "W ustawie z dnia 11 kwietnia 2001 r. o zmianie ustawy o ewidencji ludności i dowodach osobistych oraz o zmianie niektórych innych ustaw art. 5 otrzymuje brzmienie: „ Zbiory meldunkowe prowadzone w systemie kartotecznym mogą być nadal prowadzone w tym systemie do czasu uzupełnienia zbiorów meldunkowych prowadzonych w systemie informatycznym, nie dłużej jednak niż do dnia 31 grudnia 2010 r. Ewidencja wydanych i utraconych dowodów osobistych (rejestry numerowe) prowadzona w systemie kartotecznym może być nadal prowadzona w tym systemie do czasu zakończenia wymiany książeczkowych dowodów osobistych, nie dłużej jednak niż do dnia 31 grudnia 2007 r. ” ."
+    },
+    {
+      "provision_ref": "art1u1",
+      "section": "1",
+      "title": "Art. 1 ust. 1",
+      "content": "W ustawie z dnia 11 kwietnia 2001 r. o zmianie ustawy o ewidencji ludności i dowodach osobistych oraz o zmianie niektórych innych ustaw art. 5 otrzymuje brzmienie: „ Zbiory meldunkowe prowadzone w systemie kartotecznym mogą być nadal prowadzone w tym systemie do czasu uzupełnienia zbiorów meldunkowych prowadzonych w systemie informatycznym, nie dłużej jednak niż do dnia 31 grudnia 2010 r."
+    },
+    {
+      "provision_ref": "art1u2",
+      "section": "1",
+      "title": "Art. 1 ust. 2",
+      "content": "W ustawie z dnia 11 kwietnia 2001 r. o zmianie ustawy o ewidencji ludności i dowodach osobistych oraz o zmianie niektórych innych ustaw art. 5 otrzymuje brzmienie: „ Ewidencja wydanych i utraconych dowodów osobistych (rejestry numerowe) prowadzona w systemie kartotecznym może być nadal prowadzona w tym systemie do czasu zakończenia wymiany książeczkowych dowodów osobistych, nie dłużej jednak niż do dnia 31 grudnia 2007 r."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2006 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2006 r."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2001-476",
+      "ref_type": "amended_by"
+    }
+  ]
 }

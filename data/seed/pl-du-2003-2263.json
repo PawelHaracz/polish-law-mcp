@@ -13,14 +13,24 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 20 lipca 2001 r. o świadczeniu dla cywilnych ofiar wojny ( Dz. U. Nr 89, poz. 974 i Nr 154, poz. 1786 ) art. 9 otrzymuje brzmienie: „ Art. 9. Ustawa wchodzi w życie z dniem 1 stycznia 2005 r. ” ."
+      "content": "W ustawie z dnia 20 lipca 2001 r. o świadczeniu dla cywilnych ofiar wojny art. 9 otrzymuje brzmienie: „ Ustawa wchodzi w życie z dniem 1 stycznia 2005 r. ” ."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ustawa wchodzi w życie z dniem 31 grudnia 2003 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie z dniem 31 grudnia 2003 r."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2001-974",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2001-1786",
+      "ref_type": "amended_by"
+    }
+  ]
 }

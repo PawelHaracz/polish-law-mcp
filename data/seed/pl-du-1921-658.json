@@ -13,7 +13,31 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "Wymienione w poz. 58 taryfy pruskiej ustawy o opłatach stemplowych z dnia 30 czerwca 1909 r. (Pruski Zb. Ust. str. 535) stawki. zmienia się w sposób następujący: a) stawki stemplowe od skryptów dłużnych, podane w części I dział (1) następnie w części II dział (1), wreszcie w części III dział (1), podwyższa się z 1/12%, względnie 1/50%, na 1% (jeden od sta); b) w części I dział (2) pod nagłówkiem „Zniżki” skreśla się cały ustęp b) liczby 1 - 7; c) w części I dział (3) pod nagłówkiem „Uwolnienia” ustęp a) zmienia się wyrażenie: „jedna dwunasta od sta” na: „jeden od sta”. d) w części II dział (3) ma opiewać: „Odnośnie do przedłużenia terminu zwrotu obowiązują postanowienia części I dział (3) nagłówek „Uwolnienia” ustępy a) i e)."
+      "content": "Wymienione w poz. 58 taryfy pruskiej ustawy o opłatach stemplowych z dnia 30 czerwca 1909 r. (Pruski Zb. Ust. str. 535) stawki. zmienia się w sposób następujący: stawki stemplowe od skryptów dłużnych, podane w części I dział (1) następnie w części II dział (1), wreszcie w części III dział (1), podwyższa się z 1/12%, względnie 1/50%, na 1% (jeden od sta); w części I dział (2) pod nagłówkiem „Zniżki” skreśla się cały ustęp b) liczby 1 - 7; w części I dział (3) pod nagłówkiem „Uwolnienia” ustęp a) zmienia się wyrażenie: „jedna dwunasta od sta” na: „jeden od sta”. w części II dział (3) ma opiewać: „Odnośnie do przedłużenia terminu zwrotu obowiązują postanowienia części I dział (3) nagłówek „Uwolnienia” ustępy a) i e)."
+    },
+    {
+      "provision_ref": "art1la",
+      "section": "1",
+      "title": "Art. 1 lit. a",
+      "content": "Wymienione w poz. 58 taryfy pruskiej ustawy o opłatach stemplowych z dnia 30 czerwca 1909 r. (Pruski Zb. Ust. str. 535) stawki. zmienia się w sposób następujący: stawki stemplowe od skryptów dłużnych, podane w części I dział (1) następnie w części II dział (1), wreszcie w części III dział (1), podwyższa się z 1/12%, względnie 1/50%, na 1% (jeden od sta);"
+    },
+    {
+      "provision_ref": "art1lb",
+      "section": "1",
+      "title": "Art. 1 lit. b",
+      "content": "Wymienione w poz. 58 taryfy pruskiej ustawy o opłatach stemplowych z dnia 30 czerwca 1909 r. (Pruski Zb. Ust. str. 535) stawki. zmienia się w sposób następujący: w części I dział (2) pod nagłówkiem „Zniżki” skreśla się cały ustęp b) liczby 1 - 7;"
+    },
+    {
+      "provision_ref": "art1lc",
+      "section": "1",
+      "title": "Art. 1 lit. c",
+      "content": "Wymienione w poz. 58 taryfy pruskiej ustawy o opłatach stemplowych z dnia 30 czerwca 1909 r. (Pruski Zb. Ust. str. 535) stawki. zmienia się w sposób następujący: w części I dział (3) pod nagłówkiem „Uwolnienia” ustęp a) zmienia się wyrażenie: „jedna dwunasta od sta” na: „jeden od sta”."
+    },
+    {
+      "provision_ref": "art1ld",
+      "section": "1",
+      "title": "Art. 1 lit. d",
+      "content": "Wymienione w poz. 58 taryfy pruskiej ustawy o opłatach stemplowych z dnia 30 czerwca 1909 r. (Pruski Zb. Ust. str. 535) stawki. zmienia się w sposób następujący: w części II dział (3) ma opiewać: „Odnośnie do przedłużenia terminu zwrotu obowiązują postanowienia części I dział (3) nagłówek „Uwolnienia” ustępy a) i e)."
     },
     {
       "provision_ref": "art2",
@@ -31,8 +55,9 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "Wykonanie tej ustawy powierza się Ministrowi b. Dzielnicy Pruskiej. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_1-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+      "content": "Wykonanie tej ustawy powierza się Ministrowi b. Dzielnicy Pruskiej."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": []
 }

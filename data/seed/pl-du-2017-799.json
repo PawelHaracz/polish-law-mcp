@@ -13,7 +13,7 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych ( Dz. U. z 2015 r. poz. 2139 oraz z 2016 r. poz. 1250 ) w rozdziale 10 dodaje się art. 77a w brzmieniu: „ Art. 77a. W przypadku meczów Turnieju Finałowego Młodzieżowych Mistrzostw Europy w Piłce Nożnej UEFA EURO U21 Polska 2017 nie stosuje się przepisów art. 15 ust. 1 i 2. ” ."
+      "content": "W ustawie z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych w rozdziale 10 dodaje się art. 77a w brzmieniu: „ W przypadku meczów Turnieju Finałowego Młodzieżowych Mistrzostw Europy w Piłce Nożnej UEFA EURO U21 Polska 2017 nie stosuje się przepisów art. 15 ust. 1 i 2. ” ."
     },
     {
       "provision_ref": "art2",
@@ -25,8 +25,18 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2015-2139",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2016-1250",
+      "ref_type": "amended_by"
+    }
+  ]
 }

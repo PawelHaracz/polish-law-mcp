@@ -13,14 +13,38 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 29 sierpnia 1997 r. o listach zastawnych i bankach hipotecznych ( Dz. U. Nr 140, poz. 940 , z 1998 r. Nr 107, poz. 669 oraz z 2000 r. Nr 6, poz. 70 i Nr 60, poz. 702 ) w art. 27 ust. 3 otrzymuje brzmienie: „ 3. Powiernik i jego zastępca powinni posiadać obywatelstwo jednego z państw-członków Unii Europejskiej, wykształcenie wyższe i dawać rękojmię rzetelnego wykonywania nałożonych na nich obowiązków. ”"
+      "content": "W ustawie z dnia 29 sierpnia 1997 r. o listach zastawnych i bankach hipotecznych w art. 27 ust. 3 otrzymuje brzmienie: „ Powiernik i jego zastępca powinni posiadać obywatelstwo jednego z państw-członków Unii Europejskiej, wykształcenie wyższe i dawać rękojmię rzetelnego wykonywania nałożonych na nich obowiązków. ”"
+    },
+    {
+      "provision_ref": "art1u3",
+      "section": "1",
+      "title": "Art. 1 ust. 3",
+      "content": "W ustawie z dnia 29 sierpnia 1997 r. o listach zastawnych i bankach hipotecznych w art. 27 ust. 3 otrzymuje brzmienie: „ Powiernik i jego zastępca powinni posiadać obywatelstwo jednego z państw-członków Unii Europejskiej, wykształcenie wyższe i dawać rękojmię rzetelnego wykonywania nałożonych na nich obowiązków."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-1997-940",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1998-669",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2000-70",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2000-702",
+      "ref_type": "amended_by"
+    }
+  ]
 }

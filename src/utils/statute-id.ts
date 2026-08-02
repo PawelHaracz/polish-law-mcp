@@ -24,9 +24,26 @@ interface DocRow {
 // Abbreviation map (Step 2) — add entries as needed
 // ---------------------------------------------------------------------------
 
+// Polish legal shorthand → canonical in-force code document id.
+// Keys are normalised (uppercased, dots/spaces stripped) before lookup, so
+// "k.c.", "K.C." and "kc" all map through the "KC" entry. IDs verified against
+// the built database (the consolidated/original acts, not amending statutes).
 const ABBREVIATIONS: Record<string, string> = {
-  // Example: 'DPA': 'data-protection-act-2019',
+  KC: 'pl-du-1964-93', // Kodeks cywilny
+  KK: 'pl-du-1997-553', // Kodeks karny
+  KKS: 'pl-du-1999-930', // Kodeks karny skarbowy
+  KKW: 'pl-du-1997-557', // Kodeks karny wykonawczy
+  KP: 'pl-du-1974-141', // Kodeks pracy
+  KSH: 'pl-du-2000-1037', // Kodeks spółek handlowych
+  KPC: 'pl-du-1964-296', // Kodeks postępowania cywilnego
+  KPK: 'pl-du-1997-555', // Kodeks postępowania karnego
+  RODO: 'pl-du-2018-1000', // Ustawa o ochronie danych osobowych (RODO impl.)
 };
+
+/** Normalise an abbreviation candidate: uppercase, strip dots and whitespace. */
+function normalizeAbbrev(s: string): string {
+  return s.toUpperCase().replace(/[.\s]/g, '');
+}
 
 // ---------------------------------------------------------------------------
 // Caches (lazy singletons, reset per test run)
@@ -130,7 +147,7 @@ export function resolveDocumentId(
   // -----------------------------------------------------------------------
   // Step 2 — Abbreviation map
   // -----------------------------------------------------------------------
-  const abbrev = ABBREVIATIONS[trimmed] ?? ABBREVIATIONS[trimmed.toUpperCase()];
+  const abbrev = ABBREVIATIONS[normalizeAbbrev(trimmed)];
   if (abbrev) return abbrev;
 
   // -----------------------------------------------------------------------

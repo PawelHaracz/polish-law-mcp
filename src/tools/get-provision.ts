@@ -4,8 +4,34 @@
 
 import type Database from '@ansvar/mcp-sqlite';
 import { resolveDocumentId } from '../utils/statute-id.js';
-import { generateResponseMetadata, type ToolResponse } from '../utils/metadata.js';
+import { generateResponseMetadata, type ToolResponse, type RelatedActRef } from '../utils/metadata.js';
 import { buildProvisionCitation } from '../utils/citation.js';
+
+/**
+ * Graph-aware context: the acts that amend the given document (inbound
+ * amended_by edges). Surfaced alongside a provision so the caller immediately
+ * sees "this act has been amended by …" without a separate get_related_acts call.
+ * Returns at most `limit` rows; empty when the graph is absent or there are none.
+ */
+function relatedAmendingActs(
+  db: InstanceType<typeof Database>,
+  documentId: string,
+  limit = 10,
+): RelatedActRef[] {
+  try {
+    const rows = db.prepare(`
+      SELECT ld.id as document_id, ld.title as document_title, xr.ref_type
+      FROM cross_references xr
+      JOIN legal_documents ld ON ld.id = xr.source_document_id
+      WHERE xr.target_document_id = ? AND xr.ref_type = 'amended_by'
+      ORDER BY ld.issued_date DESC
+      LIMIT ?
+    `).all(documentId, limit) as Array<{ document_id: string; document_title: string; ref_type: string }>;
+    return rows.map(r => ({ ...r, direction: 'inbound' as const }));
+  } catch {
+    return []; // graph table not present in this DB tier
+  }
+}
 
 export interface GetProvisionInput {
   document_id: string;
@@ -81,6 +107,7 @@ export async function getProvision(
     }
 
     if (provision) {
+      const related = relatedAmendingActs(db, resolvedId);
       return {
         results: [{
           document_id: resolvedId,
@@ -102,6 +129,7 @@ export async function getProvision(
           docRow.url || null,
           null,
         ),
+        ...(related.length > 0 ? { _related: related } : {}),
         _metadata: generateResponseMetadata(db),
       };
     }

@@ -13,7 +13,31 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "Artykuł 13 ustawy z dnia 26 lipca 1919 r. o utraconych tytułach na okaziciela (Dz. U. R. P. Nr. 67, poz. 406), zmieniony ustawą z dnia 18 października 1921 r. (Dz. U. R. P. Nr. 87, poz. 637) otrzymuje brzmienie następujące: „ Ustawa niniejsza nie dotyczy: 1) biletów Banku Polskiego; 2) obligacyj państwowych i samorządowych, emitowanych na rynkach zagranicznych, zarówno tych, które będą wypuszczone, jak i tych, które znajdują się już w obiegu; 3) kuponów od tytułów na okaziciela, emitowanych przez Państwo, kuponów od listów zastawnych towarzystw kredytowych ziemskich i miejskich, Towarzystwa Kredytowego Przemysłu Polskiego oraz Wileńskiego Banku Ziemskiego i od obligacyj, emitowanych przez związki samorządu terytorialnego; 4) biletów loteryjnych, kolejowych, znaków opłaty i t. p. ” ."
+      "content": "Artykuł 13 ustawy z dnia 26 lipca 1919 r. o utraconych tytułach na okaziciela (Dz. U. R. P. Nr. 67, poz. 406), zmieniony ustawą z dnia 18 października 1921 r. (Dz. U. R. P. Nr. 87, poz. 637) otrzymuje brzmienie następujące: „ Ustawa niniejsza nie dotyczy: biletów Banku Polskiego; obligacyj państwowych i samorządowych, emitowanych na rynkach zagranicznych, zarówno tych, które będą wypuszczone, jak i tych, które znajdują się już w obiegu; kuponów od tytułów na okaziciela, emitowanych przez Państwo, kuponów od listów zastawnych towarzystw kredytowych ziemskich i miejskich, Towarzystwa Kredytowego Przemysłu Polskiego oraz Wileńskiego Banku Ziemskiego i od obligacyj, emitowanych przez związki samorządu terytorialnego; biletów loteryjnych, kolejowych, znaków opłaty i t. p. ” ."
+    },
+    {
+      "provision_ref": "art1p1",
+      "section": "1",
+      "title": "Art. 1 pkt 1",
+      "content": "Artykuł 13 ustawy z dnia 26 lipca 1919 r. o utraconych tytułach na okaziciela (Dz. U. R. P. Nr. 67, poz. 406), zmieniony ustawą z dnia 18 października 1921 r. (Dz. U. R. P. Nr. 87, poz. 637) otrzymuje brzmienie następujące: „ Ustawa niniejsza nie dotyczy: biletów Banku Polskiego;"
+    },
+    {
+      "provision_ref": "art1p2",
+      "section": "1",
+      "title": "Art. 1 pkt 2",
+      "content": "Artykuł 13 ustawy z dnia 26 lipca 1919 r. o utraconych tytułach na okaziciela (Dz. U. R. P. Nr. 67, poz. 406), zmieniony ustawą z dnia 18 października 1921 r. (Dz. U. R. P. Nr. 87, poz. 637) otrzymuje brzmienie następujące: „ Ustawa niniejsza nie dotyczy: obligacyj państwowych i samorządowych, emitowanych na rynkach zagranicznych, zarówno tych, które będą wypuszczone, jak i tych, które znajdują się już w obiegu;"
+    },
+    {
+      "provision_ref": "art1p3",
+      "section": "1",
+      "title": "Art. 1 pkt 3",
+      "content": "Artykuł 13 ustawy z dnia 26 lipca 1919 r. o utraconych tytułach na okaziciela (Dz. U. R. P. Nr. 67, poz. 406), zmieniony ustawą z dnia 18 października 1921 r. (Dz. U. R. P. Nr. 87, poz. 637) otrzymuje brzmienie następujące: „ Ustawa niniejsza nie dotyczy: kuponów od tytułów na okaziciela, emitowanych przez Państwo, kuponów od listów zastawnych towarzystw kredytowych ziemskich i miejskich, Towarzystwa Kredytowego Przemysłu Polskiego oraz Wileńskiego Banku Ziemskiego i od obligacyj, emitowanych przez związki samorządu terytorialnego;"
+    },
+    {
+      "provision_ref": "art1p4",
+      "section": "1",
+      "title": "Art. 1 pkt 4",
+      "content": "Artykuł 13 ustawy z dnia 26 lipca 1919 r. o utraconych tytułach na okaziciela (Dz. U. R. P. Nr. 67, poz. 406), zmieniony ustawą z dnia 18 października 1921 r. (Dz. U. R. P. Nr. 87, poz. 637) otrzymuje brzmienie następujące: „ Ustawa niniejsza nie dotyczy: biletów loteryjnych, kolejowych, znaków opłaty i t. p."
     },
     {
       "provision_ref": "art2",
@@ -31,8 +55,9 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": []
 }

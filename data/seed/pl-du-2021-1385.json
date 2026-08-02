@@ -1,0 +1,370 @@
+{
+  "id": "pl-du-2021-1385",
+  "type": "statute",
+  "title": "Rozporządzenie Ministra Rozwoju, Pracy i Technologii z dnia 23 lipca 2021 r. w sprawie bazy danych obiektów topograficznych oraz mapy zasadniczej",
+  "title_en": "",
+  "short_name": "pl-du-2021-1385",
+  "status": "in_force",
+  "issued_date": "2021-08-23",
+  "in_force_date": "2021-07-30",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2021/1385",
+  "provisions": [
+    {
+      "provision_ref": "par1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Rozporządzenie określa: zakres informacji gromadzonych w bazie danych obiektów topograficznych, o której mowa w art. 4 ust. 1a pkt 12 ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne , zwanej dalej „bazą BDOT500”; organizację, tryb i standardy techniczne tworzenia, aktualizacji i udostępniania bazy BDOT500; organizację, tryb i standardy techniczne tworzenia mapy zasadniczej, o której mowa w art. 4 ust. 1e pkt 2 ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne , zwanej dalej „ustawą”."
+    },
+    {
+      "provision_ref": "par1p1",
+      "section": "1",
+      "title": "§ 1 pkt 1",
+      "content": "Rozporządzenie określa: zakres informacji gromadzonych w bazie danych obiektów topograficznych, o której mowa w art. 4 ust. 1a pkt 12 ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne , zwanej dalej „bazą BDOT500”;"
+    },
+    {
+      "provision_ref": "par1p2",
+      "section": "1",
+      "title": "§ 1 pkt 2",
+      "content": "Rozporządzenie określa: organizację, tryb i standardy techniczne tworzenia, aktualizacji i udostępniania bazy BDOT500;"
+    },
+    {
+      "provision_ref": "par1p3",
+      "section": "1",
+      "title": "§ 1 pkt 3",
+      "content": "Rozporządzenie określa: organizację, tryb i standardy techniczne tworzenia mapy zasadniczej, o której mowa w art. 4 ust. 1e pkt 2 ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne , zwanej dalej „ustawą”."
+    },
+    {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Lokalizację obiektów bazy BDOT500 określa się w układzie współrzędnych płaskich prostokątnych PL-2000, o którym mowa w przepisach wydanych na podstawie art. 3 ust. 5 ustawy. Wysokości charakterystycznych punktów obiektów bazy BDOT500 określa się w układzie wysokościowym PL-EVRF2007-NH, o którym mowa w przepisach wydanych na podstawie art. 3 ust. 5 ustawy. Reprezentacją geometryczną obiektów bazy BDOT500 w zależności od ich rodzaju może być: punkt, zbiór punktów (multipunkt), linia łamana, zbiór linii łamanych (multilinia) wielokąt (poligon) oraz zbiór wielokątów (multipoligon)."
+    },
+    {
+      "provision_ref": "par2u1",
+      "section": "2",
+      "title": "§ 2 ust. 1",
+      "content": "Lokalizację obiektów bazy BDOT500 określa się w układzie współrzędnych płaskich prostokątnych PL-2000, o którym mowa w przepisach wydanych na podstawie art. 3 ust. 5 ustawy."
+    },
+    {
+      "provision_ref": "par2u2",
+      "section": "2",
+      "title": "§ 2 ust. 2",
+      "content": "Wysokości charakterystycznych punktów obiektów bazy BDOT500 określa się w układzie wysokościowym PL-EVRF2007-NH, o którym mowa w przepisach wydanych na podstawie art. 3 ust. 5 ustawy."
+    },
+    {
+      "provision_ref": "par2u3",
+      "section": "2",
+      "title": "§ 2 ust. 3",
+      "content": "Reprezentacją geometryczną obiektów bazy BDOT500 w zależności od ich rodzaju może być: punkt, zbiór punktów (multipunkt), linia łamana, zbiór linii łamanych (multilinia) wielokąt (poligon) oraz zbiór wielokątów (multipoligon)."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "W bazie BDOT500 gromadzi się informacje dotyczące: budynków niewykazanych w ewidencji gruntów i budynków oraz obiektów budowlanych trwale związanych z budynkiem; budowli; ogrodzeń; komunikacji; zagospodarowania terenu; sportu i rekreacji; wód; rzeźby terenu. Wykaz obiektów bazy BDOT500 wraz z dozwolonymi typami geometrii określa załącznik nr 1 do rozporządzenia."
+    },
+    {
+      "provision_ref": "par3u1p1",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 1",
+      "content": "W bazie BDOT500 gromadzi się informacje dotyczące: budynków niewykazanych w ewidencji gruntów i budynków oraz obiektów budowlanych trwale związanych z budynkiem;"
+    },
+    {
+      "provision_ref": "par3u1p2",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 2",
+      "content": "W bazie BDOT500 gromadzi się informacje dotyczące: budowli;"
+    },
+    {
+      "provision_ref": "par3u1p3",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 3",
+      "content": "W bazie BDOT500 gromadzi się informacje dotyczące: ogrodzeń;"
+    },
+    {
+      "provision_ref": "par3u1p4",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 4",
+      "content": "W bazie BDOT500 gromadzi się informacje dotyczące: komunikacji;"
+    },
+    {
+      "provision_ref": "par3u1p5",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 5",
+      "content": "W bazie BDOT500 gromadzi się informacje dotyczące: zagospodarowania terenu;"
+    },
+    {
+      "provision_ref": "par3u1p6",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 6",
+      "content": "W bazie BDOT500 gromadzi się informacje dotyczące: sportu i rekreacji;"
+    },
+    {
+      "provision_ref": "par3u1p7",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 7",
+      "content": "W bazie BDOT500 gromadzi się informacje dotyczące: wód;"
+    },
+    {
+      "provision_ref": "par3u1p8",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 8",
+      "content": "W bazie BDOT500 gromadzi się informacje dotyczące: rzeźby terenu."
+    },
+    {
+      "provision_ref": "par3u2",
+      "section": "3",
+      "title": "§ 3 ust. 2",
+      "content": "Wykaz obiektów bazy BDOT500 wraz z dozwolonymi typami geometrii określa załącznik nr 1 do rozporządzenia."
+    },
+    {
+      "provision_ref": "par4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Atrybutami wspólnymi dla wszystkich obiektów bazy BDOT500 są: metoda pozyskania informacji o obiekcie; data przyjęcia do państwowego zasobu geodezyjnego i kartograficznego; numer operatu technicznego, w ramach którego obiekt został wprowadzony do bazy BDOT500. Wyróżnia się następujące metody pozyskiwania informacji o obiekcie bazy BDOT500: pomiar bezpośredni w nawiązaniu do osnowy - oznaczenie literą O; wektoryzacja - oznaczenie literą D; pomiar fotogrametryczny - oznaczenie literą F; pomiar bezpośredni w nawiązaniu do szczegółów terenowych - oznaczenie literą M; inna metoda pozyskania - oznaczenie literą I; nieokreślona metoda pozyskania - oznaczenie literą X."
+    },
+    {
+      "provision_ref": "par4u1p1",
+      "section": "4",
+      "title": "§ 4 ust. 1 pkt 1",
+      "content": "Atrybutami wspólnymi dla wszystkich obiektów bazy BDOT500 są: metoda pozyskania informacji o obiekcie;"
+    },
+    {
+      "provision_ref": "par4u1p2",
+      "section": "4",
+      "title": "§ 4 ust. 1 pkt 2",
+      "content": "Atrybutami wspólnymi dla wszystkich obiektów bazy BDOT500 są: data przyjęcia do państwowego zasobu geodezyjnego i kartograficznego;"
+    },
+    {
+      "provision_ref": "par4u1p3",
+      "section": "4",
+      "title": "§ 4 ust. 1 pkt 3",
+      "content": "Atrybutami wspólnymi dla wszystkich obiektów bazy BDOT500 są: numer operatu technicznego, w ramach którego obiekt został wprowadzony do bazy BDOT500."
+    },
+    {
+      "provision_ref": "par4u2p1",
+      "section": "4",
+      "title": "§ 4 ust. 2 pkt 1",
+      "content": "Wyróżnia się następujące metody pozyskiwania informacji o obiekcie bazy BDOT500: pomiar bezpośredni w nawiązaniu do osnowy - oznaczenie literą O;"
+    },
+    {
+      "provision_ref": "par4u2p2",
+      "section": "4",
+      "title": "§ 4 ust. 2 pkt 2",
+      "content": "Wyróżnia się następujące metody pozyskiwania informacji o obiekcie bazy BDOT500: wektoryzacja - oznaczenie literą D;"
+    },
+    {
+      "provision_ref": "par4u2p3",
+      "section": "4",
+      "title": "§ 4 ust. 2 pkt 3",
+      "content": "Wyróżnia się następujące metody pozyskiwania informacji o obiekcie bazy BDOT500: pomiar fotogrametryczny - oznaczenie literą F;"
+    },
+    {
+      "provision_ref": "par4u2p4",
+      "section": "4",
+      "title": "§ 4 ust. 2 pkt 4",
+      "content": "Wyróżnia się następujące metody pozyskiwania informacji o obiekcie bazy BDOT500: pomiar bezpośredni w nawiązaniu do szczegółów terenowych - oznaczenie literą M;"
+    },
+    {
+      "provision_ref": "par4u2p5",
+      "section": "4",
+      "title": "§ 4 ust. 2 pkt 5",
+      "content": "Wyróżnia się następujące metody pozyskiwania informacji o obiekcie bazy BDOT500: inna metoda pozyskania - oznaczenie literą I;"
+    },
+    {
+      "provision_ref": "par4u2p6",
+      "section": "4",
+      "title": "§ 4 ust. 2 pkt 6",
+      "content": "Wyróżnia się następujące metody pozyskiwania informacji o obiekcie bazy BDOT500: nieokreślona metoda pozyskania - oznaczenie literą X."
+    },
+    {
+      "provision_ref": "par5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Z każdym obiektem bazy BDOT500 mogą być związane informacje określające wysokości punktów charakterystycznych położonych na elementach tych obiektów."
+    },
+    {
+      "provision_ref": "par6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "Każdemu obiektowi bazy BDOT500 nadaje się identyfikator infrastruktury informacji przestrzennej, zwany dalej „identyfikatorem IdIIP”, na który składają się: przestrzeń nazw, w której skład wchodzi identyfikator zbioru danych przestrzennych, do którego należy dany obiekt przestrzenny, według ewidencji zbiorów oraz usług danych przestrzennych infrastruktury informacji przestrzennej, o której mowa w przepisach wydanych na podstawie art. 13 ust. 5 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej , uzupełniona po kropce skrótem „BDOT500”; identyfikator lokalny wyróżniający w sposób jednoznaczny dany obiekt spośród innych obiektów zapisanych w bazie BDOT500; identyfikator wersji obiektu. Elementy identyfikatora IdIIP, o których mowa w ust. 1 pkt 1 i 2, nie mogą być zmieniane."
+    },
+    {
+      "provision_ref": "par6u1p1",
+      "section": "6",
+      "title": "§ 6 ust. 1 pkt 1",
+      "content": "Każdemu obiektowi bazy BDOT500 nadaje się identyfikator infrastruktury informacji przestrzennej, zwany dalej „identyfikatorem IdIIP”, na który składają się: przestrzeń nazw, w której skład wchodzi identyfikator zbioru danych przestrzennych, do którego należy dany obiekt przestrzenny, według ewidencji zbiorów oraz usług danych przestrzennych infrastruktury informacji przestrzennej, o której mowa w przepisach wydanych na podstawie art. 13 ust. 5 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej , uzupełniona po kropce skrótem „BDOT500”;"
+    },
+    {
+      "provision_ref": "par6u1p2",
+      "section": "6",
+      "title": "§ 6 ust. 1 pkt 2",
+      "content": "Każdemu obiektowi bazy BDOT500 nadaje się identyfikator infrastruktury informacji przestrzennej, zwany dalej „identyfikatorem IdIIP”, na który składają się: identyfikator lokalny wyróżniający w sposób jednoznaczny dany obiekt spośród innych obiektów zapisanych w bazie BDOT500;"
+    },
+    {
+      "provision_ref": "par6u1p3",
+      "section": "6",
+      "title": "§ 6 ust. 1 pkt 3",
+      "content": "Każdemu obiektowi bazy BDOT500 nadaje się identyfikator infrastruktury informacji przestrzennej, zwany dalej „identyfikatorem IdIIP”, na który składają się: identyfikator wersji obiektu."
+    },
+    {
+      "provision_ref": "par6u2",
+      "section": "6",
+      "title": "§ 6 ust. 2",
+      "content": "Elementy identyfikatora IdIIP, o których mowa w ust. 1 pkt 1 i 2, nie mogą być zmieniane."
+    },
+    {
+      "provision_ref": "par7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "Specyfikację pojęciowego modelu danych bazy BDOT500 określa załącznik nr 2 do rozporządzenia."
+    },
+    {
+      "provision_ref": "par8",
+      "section": "8",
+      "title": "§ 8",
+      "content": "Bazę BDOT500 tworzy się i aktualizuje w drodze czynności materialno-technicznej na podstawie materiałów przyjmowanych do państwowego zasobu geodezyjnego i kartograficznego. Bazę BDOT500 aktualizuje się niezwłocznie, nie później niż w terminie 30 dni od dnia uzyskania materiałów, o których mowa w ust. 1. Tworzenie i aktualizacja bazy BDOT500 odbywają się zgodnie ze standardami technicznymi określonymi w załącznikach nr 1 i 2 do rozporządzenia."
+    },
+    {
+      "provision_ref": "par8u1",
+      "section": "8",
+      "title": "§ 8 ust. 1",
+      "content": "Bazę BDOT500 tworzy się i aktualizuje w drodze czynności materialno-technicznej na podstawie materiałów przyjmowanych do państwowego zasobu geodezyjnego i kartograficznego."
+    },
+    {
+      "provision_ref": "par8u2",
+      "section": "8",
+      "title": "§ 8 ust. 2",
+      "content": "Bazę BDOT500 aktualizuje się niezwłocznie, nie później niż w terminie 30 dni od dnia uzyskania materiałów, o których mowa w ust. 1."
+    },
+    {
+      "provision_ref": "par8u3",
+      "section": "8",
+      "title": "§ 8 ust. 3",
+      "content": "Tworzenie i aktualizacja bazy BDOT500 odbywają się zgodnie ze standardami technicznymi określonymi w załącznikach nr 1 i 2 do rozporządzenia."
+    },
+    {
+      "provision_ref": "par9",
+      "section": "9",
+      "title": "§ 9",
+      "content": "Dane zawarte w bazie BDOT500 udostępnia się w postaci elektronicznej za pomocą usług przeglądania i pobierania, o których mowa w art. 9 ust. 1 pkt 2 i 3 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej , z uwzględnieniem przepisów wydanych na podstawie art. 40 ust. 8 ustawy. Specyfikację usług, o których mowa w ust. 1, określa załącznik nr 3 do rozporządzenia. Schemat aplikacyjny GML dotyczący udostępniania danych z bazy BDOT500, zgodny z modelem danych określonym w załączniku nr 2 do rozporządzenia, Główny Geodeta Kraju publikuje w repozytorium interoperacyjności, o którym mowa w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne ."
+    },
+    {
+      "provision_ref": "par9u1",
+      "section": "9",
+      "title": "§ 9 ust. 1",
+      "content": "Dane zawarte w bazie BDOT500 udostępnia się w postaci elektronicznej za pomocą usług przeglądania i pobierania, o których mowa w art. 9 ust. 1 pkt 2 i 3 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej , z uwzględnieniem przepisów wydanych na podstawie art. 40 ust. 8 ustawy."
+    },
+    {
+      "provision_ref": "par9u2",
+      "section": "9",
+      "title": "§ 9 ust. 2",
+      "content": "Specyfikację usług, o których mowa w ust. 1, określa załącznik nr 3 do rozporządzenia."
+    },
+    {
+      "provision_ref": "par9u3",
+      "section": "9",
+      "title": "§ 9 ust. 3",
+      "content": "Schemat aplikacyjny GML dotyczący udostępniania danych z bazy BDOT500, zgodny z modelem danych określonym w załączniku nr 2 do rozporządzenia, Główny Geodeta Kraju publikuje w repozytorium interoperacyjności, o którym mowa w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne ."
+    },
+    {
+      "provision_ref": "par10",
+      "section": "10",
+      "title": "§ 10",
+      "content": "Mapa zasadnicza jest tworzona jako wizualizacja kartograficzna generowana na podstawie zbiorów danych, o których mowa w art. 4 ust. 1a pkt 1-4, 10 i 12 ustawy. Podstawową skalą mapy zasadniczej jest skala 1: 500. Standardy techniczne tworzenia mapy zasadniczej, w tym zakres jej treści dla poszczególnych skal oraz znaki umowne, określa załącznik nr 4 do rozporządzenia. Na mapie zasadniczej umieszcza się informację o jej skali i lokalizacji przedstawionego obszaru."
+    },
+    {
+      "provision_ref": "par10u1",
+      "section": "10",
+      "title": "§ 10 ust. 1",
+      "content": "Mapa zasadnicza jest tworzona jako wizualizacja kartograficzna generowana na podstawie zbiorów danych, o których mowa w art. 4 ust. 1a pkt 1-4, 10 i 12 ustawy."
+    },
+    {
+      "provision_ref": "par10u2",
+      "section": "10",
+      "title": "§ 10 ust. 2",
+      "content": "Podstawową skalą mapy zasadniczej jest skala 1: 500."
+    },
+    {
+      "provision_ref": "par10u3",
+      "section": "10",
+      "title": "§ 10 ust. 3",
+      "content": "Standardy techniczne tworzenia mapy zasadniczej, w tym zakres jej treści dla poszczególnych skal oraz znaki umowne, określa załącznik nr 4 do rozporządzenia."
+    },
+    {
+      "provision_ref": "par10u4",
+      "section": "10",
+      "title": "§ 10 ust. 4",
+      "content": "Na mapie zasadniczej umieszcza się informację o jej skali i lokalizacji przedstawionego obszaru."
+    },
+    {
+      "provision_ref": "par11",
+      "section": "11",
+      "title": "§ 11",
+      "content": "Organ prowadzący bazę BDOT500 do dnia 31 grudnia 2022 r. dostosowuje bazę BDOT500 prowadzoną na podstawie przepisów dotychczasowych do przepisów niniejszego rozporządzenia. Układ wysokościowy inny niż określony w § 2 ust. 2 może być stosowany przy prowadzeniu bazy BDOT500, jednak nie dłużej niż do dnia 31 grudnia 2023 r."
+    },
+    {
+      "provision_ref": "par11u1",
+      "section": "11",
+      "title": "§ 11 ust. 1",
+      "content": "Organ prowadzący bazę BDOT500 do dnia 31 grudnia 2022 r. dostosowuje bazę BDOT500 prowadzoną na podstawie przepisów dotychczasowych do przepisów niniejszego rozporządzenia."
+    },
+    {
+      "provision_ref": "par11u2",
+      "section": "11",
+      "title": "§ 11 ust. 2",
+      "content": "Układ wysokościowy inny niż określony w § 2 ust. 2 może być stosowany przy prowadzeniu bazy BDOT500, jednak nie dłużej niż do dnia 31 grudnia 2023 r."
+    },
+    {
+      "provision_ref": "par12",
+      "section": "12",
+      "title": "§ 12",
+      "content": "Do prac związanych z zakładaniem bazy BDOT500 rozpoczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy niniejszego rozporządzenia. Do prac geodezyjnych związanych z aktualizacją bazy BDOT500 zgłoszonych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia mogą być stosowane przepisy dotychczasowe, jednak nie dłużej niż do dnia 31 grudnia 2021 r."
+    },
+    {
+      "provision_ref": "par12u1",
+      "section": "12",
+      "title": "§ 12 ust. 1",
+      "content": "Do prac związanych z zakładaniem bazy BDOT500 rozpoczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy niniejszego rozporządzenia."
+    },
+    {
+      "provision_ref": "par12u2",
+      "section": "12",
+      "title": "§ 12 ust. 2",
+      "content": "Do prac geodezyjnych związanych z aktualizacją bazy BDOT500 zgłoszonych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia mogą być stosowane przepisy dotychczasowe, jednak nie dłużej niż do dnia 31 grudnia 2021 r."
+    },
+    {
+      "provision_ref": "par13",
+      "section": "13",
+      "title": "§ 13",
+      "content": "Rozporządzenie wchodzi w życie z dniem 31 lipca 2021 r. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Administracji i Cyfryzacji z dnia 2 listopada 2015 r. w sprawie bazy danych obiektów topograficznych oraz mapy zasadniczej (Dz. U. poz. 2028), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 19 ustawy z dnia 16 kwietnia 2020 r. o zmianie ustawy - Prawo geodezyjne i kartograficzne oraz niektórych innych ustaw (Dz. U. poz. 782)."
+    }
+  ],
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2020-2052",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-922",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-214",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-670",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-952",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1005",
+      "ref_type": "references"
+    }
+  ]
+}

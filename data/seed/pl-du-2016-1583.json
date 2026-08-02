@@ -13,38 +13,286 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej ( Dz. U. z 2016 r. poz. 575 ) wprowadza się następujące zmiany: 1) w art. 25 ust. 1a otrzymuje brzmienie: „ 1a. W przypadku zapewnienia wspólnej obsługi placówek wsparcia dziennego na podstawie przepisów o samorządzie gminnym lub przepisów o samorządzie powiatowym lub w przypadku zapewnienia na podstawie art. 18a ust. 1 wspólnej obsługi ekonomiczno-administracyjnej i organizacyjnej placówek wsparcia dziennego, placówką wsparcia dziennego może kierować kierownik podmiotu, który zapewnia tę obsługę, przy pomocy wyznaczonego w poszczególnych placówkach wsparcia dziennego wychowawcy. ” ; 2) w art. 93 po ust. 3a dodaje się ust. 3b w brzmieniu: „ 3b. Przepisów ust. 3a nie stosuje się do placówek opiekuńczo-wychowawczych typu rodzinnego. ” ; 3) w art. 97 po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „ 1a. W przypadku zapewnienia wspólnej obsługi placówek opiekuńczo-wychowawczych typu socjalizacyjnego, interwencyjnego lub specjalistyczno-terapeutycznego na podstawie przepisów o samorządzie powiatowym placówką opiekuńczo-wychowawczą może kierować dyrektor jednostki obsługującej, która prowadzi wspólną obsługę, przy pomocy wyznaczonego w poszczególnych placówkach opiekuńczo-wychowawczych wychowawcy. 1b. W przypadku zlecenia realizacji obsługi placówek opiekuńczo-wychowawczych typu socjalizacyjnego, interwencyjnego lub specjalistyczno-terapeutycznego na podstawie art. 94 ust. 1 placówką opiekuńczo-wychowawczą może kierować dyrektor podmiotu, któremu zlecono realizację, przy pomocy wyznaczonego w poszczególnych placówkach opiekuńczo-wychowawczych wychowawcy. ” ; 4) w art. 106: a) po ust. 2 dodaje się ust. 2a w brzmieniu: „ 2a. Placówka opiekuńczo-wychowawcza, z wyjątkiem przypadków, o których mowa w ust. 3 i 3a, nie może się mieścić na jednej nieruchomości gruntowej ani w jednym budynku z izbami wytrzeźwień lub z zapewniającymi całodobową opiekę: 1) innymi jednostkami organizacyjnymi wspierania rodziny i systemu pieczy zastępczej; 2) jednostkami organizacyjnymi pomocy społecznej; 3) młodzieżowymi ośrodkami wychowawczymi; 4) młodzieżowymi ośrodkami socjoterapii; 5) specjalnymi ośrodkami wychowawczymi; 6) specjalistycznymi ośrodkami wsparcia dla ofiar przemocy w rodzinie lub ośrodkami wsparcia dla ofiar przemocy w rodzinie; 7) jednostkami organizacyjnymi wymiaru sprawiedliwości; 8) hospicjami; 9) zakładami opiekuńczo-leczniczymi; 10) zakładami pielęgnacyjno-opiekuńczymi; 11) zakładami rehabilitacji leczniczej. ” , b) po ust. 3 dodaje się ust. 3a w brzmieniu: „ 3a. Wojewoda może zezwolić na funkcjonowanie na jednej nieruchomości gruntowej więcej niż jednej placówki opiekuńczo-wychowawczej do 14 dzieci, uwzględniając specyfikę i zadania tych placówek oraz potrzeby środowiska lokalnego. ” ; 5) art. 113 otrzymuje brzmienie: „ Art. 113. 1. Do regionalnych placówek opiekuńczo-terapeutycznych przepisy art. 93 ust. 4, art. 94, art. 95 ust. 5, art. 96-100, art. 106 ust. 1, 2, ust. 2a pkt 1-8 i ust. 3-11, art. 107 i art. 108 stosuje się odpowiednio. 2. Do interwencyjnych ośrodków preadopcyjnych przepisy art. 93 ust. 4, art. 94, art. 95 ust. 5, art. 96-100, art. 106 ust. 1, 2, ust. 2a pkt 1-7 i ust. 3-11, art. 107 i art. 108 stosuje się odpowiednio. ” ; 6) w art. 196 w ust. 2 po wyrazach „o której mowa w ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz. U. z 2015 r. poz. 1445 i 1890)” dodaje się wyrazy „, i jednostki, której zlecono realizację obsługi placówek opiekuńczo-wychowawczych na podstawie art. 94” ."
+      "content": "W ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej wprowadza się następujące zmiany: w art. 25 ust. 1a otrzymuje brzmienie: „ W przypadku zapewnienia wspólnej obsługi placówek wsparcia dziennego na podstawie przepisów o samorządzie gminnym lub przepisów o samorządzie powiatowym lub w przypadku zapewnienia na podstawie art. 18a ust. 1 wspólnej obsługi ekonomiczno-administracyjnej i organizacyjnej placówek wsparcia dziennego, placówką wsparcia dziennego może kierować kierownik podmiotu, który zapewnia tę obsługę, przy pomocy wyznaczonego w poszczególnych placówkach wsparcia dziennego wychowawcy. ” ; w art. 93 po ust. 3a dodaje się ust. 3b w brzmieniu: „ Przepisów ust. 3a nie stosuje się do placówek opiekuńczo-wychowawczych typu rodzinnego. ” ; w art. 97 po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „ W przypadku zapewnienia wspólnej obsługi placówek opiekuńczo-wychowawczych typu socjalizacyjnego, interwencyjnego lub specjalistyczno-terapeutycznego na podstawie przepisów o samorządzie powiatowym placówką opiekuńczo-wychowawczą może kierować dyrektor jednostki obsługującej, która prowadzi wspólną obsługę, przy pomocy wyznaczonego w poszczególnych placówkach opiekuńczo-wychowawczych wychowawcy. W przypadku zlecenia realizacji obsługi placówek opiekuńczo-wychowawczych typu socjalizacyjnego, interwencyjnego lub specjalistyczno-terapeutycznego na podstawie art. 94 ust. 1 placówką opiekuńczo-wychowawczą może kierować dyrektor podmiotu, któremu zlecono realizację, przy pomocy wyznaczonego w poszczególnych placówkach opiekuńczo-wychowawczych wychowawcy. ” ; w art. 106: po ust. 2 dodaje się ust. 2a w brzmieniu: „ Placówka opiekuńczo-wychowawcza, z wyjątkiem przypadków, o których mowa w ust. 3 i 3a, nie może się mieścić na jednej nieruchomości gruntowej ani w jednym budynku z izbami wytrzeźwień lub z zapewniającymi całodobową opiekę: innymi jednostkami organizacyjnymi wspierania rodziny i systemu pieczy zastępczej; jednostkami organizacyjnymi pomocy społecznej; młodzieżowymi ośrodkami wychowawczymi; młodzieżowymi ośrodkami socjoterapii; specjalnymi ośrodkami wychowawczymi; specjalistycznymi ośrodkami wsparcia dla ofiar przemocy w rodzinie lub ośrodkami wsparcia dla ofiar przemocy w rodzinie; jednostkami organizacyjnymi wymiaru sprawiedliwości; hospicjami; zakładami opiekuńczo-leczniczymi; zakładami pielęgnacyjno-opiekuńczymi; zakładami rehabilitacji leczniczej. ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „ Wojewoda może zezwolić na funkcjonowanie na jednej nieruchomości gruntowej więcej niż jednej placówki opiekuńczo-wychowawczej do 14 dzieci, uwzględniając specyfikę i zadania tych placówek oraz potrzeby środowiska lokalnego. ” ; art. 113 otrzymuje brzmienie: „ Do regionalnych placówek opiekuńczo-terapeutycznych przepisy art. 93 ust. 4, art. 94, art. 95 ust. 5, art. 96-100, art. 106 ust. 1, 2, ust. 2a pkt 1-8 i ust. 3-11, art. 107 i art. 108 stosuje się odpowiednio. Do interwencyjnych ośrodków preadopcyjnych przepisy art. 93 ust. 4, art. 94, art. 95 ust. 5, art. 96-100, art. 106 ust. 1, 2, ust. 2a pkt 1-7 i ust. 3-11, art. 107 i art. 108 stosuje się odpowiednio. ” ; w art. 196 w ust. 2 po wyrazach „o której mowa w ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz. U. z 2015 r. poz. 1445 i 1890)” dodaje się wyrazy „, i jednostki, której zlecono realizację obsługi placówek opiekuńczo-wychowawczych na podstawie art. 94” ."
+    },
+    {
+      "provision_ref": "art1p1u1a",
+      "section": "1",
+      "title": "Art. 1 pkt 1 ust. 1a",
+      "content": "W ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej wprowadza się następujące zmiany: w art. 25 ust. 1a otrzymuje brzmienie: „ W przypadku zapewnienia wspólnej obsługi placówek wsparcia dziennego na podstawie przepisów o samorządzie gminnym lub przepisów o samorządzie powiatowym lub w przypadku zapewnienia na podstawie art. 18a ust. 1 wspólnej obsługi ekonomiczno-administracyjnej i organizacyjnej placówek wsparcia dziennego, placówką wsparcia dziennego może kierować kierownik podmiotu, który zapewnia tę obsługę, przy pomocy wyznaczonego w poszczególnych placówkach wsparcia dziennego wychowawcy."
+    },
+    {
+      "provision_ref": "art1p2u3b",
+      "section": "1",
+      "title": "Art. 1 pkt 2 ust. 3b",
+      "content": "W ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej wprowadza się następujące zmiany: w art. 93 po ust. 3a dodaje się ust. 3b w brzmieniu: „ Przepisów ust. 3a nie stosuje się do placówek opiekuńczo-wychowawczych typu rodzinnego."
+    },
+    {
+      "provision_ref": "art1p3u1a",
+      "section": "1",
+      "title": "Art. 1 pkt 3 ust. 1a",
+      "content": "W ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej wprowadza się następujące zmiany: w art. 97 po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „ W przypadku zapewnienia wspólnej obsługi placówek opiekuńczo-wychowawczych typu socjalizacyjnego, interwencyjnego lub specjalistyczno-terapeutycznego na podstawie przepisów o samorządzie powiatowym placówką opiekuńczo-wychowawczą może kierować dyrektor jednostki obsługującej, która prowadzi wspólną obsługę, przy pomocy wyznaczonego w poszczególnych placówkach opiekuńczo-wychowawczych wychowawcy."
+    },
+    {
+      "provision_ref": "art1p3u1b",
+      "section": "1",
+      "title": "Art. 1 pkt 3 ust. 1b",
+      "content": "W ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej wprowadza się następujące zmiany: w art. 97 po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „ W przypadku zlecenia realizacji obsługi placówek opiekuńczo-wychowawczych typu socjalizacyjnego, interwencyjnego lub specjalistyczno-terapeutycznego na podstawie art. 94 ust. 1 placówką opiekuńczo-wychowawczą może kierować dyrektor podmiotu, któremu zlecono realizację, przy pomocy wyznaczonego w poszczególnych placówkach opiekuńczo-wychowawczych wychowawcy."
+    },
+    {
+      "provision_ref": "art1p4lau2ap1",
+      "section": "1",
+      "title": "Art. 1 pkt 4 lit. au",
+      "content": "W ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej wprowadza się następujące zmiany: w art. 106: po ust. 2 dodaje się ust. 2a w brzmieniu: „ Placówka opiekuńczo-wychowawcza, z wyjątkiem przypadków, o których mowa w ust. 3 i 3a, nie może się mieścić na jednej nieruchomości gruntowej ani w jednym budynku z izbami wytrzeźwień lub z zapewniającymi całodobową opiekę: innymi jednostkami organizacyjnymi wspierania rodziny i systemu pieczy zastępczej;"
+    },
+    {
+      "provision_ref": "art1p4lau2ap2",
+      "section": "1",
+      "title": "Art. 1 pkt 4 lit. au",
+      "content": "W ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej wprowadza się następujące zmiany: w art. 106: po ust. 2 dodaje się ust. 2a w brzmieniu: „ Placówka opiekuńczo-wychowawcza, z wyjątkiem przypadków, o których mowa w ust. 3 i 3a, nie może się mieścić na jednej nieruchomości gruntowej ani w jednym budynku z izbami wytrzeźwień lub z zapewniającymi całodobową opiekę: jednostkami organizacyjnymi pomocy społecznej;"
+    },
+    {
+      "provision_ref": "art1p4lau2ap3",
+      "section": "1",
+      "title": "Art. 1 pkt 4 lit. au",
+      "content": "W ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej wprowadza się następujące zmiany: w art. 106: po ust. 2 dodaje się ust. 2a w brzmieniu: „ Placówka opiekuńczo-wychowawcza, z wyjątkiem przypadków, o których mowa w ust. 3 i 3a, nie może się mieścić na jednej nieruchomości gruntowej ani w jednym budynku z izbami wytrzeźwień lub z zapewniającymi całodobową opiekę: młodzieżowymi ośrodkami wychowawczymi;"
+    },
+    {
+      "provision_ref": "art1p4lau2ap4",
+      "section": "1",
+      "title": "Art. 1 pkt 4 lit. au",
+      "content": "W ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej wprowadza się następujące zmiany: w art. 106: po ust. 2 dodaje się ust. 2a w brzmieniu: „ Placówka opiekuńczo-wychowawcza, z wyjątkiem przypadków, o których mowa w ust. 3 i 3a, nie może się mieścić na jednej nieruchomości gruntowej ani w jednym budynku z izbami wytrzeźwień lub z zapewniającymi całodobową opiekę: młodzieżowymi ośrodkami socjoterapii;"
+    },
+    {
+      "provision_ref": "art1p4lau2ap5",
+      "section": "1",
+      "title": "Art. 1 pkt 4 lit. au",
+      "content": "W ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej wprowadza się następujące zmiany: w art. 106: po ust. 2 dodaje się ust. 2a w brzmieniu: „ Placówka opiekuńczo-wychowawcza, z wyjątkiem przypadków, o których mowa w ust. 3 i 3a, nie może się mieścić na jednej nieruchomości gruntowej ani w jednym budynku z izbami wytrzeźwień lub z zapewniającymi całodobową opiekę: specjalnymi ośrodkami wychowawczymi;"
+    },
+    {
+      "provision_ref": "art1p4lau2ap6",
+      "section": "1",
+      "title": "Art. 1 pkt 4 lit. au",
+      "content": "W ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej wprowadza się następujące zmiany: w art. 106: po ust. 2 dodaje się ust. 2a w brzmieniu: „ Placówka opiekuńczo-wychowawcza, z wyjątkiem przypadków, o których mowa w ust. 3 i 3a, nie może się mieścić na jednej nieruchomości gruntowej ani w jednym budynku z izbami wytrzeźwień lub z zapewniającymi całodobową opiekę: specjalistycznymi ośrodkami wsparcia dla ofiar przemocy w rodzinie lub ośrodkami wsparcia dla ofiar przemocy w rodzinie;"
+    },
+    {
+      "provision_ref": "art1p4lau2ap7",
+      "section": "1",
+      "title": "Art. 1 pkt 4 lit. au",
+      "content": "W ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej wprowadza się następujące zmiany: w art. 106: po ust. 2 dodaje się ust. 2a w brzmieniu: „ Placówka opiekuńczo-wychowawcza, z wyjątkiem przypadków, o których mowa w ust. 3 i 3a, nie może się mieścić na jednej nieruchomości gruntowej ani w jednym budynku z izbami wytrzeźwień lub z zapewniającymi całodobową opiekę: jednostkami organizacyjnymi wymiaru sprawiedliwości;"
+    },
+    {
+      "provision_ref": "art1p4lau2ap8",
+      "section": "1",
+      "title": "Art. 1 pkt 4 lit. au",
+      "content": "W ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej wprowadza się następujące zmiany: w art. 106: po ust. 2 dodaje się ust. 2a w brzmieniu: „ Placówka opiekuńczo-wychowawcza, z wyjątkiem przypadków, o których mowa w ust. 3 i 3a, nie może się mieścić na jednej nieruchomości gruntowej ani w jednym budynku z izbami wytrzeźwień lub z zapewniającymi całodobową opiekę: hospicjami;"
+    },
+    {
+      "provision_ref": "art1p4lau2ap9",
+      "section": "1",
+      "title": "Art. 1 pkt 4 lit. au",
+      "content": "W ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej wprowadza się następujące zmiany: w art. 106: po ust. 2 dodaje się ust. 2a w brzmieniu: „ Placówka opiekuńczo-wychowawcza, z wyjątkiem przypadków, o których mowa w ust. 3 i 3a, nie może się mieścić na jednej nieruchomości gruntowej ani w jednym budynku z izbami wytrzeźwień lub z zapewniającymi całodobową opiekę: zakładami opiekuńczo-leczniczymi;"
+    },
+    {
+      "provision_ref": "art1p4lau2ap10",
+      "section": "1",
+      "title": "Art. 1 pkt 4 lit. au",
+      "content": "W ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej wprowadza się następujące zmiany: w art. 106: po ust. 2 dodaje się ust. 2a w brzmieniu: „ Placówka opiekuńczo-wychowawcza, z wyjątkiem przypadków, o których mowa w ust. 3 i 3a, nie może się mieścić na jednej nieruchomości gruntowej ani w jednym budynku z izbami wytrzeźwień lub z zapewniającymi całodobową opiekę: zakładami pielęgnacyjno-opiekuńczymi;"
+    },
+    {
+      "provision_ref": "art1p4lau2ap11",
+      "section": "1",
+      "title": "Art. 1 pkt 4 lit. au",
+      "content": "W ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej wprowadza się następujące zmiany: w art. 106: po ust. 2 dodaje się ust. 2a w brzmieniu: „ Placówka opiekuńczo-wychowawcza, z wyjątkiem przypadków, o których mowa w ust. 3 i 3a, nie może się mieścić na jednej nieruchomości gruntowej ani w jednym budynku z izbami wytrzeźwień lub z zapewniającymi całodobową opiekę: zakładami rehabilitacji leczniczej."
+    },
+    {
+      "provision_ref": "art1p4lbu3a",
+      "section": "1",
+      "title": "Art. 1 pkt 4 lit. bu",
+      "content": "W ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej wprowadza się następujące zmiany: w art. 106: po ust. 3 dodaje się ust. 3a w brzmieniu: „ Wojewoda może zezwolić na funkcjonowanie na jednej nieruchomości gruntowej więcej niż jednej placówki opiekuńczo-wychowawczej do 14 dzieci, uwzględniając specyfikę i zadania tych placówek oraz potrzeby środowiska lokalnego."
+    },
+    {
+      "provision_ref": "art1p5u1",
+      "section": "1",
+      "title": "Art. 1 pkt 5 ust. 1",
+      "content": "W ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej wprowadza się następujące zmiany: art. 113 otrzymuje brzmienie: „ Do regionalnych placówek opiekuńczo-terapeutycznych przepisy art. 93 ust. 4, art. 94, art. 95 ust. 5, art. 96-100, art. 106 ust. 1, 2, ust. 2a pkt 1-8 i ust. 3-11, art. 107 i art. 108 stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "art1p5u2",
+      "section": "1",
+      "title": "Art. 1 pkt 5 ust. 2",
+      "content": "W ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej wprowadza się następujące zmiany: art. 113 otrzymuje brzmienie: „ Do interwencyjnych ośrodków preadopcyjnych przepisy art. 93 ust. 4, art. 94, art. 95 ust. 5, art. 96-100, art. 106 ust. 1, 2, ust. 2a pkt 1-7 i ust. 3-11, art. 107 i art. 108 stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "art1p6",
+      "section": "1",
+      "title": "Art. 1 pkt 6",
+      "content": "W ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej wprowadza się następujące zmiany: w art. 196 w ust. 2 po wyrazach „o której mowa w ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz. U. z 2015 r. poz. 1445 i 1890)” dodaje się wyrazy „, i jednostki, której zlecono realizację obsługi placówek opiekuńczo-wychowawczych na podstawie art. 94” ."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "W ustawie z dnia 12 marca 2004 r. o pomocy społecznej ( Dz. U. z 2016 r. poz. 930 ) wprowadza się następujące zmiany: 1) art. 111a otrzymuje brzmienie: „ Art. 111a. 1. Gmina może połączyć: 1) ośrodek pomocy społecznej z ośrodkiem wsparcia, z wyłączeniem ośrodka wsparcia dla osób z zaburzeniami psychicznymi; 2) dom pomocy społecznej dla osób w podeszłym wieku lub dla osób przewlekle somatycznie chorych z ośrodkiem wsparcia przeznaczonym dla osób starszych. 2. W przypadku połączenia, o którym mowa w ust. 1, ośrodek wsparcia działa w strukturze odpowiednio ośrodka pomocy społecznej lub domu pomocy społecznej. 3. Osoby kierujące jednostkami organizacyjnymi pomocy społecznej będącymi w strukturze ośrodka pomocy społecznej lub domu pomocy społecznej obowiązane są spełniać obowiązujące wymagania dla kierowników jednostek organizacyjnych pomocy społecznej. ” ; 2) art. 112a otrzymuje brzmienie: „ Art. 112a. 1. Powiat może połączyć powiatowe centrum pomocy rodzinie z ośrodkiem interwencji kryzysowej. 2. W przypadku połączenia, o którym mowa w ust. 1, ośrodek interwencji kryzysowej działa w strukturze powiatowego centrum pomocy rodzinie. 3. Osoby kierujące jednostkami organizacyjnymi pomocy społecznej będącymi w strukturze powiatowego centrum pomocy społecznej obowiązane są spełniać obowiązujące wymagania dla kierowników jednostek organizacyjnych pomocy społecznej. ” ; 3) uchyla się art. 113a i art. 113b; 4) dodaje się art. 113c w brzmieniu: „ Art. 113c. Jednostka organizacyjna pomocy społecznej zapewniająca całodobowe usługi nie może się mieścić w jednym budynku z: 1) placówką zapewniającą całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub osobom w podeszłym wieku; 2) placówką opiekuńczo-wychowawczą, regionalną placówką opiekuńczo-terapeutyczną lub interwencyjnym ośrodkiem preadopcyjnym; 3) specjalistycznym ośrodkiem wsparcia dla ofiar przemocy w rodzinie lub ośrodkiem wsparcia dla ofiar przemocy w rodzinie; 4) jednostką organizacyjną wymiaru sprawiedliwości; 5) zakładem aktywności zawodowej; 6) izbą wytrzeźwień. ” ."
+      "content": "W ustawie z dnia 12 marca 2004 r. o pomocy społecznej wprowadza się następujące zmiany: art. 111a otrzymuje brzmienie: „ Gmina może połączyć: ośrodek pomocy społecznej z ośrodkiem wsparcia, z wyłączeniem ośrodka wsparcia dla osób z zaburzeniami psychicznymi; dom pomocy społecznej dla osób w podeszłym wieku lub dla osób przewlekle somatycznie chorych z ośrodkiem wsparcia przeznaczonym dla osób starszych. W przypadku połączenia, o którym mowa w ust. 1, ośrodek wsparcia działa w strukturze odpowiednio ośrodka pomocy społecznej lub domu pomocy społecznej. Osoby kierujące jednostkami organizacyjnymi pomocy społecznej będącymi w strukturze ośrodka pomocy społecznej lub domu pomocy społecznej obowiązane są spełniać obowiązujące wymagania dla kierowników jednostek organizacyjnych pomocy społecznej. ” ; art. 112a otrzymuje brzmienie: „ Powiat może połączyć powiatowe centrum pomocy rodzinie z ośrodkiem interwencji kryzysowej. W przypadku połączenia, o którym mowa w ust. 1, ośrodek interwencji kryzysowej działa w strukturze powiatowego centrum pomocy rodzinie. Osoby kierujące jednostkami organizacyjnymi pomocy społecznej będącymi w strukturze powiatowego centrum pomocy społecznej obowiązane są spełniać obowiązujące wymagania dla kierowników jednostek organizacyjnych pomocy społecznej. ” ; uchyla się art. 113a i art. 113b; dodaje się art. 113c w brzmieniu: „ Jednostka organizacyjna pomocy społecznej zapewniająca całodobowe usługi nie może się mieścić w jednym budynku z: placówką zapewniającą całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub osobom w podeszłym wieku; placówką opiekuńczo-wychowawczą, regionalną placówką opiekuńczo-terapeutyczną lub interwencyjnym ośrodkiem preadopcyjnym; specjalistycznym ośrodkiem wsparcia dla ofiar przemocy w rodzinie lub ośrodkiem wsparcia dla ofiar przemocy w rodzinie; jednostką organizacyjną wymiaru sprawiedliwości; zakładem aktywności zawodowej; izbą wytrzeźwień. ” ."
+    },
+    {
+      "provision_ref": "art2p1u1p1",
+      "section": "2",
+      "title": "Art. 2 pkt 1 ust. 1 pkt 1",
+      "content": "W ustawie z dnia 12 marca 2004 r. o pomocy społecznej wprowadza się następujące zmiany: art. 111a otrzymuje brzmienie: „ Gmina może połączyć: ośrodek pomocy społecznej z ośrodkiem wsparcia, z wyłączeniem ośrodka wsparcia dla osób z zaburzeniami psychicznymi;"
+    },
+    {
+      "provision_ref": "art2p1u1p2",
+      "section": "2",
+      "title": "Art. 2 pkt 1 ust. 1 pkt 2",
+      "content": "W ustawie z dnia 12 marca 2004 r. o pomocy społecznej wprowadza się następujące zmiany: art. 111a otrzymuje brzmienie: „ Gmina może połączyć: dom pomocy społecznej dla osób w podeszłym wieku lub dla osób przewlekle somatycznie chorych z ośrodkiem wsparcia przeznaczonym dla osób starszych."
+    },
+    {
+      "provision_ref": "art2p1u2",
+      "section": "2",
+      "title": "Art. 2 pkt 1 ust. 2",
+      "content": "W ustawie z dnia 12 marca 2004 r. o pomocy społecznej wprowadza się następujące zmiany: art. 111a otrzymuje brzmienie: „ W przypadku połączenia, o którym mowa w ust. 1, ośrodek wsparcia działa w strukturze odpowiednio ośrodka pomocy społecznej lub domu pomocy społecznej."
+    },
+    {
+      "provision_ref": "art2p1u3",
+      "section": "2",
+      "title": "Art. 2 pkt 1 ust. 3",
+      "content": "W ustawie z dnia 12 marca 2004 r. o pomocy społecznej wprowadza się następujące zmiany: art. 111a otrzymuje brzmienie: „ Osoby kierujące jednostkami organizacyjnymi pomocy społecznej będącymi w strukturze ośrodka pomocy społecznej lub domu pomocy społecznej obowiązane są spełniać obowiązujące wymagania dla kierowników jednostek organizacyjnych pomocy społecznej."
+    },
+    {
+      "provision_ref": "art2p2u1",
+      "section": "2",
+      "title": "Art. 2 pkt 2 ust. 1",
+      "content": "W ustawie z dnia 12 marca 2004 r. o pomocy społecznej wprowadza się następujące zmiany: art. 112a otrzymuje brzmienie: „ Powiat może połączyć powiatowe centrum pomocy rodzinie z ośrodkiem interwencji kryzysowej."
+    },
+    {
+      "provision_ref": "art2p2u2",
+      "section": "2",
+      "title": "Art. 2 pkt 2 ust. 2",
+      "content": "W ustawie z dnia 12 marca 2004 r. o pomocy społecznej wprowadza się następujące zmiany: art. 112a otrzymuje brzmienie: „ W przypadku połączenia, o którym mowa w ust. 1, ośrodek interwencji kryzysowej działa w strukturze powiatowego centrum pomocy rodzinie."
+    },
+    {
+      "provision_ref": "art2p2u3",
+      "section": "2",
+      "title": "Art. 2 pkt 2 ust. 3",
+      "content": "W ustawie z dnia 12 marca 2004 r. o pomocy społecznej wprowadza się następujące zmiany: art. 112a otrzymuje brzmienie: „ Osoby kierujące jednostkami organizacyjnymi pomocy społecznej będącymi w strukturze powiatowego centrum pomocy społecznej obowiązane są spełniać obowiązujące wymagania dla kierowników jednostek organizacyjnych pomocy społecznej."
+    },
+    {
+      "provision_ref": "art2p3",
+      "section": "2",
+      "title": "Art. 2 pkt 3",
+      "content": "W ustawie z dnia 12 marca 2004 r. o pomocy społecznej wprowadza się następujące zmiany: uchyla się art. 113a i art. 113b;"
+    },
+    {
+      "provision_ref": "art2p4p1",
+      "section": "2",
+      "title": "Art. 2 pkt 4 pkt 1",
+      "content": "W ustawie z dnia 12 marca 2004 r. o pomocy społecznej wprowadza się następujące zmiany: dodaje się art. 113c w brzmieniu: „ Jednostka organizacyjna pomocy społecznej zapewniająca całodobowe usługi nie może się mieścić w jednym budynku z: placówką zapewniającą całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub osobom w podeszłym wieku;"
+    },
+    {
+      "provision_ref": "art2p4p2",
+      "section": "2",
+      "title": "Art. 2 pkt 4 pkt 2",
+      "content": "W ustawie z dnia 12 marca 2004 r. o pomocy społecznej wprowadza się następujące zmiany: dodaje się art. 113c w brzmieniu: „ Jednostka organizacyjna pomocy społecznej zapewniająca całodobowe usługi nie może się mieścić w jednym budynku z: placówką opiekuńczo-wychowawczą, regionalną placówką opiekuńczo-terapeutyczną lub interwencyjnym ośrodkiem preadopcyjnym;"
+    },
+    {
+      "provision_ref": "art2p4p3",
+      "section": "2",
+      "title": "Art. 2 pkt 4 pkt 3",
+      "content": "W ustawie z dnia 12 marca 2004 r. o pomocy społecznej wprowadza się następujące zmiany: dodaje się art. 113c w brzmieniu: „ Jednostka organizacyjna pomocy społecznej zapewniająca całodobowe usługi nie może się mieścić w jednym budynku z: specjalistycznym ośrodkiem wsparcia dla ofiar przemocy w rodzinie lub ośrodkiem wsparcia dla ofiar przemocy w rodzinie;"
+    },
+    {
+      "provision_ref": "art2p4p4",
+      "section": "2",
+      "title": "Art. 2 pkt 4 pkt 4",
+      "content": "W ustawie z dnia 12 marca 2004 r. o pomocy społecznej wprowadza się następujące zmiany: dodaje się art. 113c w brzmieniu: „ Jednostka organizacyjna pomocy społecznej zapewniająca całodobowe usługi nie może się mieścić w jednym budynku z: jednostką organizacyjną wymiaru sprawiedliwości;"
+    },
+    {
+      "provision_ref": "art2p4p5",
+      "section": "2",
+      "title": "Art. 2 pkt 4 pkt 5",
+      "content": "W ustawie z dnia 12 marca 2004 r. o pomocy społecznej wprowadza się następujące zmiany: dodaje się art. 113c w brzmieniu: „ Jednostka organizacyjna pomocy społecznej zapewniająca całodobowe usługi nie może się mieścić w jednym budynku z: zakładem aktywności zawodowej;"
+    },
+    {
+      "provision_ref": "art2p4p6",
+      "section": "2",
+      "title": "Art. 2 pkt 4 pkt 6",
+      "content": "W ustawie z dnia 12 marca 2004 r. o pomocy społecznej wprowadza się następujące zmiany: dodaje się art. 113c w brzmieniu: „ Jednostka organizacyjna pomocy społecznej zapewniająca całodobowe usługi nie może się mieścić w jednym budynku z: izbą wytrzeźwień."
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "W ustawie z dnia 25 czerwca 2015 r. o zmianie ustawy o samorządzie gminnym oraz niektórych innych ustaw ( Dz. U. poz. 1045 ) w art. 48: 1) w ust. 6 skreśla się wyrazy „, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy” ; 2) w ust. 7 skreśla się wyrazy „, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy” ."
+      "content": "W ustawie z dnia 25 czerwca 2015 r. o zmianie ustawy o samorządzie gminnym oraz niektórych innych ustaw w art. 48: w ust. 6 skreśla się wyrazy „, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy” ; w ust. 7 skreśla się wyrazy „, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy” ."
+    },
+    {
+      "provision_ref": "art3p1",
+      "section": "3",
+      "title": "Art. 3 pkt 1",
+      "content": "W ustawie z dnia 25 czerwca 2015 r. o zmianie ustawy o samorządzie gminnym oraz niektórych innych ustaw w art. 48: w ust. 6 skreśla się wyrazy „, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy” ;"
+    },
+    {
+      "provision_ref": "art3p2",
+      "section": "3",
+      "title": "Art. 3 pkt 2",
+      "content": "W ustawie z dnia 25 czerwca 2015 r. o zmianie ustawy o samorządzie gminnym oraz niektórych innych ustaw w art. 48: w ust. 7 skreśla się wyrazy „, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy” ."
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "1. Powstałe przed dniem wejścia w życie niniejszej ustawy placówki opiekuńczo-wychowawcze, regionalne placówki opiekuńczo-terapeutyczne oraz interwencyjne ośrodki preadopcyjne niespełniające wymagań, o których mowa w art. 106 ust. 2a ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, mogą funkcjonować na dotychczasowych zasadach do dnia 31 grudnia 2019 r. 2. Po upływie terminu, o którym mowa w ust. 1, placówki opiekuńczo-wychowawcze, regionalne placówki opiekuńczo-terapeutyczne oraz interwencyjne ośrodki preadopcyjne mogą prowadzić działalność, jeżeli spełniają wymagania określone w art. 106 ust. 2a ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą."
+      "content": "Powstałe przed dniem wejścia w życie niniejszej ustawy placówki opiekuńczo-wychowawcze, regionalne placówki opiekuńczo-terapeutyczne oraz interwencyjne ośrodki preadopcyjne niespełniające wymagań, o których mowa w art. 106 ust. 2a ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, mogą funkcjonować na dotychczasowych zasadach do dnia 31 grudnia 2019 r. Po upływie terminu, o którym mowa w ust. 1, placówki opiekuńczo-wychowawcze, regionalne placówki opiekuńczo-terapeutyczne oraz interwencyjne ośrodki preadopcyjne mogą prowadzić działalność, jeżeli spełniają wymagania określone w art. 106 ust. 2a ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą."
+    },
+    {
+      "provision_ref": "art4u1",
+      "section": "4",
+      "title": "Art. 4 ust. 1",
+      "content": "Powstałe przed dniem wejścia w życie niniejszej ustawy placówki opiekuńczo-wychowawcze, regionalne placówki opiekuńczo-terapeutyczne oraz interwencyjne ośrodki preadopcyjne niespełniające wymagań, o których mowa w art. 106 ust. 2a ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, mogą funkcjonować na dotychczasowych zasadach do dnia 31 grudnia 2019 r."
+    },
+    {
+      "provision_ref": "art4u2",
+      "section": "4",
+      "title": "Art. 4 ust. 2",
+      "content": "Po upływie terminu, o którym mowa w ust. 1, placówki opiekuńczo-wychowawcze, regionalne placówki opiekuńczo-terapeutyczne oraz interwencyjne ośrodki preadopcyjne mogą prowadzić działalność, jeżeli spełniają wymagania określone w art. 106 ust. 2a ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą."
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Art. 5",
-      "content": "1. Powstałe przed dniem wejścia w życie niniejszej ustawy jednostki organizacyjne pomocy społecznej niespełniające wymagań, o których mowa odpowiednio w art. 111a, art. 112a i art. 113c ustawy, o której mowa w art. 2, w brzmieniu nadanym niniejszą ustawą, mogą funkcjonować na dotychczasowych zasadach do dnia 31 grudnia 2019 r. 2. Po upływie terminu, o którym mowa w ust. 1, jednostki organizacyjne pomocy społecznej mogą prowadzić działalność, jeżeli spełniają wymagania określone odpowiednio w art. 111a, art. 112a i art. 113c ustawy, o której mowa w art. 2, w brzmieniu nadanym niniejszą ustawą."
+      "content": "Powstałe przed dniem wejścia w życie niniejszej ustawy jednostki organizacyjne pomocy społecznej niespełniające wymagań, o których mowa odpowiednio w art. 111a, art. 112a i art. 113c ustawy, o której mowa w art. 2, w brzmieniu nadanym niniejszą ustawą, mogą funkcjonować na dotychczasowych zasadach do dnia 31 grudnia 2019 r. Po upływie terminu, o którym mowa w ust. 1, jednostki organizacyjne pomocy społecznej mogą prowadzić działalność, jeżeli spełniają wymagania określone odpowiednio w art. 111a, art. 112a i art. 113c ustawy, o której mowa w art. 2, w brzmieniu nadanym niniejszą ustawą."
+    },
+    {
+      "provision_ref": "art5u1",
+      "section": "5",
+      "title": "Art. 5 ust. 1",
+      "content": "Powstałe przed dniem wejścia w życie niniejszej ustawy jednostki organizacyjne pomocy społecznej niespełniające wymagań, o których mowa odpowiednio w art. 111a, art. 112a i art. 113c ustawy, o której mowa w art. 2, w brzmieniu nadanym niniejszą ustawą, mogą funkcjonować na dotychczasowych zasadach do dnia 31 grudnia 2019 r."
+    },
+    {
+      "provision_ref": "art5u2",
+      "section": "5",
+      "title": "Art. 5 ust. 2",
+      "content": "Po upływie terminu, o którym mowa w ust. 1, jednostki organizacyjne pomocy społecznej mogą prowadzić działalność, jeżeli spełniają wymagania określone odpowiednio w art. 111a, art. 112a i art. 113c ustawy, o której mowa w art. 2, w brzmieniu nadanym niniejszą ustawą."
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Art. 6",
-      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\",\"children\": [{\"id\": \"arti_1-pint_4-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_4-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2016-575",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2016-930",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2015-1045",
+      "ref_type": "amended_by"
+    }
+  ]
 }

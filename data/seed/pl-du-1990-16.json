@@ -13,14 +13,34 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 29 kwietnia 1985 r. o Trybunale Konstytucyjnym ( Dz. U. Nr 22, poz. 98 , z 1987 r. Nr 21, poz. 123 i z 1989 r. Nr 34, poz. 178 ) w art. 13 ust. 6 otrzymuje brzmienie: „ 6. Obejmując stanowisko członek Trybunału Konstytucyjnego składa wobec Marszałka Sejmu ślubowanie następującej treści: «Ślubuję uroczyście przy wykonywaniu powierzonych mi obowiązków członka Trybunału Konstytucyjnego: służyć wiernie Narodowi Polskiemu, stać na straży Konstytucji i ustaw, a powierzone mi obowiązki wypełniać z najwyższą starannością». ”"
+      "content": "W ustawie z dnia 29 kwietnia 1985 r. o Trybunale Konstytucyjnym w art. 13 ust. 6 otrzymuje brzmienie: „ Obejmując stanowisko członek Trybunału Konstytucyjnego składa wobec Marszałka Sejmu ślubowanie następującej treści: «Ślubuję uroczyście przy wykonywaniu powierzonych mi obowiązków członka Trybunału Konstytucyjnego: służyć wiernie Narodowi Polskiemu, stać na straży Konstytucji i ustaw, a powierzone mi obowiązki wypełniać z najwyższą starannością». ”"
+    },
+    {
+      "provision_ref": "art1u6",
+      "section": "1",
+      "title": "Art. 1 ust. 6",
+      "content": "W ustawie z dnia 29 kwietnia 1985 r. o Trybunale Konstytucyjnym w art. 13 ust. 6 otrzymuje brzmienie: „ Obejmując stanowisko członek Trybunału Konstytucyjnego składa wobec Marszałka Sejmu ślubowanie następującej treści: «Ślubuję uroczyście przy wykonywaniu powierzonych mi obowiązków członka Trybunału Konstytucyjnego: służyć wiernie Narodowi Polskiemu, stać na straży Konstytucji i ustaw, a powierzone mi obowiązki wypełniać z najwyższą starannością»."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-1985-98",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1987-123",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1989-178",
+      "ref_type": "amended_by"
+    }
+  ]
 }

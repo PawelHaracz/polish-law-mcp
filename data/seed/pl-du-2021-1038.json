@@ -13,25 +13,475 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym ( Dz. U. z 2020 r. poz. 713 i 1378 ) wprowadza się następujące zmiany: 1) art. 5b otrzymuje brzmienie: „ Art. 5b. 1. Gmina podejmuje działania na rzecz wspierania i upowszechniania idei samorządowej wśród mieszkańców gminy, w szczególności wśród młodzieży, angażując ją w sprawy dla niej istotne. 2. Rada gminy może wyrazić zgodę na utworzenie młodzieżowej rady gminy z własnej inicjatywy lub na wniosek: 1) wójta; 2) podmiotów reprezentujących zainteresowane środowiska, w szczególności: a) organizacji pozarządowych lub podmiotów określonych w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie ( Dz. U. z 2020 r. poz. 1057 ) , działających na terenie danej gminy, b) samorządu uczniowskiego lub samorządu studenckiego z terenu danej gminy. 3. Wniosek, o którym mowa w ust. 2, jest rozpatrywany przez radę gminy w terminie nie dłuższym niż 3 miesiące od dnia jego złożenia. 4. W przypadku odrzucenia wniosku złożonego przez podmiot, o którym mowa w ust. 2 pkt 2, kolejny wniosek może być złożony przez ten sam podmiot nie wcześniej niż po upływie 6 miesięcy od dnia odrzucenia poprzedniego wniosku. 5. Młodzieżowa rada gminy ma charakter konsultacyjny, doradczy i inicjatywny. 6. Młodzieżowa rada gminy może zgłosić do uprawnionych podmiotów wniosek o podjęcie inicjatywy uchwałodawczej. Tryb zgłaszania wniosku o podjęcie inicjatywy uchwałodawczej określa statut gminy lub odrębna uchwała rady gminy. 7. W sprawach dotyczących gminy młodzieżowa rada gminy może kierować zapytania lub wnioski w formie uchwały. Uchwała powinna zawierać krótkie przedstawienie stanu faktycznego będącego jej przedmiotem oraz wynikające z niej pytania. Wójt lub osoba przez niego wyznaczona są obowiązani udzielić odpowiedzi na piśmie, nie później niż w terminie 30 dni od dnia otrzymania uchwały. 8. Do zadań młodzieżowej rady gminy należy w szczególności: 1) opiniowanie projektów uchwał dotyczących młodzieży; 2) udział w opracowaniu dokumentów strategicznych gminy na rzecz młodzieży; 3) monitorowanie realizacji dokumentów strategicznych gminy na rzecz młodzieży; 4) podejmowanie działań na rzecz młodzieży, w szczególności w zakresie edukacji obywatelskiej, na zasadach określonych przez radę gminy. 9. Młodzieżowa rada gminy może współuczestniczyć w działaniach związanych z tworzeniem i realizacją rządowych dokumentów strategicznych dotyczących polityki młodzieżowej. 10. Rada gminy, tworząc młodzieżową radę gminy, nadaje jej statut określający w szczególności zasady działania młodzieżowej rady gminy, tryb i kryteria wyboru jej członków oraz zasady wygaśnięcia mandatu i odwołania członka młodzieżowej rady gminy. Podmioty, o których mowa w ust. 2 pkt 1 i 2, mogą przedstawiać opinie w zakresie projektu statutu. 11. Członkowi młodzieżowej rady gminy biorącemu udział w posiedzeniach młodzieżowej rady gminy lub w zorganizowanym wydarzeniu, na którym reprezentuje on młodzieżową radę gminy, a w przypadku niepełnoletniego członka młodzieżowej rady gminy - także jego rodzicowi lub opiekunowi prawnemu, zwraca się, na jego wniosek, koszty przejazdu na terenie kraju związane z udziałem w posiedzeniu młodzieżowej rady gminy lub w zorganizowanym wydarzeniu, na którym reprezentuje on młodzieżową radę gminy, na podstawie dokumentów, w szczególności rachunków, faktur lub biletów, potwierdzających poniesione wydatki lub informacji o wysokości poniesionych kosztów przejazdu samochodem. Szczegółowe zasady zwrotu kosztów oraz zasady delegowania przedstawicieli młodzieżowej rady gminy na zorganizowane wydarzenia, na których reprezentują oni młodzieżową radę gminy, reguluje statut młodzieżowej rady gminy. 12. Młodzieżowa rada gminy może posiadać opiekuna. 13. Statut młodzieżowej rady gminy może określać szczegółowe wymagania, które musi spełniać opiekun, zakres jego obowiązków oraz zasady jego odwoływania. 14. Wyboru opiekuna młodzieżowej rady gminy dokonuje rada gminy spośród kandydatów wskazanych przez młodzieżową radę gminy. 15. Obsługę administracyjno-biurową młodzieżowej rady gminy zapewnia urząd gminy. Koszty obsługi młodzieżowej rady gminy pokrywa urząd gminy. ” ; 2) w art. 5c dodaje się ust. 7 w brzmieniu: „ 7. Gminna rada seniorów może zgłosić do uprawnionych podmiotów wniosek o podjęcie inicjatywy uchwałodawczej. Tryb zgłaszania wniosku o podjęcie inicjatywy uchwałodawczej określa statut gminy. ” ."
+      "content": "W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym wprowadza się następujące zmiany: art. 5b otrzymuje brzmienie: „ Gmina podejmuje działania na rzecz wspierania i upowszechniania idei samorządowej wśród mieszkańców gminy, w szczególności wśród młodzieży, angażując ją w sprawy dla niej istotne. Rada gminy może wyrazić zgodę na utworzenie młodzieżowej rady gminy z własnej inicjatywy lub na wniosek: wójta; podmiotów reprezentujących zainteresowane środowiska, w szczególności: organizacji pozarządowych lub podmiotów określonych w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie , działających na terenie danej gminy, samorządu uczniowskiego lub samorządu studenckiego z terenu danej gminy. Wniosek, o którym mowa w ust. 2, jest rozpatrywany przez radę gminy w terminie nie dłuższym niż 3 miesiące od dnia jego złożenia. W przypadku odrzucenia wniosku złożonego przez podmiot, o którym mowa w ust. 2 pkt 2, kolejny wniosek może być złożony przez ten sam podmiot nie wcześniej niż po upływie 6 miesięcy od dnia odrzucenia poprzedniego wniosku. Młodzieżowa rada gminy ma charakter konsultacyjny, doradczy i inicjatywny. Młodzieżowa rada gminy może zgłosić do uprawnionych podmiotów wniosek o podjęcie inicjatywy uchwałodawczej. Tryb zgłaszania wniosku o podjęcie inicjatywy uchwałodawczej określa statut gminy lub odrębna uchwała rady gminy. W sprawach dotyczących gminy młodzieżowa rada gminy może kierować zapytania lub wnioski w formie uchwały. Uchwała powinna zawierać krótkie przedstawienie stanu faktycznego będącego jej przedmiotem oraz wynikające z niej pytania. Wójt lub osoba przez niego wyznaczona są obowiązani udzielić odpowiedzi na piśmie, nie później niż w terminie 30 dni od dnia otrzymania uchwały. Do zadań młodzieżowej rady gminy należy w szczególności: opiniowanie projektów uchwał dotyczących młodzieży; udział w opracowaniu dokumentów strategicznych gminy na rzecz młodzieży; monitorowanie realizacji dokumentów strategicznych gminy na rzecz młodzieży; podejmowanie działań na rzecz młodzieży, w szczególności w zakresie edukacji obywatelskiej, na zasadach określonych przez radę gminy. Młodzieżowa rada gminy może współuczestniczyć w działaniach związanych z tworzeniem i realizacją rządowych dokumentów strategicznych dotyczących polityki młodzieżowej. Rada gminy, tworząc młodzieżową radę gminy, nadaje jej statut określający w szczególności zasady działania młodzieżowej rady gminy, tryb i kryteria wyboru jej członków oraz zasady wygaśnięcia mandatu i odwołania członka młodzieżowej rady gminy. Podmioty, o których mowa w ust. 2 pkt 1 i 2, mogą przedstawiać opinie w zakresie projektu statutu. Członkowi młodzieżowej rady gminy biorącemu udział w posiedzeniach młodzieżowej rady gminy lub w zorganizowanym wydarzeniu, na którym reprezentuje on młodzieżową radę gminy, a w przypadku niepełnoletniego członka młodzieżowej rady gminy - także jego rodzicowi lub opiekunowi prawnemu, zwraca się, na jego wniosek, koszty przejazdu na terenie kraju związane z udziałem w posiedzeniu młodzieżowej rady gminy lub w zorganizowanym wydarzeniu, na którym reprezentuje on młodzieżową radę gminy, na podstawie dokumentów, w szczególności rachunków, faktur lub biletów, potwierdzających poniesione wydatki lub informacji o wysokości poniesionych kosztów przejazdu samochodem. Szczegółowe zasady zwrotu kosztów oraz zasady delegowania przedstawicieli młodzieżowej rady gminy na zorganizowane wydarzenia, na których reprezentują oni młodzieżową radę gminy, reguluje statut młodzieżowej rady gminy. Młodzieżowa rada gminy może posiadać opiekuna. Statut młodzieżowej rady gminy może określać szczegółowe wymagania, które musi spełniać opiekun, zakres jego obowiązków oraz zasady jego odwoływania. Wyboru opiekuna młodzieżowej rady gminy dokonuje rada gminy spośród kandydatów wskazanych przez młodzieżową radę gminy. Obsługę administracyjno-biurową młodzieżowej rady gminy zapewnia urząd gminy. Koszty obsługi młodzieżowej rady gminy pokrywa urząd gminy. ” ; w art. 5c dodaje się ust. 7 w brzmieniu: „ Gminna rada seniorów może zgłosić do uprawnionych podmiotów wniosek o podjęcie inicjatywy uchwałodawczej. Tryb zgłaszania wniosku o podjęcie inicjatywy uchwałodawczej określa statut gminy. ” ."
+    },
+    {
+      "provision_ref": "art1p1u1",
+      "section": "1",
+      "title": "Art. 1 pkt 1 ust. 1",
+      "content": "W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym wprowadza się następujące zmiany: art. 5b otrzymuje brzmienie: „ Gmina podejmuje działania na rzecz wspierania i upowszechniania idei samorządowej wśród mieszkańców gminy, w szczególności wśród młodzieży, angażując ją w sprawy dla niej istotne."
+    },
+    {
+      "provision_ref": "art1p1u2p1",
+      "section": "1",
+      "title": "Art. 1 pkt 1 ust. 2 pkt 1",
+      "content": "W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym wprowadza się następujące zmiany: art. 5b otrzymuje brzmienie: „ Rada gminy może wyrazić zgodę na utworzenie młodzieżowej rady gminy z własnej inicjatywy lub na wniosek: wójta;"
+    },
+    {
+      "provision_ref": "art1p1u2p2la",
+      "section": "1",
+      "title": "Art. 1 pkt 1 ust. 2 pkt 2 lit. a",
+      "content": "W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym wprowadza się następujące zmiany: art. 5b otrzymuje brzmienie: „ Rada gminy może wyrazić zgodę na utworzenie młodzieżowej rady gminy z własnej inicjatywy lub na wniosek: podmiotów reprezentujących zainteresowane środowiska, w szczególności: organizacji pozarządowych lub podmiotów określonych w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie , działających na terenie danej gminy,"
+    },
+    {
+      "provision_ref": "art1p1u2p2lb",
+      "section": "1",
+      "title": "Art. 1 pkt 1 ust. 2 pkt 2 lit. b",
+      "content": "W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym wprowadza się następujące zmiany: art. 5b otrzymuje brzmienie: „ Rada gminy może wyrazić zgodę na utworzenie młodzieżowej rady gminy z własnej inicjatywy lub na wniosek: podmiotów reprezentujących zainteresowane środowiska, w szczególności: samorządu uczniowskiego lub samorządu studenckiego z terenu danej gminy."
+    },
+    {
+      "provision_ref": "art1p1u3",
+      "section": "1",
+      "title": "Art. 1 pkt 1 ust. 3",
+      "content": "W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym wprowadza się następujące zmiany: art. 5b otrzymuje brzmienie: „ Wniosek, o którym mowa w ust. 2, jest rozpatrywany przez radę gminy w terminie nie dłuższym niż 3 miesiące od dnia jego złożenia."
+    },
+    {
+      "provision_ref": "art1p1u4",
+      "section": "1",
+      "title": "Art. 1 pkt 1 ust. 4",
+      "content": "W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym wprowadza się następujące zmiany: art. 5b otrzymuje brzmienie: „ W przypadku odrzucenia wniosku złożonego przez podmiot, o którym mowa w ust. 2 pkt 2, kolejny wniosek może być złożony przez ten sam podmiot nie wcześniej niż po upływie 6 miesięcy od dnia odrzucenia poprzedniego wniosku."
+    },
+    {
+      "provision_ref": "art1p1u5",
+      "section": "1",
+      "title": "Art. 1 pkt 1 ust. 5",
+      "content": "W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym wprowadza się następujące zmiany: art. 5b otrzymuje brzmienie: „ Młodzieżowa rada gminy ma charakter konsultacyjny, doradczy i inicjatywny."
+    },
+    {
+      "provision_ref": "art1p1u6",
+      "section": "1",
+      "title": "Art. 1 pkt 1 ust. 6",
+      "content": "W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym wprowadza się następujące zmiany: art. 5b otrzymuje brzmienie: „ Młodzieżowa rada gminy może zgłosić do uprawnionych podmiotów wniosek o podjęcie inicjatywy uchwałodawczej. Tryb zgłaszania wniosku o podjęcie inicjatywy uchwałodawczej określa statut gminy lub odrębna uchwała rady gminy."
+    },
+    {
+      "provision_ref": "art1p1u7",
+      "section": "1",
+      "title": "Art. 1 pkt 1 ust. 7",
+      "content": "W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym wprowadza się następujące zmiany: art. 5b otrzymuje brzmienie: „ W sprawach dotyczących gminy młodzieżowa rada gminy może kierować zapytania lub wnioski w formie uchwały. Uchwała powinna zawierać krótkie przedstawienie stanu faktycznego będącego jej przedmiotem oraz wynikające z niej pytania. Wójt lub osoba przez niego wyznaczona są obowiązani udzielić odpowiedzi na piśmie, nie później niż w terminie 30 dni od dnia otrzymania uchwały."
+    },
+    {
+      "provision_ref": "art1p1u8p1",
+      "section": "1",
+      "title": "Art. 1 pkt 1 ust. 8 pkt 1",
+      "content": "W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym wprowadza się następujące zmiany: art. 5b otrzymuje brzmienie: „ Do zadań młodzieżowej rady gminy należy w szczególności: opiniowanie projektów uchwał dotyczących młodzieży;"
+    },
+    {
+      "provision_ref": "art1p1u8p2",
+      "section": "1",
+      "title": "Art. 1 pkt 1 ust. 8 pkt 2",
+      "content": "W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym wprowadza się następujące zmiany: art. 5b otrzymuje brzmienie: „ Do zadań młodzieżowej rady gminy należy w szczególności: udział w opracowaniu dokumentów strategicznych gminy na rzecz młodzieży;"
+    },
+    {
+      "provision_ref": "art1p1u8p3",
+      "section": "1",
+      "title": "Art. 1 pkt 1 ust. 8 pkt 3",
+      "content": "W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym wprowadza się następujące zmiany: art. 5b otrzymuje brzmienie: „ Do zadań młodzieżowej rady gminy należy w szczególności: monitorowanie realizacji dokumentów strategicznych gminy na rzecz młodzieży;"
+    },
+    {
+      "provision_ref": "art1p1u8p4",
+      "section": "1",
+      "title": "Art. 1 pkt 1 ust. 8 pkt 4",
+      "content": "W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym wprowadza się następujące zmiany: art. 5b otrzymuje brzmienie: „ Do zadań młodzieżowej rady gminy należy w szczególności: podejmowanie działań na rzecz młodzieży, w szczególności w zakresie edukacji obywatelskiej, na zasadach określonych przez radę gminy."
+    },
+    {
+      "provision_ref": "art1p1u9",
+      "section": "1",
+      "title": "Art. 1 pkt 1 ust. 9",
+      "content": "W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym wprowadza się następujące zmiany: art. 5b otrzymuje brzmienie: „ Młodzieżowa rada gminy może współuczestniczyć w działaniach związanych z tworzeniem i realizacją rządowych dokumentów strategicznych dotyczących polityki młodzieżowej."
+    },
+    {
+      "provision_ref": "art1p1u10",
+      "section": "1",
+      "title": "Art. 1 pkt 1 ust. 10",
+      "content": "W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym wprowadza się następujące zmiany: art. 5b otrzymuje brzmienie: „ Rada gminy, tworząc młodzieżową radę gminy, nadaje jej statut określający w szczególności zasady działania młodzieżowej rady gminy, tryb i kryteria wyboru jej członków oraz zasady wygaśnięcia mandatu i odwołania członka młodzieżowej rady gminy. Podmioty, o których mowa w ust. 2 pkt 1 i 2, mogą przedstawiać opinie w zakresie projektu statutu."
+    },
+    {
+      "provision_ref": "art1p1u11",
+      "section": "1",
+      "title": "Art. 1 pkt 1 ust. 11",
+      "content": "W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym wprowadza się następujące zmiany: art. 5b otrzymuje brzmienie: „ Członkowi młodzieżowej rady gminy biorącemu udział w posiedzeniach młodzieżowej rady gminy lub w zorganizowanym wydarzeniu, na którym reprezentuje on młodzieżową radę gminy, a w przypadku niepełnoletniego członka młodzieżowej rady gminy - także jego rodzicowi lub opiekunowi prawnemu, zwraca się, na jego wniosek, koszty przejazdu na terenie kraju związane z udziałem w posiedzeniu młodzieżowej rady gminy lub w zorganizowanym wydarzeniu, na którym reprezentuje on młodzieżową radę gminy, na podstawie dokumentów, w szczególności rachunków, faktur lub biletów, potwierdzających poniesione wydatki lub informacji o wysokości poniesionych kosztów przejazdu samochodem. Szczegółowe zasady zwrotu kosztów oraz zasady delegowania przedstawicieli młodzieżowej rady gminy na zorganizowane wydarzenia, na których reprezentują oni młodzieżową radę gminy, reguluje statut młodzieżowej rady gminy."
+    },
+    {
+      "provision_ref": "art1p1u12",
+      "section": "1",
+      "title": "Art. 1 pkt 1 ust. 12",
+      "content": "W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym wprowadza się następujące zmiany: art. 5b otrzymuje brzmienie: „ Młodzieżowa rada gminy może posiadać opiekuna."
+    },
+    {
+      "provision_ref": "art1p1u13",
+      "section": "1",
+      "title": "Art. 1 pkt 1 ust. 13",
+      "content": "W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym wprowadza się następujące zmiany: art. 5b otrzymuje brzmienie: „ Statut młodzieżowej rady gminy może określać szczegółowe wymagania, które musi spełniać opiekun, zakres jego obowiązków oraz zasady jego odwoływania."
+    },
+    {
+      "provision_ref": "art1p1u14",
+      "section": "1",
+      "title": "Art. 1 pkt 1 ust. 14",
+      "content": "W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym wprowadza się następujące zmiany: art. 5b otrzymuje brzmienie: „ Wyboru opiekuna młodzieżowej rady gminy dokonuje rada gminy spośród kandydatów wskazanych przez młodzieżową radę gminy."
+    },
+    {
+      "provision_ref": "art1p1u15",
+      "section": "1",
+      "title": "Art. 1 pkt 1 ust. 15",
+      "content": "W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym wprowadza się następujące zmiany: art. 5b otrzymuje brzmienie: „ Obsługę administracyjno-biurową młodzieżowej rady gminy zapewnia urząd gminy. Koszty obsługi młodzieżowej rady gminy pokrywa urząd gminy."
+    },
+    {
+      "provision_ref": "art1p2u7",
+      "section": "1",
+      "title": "Art. 1 pkt 2 ust. 7",
+      "content": "W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym wprowadza się następujące zmiany: w art. 5c dodaje się ust. 7 w brzmieniu: „ Gminna rada seniorów może zgłosić do uprawnionych podmiotów wniosek o podjęcie inicjatywy uchwałodawczej. Tryb zgłaszania wniosku o podjęcie inicjatywy uchwałodawczej określa statut gminy."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym ( Dz. U. z 2020 r. poz. 920 ) po art. 3d dodaje się art. 3e w brzmieniu: „ Art. 3e. 1. Powiat podejmuje działania na rzecz wspierania i upowszechniania idei samorządowej wśród mieszkańców powiatu, w szczególności wśród młodzieży, angażując ją w sprawy dla niej istotne. 2. Rada powiatu może wyrazić zgodę na utworzenie młodzieżowej rady powiatu z własnej inicjatywy lub na wniosek: 1) zarządu powiatu; 2) podmiotów reprezentujących zainteresowane środowiska, w szczególności: a) organizacji pozarządowych lub podmiotów określonych w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie ( Dz. U. z 2020 r. poz. 1057 ) , działających na terenie danego powiatu, b) samorządu uczniowskiego lub samorządu studenckiego z terenu danego powiatu. 3. Wniosek, o którym mowa w ust. 2, jest rozpatrywany przez radę powiatu w terminie nie dłuższym niż 3 miesiące od dnia jego złożenia. 4. W przypadku odrzucenia wniosku złożonego przez podmiot, o którym mowa w ust. 2 pkt 2, kolejny wniosek może być złożony przez ten sam podmiot nie wcześniej niż po upływie 6 miesięcy od dnia odrzucenia poprzedniego wniosku. 5. Młodzieżowa rada powiatu ma charakter konsultacyjny, doradczy i inicjatywny. 6. Młodzieżowa rada powiatu może zgłosić do uprawnionych podmiotów wniosek o podjęcie inicjatywy uchwałodawczej. Tryb zgłaszania wniosku o podjęcie inicjatywy uchwałodawczej określa statut powiatu lub odrębna uchwała rady powiatu. 7. W sprawach dotyczących powiatu młodzieżowa rada powiatu może kierować zapytania lub wnioski w formie uchwały. Uchwała powinna zawierać krótkie przedstawienie stanu faktycznego będącego jej przedmiotem oraz wynikające z niej pytania. Starosta powiatu lub osoba przez niego wyznaczona są obowiązani udzielić odpowiedzi na piśmie, nie później niż w terminie 30 dni od dnia otrzymania uchwały. 8. Do zadań młodzieżowej rady powiatu należy w szczególności: 1) opiniowanie projektów uchwał dotyczących młodzieży; 2) udział w opracowaniu działań strategicznych powiatu na rzecz młodzieży; 3) monitorowanie realizacji dokumentów strategicznych powiatu na rzecz młodzieży; 4) podejmowanie działań na rzecz młodzieży, w szczególności w zakresie edukacji obywatelskiej, na zasadach określonych przez radę powiatu. 9. Młodzieżowa rada powiatu może współuczestniczyć w działaniach związanych z tworzeniem i realizacją rządowych dokumentów strategicznych dotyczących polityki młodzieżowej. 10. Rada powiatu, tworząc młodzieżową radę powiatu, nadaje jej statut określający w szczególności zasady działania młodzieżowej rady powiatu, tryb i kryteria wyboru jej członków oraz zasady wygaśnięcia mandatu i odwołania członka młodzieżowej rady powiatu. Podmioty, o których mowa w ust. 2 pkt 1 i 2, mogą przedstawiać opinie w zakresie projektu statutu. 11. Członkowi młodzieżowej rady powiatu biorącemu udział w posiedzeniach młodzieżowej rady powiatu lub w zorganizowanym wydarzeniu, na którym reprezentuje on młodzieżową radę powiatu, a w przypadku niepełnoletniego członka młodzieżowej rady powiatu - także jego rodzicowi lub opiekunowi prawnemu, zwraca się, na jego wniosek, koszty przejazdu na terenie kraju związane z udziałem w posiedzeniu młodzieżowej rady powiatu lub w zorganizowanym wydarzeniu, na którym reprezentuje on młodzieżową radę powiatu, na podstawie dokumentów, w szczególności rachunków, faktur lub biletów, potwierdzających poniesione wydatki lub informacji o wysokości poniesionych kosztów przejazdu samochodem. Szczegółowe zasady zwrotu kosztów oraz zasady delegowania przedstawicieli młodzieżowej rady powiatu na zorganizowane wydarzenia, na których reprezentują oni młodzieżową radę powiatu, reguluje statut młodzieżowej rady powiatu. 12. Młodzieżowa rada powiatu może posiadać opiekuna. 13. Statut młodzieżowej rady powiatu może określać szczegółowe wymagania, które musi spełniać opiekun, zakres jego obowiązków oraz zasady jego odwoływania. 14. Wyboru opiekuna młodzieżowej rady powiatu dokonuje rada powiatu spośród kandydatów wskazanych przez młodzieżową radę powiatu. 15. Obsługę administracyjno-biurową młodzieżowej rady powiatu zapewnia starostwo powiatowe. Koszty obsługi młodzieżowej rady powiatu pokrywa starostwo powiatowe. ” ."
+      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym po art. 3d dodaje się art. 3e w brzmieniu: „ Powiat podejmuje działania na rzecz wspierania i upowszechniania idei samorządowej wśród mieszkańców powiatu, w szczególności wśród młodzieży, angażując ją w sprawy dla niej istotne. Rada powiatu może wyrazić zgodę na utworzenie młodzieżowej rady powiatu z własnej inicjatywy lub na wniosek: zarządu powiatu; podmiotów reprezentujących zainteresowane środowiska, w szczególności: organizacji pozarządowych lub podmiotów określonych w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie , działających na terenie danego powiatu, samorządu uczniowskiego lub samorządu studenckiego z terenu danego powiatu. Wniosek, o którym mowa w ust. 2, jest rozpatrywany przez radę powiatu w terminie nie dłuższym niż 3 miesiące od dnia jego złożenia. W przypadku odrzucenia wniosku złożonego przez podmiot, o którym mowa w ust. 2 pkt 2, kolejny wniosek może być złożony przez ten sam podmiot nie wcześniej niż po upływie 6 miesięcy od dnia odrzucenia poprzedniego wniosku. Młodzieżowa rada powiatu ma charakter konsultacyjny, doradczy i inicjatywny. Młodzieżowa rada powiatu może zgłosić do uprawnionych podmiotów wniosek o podjęcie inicjatywy uchwałodawczej. Tryb zgłaszania wniosku o podjęcie inicjatywy uchwałodawczej określa statut powiatu lub odrębna uchwała rady powiatu. W sprawach dotyczących powiatu młodzieżowa rada powiatu może kierować zapytania lub wnioski w formie uchwały. Uchwała powinna zawierać krótkie przedstawienie stanu faktycznego będącego jej przedmiotem oraz wynikające z niej pytania. Starosta powiatu lub osoba przez niego wyznaczona są obowiązani udzielić odpowiedzi na piśmie, nie później niż w terminie 30 dni od dnia otrzymania uchwały. Do zadań młodzieżowej rady powiatu należy w szczególności: opiniowanie projektów uchwał dotyczących młodzieży; udział w opracowaniu działań strategicznych powiatu na rzecz młodzieży; monitorowanie realizacji dokumentów strategicznych powiatu na rzecz młodzieży; podejmowanie działań na rzecz młodzieży, w szczególności w zakresie edukacji obywatelskiej, na zasadach określonych przez radę powiatu. Młodzieżowa rada powiatu może współuczestniczyć w działaniach związanych z tworzeniem i realizacją rządowych dokumentów strategicznych dotyczących polityki młodzieżowej. Rada powiatu, tworząc młodzieżową radę powiatu, nadaje jej statut określający w szczególności zasady działania młodzieżowej rady powiatu, tryb i kryteria wyboru jej członków oraz zasady wygaśnięcia mandatu i odwołania członka młodzieżowej rady powiatu. Podmioty, o których mowa w ust. 2 pkt 1 i 2, mogą przedstawiać opinie w zakresie projektu statutu. Członkowi młodzieżowej rady powiatu biorącemu udział w posiedzeniach młodzieżowej rady powiatu lub w zorganizowanym wydarzeniu, na którym reprezentuje on młodzieżową radę powiatu, a w przypadku niepełnoletniego członka młodzieżowej rady powiatu - także jego rodzicowi lub opiekunowi prawnemu, zwraca się, na jego wniosek, koszty przejazdu na terenie kraju związane z udziałem w posiedzeniu młodzieżowej rady powiatu lub w zorganizowanym wydarzeniu, na którym reprezentuje on młodzieżową radę powiatu, na podstawie dokumentów, w szczególności rachunków, faktur lub biletów, potwierdzających poniesione wydatki lub informacji o wysokości poniesionych kosztów przejazdu samochodem. Szczegółowe zasady zwrotu kosztów oraz zasady delegowania przedstawicieli młodzieżowej rady powiatu na zorganizowane wydarzenia, na których reprezentują oni młodzieżową radę powiatu, reguluje statut młodzieżowej rady powiatu. Młodzieżowa rada powiatu może posiadać opiekuna. Statut młodzieżowej rady powiatu może określać szczegółowe wymagania, które musi spełniać opiekun, zakres jego obowiązków oraz zasady jego odwoływania. Wyboru opiekuna młodzieżowej rady powiatu dokonuje rada powiatu spośród kandydatów wskazanych przez młodzieżową radę powiatu. Obsługę administracyjno-biurową młodzieżowej rady powiatu zapewnia starostwo powiatowe. Koszty obsługi młodzieżowej rady powiatu pokrywa starostwo powiatowe. ” ."
+    },
+    {
+      "provision_ref": "art2u1",
+      "section": "2",
+      "title": "Art. 2 ust. 1",
+      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym po art. 3d dodaje się art. 3e w brzmieniu: „ Powiat podejmuje działania na rzecz wspierania i upowszechniania idei samorządowej wśród mieszkańców powiatu, w szczególności wśród młodzieży, angażując ją w sprawy dla niej istotne."
+    },
+    {
+      "provision_ref": "art2u2p1",
+      "section": "2",
+      "title": "Art. 2 ust. 2 pkt 1",
+      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym po art. 3d dodaje się art. 3e w brzmieniu: „ Rada powiatu może wyrazić zgodę na utworzenie młodzieżowej rady powiatu z własnej inicjatywy lub na wniosek: zarządu powiatu;"
+    },
+    {
+      "provision_ref": "art2u2p2la",
+      "section": "2",
+      "title": "Art. 2 ust. 2 pkt 2 lit. a",
+      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym po art. 3d dodaje się art. 3e w brzmieniu: „ Rada powiatu może wyrazić zgodę na utworzenie młodzieżowej rady powiatu z własnej inicjatywy lub na wniosek: podmiotów reprezentujących zainteresowane środowiska, w szczególności: organizacji pozarządowych lub podmiotów określonych w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie , działających na terenie danego powiatu,"
+    },
+    {
+      "provision_ref": "art2u2p2lb",
+      "section": "2",
+      "title": "Art. 2 ust. 2 pkt 2 lit. b",
+      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym po art. 3d dodaje się art. 3e w brzmieniu: „ Rada powiatu może wyrazić zgodę na utworzenie młodzieżowej rady powiatu z własnej inicjatywy lub na wniosek: podmiotów reprezentujących zainteresowane środowiska, w szczególności: samorządu uczniowskiego lub samorządu studenckiego z terenu danego powiatu."
+    },
+    {
+      "provision_ref": "art2u3",
+      "section": "2",
+      "title": "Art. 2 ust. 3",
+      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym po art. 3d dodaje się art. 3e w brzmieniu: „ Wniosek, o którym mowa w ust. 2, jest rozpatrywany przez radę powiatu w terminie nie dłuższym niż 3 miesiące od dnia jego złożenia."
+    },
+    {
+      "provision_ref": "art2u4",
+      "section": "2",
+      "title": "Art. 2 ust. 4",
+      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym po art. 3d dodaje się art. 3e w brzmieniu: „ W przypadku odrzucenia wniosku złożonego przez podmiot, o którym mowa w ust. 2 pkt 2, kolejny wniosek może być złożony przez ten sam podmiot nie wcześniej niż po upływie 6 miesięcy od dnia odrzucenia poprzedniego wniosku."
+    },
+    {
+      "provision_ref": "art2u5",
+      "section": "2",
+      "title": "Art. 2 ust. 5",
+      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym po art. 3d dodaje się art. 3e w brzmieniu: „ Młodzieżowa rada powiatu ma charakter konsultacyjny, doradczy i inicjatywny."
+    },
+    {
+      "provision_ref": "art2u6",
+      "section": "2",
+      "title": "Art. 2 ust. 6",
+      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym po art. 3d dodaje się art. 3e w brzmieniu: „ Młodzieżowa rada powiatu może zgłosić do uprawnionych podmiotów wniosek o podjęcie inicjatywy uchwałodawczej. Tryb zgłaszania wniosku o podjęcie inicjatywy uchwałodawczej określa statut powiatu lub odrębna uchwała rady powiatu."
+    },
+    {
+      "provision_ref": "art2u7",
+      "section": "2",
+      "title": "Art. 2 ust. 7",
+      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym po art. 3d dodaje się art. 3e w brzmieniu: „ W sprawach dotyczących powiatu młodzieżowa rada powiatu może kierować zapytania lub wnioski w formie uchwały. Uchwała powinna zawierać krótkie przedstawienie stanu faktycznego będącego jej przedmiotem oraz wynikające z niej pytania. Starosta powiatu lub osoba przez niego wyznaczona są obowiązani udzielić odpowiedzi na piśmie, nie później niż w terminie 30 dni od dnia otrzymania uchwały."
+    },
+    {
+      "provision_ref": "art2u8p1",
+      "section": "2",
+      "title": "Art. 2 ust. 8 pkt 1",
+      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym po art. 3d dodaje się art. 3e w brzmieniu: „ Do zadań młodzieżowej rady powiatu należy w szczególności: opiniowanie projektów uchwał dotyczących młodzieży;"
+    },
+    {
+      "provision_ref": "art2u8p2",
+      "section": "2",
+      "title": "Art. 2 ust. 8 pkt 2",
+      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym po art. 3d dodaje się art. 3e w brzmieniu: „ Do zadań młodzieżowej rady powiatu należy w szczególności: udział w opracowaniu działań strategicznych powiatu na rzecz młodzieży;"
+    },
+    {
+      "provision_ref": "art2u8p3",
+      "section": "2",
+      "title": "Art. 2 ust. 8 pkt 3",
+      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym po art. 3d dodaje się art. 3e w brzmieniu: „ Do zadań młodzieżowej rady powiatu należy w szczególności: monitorowanie realizacji dokumentów strategicznych powiatu na rzecz młodzieży;"
+    },
+    {
+      "provision_ref": "art2u8p4",
+      "section": "2",
+      "title": "Art. 2 ust. 8 pkt 4",
+      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym po art. 3d dodaje się art. 3e w brzmieniu: „ Do zadań młodzieżowej rady powiatu należy w szczególności: podejmowanie działań na rzecz młodzieży, w szczególności w zakresie edukacji obywatelskiej, na zasadach określonych przez radę powiatu."
+    },
+    {
+      "provision_ref": "art2u9",
+      "section": "2",
+      "title": "Art. 2 ust. 9",
+      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym po art. 3d dodaje się art. 3e w brzmieniu: „ Młodzieżowa rada powiatu może współuczestniczyć w działaniach związanych z tworzeniem i realizacją rządowych dokumentów strategicznych dotyczących polityki młodzieżowej."
+    },
+    {
+      "provision_ref": "art2u10",
+      "section": "2",
+      "title": "Art. 2 ust. 10",
+      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym po art. 3d dodaje się art. 3e w brzmieniu: „ Rada powiatu, tworząc młodzieżową radę powiatu, nadaje jej statut określający w szczególności zasady działania młodzieżowej rady powiatu, tryb i kryteria wyboru jej członków oraz zasady wygaśnięcia mandatu i odwołania członka młodzieżowej rady powiatu. Podmioty, o których mowa w ust. 2 pkt 1 i 2, mogą przedstawiać opinie w zakresie projektu statutu."
+    },
+    {
+      "provision_ref": "art2u11",
+      "section": "2",
+      "title": "Art. 2 ust. 11",
+      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym po art. 3d dodaje się art. 3e w brzmieniu: „ Członkowi młodzieżowej rady powiatu biorącemu udział w posiedzeniach młodzieżowej rady powiatu lub w zorganizowanym wydarzeniu, na którym reprezentuje on młodzieżową radę powiatu, a w przypadku niepełnoletniego członka młodzieżowej rady powiatu - także jego rodzicowi lub opiekunowi prawnemu, zwraca się, na jego wniosek, koszty przejazdu na terenie kraju związane z udziałem w posiedzeniu młodzieżowej rady powiatu lub w zorganizowanym wydarzeniu, na którym reprezentuje on młodzieżową radę powiatu, na podstawie dokumentów, w szczególności rachunków, faktur lub biletów, potwierdzających poniesione wydatki lub informacji o wysokości poniesionych kosztów przejazdu samochodem. Szczegółowe zasady zwrotu kosztów oraz zasady delegowania przedstawicieli młodzieżowej rady powiatu na zorganizowane wydarzenia, na których reprezentują oni młodzieżową radę powiatu, reguluje statut młodzieżowej rady powiatu."
+    },
+    {
+      "provision_ref": "art2u12",
+      "section": "2",
+      "title": "Art. 2 ust. 12",
+      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym po art. 3d dodaje się art. 3e w brzmieniu: „ Młodzieżowa rada powiatu może posiadać opiekuna."
+    },
+    {
+      "provision_ref": "art2u13",
+      "section": "2",
+      "title": "Art. 2 ust. 13",
+      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym po art. 3d dodaje się art. 3e w brzmieniu: „ Statut młodzieżowej rady powiatu może określać szczegółowe wymagania, które musi spełniać opiekun, zakres jego obowiązków oraz zasady jego odwoływania."
+    },
+    {
+      "provision_ref": "art2u14",
+      "section": "2",
+      "title": "Art. 2 ust. 14",
+      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym po art. 3d dodaje się art. 3e w brzmieniu: „ Wyboru opiekuna młodzieżowej rady powiatu dokonuje rada powiatu spośród kandydatów wskazanych przez młodzieżową radę powiatu."
+    },
+    {
+      "provision_ref": "art2u15",
+      "section": "2",
+      "title": "Art. 2 ust. 15",
+      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym po art. 3d dodaje się art. 3e w brzmieniu: „ Obsługę administracyjno-biurową młodzieżowej rady powiatu zapewnia starostwo powiatowe. Koszty obsługi młodzieżowej rady powiatu pokrywa starostwo powiatowe."
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa ( Dz. U. z 2020 r. poz. 1668 ) po art. 10a dodaje się art. 10b w brzmieniu: „ Art. 10b. 1. Województwo podejmuje działania na rzecz wspierania i upowszechniania idei samorządowej wśród mieszkańców województwa, w szczególności wśród młodzieży, angażując ją w sprawy dla niej istotne. 2. Sejmik województwa może wyrazić zgodę na utworzenie młodzieżowego sejmiku województwa z własnej inicjatywy lub na wniosek: 1) zarządu województwa; 2) podmiotów reprezentujących zainteresowane środowiska, w szczególności: a) organizacji pozarządowych lub podmiotów określonych w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie ( Dz. U. z 2020 r. poz. 1057 ) , działających na terenie danego województwa, b) samorządu uczniowskiego lub samorządu studenckiego z terenu danego województwa. 3. Wniosek, o którym mowa w ust. 2, jest rozpatrywany przez sejmik województwa w terminie nie dłuższym niż 3 miesiące od dnia jego złożenia. 4. W przypadku odrzucenia wniosku złożonego przez podmiot, o którym mowa w ust. 2 pkt 2, kolejny wniosek może być złożony przez ten sam podmiot nie wcześniej niż po upływie 6 miesięcy od dnia odrzucenia poprzedniego wniosku. 5. Młodzieżowy sejmik województwa ma charakter konsultacyjny, doradczy i inicjatywny. 6. Młodzieżowy sejmik województwa może zgłosić do uprawnionych podmiotów wniosek o podjęcie inicjatywy uchwałodawczej. Tryb zgłaszania wniosku o podjęcie inicjatywy uchwałodawczej określa statut województwa lub odrębna uchwała sejmiku województwa. 7. W sprawach dotyczących województwa młodzieżowy sejmik województwa może kierować zapytania lub wnioski w formie uchwały. Uchwała powinna zawierać krótkie przedstawienie stanu faktycznego będącego jej przedmiotem oraz wynikające z niej pytania. Marszałek województwa lub osoba przez niego wyznaczona są obowiązani udzielić odpowiedzi na piśmie, nie później niż w terminie 30 dni od dnia otrzymania uchwały. 8. Do zadań młodzieżowego sejmiku województwa należy w szczególności: 1) opiniowanie projektów uchwał dotyczących młodzieży; 2) udział w opracowaniu dokumentów strategicznych województwa na rzecz młodzieży; 3) monitorowanie realizacji działań strategicznych województwa na rzecz młodzieży; 4) podejmowanie innych działań na rzecz młodzieży, w szczególności w zakresie edukacji obywatelskiej, na zasadach określonych przez sejmik województwa. 9. Młodzieżowy sejmik województwa może współuczestniczyć w działaniach związanych z tworzeniem i realizacją rządowych dokumentów strategicznych dotyczących polityki młodzieżowej. 10. Sejmik województwa, tworząc młodzieżowy sejmik województwa, nadaje mu statut określający w szczególności zasady działania młodzieżowego sejmiku województwa, tryb i kryteria wyboru jego członków oraz zasady wygaśnięcia mandatu i odwołania członka młodzieżowego sejmiku województwa. Podmioty, o których mowa w ust. 2 pkt 1 i 2, mogą przedstawiać opinie w zakresie projektu statutu. 11. Członkowi młodzieżowego sejmiku województwa biorącemu udział w posiedzeniach młodzieżowego sejmiku województwa lub w zorganizowanym wydarzeniu, na którym reprezentuje on młodzieżowy sejmik województwa, a w przypadku niepełnoletniego członka młodzieżowego sejmiku województwa - także jego rodzicowi lub opiekunowi prawnemu, zwraca się, na jego wniosek, koszty przejazdu na terenie kraju związane z udziałem w posiedzeniu młodzieżowego sejmiku województwa lub w zorganizowanym wydarzeniu, na którym reprezentuje on młodzieżowy sejmik województwa, na podstawie dokumentów, w szczególności rachunków, faktur lub biletów, potwierdzających poniesione wydatki lub informacji o wysokości poniesionych kosztów przejazdu samochodem. Szczegółowe zasady zwrotu kosztów oraz zasady delegowania przedstawicieli młodzieżowego sejmiku województwa na zorganizowane wydarzenia, na których reprezentują oni młodzieżowy sejmik województwa, reguluje statut młodzieżowego sejmiku województwa. 12. Młodzieżowy sejmik województwa może posiadać opiekuna. 13. Statut młodzieżowego sejmiku województwa może określać szczegółowe wymagania, które musi spełniać opiekun, zakres jego obowiązków oraz zasady jego odwoływania. 14. Wyboru opiekuna młodzieżowego sejmiku województwa dokonuje sejmik województwa spośród kandydatów wskazanych przez młodzieżowy sejmik województwa. 15. Obsługę administracyjno-biurową młodzieżowego sejmiku województwa zapewnia urząd marszałkowski. Koszty obsługi młodzieżowego sejmiku województwa pokrywa urząd marszałkowski. ” ."
+      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa po art. 10a dodaje się art. 10b w brzmieniu: „ Województwo podejmuje działania na rzecz wspierania i upowszechniania idei samorządowej wśród mieszkańców województwa, w szczególności wśród młodzieży, angażując ją w sprawy dla niej istotne. Sejmik województwa może wyrazić zgodę na utworzenie młodzieżowego sejmiku województwa z własnej inicjatywy lub na wniosek: zarządu województwa; podmiotów reprezentujących zainteresowane środowiska, w szczególności: organizacji pozarządowych lub podmiotów określonych w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie , działających na terenie danego województwa, samorządu uczniowskiego lub samorządu studenckiego z terenu danego województwa. Wniosek, o którym mowa w ust. 2, jest rozpatrywany przez sejmik województwa w terminie nie dłuższym niż 3 miesiące od dnia jego złożenia. W przypadku odrzucenia wniosku złożonego przez podmiot, o którym mowa w ust. 2 pkt 2, kolejny wniosek może być złożony przez ten sam podmiot nie wcześniej niż po upływie 6 miesięcy od dnia odrzucenia poprzedniego wniosku. Młodzieżowy sejmik województwa ma charakter konsultacyjny, doradczy i inicjatywny. Młodzieżowy sejmik województwa może zgłosić do uprawnionych podmiotów wniosek o podjęcie inicjatywy uchwałodawczej. Tryb zgłaszania wniosku o podjęcie inicjatywy uchwałodawczej określa statut województwa lub odrębna uchwała sejmiku województwa. W sprawach dotyczących województwa młodzieżowy sejmik województwa może kierować zapytania lub wnioski w formie uchwały. Uchwała powinna zawierać krótkie przedstawienie stanu faktycznego będącego jej przedmiotem oraz wynikające z niej pytania. Marszałek województwa lub osoba przez niego wyznaczona są obowiązani udzielić odpowiedzi na piśmie, nie później niż w terminie 30 dni od dnia otrzymania uchwały. Do zadań młodzieżowego sejmiku województwa należy w szczególności: opiniowanie projektów uchwał dotyczących młodzieży; udział w opracowaniu dokumentów strategicznych województwa na rzecz młodzieży; monitorowanie realizacji działań strategicznych województwa na rzecz młodzieży; podejmowanie innych działań na rzecz młodzieży, w szczególności w zakresie edukacji obywatelskiej, na zasadach określonych przez sejmik województwa. Młodzieżowy sejmik województwa może współuczestniczyć w działaniach związanych z tworzeniem i realizacją rządowych dokumentów strategicznych dotyczących polityki młodzieżowej. Sejmik województwa, tworząc młodzieżowy sejmik województwa, nadaje mu statut określający w szczególności zasady działania młodzieżowego sejmiku województwa, tryb i kryteria wyboru jego członków oraz zasady wygaśnięcia mandatu i odwołania członka młodzieżowego sejmiku województwa. Podmioty, o których mowa w ust. 2 pkt 1 i 2, mogą przedstawiać opinie w zakresie projektu statutu. Członkowi młodzieżowego sejmiku województwa biorącemu udział w posiedzeniach młodzieżowego sejmiku województwa lub w zorganizowanym wydarzeniu, na którym reprezentuje on młodzieżowy sejmik województwa, a w przypadku niepełnoletniego członka młodzieżowego sejmiku województwa - także jego rodzicowi lub opiekunowi prawnemu, zwraca się, na jego wniosek, koszty przejazdu na terenie kraju związane z udziałem w posiedzeniu młodzieżowego sejmiku województwa lub w zorganizowanym wydarzeniu, na którym reprezentuje on młodzieżowy sejmik województwa, na podstawie dokumentów, w szczególności rachunków, faktur lub biletów, potwierdzających poniesione wydatki lub informacji o wysokości poniesionych kosztów przejazdu samochodem. Szczegółowe zasady zwrotu kosztów oraz zasady delegowania przedstawicieli młodzieżowego sejmiku województwa na zorganizowane wydarzenia, na których reprezentują oni młodzieżowy sejmik województwa, reguluje statut młodzieżowego sejmiku województwa. Młodzieżowy sejmik województwa może posiadać opiekuna. Statut młodzieżowego sejmiku województwa może określać szczegółowe wymagania, które musi spełniać opiekun, zakres jego obowiązków oraz zasady jego odwoływania. Wyboru opiekuna młodzieżowego sejmiku województwa dokonuje sejmik województwa spośród kandydatów wskazanych przez młodzieżowy sejmik województwa. Obsługę administracyjno-biurową młodzieżowego sejmiku województwa zapewnia urząd marszałkowski. Koszty obsługi młodzieżowego sejmiku województwa pokrywa urząd marszałkowski. ” ."
+    },
+    {
+      "provision_ref": "art3u1",
+      "section": "3",
+      "title": "Art. 3 ust. 1",
+      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa po art. 10a dodaje się art. 10b w brzmieniu: „ Województwo podejmuje działania na rzecz wspierania i upowszechniania idei samorządowej wśród mieszkańców województwa, w szczególności wśród młodzieży, angażując ją w sprawy dla niej istotne."
+    },
+    {
+      "provision_ref": "art3u2p1",
+      "section": "3",
+      "title": "Art. 3 ust. 2 pkt 1",
+      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa po art. 10a dodaje się art. 10b w brzmieniu: „ Sejmik województwa może wyrazić zgodę na utworzenie młodzieżowego sejmiku województwa z własnej inicjatywy lub na wniosek: zarządu województwa;"
+    },
+    {
+      "provision_ref": "art3u2p2la",
+      "section": "3",
+      "title": "Art. 3 ust. 2 pkt 2 lit. a",
+      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa po art. 10a dodaje się art. 10b w brzmieniu: „ Sejmik województwa może wyrazić zgodę na utworzenie młodzieżowego sejmiku województwa z własnej inicjatywy lub na wniosek: podmiotów reprezentujących zainteresowane środowiska, w szczególności: organizacji pozarządowych lub podmiotów określonych w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie , działających na terenie danego województwa,"
+    },
+    {
+      "provision_ref": "art3u2p2lb",
+      "section": "3",
+      "title": "Art. 3 ust. 2 pkt 2 lit. b",
+      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa po art. 10a dodaje się art. 10b w brzmieniu: „ Sejmik województwa może wyrazić zgodę na utworzenie młodzieżowego sejmiku województwa z własnej inicjatywy lub na wniosek: podmiotów reprezentujących zainteresowane środowiska, w szczególności: samorządu uczniowskiego lub samorządu studenckiego z terenu danego województwa."
+    },
+    {
+      "provision_ref": "art3u3",
+      "section": "3",
+      "title": "Art. 3 ust. 3",
+      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa po art. 10a dodaje się art. 10b w brzmieniu: „ Wniosek, o którym mowa w ust. 2, jest rozpatrywany przez sejmik województwa w terminie nie dłuższym niż 3 miesiące od dnia jego złożenia."
+    },
+    {
+      "provision_ref": "art3u4",
+      "section": "3",
+      "title": "Art. 3 ust. 4",
+      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa po art. 10a dodaje się art. 10b w brzmieniu: „ W przypadku odrzucenia wniosku złożonego przez podmiot, o którym mowa w ust. 2 pkt 2, kolejny wniosek może być złożony przez ten sam podmiot nie wcześniej niż po upływie 6 miesięcy od dnia odrzucenia poprzedniego wniosku."
+    },
+    {
+      "provision_ref": "art3u5",
+      "section": "3",
+      "title": "Art. 3 ust. 5",
+      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa po art. 10a dodaje się art. 10b w brzmieniu: „ Młodzieżowy sejmik województwa ma charakter konsultacyjny, doradczy i inicjatywny."
+    },
+    {
+      "provision_ref": "art3u6",
+      "section": "3",
+      "title": "Art. 3 ust. 6",
+      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa po art. 10a dodaje się art. 10b w brzmieniu: „ Młodzieżowy sejmik województwa może zgłosić do uprawnionych podmiotów wniosek o podjęcie inicjatywy uchwałodawczej. Tryb zgłaszania wniosku o podjęcie inicjatywy uchwałodawczej określa statut województwa lub odrębna uchwała sejmiku województwa."
+    },
+    {
+      "provision_ref": "art3u7",
+      "section": "3",
+      "title": "Art. 3 ust. 7",
+      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa po art. 10a dodaje się art. 10b w brzmieniu: „ W sprawach dotyczących województwa młodzieżowy sejmik województwa może kierować zapytania lub wnioski w formie uchwały. Uchwała powinna zawierać krótkie przedstawienie stanu faktycznego będącego jej przedmiotem oraz wynikające z niej pytania. Marszałek województwa lub osoba przez niego wyznaczona są obowiązani udzielić odpowiedzi na piśmie, nie później niż w terminie 30 dni od dnia otrzymania uchwały."
+    },
+    {
+      "provision_ref": "art3u8p1",
+      "section": "3",
+      "title": "Art. 3 ust. 8 pkt 1",
+      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa po art. 10a dodaje się art. 10b w brzmieniu: „ Do zadań młodzieżowego sejmiku województwa należy w szczególności: opiniowanie projektów uchwał dotyczących młodzieży;"
+    },
+    {
+      "provision_ref": "art3u8p2",
+      "section": "3",
+      "title": "Art. 3 ust. 8 pkt 2",
+      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa po art. 10a dodaje się art. 10b w brzmieniu: „ Do zadań młodzieżowego sejmiku województwa należy w szczególności: udział w opracowaniu dokumentów strategicznych województwa na rzecz młodzieży;"
+    },
+    {
+      "provision_ref": "art3u8p3",
+      "section": "3",
+      "title": "Art. 3 ust. 8 pkt 3",
+      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa po art. 10a dodaje się art. 10b w brzmieniu: „ Do zadań młodzieżowego sejmiku województwa należy w szczególności: monitorowanie realizacji działań strategicznych województwa na rzecz młodzieży;"
+    },
+    {
+      "provision_ref": "art3u8p4",
+      "section": "3",
+      "title": "Art. 3 ust. 8 pkt 4",
+      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa po art. 10a dodaje się art. 10b w brzmieniu: „ Do zadań młodzieżowego sejmiku województwa należy w szczególności: podejmowanie innych działań na rzecz młodzieży, w szczególności w zakresie edukacji obywatelskiej, na zasadach określonych przez sejmik województwa."
+    },
+    {
+      "provision_ref": "art3u9",
+      "section": "3",
+      "title": "Art. 3 ust. 9",
+      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa po art. 10a dodaje się art. 10b w brzmieniu: „ Młodzieżowy sejmik województwa może współuczestniczyć w działaniach związanych z tworzeniem i realizacją rządowych dokumentów strategicznych dotyczących polityki młodzieżowej."
+    },
+    {
+      "provision_ref": "art3u10",
+      "section": "3",
+      "title": "Art. 3 ust. 10",
+      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa po art. 10a dodaje się art. 10b w brzmieniu: „ Sejmik województwa, tworząc młodzieżowy sejmik województwa, nadaje mu statut określający w szczególności zasady działania młodzieżowego sejmiku województwa, tryb i kryteria wyboru jego członków oraz zasady wygaśnięcia mandatu i odwołania członka młodzieżowego sejmiku województwa. Podmioty, o których mowa w ust. 2 pkt 1 i 2, mogą przedstawiać opinie w zakresie projektu statutu."
+    },
+    {
+      "provision_ref": "art3u11",
+      "section": "3",
+      "title": "Art. 3 ust. 11",
+      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa po art. 10a dodaje się art. 10b w brzmieniu: „ Członkowi młodzieżowego sejmiku województwa biorącemu udział w posiedzeniach młodzieżowego sejmiku województwa lub w zorganizowanym wydarzeniu, na którym reprezentuje on młodzieżowy sejmik województwa, a w przypadku niepełnoletniego członka młodzieżowego sejmiku województwa - także jego rodzicowi lub opiekunowi prawnemu, zwraca się, na jego wniosek, koszty przejazdu na terenie kraju związane z udziałem w posiedzeniu młodzieżowego sejmiku województwa lub w zorganizowanym wydarzeniu, na którym reprezentuje on młodzieżowy sejmik województwa, na podstawie dokumentów, w szczególności rachunków, faktur lub biletów, potwierdzających poniesione wydatki lub informacji o wysokości poniesionych kosztów przejazdu samochodem. Szczegółowe zasady zwrotu kosztów oraz zasady delegowania przedstawicieli młodzieżowego sejmiku województwa na zorganizowane wydarzenia, na których reprezentują oni młodzieżowy sejmik województwa, reguluje statut młodzieżowego sejmiku województwa."
+    },
+    {
+      "provision_ref": "art3u12",
+      "section": "3",
+      "title": "Art. 3 ust. 12",
+      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa po art. 10a dodaje się art. 10b w brzmieniu: „ Młodzieżowy sejmik województwa może posiadać opiekuna."
+    },
+    {
+      "provision_ref": "art3u13",
+      "section": "3",
+      "title": "Art. 3 ust. 13",
+      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa po art. 10a dodaje się art. 10b w brzmieniu: „ Statut młodzieżowego sejmiku województwa może określać szczegółowe wymagania, które musi spełniać opiekun, zakres jego obowiązków oraz zasady jego odwoływania."
+    },
+    {
+      "provision_ref": "art3u14",
+      "section": "3",
+      "title": "Art. 3 ust. 14",
+      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa po art. 10a dodaje się art. 10b w brzmieniu: „ Wyboru opiekuna młodzieżowego sejmiku województwa dokonuje sejmik województwa spośród kandydatów wskazanych przez młodzieżowy sejmik województwa."
+    },
+    {
+      "provision_ref": "art3u15",
+      "section": "3",
+      "title": "Art. 3 ust. 15",
+      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa po art. 10a dodaje się art. 10b w brzmieniu: „ Obsługę administracyjno-biurową młodzieżowego sejmiku województwa zapewnia urząd marszałkowski. Koszty obsługi młodzieżowego sejmiku województwa pokrywa urząd marszałkowski."
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "W ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie ( Dz. U. z 2020 r. poz. 1057 ) w art. 41 2 : 1) ust. 1 i 2 otrzymują brzmienie: „ 1. Rada Dialogu z Młodym Pokoleniem składa się z nie mniej niż 20 członków, w tym z: 1) przedstawiciela Prezydenta Rzeczypospolitej Polskiej; 2) przedstawiciela Rzecznika Praw Dziecka; 3) przedstawiciela Prezesa Rady Ministrów; 4) przedstawiciela ministra właściwego do spraw oświaty i wychowania; 5) przedstawiciela ministra właściwego do spraw szkolnictwa wyższego i nauki; 6) przedstawiciela ministra właściwego do spraw kultury fizycznej; 7) przedstawicieli Przewodniczącego Komitetu; 8) przedstawiciela Rady; 9) przedstawiciela jednostek samorządu terytorialnego; 10) przedstawicieli organizacji pozarządowych, związków i porozumień organizacji pozarządowych oraz podmiotów wymienionych w art. 3 ust. 3; 11) przedstawicieli młodzieżowych rad gmin w rozumieniu art. 5b ust. 2 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym ( Dz. U. z 2020 r. poz. 713 i 1378 oraz z 2021 r. poz. 1038 ) , przedstawicieli młodzieżowych rad powiatów w rozumieniu art. 3e ust. 2 ustawy z dnia 5 czerwca 1998 r. o samorządzie powiatowym ( Dz. U. z 2020 r. poz. 920 oraz z 2021 r. poz. 1038 ) , przedstawicieli młodzieżowych sejmików województw w rozumieniu art. 10b ust. 2 ustawy z dnia 5 czerwca 1998 r. o samorządzie województwa ( Dz. U. z 2020 r. poz. 1668 oraz z 2021 r. poz. 1038 ) ; 12) przedstawicieli Parlamentu Studentów Rzeczypospolitej Polskiej w rozumieniu art. 338 ust. 1 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce ( Dz. U. z 2021 r. poz. 478 i 619 ) . 2. Przedstawiciele organizacji pozarządowych, związków i porozumień organizacji pozarządowych, podmiotów wymienionych w art. 3 ust. 3 oraz młodzieżowych rad gmin, młodzieżowych rad powiatów, młodzieżowych sejmików województw i Parlamentu Studentów Rzeczypospolitej Polskiej stanowią co najmniej połowę składu Rady Dialogu z Młodym Pokoleniem. ” ; 2) w ust. 3 pkt 6 otrzymuje brzmienie: „ 6) reprezentujących młodzieżowe rady gmin, młodzieżowe rady powiatów, młodzieżowe sejmiki województw, spośród kandydatów, z których każdy ma poparcie co najmniej 3 młodzieżowych rad gmin, 3 młodzieżowych rad powiatów lub 3 młodzieżowych sejmików województw; ” ."
+      "content": "W ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie w art. 41 2 : ust. 1 i 2 otrzymują brzmienie: „ Rada Dialogu z Młodym Pokoleniem składa się z nie mniej niż 20 członków, w tym z: przedstawiciela Prezydenta Rzeczypospolitej Polskiej; przedstawiciela Rzecznika Praw Dziecka; przedstawiciela Prezesa Rady Ministrów; przedstawiciela ministra właściwego do spraw oświaty i wychowania; przedstawiciela ministra właściwego do spraw szkolnictwa wyższego i nauki; przedstawiciela ministra właściwego do spraw kultury fizycznej; przedstawicieli Przewodniczącego Komitetu; przedstawiciela Rady; przedstawiciela jednostek samorządu terytorialnego; przedstawicieli organizacji pozarządowych, związków i porozumień organizacji pozarządowych oraz podmiotów wymienionych w art. 3 ust. 3; przedstawicieli młodzieżowych rad gmin w rozumieniu art. 5b ust. 2 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym , przedstawicieli młodzieżowych rad powiatów w rozumieniu art. 3e ust. 2 ustawy z dnia 5 czerwca 1998 r. o samorządzie powiatowym , przedstawicieli młodzieżowych sejmików województw w rozumieniu art. 10b ust. 2 ustawy z dnia 5 czerwca 1998 r. o samorządzie województwa ; przedstawicieli Parlamentu Studentów Rzeczypospolitej Polskiej w rozumieniu art. 338 ust. 1 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce . Przedstawiciele organizacji pozarządowych, związków i porozumień organizacji pozarządowych, podmiotów wymienionych w art. 3 ust. 3 oraz młodzieżowych rad gmin, młodzieżowych rad powiatów, młodzieżowych sejmików województw i Parlamentu Studentów Rzeczypospolitej Polskiej stanowią co najmniej połowę składu Rady Dialogu z Młodym Pokoleniem. ” ; w ust. 3 pkt 6 otrzymuje brzmienie: „ reprezentujących młodzieżowe rady gmin, młodzieżowe rady powiatów, młodzieżowe sejmiki województw, spośród kandydatów, z których każdy ma poparcie co najmniej 3 młodzieżowych rad gmin, 3 młodzieżowych rad powiatów lub 3 młodzieżowych sejmików województw; ” ."
+    },
+    {
+      "provision_ref": "art4p1u1p1",
+      "section": "4",
+      "title": "Art. 4 pkt 1 ust. 1 pkt 1",
+      "content": "W ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie w art. 41 2 : ust. 1 i 2 otrzymują brzmienie: „ Rada Dialogu z Młodym Pokoleniem składa się z nie mniej niż 20 członków, w tym z: przedstawiciela Prezydenta Rzeczypospolitej Polskiej;"
+    },
+    {
+      "provision_ref": "art4p1u1p2",
+      "section": "4",
+      "title": "Art. 4 pkt 1 ust. 1 pkt 2",
+      "content": "W ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie w art. 41 2 : ust. 1 i 2 otrzymują brzmienie: „ Rada Dialogu z Młodym Pokoleniem składa się z nie mniej niż 20 członków, w tym z: przedstawiciela Rzecznika Praw Dziecka;"
+    },
+    {
+      "provision_ref": "art4p1u1p3",
+      "section": "4",
+      "title": "Art. 4 pkt 1 ust. 1 pkt 3",
+      "content": "W ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie w art. 41 2 : ust. 1 i 2 otrzymują brzmienie: „ Rada Dialogu z Młodym Pokoleniem składa się z nie mniej niż 20 członków, w tym z: przedstawiciela Prezesa Rady Ministrów;"
+    },
+    {
+      "provision_ref": "art4p1u1p4",
+      "section": "4",
+      "title": "Art. 4 pkt 1 ust. 1 pkt 4",
+      "content": "W ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie w art. 41 2 : ust. 1 i 2 otrzymują brzmienie: „ Rada Dialogu z Młodym Pokoleniem składa się z nie mniej niż 20 członków, w tym z: przedstawiciela ministra właściwego do spraw oświaty i wychowania;"
+    },
+    {
+      "provision_ref": "art4p1u1p5",
+      "section": "4",
+      "title": "Art. 4 pkt 1 ust. 1 pkt 5",
+      "content": "W ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie w art. 41 2 : ust. 1 i 2 otrzymują brzmienie: „ Rada Dialogu z Młodym Pokoleniem składa się z nie mniej niż 20 członków, w tym z: przedstawiciela ministra właściwego do spraw szkolnictwa wyższego i nauki;"
+    },
+    {
+      "provision_ref": "art4p1u1p6",
+      "section": "4",
+      "title": "Art. 4 pkt 1 ust. 1 pkt 6",
+      "content": "W ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie w art. 41 2 : ust. 1 i 2 otrzymują brzmienie: „ Rada Dialogu z Młodym Pokoleniem składa się z nie mniej niż 20 członków, w tym z: przedstawiciela ministra właściwego do spraw kultury fizycznej;"
+    },
+    {
+      "provision_ref": "art4p1u1p7",
+      "section": "4",
+      "title": "Art. 4 pkt 1 ust. 1 pkt 7",
+      "content": "W ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie w art. 41 2 : ust. 1 i 2 otrzymują brzmienie: „ Rada Dialogu z Młodym Pokoleniem składa się z nie mniej niż 20 członków, w tym z: przedstawicieli Przewodniczącego Komitetu;"
+    },
+    {
+      "provision_ref": "art4p1u1p8",
+      "section": "4",
+      "title": "Art. 4 pkt 1 ust. 1 pkt 8",
+      "content": "W ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie w art. 41 2 : ust. 1 i 2 otrzymują brzmienie: „ Rada Dialogu z Młodym Pokoleniem składa się z nie mniej niż 20 członków, w tym z: przedstawiciela Rady;"
+    },
+    {
+      "provision_ref": "art4p1u1p9",
+      "section": "4",
+      "title": "Art. 4 pkt 1 ust. 1 pkt 9",
+      "content": "W ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie w art. 41 2 : ust. 1 i 2 otrzymują brzmienie: „ Rada Dialogu z Młodym Pokoleniem składa się z nie mniej niż 20 członków, w tym z: przedstawiciela jednostek samorządu terytorialnego;"
+    },
+    {
+      "provision_ref": "art4p1u1p10",
+      "section": "4",
+      "title": "Art. 4 pkt 1 ust. 1 pkt 10",
+      "content": "W ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie w art. 41 2 : ust. 1 i 2 otrzymują brzmienie: „ Rada Dialogu z Młodym Pokoleniem składa się z nie mniej niż 20 członków, w tym z: przedstawicieli organizacji pozarządowych, związków i porozumień organizacji pozarządowych oraz podmiotów wymienionych w art. 3 ust. 3;"
+    },
+    {
+      "provision_ref": "art4p1u1p11",
+      "section": "4",
+      "title": "Art. 4 pkt 1 ust. 1 pkt 11",
+      "content": "W ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie w art. 41 2 : ust. 1 i 2 otrzymują brzmienie: „ Rada Dialogu z Młodym Pokoleniem składa się z nie mniej niż 20 członków, w tym z: przedstawicieli młodzieżowych rad gmin w rozumieniu art. 5b ust. 2 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym , przedstawicieli młodzieżowych rad powiatów w rozumieniu art. 3e ust. 2 ustawy z dnia 5 czerwca 1998 r. o samorządzie powiatowym , przedstawicieli młodzieżowych sejmików województw w rozumieniu art. 10b ust. 2 ustawy z dnia 5 czerwca 1998 r. o samorządzie województwa ;"
+    },
+    {
+      "provision_ref": "art4p1u1p12",
+      "section": "4",
+      "title": "Art. 4 pkt 1 ust. 1 pkt 12",
+      "content": "W ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie w art. 41 2 : ust. 1 i 2 otrzymują brzmienie: „ Rada Dialogu z Młodym Pokoleniem składa się z nie mniej niż 20 członków, w tym z: przedstawicieli Parlamentu Studentów Rzeczypospolitej Polskiej w rozumieniu art. 338 ust. 1 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce ."
+    },
+    {
+      "provision_ref": "art4p1u2",
+      "section": "4",
+      "title": "Art. 4 pkt 1 ust. 2",
+      "content": "W ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie w art. 41 2 : ust. 1 i 2 otrzymują brzmienie: „ Przedstawiciele organizacji pozarządowych, związków i porozumień organizacji pozarządowych, podmiotów wymienionych w art. 3 ust. 3 oraz młodzieżowych rad gmin, młodzieżowych rad powiatów, młodzieżowych sejmików województw i Parlamentu Studentów Rzeczypospolitej Polskiej stanowią co najmniej połowę składu Rady Dialogu z Młodym Pokoleniem."
+    },
+    {
+      "provision_ref": "art4p2p6",
+      "section": "4",
+      "title": "Art. 4 pkt 2 pkt 6",
+      "content": "W ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie w art. 41 2 : w ust. 3 pkt 6 otrzymuje brzmienie: „ reprezentujących młodzieżowe rady gmin, młodzieżowe rady powiatów, młodzieżowe sejmiki województw, spośród kandydatów, z których każdy ma poparcie co najmniej 3 młodzieżowych rad gmin, 3 młodzieżowych rad powiatów lub 3 młodzieżowych sejmików województw;"
     },
     {
       "provision_ref": "art5",
@@ -49,7 +499,19 @@
       "provision_ref": "art7",
       "section": "7",
       "title": "Art. 7",
-      "content": "1. Kadencja młodzieżowych rad gmin, młodzieżowych rad powiatów oraz młodzieżowych sejmików województw utworzonych przed dniem wejścia w życie niniejszej ustawy kończy się z upływem okresu określonego w przepisach o ich utworzeniu. 2. W przypadku gdy przepisy o utworzeniu rad lub sejmików, o których mowa w ust. 1, nie określały ich kadencji, rady i sejmiki te działają do dnia ustalenia ich składu zgodnie z przepisami ustaw zmienianych w art. 1-3, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 6 miesięcy od dnia jej wejścia w życie."
+      "content": "Kadencja młodzieżowych rad gmin, młodzieżowych rad powiatów oraz młodzieżowych sejmików województw utworzonych przed dniem wejścia w życie niniejszej ustawy kończy się z upływem okresu określonego w przepisach o ich utworzeniu. W przypadku gdy przepisy o utworzeniu rad lub sejmików, o których mowa w ust. 1, nie określały ich kadencji, rady i sejmiki te działają do dnia ustalenia ich składu zgodnie z przepisami ustaw zmienianych w art. 1-3, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 6 miesięcy od dnia jej wejścia w życie."
+    },
+    {
+      "provision_ref": "art7u1",
+      "section": "7",
+      "title": "Art. 7 ust. 1",
+      "content": "Kadencja młodzieżowych rad gmin, młodzieżowych rad powiatów oraz młodzieżowych sejmików województw utworzonych przed dniem wejścia w życie niniejszej ustawy kończy się z upływem okresu określonego w przepisach o ich utworzeniu."
+    },
+    {
+      "provision_ref": "art7u2",
+      "section": "7",
+      "title": "Art. 7 ust. 2",
+      "content": "W przypadku gdy przepisy o utworzeniu rad lub sejmików, o których mowa w ust. 1, nie określały ich kadencji, rady i sejmiki te działają do dnia ustalenia ich składu zgodnie z przepisami ustaw zmienianych w art. 1-3, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 6 miesięcy od dnia jej wejścia w życie."
     },
     {
       "provision_ref": "art8",
@@ -61,8 +523,38 @@
       "provision_ref": "art9",
       "section": "9",
       "title": "Art. 9",
-      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_4-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"arti_7-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_7-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2020-713",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2020-1378",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2020-1057",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2020-920",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2020-1668",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2021-478",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2021-619",
+      "ref_type": "amended_by"
+    }
+  ]
 }

@@ -13,14 +13,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 17 lipca 1997 r. o stosowaniu szczególnych rozwiązań w związku z likwidacją skutków powodzi, która miała miejsce w lipcu 1997 r. ( Dz. U. Nr 80, poz. 491 , Nr 107, poz. 692 i Nr 160, poz. 1087 ) , w art. 16 w ust. 5 wyrazy „do dnia 30 czerwca 1998 r.” zastępuje się wyrazami „do dnia 31 grudnia 1999 r.”"
+      "content": "W ustawie z dnia 17 lipca 1997 r. o stosowaniu szczególnych rozwiązań w związku z likwidacją skutków powodzi, która miała miejsce w lipcu 1997 r. , w art. 16 w ust. 5 wyrazy „do dnia 30 czerwca 1998 r.” zastępuje się wyrazami „do dnia 31 grudnia 1999 r.”"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ustawa wchodzi w życie z dniem ogłoszenia i stosuje się do przychodów uzyskanych po dniu 30 czerwca 1998 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia i stosuje się do przychodów uzyskanych po dniu 30 czerwca 1998 r."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-1997-491",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1997-692",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1997-1087",
+      "ref_type": "amended_by"
+    }
+  ]
 }

@@ -13,13 +13,13 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "Uchyla się pkt 2) artykułu 97-a ustawy z dnia 1 lipca 1926 r. o stosunkach służbowych nauczycieli ( Dz. U. R. P. z 1933 r. Nr 85, poz. 660 ) ."
+      "content": "Uchyla się pkt 2) artykułu 97-a ustawy z dnia 1 lipca 1926 r. o stosunkach służbowych nauczycieli ."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Upoważnia się Ministra Wyznań Religijnych i Oświecenia Publicznego do ogłoszenia w Dzienniku Ustaw Rzeczypospolitej Polskiej jednolitego tekstu ustawy z dnia 1 lipca 1926 r. o stosunkach służbowych nauczycieli ( Dz. U. R. P. z 1932 r. Nr 104, poz. 873 ) z uwzględnieniem zmian, wprowadzonych późniejszymi aktami ustawodawczymi i ustawą niniejszą."
+      "content": "Upoważnia się Ministra Wyznań Religijnych i Oświecenia Publicznego do ogłoszenia w Dzienniku Ustaw Rzeczypospolitej Polskiej jednolitego tekstu ustawy z dnia 1 lipca 1926 r. o stosunkach służbowych nauczycieli z uwzględnieniem zmian, wprowadzonych późniejszymi aktami ustawodawczymi i ustawą niniejszą."
     },
     {
       "provision_ref": "art3",
@@ -31,8 +31,18 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-1933-660",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1932-873",
+      "ref_type": "amended_by"
+    }
+  ]
 }

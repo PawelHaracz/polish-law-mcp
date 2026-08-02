@@ -13,14 +13,44 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 28 lipca 1983 r. o podatku wyrównawczym ( Dz. U. Nr 42, poz. 188 , z 1984 r. Nr 52, poz. 268 , z 1988 r. Nr 34, poz. 254 i z 1989 r. Nr 35, poz. 192 ) w art. 2 w ust. 1 dodaje się pkt 16a i 16b w brzmieniu: „ 16a) wynagrodzenia otrzymywane przez lekarzy i innych pracowników medycznych z tytułu dodatkowego zatrudnienia w pomocy doraźnej (pogotowiu ratunkowym), 16b) wynagrodzenia otrzymywane przez lekarzy za dyżury zakładowe, ” ."
+      "content": "W ustawie z dnia 28 lipca 1983 r. o podatku wyrównawczym w art. 2 w ust. 1 dodaje się pkt 16a i 16b w brzmieniu: „ wynagrodzenia otrzymywane przez lekarzy i innych pracowników medycznych z tytułu dodatkowego zatrudnienia w pomocy doraźnej (pogotowiu ratunkowym), wynagrodzenia otrzymywane przez lekarzy za dyżury zakładowe, ” ."
+    },
+    {
+      "provision_ref": "art1p16a",
+      "section": "1",
+      "title": "Art. 1 pkt 16a",
+      "content": "W ustawie z dnia 28 lipca 1983 r. o podatku wyrównawczym w art. 2 w ust. 1 dodaje się pkt 16a i 16b w brzmieniu: „ wynagrodzenia otrzymywane przez lekarzy i innych pracowników medycznych z tytułu dodatkowego zatrudnienia w pomocy doraźnej (pogotowiu ratunkowym),"
+    },
+    {
+      "provision_ref": "art1p16b",
+      "section": "1",
+      "title": "Art. 1 pkt 16b",
+      "content": "W ustawie z dnia 28 lipca 1983 r. o podatku wyrównawczym w art. 2 w ust. 1 dodaje się pkt 16a i 16b w brzmieniu: „ wynagrodzenia otrzymywane przez lekarzy za dyżury zakładowe,"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ustawa wchodzi w życie z dniem ogłoszenia i ma zastosowanie do podatku wyrównawczego przypadającego od dochodów osiągniętych od dnia 1 stycznia 1991 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia i ma zastosowanie do podatku wyrównawczego przypadającego od dochodów osiągniętych od dnia 1 stycznia 1991 r."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-1983-188",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1984-268",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1988-254",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1989-192",
+      "ref_type": "amended_by"
+    }
+  ]
 }

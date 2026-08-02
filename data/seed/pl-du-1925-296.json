@@ -19,7 +19,31 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Stawkę podatkową 20%, o której mowa w § 7 wspomnianego rozporządzenia Prezydenta Rzeczypospolitej, ustanawia się: 1) na rok 1925 - w wysokości 12% 2) na rok 1926 - w wysokości 10% 3) na rok 1927 - w wysokości 8% 4) na rok 1928 - w wysokości 7%"
+      "content": "Stawkę podatkową 20%, o której mowa w § 7 wspomnianego rozporządzenia Prezydenta Rzeczypospolitej, ustanawia się: na rok 1925 - w wysokości 12% na rok 1926 - w wysokości 10% na rok 1927 - w wysokości 8% na rok 1928 - w wysokości 7%"
+    },
+    {
+      "provision_ref": "art2p1",
+      "section": "2",
+      "title": "Art. 2 pkt 1",
+      "content": "Stawkę podatkową 20%, o której mowa w § 7 wspomnianego rozporządzenia Prezydenta Rzeczypospolitej, ustanawia się: na rok 1925 - w wysokości 12%"
+    },
+    {
+      "provision_ref": "art2p2",
+      "section": "2",
+      "title": "Art. 2 pkt 2",
+      "content": "Stawkę podatkową 20%, o której mowa w § 7 wspomnianego rozporządzenia Prezydenta Rzeczypospolitej, ustanawia się: na rok 1926 - w wysokości 10%"
+    },
+    {
+      "provision_ref": "art2p3",
+      "section": "2",
+      "title": "Art. 2 pkt 3",
+      "content": "Stawkę podatkową 20%, o której mowa w § 7 wspomnianego rozporządzenia Prezydenta Rzeczypospolitej, ustanawia się: na rok 1927 - w wysokości 8%"
+    },
+    {
+      "provision_ref": "art2p4",
+      "section": "2",
+      "title": "Art. 2 pkt 4",
+      "content": "Stawkę podatkową 20%, o której mowa w § 7 wspomnianego rozporządzenia Prezydenta Rzeczypospolitej, ustanawia się: na rok 1928 - w wysokości 7%"
     },
     {
       "provision_ref": "art3",
@@ -61,8 +85,9 @@
       "provision_ref": "art9",
       "section": "9",
       "title": "Art. 9",
-      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia i obowiązuje począwszy od 1 stycznia 1925 r. na całym obszarze Rzeczypospolitej z wyjątkiem województwa śląskiego. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"} ] } ];"
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia i obowiązuje począwszy od 1 stycznia 1925 r. na całym obszarze Rzeczypospolitej z wyjątkiem województwa śląskiego."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": []
 }

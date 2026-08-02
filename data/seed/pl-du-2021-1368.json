@@ -1,0 +1,604 @@
+{
+  "id": "pl-du-2021-1368",
+  "type": "statute",
+  "title": "Rozporządzenie Ministra Rozwoju, Pracy i Technologii z dnia 21 lipca 2021 r. w sprawie ewidencji miejscowości, ulic i adresów",
+  "title_en": "",
+  "short_name": "pl-du-2021-1368",
+  "status": "in_force",
+  "issued_date": "2021-07-21",
+  "in_force_date": "2021-07-27",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2021/1368",
+  "provisions": [
+    {
+      "provision_ref": "par1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Rozporządzenie określa: szczegółowy zakres informacji gromadzonych w bazach danych ewidencji miejscowości, ulic i adresów, zwanej dalej „ewidencją”; organizację i tryb tworzenia, aktualizacji i udostępniania baz danych ewidencji; wzór wniosku o ustalenie numeru porządkowego."
+    },
+    {
+      "provision_ref": "par1p1",
+      "section": "1",
+      "title": "§ 1 pkt 1",
+      "content": "Rozporządzenie określa: szczegółowy zakres informacji gromadzonych w bazach danych ewidencji miejscowości, ulic i adresów, zwanej dalej „ewidencją”;"
+    },
+    {
+      "provision_ref": "par1p2",
+      "section": "1",
+      "title": "§ 1 pkt 2",
+      "content": "Rozporządzenie określa: organizację i tryb tworzenia, aktualizacji i udostępniania baz danych ewidencji;"
+    },
+    {
+      "provision_ref": "par1p3",
+      "section": "1",
+      "title": "§ 1 pkt 3",
+      "content": "Rozporządzenie określa: wzór wniosku o ustalenie numeru porządkowego."
+    },
+    {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: ustawa - ustawę z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne ; rejestr TERYT - krajowy rejestr urzędowy podziału terytorialnego kraju, o którym mowa w art. 47 ust. 1 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej ; identyfikator TERC - identyfikator jednostek podziału terytorialnego ustalony na podstawie systemu identyfikatorów i nazw jednostek podziału terytorialnego, o którym mowa w art. 47 ust. 2 pkt 1 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej ; identyfikator SIMC - identyfikator miejscowości ustalony na podstawie systemu identyfikatorów i nazw miejscowości, o którym mowa w art. 47 ust. 2 pkt 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej ; identyfikator ULIC - identyfikator nazwy ulicy ustalony na podstawie systemu identyfikacji adresowej ulic, nieruchomości, budynków i mieszkań, o którym mowa w art. 47 ust. 2 pkt 4 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej ; ulica - ulice i inne ciągi komunikacyjne, w szczególności aleje, bulwary, szosy i drogi, którym nadano nazwę; plac - place i inne obszary na terenie miejscowości, w szczególności skwery, ronda, parki, rynki, osiedla, ogrody, wyspy i wybrzeża, którym nadano nazwę; obiekt - budynki, o których mowa w art. 47a ust. 4 pkt 5 lit. a ustawy, oraz inne obiekty, o których mowa w art. 47a ust. 4a ustawy, którym nadaje się numery porządkowe; numer porządkowy - unikalny numer nadany obiektowi, związany z ulicą lub placem znajdującymi się w danej miejscowości, a jeżeli w miejscowości nie nadaje się nazw ulicom i placom, numer określony unikalnie w obszarze danej miejscowości; adres - jednoznaczny opis obiektu, realizowany przez wskazanie miejscowości, kodu pocztowego oraz ulicy lub placu i numeru porządkowego przy tej ulicy lub tym placu, a jeżeli w miejscowości nie nadaje się nazw ulicom lub placom, numeru porządkowego w miejscowości; punkt adresowy - adres wraz z jego lokalizacją przestrzenną wyrażoną przez współrzędne płaskie prostokątne x, y; PRNG - państwowy rejestr nazw geograficznych, o którym mowa w przepisach wydanych na podstawie art. 19 ust. 1 pkt 8 ustawy; PRG - państwowy rejestr granic i powierzchni jednostek podziałów terytorialnych kraju, o którym mowa w przepisach wydanych na podstawie art. 19 ust. 1a ustawy."
+    },
+    {
+      "provision_ref": "par2p1",
+      "section": "2",
+      "title": "§ 2 pkt 1",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: ustawa - ustawę z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne ;"
+    },
+    {
+      "provision_ref": "par2p2",
+      "section": "2",
+      "title": "§ 2 pkt 2",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: rejestr TERYT - krajowy rejestr urzędowy podziału terytorialnego kraju, o którym mowa w art. 47 ust. 1 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej ;"
+    },
+    {
+      "provision_ref": "par2p3",
+      "section": "2",
+      "title": "§ 2 pkt 3",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: identyfikator TERC - identyfikator jednostek podziału terytorialnego ustalony na podstawie systemu identyfikatorów i nazw jednostek podziału terytorialnego, o którym mowa w art. 47 ust. 2 pkt 1 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej ;"
+    },
+    {
+      "provision_ref": "par2p4",
+      "section": "2",
+      "title": "§ 2 pkt 4",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: identyfikator SIMC - identyfikator miejscowości ustalony na podstawie systemu identyfikatorów i nazw miejscowości, o którym mowa w art. 47 ust. 2 pkt 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej ;"
+    },
+    {
+      "provision_ref": "par2p5",
+      "section": "2",
+      "title": "§ 2 pkt 5",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: identyfikator ULIC - identyfikator nazwy ulicy ustalony na podstawie systemu identyfikacji adresowej ulic, nieruchomości, budynków i mieszkań, o którym mowa w art. 47 ust. 2 pkt 4 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej ;"
+    },
+    {
+      "provision_ref": "par2p6",
+      "section": "2",
+      "title": "§ 2 pkt 6",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: ulica - ulice i inne ciągi komunikacyjne, w szczególności aleje, bulwary, szosy i drogi, którym nadano nazwę;"
+    },
+    {
+      "provision_ref": "par2p7",
+      "section": "2",
+      "title": "§ 2 pkt 7",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: plac - place i inne obszary na terenie miejscowości, w szczególności skwery, ronda, parki, rynki, osiedla, ogrody, wyspy i wybrzeża, którym nadano nazwę;"
+    },
+    {
+      "provision_ref": "par2p8",
+      "section": "2",
+      "title": "§ 2 pkt 8",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: obiekt - budynki, o których mowa w art. 47a ust. 4 pkt 5 lit. a ustawy, oraz inne obiekty, o których mowa w art. 47a ust. 4a ustawy, którym nadaje się numery porządkowe;"
+    },
+    {
+      "provision_ref": "par2p9",
+      "section": "2",
+      "title": "§ 2 pkt 9",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: numer porządkowy - unikalny numer nadany obiektowi, związany z ulicą lub placem znajdującymi się w danej miejscowości, a jeżeli w miejscowości nie nadaje się nazw ulicom i placom, numer określony unikalnie w obszarze danej miejscowości;"
+    },
+    {
+      "provision_ref": "par2p10",
+      "section": "2",
+      "title": "§ 2 pkt 10",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: adres - jednoznaczny opis obiektu, realizowany przez wskazanie miejscowości, kodu pocztowego oraz ulicy lub placu i numeru porządkowego przy tej ulicy lub tym placu, a jeżeli w miejscowości nie nadaje się nazw ulicom lub placom, numeru porządkowego w miejscowości;"
+    },
+    {
+      "provision_ref": "par2p11",
+      "section": "2",
+      "title": "§ 2 pkt 11",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: punkt adresowy - adres wraz z jego lokalizacją przestrzenną wyrażoną przez współrzędne płaskie prostokątne x, y;"
+    },
+    {
+      "provision_ref": "par2p12",
+      "section": "2",
+      "title": "§ 2 pkt 12",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: PRNG - państwowy rejestr nazw geograficznych, o którym mowa w przepisach wydanych na podstawie art. 19 ust. 1 pkt 8 ustawy;"
+    },
+    {
+      "provision_ref": "par2p13",
+      "section": "2",
+      "title": "§ 2 pkt 13",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: PRG - państwowy rejestr granic i powierzchni jednostek podziałów terytorialnych kraju, o którym mowa w przepisach wydanych na podstawie art. 19 ust. 1a ustawy."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Ewidencja zawiera informacje o: miejscowościach; ulicach i placach; punktach adresowych. Lokalizację przestrzenną obiektów, o których mowa w ust. 1, wykazuje się w ewidencji w układach współrzędnych płaskich prostokątnych x, y oznaczonych symbolem PL-1992 lub PL-2000, o których mowa w przepisach wydanych na podstawie art. 3 ust. 5 ustawy."
+    },
+    {
+      "provision_ref": "par3u1p1",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 1",
+      "content": "Ewidencja zawiera informacje o: miejscowościach;"
+    },
+    {
+      "provision_ref": "par3u1p2",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 2",
+      "content": "Ewidencja zawiera informacje o: ulicach i placach;"
+    },
+    {
+      "provision_ref": "par3u1p3",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 3",
+      "content": "Ewidencja zawiera informacje o: punktach adresowych."
+    },
+    {
+      "provision_ref": "par3u2",
+      "section": "3",
+      "title": "§ 3 ust. 2",
+      "content": "Lokalizację przestrzenną obiektów, o których mowa w ust. 1, wykazuje się w ewidencji w układach współrzędnych płaskich prostokątnych x, y oznaczonych symbolem PL-1992 lub PL-2000, o których mowa w przepisach wydanych na podstawie art. 3 ust. 5 ustawy."
+    },
+    {
+      "provision_ref": "par4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "W ewidencji gromadzi się następujące dane dotyczące miejscowości: urzędowa nazwa miejscowości; identyfikator SIMC; rodzaj miejscowości zgodnie z rejestrem TERYT; nazwa gminy, w której położona jest miejscowość; identyfikator TERC gminy, w której położona jest miejscowość; identyfikator miejscowości zgodnie z PRNG; współrzędne lokalizujące miejscowość zgodnie z PRNG; nazwa miejscowości w języku mniejszości, jeżeli zachodzą okoliczności, o których mowa w art. 12 ustawy z dnia 6 stycznia 2005 r. o mniejszościach narodowych i etnicznych oraz o języku regionalnym . Dla każdej miejscowości, w której ulicom i placom nadaje się nazwy, ewidencja gromadzi dane o tych ulicach i placach, obejmujące: nazwę ulicy albo placu zgodnie z uchwałą rady gminy w sprawie nadania nazwy ulicy albo placowi; numer oraz datę uchwały rady gminy w sprawie nadania nazwy ulicy albo placowi; cechę obiektu określonego jako ulica albo plac zgodnie z rejestrem TERYT; nazwę ulicy albo placu w podziale na części zgodnie z rejestrem TERYT; identyfikator ULIC; dane określające lokalizację i przebieg osi ulicy albo obszar placu. Dla każdej ulicy albo każdego placu w miejscowości, w której ulicom i placom nadaje się nazwy, ewidencja zawiera zbiory punktów adresowych obejmujące: numer porządkowy; datę nadania numeru porządkowego; kod pocztowy; współrzędne płaskie prostokątne x, y. W miejscowościach o charakterze miasta numery porządkowe są obligatoryjnie przypisane do ulic lub placów. W przypadku miejscowości, w której ulicom i placom nie nadaje się nazw, ewidencja zawiera zbiory punktów adresowych, o których mowa w ust. 3, dla całej miejscowości."
+    },
+    {
+      "provision_ref": "par4u1p1",
+      "section": "4",
+      "title": "§ 4 ust. 1 pkt 1",
+      "content": "W ewidencji gromadzi się następujące dane dotyczące miejscowości: urzędowa nazwa miejscowości;"
+    },
+    {
+      "provision_ref": "par4u1p2",
+      "section": "4",
+      "title": "§ 4 ust. 1 pkt 2",
+      "content": "W ewidencji gromadzi się następujące dane dotyczące miejscowości: identyfikator SIMC;"
+    },
+    {
+      "provision_ref": "par4u1p3",
+      "section": "4",
+      "title": "§ 4 ust. 1 pkt 3",
+      "content": "W ewidencji gromadzi się następujące dane dotyczące miejscowości: rodzaj miejscowości zgodnie z rejestrem TERYT;"
+    },
+    {
+      "provision_ref": "par4u1p4",
+      "section": "4",
+      "title": "§ 4 ust. 1 pkt 4",
+      "content": "W ewidencji gromadzi się następujące dane dotyczące miejscowości: nazwa gminy, w której położona jest miejscowość;"
+    },
+    {
+      "provision_ref": "par4u1p5",
+      "section": "4",
+      "title": "§ 4 ust. 1 pkt 5",
+      "content": "W ewidencji gromadzi się następujące dane dotyczące miejscowości: identyfikator TERC gminy, w której położona jest miejscowość;"
+    },
+    {
+      "provision_ref": "par4u1p6",
+      "section": "4",
+      "title": "§ 4 ust. 1 pkt 6",
+      "content": "W ewidencji gromadzi się następujące dane dotyczące miejscowości: identyfikator miejscowości zgodnie z PRNG;"
+    },
+    {
+      "provision_ref": "par4u1p7",
+      "section": "4",
+      "title": "§ 4 ust. 1 pkt 7",
+      "content": "W ewidencji gromadzi się następujące dane dotyczące miejscowości: współrzędne lokalizujące miejscowość zgodnie z PRNG;"
+    },
+    {
+      "provision_ref": "par4u1p8",
+      "section": "4",
+      "title": "§ 4 ust. 1 pkt 8",
+      "content": "W ewidencji gromadzi się następujące dane dotyczące miejscowości: nazwa miejscowości w języku mniejszości, jeżeli zachodzą okoliczności, o których mowa w art. 12 ustawy z dnia 6 stycznia 2005 r. o mniejszościach narodowych i etnicznych oraz o języku regionalnym ."
+    },
+    {
+      "provision_ref": "par4u2p1",
+      "section": "4",
+      "title": "§ 4 ust. 2 pkt 1",
+      "content": "Dla każdej miejscowości, w której ulicom i placom nadaje się nazwy, ewidencja gromadzi dane o tych ulicach i placach, obejmujące: nazwę ulicy albo placu zgodnie z uchwałą rady gminy w sprawie nadania nazwy ulicy albo placowi;"
+    },
+    {
+      "provision_ref": "par4u2p2",
+      "section": "4",
+      "title": "§ 4 ust. 2 pkt 2",
+      "content": "Dla każdej miejscowości, w której ulicom i placom nadaje się nazwy, ewidencja gromadzi dane o tych ulicach i placach, obejmujące: numer oraz datę uchwały rady gminy w sprawie nadania nazwy ulicy albo placowi;"
+    },
+    {
+      "provision_ref": "par4u2p3",
+      "section": "4",
+      "title": "§ 4 ust. 2 pkt 3",
+      "content": "Dla każdej miejscowości, w której ulicom i placom nadaje się nazwy, ewidencja gromadzi dane o tych ulicach i placach, obejmujące: cechę obiektu określonego jako ulica albo plac zgodnie z rejestrem TERYT;"
+    },
+    {
+      "provision_ref": "par4u2p4",
+      "section": "4",
+      "title": "§ 4 ust. 2 pkt 4",
+      "content": "Dla każdej miejscowości, w której ulicom i placom nadaje się nazwy, ewidencja gromadzi dane o tych ulicach i placach, obejmujące: nazwę ulicy albo placu w podziale na części zgodnie z rejestrem TERYT;"
+    },
+    {
+      "provision_ref": "par4u2p5",
+      "section": "4",
+      "title": "§ 4 ust. 2 pkt 5",
+      "content": "Dla każdej miejscowości, w której ulicom i placom nadaje się nazwy, ewidencja gromadzi dane o tych ulicach i placach, obejmujące: identyfikator ULIC;"
+    },
+    {
+      "provision_ref": "par4u2p6",
+      "section": "4",
+      "title": "§ 4 ust. 2 pkt 6",
+      "content": "Dla każdej miejscowości, w której ulicom i placom nadaje się nazwy, ewidencja gromadzi dane o tych ulicach i placach, obejmujące: dane określające lokalizację i przebieg osi ulicy albo obszar placu."
+    },
+    {
+      "provision_ref": "par4u3p1",
+      "section": "4",
+      "title": "§ 4 ust. 3 pkt 1",
+      "content": "Dla każdej ulicy albo każdego placu w miejscowości, w której ulicom i placom nadaje się nazwy, ewidencja zawiera zbiory punktów adresowych obejmujące: numer porządkowy;"
+    },
+    {
+      "provision_ref": "par4u3p2",
+      "section": "4",
+      "title": "§ 4 ust. 3 pkt 2",
+      "content": "Dla każdej ulicy albo każdego placu w miejscowości, w której ulicom i placom nadaje się nazwy, ewidencja zawiera zbiory punktów adresowych obejmujące: datę nadania numeru porządkowego;"
+    },
+    {
+      "provision_ref": "par4u3p3",
+      "section": "4",
+      "title": "§ 4 ust. 3 pkt 3",
+      "content": "Dla każdej ulicy albo każdego placu w miejscowości, w której ulicom i placom nadaje się nazwy, ewidencja zawiera zbiory punktów adresowych obejmujące: kod pocztowy;"
+    },
+    {
+      "provision_ref": "par4u3p4",
+      "section": "4",
+      "title": "§ 4 ust. 3 pkt 4",
+      "content": "Dla każdej ulicy albo każdego placu w miejscowości, w której ulicom i placom nadaje się nazwy, ewidencja zawiera zbiory punktów adresowych obejmujące: współrzędne płaskie prostokątne x, y."
+    },
+    {
+      "provision_ref": "par4u4",
+      "section": "4",
+      "title": "§ 4 ust. 4",
+      "content": "W miejscowościach o charakterze miasta numery porządkowe są obligatoryjnie przypisane do ulic lub placów."
+    },
+    {
+      "provision_ref": "par4u5",
+      "section": "4",
+      "title": "§ 4 ust. 5",
+      "content": "W przypadku miejscowości, w której ulicom i placom nie nadaje się nazw, ewidencja zawiera zbiory punktów adresowych, o których mowa w ust. 3, dla całej miejscowości."
+    },
+    {
+      "provision_ref": "par5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Specyfikację pojęciowego modelu danych ewidencji określa załącznik nr 1 do rozporządzenia."
+    },
+    {
+      "provision_ref": "par6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "Numery porządkowe przyjmują postać liczb całkowitych w przedziale od 1 do n. W przypadku braku możliwości nadania numeru porządkowego w postaci wyłącznie liczby całkowitej stosuje się liczbę całkowitą uzupełnioną wielką literą alfabetu łacińskiego od A do Z, wyłączając litery I, O, Q, a w przypadku wyczerpania liter alfabetu łacińskiego dopuszcza się użycie w numerze drugiej litery alfabetu łacińskiego od A do Z (10AA, 10AB,…), także wyłączając litery I, O, Q. Nie stosuje się w numerze porządkowym form opisowych innych niż wskazane w ust. 2 i znaków specjalnych. Nie prowadzi się numeracji porządkowej dotyczącej części miejscowości. W przypadku obiektów położonych w bezpośrednim sąsiedztwie dwóch lub więcej ulic, posiadających odrębne wejścia od strony sąsiadujących z nimi ulic, albo gdy obiekt położony przy jednej ulicy posiada więcej niż jedno wejście główne, obiektom tym może być nadanych wiele numerów porządkowych, związanych ze wszystkimi głównymi wejściami do obiektu. Współrzędne przypisane do punktu adresowego powinny dotyczyć przybliżonego środka ściany obiektu zwróconej w stronę ulicy albo placu, z którą jest związany numer porządkowy, lub w przypadku obiektów, o których mowa w ust. 5, powinny dotyczyć przybliżonej lokalizacji wejścia do obiektu, oznaczonego danym numerem porządkowym. Nie stosuje się jednego numeru porządkowego dla wielu budynków położonych na tej samej nieruchomości. Nie nadaje się odrębnych numerów porządkowych dla poszczególnych kondygnacji budynków. W przypadku gdy nadawanie kolejnych numerów porządkowych może powodować zaburzenie dotychczasowego ładu i czytelności numeracji porządkowej, organ prowadzący ewidencję podejmuje działania umożliwiające nadawanie numerów porządkowych zgodnie z ładem w zakresie numeracji porządkowej. Dane określające lokalizację i przebieg osi ulic oraz obszar placów ustala się na podstawie informacji zawartych w uchwałach rady gminy w sprawie przebiegu oraz nadania nazw ulicom i placom. Nadawanie numerów porządkowych związanych z określoną ulicą odbywa się w następujący sposób: numery porządkowe wzdłuż ulic głównych wzrastają w kierunku od centrum miejscowości ku jej granicom albo z południa na północ oraz ze wschodu na zachód; numery porządkowe wzdłuż ulic bocznych wzrastają, poczynając od głównej ulicy, w kierunku granic miejscowości; numery porządkowe po lewej stronie ulicy, w kierunku zwiększających się numerów, oznacza się liczbami nieparzystymi, a po prawej stronie liczbami parzystymi; numery porządkowe obiektów przylegających do placu wzrastają, poczynając od naroża placu przy głównej ulicy, zgodnie z kierunkiem ruchu wskazówek zegara; jeżeli plac powstaje z rozszerzenia lub skrzyżowania ulic, dla obiektów przylegających do placu ustala się kolejne numery porządkowe jednej z ulic przechodzących przez plac. Przy nadawaniu numerów porządkowych pozostawia się wolne numery pod prognozowaną zabudowę, uwzględniając ład przestrzenny w całej miejscowości lub ład w obrębie danej ulicy lub danego placu. Wzór wniosku o ustalenie numeru porządkowego, o którym mowa w art. 47a ust. 6 ustawy, określa załącznik nr 2 do rozporządzenia. Wzór wniosku w postaci elektronicznej umieszcza się, przechowuje oraz udostępnia w centralnym repozytorium wzorów dokumentów elektronicznych, o którym mowa w art. 19b ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne ."
+    },
+    {
+      "provision_ref": "par6u1",
+      "section": "6",
+      "title": "§ 6 ust. 1",
+      "content": "Numery porządkowe przyjmują postać liczb całkowitych w przedziale od 1 do n."
+    },
+    {
+      "provision_ref": "par6u2",
+      "section": "6",
+      "title": "§ 6 ust. 2",
+      "content": "W przypadku braku możliwości nadania numeru porządkowego w postaci wyłącznie liczby całkowitej stosuje się liczbę całkowitą uzupełnioną wielką literą alfabetu łacińskiego od A do Z, wyłączając litery I, O, Q, a w przypadku wyczerpania liter alfabetu łacińskiego dopuszcza się użycie w numerze drugiej litery alfabetu łacińskiego od A do Z (10AA, 10AB,…), także wyłączając litery I, O, Q."
+    },
+    {
+      "provision_ref": "par6u3",
+      "section": "6",
+      "title": "§ 6 ust. 3",
+      "content": "Nie stosuje się w numerze porządkowym form opisowych innych niż wskazane w ust. 2 i znaków specjalnych."
+    },
+    {
+      "provision_ref": "par6u4",
+      "section": "6",
+      "title": "§ 6 ust. 4",
+      "content": "Nie prowadzi się numeracji porządkowej dotyczącej części miejscowości."
+    },
+    {
+      "provision_ref": "par6u5",
+      "section": "6",
+      "title": "§ 6 ust. 5",
+      "content": "W przypadku obiektów położonych w bezpośrednim sąsiedztwie dwóch lub więcej ulic, posiadających odrębne wejścia od strony sąsiadujących z nimi ulic, albo gdy obiekt położony przy jednej ulicy posiada więcej niż jedno wejście główne, obiektom tym może być nadanych wiele numerów porządkowych, związanych ze wszystkimi głównymi wejściami do obiektu."
+    },
+    {
+      "provision_ref": "par6u6",
+      "section": "6",
+      "title": "§ 6 ust. 6",
+      "content": "Współrzędne przypisane do punktu adresowego powinny dotyczyć przybliżonego środka ściany obiektu zwróconej w stronę ulicy albo placu, z którą jest związany numer porządkowy, lub w przypadku obiektów, o których mowa w ust. 5, powinny dotyczyć przybliżonej lokalizacji wejścia do obiektu, oznaczonego danym numerem porządkowym."
+    },
+    {
+      "provision_ref": "par6u7",
+      "section": "6",
+      "title": "§ 6 ust. 7",
+      "content": "Nie stosuje się jednego numeru porządkowego dla wielu budynków położonych na tej samej nieruchomości."
+    },
+    {
+      "provision_ref": "par6u8",
+      "section": "6",
+      "title": "§ 6 ust. 8",
+      "content": "Nie nadaje się odrębnych numerów porządkowych dla poszczególnych kondygnacji budynków."
+    },
+    {
+      "provision_ref": "par6u9",
+      "section": "6",
+      "title": "§ 6 ust. 9",
+      "content": "W przypadku gdy nadawanie kolejnych numerów porządkowych może powodować zaburzenie dotychczasowego ładu i czytelności numeracji porządkowej, organ prowadzący ewidencję podejmuje działania umożliwiające nadawanie numerów porządkowych zgodnie z ładem w zakresie numeracji porządkowej."
+    },
+    {
+      "provision_ref": "par6u10",
+      "section": "6",
+      "title": "§ 6 ust. 10",
+      "content": "Dane określające lokalizację i przebieg osi ulic oraz obszar placów ustala się na podstawie informacji zawartych w uchwałach rady gminy w sprawie przebiegu oraz nadania nazw ulicom i placom."
+    },
+    {
+      "provision_ref": "par6u11p1",
+      "section": "6",
+      "title": "§ 6 ust. 11 pkt 1",
+      "content": "Nadawanie numerów porządkowych związanych z określoną ulicą odbywa się w następujący sposób: numery porządkowe wzdłuż ulic głównych wzrastają w kierunku od centrum miejscowości ku jej granicom albo z południa na północ oraz ze wschodu na zachód;"
+    },
+    {
+      "provision_ref": "par6u11p2",
+      "section": "6",
+      "title": "§ 6 ust. 11 pkt 2",
+      "content": "Nadawanie numerów porządkowych związanych z określoną ulicą odbywa się w następujący sposób: numery porządkowe wzdłuż ulic bocznych wzrastają, poczynając od głównej ulicy, w kierunku granic miejscowości;"
+    },
+    {
+      "provision_ref": "par6u11p3",
+      "section": "6",
+      "title": "§ 6 ust. 11 pkt 3",
+      "content": "Nadawanie numerów porządkowych związanych z określoną ulicą odbywa się w następujący sposób: numery porządkowe po lewej stronie ulicy, w kierunku zwiększających się numerów, oznacza się liczbami nieparzystymi, a po prawej stronie liczbami parzystymi;"
+    },
+    {
+      "provision_ref": "par6u11p4",
+      "section": "6",
+      "title": "§ 6 ust. 11 pkt 4",
+      "content": "Nadawanie numerów porządkowych związanych z określoną ulicą odbywa się w następujący sposób: numery porządkowe obiektów przylegających do placu wzrastają, poczynając od naroża placu przy głównej ulicy, zgodnie z kierunkiem ruchu wskazówek zegara;"
+    },
+    {
+      "provision_ref": "par6u11p5",
+      "section": "6",
+      "title": "§ 6 ust. 11 pkt 5",
+      "content": "Nadawanie numerów porządkowych związanych z określoną ulicą odbywa się w następujący sposób: jeżeli plac powstaje z rozszerzenia lub skrzyżowania ulic, dla obiektów przylegających do placu ustala się kolejne numery porządkowe jednej z ulic przechodzących przez plac."
+    },
+    {
+      "provision_ref": "par6u12",
+      "section": "6",
+      "title": "§ 6 ust. 12",
+      "content": "Przy nadawaniu numerów porządkowych pozostawia się wolne numery pod prognozowaną zabudowę, uwzględniając ład przestrzenny w całej miejscowości lub ład w obrębie danej ulicy lub danego placu."
+    },
+    {
+      "provision_ref": "par6u13",
+      "section": "6",
+      "title": "§ 6 ust. 13",
+      "content": "Wzór wniosku o ustalenie numeru porządkowego, o którym mowa w art. 47a ust. 6 ustawy, określa załącznik nr 2 do rozporządzenia."
+    },
+    {
+      "provision_ref": "par6u14",
+      "section": "6",
+      "title": "§ 6 ust. 14",
+      "content": "Wzór wniosku w postaci elektronicznej umieszcza się, przechowuje oraz udostępnia w centralnym repozytorium wzorów dokumentów elektronicznych, o którym mowa w art. 19b ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne ."
+    },
+    {
+      "provision_ref": "par7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "Obiektom przestrzennym ewidencji oznaczającym ulice i place oraz punkty adresowe jest nadawany identyfikator infrastruktury informacji przestrzennej, zwany dalej „identyfikatorem IdIIP”, na który składają się: przestrzeń nazw, utworzona z identyfikatora zbioru danych przestrzennych, do którego należy dany obiekt przestrzenny, według ewidencji zbiorów oraz usług danych przestrzennych infrastruktury informacji przestrzennej, o której mowa w przepisach wydanych na podstawie art. 13 ust. 5 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej , uzupełniona po kropce skrótem „EMUiA”; identyfikator lokalny wyróżniający w sposób jednoznaczny dany obiekt bazy danych od innych obiektów zapisanych w tej bazie; identyfikator wersji obiektu. Elementy identyfikatora IdIIP, o których mowa w ust. 1 pkt 1 i 2, nie mogą być zmieniane."
+    },
+    {
+      "provision_ref": "par7u1p1",
+      "section": "7",
+      "title": "§ 7 ust. 1 pkt 1",
+      "content": "Obiektom przestrzennym ewidencji oznaczającym ulice i place oraz punkty adresowe jest nadawany identyfikator infrastruktury informacji przestrzennej, zwany dalej „identyfikatorem IdIIP”, na który składają się: przestrzeń nazw, utworzona z identyfikatora zbioru danych przestrzennych, do którego należy dany obiekt przestrzenny, według ewidencji zbiorów oraz usług danych przestrzennych infrastruktury informacji przestrzennej, o której mowa w przepisach wydanych na podstawie art. 13 ust. 5 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej , uzupełniona po kropce skrótem „EMUiA”;"
+    },
+    {
+      "provision_ref": "par7u1p2",
+      "section": "7",
+      "title": "§ 7 ust. 1 pkt 2",
+      "content": "Obiektom przestrzennym ewidencji oznaczającym ulice i place oraz punkty adresowe jest nadawany identyfikator infrastruktury informacji przestrzennej, zwany dalej „identyfikatorem IdIIP”, na który składają się: identyfikator lokalny wyróżniający w sposób jednoznaczny dany obiekt bazy danych od innych obiektów zapisanych w tej bazie;"
+    },
+    {
+      "provision_ref": "par7u1p3",
+      "section": "7",
+      "title": "§ 7 ust. 1 pkt 3",
+      "content": "Obiektom przestrzennym ewidencji oznaczającym ulice i place oraz punkty adresowe jest nadawany identyfikator infrastruktury informacji przestrzennej, zwany dalej „identyfikatorem IdIIP”, na który składają się: identyfikator wersji obiektu."
+    },
+    {
+      "provision_ref": "par7u2",
+      "section": "7",
+      "title": "§ 7 ust. 2",
+      "content": "Elementy identyfikatora IdIIP, o których mowa w ust. 1 pkt 1 i 2, nie mogą być zmieniane."
+    },
+    {
+      "provision_ref": "par8",
+      "section": "8",
+      "title": "§ 8",
+      "content": "System teleinformatyczny stosowany do prowadzenia ewidencji umożliwia aktualizowanie, utrzymywanie i udostępnianie danych ewidencji, a ponadto zapewnia: wydawanie zawiadomień o nadanych numerach porządkowych; przekazywanie do PRG, z wykorzystaniem usług sieciowych, nowych albo zmienionych danych ewidencji dotyczących ulic, placów i punktów adresowych; przekazywanie do Głównego Urzędu Statystycznego, z wykorzystaniem usług sieciowych, nowych albo zmienionych danych ewidencji dotyczących ulic, placów i punktów adresowych."
+    },
+    {
+      "provision_ref": "par8p1",
+      "section": "8",
+      "title": "§ 8 pkt 1",
+      "content": "System teleinformatyczny stosowany do prowadzenia ewidencji umożliwia aktualizowanie, utrzymywanie i udostępnianie danych ewidencji, a ponadto zapewnia: wydawanie zawiadomień o nadanych numerach porządkowych;"
+    },
+    {
+      "provision_ref": "par8p2",
+      "section": "8",
+      "title": "§ 8 pkt 2",
+      "content": "System teleinformatyczny stosowany do prowadzenia ewidencji umożliwia aktualizowanie, utrzymywanie i udostępnianie danych ewidencji, a ponadto zapewnia: przekazywanie do PRG, z wykorzystaniem usług sieciowych, nowych albo zmienionych danych ewidencji dotyczących ulic, placów i punktów adresowych;"
+    },
+    {
+      "provision_ref": "par8p3",
+      "section": "8",
+      "title": "§ 8 pkt 3",
+      "content": "System teleinformatyczny stosowany do prowadzenia ewidencji umożliwia aktualizowanie, utrzymywanie i udostępnianie danych ewidencji, a ponadto zapewnia: przekazywanie do Głównego Urzędu Statystycznego, z wykorzystaniem usług sieciowych, nowych albo zmienionych danych ewidencji dotyczących ulic, placów i punktów adresowych."
+    },
+    {
+      "provision_ref": "par9",
+      "section": "9",
+      "title": "§ 9",
+      "content": "Aktualizacji danych ewidencji, ich uzupełnienia lub zmiany dokonuje się z urzędu w trybie czynności materialno-technicznej, w przypadku gdy: nastąpiła zmiana danych, o których mowa w § 4 ust. 1-3; został nadany nowy numer porządkowy; nadano nazwę ulicy albo placowi w drodze uchwały rady gminy; została ustalona nowa urzędowa nazwa miejscowości w trybie przepisów art. 8 ustawy z dnia 29 sierpnia 2003 r. o urzędowych nazwach miejscowości i obiektów fizjograficznych ; obiekty przestrzenne ujawniane w ewidencji zakończyły swój cykl istnienia; istniejąca numeracja porządkowa zawiera wady utrudniające jej wykorzystywanie; zostały stwierdzone rozbieżności z innymi rejestrami publicznymi, które wskazują na konieczność poprawy ewidencji."
+    },
+    {
+      "provision_ref": "par9p1",
+      "section": "9",
+      "title": "§ 9 pkt 1",
+      "content": "Aktualizacji danych ewidencji, ich uzupełnienia lub zmiany dokonuje się z urzędu w trybie czynności materialno-technicznej, w przypadku gdy: nastąpiła zmiana danych, o których mowa w § 4 ust. 1-3;"
+    },
+    {
+      "provision_ref": "par9p2",
+      "section": "9",
+      "title": "§ 9 pkt 2",
+      "content": "Aktualizacji danych ewidencji, ich uzupełnienia lub zmiany dokonuje się z urzędu w trybie czynności materialno-technicznej, w przypadku gdy: został nadany nowy numer porządkowy;"
+    },
+    {
+      "provision_ref": "par9p3",
+      "section": "9",
+      "title": "§ 9 pkt 3",
+      "content": "Aktualizacji danych ewidencji, ich uzupełnienia lub zmiany dokonuje się z urzędu w trybie czynności materialno-technicznej, w przypadku gdy: nadano nazwę ulicy albo placowi w drodze uchwały rady gminy;"
+    },
+    {
+      "provision_ref": "par9p4",
+      "section": "9",
+      "title": "§ 9 pkt 4",
+      "content": "Aktualizacji danych ewidencji, ich uzupełnienia lub zmiany dokonuje się z urzędu w trybie czynności materialno-technicznej, w przypadku gdy: została ustalona nowa urzędowa nazwa miejscowości w trybie przepisów art. 8 ustawy z dnia 29 sierpnia 2003 r. o urzędowych nazwach miejscowości i obiektów fizjograficznych ;"
+    },
+    {
+      "provision_ref": "par9p5",
+      "section": "9",
+      "title": "§ 9 pkt 5",
+      "content": "Aktualizacji danych ewidencji, ich uzupełnienia lub zmiany dokonuje się z urzędu w trybie czynności materialno-technicznej, w przypadku gdy: obiekty przestrzenne ujawniane w ewidencji zakończyły swój cykl istnienia;"
+    },
+    {
+      "provision_ref": "par9p6",
+      "section": "9",
+      "title": "§ 9 pkt 6",
+      "content": "Aktualizacji danych ewidencji, ich uzupełnienia lub zmiany dokonuje się z urzędu w trybie czynności materialno-technicznej, w przypadku gdy: istniejąca numeracja porządkowa zawiera wady utrudniające jej wykorzystywanie;"
+    },
+    {
+      "provision_ref": "par9p7",
+      "section": "9",
+      "title": "§ 9 pkt 7",
+      "content": "Aktualizacji danych ewidencji, ich uzupełnienia lub zmiany dokonuje się z urzędu w trybie czynności materialno-technicznej, w przypadku gdy: zostały stwierdzone rozbieżności z innymi rejestrami publicznymi, które wskazują na konieczność poprawy ewidencji."
+    },
+    {
+      "provision_ref": "par10",
+      "section": "10",
+      "title": "§ 10",
+      "content": "W dniu, w którym dokonano aktualizacji ewidencji, organ prowadzący ewidencję przekazuje do PRG nowe albo zmienione dane ewidencji dotyczące ulic, placów i punktów adresowych, z wykorzystaniem systemu teleinformatycznego, o którym mowa w § 8."
+    },
+    {
+      "provision_ref": "par11",
+      "section": "11",
+      "title": "§ 11",
+      "content": "Informacje zawarte w ewidencji udostępnia się w postaci elektronicznej za pomocą usług przeglądania i pobierania, o których mowa w art. 9 ust. 1 pkt 2 i 3 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej . Specyfikację usług, o których mowa w ust. 1, dotyczących udostępniania danych ewidencji, określa załącznik nr 3 do rozporządzenia."
+    },
+    {
+      "provision_ref": "par11u1",
+      "section": "11",
+      "title": "§ 11 ust. 1",
+      "content": "Informacje zawarte w ewidencji udostępnia się w postaci elektronicznej za pomocą usług przeglądania i pobierania, o których mowa w art. 9 ust. 1 pkt 2 i 3 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej ."
+    },
+    {
+      "provision_ref": "par11u2",
+      "section": "11",
+      "title": "§ 11 ust. 2",
+      "content": "Specyfikację usług, o których mowa w ust. 1, dotyczących udostępniania danych ewidencji, określa załącznik nr 3 do rozporządzenia."
+    },
+    {
+      "provision_ref": "par12",
+      "section": "12",
+      "title": "§ 12",
+      "content": "Numery porządkowe o strukturze niespełniającej wymogów określonych w § 6 ust. 1-3, nadane przed wejściem w życie niniejszego rozporządzenia, mogą być stosowane w ewidencji miejscowości, ulic i adresów, jeżeli zapewniają unikalność związanych z nimi adresów i ich czytelną identyfikację w terenie w powiązaniu z adresami sąsiednimi. W przypadku gdy w dniu wejścia w życie niniejszego rozporządzenia istnieją numery porządkowe niespełniające wymogów określonych w § 6 ust. 1-3, które nie zapewniają unikalności związanych z nimi adresów i czytelnej identyfikacji w terenie w powiązaniu z adresami sąsiednimi lub numery porządkowe powtórzone, organ prowadzący ewidencję miejscowości, ulic i adresów dokonuje odpowiedniego przenumerowania z urzędu. W przypadku gdy w dniu wejścia w życie niniejszego rozporządzenia istnieją numery porządkowe niespełniające wymogów określonych w § 6 ust. 4, organ prowadzący ewidencję miejscowości, ulic i adresów dokonuje przenumerowania z urzędu albo wnosi do rady gminy o wszczęcie procedury zmiany rodzaju miejscowości zgodnie z art. 8 ustawy z dnia 29 sierpnia 2003 r. o urzędowych nazwach miejscowości i obiektów fizjograficznych ."
+    },
+    {
+      "provision_ref": "par12u1",
+      "section": "12",
+      "title": "§ 12 ust. 1",
+      "content": "Numery porządkowe o strukturze niespełniającej wymogów określonych w § 6 ust. 1-3, nadane przed wejściem w życie niniejszego rozporządzenia, mogą być stosowane w ewidencji miejscowości, ulic i adresów, jeżeli zapewniają unikalność związanych z nimi adresów i ich czytelną identyfikację w terenie w powiązaniu z adresami sąsiednimi."
+    },
+    {
+      "provision_ref": "par12u2",
+      "section": "12",
+      "title": "§ 12 ust. 2",
+      "content": "W przypadku gdy w dniu wejścia w życie niniejszego rozporządzenia istnieją numery porządkowe niespełniające wymogów określonych w § 6 ust. 1-3, które nie zapewniają unikalności związanych z nimi adresów i czytelnej identyfikacji w terenie w powiązaniu z adresami sąsiednimi lub numery porządkowe powtórzone, organ prowadzący ewidencję miejscowości, ulic i adresów dokonuje odpowiedniego przenumerowania z urzędu."
+    },
+    {
+      "provision_ref": "par12u3",
+      "section": "12",
+      "title": "§ 12 ust. 3",
+      "content": "W przypadku gdy w dniu wejścia w życie niniejszego rozporządzenia istnieją numery porządkowe niespełniające wymogów określonych w § 6 ust. 4, organ prowadzący ewidencję miejscowości, ulic i adresów dokonuje przenumerowania z urzędu albo wnosi do rady gminy o wszczęcie procedury zmiany rodzaju miejscowości zgodnie z art. 8 ustawy z dnia 29 sierpnia 2003 r. o urzędowych nazwach miejscowości i obiektów fizjograficznych ."
+    },
+    {
+      "provision_ref": "par13",
+      "section": "13",
+      "title": "§ 13",
+      "content": "Ewidencja miejscowości, ulic i adresów prowadzona na podstawie dotychczasowych przepisów staje się ewidencją miejscowości, ulic i adresów w rozumieniu niniejszego rozporządzenia."
+    },
+    {
+      "provision_ref": "par14",
+      "section": "14",
+      "title": "§ 14",
+      "content": "Organ prowadzący ewidencję miejscowości, ulic i adresów w terminie 6 miesięcy od dnia wejścia w życie niniejszego rozporządzenia dostosuje ewidencję miejscowości, ulic i adresów prowadzoną na podstawie dotychczasowych przepisów do przepisów niniejszego rozporządzenia."
+    },
+    {
+      "provision_ref": "par15",
+      "section": "15",
+      "title": "§ 15",
+      "content": "Rozporządzenie wchodzi w życie z dniem 31 lipca 2021 r. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Administracji i Cyfryzacji z dnia 9 stycznia 2012 r. w sprawie ewidencji miejscowości, ulic i adresów (Dz. U. poz. 125), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 19 ustawy z dnia 16 kwietnia 2020 r. o zmianie ustawy - Prawo geodezyjne i kartograficzne oraz niektórych innych ustaw (Dz. U. poz. 782)."
+    }
+  ],
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2020-2052",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-922",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-955",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2017-823",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-670",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-952",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1005",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-214",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-1443",
+      "ref_type": "references"
+    }
+  ]
+}

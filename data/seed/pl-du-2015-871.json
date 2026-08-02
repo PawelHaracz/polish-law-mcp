@@ -13,7 +13,19 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym ( Dz. U. z 2013 r. poz. 595 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 645 oraz z 2014 r. poz. 379 i 1072. ) wprowadza się następujące zmiany: 1) w art. 32 w ust. 2 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „ 6) uchwalanie regulaminu organizacyjnego starostwa powiatowego. ” ; 2) w art. 35 ust. 1 otrzymuje brzmienie: „ 1. Organizację i zasady funkcjonowania starostwa powiatowego określa regulamin organizacyjny. ” ."
+      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym ) wprowadza się następujące zmiany: w art. 32 w ust. 2 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „ uchwalanie regulaminu organizacyjnego starostwa powiatowego. ” ; w art. 35 ust. 1 otrzymuje brzmienie: „ Organizację i zasady funkcjonowania starostwa powiatowego określa regulamin organizacyjny. ” ."
+    },
+    {
+      "provision_ref": "art1p1p6",
+      "section": "1",
+      "title": "Art. 1 pkt 1 pkt 6",
+      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym ) wprowadza się następujące zmiany: w art. 32 w ust. 2 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „ uchwalanie regulaminu organizacyjnego starostwa powiatowego."
+    },
+    {
+      "provision_ref": "art1p2u1",
+      "section": "1",
+      "title": "Art. 1 pkt 2 ust. 1",
+      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym ) wprowadza się następujące zmiany: w art. 35 ust. 1 otrzymuje brzmienie: „ Organizację i zasady funkcjonowania starostwa powiatowego określa regulamin organizacyjny."
     },
     {
       "provision_ref": "art2",
@@ -25,8 +37,14 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 645 oraz z 2014 r. poz. 379 i 1072. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2013-595",
+      "ref_type": "amended_by"
+    }
+  ]
 }

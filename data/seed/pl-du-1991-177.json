@@ -25,14 +25,20 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "Traci moc dekret z dnia 16 sierpnia 1949 r. o przekształceniu Szkoły Głównej Handlowej w Warszawie na Szkołę Główną Planowania i Statystyki w Warszawie ( Dz. U. Nr 48, poz. 368 ) ."
+      "content": "Traci moc dekret z dnia 16 sierpnia 1949 r. o przekształceniu Szkoły Głównej Handlowej w Warszawie na Szkołę Główną Planowania i Statystyki w Warszawie ."
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-1949-368",
+      "ref_type": "amended_by"
+    }
+  ]
 }

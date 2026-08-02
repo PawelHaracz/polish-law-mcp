@@ -49,7 +49,19 @@
       "provision_ref": "art7",
       "section": "7",
       "title": "Art. 7",
-      "content": "Wytoczenie powództwa na zasadzie ustawy niniejszej, jako też użycie kwoty, przyznanej Skarbowi Państwa, na cele, określone w art. 8, nie uchyla zastosowania przepisów, przewidujących karę za czyn, wymieniony w art. 1. Karze tej nie ulega jednak strona, która doniosła władzy skarbowej o częściowem zatajeniu ceny sprzedaży, zanim ta władza w inny sposób otrzymała o tem wiadomość. Kupujący nie ulega karze także w tym przypadku, gdy: a) w terminie, określonym w art. 2, wytoczył powództwo na zasadzie ustawy niniejszej, zanim jeszcze Skarb Państwa skorzystał z prawa, służącego mu na zasadzie art. 3, lub b) w postępowaniu sądowem na skutek powództwa, wytoczonego na zasadzie ustawy niniejszej, zeznawał jako świadek lub był przesłuchany, jako strona, pod przysięgą."
+      "content": "Wytoczenie powództwa na zasadzie ustawy niniejszej, jako też użycie kwoty, przyznanej Skarbowi Państwa, na cele, określone w art. 8, nie uchyla zastosowania przepisów, przewidujących karę za czyn, wymieniony w art. 1. Karze tej nie ulega jednak strona, która doniosła władzy skarbowej o częściowem zatajeniu ceny sprzedaży, zanim ta władza w inny sposób otrzymała o tem wiadomość. Kupujący nie ulega karze także w tym przypadku, gdy: w terminie, określonym w art. 2, wytoczył powództwo na zasadzie ustawy niniejszej, zanim jeszcze Skarb Państwa skorzystał z prawa, służącego mu na zasadzie art. 3, lub w postępowaniu sądowem na skutek powództwa, wytoczonego na zasadzie ustawy niniejszej, zeznawał jako świadek lub był przesłuchany, jako strona, pod przysięgą."
+    },
+    {
+      "provision_ref": "art7la",
+      "section": "7",
+      "title": "Art. 7 lit. a",
+      "content": "Wytoczenie powództwa na zasadzie ustawy niniejszej, jako też użycie kwoty, przyznanej Skarbowi Państwa, na cele, określone w art. 8, nie uchyla zastosowania przepisów, przewidujących karę za czyn, wymieniony w art. 1. Karze tej nie ulega jednak strona, która doniosła władzy skarbowej o częściowem zatajeniu ceny sprzedaży, zanim ta władza w inny sposób otrzymała o tem wiadomość. Kupujący nie ulega karze także w tym przypadku, gdy: w terminie, określonym w art. 2, wytoczył powództwo na zasadzie ustawy niniejszej, zanim jeszcze Skarb Państwa skorzystał z prawa, służącego mu na zasadzie art. 3, lub"
+    },
+    {
+      "provision_ref": "art7lb",
+      "section": "7",
+      "title": "Art. 7 lit. b",
+      "content": "Wytoczenie powództwa na zasadzie ustawy niniejszej, jako też użycie kwoty, przyznanej Skarbowi Państwa, na cele, określone w art. 8, nie uchyla zastosowania przepisów, przewidujących karę za czyn, wymieniony w art. 1. Karze tej nie ulega jednak strona, która doniosła władzy skarbowej o częściowem zatajeniu ceny sprzedaży, zanim ta władza w inny sposób otrzymała o tem wiadomość. Kupujący nie ulega karze także w tym przypadku, gdy: w postępowaniu sądowem na skutek powództwa, wytoczonego na zasadzie ustawy niniejszej, zeznawał jako świadek lub był przesłuchany, jako strona, pod przysięgą."
     },
     {
       "provision_ref": "art8",
@@ -85,8 +97,9 @@
       "provision_ref": "art13",
       "section": "13",
       "title": "Art. 13",
-      "content": "Ustawa niniejsza wchodzi w życie w miesiąc po ogłoszeniu i nie dotyczy umów, zawartych przed tym terminem. Umowy, zawarte w b. dzielnicy pruskiej przed wejściem w życie niniejszej ustawy z zatajeniem części ceny lub świadczeń dodatkowych, nie mogą być z tego tytułu unieważnione, chyba, że już zapadły wyroki prawomocne; wszczęte zaś w tych sprawach procesy, w których nie zapadły jeszcze wyroki prawomocne, ulegają, umorzeniu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"arti_7-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_7-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"},{\"id\": \"arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"} ] } ];"
+      "content": "Ustawa niniejsza wchodzi w życie w miesiąc po ogłoszeniu i nie dotyczy umów, zawartych przed tym terminem. Umowy, zawarte w b. dzielnicy pruskiej przed wejściem w życie niniejszej ustawy z zatajeniem części ceny lub świadczeń dodatkowych, nie mogą być z tego tytułu unieważnione, chyba, że już zapadły wyroki prawomocne; wszczęte zaś w tych sprawach procesy, w których nie zapadły jeszcze wyroki prawomocne, ulegają, umorzeniu."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": []
 }

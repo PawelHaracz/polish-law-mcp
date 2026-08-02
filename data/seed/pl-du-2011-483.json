@@ -13,7 +13,31 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 14 lutego 1991 r. - Prawo o notariacie ( Dz. U. z 2008 r. Nr 189, poz. 1158 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 37, poz. 286 i Nr 166, poz. 1317, z 2010 r. Nr 182, poz. 1228 oraz z 2011 r. Nr 85, poz. 458. ) art. 57 otrzymuje brzmienie: „ Art. 57. § 1. Postępowanie dyscyplinarne jest jawne. § 2. Sąd dyscyplinarny wyłącza jawność postępowania dyscyplinarnego ze względu na konieczność ochrony tajemnicy określonej w art. 18 lub innej prawnie chronionej tajemnicy, jeżeli ujawnienie tych tajemnic zagrażałoby dobru państwa albo ważnemu interesowi prywatnemu. Sąd dyscyplinarny wyłącza również jawność postępowania dyscyplinarnego, jeżeli jawność mogłaby obrażać dobre obyczaje. § 3. W razie wyłączenia jawności postępowania dyscyplinarnego orzeczenie ogłaszane jest publicznie. § 4. Protokolantem może być notariusz lub asesor notarialny, wyznaczony przez przewodniczącego sądu dyscyplinarnego. ” ."
+      "content": "W ustawie z dnia 14 lutego 1991 r. - Prawo o notariacie ) art. 57 otrzymuje brzmienie: „ Postępowanie dyscyplinarne jest jawne. Sąd dyscyplinarny wyłącza jawność postępowania dyscyplinarnego ze względu na konieczność ochrony tajemnicy określonej w art. 18 lub innej prawnie chronionej tajemnicy, jeżeli ujawnienie tych tajemnic zagrażałoby dobru państwa albo ważnemu interesowi prywatnemu. Sąd dyscyplinarny wyłącza również jawność postępowania dyscyplinarnego, jeżeli jawność mogłaby obrażać dobre obyczaje. W razie wyłączenia jawności postępowania dyscyplinarnego orzeczenie ogłaszane jest publicznie. Protokolantem może być notariusz lub asesor notarialny, wyznaczony przez przewodniczącego sądu dyscyplinarnego. ” ."
+    },
+    {
+      "provision_ref": "art1par1",
+      "section": "1",
+      "title": "Art. 1 § 1",
+      "content": "W ustawie z dnia 14 lutego 1991 r. - Prawo o notariacie ) art. 57 otrzymuje brzmienie: „ Postępowanie dyscyplinarne jest jawne."
+    },
+    {
+      "provision_ref": "art1par2",
+      "section": "1",
+      "title": "Art. 1 § 2",
+      "content": "W ustawie z dnia 14 lutego 1991 r. - Prawo o notariacie ) art. 57 otrzymuje brzmienie: „ Sąd dyscyplinarny wyłącza jawność postępowania dyscyplinarnego ze względu na konieczność ochrony tajemnicy określonej w art. 18 lub innej prawnie chronionej tajemnicy, jeżeli ujawnienie tych tajemnic zagrażałoby dobru państwa albo ważnemu interesowi prywatnemu. Sąd dyscyplinarny wyłącza również jawność postępowania dyscyplinarnego, jeżeli jawność mogłaby obrażać dobre obyczaje."
+    },
+    {
+      "provision_ref": "art1par3",
+      "section": "1",
+      "title": "Art. 1 § 3",
+      "content": "W ustawie z dnia 14 lutego 1991 r. - Prawo o notariacie ) art. 57 otrzymuje brzmienie: „ W razie wyłączenia jawności postępowania dyscyplinarnego orzeczenie ogłaszane jest publicznie."
+    },
+    {
+      "provision_ref": "art1par4",
+      "section": "1",
+      "title": "Art. 1 § 4",
+      "content": "W ustawie z dnia 14 lutego 1991 r. - Prawo o notariacie ) art. 57 otrzymuje brzmienie: „ Protokolantem może być notariusz lub asesor notarialny, wyznaczony przez przewodniczącego sądu dyscyplinarnego."
     },
     {
       "provision_ref": "art2",
@@ -25,8 +49,14 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 37, poz. 286 i Nr 166, poz. 1317, z 2010 r. Nr 182, poz. 1228 oraz z 2011 r. Nr 85, poz. 458. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2008-1158",
+      "ref_type": "amended_by"
+    }
+  ]
 }

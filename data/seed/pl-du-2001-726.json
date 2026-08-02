@@ -10,71 +10,393 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2001/726",
   "provisions": [
     {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Art. 30",
+      "content": "Dotychczasowe przepisy wykonawcze wydane na podstawie: art. 25 ust. 23 ustawy zmienianej w art. 13 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 25 ust. 23 ustawy zmienianej w art. 13 w brzmieniu nadanym niniejszą ustawą, art. 35a ust. 5 ustawy zmienianej w art. 13 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 35a ust. 5 ustawy zmienianej w art. 13 w brzmieniu nadanym niniejszą ustawą, art. 10 ustawy zmienianej w art. 17 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 10 ustawy zmienianej w art. 17 w brzmieniu nadanym niniejszą ustawą - jednak nie dłużej niż do dnia 31 marca 2023 r. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 58 ust. 3 ustawy zmienianej w art. 19 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 58 ust. 3 ustawy zmienianej w art. 19 w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez okres 6 miesięcy od dnia wejścia w życie niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art30u1p1",
+      "section": "30",
+      "title": "Art. 30 ust. 1 pkt 1",
+      "content": "Dotychczasowe przepisy wykonawcze wydane na podstawie: art. 25 ust. 23 ustawy zmienianej w art. 13 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 25 ust. 23 ustawy zmienianej w art. 13 w brzmieniu nadanym niniejszą ustawą,"
+    },
+    {
+      "provision_ref": "art30u1p2",
+      "section": "30",
+      "title": "Art. 30 ust. 1 pkt 2",
+      "content": "Dotychczasowe przepisy wykonawcze wydane na podstawie: art. 35a ust. 5 ustawy zmienianej w art. 13 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 35a ust. 5 ustawy zmienianej w art. 13 w brzmieniu nadanym niniejszą ustawą,"
+    },
+    {
+      "provision_ref": "art30u1p3",
+      "section": "30",
+      "title": "Art. 30 ust. 1 pkt 3",
+      "content": "Dotychczasowe przepisy wykonawcze wydane na podstawie: art. 10 ustawy zmienianej w art. 17 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 10 ustawy zmienianej w art. 17 w brzmieniu nadanym niniejszą ustawą"
+    },
+    {
+      "provision_ref": "art30u2",
+      "section": "30",
+      "title": "Art. 30 ust. 2",
+      "content": "Dotychczasowe przepisy wykonawcze wydane na podstawie art. 58 ust. 3 ustawy zmienianej w art. 19 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 58 ust. 3 ustawy zmienianej w art. 19 w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez okres 6 miesięcy od dnia wejścia w życie niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Art. 32",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2022 r., z wyjątkiem: art. 13 pkt 1-5, pkt 6 lit. b, pkt 7-11, 14-17, 19, 20, 27 i 29-32, art. 14, art. 16, art. 18, art. 20-26 i art. 30, które wchodzą w życie z dniem 1 kwietnia 2022 r.; art. 13 pkt 6 lit. a, pkt 12, 13, 18, 21-26 i 28, art. 27 i art. 28, które wchodzą w życie z dniem 1 stycznia 2023 r."
+    },
+    {
+      "provision_ref": "art32p1",
+      "section": "32",
+      "title": "Art. 32 pkt 1",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2022 r., z wyjątkiem: art. 13 pkt 1-5, pkt 6 lit. b, pkt 7-11, 14-17, 19, 20, 27 i 29-32, art. 14, art. 16, art. 18, art. 20-26 i art. 30, które wchodzą w życie z dniem 1 kwietnia 2022 r.;"
+    },
+    {
+      "provision_ref": "art32p2",
+      "section": "32",
+      "title": "Art. 32 pkt 2",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2022 r., z wyjątkiem: art. 13 pkt 6 lit. a, pkt 12, 13, 18, 21-26 i 28, art. 27 i art. 28, które wchodzą w życie z dniem 1 stycznia 2023 r."
+    },
+    {
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "Ustanawia się Medal za Zasługi dla Policji, zwany dalej „Medalem”, za wybitne zasługi w dziedzinie realizacji ustawowych zadań Policji. Medal ten przyznaje się również za współpracę polskiej Policji z policjami innych państw."
+      "content": "Ustanawia się: Medal za Zasługi dla Policji; Medal imienia podkomisarza Policji Andrzeja Struja."
+    },
+    {
+      "provision_ref": "art1p1",
+      "section": "1",
+      "title": "Art. 1 pkt 1",
+      "content": "Ustanawia się: Medal za Zasługi dla Policji;"
+    },
+    {
+      "provision_ref": "art1p2",
+      "section": "1",
+      "title": "Art. 1 pkt 2",
+      "content": "Ustanawia się: Medal imienia podkomisarza Policji Andrzeja Struja."
+    },
+    {
+      "provision_ref": "art1a",
+      "section": "1a",
+      "title": "Art. 1a",
+      "content": "Medal za Zasługi dla Policji przyznaje się za wybitne zasługi w dziedzinie realizacji ustawowych zadań Policji. Medal ten przyznaje się również za współpracę polskiej Policji z policjami innych państw."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Medal może być nadany: 1) obywatelowi polskiemu zamieszkałemu w kraju, w tym policjantowi i pracownikowi Policji, który: a) inicjował lub organizował działania mające na celu zapobieganie popełnianiu przestępstw lub wykroczeń oraz zjawiskom kryminogennym, a także współdziałał w tym zakresie z organami państwowymi, samorządu terytorialnego lub organizacjami społecznymi, b) swoim postępowaniem, nienaganną pracą lub służbą podnosił sprawność działań Policji, c) swoją działalnością przyczynił się do rozwoju współpracy Policji z policjami innych państw, 2) cudzoziemcowi lub obywatelowi polskiemu zamieszkałemu poza granicami kraju, który: a) przyczynił się do rozwoju Policji lub podejmował działania skutkujące podniesieniem sprawności jej działania lub poziomu jej wyposażenia technicznego, b) wykazał się osiągnięciami w dziedzinie współdziałania policji innych państw z Policją, c) działał na rzecz Policji lub wspierał jej działania na forum międzynarodowym."
+      "content": "Medal za Zasługi dla Policji może być nadany: 4) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 17 pkt 4 ustawy, o której mowa w odnośniku 1. obywatelowi polskiemu zamieszkałemu w kraju, w tym policjantowi i pracownikowi Policji, który: inicjował lub organizował działania mające na celu zapobieganie popełnianiu przestępstw lub wykroczeń oraz zjawiskom kryminogennym, a także współdziałał w tym zakresie z organami państwowymi, samorządu terytorialnego lub organizacjami społecznymi, swoim postępowaniem, nienaganną pracą lub służbą podnosił sprawność działań Policji, swoją działalnością przyczynił się do rozwoju współpracy Policji z policjami innych państw; cudzoziemcowi lub obywatelowi polskiemu zamieszkałemu poza granicami kraju, który: przyczynił się do rozwoju Policji lub podejmował działania skutkujące podniesieniem sprawności jej działania lub poziomu jej wyposażenia technicznego, wykazał się osiągnięciami w dziedzinie współdziałania policji innych państw z Policją, działał na rzecz Policji lub wspierał jej działania na forum międzynarodowym."
+    },
+    {
+      "provision_ref": "art2p1la",
+      "section": "2",
+      "title": "Art. 2 pkt 1 lit. a",
+      "content": "Medal za Zasługi dla Policji może być nadany: 4) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 17 pkt 4 ustawy, o której mowa w odnośniku 1. obywatelowi polskiemu zamieszkałemu w kraju, w tym policjantowi i pracownikowi Policji, który: inicjował lub organizował działania mające na celu zapobieganie popełnianiu przestępstw lub wykroczeń oraz zjawiskom kryminogennym, a także współdziałał w tym zakresie z organami państwowymi, samorządu terytorialnego lub organizacjami społecznymi,"
+    },
+    {
+      "provision_ref": "art2p1lb",
+      "section": "2",
+      "title": "Art. 2 pkt 1 lit. b",
+      "content": "Medal za Zasługi dla Policji może być nadany: 4) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 17 pkt 4 ustawy, o której mowa w odnośniku 1. obywatelowi polskiemu zamieszkałemu w kraju, w tym policjantowi i pracownikowi Policji, który: swoim postępowaniem, nienaganną pracą lub służbą podnosił sprawność działań Policji,"
+    },
+    {
+      "provision_ref": "art2p1lc",
+      "section": "2",
+      "title": "Art. 2 pkt 1 lit. c",
+      "content": "Medal za Zasługi dla Policji może być nadany: 4) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 17 pkt 4 ustawy, o której mowa w odnośniku 1. obywatelowi polskiemu zamieszkałemu w kraju, w tym policjantowi i pracownikowi Policji, który: swoją działalnością przyczynił się do rozwoju współpracy Policji z policjami innych państw;"
+    },
+    {
+      "provision_ref": "art2p2la",
+      "section": "2",
+      "title": "Art. 2 pkt 2 lit. a",
+      "content": "Medal za Zasługi dla Policji może być nadany: 4) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 17 pkt 4 ustawy, o której mowa w odnośniku 1. cudzoziemcowi lub obywatelowi polskiemu zamieszkałemu poza granicami kraju, który: przyczynił się do rozwoju Policji lub podejmował działania skutkujące podniesieniem sprawności jej działania lub poziomu jej wyposażenia technicznego,"
+    },
+    {
+      "provision_ref": "art2p2lb",
+      "section": "2",
+      "title": "Art. 2 pkt 2 lit. b",
+      "content": "Medal za Zasługi dla Policji może być nadany: 4) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 17 pkt 4 ustawy, o której mowa w odnośniku 1. cudzoziemcowi lub obywatelowi polskiemu zamieszkałemu poza granicami kraju, który: wykazał się osiągnięciami w dziedzinie współdziałania policji innych państw z Policją,"
+    },
+    {
+      "provision_ref": "art2p2lc",
+      "section": "2",
+      "title": "Art. 2 pkt 2 lit. c",
+      "content": "Medal za Zasługi dla Policji może być nadany: 4) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 17 pkt 4 ustawy, o której mowa w odnośniku 1. cudzoziemcowi lub obywatelowi polskiemu zamieszkałemu poza granicami kraju, który: działał na rzecz Policji lub wspierał jej działania na forum międzynarodowym."
+    },
+    {
+      "provision_ref": "art2a",
+      "section": "2a",
+      "title": "Art. 2a",
+      "content": "Medal imienia podkomisarza Policji Andrzeja Struja przyznaje się policjantowi za podjęcie: poza służbą czynności ratowania życia lub zdrowia ludzkiego albo mienia z narażeniem własnego życia lub zdrowia; w czasie służby czynności ratowania życia ludzkiego ze szczególnym narażeniem własnego życia lub zdrowia."
+    },
+    {
+      "provision_ref": "art2ap1",
+      "section": "2a",
+      "title": "Art. 2a pkt 1",
+      "content": "Medal imienia podkomisarza Policji Andrzeja Struja przyznaje się policjantowi za podjęcie: poza służbą czynności ratowania życia lub zdrowia ludzkiego albo mienia z narażeniem własnego życia lub zdrowia;"
+    },
+    {
+      "provision_ref": "art2ap2",
+      "section": "2a",
+      "title": "Art. 2a pkt 2",
+      "content": "Medal imienia podkomisarza Policji Andrzeja Struja przyznaje się policjantowi za podjęcie: w czasie służby czynności ratowania życia ludzkiego ze szczególnym narażeniem własnego życia lub zdrowia."
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "Medal może być nadany pośmiertnie."
+      "content": "Medal, o którym mowa w art. 1 pkt 1 lub 2, może być nadany pośmiertnie."
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "Medal posiada trzy stopnie: 1) I stopień - Złoty Medal za Zasługi dla Policji, 2) II stopień - Srebrny Medal za Zasługi dla Policji, 3) III stopień - Brązowy Medal za Zasługi dla Policji."
+      "content": "Medal, o którym mowa w art. 1 pkt 1, posiada trzy stopnie: 7) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 17 pkt 7 ustawy, o której mowa w odnośniku 1. I stopień - Złoty Medal za Zasługi dla Policji; II stopień - Srebrny Medal za Zasługi dla Policji; III stopień - Brązowy Medal za Zasługi dla Policji."
+    },
+    {
+      "provision_ref": "art4p1",
+      "section": "4",
+      "title": "Art. 4 pkt 1",
+      "content": "Medal, o którym mowa w art. 1 pkt 1, posiada trzy stopnie: 7) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 17 pkt 7 ustawy, o której mowa w odnośniku 1. I stopień - Złoty Medal za Zasługi dla Policji;"
+    },
+    {
+      "provision_ref": "art4p2",
+      "section": "4",
+      "title": "Art. 4 pkt 2",
+      "content": "Medal, o którym mowa w art. 1 pkt 1, posiada trzy stopnie: 7) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 17 pkt 7 ustawy, o której mowa w odnośniku 1. II stopień - Srebrny Medal za Zasługi dla Policji;"
+    },
+    {
+      "provision_ref": "art4p3",
+      "section": "4",
+      "title": "Art. 4 pkt 3",
+      "content": "Medal, o którym mowa w art. 1 pkt 1, posiada trzy stopnie: 7) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 17 pkt 7 ustawy, o której mowa w odnośniku 1. III stopień - Brązowy Medal za Zasługi dla Policji."
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Art. 5",
-      "content": "1. Medal nadaje minister właściwy do spraw wewnętrznych z własnej inicjatywy albo na wniosek Komendanta Głównego Policji. 2. Osoba wyróżniona otrzymuje odznakę Medalu i legitymację potwierdzającą jego nadanie."
+      "content": "Medal, o którym mowa w art. 1 pkt 1 i 2, nadaje minister właściwy do spraw wewnętrznych z własnej inicjatywy albo na wniosek Komendanta Głównego Policji. Osoba wyróżniona otrzymuje odznakę Medalu, o którym mowa w art. 1 pkt 1 i 2, i legitymację potwierdzającą jego nadanie."
+    },
+    {
+      "provision_ref": "art5u1",
+      "section": "5",
+      "title": "Art. 5 ust. 1",
+      "content": "Medal, o którym mowa w art. 1 pkt 1 i 2, nadaje minister właściwy do spraw wewnętrznych z własnej inicjatywy albo na wniosek Komendanta Głównego Policji."
+    },
+    {
+      "provision_ref": "art5u2",
+      "section": "5",
+      "title": "Art. 5 ust. 2",
+      "content": "Osoba wyróżniona otrzymuje odznakę Medalu, o którym mowa w art. 1 pkt 1 i 2, i legitymację potwierdzającą jego nadanie."
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Art. 6",
-      "content": "1. Stopień Medalu nadaje się odpowiednio do zasług osoby, która ma być nim wyróżniona. 2. Medal tego samego stopnia może być nadany tej samej osobie tylko raz. 3. Osobie wyróżnionej nie nadaje się Medalu w stopniu niższym od posiadanego."
+      "content": "Stopień Medalu, o którym mowa w art. 1 pkt 1, nadaje się odpowiednio do zasług osoby, która ma być nim wyróżniona. Medal, o którym mowa w art. 1 pkt 1, tego samego stopnia może być nadany tej samej osobie tylko raz. Osobie wyróżnionej nie nadaje się Medalu, o którym mowa w art. 1 pkt 1, w stopniu niższym od posiadanego."
+    },
+    {
+      "provision_ref": "art6u1",
+      "section": "6",
+      "title": "Art. 6 ust. 1",
+      "content": "Stopień Medalu, o którym mowa w art. 1 pkt 1, nadaje się odpowiednio do zasług osoby, która ma być nim wyróżniona."
+    },
+    {
+      "provision_ref": "art6u2",
+      "section": "6",
+      "title": "Art. 6 ust. 2",
+      "content": "Medal, o którym mowa w art. 1 pkt 1, tego samego stopnia może być nadany tej samej osobie tylko raz."
+    },
+    {
+      "provision_ref": "art6u3",
+      "section": "6",
+      "title": "Art. 6 ust. 3",
+      "content": "Osobie wyróżnionej nie nadaje się Medalu, o którym mowa w art. 1 pkt 1, w stopniu niższym od posiadanego."
+    },
+    {
+      "provision_ref": "art6a",
+      "section": "6a",
+      "title": "Art. 6a",
+      "content": "Medal, o którym mowa w art. 1 pkt 2, może być nadany tej samej osobie tylko raz."
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Art. 7",
-      "content": "1. Odznaką Medalu jest wieniec dębowy o średnicy 37 mm, wewnątrz którego znajduje się ośmioramienna gwiazda policyjna. Na gwieździe są umieszczone dwa skrzyżowane miecze z klingami koloru biało-czerwonego. W środku znajduje się wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej. Pod orłem jest umieszczona rozwinięta, granatowa wstęga z napisem „POLICJA”. Wieniec dębowy oraz odwrotna strona Medalu, w zależności od jego stopnia, są złocone, srebrzone albo patynowane na brązowo. Na odwrotnej stronie Medalu jest umieszczony tłoczony napis „MEDAL ZA ZASŁUGI DLA POLICJI”. Nad napisem oraz pod nim znajduje się liść dębu. 2. Odznaka Medalu jest zawieszona na wstążce długości 70 mm i szerokości 40 mm, z symetrycznymi względem środka pionowymi paskami koloru: granatowego - szerokości 2 mm, białego - szerokości 5 mm oraz granatowego - szerokości 5 mm. Przez środek wstążki przebiega czerwony pasek szerokości 15 mm. 3. Wzór graficzny odznak Medalu wraz ze wstążką i baretkami określa załącznik do ustawy."
+      "content": "Odznaką Medalu, o którym mowa w art. 1 pkt 1, jest wieniec dębowy o średnicy 37 mm, wewnątrz którego znajduje się ośmioramienna gwiazda policyjna. Na gwieździe są umieszczone dwa skrzyżowane miecze z klingami koloru biało-czerwonego. W środku znajduje się wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej. Pod orłem jest umieszczona rozwinięta, granatowa wstęga z majuskułowym napisem „POLICJA”. Wieniec dębowy oraz rewers Medalu, o którym mowa w art. 1 pkt 1, w zależności od jego stopnia, są złocone, srebrzone albo patynowane na brązowo. Na rewersie Medalu, o którym mowa w art. 1 pkt 1, jest umieszczony tłoczony, majuskułowy napis „MEDAL ZA ZASŁUGI DLA POLICJI”. Nad napisem oraz pod nim znajduje się liść dębu. Odznaka Medalu, o którym mowa w art. 1 pkt 1, jest zawieszona na wstążce długości 70 mm i szerokości 40 mm, z symetrycznymi względem środka pionowymi paskami koloru: granatowego - szerokości 2 mm, białego - szerokości 5 mm oraz granatowego - szerokości 5 mm. Przez środek wstążki przebiega czerwony pasek szerokości 15 mm. Wzór graficzny odznak Medalu, o którym mowa w art. 1 pkt 1, wraz ze wstążką i baretkami jest określony w załączniku nr 1 do ustawy."
+    },
+    {
+      "provision_ref": "art7u1",
+      "section": "7",
+      "title": "Art. 7 ust. 1",
+      "content": "Odznaką Medalu, o którym mowa w art. 1 pkt 1, jest wieniec dębowy o średnicy 37 mm, wewnątrz którego znajduje się ośmioramienna gwiazda policyjna. Na gwieździe są umieszczone dwa skrzyżowane miecze z klingami koloru biało-czerwonego. W środku znajduje się wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej. Pod orłem jest umieszczona rozwinięta, granatowa wstęga z majuskułowym napisem „POLICJA”. Wieniec dębowy oraz rewers Medalu, o którym mowa w art. 1 pkt 1, w zależności od jego stopnia, są złocone, srebrzone albo patynowane na brązowo. Na rewersie Medalu, o którym mowa w art. 1 pkt 1, jest umieszczony tłoczony, majuskułowy napis „MEDAL ZA ZASŁUGI DLA POLICJI”. Nad napisem oraz pod nim znajduje się liść dębu."
+    },
+    {
+      "provision_ref": "art7u2",
+      "section": "7",
+      "title": "Art. 7 ust. 2",
+      "content": "Odznaka Medalu, o którym mowa w art. 1 pkt 1, jest zawieszona na wstążce długości 70 mm i szerokości 40 mm, z symetrycznymi względem środka pionowymi paskami koloru: granatowego - szerokości 2 mm, białego - szerokości 5 mm oraz granatowego - szerokości 5 mm. Przez środek wstążki przebiega czerwony pasek szerokości 15 mm."
+    },
+    {
+      "provision_ref": "art7u3",
+      "section": "7",
+      "title": "Art. 7 ust. 3",
+      "content": "Wzór graficzny odznak Medalu, o którym mowa w art. 1 pkt 1, wraz ze wstążką i baretkami jest określony w załączniku nr 1 do ustawy."
+    },
+    {
+      "provision_ref": "art7a",
+      "section": "7a",
+      "title": "Art. 7a",
+      "content": "Odznaka Medalu, o którym mowa w art. 1 pkt 2, ma kształt koła o średnicy 35 mm wykonanego w metalu w kolorze srebrnym, z profilowanym uszkiem i kółkiem do zawieszenia, ozdobionym obustronnie półwieńcem z liści dębowych i wawrzynowych. Na awersie Medalu, o którym mowa w art. 1 pkt 2, na fakturowanej powierzchni, widnieje wypukły zarys gwiazdy policyjnej, zanikający z prawej ku dolnej krawędzi. Na gwieździe jest umieszczony trzywierszowy, wypukły, majuskułowy napis: „...NAWET Z NARAŻENIEM ŻYCIA”, będący fragmentem roty policyjnego ślubowania. Na rewersie Medalu, o którym mowa w art. 1 pkt 2, podobnie fakturowanym, z prawej u dołu widnieje wcięcie symbolizujące przecięcie - przedwcześnie zakończone życie podkomisarza Andrzeja Struja, a na całości pięciowierszowy, wypukły, zróżnicowany wysokością liter majuskułowy napis „PODKOMISARZ POLICJI ANDRZEJ STRUJ 1968-2010”. Odznaka Medalu, o którym mowa w art. 1 pkt 2, jest zawieszona na wstążce z rypsu, ciemnogranatowej o długości 70 mm i szerokości 35 mm, z biegnącymi w odstępie 5 mm od siebie dwoma paskami w kolorze czerwieni burgundzkiej o szerokości 8 mm, obramowanymi prążkami błękitnymi o szerokości 1 mm. Wzór graficzny odznak Medalu, o którym mowa w art. 1 pkt 2, wraz ze wstążką jest określony w załączniku nr 2 do ustawy."
+    },
+    {
+      "provision_ref": "art7au1",
+      "section": "7a",
+      "title": "Art. 7a ust. 1",
+      "content": "Odznaka Medalu, o którym mowa w art. 1 pkt 2, ma kształt koła o średnicy 35 mm wykonanego w metalu w kolorze srebrnym, z profilowanym uszkiem i kółkiem do zawieszenia, ozdobionym obustronnie półwieńcem z liści dębowych i wawrzynowych. Na awersie Medalu, o którym mowa w art. 1 pkt 2, na fakturowanej powierzchni, widnieje wypukły zarys gwiazdy policyjnej, zanikający z prawej ku dolnej krawędzi. Na gwieździe jest umieszczony trzywierszowy, wypukły, majuskułowy napis: „...NAWET Z NARAŻENIEM ŻYCIA”, będący fragmentem roty policyjnego ślubowania. Na rewersie Medalu, o którym mowa w art. 1 pkt 2, podobnie fakturowanym, z prawej u dołu widnieje wcięcie symbolizujące przecięcie - przedwcześnie zakończone życie podkomisarza Andrzeja Struja, a na całości pięciowierszowy, wypukły, zróżnicowany wysokością liter majuskułowy napis „PODKOMISARZ POLICJI ANDRZEJ STRUJ 1968-2010”."
+    },
+    {
+      "provision_ref": "art7au2",
+      "section": "7a",
+      "title": "Art. 7a ust. 2",
+      "content": "Odznaka Medalu, o którym mowa w art. 1 pkt 2, jest zawieszona na wstążce z rypsu, ciemnogranatowej o długości 70 mm i szerokości 35 mm, z biegnącymi w odstępie 5 mm od siebie dwoma paskami w kolorze czerwieni burgundzkiej o szerokości 8 mm, obramowanymi prążkami błękitnymi o szerokości 1 mm."
+    },
+    {
+      "provision_ref": "art7au3",
+      "section": "7a",
+      "title": "Art. 7a ust. 3",
+      "content": "Wzór graficzny odznak Medalu, o którym mowa w art. 1 pkt 2, wraz ze wstążką jest określony w załączniku nr 2 do ustawy."
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Art. 8",
-      "content": "1. Minister właściwy do spraw wewnętrznych, z własnej inicjatywy albo na wniosek Komendanta Głównego Policji, może pozbawić Medalu osobę wyróżnioną, jeżeli została ona skazana prawomocnym wyrokiem za przestępstwo popełnione umyślnie, za które wymierzono karę pozbawienia wolności, ograniczenia wolności albo grzywny. 2. Osoba, o której mowa w ust. 1, może zostać pozbawiona Medalu: 1) wszystkich stopni - w przypadku skazania za popełnienie zbrodni lub występku, 2) najwyższego posiadanego stopnia - w przypadku popełnienia występku, za który została wymierzona tylko kara grzywny."
+      "content": "Minister właściwy do spraw wewnętrznych, z własnej inicjatywy albo na wniosek Komendanta Głównego Policji, może pozbawić Medalu, o którym mowa w art. 1 pkt 1 i 2, osobę wyróżnioną, jeżeli została ona skazana prawomocnym wyrokiem za przestępstwo popełnione umyślnie, za które wymierzono karę pozbawienia wolności, ograniczenia wolności albo grzywny. Osoba, o której mowa w ust. 1, może zostać pozbawiona Medalu, o którym mowa w art. 1 pkt 1: wszystkich stopni - w przypadku skazania za popełnienie zbrodni lub występku; najwyższego posiadanego stopnia - w przypadku popełnienia występku, za który została wymierzona tylko kara grzywny."
+    },
+    {
+      "provision_ref": "art8u1",
+      "section": "8",
+      "title": "Art. 8 ust. 1",
+      "content": "Minister właściwy do spraw wewnętrznych, z własnej inicjatywy albo na wniosek Komendanta Głównego Policji, może pozbawić Medalu, o którym mowa w art. 1 pkt 1 i 2, osobę wyróżnioną, jeżeli została ona skazana prawomocnym wyrokiem za przestępstwo popełnione umyślnie, za które wymierzono karę pozbawienia wolności, ograniczenia wolności albo grzywny."
+    },
+    {
+      "provision_ref": "art8u2p1",
+      "section": "8",
+      "title": "Art. 8 ust. 2 pkt 1",
+      "content": "Osoba, o której mowa w ust. 1, może zostać pozbawiona Medalu, o którym mowa w art. 1 pkt 1: wszystkich stopni - w przypadku skazania za popełnienie zbrodni lub występku;"
+    },
+    {
+      "provision_ref": "art8u2p2",
+      "section": "8",
+      "title": "Art. 8 ust. 2 pkt 2",
+      "content": "Osoba, o której mowa w ust. 1, może zostać pozbawiona Medalu, o którym mowa w art. 1 pkt 1: najwyższego posiadanego stopnia - w przypadku popełnienia występku, za który została wymierzona tylko kara grzywny."
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Art. 9",
-      "content": "1. Dane osób wyróżnionych i pozbawionych Medalu podlegają ewidencji. 2. Ewidencja, o której mowa w ust. 1, obejmuje następujące dane osoby wyróżnionej: 1) imiona i nazwisko oraz imię ojca, 2) datę i miejsce urodzenia, 3) obywatelstwo, 4) państwo stałego zamieszkania, 5) wskazanie dokumentu tożsamości, 6) określenie wnioskodawcy i daty złożenia wniosku o nadanie Medalu, 7) numer i datę decyzji o nadaniu Medalu, a w przypadku pozbawienia tego Medalu - także decyzji o pozbawieniu. 3. Do ewidencji dołącza się wnioski, o których mowa w art. 5 ust. 1 i art. 8 ust. 1."
+      "content": "Dane osób wyróżnionych i pozbawionych Medalu, o którym mowa w art. 1 pkt 1 i 2, podlegają ewidencji. Ewidencja, o której mowa w ust. 1, obejmuje następujące dane osoby wyróżnionej: imiona i nazwisko oraz imię ojca; datę i miejsce urodzenia; obywatelstwo; państwo stałego zamieszkania; wskazanie dokumentu tożsamości; określenie wnioskodawcy i daty złożenia wniosku o nadanie Medalu, o którym mowa w art. 1 pkt 1 i 2; numer i datę decyzji o nadaniu Medalu, o którym mowa w art. 1 pkt 1 i 2, a w przypadku pozbawienia tego Medalu - także decyzji o pozbawieniu. Do ewidencji dołącza się wnioski, o których mowa w art. 5 ust. 1 i art. 8 ust. 1."
+    },
+    {
+      "provision_ref": "art9u1",
+      "section": "9",
+      "title": "Art. 9 ust. 1",
+      "content": "Dane osób wyróżnionych i pozbawionych Medalu, o którym mowa w art. 1 pkt 1 i 2, podlegają ewidencji."
+    },
+    {
+      "provision_ref": "art9u2p1",
+      "section": "9",
+      "title": "Art. 9 ust. 2 pkt 1",
+      "content": "Ewidencja, o której mowa w ust. 1, obejmuje następujące dane osoby wyróżnionej: imiona i nazwisko oraz imię ojca;"
+    },
+    {
+      "provision_ref": "art9u2p2",
+      "section": "9",
+      "title": "Art. 9 ust. 2 pkt 2",
+      "content": "Ewidencja, o której mowa w ust. 1, obejmuje następujące dane osoby wyróżnionej: datę i miejsce urodzenia;"
+    },
+    {
+      "provision_ref": "art9u2p3",
+      "section": "9",
+      "title": "Art. 9 ust. 2 pkt 3",
+      "content": "Ewidencja, o której mowa w ust. 1, obejmuje następujące dane osoby wyróżnionej: obywatelstwo;"
+    },
+    {
+      "provision_ref": "art9u2p4",
+      "section": "9",
+      "title": "Art. 9 ust. 2 pkt 4",
+      "content": "Ewidencja, o której mowa w ust. 1, obejmuje następujące dane osoby wyróżnionej: państwo stałego zamieszkania;"
+    },
+    {
+      "provision_ref": "art9u2p5",
+      "section": "9",
+      "title": "Art. 9 ust. 2 pkt 5",
+      "content": "Ewidencja, o której mowa w ust. 1, obejmuje następujące dane osoby wyróżnionej: wskazanie dokumentu tożsamości;"
+    },
+    {
+      "provision_ref": "art9u2p15",
+      "section": "9",
+      "title": "Art. 9 ust. 2 pkt 15",
+      "content": "Ewidencja, o której mowa w ust. 1, obejmuje następujące dane osoby wyróżnionej: określenie wnioskodawcy i daty złożenia wniosku o nadanie Medalu, o którym mowa w art. 1 pkt 1 i 2;"
+    },
+    {
+      "provision_ref": "art9u2p16",
+      "section": "9",
+      "title": "Art. 9 ust. 2 pkt 16",
+      "content": "Ewidencja, o której mowa w ust. 1, obejmuje następujące dane osoby wyróżnionej: numer i datę decyzji o nadaniu Medalu, o którym mowa w art. 1 pkt 1 i 2, a w przypadku pozbawienia tego Medalu - także decyzji o pozbawieniu."
+    },
+    {
+      "provision_ref": "art9u3",
+      "section": "9",
+      "title": "Art. 9 ust. 3",
+      "content": "Do ewidencji dołącza się wnioski, o których mowa w art. 5 ust. 1 i art. 8 ust. 1."
+    },
+    {
+      "provision_ref": "art9a",
+      "section": "9a",
+      "title": "Art. 9a",
+      "content": "W przypadku zagubienia lub zniszczenia odznaki Medalu, o którym mowa w art. 1 pkt 1 i 2, albo legitymacji, na wniosek osoby wyróżnionej, wydaje się ich wtórniki."
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Art. 10",
-      "content": "1. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia: 1) szczegółowy tryb postępowania w sprawach o nadanie Medalu, 2) sposób wręczania i noszenia odznaki Medalu oraz prowadzenia ewidencji, o której mowa w art. 9 ust. 1, 3) wzory odpowiednich dokumentów. 2. Rozporządzenie, o którym mowa w ust. 1, powinno w szczególności: 1) zawierać wzór wniosku o nadanie Medalu, w którym powinny być zamieszczone: dane osoby, która ma być wyróżniona Medalem, uzasadnienie nadania Medalu, organ występujący z wnioskiem o nadanie Medalu oraz termin rozpatrzenia tego wniosku, 2) zawierać wzór legitymacji nadania Medalu, na której powinny być zamieszczone: godło Rzeczypospolitej Polskiej, numer i data wystawienia legitymacji, podstawa nadania Medalu, imię i nazwisko osoby wyróżnionej Medalem, imię jej ojca i stopień przyznanego Medalu oraz podpis i pieczęć organu przyznającego Medal, 3) przewidywać uroczysty charakter aktu wręczania Medalu, 4) określać sposób noszenia odznaki i baretki Medalu, 5) określać sposób prowadzenia ewidencji osób wyróżnionych i pozbawionych Medali, 6) określać tryb wydawania odznaki Medalu i wtórnika legitymacji Medalu, w przypadku ich zagubienia albo zniszczenia."
+      "content": "Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia: szczegółowy tryb postępowania w sprawach o nadanie Medalu, o którym mowa w art. 1 pkt 1 i 2, sposób wręczania i noszenia odznaki Medalu, o którym mowa w art. 1 pkt 1 i 2, oraz prowadzenia ewidencji, o której mowa w art. 9 ust. 1, wzory odpowiednich dokumentów - mając na względzie potrzebę sprawnego sporządzania dokumentacji oraz terminowego prowadzenia postępowania, jak również uwzględniając uroczysty charakter aktu wręczania Medalu."
+    },
+    {
+      "provision_ref": "art10p1",
+      "section": "10",
+      "title": "Art. 10 pkt 1",
+      "content": "Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia: szczegółowy tryb postępowania w sprawach o nadanie Medalu, o którym mowa w art. 1 pkt 1 i 2,"
+    },
+    {
+      "provision_ref": "art10p2",
+      "section": "10",
+      "title": "Art. 10 pkt 2",
+      "content": "Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia: sposób wręczania i noszenia odznaki Medalu, o którym mowa w art. 1 pkt 1 i 2, oraz prowadzenia ewidencji, o której mowa w art. 9 ust. 1,"
+    },
+    {
+      "provision_ref": "art10p3",
+      "section": "10",
+      "title": "Art. 10 pkt 3",
+      "content": "Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia: wzory odpowiednich dokumentów"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Art. 11",
-      "content": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. Załącznik - Wzór odznaki „Medalu za Zasługi dla Policji” patrz oryginał Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_2-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_2-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_2-pint_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_2-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_2-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_2-pint_2-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_4-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_4-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_6-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"arti_7-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_7-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_7-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"arti_8-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_8-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"arti_8-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_8-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]}]},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"arti_9-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_9-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"arti_9-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_9-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_9-pass_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_9-pass_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_9-pass_2-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_9-pass_2-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_9-pass_2-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"}]},{\"id\": \"arti_9-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\",\"children\": [{\"id\": \"arti_10-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_10-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_10-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_10-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_10-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"arti_10-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_10-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_10-pass_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_10-pass_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_10-pass_2-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_10-pass_2-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"}]}]},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"} ] } , { \"id\" : \"part_2\", \"title\" : \"Załącznik - Wzór odznaki „Medalu za Zasługi dla Policji”\", \"type\": \"part\", \"symbol\" : \"part_2\", \"children\" : [ ] } ];"
+      "content": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia 19) Ustawa została ogłoszona w dniu 7 lipca 2001 r. ."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2019-1461",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-2448",
+      "ref_type": "references"
+    }
+  ]
 }

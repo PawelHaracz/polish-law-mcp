@@ -1,0 +1,322 @@
+{
+  "id": "pl-du-2022-2469",
+  "type": "statute",
+  "title": "Rozporządzenie Rady Ministrów z dnia 14 października 2022 r. w sprawie zintegrowanego systemu informacji o nieruchomościach",
+  "title_en": "",
+  "short_name": "pl-du-2022-2469",
+  "status": "in_force",
+  "issued_date": "2022-10-14",
+  "in_force_date": "2022-12-01",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2022/2469",
+  "provisions": [
+    {
+      "provision_ref": "par1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Rozporządzenie określa: sposób, tryb i standardy techniczne tworzenia i prowadzenia zintegrowanego systemu informacji o nieruchomościach, zwanego dalej „ZSIN”; treść, formę i sposób przekazywania zawiadomień, o których mowa w art. 24b ust. 1 pkt 3 ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne , zwanej dalej „ustawą”."
+    },
+    {
+      "provision_ref": "par1p1",
+      "section": "1",
+      "title": "§ 1 pkt 1",
+      "content": "Rozporządzenie określa: sposób, tryb i standardy techniczne tworzenia i prowadzenia zintegrowanego systemu informacji o nieruchomościach, zwanego dalej „ZSIN”;"
+    },
+    {
+      "provision_ref": "par1p2",
+      "section": "1",
+      "title": "§ 1 pkt 2",
+      "content": "Rozporządzenie określa: treść, formę i sposób przekazywania zawiadomień, o których mowa w art. 24b ust. 1 pkt 3 ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne , zwanej dalej „ustawą”."
+    },
+    {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "ZSIN tworzy się na podstawie kopii zbiorów danych ewidencji gruntów i budynków. ZSIN składa się z centralnego repozytorium kopii zbiorów danych ewidencji gruntów i budynków, zwanego dalej „centralnym repozytorium kopii danych EGiB”, portalu ZSIN oraz narzędzi komunikacyjnych służących wymianie informacji między rejestrami włączonymi do ZSIN. Schemat architektury ZSIN określa załącznik nr 1 do rozporządzenia. Centralne repozytorium kopii danych EGiB prowadzi się na podstawie przekazywanych przez starostów albo prezydentów miast na prawach powiatu, zwanych dalej „podmiotami przekazującymi”, kopii zbiorów danych ewidencji gruntów i budynków oraz na podstawie danych udostępnianych za pomocą usług sieciowych, o których mowa w przepisach wydanych na podstawie art. 26 ust. 2 ustawy. Kopie aktualnych zbiorów danych, o których mowa w ust. 4, są przekazywane do ZSIN co najmniej raz w roku w formacie właściwym dla wymiany danych ewidencji gruntów i budynków określonym w przepisach wydanych na podstawie art. 26 ust. 2 ustawy, przy czym pierwsze przekazanie kopii zbiorów danych w danym roku następuje w terminie do dnia 31 stycznia. ZSIN umożliwia pobieranie zintegrowanych danych z powiatowych baz danych ewidencji gruntów i budynków, w zakresie informacyjnym określonym w przepisach wydanych na podstawie art. 26 ust. 2 ustawy, za pomocą usługi pobierania, o której mowa w art. 9 ust. 1 pkt 3 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej . Portal ZSIN zapewnia użytkownikom prezentację zintegrowanych danych z powiatowych baz danych ewidencji gruntów i budynków oraz narzędzia do podstawowych analiz tych danych."
+    },
+    {
+      "provision_ref": "par2u1",
+      "section": "2",
+      "title": "§ 2 ust. 1",
+      "content": "ZSIN tworzy się na podstawie kopii zbiorów danych ewidencji gruntów i budynków."
+    },
+    {
+      "provision_ref": "par2u2",
+      "section": "2",
+      "title": "§ 2 ust. 2",
+      "content": "ZSIN składa się z centralnego repozytorium kopii zbiorów danych ewidencji gruntów i budynków, zwanego dalej „centralnym repozytorium kopii danych EGiB”, portalu ZSIN oraz narzędzi komunikacyjnych służących wymianie informacji między rejestrami włączonymi do ZSIN."
+    },
+    {
+      "provision_ref": "par2u3",
+      "section": "2",
+      "title": "§ 2 ust. 3",
+      "content": "Schemat architektury ZSIN określa załącznik nr 1 do rozporządzenia."
+    },
+    {
+      "provision_ref": "par2u4",
+      "section": "2",
+      "title": "§ 2 ust. 4",
+      "content": "Centralne repozytorium kopii danych EGiB prowadzi się na podstawie przekazywanych przez starostów albo prezydentów miast na prawach powiatu, zwanych dalej „podmiotami przekazującymi”, kopii zbiorów danych ewidencji gruntów i budynków oraz na podstawie danych udostępnianych za pomocą usług sieciowych, o których mowa w przepisach wydanych na podstawie art. 26 ust. 2 ustawy."
+    },
+    {
+      "provision_ref": "par2u5",
+      "section": "2",
+      "title": "§ 2 ust. 5",
+      "content": "Kopie aktualnych zbiorów danych, o których mowa w ust. 4, są przekazywane do ZSIN co najmniej raz w roku w formacie właściwym dla wymiany danych ewidencji gruntów i budynków określonym w przepisach wydanych na podstawie art. 26 ust. 2 ustawy, przy czym pierwsze przekazanie kopii zbiorów danych w danym roku następuje w terminie do dnia 31 stycznia."
+    },
+    {
+      "provision_ref": "par2u6",
+      "section": "2",
+      "title": "§ 2 ust. 6",
+      "content": "ZSIN umożliwia pobieranie zintegrowanych danych z powiatowych baz danych ewidencji gruntów i budynków, w zakresie informacyjnym określonym w przepisach wydanych na podstawie art. 26 ust. 2 ustawy, za pomocą usługi pobierania, o której mowa w art. 9 ust. 1 pkt 3 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej ."
+    },
+    {
+      "provision_ref": "par2u7",
+      "section": "2",
+      "title": "§ 2 ust. 7",
+      "content": "Portal ZSIN zapewnia użytkownikom prezentację zintegrowanych danych z powiatowych baz danych ewidencji gruntów i budynków oraz narzędzia do podstawowych analiz tych danych."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "System teleinformatyczny do prowadzenia ksiąg wieczystych komunikuje się z ZSIN za pomocą oprogramowania interfejsowego w celu realizacji operacji, o których mowa w art. 24b ust. 1 pkt 3-5 ustawy, w szczególności: generowania zawiadomień o nowych wpisach w działach I i II księgi wieczystej oraz przekazywania tych zawiadomień, w postaci dokumentów elektronicznych, do właściwego podmiotu przekazującego za pośrednictwem ZSIN; odbioru, w postaci dokumentów elektronicznych, zawiadomień o zmianach danych ewidencji gruntów i budynków wraz z wymaganymi załącznikami; dokonywania sprawdzenia, o którym mowa w art. 626 8 § 4 ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego ) ; udostępniania danych zawartych w księgach wieczystych w zakresie niezbędnym do prowadzenia ewidencji gruntów i budynków, w tym weryfikacji zgodności jej danych z danymi zawartymi w księgach wieczystych. Rejestr PESEL komunikuje się z ZSIN za pomocą oprogramowania interfejsowego w celu realizacji operacji, o których mowa w art. 24b ust. 1 pkt 3 i 5 ustawy, w szczególności: generowania i przekazywania zawiadomień o zmianach dokonanych w rejestrze PESEL, dotyczących osób fizycznych wykazanych w centralnym repozytorium kopii danych EGiB, w zakresie brzmienia ich nazwiska, imion, imion rodziców, adresu zameldowania na pobyt stały, numeru PESEL, a także informacji o zgonie tych osób, zwanych dalej „danymi z rejestru PESEL”; udostępniania danych z rejestru PESEL w zakresie niezbędnym do weryfikacji podmiotów ewidencji gruntów i budynków. REGON komunikuje się z ZSIN za pomocą oprogramowania interfejsowego w celu realizacji operacji, o których mowa w art. 24b ust. 1 pkt 3 i 5 ustawy, w szczególności udostępniania podmiotom przekazującym danych REGON dotyczących nazw osób prawnych i jednostek organizacyjnych oraz ich siedzib, a także numeru identyfikacyjnego REGON. Lokalne systemy teleinformatyczne stosowane do prowadzenia ewidencji gruntów i budynków komunikują się z ZSIN za pomocą oprogramowania interfejsowego w celu realizacji operacji, o których mowa w art. 24b ust. 1 pkt 1, 3 i 5 ustawy, w szczególności: przekazywania danych ewidencji gruntów i budynków, o których mowa w § 2 ust. 4, do ZSIN; generowania zawiadomień o zmianach danych dokonanych w ewidencji gruntów i budynków do sądów prowadzących księgi wieczyste i przekazywania tych zawiadomień, w postaci dokumentów elektronicznych, wraz z wymaganymi załącznikami do ZSIN na zasadach, o których mowa w przepisach wykonawczych wydanych na podstawie art. 26 ust. 2 ustawy; generowania zawiadomień o zmianach danych dokonanych w ewidencji gruntów i budynków do organów podatkowych właściwych w sprawach podatku od nieruchomości, podatku rolnego oraz podatku leśnego i przekazywania tych zawiadomień, w postaci dokumentów elektronicznych, do ZSIN; odbioru zawiadomień, w postaci dokumentów elektronicznych, o: nowych wpisach w księdze wieczystej, zmianach danych uwidocznionych w ewidencji gruntów i budynków, przekazywanych przez rejestr PESEL, dotyczących osób fizycznych - oraz wykorzystywania tych zawiadomień w procesie aktualizacji bazy ewidencji gruntów i budynków; wyszukiwania, przeglądania i pobierania danych zawartych w innych rejestrach włączonych do ZSIN. Przepisu ust. 4 pkt 3 nie stosuje się w przypadku, gdy zainteresowane organy uzgodnią i wdrożą inny sposób generowania i przekazywania zawiadomień, w postaci dokumentów elektronicznych, o zmianach danych ewidencji gruntów i budynków do organów podatkowych właściwych w sprawach podatku od nieruchomości, podatku rolnego oraz podatku leśnego."
+    },
+    {
+      "provision_ref": "par3u1p1",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 1",
+      "content": "System teleinformatyczny do prowadzenia ksiąg wieczystych komunikuje się z ZSIN za pomocą oprogramowania interfejsowego w celu realizacji operacji, o których mowa w art. 24b ust. 1 pkt 3-5 ustawy, w szczególności: generowania zawiadomień o nowych wpisach w działach I i II księgi wieczystej oraz przekazywania tych zawiadomień, w postaci dokumentów elektronicznych, do właściwego podmiotu przekazującego za pośrednictwem ZSIN;"
+    },
+    {
+      "provision_ref": "par3u1p2",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 2",
+      "content": "System teleinformatyczny do prowadzenia ksiąg wieczystych komunikuje się z ZSIN za pomocą oprogramowania interfejsowego w celu realizacji operacji, o których mowa w art. 24b ust. 1 pkt 3-5 ustawy, w szczególności: odbioru, w postaci dokumentów elektronicznych, zawiadomień o zmianach danych ewidencji gruntów i budynków wraz z wymaganymi załącznikami;"
+    },
+    {
+      "provision_ref": "par3u1p3",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 3",
+      "content": "System teleinformatyczny do prowadzenia ksiąg wieczystych komunikuje się z ZSIN za pomocą oprogramowania interfejsowego w celu realizacji operacji, o których mowa w art. 24b ust. 1 pkt 3-5 ustawy, w szczególności: dokonywania sprawdzenia, o którym mowa w art. 626 8 § 4 ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego ) ;"
+    },
+    {
+      "provision_ref": "par3u1p4",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 4",
+      "content": "System teleinformatyczny do prowadzenia ksiąg wieczystych komunikuje się z ZSIN za pomocą oprogramowania interfejsowego w celu realizacji operacji, o których mowa w art. 24b ust. 1 pkt 3-5 ustawy, w szczególności: udostępniania danych zawartych w księgach wieczystych w zakresie niezbędnym do prowadzenia ewidencji gruntów i budynków, w tym weryfikacji zgodności jej danych z danymi zawartymi w księgach wieczystych."
+    },
+    {
+      "provision_ref": "par3u2p1",
+      "section": "3",
+      "title": "§ 3 ust. 2 pkt 1",
+      "content": "Rejestr PESEL komunikuje się z ZSIN za pomocą oprogramowania interfejsowego w celu realizacji operacji, o których mowa w art. 24b ust. 1 pkt 3 i 5 ustawy, w szczególności: generowania i przekazywania zawiadomień o zmianach dokonanych w rejestrze PESEL, dotyczących osób fizycznych wykazanych w centralnym repozytorium kopii danych EGiB, w zakresie brzmienia ich nazwiska, imion, imion rodziców, adresu zameldowania na pobyt stały, numeru PESEL, a także informacji o zgonie tych osób, zwanych dalej „danymi z rejestru PESEL”;"
+    },
+    {
+      "provision_ref": "par3u2p2",
+      "section": "3",
+      "title": "§ 3 ust. 2 pkt 2",
+      "content": "Rejestr PESEL komunikuje się z ZSIN za pomocą oprogramowania interfejsowego w celu realizacji operacji, o których mowa w art. 24b ust. 1 pkt 3 i 5 ustawy, w szczególności: udostępniania danych z rejestru PESEL w zakresie niezbędnym do weryfikacji podmiotów ewidencji gruntów i budynków."
+    },
+    {
+      "provision_ref": "par3u3",
+      "section": "3",
+      "title": "§ 3 ust. 3",
+      "content": "REGON komunikuje się z ZSIN za pomocą oprogramowania interfejsowego w celu realizacji operacji, o których mowa w art. 24b ust. 1 pkt 3 i 5 ustawy, w szczególności udostępniania podmiotom przekazującym danych REGON dotyczących nazw osób prawnych i jednostek organizacyjnych oraz ich siedzib, a także numeru identyfikacyjnego REGON."
+    },
+    {
+      "provision_ref": "par3u4p1",
+      "section": "3",
+      "title": "§ 3 ust. 4 pkt 1",
+      "content": "Lokalne systemy teleinformatyczne stosowane do prowadzenia ewidencji gruntów i budynków komunikują się z ZSIN za pomocą oprogramowania interfejsowego w celu realizacji operacji, o których mowa w art. 24b ust. 1 pkt 1, 3 i 5 ustawy, w szczególności: przekazywania danych ewidencji gruntów i budynków, o których mowa w § 2 ust. 4, do ZSIN;"
+    },
+    {
+      "provision_ref": "par3u4p2",
+      "section": "3",
+      "title": "§ 3 ust. 4 pkt 2",
+      "content": "Lokalne systemy teleinformatyczne stosowane do prowadzenia ewidencji gruntów i budynków komunikują się z ZSIN za pomocą oprogramowania interfejsowego w celu realizacji operacji, o których mowa w art. 24b ust. 1 pkt 1, 3 i 5 ustawy, w szczególności: generowania zawiadomień o zmianach danych dokonanych w ewidencji gruntów i budynków do sądów prowadzących księgi wieczyste i przekazywania tych zawiadomień, w postaci dokumentów elektronicznych, wraz z wymaganymi załącznikami do ZSIN na zasadach, o których mowa w przepisach wykonawczych wydanych na podstawie art. 26 ust. 2 ustawy;"
+    },
+    {
+      "provision_ref": "par3u4p3",
+      "section": "3",
+      "title": "§ 3 ust. 4 pkt 3",
+      "content": "Lokalne systemy teleinformatyczne stosowane do prowadzenia ewidencji gruntów i budynków komunikują się z ZSIN za pomocą oprogramowania interfejsowego w celu realizacji operacji, o których mowa w art. 24b ust. 1 pkt 1, 3 i 5 ustawy, w szczególności: generowania zawiadomień o zmianach danych dokonanych w ewidencji gruntów i budynków do organów podatkowych właściwych w sprawach podatku od nieruchomości, podatku rolnego oraz podatku leśnego i przekazywania tych zawiadomień, w postaci dokumentów elektronicznych, do ZSIN;"
+    },
+    {
+      "provision_ref": "par3u4p4la",
+      "section": "3",
+      "title": "§ 3 ust. 4 pkt 4 lit. a",
+      "content": "Lokalne systemy teleinformatyczne stosowane do prowadzenia ewidencji gruntów i budynków komunikują się z ZSIN za pomocą oprogramowania interfejsowego w celu realizacji operacji, o których mowa w art. 24b ust. 1 pkt 1, 3 i 5 ustawy, w szczególności: odbioru zawiadomień, w postaci dokumentów elektronicznych, o: nowych wpisach w księdze wieczystej,"
+    },
+    {
+      "provision_ref": "par3u4p4lb",
+      "section": "3",
+      "title": "§ 3 ust. 4 pkt 4 lit. b",
+      "content": "Lokalne systemy teleinformatyczne stosowane do prowadzenia ewidencji gruntów i budynków komunikują się z ZSIN za pomocą oprogramowania interfejsowego w celu realizacji operacji, o których mowa w art. 24b ust. 1 pkt 1, 3 i 5 ustawy, w szczególności: odbioru zawiadomień, w postaci dokumentów elektronicznych, o: zmianach danych uwidocznionych w ewidencji gruntów i budynków, przekazywanych przez rejestr PESEL, dotyczących osób fizycznych"
+    },
+    {
+      "provision_ref": "par3u4p5",
+      "section": "3",
+      "title": "§ 3 ust. 4 pkt 5",
+      "content": "Lokalne systemy teleinformatyczne stosowane do prowadzenia ewidencji gruntów i budynków komunikują się z ZSIN za pomocą oprogramowania interfejsowego w celu realizacji operacji, o których mowa w art. 24b ust. 1 pkt 1, 3 i 5 ustawy, w szczególności: wyszukiwania, przeglądania i pobierania danych zawartych w innych rejestrach włączonych do ZSIN."
+    },
+    {
+      "provision_ref": "par3u5",
+      "section": "3",
+      "title": "§ 3 ust. 5",
+      "content": "Przepisu ust. 4 pkt 3 nie stosuje się w przypadku, gdy zainteresowane organy uzgodnią i wdrożą inny sposób generowania i przekazywania zawiadomień, w postaci dokumentów elektronicznych, o zmianach danych ewidencji gruntów i budynków do organów podatkowych właściwych w sprawach podatku od nieruchomości, podatku rolnego oraz podatku leśnego."
+    },
+    {
+      "provision_ref": "par4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Zawiadomienia, o których mowa w § 3 ust. 1 pkt 1, ust. 4 pkt 2, 3 i pkt 4 lit. b, przekazuje się w postaci dokumentów elektronicznych w formacie XML. Treść zawiadomień, o których mowa w § 3 ust. 1 pkt 1, określa załącznik nr 2 do rozporządzenia. Treść zawiadomień, o których mowa w § 3 ust. 4 pkt 2 i 3, określa załącznik nr 3 do rozporządzenia. Treść zawiadomień, o których mowa w § 3 ust. 4 pkt 4 lit. b, określa załącznik nr 4 do rozporządzenia. Schematy aplikacyjne XML dotyczące treści zawiadomień, o których mowa w § 3 ust. 1 pkt 1, ust. 4 pkt 2, 3 i pkt 4 lit. b, Główny Geodeta Kraju publikuje w repozytorium interoperacyjności, o którym mowa w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne ."
+    },
+    {
+      "provision_ref": "par4u1",
+      "section": "4",
+      "title": "§ 4 ust. 1",
+      "content": "Zawiadomienia, o których mowa w § 3 ust. 1 pkt 1, ust. 4 pkt 2, 3 i pkt 4 lit. b, przekazuje się w postaci dokumentów elektronicznych w formacie XML."
+    },
+    {
+      "provision_ref": "par4u2",
+      "section": "4",
+      "title": "§ 4 ust. 2",
+      "content": "Treść zawiadomień, o których mowa w § 3 ust. 1 pkt 1, określa załącznik nr 2 do rozporządzenia."
+    },
+    {
+      "provision_ref": "par4u3",
+      "section": "4",
+      "title": "§ 4 ust. 3",
+      "content": "Treść zawiadomień, o których mowa w § 3 ust. 4 pkt 2 i 3, określa załącznik nr 3 do rozporządzenia."
+    },
+    {
+      "provision_ref": "par4u4",
+      "section": "4",
+      "title": "§ 4 ust. 4",
+      "content": "Treść zawiadomień, o których mowa w § 3 ust. 4 pkt 4 lit. b, określa załącznik nr 4 do rozporządzenia."
+    },
+    {
+      "provision_ref": "par4u5",
+      "section": "4",
+      "title": "§ 4 ust. 5",
+      "content": "Schematy aplikacyjne XML dotyczące treści zawiadomień, o których mowa w § 3 ust. 1 pkt 1, ust. 4 pkt 2, 3 i pkt 4 lit. b, Główny Geodeta Kraju publikuje w repozytorium interoperacyjności, o którym mowa w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne ."
+    },
+    {
+      "provision_ref": "par5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Zawiadomienia, o których mowa w § 3 ust. 1 pkt 1 oraz ust. 4 pkt 2 i 3, podlegają uwierzytelnieniu przy użyciu certyfikatu cyfrowego wygenerowanego przez ZSIN dla systemu informatycznego wysyłającego zawiadomienie. Oprogramowanie interfejsowe ZSIN zapewnia nadawcy zawiadomienia możliwość pobrania informacji o doręczeniu zawiadomienia. Przekazanie zawiadomienia uwierzytelnionego w sposób, o którym mowa w ust. 1, stanowi wykonanie obowiązków wzajemnego zawiadamiania sądów prowadzących księgi wieczyste oraz organów prowadzących ewidencję gruntów i budynków, określonych w ustawie oraz w ustawie z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece , a także wykonanie nałożonego przez przepisy wydane na podstawie art. 26 ust. 2 ustawy obowiązku przekazywania do organów podatkowych zawiadomień o zmianach danych mających znaczenie dla wymiaru podatku od nieruchomości, podatku rolnego oraz podatku leśnego."
+    },
+    {
+      "provision_ref": "par5u1",
+      "section": "5",
+      "title": "§ 5 ust. 1",
+      "content": "Zawiadomienia, o których mowa w § 3 ust. 1 pkt 1 oraz ust. 4 pkt 2 i 3, podlegają uwierzytelnieniu przy użyciu certyfikatu cyfrowego wygenerowanego przez ZSIN dla systemu informatycznego wysyłającego zawiadomienie."
+    },
+    {
+      "provision_ref": "par5u2",
+      "section": "5",
+      "title": "§ 5 ust. 2",
+      "content": "Oprogramowanie interfejsowe ZSIN zapewnia nadawcy zawiadomienia możliwość pobrania informacji o doręczeniu zawiadomienia."
+    },
+    {
+      "provision_ref": "par5u3",
+      "section": "5",
+      "title": "§ 5 ust. 3",
+      "content": "Przekazanie zawiadomienia uwierzytelnionego w sposób, o którym mowa w ust. 1, stanowi wykonanie obowiązków wzajemnego zawiadamiania sądów prowadzących księgi wieczyste oraz organów prowadzących ewidencję gruntów i budynków, określonych w ustawie oraz w ustawie z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece , a także wykonanie nałożonego przez przepisy wydane na podstawie art. 26 ust. 2 ustawy obowiązku przekazywania do organów podatkowych zawiadomień o zmianach danych mających znaczenie dla wymiaru podatku od nieruchomości, podatku rolnego oraz podatku leśnego."
+    },
+    {
+      "provision_ref": "par6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "ZSIN prowadzony na podstawie przepisów dotychczasowych staje się ZSIN w rozumieniu niniejszego rozporządzenia. Główny Geodeta Kraju dostosuje ZSIN prowadzony na podstawie przepisów dotychczasowych do przepisów niniejszego rozporządzenia w terminie do dnia 31 grudnia 2023 r. Inne organy wymienione w art. 24b ust. 1 ustawy dostosują systemy wykorzystywane do prowadzenia rejestrów włączonych do ZSIN do przepisów niniejszego rozporządzenia w terminie do dnia 31 grudnia 2023 r."
+    },
+    {
+      "provision_ref": "par6u1",
+      "section": "6",
+      "title": "§ 6 ust. 1",
+      "content": "ZSIN prowadzony na podstawie przepisów dotychczasowych staje się ZSIN w rozumieniu niniejszego rozporządzenia."
+    },
+    {
+      "provision_ref": "par6u2",
+      "section": "6",
+      "title": "§ 6 ust. 2",
+      "content": "Główny Geodeta Kraju dostosuje ZSIN prowadzony na podstawie przepisów dotychczasowych do przepisów niniejszego rozporządzenia w terminie do dnia 31 grudnia 2023 r."
+    },
+    {
+      "provision_ref": "par6u3",
+      "section": "6",
+      "title": "§ 6 ust. 3",
+      "content": "Inne organy wymienione w art. 24b ust. 1 ustawy dostosują systemy wykorzystywane do prowadzenia rejestrów włączonych do ZSIN do przepisów niniejszego rozporządzenia w terminie do dnia 31 grudnia 2023 r."
+    },
+    {
+      "provision_ref": "par7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "Dotychczasowe dane zawarte w centralnym repozytorium kopii danych EGiB zachowują ważność do czasu zastąpienia ich nowymi danymi przez właściwy podmiot przekazujący."
+    },
+    {
+      "provision_ref": "par8",
+      "section": "8",
+      "title": "§ 8",
+      "content": "Podmioty przekazujące przekażą po raz pierwszy kopie zbiorów danych ewidencji gruntów i budynków do centralnego repozytorium kopii danych EGiB w terminie 3 miesięcy od dnia wejścia w życie niniejszego rozporządzenia."
+    },
+    {
+      "provision_ref": "par9",
+      "section": "9",
+      "title": "§ 9",
+      "content": "W sprawach, które wpłynęły do sądów prowadzących księgi wieczyste przed wdrożeniem w nich funkcjonalności ZSIN, zawiadomienia o wpisie kierowane do właściwego starosty lub prezydenta miasta na prawach powiatu mogą być przekazywane w dotychczasowy sposób."
+    },
+    {
+      "provision_ref": "par10",
+      "section": "10",
+      "title": "§ 10",
+      "content": "Traci moc rozporządzenie Rady Ministrów z dnia 17 stycznia 2013 r. w sprawie zintegrowanego systemu informacji o nieruchomościach ."
+    },
+    {
+      "provision_ref": "par11",
+      "section": "11",
+      "title": "§ 11",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    }
+  ],
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2021-1990",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-1846",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2185",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-214",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1805",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-2070",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-1087",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-1728",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2013-249",
+      "ref_type": "references"
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "id": "pl-du-2021-2038",
+  "type": "statute",
+  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 8 listopada 2021 r. w sprawie wymagań funkcjonalnych dla systemu teleinformatycznego i interfejsu komunikacyjnego oraz zakresu informacji przekazywanych za pośrednictwem interfejsu komunikacyjnego",
+  "title_en": "",
+  "short_name": "pl-du-2021-2038",
+  "status": "in_force",
+  "issued_date": "2021-11-08",
+  "in_force_date": "2021-11-10",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2021/2038",
+  "provisions": [
+    {
+      "provision_ref": "par1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Rozporządzenie określa: wymagania funkcjonalne dla systemu teleinformatycznego; wymagania funkcjonalne dla interfejsu komunikacyjnego; zakres informacji przekazywanych za pośrednictwem interfejsu komunikacyjnego."
+    },
+    {
+      "provision_ref": "par1p1",
+      "section": "1",
+      "title": "§ 1 pkt 1",
+      "content": "Rozporządzenie określa: wymagania funkcjonalne dla systemu teleinformatycznego;"
+    },
+    {
+      "provision_ref": "par1p2",
+      "section": "1",
+      "title": "§ 1 pkt 2",
+      "content": "Rozporządzenie określa: wymagania funkcjonalne dla interfejsu komunikacyjnego;"
+    },
+    {
+      "provision_ref": "par1p3",
+      "section": "1",
+      "title": "§ 1 pkt 3",
+      "content": "Rozporządzenie określa: zakres informacji przekazywanych za pośrednictwem interfejsu komunikacyjnego."
+    },
+    {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "System teleinformatyczny spełnia następujące wymagania funkcjonalne: zapewnia obsługę zgłoszeń alarmowych, w tym również innych niż zgłoszenia głosowe; zapewnia rejestrację zgłoszenia alarmowego, w tym nadanie unikatowego identyfikatora zgłoszenia alarmowego; umożliwia odpowiednie zakwalifikowanie zdarzenia lub zagrożenia oraz wybór właściwego miejscowo i rzeczowo podmiotu ratowniczego lub właściwych podmiotów ratowniczych; posiada mechanizmy umożliwiające wyszukanie danych niezbędnych do prawidłowego określenia: miejsca zdarzenia lub zagrożenia, statusu obsługi zgłoszenia alarmowego, statusu odmowy przyjęcia zgłoszenia alarmowego, rodzaju zdarzenia lub zagrożenia według katalogu zdarzeń, o którym mowa w przepisach wydanych na podstawie art. 9 ustawy z dnia 22 listopada 2013 r. o systemie powiadamiania ratunkowego , zwanej dalej „ustawą”, właściwego miejscowo i rzeczowo podmiotu ratowniczego; zapewnia, za pośrednictwem interfejsu komunikacyjnego, wymianę informacji i danych z Systemem Wspomagania Dowodzenia Policji, Systemem Wspomagania Decyzji Państwowej Straży Pożarnej i Systemem Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego, zwanymi dalej „Systemami”, dostosowanymi przez podmioty ratownicze do współpracy z systemem teleinformatycznym; umożliwia przekazanie informacji o zgłoszeniu alarmowym do właściwego miejscowo i rzeczowo podmiotu ratowniczego lub właściwych podmiotów ratowniczych w celu dysponowania odpowiednich zasobów ratowniczych; zapewnia gromadzenie informacji i danych uzyskanych w związku z obsługą zgłoszeń alarmowych, o których mowa w przepisach wydanych na podstawie art. 9 ustawy; zapewnia, za pomocą wbudowanego narzędzia do generowania raportów, statystyk i analiz na podstawie danych gromadzonych w systemie teleinformatycznym, automatyczne generowanie statystyk w zakresie liczby, rodzajów oraz czasu realizacji zgłoszeń alarmowych; funkcjonuje w architekturze scentralizowanej z wykorzystaniem podstawowego i zapasowego ośrodka przetwarzania danych; zapewnia wykonywanie kopii bezpieczeństwa przetwarzanych danych na wypadek awarii; funkcjonuje w architekturze wysokiej dostępności i jest dostępny dla operatorów numerów alarmowych, starszych operatorów numerów alarmowych, zwanych dalej „operatorami”, koordynatorów, koordynatorów-trenerów oraz pozostałych pracowników centrum całodobowo przez 7 dni w tygodniu; posiada mechanizmy umożliwiające identyfikację, uwierzytelnienie i autoryzację użytkowników; posiada mechanizmy pozwalające przypisać określone działanie do osoby fizycznej lub procesu oraz umiejscowić je w czasie; zapewnia bezpieczeństwo przetwarzanych danych, w tym szyfrowanie danych przy ich przesyłaniu; posiada środowisko szkoleniowe na potrzeby szkoleń operatorów, koordynatorów i koordynatorów-trenerów; umożliwia dokonywanie cyklicznej oceny pracy i samooceny operatorów, koordynatorów i koordynatorów-trenerów oraz oceny kompetencji koordynatorów i koordynatorów-trenerów; posiada stały dostęp, z wykorzystaniem środków komunikacji elektronicznej, do urządzeń telekomunikacyjnych centrów powiadamiania ratunkowego za pośrednictwem właściwego interfejsu; wykorzystuje dane przestrzenne i związane z nimi usługi na potrzeby wizualizacji graficznej miejsca zgłoszenia alarmowego oraz miejsca wystąpienia zdarzenia lub zagrożenia, udostępniane w ramach stałego dostępu z wykorzystaniem środków komunikacji elektronicznej za pośrednictwem systemu, o którym mowa w art. 40 ust. 3e ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne ; wykorzystuje, za pośrednictwem centralnego punktu systemu powiadamiania ratunkowego, informacje dotyczące lokalizacji zakończenia sieci, z którego zostało wykonane połączenie do numeru alarmowego, oraz dane dotyczące abonenta w ramach stałego dostępu z wykorzystaniem środków komunikacji elektronicznej; zapewnia wymianę informacji i danych z innymi systemami teleinformatycznymi za pośrednictwem interfejsów komunikacyjnych o otwartej architekturze; zapewnia ewidencjonowanie wszystkich danych dotyczących treści zgłoszeń alarmowych przez 3 lata od chwili otrzymania zgłoszenia; zawiera mechanizmy zapewniające zachowanie ciągłości funkcjonowania systemu."
+    },
+    {
+      "provision_ref": "par2p1",
+      "section": "2",
+      "title": "§ 2 pkt 1",
+      "content": "System teleinformatyczny spełnia następujące wymagania funkcjonalne: zapewnia obsługę zgłoszeń alarmowych, w tym również innych niż zgłoszenia głosowe;"
+    },
+    {
+      "provision_ref": "par2p2",
+      "section": "2",
+      "title": "§ 2 pkt 2",
+      "content": "System teleinformatyczny spełnia następujące wymagania funkcjonalne: zapewnia rejestrację zgłoszenia alarmowego, w tym nadanie unikatowego identyfikatora zgłoszenia alarmowego;"
+    },
+    {
+      "provision_ref": "par2p3",
+      "section": "2",
+      "title": "§ 2 pkt 3",
+      "content": "System teleinformatyczny spełnia następujące wymagania funkcjonalne: umożliwia odpowiednie zakwalifikowanie zdarzenia lub zagrożenia oraz wybór właściwego miejscowo i rzeczowo podmiotu ratowniczego lub właściwych podmiotów ratowniczych;"
+    },
+    {
+      "provision_ref": "par2p4la",
+      "section": "2",
+      "title": "§ 2 pkt 4 lit. a",
+      "content": "System teleinformatyczny spełnia następujące wymagania funkcjonalne: posiada mechanizmy umożliwiające wyszukanie danych niezbędnych do prawidłowego określenia: miejsca zdarzenia lub zagrożenia,"
+    },
+    {
+      "provision_ref": "par2p4lb",
+      "section": "2",
+      "title": "§ 2 pkt 4 lit. b",
+      "content": "System teleinformatyczny spełnia następujące wymagania funkcjonalne: posiada mechanizmy umożliwiające wyszukanie danych niezbędnych do prawidłowego określenia: statusu obsługi zgłoszenia alarmowego,"
+    },
+    {
+      "provision_ref": "par2p4lc",
+      "section": "2",
+      "title": "§ 2 pkt 4 lit. c",
+      "content": "System teleinformatyczny spełnia następujące wymagania funkcjonalne: posiada mechanizmy umożliwiające wyszukanie danych niezbędnych do prawidłowego określenia: statusu odmowy przyjęcia zgłoszenia alarmowego,"
+    },
+    {
+      "provision_ref": "par2p4ld",
+      "section": "2",
+      "title": "§ 2 pkt 4 lit. d",
+      "content": "System teleinformatyczny spełnia następujące wymagania funkcjonalne: posiada mechanizmy umożliwiające wyszukanie danych niezbędnych do prawidłowego określenia: rodzaju zdarzenia lub zagrożenia według katalogu zdarzeń, o którym mowa w przepisach wydanych na podstawie art. 9 ustawy z dnia 22 listopada 2013 r. o systemie powiadamiania ratunkowego , zwanej dalej „ustawą”,"
+    },
+    {
+      "provision_ref": "par2p4le",
+      "section": "2",
+      "title": "§ 2 pkt 4 lit. e",
+      "content": "System teleinformatyczny spełnia następujące wymagania funkcjonalne: posiada mechanizmy umożliwiające wyszukanie danych niezbędnych do prawidłowego określenia: właściwego miejscowo i rzeczowo podmiotu ratowniczego;"
+    },
+    {
+      "provision_ref": "par2p5",
+      "section": "2",
+      "title": "§ 2 pkt 5",
+      "content": "System teleinformatyczny spełnia następujące wymagania funkcjonalne: zapewnia, za pośrednictwem interfejsu komunikacyjnego, wymianę informacji i danych z Systemem Wspomagania Dowodzenia Policji, Systemem Wspomagania Decyzji Państwowej Straży Pożarnej i Systemem Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego, zwanymi dalej „Systemami”, dostosowanymi przez podmioty ratownicze do współpracy z systemem teleinformatycznym;"
+    },
+    {
+      "provision_ref": "par2p6",
+      "section": "2",
+      "title": "§ 2 pkt 6",
+      "content": "System teleinformatyczny spełnia następujące wymagania funkcjonalne: umożliwia przekazanie informacji o zgłoszeniu alarmowym do właściwego miejscowo i rzeczowo podmiotu ratowniczego lub właściwych podmiotów ratowniczych w celu dysponowania odpowiednich zasobów ratowniczych;"
+    },
+    {
+      "provision_ref": "par2p7",
+      "section": "2",
+      "title": "§ 2 pkt 7",
+      "content": "System teleinformatyczny spełnia następujące wymagania funkcjonalne: zapewnia gromadzenie informacji i danych uzyskanych w związku z obsługą zgłoszeń alarmowych, o których mowa w przepisach wydanych na podstawie art. 9 ustawy;"
+    },
+    {
+      "provision_ref": "par2p8",
+      "section": "2",
+      "title": "§ 2 pkt 8",
+      "content": "System teleinformatyczny spełnia następujące wymagania funkcjonalne: zapewnia, za pomocą wbudowanego narzędzia do generowania raportów, statystyk i analiz na podstawie danych gromadzonych w systemie teleinformatycznym, automatyczne generowanie statystyk w zakresie liczby, rodzajów oraz czasu realizacji zgłoszeń alarmowych;"
+    },
+    {
+      "provision_ref": "par2p9",
+      "section": "2",
+      "title": "§ 2 pkt 9",
+      "content": "System teleinformatyczny spełnia następujące wymagania funkcjonalne: funkcjonuje w architekturze scentralizowanej z wykorzystaniem podstawowego i zapasowego ośrodka przetwarzania danych;"
+    },
+    {
+      "provision_ref": "par2p10",
+      "section": "2",
+      "title": "§ 2 pkt 10",
+      "content": "System teleinformatyczny spełnia następujące wymagania funkcjonalne: zapewnia wykonywanie kopii bezpieczeństwa przetwarzanych danych na wypadek awarii;"
+    },
+    {
+      "provision_ref": "par2p11",
+      "section": "2",
+      "title": "§ 2 pkt 11",
+      "content": "System teleinformatyczny spełnia następujące wymagania funkcjonalne: funkcjonuje w architekturze wysokiej dostępności i jest dostępny dla operatorów numerów alarmowych, starszych operatorów numerów alarmowych, zwanych dalej „operatorami”, koordynatorów, koordynatorów-trenerów oraz pozostałych pracowników centrum całodobowo przez 7 dni w tygodniu;"
+    },
+    {
+      "provision_ref": "par2p12",
+      "section": "2",
+      "title": "§ 2 pkt 12",
+      "content": "System teleinformatyczny spełnia następujące wymagania funkcjonalne: posiada mechanizmy umożliwiające identyfikację, uwierzytelnienie i autoryzację użytkowników;"
+    },
+    {
+      "provision_ref": "par2p13",
+      "section": "2",
+      "title": "§ 2 pkt 13",
+      "content": "System teleinformatyczny spełnia następujące wymagania funkcjonalne: posiada mechanizmy pozwalające przypisać określone działanie do osoby fizycznej lub procesu oraz umiejscowić je w czasie;"
+    },
+    {
+      "provision_ref": "par2p14",
+      "section": "2",
+      "title": "§ 2 pkt 14",
+      "content": "System teleinformatyczny spełnia następujące wymagania funkcjonalne: zapewnia bezpieczeństwo przetwarzanych danych, w tym szyfrowanie danych przy ich przesyłaniu;"
+    },
+    {
+      "provision_ref": "par2p15",
+      "section": "2",
+      "title": "§ 2 pkt 15",
+      "content": "System teleinformatyczny spełnia następujące wymagania funkcjonalne: posiada środowisko szkoleniowe na potrzeby szkoleń operatorów, koordynatorów i koordynatorów-trenerów;"
+    },
+    {
+      "provision_ref": "par2p16",
+      "section": "2",
+      "title": "§ 2 pkt 16",
+      "content": "System teleinformatyczny spełnia następujące wymagania funkcjonalne: umożliwia dokonywanie cyklicznej oceny pracy i samooceny operatorów, koordynatorów i koordynatorów-trenerów oraz oceny kompetencji koordynatorów i koordynatorów-trenerów;"
+    },
+    {
+      "provision_ref": "par2p17",
+      "section": "2",
+      "title": "§ 2 pkt 17",
+      "content": "System teleinformatyczny spełnia następujące wymagania funkcjonalne: posiada stały dostęp, z wykorzystaniem środków komunikacji elektronicznej, do urządzeń telekomunikacyjnych centrów powiadamiania ratunkowego za pośrednictwem właściwego interfejsu;"
+    },
+    {
+      "provision_ref": "par2p18",
+      "section": "2",
+      "title": "§ 2 pkt 18",
+      "content": "System teleinformatyczny spełnia następujące wymagania funkcjonalne: wykorzystuje dane przestrzenne i związane z nimi usługi na potrzeby wizualizacji graficznej miejsca zgłoszenia alarmowego oraz miejsca wystąpienia zdarzenia lub zagrożenia, udostępniane w ramach stałego dostępu z wykorzystaniem środków komunikacji elektronicznej za pośrednictwem systemu, o którym mowa w art. 40 ust. 3e ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne ;"
+    },
+    {
+      "provision_ref": "par2p19",
+      "section": "2",
+      "title": "§ 2 pkt 19",
+      "content": "System teleinformatyczny spełnia następujące wymagania funkcjonalne: wykorzystuje, za pośrednictwem centralnego punktu systemu powiadamiania ratunkowego, informacje dotyczące lokalizacji zakończenia sieci, z którego zostało wykonane połączenie do numeru alarmowego, oraz dane dotyczące abonenta w ramach stałego dostępu z wykorzystaniem środków komunikacji elektronicznej;"
+    },
+    {
+      "provision_ref": "par2p20",
+      "section": "2",
+      "title": "§ 2 pkt 20",
+      "content": "System teleinformatyczny spełnia następujące wymagania funkcjonalne: zapewnia wymianę informacji i danych z innymi systemami teleinformatycznymi za pośrednictwem interfejsów komunikacyjnych o otwartej architekturze;"
+    },
+    {
+      "provision_ref": "par2p21",
+      "section": "2",
+      "title": "§ 2 pkt 21",
+      "content": "System teleinformatyczny spełnia następujące wymagania funkcjonalne: zapewnia ewidencjonowanie wszystkich danych dotyczących treści zgłoszeń alarmowych przez 3 lata od chwili otrzymania zgłoszenia;"
+    },
+    {
+      "provision_ref": "par2p22",
+      "section": "2",
+      "title": "§ 2 pkt 22",
+      "content": "System teleinformatyczny spełnia następujące wymagania funkcjonalne: zawiera mechanizmy zapewniające zachowanie ciągłości funkcjonowania systemu."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Interfejs komunikacyjny spełnia następujące wymagania funkcjonalne: zapewnia dwukierunkową wymianę informacji o zgłoszeniach alarmowych, w zakresie określonym w § 4, między systemem teleinformatycznym a Systemami; zapewnia wymianę informacji o aktualnym statusie obsługi zgłoszenia alarmowego; zapewnia przesyłanie informacji o aktualnym stanie połączenia telefonicznego z osobą zgłaszającą oraz o osobie obsługującej zgłoszenie i osobie dysponującej zasobami ratowniczymi podmiotu ratowniczego właściwego miejscowo i rzeczowo do podjęcia działań w związku ze zgłoszeniem alarmowym, zwanej dalej „dyspozytorem”; zapewnia udostępnianie dokumentów elektronicznych zawierających oryginalną treść zgłoszenia alarmowego odebranego przez operatora; zapewnia aktualizację danych dotyczących zgłoszenia alarmowego przekazanego do podmiotu ratowniczego w przypadku uzyskania przez operatora dodatkowych informacji związanych z obsługą zgłoszenia alarmowego; udostępnia Systemom dane niezbędne do zapewnienia jednoczesnego przekazania na to samo stanowisko dyspozytorskie połączenia telefonicznego oraz informacji dotyczących zgłoszenia alarmowego, o których mowa w przepisach wydanych na podstawie art. 9 ustawy."
+    },
+    {
+      "provision_ref": "par3p1",
+      "section": "3",
+      "title": "§ 3 pkt 1",
+      "content": "Interfejs komunikacyjny spełnia następujące wymagania funkcjonalne: zapewnia dwukierunkową wymianę informacji o zgłoszeniach alarmowych, w zakresie określonym w § 4, między systemem teleinformatycznym a Systemami;"
+    },
+    {
+      "provision_ref": "par3p2",
+      "section": "3",
+      "title": "§ 3 pkt 2",
+      "content": "Interfejs komunikacyjny spełnia następujące wymagania funkcjonalne: zapewnia wymianę informacji o aktualnym statusie obsługi zgłoszenia alarmowego;"
+    },
+    {
+      "provision_ref": "par3p3",
+      "section": "3",
+      "title": "§ 3 pkt 3",
+      "content": "Interfejs komunikacyjny spełnia następujące wymagania funkcjonalne: zapewnia przesyłanie informacji o aktualnym stanie połączenia telefonicznego z osobą zgłaszającą oraz o osobie obsługującej zgłoszenie i osobie dysponującej zasobami ratowniczymi podmiotu ratowniczego właściwego miejscowo i rzeczowo do podjęcia działań w związku ze zgłoszeniem alarmowym, zwanej dalej „dyspozytorem”;"
+    },
+    {
+      "provision_ref": "par3p4",
+      "section": "3",
+      "title": "§ 3 pkt 4",
+      "content": "Interfejs komunikacyjny spełnia następujące wymagania funkcjonalne: zapewnia udostępnianie dokumentów elektronicznych zawierających oryginalną treść zgłoszenia alarmowego odebranego przez operatora;"
+    },
+    {
+      "provision_ref": "par3p5",
+      "section": "3",
+      "title": "§ 3 pkt 5",
+      "content": "Interfejs komunikacyjny spełnia następujące wymagania funkcjonalne: zapewnia aktualizację danych dotyczących zgłoszenia alarmowego przekazanego do podmiotu ratowniczego w przypadku uzyskania przez operatora dodatkowych informacji związanych z obsługą zgłoszenia alarmowego;"
+    },
+    {
+      "provision_ref": "par3p6",
+      "section": "3",
+      "title": "§ 3 pkt 6",
+      "content": "Interfejs komunikacyjny spełnia następujące wymagania funkcjonalne: udostępnia Systemom dane niezbędne do zapewnienia jednoczesnego przekazania na to samo stanowisko dyspozytorskie połączenia telefonicznego oraz informacji dotyczących zgłoszenia alarmowego, o których mowa w przepisach wydanych na podstawie art. 9 ustawy."
+    },
+    {
+      "provision_ref": "par4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Interfejs komunikacyjny umożliwia przekazywanie: w zakresie zgłoszenia alarmowego: unikatowego identyfikatora zgłoszenia alarmowego, daty i godziny rejestracji zgłoszenia alarmowego, identyfikatora osoby, która przyjęła zgłoszenie alarmowe, informacji dotyczących lokalizacji zakończenia sieci, z którego zostało wykonane połączenie do numeru alarmowego, informacji o miejscu zdarzenia lub zagrożenia, w tym: - adresu zdarzenia lub zagrożenia, - współrzędnych geograficznych zdarzenia lub zagrożenia, - nazwy obiektu, w którym ma miejsce zdarzenie lub występuje zagrożenie, - informacji o budynku, w którym ma miejsce zdarzenie lub występuje zagrożenie, w tym informacji o kondygnacji, na której ma miejsce zdarzenie lub występuje zagrożenie, informacji o rodzaju zdarzenia lub zagrożenia określonego według szczegółowego katalogu zdarzeń, o którym mowa w przepisach wydanych na podstawie art. 9 ustawy, informacji o podmiocie ratowniczym lub podmiotach ratowniczych, do których skierowano zgłoszenie alarmowe, opisu zdarzenia lub zagrożenia, w tym: - liczby osób poszkodowanych lub będących w stanie nagłego zagrożenia zdrowotnego, - innych istotnych dla zgłoszenia alarmowego informacji lub danych, danych osoby zgłaszającej, w tym: - jej nazwiska i imienia, - jej numeru telefonu, - informacji o jej lokalizacji, potwierdzenia przyjęcia zgłoszenia alarmowego przez dyspozytora, danych kontaktowych operatora i dyspozytora, informacji o statusie obsługi zgłoszenia alarmowego, informacji o stanie połączenia telefonicznego z osobą dokonującą zgłoszenia alarmowego; w zakresie treści zgłoszenia alarmowego: identyfikatora nagrania treści zgłoszenia alarmowego oraz identyfikatora zgłoszenia, które zostało przekazane za pośrednictwem SMS lub systemu e-Call, treści oryginalnego zgłoszenia alarmowego."
+    },
+    {
+      "provision_ref": "par4p1la",
+      "section": "4",
+      "title": "§ 4 pkt 1 lit. a",
+      "content": "Interfejs komunikacyjny umożliwia przekazywanie: w zakresie zgłoszenia alarmowego: unikatowego identyfikatora zgłoszenia alarmowego,"
+    },
+    {
+      "provision_ref": "par4p1lb",
+      "section": "4",
+      "title": "§ 4 pkt 1 lit. b",
+      "content": "Interfejs komunikacyjny umożliwia przekazywanie: w zakresie zgłoszenia alarmowego: daty i godziny rejestracji zgłoszenia alarmowego,"
+    },
+    {
+      "provision_ref": "par4p1lc",
+      "section": "4",
+      "title": "§ 4 pkt 1 lit. c",
+      "content": "Interfejs komunikacyjny umożliwia przekazywanie: w zakresie zgłoszenia alarmowego: identyfikatora osoby, która przyjęła zgłoszenie alarmowe,"
+    },
+    {
+      "provision_ref": "par4p1ld",
+      "section": "4",
+      "title": "§ 4 pkt 1 lit. d",
+      "content": "Interfejs komunikacyjny umożliwia przekazywanie: w zakresie zgłoszenia alarmowego: informacji dotyczących lokalizacji zakończenia sieci, z którego zostało wykonane połączenie do numeru alarmowego,"
+    },
+    {
+      "provision_ref": "par4p1le",
+      "section": "4",
+      "title": "§ 4 pkt 1 lit. e",
+      "content": "Interfejs komunikacyjny umożliwia przekazywanie: w zakresie zgłoszenia alarmowego: informacji o miejscu zdarzenia lub zagrożenia, w tym: - adresu zdarzenia lub zagrożenia, - współrzędnych geograficznych zdarzenia lub zagrożenia, - nazwy obiektu, w którym ma miejsce zdarzenie lub występuje zagrożenie, - informacji o budynku, w którym ma miejsce zdarzenie lub występuje zagrożenie, w tym informacji o kondygnacji, na której ma miejsce zdarzenie lub występuje zagrożenie,"
+    },
+    {
+      "provision_ref": "par4p1lf",
+      "section": "4",
+      "title": "§ 4 pkt 1 lit. f",
+      "content": "Interfejs komunikacyjny umożliwia przekazywanie: w zakresie zgłoszenia alarmowego: informacji o rodzaju zdarzenia lub zagrożenia określonego według szczegółowego katalogu zdarzeń, o którym mowa w przepisach wydanych na podstawie art. 9 ustawy,"
+    },
+    {
+      "provision_ref": "par4p1lg",
+      "section": "4",
+      "title": "§ 4 pkt 1 lit. g",
+      "content": "Interfejs komunikacyjny umożliwia przekazywanie: w zakresie zgłoszenia alarmowego: informacji o podmiocie ratowniczym lub podmiotach ratowniczych, do których skierowano zgłoszenie alarmowe,"
+    },
+    {
+      "provision_ref": "par4p1lh",
+      "section": "4",
+      "title": "§ 4 pkt 1 lit. h",
+      "content": "Interfejs komunikacyjny umożliwia przekazywanie: w zakresie zgłoszenia alarmowego: opisu zdarzenia lub zagrożenia, w tym: - liczby osób poszkodowanych lub będących w stanie nagłego zagrożenia zdrowotnego, - innych istotnych dla zgłoszenia alarmowego informacji lub danych,"
+    },
+    {
+      "provision_ref": "par4p1li",
+      "section": "4",
+      "title": "§ 4 pkt 1 lit. i",
+      "content": "Interfejs komunikacyjny umożliwia przekazywanie: w zakresie zgłoszenia alarmowego: danych osoby zgłaszającej, w tym: - jej nazwiska i imienia, - jej numeru telefonu, - informacji o jej lokalizacji,"
+    },
+    {
+      "provision_ref": "par4p1lj",
+      "section": "4",
+      "title": "§ 4 pkt 1 lit. j",
+      "content": "Interfejs komunikacyjny umożliwia przekazywanie: w zakresie zgłoszenia alarmowego: potwierdzenia przyjęcia zgłoszenia alarmowego przez dyspozytora,"
+    },
+    {
+      "provision_ref": "par4p1lk",
+      "section": "4",
+      "title": "§ 4 pkt 1 lit. k",
+      "content": "Interfejs komunikacyjny umożliwia przekazywanie: w zakresie zgłoszenia alarmowego: danych kontaktowych operatora i dyspozytora,"
+    },
+    {
+      "provision_ref": "par4p1ll",
+      "section": "4",
+      "title": "§ 4 pkt 1 lit. l",
+      "content": "Interfejs komunikacyjny umożliwia przekazywanie: w zakresie zgłoszenia alarmowego: informacji o statusie obsługi zgłoszenia alarmowego,"
+    },
+    {
+      "provision_ref": "par4p1lm",
+      "section": "4",
+      "title": "§ 4 pkt 1 lit. m",
+      "content": "Interfejs komunikacyjny umożliwia przekazywanie: w zakresie zgłoszenia alarmowego: informacji o stanie połączenia telefonicznego z osobą dokonującą zgłoszenia alarmowego;"
+    },
+    {
+      "provision_ref": "par4p2la",
+      "section": "4",
+      "title": "§ 4 pkt 2 lit. a",
+      "content": "Interfejs komunikacyjny umożliwia przekazywanie: w zakresie treści zgłoszenia alarmowego: identyfikatora nagrania treści zgłoszenia alarmowego oraz identyfikatora zgłoszenia, które zostało przekazane za pośrednictwem SMS lub systemu e-Call,"
+    },
+    {
+      "provision_ref": "par4p2lb",
+      "section": "4",
+      "title": "§ 4 pkt 2 lit. b",
+      "content": "Interfejs komunikacyjny umożliwia przekazywanie: w zakresie treści zgłoszenia alarmowego: treści oryginalnego zgłoszenia alarmowego."
+    },
+    {
+      "provision_ref": "par5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Rozporządzenie wchodzi w życie z dniem 13 listopada 2021 r. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Administracji i Cyfryzacji z dnia 21 sierpnia 2014 r. w sprawie wymagań funkcjonalnych dla systemu teleinformatycznego i interfejsu komunikacyjnego oraz warunków współpracy systemu powiadamiania ratunkowego z Policją, Państwową Strażą Pożarną oraz dysponentami zespołów ratownictwa medycznego (Dz. U. poz. 1159), które zgodnie z art. 8 pkt 2 ustawy z dnia 17 września 2020 r. o zmianie ustawy o systemie powiadamiania ratunkowego (Dz. U. poz. 1899) traci moc z dniem wejścia w życie niniejszego rozporządzenia."
+    }
+  ],
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2021-268",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1990",
+      "ref_type": "references"
+    }
+  ]
+}

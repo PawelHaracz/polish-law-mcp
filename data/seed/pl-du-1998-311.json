@@ -13,14 +13,20 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 8 marca 1990 r. - Ordynacja wyborcza do rad gmin ( Dz. U. z 1996 r. Nr 84, poz. 387 ) dodaje się art. 121a w brzmieniu: „ Art. 121a. Termin wyborów do rad gmin w 1998 r. wyznacza się w trybie i na zasadach określonych w niniejszej ustawie, na dzień ustawowo wolny od pracy, przypadający w okresie stu dwudziestu dni po upływie kadencji. ”"
+      "content": "W ustawie z dnia 8 marca 1990 r. - Ordynacja wyborcza do rad gmin dodaje się art. 121a w brzmieniu: „ Termin wyborów do rad gmin w 1998 r. wyznacza się w trybie i na zasadach określonych w niniejszej ustawie, na dzień ustawowo wolny od pracy, przypadający w okresie stu dwudziestu dni po upływie kadencji. ”"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-1996-387",
+      "ref_type": "amended_by"
+    }
+  ]
 }

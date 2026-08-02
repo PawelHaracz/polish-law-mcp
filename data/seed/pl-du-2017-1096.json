@@ -1,0 +1,262 @@
+{
+  "id": "pl-du-2017-1096",
+  "type": "statute",
+  "title": "Rozporządzenie Ministra Rozwoju i Finansów z dnia 1 czerwca 2017 r. w sprawie systemu teleinformatycznego rejestrującego i archiwizującego dane dotyczące przebiegu gier na automatach do gier w salonach gier na automatach",
+  "title_en": "",
+  "short_name": "pl-du-2017-1096",
+  "status": "in_force",
+  "issued_date": "2017-06-01",
+  "in_force_date": "2017-06-07",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2017/1096",
+  "provisions": [
+    {
+      "provision_ref": "par1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Rozporządzenie określa szczegółowe warunki prowadzenia i działania systemu teleinformatycznego rejestrującego i archiwizującego, o którym mowa w art. 15ba ust. 1 ustawy z dnia 19 listopada 2009 r. o grach hazardowych , zwanego dalej „systemem”."
+    },
+    {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "System jest prowadzony w warunkach zapewniających bezpieczeństwo, integralność, kompletność, poufność i rozliczalność rejestrowanych danych podczas wszystkich procesów dotyczących tych danych, w tym ich przesyłania, archiwizacji i udostępnienia. Dane należy archiwizować z zapewnieniem warunków umożliwiających określenie jednoznacznej informacji o czasie zdarzenia oraz czasie jego zapisania, z podaniem daty i czasu z dokładnością pozwalającą na określenie kolejności zdarzeń i ich archiwizacji. Zapisu danych dokonuje się w sposób uniemożliwiający ich zmianę bez wykrycia tego zdarzenia przez oprogramowanie urządzenia archiwizującego. System zapewnia możliwość odtworzenia zarchiwizowanych danych w razie ich całkowitej lub częściowej utraty, w szczególności przez kopiowanie danych na zewnętrzne nośniki. System uniemożliwia dokonywanie ingerencji oraz zmian w sposobie jego działania bez zapisania w nim informacji o tym."
+    },
+    {
+      "provision_ref": "par2u1",
+      "section": "2",
+      "title": "§ 2 ust. 1",
+      "content": "System jest prowadzony w warunkach zapewniających bezpieczeństwo, integralność, kompletność, poufność i rozliczalność rejestrowanych danych podczas wszystkich procesów dotyczących tych danych, w tym ich przesyłania, archiwizacji i udostępnienia. Dane należy archiwizować z zapewnieniem warunków umożliwiających określenie jednoznacznej informacji o czasie zdarzenia oraz czasie jego zapisania, z podaniem daty i czasu z dokładnością pozwalającą na określenie kolejności zdarzeń i ich archiwizacji."
+    },
+    {
+      "provision_ref": "par2u2",
+      "section": "2",
+      "title": "§ 2 ust. 2",
+      "content": "Zapisu danych dokonuje się w sposób uniemożliwiający ich zmianę bez wykrycia tego zdarzenia przez oprogramowanie urządzenia archiwizującego."
+    },
+    {
+      "provision_ref": "par2u3",
+      "section": "2",
+      "title": "§ 2 ust. 3",
+      "content": "System zapewnia możliwość odtworzenia zarchiwizowanych danych w razie ich całkowitej lub częściowej utraty, w szczególności przez kopiowanie danych na zewnętrzne nośniki."
+    },
+    {
+      "provision_ref": "par2u4",
+      "section": "2",
+      "title": "§ 2 ust. 4",
+      "content": "System uniemożliwia dokonywanie ingerencji oraz zmian w sposobie jego działania bez zapisania w nim informacji o tym."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "System prowadzony jest w sposób umożliwiający: wyszukiwanie, sortowanie, filtrowanie, przeglądanie i wydruk danych wymienionych w § 5, w szczególności wyszukiwanie i filtrowanie danych w podziale na automaty do gier znajdujące się w poszczególnych województwach, powiatach, gminach, salonach gier na automatach oraz na pojedyncze automaty do gier; kopiowanie danych z systemu na informatyczne nośniki danych; zdalny dostęp organów, o których mowa w art. 15ba ust. 5 ustawy z dnia 19 listopada 2009 r. o grach hazardowych , do danych z systemu wymienionych w § 5, i pobieranie tych danych z systemu uporządkowanych z zastosowaniem kryteriów, o których mowa w pkt 1, w sposób pozwalający na ich późniejszą analizę. W celu realizacji wymogów, o których mowa w § 2 ust. 1, oprogramowanie zapewnia w szczególności: dla każdego typu rejestrowanych zdarzeń ciągłą, niemodyfikowalną i jednoznacznie identyfikującą każde zdarzenie niepowtarzalną numerację; obliczanie dla każdego rejestrowanego zdarzenia skrótu kryptograficznego; skrót ten jest obliczany przy wykorzystaniu niesymetrycznego algorytmu SHA2, zgodnego z normą ISO/IEC 10118-3:2004, zwanego dalej „skrótem SHA2”; systematyczną weryfikację ciągłości numeracji rejestrowanych zdarzeń oraz ich zgodności z odpowiadającymi im skrótami SHA2 obliczonymi zgodnie z ust. 3. Skrót SHA2 jest obliczany od zawartości cyfrowej reprezentacji tego zdarzenia oraz skrótu SHA2 zdarzenia bezpośrednio poprzedzającego w numeracji, przy czym dla pierwszego zdarzenia w numeracji pomija się skrót SHA2 zdarzenia bezpośrednio poprzedzającego."
+    },
+    {
+      "provision_ref": "par3u1p1",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 1",
+      "content": "System prowadzony jest w sposób umożliwiający: wyszukiwanie, sortowanie, filtrowanie, przeglądanie i wydruk danych wymienionych w § 5, w szczególności wyszukiwanie i filtrowanie danych w podziale na automaty do gier znajdujące się w poszczególnych województwach, powiatach, gminach, salonach gier na automatach oraz na pojedyncze automaty do gier;"
+    },
+    {
+      "provision_ref": "par3u1p2",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 2",
+      "content": "System prowadzony jest w sposób umożliwiający: kopiowanie danych z systemu na informatyczne nośniki danych;"
+    },
+    {
+      "provision_ref": "par3u1p3",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 3",
+      "content": "System prowadzony jest w sposób umożliwiający: zdalny dostęp organów, o których mowa w art. 15ba ust. 5 ustawy z dnia 19 listopada 2009 r. o grach hazardowych , do danych z systemu wymienionych w § 5, i pobieranie tych danych z systemu uporządkowanych z zastosowaniem kryteriów, o których mowa w pkt 1, w sposób pozwalający na ich późniejszą analizę."
+    },
+    {
+      "provision_ref": "par3u2p1",
+      "section": "3",
+      "title": "§ 3 ust. 2 pkt 1",
+      "content": "W celu realizacji wymogów, o których mowa w § 2 ust. 1, oprogramowanie zapewnia w szczególności: dla każdego typu rejestrowanych zdarzeń ciągłą, niemodyfikowalną i jednoznacznie identyfikującą każde zdarzenie niepowtarzalną numerację;"
+    },
+    {
+      "provision_ref": "par3u2p2",
+      "section": "3",
+      "title": "§ 3 ust. 2 pkt 2",
+      "content": "W celu realizacji wymogów, o których mowa w § 2 ust. 1, oprogramowanie zapewnia w szczególności: obliczanie dla każdego rejestrowanego zdarzenia skrótu kryptograficznego; skrót ten jest obliczany przy wykorzystaniu niesymetrycznego algorytmu SHA2, zgodnego z normą ISO/IEC 10118-3:2004, zwanego dalej „skrótem SHA2”;"
+    },
+    {
+      "provision_ref": "par3u2p3",
+      "section": "3",
+      "title": "§ 3 ust. 2 pkt 3",
+      "content": "W celu realizacji wymogów, o których mowa w § 2 ust. 1, oprogramowanie zapewnia w szczególności: systematyczną weryfikację ciągłości numeracji rejestrowanych zdarzeń oraz ich zgodności z odpowiadającymi im skrótami SHA2 obliczonymi zgodnie z ust. 3."
+    },
+    {
+      "provision_ref": "par3u3",
+      "section": "3",
+      "title": "§ 3 ust. 3",
+      "content": "Skrót SHA2 jest obliczany od zawartości cyfrowej reprezentacji tego zdarzenia oraz skrótu SHA2 zdarzenia bezpośrednio poprzedzającego w numeracji, przy czym dla pierwszego zdarzenia w numeracji pomija się skrót SHA2 zdarzenia bezpośrednio poprzedzającego."
+    },
+    {
+      "provision_ref": "par4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "System: jest zabezpieczony przed nieuprawnionym dostępem, w szczególności przez zastosowanie mechanizmów uwierzytelniania i autoryzacji; zapewnia ciągłość i prawidłowość działania, w tym przez zastosowanie rozwiązań sprzętowych oraz programowych na wypadek zdarzeń, w tym losowych, które mogłyby grozić zmianą lub utratą zarchiwizowanych danych albo brakiem ich archiwizacji."
+    },
+    {
+      "provision_ref": "par4p1",
+      "section": "4",
+      "title": "§ 4 pkt 1",
+      "content": "System: jest zabezpieczony przed nieuprawnionym dostępem, w szczególności przez zastosowanie mechanizmów uwierzytelniania i autoryzacji;"
+    },
+    {
+      "provision_ref": "par4p2",
+      "section": "4",
+      "title": "§ 4 pkt 2",
+      "content": "System: zapewnia ciągłość i prawidłowość działania, w tym przez zastosowanie rozwiązań sprzętowych oraz programowych na wypadek zdarzeń, w tym losowych, które mogłyby grozić zmianą lub utratą zarchiwizowanych danych albo brakiem ich archiwizacji."
+    },
+    {
+      "provision_ref": "par5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Wsystemie rejestrowane są, w sposób umożliwiający realizację wymogów, o których mowa w § 3: dane dotyczące wpłaconych stawek obejmujące: kwotę wpłaconej stawki, dokładny czas wpłaty stawki, formę wpłaty stawki (gotówka, karta lub wpłata zastępcza przez upoważnioną obsługę salonu gier na automatach), dane automatu do gier, na którym dokonano wpłaty stawki; dane dotyczące wypłaconych wygranych: kwotę wypłaconej wygranej, dokładny czas wypłaty wygranej, formę wypłaty wygranej (gotówka, karta lub wypłata zastępcza przez upoważnioną obsługę salonu gier na automatach), dane automatu do gier, z którego dokonano wypłaty stawki; dane dotyczące wygrywalności w przeliczeniu na zaprogramowane cykle gier; dane dotyczące przebiegu poszczególnych gier na automatach obejmujące co najmniej: dokładny czas rozpoczęcia gry, wartość stawki za grę, wartość uzyskanej wygranej; dane zawierające następujące parametry pracy automatu do gier: czas każdorazowego uruchomienia (włączenia) i unieruchomienia (wyłączenia) automatu do gier, czas prowadzonych gier na automacie do gier, w podziale na rodzaje gier; dane dotyczące miejsca lokalizacji automatu do gier oraz zmiany lokalizacji; dane dotyczące awarii automatu do gier oraz występujących błędów w działaniu i wykonywanych czynności serwisowych, w szczególności czas trwania, rodzaj oraz sposób likwidacji awarii lub błędu; dane dotyczące ingerencji i zmian dokonywanych w sposobie działania automatu do gier."
+    },
+    {
+      "provision_ref": "par5p1la",
+      "section": "5",
+      "title": "§ 5 pkt 1 lit. a",
+      "content": "Wsystemie rejestrowane są, w sposób umożliwiający realizację wymogów, o których mowa w § 3: dane dotyczące wpłaconych stawek obejmujące: kwotę wpłaconej stawki,"
+    },
+    {
+      "provision_ref": "par5p1lb",
+      "section": "5",
+      "title": "§ 5 pkt 1 lit. b",
+      "content": "Wsystemie rejestrowane są, w sposób umożliwiający realizację wymogów, o których mowa w § 3: dane dotyczące wpłaconych stawek obejmujące: dokładny czas wpłaty stawki,"
+    },
+    {
+      "provision_ref": "par5p1lc",
+      "section": "5",
+      "title": "§ 5 pkt 1 lit. c",
+      "content": "Wsystemie rejestrowane są, w sposób umożliwiający realizację wymogów, o których mowa w § 3: dane dotyczące wpłaconych stawek obejmujące: formę wpłaty stawki (gotówka, karta lub wpłata zastępcza przez upoważnioną obsługę salonu gier na automatach),"
+    },
+    {
+      "provision_ref": "par5p1ld",
+      "section": "5",
+      "title": "§ 5 pkt 1 lit. d",
+      "content": "Wsystemie rejestrowane są, w sposób umożliwiający realizację wymogów, o których mowa w § 3: dane dotyczące wpłaconych stawek obejmujące: dane automatu do gier, na którym dokonano wpłaty stawki;"
+    },
+    {
+      "provision_ref": "par5p2la",
+      "section": "5",
+      "title": "§ 5 pkt 2 lit. a",
+      "content": "Wsystemie rejestrowane są, w sposób umożliwiający realizację wymogów, o których mowa w § 3: dane dotyczące wypłaconych wygranych: kwotę wypłaconej wygranej,"
+    },
+    {
+      "provision_ref": "par5p2lb",
+      "section": "5",
+      "title": "§ 5 pkt 2 lit. b",
+      "content": "Wsystemie rejestrowane są, w sposób umożliwiający realizację wymogów, o których mowa w § 3: dane dotyczące wypłaconych wygranych: dokładny czas wypłaty wygranej,"
+    },
+    {
+      "provision_ref": "par5p2lc",
+      "section": "5",
+      "title": "§ 5 pkt 2 lit. c",
+      "content": "Wsystemie rejestrowane są, w sposób umożliwiający realizację wymogów, o których mowa w § 3: dane dotyczące wypłaconych wygranych: formę wypłaty wygranej (gotówka, karta lub wypłata zastępcza przez upoważnioną obsługę salonu gier na automatach),"
+    },
+    {
+      "provision_ref": "par5p2ld",
+      "section": "5",
+      "title": "§ 5 pkt 2 lit. d",
+      "content": "Wsystemie rejestrowane są, w sposób umożliwiający realizację wymogów, o których mowa w § 3: dane dotyczące wypłaconych wygranych: dane automatu do gier, z którego dokonano wypłaty stawki;"
+    },
+    {
+      "provision_ref": "par5p3",
+      "section": "5",
+      "title": "§ 5 pkt 3",
+      "content": "Wsystemie rejestrowane są, w sposób umożliwiający realizację wymogów, o których mowa w § 3: dane dotyczące wygrywalności w przeliczeniu na zaprogramowane cykle gier;"
+    },
+    {
+      "provision_ref": "par5p4la",
+      "section": "5",
+      "title": "§ 5 pkt 4 lit. a",
+      "content": "Wsystemie rejestrowane są, w sposób umożliwiający realizację wymogów, o których mowa w § 3: dane dotyczące przebiegu poszczególnych gier na automatach obejmujące co najmniej: dokładny czas rozpoczęcia gry,"
+    },
+    {
+      "provision_ref": "par5p4lb",
+      "section": "5",
+      "title": "§ 5 pkt 4 lit. b",
+      "content": "Wsystemie rejestrowane są, w sposób umożliwiający realizację wymogów, o których mowa w § 3: dane dotyczące przebiegu poszczególnych gier na automatach obejmujące co najmniej: wartość stawki za grę,"
+    },
+    {
+      "provision_ref": "par5p4lc",
+      "section": "5",
+      "title": "§ 5 pkt 4 lit. c",
+      "content": "Wsystemie rejestrowane są, w sposób umożliwiający realizację wymogów, o których mowa w § 3: dane dotyczące przebiegu poszczególnych gier na automatach obejmujące co najmniej: wartość uzyskanej wygranej;"
+    },
+    {
+      "provision_ref": "par5p5la",
+      "section": "5",
+      "title": "§ 5 pkt 5 lit. a",
+      "content": "Wsystemie rejestrowane są, w sposób umożliwiający realizację wymogów, o których mowa w § 3: dane zawierające następujące parametry pracy automatu do gier: czas każdorazowego uruchomienia (włączenia) i unieruchomienia (wyłączenia) automatu do gier,"
+    },
+    {
+      "provision_ref": "par5p5lb",
+      "section": "5",
+      "title": "§ 5 pkt 5 lit. b",
+      "content": "Wsystemie rejestrowane są, w sposób umożliwiający realizację wymogów, o których mowa w § 3: dane zawierające następujące parametry pracy automatu do gier: czas prowadzonych gier na automacie do gier, w podziale na rodzaje gier;"
+    },
+    {
+      "provision_ref": "par5p6",
+      "section": "5",
+      "title": "§ 5 pkt 6",
+      "content": "Wsystemie rejestrowane są, w sposób umożliwiający realizację wymogów, o których mowa w § 3: dane dotyczące miejsca lokalizacji automatu do gier oraz zmiany lokalizacji;"
+    },
+    {
+      "provision_ref": "par5p7",
+      "section": "5",
+      "title": "§ 5 pkt 7",
+      "content": "Wsystemie rejestrowane są, w sposób umożliwiający realizację wymogów, o których mowa w § 3: dane dotyczące awarii automatu do gier oraz występujących błędów w działaniu i wykonywanych czynności serwisowych, w szczególności czas trwania, rodzaj oraz sposób likwidacji awarii lub błędu;"
+    },
+    {
+      "provision_ref": "par5p8",
+      "section": "5",
+      "title": "§ 5 pkt 8",
+      "content": "Wsystemie rejestrowane są, w sposób umożliwiający realizację wymogów, o których mowa w § 3: dane dotyczące ingerencji i zmian dokonywanych w sposobie działania automatu do gier."
+    },
+    {
+      "provision_ref": "par6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "System umożliwia odbieranie danych, o których mowa w § 5, w postaci dokumentów elektronicznych, za pośrednictwem sieci Internet."
+    },
+    {
+      "provision_ref": "par7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+    }
+  ],
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2016-471",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2016-1948",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2016-2260",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2017-88",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2017-379",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2017-1089",
+      "ref_type": "references"
+    }
+  ]
+}

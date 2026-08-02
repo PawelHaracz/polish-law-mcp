@@ -13,14 +13,44 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 20 stycznia 1990 r. o zmianach w organizacji i działalności spółdzielczości ( Dz. U. Nr 6, poz. 36 , Nr 11, poz. 74 , Nr 29, poz. 175 i Nr 34, poz. 198 , z 1991 r. Nr 83, poz. 373 oraz z 1992 r. Nr 18, poz. 74 i Nr 80, poz. 406 ) w art. 19a wyraz „sprzedana” zastępuje się wyrazami „zbyta bądź obciążona” ."
+      "content": "W ustawie z dnia 20 stycznia 1990 r. o zmianach w organizacji i działalności spółdzielczości w art. 19a wyraz „sprzedana” zastępuje się wyrazami „zbyta bądź obciążona” ."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-1990-36",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1990-74",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1990-175",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1990-198",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1991-373",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1992-74",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1992-406",
+      "ref_type": "amended_by"
+    }
+  ]
 }

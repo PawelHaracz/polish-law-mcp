@@ -19,7 +19,31 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Na utworzenie i zasilenie Skarbu Narodowego przeznacza się: a) całkowity majątek, zebrany na mocy dekretu z dnia 29 stycznia 1919 r. o Skarbie Narodowym, powstałym z ofiar prywatnych (Dz. Pr. № 11, poz. 129), b) składane na Skarb Narodowy ofiary osób prywatnych, c) całkowity zapas złota i srebra oraz przedmiotów, z tych kruszców wyrobionych, pozostających jako własność państwowa w posiadaniu poszczególnych władz, urzędów i instytucji państwowych, cywilnych i wojskowych, d) złoto i srebro, gromadzone dla Skarbu Narodowego przez instytucje państwowe w drodze skupu."
+      "content": "Na utworzenie i zasilenie Skarbu Narodowego przeznacza się: całkowity majątek, zebrany na mocy dekretu z dnia 29 stycznia 1919 r. o Skarbie Narodowym, powstałym z ofiar prywatnych (Dz. Pr. № 11, poz. 129), składane na Skarb Narodowy ofiary osób prywatnych, całkowity zapas złota i srebra oraz przedmiotów, z tych kruszców wyrobionych, pozostających jako własność państwowa w posiadaniu poszczególnych władz, urzędów i instytucji państwowych, cywilnych i wojskowych, złoto i srebro, gromadzone dla Skarbu Narodowego przez instytucje państwowe w drodze skupu."
+    },
+    {
+      "provision_ref": "art2la",
+      "section": "2",
+      "title": "Art. 2 lit. a",
+      "content": "Na utworzenie i zasilenie Skarbu Narodowego przeznacza się: całkowity majątek, zebrany na mocy dekretu z dnia 29 stycznia 1919 r. o Skarbie Narodowym, powstałym z ofiar prywatnych (Dz. Pr. № 11, poz. 129),"
+    },
+    {
+      "provision_ref": "art2lb",
+      "section": "2",
+      "title": "Art. 2 lit. b",
+      "content": "Na utworzenie i zasilenie Skarbu Narodowego przeznacza się: składane na Skarb Narodowy ofiary osób prywatnych,"
+    },
+    {
+      "provision_ref": "art2lc",
+      "section": "2",
+      "title": "Art. 2 lit. c",
+      "content": "Na utworzenie i zasilenie Skarbu Narodowego przeznacza się: całkowity zapas złota i srebra oraz przedmiotów, z tych kruszców wyrobionych, pozostających jako własność państwowa w posiadaniu poszczególnych władz, urzędów i instytucji państwowych, cywilnych i wojskowych,"
+    },
+    {
+      "provision_ref": "art2ld",
+      "section": "2",
+      "title": "Art. 2 lit. d",
+      "content": "Na utworzenie i zasilenie Skarbu Narodowego przeznacza się: złoto i srebro, gromadzone dla Skarbu Narodowego przez instytucje państwowe w drodze skupu."
     },
     {
       "provision_ref": "art3",
@@ -103,8 +127,9 @@
       "provision_ref": "art16",
       "section": "16",
       "title": "Art. 16",
-      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Skarbu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_2-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_2-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"},{\"id\": \"arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"},{\"id\": \"arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\"},{\"id\": \"arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\"} ] } ];"
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Skarbu."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": []
 }

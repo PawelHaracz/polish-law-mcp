@@ -13,14 +13,20 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 24 sierpnia 2001 r. - Przepisy wprowadzające Kodeks postępowania w sprawach o wykroczenia ( Dz. U. Nr 106, poz. 1149 ) w art. 3 w § 2 wyrazy „31 grudnia 2003 r.” zastępuje się wyrazami „30 czerwca 2004 r.” ."
+      "content": "W ustawie z dnia 24 sierpnia 2001 r. - Przepisy wprowadzające Kodeks postępowania w sprawach o wykroczenia w art. 3 w § 2 wyrazy „31 grudnia 2003 r.” zastępuje się wyrazami „30 czerwca 2004 r.” ."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ustawa wchodzi w życie z dniem 30 grudnia 2003 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie z dniem 30 grudnia 2003 r."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2001-1149",
+      "ref_type": "amended_by"
+    }
+  ]
 }

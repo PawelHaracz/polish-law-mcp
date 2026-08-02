@@ -13,7 +13,13 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 2 grudnia 1960 r. o ławnikach ludowych w sądach powszechnych ( Dz. U. Nr 54, poz. 309 ) w art. 18 ust. 1 otrzymuje brzmienie: „ 1. Kadencja ławników sądów wojewódzkich i powiatowych trwa cztery lata kalendarzowe następujące po roku. w którym dokonano wyborów, jednak mandat ławnika wybranego dodatkowo wygasa z upływem kadencji ogółu ławników. ” ."
+      "content": "W ustawie z dnia 2 grudnia 1960 r. o ławnikach ludowych w sądach powszechnych w art. 18 ust. 1 otrzymuje brzmienie: „ Kadencja ławników sądów wojewódzkich i powiatowych trwa cztery lata kalendarzowe następujące po roku. w którym dokonano wyborów, jednak mandat ławnika wybranego dodatkowo wygasa z upływem kadencji ogółu ławników. ” ."
+    },
+    {
+      "provision_ref": "art1u1",
+      "section": "1",
+      "title": "Art. 1 ust. 1",
+      "content": "W ustawie z dnia 2 grudnia 1960 r. o ławnikach ludowych w sądach powszechnych w art. 18 ust. 1 otrzymuje brzmienie: „ Kadencja ławników sądów wojewódzkich i powiatowych trwa cztery lata kalendarzowe następujące po roku. w którym dokonano wyborów, jednak mandat ławnika wybranego dodatkowo wygasa z upływem kadencji ogółu ławników."
     },
     {
       "provision_ref": "art2",
@@ -25,8 +31,14 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-1960-309",
+      "ref_type": "amended_by"
+    }
+  ]
 }

@@ -13,14 +13,56 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 29 grudnia 1993 r. o utworzeniu Agencji Restrukturyzacji i Modernizacji Rolnictwa ( Dz. U. z 1994 r. Nr 1, poz. 2 , Nr 80, poz. 369 i Nr 98, poz. 473 , z 1997 r. Nr 41, poz. 255 , Nr 79, poz. 484, i Nr 141, poz. 943 oraz z 1998 r. Nr 106, poz. 668 ) w art. 3 w ust. 1 wprowadza się następujące zmiany: a) pkt 6 otrzymuje brzmienie: „ 6) przedsięwzięć w zakresie podnoszenia lub zmiany kwalifikacji zawodowych mieszkańców wsi w obszarach gmin wiejskich i miejsko-wiejskich, doradztwa rolniczego i informacji rolniczej oraz wdrażania i upowszechniania rachunkowości w gospodarstwach rolnych, realizowanych przez organizacje rządowe, samorządowe i pozarządowe, ” b) dodaje się pkt 11 w brzmieniu: „ 11) kształcenia mieszkańców wsi w szkołach wyższych poprzez udzielanie poręczeń spłaty kredytów studenckich zaciąganych na podstawie odrębnych przepisów. ”"
+      "content": "W ustawie z dnia 29 grudnia 1993 r. o utworzeniu Agencji Restrukturyzacji i Modernizacji Rolnictwa w art. 3 w ust. 1 wprowadza się następujące zmiany: pkt 6 otrzymuje brzmienie: „ przedsięwzięć w zakresie podnoszenia lub zmiany kwalifikacji zawodowych mieszkańców wsi w obszarach gmin wiejskich i miejsko-wiejskich, doradztwa rolniczego i informacji rolniczej oraz wdrażania i upowszechniania rachunkowości w gospodarstwach rolnych, realizowanych przez organizacje rządowe, samorządowe i pozarządowe, ” dodaje się pkt 11 w brzmieniu: „ kształcenia mieszkańców wsi w szkołach wyższych poprzez udzielanie poręczeń spłaty kredytów studenckich zaciąganych na podstawie odrębnych przepisów. ”"
+    },
+    {
+      "provision_ref": "art1lap6",
+      "section": "1",
+      "title": "Art. 1 lit. ap",
+      "content": "W ustawie z dnia 29 grudnia 1993 r. o utworzeniu Agencji Restrukturyzacji i Modernizacji Rolnictwa w art. 3 w ust. 1 wprowadza się następujące zmiany: pkt 6 otrzymuje brzmienie: „ przedsięwzięć w zakresie podnoszenia lub zmiany kwalifikacji zawodowych mieszkańców wsi w obszarach gmin wiejskich i miejsko-wiejskich, doradztwa rolniczego i informacji rolniczej oraz wdrażania i upowszechniania rachunkowości w gospodarstwach rolnych, realizowanych przez organizacje rządowe, samorządowe i pozarządowe,"
+    },
+    {
+      "provision_ref": "art1lbp11",
+      "section": "1",
+      "title": "Art. 1 lit. bp",
+      "content": "W ustawie z dnia 29 grudnia 1993 r. o utworzeniu Agencji Restrukturyzacji i Modernizacji Rolnictwa w art. 3 w ust. 1 wprowadza się następujące zmiany: dodaje się pkt 11 w brzmieniu: „ kształcenia mieszkańców wsi w szkołach wyższych poprzez udzielanie poręczeń spłaty kredytów studenckich zaciąganych na podstawie odrębnych przepisów."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-1994-2",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1994-369",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1994-473",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1997-255",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1997-484",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1997-943",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1998-668",
+      "ref_type": "amended_by"
+    }
+  ]
 }

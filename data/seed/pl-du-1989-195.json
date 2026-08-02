@@ -10,16 +10,40 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/1989/195",
   "provisions": [
     {
+      "provision_ref": "art236",
+      "section": "236",
+      "title": "Art. 236",
+      "content": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem: art. 184, który wchodzi w życie z dniem 1 lipca 2018 r.; art. 185, który wchodzi w życie z dniem 11 lipca 2019 r.; art. 188, który wchodzi w życie z dniem 1 października 2018 r."
+    },
+    {
+      "provision_ref": "art236p1",
+      "section": "236",
+      "title": "Art. 236 pkt 1",
+      "content": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem: art. 184, który wchodzi w życie z dniem 1 lipca 2018 r.;"
+    },
+    {
+      "provision_ref": "art236p2",
+      "section": "236",
+      "title": "Art. 236 pkt 2",
+      "content": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem: art. 185, który wchodzi w życie z dniem 11 lipca 2019 r.;"
+    },
+    {
+      "provision_ref": "art236p3",
+      "section": "236",
+      "title": "Art. 236 pkt 3",
+      "content": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem: art. 188, który wchodzi w życie z dniem 1 października 2018 r."
+    },
+    {
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "Podmioty prowadzące działalność gospodarczą, z wyjątkiem osób fizycznych prowadzących taką działalność jako uboczne zajęcie zarobkowe, mogą zrzeszać się w izby gospodarcze działające na podstawie niniejszej ustawy i statutów."
+      "content": "Przedsiębiorcy mogą zrzeszać się w izby gospodarcze działające na podstawie niniejszej ustawy i statutów."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Izba gospodarcza jest organizacją samorządu gospodarczego, reprezentującą interesy gospodarcze zrzeszonych w niej podmiotów w zakresie ich działalności wytwórczej, handlowej, budowlanej lub usługowej, w szczególności wobec organów państwowych."
+      "content": "Izba gospodarcza jest organizacją samorządu gospodarczego, reprezentującą interesy gospodarcze zrzeszonych w niej przedsiębiorców, w szczególności wobec organów władzy publicznej."
     },
     {
       "provision_ref": "art3",
@@ -31,13 +55,79 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "1. Izba gospodarcza jest uprawniona do wyrażania opinii o projektach rozwiązań odnoszących się do funkcjonowania gospodarki oraz może uczestniczyć, na zasadach określonych w odrębnych przepisach, w przygotowywaniu projektów aktów prawnych w tym zakresie. 2. Izba gospodarcza może dokonywać ocen wdrażania i funkcjonowania przepisów prawnych dotyczących prowadzenia działalności gospodarczej."
+      "content": "Izba gospodarcza jest uprawniona do wyrażania opinii o projektach rozwiązań odnoszących się do funkcjonowania gospodarki oraz może uczestniczyć, na zasadach określonych w odrębnych przepisach, w przygotowywaniu projektów aktów prawnych w tym zakresie. Izba gospodarcza może dokonywać ocen wdrażania i funkcjonowania przepisów prawnych dotyczących prowadzenia działalności gospodarczej."
+    },
+    {
+      "provision_ref": "art4u1",
+      "section": "4",
+      "title": "Art. 4 ust. 1",
+      "content": "Izba gospodarcza jest uprawniona do wyrażania opinii o projektach rozwiązań odnoszących się do funkcjonowania gospodarki oraz może uczestniczyć, na zasadach określonych w odrębnych przepisach, w przygotowywaniu projektów aktów prawnych w tym zakresie."
+    },
+    {
+      "provision_ref": "art4u2",
+      "section": "4",
+      "title": "Art. 4 ust. 2",
+      "content": "Izba gospodarcza może dokonywać ocen wdrażania i funkcjonowania przepisów prawnych dotyczących prowadzenia działalności gospodarczej."
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Art. 5",
-      "content": "1. Izba gospodarcza określa samodzielnie w statucie zadania w granicach właściwości określonej w art. 2-4. 2. Izba gospodarcza w szczególności może: 1) przyczyniać się do tworzenia warunków rozwoju życia gospodarczego oraz wspierać inicjatywy gospodarcze członków, 2) popierać, we współpracy z właściwymi organami oświatowymi, rozwój kształcenia zawodowego, wspierać naukę zawodu w zakładach pracy oraz doskonalenie zawodowe pracowników, 3) delegować swoich przedstawicieli, na zaproszenie organów państwowych, do uczestniczenia w pracach instytucji doradczo-opiniodawczych w sprawach działalności wytwórczej, handlowej, budowlanej i usługowej, 4) organizować i stwarzać warunki do rozstrzygania sporów w drodze postępowania polubownego i pojednawczego oraz uczestniczyć na odrębnie określonych zasadach w postępowaniu sądowym w związku z działalnością gospodarczą jej członków, 5) wydawać opinie o istniejących zwyczajach dotyczących działalności gospodarczej, 6) informować o funkcjonowaniu podmiotów gospodarczych oraz wyrażać opinie o stanie rozwoju gospodarczego na obszarze działania izby. 3. Na wniosek lub za zgodą izby gospodarczej Rada Ministrów może, w drodze rozporządzenia, powierzyć tej izbie wykonywanie niektórych zadań zastrzeżonych w przepisach prawa dla administracji państwowej."
+      "content": "Izba gospodarcza określa samodzielnie w statucie zadania w granicach właściwości określonej w art. 2-4. Izba gospodarcza w szczególności może: przyczyniać się do tworzenia warunków rozwoju życia gospodarczego oraz wspierać inicjatywy gospodarcze członków; popierać, we współpracy z właściwymi organami oświatowymi, rozwój kształcenia zawodowego, wspierać naukę zawodu w zakładach pracy oraz doskonalenie zawodowe pracowników; delegować swoich przedstawicieli, na zaproszenie organów państwowych, do uczestniczenia w pracach instytucji doradczo-opiniodawczych w sprawach działalności wytwórczej, handlowej, budowlanej i usługowej; organizować i stwarzać warunki do rozstrzygania sporów w drodze postępowania polubownego i pojednawczego oraz uczestniczyć na odrębnie określonych zasadach w postępowaniu sądowym w związku z działalnością gospodarczą jej członków; wydawać opinie o istniejących zwyczajach dotyczących działalności gospodarczej; informować o funkcjonowaniu przedsiębiorców oraz wyrażać opinie o stanie rozwoju gospodarczego na obszarze działania izby. Izba gospodarcza, utworzona przez grupy producentów rolnych i ich związki oraz przedsiębiorców prowadzących działalność przetwórczą lub handlową w zakresie produktów lub grupy produktów w rozumieniu przepisów o grupach producentów rolnych i ich związkach, powinna działać na rzecz dostosowywania produkcji, przetwórstwa i handlu do wymogów rynku, w szczególności w zakresie ilości i jakości produktów. Na wniosek lub za zgodą izby gospodarczej Rada Ministrów może, w drodze rozporządzenia, powierzyć tej izbie wykonywanie niektórych zadań zastrzeżonych w przepisach prawa dla administracji państwowej."
+    },
+    {
+      "provision_ref": "art5u1",
+      "section": "5",
+      "title": "Art. 5 ust. 1",
+      "content": "Izba gospodarcza określa samodzielnie w statucie zadania w granicach właściwości określonej w art. 2-4."
+    },
+    {
+      "provision_ref": "art5u2p1",
+      "section": "5",
+      "title": "Art. 5 ust. 2 pkt 1",
+      "content": "Izba gospodarcza w szczególności może: przyczyniać się do tworzenia warunków rozwoju życia gospodarczego oraz wspierać inicjatywy gospodarcze członków;"
+    },
+    {
+      "provision_ref": "art5u2p2",
+      "section": "5",
+      "title": "Art. 5 ust. 2 pkt 2",
+      "content": "Izba gospodarcza w szczególności może: popierać, we współpracy z właściwymi organami oświatowymi, rozwój kształcenia zawodowego, wspierać naukę zawodu w zakładach pracy oraz doskonalenie zawodowe pracowników;"
+    },
+    {
+      "provision_ref": "art5u2p3",
+      "section": "5",
+      "title": "Art. 5 ust. 2 pkt 3",
+      "content": "Izba gospodarcza w szczególności może: delegować swoich przedstawicieli, na zaproszenie organów państwowych, do uczestniczenia w pracach instytucji doradczo-opiniodawczych w sprawach działalności wytwórczej, handlowej, budowlanej i usługowej;"
+    },
+    {
+      "provision_ref": "art5u2p4",
+      "section": "5",
+      "title": "Art. 5 ust. 2 pkt 4",
+      "content": "Izba gospodarcza w szczególności może: organizować i stwarzać warunki do rozstrzygania sporów w drodze postępowania polubownego i pojednawczego oraz uczestniczyć na odrębnie określonych zasadach w postępowaniu sądowym w związku z działalnością gospodarczą jej członków;"
+    },
+    {
+      "provision_ref": "art5u2p5",
+      "section": "5",
+      "title": "Art. 5 ust. 2 pkt 5",
+      "content": "Izba gospodarcza w szczególności może: wydawać opinie o istniejących zwyczajach dotyczących działalności gospodarczej;"
+    },
+    {
+      "provision_ref": "art5u2p6",
+      "section": "5",
+      "title": "Art. 5 ust. 2 pkt 6",
+      "content": "Izba gospodarcza w szczególności może: informować o funkcjonowaniu przedsiębiorców oraz wyrażać opinie o stanie rozwoju gospodarczego na obszarze działania izby."
+    },
+    {
+      "provision_ref": "art5u2a",
+      "section": "5",
+      "title": "Art. 5 ust. 2a",
+      "content": "Izba gospodarcza, utworzona przez grupy producentów rolnych i ich związki oraz przedsiębiorców prowadzących działalność przetwórczą lub handlową w zakresie produktów lub grupy produktów w rozumieniu przepisów o grupach producentów rolnych i ich związkach, powinna działać na rzecz dostosowywania produkcji, przetwórstwa i handlu do wymogów rynku, w szczególności w zakresie ilości i jakości produktów."
+    },
+    {
+      "provision_ref": "art5u3",
+      "section": "5",
+      "title": "Art. 5 ust. 3",
+      "content": "Na wniosek lub za zgodą izby gospodarczej Rada Ministrów może, w drodze rozporządzenia, powierzyć tej izbie wykonywanie niektórych zadań zastrzeżonych w przepisach prawa dla administracji państwowej."
     },
     {
       "provision_ref": "art6",
@@ -49,62 +139,456 @@
       "provision_ref": "art7",
       "section": "7",
       "title": "Art. 7",
-      "content": "1. Izba gospodarcza może być utworzona, jeżeli taką inicjatywę podejmie co najmniej 50 podmiotów prowadzących działalność gospodarczą, zwanych dalej „założycielami”, na obszarze działania tworzonej izby obejmującym obszar województwa. W wypadku gdy terytorialny zakres działania izby będzie przekraczać obszar województwa, liczba założycieli powinna wynosić co najmniej 100. 2. W celu utworzenia izby gospodarczej założyciele uchwalają statut izby, potwierdzając jego przyjęcie przez złożenie na nim swoich podpisów. 3. Statut izby powinien określać w szczególności: 1) nazwę izby, siedzibę oraz zakres terytorialny działania izby, 2) podstawowe zadania izby oraz sposób i formy ich realizacji, 3) prawa i obowiązki członka izby, 4) sposób nabywania i utraty członkostwa izby, 5) organy izby i, z zastrzeżeniem ust. 5, zakres ich uprawnień, tryb ich wyboru i okres kadencji, 6) sposób ustalania wysokości składek i ich wpłaty oraz uzyskiwania innych środków finansowych na koszty utrzymania i działalności izby, 7) zasady dokonywania zmian statutu, rozwiązania izby i przeznaczenia jej majątku w razie likwidacji izby, 8) inne sprawy stosownie do potrzeb praktycznej działalności oraz wymagające określenia w statucie na podstawie niniejszej ustawy i innych przepisów prawa. 4. Statut izby nie może ograniczać uprawnień podmiotów prowadzących działalność gospodarczą do zrzeszania się w izbie gospodarczej. 5. Najwyższą władzą izby gospodarczej jest walne zgromadzenie członków izby; członkowie izby nie będący osobami fizycznymi są reprezentowani w walnym zgromadzeniu izby przez swoich przedstawicieli."
+      "content": "Izba gospodarcza może być utworzona, jeżeli taką inicjatywę podejmie co najmniej 50 przedsiębiorców, zwanych dalej „założycielami”, na obszarze działania tworzonej izby obejmującym obszar województwa. W wypadku gdy terytorialny zakres działania izby będzie przekraczać obszar województwa, liczba założycieli powinna wynosić co naj - mniej 100. Ograniczeń określonych w ust. 1 nie stosuje się, jeżeli założycielami są wyłącznie towarzystwa emerytalne działające na podstawie przepisów o organizacji i funkcjonowaniu funduszy emerytalnych. W razie utworzenia izby przez podmioty, o których mowa w art. 5 ust. 2a, liczba założycieli powinna wynosić odpowiednio 10 i 20. W celu utworzenia izby gospodarczej założyciele uchwalają statut izby, potwierdzając jego przyjęcie przez złożenie na nim swoich podpisów. Statut izby powinien określać w szczególności: nazwę izby, siedzibę oraz zakres terytorialny działania izby; podstawowe zadania izby oraz sposób i formy ich realizacji; prawa i obowiązki członka izby; sposób nabywania i utraty członkostwa izby; organy izby i, z zastrzeżeniem ust. 5, zakres ich uprawnień, tryb ich wyboru i okres kadencji; sposób ustalania wysokości składek i ich wpłaty oraz uzyskiwania innych środków finansowych na koszty utrzymania i działalności izby; zasady dokonywania zmian statutu, rozwiązania izby i przeznaczenia jej majątku w razie likwidacji izby; inne sprawy stosownie do potrzeb praktycznej działalności oraz wymagające określenia w statucie na podstawie niniejszej ustawy i innych przepisów prawa. Statut izby nie może ograniczać uprawnień przedsiębiorców do zrzeszania się w izbie gospodarczej. Z zastrzeżeniem ust. 6, najwyższą władzą izby gospodarczej jest walne zgromadzenie członków izby; członkowie izby niebędący osobami fizycznymi są reprezentowani w walnym zgromadzeniu izby przez swoich przedstawicieli. Statut izby gospodarczej może przewidywać zamiast walnego zgromadzenia członków izby zgromadzenie delegatów lub zastąpienie walnego zgromadzenia członków izby zgromadzeniem delegatów, jeżeli liczba członków izby przekroczy określoną w statucie liczbę. W takich przypadkach statut powinien określać także tryb wyboru delegatów i czas trwania ich kadencji."
+    },
+    {
+      "provision_ref": "art7u1",
+      "section": "7",
+      "title": "Art. 7 ust. 1",
+      "content": "Izba gospodarcza może być utworzona, jeżeli taką inicjatywę podejmie co najmniej 50 przedsiębiorców, zwanych dalej „założycielami”, na obszarze działania tworzonej izby obejmującym obszar województwa. W wypadku gdy terytorialny zakres działania izby będzie przekraczać obszar województwa, liczba założycieli powinna wynosić co naj - mniej 100."
+    },
+    {
+      "provision_ref": "art7u1a",
+      "section": "7",
+      "title": "Art. 7 ust. 1a",
+      "content": "Ograniczeń określonych w ust. 1 nie stosuje się, jeżeli założycielami są wyłącznie towarzystwa emerytalne działające na podstawie przepisów o organizacji i funkcjonowaniu funduszy emerytalnych."
+    },
+    {
+      "provision_ref": "art7u1b",
+      "section": "7",
+      "title": "Art. 7 ust. 1b",
+      "content": "W razie utworzenia izby przez podmioty, o których mowa w art. 5 ust. 2a, liczba założycieli powinna wynosić odpowiednio 10 i 20."
+    },
+    {
+      "provision_ref": "art7u2",
+      "section": "7",
+      "title": "Art. 7 ust. 2",
+      "content": "W celu utworzenia izby gospodarczej założyciele uchwalają statut izby, potwierdzając jego przyjęcie przez złożenie na nim swoich podpisów."
+    },
+    {
+      "provision_ref": "art7u3p1",
+      "section": "7",
+      "title": "Art. 7 ust. 3 pkt 1",
+      "content": "Statut izby powinien określać w szczególności: nazwę izby, siedzibę oraz zakres terytorialny działania izby;"
+    },
+    {
+      "provision_ref": "art7u3p2",
+      "section": "7",
+      "title": "Art. 7 ust. 3 pkt 2",
+      "content": "Statut izby powinien określać w szczególności: podstawowe zadania izby oraz sposób i formy ich realizacji;"
+    },
+    {
+      "provision_ref": "art7u3p3",
+      "section": "7",
+      "title": "Art. 7 ust. 3 pkt 3",
+      "content": "Statut izby powinien określać w szczególności: prawa i obowiązki członka izby;"
+    },
+    {
+      "provision_ref": "art7u3p4",
+      "section": "7",
+      "title": "Art. 7 ust. 3 pkt 4",
+      "content": "Statut izby powinien określać w szczególności: sposób nabywania i utraty członkostwa izby;"
+    },
+    {
+      "provision_ref": "art7u3p5",
+      "section": "7",
+      "title": "Art. 7 ust. 3 pkt 5",
+      "content": "Statut izby powinien określać w szczególności: organy izby i, z zastrzeżeniem ust. 5, zakres ich uprawnień, tryb ich wyboru i okres kadencji;"
+    },
+    {
+      "provision_ref": "art7u3p6",
+      "section": "7",
+      "title": "Art. 7 ust. 3 pkt 6",
+      "content": "Statut izby powinien określać w szczególności: sposób ustalania wysokości składek i ich wpłaty oraz uzyskiwania innych środków finansowych na koszty utrzymania i działalności izby;"
+    },
+    {
+      "provision_ref": "art7u3p7",
+      "section": "7",
+      "title": "Art. 7 ust. 3 pkt 7",
+      "content": "Statut izby powinien określać w szczególności: zasady dokonywania zmian statutu, rozwiązania izby i przeznaczenia jej majątku w razie likwidacji izby;"
+    },
+    {
+      "provision_ref": "art7u3p8",
+      "section": "7",
+      "title": "Art. 7 ust. 3 pkt 8",
+      "content": "Statut izby powinien określać w szczególności: inne sprawy stosownie do potrzeb praktycznej działalności oraz wymagające określenia w statucie na podstawie niniejszej ustawy i innych przepisów prawa."
+    },
+    {
+      "provision_ref": "art7u4",
+      "section": "7",
+      "title": "Art. 7 ust. 4",
+      "content": "Statut izby nie może ograniczać uprawnień przedsiębiorców do zrzeszania się w izbie gospodarczej."
+    },
+    {
+      "provision_ref": "art7u5",
+      "section": "7",
+      "title": "Art. 7 ust. 5",
+      "content": "Z zastrzeżeniem ust. 6, najwyższą władzą izby gospodarczej jest walne zgromadzenie członków izby; członkowie izby niebędący osobami fizycznymi są reprezentowani w walnym zgromadzeniu izby przez swoich przedstawicieli."
+    },
+    {
+      "provision_ref": "art7u6",
+      "section": "7",
+      "title": "Art. 7 ust. 6",
+      "content": "Statut izby gospodarczej może przewidywać zamiast walnego zgromadzenia członków izby zgromadzenie delegatów lub zastąpienie walnego zgromadzenia członków izby zgromadzeniem delegatów, jeżeli liczba członków izby przekroczy określoną w statucie liczbę. W takich przypadkach statut powinien określać także tryb wyboru delegatów i czas trwania ich kadencji."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Izby gospodarcze mogą tworzyć terenowe jednostki organizacyjne posiadające osobowość prawną, zwane dalej „jednostkami organizacyjnymi”, jeżeli statut izby to przewiduje. W takim przypadku statut izby powinien ponadto określać: strukturę organizacyjną jednostki organizacyjnej; sposób tworzenia i likwidacji jednostki organizacyjnej; wewnętrzne organy jednostki organizacyjnej, w tym organ zarządzający i reprezentujący ją na zewnątrz, oraz tryb ich powoływania i odwoływania; zakres wykonywanej przez jednostkę organizacyjną działalności i obszar jej działania; składniki majątkowe jednostki organizacyjnej odpowiednie do zakresu wykonywanej przez nią działalności. Przez likwidację, o której mowa w ust. 1 pkt 2, rozumie się zakończenie bieżących interesów jednostki organizacyjnej, ściągnięcie wierzytelności i wykonanie zobowiązań. Majątek jednostki organizacyjnej pozostały po likwidacji przejmuje izba gospodarcza."
+    },
+    {
+      "provision_ref": "art7u1p1",
+      "section": "7",
+      "title": "Art. 7 ust. 1 pkt 1",
+      "content": "Izby gospodarcze mogą tworzyć terenowe jednostki organizacyjne posiadające osobowość prawną, zwane dalej „jednostkami organizacyjnymi”, jeżeli statut izby to przewiduje. W takim przypadku statut izby powinien ponadto określać: strukturę organizacyjną jednostki organizacyjnej;"
+    },
+    {
+      "provision_ref": "art7u1p2",
+      "section": "7",
+      "title": "Art. 7 ust. 1 pkt 2",
+      "content": "Izby gospodarcze mogą tworzyć terenowe jednostki organizacyjne posiadające osobowość prawną, zwane dalej „jednostkami organizacyjnymi”, jeżeli statut izby to przewiduje. W takim przypadku statut izby powinien ponadto określać: sposób tworzenia i likwidacji jednostki organizacyjnej;"
+    },
+    {
+      "provision_ref": "art7u1p3",
+      "section": "7",
+      "title": "Art. 7 ust. 1 pkt 3",
+      "content": "Izby gospodarcze mogą tworzyć terenowe jednostki organizacyjne posiadające osobowość prawną, zwane dalej „jednostkami organizacyjnymi”, jeżeli statut izby to przewiduje. W takim przypadku statut izby powinien ponadto określać: wewnętrzne organy jednostki organizacyjnej, w tym organ zarządzający i reprezentujący ją na zewnątrz, oraz tryb ich powoływania i odwoływania;"
+    },
+    {
+      "provision_ref": "art7u1p4",
+      "section": "7",
+      "title": "Art. 7 ust. 1 pkt 4",
+      "content": "Izby gospodarcze mogą tworzyć terenowe jednostki organizacyjne posiadające osobowość prawną, zwane dalej „jednostkami organizacyjnymi”, jeżeli statut izby to przewiduje. W takim przypadku statut izby powinien ponadto określać: zakres wykonywanej przez jednostkę organizacyjną działalności i obszar jej działania;"
+    },
+    {
+      "provision_ref": "art7u1p5",
+      "section": "7",
+      "title": "Art. 7 ust. 1 pkt 5",
+      "content": "Izby gospodarcze mogą tworzyć terenowe jednostki organizacyjne posiadające osobowość prawną, zwane dalej „jednostkami organizacyjnymi”, jeżeli statut izby to przewiduje. W takim przypadku statut izby powinien ponadto określać: składniki majątkowe jednostki organizacyjnej odpowiednie do zakresu wykonywanej przez nią działalności."
+    },
+    {
+      "provision_ref": "art7u2",
+      "section": "7",
+      "title": "Art. 7 ust. 2",
+      "content": "Przez likwidację, o której mowa w ust. 1 pkt 2, rozumie się zakończenie bieżących interesów jednostki organizacyjnej, ściągnięcie wierzytelności i wykonanie zobowiązań. Majątek jednostki organizacyjnej pozostały po likwidacji przejmuje izba gospodarcza."
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Art. 8",
-      "content": "1. Izba gospodarcza rozpoczyna działalność oraz uzyskuje osobowość prawną z chwilą wpisu do rejestru izb gospodarczych, prowadzonego przez sąd rejestrowy. 2. Sądem rejestrowym jest sąd rejonowy (sąd gospodarczy) właściwy według siedziby izby gospodarczej. 3. Do postępowania w sprawach rozpatrywanych przez sąd rejestrowy stosuje się przepisy Kodeksu postępowania cywilnego o postępowaniu nieprocesowym."
+      "content": "Izby gospodarcze oraz ich jednostki organizacyjne podlegają obowiązkowi wpisu do Krajowego Rejestru Sądowego. Izby gospodarcze oraz ich jednostki organizacyjne uzyskują osobowość prawną z chwilą wpisania do Krajowego Rejestru Sądowego. Jednostkę organizacyjną reprezentuje w postępowaniu rejestrowym organ, o którym mowa w art. 7 1 ust. 1 pkt 3."
+    },
+    {
+      "provision_ref": "art8u1",
+      "section": "8",
+      "title": "Art. 8 ust. 1",
+      "content": "Izby gospodarcze oraz ich jednostki organizacyjne podlegają obowiązkowi wpisu do Krajowego Rejestru Sądowego."
+    },
+    {
+      "provision_ref": "art8u2",
+      "section": "8",
+      "title": "Art. 8 ust. 2",
+      "content": "Izby gospodarcze oraz ich jednostki organizacyjne uzyskują osobowość prawną z chwilą wpisania do Krajowego Rejestru Sądowego."
+    },
+    {
+      "provision_ref": "art8u3",
+      "section": "8",
+      "title": "Art. 8 ust. 3",
+      "content": "Jednostkę organizacyjną reprezentuje w postępowaniu rejestrowym organ, o którym mowa w art. 7 1 ust. 1 pkt 3."
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Art. 9",
-      "content": "1. Umocowani przedstawiciele założycieli izby gospodarczej składają do sądu rejestrowego wniosek o rejestrację izby gospodarczej wraz z 3 egzemplarzami statutu i listą założycieli. 2. Sąd rejestrowy wydaje postanowienie o zarejestrowaniu izby po stwierdzeniu, że statut izby jest zgodny z przepisami prawa oraz że założyciele spełniają wymagania określone niniejszą ustawą."
+      "content": "(uchylony)"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Art. 10",
-      "content": "1. Wpis do rejestru izby gospodarczej obejmuje: 1) nazwę i siedzibę izby gospodarczej oraz zakres terytorialny jej działalności, 2) imiona i nazwiska oraz adresy członków organów izby oraz likwidatora w razie likwidacji izby, 3) datę wpisu i wykreślenia z rejestru. 2. Rejestry izb gospodarczych są jawne i dostępne dla zainteresowanych osób. 3. Minister Sprawiedliwości, w drodze rozporządzenia, określi sposób prowadzenia rejestru izb gospodarczych."
+      "content": "(uchylony)"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Art. 11",
-      "content": "1. Izby gospodarcze mogą na zasadzie dobrowolności zrzeszać się w Krajowej Izbie Gospodarczej. W Krajowej Izbie Gospodarczej mogą zrzeszać się również organizacje gospodarcze i społeczne, których przedmiotem działania jest wspieranie rozwoju gospodarczego. 2. Krajowa Izba Gospodarcza reprezentuje wspólne interesy gospodarcze zrzeszonych członków. 3. Siedzibą Krajowej Izby Gospodarczej jest miasto stołeczne Warszawa. 4. Do utworzenia Krajowej Izby Gospodarczej, jej statutu i władz, a także do postępowania rejestrowego przepisy art. 7 ust. 2-5 i art. 8-10 stosuje się odpowiednio."
+      "content": "Izby gospodarcze mogą na zasadzie dobrowolności zrzeszać się w Krajowej Izbie Gospodarczej. W Krajowej Izbie Gospodarczej mogą zrzeszać się również organizacje gospodarcze i społeczne, których przedmiotem działania jest wspieranie rozwoju gospodarczego. Krajowa Izba Gospodarcza reprezentuje wspólne interesy gospodarcze zrzeszonych członków. Siedzibą Krajowej Izby Gospodarczej jest miasto stołeczne Warszawa. Do utworzenia Krajowej Izby Gospodarczej, jej statutu i władz, a także do postępowania rejestrowego przepisy art. 7 ust. 2-5 i art. 8 stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "art11u1",
+      "section": "11",
+      "title": "Art. 11 ust. 1",
+      "content": "Izby gospodarcze mogą na zasadzie dobrowolności zrzeszać się w Krajowej Izbie Gospodarczej. W Krajowej Izbie Gospodarczej mogą zrzeszać się również organizacje gospodarcze i społeczne, których przedmiotem działania jest wspieranie rozwoju gospodarczego."
+    },
+    {
+      "provision_ref": "art11u2",
+      "section": "11",
+      "title": "Art. 11 ust. 2",
+      "content": "Krajowa Izba Gospodarcza reprezentuje wspólne interesy gospodarcze zrzeszonych członków."
+    },
+    {
+      "provision_ref": "art11u3",
+      "section": "11",
+      "title": "Art. 11 ust. 3",
+      "content": "Siedzibą Krajowej Izby Gospodarczej jest miasto stołeczne Warszawa."
+    },
+    {
+      "provision_ref": "art11u4",
+      "section": "11",
+      "title": "Art. 11 ust. 4",
+      "content": "Do utworzenia Krajowej Izby Gospodarczej, jej statutu i władz, a także do postępowania rejestrowego przepisy art. 7 ust. 2-5 i art. 8 stosuje się odpowiednio."
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Art. 12",
-      "content": "1. Krajowa Izba Gospodarcza może podejmować i wykonywać zadania określone w art. 5. 2. Dla wykonywania wspólnych zadań w zakresie promocji handlu zagranicznego Krajowa Izba Gospodarcza tworzy funkcjonalnie i organizacyjnie wyodrębnioną Polską Izbę Handlu Zagranicznego. 3. Statut Krajowej Izby Gospodarczej może przewidywać możliwość oraz określać zasady bezpośredniej współpracy Polskiej Izby Handlu Zagranicznego z podmiotami prowadzącymi działalność gospodarczą w zakresie handlu zagranicznego. 4. W zakresie ustalonym w ust. 2 Krajowa Izba Gospodarcza poprzez Polską Izbę Handlu Zagranicznego w szczególności może: 1) organizować wystawy oraz międzynarodowe targi w kraju i za granicą, 2) współpracować z organizacjami międzynarodowymi i zagranicznymi oraz należeć do nich, jeżeli nie narusza to zobowiązań wynikających z umów międzynarodowych, w których Państwo Polskie jest stroną, a także tworzyć za zgodą Ministra Spraw Zagranicznych i Ministra Współpracy Gospodarczej z Zagranicą swoje przedstawicielstwa zagraniczne, 3) wykonywać czynności izb przemysłowo-handlowych na podstawie umów między Polską lub kontrahentem polskim a obcymi państwami lub kontrahentami albo na podstawie międzynarodowych zwyczajów handlowych, a zwłaszcza legalizować dokumenty oraz wydawać certyfikaty, świadectwa i zaświadczenia, 4) organizować i stwarzać warunki do rozstrzygania sporów w drodze postępowania polubownego i pojednawczego, w tym powołać przy Polskiej Izbie Handlu Zagranicznego Kolegium Arbitrów do rozstrzygania sporów wynikłych w związku ze współpracą gospodarczą z zagranicą, poddanych orzecznictwu Kolegium Arbitrów, jak również opracowywać i doskonalić zasady etyki obowiązującej podmioty prowadzące działalność gospodarczą."
+      "content": "Krajowa Izba Gospodarcza może podejmować i wykonywać zadania określone w art. 5. Dla wykonywania wspólnych zadań w zakresie promocji handlu zagranicznego Krajowa Izba Gospodarcza tworzy funkcjonalnie i organizacyjnie wyodrębnioną Polską Izbę Handlu Zagranicznego. Statut Krajowej Izby Gospodarczej może przewidywać możliwość oraz określać zasady bezpośredniej współpracy Polskiej Izby Handlu Zagranicznego z przedsiębiorcami w zakresie handlu zagranicznego. W zakresie ustalonym w ust. 2 Krajowa Izba Gospodarcza poprzez Polską Izbę Handlu Zagranicznego w szczególności może: organizować wystawy oraz międzynarodowe targi w kraju i za granicą; współpracować z organizacjami międzynarodowymi i zagranicznymi oraz należeć do nich, jeżeli nie narusza to zobowiązań wynikających z umów międzynarodowych, w których Rzeczpospolita Polska jest stroną, a także tworzyć za zgodą ministra właściwego do spraw zagranicznych i ministra właściwego do spraw gospodarki swoje przedstawicielstwa zagraniczne; wykonywać czynności izb przemysłowo-handlowych na podstawie umów między Rzecząpospolitą Polską lub kontrahentem polskim a obcymi państwami lub kontrahentami albo na podstawie międzynarodowych zwyczajów handlowych, a zwłaszcza uwierzytelniać dokumenty oraz wydawać certyfikaty, świadectwa i zaświadczenia; organizować i stwarzać warunki do rozstrzygania sporów w drodze postępowania polubownego i pojednawczego, w tym powołać przy Polskiej Izbie Handlu Zagranicznego Kolegium Arbitrów do rozstrzygania sporów wynikłych w związku ze współpracą gospodarczą z zagranicą, poddanych orzecznictwu Kolegium Arbitrów, jak również opracowywać i doskonalić zasady etyki obowiązującej przedsiębiorców. Krajowa Izba Gospodarcza poprzez Polską Izbę Handlu Zagranicznego może wystawiać świadectwa potwierdzające niepreferencyjne pochodzenie towarów, o których mowa w art. 10 ust. 2 ustawy z dnia 19 marca 2004 r. - Prawo celne ) ."
+    },
+    {
+      "provision_ref": "art12u1",
+      "section": "12",
+      "title": "Art. 12 ust. 1",
+      "content": "Krajowa Izba Gospodarcza może podejmować i wykonywać zadania określone w art. 5."
+    },
+    {
+      "provision_ref": "art12u2",
+      "section": "12",
+      "title": "Art. 12 ust. 2",
+      "content": "Dla wykonywania wspólnych zadań w zakresie promocji handlu zagranicznego Krajowa Izba Gospodarcza tworzy funkcjonalnie i organizacyjnie wyodrębnioną Polską Izbę Handlu Zagranicznego."
+    },
+    {
+      "provision_ref": "art12u3",
+      "section": "12",
+      "title": "Art. 12 ust. 3",
+      "content": "Statut Krajowej Izby Gospodarczej może przewidywać możliwość oraz określać zasady bezpośredniej współpracy Polskiej Izby Handlu Zagranicznego z przedsiębiorcami w zakresie handlu zagranicznego."
+    },
+    {
+      "provision_ref": "art12u4p1",
+      "section": "12",
+      "title": "Art. 12 ust. 4 pkt 1",
+      "content": "W zakresie ustalonym w ust. 2 Krajowa Izba Gospodarcza poprzez Polską Izbę Handlu Zagranicznego w szczególności może: organizować wystawy oraz międzynarodowe targi w kraju i za granicą;"
+    },
+    {
+      "provision_ref": "art12u4p1",
+      "section": "12",
+      "title": "Art. 12 ust. 4 pkt 1",
+      "content": "W zakresie ustalonym w ust. 2 Krajowa Izba Gospodarcza poprzez Polską Izbę Handlu Zagranicznego w szczególności może: współpracować z organizacjami międzynarodowymi i zagranicznymi oraz należeć do nich, jeżeli nie narusza to zobowiązań wynikających z umów międzynarodowych, w których Rzeczpospolita Polska jest stroną, a także tworzyć za zgodą ministra właściwego do spraw zagranicznych i ministra właściwego do spraw gospodarki swoje przedstawicielstwa zagraniczne;"
+    },
+    {
+      "provision_ref": "art12u4p1",
+      "section": "12",
+      "title": "Art. 12 ust. 4 pkt 1",
+      "content": "W zakresie ustalonym w ust. 2 Krajowa Izba Gospodarcza poprzez Polską Izbę Handlu Zagranicznego w szczególności może: wykonywać czynności izb przemysłowo-handlowych na podstawie umów między Rzecząpospolitą Polską lub kontrahentem polskim a obcymi państwami lub kontrahentami albo na podstawie międzynarodowych zwyczajów handlowych, a zwłaszcza uwierzytelniać dokumenty oraz wydawać certyfikaty, świadectwa i zaświadczenia;"
+    },
+    {
+      "provision_ref": "art12u4p4",
+      "section": "12",
+      "title": "Art. 12 ust. 4 pkt 4",
+      "content": "W zakresie ustalonym w ust. 2 Krajowa Izba Gospodarcza poprzez Polską Izbę Handlu Zagranicznego w szczególności może: organizować i stwarzać warunki do rozstrzygania sporów w drodze postępowania polubownego i pojednawczego, w tym powołać przy Polskiej Izbie Handlu Zagranicznego Kolegium Arbitrów do rozstrzygania sporów wynikłych w związku ze współpracą gospodarczą z zagranicą, poddanych orzecznictwu Kolegium Arbitrów, jak również opracowywać i doskonalić zasady etyki obowiązującej przedsiębiorców."
+    },
+    {
+      "provision_ref": "art12u5",
+      "section": "12",
+      "title": "Art. 12 ust. 5",
+      "content": "Krajowa Izba Gospodarcza poprzez Polską Izbę Handlu Zagranicznego może wystawiać świadectwa potwierdzające niepreferencyjne pochodzenie towarów, o których mowa w art. 10 ust. 2 ustawy z dnia 19 marca 2004 r. - Prawo celne ) ."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Krajowa Izba Gospodarcza może inicjować, na wniosek przedsiębiorców, tworzenie na terytorium Rzeczypospolitej Polskiej dwu- lub wielostronnych izb gospodarczych. Krajowa Izba Gospodarcza określa liczbę członków założycieli wymaganą do utworzenia izby. Zadaniem izb, o których mowa w ust. 1, jest działanie na rzecz promocji handlu zagranicznego i wspomagania rozwoju międzynarodowych stosunków gospodarczych, w granicach określonych w art. 3-5. Utworzenie i działalność izb, o których mowa w ust. 1, odbywa się na zasadach określonych w niniejszej ustawie, z zastrzeżeniem ust. 4 i 5. Członkami izb gospodarczych, o których mowa w ust. 1, mogą być przedsiębiorcy w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców oraz przedsiębiorcy zagraniczni w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej . Izby, o których mowa w ust. 1, podlegają na wniosek Krajowej Izby Gospodarczej wpisowi do Krajowego Rejestru Sądowego stosownie do przepisów niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art12u1",
+      "section": "12",
+      "title": "Art. 12 ust. 1",
+      "content": "Krajowa Izba Gospodarcza może inicjować, na wniosek przedsiębiorców, tworzenie na terytorium Rzeczypospolitej Polskiej dwu- lub wielostronnych izb gospodarczych. Krajowa Izba Gospodarcza określa liczbę członków założycieli wymaganą do utworzenia izby."
+    },
+    {
+      "provision_ref": "art12u2",
+      "section": "12",
+      "title": "Art. 12 ust. 2",
+      "content": "Zadaniem izb, o których mowa w ust. 1, jest działanie na rzecz promocji handlu zagranicznego i wspomagania rozwoju międzynarodowych stosunków gospodarczych, w granicach określonych w art. 3-5."
+    },
+    {
+      "provision_ref": "art12u3",
+      "section": "12",
+      "title": "Art. 12 ust. 3",
+      "content": "Utworzenie i działalność izb, o których mowa w ust. 1, odbywa się na zasadach określonych w niniejszej ustawie, z zastrzeżeniem ust. 4 i 5."
+    },
+    {
+      "provision_ref": "art12u4",
+      "section": "12",
+      "title": "Art. 12 ust. 4",
+      "content": "Członkami izb gospodarczych, o których mowa w ust. 1, mogą być przedsiębiorcy w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców oraz przedsiębiorcy zagraniczni w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej ."
+    },
+    {
+      "provision_ref": "art12u5",
+      "section": "12",
+      "title": "Art. 12 ust. 5",
+      "content": "Izby, o których mowa w ust. 1, podlegają na wniosek Krajowej Izby Gospodarczej wpisowi do Krajowego Rejestru Sądowego stosownie do przepisów niniejszej ustawy."
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Art. 13",
-      "content": "1. W razie stwierdzenia, że działalność izby gospodarczej jest niezgodna z prawem lub statutem, minister właściwy ze względu na przedmiot działania izby lub wojewoda właściwy dla siedziby izby może wystąpić do właściwych organów izby o usunięcie tych nieprawidłowości w określonym terminie albo wystąpić do sądu o zastosowanie środków określonych w ust. 2. 2. Sąd na wniosek organu określonego w ust. 1 może: 1) udzielić upomnienia właściwym organom izby, 2) uchylić niezgodną z prawem lub statutem uchwałę organów izby, 3) rozwiązać izbę, jeżeli jej działanie rażąco narusza prawo lub postanowienie statutu. 3. Stosowanie wobec izby gospodarczej środków określonych w ust. 2 należy do właściwego, ze względu na siedzibę izby, sądu rejestrowego. 4. Do postępowania sądowego w sprawach rozpoznawanych przez sąd określony w ust. 3 stosuje się przepisy Kodeksu postępowania cywilnego o postępowaniu nieprocesowym. 5. Przepisy ust. 1-4 stosuje się do Krajowej Izby Gospodarczej."
+      "content": "W razie stwierdzenia, że działalność izby gospodarczej jest niezgodna z prawem lub statutem, minister właściwy ze względu na przedmiot działania izby lub wojewoda właściwy dla siedziby izby może wystąpić do właściwych organów izby o usunięcie tych nieprawidłowości w określonym terminie albo wystąpić do sądu o zastosowanie środków określonych w ust. 2. Sąd na wniosek organu określonego w ust. 1 może: udzielić upomnienia właściwym organom izby; uchylić niezgodną z prawem lub statutem uchwałę organów izby; rozwiązać izbę, jeżeli jej działanie rażąco narusza prawo lub postanowienie statutu. Stosowanie wobec izby gospodarczej środków określonych w ust. 2 należy do właściwego, ze względu na siedzibę izby, sądu rejestrowego. Do postępowania sądowego w sprawach rozpoznawanych przez sąd określony w ust. 3 stosuje się przepisy Kodeksu postępowania cywilnego o postępowaniu nieprocesowym. Przepisy ust. 1-4 stosuje się do jednostek organizacyjnych i Krajowej Izby Gospodarczej."
+    },
+    {
+      "provision_ref": "art13u1",
+      "section": "13",
+      "title": "Art. 13 ust. 1",
+      "content": "W razie stwierdzenia, że działalność izby gospodarczej jest niezgodna z prawem lub statutem, minister właściwy ze względu na przedmiot działania izby lub wojewoda właściwy dla siedziby izby może wystąpić do właściwych organów izby o usunięcie tych nieprawidłowości w określonym terminie albo wystąpić do sądu o zastosowanie środków określonych w ust. 2."
+    },
+    {
+      "provision_ref": "art13u2p1",
+      "section": "13",
+      "title": "Art. 13 ust. 2 pkt 1",
+      "content": "Sąd na wniosek organu określonego w ust. 1 może: udzielić upomnienia właściwym organom izby;"
+    },
+    {
+      "provision_ref": "art13u2p2",
+      "section": "13",
+      "title": "Art. 13 ust. 2 pkt 2",
+      "content": "Sąd na wniosek organu określonego w ust. 1 może: uchylić niezgodną z prawem lub statutem uchwałę organów izby;"
+    },
+    {
+      "provision_ref": "art13u2p3",
+      "section": "13",
+      "title": "Art. 13 ust. 2 pkt 3",
+      "content": "Sąd na wniosek organu określonego w ust. 1 może: rozwiązać izbę, jeżeli jej działanie rażąco narusza prawo lub postanowienie statutu."
+    },
+    {
+      "provision_ref": "art13u3",
+      "section": "13",
+      "title": "Art. 13 ust. 3",
+      "content": "Stosowanie wobec izby gospodarczej środków określonych w ust. 2 należy do właściwego, ze względu na siedzibę izby, sądu rejestrowego."
+    },
+    {
+      "provision_ref": "art13u4",
+      "section": "13",
+      "title": "Art. 13 ust. 4",
+      "content": "Do postępowania sądowego w sprawach rozpoznawanych przez sąd określony w ust. 3 stosuje się przepisy Kodeksu postępowania cywilnego o postępowaniu nieprocesowym."
+    },
+    {
+      "provision_ref": "art13u5",
+      "section": "13",
+      "title": "Art. 13 ust. 5",
+      "content": "Przepisy ust. 1-4 stosuje się do jednostek organizacyjnych i Krajowej Izby Gospodarczej."
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Art. 14",
-      "content": "1. Majątek izby gospodarczej i Krajowej Izby Gospodarczej powstaje ze składek członkowskich, darowizn, spadków, zapisów, z własnej działalności oraz dochodów z majątku izby. 2. Izby, o których mowa w ust. 1, mogą prowadzić działalność gospodarczą na zasadach ogólnych. Dochód z działalności gospodarczej izby służy realizacji celów statutowych i nie może być przeznaczony do podziału między jej członków. 3. W razie rozwiązania izb, o których mowa w ust. 1, likwidator, powołany stosownie do ustaleń statutu, wykonuje postanowienia statutu dotyczące przeznaczenia majątku izb. W razie braku środków izb, koszty likwidacji pokrywa się ze środków ich członków."
+      "content": "Majątek izby gospodarczej, jednostki organizacyjnej i Krajowej Izby Gospodarczej powstaje ze składek członkowskich, darowizn, spadków, zapisów, z własnej działalności oraz z dochodów z majątku tych podmiotów. Izby, o których mowa w ust. 1, mogą prowadzić działalność gospodarczą na zasadach ogólnych. Dochód z działalności gospodarczej izby służy realizacji celów statutowych i nie może być przeznaczony do podziału między jej członków. W razie rozwiązania izb, o których mowa w ust. 1, likwidator, powołany stosownie do ustaleń statutu, wykonuje postanowienia statutu dotyczące przeznaczenia majątku izb. W razie braku środków izb, koszty likwidacji pokrywa się ze środków ich członków."
+    },
+    {
+      "provision_ref": "art14u1",
+      "section": "14",
+      "title": "Art. 14 ust. 1",
+      "content": "Majątek izby gospodarczej, jednostki organizacyjnej i Krajowej Izby Gospodarczej powstaje ze składek członkowskich, darowizn, spadków, zapisów, z własnej działalności oraz z dochodów z majątku tych podmiotów."
+    },
+    {
+      "provision_ref": "art14u2",
+      "section": "14",
+      "title": "Art. 14 ust. 2",
+      "content": "Izby, o których mowa w ust. 1, mogą prowadzić działalność gospodarczą na zasadach ogólnych. Dochód z działalności gospodarczej izby służy realizacji celów statutowych i nie może być przeznaczony do podziału między jej członków."
+    },
+    {
+      "provision_ref": "art14u3",
+      "section": "14",
+      "title": "Art. 14 ust. 3",
+      "content": "W razie rozwiązania izb, o których mowa w ust. 1, likwidator, powołany stosownie do ustaleń statutu, wykonuje postanowienia statutu dotyczące przeznaczenia majątku izb. W razie braku środków izb, koszty likwidacji pokrywa się ze środków ich członków."
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Art. 15",
-      "content": "1. Traci moc dekret z dnia 28 września 1949 r. o utworzeniu Polskiej Izby Handlu Zagranicznego ( Dz. U. Nr 53, poz. 403 i z 1966 r. Nr 14, poz. 86 ) . 2. Do czasu utworzenia Krajowej Izby Gospodarczej oraz, w myśl art. 12, Polskiej Izby Handlu Zagranicznego, Polska Izba Handlu Zagranicznego, działająca na podstawie dekretu z dnia 28 września 1949 r. o utworzeniu Polskiej Izby Handlu Zagranicznego ( Dz. U. Nr 53, poz. 403 i z 1966 r. Nr 14, poz. 86 ) , prowadzi działalność na podstawie tego dekretu. 3. Krajowa Izba Gospodarcza przejmuje wszelkie sprawy, zobowiązania i majątek dotychczasowej Polskiej Izby Handlu Zagranicznego, z wyjątkiem majątku jednostki organizacyjnej Polskiej Izby Handlu Zagranicznego pod nazwą „Międzynarodowe Targi Poznańskie”, której status określi minister Współpracy Gospodarczej z Zagranicą."
+      "content": "Traci moc dekret z dnia 28 września 1949 r. o utworzeniu Polskiej Izby Handlu Zagranicznego . (pominięty) Krajowa Izba Gospodarcza przejmuje wszelkie sprawy, zobowiązania i majątek dotychczasowej Polskiej Izby Handlu Zagranicznego, z wyjątkiem majątku jednostki organizacyjnej Polskiej Izby Handlu Zagranicznego pod nazwą „Międzynarodowe Targi Poznańskie”, której status określi minister Współpracy Gospodarczej z Zagranicą."
+    },
+    {
+      "provision_ref": "art15u1",
+      "section": "15",
+      "title": "Art. 15 ust. 1",
+      "content": "Traci moc dekret z dnia 28 września 1949 r. o utworzeniu Polskiej Izby Handlu Zagranicznego ."
+    },
+    {
+      "provision_ref": "art15u2",
+      "section": "15",
+      "title": "Art. 15 ust. 2",
+      "content": "(pominięty)"
+    },
+    {
+      "provision_ref": "art15u3",
+      "section": "15",
+      "title": "Art. 15 ust. 3",
+      "content": "Krajowa Izba Gospodarcza przejmuje wszelkie sprawy, zobowiązania i majątek dotychczasowej Polskiej Izby Handlu Zagranicznego, z wyjątkiem majątku jednostki organizacyjnej Polskiej Izby Handlu Zagranicznego pod nazwą „Międzynarodowe Targi Poznańskie”, której status określi minister Współpracy Gospodarczej z Zagranicą."
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Art. 16",
-      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"arti_5-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_5-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_5-pass_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_5-pass_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_5-pass_2-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_5-pass_2-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"}]},{\"id\": \"arti_5-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"arti_7-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_7-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_7-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\",\"children\": [{\"id\": \"arti_7-pass_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_7-pass_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_7-pass_3-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_7-pass_3-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_7-pass_3-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_7-pass_3-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_7-pass_3-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"arti_7-pass_3-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"}]},{\"id\": \"arti_7-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"arti_7-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"arti_8-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_8-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_8-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"arti_9-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_9-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\",\"children\": [{\"id\": \"arti_10-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_10-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_10-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_10-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_10-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_10-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\",\"children\": [{\"id\": \"arti_11-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_11-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_11-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_11-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\",\"children\": [{\"id\": \"arti_12-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_12-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_12-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_12-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\",\"children\": [{\"id\": \"arti_12-pass_4-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_12-pass_4-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_12-pass_4-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_12-pass_4-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]}]},{\"id\": \"arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\",\"children\": [{\"id\": \"arti_13-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_13-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"arti_13-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_13-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_13-pass_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_13-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_13-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"arti_13-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\",\"children\": [{\"id\": \"arti_14-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_14-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_14-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\",\"children\": [{\"id\": \"arti_15-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_15-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_15-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia 4) Ustawa została ogłoszona w dniu 8 czerwca 1989 r. ."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2017-1523",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-2243",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2017-1218",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-650",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-167",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-646",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-1479",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-1629",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-1633",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-2212",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-649",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-1293",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1949-403",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1966-86",
+      "ref_type": "references"
+    }
+  ]
 }

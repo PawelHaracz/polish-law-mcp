@@ -13,14 +13,34 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 8 września 2000 r. o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” ( Dz. U. Nr 84, poz. 948 oraz z 2001 r. Nr 100, poz. 1086 i Nr 154, poz. 1802 ) w art. 79 w ust. 1 pkt 3 otrzymuje brzmienie: „ 3) w roku 2003 - w kwocie co najmniej 300 000 000 zł, ” ."
+      "content": "W ustawie z dnia 8 września 2000 r. o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” w art. 79 w ust. 1 pkt 3 otrzymuje brzmienie: „ w roku 2003 - w kwocie co najmniej 300 000 000 zł, ” ."
+    },
+    {
+      "provision_ref": "art1p3",
+      "section": "1",
+      "title": "Art. 1 pkt 3",
+      "content": "W ustawie z dnia 8 września 2000 r. o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” w art. 79 w ust. 1 pkt 3 otrzymuje brzmienie: „ w roku 2003 - w kwocie co najmniej 300 000 000 zł,"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2000-948",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2001-1086",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2001-1802",
+      "ref_type": "amended_by"
+    }
+  ]
 }

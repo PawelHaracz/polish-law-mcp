@@ -13,14 +13,40 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 29 sierpnia 1997 r. - Prawo bankowe ( Dz. U. z 2002 r. Nr 72, poz. 665 , Nr 126, poz. 1070 i Nr 141, poz. 1178 ) w art. 127: 1) w ust. 2 w pkt 2 dodaje się lit. c) w brzmieniu: „ c) w banku państwowym inne pozycje określone przez Komisję Nadzoru Bankowego, ” ; 2) w ust. 5 po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) określi w drodze uchwały inne pozycje, o których mowa w ust. 2 pkt 2 lit. c), ich wysokość i warunki ich zaliczenia do funduszy podstawowych banku państwowego, ” ."
+      "content": "W ustawie z dnia 29 sierpnia 1997 r. - Prawo bankowe w art. 127: w ust. 2 w pkt 2 dodaje się lit. c) w brzmieniu: „ w banku państwowym inne pozycje określone przez Komisję Nadzoru Bankowego, ” ; w ust. 5 po pkt 1 dodaje się pkt 1a w brzmieniu: „ określi w drodze uchwały inne pozycje, o których mowa w ust. 2 pkt 2 lit. c), ich wysokość i warunki ich zaliczenia do funduszy podstawowych banku państwowego, ” ."
+    },
+    {
+      "provision_ref": "art1p1lc",
+      "section": "1",
+      "title": "Art. 1 pkt 1 lit. c",
+      "content": "W ustawie z dnia 29 sierpnia 1997 r. - Prawo bankowe w art. 127: w ust. 2 w pkt 2 dodaje się lit. c) w brzmieniu: „ w banku państwowym inne pozycje określone przez Komisję Nadzoru Bankowego,"
+    },
+    {
+      "provision_ref": "art1p2p1a",
+      "section": "1",
+      "title": "Art. 1 pkt 2 pkt 1a",
+      "content": "W ustawie z dnia 29 sierpnia 1997 r. - Prawo bankowe w art. 127: w ust. 5 po pkt 1 dodaje się pkt 1a w brzmieniu: „ określi w drodze uchwały inne pozycje, o których mowa w ust. 2 pkt 2 lit. c), ich wysokość i warunki ich zaliczenia do funduszy podstawowych banku państwowego,"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2002-665",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2002-1070",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2002-1178",
+      "ref_type": "amended_by"
+    }
+  ]
 }

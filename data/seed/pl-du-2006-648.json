@@ -10,17 +10,57 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2006/648",
   "provisions": [
     {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: art. 1 pkt 1, pkt 9 lit. a, pkt 20, 21, 26, 33, 34, 37, 43, 48, 50, 53, pkt 55 lit. c, pkt 57, 58, 63, 64 i 68 oraz art. 7, art. 11 i art. 12, które wchodzą w życie z dniem następującym po dniu ogłoszenia; art. 1 pkt 49 lit. a, który wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia; art. 1 pkt 23, 24 i 65, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia; art. 1 pkt 7, 14, 15, 28, 31, pkt 45 lit. a i lit. b w zakresie dodawanego ust. 9b, pkt 46, 47, pkt 49 lit. c, pkt 54, pkt 55 lit. b, pkt 56 i 60 oraz art. 10, które wchodzą w życie z dniem 1 października 2023 r."
+    },
+    {
+      "provision_ref": "art13p1",
+      "section": "13",
+      "title": "Art. 13 pkt 1",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: art. 1 pkt 1, pkt 9 lit. a, pkt 20, 21, 26, 33, 34, 37, 43, 48, 50, 53, pkt 55 lit. c, pkt 57, 58, 63, 64 i 68 oraz art. 7, art. 11 i art. 12, które wchodzą w życie z dniem następującym po dniu ogłoszenia;"
+    },
+    {
+      "provision_ref": "art13p2",
+      "section": "13",
+      "title": "Art. 13 pkt 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: art. 1 pkt 49 lit. a, który wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia;"
+    },
+    {
+      "provision_ref": "art13p3",
+      "section": "13",
+      "title": "Art. 13 pkt 3",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: art. 1 pkt 23, 24 i 65, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia;"
+    },
+    {
+      "provision_ref": "art13p4",
+      "section": "13",
+      "title": "Art. 13 pkt 4",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: art. 1 pkt 7, 14, 15, 28, 31, pkt 45 lit. a i lit. b w zakresie dodawanego ust. 9b, pkt 46, 47, pkt 49 lit. c, pkt 54, pkt 55 lit. b, pkt 56 i 60 oraz art. 10, które wchodzą w życie z dniem 1 października 2023 r."
+    },
+    {
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "Papieski Wydział Teologiczny w Warszawie otrzymuje dotacje i inne środki z budżetu państwa na zasadach określonych dla uczelni publicznych, z wyjątkiem finansowania kosztów realizacji inwestycji budowlanych."
+      "content": "Akademia Katolicka w Warszawie otrzymuje dotacje i inne środki z budżetu państwa na zasadach określonych dla uczelni publicznych."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ustawa wchodzi w życie z dniem 1 października 2006 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie z dniem 1 października 2006 r."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2019-1461",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-212",
+      "ref_type": "references"
+    }
+  ]
 }

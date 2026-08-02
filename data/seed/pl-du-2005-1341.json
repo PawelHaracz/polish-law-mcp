@@ -13,14 +13,42 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 23 stycznia 2004 r. o podatku akcyzowym ( Dz. U. Nr 29, poz. 257 i Nr 68, poz. 623 ) w art. 65: a) ust. 1 otrzymuje brzmienie: „ 1. Stawka akcyzy na paliwa silnikowe wynosi 2 000 zł od 1 000 litrów gotowego wyrobu, na oleje opałowe przeznaczone na cele opałowe 233 zł od 1 000 litrów gotowego wyrobu, na ciężkie oleje opałowe przeznaczone na cele opałowe 60 zł od 1 000 kilogramów gotowego wyrobu, a na gaz płynny i metan używany do napędu pojazdów samochodowych 700 zł od 1 000 kilogramów gotowego wyrobu. ” , b) po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. W przypadku użycia olejów opałowych lub olejów napędowych, przeznaczonych na cele opałowe, które nie spełniają warunków określonych w odrębnych przepisach, w szczególności wymogów w zakresie prawidłowego znakowania i barwienia, użycia ich niezgodnie z przeznaczeniem, a także sprzedaży ich za pomocą odmierzaczy paliw ciekłych, stawka akcyzy wynosi: 1) dla olejów opałowych lub olejów napędowych, przeznaczonych na cele opałowe - 2 000 zł od 1 000 litrów gotowego wyrobu; 2) dla ciężkich olejów opałowych przeznaczonych na cele opałowe - 1 800 zł od 1 000 kilogramów gotowego wyrobu. ” ."
+      "content": "W ustawie z dnia 23 stycznia 2004 r. o podatku akcyzowym w art. 65: ust. 1 otrzymuje brzmienie: „ Stawka akcyzy na paliwa silnikowe wynosi 2 000 zł od 1 000 litrów gotowego wyrobu, na oleje opałowe przeznaczone na cele opałowe 233 zł od 1 000 litrów gotowego wyrobu, na ciężkie oleje opałowe przeznaczone na cele opałowe 60 zł od 1 000 kilogramów gotowego wyrobu, a na gaz płynny i metan używany do napędu pojazdów samochodowych 700 zł od 1 000 kilogramów gotowego wyrobu. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „ W przypadku użycia olejów opałowych lub olejów napędowych, przeznaczonych na cele opałowe, które nie spełniają warunków określonych w odrębnych przepisach, w szczególności wymogów w zakresie prawidłowego znakowania i barwienia, użycia ich niezgodnie z przeznaczeniem, a także sprzedaży ich za pomocą odmierzaczy paliw ciekłych, stawka akcyzy wynosi: dla olejów opałowych lub olejów napędowych, przeznaczonych na cele opałowe - 2 000 zł od 1 000 litrów gotowego wyrobu; dla ciężkich olejów opałowych przeznaczonych na cele opałowe - 1 800 zł od 1 000 kilogramów gotowego wyrobu. ” ."
+    },
+    {
+      "provision_ref": "art1lau1",
+      "section": "1",
+      "title": "Art. 1 lit. au",
+      "content": "W ustawie z dnia 23 stycznia 2004 r. o podatku akcyzowym w art. 65: ust. 1 otrzymuje brzmienie: „ Stawka akcyzy na paliwa silnikowe wynosi 2 000 zł od 1 000 litrów gotowego wyrobu, na oleje opałowe przeznaczone na cele opałowe 233 zł od 1 000 litrów gotowego wyrobu, na ciężkie oleje opałowe przeznaczone na cele opałowe 60 zł od 1 000 kilogramów gotowego wyrobu, a na gaz płynny i metan używany do napędu pojazdów samochodowych 700 zł od 1 000 kilogramów gotowego wyrobu."
+    },
+    {
+      "provision_ref": "art1lbu1ap1",
+      "section": "1",
+      "title": "Art. 1 lit. bu",
+      "content": "W ustawie z dnia 23 stycznia 2004 r. o podatku akcyzowym w art. 65: po ust. 1 dodaje się ust. 1a w brzmieniu: „ W przypadku użycia olejów opałowych lub olejów napędowych, przeznaczonych na cele opałowe, które nie spełniają warunków określonych w odrębnych przepisach, w szczególności wymogów w zakresie prawidłowego znakowania i barwienia, użycia ich niezgodnie z przeznaczeniem, a także sprzedaży ich za pomocą odmierzaczy paliw ciekłych, stawka akcyzy wynosi: dla olejów opałowych lub olejów napędowych, przeznaczonych na cele opałowe - 2 000 zł od 1 000 litrów gotowego wyrobu;"
+    },
+    {
+      "provision_ref": "art1lbu1ap2",
+      "section": "1",
+      "title": "Art. 1 lit. bu",
+      "content": "W ustawie z dnia 23 stycznia 2004 r. o podatku akcyzowym w art. 65: po ust. 1 dodaje się ust. 1a w brzmieniu: „ W przypadku użycia olejów opałowych lub olejów napędowych, przeznaczonych na cele opałowe, które nie spełniają warunków określonych w odrębnych przepisach, w szczególności wymogów w zakresie prawidłowego znakowania i barwienia, użycia ich niezgodnie z przeznaczeniem, a także sprzedaży ich za pomocą odmierzaczy paliw ciekłych, stawka akcyzy wynosi: dla ciężkich olejów opałowych przeznaczonych na cele opałowe - 1 800 zł od 1 000 kilogramów gotowego wyrobu."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2004-257",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2004-623",
+      "ref_type": "amended_by"
+    }
+  ]
 }

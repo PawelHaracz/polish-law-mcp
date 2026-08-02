@@ -13,14 +13,96 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 26 czerwca 1974 r. - Kodeks pracy ( Dz. U. Nr 24, poz. 141 , z 1975 r. Nr 16, poz. 91 , z 1981 r. Nr 6, poz. 23 , z 1982 r. Nr 31, poz. 214 , z 1985 r. Nr 20, poz. 85 i Nr 35, poz. 162 , z 1986 r. Nr 42, poz. 201 , z 1987 r. Nr 21, poz. 124 , z 1988 r. Nr 20, poz. 134 , z 1989 r. Nr 20, poz. 107 i Nr 35, poz. 192 oraz z 1990 r. Nr 4, poz. 19 , Nr 43, poz. 251 i Nr 55, poz. 319 ) po art. 207 dodaje się art. 207 1 w brzmieniu: „ Art. 207 1 . § 1. Zakład pracy zatrudniający więcej niż 10 pracowników, z zastrzeżeniem § 2 i 3, tworzy służbę bezpieczeństwa i higieny pracy, zwaną dalej „służbą bhp”, jako organ doradczy, wykonawczy i kontrolny kierownika zakładu w zakresie bezpieczeństwa i higieny pracy. § 2. Zakład pracy zatrudniający nie więcej niż 100 pracowników może powierzyć wykonywanie zadań służby bhp pracownikowi zatrudnionemu przy innej pracy. § 3. Zakład pracy zatrudniający nie więcej niż 50 pracowników może zlecić wykonywanie zadań służby bhp wyspecjalizowanej osobie trzeciej. § 4. Kompetencje i organizację służby bhp, kwalifikacje pracowników służby bhp i pracowników, o których mowa w § 2, a także zasady i tryb zlecania zadań służby bhp określa Rada Ministrów. ”"
+      "content": "W ustawie z dnia 26 czerwca 1974 r. - Kodeks pracy po art. 207 dodaje się art. 207 1 w brzmieniu: „ Zakład pracy zatrudniający więcej niż 10 pracowników, z zastrzeżeniem § 2 i 3, tworzy służbę bezpieczeństwa i higieny pracy, zwaną dalej „służbą bhp”, jako organ doradczy, wykonawczy i kontrolny kierownika zakładu w zakresie bezpieczeństwa i higieny pracy. Zakład pracy zatrudniający nie więcej niż 100 pracowników może powierzyć wykonywanie zadań służby bhp pracownikowi zatrudnionemu przy innej pracy. Zakład pracy zatrudniający nie więcej niż 50 pracowników może zlecić wykonywanie zadań służby bhp wyspecjalizowanej osobie trzeciej. Kompetencje i organizację służby bhp, kwalifikacje pracowników służby bhp i pracowników, o których mowa w § 2, a także zasady i tryb zlecania zadań służby bhp określa Rada Ministrów. ”"
+    },
+    {
+      "provision_ref": "art1par1",
+      "section": "1",
+      "title": "Art. 1 § 1",
+      "content": "W ustawie z dnia 26 czerwca 1974 r. - Kodeks pracy po art. 207 dodaje się art. 207 1 w brzmieniu: „ Zakład pracy zatrudniający więcej niż 10 pracowników, z zastrzeżeniem § 2 i 3, tworzy służbę bezpieczeństwa i higieny pracy, zwaną dalej „służbą bhp”, jako organ doradczy, wykonawczy i kontrolny kierownika zakładu w zakresie bezpieczeństwa i higieny pracy."
+    },
+    {
+      "provision_ref": "art1par2",
+      "section": "1",
+      "title": "Art. 1 § 2",
+      "content": "W ustawie z dnia 26 czerwca 1974 r. - Kodeks pracy po art. 207 dodaje się art. 207 1 w brzmieniu: „ Zakład pracy zatrudniający nie więcej niż 100 pracowników może powierzyć wykonywanie zadań służby bhp pracownikowi zatrudnionemu przy innej pracy."
+    },
+    {
+      "provision_ref": "art1par3",
+      "section": "1",
+      "title": "Art. 1 § 3",
+      "content": "W ustawie z dnia 26 czerwca 1974 r. - Kodeks pracy po art. 207 dodaje się art. 207 1 w brzmieniu: „ Zakład pracy zatrudniający nie więcej niż 50 pracowników może zlecić wykonywanie zadań służby bhp wyspecjalizowanej osobie trzeciej."
+    },
+    {
+      "provision_ref": "art1par4",
+      "section": "1",
+      "title": "Art. 1 § 4",
+      "content": "W ustawie z dnia 26 czerwca 1974 r. - Kodeks pracy po art. 207 dodaje się art. 207 1 w brzmieniu: „ Kompetencje i organizację służby bhp, kwalifikacje pracowników służby bhp i pracowników, o których mowa w § 2, a także zasady i tryb zlecania zadań służby bhp określa Rada Ministrów."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-1974-141",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1975-91",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1981-23",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1982-214",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1985-85",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1985-162",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1986-201",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1987-124",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1988-134",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1989-107",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1989-192",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1990-19",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1990-251",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1990-319",
+      "ref_type": "amended_by"
+    }
+  ]
 }

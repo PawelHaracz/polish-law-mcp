@@ -13,7 +13,19 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 29 sierpnia 2005 r. o zwrocie osobom fizycznym niektórych wydatków związanych z budownictwem mieszkaniowym ( Dz. U. Nr 177, poz. 1468 oraz z 2007 r. Nr 23, poz. 138 i Nr 192, poz. 1382 ) w art. 6: 1) w ust. 2 oraz w ust. 4 w pkt 2 wyrazy „6 miesięcy” zastępuje się wyrazami „4 miesięcy” ; 2) w ust. 8 w pkt 1 wyrazy „upłynęło 6 miesięcy” zastępuje się wyrazami „upłynęły 4 miesiące” ."
+      "content": "W ustawie z dnia 29 sierpnia 2005 r. o zwrocie osobom fizycznym niektórych wydatków związanych z budownictwem mieszkaniowym w art. 6: w ust. 2 oraz w ust. 4 w pkt 2 wyrazy „6 miesięcy” zastępuje się wyrazami „4 miesięcy” ; w ust. 8 w pkt 1 wyrazy „upłynęło 6 miesięcy” zastępuje się wyrazami „upłynęły 4 miesiące” ."
+    },
+    {
+      "provision_ref": "art1p1",
+      "section": "1",
+      "title": "Art. 1 pkt 1",
+      "content": "W ustawie z dnia 29 sierpnia 2005 r. o zwrocie osobom fizycznym niektórych wydatków związanych z budownictwem mieszkaniowym w art. 6: w ust. 2 oraz w ust. 4 w pkt 2 wyrazy „6 miesięcy” zastępuje się wyrazami „4 miesięcy” ;"
+    },
+    {
+      "provision_ref": "art1p2",
+      "section": "1",
+      "title": "Art. 1 pkt 2",
+      "content": "W ustawie z dnia 29 sierpnia 2005 r. o zwrocie osobom fizycznym niektórych wydatków związanych z budownictwem mieszkaniowym w art. 6: w ust. 8 w pkt 1 wyrazy „upłynęło 6 miesięcy” zastępuje się wyrazami „upłynęły 4 miesiące” ."
     },
     {
       "provision_ref": "art2",
@@ -25,8 +37,22 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2005-1468",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2007-138",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2007-1382",
+      "ref_type": "amended_by"
+    }
+  ]
 }

@@ -13,14 +13,30 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W dekrecie z dnia 26 października 1950 r. o należnościach świadków, biegłych i stron w postępowaniu sądowym ( Dz. U. Nr 49, poz. 445 oraz z 2004 r. Nr 273, poz. 2702 ) w art. 10 po ust. 2 dodaje się ust. 2a w brzmieniu: „ 2a. Wynagrodzenie biegłego, będącego podatnikiem podatku od towarów i usług, podwyższa się o stawkę podatku od towarów i usług przewidzianą dla tego rodzaju czynności w przepisach o podatku od towarów i usług, obowiązującą w dniu orzekania o tym wynagrodzeniu. ” ."
+      "content": "W dekrecie z dnia 26 października 1950 r. o należnościach świadków, biegłych i stron w postępowaniu sądowym w art. 10 po ust. 2 dodaje się ust. 2a w brzmieniu: „ Wynagrodzenie biegłego, będącego podatnikiem podatku od towarów i usług, podwyższa się o stawkę podatku od towarów i usług przewidzianą dla tego rodzaju czynności w przepisach o podatku od towarów i usług, obowiązującą w dniu orzekania o tym wynagrodzeniu. ” ."
+    },
+    {
+      "provision_ref": "art1u2a",
+      "section": "1",
+      "title": "Art. 1 ust. 2a",
+      "content": "W dekrecie z dnia 26 października 1950 r. o należnościach świadków, biegłych i stron w postępowaniu sądowym w art. 10 po ust. 2 dodaje się ust. 2a w brzmieniu: „ Wynagrodzenie biegłego, będącego podatnikiem podatku od towarów i usług, podwyższa się o stawkę podatku od towarów i usług przewidzianą dla tego rodzaju czynności w przepisach o podatku od towarów i usług, obowiązującą w dniu orzekania o tym wynagrodzeniu."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2010 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2010 r."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-1950-445",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2004-2702",
+      "ref_type": "amended_by"
+    }
+  ]
 }

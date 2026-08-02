@@ -13,14 +13,24 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych ( Dz. U. Nr 137, poz. 887 i Nr 162, poz. 1118 i 1126 ) w art. 121 wyrazy „2,03 %” zastępuje się wyrazami „1,62 %” ."
+      "content": "W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych w art. 121 wyrazy „2,03 %” zastępuje się wyrazami „1,62 %” ."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ustawa wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 stycznia 1999 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 stycznia 1999 r."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-1998-887",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1998-1118",
+      "ref_type": "amended_by"
+    }
+  ]
 }

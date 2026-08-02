@@ -25,8 +25,9 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Załącznik - Wykaz dróg państwowych Nazwa drogi Ogólna długość drogi W tem drogi bitej kilometrów 1. (Grodno-Czyżówka) - Orany-Wilno - Święciany - Mielengiany - Rasciuny-Twerecz-(Widzę).. 236 29 z odnogami: a) Nowosiółki - granica pasa neutralnego-(Jewie-Kowno) 9 - b) Wilno-Mejszagoła-Jawniuny-granica pasa neutralncgo (Wilkomierz) 36 36 c) Wilno-Rzesza-Podbrzezie- granica pasa neutralnego - (Giedrojcie-Malaty)... 37 13 d) Rasciuny - Hoduciszki - Kobylnik 35 10 e) Hoduciszki -(Postawy-Dzisna) 16 - 2. Wilno - Mickuny - Michaliszki - Kurkule - Kobylnik -(Miadzioł - Dołninów) 110 - z odnogami: a) Kurkule-Świr-Soły-Zuprany 53 12 b) Kobylnik - (Mońkowicze-Łuczaj) 14 _ 3. (Wilio) - Rybiszki - Oszmiana - Żuorany - Smorgonie - (Lebiedziew - Mołodeczno-Mińsk).. 103 63 z odnogami: a) Oszmiana-Graużyszki-Dejlidy-(Bieniakonie).... 46 - b) Oszmiana - Uciszany- (Traby-Nowogródek).... 25 - 4. Wilno - Jaszuny - (Bieniakonie-Lida) 47 2 Razem 767 165 Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } , { \"id\" : \"part_2\", \"title\" : \"Załącznik - Wykaz dróg państwowych\", \"type\": \"part\", \"symbol\" : \"part_2\", \"children\" : [ ] } ];"
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": []
 }

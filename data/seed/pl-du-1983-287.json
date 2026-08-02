@@ -13,14 +13,20 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 21 lipca 1983 r. o amnestii ( Dz. U. Nr 39, poz. 177 ) w art. 2 wyrazy „31 października 1983 r.” zastępuje się wyrazami „31 grudnia 1983 r.”"
+      "content": "W ustawie z dnia 21 lipca 1983 r. o amnestii w art. 2 wyrazy „31 października 1983 r.” zastępuje się wyrazami „31 grudnia 1983 r.”"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ustawa wchodzi w życie z dniem ogłoszenia i ma zastosowanie do wszystkich przypadków ujawnienia po dniu 31 października 1983 r. przestępstw określonych w art. 2 ustawy o amnestii. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia i ma zastosowanie do wszystkich przypadków ujawnienia po dniu 31 października 1983 r. przestępstw określonych w art. 2 ustawy o amnestii."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-1983-177",
+      "ref_type": "amended_by"
+    }
+  ]
 }

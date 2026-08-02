@@ -13,14 +13,60 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych ( Dz. U. Nr 98, poz. 1070 i Nr 154, poz. 1787 oraz z 2002 r. Nr 153, poz. 1271 , Nr 213, poz. 1802 i Nr 240, poz. 2052 ) art. 139 otrzymuje brzmienie: „ Art. 139. § 1. Nadzór merytoryczny nad aplikacją sądową sprawuje Minister Sprawiedliwości. § 2. Aplikację sądową prowadzą prezesi sądów apelacyjnych. § 3. Minister Sprawiedliwości, w drodze zarządzenia, wyznacza sądy apelacyjne, w których prezesi prowadzą zajęcia seminaryjne, i określa obszary apelacji objęte tymi zajęciami. § 4. Minister Sprawiedliwości może, w szczególnie uzasadnionych przypadkach, na wniosek prezesa sądu apelacyjnego, w drodze zarządzenia, powierzyć prezesowi sądu okręgowego prowadzenie zajęć seminaryjnych dla części obszaru apelacji, obejmującej jeden lub więcej okręgów sądowych. ” ."
+      "content": "W ustawie z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych art. 139 otrzymuje brzmienie: „ Nadzór merytoryczny nad aplikacją sądową sprawuje Minister Sprawiedliwości. Aplikację sądową prowadzą prezesi sądów apelacyjnych. Minister Sprawiedliwości, w drodze zarządzenia, wyznacza sądy apelacyjne, w których prezesi prowadzą zajęcia seminaryjne, i określa obszary apelacji objęte tymi zajęciami. Minister Sprawiedliwości może, w szczególnie uzasadnionych przypadkach, na wniosek prezesa sądu apelacyjnego, w drodze zarządzenia, powierzyć prezesowi sądu okręgowego prowadzenie zajęć seminaryjnych dla części obszaru apelacji, obejmującej jeden lub więcej okręgów sądowych. ” ."
+    },
+    {
+      "provision_ref": "art1par1",
+      "section": "1",
+      "title": "Art. 1 § 1",
+      "content": "W ustawie z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych art. 139 otrzymuje brzmienie: „ Nadzór merytoryczny nad aplikacją sądową sprawuje Minister Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art1par2",
+      "section": "1",
+      "title": "Art. 1 § 2",
+      "content": "W ustawie z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych art. 139 otrzymuje brzmienie: „ Aplikację sądową prowadzą prezesi sądów apelacyjnych."
+    },
+    {
+      "provision_ref": "art1par3",
+      "section": "1",
+      "title": "Art. 1 § 3",
+      "content": "W ustawie z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych art. 139 otrzymuje brzmienie: „ Minister Sprawiedliwości, w drodze zarządzenia, wyznacza sądy apelacyjne, w których prezesi prowadzą zajęcia seminaryjne, i określa obszary apelacji objęte tymi zajęciami."
+    },
+    {
+      "provision_ref": "art1par4",
+      "section": "1",
+      "title": "Art. 1 § 4",
+      "content": "W ustawie z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych art. 139 otrzymuje brzmienie: „ Minister Sprawiedliwości może, w szczególnie uzasadnionych przypadkach, na wniosek prezesa sądu apelacyjnego, w drodze zarządzenia, powierzyć prezesowi sądu okręgowego prowadzenie zajęć seminaryjnych dla części obszaru apelacji, obejmującej jeden lub więcej okręgów sądowych."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ustawa wchodzi w życie z dniem 1 września 2004 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie z dniem 1 września 2004 r."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2001-1070",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2001-1787",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2002-1271",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2002-1802",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2002-2052",
+      "ref_type": "amended_by"
+    }
+  ]
 }

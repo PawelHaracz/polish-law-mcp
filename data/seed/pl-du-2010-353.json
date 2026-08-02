@@ -13,14 +13,26 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej ( Dz. U. z 2009 r. Nr 178, poz. 1380 ) w art. 19 ust. 1b otrzymuje brzmienie: „ 1b. Bezpośredni udział w działaniach ratowniczych mogą brać członkowie ochotniczych straży pożarnych, którzy ukończyli 18 lat i nie przekroczyli 65 lat, posiadający aktualne badania lekarskie dopuszczające do udziału w działaniach ratowniczych oraz odbyli szkolenie pożarnicze, o którym mowa w art. 28 ust. 1. ” ."
+      "content": "W ustawie z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej w art. 19 ust. 1b otrzymuje brzmienie: „ Bezpośredni udział w działaniach ratowniczych mogą brać członkowie ochotniczych straży pożarnych, którzy ukończyli 18 lat i nie przekroczyli 65 lat, posiadający aktualne badania lekarskie dopuszczające do udziału w działaniach ratowniczych oraz odbyli szkolenie pożarnicze, o którym mowa w art. 28 ust. 1. ” ."
+    },
+    {
+      "provision_ref": "art1u1b",
+      "section": "1",
+      "title": "Art. 1 ust. 1b",
+      "content": "W ustawie z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej w art. 19 ust. 1b otrzymuje brzmienie: „ Bezpośredni udział w działaniach ratowniczych mogą brać członkowie ochotniczych straży pożarnych, którzy ukończyli 18 lat i nie przekroczyli 65 lat, posiadający aktualne badania lekarskie dopuszczające do udziału w działaniach ratowniczych oraz odbyli szkolenie pożarnicze, o którym mowa w art. 28 ust. 1."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2009-1380",
+      "ref_type": "amended_by"
+    }
+  ]
 }

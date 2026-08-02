@@ -13,14 +13,60 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 16 września 1982 r. o pracownikach urzędów państwowych ( Dz. U. Nr 31, poz. 214 , z 1984 r. Nr 35, poz. 187 , z 1988 r. Nr 19, poz. 132 oraz z 1989 r. Nr 4, poz. 24 i Nr 34, poz. 178 ) w art. 53: a) ust. 1 otrzymuje brzmienie: „ 1. Urzędnikom państwowym zatrudnionym w urzędach organów administracji państwowej na stanowiskach wymagających kwalifikacji pedagogicznych przysługują uprawnienia określone w art. 30, 31, 32 ust. 3, art. 33, 36, 46, 50-52, 57-60, 86 i 88-90 ustawy z dnia 26 stycznia 1982 r. - Karta Nauczyciela ( Dz. U. Nr 3, poz. 19 , Nr 25, poz. 187 i Nr 31, poz. 214 , z 1983 r. Nr 5, poz. 33 , z 1988 r. Nr 19, poz. 132 i z 1989 r. Nr 4, poz. 24 ) , a okres zatrudnienia w tych urzędach na stanowiskach wymagających kwalifikacji pedagogicznych wlicza się do okresu zatrudnienia, od którego zależą uprawnienia nauczyciela określone w tej ustawie. ” , b) ust. 2 skreśla się."
+      "content": "W ustawie z dnia 16 września 1982 r. o pracownikach urzędów państwowych w art. 53: ust. 1 otrzymuje brzmienie: „ Urzędnikom państwowym zatrudnionym w urzędach organów administracji państwowej na stanowiskach wymagających kwalifikacji pedagogicznych przysługują uprawnienia określone w art. 30, 31, 32 ust. 3, art. 33, 36, 46, 50-52, 57-60, 86 i 88-90 ustawy z dnia 26 stycznia 1982 r. - Karta Nauczyciela , a okres zatrudnienia w tych urzędach na stanowiskach wymagających kwalifikacji pedagogicznych wlicza się do okresu zatrudnienia, od którego zależą uprawnienia nauczyciela określone w tej ustawie. ” , ust. 2 skreśla się."
+    },
+    {
+      "provision_ref": "art1lau1",
+      "section": "1",
+      "title": "Art. 1 lit. au",
+      "content": "W ustawie z dnia 16 września 1982 r. o pracownikach urzędów państwowych w art. 53: ust. 1 otrzymuje brzmienie: „ Urzędnikom państwowym zatrudnionym w urzędach organów administracji państwowej na stanowiskach wymagających kwalifikacji pedagogicznych przysługują uprawnienia określone w art. 30, 31, 32 ust. 3, art. 33, 36, 46, 50-52, 57-60, 86 i 88-90 ustawy z dnia 26 stycznia 1982 r. - Karta Nauczyciela , a okres zatrudnienia w tych urzędach na stanowiskach wymagających kwalifikacji pedagogicznych wlicza się do okresu zatrudnienia, od którego zależą uprawnienia nauczyciela określone w tej ustawie."
+    },
+    {
+      "provision_ref": "art1lb",
+      "section": "1",
+      "title": "Art. 1 lit. b",
+      "content": "W ustawie z dnia 16 września 1982 r. o pracownikach urzędów państwowych w art. 53: ust. 2 skreśla się."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ustawa wchodzi w życie z dniem 1 września 1989 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie z dniem 1 września 1989 r."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-1982-214",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1984-187",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1988-132",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1989-24",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1989-178",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1982-19",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1982-187",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1983-33",
+      "ref_type": "references"
+    }
+  ]
 }

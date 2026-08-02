@@ -19,20 +19,38 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "W ustawie z dnia 18 stycznia 1951 r. o dniach wolnych od pracy ( Dz. U. Nr 4, poz. 28 , z 1960 r. Nr 51, poz. 297 i z 1989 r. Nr 29, poz. 154 ) w art. 1 w pkt 1 lit. h) skreśla się."
+      "content": "W ustawie z dnia 18 stycznia 1951 r. o dniach wolnych od pracy w art. 1 w pkt 1 lit. h) skreśla się."
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "Traci moc ustawa z dnia 22 lipca 1945 r. o ustanowieniu Narodowego Święta Odrodzenia Polski ( Dz. U. Nr 32, poz. 194 ) ."
+      "content": "Traci moc ustawa z dnia 22 lipca 1945 r. o ustanowieniu Narodowego Święta Odrodzenia Polski ."
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-1951-28",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1960-297",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1989-154",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1945-194",
+      "ref_type": "references"
+    }
+  ]
 }

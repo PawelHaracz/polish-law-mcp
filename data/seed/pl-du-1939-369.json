@@ -13,7 +13,31 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "Przywraca się moc obowiązującą ustawy z dnia 11 maja 1920 r. w przedmiocie uznania nazwisk, przybranych podczas służby wojskowej ( Dz. U. R. P. Nr 42, poz. 251 ) , ze zmianami następującymi: 1) o zmianę (uznanie przybranego) nazwiska ubiegać się mogą osoby, które przybrały nazwiska w okresie do dnia 30 czerwca 1922 roku; 2) zezwoleń na zmianę (uznanie przybranego) nazwiska udziela Minister Spraw Wewnętrznych w porozumieniu z Ministrem Spraw Wojskowych; 3) ogłoszeń w Monitorze Polskim dokonywa i wpis do aktów stanu cywilnego zarządza Minister Spraw Wewnętrznych; 4) prawo do używania zmienionego (przybranego) nazwiska powstaje z chwilą doręczenia aktu zezwolenia."
+      "content": "Przywraca się moc obowiązującą ustawy z dnia 11 maja 1920 r. w przedmiocie uznania nazwisk, przybranych podczas służby wojskowej , ze zmianami następującymi: o zmianę (uznanie przybranego) nazwiska ubiegać się mogą osoby, które przybrały nazwiska w okresie do dnia 30 czerwca 1922 roku; zezwoleń na zmianę (uznanie przybranego) nazwiska udziela Minister Spraw Wewnętrznych w porozumieniu z Ministrem Spraw Wojskowych; ogłoszeń w Monitorze Polskim dokonywa i wpis do aktów stanu cywilnego zarządza Minister Spraw Wewnętrznych; prawo do używania zmienionego (przybranego) nazwiska powstaje z chwilą doręczenia aktu zezwolenia."
+    },
+    {
+      "provision_ref": "art1p1",
+      "section": "1",
+      "title": "Art. 1 pkt 1",
+      "content": "Przywraca się moc obowiązującą ustawy z dnia 11 maja 1920 r. w przedmiocie uznania nazwisk, przybranych podczas służby wojskowej , ze zmianami następującymi: o zmianę (uznanie przybranego) nazwiska ubiegać się mogą osoby, które przybrały nazwiska w okresie do dnia 30 czerwca 1922 roku;"
+    },
+    {
+      "provision_ref": "art1p2",
+      "section": "1",
+      "title": "Art. 1 pkt 2",
+      "content": "Przywraca się moc obowiązującą ustawy z dnia 11 maja 1920 r. w przedmiocie uznania nazwisk, przybranych podczas służby wojskowej , ze zmianami następującymi: zezwoleń na zmianę (uznanie przybranego) nazwiska udziela Minister Spraw Wewnętrznych w porozumieniu z Ministrem Spraw Wojskowych;"
+    },
+    {
+      "provision_ref": "art1p3",
+      "section": "1",
+      "title": "Art. 1 pkt 3",
+      "content": "Przywraca się moc obowiązującą ustawy z dnia 11 maja 1920 r. w przedmiocie uznania nazwisk, przybranych podczas służby wojskowej , ze zmianami następującymi: ogłoszeń w Monitorze Polskim dokonywa i wpis do aktów stanu cywilnego zarządza Minister Spraw Wewnętrznych;"
+    },
+    {
+      "provision_ref": "art1p4",
+      "section": "1",
+      "title": "Art. 1 pkt 4",
+      "content": "Przywraca się moc obowiązującą ustawy z dnia 11 maja 1920 r. w przedmiocie uznania nazwisk, przybranych podczas służby wojskowej , ze zmianami następującymi: prawo do używania zmienionego (przybranego) nazwiska powstaje z chwilą doręczenia aktu zezwolenia."
     },
     {
       "provision_ref": "art2",
@@ -25,8 +49,14 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia i obowiązuje do dnia 31 grudnia 1940 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia i obowiązuje do dnia 31 grudnia 1940 r."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-1920-251",
+      "ref_type": "references"
+    }
+  ]
 }

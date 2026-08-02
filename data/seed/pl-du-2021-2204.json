@@ -1,0 +1,617 @@
+{
+  "id": "pl-du-2021-2204",
+  "type": "statute",
+  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 30 listopada 2021 r. w sprawie konta w systemie teleinformatycznym obsługującym postępowanie sądowe",
+  "title_en": "",
+  "short_name": "pl-du-2021-2204",
+  "status": "in_force",
+  "issued_date": "2021-11-30",
+  "in_force_date": "2021-12-01",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2021/2204",
+  "provisions": [
+    {
+      "provision_ref": "par1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Rozporządzenie określa tryb zakładania i udostępniania konta oraz sposób korzystania z konta i zamykania konta w systemie teleinformatycznym obsługującym postępowanie sądowe."
+    },
+    {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: właścicielu konta - należy przez to rozumieć podmiot, dla którego założono konto w systemie teleinformatycznym obsługującym postępowanie sądowe; koncie - należy przez to rozumieć zbiór danych identyfikujących tożsamość właściciela konta, wraz z przyporządkowanymi zasobami systemu teleinformatycznego obsługującego postępowanie sądowe; użytkowniku konta - należy przez to rozumieć osobę fizyczną, dla której założono konto w systemie teleinformatycznym obsługującym postępowanie sądowe; nazwie użytkownika - należy przez to rozumieć niepowtarzalny identyfikator użytkownika konta w systemie teleinformatycznym obsługującym postepowanie sądowe; zarządzaniu kontem - należy przez to rozumieć wprowadzanie do systemu teleinformatycznego obsługującego postępowanie sądowe i zmianę w tym systemie konfigurowalnych danych, w szczególności wskazywanie uprawnień poszczególnych użytkowników kont, adresu poczty elektronicznej do powiadomień oraz aktualizacji danych podmiotu niebędącego osobą fizyczną; administratorze konta - należy przez to rozumieć użytkownika konta, który posiada uprawnienie do zarządzania kontem na koncie własnym lub koncie innego właściciela konta; uprawnionym użytkowniku - należy przez to rozumieć użytkownika konta, który posiada uprawnienie do wykonywania czynności innych niż zarządzanie kontem na koncie własnym lub koncie innego właściciela konta; uwierzytelnieniu - należy przez to rozumieć proces elektroniczny, który umożliwia identyfikację elektroniczną użytkownika konta w systemie teleinformatycznym obsługującym postępowanie sądowe; identyfikatorze osoby fizycznej - należy przez to rozumieć: osobisty krajowy numer identyfikacyjny - kraj, wartość, identyfikator podatkowy - kraj, wartość, numer osobistego dokumentu identyfikacyjnego - kraj, wartość, inny identyfikator odczytany z kwalifikowanego certyfikatu podpisu elektronicznego, jeżeli jest zgodny z normą ETSI TS 119 412-1; identyfikatorze podmiotu niebędącego osobą fizyczną - należy przez to rozumieć jeden z poniższych identyfikatorów: numer w Krajowym Rejestrze Sądowym, NIP, inny niż polski identyfikator podatku od wartości dodanej - kraj, wartość, inny niż polski identyfikator krajowego rejestru handlowego - kraj, wartość, numer autoryzacji dostawcy usług płatniczych zgodnie z dyrektywą Parlamentu Europejskiego i Rady (UE) 2015/2366 z dnia 25 listopada 2015 r. w sprawie usług płatniczych w ramach rynku wewnętrznego, zmieniającą dyrektywy 2002/65/WE, 2009/110/WE, 2013/36/UE i rozporządzenie (UE) nr 1093/2010 oraz uchylającą dyrektywę 2007/64/WE 1) Zmiana wymienionej dyrektywy została ogłoszona w Dz. Urz. UE L 102 z 23.04.2018, str. 97. - kraj, wartość, globalny identyfikator podmiotu prawnego według ISO 17442 - oznaczenie kraju według ISO 3166 równe XG, wartość, inny identyfikator odczytany z kwalifikowanego certyfikatu pieczęci elektronicznej, jeżeli jest zgodny z normą ETSI TS 119 412-1; identyfikatorze konta - należy przez to rozumieć niepowtarzalny identyfikator przypisany do konta podczas jego zakładania w systemie teleinformatycznym obsługującym postępowanie sądowe; zamknięciu konta - należy przez to rozumieć brak możliwości uwierzytelnienia osoby fizycznej na koncie za pomocą dostępnych sposobów uwierzytelnienia, a w przypadku podmiotu niebędącego osobą fizyczną brak możliwości udostępnienia tego konta uprawnionemu użytkownikowi i administratorowi konta. Przez osobisty krajowy numer identyfikacyjny, identyfikator podatkowy, osobisty dokument identyfikacyjny, o których mowa w ust. 1 pkt 9 lit. a-c, rozumie się w szczególności odpowiednio numer PESEL, numer identyfikacji podatkowej (NIP), numer dowodu osobistego albo paszportu albo numer karty pobytu w Rzeczypospolitej Polskiej."
+    },
+    {
+      "provision_ref": "par2u1p1",
+      "section": "2",
+      "title": "§ 2 ust. 1 pkt 1",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: właścicielu konta - należy przez to rozumieć podmiot, dla którego założono konto w systemie teleinformatycznym obsługującym postępowanie sądowe;"
+    },
+    {
+      "provision_ref": "par2u1p2",
+      "section": "2",
+      "title": "§ 2 ust. 1 pkt 2",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: koncie - należy przez to rozumieć zbiór danych identyfikujących tożsamość właściciela konta, wraz z przyporządkowanymi zasobami systemu teleinformatycznego obsługującego postępowanie sądowe;"
+    },
+    {
+      "provision_ref": "par2u1p3",
+      "section": "2",
+      "title": "§ 2 ust. 1 pkt 3",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: użytkowniku konta - należy przez to rozumieć osobę fizyczną, dla której założono konto w systemie teleinformatycznym obsługującym postępowanie sądowe;"
+    },
+    {
+      "provision_ref": "par2u1p4",
+      "section": "2",
+      "title": "§ 2 ust. 1 pkt 4",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: nazwie użytkownika - należy przez to rozumieć niepowtarzalny identyfikator użytkownika konta w systemie teleinformatycznym obsługującym postepowanie sądowe;"
+    },
+    {
+      "provision_ref": "par2u1p5",
+      "section": "2",
+      "title": "§ 2 ust. 1 pkt 5",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: zarządzaniu kontem - należy przez to rozumieć wprowadzanie do systemu teleinformatycznego obsługującego postępowanie sądowe i zmianę w tym systemie konfigurowalnych danych, w szczególności wskazywanie uprawnień poszczególnych użytkowników kont, adresu poczty elektronicznej do powiadomień oraz aktualizacji danych podmiotu niebędącego osobą fizyczną;"
+    },
+    {
+      "provision_ref": "par2u1p6",
+      "section": "2",
+      "title": "§ 2 ust. 1 pkt 6",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: administratorze konta - należy przez to rozumieć użytkownika konta, który posiada uprawnienie do zarządzania kontem na koncie własnym lub koncie innego właściciela konta;"
+    },
+    {
+      "provision_ref": "par2u1p7",
+      "section": "2",
+      "title": "§ 2 ust. 1 pkt 7",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: uprawnionym użytkowniku - należy przez to rozumieć użytkownika konta, który posiada uprawnienie do wykonywania czynności innych niż zarządzanie kontem na koncie własnym lub koncie innego właściciela konta;"
+    },
+    {
+      "provision_ref": "par2u1p8",
+      "section": "2",
+      "title": "§ 2 ust. 1 pkt 8",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: uwierzytelnieniu - należy przez to rozumieć proces elektroniczny, który umożliwia identyfikację elektroniczną użytkownika konta w systemie teleinformatycznym obsługującym postępowanie sądowe;"
+    },
+    {
+      "provision_ref": "par2u1p9la",
+      "section": "2",
+      "title": "§ 2 ust. 1 pkt 9 lit. a",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: identyfikatorze osoby fizycznej - należy przez to rozumieć: osobisty krajowy numer identyfikacyjny - kraj, wartość,"
+    },
+    {
+      "provision_ref": "par2u1p9lb",
+      "section": "2",
+      "title": "§ 2 ust. 1 pkt 9 lit. b",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: identyfikatorze osoby fizycznej - należy przez to rozumieć: identyfikator podatkowy - kraj, wartość,"
+    },
+    {
+      "provision_ref": "par2u1p9lc",
+      "section": "2",
+      "title": "§ 2 ust. 1 pkt 9 lit. c",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: identyfikatorze osoby fizycznej - należy przez to rozumieć: numer osobistego dokumentu identyfikacyjnego - kraj, wartość,"
+    },
+    {
+      "provision_ref": "par2u1p9ld",
+      "section": "2",
+      "title": "§ 2 ust. 1 pkt 9 lit. d",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: identyfikatorze osoby fizycznej - należy przez to rozumieć: inny identyfikator odczytany z kwalifikowanego certyfikatu podpisu elektronicznego, jeżeli jest zgodny z normą ETSI TS 119 412-1;"
+    },
+    {
+      "provision_ref": "par2u1p10la",
+      "section": "2",
+      "title": "§ 2 ust. 1 pkt 10 lit. a",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: identyfikatorze podmiotu niebędącego osobą fizyczną - należy przez to rozumieć jeden z poniższych identyfikatorów: numer w Krajowym Rejestrze Sądowym,"
+    },
+    {
+      "provision_ref": "par2u1p10lb",
+      "section": "2",
+      "title": "§ 2 ust. 1 pkt 10 lit. b",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: identyfikatorze podmiotu niebędącego osobą fizyczną - należy przez to rozumieć jeden z poniższych identyfikatorów: NIP,"
+    },
+    {
+      "provision_ref": "par2u1p10lc",
+      "section": "2",
+      "title": "§ 2 ust. 1 pkt 10 lit. c",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: identyfikatorze podmiotu niebędącego osobą fizyczną - należy przez to rozumieć jeden z poniższych identyfikatorów: inny niż polski identyfikator podatku od wartości dodanej - kraj, wartość,"
+    },
+    {
+      "provision_ref": "par2u1p10ld",
+      "section": "2",
+      "title": "§ 2 ust. 1 pkt 10 lit. d",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: identyfikatorze podmiotu niebędącego osobą fizyczną - należy przez to rozumieć jeden z poniższych identyfikatorów: inny niż polski identyfikator krajowego rejestru handlowego - kraj, wartość,"
+    },
+    {
+      "provision_ref": "par2u1p10le",
+      "section": "2",
+      "title": "§ 2 ust. 1 pkt 10 lit. e",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: identyfikatorze podmiotu niebędącego osobą fizyczną - należy przez to rozumieć jeden z poniższych identyfikatorów: numer autoryzacji dostawcy usług płatniczych zgodnie z dyrektywą Parlamentu Europejskiego i Rady (UE) 2015/2366 z dnia 25 listopada 2015 r. w sprawie usług płatniczych w ramach rynku wewnętrznego, zmieniającą dyrektywy 2002/65/WE, 2009/110/WE, 2013/36/UE i rozporządzenie (UE) nr 1093/2010 oraz uchylającą dyrektywę 2007/64/WE 1) Zmiana wymienionej dyrektywy została ogłoszona w Dz. Urz. UE L 102 z 23.04.2018, str. 97. - kraj, wartość,"
+    },
+    {
+      "provision_ref": "par2u1p10lf",
+      "section": "2",
+      "title": "§ 2 ust. 1 pkt 10 lit. f",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: identyfikatorze podmiotu niebędącego osobą fizyczną - należy przez to rozumieć jeden z poniższych identyfikatorów: globalny identyfikator podmiotu prawnego według ISO 17442 - oznaczenie kraju według ISO 3166 równe XG, wartość,"
+    },
+    {
+      "provision_ref": "par2u1p10lg",
+      "section": "2",
+      "title": "§ 2 ust. 1 pkt 10 lit. g",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: identyfikatorze podmiotu niebędącego osobą fizyczną - należy przez to rozumieć jeden z poniższych identyfikatorów: inny identyfikator odczytany z kwalifikowanego certyfikatu pieczęci elektronicznej, jeżeli jest zgodny z normą ETSI TS 119 412-1;"
+    },
+    {
+      "provision_ref": "par2u1p11",
+      "section": "2",
+      "title": "§ 2 ust. 1 pkt 11",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: identyfikatorze konta - należy przez to rozumieć niepowtarzalny identyfikator przypisany do konta podczas jego zakładania w systemie teleinformatycznym obsługującym postępowanie sądowe;"
+    },
+    {
+      "provision_ref": "par2u1p12",
+      "section": "2",
+      "title": "§ 2 ust. 1 pkt 12",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: zamknięciu konta - należy przez to rozumieć brak możliwości uwierzytelnienia osoby fizycznej na koncie za pomocą dostępnych sposobów uwierzytelnienia, a w przypadku podmiotu niebędącego osobą fizyczną brak możliwości udostępnienia tego konta uprawnionemu użytkownikowi i administratorowi konta."
+    },
+    {
+      "provision_ref": "par2u2",
+      "section": "2",
+      "title": "§ 2 ust. 2",
+      "content": "Przez osobisty krajowy numer identyfikacyjny, identyfikator podatkowy, osobisty dokument identyfikacyjny, o których mowa w ust. 1 pkt 9 lit. a-c, rozumie się w szczególności odpowiednio numer PESEL, numer identyfikacji podatkowej (NIP), numer dowodu osobistego albo paszportu albo numer karty pobytu w Rzeczypospolitej Polskiej."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Konto osoby fizycznej zakłada się w systemie teleinformatycznym obsługującym postępowanie sądowe, zwanym dalej „systemem teleinformatycznym”, po określeniu nazwy użytkownika, adresu poczty elektronicznej do powiadomień, hasła oraz złożeniu podpisu zaufanego, kwalifikowanego podpisu elektronicznego, podpisu osobistego albo uwierzytelnieniu przez użycie środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej. Identyfikator osoby fizycznej, imię lub imiona i nazwisko są ustalane na podstawie danych odpowiednio z kwalifikowanego podpisu elektronicznego, podpisu osobistego lub podpisu zaufanego albo na podstawie danych identyfikujących osobę fizyczną przekazanych za pomocą środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej i zapisywane na koncie. Z chwilą założenia konta osoba fizyczna, która je założyła, staje się administratorem konta i uprawnionym użytkownikiem. Zmiana hasła lub nazwy użytkownika wymaga potwierdzenia przez użytkownika konta podpisem zaufanym, kwalifikowanym podpisem elektronicznym, podpisem osobistym albo uwierzytelnienia przez użycie środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej. Zmiana lub dodanie imienia lub nazwiska lub dodanie identyfikatora osoby fizycznej wymaga ponownego potwierdzenia podpisem zaufanym, kwalifikowanym podpisem elektronicznym, podpisem osobistym albo uwierzytelnienia przez użycie środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej. Dodanie lub zmiana identyfikatora osoby fizycznej wymaga potwierdzenia, o którym mowa w ust. 5, umożliwiającego zweryfikowanie zgodności imienia i nazwiska z imieniem i nazwiskiem zapisanym na koncie. Zmiana imienia lub nazwiska wymaga potwierdzenia, o którym mowa w ust. 5, umożliwiającego zweryfikowanie zgodności identyfikatora osoby fizycznej z identyfikatorem zapisanym na koncie. W przypadku potrzeby dokonania zmiany, o której mowa w ust. 5, i braku możliwości jej potwierdzenia w sposób, o którym mowa w ust. 6 i 7, osoba fizyczna może zwrócić się z wnioskiem do Ministra Sprawiedliwości, który po pozytywnej weryfikacji wniosku dokonuje zmian na koncie osoby fizycznej."
+    },
+    {
+      "provision_ref": "par3u1",
+      "section": "3",
+      "title": "§ 3 ust. 1",
+      "content": "Konto osoby fizycznej zakłada się w systemie teleinformatycznym obsługującym postępowanie sądowe, zwanym dalej „systemem teleinformatycznym”, po określeniu nazwy użytkownika, adresu poczty elektronicznej do powiadomień, hasła oraz złożeniu podpisu zaufanego, kwalifikowanego podpisu elektronicznego, podpisu osobistego albo uwierzytelnieniu przez użycie środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej."
+    },
+    {
+      "provision_ref": "par3u2",
+      "section": "3",
+      "title": "§ 3 ust. 2",
+      "content": "Identyfikator osoby fizycznej, imię lub imiona i nazwisko są ustalane na podstawie danych odpowiednio z kwalifikowanego podpisu elektronicznego, podpisu osobistego lub podpisu zaufanego albo na podstawie danych identyfikujących osobę fizyczną przekazanych za pomocą środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej i zapisywane na koncie."
+    },
+    {
+      "provision_ref": "par3u3",
+      "section": "3",
+      "title": "§ 3 ust. 3",
+      "content": "Z chwilą założenia konta osoba fizyczna, która je założyła, staje się administratorem konta i uprawnionym użytkownikiem."
+    },
+    {
+      "provision_ref": "par3u4",
+      "section": "3",
+      "title": "§ 3 ust. 4",
+      "content": "Zmiana hasła lub nazwy użytkownika wymaga potwierdzenia przez użytkownika konta podpisem zaufanym, kwalifikowanym podpisem elektronicznym, podpisem osobistym albo uwierzytelnienia przez użycie środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej."
+    },
+    {
+      "provision_ref": "par3u5",
+      "section": "3",
+      "title": "§ 3 ust. 5",
+      "content": "Zmiana lub dodanie imienia lub nazwiska lub dodanie identyfikatora osoby fizycznej wymaga ponownego potwierdzenia podpisem zaufanym, kwalifikowanym podpisem elektronicznym, podpisem osobistym albo uwierzytelnienia przez użycie środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej."
+    },
+    {
+      "provision_ref": "par3u6",
+      "section": "3",
+      "title": "§ 3 ust. 6",
+      "content": "Dodanie lub zmiana identyfikatora osoby fizycznej wymaga potwierdzenia, o którym mowa w ust. 5, umożliwiającego zweryfikowanie zgodności imienia i nazwiska z imieniem i nazwiskiem zapisanym na koncie."
+    },
+    {
+      "provision_ref": "par3u7",
+      "section": "3",
+      "title": "§ 3 ust. 7",
+      "content": "Zmiana imienia lub nazwiska wymaga potwierdzenia, o którym mowa w ust. 5, umożliwiającego zweryfikowanie zgodności identyfikatora osoby fizycznej z identyfikatorem zapisanym na koncie."
+    },
+    {
+      "provision_ref": "par3u8",
+      "section": "3",
+      "title": "§ 3 ust. 8",
+      "content": "W przypadku potrzeby dokonania zmiany, o której mowa w ust. 5, i braku możliwości jej potwierdzenia w sposób, o którym mowa w ust. 6 i 7, osoba fizyczna może zwrócić się z wnioskiem do Ministra Sprawiedliwości, który po pozytywnej weryfikacji wniosku dokonuje zmian na koncie osoby fizycznej."
+    },
+    {
+      "provision_ref": "par4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Osoba fizyczna może zostać uwierzytelniona w jeden z następujących sposobów: przez wpisanie nazwy użytkownika i hasła; przez użycie danych weryfikowanych za pomocą kwalifikowanego certyfikatu podpisu elektronicznego, który zawiera identyfikator zapisany na koncie; przez użycie środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej. Po uwierzytelnieniu osobie fizycznej udostępnia się konta, w odniesieniu do których jest właścicielem konta, administratorem konta i uprawnionym użytkownikiem."
+    },
+    {
+      "provision_ref": "par4u1p1",
+      "section": "4",
+      "title": "§ 4 ust. 1 pkt 1",
+      "content": "Osoba fizyczna może zostać uwierzytelniona w jeden z następujących sposobów: przez wpisanie nazwy użytkownika i hasła;"
+    },
+    {
+      "provision_ref": "par4u1p2",
+      "section": "4",
+      "title": "§ 4 ust. 1 pkt 2",
+      "content": "Osoba fizyczna może zostać uwierzytelniona w jeden z następujących sposobów: przez użycie danych weryfikowanych za pomocą kwalifikowanego certyfikatu podpisu elektronicznego, który zawiera identyfikator zapisany na koncie;"
+    },
+    {
+      "provision_ref": "par4u1p3",
+      "section": "4",
+      "title": "§ 4 ust. 1 pkt 3",
+      "content": "Osoba fizyczna może zostać uwierzytelniona w jeden z następujących sposobów: przez użycie środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej."
+    },
+    {
+      "provision_ref": "par4u2",
+      "section": "4",
+      "title": "§ 4 ust. 2",
+      "content": "Po uwierzytelnieniu osobie fizycznej udostępnia się konta, w odniesieniu do których jest właścicielem konta, administratorem konta i uprawnionym użytkownikiem."
+    },
+    {
+      "provision_ref": "par5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Konto podmiotu niebędącego osobą fizyczną zakłada w systemie teleinformatycznym: sąd - po złożeniu za pośrednictwem systemu teleinformatycznego w imieniu tego podmiotu pisma procesowego albo Minister Sprawiedliwości - po zgłoszeniu za pośrednictwem systemu teleinformatycznego potrzeby posiadania konta - wraz z jednoczesnym zgłoszeniem administratora lub administratorów konta. Do zgłoszenia, o którym mowa w ust. 1 pkt 2, dołącza się dokumenty potwierdzające umocowanie do działania w imieniu podmiotu niebędącego osobą fizyczną, chyba że stwierdzenie umocowania jest możliwe na podstawie wykazu lub innego rejestru, do którego Minister Sprawiedliwości ma dostęp drogą elektroniczną; okoliczność tę należy wskazać w treści zgłoszenia. Zgłoszenie podmiotu niebędącego osobą fizyczną zawiera: nazwę lub firmę, pod którą podmiot działa; oznaczenie formy prawnej; siedzibę i adres; numer w Krajowym Rejestrze Sądowym lub NIP, a w przypadku ich braku - inny identyfikator; imię lub imiona i nazwisko administratora konta oraz identyfikator jego konta w systemie teleinformatycznym. Konta podmiotu niebędącego osobą fizyczną nie zakłada się w przypadku: negatywnej weryfikacji danych identyfikujących podmiot na podstawie danych we właściwych rejestrach lub ewidencjach; ustalenia, że istnieje w systemie teleinformatycznym konto tego podmiotu; ustalenia, że nie istnieje konto osoby wskazanej jako administrator konta tego podmiotu."
+    },
+    {
+      "provision_ref": "par5u1p1",
+      "section": "5",
+      "title": "§ 5 ust. 1 pkt 1",
+      "content": "Konto podmiotu niebędącego osobą fizyczną zakłada w systemie teleinformatycznym: sąd - po złożeniu za pośrednictwem systemu teleinformatycznego w imieniu tego podmiotu pisma procesowego albo"
+    },
+    {
+      "provision_ref": "par5u1p2",
+      "section": "5",
+      "title": "§ 5 ust. 1 pkt 2",
+      "content": "Konto podmiotu niebędącego osobą fizyczną zakłada w systemie teleinformatycznym: Minister Sprawiedliwości - po zgłoszeniu za pośrednictwem systemu teleinformatycznego potrzeby posiadania konta"
+    },
+    {
+      "provision_ref": "par5u2",
+      "section": "5",
+      "title": "§ 5 ust. 2",
+      "content": "Do zgłoszenia, o którym mowa w ust. 1 pkt 2, dołącza się dokumenty potwierdzające umocowanie do działania w imieniu podmiotu niebędącego osobą fizyczną, chyba że stwierdzenie umocowania jest możliwe na podstawie wykazu lub innego rejestru, do którego Minister Sprawiedliwości ma dostęp drogą elektroniczną; okoliczność tę należy wskazać w treści zgłoszenia."
+    },
+    {
+      "provision_ref": "par5u3p1",
+      "section": "5",
+      "title": "§ 5 ust. 3 pkt 1",
+      "content": "Zgłoszenie podmiotu niebędącego osobą fizyczną zawiera: nazwę lub firmę, pod którą podmiot działa;"
+    },
+    {
+      "provision_ref": "par5u3p2",
+      "section": "5",
+      "title": "§ 5 ust. 3 pkt 2",
+      "content": "Zgłoszenie podmiotu niebędącego osobą fizyczną zawiera: oznaczenie formy prawnej;"
+    },
+    {
+      "provision_ref": "par5u3p3",
+      "section": "5",
+      "title": "§ 5 ust. 3 pkt 3",
+      "content": "Zgłoszenie podmiotu niebędącego osobą fizyczną zawiera: siedzibę i adres;"
+    },
+    {
+      "provision_ref": "par5u3p4",
+      "section": "5",
+      "title": "§ 5 ust. 3 pkt 4",
+      "content": "Zgłoszenie podmiotu niebędącego osobą fizyczną zawiera: numer w Krajowym Rejestrze Sądowym lub NIP, a w przypadku ich braku - inny identyfikator;"
+    },
+    {
+      "provision_ref": "par5u3p5",
+      "section": "5",
+      "title": "§ 5 ust. 3 pkt 5",
+      "content": "Zgłoszenie podmiotu niebędącego osobą fizyczną zawiera: imię lub imiona i nazwisko administratora konta oraz identyfikator jego konta w systemie teleinformatycznym."
+    },
+    {
+      "provision_ref": "par5u4p1",
+      "section": "5",
+      "title": "§ 5 ust. 4 pkt 1",
+      "content": "Konta podmiotu niebędącego osobą fizyczną nie zakłada się w przypadku: negatywnej weryfikacji danych identyfikujących podmiot na podstawie danych we właściwych rejestrach lub ewidencjach;"
+    },
+    {
+      "provision_ref": "par5u4p2",
+      "section": "5",
+      "title": "§ 5 ust. 4 pkt 2",
+      "content": "Konta podmiotu niebędącego osobą fizyczną nie zakłada się w przypadku: ustalenia, że istnieje w systemie teleinformatycznym konto tego podmiotu;"
+    },
+    {
+      "provision_ref": "par5u4p3",
+      "section": "5",
+      "title": "§ 5 ust. 4 pkt 3",
+      "content": "Konta podmiotu niebędącego osobą fizyczną nie zakłada się w przypadku: ustalenia, że nie istnieje konto osoby wskazanej jako administrator konta tego podmiotu."
+    },
+    {
+      "provision_ref": "par6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "Dopuszczalne jest wyznaczenie na koncie więcej niż jednego administratora konta. Podmiot niebędący osobą fizyczną może wyznaczyć nowego administratora konta lub odwołać dotychczasowego administratora przez zgłoszenie złożone za pośrednictwem systemu teleinformatycznego do Ministra Sprawiedliwości. Osoby działające na koncie jako administratorzy konta i uprawnieni użytkownicy działają w imieniu i na rzecz właściciela konta."
+    },
+    {
+      "provision_ref": "par6u1",
+      "section": "6",
+      "title": "§ 6 ust. 1",
+      "content": "Dopuszczalne jest wyznaczenie na koncie więcej niż jednego administratora konta."
+    },
+    {
+      "provision_ref": "par6u2",
+      "section": "6",
+      "title": "§ 6 ust. 2",
+      "content": "Podmiot niebędący osobą fizyczną może wyznaczyć nowego administratora konta lub odwołać dotychczasowego administratora przez zgłoszenie złożone za pośrednictwem systemu teleinformatycznego do Ministra Sprawiedliwości."
+    },
+    {
+      "provision_ref": "par6u3",
+      "section": "6",
+      "title": "§ 6 ust. 3",
+      "content": "Osoby działające na koncie jako administratorzy konta i uprawnieni użytkownicy działają w imieniu i na rzecz właściciela konta."
+    },
+    {
+      "provision_ref": "par7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "Konto osoby fizycznej może być przez nią zamknięte za pośrednictwem systemu teleinformatycznego. Konto podmiotu niebędącego osobą fizyczną jest zamykane na skutek zgłoszenia właściciela konta złożonego za pośrednictwem systemu teleinformatycznego do Ministra Sprawiedliwości. W przypadku, o którym mowa w ust. 2, przepis § 5 ust. 2 stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "par7u1",
+      "section": "7",
+      "title": "§ 7 ust. 1",
+      "content": "Konto osoby fizycznej może być przez nią zamknięte za pośrednictwem systemu teleinformatycznego."
+    },
+    {
+      "provision_ref": "par7u2",
+      "section": "7",
+      "title": "§ 7 ust. 2",
+      "content": "Konto podmiotu niebędącego osobą fizyczną jest zamykane na skutek zgłoszenia właściciela konta złożonego za pośrednictwem systemu teleinformatycznego do Ministra Sprawiedliwości."
+    },
+    {
+      "provision_ref": "par7u3",
+      "section": "7",
+      "title": "§ 7 ust. 3",
+      "content": "W przypadku, o którym mowa w ust. 2, przepis § 5 ust. 2 stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "par8",
+      "section": "8",
+      "title": "§ 8",
+      "content": "Przepisów § 3-7 nie stosuje się do kont wykorzystywanych w elektronicznym postępowaniu upominawczym oraz postępowaniu wieczystoksięgowym wszczynanym za pośrednictwem systemu teleinformatycznego."
+    },
+    {
+      "provision_ref": "par9",
+      "section": "9",
+      "title": "§ 9",
+      "content": "W elektronicznym postępowaniu upominawczym konto zakłada się w systemie teleinformatycznym na wniosek złożony za pośrednictwem tego systemu. Wniosek zawiera imię lub imiona i nazwisko wnioskodawcy, a także jego numer PESEL, jeżeli został nadany, datę i miejsce urodzenia, numer dokumentu tożsamości, adres poczty elektronicznej oraz adres do korespondencji. Po złożeniu wniosku wnioskodawca określa nazwę użytkownika i hasło. Konto zakłada się i udostępnia użytkownikowi konta po automatycznej weryfikacji imienia lub imion i nazwiska oraz numeru PESEL, jeżeli został nadany, na podstawie rejestru PESEL. Po założeniu konta i udostępnieniu go użytkownikowi konta użytkownik konta może zmienić hasło za pośrednictwem systemu teleinformatycznego."
+    },
+    {
+      "provision_ref": "par9u1",
+      "section": "9",
+      "title": "§ 9 ust. 1",
+      "content": "W elektronicznym postępowaniu upominawczym konto zakłada się w systemie teleinformatycznym na wniosek złożony za pośrednictwem tego systemu."
+    },
+    {
+      "provision_ref": "par9u2",
+      "section": "9",
+      "title": "§ 9 ust. 2",
+      "content": "Wniosek zawiera imię lub imiona i nazwisko wnioskodawcy, a także jego numer PESEL, jeżeli został nadany, datę i miejsce urodzenia, numer dokumentu tożsamości, adres poczty elektronicznej oraz adres do korespondencji."
+    },
+    {
+      "provision_ref": "par9u3",
+      "section": "9",
+      "title": "§ 9 ust. 3",
+      "content": "Po złożeniu wniosku wnioskodawca określa nazwę użytkownika i hasło."
+    },
+    {
+      "provision_ref": "par9u4",
+      "section": "9",
+      "title": "§ 9 ust. 4",
+      "content": "Konto zakłada się i udostępnia użytkownikowi konta po automatycznej weryfikacji imienia lub imion i nazwiska oraz numeru PESEL, jeżeli został nadany, na podstawie rejestru PESEL."
+    },
+    {
+      "provision_ref": "par9u5",
+      "section": "9",
+      "title": "§ 9 ust. 5",
+      "content": "Po założeniu konta i udostępnieniu go użytkownikowi konta użytkownik konta może zmienić hasło za pośrednictwem systemu teleinformatycznego."
+    },
+    {
+      "provision_ref": "par10",
+      "section": "10",
+      "title": "§ 10",
+      "content": "Konto udostępnia się użytkownikowi konta po uwierzytelnieniu, które następuje w jeden z następujących sposobów: przez wpisanie nazwy użytkownika i hasła; przez użycie środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej."
+    },
+    {
+      "provision_ref": "par10p1",
+      "section": "10",
+      "title": "§ 10 pkt 1",
+      "content": "Konto udostępnia się użytkownikowi konta po uwierzytelnieniu, które następuje w jeden z następujących sposobów: przez wpisanie nazwy użytkownika i hasła;"
+    },
+    {
+      "provision_ref": "par10p2",
+      "section": "10",
+      "title": "§ 10 pkt 2",
+      "content": "Konto udostępnia się użytkownikowi konta po uwierzytelnieniu, które następuje w jeden z następujących sposobów: przez użycie środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej."
+    },
+    {
+      "provision_ref": "par11",
+      "section": "11",
+      "title": "§ 11",
+      "content": "Sąd Rejonowy Lublin-Zachód w Lublinie zamyka konto na wniosek użytkownika konta złożony w formie pisemnej do tego sądu."
+    },
+    {
+      "provision_ref": "par12",
+      "section": "12",
+      "title": "§ 12",
+      "content": "W postępowaniu wieczystoksięgowym wszczynanym za pośrednictwem systemu teleinformatycznego konto dla notariusza, zastępcy notarialnego, emerytowanego notariusza, komornika, asesora komorniczego, naczelnika urzędu skarbowego lub zastępcy naczelnika urzędu skarbowego, przewodniczącego Komisji do spraw reprywatyzacji nieruchomości warszawskich, wydanych z naruszeniem prawa, zwanej dalej „Komisją”, lub jej członka zakłada się w systemie teleinformatycznym na ich wniosek złożony do Ministra Sprawiedliwości. Wniosek zawiera imię lub imiona i nazwisko wnioskodawcy, a także jego numer PESEL oraz adres poczty elektronicznej. Wniosek składany przez notariusza, zastępcę notarialnego lub emerytowanego notariusza zawiera także dane kancelarii notarialnej, którą reprezentują, obejmujące jej NIP, nazwę, adres oraz adres poczty elektronicznej. Wniosek składany przez zastępcę notarialnego lub emerytowanego notariusza zawiera także jego oświadczenie o wyznaczeniu go, na podstawie art. 21 § 1 ustawy z dnia 14 lutego 1991 r. - Prawo o notariacie , do zastępowania notariusza albo - w przypadku zastępcy notarialnego - o upoważnieniu go, na podstawie art. 76a § 2 tej ustawy, do wykonywania czynności notarialnych obejmujących sporządzanie aktów notarialnych, ze wskazaniem czasu, na jaki to wyznaczenie albo upoważnienie następuje. Wniosek składany przez komornika albo asesora komorniczego zawiera także dane kancelarii komorniczej, którą reprezentuje, obejmujące unikatowy identyfikator kancelarii komorniczej (GUID), jej NIP, nazwę, adres oraz adres poczty elektronicznej. Wniosek składany przez komornika albo asesora komorniczego w związku z zastępowaniem komornika na podstawie art. 43 ust. 1 ustawy z dnia 22 marca 2018 r. o komornikach sądowych zawiera także oświadczenie komornika albo asesora komorniczego o wyznaczeniu go, na podstawie art. 43 ust. 1 ustawy z dnia 22 marca 2018 r. o komornikach sądowych , na zastępcę komornika, ze wskazaniem czasu, na jaki to wyznaczenie następuje. Do wniosku dołącza się kopię zarządzenia prezesa właściwego sądu rejonowego o wyznaczeniu zastępcy komornika. Wniosek składany przez komornika w związku z zastępowaniem innego komornika na podstawie art. 45 ust. 1 ustawy z dnia 22 marca 2018 r. o komornikach sądowych zawiera także oświadczenie komornika o wyznaczeniu go, na podstawie art. 45 ust. 1 ustawy z dnia 22 marca 2018 r. o komornikach sądowych , na zastępcę innego komornika, ze wskazaniem czasu, na jaki to wyznaczenie następuje. Do wniosku dołącza się kopię zarządzenia prezesa właściwego sądu apelacyjnego albo Ministra Sprawiedliwości o wyznaczeniu zastępcy komornika. Wniosek składany przez naczelnika urzędu skarbowego lub zastępcę naczelnika urzędu skarbowego zawiera także dane właściwego urzędu skarbowego, obejmujące jego NIP, nazwę, adres siedziby oraz adres poczty elektronicznej."
+    },
+    {
+      "provision_ref": "par12u1",
+      "section": "12",
+      "title": "§ 12 ust. 1",
+      "content": "W postępowaniu wieczystoksięgowym wszczynanym za pośrednictwem systemu teleinformatycznego konto dla notariusza, zastępcy notarialnego, emerytowanego notariusza, komornika, asesora komorniczego, naczelnika urzędu skarbowego lub zastępcy naczelnika urzędu skarbowego, przewodniczącego Komisji do spraw reprywatyzacji nieruchomości warszawskich, wydanych z naruszeniem prawa, zwanej dalej „Komisją”, lub jej członka zakłada się w systemie teleinformatycznym na ich wniosek złożony do Ministra Sprawiedliwości."
+    },
+    {
+      "provision_ref": "par12u2",
+      "section": "12",
+      "title": "§ 12 ust. 2",
+      "content": "Wniosek zawiera imię lub imiona i nazwisko wnioskodawcy, a także jego numer PESEL oraz adres poczty elektronicznej."
+    },
+    {
+      "provision_ref": "par12u3",
+      "section": "12",
+      "title": "§ 12 ust. 3",
+      "content": "Wniosek składany przez notariusza, zastępcę notarialnego lub emerytowanego notariusza zawiera także dane kancelarii notarialnej, którą reprezentują, obejmujące jej NIP, nazwę, adres oraz adres poczty elektronicznej."
+    },
+    {
+      "provision_ref": "par12u4",
+      "section": "12",
+      "title": "§ 12 ust. 4",
+      "content": "Wniosek składany przez zastępcę notarialnego lub emerytowanego notariusza zawiera także jego oświadczenie o wyznaczeniu go, na podstawie art. 21 § 1 ustawy z dnia 14 lutego 1991 r. - Prawo o notariacie , do zastępowania notariusza albo - w przypadku zastępcy notarialnego - o upoważnieniu go, na podstawie art. 76a § 2 tej ustawy, do wykonywania czynności notarialnych obejmujących sporządzanie aktów notarialnych, ze wskazaniem czasu, na jaki to wyznaczenie albo upoważnienie następuje."
+    },
+    {
+      "provision_ref": "par12u5",
+      "section": "12",
+      "title": "§ 12 ust. 5",
+      "content": "Wniosek składany przez komornika albo asesora komorniczego zawiera także dane kancelarii komorniczej, którą reprezentuje, obejmujące unikatowy identyfikator kancelarii komorniczej (GUID), jej NIP, nazwę, adres oraz adres poczty elektronicznej."
+    },
+    {
+      "provision_ref": "par12u6",
+      "section": "12",
+      "title": "§ 12 ust. 6",
+      "content": "Wniosek składany przez komornika albo asesora komorniczego w związku z zastępowaniem komornika na podstawie art. 43 ust. 1 ustawy z dnia 22 marca 2018 r. o komornikach sądowych zawiera także oświadczenie komornika albo asesora komorniczego o wyznaczeniu go, na podstawie art. 43 ust. 1 ustawy z dnia 22 marca 2018 r. o komornikach sądowych , na zastępcę komornika, ze wskazaniem czasu, na jaki to wyznaczenie następuje. Do wniosku dołącza się kopię zarządzenia prezesa właściwego sądu rejonowego o wyznaczeniu zastępcy komornika."
+    },
+    {
+      "provision_ref": "par12u7",
+      "section": "12",
+      "title": "§ 12 ust. 7",
+      "content": "Wniosek składany przez komornika w związku z zastępowaniem innego komornika na podstawie art. 45 ust. 1 ustawy z dnia 22 marca 2018 r. o komornikach sądowych zawiera także oświadczenie komornika o wyznaczeniu go, na podstawie art. 45 ust. 1 ustawy z dnia 22 marca 2018 r. o komornikach sądowych , na zastępcę innego komornika, ze wskazaniem czasu, na jaki to wyznaczenie następuje. Do wniosku dołącza się kopię zarządzenia prezesa właściwego sądu apelacyjnego albo Ministra Sprawiedliwości o wyznaczeniu zastępcy komornika."
+    },
+    {
+      "provision_ref": "par12u8",
+      "section": "12",
+      "title": "§ 12 ust. 8",
+      "content": "Wniosek składany przez naczelnika urzędu skarbowego lub zastępcę naczelnika urzędu skarbowego zawiera także dane właściwego urzędu skarbowego, obejmujące jego NIP, nazwę, adres siedziby oraz adres poczty elektronicznej."
+    },
+    {
+      "provision_ref": "par13",
+      "section": "13",
+      "title": "§ 13",
+      "content": "Wniosek niespełniający wymagań, o których mowa w § 12, Minister Sprawiedliwości pozostawia bez rozpatrzenia, o czym zawiadamia się wnioskodawcę. Zawiadomienie z podaniem przyczyny nierozpatrzenia doręcza się na adres wskazany we wniosku, chyba że nie został wskazany."
+    },
+    {
+      "provision_ref": "par14",
+      "section": "14",
+      "title": "§ 14",
+      "content": "Konto, o którym mowa w § 12 ust. 1, zakłada się i udostępnia użytkownikowi konta po automatycznej weryfikacji danych notariusza, zastępcy notarialnego, komornika, asesora komorniczego, naczelnika urzędu skarbowego lub zastępcy naczelnika urzędu skarbowego zgodnie z ich listą prowadzoną na podstawie - odpowiednio - art. 41a § 1 ustawy z dnia 14 lutego 1991 r. - Prawo o notariacie , art. 216 ustawy z dnia 22 marca 2018 r. o komornikach sądowych lub art. 15 ust. 1 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej ) . Po założeniu konta notariusz, zastępca notarialny, emerytowany notariusz, komornik, asesor komorniczy, naczelnik urzędu skarbowego lub zastępca naczelnika urzędu skarbowego, przewodniczący Komisji lub jej członek otrzymują certyfikat dostępowy umożliwiający uwierzytelnienie w systemie teleinformatycznym."
+    },
+    {
+      "provision_ref": "par14u1",
+      "section": "14",
+      "title": "§ 14 ust. 1",
+      "content": "Konto, o którym mowa w § 12 ust. 1, zakłada się i udostępnia użytkownikowi konta po automatycznej weryfikacji danych notariusza, zastępcy notarialnego, komornika, asesora komorniczego, naczelnika urzędu skarbowego lub zastępcy naczelnika urzędu skarbowego zgodnie z ich listą prowadzoną na podstawie - odpowiednio - art. 41a § 1 ustawy z dnia 14 lutego 1991 r. - Prawo o notariacie , art. 216 ustawy z dnia 22 marca 2018 r. o komornikach sądowych lub art. 15 ust. 1 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej ) ."
+    },
+    {
+      "provision_ref": "par14u2",
+      "section": "14",
+      "title": "§ 14 ust. 2",
+      "content": "Po założeniu konta notariusz, zastępca notarialny, emerytowany notariusz, komornik, asesor komorniczy, naczelnik urzędu skarbowego lub zastępca naczelnika urzędu skarbowego, przewodniczący Komisji lub jej członek otrzymują certyfikat dostępowy umożliwiający uwierzytelnienie w systemie teleinformatycznym."
+    },
+    {
+      "provision_ref": "par15",
+      "section": "15",
+      "title": "§ 15",
+      "content": "W postępowaniu wieczystoksięgowym wszczynanym za pośrednictwem systemu teleinformatycznego konto zakłada się, jeżeli nie założono w systemie teleinformatycznym konta umożliwiającego składanie wniosków o wyszukanie ksiąg wieczystych w centralnej bazie danych ksiąg wieczystych w trybie art. 36 4 ust. 8 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece ."
+    },
+    {
+      "provision_ref": "par16",
+      "section": "16",
+      "title": "§ 16",
+      "content": "W postępowaniu wieczystoksięgowym wszczynanym za pośrednictwem systemu teleinformatycznego, w przypadku gdy uczestnik postępowania zażądał w akcie notarialnym zawiadomienia go o wpisie za pośrednictwem systemu teleinformatycznego, konto zakłada się na wniosek osoby fizycznej, automatycznie po jej uwierzytelnieniu przez użycie środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej, złożony za pośrednictwem systemu teleinformatycznego."
+    },
+    {
+      "provision_ref": "par17",
+      "section": "17",
+      "title": "§ 17",
+      "content": "W postępowaniu wieczystoksięgowym wszczynanym za pośrednictwem systemu teleinformatycznego uwierzytelnienie notariusza, zastępcy notarialnego, emerytowanego notariusza, komornika, asesora komorniczego, naczelnika urzędu skarbowego lub zastępcy naczelnika urzędu skarbowego, przewodniczącego Komisji lub jej członka następuje przez certyfikat dostępowy, o którym mowa w § 14 ust. 2. W postępowaniu wieczystoksięgowym wszczynanym za pośrednictwem systemu teleinformatycznego uwierzytelnienie użytkownika konta, któremu założono konto w celu doręczenia uczestnikowi postępowania zawiadomienia o wpisie, następuje przez użycie środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej."
+    },
+    {
+      "provision_ref": "par17u1",
+      "section": "17",
+      "title": "§ 17 ust. 1",
+      "content": "W postępowaniu wieczystoksięgowym wszczynanym za pośrednictwem systemu teleinformatycznego uwierzytelnienie notariusza, zastępcy notarialnego, emerytowanego notariusza, komornika, asesora komorniczego, naczelnika urzędu skarbowego lub zastępcy naczelnika urzędu skarbowego, przewodniczącego Komisji lub jej członka następuje przez certyfikat dostępowy, o którym mowa w § 14 ust. 2."
+    },
+    {
+      "provision_ref": "par17u2",
+      "section": "17",
+      "title": "§ 17 ust. 2",
+      "content": "W postępowaniu wieczystoksięgowym wszczynanym za pośrednictwem systemu teleinformatycznego uwierzytelnienie użytkownika konta, któremu założono konto w celu doręczenia uczestnikowi postępowania zawiadomienia o wpisie, następuje przez użycie środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej."
+    },
+    {
+      "provision_ref": "par18",
+      "section": "18",
+      "title": "§ 18",
+      "content": "Zamknięcie konta, o którym mowa w § 12 ust. 1, następuje przez unieważnienie certyfikatu dostępowego, o którym mowa w § 14 ust. 2. Konto, o którym mowa w § 16, jest zamykane przez administratora systemu teleinformatycznego obsługującego postępowanie sądowe na wniosek złożony w formie pisemnej do Ministra Sprawiedliwości."
+    },
+    {
+      "provision_ref": "par18u1",
+      "section": "18",
+      "title": "§ 18 ust. 1",
+      "content": "Zamknięcie konta, o którym mowa w § 12 ust. 1, następuje przez unieważnienie certyfikatu dostępowego, o którym mowa w § 14 ust. 2."
+    },
+    {
+      "provision_ref": "par18u2",
+      "section": "18",
+      "title": "§ 18 ust. 2",
+      "content": "Konto, o którym mowa w § 16, jest zamykane przez administratora systemu teleinformatycznego obsługującego postępowanie sądowe na wniosek złożony w formie pisemnej do Ministra Sprawiedliwości."
+    },
+    {
+      "provision_ref": "par19",
+      "section": "19",
+      "title": "§ 19",
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 grudnia 2021 r., z wyjątkiem § 10 pkt 2, który wchodzi w życie 1 stycznia 2022 r. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 26 kwietnia 2016 r. w sprawie trybu zakładania i udostępniania konta w systemie teleinformatycznym obsługującym postępowanie sądowe (Dz. U. poz. 637, z 2017 r. poz. 267 i 1699 oraz z 2018 r. poz. 533), które traci moc z dniem 1 grudnia 2021 r. na podstawie art. 14 ustawy z dnia 6 grudnia 2018 r. o Krajowym Rejestrze Zadłużonych (Dz. U. z 2021 r. poz. 1909)."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Zmiana wymienionej dyrektywy została ogłoszona w Dz. Urz. UE L 102 z 23.04.2018, str. 97.",
+      "definition": "kraj, wartość, globalny identyfikator podmiotu prawnego według ISO 17442 - oznaczenie kraju według ISO 3166 równe XG, wartość, inny identyfikator odczytany z kwalifikowanego certyfikatu pieczęci elektronicznej, jeżeli jest zgodny z normą ETSI TS 119 412-1; identyfikatorze konta - należy przez to rozumieć niepowtarzalny identyfikator przypisany do konta podczas jego zakładania w systemie teleinformatycznym obsługującym postępowanie sądowe; zamknięciu konta - należy przez to rozumieć brak możliwości uwierzytelnienia osoby fizycznej na koncie za pomocą dostępnych sposobów uwierzytelnienia, a w przypadku podmiotu niebędącego osobą fizyczną brak możliwości udostępnienia tego konta uprawnionemu użytkownikowi i administratorowi konta. Przez osobisty krajowy numer identyfikacyjny, identyfikator podatkowy, osobisty dokument identyfikacyjny, o których mowa w ust. 1 pkt 9 lit. a-c, rozumie się w szczególności odpowiednio numer PESEL, numer identyfikacji podatkowej (NIP), numer dowodu osobistego albo paszportu albo numer karty pobytu w Rzeczypospolitej Polskiej.",
+      "source_provision": "par2"
+    },
+    {
+      "term": "Zmiana wymienionej dyrektywy została ogłoszona w Dz. Urz. UE L 102 z 23.04.2018, str. 97.",
+      "definition": "kraj, wartość,",
+      "source_provision": "par2u1p10le"
+    }
+  ],
+  "references": [
+    {
+      "target_document_id": "pl-du-2020-2072",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1080",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1236",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-1192",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-2320",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1177",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-850",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1090",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-422",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-2204",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1978",
+      "ref_type": "references"
+    }
+  ]
+}

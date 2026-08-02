@@ -13,14 +13,68 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 29 lipca 1992 r. o grach losowych, zakładach wzajemnych i grach na automatach ( Dz. U. z 1998 r. Nr 102, poz. 650 , Nr 145, poz. 946 , Nr 155, poz. 1014 i Nr 160, poz. 1061 oraz z 2000 r. Nr 9, poz. 117 , Nr 70, poz. 816 i Nr 116, poz. 1216 ) w art. 64a: a) w ust. 1 po wyrazach „31 stycznia 1998 r.” dodaje się wyrazy „oraz od dnia 1 września 2001 r. do dnia 31 grudnia 2001 r.” , b) w ust. 2 wyrazy „1997 i 1998 r.” zastępuje się wyrazami „1997, 1998 i 2001 r.” , c) ust. 3 otrzymuje brzmienie: „ 3. Gospodarka finansowa środkami, o których mowa w ust. 1, prowadzona jest przez Szefa Kancelarii Prezesa Rady Ministrów lub osobę przez niego upoważnioną, w formie określonej w art. 21 ustawy wymienionej w art. 47b ust. 2a. ” , d) w ust. 5 wyrazy „1998 i 1999 r.” zastępuje się wyrazami „1998, 1999 oraz 2001 r.”"
+      "content": "W ustawie z dnia 29 lipca 1992 r. o grach losowych, zakładach wzajemnych i grach na automatach w art. 64a: w ust. 1 po wyrazach „31 stycznia 1998 r.” dodaje się wyrazy „oraz od dnia 1 września 2001 r. do dnia 31 grudnia 2001 r.” , w ust. 2 wyrazy „1997 i 1998 r.” zastępuje się wyrazami „1997, 1998 i 2001 r.” , ust. 3 otrzymuje brzmienie: „ Gospodarka finansowa środkami, o których mowa w ust. 1, prowadzona jest przez Szefa Kancelarii Prezesa Rady Ministrów lub osobę przez niego upoważnioną, w formie określonej w art. 21 ustawy wymienionej w art. 47b ust. 2a. ” , w ust. 5 wyrazy „1998 i 1999 r.” zastępuje się wyrazami „1998, 1999 oraz 2001 r.”"
+    },
+    {
+      "provision_ref": "art1la",
+      "section": "1",
+      "title": "Art. 1 lit. a",
+      "content": "W ustawie z dnia 29 lipca 1992 r. o grach losowych, zakładach wzajemnych i grach na automatach w art. 64a: w ust. 1 po wyrazach „31 stycznia 1998 r.” dodaje się wyrazy „oraz od dnia 1 września 2001 r. do dnia 31 grudnia 2001 r.” ,"
+    },
+    {
+      "provision_ref": "art1lb",
+      "section": "1",
+      "title": "Art. 1 lit. b",
+      "content": "W ustawie z dnia 29 lipca 1992 r. o grach losowych, zakładach wzajemnych i grach na automatach w art. 64a: w ust. 2 wyrazy „1997 i 1998 r.” zastępuje się wyrazami „1997, 1998 i 2001 r.” ,"
+    },
+    {
+      "provision_ref": "art1lcu3",
+      "section": "1",
+      "title": "Art. 1 lit. cu",
+      "content": "W ustawie z dnia 29 lipca 1992 r. o grach losowych, zakładach wzajemnych i grach na automatach w art. 64a: ust. 3 otrzymuje brzmienie: „ Gospodarka finansowa środkami, o których mowa w ust. 1, prowadzona jest przez Szefa Kancelarii Prezesa Rady Ministrów lub osobę przez niego upoważnioną, w formie określonej w art. 21 ustawy wymienionej w art. 47b ust. 2a."
+    },
+    {
+      "provision_ref": "art1ld",
+      "section": "1",
+      "title": "Art. 1 lit. d",
+      "content": "W ustawie z dnia 29 lipca 1992 r. o grach losowych, zakładach wzajemnych i grach na automatach w art. 64a: w ust. 5 wyrazy „1998 i 1999 r.” zastępuje się wyrazami „1998, 1999 oraz 2001 r.”"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_1-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-1998-650",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1998-946",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1998-1014",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1998-1061",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2000-117",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2000-816",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2000-1216",
+      "ref_type": "amended_by"
+    }
+  ]
 }

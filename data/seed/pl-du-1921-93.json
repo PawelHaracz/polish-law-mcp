@@ -67,8 +67,9 @@
       "provision_ref": "art10",
       "section": "10",
       "title": "Art. 10",
-      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia, a wykonanie jej powierza się Prezydentowi Ministrów i poszczególnym ministrom, każdemu w jego właściwym zakresie. Załącznik - Tekst załącznika Województwo nowogródzkie: 1. Baranowicze, 2. Duniłowicze, 3. Dzisna, 4 Lida, 5. Nieśwież, 6. Nowogródek, 7. Słonim, 8. Stołpce, 9. Wilejka, 10. Wołożyn. Województwo poleskie: 1. Brześć Litewski 2 Drohiczyn, 3. Kamień Koszyrski, 4. Kobryń, 5. Kosów, 6. Łuniniec, 7. Sarny, 8. Pińsk, 9. Prużany, Województwo wołyńskie: 1. Dubno, 2. Horochów, 3. Kowel, 4. Krzemieniec, 5. Lubomia, 6. Łuck, 7. Ostróg, 8. Równo, 9. Włodzimierz Wołyński. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"} ] } , { \"id\" : \"part_2\", \"title\" : \"Załącznik - Tekst załącznika\", \"type\": \"part\", \"symbol\" : \"part_2\", \"children\" : [ ] } ];"
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia, a wykonanie jej powierza się Prezydentowi Ministrów i poszczególnym ministrom, każdemu w jego właściwym zakresie."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": []
 }

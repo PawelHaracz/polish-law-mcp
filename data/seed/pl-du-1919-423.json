@@ -37,7 +37,31 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Art. 5",
-      "content": "W celu zabezpieczenia sum należnych od donatarjuszy Państwu, instytucjom czy też osobom prywatnym zostanie nałożony sekwestr na wszelki ich majątek ruchomy i nieruchomy na ziemiach Rzeczypospolitej Polskiej znajdujący się. Wartość majątku tego w szczególności zabezpieczyć ma wypłacenie: a) kaucji, pobranych przez donatarjuszów od dzierżawców i od administratorów poręczających dóbr donacyjnych, a dotąd niezwróconych; b) zaległych podatków skarbowych i należytości publicznych oraz długów hipotecznych; c) sum przypadających na pokrycie pretensji dzierżawców, administratorów poręczających i innych osób do donatarjuszów z tytułu posiadania przez nich dóbr donacyjnych; d) należności Skarbu Państwa z tytułu sprzecznych z zasadami nienaruszalności dóbr donacyjnych aljenacji."
+      "content": "W celu zabezpieczenia sum należnych od donatarjuszy Państwu, instytucjom czy też osobom prywatnym zostanie nałożony sekwestr na wszelki ich majątek ruchomy i nieruchomy na ziemiach Rzeczypospolitej Polskiej znajdujący się. Wartość majątku tego w szczególności zabezpieczyć ma wypłacenie: kaucji, pobranych przez donatarjuszów od dzierżawców i od administratorów poręczających dóbr donacyjnych, a dotąd niezwróconych; zaległych podatków skarbowych i należytości publicznych oraz długów hipotecznych; sum przypadających na pokrycie pretensji dzierżawców, administratorów poręczających i innych osób do donatarjuszów z tytułu posiadania przez nich dóbr donacyjnych; należności Skarbu Państwa z tytułu sprzecznych z zasadami nienaruszalności dóbr donacyjnych aljenacji."
+    },
+    {
+      "provision_ref": "art5la",
+      "section": "5",
+      "title": "Art. 5 lit. a",
+      "content": "W celu zabezpieczenia sum należnych od donatarjuszy Państwu, instytucjom czy też osobom prywatnym zostanie nałożony sekwestr na wszelki ich majątek ruchomy i nieruchomy na ziemiach Rzeczypospolitej Polskiej znajdujący się. Wartość majątku tego w szczególności zabezpieczyć ma wypłacenie: kaucji, pobranych przez donatarjuszów od dzierżawców i od administratorów poręczających dóbr donacyjnych, a dotąd niezwróconych;"
+    },
+    {
+      "provision_ref": "art5lb",
+      "section": "5",
+      "title": "Art. 5 lit. b",
+      "content": "W celu zabezpieczenia sum należnych od donatarjuszy Państwu, instytucjom czy też osobom prywatnym zostanie nałożony sekwestr na wszelki ich majątek ruchomy i nieruchomy na ziemiach Rzeczypospolitej Polskiej znajdujący się. Wartość majątku tego w szczególności zabezpieczyć ma wypłacenie: zaległych podatków skarbowych i należytości publicznych oraz długów hipotecznych;"
+    },
+    {
+      "provision_ref": "art5lc",
+      "section": "5",
+      "title": "Art. 5 lit. c",
+      "content": "W celu zabezpieczenia sum należnych od donatarjuszy Państwu, instytucjom czy też osobom prywatnym zostanie nałożony sekwestr na wszelki ich majątek ruchomy i nieruchomy na ziemiach Rzeczypospolitej Polskiej znajdujący się. Wartość majątku tego w szczególności zabezpieczyć ma wypłacenie: sum przypadających na pokrycie pretensji dzierżawców, administratorów poręczających i innych osób do donatarjuszów z tytułu posiadania przez nich dóbr donacyjnych;"
+    },
+    {
+      "provision_ref": "art5ld",
+      "section": "5",
+      "title": "Art. 5 lit. d",
+      "content": "W celu zabezpieczenia sum należnych od donatarjuszy Państwu, instytucjom czy też osobom prywatnym zostanie nałożony sekwestr na wszelki ich majątek ruchomy i nieruchomy na ziemiach Rzeczypospolitej Polskiej znajdujący się. Wartość majątku tego w szczególności zabezpieczyć ma wypłacenie: należności Skarbu Państwa z tytułu sprzecznych z zasadami nienaruszalności dóbr donacyjnych aljenacji."
     },
     {
       "provision_ref": "art6",
@@ -115,8 +139,9 @@
       "provision_ref": "art18",
       "section": "18",
       "title": "Art. 18",
-      "content": "Przepisy wykonawcze do ustawy niniejszej wyda oraz tryb obliczania i wypłaty odszkodowań wymienionych w art. 4 i 9 ustawy niniejszej ustali Minister Rolnictwa i Dóbr Państwowych w porozumieniu z Ministrami Skarbu i Sprawiedliwości. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_5-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_5-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_5-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"},{\"id\": \"arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"},{\"id\": \"arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\"},{\"id\": \"arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\"},{\"id\": \"arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\"},{\"id\": \"arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\"} ] } ];"
+      "content": "Przepisy wykonawcze do ustawy niniejszej wyda oraz tryb obliczania i wypłaty odszkodowań wymienionych w art. 4 i 9 ustawy niniejszej ustali Minister Rolnictwa i Dóbr Państwowych w porozumieniu z Ministrami Skarbu i Sprawiedliwości."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": []
 }

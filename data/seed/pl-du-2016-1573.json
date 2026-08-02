@@ -13,14 +13,24 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego ( Dz. U. z 2015 r. poz. 2143 oraz z 2016 r. poz. 1250 ) po art. 4 dodaje się art. 4a w brzmieniu: „ Art. 4a. Wniosek, o którym mowa w art. 3, można złożyć nie później niż do dnia 31 grudnia 2020 r. ” ."
+      "content": "W ustawie z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego po art. 4 dodaje się art. 4a w brzmieniu: „ Wniosek, o którym mowa w art. 3, można złożyć nie później niż do dnia 31 grudnia 2020 r. ” ."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2015-2143",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2016-1250",
+      "ref_type": "amended_by"
+    }
+  ]
 }

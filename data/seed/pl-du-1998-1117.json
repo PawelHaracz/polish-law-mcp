@@ -10,6 +10,30 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/1998/1117",
   "provisions": [
     {
+      "provision_ref": "art819",
+      "section": "819",
+      "title": "Art. 819",
+      "content": "W sprawach wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe, o ile ustawa nie stanowi inaczej."
+    },
+    {
+      "provision_ref": "art824",
+      "section": "824",
+      "title": "Art. 824",
+      "content": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem: art. 288 ust. 2 i art. 777 ust. 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia; art. 439 ust. 1 pkt 4, który wchodzi w życie z dniem 1 stycznia 2023 r."
+    },
+    {
+      "provision_ref": "art824p1",
+      "section": "824",
+      "title": "Art. 824 pkt 1",
+      "content": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem: art. 288 ust. 2 i art. 777 ust. 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia;"
+    },
+    {
+      "provision_ref": "art824p2",
+      "section": "824",
+      "title": "Art. 824 pkt 2",
+      "content": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem: art. 439 ust. 1 pkt 4, który wchodzi w życie z dniem 1 stycznia 2023 r."
+    },
+    {
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
@@ -19,74 +43,686 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "W rozumieniu ustawy: 1) użycie Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa oznacza obecność jednostek wojskowych poza granicami państwa w celu udziału w: a) konflikcie zbrojnym lub dla wzmocnienia sił państwa albo państw sojuszniczych, b) misji pokojowej, c) akcji zapobieżenia aktom terroryzmu lub ich skutkom, 2) pobyt Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa oznacza obecność jednostek wojskowych poza granicami państwa w celu udziału w: a) szkoleniach i ćwiczeniach wojskowych, b) akcjach ratowniczych, poszukiwawczych lub humanitarnych; przepisu tego nie stosuje się do akcji ratowniczych regulowanych przepisami o ratownictwie na morzu, c) przedsięwzięciach reprezentacyjnych."
+      "content": "W rozumieniu ustawy: użycie Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa oznacza obecność jednostek wojskowych poza granicami państwa w celu udziału w: konflikcie zbrojnym lub dla wzmocnienia sił państwa albo państw sojuszniczych, misji pokojowej, akcji zapobieżenia aktom terroryzmu lub ich skutkom, ewakuacji obywateli Rzeczypospolitej Polskiej, w przypadku konieczności ochrony ich życia lub zdrowia, z państwa niebędącego państwem członkowskim Unii Europejskiej, państwem członkowskim Europejskiego Obszaru Gospodarczego lub państwem-stroną Traktatu Północnoatlantyckiego; pobyt Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa oznacza obecność jednostek wojskowych poza granicami państwa w celu udziału w: szkoleniach i ćwiczeniach wojskowych, akcjach ratowniczych, poszukiwawczych lub humanitarnych; przepisu tego nie stosuje się do akcji ratowniczych regulowanych przepisami o ratownictwie na morzu lub prowadzonych przez wojskowe lotnicze zespoły poszukiwawczo-ratownicze w celu udzielenia pomocy ludziom albo statkom powietrznym lub morskim znajdującym się w niebezpieczeństwie na zasadach określonych w umowach międzynarodowych, przedsięwzięciach reprezentacyjnych."
+    },
+    {
+      "provision_ref": "art2p1la",
+      "section": "2",
+      "title": "Art. 2 pkt 1 lit. a",
+      "content": "W rozumieniu ustawy: użycie Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa oznacza obecność jednostek wojskowych poza granicami państwa w celu udziału w: konflikcie zbrojnym lub dla wzmocnienia sił państwa albo państw sojuszniczych,"
+    },
+    {
+      "provision_ref": "art2p1lb",
+      "section": "2",
+      "title": "Art. 2 pkt 1 lit. b",
+      "content": "W rozumieniu ustawy: użycie Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa oznacza obecność jednostek wojskowych poza granicami państwa w celu udziału w: misji pokojowej,"
+    },
+    {
+      "provision_ref": "art2p1lc",
+      "section": "2",
+      "title": "Art. 2 pkt 1 lit. c",
+      "content": "W rozumieniu ustawy: użycie Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa oznacza obecność jednostek wojskowych poza granicami państwa w celu udziału w: akcji zapobieżenia aktom terroryzmu lub ich skutkom,"
+    },
+    {
+      "provision_ref": "art2p2la",
+      "section": "2",
+      "title": "Art. 2 pkt 2 lit. a",
+      "content": "W rozumieniu ustawy: pobyt Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa oznacza obecność jednostek wojskowych poza granicami państwa w celu udziału w: szkoleniach i ćwiczeniach wojskowych,"
+    },
+    {
+      "provision_ref": "art2p2lc",
+      "section": "2",
+      "title": "Art. 2 pkt 2 lit. c",
+      "content": "W rozumieniu ustawy: pobyt Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa oznacza obecność jednostek wojskowych poza granicami państwa w celu udziału w: przedsięwzięciach reprezentacyjnych."
+    },
+    {
+      "provision_ref": "art2a",
+      "section": "2a",
+      "title": "Art. 2a",
+      "content": "Użycie Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa może nastąpić na podstawie decyzji właściwego organu organizacji międzynarodowej, której Rzeczpospolita Polska jest członkiem, organu Unii Europejskiej, a także zaproszenia lub zgody państwa przyjmującego. Użycie Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa do ewakuacji obywateli Rzeczypospolitej Polskiej, w przypadku konieczności ochrony ich życia lub zdrowia, może nastąpić mimo braku decyzji, zaproszenia lub zgody, o której mowa w ust. 1, jeżeli zwłoka spowodowałaby nieodwracalne skutki. W przypadku, o którym mowa w ust. 2, Prezes Rady Ministrów we wniosku do Prezydenta Rzeczypospolitej Polskiej o użycie Sił Zbrojnych Rzeczypospolitej Polskiej wskazuje okoliczności uzasadniające konieczność użycia Sił Zbrojnych Rzeczypospolitej Polskiej do niezwłocznej ewakuacji obywateli Rzeczypospolitej Polskiej."
+    },
+    {
+      "provision_ref": "art2au1",
+      "section": "2a",
+      "title": "Art. 2a ust. 1",
+      "content": "Użycie Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa może nastąpić na podstawie decyzji właściwego organu organizacji międzynarodowej, której Rzeczpospolita Polska jest członkiem, organu Unii Europejskiej, a także zaproszenia lub zgody państwa przyjmującego."
+    },
+    {
+      "provision_ref": "art2au2",
+      "section": "2a",
+      "title": "Art. 2a ust. 2",
+      "content": "Użycie Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa do ewakuacji obywateli Rzeczypospolitej Polskiej, w przypadku konieczności ochrony ich życia lub zdrowia, może nastąpić mimo braku decyzji, zaproszenia lub zgody, o której mowa w ust. 1, jeżeli zwłoka spowodowałaby nieodwracalne skutki."
+    },
+    {
+      "provision_ref": "art2au3",
+      "section": "2a",
+      "title": "Art. 2a ust. 3",
+      "content": "W przypadku, o którym mowa w ust. 2, Prezes Rady Ministrów we wniosku do Prezydenta Rzeczypospolitej Polskiej o użycie Sił Zbrojnych Rzeczypospolitej Polskiej wskazuje okoliczności uzasadniające konieczność użycia Sił Zbrojnych Rzeczypospolitej Polskiej do niezwłocznej ewakuacji obywateli Rzeczypospolitej Polskiej."
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "1. O użyciu jednostek wojskowych poza granicami państwa postanawia Prezydent Rzeczypospolitej Polskiej, na wniosek: 1) Rady Ministrów - w sytuacjach określonych w art. 2 pkt 1 lit. a) i b), 2) Prezesa Rady Ministrów - w sytuacjach określonych w art. 2 pkt 1 lit. c). 2. O podjętym postanowieniu Prezydent Rzeczypospolitej Polskiej niezwłocznie informuje Marszałków Sejmu i Senatu."
+      "content": "O użyciu jednostek wojskowych poza granicami państwa postanawia Prezydent Rzeczypospolitej Polskiej, na wniosek: Rady Ministrów - w sytuacjach określonych w art. 2 pkt 1 lit. a i b; Prezesa Rady Ministrów - w sytuacjach określonych w art. 2 pkt 1 lit. c i d. O podjętym postanowieniu Prezydent Rzeczypospolitej Polskiej niezwłocznie informuje Marszałków Sejmu i Senatu. W przypadku gdy wymaga tego ochrona informacji niejawnych, postanowienie Prezydenta Rzeczypospolitej Polskiej o użyciu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa nie podlega ogłoszeniu."
+    },
+    {
+      "provision_ref": "art3u1p1",
+      "section": "3",
+      "title": "Art. 3 ust. 1 pkt 1",
+      "content": "O użyciu jednostek wojskowych poza granicami państwa postanawia Prezydent Rzeczypospolitej Polskiej, na wniosek: Rady Ministrów - w sytuacjach określonych w art. 2 pkt 1 lit. a i b;"
+    },
+    {
+      "provision_ref": "art3u1p4",
+      "section": "3",
+      "title": "Art. 3 ust. 1 pkt 4",
+      "content": "O użyciu jednostek wojskowych poza granicami państwa postanawia Prezydent Rzeczypospolitej Polskiej, na wniosek: Prezesa Rady Ministrów - w sytuacjach określonych w art. 2 pkt 1 lit. c i d."
+    },
+    {
+      "provision_ref": "art3u2",
+      "section": "3",
+      "title": "Art. 3 ust. 2",
+      "content": "O podjętym postanowieniu Prezydent Rzeczypospolitej Polskiej niezwłocznie informuje Marszałków Sejmu i Senatu."
+    },
+    {
+      "provision_ref": "art3u3",
+      "section": "3",
+      "title": "Art. 3 ust. 3",
+      "content": "W przypadku gdy wymaga tego ochrona informacji niejawnych, postanowienie Prezydenta Rzeczypospolitej Polskiej o użyciu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa nie podlega ogłoszeniu."
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "1. O pobycie jednostek wojskowych poza granicami państwa decyzje podejmuje: 1) Rada Ministrów - w sytuacjach określonych w art. 2 pkt 2 lit. a), jeżeli środki na udział w szkoleniach i ćwiczeniach nie zostały uwzględnione w budżetach właściwych ministerstw, 2) minister właściwy do spraw obrony narodowej albo minister właściwy do spraw wewnętrznych - w sytuacjach określonych w art. 2 pkt 2 w stosunku do podległych albo podporządkowanych mu jednostek. 2. O podjęciu decyzji o pobycie jednostek wojskowych poza granicami państwa Prezes Rady Ministrów powiadamia Prezydenta Rzeczypospolitej Polskiej."
+      "content": "O pobycie Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa decyzję podejmuje: Minister Obrony Narodowej; Rada Ministrów - w sytuacjach określonych w art. 2 pkt 2 lit. a, jeżeli środki na udział w szkoleniach i ćwiczeniach nie zostały uwzględnione w budżecie Ministerstwa Obrony Narodowej. O podjęciu decyzji o pobycie jednostek wojskowych poza granicami państwa Prezes Rady Ministrów powiadamia Prezydenta Rzeczypospolitej Polskiej. W przypadku gdy wymaga tego ochrona informacji niejawnych, decyzja o pobycie jednostek wojskowych poza granicami państwa nie podlega ogłoszeniu."
+    },
+    {
+      "provision_ref": "art4u1p1",
+      "section": "4",
+      "title": "Art. 4 ust. 1 pkt 1",
+      "content": "O pobycie Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa decyzję podejmuje: Minister Obrony Narodowej;"
+    },
+    {
+      "provision_ref": "art4u1p2",
+      "section": "4",
+      "title": "Art. 4 ust. 1 pkt 2",
+      "content": "O pobycie Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa decyzję podejmuje: Rada Ministrów - w sytuacjach określonych w art. 2 pkt 2 lit. a, jeżeli środki na udział w szkoleniach i ćwiczeniach nie zostały uwzględnione w budżecie Ministerstwa Obrony Narodowej."
+    },
+    {
+      "provision_ref": "art4u2",
+      "section": "4",
+      "title": "Art. 4 ust. 2",
+      "content": "O podjęciu decyzji o pobycie jednostek wojskowych poza granicami państwa Prezes Rady Ministrów powiadamia Prezydenta Rzeczypospolitej Polskiej."
+    },
+    {
+      "provision_ref": "art4u3",
+      "section": "4",
+      "title": "Art. 4 ust. 3",
+      "content": "W przypadku gdy wymaga tego ochrona informacji niejawnych, decyzja o pobycie jednostek wojskowych poza granicami państwa nie podlega ogłoszeniu."
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Art. 5",
-      "content": "1. W postanowieniu o użyciu jednostek wojskowych poza granicami państwa określa się: 1) jednostki wojskowe, ich nazwy, liczebność oraz czas, przez jaki będą pozostawać poza granicami państwa, 2) cel skierowania jednostek wojskowych, zakres ich zadań oraz obszar działania, 3) system kierowania i dowodzenia jednostkami wojskowymi oraz organ organizacji międzynarodowej, któremu jednostki zostaną podporządkowane na czas operacji, 4) organy administracji rządowej odpowiedzialne za współpracę z kierowniczymi organami właściwej organizacji międzynarodowej w zakresie kierowania działalnością i zaopatrywania jednostek wojskowych wykonujących zadania poza granicami państwa, 5) uzbrojenie i sprzęt wojskowy, 6) trasy i czas przemieszczania się jednostek wojskowych w przypadku tranzytu. 2. W przypadku konieczności przedłużenia lub skrócenia okresu użycia jednostek wojskowych poza granicami państwa, przepisy art. 3 lub art. 4 stosuje się odpowiednio."
+      "content": "W postanowieniu o użyciu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa określa się: nazwę oraz liczebność jednostki wojskowej; okres, w którego trakcie jednostka wojskowa będzie mogła pozostawać poza granicami państwa, oraz rejon jej działania; cel skierowania jednostki wojskowej oraz ogólny zakres realizowanych przez nią zadań. W przypadku konieczności przedłużenia lub skrócenia okresu użycia jednostek wojskowych poza granicami państwa, przepisy art. 3 lub art. 4 stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "art5u1p1",
+      "section": "5",
+      "title": "Art. 5 ust. 1 pkt 1",
+      "content": "W postanowieniu o użyciu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa określa się: nazwę oraz liczebność jednostki wojskowej;"
+    },
+    {
+      "provision_ref": "art5u1p2",
+      "section": "5",
+      "title": "Art. 5 ust. 1 pkt 2",
+      "content": "W postanowieniu o użyciu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa określa się: okres, w którego trakcie jednostka wojskowa będzie mogła pozostawać poza granicami państwa, oraz rejon jej działania;"
+    },
+    {
+      "provision_ref": "art5u1p3",
+      "section": "5",
+      "title": "Art. 5 ust. 1 pkt 3",
+      "content": "W postanowieniu o użyciu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa określa się: cel skierowania jednostki wojskowej oraz ogólny zakres realizowanych przez nią zadań."
+    },
+    {
+      "provision_ref": "art5u2",
+      "section": "5",
+      "title": "Art. 5 ust. 2",
+      "content": "W przypadku konieczności przedłużenia lub skrócenia okresu użycia jednostek wojskowych poza granicami państwa, przepisy art. 3 lub art. 4 stosuje się odpowiednio."
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Art. 6",
-      "content": "1. W skład jednostek wojskowych wykonujących zadania poza granicami państwa wchodzą żołnierze w czynnej służbie wojskowej oraz pracownicy wojska, z zastrzeżeniem ust. 2. 2. W celu zapewnienia obsady niektórych stanowisk w jednostkach wojskowych przez osoby posiadające specjalistyczne kwalifikacje można zatrudniać pracowników na zasadach określonych w przepisach Kodeksu pracy ."
+      "content": "W skład jednostek wojskowych wykonujących zadania poza granicami państwa wchodzą żołnierze w czynnej służbie wojskowej oraz pracownicy."
+    },
+    {
+      "provision_ref": "art6a",
+      "section": "6a",
+      "title": "Art. 6a",
+      "content": "Wymiar czasu pracy pracowników świadczących pracę w strefie działań wojennych jest określony ich zadaniami służbowymi. Do tych pracowników nie stosuje się przepisów działu szóstego ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy . Zadania służbowe pracowników są ustalane przez przełożonych w sposób pozwalający na ich wykonywanie w ramach 40 godzin pracy w tygodniu. Wykonywanie zadań służbowych nie może przekraczać przeciętnie 48 godzin w tygodniu, w przeciętnie pięciodniowym tygodniu pracy, w okresie rozliczeniowym wynoszącym 4 miesiące. Czasem pracy jest czas, w którym pracownik pozostaje w dyspozycji przełożonego w miejscu pracy lub w innym miejscu wyznaczonym do wykonywania pracy. Pracownikowi przysługuje prawo do co najmniej: 8 godzin nieprzerwanego odpoczynku w każdej dobie; 24 godzin nieprzerwanego odpoczynku w okresie siedmiodniowym; dnia wolnego od pracy w niedzielę raz na 4 tygodnie oraz w święta określone w przepisach ustawy z dnia 18 stycznia 1951 r. o dniach wolnych od pracy ; 60 minut odpoczynku przed rozpoczęciem pracy obejmującej wykonywanie zadań służbowych w nocy; trwającej 30 minut przerwy w pracy, jeżeli dobowy wymiar czasu pracy wynosi co najmniej 6 godzin. Przepisy ust. 2 i 4 nie mają zastosowania do pracowników realizujących zadania wynikające z celu skierowania jednostki wojskowej, związane z zapewnieniem bezpieczeństwa jednostki wojskowej oraz z ochroną życia i zdrowia ludzkiego. Ze względu na szczególny charakter pracy świadczonej w strefie działań wojennych rozkład czasu pracy pracownika może przewidywać pracę zmianową. Okres rozliczeniowy jest liczony indywidualnie dla pracownika od pierwszego dnia świadczenia przez niego pracy w strefie działań wojennych."
+    },
+    {
+      "provision_ref": "art6au1",
+      "section": "6a",
+      "title": "Art. 6a ust. 1",
+      "content": "Wymiar czasu pracy pracowników świadczących pracę w strefie działań wojennych jest określony ich zadaniami służbowymi. Do tych pracowników nie stosuje się przepisów działu szóstego ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy ."
+    },
+    {
+      "provision_ref": "art6au2",
+      "section": "6a",
+      "title": "Art. 6a ust. 2",
+      "content": "Zadania służbowe pracowników są ustalane przez przełożonych w sposób pozwalający na ich wykonywanie w ramach 40 godzin pracy w tygodniu. Wykonywanie zadań służbowych nie może przekraczać przeciętnie 48 godzin w tygodniu, w przeciętnie pięciodniowym tygodniu pracy, w okresie rozliczeniowym wynoszącym 4 miesiące."
+    },
+    {
+      "provision_ref": "art6au3",
+      "section": "6a",
+      "title": "Art. 6a ust. 3",
+      "content": "Czasem pracy jest czas, w którym pracownik pozostaje w dyspozycji przełożonego w miejscu pracy lub w innym miejscu wyznaczonym do wykonywania pracy."
+    },
+    {
+      "provision_ref": "art6au4p1",
+      "section": "6a",
+      "title": "Art. 6a ust. 4 pkt 1",
+      "content": "Pracownikowi przysługuje prawo do co najmniej: 8 godzin nieprzerwanego odpoczynku w każdej dobie;"
+    },
+    {
+      "provision_ref": "art6au4p2",
+      "section": "6a",
+      "title": "Art. 6a ust. 4 pkt 2",
+      "content": "Pracownikowi przysługuje prawo do co najmniej: 24 godzin nieprzerwanego odpoczynku w okresie siedmiodniowym;"
+    },
+    {
+      "provision_ref": "art6au4p3",
+      "section": "6a",
+      "title": "Art. 6a ust. 4 pkt 3",
+      "content": "Pracownikowi przysługuje prawo do co najmniej: dnia wolnego od pracy w niedzielę raz na 4 tygodnie oraz w święta określone w przepisach ustawy z dnia 18 stycznia 1951 r. o dniach wolnych od pracy ;"
+    },
+    {
+      "provision_ref": "art6au4p4",
+      "section": "6a",
+      "title": "Art. 6a ust. 4 pkt 4",
+      "content": "Pracownikowi przysługuje prawo do co najmniej: 60 minut odpoczynku przed rozpoczęciem pracy obejmującej wykonywanie zadań służbowych w nocy;"
+    },
+    {
+      "provision_ref": "art6au4p5",
+      "section": "6a",
+      "title": "Art. 6a ust. 4 pkt 5",
+      "content": "Pracownikowi przysługuje prawo do co najmniej: trwającej 30 minut przerwy w pracy, jeżeli dobowy wymiar czasu pracy wynosi co najmniej 6 godzin."
+    },
+    {
+      "provision_ref": "art6au5",
+      "section": "6a",
+      "title": "Art. 6a ust. 5",
+      "content": "Przepisy ust. 2 i 4 nie mają zastosowania do pracowników realizujących zadania wynikające z celu skierowania jednostki wojskowej, związane z zapewnieniem bezpieczeństwa jednostki wojskowej oraz z ochroną życia i zdrowia ludzkiego."
+    },
+    {
+      "provision_ref": "art6au6",
+      "section": "6a",
+      "title": "Art. 6a ust. 6",
+      "content": "Ze względu na szczególny charakter pracy świadczonej w strefie działań wojennych rozkład czasu pracy pracownika może przewidywać pracę zmianową."
+    },
+    {
+      "provision_ref": "art6au7",
+      "section": "6a",
+      "title": "Art. 6a ust. 7",
+      "content": "Okres rozliczeniowy jest liczony indywidualnie dla pracownika od pierwszego dnia świadczenia przez niego pracy w strefie działań wojennych."
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Art. 7",
-      "content": "1. Osoby wchodzące w skład jednostek wojskowych wykonujących zadania poza granicami państwa podlegają na terytorium państwa obcego przepisom dyscyplinarnym, karnym i porządkowym obowiązującym w Rzeczypospolitej Polskiej. 2. Żołnierze i pracownicy wojska wchodzący w skład jednostek wojskowych są obowiązani do przestrzegania prawa państwa przyjmującego oraz wiążącego Rzeczpospolitą polską prawa międzynarodowego."
+      "content": "Osoby wchodzące w skład jednostek wojskowych wykonujących zadania poza granicami państwa podlegają na terytorium państwa obcego przepisom dyscyplinarnym, karnym i porządkowym obowiązującym w Rzeczypospolitej Polskiej. Żołnierze i pracownicy wchodzący w skład jednostek wojskowych są obowiązani do przestrzegania prawa państwa przyjmującego oraz wiążącego Rzeczpospolitą Polską prawa międzynarodowego."
+    },
+    {
+      "provision_ref": "art7u1",
+      "section": "7",
+      "title": "Art. 7 ust. 1",
+      "content": "Osoby wchodzące w skład jednostek wojskowych wykonujących zadania poza granicami państwa podlegają na terytorium państwa obcego przepisom dyscyplinarnym, karnym i porządkowym obowiązującym w Rzeczypospolitej Polskiej."
+    },
+    {
+      "provision_ref": "art7u2",
+      "section": "7",
+      "title": "Art. 7 ust. 2",
+      "content": "Żołnierze i pracownicy wchodzący w skład jednostek wojskowych są obowiązani do przestrzegania prawa państwa przyjmującego oraz wiążącego Rzeczpospolitą Polską prawa międzynarodowego."
+    },
+    {
+      "provision_ref": "art7a",
+      "section": "7a",
+      "title": "Art. 7a",
+      "content": "Żołnierze pełniący służbę w jednostce wojskowej, o której mowa w art. 2 pkt 1, użytej poza granicami państwa mają prawo stosowania środków przymusu bezpośredniego, użycia broni i innego uzbrojenia dozwolonego na mocy wiążących Rzeczpospolitą Polską ratyfikowanych umów międzynarodowych oraz międzynarodowego prawa zwyczajowego, w sposób oraz w granicach zasad określonych przez organ organizacji międzynarodowej, któremu jednostka została podporządkowana na czas operacji, z uwzględnieniem celu jej użycia poza granicami państwa oraz zastrzeżeń zgłoszonych przez upoważniony organ państwowy."
+    },
+    {
+      "provision_ref": "art7b",
+      "section": "7b",
+      "title": "Art. 7b",
+      "content": "Żołnierze, o których mowa w art. 7a, niezależnie od warunków stosowania środków przymusu bezpośredniego, warunków użycia broni i innego uzbrojenia, wynikających z zasad określonych przez organ organizacji międzynarodowej lub z celu użycia jednostki wojskowej poza granicami państwa, mają prawo stosowania środków przymusu bezpośredniego, użycia broni i innego uzbrojenia: w celu odparcia bezpośredniego i bezprawnego zamachu na życie, zdrowie lub wolność osoby oraz w celu przeciwdziałania czynnościom zmierzającym bezpośrednio do takiego zamachu; przeciwko osobie niepodporządkowującej się wezwaniu do natychmiastowego porzucenia broni lub innego niebezpiecznego narzędzia, którego użycie może zagrozić życiu, zdrowiu lub wolności osoby; przeciwko osobie, która usiłuje bezprawnie, przemocą odebrać broń żołnierzowi lub innej osobie uprawnionej do posiadania broni; w celu odparcia gwałtownego, bezpośredniego i bezprawnego zamachu na jednostkę wojskową polską lub sojuszniczą; w celu odparcia niebezpiecznego, bezpośredniego, gwałtownego zamachu na obiekty i urządzenia ważne dla Sił Zbrojnych; w celu odparcia zamachu na mienie, stwarzającego jednocześnie bezpośrednie zagrożenie życia, zdrowia lub wolności osoby; w bezpośrednim pościgu za osobą, wobec której stosowanie środków przymusu bezpośredniego, użycie broni i innego uzbrojenia było dopuszczalne w przypadkach określonych w pkt 1-5; w celu ujęcia osoby, o której mowa w pkt 1-3 i 6, jeżeli schroniła się w miejscu trudno dostępnym, a z okoliczności towarzyszących wynika, że może użyć broni lub innego niebezpiecznego narzędzia, których użycie zagrozić może życiu, zdrowiu lub wolności osoby; w celu ujęcia lub udaremnienia ucieczki osoby zatrzymanej, jeżeli: istnieje uzasadnione podejrzenie, że osoba zatrzymana może użyć broni palnej, materiałów wybuchowych lub niebezpiecznego narzędzia, zatrzymanie nastąpiło w związku z uzasadnionym podejrzeniem lub stwierdzeniem popełnienia czynów, o których mowa w pkt 1-7 - z zastrzeżeniem ust. 3. Broni palnej nie używa się w przypadku określonym w ust. 1 pkt 7 w stosunku do kobiet o widocznej ciąży, osób, których wygląd wskazuje na wiek do 13 lat, starców oraz osób o widocznym kalectwie, chyba że okoliczności wskazują na konieczność użycia broni w stosunku do tych osób. Żołnierze, o których mowa w art. 7a, mają prawo do wyprzedzającego stosowania środków przymusu bezpośredniego, użycia broni, innego uzbrojenia oraz wszelkich innych dozwolonych prawem międzynarodowym środków dla zapewnienia samoobrony, ochrony sprzętu i miejsca stacjonowania. W działaniach oddziałów i pododdziałów Sił Zbrojnych stosowanie środków przymusu bezpośredniego, użycie broni i innego uzbrojenia może nastąpić tylko na rozkaz dowódcy jako szczególny i ostateczny środek. Użycie broni i innego uzbrojenia powinno następować w sposób i z natężeniem proporcjonalnym do zagrożenia, wyrządzający możliwie najmniejszą szkodę i nie narażać innych osób, a w szczególności osoby cywilne, na niebezpieczeństwo utraty życia lub zdrowia. O ile sytuacja na to pozwala oraz nie wynika to wprost z celu realizacji zadania, użycie broni i innego uzbrojenia przeciwko osobie nie powinno zmierzać do pozbawienia jej życia."
+    },
+    {
+      "provision_ref": "art7bu1p1",
+      "section": "7b",
+      "title": "Art. 7b ust. 1 pkt 1",
+      "content": "Żołnierze, o których mowa w art. 7a, niezależnie od warunków stosowania środków przymusu bezpośredniego, warunków użycia broni i innego uzbrojenia, wynikających z zasad określonych przez organ organizacji międzynarodowej lub z celu użycia jednostki wojskowej poza granicami państwa, mają prawo stosowania środków przymusu bezpośredniego, użycia broni i innego uzbrojenia: w celu odparcia bezpośredniego i bezprawnego zamachu na życie, zdrowie lub wolność osoby oraz w celu przeciwdziałania czynnościom zmierzającym bezpośrednio do takiego zamachu;"
+    },
+    {
+      "provision_ref": "art7bu1p2",
+      "section": "7b",
+      "title": "Art. 7b ust. 1 pkt 2",
+      "content": "Żołnierze, o których mowa w art. 7a, niezależnie od warunków stosowania środków przymusu bezpośredniego, warunków użycia broni i innego uzbrojenia, wynikających z zasad określonych przez organ organizacji międzynarodowej lub z celu użycia jednostki wojskowej poza granicami państwa, mają prawo stosowania środków przymusu bezpośredniego, użycia broni i innego uzbrojenia: przeciwko osobie niepodporządkowującej się wezwaniu do natychmiastowego porzucenia broni lub innego niebezpiecznego narzędzia, którego użycie może zagrozić życiu, zdrowiu lub wolności osoby;"
+    },
+    {
+      "provision_ref": "art7bu1p3",
+      "section": "7b",
+      "title": "Art. 7b ust. 1 pkt 3",
+      "content": "Żołnierze, o których mowa w art. 7a, niezależnie od warunków stosowania środków przymusu bezpośredniego, warunków użycia broni i innego uzbrojenia, wynikających z zasad określonych przez organ organizacji międzynarodowej lub z celu użycia jednostki wojskowej poza granicami państwa, mają prawo stosowania środków przymusu bezpośredniego, użycia broni i innego uzbrojenia: przeciwko osobie, która usiłuje bezprawnie, przemocą odebrać broń żołnierzowi lub innej osobie uprawnionej do posiadania broni;"
+    },
+    {
+      "provision_ref": "art7bu1p4",
+      "section": "7b",
+      "title": "Art. 7b ust. 1 pkt 4",
+      "content": "Żołnierze, o których mowa w art. 7a, niezależnie od warunków stosowania środków przymusu bezpośredniego, warunków użycia broni i innego uzbrojenia, wynikających z zasad określonych przez organ organizacji międzynarodowej lub z celu użycia jednostki wojskowej poza granicami państwa, mają prawo stosowania środków przymusu bezpośredniego, użycia broni i innego uzbrojenia: w celu odparcia gwałtownego, bezpośredniego i bezprawnego zamachu na jednostkę wojskową polską lub sojuszniczą;"
+    },
+    {
+      "provision_ref": "art7bu1p5",
+      "section": "7b",
+      "title": "Art. 7b ust. 1 pkt 5",
+      "content": "Żołnierze, o których mowa w art. 7a, niezależnie od warunków stosowania środków przymusu bezpośredniego, warunków użycia broni i innego uzbrojenia, wynikających z zasad określonych przez organ organizacji międzynarodowej lub z celu użycia jednostki wojskowej poza granicami państwa, mają prawo stosowania środków przymusu bezpośredniego, użycia broni i innego uzbrojenia: w celu odparcia niebezpiecznego, bezpośredniego, gwałtownego zamachu na obiekty i urządzenia ważne dla Sił Zbrojnych;"
+    },
+    {
+      "provision_ref": "art7bu1p6",
+      "section": "7b",
+      "title": "Art. 7b ust. 1 pkt 6",
+      "content": "Żołnierze, o których mowa w art. 7a, niezależnie od warunków stosowania środków przymusu bezpośredniego, warunków użycia broni i innego uzbrojenia, wynikających z zasad określonych przez organ organizacji międzynarodowej lub z celu użycia jednostki wojskowej poza granicami państwa, mają prawo stosowania środków przymusu bezpośredniego, użycia broni i innego uzbrojenia: w celu odparcia zamachu na mienie, stwarzającego jednocześnie bezpośrednie zagrożenie życia, zdrowia lub wolności osoby;"
+    },
+    {
+      "provision_ref": "art7bu1p7",
+      "section": "7b",
+      "title": "Art. 7b ust. 1 pkt 7",
+      "content": "Żołnierze, o których mowa w art. 7a, niezależnie od warunków stosowania środków przymusu bezpośredniego, warunków użycia broni i innego uzbrojenia, wynikających z zasad określonych przez organ organizacji międzynarodowej lub z celu użycia jednostki wojskowej poza granicami państwa, mają prawo stosowania środków przymusu bezpośredniego, użycia broni i innego uzbrojenia: w bezpośrednim pościgu za osobą, wobec której stosowanie środków przymusu bezpośredniego, użycie broni i innego uzbrojenia było dopuszczalne w przypadkach określonych w pkt 1-5;"
+    },
+    {
+      "provision_ref": "art7bu1p8",
+      "section": "7b",
+      "title": "Art. 7b ust. 1 pkt 8",
+      "content": "Żołnierze, o których mowa w art. 7a, niezależnie od warunków stosowania środków przymusu bezpośredniego, warunków użycia broni i innego uzbrojenia, wynikających z zasad określonych przez organ organizacji międzynarodowej lub z celu użycia jednostki wojskowej poza granicami państwa, mają prawo stosowania środków przymusu bezpośredniego, użycia broni i innego uzbrojenia: w celu ujęcia osoby, o której mowa w pkt 1-3 i 6, jeżeli schroniła się w miejscu trudno dostępnym, a z okoliczności towarzyszących wynika, że może użyć broni lub innego niebezpiecznego narzędzia, których użycie zagrozić może życiu, zdrowiu lub wolności osoby;"
+    },
+    {
+      "provision_ref": "art7bu1p9la",
+      "section": "7b",
+      "title": "Art. 7b ust. 1 pkt 9 lit. a",
+      "content": "Żołnierze, o których mowa w art. 7a, niezależnie od warunków stosowania środków przymusu bezpośredniego, warunków użycia broni i innego uzbrojenia, wynikających z zasad określonych przez organ organizacji międzynarodowej lub z celu użycia jednostki wojskowej poza granicami państwa, mają prawo stosowania środków przymusu bezpośredniego, użycia broni i innego uzbrojenia: w celu ujęcia lub udaremnienia ucieczki osoby zatrzymanej, jeżeli: istnieje uzasadnione podejrzenie, że osoba zatrzymana może użyć broni palnej, materiałów wybuchowych lub niebezpiecznego narzędzia,"
+    },
+    {
+      "provision_ref": "art7bu1p9lb",
+      "section": "7b",
+      "title": "Art. 7b ust. 1 pkt 9 lit. b",
+      "content": "Żołnierze, o których mowa w art. 7a, niezależnie od warunków stosowania środków przymusu bezpośredniego, warunków użycia broni i innego uzbrojenia, wynikających z zasad określonych przez organ organizacji międzynarodowej lub z celu użycia jednostki wojskowej poza granicami państwa, mają prawo stosowania środków przymusu bezpośredniego, użycia broni i innego uzbrojenia: w celu ujęcia lub udaremnienia ucieczki osoby zatrzymanej, jeżeli: zatrzymanie nastąpiło w związku z uzasadnionym podejrzeniem lub stwierdzeniem popełnienia czynów, o których mowa w pkt 1-7"
+    },
+    {
+      "provision_ref": "art7bu2",
+      "section": "7b",
+      "title": "Art. 7b ust. 2",
+      "content": "Broni palnej nie używa się w przypadku określonym w ust. 1 pkt 7 w stosunku do kobiet o widocznej ciąży, osób, których wygląd wskazuje na wiek do 13 lat, starców oraz osób o widocznym kalectwie, chyba że okoliczności wskazują na konieczność użycia broni w stosunku do tych osób."
+    },
+    {
+      "provision_ref": "art7bu3",
+      "section": "7b",
+      "title": "Art. 7b ust. 3",
+      "content": "Żołnierze, o których mowa w art. 7a, mają prawo do wyprzedzającego stosowania środków przymusu bezpośredniego, użycia broni, innego uzbrojenia oraz wszelkich innych dozwolonych prawem międzynarodowym środków dla zapewnienia samoobrony, ochrony sprzętu i miejsca stacjonowania."
+    },
+    {
+      "provision_ref": "art7bu4",
+      "section": "7b",
+      "title": "Art. 7b ust. 4",
+      "content": "W działaniach oddziałów i pododdziałów Sił Zbrojnych stosowanie środków przymusu bezpośredniego, użycie broni i innego uzbrojenia może nastąpić tylko na rozkaz dowódcy jako szczególny i ostateczny środek."
+    },
+    {
+      "provision_ref": "art7bu5",
+      "section": "7b",
+      "title": "Art. 7b ust. 5",
+      "content": "Użycie broni i innego uzbrojenia powinno następować w sposób i z natężeniem proporcjonalnym do zagrożenia, wyrządzający możliwie najmniejszą szkodę i nie narażać innych osób, a w szczególności osoby cywilne, na niebezpieczeństwo utraty życia lub zdrowia. O ile sytuacja na to pozwala oraz nie wynika to wprost z celu realizacji zadania, użycie broni i innego uzbrojenia przeciwko osobie nie powinno zmierzać do pozbawienia jej życia."
+    },
+    {
+      "provision_ref": "art7c",
+      "section": "7c",
+      "title": "Art. 7c",
+      "content": "Minister Obrony Narodowej określa, w drodze zarządzenia niepodlegającego ogłoszeniu, dla każdej operacji zagranicznej z udziałem Sił Zbrojnych: które z zasad dotyczących użycia środków przymusu bezpośredniego, użycia broni i innego uzbrojenia, zawartych w niniejszej ustawie oraz wynikających z wiążących Rzeczpospolitą Polską ratyfikowanych umów międzynarodowych, międzynarodowego prawa zwyczajowego i planu operacji opracowanego przez organizację międzynarodową odpowiedzialną za jej prowadzenie, mają być stosowane przez żołnierzy Polskich Kontyngentów Wojskowych, w celu zrealizowania zadań operacji, sposób, tryb dokumentowania oraz meldowania o zastosowaniu środków przymusu bezpośredniego oraz użycia broni i innego uzbrojenia - mając na uwadze cel użycia Sił Zbrojnych poza granicami państwa, sytuację i warunki na terytorium, na którym jest prowadzona operacja zagraniczna, oraz niezbędne w tych warunkach prawo do samoobrony."
+    },
+    {
+      "provision_ref": "art7cp1",
+      "section": "7c",
+      "title": "Art. 7c pkt 1",
+      "content": "Minister Obrony Narodowej określa, w drodze zarządzenia niepodlegającego ogłoszeniu, dla każdej operacji zagranicznej z udziałem Sił Zbrojnych: które z zasad dotyczących użycia środków przymusu bezpośredniego, użycia broni i innego uzbrojenia, zawartych w niniejszej ustawie oraz wynikających z wiążących Rzeczpospolitą Polską ratyfikowanych umów międzynarodowych, międzynarodowego prawa zwyczajowego i planu operacji opracowanego przez organizację międzynarodową odpowiedzialną za jej prowadzenie, mają być stosowane przez żołnierzy Polskich Kontyngentów Wojskowych, w celu zrealizowania zadań operacji,"
+    },
+    {
+      "provision_ref": "art7cp2",
+      "section": "7c",
+      "title": "Art. 7c pkt 2",
+      "content": "Minister Obrony Narodowej określa, w drodze zarządzenia niepodlegającego ogłoszeniu, dla każdej operacji zagranicznej z udziałem Sił Zbrojnych: sposób, tryb dokumentowania oraz meldowania o zastosowaniu środków przymusu bezpośredniego oraz użycia broni i innego uzbrojenia"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Art. 8",
-      "content": "Pisemna zgoda żołnierza niezawodowego do pełnienia służby poza granicami państwa jest wymagana tylko w przypadkach określonych w art. 2 pkt 1 lit. b) oraz w pkt 2 lit. b)."
+      "content": "Pisemna zgoda żołnierza niezawodowego do pełnienia służby poza granicami państwa jest wymagana tylko w przypadkach określonych w art. 2 pkt 1 lit. b oraz w pkt 2 lit. b. Pisemna zgoda, o której mowa w ust. 1, nie jest wymagana w przypadku żołnierzy pełniących służbę wojskową w razie ogłoszenia mobilizacji i w czasie wojny."
+    },
+    {
+      "provision_ref": "art8u1",
+      "section": "8",
+      "title": "Art. 8 ust. 1",
+      "content": "Pisemna zgoda żołnierza niezawodowego do pełnienia służby poza granicami państwa jest wymagana tylko w przypadkach określonych w art. 2 pkt 1 lit. b oraz w pkt 2 lit. b."
+    },
+    {
+      "provision_ref": "art8u2",
+      "section": "8",
+      "title": "Art. 8 ust. 2",
+      "content": "Pisemna zgoda, o której mowa w ust. 1, nie jest wymagana w przypadku żołnierzy pełniących służbę wojskową w razie ogłoszenia mobilizacji i w czasie wojny."
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Art. 9",
-      "content": "1. Rada Ministrów określi, w drodze rozporządzenia: 1) szczegółowe zasady zatrudniania w jednostkach wojskowych pracowników, o których mowa w art. 6 ust. 2, z uwzględnieniem postanowień zawartych w przepisach prawa pracy oraz specyfiki związanej z wykonywaniem pracy w jednostce wojskowej poza granicami państwa, 2) szczegółowe uprawnienia i obowiązki żołnierzy niezawodowych pełniących służbę poza granicami państwa, z uwzględnieniem zasad związanych z wykonywaniem powszechnego obowiązku obrony, 3) szczegółowe zasady i tryb finansowania przygotowania i działania jednostek wojskowych, z uwzględnieniem przepisów o finansach publicznych, 4) uposażenie oraz inne należności pieniężne i świadczenia otrzymywane przez żołnierzy wyznaczonych do pełnienia służby poza granicami państwa, wynagrodzenie i inne należności pieniężne oraz świadczenia otrzymywane przez pracowników wojska zatrudnionych w jednostkach wojskowych, z uwzględnieniem w szczególności prawa do świadczeń odszkodowawczych, wynikających z odrębnych ustaw, dodatków zagranicznego i wojennego w zależności od celu użycia tych jednostek poza granicami państwa, oraz do bezpłatnych świadczeń zdrowotnych, zaopatrzenia w leki i artykuły sanitarne, a także bezpłatnego przewozu z kraju i z powrotem w związku z rozpoczęciem i zakończeniem misji oraz w przypadkach losowych. 2. Rada Ministrów zapewni środki finansowe na użycie lub pobyt jednostek wojskowych poza granicami państwa w przypadkach określonych w art. 2, jeżeli środki na ten cel nie zostały uwzględnione w budżecie Ministerstwa Obrony Narodowej albo Ministerstwa Spraw Wewnętrznych i Administracji."
+      "content": "Rada Ministrów określi, w drodze rozporządzenia: warunki i tryb zatrudniania pracowników w jednostkach wojskowych wykonujących zadania poza granicami państwa, z uwzględnieniem specyfiki związanej z wykonywaniem pracy w takich jednostkach wojskowych; (uchylony) szczegółowe zasady i tryb finansowania przygotowania i działania jednostek wojskowych, z uwzględnieniem przepisów o finansach publicznych; uposażenie oraz inne należności pieniężne otrzymywane przez żołnierzy wyznaczonych do pełnienia służby poza granicami państwa, wynagrodzenie i inne należności pieniężne oraz świadczenia otrzymywane przez pracowników wojska zatrudnionych w jednostkach wojskowych, z uwzględnieniem w szczególności prawa do świadczeń odszkodowawczych, wynikających z odrębnych ustaw, dodatków zagranicznego i wojennego w zależności od celu użycia tych jednostek poza granicami państwa, oraz do bezpłatnych świadczeń zdrowotnych, zaopatrzenia w leki i artykuły sanitarne, a także bezpłatnego przewozu z kraju i z powrotem w związku z rozpoczęciem i zakończeniem misji oraz w przypadkach losowych; warunki otrzymywania świadczeń opieki zdrowotnej, o których mowa w art. 42 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych , oraz sposób i tryb finansowania ponoszonych kosztów, uwzględniając zasady wydatkowania środków publicznych. Rada Ministrów zapewni środki finansowe na użycie lub pobyt jednostek wojskowych poza granicami państwa w przypadkach określonych w art. 2, jeżeli środki na ten cel nie zostały uwzględnione w budżecie Ministerstwa Obrony Narodowej albo urzędu obsługującego ministra właściwego do spraw wewnętrznych. Minister właściwy do spraw zagranicznych, w drodze obwieszczenia, ogłasza strefy działań wojennych oraz dzień rozpoczęcia i zakończenia w nich działań wojennych."
+    },
+    {
+      "provision_ref": "art9u1p1",
+      "section": "9",
+      "title": "Art. 9 ust. 1 pkt 1",
+      "content": "Rada Ministrów określi, w drodze rozporządzenia: warunki i tryb zatrudniania pracowników w jednostkach wojskowych wykonujących zadania poza granicami państwa, z uwzględnieniem specyfiki związanej z wykonywaniem pracy w takich jednostkach wojskowych;"
+    },
+    {
+      "provision_ref": "art9u1p2",
+      "section": "9",
+      "title": "Art. 9 ust. 1 pkt 2",
+      "content": "Rada Ministrów określi, w drodze rozporządzenia: (uchylony)"
+    },
+    {
+      "provision_ref": "art9u1p3",
+      "section": "9",
+      "title": "Art. 9 ust. 1 pkt 3",
+      "content": "Rada Ministrów określi, w drodze rozporządzenia: szczegółowe zasady i tryb finansowania przygotowania i działania jednostek wojskowych, z uwzględnieniem przepisów o finansach publicznych;"
+    },
+    {
+      "provision_ref": "art9u1p4",
+      "section": "9",
+      "title": "Art. 9 ust. 1 pkt 4",
+      "content": "Rada Ministrów określi, w drodze rozporządzenia: uposażenie oraz inne należności pieniężne otrzymywane przez żołnierzy wyznaczonych do pełnienia służby poza granicami państwa, wynagrodzenie i inne należności pieniężne oraz świadczenia otrzymywane przez pracowników wojska zatrudnionych w jednostkach wojskowych, z uwzględnieniem w szczególności prawa do świadczeń odszkodowawczych, wynikających z odrębnych ustaw, dodatków zagranicznego i wojennego w zależności od celu użycia tych jednostek poza granicami państwa, oraz do bezpłatnych świadczeń zdrowotnych, zaopatrzenia w leki i artykuły sanitarne, a także bezpłatnego przewozu z kraju i z powrotem w związku z rozpoczęciem i zakończeniem misji oraz w przypadkach losowych;"
+    },
+    {
+      "provision_ref": "art9u1p5",
+      "section": "9",
+      "title": "Art. 9 ust. 1 pkt 5",
+      "content": "Rada Ministrów określi, w drodze rozporządzenia: warunki otrzymywania świadczeń opieki zdrowotnej, o których mowa w art. 42 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych , oraz sposób i tryb finansowania ponoszonych kosztów, uwzględniając zasady wydatkowania środków publicznych."
+    },
+    {
+      "provision_ref": "art9u2",
+      "section": "9",
+      "title": "Art. 9 ust. 2",
+      "content": "Rada Ministrów zapewni środki finansowe na użycie lub pobyt jednostek wojskowych poza granicami państwa w przypadkach określonych w art. 2, jeżeli środki na ten cel nie zostały uwzględnione w budżecie Ministerstwa Obrony Narodowej albo urzędu obsługującego ministra właściwego do spraw wewnętrznych."
+    },
+    {
+      "provision_ref": "art9u3",
+      "section": "9",
+      "title": "Art. 9 ust. 3",
+      "content": "Minister właściwy do spraw zagranicznych, w drodze obwieszczenia, ogłasza strefy działań wojennych oraz dzień rozpoczęcia i zakończenia w nich działań wojennych."
+    },
+    {
+      "provision_ref": "art9a",
+      "section": "9a",
+      "title": "Art. 9a",
+      "content": "W przypadku śmierci pracownika podczas pobytu poza granicami państwa albo jeżeli pracownik zmarł w następstwie wypadku lub choroby pozostających w związku z wykonywaną pracą poza granicami państwa, stosuje się odpowiednio przepisy art. 432 ust. 3 pkt 3, art. 433 ust. 2 pkt 7, art. 443 ust. 2 i 3 oraz art. 463 ust. 2 i 3 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny ."
+    },
+    {
+      "provision_ref": "art9b",
+      "section": "9b",
+      "title": "Art. 9b",
+      "content": "Pracownik wykonujący poza granicami państwa zadania, o których mowa w art. 2 pkt 1, w przypadku odniesienia ran, kontuzji, urazu psychicznego lub schorzenia lub ze względu na jego stan psychofizyczny zgodnie ze wskazaniami lekarza - po powrocie do kraju - może być skierowany na bezpłatny turnus leczniczo-profilaktyczny wraz z pełnoletnim najbliższym członkiem rodziny w rozumieniu art. 4 pkt 12 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa . Turnus leczniczo-profilaktyczny trwa 14 dni kalendarzowych i obejmuje działania leczniczo-rehabilitacyjne i profilaktykę zdrowotną, w tym profilaktykę psychologiczną. Kolejny pobyt pracownika, o którym mowa w ust. 1, na turnusie leczniczo-profilaktycznym po uczestnictwie w wykonywaniu tych samych zadań, o których mowa w art. 2 pkt 1, może odbyć się pod warunkiem poddania się leczeniu specjalistycznemu, ambulatoryjnemu lub stacjonarnemu albo konsultacji specjalistycznej zakończonej wskazaniem uczestnictwa w turnusie leczniczo-profilaktycznym jako niezbędnym do kontynuacji leczenia. Osoby skierowane na turnus leczniczo-profilaktyczny mogą skorzystać z prawa do turnusu leczniczo-profilaktycznego w czasie pozostawania w stosunku pracy w jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych. Pełne koszty uczestnictwa w turnusie leczniczo-profilaktycznym pracownika oraz 50% kosztów uczestnictwa pełnoletniego najbliższego członka rodziny pokrywa się z budżetu państwa z części pozostającej w dyspozycji Ministra Obrony Narodowej. Koszty uczestnictwa w turnusie leczniczo-profilaktycznym pracownika oraz pełnoletniego najbliższego członka rodziny są finansowane na podstawie umowy zawartej z kierownikiem podmiotu prowadzącego turnus. Umowa jest zawierana z uwzględnieniem zasad wydatkowania środków publicznych określonych w art. 44 ust. 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych ) i określa w szczególności: warunki i organizację turnusu leczniczo-profilaktycznego oraz liczbę uczestników; okres jej obowiązywania; kwotę zobowiązania i możliwość jej weryfikacji oraz zasady rozliczeń; zasady zwrotu środków finansowych i stosowania kar umownych w przypadku niewłaściwego wykonania umowy; sposób i tryb kontroli wykonania umowy. Skierowanie na turnus leczniczo-profilaktyczny zawiera następujące dane: pracownika: imię i nazwisko, numer PESEL, miejsce zamieszkania, miejsce zatrudnienia, numer telefonu kontaktowego; pełnoletniego najbliższego członka rodziny: imię i nazwisko, datę urodzenia, stopień pokrewieństwa. Minister Obrony Narodowej określi, w drodze rozporządzenia: tryb kierowania pracownika wraz z pełnoletnim najbliższym członkiem rodziny na turnus leczniczo-profilaktyczny, podmiot kierujący na turnus leczniczo-profilaktyczny, ramowy program turnusu leczniczo-profilaktycznego, podmiot prowadzący turnus leczniczo-profilaktyczny, rodzaje i wzory dokumentów wystawianych w związku z kierowaniem na turnus leczniczo-profilaktyczny - uwzględniając potrzeby pracownika wynikające z jego aktualnego stanu zdrowia i stanu psychofizycznego, w tym konieczność zapewnienia pełnej rekonwalescencji oraz umożliwienie dalszego leczenia lub rehabilitacji po zakończeniu pobytu na turnusie leczniczo-profilaktycznym."
+    },
+    {
+      "provision_ref": "art9bu1",
+      "section": "9b",
+      "title": "Art. 9b ust. 1",
+      "content": "Pracownik wykonujący poza granicami państwa zadania, o których mowa w art. 2 pkt 1, w przypadku odniesienia ran, kontuzji, urazu psychicznego lub schorzenia lub ze względu na jego stan psychofizyczny zgodnie ze wskazaniami lekarza - po powrocie do kraju - może być skierowany na bezpłatny turnus leczniczo-profilaktyczny wraz z pełnoletnim najbliższym członkiem rodziny w rozumieniu art. 4 pkt 12 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa ."
+    },
+    {
+      "provision_ref": "art9bu2",
+      "section": "9b",
+      "title": "Art. 9b ust. 2",
+      "content": "Turnus leczniczo-profilaktyczny trwa 14 dni kalendarzowych i obejmuje działania leczniczo-rehabilitacyjne i profilaktykę zdrowotną, w tym profilaktykę psychologiczną."
+    },
+    {
+      "provision_ref": "art9bu3",
+      "section": "9b",
+      "title": "Art. 9b ust. 3",
+      "content": "Kolejny pobyt pracownika, o którym mowa w ust. 1, na turnusie leczniczo-profilaktycznym po uczestnictwie w wykonywaniu tych samych zadań, o których mowa w art. 2 pkt 1, może odbyć się pod warunkiem poddania się leczeniu specjalistycznemu, ambulatoryjnemu lub stacjonarnemu albo konsultacji specjalistycznej zakończonej wskazaniem uczestnictwa w turnusie leczniczo-profilaktycznym jako niezbędnym do kontynuacji leczenia."
+    },
+    {
+      "provision_ref": "art9bu4",
+      "section": "9b",
+      "title": "Art. 9b ust. 4",
+      "content": "Osoby skierowane na turnus leczniczo-profilaktyczny mogą skorzystać z prawa do turnusu leczniczo-profilaktycznego w czasie pozostawania w stosunku pracy w jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych."
+    },
+    {
+      "provision_ref": "art9bu5",
+      "section": "9b",
+      "title": "Art. 9b ust. 5",
+      "content": "Pełne koszty uczestnictwa w turnusie leczniczo-profilaktycznym pracownika oraz 50% kosztów uczestnictwa pełnoletniego najbliższego członka rodziny pokrywa się z budżetu państwa z części pozostającej w dyspozycji Ministra Obrony Narodowej."
+    },
+    {
+      "provision_ref": "art9bu6",
+      "section": "9b",
+      "title": "Art. 9b ust. 6",
+      "content": "Koszty uczestnictwa w turnusie leczniczo-profilaktycznym pracownika oraz pełnoletniego najbliższego członka rodziny są finansowane na podstawie umowy zawartej z kierownikiem podmiotu prowadzącego turnus."
+    },
+    {
+      "provision_ref": "art9bu7p1",
+      "section": "9b",
+      "title": "Art. 9b ust. 7 pkt 1",
+      "content": "Umowa jest zawierana z uwzględnieniem zasad wydatkowania środków publicznych określonych w art. 44 ust. 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych ) i określa w szczególności: warunki i organizację turnusu leczniczo-profilaktycznego oraz liczbę uczestników;"
+    },
+    {
+      "provision_ref": "art9bu7p2",
+      "section": "9b",
+      "title": "Art. 9b ust. 7 pkt 2",
+      "content": "Umowa jest zawierana z uwzględnieniem zasad wydatkowania środków publicznych określonych w art. 44 ust. 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych ) i określa w szczególności: okres jej obowiązywania;"
+    },
+    {
+      "provision_ref": "art9bu7p3",
+      "section": "9b",
+      "title": "Art. 9b ust. 7 pkt 3",
+      "content": "Umowa jest zawierana z uwzględnieniem zasad wydatkowania środków publicznych określonych w art. 44 ust. 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych ) i określa w szczególności: kwotę zobowiązania i możliwość jej weryfikacji oraz zasady rozliczeń;"
+    },
+    {
+      "provision_ref": "art9bu7p4",
+      "section": "9b",
+      "title": "Art. 9b ust. 7 pkt 4",
+      "content": "Umowa jest zawierana z uwzględnieniem zasad wydatkowania środków publicznych określonych w art. 44 ust. 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych ) i określa w szczególności: zasady zwrotu środków finansowych i stosowania kar umownych w przypadku niewłaściwego wykonania umowy;"
+    },
+    {
+      "provision_ref": "art9bu7p5",
+      "section": "9b",
+      "title": "Art. 9b ust. 7 pkt 5",
+      "content": "Umowa jest zawierana z uwzględnieniem zasad wydatkowania środków publicznych określonych w art. 44 ust. 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych ) i określa w szczególności: sposób i tryb kontroli wykonania umowy."
+    },
+    {
+      "provision_ref": "art9bu8p1la",
+      "section": "9b",
+      "title": "Art. 9b ust. 8 pkt 1 lit. a",
+      "content": "Skierowanie na turnus leczniczo-profilaktyczny zawiera następujące dane: pracownika: imię i nazwisko,"
+    },
+    {
+      "provision_ref": "art9bu8p1lb",
+      "section": "9b",
+      "title": "Art. 9b ust. 8 pkt 1 lit. b",
+      "content": "Skierowanie na turnus leczniczo-profilaktyczny zawiera następujące dane: pracownika: numer PESEL,"
+    },
+    {
+      "provision_ref": "art9bu8p1lc",
+      "section": "9b",
+      "title": "Art. 9b ust. 8 pkt 1 lit. c",
+      "content": "Skierowanie na turnus leczniczo-profilaktyczny zawiera następujące dane: pracownika: miejsce zamieszkania,"
+    },
+    {
+      "provision_ref": "art9bu8p1ld",
+      "section": "9b",
+      "title": "Art. 9b ust. 8 pkt 1 lit. d",
+      "content": "Skierowanie na turnus leczniczo-profilaktyczny zawiera następujące dane: pracownika: miejsce zatrudnienia,"
+    },
+    {
+      "provision_ref": "art9bu8p1le",
+      "section": "9b",
+      "title": "Art. 9b ust. 8 pkt 1 lit. e",
+      "content": "Skierowanie na turnus leczniczo-profilaktyczny zawiera następujące dane: pracownika: numer telefonu kontaktowego;"
+    },
+    {
+      "provision_ref": "art9bu8p2la",
+      "section": "9b",
+      "title": "Art. 9b ust. 8 pkt 2 lit. a",
+      "content": "Skierowanie na turnus leczniczo-profilaktyczny zawiera następujące dane: pełnoletniego najbliższego członka rodziny: imię i nazwisko,"
+    },
+    {
+      "provision_ref": "art9bu8p2lb",
+      "section": "9b",
+      "title": "Art. 9b ust. 8 pkt 2 lit. b",
+      "content": "Skierowanie na turnus leczniczo-profilaktyczny zawiera następujące dane: pełnoletniego najbliższego członka rodziny: datę urodzenia,"
+    },
+    {
+      "provision_ref": "art9bu8p2lc",
+      "section": "9b",
+      "title": "Art. 9b ust. 8 pkt 2 lit. c",
+      "content": "Skierowanie na turnus leczniczo-profilaktyczny zawiera następujące dane: pełnoletniego najbliższego członka rodziny: stopień pokrewieństwa."
+    },
+    {
+      "provision_ref": "art9bu9p1",
+      "section": "9b",
+      "title": "Art. 9b ust. 9 pkt 1",
+      "content": "Minister Obrony Narodowej określi, w drodze rozporządzenia: tryb kierowania pracownika wraz z pełnoletnim najbliższym członkiem rodziny na turnus leczniczo-profilaktyczny,"
+    },
+    {
+      "provision_ref": "art9bu9p2",
+      "section": "9b",
+      "title": "Art. 9b ust. 9 pkt 2",
+      "content": "Minister Obrony Narodowej określi, w drodze rozporządzenia: podmiot kierujący na turnus leczniczo-profilaktyczny,"
+    },
+    {
+      "provision_ref": "art9bu9p3",
+      "section": "9b",
+      "title": "Art. 9b ust. 9 pkt 3",
+      "content": "Minister Obrony Narodowej określi, w drodze rozporządzenia: ramowy program turnusu leczniczo-profilaktycznego,"
+    },
+    {
+      "provision_ref": "art9bu9p4",
+      "section": "9b",
+      "title": "Art. 9b ust. 9 pkt 4",
+      "content": "Minister Obrony Narodowej określi, w drodze rozporządzenia: podmiot prowadzący turnus leczniczo-profilaktyczny,"
+    },
+    {
+      "provision_ref": "art9bu9p5",
+      "section": "9b",
+      "title": "Art. 9b ust. 9 pkt 5",
+      "content": "Minister Obrony Narodowej określi, w drodze rozporządzenia: rodzaje i wzory dokumentów wystawianych w związku z kierowaniem na turnus leczniczo-profilaktyczny"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Art. 10",
-      "content": "1. Przepisy ustawy stosuje się także do żołnierzy i pracowników wojska, którzy w dniu wejścia w życie ustawy pełnią służbę lub wykonują obowiązki poza granicami państwa na podstawie ustawy z dnia 19 lutego 1998 r. o zasadach użycia Sił Zbrojnych poza granicami Rzeczypospolitej Polskiej w 1998 r. ( Dz. U. Nr 23, poz. 119 ) . 2. W stosunku do żołnierzy pełniących służbę w jednostkach wojskowych w sprawach nie uregulowanych w niniejszej ustawie mają zastosowanie przepisy o służbie wojskowej żołnierzy zawodowych."
+      "content": "Przepisy ustawy stosuje się także do żołnierzy i pracowników wojska, którzy w dniu wejścia w życie ustawy pełnią służbę lub wykonują obowiązki poza granicami państwa na podstawie ustawy z dnia 19 lutego 1998 r. o zasadach użycia Sił Zbrojnych poza granicami Rzeczypospolitej Polskiej w 1998 r. . W stosunku do żołnierzy pełniących służbę w jednostkach wojskowych w sprawach nieuregulowanych w niniejszej ustawie mają zastosowanie przepisy o służbie wojskowej żołnierzy zawodowych."
+    },
+    {
+      "provision_ref": "art10u1",
+      "section": "10",
+      "title": "Art. 10 ust. 1",
+      "content": "Przepisy ustawy stosuje się także do żołnierzy i pracowników wojska, którzy w dniu wejścia w życie ustawy pełnią służbę lub wykonują obowiązki poza granicami państwa na podstawie ustawy z dnia 19 lutego 1998 r. o zasadach użycia Sił Zbrojnych poza granicami Rzeczypospolitej Polskiej w 1998 r. ."
+    },
+    {
+      "provision_ref": "art10u2",
+      "section": "10",
+      "title": "Art. 10 ust. 2",
+      "content": "W stosunku do żołnierzy pełniących służbę w jednostkach wojskowych w sprawach nieuregulowanych w niniejszej ustawie mają zastosowanie przepisy o służbie wojskowej żołnierzy zawodowych."
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Art. 11",
-      "content": "W ustawie z dnia 30 czerwca 1970 r. o służbie wojskowej żołnierzy zawodowych ( Dz. U. z 1997 r. Nr 10, poz. 55 , Nr 28, poz. 153 , Nr 106, poz. 678 , Nr 107, poz. 688 , Nr 117, poz. 753 , Nr 121, poz. 770 i Nr 141, poz. 944 ) w art. 20a ust. 2 i 3 otrzymują brzmienie: „ 2. Żołnierz zawodowy może być wyznaczony, za jego pisemną zgodą, do pełnienia służby poza granicami Państwa z zastrzeżeniem ust. 3. 3. W przypadku kierowania poza granice Państwa jednostek wojskowych wydzielonych z Sił Zbrojnych w celu udziału w: 1) konflikcie zbrojnym lub dla wzmocnienia sił państwa lub państw sojuszniczych, 2) misji pokojowej, 3) akcji zapobieżenia aktom terroryzmu lub ich skutkom, 4) szkoleniach i ćwiczeniach wojskowych, 5) akcjach ratowniczych, poszukiwawczych lub humanitarnych, 6) przedsięwzięciach reprezentacyjnych zgoda żołnierza zawodowego nie jest wymagana. ” ."
+      "content": "(pominięty)"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Art. 12",
-      "content": "Do czasu wydania przepisów wykonawczych przewidzianych w ustawie, nie dłużej jednak niż przez 6 miesięcy, zachowują moc dotychczasowe przepisy wykonawcze wydane na podstawie ustawy, o której mowa w art. 10 ust. 1, o ile nie są sprzeczne z niniejszą ustawą."
+      "content": "(pominięty)"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Art. 13",
-      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 1999 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_2-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_2-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_2-pint_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_2-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_2-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_2-pint_2-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_3-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_3-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_4-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_4-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_5-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_5-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_5-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_5-pass_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_5-pass_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_5-pass_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"}]},{\"id\": \"arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"arti_7-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_7-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"arti_9-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_9-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_9-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_9-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_9-pass_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_9-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\",\"children\": [{\"id\": \"arti_10-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_10-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"},{\"id\": \"arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 1999 r."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2019-1461",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-396",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-655",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-1510",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-1700",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2140",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-240",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-1920",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2561",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2674",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2770",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2305",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-347",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2205",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-1634",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1998-119",
+      "ref_type": "references"
+    }
+  ]
 }

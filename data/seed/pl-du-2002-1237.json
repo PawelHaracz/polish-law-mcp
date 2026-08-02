@@ -13,14 +13,44 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 18 grudnia 1998 r. o służbie cywilnej ( Dz. U. z 1999 r. Nr 49, poz. 483 , Nr 70, poz. 778 i Nr 110, poz. 1255 oraz z 2001 r. Nr 102, poz. 1116 , Nr 111, poz. 1194 , Nr 128, poz. 1403 i Nr 154, poz. 1800 ) po art. 147 dodaje się art. 147a w brzmieniu: „ Art. 147a. Do dnia 31 grudnia 2003 r. funkcję rzecznika dyscyplinarnego urzędu może sprawować pracownik służby cywilnej. ”"
+      "content": "W ustawie z dnia 18 grudnia 1998 r. o służbie cywilnej po art. 147 dodaje się art. 147a w brzmieniu: „ Do dnia 31 grudnia 2003 r. funkcję rzecznika dyscyplinarnego urzędu może sprawować pracownik służby cywilnej. ”"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-1999-483",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1999-778",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1999-1255",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2001-1116",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2001-1194",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2001-1403",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2001-1800",
+      "ref_type": "amended_by"
+    }
+  ]
 }

@@ -13,7 +13,19 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W art. 3 ustawy z dnia 22 października 1931 r. o opodatkowaniu piwa ( Dz. U. R. P. Nr 99, poz. 762 ) wprowadza się zmiany następujące: 1) dodaje się nowy ust. (3) o brzmieniu: „ (3) Minister Skarbu może zniżać w drodze rozporządzeń stawki podatku, określone w ust. (1) i (2). ” ; 2) dotychczasowe ust. (3) i (4) otrzymują kolejną numerację (4) i (5)."
+      "content": "W art. 3 ustawy z dnia 22 października 1931 r. o opodatkowaniu piwa wprowadza się zmiany następujące: dodaje się nowy ust. (3) o brzmieniu: „ Minister Skarbu może zniżać w drodze rozporządzeń stawki podatku, określone w ust. (1) i (2). ” ; dotychczasowe ust. (3) i (4) otrzymują kolejną numerację (4) i (5)."
+    },
+    {
+      "provision_ref": "art1p1u3",
+      "section": "1",
+      "title": "Art. 1 pkt 1 ust. 3",
+      "content": "W art. 3 ustawy z dnia 22 października 1931 r. o opodatkowaniu piwa wprowadza się zmiany następujące: dodaje się nowy ust. (3) o brzmieniu: „ Minister Skarbu może zniżać w drodze rozporządzeń stawki podatku, określone w ust. (1) i (2)."
+    },
+    {
+      "provision_ref": "art1p2",
+      "section": "1",
+      "title": "Art. 1 pkt 2",
+      "content": "W art. 3 ustawy z dnia 22 października 1931 r. o opodatkowaniu piwa wprowadza się zmiany następujące: dotychczasowe ust. (3) i (4) otrzymują kolejną numerację (4) i (5)."
     },
     {
       "provision_ref": "art2",
@@ -25,8 +37,14 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-1931-762",
+      "ref_type": "amended_by"
+    }
+  ]
 }

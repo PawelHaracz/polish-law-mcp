@@ -79,7 +79,31 @@
       "provision_ref": "art12",
       "section": "12",
       "title": "Art. 12",
-      "content": "Art. 50 ustawy z dnia 16 lipca 1920 r. uzupełnia się następującą częścią: „ Osoby, których główny dochód płynie: a) z nieruchomości gruntowej, nie przekraczającej 30 ha; b) z przedsiębiorstwa handlowego, opłacającego zasadniczy podatek przemysłowy według IV i V kategorji wszędzie i według III kategorji w miejscowościach III i IV klasy; c) z zakładu przemysłowego lub warsztatu rzemieślniczego, wolnego od zasadniczego podatku przemysłowego, lub opłacającego ten podatek wedle VIII kategorji przedsiębiorstw przemysłowych; d) z domów mieszkalnych, składających się najwyżej z czterech izb są z reguły uwolnione od składania zeznań, a są do tego obowiązane tylko wtedy, gdy otrzymają osobne wezwanie władzy podatkowej lub przewodniczącego komisji wymiarowej. Te osoby są jednak w każdym razie uprawnione do wniesienia zeznania ” ."
+      "content": "Art. 50 ustawy z dnia 16 lipca 1920 r. uzupełnia się następującą częścią: „ Osoby, których główny dochód płynie: z nieruchomości gruntowej, nie przekraczającej 30 ha; z przedsiębiorstwa handlowego, opłacającego zasadniczy podatek przemysłowy według IV i V kategorji wszędzie i według III kategorji w miejscowościach III i IV klasy; z zakładu przemysłowego lub warsztatu rzemieślniczego, wolnego od zasadniczego podatku przemysłowego, lub opłacającego ten podatek wedle VIII kategorji przedsiębiorstw przemysłowych; z domów mieszkalnych, składających się najwyżej z czterech izb są z reguły uwolnione od składania zeznań, a są do tego obowiązane tylko wtedy, gdy otrzymają osobne wezwanie władzy podatkowej lub przewodniczącego komisji wymiarowej. Te osoby są jednak w każdym razie uprawnione do wniesienia zeznania ” ."
+    },
+    {
+      "provision_ref": "art12la",
+      "section": "12",
+      "title": "Art. 12 lit. a",
+      "content": "Art. 50 ustawy z dnia 16 lipca 1920 r. uzupełnia się następującą częścią: „ Osoby, których główny dochód płynie: z nieruchomości gruntowej, nie przekraczającej 30 ha;"
+    },
+    {
+      "provision_ref": "art12lb",
+      "section": "12",
+      "title": "Art. 12 lit. b",
+      "content": "Art. 50 ustawy z dnia 16 lipca 1920 r. uzupełnia się następującą częścią: „ Osoby, których główny dochód płynie: z przedsiębiorstwa handlowego, opłacającego zasadniczy podatek przemysłowy według IV i V kategorji wszędzie i według III kategorji w miejscowościach III i IV klasy;"
+    },
+    {
+      "provision_ref": "art12lc",
+      "section": "12",
+      "title": "Art. 12 lit. c",
+      "content": "Art. 50 ustawy z dnia 16 lipca 1920 r. uzupełnia się następującą częścią: „ Osoby, których główny dochód płynie: z zakładu przemysłowego lub warsztatu rzemieślniczego, wolnego od zasadniczego podatku przemysłowego, lub opłacającego ten podatek wedle VIII kategorji przedsiębiorstw przemysłowych;"
+    },
+    {
+      "provision_ref": "art12ld",
+      "section": "12",
+      "title": "Art. 12 lit. d",
+      "content": "Art. 50 ustawy z dnia 16 lipca 1920 r. uzupełnia się następującą częścią: „ Osoby, których główny dochód płynie: z domów mieszkalnych, składających się najwyżej z czterech izb są z reguły uwolnione od składania zeznań, a są do tego obowiązane tylko wtedy, gdy otrzymają osobne wezwanie władzy podatkowej lub przewodniczącego komisji wymiarowej. Te osoby są jednak w każdym razie uprawnione do wniesienia zeznania"
     },
     {
       "provision_ref": "art13",
@@ -175,8 +199,9 @@
       "provision_ref": "art23",
       "section": "23",
       "title": "Art. 23",
-      "content": "Ustawa niniejsza wchodzi w życie od roku podatkowego 1923 z tem, że moc obowiązująca artykułów 1, 2, 7, 8, 9, 10, 19, 20, 21, 22, 23 i 24 gaśnie z końcem roku 1923. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"},{\"id\": \"arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"},{\"id\": \"arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\"},{\"id\": \"arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\"},{\"id\": \"arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\"},{\"id\": \"arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\"},{\"id\": \"arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\"},{\"id\": \"arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\"},{\"id\": \"arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\"},{\"id\": \"arti_22\",\"symbol\": \"arti_22\",\"type\": \"arti\",\"name\": \"22\",\"title\": \"Art. 22.\"},{\"id\": \"arti_23\",\"symbol\": \"arti_23\",\"type\": \"arti\",\"name\": \"23\",\"title\": \"Art. 23.\"},{\"id\": \"arti_24\",\"symbol\": \"arti_24\",\"type\": \"arti\",\"name\": \"24\",\"title\": \"Art. 24.\"},{\"id\": \"arti_25\",\"symbol\": \"arti_25\",\"type\": \"arti\",\"name\": \"25\",\"title\": \"Art. 25.\"},{\"id\": \"arti_26\",\"symbol\": \"arti_26\",\"type\": \"arti\",\"name\": \"26\",\"title\": \"Art. 26.\"},{\"id\": \"arti_27\",\"symbol\": \"arti_27\",\"type\": \"arti\",\"name\": \"27\",\"title\": \"Art. 27.\"},{\"id\": \"arti_23\",\"symbol\": \"arti_23\",\"type\": \"arti\",\"name\": \"23\",\"title\": \"Art. 23.\"} ] } ];"
+      "content": "Ustawa niniejsza wchodzi w życie od roku podatkowego 1923 z tem, że moc obowiązująca artykułów 1, 2, 7, 8, 9, 10, 19, 20, 21, 22, 23 i 24 gaśnie z końcem roku 1923."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": []
 }

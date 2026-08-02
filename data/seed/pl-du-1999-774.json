@@ -13,14 +13,36 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych ( Dz. U. Nr 162, poz. 1118 i z 1999 r. Nr 38, poz. 360 ) w art. 104: 1) po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. Dla emerytów i rencistów prowadzących pozarolniczą działalność za przychód, o którym mowa w ust. 1, przyjmuje się przychód stanowiący podstawę wymiaru składki na ubezpieczenia społeczne w rozumieniu przepisów o systemie ubezpieczeń społecznych. ” ; 2) w ust. 4 wyrazy „Przepisy ust. 1 i 2” zastępuje się wyrazami „Przepisy ust. 1, 1a i 2” ."
+      "content": "W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych w art. 104: po ust. 1 dodaje się ust. 1a w brzmieniu: „ Dla emerytów i rencistów prowadzących pozarolniczą działalność za przychód, o którym mowa w ust. 1, przyjmuje się przychód stanowiący podstawę wymiaru składki na ubezpieczenia społeczne w rozumieniu przepisów o systemie ubezpieczeń społecznych. ” ; w ust. 4 wyrazy „Przepisy ust. 1 i 2” zastępuje się wyrazami „Przepisy ust. 1, 1a i 2” ."
+    },
+    {
+      "provision_ref": "art1p1u1a",
+      "section": "1",
+      "title": "Art. 1 pkt 1 ust. 1a",
+      "content": "W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych w art. 104: po ust. 1 dodaje się ust. 1a w brzmieniu: „ Dla emerytów i rencistów prowadzących pozarolniczą działalność za przychód, o którym mowa w ust. 1, przyjmuje się przychód stanowiący podstawę wymiaru składki na ubezpieczenia społeczne w rozumieniu przepisów o systemie ubezpieczeń społecznych."
+    },
+    {
+      "provision_ref": "art1p2",
+      "section": "1",
+      "title": "Art. 1 pkt 2",
+      "content": "W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych w art. 104: w ust. 4 wyrazy „Przepisy ust. 1 i 2” zastępuje się wyrazami „Przepisy ust. 1, 1a i 2” ."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ustawa wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 stycznia 1999 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 stycznia 1999 r."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-1998-1118",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1999-360",
+      "ref_type": "amended_by"
+    }
+  ]
 }

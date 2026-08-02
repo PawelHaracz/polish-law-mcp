@@ -55,7 +55,7 @@ check the repo root).
 [![CI](https://github.com/Ansvar-Systems/polish-law-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/Ansvar-Systems/polish-law-mcp/actions/workflows/ci.yml)
 [![Daily Data Check](https://github.com/Ansvar-Systems/polish-law-mcp/actions/workflows/check-updates.yml/badge.svg)](https://github.com/Ansvar-Systems/polish-law-mcp/actions/workflows/check-updates.yml)
 [![Database](https://img.shields.io/badge/database-pre--built-green)](docs/EU_INTEGRATION_GUIDE.md)
-[![Provisions](https://img.shields.io/badge/provisions-161%2C705-blue)](docs/EU_INTEGRATION_GUIDE.md)
+[![Provisions](https://img.shields.io/badge/provisions-944%2C498-blue)](docs/EU_INTEGRATION_GUIDE.md)
 
 Query **8,943 Polish statutes** -- from Ustawa o ochronie danych osobowych (UODO/RODO) and Kodeks karny to Kodeks cywilny, Kodeks spółek handlowych, Kodeks pracy, and more -- directly from Claude, Cursor, or any MCP-compatible client.
 
@@ -101,12 +101,24 @@ Once connected, just ask naturally:
 | Category | Count | Details |
 |----------|-------|---------|
 | **Statutes (Ustawy)** | 8,943 acts | Dziennik Ustaw publications 1918-2026 from Sejm ELI API |
-| **Provisions** | 161,705 articles | Full-text searchable with FTS5 |
-| **Case Law** | 23,043 decisions | Premium tier -- judicial decisions |
+| **Provisions** | 944,498 | Article aggregate + ustęp/punkt/litera/§ granularity, full-text searchable with FTS5 |
+| **Case Law** | separate MCP | Polish case law (SN/NSA/TK) is a separate server over SAOS — see `HANDOFF-case-law-mcp.md` |
 | **Preparatory Works** | 43,312 documents | Premium tier -- druki sejmowe, rządowe projekty ustaw |
 | **Agency Guidance** | 10 documents | Premium tier -- UODO guidance |
-| **Database Size** | ~332 MB | Optimized SQLite, portable |
+| **Database Size** | ~1.4 GB | SQLite; shipped separately (see Database section) |
 | **Daily Updates** | Automated | Freshness checks against Sejm ELI API |
+
+> **Search quality:** results are reranked by validity status — repealed/amended
+> provisions are demoted below comparably-relevant in-force ones, so the governing
+> law surfaces first. Hierarchical refs (`art1u2p3la` = art. 1 ust. 2 pkt 3 lit. a)
+> let you cite the exact sub-unit.
+
+### Database (shipped separately)
+
+The pre-built SQLite database (~1.4 GB) is **not bundled in the npm package**. Obtain
+it separately, then point the server at it via the `POLISH_LAW_DB_PATH` environment
+variable (or place it at `data/database.db` relative to the package). To build it
+yourself from source: `npm run ingest && npm run build:db`.
 
 **Verified data only** -- every citation is validated against official sources (api.sejm.gov.pl, isap.sejm.gov.pl). Zero LLM-generated content.
 

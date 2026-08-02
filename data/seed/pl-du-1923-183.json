@@ -13,7 +13,19 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "Przywraca się moc obowiązującą ustawy z dnia 10 maja 1921 r. o regulowania podatków od spożycia, zużycia, względnie produkcji na obszarze Rzeczypospolitej Polskiej (Dz. U. R. P. № 41, poz. 248) z tym dodatkiem, że przewidziana w art. 1 wspomnianej ustawy regulacja ma obejmować prócz uprawnień, wymienionych w art. 2 tejże ustawy, również i 1) prawo dostosowania przepisów ustawowych o podatkach pośrednich, obowiązujących w przedmiocie ustroju władz i ich uprawnień wykonawczych w poszczególnych b. zaborach, w razie rozszerzenia ich na dalszy obszar Rzeczypospolitej do obowiązujących tamie ustaw w dziedzinie podatków pośrednich, 2) uzupełniania przepisów o karalności przekroczeń przepisów, objętych rozporządzeniami Rady Ministrów, jako też rozporządzeniami wykonawczemi, wydanemi na podstawie niniejszej ustawy."
+      "content": "Przywraca się moc obowiązującą ustawy z dnia 10 maja 1921 r. o regulowania podatków od spożycia, zużycia, względnie produkcji na obszarze Rzeczypospolitej Polskiej (Dz. U. R. P. № 41, poz. 248) z tym dodatkiem, że przewidziana w art. 1 wspomnianej ustawy regulacja ma obejmować prócz uprawnień, wymienionych w art. 2 tejże ustawy, również i prawo dostosowania przepisów ustawowych o podatkach pośrednich, obowiązujących w przedmiocie ustroju władz i ich uprawnień wykonawczych w poszczególnych b. zaborach, w razie rozszerzenia ich na dalszy obszar Rzeczypospolitej do obowiązujących tamie ustaw w dziedzinie podatków pośrednich, uzupełniania przepisów o karalności przekroczeń przepisów, objętych rozporządzeniami Rady Ministrów, jako też rozporządzeniami wykonawczemi, wydanemi na podstawie niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art1p1",
+      "section": "1",
+      "title": "Art. 1 pkt 1",
+      "content": "Przywraca się moc obowiązującą ustawy z dnia 10 maja 1921 r. o regulowania podatków od spożycia, zużycia, względnie produkcji na obszarze Rzeczypospolitej Polskiej (Dz. U. R. P. № 41, poz. 248) z tym dodatkiem, że przewidziana w art. 1 wspomnianej ustawy regulacja ma obejmować prócz uprawnień, wymienionych w art. 2 tejże ustawy, również i prawo dostosowania przepisów ustawowych o podatkach pośrednich, obowiązujących w przedmiocie ustroju władz i ich uprawnień wykonawczych w poszczególnych b. zaborach, w razie rozszerzenia ich na dalszy obszar Rzeczypospolitej do obowiązujących tamie ustaw w dziedzinie podatków pośrednich,"
+    },
+    {
+      "provision_ref": "art1p2",
+      "section": "1",
+      "title": "Art. 1 pkt 2",
+      "content": "Przywraca się moc obowiązującą ustawy z dnia 10 maja 1921 r. o regulowania podatków od spożycia, zużycia, względnie produkcji na obszarze Rzeczypospolitej Polskiej (Dz. U. R. P. № 41, poz. 248) z tym dodatkiem, że przewidziana w art. 1 wspomnianej ustawy regulacja ma obejmować prócz uprawnień, wymienionych w art. 2 tejże ustawy, również i uzupełniania przepisów o karalności przekroczeń przepisów, objętych rozporządzeniami Rady Ministrów, jako też rozporządzeniami wykonawczemi, wydanemi na podstawie niniejszej ustawy."
     },
     {
       "provision_ref": "art2",
@@ -25,8 +37,9 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia i obowiązuje aż do dnia 31 grudnia 1923 r. Radę Ministrów upoważnia się do uzgodnienia obowiązujących dotychczas na obszarze województwa śląskiego ustaw i rozporządzeń, regulujących podatki od spożycia, zużycia, względnie produkcji, z takiemiż ustawami i rozporządzeniami, obowiązującemi na obszarze reszty Rzeczypospolitej Polskiej, uchylenia poszczególnych ustaw i rozporządzeń, wreszcie zrównania stawek podatkowych na całym obszarze Rzeszypospolitej Polskiej. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia i obowiązuje aż do dnia 31 grudnia 1923 r. Radę Ministrów upoważnia się do uzgodnienia obowiązujących dotychczas na obszarze województwa śląskiego ustaw i rozporządzeń, regulujących podatki od spożycia, zużycia, względnie produkcji, z takiemiż ustawami i rozporządzeniami, obowiązującemi na obszarze reszty Rzeczypospolitej Polskiej, uchylenia poszczególnych ustaw i rozporządzeń, wreszcie zrównania stawek podatkowych na całym obszarze Rzeszypospolitej Polskiej."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": []
 }

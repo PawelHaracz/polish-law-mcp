@@ -13,7 +13,19 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "(1) Obniżenie komornego, przyznane art. 1 i 2 dekretu Prezydenta Rzeczypospolite) z dnia 14 listopada 1935 r. w sprawie obniżenia komornego oraz zmiany ustawy o ochronie lokatorów ( Dz. U. R. P. Nr 82, poz. 504 ) , przedłuża się na czas od dnia 1 grudnia 1937 r. do dnia 31 grudnia 1938 r. (2) Począwszy od dnia 1 stycznia 1939 r. wysokość komornego wzrastać będzie co kwartał o 2 podstawowego komornego aż do osiągnięcia wysokości pełnego podstawowego komornego."
+      "content": "Obniżenie komornego, przyznane art. 1 i 2 dekretu Prezydenta Rzeczypospolite) z dnia 14 listopada 1935 r. w sprawie obniżenia komornego oraz zmiany ustawy o ochronie lokatorów , przedłuża się na czas od dnia 1 grudnia 1937 r. do dnia 31 grudnia 1938 r. Począwszy od dnia 1 stycznia 1939 r. wysokość komornego wzrastać będzie co kwartał o 2 podstawowego komornego aż do osiągnięcia wysokości pełnego podstawowego komornego."
+    },
+    {
+      "provision_ref": "art1u1",
+      "section": "1",
+      "title": "Art. 1 ust. 1",
+      "content": "Obniżenie komornego, przyznane art. 1 i 2 dekretu Prezydenta Rzeczypospolite) z dnia 14 listopada 1935 r. w sprawie obniżenia komornego oraz zmiany ustawy o ochronie lokatorów , przedłuża się na czas od dnia 1 grudnia 1937 r. do dnia 31 grudnia 1938 r."
+    },
+    {
+      "provision_ref": "art1u2",
+      "section": "1",
+      "title": "Art. 1 ust. 2",
+      "content": "Począwszy od dnia 1 stycznia 1939 r. wysokość komornego wzrastać będzie co kwartał o 2 podstawowego komornego aż do osiągnięcia wysokości pełnego podstawowego komornego."
     },
     {
       "provision_ref": "art2",
@@ -25,8 +37,26 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "(1) Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. (2) Przepisy jej obowiązują na obszarze województwa śląskiego tylko, jeżeli chodzi o wysokość komornego w budynkach, nie podlegających ochronie lokatorów, a należących do Skarbu Państwa, banków państwowych, związków samorządu terytorialnego, zakładów ubezpieczeń społecznych oraz innych instytucyj prawa publicznego. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_1-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_3-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]} ] } ];"
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Przepisy jej obowiązują na obszarze województwa śląskiego tylko, jeżeli chodzi o wysokość komornego w budynkach, nie podlegających ochronie lokatorów, a należących do Skarbu Państwa, banków państwowych, związków samorządu terytorialnego, zakładów ubezpieczeń społecznych oraz innych instytucyj prawa publicznego."
+    },
+    {
+      "provision_ref": "art3u1",
+      "section": "3",
+      "title": "Art. 3 ust. 1",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia."
+    },
+    {
+      "provision_ref": "art3u2",
+      "section": "3",
+      "title": "Art. 3 ust. 2",
+      "content": "Przepisy jej obowiązują na obszarze województwa śląskiego tylko, jeżeli chodzi o wysokość komornego w budynkach, nie podlegających ochronie lokatorów, a należących do Skarbu Państwa, banków państwowych, związków samorządu terytorialnego, zakładów ubezpieczeń społecznych oraz innych instytucyj prawa publicznego."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-1935-504",
+      "ref_type": "references"
+    }
+  ]
 }

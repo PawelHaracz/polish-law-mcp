@@ -13,14 +13,50 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 2 października 2003 r. o biokomponentach stosowanych w paliwach ciekłych i biopaliwach ciekłych ( Dz. U. Nr 199, poz. 1934 oraz z 2004 r. Nr 34, poz. 293 , Nr 109, poz. 1160 i Nr 173, poz. 1808 ) wprowadza się następujące zmiany: 1) w art. 12: a) uchyla się ust. 2, b) uchyla się ust. 7; 2) w art. 17 w ust. 1 uchyla się pkt 3."
+      "content": "W ustawie z dnia 2 października 2003 r. o biokomponentach stosowanych w paliwach ciekłych i biopaliwach ciekłych wprowadza się następujące zmiany: w art. 12: uchyla się ust. 2, uchyla się ust. 7; w art. 17 w ust. 1 uchyla się pkt 3."
+    },
+    {
+      "provision_ref": "art1p1la",
+      "section": "1",
+      "title": "Art. 1 pkt 1 lit. a",
+      "content": "W ustawie z dnia 2 października 2003 r. o biokomponentach stosowanych w paliwach ciekłych i biopaliwach ciekłych wprowadza się następujące zmiany: w art. 12: uchyla się ust. 2,"
+    },
+    {
+      "provision_ref": "art1p1lb",
+      "section": "1",
+      "title": "Art. 1 pkt 1 lit. b",
+      "content": "W ustawie z dnia 2 października 2003 r. o biokomponentach stosowanych w paliwach ciekłych i biopaliwach ciekłych wprowadza się następujące zmiany: w art. 12: uchyla się ust. 7;"
+    },
+    {
+      "provision_ref": "art1p2",
+      "section": "1",
+      "title": "Art. 1 pkt 2",
+      "content": "W ustawie z dnia 2 października 2003 r. o biokomponentach stosowanych w paliwach ciekłych i biopaliwach ciekłych wprowadza się następujące zmiany: w art. 17 w ust. 1 uchyla się pkt 3."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 2, który wchodzi w życie z dniem ogłoszenia, z mocą od dnia 21 sierpnia 2004 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 2, który wchodzi w życie z dniem ogłoszenia, z mocą od dnia 21 sierpnia 2004 r."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2003-1934",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2004-293",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2004-1160",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2004-1808",
+      "ref_type": "amended_by"
+    }
+  ]
 }

@@ -13,14 +13,42 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 21 grudnia 1990 r. o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych ( Dz. U. z 1991 r. Nr 8, poz. 27 , z 1995 r. Nr 120, poz. 576 , z 1997 r. Nr 60, poz. 369 , z 1998 r. Nr 106, poz. 668 oraz z 2000 r. Nr 114, poz. 1189 ) w art. 68 ust. 1 otrzymuje brzmienie: „ 1. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, jakie czynności z zakresu zadań lekarza weterynarii, o których mowa w art. 1 ust. 1, mogą być wykonywane przez osoby nieposiadające tytułu lekarza weterynarii, oraz określi kwalifikacje tych osób, uwzględniając konieczność sprawowania nadzoru przez lekarza weterynarii przy wykonywaniu niektórych czynności. ”"
+      "content": "W ustawie z dnia 21 grudnia 1990 r. o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych w art. 68 ust. 1 otrzymuje brzmienie: „ Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, jakie czynności z zakresu zadań lekarza weterynarii, o których mowa w art. 1 ust. 1, mogą być wykonywane przez osoby nieposiadające tytułu lekarza weterynarii, oraz określi kwalifikacje tych osób, uwzględniając konieczność sprawowania nadzoru przez lekarza weterynarii przy wykonywaniu niektórych czynności. ”"
+    },
+    {
+      "provision_ref": "art1u1",
+      "section": "1",
+      "title": "Art. 1 ust. 1",
+      "content": "W ustawie z dnia 21 grudnia 1990 r. o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych w art. 68 ust. 1 otrzymuje brzmienie: „ Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, jakie czynności z zakresu zadań lekarza weterynarii, o których mowa w art. 1 ust. 1, mogą być wykonywane przez osoby nieposiadające tytułu lekarza weterynarii, oraz określi kwalifikacje tych osób, uwzględniając konieczność sprawowania nadzoru przez lekarza weterynarii przy wykonywaniu niektórych czynności."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-1991-27",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1995-576",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1997-369",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1998-668",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2000-1189",
+      "ref_type": "amended_by"
+    }
+  ]
 }

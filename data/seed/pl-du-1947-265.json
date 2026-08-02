@@ -31,7 +31,19 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "1. Państwowe Muzeum Oświęcim-Brzezinka ma za zadanie zbieranie i gromadzenie dowodów i materiałów, dotyczących zbrodni hitlerowskich, udostępnianie ich społeczeństwu oraz naukowe ich opracowanie. 2. Zakres działania i organizację Muzeum określi statut, nadany przez Ministra Kultury i Sztuki."
+      "content": "Państwowe Muzeum Oświęcim-Brzezinka ma za zadanie zbieranie i gromadzenie dowodów i materiałów, dotyczących zbrodni hitlerowskich, udostępnianie ich społeczeństwu oraz naukowe ich opracowanie. Zakres działania i organizację Muzeum określi statut, nadany przez Ministra Kultury i Sztuki."
+    },
+    {
+      "provision_ref": "art4u1",
+      "section": "4",
+      "title": "Art. 4 ust. 1",
+      "content": "Państwowe Muzeum Oświęcim-Brzezinka ma za zadanie zbieranie i gromadzenie dowodów i materiałów, dotyczących zbrodni hitlerowskich, udostępnianie ich społeczeństwu oraz naukowe ich opracowanie."
+    },
+    {
+      "provision_ref": "art4u2",
+      "section": "4",
+      "title": "Art. 4 ust. 2",
+      "content": "Zakres działania i organizację Muzeum określi statut, nadany przez Ministra Kultury i Sztuki."
     },
     {
       "provision_ref": "art5",
@@ -61,8 +73,9 @@
       "provision_ref": "art9",
       "section": "9",
       "title": "Art. 9",
-      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"} ] } ];"
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": []
 }

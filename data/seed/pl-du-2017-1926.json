@@ -13,37 +13,667 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym ( Dz. U. z 2017 r. poz. 1260 ) wprowadza się następujące zmiany: 1) w art. 2 po pkt 10 dodaje się pkt 10a w brzmieniu: „ 10a) szkoda istotna - szkodę w zakresie elementów układu nośnego, hamulcowego lub kierowniczego pojazdu mającą wpływ na bezpieczeństwo ruchu drogowego, kwalifikującą pojazd do dodatkowego badania technicznego i stwierdzoną przez Ubezpieczeniowy Fundusz Gwarancyjny lub przez zakład ubezpieczeń w związku z otrzymanym zgłoszeniem szkody z tytułu zawartej umowy ubezpieczenia, o którym mowa w dziale II w grupach 3 i 10 załącznika do ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej ( Dz. U. z 2017 r. poz. 1170 i 1089 ) ; ” ; 2) w art. 80bh: a) w ust. 4: - wprowadzenie do wyliczenia otrzymuje brzmienie: „ Dane, o których mowa w ust. 2 i 3, przekazuje do katalogu: ” , - w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „ 3) producent lub importer nowego pojazdu samochodowego, ciągnika rolniczego, motoroweru, trolejbusu lub przyczepy na podstawie: a) wydanego na terytorium Rzeczypospolitej Polskiej świadectwa homologacji typu WE pojazdu albo świadectwa homologacji typu pojazdu albo wydanego na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego świadectwa homologacji typu WE pojazdu, b) wydanego świadectwa homologacji typu pojazdu w przypadku, o którym mowa w art. 70k ust. 1. ” , b) w ust. 6 pkt 3 otrzymuje brzmienie: „ 3) administratorowi danych i informacji zgromadzonych w ewidencji - na potrzeby przetwarzania i udostępniania danych zgromadzonych w ewidencji; ” ; 3) w art. 80d ust. 3c otrzymuje brzmienie: „ 3c. Do należności z tytułu opłat ewidencyjnych oraz odsetek za zwłokę stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa ( Dz. U. z 2017 r. poz. 201 , 648 , 768 , 935 , 1428 i 1537 ) , z wyłączeniem art. 75 § 4a w zakresie określenia w decyzji stwierdzającej nadpłatę wysokości zobowiązania podatkowego oraz art. 75 § 4b, z tym że uprawnienia organów podatkowych przysługują ministrowi właściwemu do spraw informatyzacji. ” ; 4) w art. 80o w ust. 1 w pkt 2 w lit. d kropkę zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „ e) datę i miejsce urodzenia. ” ; 5) w art. 81 w ust. 11 pkt 5 otrzymuje brzmienie: „ 5) w którym została dokonana naprawa wynikająca ze szkody istotnej; ” ; 6) w art. 83a w ust. 3 pkt 2 otrzymuje brzmienie: „ 2) numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada, oraz numer identyfikacyjny REGON, o ile przedsiębiorca taki numer posiada; ” ; 7) w art. 100c w ust. 1 w pkt 13 kropkę zastępuje się średnikiem i dodaje się pkt 14 w brzmieniu: „ 14) Ubezpieczeniowemu Funduszowi Gwarancyjnemu. ” ; 8) w art. 129 w ust. 4a dodaje się zdanie drugie w brzmieniu: „ Funkcjonariuszom Straży Granicznej przysługuje także uprawnienie, o którym mowa w ust. 2 pkt 6, w zakresie dotyczącym dokumentów stwierdzających uprawnienie do używania pojazdu. ” ; 9) w art. 132: a) w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Policjant albo funkcjonariusz Straży Granicznej zatrzyma dowód rejestracyjny (pozwolenie czasowe) w razie: ” , b) w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ W razie zatrzymania dowodu rejestracyjnego (pozwolenia czasowego) policjant albo funkcjonariusz Straży Granicznej wydaje kierowcy pokwitowanie. ” , c) ust. 3 i 3a otrzymują brzmienie: „ 3. Zatrzymany dokument, z wyjątkiem przypadków określonych w ust. 1 pkt 4, 6 i 7, odpowiedni organ Policji albo Straży Granicznej przesyła niezwłocznie organowi, który go wydał. 3a. Odpowiednie organy Policji albo Straży Granicznej zawiadomią właściwego dyrektora izby administracji skarbowej o fakcie zatrzymania dowodu rejestracyjnego w przypadku powzięcia uzasadnionego przypuszczenia, o którym mowa w ust. 1 pkt 7, w sytuacji gdy dotyczy to spełnienia przez pojazd wymagań technicznych określonych w przepisach ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług . ” , d) w ust. 5 zdanie pierwsze otrzymuje brzmienie: „ Zatrzymany dokument pojazdu zarejestrowanego za granicą, z wyjątkiem przypadków określonych w ust. 1 pkt 4 i 6, pozostawia się w jednostce Policji albo Straży Granicznej przez okres 7 dni. ” ; 10) w art. 133 ust. 1 otrzymuje brzmienie: „ 1. W przypadku określonym w art. 132 ust. 1 pkt 6 odpowiedni organ Policji albo Straży Granicznej zwraca zatrzymany dokument po przedstawieniu dokumentu potwierdzającego zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu lub dowodu opłacenia składki za to ubezpieczenie. ” ."
+      "content": "W ustawie z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym wprowadza się następujące zmiany: w art. 2 po pkt 10 dodaje się pkt 10a w brzmieniu: „ szkoda istotna - szkodę w zakresie elementów układu nośnego, hamulcowego lub kierowniczego pojazdu mającą wpływ na bezpieczeństwo ruchu drogowego, kwalifikującą pojazd do dodatkowego badania technicznego i stwierdzoną przez Ubezpieczeniowy Fundusz Gwarancyjny lub przez zakład ubezpieczeń w związku z otrzymanym zgłoszeniem szkody z tytułu zawartej umowy ubezpieczenia, o którym mowa w dziale II w grupach 3 i 10 załącznika do ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej ; ” ; w art. 80bh: w ust. 4: - wprowadzenie do wyliczenia otrzymuje brzmienie: „ Dane, o których mowa w ust. 2 i 3, przekazuje do katalogu: ” , - w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „ producent lub importer nowego pojazdu samochodowego, ciągnika rolniczego, motoroweru, trolejbusu lub przyczepy na podstawie: wydanego na terytorium Rzeczypospolitej Polskiej świadectwa homologacji typu WE pojazdu albo świadectwa homologacji typu pojazdu albo wydanego na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego świadectwa homologacji typu WE pojazdu, wydanego świadectwa homologacji typu pojazdu w przypadku, o którym mowa w art. 70k ust. 1. ” , w ust. 6 pkt 3 otrzymuje brzmienie: „ administratorowi danych i informacji zgromadzonych w ewidencji - na potrzeby przetwarzania i udostępniania danych zgromadzonych w ewidencji; ” ; w art. 80d ust. 3c otrzymuje brzmienie: „ Do należności z tytułu opłat ewidencyjnych oraz odsetek za zwłokę stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa , z wyłączeniem art. 75 § 4a w zakresie określenia w decyzji stwierdzającej nadpłatę wysokości zobowiązania podatkowego oraz art. 75 § 4b, z tym że uprawnienia organów podatkowych przysługują ministrowi właściwemu do spraw informatyzacji. ” ; w art. 80o w ust. 1 w pkt 2 w lit. d kropkę zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „ datę i miejsce urodzenia. ” ; w art. 81 w ust. 11 pkt 5 otrzymuje brzmienie: „ w którym została dokonana naprawa wynikająca ze szkody istotnej; ” ; w art. 83a w ust. 3 pkt 2 otrzymuje brzmienie: „ numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada, oraz numer identyfikacyjny REGON, o ile przedsiębiorca taki numer posiada; ” ; w art. 100c w ust. 1 w pkt 13 kropkę zastępuje się średnikiem i dodaje się pkt 14 w brzmieniu: „ Ubezpieczeniowemu Funduszowi Gwarancyjnemu. ” ; w art. 129 w ust. 4a dodaje się zdanie drugie w brzmieniu: „ Funkcjonariuszom Straży Granicznej przysługuje także uprawnienie, o którym mowa w ust. 2 pkt 6, w zakresie dotyczącym dokumentów stwierdzających uprawnienie do używania pojazdu. ” ; w art. 132: w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Policjant albo funkcjonariusz Straży Granicznej zatrzyma dowód rejestracyjny (pozwolenie czasowe) w razie: ” , w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ W razie zatrzymania dowodu rejestracyjnego (pozwolenia czasowego) policjant albo funkcjonariusz Straży Granicznej wydaje kierowcy pokwitowanie. ” , ust. 3 i 3a otrzymują brzmienie: „ Zatrzymany dokument, z wyjątkiem przypadków określonych w ust. 1 pkt 4, 6 i 7, odpowiedni organ Policji albo Straży Granicznej przesyła niezwłocznie organowi, który go wydał. Odpowiednie organy Policji albo Straży Granicznej zawiadomią właściwego dyrektora izby administracji skarbowej o fakcie zatrzymania dowodu rejestracyjnego w przypadku powzięcia uzasadnionego przypuszczenia, o którym mowa w ust. 1 pkt 7, w sytuacji gdy dotyczy to spełnienia przez pojazd wymagań technicznych określonych w przepisach ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług . ” , w ust. 5 zdanie pierwsze otrzymuje brzmienie: „ Zatrzymany dokument pojazdu zarejestrowanego za granicą, z wyjątkiem przypadków określonych w ust. 1 pkt 4 i 6, pozostawia się w jednostce Policji albo Straży Granicznej przez okres 7 dni. ” ; w art. 133 ust. 1 otrzymuje brzmienie: „ W przypadku określonym w art. 132 ust. 1 pkt 6 odpowiedni organ Policji albo Straży Granicznej zwraca zatrzymany dokument po przedstawieniu dokumentu potwierdzającego zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu lub dowodu opłacenia składki za to ubezpieczenie. ” ."
+    },
+    {
+      "provision_ref": "art1p1p10a",
+      "section": "1",
+      "title": "Art. 1 pkt 1 pkt 10a",
+      "content": "W ustawie z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym wprowadza się następujące zmiany: w art. 2 po pkt 10 dodaje się pkt 10a w brzmieniu: „ szkoda istotna - szkodę w zakresie elementów układu nośnego, hamulcowego lub kierowniczego pojazdu mającą wpływ na bezpieczeństwo ruchu drogowego, kwalifikującą pojazd do dodatkowego badania technicznego i stwierdzoną przez Ubezpieczeniowy Fundusz Gwarancyjny lub przez zakład ubezpieczeń w związku z otrzymanym zgłoszeniem szkody z tytułu zawartej umowy ubezpieczenia, o którym mowa w dziale II w grupach 3 i 10 załącznika do ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej ;"
+    },
+    {
+      "provision_ref": "art1p2lap3la",
+      "section": "1",
+      "title": "Art. 1 pkt 2 lit. ap",
+      "content": "W ustawie z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym wprowadza się następujące zmiany: w art. 80bh: w ust. 4: - wprowadzenie do wyliczenia otrzymuje brzmienie: „ Dane, o których mowa w ust. 2 i 3, przekazuje do katalogu: ” , - w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „ producent lub importer nowego pojazdu samochodowego, ciągnika rolniczego, motoroweru, trolejbusu lub przyczepy na podstawie: wydanego na terytorium Rzeczypospolitej Polskiej świadectwa homologacji typu WE pojazdu albo świadectwa homologacji typu pojazdu albo wydanego na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego świadectwa homologacji typu WE pojazdu,"
+    },
+    {
+      "provision_ref": "art1p2lap3lb",
+      "section": "1",
+      "title": "Art. 1 pkt 2 lit. ap",
+      "content": "W ustawie z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym wprowadza się następujące zmiany: w art. 80bh: w ust. 4: - wprowadzenie do wyliczenia otrzymuje brzmienie: „ Dane, o których mowa w ust. 2 i 3, przekazuje do katalogu: ” , - w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „ producent lub importer nowego pojazdu samochodowego, ciągnika rolniczego, motoroweru, trolejbusu lub przyczepy na podstawie: wydanego świadectwa homologacji typu pojazdu w przypadku, o którym mowa w art. 70k ust. 1."
+    },
+    {
+      "provision_ref": "art1p2lbp3",
+      "section": "1",
+      "title": "Art. 1 pkt 2 lit. bp",
+      "content": "W ustawie z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym wprowadza się następujące zmiany: w art. 80bh: w ust. 6 pkt 3 otrzymuje brzmienie: „ administratorowi danych i informacji zgromadzonych w ewidencji - na potrzeby przetwarzania i udostępniania danych zgromadzonych w ewidencji;"
+    },
+    {
+      "provision_ref": "art1p3u3c",
+      "section": "1",
+      "title": "Art. 1 pkt 3 ust. 3c",
+      "content": "W ustawie z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym wprowadza się następujące zmiany: w art. 80d ust. 3c otrzymuje brzmienie: „ Do należności z tytułu opłat ewidencyjnych oraz odsetek za zwłokę stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa , z wyłączeniem art. 75 § 4a w zakresie określenia w decyzji stwierdzającej nadpłatę wysokości zobowiązania podatkowego oraz art. 75 § 4b, z tym że uprawnienia organów podatkowych przysługują ministrowi właściwemu do spraw informatyzacji."
+    },
+    {
+      "provision_ref": "art1p4le",
+      "section": "1",
+      "title": "Art. 1 pkt 4 lit. e",
+      "content": "W ustawie z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym wprowadza się następujące zmiany: w art. 80o w ust. 1 w pkt 2 w lit. d kropkę zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „ datę i miejsce urodzenia."
+    },
+    {
+      "provision_ref": "art1p5p5",
+      "section": "1",
+      "title": "Art. 1 pkt 5 pkt 5",
+      "content": "W ustawie z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym wprowadza się następujące zmiany: w art. 81 w ust. 11 pkt 5 otrzymuje brzmienie: „ w którym została dokonana naprawa wynikająca ze szkody istotnej;"
+    },
+    {
+      "provision_ref": "art1p6p2",
+      "section": "1",
+      "title": "Art. 1 pkt 6 pkt 2",
+      "content": "W ustawie z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym wprowadza się następujące zmiany: w art. 83a w ust. 3 pkt 2 otrzymuje brzmienie: „ numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada, oraz numer identyfikacyjny REGON, o ile przedsiębiorca taki numer posiada;"
+    },
+    {
+      "provision_ref": "art1p7p14",
+      "section": "1",
+      "title": "Art. 1 pkt 7 pkt 14",
+      "content": "W ustawie z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym wprowadza się następujące zmiany: w art. 100c w ust. 1 w pkt 13 kropkę zastępuje się średnikiem i dodaje się pkt 14 w brzmieniu: „ Ubezpieczeniowemu Funduszowi Gwarancyjnemu."
+    },
+    {
+      "provision_ref": "art1p8",
+      "section": "1",
+      "title": "Art. 1 pkt 8",
+      "content": "W ustawie z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym wprowadza się następujące zmiany: w art. 129 w ust. 4a dodaje się zdanie drugie w brzmieniu: „ Funkcjonariuszom Straży Granicznej przysługuje także uprawnienie, o którym mowa w ust. 2 pkt 6, w zakresie dotyczącym dokumentów stwierdzających uprawnienie do używania pojazdu. ” ;"
+    },
+    {
+      "provision_ref": "art1p9la",
+      "section": "1",
+      "title": "Art. 1 pkt 9 lit. a",
+      "content": "W ustawie z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym wprowadza się następujące zmiany: w art. 132: w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Policjant albo funkcjonariusz Straży Granicznej zatrzyma dowód rejestracyjny (pozwolenie czasowe) w razie: ” ,"
+    },
+    {
+      "provision_ref": "art1p9lb",
+      "section": "1",
+      "title": "Art. 1 pkt 9 lit. b",
+      "content": "W ustawie z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym wprowadza się następujące zmiany: w art. 132: w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ W razie zatrzymania dowodu rejestracyjnego (pozwolenia czasowego) policjant albo funkcjonariusz Straży Granicznej wydaje kierowcy pokwitowanie. ” ,"
+    },
+    {
+      "provision_ref": "art1p9lcu3",
+      "section": "1",
+      "title": "Art. 1 pkt 9 lit. cu",
+      "content": "W ustawie z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym wprowadza się następujące zmiany: w art. 132: ust. 3 i 3a otrzymują brzmienie: „ Zatrzymany dokument, z wyjątkiem przypadków określonych w ust. 1 pkt 4, 6 i 7, odpowiedni organ Policji albo Straży Granicznej przesyła niezwłocznie organowi, który go wydał."
+    },
+    {
+      "provision_ref": "art1p9lcu3a",
+      "section": "1",
+      "title": "Art. 1 pkt 9 lit. cu",
+      "content": "W ustawie z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym wprowadza się następujące zmiany: w art. 132: ust. 3 i 3a otrzymują brzmienie: „ Odpowiednie organy Policji albo Straży Granicznej zawiadomią właściwego dyrektora izby administracji skarbowej o fakcie zatrzymania dowodu rejestracyjnego w przypadku powzięcia uzasadnionego przypuszczenia, o którym mowa w ust. 1 pkt 7, w sytuacji gdy dotyczy to spełnienia przez pojazd wymagań technicznych określonych w przepisach ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług ."
+    },
+    {
+      "provision_ref": "art1p9ld",
+      "section": "1",
+      "title": "Art. 1 pkt 9 lit. d",
+      "content": "W ustawie z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym wprowadza się następujące zmiany: w art. 132: w ust. 5 zdanie pierwsze otrzymuje brzmienie: „ Zatrzymany dokument pojazdu zarejestrowanego za granicą, z wyjątkiem przypadków określonych w ust. 1 pkt 4 i 6, pozostawia się w jednostce Policji albo Straży Granicznej przez okres 7 dni. ” ;"
+    },
+    {
+      "provision_ref": "art1p10u1",
+      "section": "1",
+      "title": "Art. 1 pkt 10 ust. 1",
+      "content": "W ustawie z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym wprowadza się następujące zmiany: w art. 133 ust. 1 otrzymuje brzmienie: „ W przypadku określonym w art. 132 ust. 1 pkt 6 odpowiedni organ Policji albo Straży Granicznej zwraca zatrzymany dokument po przedstawieniu dokumentu potwierdzającego zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu lub dowodu opłacenia składki za to ubezpieczenie."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "W ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych ( Dz. U. z 2016 r. poz. 2060 i 1948 oraz z 2017 r. poz. 1089 ) w art. 2 w ust. 1 po pkt 12 dodaje się pkt 12a w brzmieniu: „ 12a) szkoda istotna - szkodę, o której mowa w art. 2 pkt 10a ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym ; ” ."
+      "content": "W ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych w art. 2 w ust. 1 po pkt 12 dodaje się pkt 12a w brzmieniu: „ szkoda istotna - szkodę, o której mowa w art. 2 pkt 10a ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym ; ” ."
+    },
+    {
+      "provision_ref": "art2p12a",
+      "section": "2",
+      "title": "Art. 2 pkt 12a",
+      "content": "W ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych w art. 2 w ust. 1 po pkt 12 dodaje się pkt 12a w brzmieniu: „ szkoda istotna - szkodę, o której mowa w art. 2 pkt 10a ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym ;"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ( Dz. U. poz. 1273 , z późn. zm. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 2183 i 2281, z 2016 r. poz. 352 i 2001 oraz z 2017 r. poz. 379 i 777. ) wprowadza się następujące zmiany: 1) w art. 1: a) w pkt 6: - lit. a otrzymuje brzmienie: „ a) ust. 2 otrzymuje brzmienie: „ 2. W ewidencji gromadzi się dane o pojazdach: 1) zarejestrowanych na podstawie art. 73 albo art. 74 oraz o ich właścicielach lub niektórych kategoriach posiadaczy; 2) w stosunku do których wydano ostateczną decyzję uchylającą decyzję wydaną na podstawie art. 73 albo art. 74 albo decyzję o stwierdzeniu nieważności decyzji wydanej na podstawie art. 73 albo art. 74, albo wydano decyzję odmowną na podstawie art. 74, albo decyzję umarzającą postępowanie po wydaniu decyzji w trybie art. 74, oraz o ich właścicielach lub niektórych kategoriach posiadaczy; 3) wymienionych w art. 71 ust. 1, które nie zostały zarejestrowane, w stosunku do których: a) przeprowadzono badania techniczne, b) zawarto umowę obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów.”, ” , ” , - uchyla się lit. b, b) w pkt 7 w art. 80b: - w ust. 1: - - w pkt 6 w lit. f przecinek zastępuje się średnikiem i uchyla się lit. g, - - w pkt 7: - - - uchyla się lit. b, - - - lit. c otrzymuje brzmienie: „ c) numer pozycji w rejestrze zastawów, ” , - - - w lit. h średnik zastępuje się przecinkiem i dodaje się lit. i w brzmieniu: „ i) nazwę (oznaczenie) sądu, który dokonał wpisu; ” , - - pkt 11 otrzymuje brzmienie: „ 11) o szkodach istotnych; ” , - - pkt 18 otrzymuje brzmienie: „ 18) o homologacji pojazdu, dopuszczeniu jednostkowym pojazdu, dopuszczeniu indywidualnym WE pojazdu albo dopuszczeniu do ruchu drogowego pojazdu z końcowej partii produkcji; ” , - - w pkt 19 kropkę zastępuje się średnikiem i dodaje się pkt 20 w brzmieniu: „ 20) o zabezpieczeniach ustanowionych na pojeździe, w tym o zajęciu pojazdu przez organ egzekucyjny, oraz o ich zniesieniu. ” , - ust. 2 otrzymuje brzmienie: „ 2. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, szczegółowy katalog gromadzonych w ewidencji danych, o których mowa w ust. 1 pkt 6 lit. e i f, pkt 7 lit. a oraz pkt 8-18 i 20, przekazywanych przez podmioty, o których mowa w art. 80ba ust. 1, oraz uzupełnianych automatycznie przez system teleinformatyczny obsługujący ewidencję, mając na względzie użyteczność oraz proporcjonalność zakresu i rodzaju przetwarzanych danych, a także obowiązek monitorowania i sprawozdawczości w odniesieniu do emisji CO 2 . ” , c) w pkt 8: - w art. 80ba: - - w ust. 1: - - - pkt 1 i 2 otrzymują brzmienie: „ 1) przez organ właściwy w sprawach rejestracji pojazdów - w zakresie danych, o których mowa w art. 80b ust. 1 pkt 1, pkt 2-5 z wyłączeniem daty zgonu, pkt 8 i 9, pkt 10 w zakresie terminu okresowego badania technicznego pojazdu w przypadku rejestracji pojazdu wcześniej niezarejestrowanego na terytorium Rzeczypospolitej Polskiej, pkt 12 i 13, 16-18 i 20; 2) przez zakłady ubezpieczeń - w zakresie danych, o których mowa w art. 80b ust. 1 pkt 6 i 11, oraz w przypadku zawierania umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów dla pojazdu niezarejestrowanego także pkt 1 i 13; ” , - - - pkt 4 otrzymuje brzmienie: „ 4) przez właściwą jednostkę organizacyjną Policji, Straży Granicznej, Inspekcji Transportu Drogowego lub Żandarmerii Wojskowej - w zakresie danych, o których mowa w art. 80b ust. 1 pkt 15; ” , - - - pkt 6 otrzymuje brzmienie: „ 6) przez stacje kontroli pojazdów - z wyłączeniem pojazdów, o których mowa w art. 73 ust. 3, w zakresie danych, o których mowa w art. 80b ust. 1 pkt 10 i 15, oraz w przypadku przeprowadzania badania technicznego pojazdu niezarejestrowanego także pkt 1 i 13; ” , - - - dodaje się pkt 7 w brzmieniu: „ 7) przez Ubezpieczeniowy Fundusz Gwarancyjny - w zakresie danych, o których mowa w art. 80b ust. 1 pkt 11. ” , - - po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. Dane, o których mowa w art. 80b ust. 1 pkt 6 lit. e i f, pkt 7 lit. a oraz pkt 8-18 i 20, mogą zawierać dodatkowo dane uzupełniane automatycznie przez system teleinformatyczny obsługujący ewidencję. ” , - - ust. 3 otrzymuje brzmienie: „ 3. Podmioty wymienione w ust. 1 pkt 1-4, 6 i 7 wprowadzają dane do ewidencji w czasie wykonania czynności skutkującej koniecznością przekazania danych do ewidencji, za pomocą systemu teleinformatycznego obsługującego ewidencję lub za pomocą systemów teleinformatycznych obsługujących zadania realizowane przez te podmioty. ” , - w art. 80bb: - - ust. 2 otrzymuje brzmienie: „ 2. Wprowadzenie danych do ewidencji następuje przez pobranie danych zgromadzonych w ewidencji, ich weryfikację, w szczególności w oparciu o posiadane dokumenty lub dane, oraz wpisanie do ewidencji nowych danych. W przypadku rozbieżności między danymi a danymi zawartymi w rejestrze PESEL lub w REGON, rozstrzygające są dane zgromadzone w tych rejestrach. ” , - - po ust. 2 dodaje się ust. 2a w brzmieniu: „ 2a. W przypadku wprowadzenia do ewidencji danych dotyczących nowego podmiotu, dane te są pobierane z rejestru PESEL, REGON, centralnej ewidencji kierowców oraz centralnej ewidencji posiadaczy kart parkingowych, o ile są w nich gromadzone. ” , - - ust. 3 i 4 otrzymują brzmienie: „ 3. System teleinformatyczny obsługujący ewidencję generuje komunikat o: 1) wprowadzeniu danych do ewidencji - w przypadku poprawnego wprowadzenia nowych danych do ewidencji, który jest równoznaczny z wypełnieniem obowiązku wprowadzenia danych do ewidencji; 2) niewprowadzeniu danych do ewidencji - w przypadku gdy nowe dane nie zostały wprowadzone do ewidencji i konieczne jest ponowne ich wprowadzenie w celu wypełnienia obowiązku wprowadzenia danych do ewidencji. 4. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia: 1) zakres danych, do których zapewnia się dostęp podmiotom wymienionym w art. 80ba ust. 1, mając na względzie prawidłowość wykonywania przez poszczególne podmioty zadań wynikających z niniejszej ustawy; 2) wymagania techniczne i jakościowe w zakresie danych wprowadzanych do ewidencji oraz sposób ich wprowadzania, mając na względzie zapewnienie wysokiej jakości danych przekazywanych do ewidencji i jej referencyjny charakter. ” , - w art. 80bd w ust. 2 i 3 użyte w różnym przypadku wyrazy „administrator ewidencji” zastępuje się użytymi w odpowiednim przypadku wyrazami „administrator danych i informacji zgromadzonych w ewidencji” , - w art. 80be ust. 1 otrzymuje brzmienie: „ 1. Organy właściwe do prowadzenia rejestru przedsiębiorców prowadzących stacje kontroli pojazdów przekazują administratorowi danych i informacji zgromadzonych w ewidencji oraz aktualizują następujące dane o przedsiębiorcach prowadzących stacje kontroli pojazdów: 1) firmę przedsiębiorcy oraz jego adres i siedzibę albo miejsce zamieszkania; 2) adres stacji kontroli pojazdów; 3) numer identyfikacyjny REGON; 4) kod rozpoznawczy stacji kontroli pojazdów; 5) zakres badań; 6) datę wpisu do rejestru; 7) datę wykreślenia z rejestru; 8) imiona i nazwiska zatrudnionych diagnostów wraz z numerami ich uprawnień. ” , - uchyla się art. 80bf, d) w pkt 9 w art. 80c: - ust. 3a otrzymuje brzmienie: „ 3a. Zgromadzone w ewidencji dane udostępnia się zakładom ubezpieczeń za pośrednictwem systemu teleinformatycznego obsługującego Ubezpieczeniowy Fundusz Gwarancyjny, o którym mowa w ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych . ” , - w ust. 5 zdanie pierwsze otrzymuje brzmienie: „ Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na uzasadniony wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , e) w pkt 10: - w art. 80cc w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 80cd w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na uzasadniony wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 80ce: - - ust. 2 otrzymuje brzmienie: „ 2. Dane zgromadzone w ewidencji są przekazywane do ponownego wykorzystywania na wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - - dodaje się ust. 3 w brzmieniu: „ 3. Dane zgromadzone w ewidencji mogą być udostępniane do ponownego wykorzystywania także za pośrednictwem usług sieciowych. ” , - w art. 80cf ust. 1 otrzymuje brzmienie: „ 1. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, wzór wniosku, o którym mowa w art. 80c ust. 5, art. 80cc ust. 2, art. 80cd ust. 2 oraz art. 80ce ust. 2, kierując się potrzebami usprawnienia procesu udostępniania i przekazywania danych z ewidencji. ” , - art. 80cg otrzymuje brzmienie: „ Art. 80cg. Udostępnienie i przekazywanie danych zgromadzonych w ewidencji następuje: 1) nieodpłatnie, w przypadku danych: a) udostępnianych na podstawie art. 80c-80cc, b) przekazywanych na podstawie art. 80ce w sposób określony w art. 80ce ust. 2 organom administracji publicznej, niewymienionym w art. 80c ust. 1, w celach niekomercyjnych, c) udostępnianych na podstawie art. 80ce w sposób określony w art. 80ce ust. 3, w celach komercyjnych i niekomercyjnych; 2) odpłatnie, w przypadku danych: a) udostępnianych na podstawie art. 80cd, b) przekazywanych na podstawie art. 80ce w sposób określony w art. 80ce ust. 2, w celach komercyjnych i niekomercyjnych. ” , f) pkt 15 otrzymuje brzmienie: „ 15) w art. 83: a) w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Badanie techniczne przeprowadza się po uiszczeniu przez właściciela lub posiadacza pojazdu opłaty za przeprowadzenie badania technicznego i opłaty ewidencyjnej, w: ” , b) po ust. 1a dodaje się ust. 1b-1d w brzmieniu: „ 1b. W przypadku dokonywania opłat, o których mowa w ust. 1, w obrocie bezgotówkowym za ich uiszczenie uważa się złożenie przez właściciela lub posiadacza pojazdu dyspozycji obciążenia rachunku bankowego, rachunku w spółdzielczej kasie oszczędnościowo-kredytowej, rachunku płatniczego w instytucji płatniczej lub instytucji pieniądza elektronicznego na podstawie polecenia przelewu albo zapłaty za pomocą innego niż polecenie przelewu instrumentu płatniczego. 1c. Opłaty, o których mowa w ust. 1, mogą być uiszczone po przeprowadzeniu badania technicznego, jeżeli przewiduje to umowa zawarta między przedsiębiorcą prowadzącym stację kontroli pojazdów a właścicielem lub posiadaczem pojazdu. 1d. Obowiązek uiszczenia opłaty ewidencyjnej, o której mowa w ust. 1, nie dotyczy pojazdów niepodlegających rejestracji i pojazdów, o których mowa w art. 73 ust. 3.”; ” , ” , g) w pkt 17: - w art. 100ah w ust. 4 zdanie pierwsze otrzymuje brzmienie: „ Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na uzasadniony wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 100ak w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Dane zgromadzone w ewidencji udostępnia się na wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 100al w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Podmiotom, o których mowa w us"
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 6: - lit. a otrzymuje brzmienie: „ ust. 2 otrzymuje brzmienie: „ W ewidencji gromadzi się dane o pojazdach: zarejestrowanych na podstawie art. 73 albo art. 74 oraz o ich właścicielach lub niektórych kategoriach posiadaczy; w stosunku do których wydano ostateczną decyzję uchylającą decyzję wydaną na podstawie art. 73 albo art. 74 albo decyzję o stwierdzeniu nieważności decyzji wydanej na podstawie art. 73 albo art. 74, albo wydano decyzję odmowną na podstawie art. 74, albo decyzję umarzającą postępowanie po wydaniu decyzji w trybie art. 74, oraz o ich właścicielach lub niektórych kategoriach posiadaczy; wymienionych w art. 71 ust. 1, które nie zostały zarejestrowane, w stosunku do których: przeprowadzono badania techniczne, zawarto umowę obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów.”, ” , ” , - uchyla się lit. b, w pkt 7 w art. 80b: - w ust. 1: - - w pkt 6 w lit. f przecinek zastępuje się średnikiem i uchyla się lit. g, - - w pkt 7: - - - uchyla się lit. b, - - - lit. c otrzymuje brzmienie: „ numer pozycji w rejestrze zastawów, ” , - - - w lit. h średnik zastępuje się przecinkiem i dodaje się lit. i w brzmieniu: „ nazwę (oznaczenie) sądu, który dokonał wpisu; ” , - - pkt 11 otrzymuje brzmienie: „ o szkodach istotnych; ” , - - pkt 18 otrzymuje brzmienie: „ o homologacji pojazdu, dopuszczeniu jednostkowym pojazdu, dopuszczeniu indywidualnym WE pojazdu albo dopuszczeniu do ruchu drogowego pojazdu z końcowej partii produkcji; ” , - - w pkt 19 kropkę zastępuje się średnikiem i dodaje się pkt 20 w brzmieniu: „ o zabezpieczeniach ustanowionych na pojeździe, w tym o zajęciu pojazdu przez organ egzekucyjny, oraz o ich zniesieniu. ” , - ust. 2 otrzymuje brzmienie: „ Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, szczegółowy katalog gromadzonych w ewidencji danych, o których mowa w ust. 1 pkt 6 lit. e i f, pkt 7 lit. a oraz pkt 8-18 i 20, przekazywanych przez podmioty, o których mowa w art. 80ba ust. 1, oraz uzupełnianych automatycznie przez system teleinformatyczny obsługujący ewidencję, mając na względzie użyteczność oraz proporcjonalność zakresu i rodzaju przetwarzanych danych, a także obowiązek monitorowania i sprawozdawczości w odniesieniu do emisji CO 2 . ” , w pkt 8: - w art. 80ba: - - w ust. 1: - - - pkt 1 i 2 otrzymują brzmienie: „ przez organ właściwy w sprawach rejestracji pojazdów - w zakresie danych, o których mowa w art. 80b ust. 1 pkt 1, pkt 2-5 z wyłączeniem daty zgonu, pkt 8 i 9, pkt 10 w zakresie terminu okresowego badania technicznego pojazdu w przypadku rejestracji pojazdu wcześniej niezarejestrowanego na terytorium Rzeczypospolitej Polskiej, pkt 12 i 13, 16-18 i 20; przez zakłady ubezpieczeń - w zakresie danych, o których mowa w art. 80b ust. 1 pkt 6 i 11, oraz w przypadku zawierania umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów dla pojazdu niezarejestrowanego także pkt 1 i 13; ” , - - - pkt 4 otrzymuje brzmienie: „ przez właściwą jednostkę organizacyjną Policji, Straży Granicznej, Inspekcji Transportu Drogowego lub Żandarmerii Wojskowej - w zakresie danych, o których mowa w art. 80b ust. 1 pkt 15; ” , - - - pkt 6 otrzymuje brzmienie: „ przez stacje kontroli pojazdów - z wyłączeniem pojazdów, o których mowa w art. 73 ust. 3, w zakresie danych, o których mowa w art. 80b ust. 1 pkt 10 i 15, oraz w przypadku przeprowadzania badania technicznego pojazdu niezarejestrowanego także pkt 1 i 13; ” , - - - dodaje się pkt 7 w brzmieniu: „ przez Ubezpieczeniowy Fundusz Gwarancyjny - w zakresie danych, o których mowa w art. 80b ust. 1 pkt 11. ” , - - po ust. 1 dodaje się ust. 1a w brzmieniu: „ Dane, o których mowa w art. 80b ust. 1 pkt 6 lit. e i f, pkt 7 lit. a oraz pkt 8-18 i 20, mogą zawierać dodatkowo dane uzupełniane automatycznie przez system teleinformatyczny obsługujący ewidencję. ” , - - ust. 3 otrzymuje brzmienie: „ Podmioty wymienione w ust. 1 pkt 1-4, 6 i 7 wprowadzają dane do ewidencji w czasie wykonania czynności skutkującej koniecznością przekazania danych do ewidencji, za pomocą systemu teleinformatycznego obsługującego ewidencję lub za pomocą systemów teleinformatycznych obsługujących zadania realizowane przez te podmioty. ” , - w art. 80bb: - - ust. 2 otrzymuje brzmienie: „ Wprowadzenie danych do ewidencji następuje przez pobranie danych zgromadzonych w ewidencji, ich weryfikację, w szczególności w oparciu o posiadane dokumenty lub dane, oraz wpisanie do ewidencji nowych danych. W przypadku rozbieżności między danymi a danymi zawartymi w rejestrze PESEL lub w REGON, rozstrzygające są dane zgromadzone w tych rejestrach. ” , - - po ust. 2 dodaje się ust. 2a w brzmieniu: „ W przypadku wprowadzenia do ewidencji danych dotyczących nowego podmiotu, dane te są pobierane z rejestru PESEL, REGON, centralnej ewidencji kierowców oraz centralnej ewidencji posiadaczy kart parkingowych, o ile są w nich gromadzone. ” , - - ust. 3 i 4 otrzymują brzmienie: „ System teleinformatyczny obsługujący ewidencję generuje komunikat o: wprowadzeniu danych do ewidencji - w przypadku poprawnego wprowadzenia nowych danych do ewidencji, który jest równoznaczny z wypełnieniem obowiązku wprowadzenia danych do ewidencji; niewprowadzeniu danych do ewidencji - w przypadku gdy nowe dane nie zostały wprowadzone do ewidencji i konieczne jest ponowne ich wprowadzenie w celu wypełnienia obowiązku wprowadzenia danych do ewidencji. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia: zakres danych, do których zapewnia się dostęp podmiotom wymienionym w art. 80ba ust. 1, mając na względzie prawidłowość wykonywania przez poszczególne podmioty zadań wynikających z niniejszej ustawy; wymagania techniczne i jakościowe w zakresie danych wprowadzanych do ewidencji oraz sposób ich wprowadzania, mając na względzie zapewnienie wysokiej jakości danych przekazywanych do ewidencji i jej referencyjny charakter. ” , - w art. 80bd w ust. 2 i 3 użyte w różnym przypadku wyrazy „administrator ewidencji” zastępuje się użytymi w odpowiednim przypadku wyrazami „administrator danych i informacji zgromadzonych w ewidencji” , - w art. 80be ust. 1 otrzymuje brzmienie: „ Organy właściwe do prowadzenia rejestru przedsiębiorców prowadzących stacje kontroli pojazdów przekazują administratorowi danych i informacji zgromadzonych w ewidencji oraz aktualizują następujące dane o przedsiębiorcach prowadzących stacje kontroli pojazdów: firmę przedsiębiorcy oraz jego adres i siedzibę albo miejsce zamieszkania; adres stacji kontroli pojazdów; numer identyfikacyjny REGON; kod rozpoznawczy stacji kontroli pojazdów; zakres badań; datę wpisu do rejestru; datę wykreślenia z rejestru; imiona i nazwiska zatrudnionych diagnostów wraz z numerami ich uprawnień. ” , - uchyla się art. 80bf, w pkt 9 w art. 80c: - ust. 3a otrzymuje brzmienie: „ Zgromadzone w ewidencji dane udostępnia się zakładom ubezpieczeń za pośrednictwem systemu teleinformatycznego obsługującego Ubezpieczeniowy Fundusz Gwarancyjny, o którym mowa w ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych . ” , - w ust. 5 zdanie pierwsze otrzymuje brzmienie: „ Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na uzasadniony wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , w pkt 10: - w art. 80cc w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 80cd w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na uzasadniony wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 80ce: - - ust. 2 otrzymuje brzmienie: „ Dane zgromadzone w ewidencji są przekazywane do ponownego wykorzystywania na wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - - dodaje się ust. 3 w brzmieniu: „ Dane zgromadzone w ewidencji mogą być udostępniane do ponownego wykorzystywania także za pośrednictwem usług sieciowych. ” , - w art. 80cf ust. 1 otrzymuje brzmienie: „ Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, wzór wniosku, o którym mowa w art. 80c ust. 5, art. 80cc ust. 2, art. 80cd ust. 2 oraz art. 80ce ust. 2, kierując się potrzebami usprawnienia procesu udostępniania i przekazywania danych z ewidencji. ” , - art. 80cg otrzymuje brzmienie: „ Udostępnienie i przekazywanie danych zgromadzonych w ewidencji następuje: nieodpłatnie, w przypadku danych: udostępnianych na podstawie art. 80c-80cc, przekazywanych na podstawie art. 80ce w sposób określony w art. 80ce ust. 2 organom administracji publicznej, niewymienionym w art. 80c ust. 1, w celach niekomercyjnych, udostępnianych na podstawie art. 80ce w sposób określony w art. 80ce ust. 3, w celach komercyjnych i niekomercyjnych; odpłatnie, w przypadku danych: udostępnianych na podstawie art. 80cd, przekazywanych na podstawie art. 80ce w sposób określony w art. 80ce ust. 2, w celach komercyjnych i niekomercyjnych. ” , pkt 15 otrzymuje brzmienie: „ w art. 83: w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Badanie techniczne przeprowadza się po uiszczeniu przez właściciela lub posiadacza pojazdu opłaty za przeprowadzenie badania technicznego i opłaty ewidencyjnej, w: ” , po ust. 1a dodaje się ust. 1b-1d w brzmieniu: „ W przypadku dokonywania opłat, o których mowa w ust. 1, w obrocie bezgotówkowym za ich uiszczenie uważa się złożenie przez właściciela lub posiadacza pojazdu dyspozycji obciążenia rachunku bankowego, rachunku w spółdzielczej kasie oszczędnościowo-kredytowej, rachunku płatniczego w instytucji płatniczej lub instytucji pieniądza elektronicznego na podstawie polecenia przelewu albo zapłaty za pomocą innego niż polecenie przelewu instrumentu płatniczego. Opłaty, o których mowa w ust. 1, mogą być uiszczone po przeprowadzeniu badania technicznego, jeżeli przewiduje to umowa zawarta między przedsiębiorcą prowadzącym stację kontroli pojazdów a właścicielem lub posiadaczem pojazdu. Obowiązek uiszczenia opłaty ewidencyjnej, o której mowa w ust. 1, nie dotyczy pojazdów niepodlegających rejestracji i pojazdów, o których mowa w art. 73 ust. 3.”; ” , ” , w pkt 17: - w art. 100ah w ust. 4 zdanie pierwsze otrzymuje brzmienie: „ Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na uzasadniony wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 100ak w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Dane zgromadzone w ewidencji udostępnia się na wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 100al w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na uzasadniony wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 100am: - - ust. 2 otrzymuje brzmienie: „ Dane zgromadzone w ewidencji są przekazywane do ponownego wykorzystywania na wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - - dodaje się ust. 3 w brzmieniu: „ Dane zgromadzone w ewidencji mogą być udostępniane do ponownego wykorzystywania także za pośrednictwem usług sieciowych. ” , - w art. 100an ust. 1 otrzymuje brzmienie: „ Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, wzór wniosku, o którym mowa w art. 100ah ust. 4, art. 100ak ust. 2, art. 100al ust. 2 oraz art. 100am ust. 2, kierując się potrzebami usprawnienia procesu udostępniania i przekazywania danych z ewidencji. ” , - art. 100ao otrzymuje brzmienie: „ Udostępnienie i przekazywanie danych zgromadzonych w ewidencji następuje: nieodpłatnie, w przypadku danych: udostępnianych na podstawie art. 100ah-100ak, przekazywanych na podstawie art. 100am w sposób określony w art. 100am ust. 2 organom administracji publicznej, niewymienionym w art. 100ah ust. 1, w celach niekomercyjnych, udostępnianych na podstawie art. 100am w sposób określony w art. 100am ust. 3, w celach komercyjnych i niekomercyjnych; odpłatnie, w przypadku danych: udostępnianych na podstawie art. 100al, przekazywanych na podstawie art. 100am w sposób określony w art. 100am ust. 2, w celach komercyjnych i niekomercyjnych. ” ; w art. 4: pkt 1 otrzymuje brzmienie: „ w art. 102: w ust. 3 w pkt 5 lit. b i c otrzymują brzmienie: „ szkoda całkowita w pojeździe, w tym szkoda istotna, szkoda częściowa w pojeździe, w tym szkoda istotna, ” , w ust. 4 w pkt 1 w lit. b tiret drugie i trzecie otrzymują brzmienie: „ - szkoda całkowita w pojeździe, w tym szkoda istotna, - szkoda częściowa w pojeździe, w tym szkoda istotna,”; ” , ” , w pkt 3 lit. c otrzymuje brzmienie: „ po ust. 3 dodaje się ust. 3a w brzmieniu: „ Dane do Funduszu są przekazywane bezpłatnie oraz bez wiedzy i zgody osoby, której te dane dotyczą.”, ” ; ” ; uchyla się art. 5; w art. 9 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „ Decyzje wydane na podstawie art. 80c ust. 7 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym zachowują ważność. ” ; w art. 11: ust. 1-3 otrzymują brzmienie: „ Ubezpieczeniowy Fundusz Gwarancyjny przekazuje do centralnej ewidencji pojazdów dane i informacje zgromadzone do dnia 12 listopada 2017 r. w zakresie, o którym mowa w art. 80b ust. 1 pkt 6 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą. Organy właściwe w sprawach wydawania uprawnień do kierowania pojazdami przekazują do centralnej ewidencji kierowców dane i informacje zgromadzone do dnia 3 czerwca 2018 r. w zakresie wynikającym z utworzenia profilu kandydata na kierowcę. Organy rejestrujące przekazują do centralnej ewidencji pojazdów dane i informacje zgromadzone i nieprzekazane do ewidencji do dnia 12 listopada 2017 r. ” , po ust. 3 dodaje się ust. 3a-3c w brzmieniu: „ Organy właściwe w sprawach wydawania uprawnień do kierowania pojazdami przekazują do centralnej ewidencji kierowców dane i informacje zgromadzone i nieprzekazane do ewidencji do dnia 3 czerwca 2018 r. Dane z rejestru zastawów zgromadzone do dnia 3 czerwca 2018 r. są przekazywane do centralnej ewidencji pojazdów do dnia 3 czerwca 2018 r. Przekazywanie danych, o których mowa w: ust. 1-3a, rozpocznie się od dnia 20 października 2017 r.; ust. 3b, rozpocznie się od dnia 1 grudnia 2017 r. ” ; art. 13 otrzymuje brzmienie: „ Od dnia 13 listopada 2017 r. do dnia 3 czerwca 2018 r. dane o umowach obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów są wprowadzane do centralnej ewidencji pojazdów na zasadach określonych w ustawach zmienianych w art. 1 i art. 4 w brzmieniu dotychczasowym, z tym że do centralnej ewidencji pojazdów wprowadza się także numer PESEL ubezpieczonego, a w przypadku osoby nieposiadającej numeru PESEL - serię, numer i nazwę dokumentu potwierdzającego tożsamość albo numer identyfikacyjny REGON ubezpieczonego. Od dnia 4 czerwca 2018 r. do czasu wdrożenia rozwiązań technicznych pozwalających wprowadzać dane do centralnej ewidencji pojazdów w czasie wykonania czynności skutkującej koniecznością przekazania do niej danych, nie dłużej jednak niż przez 24 miesiące, dane o umowach obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów są wprowadzane do centralnej ewidencji pojazdów na zasadach określonych w ustawach zmienianych w art. 1 i art. 4 w brzmieniu dotychczasowym, z tym że do centralnej ewidencji pojazdów wprowadza się także numer PESEL ubezpieczonego, a w przypadku osoby nieposiadającej numeru PESEL - serię, numer i nazwę dokumentu potwierdzającego tożsamość albo numer identyfikacyjny REGON ubezpieczonego. Do czasu wdrożenia rozwiązań technicznych pozwalających wprowadzać dane do centralnej ewidencji pojazdów w czasie wykonania czynności skutkującej koniecznością przekazania do niej danych, nie dłużej jednak niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy, zakłady ubezpieczeń nie wprowadzają do centralnej ewidencji pojazdów danych o szkodach istotnych. ” ; art. 15 otrzymuje brzmienie: „ Do czasu dostosowania podmiotów, o których mowa w art. 80c ust. 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, do wymogów dotyczących udostępniania danych określonych w art. 80c ust. 4 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy, dane z centralnej ewidencji pojazdów mogą być udostępniane na zasadach określonych w ustawie zmienianej w art. 1 w brzmieniu dotychczasowym. ” ; po art. 15 dodaje się art. 15a w brzmieniu: „ Do czasu dostosowania podmiotów, o których mowa w art. 100ah ust. 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, do wymogów dotyczących udostępniania danych określonych w art. 100ah ust. 3 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy, dane z centralnej ewidencji kierowców mogą być udostępniane na zasadach określonych w ustawie zmienianej w art. 1 w brzmieniu dotychczasowym. ” ; uchyla się art. 16; po art. 16 dodaje się art. 16a w brzmieniu: „ Od dnia 13 listopada 2017 r. do dnia 3 czerwca 2018 r. podmiot, który stwierdzi niezgodność danych zgromadzonych w centralnej ewidencji pojazdów, w przypadku gdy niezgodność ta uniemożliwia wprowadzenie danych do centralnej ewidencji pojazdów, niezwłocznie informuje o tym, poza systemem teleinformatycznym obsługującym centralną ewidencję pojazdów, administratora danych i informacji zgromadzonych w centralnej ewidencji pojazdów. Informację przekazuje się w postaci papierowej albo elektronicznej, zgodnie z informacją udostępnioną na stronie podmiotowej Biuletynu Informacji Publicznej ministra właściwego do spraw informatyzacji. Niezgodność danych stwierdza się w przypadku: rozbieżności między danymi zgromadzonymi w centralnej ewidencji pojazdów a stanem prawnym ustalonym na podstawie dostępnych danych lub stanem faktycznym; braku danych w centralnej ewidencji pojazdów nieuwzględniającego stanu prawnego lub faktycznego. Administrator danych i informacji zgromadzonych w centralnej ewidencji pojazdów przekazuje, poza systemem teleinformatycznym obsługującym centralną ewidencję pojazdów, zgłoszoną niezgodność danych podmiotowi właściwemu do wprowadzenia danych do ewidencji, który wyjaśnia tę niezgodność, w szczególności w oparciu o dostępne dane. Podmiot, o którym mowa w ust. 3, niezwłocznie informuje, poza systemem teleinformatycznym obsługującym centralną ewidencję pojazdów, administratora danych i informacji zgromadzonych w centralnej ewidencji pojazdów o: wyjaśnieniu niezgodności danych w przypadku: wprowadzenia poprawnych danych do centralnej ewidencji pojazdów za pomocą systemu teleinformatycznego obsługującego ewidencję lub za pomocą systemu teleinformatycznego obsługującego zadania realizowane przez podmiot wprowadzający dane, stwierdzenia, że wprowadzone do centralnej ewidencji pojazdów dane są poprawne; braku możliwości wprowadzenia poprawnych danych do centralnej ewidencji pojazdów z podaniem uzasadnienia. Administrator danych i informacji zgromadzonych w centralnej ewidencji pojazdów informuje, poza systemem teleinformatycznym obsługującym centralną ewidencję pojazdów, podmiot, o którym mowa w ust. 1, o wyjaśnieniu niezgodności danych albo braku możliwości wprowadzenia poprawnych danych do centralnej ewidencji pojazdów. W przypadku wyjaśnienia niezgodności danych podmiot, o którym mowa w ust. 1, wprowadza dane do centralnej ewidencji pojazdów za pomocą systemu teleinformatycznego obsługującego ewidencję lub za pomocą systemu teleinformatycznego obsługującego zadania realizowane przez podmiot wprowadzający dane w terminie 3 dni od dnia otrzymania informacji, o której mowa w ust. 5. W przypadku, o którym mowa w ust. 4 pkt 2, podmiot, o którym mowa w ust. 1, nie wprowadza danych do centralnej ewidencji pojazdów. Przepisów ust. 1-7 nie stosuje się do rejestracji pojazdów, czasowej rejestracji pojazdów oraz do zawiadomienia, o którym mowa w art. 78 ust. 2 ustawy zmienianej w art. 1. ” ; w art. 18 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 i 5 w brzmieniu: „ art. 1 pkt 6 w zakresie art. 80a ust. 2 pkt 1, 2 i 3 lit. a, pkt 7 w zakresie art. 80b ust. 1 pkt 1-6, 8-10 i 12-20 oraz ust. 2-4, pkt 8 w zakresie art. 80ba ust. 1 pkt 1-4 i 6, ust. 1a, ust. 2, ust. 3 w zakresie podmiotów, o których mowa w ust. 1 pkt 1-4 i 6, i ust. 4-6, art. 80bb, art. 80bc, art. 80bg, art. 80bh ust. 2, ust. 6 pkt 1 i 4, ust. 7 i 9, pkt 9, pkt 10 w zakresie art. 80ca-80cd, art. 80ce ust. 1 i 2, art. 80cf, art. 80cg pkt 1 lit. a i b i pkt 2 i art. 80ch, pkt 11-15, art. 4 pkt 2-4, art. 10, art. 12 ust. 1, art. 13 ust. 1 i 2, art. 15 i art. 16a, które wchodzą w życie z dniem 13 listopada 2017 r.; art. 11 ust. 1-3c, które wchodzą w życie z dniem 20 października 2017 r. ” ."
+    },
+    {
+      "provision_ref": "art3p1lalau2p1",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. alau",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 6: - lit. a otrzymuje brzmienie: „ ust. 2 otrzymuje brzmienie: „ W ewidencji gromadzi się dane o pojazdach: zarejestrowanych na podstawie art. 73 albo art. 74 oraz o ich właścicielach lub niektórych kategoriach posiadaczy;"
+    },
+    {
+      "provision_ref": "art3p1lalau2p2",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. alau",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 6: - lit. a otrzymuje brzmienie: „ ust. 2 otrzymuje brzmienie: „ W ewidencji gromadzi się dane o pojazdach: w stosunku do których wydano ostateczną decyzję uchylającą decyzję wydaną na podstawie art. 73 albo art. 74 albo decyzję o stwierdzeniu nieważności decyzji wydanej na podstawie art. 73 albo art. 74, albo wydano decyzję odmowną na podstawie art. 74, albo decyzję umarzającą postępowanie po wydaniu decyzji w trybie art. 74, oraz o ich właścicielach lub niektórych kategoriach posiadaczy;"
+    },
+    {
+      "provision_ref": "art3p1lalau2p3la",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. alau",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 6: - lit. a otrzymuje brzmienie: „ ust. 2 otrzymuje brzmienie: „ W ewidencji gromadzi się dane o pojazdach: wymienionych w art. 71 ust. 1, które nie zostały zarejestrowane, w stosunku do których: przeprowadzono badania techniczne,"
+    },
+    {
+      "provision_ref": "art3p1lalau2p3lb",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. alau",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 6: - lit. a otrzymuje brzmienie: „ ust. 2 otrzymuje brzmienie: „ W ewidencji gromadzi się dane o pojazdach: wymienionych w art. 71 ust. 1, które nie zostały zarejestrowane, w stosunku do których: zawarto umowę obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów.”,"
+    },
+    {
+      "provision_ref": "art3p1lblc",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. blc",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 7 w art. 80b: - w ust. 1: - - w pkt 6 w lit. f przecinek zastępuje się średnikiem i uchyla się lit. g, - - w pkt 7: - - - uchyla się lit. b, - - - lit. c otrzymuje brzmienie: „ numer pozycji w rejestrze zastawów,"
+    },
+    {
+      "provision_ref": "art3p1lbsli",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. bsli",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 7 w art. 80b: - w ust. 1: - - w pkt 6 w lit. f przecinek zastępuje się średnikiem i uchyla się lit. g, - - w pkt 7: - - - uchyla się lit. b, - - - lit. c otrzymuje brzmienie: „ nazwę (oznaczenie) sądu, który dokonał wpisu;"
+    },
+    {
+      "provision_ref": "art3p1lbp11",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. bp",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 7 w art. 80b: - w ust. 1: - - w pkt 6 w lit. f przecinek zastępuje się średnikiem i uchyla się lit. g, - - w pkt 7: - - - uchyla się lit. b, - - - lit. c otrzymuje brzmienie: „ o szkodach istotnych;"
+    },
+    {
+      "provision_ref": "art3p1lbp18",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. bp",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 7 w art. 80b: - w ust. 1: - - w pkt 6 w lit. f przecinek zastępuje się średnikiem i uchyla się lit. g, - - w pkt 7: - - - uchyla się lit. b, - - - lit. c otrzymuje brzmienie: „ o homologacji pojazdu, dopuszczeniu jednostkowym pojazdu, dopuszczeniu indywidualnym WE pojazdu albo dopuszczeniu do ruchu drogowego pojazdu z końcowej partii produkcji;"
+    },
+    {
+      "provision_ref": "art3p1lbp20",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. bp",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 7 w art. 80b: - w ust. 1: - - w pkt 6 w lit. f przecinek zastępuje się średnikiem i uchyla się lit. g, - - w pkt 7: - - - uchyla się lit. b, - - - lit. c otrzymuje brzmienie: „ o zabezpieczeniach ustanowionych na pojeździe, w tym o zajęciu pojazdu przez organ egzekucyjny, oraz o ich zniesieniu."
+    },
+    {
+      "provision_ref": "art3p1lbu2",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. bu",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 7 w art. 80b: - w ust. 1: - - w pkt 6 w lit. f przecinek zastępuje się średnikiem i uchyla się lit. g, - - w pkt 7: - - - uchyla się lit. b, - - - lit. c otrzymuje brzmienie: „ Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, szczegółowy katalog gromadzonych w ewidencji danych, o których mowa w ust. 1 pkt 6 lit. e i f, pkt 7 lit. a oraz pkt 8-18 i 20, przekazywanych przez podmioty, o których mowa w art. 80ba ust. 1, oraz uzupełnianych automatycznie przez system teleinformatyczny obsługujący ewidencję, mając na względzie użyteczność oraz proporcjonalność zakresu i rodzaju przetwarzanych danych, a także obowiązek monitorowania i sprawozdawczości w odniesieniu do emisji CO 2 ."
+    },
+    {
+      "provision_ref": "art3p1lcp1",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. cp",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 8: - w art. 80ba: - - w ust. 1: - - - pkt 1 i 2 otrzymują brzmienie: „ przez organ właściwy w sprawach rejestracji pojazdów - w zakresie danych, o których mowa w art. 80b ust. 1 pkt 1, pkt 2-5 z wyłączeniem daty zgonu, pkt 8 i 9, pkt 10 w zakresie terminu okresowego badania technicznego pojazdu w przypadku rejestracji pojazdu wcześniej niezarejestrowanego na terytorium Rzeczypospolitej Polskiej, pkt 12 i 13, 16-18 i 20;"
+    },
+    {
+      "provision_ref": "art3p1lcp2",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. cp",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 8: - w art. 80ba: - - w ust. 1: - - - pkt 1 i 2 otrzymują brzmienie: „ przez zakłady ubezpieczeń - w zakresie danych, o których mowa w art. 80b ust. 1 pkt 6 i 11, oraz w przypadku zawierania umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów dla pojazdu niezarejestrowanego także pkt 1 i 13;"
+    },
+    {
+      "provision_ref": "art3p1lcp4",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. cp",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 8: - w art. 80ba: - - w ust. 1: - - - pkt 1 i 2 otrzymują brzmienie: „ przez właściwą jednostkę organizacyjną Policji, Straży Granicznej, Inspekcji Transportu Drogowego lub Żandarmerii Wojskowej - w zakresie danych, o których mowa w art. 80b ust. 1 pkt 15;"
+    },
+    {
+      "provision_ref": "art3p1lcp6",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. cp",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 8: - w art. 80ba: - - w ust. 1: - - - pkt 1 i 2 otrzymują brzmienie: „ przez stacje kontroli pojazdów - z wyłączeniem pojazdów, o których mowa w art. 73 ust. 3, w zakresie danych, o których mowa w art. 80b ust. 1 pkt 10 i 15, oraz w przypadku przeprowadzania badania technicznego pojazdu niezarejestrowanego także pkt 1 i 13;"
+    },
+    {
+      "provision_ref": "art3p1lcp7",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. cp",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 8: - w art. 80ba: - - w ust. 1: - - - pkt 1 i 2 otrzymują brzmienie: „ przez Ubezpieczeniowy Fundusz Gwarancyjny - w zakresie danych, o których mowa w art. 80b ust. 1 pkt 11."
+    },
+    {
+      "provision_ref": "art3p1lcu1a",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. cu",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 8: - w art. 80ba: - - w ust. 1: - - - pkt 1 i 2 otrzymują brzmienie: „ Dane, o których mowa w art. 80b ust. 1 pkt 6 lit. e i f, pkt 7 lit. a oraz pkt 8-18 i 20, mogą zawierać dodatkowo dane uzupełniane automatycznie przez system teleinformatyczny obsługujący ewidencję."
+    },
+    {
+      "provision_ref": "art3p1lcu3",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. cu",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 8: - w art. 80ba: - - w ust. 1: - - - pkt 1 i 2 otrzymują brzmienie: „ Podmioty wymienione w ust. 1 pkt 1-4, 6 i 7 wprowadzają dane do ewidencji w czasie wykonania czynności skutkującej koniecznością przekazania danych do ewidencji, za pomocą systemu teleinformatycznego obsługującego ewidencję lub za pomocą systemów teleinformatycznych obsługujących zadania realizowane przez te podmioty."
+    },
+    {
+      "provision_ref": "art3p1lcu2",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. cu",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 8: - w art. 80ba: - - w ust. 1: - - - pkt 1 i 2 otrzymują brzmienie: „ Wprowadzenie danych do ewidencji następuje przez pobranie danych zgromadzonych w ewidencji, ich weryfikację, w szczególności w oparciu o posiadane dokumenty lub dane, oraz wpisanie do ewidencji nowych danych. W przypadku rozbieżności między danymi a danymi zawartymi w rejestrze PESEL lub w REGON, rozstrzygające są dane zgromadzone w tych rejestrach."
+    },
+    {
+      "provision_ref": "art3p1lcu2a",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. cu",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 8: - w art. 80ba: - - w ust. 1: - - - pkt 1 i 2 otrzymują brzmienie: „ W przypadku wprowadzenia do ewidencji danych dotyczących nowego podmiotu, dane te są pobierane z rejestru PESEL, REGON, centralnej ewidencji kierowców oraz centralnej ewidencji posiadaczy kart parkingowych, o ile są w nich gromadzone."
+    },
+    {
+      "provision_ref": "art3p1lcu3p1",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. cu",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 8: - w art. 80ba: - - w ust. 1: - - - pkt 1 i 2 otrzymują brzmienie: „ System teleinformatyczny obsługujący ewidencję generuje komunikat o: wprowadzeniu danych do ewidencji - w przypadku poprawnego wprowadzenia nowych danych do ewidencji, który jest równoznaczny z wypełnieniem obowiązku wprowadzenia danych do ewidencji;"
+    },
+    {
+      "provision_ref": "art3p1lcu3p2",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. cu",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 8: - w art. 80ba: - - w ust. 1: - - - pkt 1 i 2 otrzymują brzmienie: „ System teleinformatyczny obsługujący ewidencję generuje komunikat o: niewprowadzeniu danych do ewidencji - w przypadku gdy nowe dane nie zostały wprowadzone do ewidencji i konieczne jest ponowne ich wprowadzenie w celu wypełnienia obowiązku wprowadzenia danych do ewidencji."
+    },
+    {
+      "provision_ref": "art3p1lcu4p1",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. cu",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 8: - w art. 80ba: - - w ust. 1: - - - pkt 1 i 2 otrzymują brzmienie: „ Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia: zakres danych, do których zapewnia się dostęp podmiotom wymienionym w art. 80ba ust. 1, mając na względzie prawidłowość wykonywania przez poszczególne podmioty zadań wynikających z niniejszej ustawy;"
+    },
+    {
+      "provision_ref": "art3p1lcu4p2",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. cu",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 8: - w art. 80ba: - - w ust. 1: - - - pkt 1 i 2 otrzymują brzmienie: „ Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia: wymagania techniczne i jakościowe w zakresie danych wprowadzanych do ewidencji oraz sposób ich wprowadzania, mając na względzie zapewnienie wysokiej jakości danych przekazywanych do ewidencji i jej referencyjny charakter."
+    },
+    {
+      "provision_ref": "art3p1lcu1p1",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. cu",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 8: - w art. 80ba: - - w ust. 1: - - - pkt 1 i 2 otrzymują brzmienie: „ Organy właściwe do prowadzenia rejestru przedsiębiorców prowadzących stacje kontroli pojazdów przekazują administratorowi danych i informacji zgromadzonych w ewidencji oraz aktualizują następujące dane o przedsiębiorcach prowadzących stacje kontroli pojazdów: firmę przedsiębiorcy oraz jego adres i siedzibę albo miejsce zamieszkania;"
+    },
+    {
+      "provision_ref": "art3p1lcu1p2",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. cu",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 8: - w art. 80ba: - - w ust. 1: - - - pkt 1 i 2 otrzymują brzmienie: „ Organy właściwe do prowadzenia rejestru przedsiębiorców prowadzących stacje kontroli pojazdów przekazują administratorowi danych i informacji zgromadzonych w ewidencji oraz aktualizują następujące dane o przedsiębiorcach prowadzących stacje kontroli pojazdów: adres stacji kontroli pojazdów;"
+    },
+    {
+      "provision_ref": "art3p1lcu1p3",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. cu",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 8: - w art. 80ba: - - w ust. 1: - - - pkt 1 i 2 otrzymują brzmienie: „ Organy właściwe do prowadzenia rejestru przedsiębiorców prowadzących stacje kontroli pojazdów przekazują administratorowi danych i informacji zgromadzonych w ewidencji oraz aktualizują następujące dane o przedsiębiorcach prowadzących stacje kontroli pojazdów: numer identyfikacyjny REGON;"
+    },
+    {
+      "provision_ref": "art3p1lcu1p4",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. cu",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 8: - w art. 80ba: - - w ust. 1: - - - pkt 1 i 2 otrzymują brzmienie: „ Organy właściwe do prowadzenia rejestru przedsiębiorców prowadzących stacje kontroli pojazdów przekazują administratorowi danych i informacji zgromadzonych w ewidencji oraz aktualizują następujące dane o przedsiębiorcach prowadzących stacje kontroli pojazdów: kod rozpoznawczy stacji kontroli pojazdów;"
+    },
+    {
+      "provision_ref": "art3p1lcu1p5",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. cu",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 8: - w art. 80ba: - - w ust. 1: - - - pkt 1 i 2 otrzymują brzmienie: „ Organy właściwe do prowadzenia rejestru przedsiębiorców prowadzących stacje kontroli pojazdów przekazują administratorowi danych i informacji zgromadzonych w ewidencji oraz aktualizują następujące dane o przedsiębiorcach prowadzących stacje kontroli pojazdów: zakres badań;"
+    },
+    {
+      "provision_ref": "art3p1lcu1p6",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. cu",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 8: - w art. 80ba: - - w ust. 1: - - - pkt 1 i 2 otrzymują brzmienie: „ Organy właściwe do prowadzenia rejestru przedsiębiorców prowadzących stacje kontroli pojazdów przekazują administratorowi danych i informacji zgromadzonych w ewidencji oraz aktualizują następujące dane o przedsiębiorcach prowadzących stacje kontroli pojazdów: datę wpisu do rejestru;"
+    },
+    {
+      "provision_ref": "art3p1lcu1p7",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. cu",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 8: - w art. 80ba: - - w ust. 1: - - - pkt 1 i 2 otrzymują brzmienie: „ Organy właściwe do prowadzenia rejestru przedsiębiorców prowadzących stacje kontroli pojazdów przekazują administratorowi danych i informacji zgromadzonych w ewidencji oraz aktualizują następujące dane o przedsiębiorcach prowadzących stacje kontroli pojazdów: datę wykreślenia z rejestru;"
+    },
+    {
+      "provision_ref": "art3p1lcu1p8",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. cu",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 8: - w art. 80ba: - - w ust. 1: - - - pkt 1 i 2 otrzymują brzmienie: „ Organy właściwe do prowadzenia rejestru przedsiębiorców prowadzących stacje kontroli pojazdów przekazują administratorowi danych i informacji zgromadzonych w ewidencji oraz aktualizują następujące dane o przedsiębiorcach prowadzących stacje kontroli pojazdów: imiona i nazwiska zatrudnionych diagnostów wraz z numerami ich uprawnień."
+    },
+    {
+      "provision_ref": "art3p1ldu3a",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. du",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 9 w art. 80c: - ust. 3a otrzymuje brzmienie: „ Zgromadzone w ewidencji dane udostępnia się zakładom ubezpieczeń za pośrednictwem systemu teleinformatycznego obsługującego Ubezpieczeniowy Fundusz Gwarancyjny, o którym mowa w ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych ."
+    },
+    {
+      "provision_ref": "art3p1leu2",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. eu",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 10: - w art. 80cc w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 80cd w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na uzasadniony wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 80ce: - - ust. 2 otrzymuje brzmienie: „ Dane zgromadzone w ewidencji są przekazywane do ponownego wykorzystywania na wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP."
+    },
+    {
+      "provision_ref": "art3p1leu3",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. eu",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 10: - w art. 80cc w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 80cd w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na uzasadniony wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 80ce: - - ust. 2 otrzymuje brzmienie: „ Dane zgromadzone w ewidencji mogą być udostępniane do ponownego wykorzystywania także za pośrednictwem usług sieciowych."
+    },
+    {
+      "provision_ref": "art3p1leu1",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. eu",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 10: - w art. 80cc w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 80cd w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na uzasadniony wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 80ce: - - ust. 2 otrzymuje brzmienie: „ Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, wzór wniosku, o którym mowa w art. 80c ust. 5, art. 80cc ust. 2, art. 80cd ust. 2 oraz art. 80ce ust. 2, kierując się potrzebami usprawnienia procesu udostępniania i przekazywania danych z ewidencji."
+    },
+    {
+      "provision_ref": "art3p1lep1la",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. ep",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 10: - w art. 80cc w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 80cd w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na uzasadniony wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 80ce: - - ust. 2 otrzymuje brzmienie: „ nieodpłatnie, w przypadku danych: udostępnianych na podstawie art. 80c-80cc,"
+    },
+    {
+      "provision_ref": "art3p1lep1lb",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. ep",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 10: - w art. 80cc w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 80cd w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na uzasadniony wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 80ce: - - ust. 2 otrzymuje brzmienie: „ nieodpłatnie, w przypadku danych: przekazywanych na podstawie art. 80ce w sposób określony w art. 80ce ust. 2 organom administracji publicznej, niewymienionym w art. 80c ust. 1, w celach niekomercyjnych,"
+    },
+    {
+      "provision_ref": "art3p1lep1lc",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. ep",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 10: - w art. 80cc w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 80cd w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na uzasadniony wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 80ce: - - ust. 2 otrzymuje brzmienie: „ nieodpłatnie, w przypadku danych: udostępnianych na podstawie art. 80ce w sposób określony w art. 80ce ust. 3, w celach komercyjnych i niekomercyjnych;"
+    },
+    {
+      "provision_ref": "art3p1lep2la",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. ep",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 10: - w art. 80cc w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 80cd w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na uzasadniony wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 80ce: - - ust. 2 otrzymuje brzmienie: „ odpłatnie, w przypadku danych: udostępnianych na podstawie art. 80cd,"
+    },
+    {
+      "provision_ref": "art3p1lep2lb",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. ep",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 10: - w art. 80cc w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 80cd w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na uzasadniony wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 80ce: - - ust. 2 otrzymuje brzmienie: „ odpłatnie, w przypadku danych: przekazywanych na podstawie art. 80ce w sposób określony w art. 80ce ust. 2, w celach komercyjnych i niekomercyjnych."
+    },
+    {
+      "provision_ref": "art3p1lfp15la",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. fp",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: pkt 15 otrzymuje brzmienie: „ w art. 83: w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Badanie techniczne przeprowadza się po uiszczeniu przez właściciela lub posiadacza pojazdu opłaty za przeprowadzenie badania technicznego i opłaty ewidencyjnej, w: ” ,"
+    },
+    {
+      "provision_ref": "art3p1lfp15lbu1b",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. fp",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: pkt 15 otrzymuje brzmienie: „ w art. 83: po ust. 1a dodaje się ust. 1b-1d w brzmieniu: „ W przypadku dokonywania opłat, o których mowa w ust. 1, w obrocie bezgotówkowym za ich uiszczenie uważa się złożenie przez właściciela lub posiadacza pojazdu dyspozycji obciążenia rachunku bankowego, rachunku w spółdzielczej kasie oszczędnościowo-kredytowej, rachunku płatniczego w instytucji płatniczej lub instytucji pieniądza elektronicznego na podstawie polecenia przelewu albo zapłaty za pomocą innego niż polecenie przelewu instrumentu płatniczego."
+    },
+    {
+      "provision_ref": "art3p1lfp15lbu1c",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. fp",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: pkt 15 otrzymuje brzmienie: „ w art. 83: po ust. 1a dodaje się ust. 1b-1d w brzmieniu: „ Opłaty, o których mowa w ust. 1, mogą być uiszczone po przeprowadzeniu badania technicznego, jeżeli przewiduje to umowa zawarta między przedsiębiorcą prowadzącym stację kontroli pojazdów a właścicielem lub posiadaczem pojazdu."
+    },
+    {
+      "provision_ref": "art3p1lfp15lbu1d",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. fp",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: pkt 15 otrzymuje brzmienie: „ w art. 83: po ust. 1a dodaje się ust. 1b-1d w brzmieniu: „ Obowiązek uiszczenia opłaty ewidencyjnej, o której mowa w ust. 1, nie dotyczy pojazdów niepodlegających rejestracji i pojazdów, o których mowa w art. 73 ust. 3.”;"
+    },
+    {
+      "provision_ref": "art3p1lgu2",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. gu",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 17: - w art. 100ah w ust. 4 zdanie pierwsze otrzymuje brzmienie: „ Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na uzasadniony wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 100ak w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Dane zgromadzone w ewidencji udostępnia się na wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 100al w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na uzasadniony wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 100am: - - ust. 2 otrzymuje brzmienie: „ Dane zgromadzone w ewidencji są przekazywane do ponownego wykorzystywania na wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP."
+    },
+    {
+      "provision_ref": "art3p1lgu3",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. gu",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 17: - w art. 100ah w ust. 4 zdanie pierwsze otrzymuje brzmienie: „ Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na uzasadniony wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 100ak w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Dane zgromadzone w ewidencji udostępnia się na wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 100al w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na uzasadniony wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 100am: - - ust. 2 otrzymuje brzmienie: „ Dane zgromadzone w ewidencji mogą być udostępniane do ponownego wykorzystywania także za pośrednictwem usług sieciowych."
+    },
+    {
+      "provision_ref": "art3p1lgu1",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. gu",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 17: - w art. 100ah w ust. 4 zdanie pierwsze otrzymuje brzmienie: „ Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na uzasadniony wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 100ak w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Dane zgromadzone w ewidencji udostępnia się na wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 100al w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na uzasadniony wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 100am: - - ust. 2 otrzymuje brzmienie: „ Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, wzór wniosku, o którym mowa w art. 100ah ust. 4, art. 100ak ust. 2, art. 100al ust. 2 oraz art. 100am ust. 2, kierując się potrzebami usprawnienia procesu udostępniania i przekazywania danych z ewidencji."
+    },
+    {
+      "provision_ref": "art3p1lgp1la",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. gp",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 17: - w art. 100ah w ust. 4 zdanie pierwsze otrzymuje brzmienie: „ Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na uzasadniony wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 100ak w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Dane zgromadzone w ewidencji udostępnia się na wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 100al w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na uzasadniony wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 100am: - - ust. 2 otrzymuje brzmienie: „ nieodpłatnie, w przypadku danych: udostępnianych na podstawie art. 100ah-100ak,"
+    },
+    {
+      "provision_ref": "art3p1lgp1lb",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. gp",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 17: - w art. 100ah w ust. 4 zdanie pierwsze otrzymuje brzmienie: „ Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na uzasadniony wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 100ak w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Dane zgromadzone w ewidencji udostępnia się na wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 100al w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na uzasadniony wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 100am: - - ust. 2 otrzymuje brzmienie: „ nieodpłatnie, w przypadku danych: przekazywanych na podstawie art. 100am w sposób określony w art. 100am ust. 2 organom administracji publicznej, niewymienionym w art. 100ah ust. 1, w celach niekomercyjnych,"
+    },
+    {
+      "provision_ref": "art3p1lgp1lc",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. gp",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 17: - w art. 100ah w ust. 4 zdanie pierwsze otrzymuje brzmienie: „ Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na uzasadniony wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 100ak w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Dane zgromadzone w ewidencji udostępnia się na wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 100al w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na uzasadniony wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 100am: - - ust. 2 otrzymuje brzmienie: „ nieodpłatnie, w przypadku danych: udostępnianych na podstawie art. 100am w sposób określony w art. 100am ust. 3, w celach komercyjnych i niekomercyjnych;"
+    },
+    {
+      "provision_ref": "art3p1lgp2la",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. gp",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 17: - w art. 100ah w ust. 4 zdanie pierwsze otrzymuje brzmienie: „ Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na uzasadniony wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 100ak w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Dane zgromadzone w ewidencji udostępnia się na wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 100al w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na uzasadniony wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 100am: - - ust. 2 otrzymuje brzmienie: „ odpłatnie, w przypadku danych: udostępnianych na podstawie art. 100al,"
+    },
+    {
+      "provision_ref": "art3p1lgp2lb",
+      "section": "3",
+      "title": "Art. 3 pkt 1 lit. gp",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 1: w pkt 17: - w art. 100ah w ust. 4 zdanie pierwsze otrzymuje brzmienie: „ Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na uzasadniony wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 100ak w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Dane zgromadzone w ewidencji udostępnia się na wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 100al w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na uzasadniony wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. ” , - w art. 100am: - - ust. 2 otrzymuje brzmienie: „ odpłatnie, w przypadku danych: przekazywanych na podstawie art. 100am w sposób określony w art. 100am ust. 2, w celach komercyjnych i niekomercyjnych."
+    },
+    {
+      "provision_ref": "art3p2lap1lalb",
+      "section": "3",
+      "title": "Art. 3 pkt 2 lit. ap",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 4: pkt 1 otrzymuje brzmienie: „ w art. 102: w ust. 3 w pkt 5 lit. b i c otrzymują brzmienie: „ szkoda całkowita w pojeździe, w tym szkoda istotna,"
+    },
+    {
+      "provision_ref": "art3p2lap1lalc",
+      "section": "3",
+      "title": "Art. 3 pkt 2 lit. ap",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 4: pkt 1 otrzymuje brzmienie: „ w art. 102: w ust. 3 w pkt 5 lit. b i c otrzymują brzmienie: „ szkoda częściowa w pojeździe, w tym szkoda istotna,"
+    },
+    {
+      "provision_ref": "art3p2lap1lb",
+      "section": "3",
+      "title": "Art. 3 pkt 2 lit. ap",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 4: pkt 1 otrzymuje brzmienie: „ w art. 102: w ust. 4 w pkt 1 w lit. b tiret drugie i trzecie otrzymują brzmienie: „ - szkoda całkowita w pojeździe, w tym szkoda istotna, - szkoda częściowa w pojeździe, w tym szkoda istotna,”; ” ,"
+    },
+    {
+      "provision_ref": "art3p2lblcu3a",
+      "section": "3",
+      "title": "Art. 3 pkt 2 lit. blcu",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 4: w pkt 3 lit. c otrzymuje brzmienie: „ po ust. 3 dodaje się ust. 3a w brzmieniu: „ Dane do Funduszu są przekazywane bezpłatnie oraz bez wiedzy i zgody osoby, której te dane dotyczą.”,"
+    },
+    {
+      "provision_ref": "art3p3",
+      "section": "3",
+      "title": "Art. 3 pkt 3",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: uchyla się art. 5;"
+    },
+    {
+      "provision_ref": "art3p4u2",
+      "section": "3",
+      "title": "Art. 3 pkt 4 ust. 2",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 9 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „ Decyzje wydane na podstawie art. 80c ust. 7 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym zachowują ważność."
+    },
+    {
+      "provision_ref": "art3p5lau1",
+      "section": "3",
+      "title": "Art. 3 pkt 5 lit. au",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 11: ust. 1-3 otrzymują brzmienie: „ Ubezpieczeniowy Fundusz Gwarancyjny przekazuje do centralnej ewidencji pojazdów dane i informacje zgromadzone do dnia 12 listopada 2017 r. w zakresie, o którym mowa w art. 80b ust. 1 pkt 6 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą."
+    },
+    {
+      "provision_ref": "art3p5lau2",
+      "section": "3",
+      "title": "Art. 3 pkt 5 lit. au",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 11: ust. 1-3 otrzymują brzmienie: „ Organy właściwe w sprawach wydawania uprawnień do kierowania pojazdami przekazują do centralnej ewidencji kierowców dane i informacje zgromadzone do dnia 3 czerwca 2018 r. w zakresie wynikającym z utworzenia profilu kandydata na kierowcę."
+    },
+    {
+      "provision_ref": "art3p5lau3",
+      "section": "3",
+      "title": "Art. 3 pkt 5 lit. au",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 11: ust. 1-3 otrzymują brzmienie: „ Organy rejestrujące przekazują do centralnej ewidencji pojazdów dane i informacje zgromadzone i nieprzekazane do ewidencji do dnia 12 listopada 2017 r."
+    },
+    {
+      "provision_ref": "art3p5lbu3a",
+      "section": "3",
+      "title": "Art. 3 pkt 5 lit. bu",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 11: po ust. 3 dodaje się ust. 3a-3c w brzmieniu: „ Organy właściwe w sprawach wydawania uprawnień do kierowania pojazdami przekazują do centralnej ewidencji kierowców dane i informacje zgromadzone i nieprzekazane do ewidencji do dnia 3 czerwca 2018 r."
+    },
+    {
+      "provision_ref": "art3p5lbu3b",
+      "section": "3",
+      "title": "Art. 3 pkt 5 lit. bu",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 11: po ust. 3 dodaje się ust. 3a-3c w brzmieniu: „ Dane z rejestru zastawów zgromadzone do dnia 3 czerwca 2018 r. są przekazywane do centralnej ewidencji pojazdów do dnia 3 czerwca 2018 r."
+    },
+    {
+      "provision_ref": "art3p5lbu3cp1",
+      "section": "3",
+      "title": "Art. 3 pkt 5 lit. bu",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 11: po ust. 3 dodaje się ust. 3a-3c w brzmieniu: „ Przekazywanie danych, o których mowa w: ust. 1-3a, rozpocznie się od dnia 20 października 2017 r.;"
+    },
+    {
+      "provision_ref": "art3p5lbu3cp2",
+      "section": "3",
+      "title": "Art. 3 pkt 5 lit. bu",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 11: po ust. 3 dodaje się ust. 3a-3c w brzmieniu: „ Przekazywanie danych, o których mowa w: ust. 3b, rozpocznie się od dnia 1 grudnia 2017 r."
+    },
+    {
+      "provision_ref": "art3p6u1",
+      "section": "3",
+      "title": "Art. 3 pkt 6 ust. 1",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: art. 13 otrzymuje brzmienie: „ Od dnia 13 listopada 2017 r. do dnia 3 czerwca 2018 r. dane o umowach obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów są wprowadzane do centralnej ewidencji pojazdów na zasadach określonych w ustawach zmienianych w art. 1 i art. 4 w brzmieniu dotychczasowym, z tym że do centralnej ewidencji pojazdów wprowadza się także numer PESEL ubezpieczonego, a w przypadku osoby nieposiadającej numeru PESEL - serię, numer i nazwę dokumentu potwierdzającego tożsamość albo numer identyfikacyjny REGON ubezpieczonego."
+    },
+    {
+      "provision_ref": "art3p6u2",
+      "section": "3",
+      "title": "Art. 3 pkt 6 ust. 2",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: art. 13 otrzymuje brzmienie: „ Od dnia 4 czerwca 2018 r. do czasu wdrożenia rozwiązań technicznych pozwalających wprowadzać dane do centralnej ewidencji pojazdów w czasie wykonania czynności skutkującej koniecznością przekazania do niej danych, nie dłużej jednak niż przez 24 miesiące, dane o umowach obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów są wprowadzane do centralnej ewidencji pojazdów na zasadach określonych w ustawach zmienianych w art. 1 i art. 4 w brzmieniu dotychczasowym, z tym że do centralnej ewidencji pojazdów wprowadza się także numer PESEL ubezpieczonego, a w przypadku osoby nieposiadającej numeru PESEL - serię, numer i nazwę dokumentu potwierdzającego tożsamość albo numer identyfikacyjny REGON ubezpieczonego."
+    },
+    {
+      "provision_ref": "art3p6u3",
+      "section": "3",
+      "title": "Art. 3 pkt 6 ust. 3",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: art. 13 otrzymuje brzmienie: „ Do czasu wdrożenia rozwiązań technicznych pozwalających wprowadzać dane do centralnej ewidencji pojazdów w czasie wykonania czynności skutkującej koniecznością przekazania do niej danych, nie dłużej jednak niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy, zakłady ubezpieczeń nie wprowadzają do centralnej ewidencji pojazdów danych o szkodach istotnych."
+    },
+    {
+      "provision_ref": "art3p7",
+      "section": "3",
+      "title": "Art. 3 pkt 7",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: art. 15 otrzymuje brzmienie: „ Do czasu dostosowania podmiotów, o których mowa w art. 80c ust. 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, do wymogów dotyczących udostępniania danych określonych w art. 80c ust. 4 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy, dane z centralnej ewidencji pojazdów mogą być udostępniane na zasadach określonych w ustawie zmienianej w art. 1 w brzmieniu dotychczasowym. ” ;"
+    },
+    {
+      "provision_ref": "art3p8",
+      "section": "3",
+      "title": "Art. 3 pkt 8",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: po art. 15 dodaje się art. 15a w brzmieniu: „ Do czasu dostosowania podmiotów, o których mowa w art. 100ah ust. 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, do wymogów dotyczących udostępniania danych określonych w art. 100ah ust. 3 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy, dane z centralnej ewidencji kierowców mogą być udostępniane na zasadach określonych w ustawie zmienianej w art. 1 w brzmieniu dotychczasowym. ” ;"
+    },
+    {
+      "provision_ref": "art3p9",
+      "section": "3",
+      "title": "Art. 3 pkt 9",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: uchyla się art. 16;"
+    },
+    {
+      "provision_ref": "art3p10u1",
+      "section": "3",
+      "title": "Art. 3 pkt 10 ust. 1",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: po art. 16 dodaje się art. 16a w brzmieniu: „ Od dnia 13 listopada 2017 r. do dnia 3 czerwca 2018 r. podmiot, który stwierdzi niezgodność danych zgromadzonych w centralnej ewidencji pojazdów, w przypadku gdy niezgodność ta uniemożliwia wprowadzenie danych do centralnej ewidencji pojazdów, niezwłocznie informuje o tym, poza systemem teleinformatycznym obsługującym centralną ewidencję pojazdów, administratora danych i informacji zgromadzonych w centralnej ewidencji pojazdów. Informację przekazuje się w postaci papierowej albo elektronicznej, zgodnie z informacją udostępnioną na stronie podmiotowej Biuletynu Informacji Publicznej ministra właściwego do spraw informatyzacji."
+    },
+    {
+      "provision_ref": "art3p10u2p1",
+      "section": "3",
+      "title": "Art. 3 pkt 10 ust. 2 pkt 1",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: po art. 16 dodaje się art. 16a w brzmieniu: „ Niezgodność danych stwierdza się w przypadku: rozbieżności między danymi zgromadzonymi w centralnej ewidencji pojazdów a stanem prawnym ustalonym na podstawie dostępnych danych lub stanem faktycznym;"
+    },
+    {
+      "provision_ref": "art3p10u2p2",
+      "section": "3",
+      "title": "Art. 3 pkt 10 ust. 2 pkt 2",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: po art. 16 dodaje się art. 16a w brzmieniu: „ Niezgodność danych stwierdza się w przypadku: braku danych w centralnej ewidencji pojazdów nieuwzględniającego stanu prawnego lub faktycznego."
+    },
+    {
+      "provision_ref": "art3p10u3",
+      "section": "3",
+      "title": "Art. 3 pkt 10 ust. 3",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: po art. 16 dodaje się art. 16a w brzmieniu: „ Administrator danych i informacji zgromadzonych w centralnej ewidencji pojazdów przekazuje, poza systemem teleinformatycznym obsługującym centralną ewidencję pojazdów, zgłoszoną niezgodność danych podmiotowi właściwemu do wprowadzenia danych do ewidencji, który wyjaśnia tę niezgodność, w szczególności w oparciu o dostępne dane."
+    },
+    {
+      "provision_ref": "art3p10u4p1la",
+      "section": "3",
+      "title": "Art. 3 pkt 10 ust. 4 pkt 1 lit. a",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: po art. 16 dodaje się art. 16a w brzmieniu: „ Podmiot, o którym mowa w ust. 3, niezwłocznie informuje, poza systemem teleinformatycznym obsługującym centralną ewidencję pojazdów, administratora danych i informacji zgromadzonych w centralnej ewidencji pojazdów o: wyjaśnieniu niezgodności danych w przypadku: wprowadzenia poprawnych danych do centralnej ewidencji pojazdów za pomocą systemu teleinformatycznego obsługującego ewidencję lub za pomocą systemu teleinformatycznego obsługującego zadania realizowane przez podmiot wprowadzający dane,"
+    },
+    {
+      "provision_ref": "art3p10u4p1lb",
+      "section": "3",
+      "title": "Art. 3 pkt 10 ust. 4 pkt 1 lit. b",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: po art. 16 dodaje się art. 16a w brzmieniu: „ Podmiot, o którym mowa w ust. 3, niezwłocznie informuje, poza systemem teleinformatycznym obsługującym centralną ewidencję pojazdów, administratora danych i informacji zgromadzonych w centralnej ewidencji pojazdów o: wyjaśnieniu niezgodności danych w przypadku: stwierdzenia, że wprowadzone do centralnej ewidencji pojazdów dane są poprawne;"
+    },
+    {
+      "provision_ref": "art3p10u4p2",
+      "section": "3",
+      "title": "Art. 3 pkt 10 ust. 4 pkt 2",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: po art. 16 dodaje się art. 16a w brzmieniu: „ Podmiot, o którym mowa w ust. 3, niezwłocznie informuje, poza systemem teleinformatycznym obsługującym centralną ewidencję pojazdów, administratora danych i informacji zgromadzonych w centralnej ewidencji pojazdów o: braku możliwości wprowadzenia poprawnych danych do centralnej ewidencji pojazdów z podaniem uzasadnienia."
+    },
+    {
+      "provision_ref": "art3p10u5",
+      "section": "3",
+      "title": "Art. 3 pkt 10 ust. 5",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: po art. 16 dodaje się art. 16a w brzmieniu: „ Administrator danych i informacji zgromadzonych w centralnej ewidencji pojazdów informuje, poza systemem teleinformatycznym obsługującym centralną ewidencję pojazdów, podmiot, o którym mowa w ust. 1, o wyjaśnieniu niezgodności danych albo braku możliwości wprowadzenia poprawnych danych do centralnej ewidencji pojazdów."
+    },
+    {
+      "provision_ref": "art3p10u6",
+      "section": "3",
+      "title": "Art. 3 pkt 10 ust. 6",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: po art. 16 dodaje się art. 16a w brzmieniu: „ W przypadku wyjaśnienia niezgodności danych podmiot, o którym mowa w ust. 1, wprowadza dane do centralnej ewidencji pojazdów za pomocą systemu teleinformatycznego obsługującego ewidencję lub za pomocą systemu teleinformatycznego obsługującego zadania realizowane przez podmiot wprowadzający dane w terminie 3 dni od dnia otrzymania informacji, o której mowa w ust. 5."
+    },
+    {
+      "provision_ref": "art3p10u7",
+      "section": "3",
+      "title": "Art. 3 pkt 10 ust. 7",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: po art. 16 dodaje się art. 16a w brzmieniu: „ W przypadku, o którym mowa w ust. 4 pkt 2, podmiot, o którym mowa w ust. 1, nie wprowadza danych do centralnej ewidencji pojazdów."
+    },
+    {
+      "provision_ref": "art3p10u8",
+      "section": "3",
+      "title": "Art. 3 pkt 10 ust. 8",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: po art. 16 dodaje się art. 16a w brzmieniu: „ Przepisów ust. 1-7 nie stosuje się do rejestracji pojazdów, czasowej rejestracji pojazdów oraz do zawiadomienia, o którym mowa w art. 78 ust. 2 ustawy zmienianej w art. 1."
+    },
+    {
+      "provision_ref": "art3p11p4",
+      "section": "3",
+      "title": "Art. 3 pkt 11 pkt 4",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 18 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 i 5 w brzmieniu: „ art. 1 pkt 6 w zakresie art. 80a ust. 2 pkt 1, 2 i 3 lit. a, pkt 7 w zakresie art. 80b ust. 1 pkt 1-6, 8-10 i 12-20 oraz ust. 2-4, pkt 8 w zakresie art. 80ba ust. 1 pkt 1-4 i 6, ust. 1a, ust. 2, ust. 3 w zakresie podmiotów, o których mowa w ust. 1 pkt 1-4 i 6, i ust. 4-6, art. 80bb, art. 80bc, art. 80bg, art. 80bh ust. 2, ust. 6 pkt 1 i 4, ust. 7 i 9, pkt 9, pkt 10 w zakresie art. 80ca-80cd, art. 80ce ust. 1 i 2, art. 80cf, art. 80cg pkt 1 lit. a i b i pkt 2 i art. 80ch, pkt 11-15, art. 4 pkt 2-4, art. 10, art. 12 ust. 1, art. 13 ust. 1 i 2, art. 15 i art. 16a, które wchodzą w życie z dniem 13 listopada 2017 r.;"
+    },
+    {
+      "provision_ref": "art3p11p5",
+      "section": "3",
+      "title": "Art. 3 pkt 11 pkt 5",
+      "content": "W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ) wprowadza się następujące zmiany: w art. 18 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 i 5 w brzmieniu: „ art. 11 ust. 1-3c, które wchodzą w życie z dniem 20 października 2017 r."
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "W ustawie z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej ( Dz. U. z 2017 r. poz. 1170 i 1089 ) w art. 35 ust. 4 otrzymuje brzmienie: „ 4. Obowiązek zachowania tajemnicy, o którym mowa w ust. 1, nie dotyczy danych w zakresie umów ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów mechanicznych za szkody powstałe w związku z ruchem tych pojazdów oraz danych w zakresie szkód istotnych w rozumieniu ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym , przekazywanych do centralnej ewidencji pojazdów w rozumieniu tej ustawy. ” ."
+      "content": "W ustawie z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej w art. 35 ust. 4 otrzymuje brzmienie: „ Obowiązek zachowania tajemnicy, o którym mowa w ust. 1, nie dotyczy danych w zakresie umów ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów mechanicznych za szkody powstałe w związku z ruchem tych pojazdów oraz danych w zakresie szkód istotnych w rozumieniu ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym , przekazywanych do centralnej ewidencji pojazdów w rozumieniu tej ustawy. ” ."
+    },
+    {
+      "provision_ref": "art4u4",
+      "section": "4",
+      "title": "Art. 4 ust. 4",
+      "content": "W ustawie z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej w art. 35 ust. 4 otrzymuje brzmienie: „ Obowiązek zachowania tajemnicy, o którym mowa w ust. 1, nie dotyczy danych w zakresie umów ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów mechanicznych za szkody powstałe w związku z ruchem tych pojazdów oraz danych w zakresie szkód istotnych w rozumieniu ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym , przekazywanych do centralnej ewidencji pojazdów w rozumieniu tej ustawy."
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Art. 5",
-      "content": "W ustawie z dnia 16 listopada 2016 r. - Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej ( Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379 i 1537 ) w art. 260 pkt 4 otrzymuje brzmienie: „ 4) art. 149a: a) pkt 1, który wchodzi w życie z dniem 13 listopada 2017 r., b) pkt 2, który wchodzi w życie z dniem 4 czerwca 2018 r. ” ."
+      "content": "W ustawie z dnia 16 listopada 2016 r. - Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej w art. 260 pkt 4 otrzymuje brzmienie: „ art. 149a: pkt 1, który wchodzi w życie z dniem 13 listopada 2017 r., pkt 2, który wchodzi w życie z dniem 4 czerwca 2018 r. ” ."
+    },
+    {
+      "provision_ref": "art5p4la",
+      "section": "5",
+      "title": "Art. 5 pkt 4 lit. a",
+      "content": "W ustawie z dnia 16 listopada 2016 r. - Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej w art. 260 pkt 4 otrzymuje brzmienie: „ art. 149a: pkt 1, który wchodzi w życie z dniem 13 listopada 2017 r.,"
+    },
+    {
+      "provision_ref": "art5p4lb",
+      "section": "5",
+      "title": "Art. 5 pkt 4 lit. b",
+      "content": "W ustawie z dnia 16 listopada 2016 r. - Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej w art. 260 pkt 4 otrzymuje brzmienie: „ art. 149a: pkt 2, który wchodzi w życie z dniem 4 czerwca 2018 r."
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Art. 6",
-      "content": "W ustawie z dnia 30 listopada 2016 r. o zmianie ustawy o kierujących pojazdami oraz niektórych innych ustaw ( Dz. U. poz. 2001 ) w art. 8 ust. 2 otrzymuje brzmienie: „ 2. Dane, o których mowa w ust. 1, są używane przez starostów przy przekazywaniu danych do centralnej ewidencji pojazdów do dnia 12 listopada 2017 r. ” ."
+      "content": "W ustawie z dnia 30 listopada 2016 r. o zmianie ustawy o kierujących pojazdami oraz niektórych innych ustaw w art. 8 ust. 2 otrzymuje brzmienie: „ Dane, o których mowa w ust. 1, są używane przez starostów przy przekazywaniu danych do centralnej ewidencji pojazdów do dnia 12 listopada 2017 r. ” ."
+    },
+    {
+      "provision_ref": "art6u2",
+      "section": "6",
+      "title": "Art. 6 ust. 2",
+      "content": "W ustawie z dnia 30 listopada 2016 r. o zmianie ustawy o kierujących pojazdami oraz niektórych innych ustaw w art. 8 ust. 2 otrzymuje brzmienie: „ Dane, o których mowa w ust. 1, są używane przez starostów przy przekazywaniu danych do centralnej ewidencji pojazdów do dnia 12 listopada 2017 r."
     },
     {
       "provision_ref": "art7",
@@ -55,14 +685,94 @@
       "provision_ref": "art8",
       "section": "8",
       "title": "Art. 8",
-      "content": "Od dnia 13 listopada 2017 r. do dnia 3 czerwca 2018 r. zakłady ubezpieczeń mogą przekazywać do Ubezpieczeniowego Funduszu Gwarancyjnego informacje o szkodach istotnych, o których mowa w art. 2 pkt 10a ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą. Przepis art. 102 ust. 7 ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych ( Dz. U. z 2016 r. poz. 2060 i 1948 oraz z 2017 r. poz. 1089 ) stosuje się odpowiednio."
+      "content": "Od dnia 13 listopada 2017 r. do dnia 3 czerwca 2018 r. zakłady ubezpieczeń mogą przekazywać do Ubezpieczeniowego Funduszu Gwarancyjnego informacje o szkodach istotnych, o których mowa w art. 2 pkt 10a ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą. Przepis art. 102 ust. 7 ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych stosuje się odpowiednio."
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Art. 9",
-      "content": "Ustawa wchodzi w życie z dniem 13 listopada 2017 r., z wyjątkiem: 1) art. 1 pkt 2 lit. a tiret drugie, który wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia; 2) art. 1 pkt 3 i art. 7, które wchodzą w życie z dniem następującym po dniu ogłoszenia; 3) art. 3, który wchodzi w życie z dniem 20 października 2017 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych, ustawę z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw, ustawę z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej, ustawę z dnia 16 listopada 2016 r. - Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej i ustawę z dnia 30 listopada 2016 r. o zmianie ustawy o kierujących pojazdami oraz niektórych innych ustaw. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 2183 i 2281, z 2016 r. poz. 352 i 2001 oraz z 2017 r. poz. 379 i 777. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_1-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"arti_1-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"},{\"id\": \"arti_1-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\",\"children\": [{\"id\": \"arti_1-pint_9-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_9-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-pint_9-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_1-pint_9-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"}]},{\"id\": \"arti_1-pint_10\",\"symbol\": \"pint_10\",\"type\": \"pint\",\"name\": \"10\",\"title\": \"10)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_3-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_3-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_3-pint_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_3-pint_1-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"arti_3-pint_1-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"},{\"id\": \"arti_3-pint_1-lett_f\",\"symbol\": \"lett_f\",\"type\": \"lett\",\"name\": \"f\",\"title\": \"f)\"},{\"id\": \"arti_3-pint_1-lett_g\",\"symbol\": \"lett_g\",\"type\": \"lett\",\"name\": \"g\",\"title\": \"g)\"}]},{\"id\": \"arti_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_3-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_3-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_3-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_3-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_3-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\",\"children\": [{\"id\": \"arti_3-pint_5-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_3-pint_5-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_3-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_3-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"arti_3-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"},{\"id\": \"arti_3-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\"},{\"id\": \"arti_3-pint_10\",\"symbol\": \"pint_10\",\"type\": \"pint\",\"name\": \"10\",\"title\": \"10)\"},{\"id\": \"arti_3-pint_11\",\"symbol\": \"pint_11\",\"type\": \"pint\",\"name\": \"11\",\"title\": \"11)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"arti_9-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_9-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_9-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]} ] } ];"
+      "content": "Ustawa wchodzi w życie z dniem 13 listopada 2017 r., z wyjątkiem: art. 1 pkt 2 lit. a tiret drugie, który wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia; art. 1 pkt 3 i art. 7, które wchodzą w życie z dniem następującym po dniu ogłoszenia; art. 3, który wchodzi w życie z dniem 20 października 2017 r."
+    },
+    {
+      "provision_ref": "art9p1",
+      "section": "9",
+      "title": "Art. 9 pkt 1",
+      "content": "Ustawa wchodzi w życie z dniem 13 listopada 2017 r., z wyjątkiem: art. 1 pkt 2 lit. a tiret drugie, który wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia;"
+    },
+    {
+      "provision_ref": "art9p2",
+      "section": "9",
+      "title": "Art. 9 pkt 2",
+      "content": "Ustawa wchodzi w życie z dniem 13 listopada 2017 r., z wyjątkiem: art. 1 pkt 3 i art. 7, które wchodzą w życie z dniem następującym po dniu ogłoszenia;"
+    },
+    {
+      "provision_ref": "art9p3",
+      "section": "9",
+      "title": "Art. 9 pkt 3",
+      "content": "Ustawa wchodzi w życie z dniem 13 listopada 2017 r., z wyjątkiem: art. 3, który wchodzi w życie z dniem 20 października 2017 r."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2017-1260",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2017-1170",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2017-1089",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2017-201",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2017-648",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2017-768",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2017-935",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2017-1428",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2017-1537",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2016-2060",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2016-1948",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2015-1273",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2016-2255",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2017-379",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2016-2001",
+      "ref_type": "amended_by"
+    }
+  ]
 }

@@ -13,7 +13,7 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W art. 127 ust. (1) ustawy z dnia 28 marca 1933 r. o ubezpieczeniu społecznym ( Dz. U. R. P. Nr 51, poz. 396 ) , zmienionej częściowo rozporządzeniem Prezydenta Rzeczypospolitej z dnia 24 października 1934 r. ( Dz. U. R. P. Nr 95, poz. 855 ) i dekretem Prezydenta Rzeczypospolitej z dnia 14 stycznia 1936 r. ( Dz. U. R. P. Nr 3, poz. 24 ) skreśla się „85%” ."
+      "content": "W art. 127 ust. (1) ustawy z dnia 28 marca 1933 r. o ubezpieczeniu społecznym , zmienionej częściowo rozporządzeniem Prezydenta Rzeczypospolitej z dnia 24 października 1934 r. i dekretem Prezydenta Rzeczypospolitej z dnia 14 stycznia 1936 r. skreśla się „85%” ."
     },
     {
       "provision_ref": "art2",
@@ -25,8 +25,22 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "Ustawa niniejsza wchodzi w życie z dniem 1 stycznia 1938 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+      "content": "Ustawa niniejsza wchodzi w życie z dniem 1 stycznia 1938 r."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-1933-396",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1934-855",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1936-24",
+      "ref_type": "amended_by"
+    }
+  ]
 }

@@ -19,7 +19,25 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Do art. 149 kodeksu karnego z r. 1903, obowiązującego w b. zaborze rosyjskim, wprowadza się zmiany następujące: 1) w części pierwszej zamiast słów: „występku lub zbrodni” umieścić należy słowa: „wykroczenia, występku lub zbrodni”; 2) w części drugiej zamiast słów: „Jeśli występek lub zbrodnia” umieścić należy słowa: „Jeśli wykroczenia, występek lub zbrodnia”; 3) w części, określającej karę, zamiast słów: „za przekupienie do występku” umieścić należy słowa: „za przekupienie do wykroczenia lub występku”."
+      "content": "Do art. 149 kodeksu karnego z r. 1903, obowiązującego w b. zaborze rosyjskim, wprowadza się zmiany następujące: w części pierwszej zamiast słów: „występku lub zbrodni” umieścić należy słowa: „wykroczenia, występku lub zbrodni”; w części drugiej zamiast słów: „Jeśli występek lub zbrodnia” umieścić należy słowa: „Jeśli wykroczenia, występek lub zbrodnia”; w części, określającej karę, zamiast słów: „za przekupienie do występku” umieścić należy słowa: „za przekupienie do wykroczenia lub występku”."
+    },
+    {
+      "provision_ref": "art2p1",
+      "section": "2",
+      "title": "Art. 2 pkt 1",
+      "content": "Do art. 149 kodeksu karnego z r. 1903, obowiązującego w b. zaborze rosyjskim, wprowadza się zmiany następujące: w części pierwszej zamiast słów: „występku lub zbrodni” umieścić należy słowa: „wykroczenia, występku lub zbrodni”;"
+    },
+    {
+      "provision_ref": "art2p2",
+      "section": "2",
+      "title": "Art. 2 pkt 2",
+      "content": "Do art. 149 kodeksu karnego z r. 1903, obowiązującego w b. zaborze rosyjskim, wprowadza się zmiany następujące: w części drugiej zamiast słów: „Jeśli występek lub zbrodnia” umieścić należy słowa: „Jeśli wykroczenia, występek lub zbrodnia”;"
+    },
+    {
+      "provision_ref": "art2p3",
+      "section": "2",
+      "title": "Art. 2 pkt 3",
+      "content": "Do art. 149 kodeksu karnego z r. 1903, obowiązującego w b. zaborze rosyjskim, wprowadza się zmiany następujące: w części, określającej karę, zamiast słów: „za przekupienie do występku” umieścić należy słowa: „za przekupienie do wykroczenia lub występku”."
     },
     {
       "provision_ref": "art3",
@@ -31,8 +49,9 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "Wykonanie tej ustawy poleca się Ministrowi Sprawiedliwości. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+      "content": "Wykonanie tej ustawy poleca się Ministrowi Sprawiedliwości."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": []
 }

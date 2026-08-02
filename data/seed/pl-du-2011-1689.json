@@ -13,14 +13,32 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 24 września 2010 r. o ewidencji ludności ( Dz. U. Nr 217, poz. 1427 i Nr 239, poz. 1593 oraz z 2011 r. Nr 133, poz. 768 i Nr 204, poz. 1195 ) art. 80 otrzymuje brzmienie: „ Art. 80. Ustawa wchodzi w życie z dniem 1 stycznia 2013 r. ” ."
+      "content": "W ustawie z dnia 24 września 2010 r. o ewidencji ludności art. 80 otrzymuje brzmienie: „ Ustawa wchodzi w życie z dniem 1 stycznia 2013 r. ” ."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ustawa wchodzi w życie z dniem 31 grudnia 2011 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie z dniem 31 grudnia 2011 r."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2010-1427",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2010-1593",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2011-768",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2011-1195",
+      "ref_type": "amended_by"
+    }
+  ]
 }

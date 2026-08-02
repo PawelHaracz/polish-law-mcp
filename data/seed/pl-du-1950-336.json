@@ -10,34 +10,388 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/1950/336",
   "provisions": [
     {
+      "provision_ref": "art148",
+      "section": "148",
+      "title": "Art. 148",
+      "content": "Ustawa wchodzi w życie z dniem 26 maja 2022 r., z wyjątkiem: art. 54-61, które wchodzą w życie z dniem 1 stycznia 2023 r.; art. 21-25, które wchodzą w życie z dniem 1 lipca 2023 r."
+    },
+    {
+      "provision_ref": "art148p1",
+      "section": "148",
+      "title": "Art. 148 pkt 1",
+      "content": "Ustawa wchodzi w życie z dniem 26 maja 2022 r., z wyjątkiem: art. 54-61, które wchodzą w życie z dniem 1 stycznia 2023 r.;"
+    },
+    {
+      "provision_ref": "art148p2",
+      "section": "148",
+      "title": "Art. 148 pkt 2",
+      "content": "Ustawa wchodzi w życie z dniem 26 maja 2022 r., z wyjątkiem: art. 21-25, które wchodzą w życie z dniem 1 lipca 2023 r."
+    },
+    {
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "1. Prawo wykonywania zawodu i używania tytułu felczera przysługuje obywatelom polskim, którzy: 1) ukończyli liceum felczerskie bądź szkołę felczerską w Polsce albo 2) w dniu wejścia w życie niniejszej ustawy byli uprawnieni do wykonywania czynności felczerskich na podstawie dotychczasowych przepisów, albo 3) po dniu 9 maja 1945 r. ukończyli Oficerską Szkołę Instruktorów Sanitarnych przy Centrum Wyszkolenia Sanitarnego w Łodzi. 2. Minister Zdrowia może przyznawać prawo wykonywania zawodu i używania tytułu felczera obywatelom polskim, którzy za granicą w myśl obowiązujących tam przepisów nabyli równorzędne uprawnienia. Minister Zdrowia może uzależnić przyznanie tego prawa od złożenia przez kandydata egzaminu w liceum felczerskim z niektórych przedmiotów, objętych programem tego liceum."
+      "content": "Zawód felczera może wykonywać osoba, której Naczelna Rada Lekarska przyznała prawo wykonywania zawodu i która jest jednocześnie wpisana do Centralnego Rejestru Felczerów prowadzonego przez Naczelną Radę Lekarską."
+    },
+    {
+      "provision_ref": "art1a",
+      "section": "1a",
+      "title": "Art. 1a",
+      "content": "(uchylony) (uchylony) (uchylony) (uchylony) Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Naczelnej Rady Lekarskiej, określi, w drodze rozporządzenia, wzór dokumentu „Prawo wykonywania zawodu felczera”, uwzględniając w szczególności niezbędne dane osobowe felczera, numer prawa wykonywania zawodu, adnotacje o wpisie do rejestru oraz dane dotyczące kwalifikacji felczera."
+    },
+    {
+      "provision_ref": "art1au1",
+      "section": "1a",
+      "title": "Art. 1a ust. 1",
+      "content": "(uchylony)"
+    },
+    {
+      "provision_ref": "art1au2",
+      "section": "1a",
+      "title": "Art. 1a ust. 2",
+      "content": "(uchylony)"
+    },
+    {
+      "provision_ref": "art1au3",
+      "section": "1a",
+      "title": "Art. 1a ust. 3",
+      "content": "(uchylony)"
+    },
+    {
+      "provision_ref": "art1au4",
+      "section": "1a",
+      "title": "Art. 1a ust. 4",
+      "content": "(uchylony)"
+    },
+    {
+      "provision_ref": "art1au5",
+      "section": "1a",
+      "title": "Art. 1a ust. 5",
+      "content": "Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Naczelnej Rady Lekarskiej, określi, w drodze rozporządzenia, wzór dokumentu „Prawo wykonywania zawodu felczera”, uwzględniając w szczególności niezbędne dane osobowe felczera, numer prawa wykonywania zawodu, adnotacje o wpisie do rejestru oraz dane dotyczące kwalifikacji felczera."
+    },
+    {
+      "provision_ref": "art1b",
+      "section": "1b",
+      "title": "Art. 1b",
+      "content": "(uchylony)"
+    },
+    {
+      "provision_ref": "art1c",
+      "section": "1c",
+      "title": "Art. 1c",
+      "content": "Felczer, który uzyskał prawo wykonywania zawodu, podlega wpisowi do rejestru prowadzonego przez Naczelną Radę Lekarską. Naczelna Rada Lekarska określi szczegółowy tryb prowadzenia Centralnego Rejestru Felczerów. Naczelna Rada Lekarska udostępnia informacje zawarte w rejestrze felczerów, systemowi informacji w ochronie zdrowia, o którym mowa w ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia ."
+    },
+    {
+      "provision_ref": "art1cu1",
+      "section": "1c",
+      "title": "Art. 1c ust. 1",
+      "content": "Felczer, który uzyskał prawo wykonywania zawodu, podlega wpisowi do rejestru prowadzonego przez Naczelną Radę Lekarską."
+    },
+    {
+      "provision_ref": "art1cu2",
+      "section": "1c",
+      "title": "Art. 1c ust. 2",
+      "content": "Naczelna Rada Lekarska określi szczegółowy tryb prowadzenia Centralnego Rejestru Felczerów."
+    },
+    {
+      "provision_ref": "art1cu3",
+      "section": "1c",
+      "title": "Art. 1c ust. 3",
+      "content": "Naczelna Rada Lekarska udostępnia informacje zawarte w rejestrze felczerów, systemowi informacji w ochronie zdrowia, o którym mowa w ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia ."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "1. Wykonywanie zawodu felczera obejmuje: 1) udzielanie pomocy ludności w przypadkach zachorowania lub zagrożenia chorobą w granicach, ustalonych przez Ministra Zdrowia (art. 4), 2) szerzenie oświaty sanitarnej, 3) wykonywanie czynności sanitarnych z zakresu: higieny pracy, zwalczania chorób zakaźnych i zapobiegania tym chorobom oraz nadzoru nad artykułami żywności i przedmiotami użytku, 4) wydawanie orzeczeń o stanie zdrowia, 5) stwierdzanie zgonów. 2. Czynności, określone w ust. 1 pkt 1) i 4), felczer może wykonywać jedynie w zakładach społecznych służby zdrowia. W punktach felczerskich felczer wykonuje te czynności samodzielnie, w innych zaś zakładach społecznych służby zdrowia - pod kierunkiem lekarza. 3. Przepis ust. 2 nie dotyczy czynności, związanych z udzielaniem pomocy w nagłych wypadkach."
+      "content": "Wykonywanie zawodu felczera polega na udzielaniu świadczeń zdrowotnych, a w szczególności: badaniu stanu zdrowia; rozpoznawaniu chorób i zapobieganiu im; udzielaniu pomocy w stanach zagrożenia życia i zdrowia; wykonywaniu czynności z zakresu medycyny pracy, zapobieganiu i zwalczaniu chorób zakaźnych; sprawowaniu nadzoru nad artykułami żywnościowymi i produktami użytkowymi; stwierdzaniu zgonów; udziale w procesie leczenia pod nadzorem lub przy współpracy z lekarzem. Czynności określone w ust. 1 felczer wykonuje samodzielnie w podmiocie leczniczym w rozumieniu przepisów o działalności leczniczej albo w utworzonym punkcie felczerskim. Przepis ust. 2 nie dotyczy czynności, związanych z udzielaniem pomocy w nagłych wypadkach."
+    },
+    {
+      "provision_ref": "art2u1p1",
+      "section": "2",
+      "title": "Art. 2 ust. 1 pkt 1",
+      "content": "Wykonywanie zawodu felczera polega na udzielaniu świadczeń zdrowotnych, a w szczególności: badaniu stanu zdrowia;"
+    },
+    {
+      "provision_ref": "art2u1p2",
+      "section": "2",
+      "title": "Art. 2 ust. 1 pkt 2",
+      "content": "Wykonywanie zawodu felczera polega na udzielaniu świadczeń zdrowotnych, a w szczególności: rozpoznawaniu chorób i zapobieganiu im;"
+    },
+    {
+      "provision_ref": "art2u1p3",
+      "section": "2",
+      "title": "Art. 2 ust. 1 pkt 3",
+      "content": "Wykonywanie zawodu felczera polega na udzielaniu świadczeń zdrowotnych, a w szczególności: udzielaniu pomocy w stanach zagrożenia życia i zdrowia;"
+    },
+    {
+      "provision_ref": "art2u1p4",
+      "section": "2",
+      "title": "Art. 2 ust. 1 pkt 4",
+      "content": "Wykonywanie zawodu felczera polega na udzielaniu świadczeń zdrowotnych, a w szczególności: wykonywaniu czynności z zakresu medycyny pracy, zapobieganiu i zwalczaniu chorób zakaźnych;"
+    },
+    {
+      "provision_ref": "art2u1p5",
+      "section": "2",
+      "title": "Art. 2 ust. 1 pkt 5",
+      "content": "Wykonywanie zawodu felczera polega na udzielaniu świadczeń zdrowotnych, a w szczególności: sprawowaniu nadzoru nad artykułami żywnościowymi i produktami użytkowymi;"
+    },
+    {
+      "provision_ref": "art2u1p6",
+      "section": "2",
+      "title": "Art. 2 ust. 1 pkt 6",
+      "content": "Wykonywanie zawodu felczera polega na udzielaniu świadczeń zdrowotnych, a w szczególności: stwierdzaniu zgonów;"
+    },
+    {
+      "provision_ref": "art2u1p7",
+      "section": "2",
+      "title": "Art. 2 ust. 1 pkt 7",
+      "content": "Wykonywanie zawodu felczera polega na udzielaniu świadczeń zdrowotnych, a w szczególności: udziale w procesie leczenia pod nadzorem lub przy współpracy z lekarzem."
+    },
+    {
+      "provision_ref": "art2u2",
+      "section": "2",
+      "title": "Art. 2 ust. 2",
+      "content": "Czynności określone w ust. 1 felczer wykonuje samodzielnie w podmiocie leczniczym w rozumieniu przepisów o działalności leczniczej albo w utworzonym punkcie felczerskim."
+    },
+    {
+      "provision_ref": "art2u3",
+      "section": "2",
+      "title": "Art. 2 ust. 3",
+      "content": "Przepis ust. 2 nie dotyczy czynności, związanych z udzielaniem pomocy w nagłych wypadkach."
+    },
+    {
+      "provision_ref": "art2a",
+      "section": "2a",
+      "title": "Art. 2a",
+      "content": "Felczer albo starszy felczer tracą prawo wykonywania zawodu na terytorium Rzeczypospolitej Polskiej z mocy prawa w przypadku ubezwłasnowolnienia. Felczer albo starszy felczer posiadający prawo wykonywania zawodu i niewykonujący zawodu przez 5 lat tracą prawo do wykonywania zawodu i podlegają wykreśleniu z Centralnego Rejestru Felczerów. (uchylony)"
+    },
+    {
+      "provision_ref": "art2au1",
+      "section": "2a",
+      "title": "Art. 2a ust. 1",
+      "content": "Felczer albo starszy felczer tracą prawo wykonywania zawodu na terytorium Rzeczypospolitej Polskiej z mocy prawa w przypadku ubezwłasnowolnienia."
+    },
+    {
+      "provision_ref": "art2au2",
+      "section": "2a",
+      "title": "Art. 2a ust. 2",
+      "content": "Felczer albo starszy felczer posiadający prawo wykonywania zawodu i niewykonujący zawodu przez 5 lat tracą prawo do wykonywania zawodu i podlegają wykreśleniu z Centralnego Rejestru Felczerów."
+    },
+    {
+      "provision_ref": "art2au3",
+      "section": "2a",
+      "title": "Art. 2a ust. 3",
+      "content": "(uchylony)"
+    },
+    {
+      "provision_ref": "art2b",
+      "section": "2b",
+      "title": "Art. 2b",
+      "content": "Jeżeli zaistnieją przesłanki uzasadniające podejrzenie niedostatecznego przygotowania zawodowego felczera, Naczelna Rada Lekarska powołuje komisję złożoną z lekarzy o odpowiednich kwalifikacjach zawodowych, która wydaje opinię o przygotowaniu zawodowym felczera. Felczer ma obowiązek stawienia się przed komisją. O powołaniu komisji Naczelna Rada Lekarska powiadamia niezwłocznie felczera, którego postępowanie dotyczy. Termin stawienia się felczera przed komisją powinien być tak wyznaczony, aby między doręczeniem felczerowi zawiadomienia a dniem stawienia się przed komisją upłynęło co najmniej 14 dni. Naczelna Rada Lekarska, na podstawie opinii komisji, o której mowa w ust. 1, może zobowiązać felczera do odbycia przeszkolenia uzupełniającego organizowanego i przeprowadzanego przez okręgową radę lekarską właściwą dla miejsca zamieszkania felczera oraz zawiesić prawo wykonywania zawodu do czasu ukończenia przeszkolenia uzupełniającego, zwanego dalej „przeszkoleniem”. Okręgowa rada lekarska ustala program, miejsce oraz sposób przeszkolenia. Przeszkolenie trwa nie dłużej niż 1 rok i obejmuje zajęcia teoretyczne i praktyczne. Koszt przeszkolenia teoretycznego ponosi felczer, a wpływy z tego tytułu stanowią przychód okręgowej rady lekarskiej. Wysokość opłaty za przeszkolenie teoretyczne nie może przewyższać planowanych kosztów związanych z jego przeprowadzeniem. Warunki odbywania przeszkolenia praktycznego określa umowa o prowadzenie przeszkolenia praktycznego, zawarta między felczerem a podmiotem realizującym to przeszkolenie. W razie nieusprawiedliwionego niestawienia się felczera przed komisją, o której mowa w ust. 1, lub uchylania się od uczestnictwa w przeszkoleniu Naczelna Rada Lekarska zawiesza prawo wykonywania zawodu do czasu ukończenia przeszkolenia."
+    },
+    {
+      "provision_ref": "art2bu1",
+      "section": "2b",
+      "title": "Art. 2b ust. 1",
+      "content": "Jeżeli zaistnieją przesłanki uzasadniające podejrzenie niedostatecznego przygotowania zawodowego felczera, Naczelna Rada Lekarska powołuje komisję złożoną z lekarzy o odpowiednich kwalifikacjach zawodowych, która wydaje opinię o przygotowaniu zawodowym felczera. Felczer ma obowiązek stawienia się przed komisją."
+    },
+    {
+      "provision_ref": "art2bu2",
+      "section": "2b",
+      "title": "Art. 2b ust. 2",
+      "content": "O powołaniu komisji Naczelna Rada Lekarska powiadamia niezwłocznie felczera, którego postępowanie dotyczy. Termin stawienia się felczera przed komisją powinien być tak wyznaczony, aby między doręczeniem felczerowi zawiadomienia a dniem stawienia się przed komisją upłynęło co najmniej 14 dni."
+    },
+    {
+      "provision_ref": "art2bu3",
+      "section": "2b",
+      "title": "Art. 2b ust. 3",
+      "content": "Naczelna Rada Lekarska, na podstawie opinii komisji, o której mowa w ust. 1, może zobowiązać felczera do odbycia przeszkolenia uzupełniającego organizowanego i przeprowadzanego przez okręgową radę lekarską właściwą dla miejsca zamieszkania felczera oraz zawiesić prawo wykonywania zawodu do czasu ukończenia przeszkolenia uzupełniającego, zwanego dalej „przeszkoleniem”."
+    },
+    {
+      "provision_ref": "art2bu4",
+      "section": "2b",
+      "title": "Art. 2b ust. 4",
+      "content": "Okręgowa rada lekarska ustala program, miejsce oraz sposób przeszkolenia."
+    },
+    {
+      "provision_ref": "art2bu5",
+      "section": "2b",
+      "title": "Art. 2b ust. 5",
+      "content": "Przeszkolenie trwa nie dłużej niż 1 rok i obejmuje zajęcia teoretyczne i praktyczne. Koszt przeszkolenia teoretycznego ponosi felczer, a wpływy z tego tytułu stanowią przychód okręgowej rady lekarskiej. Wysokość opłaty za przeszkolenie teoretyczne nie może przewyższać planowanych kosztów związanych z jego przeprowadzeniem."
+    },
+    {
+      "provision_ref": "art2bu6",
+      "section": "2b",
+      "title": "Art. 2b ust. 6",
+      "content": "Warunki odbywania przeszkolenia praktycznego określa umowa o prowadzenie przeszkolenia praktycznego, zawarta między felczerem a podmiotem realizującym to przeszkolenie."
+    },
+    {
+      "provision_ref": "art2bu7",
+      "section": "2b",
+      "title": "Art. 2b ust. 7",
+      "content": "W razie nieusprawiedliwionego niestawienia się felczera przed komisją, o której mowa w ust. 1, lub uchylania się od uczestnictwa w przeszkoleniu Naczelna Rada Lekarska zawiesza prawo wykonywania zawodu do czasu ukończenia przeszkolenia."
+    },
+    {
+      "provision_ref": "art2c",
+      "section": "2c",
+      "title": "Art. 2c",
+      "content": "Jeżeli zaistnieją przesłanki uzasadniające podejrzenie niezdolności felczera do wykonywania zawodu ze względu na stan zdrowia, Naczelna Rada Lekarska powołuje komisję złożoną z lekarzy specjalistów z odpowiednich dziedzin medycyny. Komisja ta wydaje orzeczenie w przedmiocie niezdolności felczera do wykonywania zawodu felczera. O powołaniu komisji minister właściwy do spraw zdrowia powiadamia niezwłocznie felczera, którego postępowanie dotyczy. Termin stawienia się felczera przed komisją powinien być tak wyznaczony, aby między doręczeniem felczerowi zawiadomienia a dniem stawienia się przed komisją upłynęło co najmniej 14 dni. Felczer ma obowiązek stawienia się przed komisją, o której mowa w ust. 1, i poddania się niezbędnym badaniom. Felczer, którego dotyczy postępowanie, o którym mowa w ust. 1, jest uprawniony do uczestnictwa w posiedzeniu komisji w czasie rozpatrywania sprawy. Komisja powinna wydać orzeczenie nie później niż w ciągu 2 miesięcy od dnia powołania. W razie nieusprawiedliwionego niestawienia się felczera przed komisją, o której mowa w ust. 1, Naczelna Rada Lekarska zawiesza prawo wykonywania zawodu do czasu zakończenia postępowania przed komisją. Naczelna Rada Lekarska, na podstawie orzeczenia komisji o niezdolności felczera do wykonywania zawodu, zawiesza prawo wykonywania zawodu felczera na okres trwania niezdolności lub stwierdza o utracie prawa wykonywania zawodu. Postępowanie, o którym mowa w ust. 1, jest poufne."
+    },
+    {
+      "provision_ref": "art2cu1",
+      "section": "2c",
+      "title": "Art. 2c ust. 1",
+      "content": "Jeżeli zaistnieją przesłanki uzasadniające podejrzenie niezdolności felczera do wykonywania zawodu ze względu na stan zdrowia, Naczelna Rada Lekarska powołuje komisję złożoną z lekarzy specjalistów z odpowiednich dziedzin medycyny. Komisja ta wydaje orzeczenie w przedmiocie niezdolności felczera do wykonywania zawodu felczera."
+    },
+    {
+      "provision_ref": "art2cu2",
+      "section": "2c",
+      "title": "Art. 2c ust. 2",
+      "content": "O powołaniu komisji minister właściwy do spraw zdrowia powiadamia niezwłocznie felczera, którego postępowanie dotyczy. Termin stawienia się felczera przed komisją powinien być tak wyznaczony, aby między doręczeniem felczerowi zawiadomienia a dniem stawienia się przed komisją upłynęło co najmniej 14 dni."
+    },
+    {
+      "provision_ref": "art2cu3",
+      "section": "2c",
+      "title": "Art. 2c ust. 3",
+      "content": "Felczer ma obowiązek stawienia się przed komisją, o której mowa w ust. 1, i poddania się niezbędnym badaniom."
+    },
+    {
+      "provision_ref": "art2cu4",
+      "section": "2c",
+      "title": "Art. 2c ust. 4",
+      "content": "Felczer, którego dotyczy postępowanie, o którym mowa w ust. 1, jest uprawniony do uczestnictwa w posiedzeniu komisji w czasie rozpatrywania sprawy."
+    },
+    {
+      "provision_ref": "art2cu5",
+      "section": "2c",
+      "title": "Art. 2c ust. 5",
+      "content": "Komisja powinna wydać orzeczenie nie później niż w ciągu 2 miesięcy od dnia powołania."
+    },
+    {
+      "provision_ref": "art2cu6",
+      "section": "2c",
+      "title": "Art. 2c ust. 6",
+      "content": "W razie nieusprawiedliwionego niestawienia się felczera przed komisją, o której mowa w ust. 1, Naczelna Rada Lekarska zawiesza prawo wykonywania zawodu do czasu zakończenia postępowania przed komisją."
+    },
+    {
+      "provision_ref": "art2cu7",
+      "section": "2c",
+      "title": "Art. 2c ust. 7",
+      "content": "Naczelna Rada Lekarska, na podstawie orzeczenia komisji o niezdolności felczera do wykonywania zawodu, zawiesza prawo wykonywania zawodu felczera na okres trwania niezdolności lub stwierdza o utracie prawa wykonywania zawodu."
+    },
+    {
+      "provision_ref": "art2cu8",
+      "section": "2c",
+      "title": "Art. 2c ust. 8",
+      "content": "Postępowanie, o którym mowa w ust. 1, jest poufne."
+    },
+    {
+      "provision_ref": "art2d",
+      "section": "2d",
+      "title": "Art. 2d",
+      "content": "Zadania Naczelnej Rady Lekarskiej, o których mowa w art. 1c, oraz prace komisji, o których mowa w art. 2b i art. 2c, są finansowane z budżetu państwa, z części, której dysponentem jest minister właściwy do spraw zdrowia. Członkom komisji przysługuje za każde posiedzenie komisji wynagrodzenie w wysokości 10% przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłaty nagród z zysku za ubiegły rok, ogłaszanego, w drodze obwieszczenia, przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”."
+    },
+    {
+      "provision_ref": "art2e",
+      "section": "2e",
+      "title": "Art. 2e",
+      "content": "Jeżeli przepisy ustawy nie stanowią inaczej, w sprawach, o których mowa w art. 2a ust. 1, art. 2b ust. 1-3 i 7 oraz w art. 2c ust. 1, 6 i 7, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego odnoszące się do decyzji administracyjnych. Od rozstrzygnięcia w sprawach, o których mowa w ust. 1, przysługuje wniosek do Naczelnej Rady Lekarskiej o ponowne rozpatrzenie sprawy; do wniosku tego stosuje się odpowiednio przepisy dotyczące odwołań od decyzji. Uchwały Naczelnej Rady Lekarskiej w sprawach, o których mowa w ust. 1 i 2, podpisują prezes albo wiceprezes oraz sekretarz Naczelnej Rady Lekarskiej."
+    },
+    {
+      "provision_ref": "art2eu1",
+      "section": "2e",
+      "title": "Art. 2e ust. 1",
+      "content": "Jeżeli przepisy ustawy nie stanowią inaczej, w sprawach, o których mowa w art. 2a ust. 1, art. 2b ust. 1-3 i 7 oraz w art. 2c ust. 1, 6 i 7, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego odnoszące się do decyzji administracyjnych."
+    },
+    {
+      "provision_ref": "art2eu2",
+      "section": "2e",
+      "title": "Art. 2e ust. 2",
+      "content": "Od rozstrzygnięcia w sprawach, o których mowa w ust. 1, przysługuje wniosek do Naczelnej Rady Lekarskiej o ponowne rozpatrzenie sprawy; do wniosku tego stosuje się odpowiednio przepisy dotyczące odwołań od decyzji."
+    },
+    {
+      "provision_ref": "art2eu3",
+      "section": "2e",
+      "title": "Art. 2e ust. 3",
+      "content": "Uchwały Naczelnej Rady Lekarskiej w sprawach, o których mowa w ust. 1 i 2, podpisują prezes albo wiceprezes oraz sekretarz Naczelnej Rady Lekarskiej."
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "1. Felczerowi, wykonującemu zawód ponad trzy lata, przysługuje po odbyciu kursu dokształcającego tytuł starszego felczera. 2. Starszy felczer jest uprawniony od samodzielnego wykonywania czynności, określonych w art. 2 ust. 1 pkt 1) i 4), nie tylko w punktach felczerskich, lecz również w innych zakładach społecznych służby zdrowia. 3. Minister Zdrowia ustala, w jakich zakładach i na jakich stanowiskach może być zatrudniony starszy felczer. 4. Minister Zdrowia ustala program, organizację i warunki odbywania kursów dokształcających dla felczerów oraz tryb przyjmowania na te kursy."
+      "content": "Felczerowi, wykonującemu zawód ponad trzy lata, przysługuje tytuł starszego felczera. Starszy felczer czynności określone w art. 2 ust. 1 wykonuje samodzielnie w podmiocie leczniczym. (uchylony) (uchylony)"
+    },
+    {
+      "provision_ref": "art3u1",
+      "section": "3",
+      "title": "Art. 3 ust. 1",
+      "content": "Felczerowi, wykonującemu zawód ponad trzy lata, przysługuje tytuł starszego felczera."
+    },
+    {
+      "provision_ref": "art3u2",
+      "section": "3",
+      "title": "Art. 3 ust. 2",
+      "content": "Starszy felczer czynności określone w art. 2 ust. 1 wykonuje samodzielnie w podmiocie leczniczym."
+    },
+    {
+      "provision_ref": "art3u3",
+      "section": "3",
+      "title": "Art. 3 ust. 3",
+      "content": "(uchylony)"
+    },
+    {
+      "provision_ref": "art3u4",
+      "section": "3",
+      "title": "Art. 3 ust. 4",
+      "content": "(uchylony)"
+    },
+    {
+      "provision_ref": "art3a",
+      "section": "3a",
+      "title": "Art. 3a",
+      "content": "Starszy felczer albo felczer może wydać ubezpieczonemu orzeczenie o czasowej niezdolności do pracy jednorazowo do 7 dni, z tym że łącznie orzeczony okres niezdolności do pracy nie może być dłuższy niż 14 dni."
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "Szczegółowy zakres czynności, do których wykonywania jest uprawniony felczer (starszy felczer), określa Minister Zdrowia w drodze rozporządzenia."
+      "content": "Felczer lub starszy felczer mają prawo przepisywać produkty lecznicze, które są dopuszczone do obrotu na terytorium Rzeczypospolitej Polskiej, z wyłączeniem leków bardzo silnie działających oraz niektórych środków odurzających i psychotropowych, oraz środki spożywcze specjalnego przeznaczenia żywieniowego, oraz wyroby medyczne, wyposażenie wyrobów medycznych, systemy i zestawy zabiegowe, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm.) 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 117 z 03.05.2019, str. 9, Dz. Urz. UE L 334 z 27.12.2019, str. 165, Dz. Urz. UE L 130 z 24.04.2020, str. 18 i Dz. Urz. UE L 241 z 08.07.2021, str. 7. , oraz wyroby do samokontroli i pojemniki na próbki, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 117 z 03.05.2019, str. 11, Dz. Urz. UE L 334 z 27.12.2019, str. 167 i Dz. Urz. UE L 233 z 01.07.2021, str. 9. . W przypadku gdy ustawa lub przepisy odrębne uprawniają felczera do wystawiania recept, stosuje się odpowiednio art. 42 ust. 2 oraz art. 45 ust. 2 i 2a ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty ) oraz art. 95aa-96d ustawy z dnia 6 września 2001 r. - Prawo farmaceutyczne . Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia: szczegółowy zakres uprawnień zawodowych felczera, uwzględniając w szczególności czynności wykonywane samodzielnie i czynności wykonywane pod kierunkiem lekarza; wykaz leków spośród środków odurzających i psychotropowych oraz leków silnie działających, które mogą być przepisywane na recepcie przez felczera, uwzględniając w szczególności wskazania terapeutyczne i bezpieczeństwo stosowania leków; sposób oznaczania recept wystawianych przez felczera, z uwzględnieniem danych dotyczących felczera."
+    },
+    {
+      "provision_ref": "art4u1",
+      "section": "4",
+      "title": "Art. 4 ust. 1",
+      "content": "Felczer lub starszy felczer mają prawo przepisywać produkty lecznicze, które są dopuszczone do obrotu na terytorium Rzeczypospolitej Polskiej, z wyłączeniem leków bardzo silnie działających oraz niektórych środków odurzających i psychotropowych, oraz środki spożywcze specjalnego przeznaczenia żywieniowego, oraz wyroby medyczne, wyposażenie wyrobów medycznych, systemy i zestawy zabiegowe, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm.) 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 117 z 03.05.2019, str. 9, Dz. Urz. UE L 334 z 27.12.2019, str. 165, Dz. Urz. UE L 130 z 24.04.2020, str. 18 i Dz. Urz. UE L 241 z 08.07.2021, str. 7. , oraz wyroby do samokontroli i pojemniki na próbki, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 117 z 03.05.2019, str. 11, Dz. Urz. UE L 334 z 27.12.2019, str. 167 i Dz. Urz. UE L 233 z 01.07.2021, str. 9. ."
+    },
+    {
+      "provision_ref": "art4u1a",
+      "section": "4",
+      "title": "Art. 4 ust. 1a",
+      "content": "W przypadku gdy ustawa lub przepisy odrębne uprawniają felczera do wystawiania recept, stosuje się odpowiednio art. 42 ust. 2 oraz art. 45 ust. 2 i 2a ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty ) oraz art. 95aa-96d ustawy z dnia 6 września 2001 r. - Prawo farmaceutyczne ."
+    },
+    {
+      "provision_ref": "art4u2p1",
+      "section": "4",
+      "title": "Art. 4 ust. 2 pkt 1",
+      "content": "Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia: szczegółowy zakres uprawnień zawodowych felczera, uwzględniając w szczególności czynności wykonywane samodzielnie i czynności wykonywane pod kierunkiem lekarza;"
+    },
+    {
+      "provision_ref": "art4u2p2",
+      "section": "4",
+      "title": "Art. 4 ust. 2 pkt 2",
+      "content": "Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia: wykaz leków spośród środków odurzających i psychotropowych oraz leków silnie działających, które mogą być przepisywane na recepcie przez felczera, uwzględniając w szczególności wskazania terapeutyczne i bezpieczeństwo stosowania leków;"
+    },
+    {
+      "provision_ref": "art4u2p3",
+      "section": "4",
+      "title": "Art. 4 ust. 2 pkt 3",
+      "content": "Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia: sposób oznaczania recept wystawianych przez felczera, z uwzględnieniem danych dotyczących felczera."
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Art. 5",
-      "content": "1. W związku z samodzielnym wykonywaniem czynności, określonych w art. 2 ust. 1 pkt 1) felczer (starszy felczer) jest uprawniony do wystawiania recept. 2. Minister Zdrowia określa w drodze rozporządzenia zasady wystawiania recept przez felczera (starszego felczera) oraz wykaz leków, które może on zapisywać."
+      "content": "(uchylony)"
     },
     {
       "provision_ref": "art6",
@@ -49,50 +403,190 @@
       "provision_ref": "art7",
       "section": "7",
       "title": "Art. 7",
-      "content": "1. Felczer (starszy felczer) obowiązany jest do zachowania w tajemnicy wszystkiego, o czym poweźmie wiadomość w związku z wykonywaniem zawodu. 2. Od obowiązku zachowania tajemnicy felczer (starszy felczer) jest zwolniony w stosunku do lekarza, sprawującego nadzór fachowy nad danym zakładem bądź kierującego czynnościami felczera (starszego felczera), a ponadto w przypadkach: 1) gdy z mocy szczególnych przepisów jest on obowiązany, donieść władzom o określonych okolicznościach, 2) gdy osoba, korzystająca z jego pomocy lub jej prawny zastępca, zezwolą na ujawnienie tajemnicy, 3) gdy zachowanie tajemnicy może spowodować istotne niebezpieczeństwo dla życia i zdrowia osoby, korzystającej z pomocy felczera (starszego felczera) lub dla otoczenia tej osoby."
+      "content": "Felczer (starszy felczer) obowiązany jest do zachowania w tajemnicy wszystkiego, o czym poweźmie wiadomość w związku z wykonywaniem zawodu. Od obowiązku zachowania tajemnicy felczer (starszy felczer) jest zwolniony w stosunku do lekarza, sprawującego nadzór fachowy nad danym zakładem bądź kierującego czynnościami felczera (starszego felczera), a ponadto w przypadkach: gdy tak stanowią ustawy; gdy osoba, korzystająca z jego pomocy lub jej prawny zastępca, zezwolą na ujawnienie tajemnicy; gdy zachowanie tajemnicy może spowodować istotne niebezpieczeństwo dla życia i zdrowia osoby, korzystającej z pomocy felczera (starszego felczera) lub dla otoczenia tej osoby."
+    },
+    {
+      "provision_ref": "art7u1",
+      "section": "7",
+      "title": "Art. 7 ust. 1",
+      "content": "Felczer (starszy felczer) obowiązany jest do zachowania w tajemnicy wszystkiego, o czym poweźmie wiadomość w związku z wykonywaniem zawodu."
+    },
+    {
+      "provision_ref": "art7u2p1",
+      "section": "7",
+      "title": "Art. 7 ust. 2 pkt 1",
+      "content": "Od obowiązku zachowania tajemnicy felczer (starszy felczer) jest zwolniony w stosunku do lekarza, sprawującego nadzór fachowy nad danym zakładem bądź kierującego czynnościami felczera (starszego felczera), a ponadto w przypadkach: gdy tak stanowią ustawy;"
+    },
+    {
+      "provision_ref": "art7u2p2",
+      "section": "7",
+      "title": "Art. 7 ust. 2 pkt 2",
+      "content": "Od obowiązku zachowania tajemnicy felczer (starszy felczer) jest zwolniony w stosunku do lekarza, sprawującego nadzór fachowy nad danym zakładem bądź kierującego czynnościami felczera (starszego felczera), a ponadto w przypadkach: gdy osoba, korzystająca z jego pomocy lub jej prawny zastępca, zezwolą na ujawnienie tajemnicy;"
+    },
+    {
+      "provision_ref": "art7u2p3",
+      "section": "7",
+      "title": "Art. 7 ust. 2 pkt 3",
+      "content": "Od obowiązku zachowania tajemnicy felczer (starszy felczer) jest zwolniony w stosunku do lekarza, sprawującego nadzór fachowy nad danym zakładem bądź kierującego czynnościami felczera (starszego felczera), a ponadto w przypadkach: gdy zachowanie tajemnicy może spowodować istotne niebezpieczeństwo dla życia i zdrowia osoby, korzystającej z pomocy felczera (starszego felczera) lub dla otoczenia tej osoby."
+    },
+    {
+      "provision_ref": "art7a",
+      "section": "7a",
+      "title": "Art. 7a",
+      "content": "Felczer (starszy felczer) jest uprawniony do zgłaszania Prezesowi Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych lub podmiotowi odpowiedzialnemu za wprowadzenie produktu leczniczego do obrotu działania niepożądanego produktu leczniczego. Zgłoszenia, o którym mowa w ust. 1, felczer dokonuje zgodnie z ustawą z dnia 6 września 2001 r. - Prawo farmaceutyczne ."
+    },
+    {
+      "provision_ref": "art7au1",
+      "section": "7a",
+      "title": "Art. 7a ust. 1",
+      "content": "Felczer (starszy felczer) jest uprawniony do zgłaszania Prezesowi Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych lub podmiotowi odpowiedzialnemu za wprowadzenie produktu leczniczego do obrotu działania niepożądanego produktu leczniczego."
+    },
+    {
+      "provision_ref": "art7au2",
+      "section": "7a",
+      "title": "Art. 7a ust. 2",
+      "content": "Zgłoszenia, o którym mowa w ust. 1, felczer dokonuje zgodnie z ustawą z dnia 6 września 2001 r. - Prawo farmaceutyczne ."
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Art. 8",
-      "content": "1. W celu przygotowania kadr felczerów Minister Zdrowia prowadzi: 1) licea felczerskie dla osób, posiadających wykształcenie na poziomie ośmiu klas szkoły podstawowej, 2) szkoły felczerskie dla osób, wyróżniających się doświadczeniem w zakresie opieki nad chorymi oraz wysokimi kwalifikacjami społecznymi, które: a) posiadają stałe prawo wykonywania praktyki pielęgniarskiej oraz po uzyskaniu tego prawa wykonywały zawód pielęgniarki (pielęgniarza) albo b) uzyskały zaliczenie trzech lat studiów na wydziale lekarskim polskiej szkoły akademickiej. 2. Nauczanie w liceach felczerskich trwa trzy lata, w szkołach felczerskich zaś - rok i sześć miesięcy. 3. Do liceum felczerskiego mogą być przyjęte osoby bez względu na wykształcenie szkolne pod warunkiem złożenia egzaminu wstępnego w zakresie, odpowiadającym wykształceniu szkolnemu, określonemu w ust. 1 pkt 1). 4. Minister Zdrowia w porozumieniu z Ministrem Oświaty ustala: 1) organizację i programy liceów i szkół felczerskich, 2) warunki i tryb przyjmowania kandydatów, a w szczególności okres wykonywania zawodu przez osoby, określone w ust. 1 pkt 2) lit a), nie krótszy jednak niż jeden rok oraz 3) szczegółowy zakres egzaminu wstępnego (ust. 3). 5. Uprawnienia Ministra Zdrowia, przewidziane w ustępach poprzedzających, przysługują odpowiednio Ministrowi Obrony Narodowej, który organizację i programy liceów i szkół felczerskich, warunki przyjmowania kandydatów oraz szczegółowy zakres egzaminu wstępnego ustala ponadto w porozumieniu z Ministrem Zdrowia."
+      "content": "(uchylony)"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Art. 9",
-      "content": "1. Felczer (starszy felczer), który przedsiębierze czynności, przekraczające jego uprawnienia zawodowe lub odmawia udzielenia pomocy choremu wbrew obowiązkom, ustalonym w niniejszej ustawie - podlega karze aresztu do roku i grzywny lub jednej z tych kar. 2. Felczer (starszy felczer), który ujawnia tajemnicę zawodową wbrew obowiązkowi, określonemu w art. 7 - podlega karze aresztu do trzech miesięcy i grzywny do 150.000 zł lub jednej z tych kar. 3. Do orzekania w sprawach, określonych w ust. 2, powołane są powiatowe rady narodowe."
+      "content": "Kto nie będąc uprawnionym udziela zawodowo świadczeń, o których mowa w art. 2 i 3, podlega karze grzywny. W przypadku określonym w ust. 1 orzekanie następuje w trybie przepisów o postępowaniu w sprawach o wykroczenia."
+    },
+    {
+      "provision_ref": "art9u1",
+      "section": "9",
+      "title": "Art. 9 ust. 1",
+      "content": "Kto nie będąc uprawnionym udziela zawodowo świadczeń, o których mowa w art. 2 i 3, podlega karze grzywny."
+    },
+    {
+      "provision_ref": "art9u2",
+      "section": "9",
+      "title": "Art. 9 ust. 2",
+      "content": "W przypadku określonym w ust. 1 orzekanie następuje w trybie przepisów o postępowaniu w sprawach o wykroczenia."
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Art. 10",
-      "content": "Przepisy ustawy stosuje się odpowiednio do obywateli państw obcych na zasadach wzajemności."
+      "content": "(uchylony)"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Art. 11",
-      "content": "Osoby, którym prawo wykonywania zawodu i używania tytułu felczera przysługuje w myśl art. 1 ust. 1 pkt 2), mogą wykonywać czynności zawodowe poza zakładami społecznymi służby zdrowia."
+      "content": "(uchylony)"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Art. 12",
-      "content": "Uchyla się ustawę z dnia 1 lipca 1921 r. o uprawnieniach do wykonywania czynności felczerskich ( Dz. U. R. P. z 1921 r. Nr 64, poz. 396 , z 1934 r. Nr 110, poz. 976 i z 1946 r. Nr 55, poz. 312 ) ."
+      "content": "Uchyla się ustawę z dnia 1 lipca 1921 r. o uprawnieniach do wykonywania czynności felczerskich ."
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Art. 13",
-      "content": "Wykonanie ustawy porucza się Ministrowi Zdrowia w porozumieniu z Ministrem Oświaty."
+      "content": "(uchylony)"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Art. 14",
-      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_1-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_2-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_2-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_2-pass_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_2-pass_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_2-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_3-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_3-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"arti_7-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_7-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"arti_7-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_7-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_7-pass_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]}]},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"arti_8-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_8-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_8-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_8-pass_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_8-pass_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]}]},{\"id\": \"arti_8-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_8-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_8-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\",\"children\": [{\"id\": \"arti_8-pass_4-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_8-pass_4-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_8-pass_4-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_8-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"arti_9-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_9-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_9-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"},{\"id\": \"arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia 5) Ustawa została ogłoszona w dniu 26 sierpnia 1950 r. ."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2019-1461",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-742",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-974",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2002-2039",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2004-597",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-666",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1292",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-655",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-830",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-735",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1491",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-2052",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-1301",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-790",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1977",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-2120",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-1095",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-1344",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1921-396",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1934-976",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1946-312",
+      "ref_type": "references"
+    }
+  ]
 }

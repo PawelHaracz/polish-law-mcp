@@ -13,14 +13,38 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 15 marca 2002 r. o ustroju miasta stołecznego Warszawy ( Dz. U. Nr 41, poz. 361 i Nr 127, poz. 1087 oraz z 2006 r. Nr 249, poz. 1826 i 1828 ) w art. 11 dodaje się ust. 3 w brzmieniu: „ 3. W zakresie kompetencji, o których mowa w ust. 1, zarząd dzielnicy może upoważnić poszczególnych członków zarządu oraz innych pracowników Urzędu m.st. Warszawy, wykonujących pracę w danej dzielnicy, do załatwiania indywidualnych spraw z zakresu administracji publicznej w trybie przepisów o postępowaniu administracyjnym i postępowaniu podatkowym, w tym do wydawania decyzji. ” ."
+      "content": "W ustawie z dnia 15 marca 2002 r. o ustroju miasta stołecznego Warszawy w art. 11 dodaje się ust. 3 w brzmieniu: „ W zakresie kompetencji, o których mowa w ust. 1, zarząd dzielnicy może upoważnić poszczególnych członków zarządu oraz innych pracowników Urzędu m.st. Warszawy, wykonujących pracę w danej dzielnicy, do załatwiania indywidualnych spraw z zakresu administracji publicznej w trybie przepisów o postępowaniu administracyjnym i postępowaniu podatkowym, w tym do wydawania decyzji. ” ."
+    },
+    {
+      "provision_ref": "art1u3",
+      "section": "1",
+      "title": "Art. 1 ust. 3",
+      "content": "W ustawie z dnia 15 marca 2002 r. o ustroju miasta stołecznego Warszawy w art. 11 dodaje się ust. 3 w brzmieniu: „ W zakresie kompetencji, o których mowa w ust. 1, zarząd dzielnicy może upoważnić poszczególnych członków zarządu oraz innych pracowników Urzędu m.st. Warszawy, wykonujących pracę w danej dzielnicy, do załatwiania indywidualnych spraw z zakresu administracji publicznej w trybie przepisów o postępowaniu administracyjnym i postępowaniu podatkowym, w tym do wydawania decyzji."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2002-361",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2002-1087",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2006-1826",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2006-1828",
+      "ref_type": "amended_by"
+    }
+  ]
 }

@@ -10,6 +10,84 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/1983/163",
   "provisions": [
     {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Art. 43",
+      "content": "Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem przepisów: działu szóstego i siódmego Kodeksu pracy , które wchodzą w życie z dniem 1 stycznia 1997 r., art. 217 i art. 237 6 § 2 i 3 Kodeksu pracy , które wchodzą w życie po upływie jednego roku od dnia wejścia w życie ustawy, art. 220 § 1 Kodeksu pracy , który wchodzi w życie po upływie jednego roku od dnia ogłoszenia przepisów, o których mowa w art. 220 § 2 Kodeksu pracy , art. 221 § 2 Kodeksu pracy , który wchodzi w życie po upływie jednego roku od dnia ogłoszenia przepisów, o których mowa w art. 221 § 5 Kodeksu pracy ."
+    },
+    {
+      "provision_ref": "art43p1",
+      "section": "43",
+      "title": "Art. 43 pkt 1",
+      "content": "Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem przepisów: działu szóstego i siódmego Kodeksu pracy , które wchodzą w życie z dniem 1 stycznia 1997 r.,"
+    },
+    {
+      "provision_ref": "art43p2",
+      "section": "43",
+      "title": "Art. 43 pkt 2",
+      "content": "Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem przepisów: art. 217 i art. 237 6 § 2 i 3 Kodeksu pracy , które wchodzą w życie po upływie jednego roku od dnia wejścia w życie ustawy,"
+    },
+    {
+      "provision_ref": "art43p3",
+      "section": "43",
+      "title": "Art. 43 pkt 3",
+      "content": "Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem przepisów: art. 220 § 1 Kodeksu pracy , który wchodzi w życie po upływie jednego roku od dnia ogłoszenia przepisów, o których mowa w art. 220 § 2 Kodeksu pracy ,"
+    },
+    {
+      "provision_ref": "art43p4",
+      "section": "43",
+      "title": "Art. 43 pkt 4",
+      "content": "Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem przepisów: art. 221 § 2 Kodeksu pracy , który wchodzi w życie po upływie jednego roku od dnia ogłoszenia przepisów, o których mowa w art. 221 § 5 Kodeksu pracy ."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "W sprawach wszczętych przed dniem wejścia w życie niniejszej ustawy, w których kolegium do spraw wykroczeń, jego przewodniczący lub inspektor pracy nie wydali do dnia jej wejścia w życie rozstrzygnięcia, stosuje się w zakresie postępowania nowe przepisy. W sprawach przekazanych do sądu w trybie przepisów dotychczasowych, a niezakończonych rozstrzygnięciem sądu do dnia wejścia w życie niniejszej ustawy, stosuje się w zakresie postępowania przepisy dotychczasowe. Nierozpoznane wnioski o uchylenie prawomocnego rozstrzygnięcia rozpatruje się stosując w zakresie postępowania dotychczasowe przepisy."
+    },
+    {
+      "provision_ref": "art13u1",
+      "section": "13",
+      "title": "Art. 13 ust. 1",
+      "content": "W sprawach wszczętych przed dniem wejścia w życie niniejszej ustawy, w których kolegium do spraw wykroczeń, jego przewodniczący lub inspektor pracy nie wydali do dnia jej wejścia w życie rozstrzygnięcia, stosuje się w zakresie postępowania nowe przepisy."
+    },
+    {
+      "provision_ref": "art13u2",
+      "section": "13",
+      "title": "Art. 13 ust. 2",
+      "content": "W sprawach przekazanych do sądu w trybie przepisów dotychczasowych, a niezakończonych rozstrzygnięciem sądu do dnia wejścia w życie niniejszej ustawy, stosuje się w zakresie postępowania przepisy dotychczasowe."
+    },
+    {
+      "provision_ref": "art13u3",
+      "section": "13",
+      "title": "Art. 13 ust. 3",
+      "content": "Nierozpoznane wnioski o uchylenie prawomocnego rozstrzygnięcia rozpatruje się stosując w zakresie postępowania dotychczasowe przepisy."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "Ustawa wchodzi w życie z dniem 1 września 1998 r."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2002 r., z wyjątkiem art. 1 pkt 7, który wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej."
+    },
+    {
+      "provision_ref": "art191",
+      "section": "191",
+      "title": "Art. 191",
+      "content": "Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia z wyjątkiem art. 131, który wchodzi w życie z dniem 1 stycznia 2013 r."
+    },
+    {
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
@@ -25,85 +103,433 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "1. Społeczną inspekcję pracy w zakładzie pracy tworzą: 1) zakładowy społeczny inspektor pracy - dla całego zakładu pracy, 2) oddziałowi (wydziałowi) społeczni inspektorzy pracy - dla poszczególnych oddziałów (wydziałów), 3) grupowi społeczni inspektorzy pracy - dla komórek organizacyjnych oddziałów (wydziałów). 2. Zakładowe organizacje związkowe dostosowują organizację społecznej inspekcji pracy do potrzeb wynikających ze struktury zakładu pracy. Rozdział 2 Zadania i organizacja społecznej inspekcji pracy"
+      "content": "Społeczną inspekcję pracy w zakładzie pracy tworzą: zakładowy społeczny inspektor pracy - dla całego zakładu pracy; oddziałowi (wydziałowi) społeczni inspektorzy pracy - dla poszczególnych oddziałów (wydziałów); grupowi społeczni inspektorzy pracy - dla komórek organizacyjnych oddziałów (wydziałów). Zakładowe organizacje związkowe dostosowują organizację społecznej inspekcji pracy do potrzeb wynikających ze struktury zakładu pracy."
+    },
+    {
+      "provision_ref": "art3u1p1",
+      "section": "3",
+      "title": "Art. 3 ust. 1 pkt 1",
+      "content": "Społeczną inspekcję pracy w zakładzie pracy tworzą: zakładowy społeczny inspektor pracy - dla całego zakładu pracy;"
+    },
+    {
+      "provision_ref": "art3u1p2",
+      "section": "3",
+      "title": "Art. 3 ust. 1 pkt 2",
+      "content": "Społeczną inspekcję pracy w zakładzie pracy tworzą: oddziałowi (wydziałowi) społeczni inspektorzy pracy - dla poszczególnych oddziałów (wydziałów);"
+    },
+    {
+      "provision_ref": "art3u1p3",
+      "section": "3",
+      "title": "Art. 3 ust. 1 pkt 3",
+      "content": "Społeczną inspekcję pracy w zakładzie pracy tworzą: grupowi społeczni inspektorzy pracy - dla komórek organizacyjnych oddziałów (wydziałów)."
+    },
+    {
+      "provision_ref": "art3u2",
+      "section": "3",
+      "title": "Art. 3 ust. 2",
+      "content": "Zakładowe organizacje związkowe dostosowują organizację społecznej inspekcji pracy do potrzeb wynikających ze struktury zakładu pracy."
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "Społeczni inspektorzy pracy mają prawo: 1) kontrolować stan budynków, maszyn, urządzeń technicznych i sanitarnych oraz procesy technologiczne z punktu widzenia bezpieczeństwa i higieny pracy, 2) kontrolować przestrzeganie przepisów prawa pracy, w tym postanowień układów zbiorowych i regulaminów pracy, w szczególności w zakresie bezpieczeństwa i higieny pracy, ochrony pracy kobiet, młodocianych i osób niepełnosprawnych, urlopów i czasu pracy, świadczeń z tytułu wypadków przy pracy i chorób zawodowych, 3) brać udział w ustalaniu okoliczności i przyczyn wypadków przy pracy, zgodnie z przepisami prawa pracy, 4) brać udział w analizowaniu przyczyn powstawania wypadków przy pracy, zachorowań na choroby zawodowe i inne schorzenia wywołane warunkami środowiska pracy oraz kontrolować stosowanie przez zakłady pracy właściwych środków zapobiegawczych, 5) uczestniczyć w przeprowadzaniu społecznych przeglądów warunków pracy, 6) opiniować projekty planów poprawy warunków bezpieczeństwa i higieny pracy i planów rehabilitacji zawodowej oraz kontrolować realizację tych planów, 7) podejmować działania na rzecz aktywnego udziału pracowników zakładów pracy w kształtowaniu właściwych warunków bezpieczeństwa i higieny pracy oraz oddziaływać na przestrzeganie przez pracowników przepisów i zasad bezpieczeństwa i higieny pracy, 8) wykonywać inne zadania określone w ustawie i w przepisach szczególnych."
+      "content": "Społeczni inspektorzy pracy mają prawo: kontrolować stan budynków, maszyn, urządzeń technicznych i sanitarnych oraz procesy technologiczne z punktu widzenia bezpieczeństwa i higieny pracy; kontrolować przestrzeganie przepisów prawa pracy, w tym postanowień układów zbiorowych i regulaminów pracy, w szczególności w zakresie bezpieczeństwa i higieny pracy, uprawnień pracowników związanych z rodzicielstwem, młodocianych i osób niepełnosprawnych, urlopów i czasu pracy, świadczeń z tytułu wypadków przy pracy i chorób zawodowych; uczestniczyć w kontroli przestrzegania w zakładzie pracy przepisów dotyczących ochrony środowiska naturalnego; brać udział w ustalaniu okoliczności i przyczyn wypadków przy pracy, zgodnie z przepisami prawa pracy; brać udział w analizowaniu przyczyn powstawania wypadków przy pracy, zachorowań na choroby zawodowe i inne schorzenia wywołane warunkami środowiska pracy oraz kontrolować stosowanie przez zakłady pracy właściwych środków zapobiegawczych; uczestniczyć w przeprowadzaniu społecznych przeglądów warunków pracy; opiniować projekty planów poprawy warunków bezpieczeństwa i higieny pracy i planów rehabilitacji zawodowej oraz kontrolować realizację tych planów; podejmować działania na rzecz aktywnego udziału pracowników zakładów pracy w kształtowaniu właściwych warunków bezpieczeństwa i higieny pracy oraz oddziaływać na przestrzeganie przez pracowników przepisów i zasad bezpieczeństwa i higieny pracy; wykonywać inne zadania określone w ustawie i w przepisach szczególnych."
+    },
+    {
+      "provision_ref": "art4p1",
+      "section": "4",
+      "title": "Art. 4 pkt 1",
+      "content": "Społeczni inspektorzy pracy mają prawo: kontrolować stan budynków, maszyn, urządzeń technicznych i sanitarnych oraz procesy technologiczne z punktu widzenia bezpieczeństwa i higieny pracy;"
+    },
+    {
+      "provision_ref": "art4p1",
+      "section": "4",
+      "title": "Art. 4 pkt 1",
+      "content": "Społeczni inspektorzy pracy mają prawo: kontrolować przestrzeganie przepisów prawa pracy, w tym postanowień układów zbiorowych i regulaminów pracy, w szczególności w zakresie bezpieczeństwa i higieny pracy, uprawnień pracowników związanych z rodzicielstwem, młodocianych i osób niepełnosprawnych, urlopów i czasu pracy, świadczeń z tytułu wypadków przy pracy i chorób zawodowych;"
+    },
+    {
+      "provision_ref": "art4p2",
+      "section": "4",
+      "title": "Art. 4 pkt 2",
+      "content": "Społeczni inspektorzy pracy mają prawo: uczestniczyć w kontroli przestrzegania w zakładzie pracy przepisów dotyczących ochrony środowiska naturalnego;"
+    },
+    {
+      "provision_ref": "art4p3",
+      "section": "4",
+      "title": "Art. 4 pkt 3",
+      "content": "Społeczni inspektorzy pracy mają prawo: brać udział w ustalaniu okoliczności i przyczyn wypadków przy pracy, zgodnie z przepisami prawa pracy;"
+    },
+    {
+      "provision_ref": "art4p4",
+      "section": "4",
+      "title": "Art. 4 pkt 4",
+      "content": "Społeczni inspektorzy pracy mają prawo: brać udział w analizowaniu przyczyn powstawania wypadków przy pracy, zachorowań na choroby zawodowe i inne schorzenia wywołane warunkami środowiska pracy oraz kontrolować stosowanie przez zakłady pracy właściwych środków zapobiegawczych;"
+    },
+    {
+      "provision_ref": "art4p5",
+      "section": "4",
+      "title": "Art. 4 pkt 5",
+      "content": "Społeczni inspektorzy pracy mają prawo: uczestniczyć w przeprowadzaniu społecznych przeglądów warunków pracy;"
+    },
+    {
+      "provision_ref": "art4p6",
+      "section": "4",
+      "title": "Art. 4 pkt 6",
+      "content": "Społeczni inspektorzy pracy mają prawo: opiniować projekty planów poprawy warunków bezpieczeństwa i higieny pracy i planów rehabilitacji zawodowej oraz kontrolować realizację tych planów;"
+    },
+    {
+      "provision_ref": "art4p7",
+      "section": "4",
+      "title": "Art. 4 pkt 7",
+      "content": "Społeczni inspektorzy pracy mają prawo: podejmować działania na rzecz aktywnego udziału pracowników zakładów pracy w kształtowaniu właściwych warunków bezpieczeństwa i higieny pracy oraz oddziaływać na przestrzeganie przez pracowników przepisów i zasad bezpieczeństwa i higieny pracy;"
+    },
+    {
+      "provision_ref": "art4p8",
+      "section": "4",
+      "title": "Art. 4 pkt 8",
+      "content": "Społeczni inspektorzy pracy mają prawo: wykonywać inne zadania określone w ustawie i w przepisach szczególnych."
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Art. 5",
-      "content": "1. Społecznym inspektorem pracy może być pracownik danego zakładu pracy, który jest członkiem związku zawodowego i nie zajmuje stanowiska kierownika zakładu pracy lub stanowiska kierowniczego bezpośrednio podległego kierownikowi zakładu. 2. Zakładowe organizacje związkowe mogą postanowić, że społecznym inspektorem pracy może być również pracownik zakładu nie będący członkiem związku zawodowego. 3. Społeczny inspektor pracy powinien posiadać niezbędną znajomość zagadnień wchodzących w zakres działania społecznej inspekcji pracy. Zakładowy społeczny inspektor pracy powinien posiadać co najmniej pięcioletni staż pracy w branży, do której zakład należy, i co najmniej dwuletni staż pracy w danym zakładzie, a oddziałowy lub grupowy społeczny inspektor pracy - co najmniej dwuletni staż pracy w tej branży i co najmniej jeden rok pracy w danym zakładzie."
+      "content": "Społecznym inspektorem pracy może być pracownik danego zakładu pracy, który jest członkiem związku zawodowego i nie zajmuje stanowiska kierownika zakładu pracy lub stanowiska kierowniczego bezpośrednio podległego kierownikowi zakładu. Zakładowe organizacje związkowe mogą postanowić, że społecznym inspektorem pracy może być również pracownik zakładu niebędący członkiem związku zawodowego. Społeczny inspektor pracy powinien posiadać niezbędną znajomość zagadnień wchodzących w zakres działania społecznej inspekcji pracy. Zakładowy społeczny inspektor pracy powinien posiadać co najmniej pięcioletni staż pracy w branży, do której zakład należy, i co najmniej dwuletni staż pracy w danym zakładzie, a oddziałowy lub grupowy społeczny inspektor pracy - co najmniej dwuletni staż pracy w tej branży i co najmniej jeden rok pracy w danym zakładzie."
+    },
+    {
+      "provision_ref": "art5u1",
+      "section": "5",
+      "title": "Art. 5 ust. 1",
+      "content": "Społecznym inspektorem pracy może być pracownik danego zakładu pracy, który jest członkiem związku zawodowego i nie zajmuje stanowiska kierownika zakładu pracy lub stanowiska kierowniczego bezpośrednio podległego kierownikowi zakładu."
+    },
+    {
+      "provision_ref": "art5u2",
+      "section": "5",
+      "title": "Art. 5 ust. 2",
+      "content": "Zakładowe organizacje związkowe mogą postanowić, że społecznym inspektorem pracy może być również pracownik zakładu niebędący członkiem związku zawodowego."
+    },
+    {
+      "provision_ref": "art5u3",
+      "section": "5",
+      "title": "Art. 5 ust. 3",
+      "content": "Społeczny inspektor pracy powinien posiadać niezbędną znajomość zagadnień wchodzących w zakres działania społecznej inspekcji pracy. Zakładowy społeczny inspektor pracy powinien posiadać co najmniej pięcioletni staż pracy w branży, do której zakład należy, i co najmniej dwuletni staż pracy w danym zakładzie, a oddziałowy lub grupowy społeczny inspektor pracy - co najmniej dwuletni staż pracy w tej branży i co najmniej jeden rok pracy w danym zakładzie."
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Art. 6",
-      "content": "1. Społecznych inspektorów pracy wybierają i odwołują pracownicy zakładu pracy. 2. Społecznych inspektorów pracy wybiera się na okres 4 lat. 3. Zakładowych i oddziałowych (wydziałowych) społecznych inspektorów pracy wybiera: 1) w zakładach pracy lub oddziałach (wydziałach) liczących do 300 pracowników - ogólne zebranie pracowników zakładu pracy lub oddziału (wydziału), 2) w zakładach pracy lub oddziałach (wydziałach) liczących powyżej 300 pracowników: a) zakładowego społecznego inspektora pracy - zebranie oddziałowych (wydziałowych) i grupowych społecznych inspektorów pracy, b) oddziałowego (wydziałowego) społecznego inspektora pracy - zebranie grupowych społecznych inspektorów pracy. 4. Grupowych społecznych inspektorów pracy wybiera ogólne zebranie pracowników komórek organizacyjnych oddziału (wydziału). 5. W zakładach, w których nie wybrano grupowych społecznych inspektorów pracy, tryb wyborów społecznych inspektorów pracy, o którym mowa w ust. 3 pkt 2, określają zakładowe organizacje związkowe. 6. Wybory społecznych inspektorów pracy przeprowadzają zakładowe organizacje związkowe na podstawie uchwalonych przez siebie regulaminów wyborów. 7. Ogólnokrajowe organizacje związkowe mogą ustalać ramowe wytyczne do regulaminów wyborów społecznych inspektorów pracy."
+      "content": "Społecznych inspektorów pracy wybierają i odwołują pracownicy zakładu pracy. Społecznych inspektorów pracy wybiera się na okres 4 lat. Zakładowych i oddziałowych (wydziałowych) społecznych inspektorów pracy wybiera: w zakładach pracy lub oddziałach (wydziałach) liczących do 300 pracowników - ogólne zebranie pracowników zakładu pracy lub oddziału (wydziału); w zakładach pracy lub oddziałach (wydziałach) liczących powyżej 300 pracowników: zakładowego społecznego inspektora pracy - zebranie oddziałowych (wydziałowych) i grupowych społecznych inspektorów pracy, oddziałowego (wydziałowego) społecznego inspektora pracy - zebranie grupowych społecznych inspektorów pracy. Grupowych społecznych inspektorów pracy wybiera ogólne zebranie pracowników komórek organizacyjnych oddziału (wydziału). W zakładach, w których nie wybrano grupowych społecznych inspektorów pracy, tryb wyborów społecznych inspektorów pracy, o którym mowa w ust. 3 pkt 2, określają zakładowe organizacje związkowe. Wybory społecznych inspektorów pracy przeprowadzają zakładowe organizacje związkowe na podstawie uchwalonych przez siebie regulaminów wyborów. Ogólnokrajowe organizacje związkowe mogą ustalać ramowe wytyczne do regulaminów wyborów społecznych inspektorów pracy."
+    },
+    {
+      "provision_ref": "art6u1",
+      "section": "6",
+      "title": "Art. 6 ust. 1",
+      "content": "Społecznych inspektorów pracy wybierają i odwołują pracownicy zakładu pracy."
+    },
+    {
+      "provision_ref": "art6u2",
+      "section": "6",
+      "title": "Art. 6 ust. 2",
+      "content": "Społecznych inspektorów pracy wybiera się na okres 4 lat."
+    },
+    {
+      "provision_ref": "art6u3p1",
+      "section": "6",
+      "title": "Art. 6 ust. 3 pkt 1",
+      "content": "Zakładowych i oddziałowych (wydziałowych) społecznych inspektorów pracy wybiera: w zakładach pracy lub oddziałach (wydziałach) liczących do 300 pracowników - ogólne zebranie pracowników zakładu pracy lub oddziału (wydziału);"
+    },
+    {
+      "provision_ref": "art6u3p2la",
+      "section": "6",
+      "title": "Art. 6 ust. 3 pkt 2 lit. a",
+      "content": "Zakładowych i oddziałowych (wydziałowych) społecznych inspektorów pracy wybiera: w zakładach pracy lub oddziałach (wydziałach) liczących powyżej 300 pracowników: zakładowego społecznego inspektora pracy - zebranie oddziałowych (wydziałowych) i grupowych społecznych inspektorów pracy,"
+    },
+    {
+      "provision_ref": "art6u3p2lb",
+      "section": "6",
+      "title": "Art. 6 ust. 3 pkt 2 lit. b",
+      "content": "Zakładowych i oddziałowych (wydziałowych) społecznych inspektorów pracy wybiera: w zakładach pracy lub oddziałach (wydziałach) liczących powyżej 300 pracowników: oddziałowego (wydziałowego) społecznego inspektora pracy - zebranie grupowych społecznych inspektorów pracy."
+    },
+    {
+      "provision_ref": "art6u4",
+      "section": "6",
+      "title": "Art. 6 ust. 4",
+      "content": "Grupowych społecznych inspektorów pracy wybiera ogólne zebranie pracowników komórek organizacyjnych oddziału (wydziału)."
+    },
+    {
+      "provision_ref": "art6u5",
+      "section": "6",
+      "title": "Art. 6 ust. 5",
+      "content": "W zakładach, w których nie wybrano grupowych społecznych inspektorów pracy, tryb wyborów społecznych inspektorów pracy, o którym mowa w ust. 3 pkt 2, określają zakładowe organizacje związkowe."
+    },
+    {
+      "provision_ref": "art6u6",
+      "section": "6",
+      "title": "Art. 6 ust. 6",
+      "content": "Wybory społecznych inspektorów pracy przeprowadzają zakładowe organizacje związkowe na podstawie uchwalonych przez siebie regulaminów wyborów."
+    },
+    {
+      "provision_ref": "art6u7",
+      "section": "6",
+      "title": "Art. 6 ust. 7",
+      "content": "Ogólnokrajowe organizacje związkowe mogą ustalać ramowe wytyczne do regulaminów wyborów społecznych inspektorów pracy."
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Art. 7",
-      "content": "1. Społeczny inspektor pracy w razie niewywiązywania się ze swoich obowiązków może być, na zasadach określonych w art. 6, odwołany przed upływem okresu, o którym mowa w art. 6 ust. 2. 2. Odwołanie, w myśl ust. 1, następuje na wniosek: 1) zakładowych organizacji związkowych, 2) co najmniej jednej piątej pracowników. 3. Społeczny inspektor pracy przestaje pełnić swoją funkcję również w wypadku zrzeczenia się jej lub ustania stosunku pracy. 4. W wypadkach, o których mowa w ust. 2 i 3, przeprowadza się uzupełniające wybory społecznego inspektora pracy. Rozdział 3 Uprawnienia i zasady postępowania społecznych inspektorów pracy"
+      "content": "Społeczny inspektor pracy w razie niewywiązywania się ze swoich obowiązków może być, na zasadach określonych w art. 6, odwołany przed upływem okresu, o którym mowa w art. 6 ust. 2. Odwołanie, w myśl ust. 1, następuje na wniosek: zakładowych organizacji związkowych; co najmniej jednej piątej pracowników. Społeczny inspektor pracy przestaje pełnić swoją funkcję również w wypadku zrzeczenia się jej lub ustania stosunku pracy. W wypadkach, o których mowa w ust. 2 i 3, przeprowadza się uzupełniające wybory społecznego inspektora pracy."
+    },
+    {
+      "provision_ref": "art7u1",
+      "section": "7",
+      "title": "Art. 7 ust. 1",
+      "content": "Społeczny inspektor pracy w razie niewywiązywania się ze swoich obowiązków może być, na zasadach określonych w art. 6, odwołany przed upływem okresu, o którym mowa w art. 6 ust. 2."
+    },
+    {
+      "provision_ref": "art7u2p1",
+      "section": "7",
+      "title": "Art. 7 ust. 2 pkt 1",
+      "content": "Odwołanie, w myśl ust. 1, następuje na wniosek: zakładowych organizacji związkowych;"
+    },
+    {
+      "provision_ref": "art7u2p2",
+      "section": "7",
+      "title": "Art. 7 ust. 2 pkt 2",
+      "content": "Odwołanie, w myśl ust. 1, następuje na wniosek: co najmniej jednej piątej pracowników."
+    },
+    {
+      "provision_ref": "art7u3",
+      "section": "7",
+      "title": "Art. 7 ust. 3",
+      "content": "Społeczny inspektor pracy przestaje pełnić swoją funkcję również w wypadku zrzeczenia się jej lub ustania stosunku pracy."
+    },
+    {
+      "provision_ref": "art7u4",
+      "section": "7",
+      "title": "Art. 7 ust. 4",
+      "content": "W wypadkach, o których mowa w ust. 2 i 3, przeprowadza się uzupełniające wybory społecznego inspektora pracy."
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Art. 8",
-      "content": "1. Społeczny inspektor pracy ma prawo wstępu w każdym czasie do pomieszczeń i urządzeń zakładu pracy dla wykonywania zadań określonych w art. 4. 2. Społeczny inspektor pracy ma prawo żądać od kierownika zakładu pracy oraz oddziału (wydziału) i od pracowników informacji oraz okazania dokumentów w sprawach wchodzących w zakres jego działania. 3. Wykonywanie czynności, o których mowa w ust. 1 i 2, następuje z zachowaniem przepisów o ochronie tajemnicy państwowej i służbowej."
+      "content": "Społeczny inspektor pracy ma prawo wstępu w każdym czasie do pomieszczeń i urządzeń zakładu pracy dla wykonywania zadań określonych w art. 4. Społeczny inspektor pracy ma prawo żądać od kierownika zakładu pracy oraz oddziału (wydziału) i od pracowników informacji oraz okazania dokumentów w sprawach wchodzących w zakres jego działania. Wykonywanie czynności, o których mowa w ust. 1 i 2, następuje z zachowaniem przepisów o ochronie informacji niejawnych."
+    },
+    {
+      "provision_ref": "art8u1",
+      "section": "8",
+      "title": "Art. 8 ust. 1",
+      "content": "Społeczny inspektor pracy ma prawo wstępu w każdym czasie do pomieszczeń i urządzeń zakładu pracy dla wykonywania zadań określonych w art. 4."
+    },
+    {
+      "provision_ref": "art8u2",
+      "section": "8",
+      "title": "Art. 8 ust. 2",
+      "content": "Społeczny inspektor pracy ma prawo żądać od kierownika zakładu pracy oraz oddziału (wydziału) i od pracowników informacji oraz okazania dokumentów w sprawach wchodzących w zakres jego działania."
+    },
+    {
+      "provision_ref": "art8u3",
+      "section": "8",
+      "title": "Art. 8 ust. 3",
+      "content": "Wykonywanie czynności, o których mowa w ust. 1 i 2, następuje z zachowaniem przepisów o ochronie informacji niejawnych."
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Art. 9",
-      "content": "1. W razie stwierdzenia, że nie są przestrzegane przepisy, o których mowa w art. 4, społeczny inspektor pracy informuje o tym kierownika zakładu pracy oraz oddziału (wydziału), czyniąc jednocześnie stosowny zapis w księgach, o których mowa w art. 12. 2. Kierownik zakładu pracy oraz oddziału (wydziału) podejmuje decyzję w sprawie usunięcia stwierdzonych nieprawidłowości i informuje o tym społecznego inspektora pracy."
+      "content": "W razie stwierdzenia, że nie są przestrzegane przepisy, o których mowa w art. 4, społeczny inspektor pracy informuje o tym kierownika zakładu pracy oraz oddziału (wydziału), czyniąc jednocześnie stosowny zapis w księgach, o których mowa w art. 12. Kierownik zakładu pracy oraz oddziału (wydziału) podejmuje decyzje w sprawie usunięcia stwierdzonych nieprawidłowości i informuje o tym społecznego inspektora pracy."
+    },
+    {
+      "provision_ref": "art9u1",
+      "section": "9",
+      "title": "Art. 9 ust. 1",
+      "content": "W razie stwierdzenia, że nie są przestrzegane przepisy, o których mowa w art. 4, społeczny inspektor pracy informuje o tym kierownika zakładu pracy oraz oddziału (wydziału), czyniąc jednocześnie stosowny zapis w księgach, o których mowa w art. 12."
+    },
+    {
+      "provision_ref": "art9u2",
+      "section": "9",
+      "title": "Art. 9 ust. 2",
+      "content": "Kierownik zakładu pracy oraz oddziału (wydziału) podejmuje decyzje w sprawie usunięcia stwierdzonych nieprawidłowości i informuje o tym społecznego inspektora pracy."
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Art. 10",
-      "content": "1. W razie stwierdzenia naruszenia przez pracownika przepisów i zasad bezpieczeństwa i higieny pracy, społeczny inspektor pracy zwraca uwagę pracownikowi na obowiązek przestrzegania tych przepisów i zasad. 2. W wypadku gdy zachowanie pracownika na stanowisku pracy wskazuje na niedostateczną znajomość przepisów i zasad bezpieczeństwa i higieny pracy oraz nieumiejętność wykonywania pracy w sposób bezpieczny dla siebie lub innych pracowników, społeczny inspektor pracy zwraca się do kierownika właściwej komórki organizacyjnej o czasowe odsunięcie pracownika od tej pracy i zapoznanie go z przepisami i zasadami bezpieczeństwa i higieny pracy."
+      "content": "W razie stwierdzenia naruszenia przez pracownika przepisów i zasad bezpieczeństwa i higieny pracy, społeczny inspektor pracy zwraca uwagę pracownikowi na obowiązek przestrzegania tych przepisów i zasad. W wypadku gdy zachowanie pracownika na stanowisku pracy wskazuje na niedostateczną znajomość przepisów i zasad bezpieczeństwa i higieny pracy oraz nieumiejętność wykonywania pracy w sposób bezpieczny dla siebie lub innych pracowników, społeczny inspektor pracy zwraca się do kierownika właściwej komórki organizacyjnej o czasowe odsunięcie pracownika od tej pracy i zapoznanie go z przepisami i zasadami bezpieczeństwa i higieny pracy."
+    },
+    {
+      "provision_ref": "art10u1",
+      "section": "10",
+      "title": "Art. 10 ust. 1",
+      "content": "W razie stwierdzenia naruszenia przez pracownika przepisów i zasad bezpieczeństwa i higieny pracy, społeczny inspektor pracy zwraca uwagę pracownikowi na obowiązek przestrzegania tych przepisów i zasad."
+    },
+    {
+      "provision_ref": "art10u2",
+      "section": "10",
+      "title": "Art. 10 ust. 2",
+      "content": "W wypadku gdy zachowanie pracownika na stanowisku pracy wskazuje na niedostateczną znajomość przepisów i zasad bezpieczeństwa i higieny pracy oraz nieumiejętność wykonywania pracy w sposób bezpieczny dla siebie lub innych pracowników, społeczny inspektor pracy zwraca się do kierownika właściwej komórki organizacyjnej o czasowe odsunięcie pracownika od tej pracy i zapoznanie go z przepisami i zasadami bezpieczeństwa i higieny pracy."
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Art. 11",
-      "content": "1. Na podstawie ustaleń własnych, oddziałowego (wydziałowego) lub grupowego społecznego inspektora pracy zakładowy społeczny inspektor pracy wydaje kierownikowi zakładu pracy, w formie pisemnej, zalecenie usunięcia w określonym terminie stwierdzonych uchybień. 2. W razie bezpośredniego zagrożenia mogącego powodować wypadek przy pracy, zakładowy społeczny inspektor pracy występuje do kierownika zakładu pracy o natychmiastowe usunięcie tego zagrożenia, a w wypadku niepodjęcia odpowiednich działań wydaje, w formie pisemnej, zalecenie wstrzymania pracy danego urządzenia technicznego lub określonych robót, zawiadamiając o tym równocześnie zakładowe organizacje związkowe. 3. Kierownik zakładu pracy może wnieść sprzeciw od zalecenia zakładowego społecznego inspektora pracy do właściwego inspektora pracy Państwowej Inspekcji Pracy. Sprzeciw od zalecenia, o którym mowa w ust. 1, wnosi się w terminie 7 dni od dnia doręczenia zalecenia, a od zalecenia, o którym mowa w ust. 2 - niezwłocznie. 4. W razie wniesienia sprzeciwu, o którym mowa w ust. 3, inspektor pracy Państwowej Inspekcji Pracy wydaje decyzję lub podejmuje inne środki prawne przewidziane w przepisach o Państwowej Inspekcji Pracy."
+      "content": "Na podstawie ustaleń własnych, oddziałowego (wydziałowego) lub grupowego społecznego inspektora pracy zakładowy społeczny inspektor pracy wydaje kierownikowi zakładu pracy, w formie pisemnej, zalecenie usunięcia w określonym terminie stwierdzonych uchybień. W razie bezpośredniego zagrożenia mogącego spowodować wypadek przy pracy, zakładowy społeczny inspektor pracy występuje do kierownika zakładu pracy o natychmiastowe usunięcie tego zagrożenia, a w wypadku niepodjęcia odpowiednich działań wydaje, w formie pisemnej, zalecenie wstrzymania pracy danego urządzenia technicznego lub określonych robót, zawiadamiając o tym równocześnie zakładowe organizacje związkowe. Kierownik zakładu pracy może wnieść sprzeciw od zalecenia zakładowego społecznego inspektora pracy do właściwego inspektora pracy Państwowej Inspekcji Pracy. Sprzeciw od zalecenia, o którym mowa w ust. 1, wnosi się w terminie 7 dni od dnia doręczenia zalecenia, a od zalecenia, o którym mowa w ust. 2 - niezwłocznie. W razie wniesienia sprzeciwu, o którym mowa w ust. 3, inspektor pracy Państwowej Inspekcji Pracy wydaje decyzję lub podejmuje inne środki prawne przewidziane w przepisach o Państwowej Inspekcji Pracy."
+    },
+    {
+      "provision_ref": "art11u1",
+      "section": "11",
+      "title": "Art. 11 ust. 1",
+      "content": "Na podstawie ustaleń własnych, oddziałowego (wydziałowego) lub grupowego społecznego inspektora pracy zakładowy społeczny inspektor pracy wydaje kierownikowi zakładu pracy, w formie pisemnej, zalecenie usunięcia w określonym terminie stwierdzonych uchybień."
+    },
+    {
+      "provision_ref": "art11u2",
+      "section": "11",
+      "title": "Art. 11 ust. 2",
+      "content": "W razie bezpośredniego zagrożenia mogącego spowodować wypadek przy pracy, zakładowy społeczny inspektor pracy występuje do kierownika zakładu pracy o natychmiastowe usunięcie tego zagrożenia, a w wypadku niepodjęcia odpowiednich działań wydaje, w formie pisemnej, zalecenie wstrzymania pracy danego urządzenia technicznego lub określonych robót, zawiadamiając o tym równocześnie zakładowe organizacje związkowe."
+    },
+    {
+      "provision_ref": "art11u3",
+      "section": "11",
+      "title": "Art. 11 ust. 3",
+      "content": "Kierownik zakładu pracy może wnieść sprzeciw od zalecenia zakładowego społecznego inspektora pracy do właściwego inspektora pracy Państwowej Inspekcji Pracy. Sprzeciw od zalecenia, o którym mowa w ust. 1, wnosi się w terminie 7 dni od dnia doręczenia zalecenia, a od zalecenia, o którym mowa w ust. 2 - niezwłocznie."
+    },
+    {
+      "provision_ref": "art11u4",
+      "section": "11",
+      "title": "Art. 11 ust. 4",
+      "content": "W razie wniesienia sprzeciwu, o którym mowa w ust. 3, inspektor pracy Państwowej Inspekcji Pracy wydaje decyzję lub podejmuje inne środki prawne przewidziane w przepisach o Państwowej Inspekcji Pracy."
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Art. 12",
-      "content": "1. Zakład pracy jest zobowiązany założyć zakładową księgę zaleceń i uwag oraz oddziałowe (wydziałowe) księgi uwag, przeznaczone do zapisów społecznych inspektorów pracy. 2. Księgi, o których mowa w ust. 1, przechowuje się w miejscu ustalonym przez kierownika zakładu pracy oraz udostępnia do wglądu zakładowym organizacjom związkowym, organom samorządu załogi, organom Państwowej Inspekcji Pracy oraz innym organom nadzoru i kontroli warunków pracy. 3. Zapisy w księgach, o których mowa w ust. 1, mają moc dokumentów urzędowych w postępowaniu przed organami państwowymi."
+      "content": "Zakład pracy jest zobowiązany założyć zakładową księgę zaleceń i uwag oraz oddziałowe (wydziałowe) księgi uwag, przeznaczone do zapisów społecznych inspektorów pracy. Księgi, o których mowa w ust. 1, przechowuje się w miejscu ustalonym przez kierownika zakładu pracy oraz udostępnia do wglądu zakładowym organizacjom związkowym, organom samorządu załogi, organom Państwowej Inspekcji Pracy oraz innym organom nadzoru i kontroli warunków pracy. Zapisy w księgach, o których mowa w ust. 1, mają moc dokumentów urzędowych w postępowaniu przed organami państwowymi."
+    },
+    {
+      "provision_ref": "art12u1",
+      "section": "12",
+      "title": "Art. 12 ust. 1",
+      "content": "Zakład pracy jest zobowiązany założyć zakładową księgę zaleceń i uwag oraz oddziałowe (wydziałowe) księgi uwag, przeznaczone do zapisów społecznych inspektorów pracy."
+    },
+    {
+      "provision_ref": "art12u2",
+      "section": "12",
+      "title": "Art. 12 ust. 2",
+      "content": "Księgi, o których mowa w ust. 1, przechowuje się w miejscu ustalonym przez kierownika zakładu pracy oraz udostępnia do wglądu zakładowym organizacjom związkowym, organom samorządu załogi, organom Państwowej Inspekcji Pracy oraz innym organom nadzoru i kontroli warunków pracy."
+    },
+    {
+      "provision_ref": "art12u3",
+      "section": "12",
+      "title": "Art. 12 ust. 3",
+      "content": "Zapisy w księgach, o których mowa w ust. 1, mają moc dokumentów urzędowych w postępowaniu przed organami państwowymi."
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Art. 13",
-      "content": "1. Zakład pracy nie może wypowiedzieć umowy o pracę społecznemu inspektorowi pracy. 2. Umowa o pracę ze społecznym inspektorem pracy nie może być rozwiązana bez wypowiedzenia z jego winy, bez uprzedniej zgody zakładowych organizacji związkowych. 3. Przepisu ust. 1 nie stosuje się w razie likwidacji zakładu pracy, a także w razie osiągnięcia przez społecznego inspektora pracy wieku emerytalnego albo uzyskania prawa do renty z tytułu zaliczenia do I lub II grupy inwalidów."
+      "content": "Zakład pracy nie może wypowiedzieć ani rozwiązać umowy o pracę z pracownikiem pełniącym funkcję społecznego inspektora pracy w czasie trwania mandatu oraz w okresie roku po jego wygaśnięciu, chyba że zachodzą przyczyny uzasadniające rozwiązanie umowy o pracę bez wypowiedzenia. W takim wypadku rozwiązanie umowy o pracę może nastąpić po uprzednim uzyskaniu zgody statutowo właściwego organu zakładowej organizacji związkowej. Przepis ust. 1 nie narusza art. 40 Kodeksu pracy . Zakład pracy nie może wypowiedzieć pracownikowi pełniącemu funkcję społecznego inspektora pracy warunków pracy i płacy na jego niekorzyść w okresie ustalonym w ust. 1, chyba że wypowiedzenie stało się konieczne z przyczyn, o których mowa w art. 43 Kodeksu pracy . Przepisy ust. 1-3 stosuje się odpowiednio w wypadku, gdy pracownik jest zatrudniony na podstawie mianowania lub spółdzielczej umowy o pracę."
+    },
+    {
+      "provision_ref": "art13u1",
+      "section": "13",
+      "title": "Art. 13 ust. 1",
+      "content": "Zakład pracy nie może wypowiedzieć ani rozwiązać umowy o pracę z pracownikiem pełniącym funkcję społecznego inspektora pracy w czasie trwania mandatu oraz w okresie roku po jego wygaśnięciu, chyba że zachodzą przyczyny uzasadniające rozwiązanie umowy o pracę bez wypowiedzenia. W takim wypadku rozwiązanie umowy o pracę może nastąpić po uprzednim uzyskaniu zgody statutowo właściwego organu zakładowej organizacji związkowej."
+    },
+    {
+      "provision_ref": "art13u2",
+      "section": "13",
+      "title": "Art. 13 ust. 2",
+      "content": "Przepis ust. 1 nie narusza art. 40 Kodeksu pracy ."
+    },
+    {
+      "provision_ref": "art13u3",
+      "section": "13",
+      "title": "Art. 13 ust. 3",
+      "content": "Zakład pracy nie może wypowiedzieć pracownikowi pełniącemu funkcję społecznego inspektora pracy warunków pracy i płacy na jego niekorzyść w okresie ustalonym w ust. 1, chyba że wypowiedzenie stało się konieczne z przyczyn, o których mowa w art. 43 Kodeksu pracy ."
+    },
+    {
+      "provision_ref": "art13u4",
+      "section": "13",
+      "title": "Art. 13 ust. 4",
+      "content": "Przepisy ust. 1-3 stosuje się odpowiednio w wypadku, gdy pracownik jest zatrudniony na podstawie mianowania lub spółdzielczej umowy o pracę."
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Art. 14",
-      "content": "1. Zakład pracy jest zobowiązany zapewnić społecznym inspektorom pracy odpowiednie warunki realizacji ich zadań. 2. Koszty związane z działalnością społecznej inspekcji pracy ponosi zakład pracy."
+      "content": "Zakład pracy jest zobowiązany zapewnić społecznym inspektorom pracy odpowiednie warunki realizacji ich zadań. Koszty związane z działalnością społecznej inspekcji pracy ponosi zakład pracy."
+    },
+    {
+      "provision_ref": "art14u1",
+      "section": "14",
+      "title": "Art. 14 ust. 1",
+      "content": "Zakład pracy jest zobowiązany zapewnić społecznym inspektorom pracy odpowiednie warunki realizacji ich zadań."
+    },
+    {
+      "provision_ref": "art14u2",
+      "section": "14",
+      "title": "Art. 14 ust. 2",
+      "content": "Koszty związane z działalnością społecznej inspekcji pracy ponosi zakład pracy."
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Art. 15",
-      "content": "1. Społeczni inspektorzy pracy powinni wykonywać swoje czynności w zasadzie poza godzinami pracy. 2. W razie konieczności wykonywania swoich czynności w godzinach pracy lub uczestniczenia w naradach i szkoleniach, społeczni inspektorzy pracy zachowują prawo do wynagrodzenia. 3. W razie znacznego obciążenia zadaniami wynikającymi z pełnienia funkcji społecznego inspektora pracy, kierownik zakładu pracy na wniosek zakładowych organizacji związkowych może ustalić miesięczne wynagrodzenie zryczałtowane do wysokości nie przekraczającej wynagrodzenia za 30 godzin pracy osoby pełniącej funkcję społecznego inspektora pracy. 4. W szczególnie uzasadnionych wypadkach kierownik zakładu pracy, na wniosek zakładowych organizacji związkowych, może podwyższyć wynagrodzenie, o którym mowa w ust. 3, do wysokości nie przekraczającej wynagrodzenia za 60 godzin pracy. 5. W zakładach pracy, w których występuje szczególne zagrożenie zdrowia i życia pracowników, a warunki pracy wymagają stałego społecznego nadzoru, kierownik zakładu pracy, na wniosek zakładowych organizacji związkowych, może zwolnić na czas pełnienia funkcji zakładowego społecznego inspektora pracy z obowiązku wykonywania pracy, z zachowaniom prawa do wynagrodzenia. 6. W wypadku, o którym mowa w ust. 5, zakładowy społeczny inspektor pracy zachowuje przez czas pełnienia funkcji prawo do wynagrodzenia, jakie przysługiwało mu na stanowisku pracy zajmowanym w dniu oddelegowania, z uwzględnieniem zmian tego wynagrodzenia, jakie nastąpią w okresie oddelegowania."
+      "content": "Społeczni inspektorzy pracy powinni wykonywać swoje czynności w zasadzie poza godzinami pracy. W razie konieczności wykonywania swoich czynności w godzinach pracy lub uczestniczenia w naradach i szkoleniach, społeczni inspektorzy pracy zachowują prawo do wynagrodzenia. W razie znacznego obciążenia zadaniami wynikającymi z pełnienia funkcji społecznego inspektora pracy, kierownik zakładu pracy na wniosek zakładowych organizacji związkowych może ustalić miesięczne wynagrodzenie zryczałtowane do wysokości nieprzekraczającej wynagrodzenia za 30 godzin pracy osoby pełniącej funkcję społecznego inspektora pracy. W szczególnie uzasadnionych wypadkach kierownik zakładu pracy, na wniosek zakładowych organizacji związkowych, może podwyższyć wynagrodzenie, o którym mowa w ust. 3, do wysokości nieprzekraczającej wynagrodzenia za 60 godzin pracy. W zakładach pracy, w których występuje szczególne zagrożenie zdrowia i życia pracowników, a warunki pracy wymagają stałego społecznego nadzoru, kierownik zakładu pracy, na wniosek zakładowych organizacji związkowych, może zwolnić na czas pełnienia funkcji zakładowego społecznego inspektora pracy z obowiązku wykonywania pracy, z zachowaniem prawa do wynagrodzenia. W wypadku, o którym mowa w ust. 5, zakładowy społeczny inspektor pracy zachowuje przez czas pełnienia funkcji prawo do wynagrodzenia, jakie przysługiwało mu na stanowisku pracy zajmowanym w dniu oddelegowania, z uwzględnieniem zmian tego wynagrodzenia, jakie nastąpią w okresie oddelegowania."
+    },
+    {
+      "provision_ref": "art15u1",
+      "section": "15",
+      "title": "Art. 15 ust. 1",
+      "content": "Społeczni inspektorzy pracy powinni wykonywać swoje czynności w zasadzie poza godzinami pracy."
+    },
+    {
+      "provision_ref": "art15u2",
+      "section": "15",
+      "title": "Art. 15 ust. 2",
+      "content": "W razie konieczności wykonywania swoich czynności w godzinach pracy lub uczestniczenia w naradach i szkoleniach, społeczni inspektorzy pracy zachowują prawo do wynagrodzenia."
+    },
+    {
+      "provision_ref": "art15u3",
+      "section": "15",
+      "title": "Art. 15 ust. 3",
+      "content": "W razie znacznego obciążenia zadaniami wynikającymi z pełnienia funkcji społecznego inspektora pracy, kierownik zakładu pracy na wniosek zakładowych organizacji związkowych może ustalić miesięczne wynagrodzenie zryczałtowane do wysokości nieprzekraczającej wynagrodzenia za 30 godzin pracy osoby pełniącej funkcję społecznego inspektora pracy."
+    },
+    {
+      "provision_ref": "art15u4",
+      "section": "15",
+      "title": "Art. 15 ust. 4",
+      "content": "W szczególnie uzasadnionych wypadkach kierownik zakładu pracy, na wniosek zakładowych organizacji związkowych, może podwyższyć wynagrodzenie, o którym mowa w ust. 3, do wysokości nieprzekraczającej wynagrodzenia za 60 godzin pracy."
+    },
+    {
+      "provision_ref": "art15u5",
+      "section": "15",
+      "title": "Art. 15 ust. 5",
+      "content": "W zakładach pracy, w których występuje szczególne zagrożenie zdrowia i życia pracowników, a warunki pracy wymagają stałego społecznego nadzoru, kierownik zakładu pracy, na wniosek zakładowych organizacji związkowych, może zwolnić na czas pełnienia funkcji zakładowego społecznego inspektora pracy z obowiązku wykonywania pracy, z zachowaniem prawa do wynagrodzenia."
+    },
+    {
+      "provision_ref": "art15u6",
+      "section": "15",
+      "title": "Art. 15 ust. 6",
+      "content": "W wypadku, o którym mowa w ust. 5, zakładowy społeczny inspektor pracy zachowuje przez czas pełnienia funkcji prawo do wynagrodzenia, jakie przysługiwało mu na stanowisku pracy zajmowanym w dniu oddelegowania, z uwzględnieniem zmian tego wynagrodzenia, jakie nastąpią w okresie oddelegowania."
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Art. 16",
-      "content": "1. Ogólnokrajowe organizacje związkowe mogą określać wytyczne do działalności społecznych inspektorów pracy. 2. Określenie wytycznych, o których mowa w ust. 1, w stosunku do zakładów podległych Ministrowi Obrony Narodowej lub Ministrowi Spraw Wewnętrznych następuje w porozumieniu z właściwym ministrem. Rozdział 4 Współdziałanie społecznej inspekcji pracy z Państwową Inspekcją Pracy oraz innymi organami nadzoru i kontroli warunków pracy"
+      "content": "Ogólnokrajowe organizacje związkowe mogą określać wytyczne do działalności społecznych inspektorów pracy. Określenie wytycznych, o których mowa w ust. 1, w stosunku do zakładów podległych Ministrowi Obrony Narodowej lub Ministrowi Spraw Wewnętrznych 6) Obecnie: minister właściwy do spraw wewnętrznych, zgodnie z art. 4 ust. 1, art. 5 pkt 24 i art. 29 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2013 r. poz. 743 i 984, z 2014 r. poz. 496, 829, 915, 932 i 1533 oraz z 2015 r. poz. 277), która weszła w życie z dniem 1 kwietnia 1999 r. następuje w porozumieniu z właściwym ministrem."
+    },
+    {
+      "provision_ref": "art16u1",
+      "section": "16",
+      "title": "Art. 16 ust. 1",
+      "content": "Ogólnokrajowe organizacje związkowe mogą określać wytyczne do działalności społecznych inspektorów pracy."
+    },
+    {
+      "provision_ref": "art16u2",
+      "section": "16",
+      "title": "Art. 16 ust. 2",
+      "content": "Określenie wytycznych, o których mowa w ust. 1, w stosunku do zakładów podległych Ministrowi Obrony Narodowej lub Ministrowi Spraw Wewnętrznych 6) Obecnie: minister właściwy do spraw wewnętrznych, zgodnie z art. 4 ust. 1, art. 5 pkt 24 i art. 29 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2013 r. poz. 743 i 984, z 2014 r. poz. 496, 829, 915, 932 i 1533 oraz z 2015 r. poz. 277), która weszła w życie z dniem 1 kwietnia 1999 r. następuje w porozumieniu z właściwym ministrem."
     },
     {
       "provision_ref": "art17",
@@ -115,7 +541,19 @@
       "provision_ref": "art18",
       "section": "18",
       "title": "Art. 18",
-      "content": "1. Państwowa Inspekcja Pracy udziela pomocy społecznej inspekcji pracy w realizacji jej zadań, w szczególności przez poradnictwo prawne, specjalistyczną prasę oraz szkolenie. 2. Inspektorzy pracy Państwowej Inspekcji Pracy przeprowadzają kontrole wykonania zaleceń i uwag społecznych inspektorów pracy."
+      "content": "Państwowa Inspekcja Pracy udziela pomocy społecznej inspekcji pracy w realizacji jej zadań, w szczególności przez poradnictwo prawne, specjalistyczną prasę oraz szkolenie. Inspektorzy pracy Państwowej Inspekcji Pracy przeprowadzają kontrole wykonania zaleceń i uwag społecznych inspektorów pracy."
+    },
+    {
+      "provision_ref": "art18u1",
+      "section": "18",
+      "title": "Art. 18 ust. 1",
+      "content": "Państwowa Inspekcja Pracy udziela pomocy społecznej inspekcji pracy w realizacji jej zadań, w szczególności przez poradnictwo prawne, specjalistyczną prasę oraz szkolenie."
+    },
+    {
+      "provision_ref": "art18u2",
+      "section": "18",
+      "title": "Art. 18 ust. 2",
+      "content": "Inspektorzy pracy Państwowej Inspekcji Pracy przeprowadzają kontrole wykonania zaleceń i uwag społecznych inspektorów pracy."
     },
     {
       "provision_ref": "art19",
@@ -133,25 +571,73 @@
       "provision_ref": "art21",
       "section": "21",
       "title": "Art. 21",
-      "content": "Państwowa Inspekcja Sanitarna, Urząd Dozoru Technicznego oraz inne organy nadzoru i kontroli warunków pracy obowiązane są udzielać społecznej Inspekcji pracy pomocy w wykonywaniu jej zadań. Rozdział 5 Odpowiedzialność za naruszanie przepisów o społecznej inspekcji pracy"
+      "content": "Państwowa Inspekcja Sanitarna, Urząd Dozoru Technicznego oraz inne organy nadzoru i kontroli warunków pracy obowiązane są udzielać społecznej inspekcji pracy pomocy w wykonywaniu jej zadań."
     },
     {
       "provision_ref": "art22",
       "section": "22",
       "title": "Art. 22",
-      "content": "1. Kto działając w imieniu zakładu pracy narusza przepisy niniejszej ustawy, a w szczególności uniemożliwia działalność społecznego inspektora pracy, podlega karze grzywny do 20 000 zł. 2. Tej samej karze podlega, kto nie wykonuje zalecenia zakładowego społecznego inspektora pracy. 3. Orzekanie kary grzywny następuje w trybie określonym w art. 284-290 Kodeksu pracy . Rozdział 6 Przepisy przejściowe i końcowe"
+      "content": "Kto działając w imieniu zakładu pracy narusza przepisy niniejszej ustawy, a w szczególności uniemożliwia działalność społecznego inspektora pracy, podlega karze grzywny do 2500 zł 7) Górna granica grzywny ustalona zgodnie z art. 6 ust. 2 ustawy z dnia 10 maja 1985 r. o zmianie niektórych przepisów prawa karnego i prawa o wykroczeniach (Dz. U. Nr 23, poz. 100), która weszła w życie z dniem 1 lipca 1985 r., art. 5 ust. 2 pkt 1 ustawy z dnia 28 września 1990 r. o zmianie niektórych przepisów prawa karnego i prawa o wykroczeniach (Dz. U. Nr 72, poz. 422), która weszła w życie z dniem 8 listopada 1990 r., art. 7 ust. 2 pkt 1 lit. b ustawy z dnia 28 lutego 1992 r. o zmianie niektórych przepisów prawa karnego, prawa o wykroczeniach i o postępowaniu w sprawach nieletnich (Dz. U. Nr 24, poz. 101), która weszła w życie z dniem 2 kwietnia 1992 r., art. 4 ust. 6 ustawy z dnia 7 lipca 1994 r. o denominacji złotego (Dz. U. Nr 84, poz. 386), która weszła w życie z dniem 1 stycznia 1995 r., art. 3 ust. 1 lit. a ustawy z dnia 12 lipca 1995 r. o zmianie Kodeksu karnego, Kodeksu karnego wykonawczego oraz o podwyższeniu dolnych i górnych granic grzywien i nawiązek w prawie karnym (Dz. U. Nr 95, poz. 475), która weszła w życie z dniem 20 listopada 1995 r. . Tej samej karze podlega, kto nie wykonuje zalecenia zakładowego społecznego inspektora pracy. Orzekanie następuje na podstawie wniosku pochodzącego od inspektora pracy w trybie określonym w dziale VII Kodeksu postępowania w sprawach o wykroczenia ."
+    },
+    {
+      "provision_ref": "art22u1",
+      "section": "22",
+      "title": "Art. 22 ust. 1",
+      "content": "Kto działając w imieniu zakładu pracy narusza przepisy niniejszej ustawy, a w szczególności uniemożliwia działalność społecznego inspektora pracy, podlega karze grzywny do 2500 zł 7) Górna granica grzywny ustalona zgodnie z art. 6 ust. 2 ustawy z dnia 10 maja 1985 r. o zmianie niektórych przepisów prawa karnego i prawa o wykroczeniach (Dz. U. Nr 23, poz. 100), która weszła w życie z dniem 1 lipca 1985 r., art. 5 ust. 2 pkt 1 ustawy z dnia 28 września 1990 r. o zmianie niektórych przepisów prawa karnego i prawa o wykroczeniach (Dz. U. Nr 72, poz. 422), która weszła w życie z dniem 8 listopada 1990 r., art. 7 ust. 2 pkt 1 lit. b ustawy z dnia 28 lutego 1992 r. o zmianie niektórych przepisów prawa karnego, prawa o wykroczeniach i o postępowaniu w sprawach nieletnich (Dz. U. Nr 24, poz. 101), która weszła w życie z dniem 2 kwietnia 1992 r., art. 4 ust. 6 ustawy z dnia 7 lipca 1994 r. o denominacji złotego (Dz. U. Nr 84, poz. 386), która weszła w życie z dniem 1 stycznia 1995 r., art. 3 ust. 1 lit. a ustawy z dnia 12 lipca 1995 r. o zmianie Kodeksu karnego, Kodeksu karnego wykonawczego oraz o podwyższeniu dolnych i górnych granic grzywien i nawiązek w prawie karnym (Dz. U. Nr 95, poz. 475), która weszła w życie z dniem 20 listopada 1995 r. ."
+    },
+    {
+      "provision_ref": "art22u2",
+      "section": "22",
+      "title": "Art. 22 ust. 2",
+      "content": "Tej samej karze podlega, kto nie wykonuje zalecenia zakładowego społecznego inspektora pracy."
+    },
+    {
+      "provision_ref": "art22u3",
+      "section": "22",
+      "title": "Art. 22 ust. 3",
+      "content": "Orzekanie następuje na podstawie wniosku pochodzącego od inspektora pracy w trybie określonym w dziale VII Kodeksu postępowania w sprawach o wykroczenia ."
     },
     {
       "provision_ref": "art23",
       "section": "23",
       "title": "Art. 23",
-      "content": "1. Wytyczne do przeprowadzenia pierwszych wyborów społecznych inspektorów pracy określi Rada Państwa. 2. Do czasu określenia wytycznych, o których mowa w art. 16 - wytyczne takie określi Rada Państwa. 3. Po okresie 3 lat od dnia wejścia w życie niniejszej ustawy Rada Państwa, po konsultacji z ogólnokrajowymi organizacjami związkowymi, dokona oceny przebiegu realizacji ustawy i w razie potrzeby wystąpi z inicjatywą jej zmiany."
+      "content": "Wytyczne do przeprowadzenia pierwszych wyborów społecznych inspektorów pracy określi Rada Państwa. Do czasu określenia wytycznych, o których mowa w art. 16 - wytyczne takie określi Rada Państwa. Po okresie 3 lat od dnia wejścia w życie niniejszej ustawy Rada Państwa, po konsultacji z ogólnokrajowymi organizacjami związkowymi, dokona oceny przebiegu realizacji ustawy i w razie potrzeby wystąpi z inicjatywą jej zmiany."
+    },
+    {
+      "provision_ref": "art23u1",
+      "section": "23",
+      "title": "Art. 23 ust. 1",
+      "content": "Wytyczne do przeprowadzenia pierwszych wyborów społecznych inspektorów pracy określi Rada Państwa."
+    },
+    {
+      "provision_ref": "art23u2",
+      "section": "23",
+      "title": "Art. 23 ust. 2",
+      "content": "Do czasu określenia wytycznych, o których mowa w art. 16 - wytyczne takie określi Rada Państwa."
+    },
+    {
+      "provision_ref": "art23u3",
+      "section": "23",
+      "title": "Art. 23 ust. 3",
+      "content": "Po okresie 3 lat od dnia wejścia w życie niniejszej ustawy Rada Państwa, po konsultacji z ogólnokrajowymi organizacjami związkowymi, dokona oceny przebiegu realizacji ustawy i w razie potrzeby wystąpi z inicjatywą jej zmiany."
     },
     {
       "provision_ref": "art24",
       "section": "24",
       "title": "Art. 24",
-      "content": "1. Postanowienia ustawy dotyczące zakładowych organizacji związkowych stosuje się odpowiednio do rad pracowniczych, utworzonych na podstawie przepisów ustawy o pracownikach urzędów państwowych oraz art. 15 ustawy z dnia 8 października 1982 r. o związkach zawodowych ( Dz. U. Nr 32, poz. 216 ) . 2. W zakładach, gdzie działają zakładowe organizacje związkowe i rady pracownicze, o których mowa w ust. 1, społeczną inspekcją pracy kierują oba przedstawicielstwa pracownicze."
+      "content": "Postanowienia ustawy dotyczące zakładowych organizacji związkowych stosuje się odpowiednio do rad pracowniczych, utworzonych na podstawie przepisów ustawy o pracownikach urzędów państwowych oraz art. 15 ustawy z dnia 8 października 1982 r. o związkach zawodowych . W zakładach, gdzie działają zakładowe organizacje związkowe i rady pracownicze, o których mowa w ust. 1, społeczną inspekcją pracy kierują oba przedstawicielstwa pracownicze."
+    },
+    {
+      "provision_ref": "art24u1",
+      "section": "24",
+      "title": "Art. 24 ust. 1",
+      "content": "Postanowienia ustawy dotyczące zakładowych organizacji związkowych stosuje się odpowiednio do rad pracowniczych, utworzonych na podstawie przepisów ustawy o pracownikach urzędów państwowych oraz art. 15 ustawy z dnia 8 października 1982 r. o związkach zawodowych ."
+    },
+    {
+      "provision_ref": "art24u2",
+      "section": "24",
+      "title": "Art. 24 ust. 2",
+      "content": "W zakładach, gdzie działają zakładowe organizacje związkowe i rady pracownicze, o których mowa w ust. 1, społeczną inspekcją pracy kierują oba przedstawicielstwa pracownicze."
     },
     {
       "provision_ref": "art25",
@@ -163,14 +649,60 @@
       "provision_ref": "art26",
       "section": "26",
       "title": "Art. 26",
-      "content": "Traci moc ustawa z dnia 4 lutego 1950 r. o społecznej inspekcji pracy ( Dz. U. z 1955 r. Nr 20, poz. 134 i z 1965 r. Nr 13, poz. 91 ) ."
+      "content": "Traci moc ustawa z dnia 4 lutego 1950 r. o społecznej inspekcji pracy ."
     },
     {
       "provision_ref": "art27",
       "section": "27",
       "title": "Art. 27",
-      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"chpt_1\",\"symbol\": \"chpt_1\",\"type\": \"chpt\",\"name\": \"1\",\"title\": \"Rozdział 1 - Przepisy ogólne\",\"children\": [{\"id\": \"chpt_1-arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"chpt_1-arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"chpt_1-arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"chpt_1-arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"chpt_1-arti_3-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-arti_3-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_1-arti_3-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"chpt_1-arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]}]},{\"id\": \"chpt_2\",\"symbol\": \"chpt_2\",\"type\": \"chpt\",\"name\": \"2\",\"title\": \"Rozdział 2 - Zadania i organizacja społecznej inspekcji pracy\",\"children\": [{\"id\": \"chpt_2-arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"chpt_2-arti_4-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_4-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_2-arti_4-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_2-arti_4-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"chpt_2-arti_4-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"chpt_2-arti_4-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"chpt_2-arti_4-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"chpt_2-arti_4-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"}]},{\"id\": \"chpt_2-arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"chpt_2-arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_5-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_2-arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"chpt_2-arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_6-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\",\"children\": [{\"id\": \"chpt_2-arti_6-pass_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_6-pass_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"chpt_2-arti_6-pass_3-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"chpt_2-arti_6-pass_3-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]}]},{\"id\": \"chpt_2-arti_6-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"chpt_2-arti_6-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"},{\"id\": \"chpt_2-arti_6-pass_6\",\"symbol\": \"pass_6\",\"type\": \"pass\",\"name\": \"6\",\"title\": \"6.\"},{\"id\": \"chpt_2-arti_6-pass_7\",\"symbol\": \"pass_7\",\"type\": \"pass\",\"name\": \"7\",\"title\": \"7.\"}]},{\"id\": \"chpt_2-arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"chpt_2-arti_7-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_7-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"chpt_2-arti_7-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_7-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"chpt_2-arti_7-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_2-arti_7-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]}]},{\"id\": \"chpt_3\",\"symbol\": \"chpt_3\",\"type\": \"chpt\",\"name\": \"3\",\"title\": \"Rozdział 3 - Uprawnienia i zasady postępowania społecznych inspektorów pracy\",\"children\": [{\"id\": \"chpt_3-arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"chpt_3-arti_8-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-arti_8-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_3-arti_8-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_3-arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"chpt_3-arti_9-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-arti_9-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_3-arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\",\"children\": [{\"id\": \"chpt_3-arti_10-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-arti_10-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_3-arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\",\"children\": [{\"id\": \"chpt_3-arti_11-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-arti_11-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_3-arti_11-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_3-arti_11-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"chpt_3-arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\",\"children\": [{\"id\": \"chpt_3-arti_12-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-arti_12-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_3-arti_12-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_3-arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\",\"children\": [{\"id\": \"chpt_3-arti_13-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-arti_13-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_3-arti_13-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_3-arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\",\"children\": [{\"id\": \"chpt_3-arti_14-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-arti_14-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_3-arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\",\"children\": [{\"id\": \"chpt_3-arti_15-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-arti_15-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_3-arti_15-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_3-arti_15-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"chpt_3-arti_15-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"},{\"id\": \"chpt_3-arti_15-pass_6\",\"symbol\": \"pass_6\",\"type\": \"pass\",\"name\": \"6\",\"title\": \"6.\"}]},{\"id\": \"chpt_3-arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\",\"children\": [{\"id\": \"chpt_3-arti_16-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-arti_16-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]}]},{\"id\": \"chpt_4\",\"symbol\": \"chpt_4\",\"type\": \"chpt\",\"name\": \"4\",\"title\": \"Rozdział 4 - Współdziałanie społecznej inspekcji pracy z Państwową Inspekcją Pracy oraz innymi organami nadzoru i kontroli warunków pracy\",\"children\": [{\"id\": \"chpt_4-arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\"},{\"id\": \"chpt_4-arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\",\"children\": [{\"id\": \"chpt_4-arti_18-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_4-arti_18-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_4-arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\"},{\"id\": \"chpt_4-arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\"},{\"id\": \"chpt_4-arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\"}]},{\"id\": \"chpt_5\",\"symbol\": \"chpt_5\",\"type\": \"chpt\",\"name\": \"5\",\"title\": \"Rozdział 5 - Odpowiedzialność za naruszanie przepisów o społecznej inspekcji pracy\",\"children\": [{\"id\": \"chpt_5-arti_22\",\"symbol\": \"arti_22\",\"type\": \"arti\",\"name\": \"22\",\"title\": \"Art. 22.\",\"children\": [{\"id\": \"chpt_5-arti_22-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_5-arti_22-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_5-arti_22-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]}]},{\"id\": \"chpt_6\",\"symbol\": \"chpt_6\",\"type\": \"chpt\",\"name\": \"6\",\"title\": \"Rozdział 6 - Przepisy przejściowe i końcowe\",\"children\": [{\"id\": \"chpt_6-arti_23\",\"symbol\": \"arti_23\",\"type\": \"arti\",\"name\": \"23\",\"title\": \"Art. 23.\",\"children\": [{\"id\": \"chpt_6-arti_23-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_6-arti_23-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_6-arti_23-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_6-arti_24\",\"symbol\": \"arti_24\",\"type\": \"arti\",\"name\": \"24\",\"title\": \"Art. 24.\",\"children\": [{\"id\": \"chpt_6-arti_24-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_6-arti_24-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_6-arti_25\",\"symbol\": \"arti_25\",\"type\": \"arti\",\"name\": \"25\",\"title\": \"Art. 25.\"},{\"id\": \"chpt_6-arti_26\",\"symbol\": \"arti_26\",\"type\": \"arti\",\"name\": \"26\",\"title\": \"Art. 26.\"},{\"id\": \"chpt_6-arti_27\",\"symbol\": \"arti_27\",\"type\": \"arti\",\"name\": \"27\",\"title\": \"Art. 27.\"}]} ] } ];"
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia 9) Ustawa została ogłoszona w dniu 30 czerwca 1983 r. ."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2011-1172",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2011-1378",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1985-162",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1996-110",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1998-717",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2001-1405",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2002-253",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2010-1228",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1982-216",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1955-134",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1965-91",
+      "ref_type": "references"
+    }
+  ]
 }

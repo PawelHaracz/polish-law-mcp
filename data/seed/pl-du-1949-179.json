@@ -13,7 +13,13 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W dekrecie z dnia 22 października 1947 r. o przepadku majątku ( Dz. U. R. P. Nr 65, poz. 390 ) art. 1 ust. 2 otrzymuje brzmienie: „ 2. Przepisów dekretu niniejszego nie stosuje się do przepadku narzędzi, które służyły lub były przeznaczone do popełnienia przestępstwa, oraz do orzeczonego przez sąd przepadku przedmiotów, pochodzących bezpośrednio lub pośrednio z przestępstwa, jak również do przepadku majątku, orzeczonego w postępowaniu karnym skarbowym. ” ."
+      "content": "W dekrecie z dnia 22 października 1947 r. o przepadku majątku art. 1 ust. 2 otrzymuje brzmienie: „ Przepisów dekretu niniejszego nie stosuje się do przepadku narzędzi, które służyły lub były przeznaczone do popełnienia przestępstwa, oraz do orzeczonego przez sąd przepadku przedmiotów, pochodzących bezpośrednio lub pośrednio z przestępstwa, jak również do przepadku majątku, orzeczonego w postępowaniu karnym skarbowym. ” ."
+    },
+    {
+      "provision_ref": "art1u2",
+      "section": "1",
+      "title": "Art. 1 ust. 2",
+      "content": "W dekrecie z dnia 22 października 1947 r. o przepadku majątku art. 1 ust. 2 otrzymuje brzmienie: „ Przepisów dekretu niniejszego nie stosuje się do przepadku narzędzi, które służyły lub były przeznaczone do popełnienia przestępstwa, oraz do orzeczonego przez sąd przepadku przedmiotów, pochodzących bezpośrednio lub pośrednio z przestępstwa, jak również do przepadku majątku, orzeczonego w postępowaniu karnym skarbowym."
     },
     {
       "provision_ref": "art2",
@@ -25,8 +31,14 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-1947-390",
+      "ref_type": "amended_by"
+    }
+  ]
 }

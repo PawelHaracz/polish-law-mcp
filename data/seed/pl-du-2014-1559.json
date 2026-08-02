@@ -13,32 +13,544 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym ( Dz. U. z 2012 r. poz. 931 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951, z 2013 r. poz. 433, 843, 1543 i 1646 ) wprowadza się następujące zmiany: 1) w art. 37i: a) ust. 1 otrzymuje brzmienie: „ 1. Opłata paliwowa stanowi przychód Krajowego Funduszu Drogowego i Funduszu Kolejowego, o którym mowa w ustawie z dnia 16 grudnia 2005 r. o Funduszu Kolejowym ( Dz. U. z 2014 r. poz. 1201 ) , z tym że kwota stanowiąca 80% opłaty paliwowej stanowi przychód Krajowego Funduszu Drogowego, a kwota stanowiąca 20% tej opłaty - przychód Funduszu Kolejowego. ” , b) ust. 3 otrzymuje brzmienie: „ 3. W latach 2010-2014 przychód Funduszu Kolejowego stanowi kwota, o której mowa w ust. 1, powiększona corocznie o kwotę 100 mln zł, o którą pomniejsza się przychód z opłaty paliwowej Krajowego Funduszu Drogowego w danym roku. ” , c) po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „ 3a. W 2015 r. przychód Funduszu Kolejowego stanowi kwota, o której mowa w ust. 1, powiększona o kwotę 500 mln zł, o którą pomniejsza się przychód z opłaty paliwowej Krajowego Funduszu Drogowego w tym roku. 3b. W latach 2016-2019 przychód Funduszu Kolejowego stanowi kwota, o której mowa w ust. 1, powiększona corocznie o kwotę 400 mln zł, o którą pomniejsza się przychód z opłaty paliwowej Krajowego Funduszu Drogowego w danym roku. ” , d) dodaje się ust. 5 w brzmieniu: „ 5. Sposób i terminy przekazania kwoty 500 mln zł, o której mowa w ust. 3a, oraz kwoty 400 mln zł, o której mowa w ust. 3b, zostaną określone w umowie, o której mowa w art. 12 ustawy z dnia 16 grudnia 2005 r. o Funduszu Kolejowym . ” ; 2) w art. 37k po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. Opłata paliwowa podlega zabezpieczeniu zabezpieczeniem akcyzowym na zasadach określonych w ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym ( Dz. U. z 2014 r. poz. 752 ) , w celu zagwarantowania wykonania powstałego albo mogącego powstać obowiązku jej zapłaty. ” ; oraz z 2014 r. poz. 805 i 1310. 3) w art. 37m: a) po ust. 3 dodaje się ust. 3a w brzmieniu: „ 3a. W latach 2015-2019 stawki opłaty paliwowej, o których mowa w ust. 1, obliczone z uwzględnieniem zasady, o której mowa w ust. 2, są podwyższone odpowiednio o 25,00 zł za 1000 I albo o 25,00 zł za 1000 kg. Kwota 25,00 zł nie podlega podwyższeniu zgodnie z ust. 2. ” , b) dodaje się ust. 5 w brzmieniu: „ 5. Minister właściwy do spraw transportu ogłaszając, zgodnie z ust. 4, stawki opłaty paliwowej na lata 2015-2019, uwzględnia kwotę 25,00 zł, o której mowa w ust. 3a. ” ."
+      "content": "W ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym ) wprowadza się następujące zmiany: w art. 37i: ust. 1 otrzymuje brzmienie: „ Opłata paliwowa stanowi przychód Krajowego Funduszu Drogowego i Funduszu Kolejowego, o którym mowa w ustawie z dnia 16 grudnia 2005 r. o Funduszu Kolejowym , z tym że kwota stanowiąca 80% opłaty paliwowej stanowi przychód Krajowego Funduszu Drogowego, a kwota stanowiąca 20% tej opłaty - przychód Funduszu Kolejowego. ” , ust. 3 otrzymuje brzmienie: „ W latach 2010-2014 przychód Funduszu Kolejowego stanowi kwota, o której mowa w ust. 1, powiększona corocznie o kwotę 100 mln zł, o którą pomniejsza się przychód z opłaty paliwowej Krajowego Funduszu Drogowego w danym roku. ” , po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „ W 2015 r. przychód Funduszu Kolejowego stanowi kwota, o której mowa w ust. 1, powiększona o kwotę 500 mln zł, o którą pomniejsza się przychód z opłaty paliwowej Krajowego Funduszu Drogowego w tym roku. W latach 2016-2019 przychód Funduszu Kolejowego stanowi kwota, o której mowa w ust. 1, powiększona corocznie o kwotę 400 mln zł, o którą pomniejsza się przychód z opłaty paliwowej Krajowego Funduszu Drogowego w danym roku. ” , dodaje się ust. 5 w brzmieniu: „ Sposób i terminy przekazania kwoty 500 mln zł, o której mowa w ust. 3a, oraz kwoty 400 mln zł, o której mowa w ust. 3b, zostaną określone w umowie, o której mowa w art. 12 ustawy z dnia 16 grudnia 2005 r. o Funduszu Kolejowym . ” ; w art. 37k po ust. 1 dodaje się ust. 1a w brzmieniu: „ Opłata paliwowa podlega zabezpieczeniu zabezpieczeniem akcyzowym na zasadach określonych w ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym , w celu zagwarantowania wykonania powstałego albo mogącego powstać obowiązku jej zapłaty. ” ; oraz z 2014 r. poz. 805 i 1310. w art. 37m: po ust. 3 dodaje się ust. 3a w brzmieniu: „ W latach 2015-2019 stawki opłaty paliwowej, o których mowa w ust. 1, obliczone z uwzględnieniem zasady, o której mowa w ust. 2, są podwyższone odpowiednio o 25,00 zł za 1000 I albo o 25,00 zł za 1000 kg. Kwota 25,00 zł nie podlega podwyższeniu zgodnie z ust. 2. ” , dodaje się ust. 5 w brzmieniu: „ Minister właściwy do spraw transportu ogłaszając, zgodnie z ust. 4, stawki opłaty paliwowej na lata 2015-2019, uwzględnia kwotę 25,00 zł, o której mowa w ust. 3a. ” ."
+    },
+    {
+      "provision_ref": "art1p1lau1",
+      "section": "1",
+      "title": "Art. 1 pkt 1 lit. au",
+      "content": "W ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym ) wprowadza się następujące zmiany: w art. 37i: ust. 1 otrzymuje brzmienie: „ Opłata paliwowa stanowi przychód Krajowego Funduszu Drogowego i Funduszu Kolejowego, o którym mowa w ustawie z dnia 16 grudnia 2005 r. o Funduszu Kolejowym , z tym że kwota stanowiąca 80% opłaty paliwowej stanowi przychód Krajowego Funduszu Drogowego, a kwota stanowiąca 20% tej opłaty - przychód Funduszu Kolejowego."
+    },
+    {
+      "provision_ref": "art1p1lbu3",
+      "section": "1",
+      "title": "Art. 1 pkt 1 lit. bu",
+      "content": "W ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym ) wprowadza się następujące zmiany: w art. 37i: ust. 3 otrzymuje brzmienie: „ W latach 2010-2014 przychód Funduszu Kolejowego stanowi kwota, o której mowa w ust. 1, powiększona corocznie o kwotę 100 mln zł, o którą pomniejsza się przychód z opłaty paliwowej Krajowego Funduszu Drogowego w danym roku."
+    },
+    {
+      "provision_ref": "art1p1lcu3a",
+      "section": "1",
+      "title": "Art. 1 pkt 1 lit. cu",
+      "content": "W ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym ) wprowadza się następujące zmiany: w art. 37i: po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „ W 2015 r. przychód Funduszu Kolejowego stanowi kwota, o której mowa w ust. 1, powiększona o kwotę 500 mln zł, o którą pomniejsza się przychód z opłaty paliwowej Krajowego Funduszu Drogowego w tym roku."
+    },
+    {
+      "provision_ref": "art1p1lcu3b",
+      "section": "1",
+      "title": "Art. 1 pkt 1 lit. cu",
+      "content": "W ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym ) wprowadza się następujące zmiany: w art. 37i: po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „ W latach 2016-2019 przychód Funduszu Kolejowego stanowi kwota, o której mowa w ust. 1, powiększona corocznie o kwotę 400 mln zł, o którą pomniejsza się przychód z opłaty paliwowej Krajowego Funduszu Drogowego w danym roku."
+    },
+    {
+      "provision_ref": "art1p1ldu5",
+      "section": "1",
+      "title": "Art. 1 pkt 1 lit. du",
+      "content": "W ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym ) wprowadza się następujące zmiany: w art. 37i: dodaje się ust. 5 w brzmieniu: „ Sposób i terminy przekazania kwoty 500 mln zł, o której mowa w ust. 3a, oraz kwoty 400 mln zł, o której mowa w ust. 3b, zostaną określone w umowie, o której mowa w art. 12 ustawy z dnia 16 grudnia 2005 r. o Funduszu Kolejowym ."
+    },
+    {
+      "provision_ref": "art1p2u1a",
+      "section": "1",
+      "title": "Art. 1 pkt 2 ust. 1a",
+      "content": "W ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym ) wprowadza się następujące zmiany: w art. 37k po ust. 1 dodaje się ust. 1a w brzmieniu: „ Opłata paliwowa podlega zabezpieczeniu zabezpieczeniem akcyzowym na zasadach określonych w ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym , w celu zagwarantowania wykonania powstałego albo mogącego powstać obowiązku jej zapłaty."
+    },
+    {
+      "provision_ref": "art1p3lau3a",
+      "section": "1",
+      "title": "Art. 1 pkt 3 lit. au",
+      "content": "W ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym ) wprowadza się następujące zmiany: w art. 37m: po ust. 3 dodaje się ust. 3a w brzmieniu: „ W latach 2015-2019 stawki opłaty paliwowej, o których mowa w ust. 1, obliczone z uwzględnieniem zasady, o której mowa w ust. 2, są podwyższone odpowiednio o 25,00 zł za 1000 I albo o 25,00 zł za 1000 kg. Kwota 25,00 zł nie podlega podwyższeniu zgodnie z ust. 2."
+    },
+    {
+      "provision_ref": "art1p3lbu5",
+      "section": "1",
+      "title": "Art. 1 pkt 3 lit. bu",
+      "content": "W ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym ) wprowadza się następujące zmiany: w art. 37m: dodaje się ust. 5 w brzmieniu: „ Minister właściwy do spraw transportu ogłaszając, zgodnie z ust. 4, stawki opłaty paliwowej na lata 2015-2019, uwzględnia kwotę 25,00 zł, o której mowa w ust. 3a."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "W ustawie z dnia 16 grudnia 2005 r. o Funduszu Kolejowym ( Dz. U. z 2014 r. poz. 1201 ) wprowadza się następujące zmiany: 1) w art. 5: a) ust. 3 otrzymuje brzmienie: „ 3. W latach 2010-2014 środki, o których mowa w ust. 1 pkt 1, powiększa się corocznie o kwotę 100 mln zł, przekazywaną przez Bank Gospodarstwa Krajowego z bieżących wpływów z opłaty paliwowej. ” , b) dodaje się ust. 4 i 5 w brzmieniu: „ 4. W 2015 r. środki, o których mowa w ust. 1 pkt 1, powiększa się o kwotę 500 mln zł, przekazywaną przez Bank Gospodarstwa Krajowego z bieżących wpływów z opłaty paliwowej. 5. W latach 2016-2019 środki, o których mowa w ust. 1 pkt 1, powiększa się corocznie o kwotę 400 mln zł, przekazywaną przez Bank Gospodarstwa Krajowego z bieżących wpływów z opłaty paliwowej. ” ; 2) w art. 5a dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „ 2. Sposób i terminy przekazywania kwoty 500 mln zł, o której mowa w art. 5 ust. 4, oraz kwoty 400 mln zł, o której mowa w art. 5 ust. 5, zostaną określone w umowie, o której mowa w art. 12. ” ."
+      "content": "W ustawie z dnia 16 grudnia 2005 r. o Funduszu Kolejowym wprowadza się następujące zmiany: w art. 5: ust. 3 otrzymuje brzmienie: „ W latach 2010-2014 środki, o których mowa w ust. 1 pkt 1, powiększa się corocznie o kwotę 100 mln zł, przekazywaną przez Bank Gospodarstwa Krajowego z bieżących wpływów z opłaty paliwowej. ” , dodaje się ust. 4 i 5 w brzmieniu: „ W 2015 r. środki, o których mowa w ust. 1 pkt 1, powiększa się o kwotę 500 mln zł, przekazywaną przez Bank Gospodarstwa Krajowego z bieżących wpływów z opłaty paliwowej. W latach 2016-2019 środki, o których mowa w ust. 1 pkt 1, powiększa się corocznie o kwotę 400 mln zł, przekazywaną przez Bank Gospodarstwa Krajowego z bieżących wpływów z opłaty paliwowej. ” ; w art. 5a dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „ Sposób i terminy przekazywania kwoty 500 mln zł, o której mowa w art. 5 ust. 4, oraz kwoty 400 mln zł, o której mowa w art. 5 ust. 5, zostaną określone w umowie, o której mowa w art. 12. ” ."
+    },
+    {
+      "provision_ref": "art2p1lau3",
+      "section": "2",
+      "title": "Art. 2 pkt 1 lit. au",
+      "content": "W ustawie z dnia 16 grudnia 2005 r. o Funduszu Kolejowym wprowadza się następujące zmiany: w art. 5: ust. 3 otrzymuje brzmienie: „ W latach 2010-2014 środki, o których mowa w ust. 1 pkt 1, powiększa się corocznie o kwotę 100 mln zł, przekazywaną przez Bank Gospodarstwa Krajowego z bieżących wpływów z opłaty paliwowej."
+    },
+    {
+      "provision_ref": "art2p1lbu4",
+      "section": "2",
+      "title": "Art. 2 pkt 1 lit. bu",
+      "content": "W ustawie z dnia 16 grudnia 2005 r. o Funduszu Kolejowym wprowadza się następujące zmiany: w art. 5: dodaje się ust. 4 i 5 w brzmieniu: „ W 2015 r. środki, o których mowa w ust. 1 pkt 1, powiększa się o kwotę 500 mln zł, przekazywaną przez Bank Gospodarstwa Krajowego z bieżących wpływów z opłaty paliwowej."
+    },
+    {
+      "provision_ref": "art2p1lbu5",
+      "section": "2",
+      "title": "Art. 2 pkt 1 lit. bu",
+      "content": "W ustawie z dnia 16 grudnia 2005 r. o Funduszu Kolejowym wprowadza się następujące zmiany: w art. 5: dodaje się ust. 4 i 5 w brzmieniu: „ W latach 2016-2019 środki, o których mowa w ust. 1 pkt 1, powiększa się corocznie o kwotę 400 mln zł, przekazywaną przez Bank Gospodarstwa Krajowego z bieżących wpływów z opłaty paliwowej."
+    },
+    {
+      "provision_ref": "art2p2u2",
+      "section": "2",
+      "title": "Art. 2 pkt 2 ust. 2",
+      "content": "W ustawie z dnia 16 grudnia 2005 r. o Funduszu Kolejowym wprowadza się następujące zmiany: w art. 5a dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „ Sposób i terminy przekazywania kwoty 500 mln zł, o której mowa w art. 5 ust. 4, oraz kwoty 400 mln zł, o której mowa w art. 5 ust. 5, zostaną określone w umowie, o której mowa w art. 12."
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym ( Dz. U. z 2014 r. poz. 752 ) wprowadza się następujące zmiany: 1) w art. 14 ust. 5b otrzymuje brzmienie: „ 5b. W przypadku gdy zobowiązanie podatkowe lub obowiązek zapłaty opłaty paliwowej, o której mowa w art. 37h ust. 1 ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym ( Dz. U. z 2012 r. poz. 931 , z późn. zm. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951, z 2013 r. poz. 433, 843, 1543 i 1646 ) , zwanej dalej „opłatą paliwową”, wygasa na skutek zapłaty tego zobowiązania podatkowego lub tej opłaty paliwowej, organem właściwym do odnotowania zwolnienia zabezpieczenia generalnego z obciążenia jest naczelnik urzędu celnego, któremu podatnik składa deklarację podatkową. ” ; 2) w art. 28 ust. 3 otrzymuje brzmienie: „ 3. Właściwy naczelnik urzędu celnego zabezpiecza kwotę akcyzy oraz kwotę opłaty paliwowej, jeżeli nie zostały one zapłacone, w przypadkach i trybie stosowanym przy zabezpieczaniu należności celnych na podstawie przepisów prawa celnego , z wyjątkiem przypadków, gdy wyrób akcyzowy został objęty procedurą zawieszenia poboru akcyzy i zostało złożone zabezpieczenie akcyzowe. ” ; 3) w art. 41a: a) ust. 6 otrzymuje brzmienie: „ 6. Z chwilą zweryfikowania projektu e-AD, przed przesłaniem e-AD zgodnie z art. 41b ust. 1, następuje automatyczne odnotowanie obciążenia zabezpieczenia generalnego kwotą akcyzy albo kwotą akcyzy oraz opłaty paliwowej, wynikającymi z ilości i rodzaju przemieszczanych wyrobów akcyzowych, albo następuje automatyczne odnotowanie objęcia wyrobów akcyzowych zabezpieczeniem ryczałtowym. ” , b) w ust. 7 pkt 1-3 otrzymują brzmienie: „ 1) przekazać właściwemu naczelnikowi urzędu celnego wraz z dokumentem, o którym mowa w ust. 3 pkt 2, kopię dokumentu potwierdzającego złożenie zabezpieczenia akcyzowego, którym zostanie objęte zobowiązanie podatkowe albo zobowiązanie podatkowe oraz opłata paliwowa, dotyczące przemieszczanych wyrobów; oraz z 2014 r. poz. 805, 1310 i 1559. 2) złożyć właściwemu naczelnikowi urzędu celnego oświadczenie w sprawie zabezpieczenia akcyzowego, którym zostanie objęte zobowiązanie podatkowe albo zobowiązanie podatkowe oraz opłata paliwowa, dotyczące przemieszczanych wyrobów, o terminie ważności i kwocie wolnej zabezpieczenia generalnego lub o wysokości i terminie ważności zabezpieczenia ryczałtowego; 3) złożyć właściwemu naczelnikowi urzędu celnego oświadczenie przewoźnika lub spedytora, który złożył zabezpieczenie generalne, albo podmiotu odbierającego, o wyrażeniu zgody na objęcie zobowiązania podatkowego podmiotu wysyłającego albo zobowiązania podatkowego podmiotu wysyłającego oraz opłaty paliwowej, do której zapłaty może być on obowiązany, ich zabezpieczeniem akcyzowym - w przypadkach, o których mowa w art. 63 ust. 3 pkt 1 i ust. 4. ” ; 4) w art. 41e ust. 8 otrzymuje brzmienie: „ 8. W przypadku braku raportu odbioru albo gdy raport odbioru potwierdza dostarczenie tylko części przemieszczanych wyrobów akcyzowych do podmiotu odbierającego, odnotowanie zwolnienia: 1) zabezpieczenia generalnego z obciążenia, w całości lub w części, jest dokonywane w Systemie przez właściwego naczelnika urzędu celnego, po uzyskaniu przez niego potwierdzenia, że zobowiązanie podatkowe lub obowiązek zapłaty opłaty paliwowej dotyczące przemieszczanych wyrobów w całości lub w części wygasły lub że zobowiązanie podatkowe nie może już powstać; 2) wyrobów z objęcia zabezpieczeniem ryczałtowym jest dokonywane w Systemie przez właściwego naczelnika urzędu celnego, po uzyskaniu przez niego potwierdzenia, że zobowiązanie podatkowe oraz obowiązek zapłaty opłaty paliwowej dotyczące przemieszczanych wyrobów w całości wygasły lub że zobowiązanie podatkowe nie może już powstać. ” ; 5) w art. 50 w ust. 3 pkt 5 otrzymuje brzmienie: „ 5) formę i termin obowiązywania zabezpieczenia akcyzowego, a w przypadku zwolnienia podmiotu występującego z wnioskiem o zezwolenie na prowadzenie składu podatkowego z obowiązku złożenia zabezpieczenia - przewidywaną maksymalną kwotę zobowiązania podatkowego albo przewidywaną maksymalną kwotę zobowiązania podatkowego oraz opłaty paliwowej podlegających zabezpieczeniu akcyzowemu oraz termin ważności zwolnienia z obowiązku złożenia zabezpieczenia akcyzowego. ” ; 6) w art. 52 w ust. 2 pkt 3 otrzymuje brzmienie: „ 3) zabezpieczenie akcyzowe podmiotu prowadzącego skład podatkowy utraciło ważność albo nie zapewnia już pokrycia w terminie lub w należnej wysokości kwoty jego zobowiązania podatkowego albo kwoty zobowiązania podatkowego oraz opłaty paliwowej, do której zapłaty może być on obowiązany, a w przypadku gdy podmiot prowadzący skład podatkowy został zwolniony z obowiązku złożenia zabezpieczenia akcyzowego - jeżeli to zwolnienie utraciło ważność, a podmiot, we właściwym terminie, nie uzyskał nowego zwolnienia lub nie złożył zabezpieczenia akcyzowego w należnej wysokości; ” ; 7) w art. 56 w ust. 12 pkt 3 otrzymuje brzmienie: „ 3) zabezpieczenie akcyzowe podmiotu pośredniczącego utraciło ważność albo nie zapewnia już pokrycia w terminie lub w należnej wysokości kwoty jego zobowiązania podatkowego albo jego zobowiązania podatkowego oraz opłaty paliwowej, do której zapłaty może być on obowiązany; ” ; 8) w art. 63: a) w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Do złożenia zabezpieczenia akcyzowego w kwocie pokrywającej powstałe albo mogące powstać zobowiązanie podatkowe albo powstałe lub mogące powstać zobowiązanie podatkowe oraz opłatę paliwową, której obowiązek zapłaty powstał albo może powstać, są obowiązane następujące podmioty: ” , b) ust. 2 otrzymuje brzmienie: „ 2. Zabezpieczenie akcyzowe może być złożone na czas oznaczony albo nieoznaczony, dla zagwarantowania pokrycia jednego lub wielu zobowiązań podatkowych, albo jednego lub wielu zobowiązań podatkowych oraz jednej lub wielu opłat paliwowych. ” , c) w ust. 3 pkt 1 otrzymuje brzmienie: „ 1) przewoźnika lub spedytora - w przypadku przemieszczania przez nich wyrobów akcyzowych podmiotu obowiązanego do złożenia zabezpieczenia akcyzowego z zastosowaniem procedury zawieszenia poboru akcyzy, dla zagwarantowania pokrycia zobowiązań podatkowych oraz opłaty paliwowej, mogących powstać w stosunku do tych wyrobów akcyzowych, ” , d) ust. 4 i 5 otrzymują brzmienie: „ 4. W przypadku przemieszczania na terytorium kraju wyrobów akcyzowych między składami podatkowymi zobowiązanie podatkowe podmiotu wysyłającego albo jego zobowiązanie podatkowe oraz opłata paliwowa, której obowiązek zapłaty może powstać w stosunku do tych wyrobów akcyzowych, mogą być, na jego wniosek, objęte zabezpieczeniem akcyzowym podmiotu odbierającego, złożonym na terytorium kraju w formach określonych w art. 67 ust. 1 pkt 1-3, za zgodą podmiotu odbierającego. 5. Osoba, która złożyła zabezpieczenie akcyzowe zgodnie z ust. 3 lub której zabezpieczeniem akcyzowym zostały objęte zobowiązanie podatkowe podmiotu wysyłającego albo jego zobowiązanie podatkowe oraz opłata paliwowa, której obowiązek zapłaty może powstać w stosunku do przemieszczanych wyrobów akcyzowych zgodnie z ust. 4, odpowiada całym swoim majątkiem za zobowiązanie podatkowe podmiotu obowiązanego do złożenia zabezpieczenia akcyzowego oraz opłatę paliwową, do której zapłaty jest obowiązany ten podmiot, wraz z odsetkami za zwłokę, solidarnie z tym podmiotem, do wysokości kwoty: 1) złożonego zabezpieczenia akcyzowego - w przypadku, o którym mowa w ust. 3; 2) którą zostało obciążone zabezpieczenie generalne podmiotu odbierającego, lub kwoty zobowiązania podatkowego albo zobowiązania podatkowego oraz opłaty paliwowej objętych zabezpieczeniem ryczałtowym tego podmiotu, wraz z odsetkami za zwłokę - w przypadku, o którym mowa w ust. 4. ” ; 9) w art. 64: a) w ust. 1 pkt 3-5 otrzymują brzmienie: „ 3) jego sytuacja finansowa i posiadany majątek zapewniają wywiązywanie się z zobowiązań podatkowych oraz obowiązku zapłaty opłaty paliwowej; 4) nie posiada zaległości z tytułu cła i podatków stanowiących dochód budżetu państwa, opłaty paliwowej, składek na ubezpieczenia społeczne i zdrowotne oraz nie jest wobec niego prowadzone postępowanie egzekucyjne, likwidacyjne lub upadłościowe, z wyjątkiem postępowania upadłościowego z możliwością zawarcia układu; 5) zobowiązał się do zapłacenia, na pierwsze pisemne żądanie właściwego naczelnika urzędu celnego, kwoty akcyzy oraz kwoty opłaty paliwowej, przypadających do zapłaty z tytułu powstania zobowiązania podatkowego oraz obowiązku zapłaty opłaty paliwowej. ” , b) w ust. 4 zdanie pierwsze otrzymuje brzmienie: „ Wnioski, o których mowa w ust. 3, powinny zawierać dane dotyczące podmiotu i prowadzonej przez niego działalności gospodarczej, w szczególności imię i nazwisko lub nazwę, adres zamieszkania lub siedziby podmiotu, a także określenie przewidywanych maksymalnych kwot zobowiązań podatkowych oraz opłat paliwowych, podlegających zabezpieczeniu akcyzowemu oraz terminu, na jaki zwolnienie ma być udzielone lub przedłużone. ” , c) ust. 10 otrzymuje brzmienie: „ 10. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, sposób dokumentowania spełnienia warunków określonych w ust. 1, w tym rodzaj dokumentów potwierdzających ich spełnienie, wzór wniosków, o których mowa w ust. 3, a także szczegółowy sposób udzielania, przedłużania i cofania zwolnienia, o którym mowa w ust. 1 i 1a, uwzględniając konieczność właściwego zabezpieczenia zobowiązań podatkowych oraz opłaty paliwowej, a także konieczność zapewnienia przepływu informacji o zwolnieniach z obowiązku złożenia zabezpieczenia akcyzowego. ” ; 10) w art. 65: a) w ust. 1 część wspólna otrzymuje brzmienie: „ - składają zabezpieczenie w formie zabezpieczenia generalnego w celu zagwarantowania pokrycia wielu zobowiązań podatkowych albo wielu zobowiązań podatkowych oraz wielu opłat paliwowych. ” , b) w ust. 1a pkt 1 i 2 otrzymują brzmienie: „ 1) podatnika, o którym mowa w art. 78 ust. 1, lub przedstawiciela podatkowego, dla zagwarantowania pokrycia ich zobowiązań podatkowych oraz opłat paliwowych, do których zapłaty mogą być obowiązane te podmioty; 2) przewoźnika lub spedytora, dla zagwarantowania pokrycia zobowiązań podatkowych mogących powstać w stosunku do przemieszczanych przez nich, z zastosowaniem procedury zawieszania poboru akcyzy, wyrobów akcyzowych podmiotów obowiązanych do złożenia zabezpieczenia akcyzowego oraz opłat paliwowych, do których zapłaty mogą być obowiązane te podmioty. ” , c) w ust. 2 pkt 1 i 2 otrzymują brzmienie: „ 1) wysokości zobowiązań podatkowych albo zobowiązań podatkowych oraz opłat paliwowych, gdy ich kwota może zostać dokładnie obliczona przy przyjmowaniu zabezpieczenia; 2) szacunkowej kwocie maksymalnej wynikającej z mogących powstać zobowiązań podatkowych oraz opłat paliwowych, których obowiązek zapłaty może powstać. ” , d) ust. 3-7a otrzymują brzmienie: „ 3. Wysokość zabezpieczenia generalnego składanego przez podmiot pośredniczący ustala się w kwocie równej wysokości maksymalnej kwoty miesięcznego zobowiązania podatkowego mogącego powstać w przypadku użycia wyrobów akcyzowych niezgodnie z przeznaczeniem uprawniającym do zwolnienia od akcyzy lub naruszenia warunków tego zwolnienia oraz maksymalnej kwoty opłaty paliwowej, której obowiązek zapłaty może powstać w stosunku do tych wyrobów. 3a. Wysokość zabezpieczenia generalnego składanego przez podmiot, o którym mowa w ust. 1a, ustala się w kwocie wskazanej przez ten podmiot we wniosku o złożenie zabezpieczenia generalnego, oszacowanej przez ten podmiot na poziomie pozwalającym na pokrycie w każdym czasie zobowiązań podatkowych oraz opłat paliwowych, które mają być objęte tym zabezpieczeniem. 4. Dla ustalenia wysokości zabezpieczenia akcyzowego stosuje się stawki akcyzy oraz stawki opłaty paliwowej, obowiązujące w dniu powstania obowiązku podatkowego, a w przypadku gdy tego dnia nie można ustalić - w dniu złożenia zabezpieczenia; jeżeli jednak stawki akcyzy lub stawki opłaty paliwowej ulegną zmianie w trakcie trwania procedury zawiesz"
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 14 ust. 5b otrzymuje brzmienie: „ W przypadku gdy zobowiązanie podatkowe lub obowiązek zapłaty opłaty paliwowej, o której mowa w art. 37h ust. 1 ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym ) , zwanej dalej „opłatą paliwową”, wygasa na skutek zapłaty tego zobowiązania podatkowego lub tej opłaty paliwowej, organem właściwym do odnotowania zwolnienia zabezpieczenia generalnego z obciążenia jest naczelnik urzędu celnego, któremu podatnik składa deklarację podatkową. ” ; w art. 28 ust. 3 otrzymuje brzmienie: „ Właściwy naczelnik urzędu celnego zabezpiecza kwotę akcyzy oraz kwotę opłaty paliwowej, jeżeli nie zostały one zapłacone, w przypadkach i trybie stosowanym przy zabezpieczaniu należności celnych na podstawie przepisów prawa celnego , z wyjątkiem przypadków, gdy wyrób akcyzowy został objęty procedurą zawieszenia poboru akcyzy i zostało złożone zabezpieczenie akcyzowe. ” ; w art. 41a: ust. 6 otrzymuje brzmienie: „ Z chwilą zweryfikowania projektu e-AD, przed przesłaniem e-AD zgodnie z art. 41b ust. 1, następuje automatyczne odnotowanie obciążenia zabezpieczenia generalnego kwotą akcyzy albo kwotą akcyzy oraz opłaty paliwowej, wynikającymi z ilości i rodzaju przemieszczanych wyrobów akcyzowych, albo następuje automatyczne odnotowanie objęcia wyrobów akcyzowych zabezpieczeniem ryczałtowym. ” , w ust. 7 pkt 1-3 otrzymują brzmienie: „ przekazać właściwemu naczelnikowi urzędu celnego wraz z dokumentem, o którym mowa w ust. 3 pkt 2, kopię dokumentu potwierdzającego złożenie zabezpieczenia akcyzowego, którym zostanie objęte zobowiązanie podatkowe albo zobowiązanie podatkowe oraz opłata paliwowa, dotyczące przemieszczanych wyrobów; oraz z 2014 r. poz. 805, 1310 i 1559. złożyć właściwemu naczelnikowi urzędu celnego oświadczenie w sprawie zabezpieczenia akcyzowego, którym zostanie objęte zobowiązanie podatkowe albo zobowiązanie podatkowe oraz opłata paliwowa, dotyczące przemieszczanych wyrobów, o terminie ważności i kwocie wolnej zabezpieczenia generalnego lub o wysokości i terminie ważności zabezpieczenia ryczałtowego; złożyć właściwemu naczelnikowi urzędu celnego oświadczenie przewoźnika lub spedytora, który złożył zabezpieczenie generalne, albo podmiotu odbierającego, o wyrażeniu zgody na objęcie zobowiązania podatkowego podmiotu wysyłającego albo zobowiązania podatkowego podmiotu wysyłającego oraz opłaty paliwowej, do której zapłaty może być on obowiązany, ich zabezpieczeniem akcyzowym - w przypadkach, o których mowa w art. 63 ust. 3 pkt 1 i ust. 4. ” ; w art. 41e ust. 8 otrzymuje brzmienie: „ W przypadku braku raportu odbioru albo gdy raport odbioru potwierdza dostarczenie tylko części przemieszczanych wyrobów akcyzowych do podmiotu odbierającego, odnotowanie zwolnienia: zabezpieczenia generalnego z obciążenia, w całości lub w części, jest dokonywane w Systemie przez właściwego naczelnika urzędu celnego, po uzyskaniu przez niego potwierdzenia, że zobowiązanie podatkowe lub obowiązek zapłaty opłaty paliwowej dotyczące przemieszczanych wyrobów w całości lub w części wygasły lub że zobowiązanie podatkowe nie może już powstać; wyrobów z objęcia zabezpieczeniem ryczałtowym jest dokonywane w Systemie przez właściwego naczelnika urzędu celnego, po uzyskaniu przez niego potwierdzenia, że zobowiązanie podatkowe oraz obowiązek zapłaty opłaty paliwowej dotyczące przemieszczanych wyrobów w całości wygasły lub że zobowiązanie podatkowe nie może już powstać. ” ; w art. 50 w ust. 3 pkt 5 otrzymuje brzmienie: „ formę i termin obowiązywania zabezpieczenia akcyzowego, a w przypadku zwolnienia podmiotu występującego z wnioskiem o zezwolenie na prowadzenie składu podatkowego z obowiązku złożenia zabezpieczenia - przewidywaną maksymalną kwotę zobowiązania podatkowego albo przewidywaną maksymalną kwotę zobowiązania podatkowego oraz opłaty paliwowej podlegających zabezpieczeniu akcyzowemu oraz termin ważności zwolnienia z obowiązku złożenia zabezpieczenia akcyzowego. ” ; w art. 52 w ust. 2 pkt 3 otrzymuje brzmienie: „ zabezpieczenie akcyzowe podmiotu prowadzącego skład podatkowy utraciło ważność albo nie zapewnia już pokrycia w terminie lub w należnej wysokości kwoty jego zobowiązania podatkowego albo kwoty zobowiązania podatkowego oraz opłaty paliwowej, do której zapłaty może być on obowiązany, a w przypadku gdy podmiot prowadzący skład podatkowy został zwolniony z obowiązku złożenia zabezpieczenia akcyzowego - jeżeli to zwolnienie utraciło ważność, a podmiot, we właściwym terminie, nie uzyskał nowego zwolnienia lub nie złożył zabezpieczenia akcyzowego w należnej wysokości; ” ; w art. 56 w ust. 12 pkt 3 otrzymuje brzmienie: „ zabezpieczenie akcyzowe podmiotu pośredniczącego utraciło ważność albo nie zapewnia już pokrycia w terminie lub w należnej wysokości kwoty jego zobowiązania podatkowego albo jego zobowiązania podatkowego oraz opłaty paliwowej, do której zapłaty może być on obowiązany; ” ; w art. 63: w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Do złożenia zabezpieczenia akcyzowego w kwocie pokrywającej powstałe albo mogące powstać zobowiązanie podatkowe albo powstałe lub mogące powstać zobowiązanie podatkowe oraz opłatę paliwową, której obowiązek zapłaty powstał albo może powstać, są obowiązane następujące podmioty: ” , ust. 2 otrzymuje brzmienie: „ Zabezpieczenie akcyzowe może być złożone na czas oznaczony albo nieoznaczony, dla zagwarantowania pokrycia jednego lub wielu zobowiązań podatkowych, albo jednego lub wielu zobowiązań podatkowych oraz jednej lub wielu opłat paliwowych. ” , w ust. 3 pkt 1 otrzymuje brzmienie: „ przewoźnika lub spedytora - w przypadku przemieszczania przez nich wyrobów akcyzowych podmiotu obowiązanego do złożenia zabezpieczenia akcyzowego z zastosowaniem procedury zawieszenia poboru akcyzy, dla zagwarantowania pokrycia zobowiązań podatkowych oraz opłaty paliwowej, mogących powstać w stosunku do tych wyrobów akcyzowych, ” , ust. 4 i 5 otrzymują brzmienie: „ W przypadku przemieszczania na terytorium kraju wyrobów akcyzowych między składami podatkowymi zobowiązanie podatkowe podmiotu wysyłającego albo jego zobowiązanie podatkowe oraz opłata paliwowa, której obowiązek zapłaty może powstać w stosunku do tych wyrobów akcyzowych, mogą być, na jego wniosek, objęte zabezpieczeniem akcyzowym podmiotu odbierającego, złożonym na terytorium kraju w formach określonych w art. 67 ust. 1 pkt 1-3, za zgodą podmiotu odbierającego. Osoba, która złożyła zabezpieczenie akcyzowe zgodnie z ust. 3 lub której zabezpieczeniem akcyzowym zostały objęte zobowiązanie podatkowe podmiotu wysyłającego albo jego zobowiązanie podatkowe oraz opłata paliwowa, której obowiązek zapłaty może powstać w stosunku do przemieszczanych wyrobów akcyzowych zgodnie z ust. 4, odpowiada całym swoim majątkiem za zobowiązanie podatkowe podmiotu obowiązanego do złożenia zabezpieczenia akcyzowego oraz opłatę paliwową, do której zapłaty jest obowiązany ten podmiot, wraz z odsetkami za zwłokę, solidarnie z tym podmiotem, do wysokości kwoty: złożonego zabezpieczenia akcyzowego - w przypadku, o którym mowa w ust. 3; którą zostało obciążone zabezpieczenie generalne podmiotu odbierającego, lub kwoty zobowiązania podatkowego albo zobowiązania podatkowego oraz opłaty paliwowej objętych zabezpieczeniem ryczałtowym tego podmiotu, wraz z odsetkami za zwłokę - w przypadku, o którym mowa w ust. 4. ” ; w art. 64: w ust. 1 pkt 3-5 otrzymują brzmienie: „ jego sytuacja finansowa i posiadany majątek zapewniają wywiązywanie się z zobowiązań podatkowych oraz obowiązku zapłaty opłaty paliwowej; nie posiada zaległości z tytułu cła i podatków stanowiących dochód budżetu państwa, opłaty paliwowej, składek na ubezpieczenia społeczne i zdrowotne oraz nie jest wobec niego prowadzone postępowanie egzekucyjne, likwidacyjne lub upadłościowe, z wyjątkiem postępowania upadłościowego z możliwością zawarcia układu; zobowiązał się do zapłacenia, na pierwsze pisemne żądanie właściwego naczelnika urzędu celnego, kwoty akcyzy oraz kwoty opłaty paliwowej, przypadających do zapłaty z tytułu powstania zobowiązania podatkowego oraz obowiązku zapłaty opłaty paliwowej. ” , w ust. 4 zdanie pierwsze otrzymuje brzmienie: „ Wnioski, o których mowa w ust. 3, powinny zawierać dane dotyczące podmiotu i prowadzonej przez niego działalności gospodarczej, w szczególności imię i nazwisko lub nazwę, adres zamieszkania lub siedziby podmiotu, a także określenie przewidywanych maksymalnych kwot zobowiązań podatkowych oraz opłat paliwowych, podlegających zabezpieczeniu akcyzowemu oraz terminu, na jaki zwolnienie ma być udzielone lub przedłużone. ” , ust. 10 otrzymuje brzmienie: „ Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, sposób dokumentowania spełnienia warunków określonych w ust. 1, w tym rodzaj dokumentów potwierdzających ich spełnienie, wzór wniosków, o których mowa w ust. 3, a także szczegółowy sposób udzielania, przedłużania i cofania zwolnienia, o którym mowa w ust. 1 i 1a, uwzględniając konieczność właściwego zabezpieczenia zobowiązań podatkowych oraz opłaty paliwowej, a także konieczność zapewnienia przepływu informacji o zwolnieniach z obowiązku złożenia zabezpieczenia akcyzowego. ” ; w art. 65: w ust. 1 część wspólna otrzymuje brzmienie: „ - składają zabezpieczenie w formie zabezpieczenia generalnego w celu zagwarantowania pokrycia wielu zobowiązań podatkowych albo wielu zobowiązań podatkowych oraz wielu opłat paliwowych. ” , w ust. 1a pkt 1 i 2 otrzymują brzmienie: „ podatnika, o którym mowa w art. 78 ust. 1, lub przedstawiciela podatkowego, dla zagwarantowania pokrycia ich zobowiązań podatkowych oraz opłat paliwowych, do których zapłaty mogą być obowiązane te podmioty; przewoźnika lub spedytora, dla zagwarantowania pokrycia zobowiązań podatkowych mogących powstać w stosunku do przemieszczanych przez nich, z zastosowaniem procedury zawieszania poboru akcyzy, wyrobów akcyzowych podmiotów obowiązanych do złożenia zabezpieczenia akcyzowego oraz opłat paliwowych, do których zapłaty mogą być obowiązane te podmioty. ” , w ust. 2 pkt 1 i 2 otrzymują brzmienie: „ wysokości zobowiązań podatkowych albo zobowiązań podatkowych oraz opłat paliwowych, gdy ich kwota może zostać dokładnie obliczona przy przyjmowaniu zabezpieczenia; szacunkowej kwocie maksymalnej wynikającej z mogących powstać zobowiązań podatkowych oraz opłat paliwowych, których obowiązek zapłaty może powstać. ” , ust. 3-7a otrzymują brzmienie: „ Wysokość zabezpieczenia generalnego składanego przez podmiot pośredniczący ustala się w kwocie równej wysokości maksymalnej kwoty miesięcznego zobowiązania podatkowego mogącego powstać w przypadku użycia wyrobów akcyzowych niezgodnie z przeznaczeniem uprawniającym do zwolnienia od akcyzy lub naruszenia warunków tego zwolnienia oraz maksymalnej kwoty opłaty paliwowej, której obowiązek zapłaty może powstać w stosunku do tych wyrobów. Wysokość zabezpieczenia generalnego składanego przez podmiot, o którym mowa w ust. 1a, ustala się w kwocie wskazanej przez ten podmiot we wniosku o złożenie zabezpieczenia generalnego, oszacowanej przez ten podmiot na poziomie pozwalającym na pokrycie w każdym czasie zobowiązań podatkowych oraz opłat paliwowych, które mają być objęte tym zabezpieczeniem. Dla ustalenia wysokości zabezpieczenia akcyzowego stosuje się stawki akcyzy oraz stawki opłaty paliwowej, obowiązujące w dniu powstania obowiązku podatkowego, a w przypadku gdy tego dnia nie można ustalić - w dniu złożenia zabezpieczenia; jeżeli jednak stawki akcyzy lub stawki opłaty paliwowej ulegną zmianie w trakcie trwania procedury zawieszenia poboru akcyzy, właściwy naczelnik urzędu celnego koryguje wysokość zabezpieczenia akcyzowego i powiadamia o tym podmiot, który złożył zabezpieczenie. W przypadku gdy jest przyjmowane zabezpieczenie generalne dla zagwarantowania pokrycia zobowiązań podatkowych albo zobowiązań podatkowych oraz opłat paliwowych, których wysokość może ulec zmianie z upływem czasu, podmioty, o których mowa w ust. 1 lub 1a, są obowiązane wstępnie oszacować wysokość takiego zabezpieczenia na poziomie pozwalającym na pokrycie w każdym czasie tych zobowiązań podatkowych oraz opłat paliwowych. Podmiot pośredniczący jest obowiązany aktualizować wysokość zabezpieczenia generalnego w sposób zapewniający pokrycie mogących powstać w każdym czasie jego zobowiązań podatkowych oraz opłat paliwowych, do których zapłaty może być obowiązany. Dokonanie czynności lub zaistnienie stanu faktycznego, powodujących powstanie obowiązku podatkowego, wymaga odnotowania obciążenia zabezpieczenia generalnego kwotą powstałego lub mogącego powstać zobowiązania podatkowego albo kwotą zobowiązania podatkowego oraz opłaty paliwowej, której obowiązek zapłaty powstał lub może powstać, po uprzednim ustaleniu stanu jego wykorzystania. Z zastrzeżeniem art. 41a ust. 6, obciążenie zabezpieczenia generalnego kwotą powstałego lub mogącego powstać zobowiązania podatkowego albo kwotą zobowiązania podatkowego oraz opłaty paliwowej, której obowiązek zapłaty powstał lub może powstać, i jego zwolnienie z obciążenia w przypadkach, o których mowa: w ust. 1 pkt 1-3 i 5 oraz ust. 1a - odnotowuje właściwy naczelnik urzędu celnego; w ust. 1 pkt 4 - odnotowuje podmiot pośredniczący. ” , po ust. 7a dodaje się ust. 7b w brzmieniu: „ Obciążenie zabezpieczenia generalnego kwotą powstałego lub mogącego powstać zobowiązania podatkowego albo kwotą zobowiązania podatkowego oraz opłaty paliwowej, której obowiązek zapłaty powstał lub może powstać, a także jego zwolnienie z obciążenia, w przypadkach gdy to obciążenie lub zwolnienie nie jest odnotowywane z wykorzystaniem Systemu, może odnotowywać podmiot określony w ust. 1 pkt 1-3 i 5, pod warunkiem że sposób odnotowywania obciążania zabezpieczenia generalnego oraz zwalniania go z tego obciążenia zapewnia możliwość ustalenia w każdym czasie stanu wykorzystania tego zabezpieczenia oraz został uzgodniony na piśmie z właściwym naczelnikiem urzędu celnego. ” , ust. 8 otrzymuje brzmienie: „ Na wniosek podmiotu określonego w ust. 1, który spełnia warunki określone w art. 64 ust. 1 pkt 1, 3 i 4, właściwy naczelnik urzędu celnego wyraża zgodę na złożenie zabezpieczenia ryczałtowego dla zabezpieczenia wykonania jego zobowiązań podatkowych albo wykonania jego zobowiązań podatkowych oraz obowiązku zapłaty opłaty paliwowej przez ten podmiot. Przepisy art. 64 ust. 3-5, 8 i 9 oraz przepisy wydane na podstawie art. 64 ust. 10 dotyczące sposobu dokumentowania spełnienia warunków określonych w art. 64 ust. 1, w tym rodzaju dokumentów potwierdzających ich spełnienie, stosuje się odpowiednio. ” ; w art. 66: w ust. 1: - w pkt 3 lit. a otrzymuje brzmienie: „ sposób ustalania stanu wykorzystania zabezpieczenia generalnego oraz odnotowywania jego obciążenia i zwolnienia z obciążenia kwotą powstałego lub mogącego powstać zobowiązania podatkowego oraz opłaty paliwowej, której obowiązek zapłaty powstał lub może powstać, ” , - część wspólna otrzymuje brzmienie: „ - uwzględniając konieczność właściwego zabezpieczenia należności akcyzowych oraz opłaty paliwowej. ” , ust. 2 otrzymuje brzmienie: „ Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia: inne niż określone w art. 63 ust. 4 przypadki, w których zobowiązania podatkowe podmiotów, o których mowa w art. 63 ust. 1, oraz opłaty paliwowe, do których zapłaty są lub mogą być obowiązane te podmioty, mogą być, na ich wniosek, objęte zabezpieczeniem akcyzowym osoby trzeciej, za zgodą tej osoby, inne niż określone w art. 65 ust. 8 przypadki, w których może być złożone zabezpieczenie ryczałtowe, przypadki, w których stosuje się dla niektórych wyrobów akcyzowych niższy poziom zabezpieczenia akcyzowego niż określony w ustawie, oraz określić ten poziom, szczegółowe warunki odnotowywania przez podmiot, o którym mowa w art. 65 ust. 7b, obciążenia zabezpieczenia generalnego kwotą powstałego lub mogącego powstać zobowiązania podatkowego albo kwotą zobowiązania podatkowego oraz opłaty paliwowej, a także zwalniania go z tego obciążenia, szczegółowy sposób odnotowywania przez podmiot, o którym mowa w art. 65 ust. 7b, obciążenia zabezpieczenia generalnego kwotą powstałego lub mogącego powstać zobowiązania podatkowego albo kwotą zobowiązania podatkowego oraz opłaty paliwowej, a także zwalniania go z tego obciążenia, przypadki, w których nie odnotowuje się obciążenia zabezpieczenia generalnego kwotą powstałego lub mogącego powstać zobowiązania podatkowego albo kwotą powstałego lub mogącego powstać zobowiązania podatkowego oraz kwotą opłaty paliwowej, której obowiązek zapłaty powstał lub może powstać - uwzględniając konieczność właściwego zabezpieczenia należności akcyzowych oraz opłaty paliwowej, zapewnienia sprawnego stosowania zabezpieczeń akcyzowych, a także uproszczenia obrotu wyrobami akcyzowymi. ” ; w art. 67 w ust. 3 część wspólna otrzymuje brzmienie: „ - uwzględniając konieczność właściwego zabezpieczenia wykonania zobowiązań podatkowych w akcyzie oraz obowiązku zapłaty opłaty paliwowej. ” ; w art. 69 ust. 1 i 2 otrzymują brzmienie: „ Gwarant powinien zobowiązać się na piśmie do zapłacenia, solidarnie z podatnikiem, jego następcami prawnymi oraz osobą, której udzielił gwarancji bankowej lub ubezpieczeniowej, złożonej przez tę osobę jako zabezpieczenie akcyzowe zamiast podmiotu obowiązanego do złożenia zabezpieczenia akcyzowego lub łącznie z nim, bezwarunkowo i nieodwołalnie, na każde wezwanie właściwego naczelnika urzędu celnego, zabezpieczonej kwoty zobowiązania podatkowego, zabezpieczonej kwoty opłaty paliwowej, albo obu tych kwot, wraz z odsetkami za zwłokę, jeżeli ich zapłacenie stanie się wymagalne. Gwarant odpowiada całym swoim majątkiem, solidarnie z podatnikiem, jego następcami prawnymi oraz osobą, której udzielił gwarancji bankowej lub ubezpieczeniowej, złożonej przez tę osobę jako zabezpieczenie akcyzowe zamiast podmiotu obowiązanego do złożenia zabezpieczenia akcyzowego lub łącznie z nim, za zobowiązanie podatkowe objęte gwarancją do czasu jego wygaśnięcia oraz za opłatę paliwową objętą gwarancją do czasu wygaśnięcia obowiązku jej zapłaty, wraz z odsetkami za zwłokę - do wysokości kwoty gwarancji. ” ; art. 71 otrzymuje brzmienie: „ Właściwy naczelnik urzędu celnego odmawia przyjęcia zabezpieczenia akcyzowego, jeżeli stwierdzi, że nie zapewni ono pokrycia w należnej wysokości kwoty zobowiązania podatkowego albo kwoty zobowiązania podatkowego oraz kwoty opłaty paliwowej. Właściwy naczelnik urzędu celnego odmawia przyjęcia zabezpieczenia akcyzowego z określonym terminem ważności, jeżeli nie zabezpiecza ono w sposób skuteczny pokrycia w terminie kwoty zobowiązania podatkowego albo kwoty zobowiązania podatkowego oraz kwoty opłaty paliwowej. ” ; w art. 72 ust. 1 otrzymuje brzmienie: „ Jeżeli właściwy naczelnik urzędu celnego stwierdzi, że złożone zabezpieczenie akcyzowe nie zapewnia pokrycia w należnej wysokości lub w terminie kwoty zobowiązania podatkowego albo kwoty zobowiązania podatkowego oraz opłaty paliwowej, jest obowiązany zażądać przedłużenia zabezpieczenia, złożenia dodatkowego lub nowego zabezpieczenia akcyzowego. ” ; w art. 73: ust. 1 i 1a otrzymują brzmienie: „ Jeżeli określona lub zadeklarowana kwota akcyzy lub kwota opłaty paliwowej nie zostały zapłacone w terminie, organ podatkowy pokrywa je ze złożonego zabezpieczenia akcyzowego. Organ podatkowy nie pokrywa kwoty akcyzy lub kwoty opłaty paliwowej, o których mowa w ust. 1, z zabezpieczenia akcyzowego podmiotu, o którym mowa w art. 63 ust. 3, w przypadku, o którym mowa w art. 42 ust. 1 pkt 4, jeżeli podmiot ten nie został poinformowany lub nie mógł być poinformowany o nieotrzymaniu przez podmiot wysyłający raportu odbioru albo dokumentu zastępującego raport odbioru bądź raportu wywozu albo dokumentu zastępującego raport wywozu i, w terminie miesiąca od dnia przekazania mu informacji o tym fakcie przez organ podatkowy, przedstawi dowód, że przemieszczanie wyrobów akcyzowych z zastosowaniem procedury zawieszenia poboru akcyzy zakończyło się zgodnie z art. 41a ust. 2, lub dowód potwierdzający miejsce wystąpienia nieprawidłowości na terytorium państwa członkowskiego. ” , po ust. 1a dodaje się ust. 1b w brzmieniu: „ Jeżeli kwota zabezpieczenia akcyzowego nie pokrywa w całości, kwoty akcyzy i kwoty opłaty paliwowej, wraz z odsetkami: z części zabezpieczenia akcyzowego, której wysokość została ustalona dla pokrycia akcyzy - w pierwszej kolejności pokrywa się kwotę akcyzy wraz z odsetkami; z części zabezpieczenia akcyzowego, której wysokość została ustalona dla pokrycia opłaty paliwowej - w pierwszej kolejności pokrywa się kwotę opłaty paliwowej wraz z odsetkami. ” , ust. 2 i 3 otrzymują brzmienie: „ Jeżeli w celu pokrycia kwoty akcyzy lub kwoty opłaty paliwowej niezapłaconych w terminie wymagana jest sprzedaż, w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. - Kodeks cywilny , praw z dokumentów mających wartość płatniczą złożonych jako zabezpieczenie akcyzowe, do sprzedaży stosuje się przepisy ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji ) . W przypadku, o którym mowa w ust. 1, należne odsetki za zwłokę od zaległości podatkowej są naliczane do dnia pokrycia kwoty akcyzy lub kwoty opłaty paliwowej. ” ; w art. 74: ust. 1 otrzymuje brzmienie: „ Zabezpieczenie akcyzowe nie może zostać zwrócone, dopóki nie wygasną lub nie będą mogły już powstać zobowiązanie podatkowe oraz obowiązek zapłaty opłaty paliwowej. ” , ust. 3-5 otrzymują brzmienie: „ Jeżeli zobowiązanie podatkowe lub obowiązek zapłaty opłaty paliwowej wygaśnie częściowo lub nie może już powstać do części zabezpieczonej kwoty, złożone zabezpieczenie zostaje niezwłocznie częściowo zwrócone podmiotowi, który je złożył, na jego wniosek. Jeżeli zobowiązanie podatkowe oraz obowiązek zapłaty opłaty paliwowej wygaśnie lub nie może już powstać, zabezpieczenie akcyzowe zostaje zwrócone na wniosek podmiotu, który je złożył, w terminie 7 dni. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowe warunki i tryb zwrotu zabezpieczenia akcyzowego, uwzględniając konieczność zabezpieczenia wykonania zobowiązań podatkowych w akcyzie oraz obowiązku zapłaty opłaty paliwowej. ” ; w art. 89 po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „ W latach 2015-2019 stawki akcyzy, o których mowa w ust. 1 pkt 2, 6, 8, 12 lit. a i c oraz pkt 14, są obniżone odpowiednio o 25,00 zł/1000 litrów, 25,00 zł/1000 kilogramów albo o 0,50 zł/1 gigadżul (GJ). oraz z 2014 r. poz. 379, 567, 897 i 1188. Minister właściwy do spraw finansów publicznych ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, stawki akcyzy, o których mowa w ust. 1 pkt 2, 6, 8, 12 lit. a i c oraz pkt 14, obowiązujące w poszczególnych latach kalendarzowych okresu, o którym mowa w ust. 1a, uwzględniając kwoty ich obniżenia zgodnie z ust. 1a: w terminie do dnia 31 grudnia roku kalendarzowego poprzedzającego każdy rok z tego okresu; niezwłocznie - w przypadku zmiany ich wysokości. ” ."
+    },
+    {
+      "provision_ref": "art3p1u5b",
+      "section": "3",
+      "title": "Art. 3 pkt 1 ust. 5b",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 14 ust. 5b otrzymuje brzmienie: „ W przypadku gdy zobowiązanie podatkowe lub obowiązek zapłaty opłaty paliwowej, o której mowa w art. 37h ust. 1 ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym ) , zwanej dalej „opłatą paliwową”, wygasa na skutek zapłaty tego zobowiązania podatkowego lub tej opłaty paliwowej, organem właściwym do odnotowania zwolnienia zabezpieczenia generalnego z obciążenia jest naczelnik urzędu celnego, któremu podatnik składa deklarację podatkową."
+    },
+    {
+      "provision_ref": "art3p2u3",
+      "section": "3",
+      "title": "Art. 3 pkt 2 ust. 3",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 28 ust. 3 otrzymuje brzmienie: „ Właściwy naczelnik urzędu celnego zabezpiecza kwotę akcyzy oraz kwotę opłaty paliwowej, jeżeli nie zostały one zapłacone, w przypadkach i trybie stosowanym przy zabezpieczaniu należności celnych na podstawie przepisów prawa celnego , z wyjątkiem przypadków, gdy wyrób akcyzowy został objęty procedurą zawieszenia poboru akcyzy i zostało złożone zabezpieczenie akcyzowe."
+    },
+    {
+      "provision_ref": "art3p3lau6",
+      "section": "3",
+      "title": "Art. 3 pkt 3 lit. au",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 41a: ust. 6 otrzymuje brzmienie: „ Z chwilą zweryfikowania projektu e-AD, przed przesłaniem e-AD zgodnie z art. 41b ust. 1, następuje automatyczne odnotowanie obciążenia zabezpieczenia generalnego kwotą akcyzy albo kwotą akcyzy oraz opłaty paliwowej, wynikającymi z ilości i rodzaju przemieszczanych wyrobów akcyzowych, albo następuje automatyczne odnotowanie objęcia wyrobów akcyzowych zabezpieczeniem ryczałtowym."
+    },
+    {
+      "provision_ref": "art3p3lbp1",
+      "section": "3",
+      "title": "Art. 3 pkt 3 lit. bp",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 41a: w ust. 7 pkt 1-3 otrzymują brzmienie: „ przekazać właściwemu naczelnikowi urzędu celnego wraz z dokumentem, o którym mowa w ust. 3 pkt 2, kopię dokumentu potwierdzającego złożenie zabezpieczenia akcyzowego, którym zostanie objęte zobowiązanie podatkowe albo zobowiązanie podatkowe oraz opłata paliwowa, dotyczące przemieszczanych wyrobów;"
+    },
+    {
+      "provision_ref": "art3p3lbp2",
+      "section": "3",
+      "title": "Art. 3 pkt 3 lit. bp",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 41a: w ust. 7 pkt 1-3 otrzymują brzmienie: „ złożyć właściwemu naczelnikowi urzędu celnego oświadczenie w sprawie zabezpieczenia akcyzowego, którym zostanie objęte zobowiązanie podatkowe albo zobowiązanie podatkowe oraz opłata paliwowa, dotyczące przemieszczanych wyrobów, o terminie ważności i kwocie wolnej zabezpieczenia generalnego lub o wysokości i terminie ważności zabezpieczenia ryczałtowego;"
+    },
+    {
+      "provision_ref": "art3p3lbp3",
+      "section": "3",
+      "title": "Art. 3 pkt 3 lit. bp",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 41a: w ust. 7 pkt 1-3 otrzymują brzmienie: „ złożyć właściwemu naczelnikowi urzędu celnego oświadczenie przewoźnika lub spedytora, który złożył zabezpieczenie generalne, albo podmiotu odbierającego, o wyrażeniu zgody na objęcie zobowiązania podatkowego podmiotu wysyłającego albo zobowiązania podatkowego podmiotu wysyłającego oraz opłaty paliwowej, do której zapłaty może być on obowiązany, ich zabezpieczeniem akcyzowym - w przypadkach, o których mowa w art. 63 ust. 3 pkt 1 i ust. 4."
+    },
+    {
+      "provision_ref": "art3p4u8p1",
+      "section": "3",
+      "title": "Art. 3 pkt 4 ust. 8 pkt 1",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 41e ust. 8 otrzymuje brzmienie: „ W przypadku braku raportu odbioru albo gdy raport odbioru potwierdza dostarczenie tylko części przemieszczanych wyrobów akcyzowych do podmiotu odbierającego, odnotowanie zwolnienia: zabezpieczenia generalnego z obciążenia, w całości lub w części, jest dokonywane w Systemie przez właściwego naczelnika urzędu celnego, po uzyskaniu przez niego potwierdzenia, że zobowiązanie podatkowe lub obowiązek zapłaty opłaty paliwowej dotyczące przemieszczanych wyrobów w całości lub w części wygasły lub że zobowiązanie podatkowe nie może już powstać;"
+    },
+    {
+      "provision_ref": "art3p4u8p2",
+      "section": "3",
+      "title": "Art. 3 pkt 4 ust. 8 pkt 2",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 41e ust. 8 otrzymuje brzmienie: „ W przypadku braku raportu odbioru albo gdy raport odbioru potwierdza dostarczenie tylko części przemieszczanych wyrobów akcyzowych do podmiotu odbierającego, odnotowanie zwolnienia: wyrobów z objęcia zabezpieczeniem ryczałtowym jest dokonywane w Systemie przez właściwego naczelnika urzędu celnego, po uzyskaniu przez niego potwierdzenia, że zobowiązanie podatkowe oraz obowiązek zapłaty opłaty paliwowej dotyczące przemieszczanych wyrobów w całości wygasły lub że zobowiązanie podatkowe nie może już powstać."
+    },
+    {
+      "provision_ref": "art3p5p5",
+      "section": "3",
+      "title": "Art. 3 pkt 5 pkt 5",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 50 w ust. 3 pkt 5 otrzymuje brzmienie: „ formę i termin obowiązywania zabezpieczenia akcyzowego, a w przypadku zwolnienia podmiotu występującego z wnioskiem o zezwolenie na prowadzenie składu podatkowego z obowiązku złożenia zabezpieczenia - przewidywaną maksymalną kwotę zobowiązania podatkowego albo przewidywaną maksymalną kwotę zobowiązania podatkowego oraz opłaty paliwowej podlegających zabezpieczeniu akcyzowemu oraz termin ważności zwolnienia z obowiązku złożenia zabezpieczenia akcyzowego."
+    },
+    {
+      "provision_ref": "art3p6p3",
+      "section": "3",
+      "title": "Art. 3 pkt 6 pkt 3",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 52 w ust. 2 pkt 3 otrzymuje brzmienie: „ zabezpieczenie akcyzowe podmiotu prowadzącego skład podatkowy utraciło ważność albo nie zapewnia już pokrycia w terminie lub w należnej wysokości kwoty jego zobowiązania podatkowego albo kwoty zobowiązania podatkowego oraz opłaty paliwowej, do której zapłaty może być on obowiązany, a w przypadku gdy podmiot prowadzący skład podatkowy został zwolniony z obowiązku złożenia zabezpieczenia akcyzowego - jeżeli to zwolnienie utraciło ważność, a podmiot, we właściwym terminie, nie uzyskał nowego zwolnienia lub nie złożył zabezpieczenia akcyzowego w należnej wysokości;"
+    },
+    {
+      "provision_ref": "art3p7p3",
+      "section": "3",
+      "title": "Art. 3 pkt 7 pkt 3",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 56 w ust. 12 pkt 3 otrzymuje brzmienie: „ zabezpieczenie akcyzowe podmiotu pośredniczącego utraciło ważność albo nie zapewnia już pokrycia w terminie lub w należnej wysokości kwoty jego zobowiązania podatkowego albo jego zobowiązania podatkowego oraz opłaty paliwowej, do której zapłaty może być on obowiązany;"
+    },
+    {
+      "provision_ref": "art3p8la",
+      "section": "3",
+      "title": "Art. 3 pkt 8 lit. a",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 63: w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Do złożenia zabezpieczenia akcyzowego w kwocie pokrywającej powstałe albo mogące powstać zobowiązanie podatkowe albo powstałe lub mogące powstać zobowiązanie podatkowe oraz opłatę paliwową, której obowiązek zapłaty powstał albo może powstać, są obowiązane następujące podmioty: ” ,"
+    },
+    {
+      "provision_ref": "art3p8lbu2",
+      "section": "3",
+      "title": "Art. 3 pkt 8 lit. bu",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 63: ust. 2 otrzymuje brzmienie: „ Zabezpieczenie akcyzowe może być złożone na czas oznaczony albo nieoznaczony, dla zagwarantowania pokrycia jednego lub wielu zobowiązań podatkowych, albo jednego lub wielu zobowiązań podatkowych oraz jednej lub wielu opłat paliwowych."
+    },
+    {
+      "provision_ref": "art3p8lcp1",
+      "section": "3",
+      "title": "Art. 3 pkt 8 lit. cp",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 63: w ust. 3 pkt 1 otrzymuje brzmienie: „ przewoźnika lub spedytora - w przypadku przemieszczania przez nich wyrobów akcyzowych podmiotu obowiązanego do złożenia zabezpieczenia akcyzowego z zastosowaniem procedury zawieszenia poboru akcyzy, dla zagwarantowania pokrycia zobowiązań podatkowych oraz opłaty paliwowej, mogących powstać w stosunku do tych wyrobów akcyzowych,"
+    },
+    {
+      "provision_ref": "art3p8ldu4",
+      "section": "3",
+      "title": "Art. 3 pkt 8 lit. du",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 63: ust. 4 i 5 otrzymują brzmienie: „ W przypadku przemieszczania na terytorium kraju wyrobów akcyzowych między składami podatkowymi zobowiązanie podatkowe podmiotu wysyłającego albo jego zobowiązanie podatkowe oraz opłata paliwowa, której obowiązek zapłaty może powstać w stosunku do tych wyrobów akcyzowych, mogą być, na jego wniosek, objęte zabezpieczeniem akcyzowym podmiotu odbierającego, złożonym na terytorium kraju w formach określonych w art. 67 ust. 1 pkt 1-3, za zgodą podmiotu odbierającego."
+    },
+    {
+      "provision_ref": "art3p8ldu5p1",
+      "section": "3",
+      "title": "Art. 3 pkt 8 lit. du",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 63: ust. 4 i 5 otrzymują brzmienie: „ Osoba, która złożyła zabezpieczenie akcyzowe zgodnie z ust. 3 lub której zabezpieczeniem akcyzowym zostały objęte zobowiązanie podatkowe podmiotu wysyłającego albo jego zobowiązanie podatkowe oraz opłata paliwowa, której obowiązek zapłaty może powstać w stosunku do przemieszczanych wyrobów akcyzowych zgodnie z ust. 4, odpowiada całym swoim majątkiem za zobowiązanie podatkowe podmiotu obowiązanego do złożenia zabezpieczenia akcyzowego oraz opłatę paliwową, do której zapłaty jest obowiązany ten podmiot, wraz z odsetkami za zwłokę, solidarnie z tym podmiotem, do wysokości kwoty: złożonego zabezpieczenia akcyzowego - w przypadku, o którym mowa w ust. 3;"
+    },
+    {
+      "provision_ref": "art3p8ldu5p2",
+      "section": "3",
+      "title": "Art. 3 pkt 8 lit. du",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 63: ust. 4 i 5 otrzymują brzmienie: „ Osoba, która złożyła zabezpieczenie akcyzowe zgodnie z ust. 3 lub której zabezpieczeniem akcyzowym zostały objęte zobowiązanie podatkowe podmiotu wysyłającego albo jego zobowiązanie podatkowe oraz opłata paliwowa, której obowiązek zapłaty może powstać w stosunku do przemieszczanych wyrobów akcyzowych zgodnie z ust. 4, odpowiada całym swoim majątkiem za zobowiązanie podatkowe podmiotu obowiązanego do złożenia zabezpieczenia akcyzowego oraz opłatę paliwową, do której zapłaty jest obowiązany ten podmiot, wraz z odsetkami za zwłokę, solidarnie z tym podmiotem, do wysokości kwoty: którą zostało obciążone zabezpieczenie generalne podmiotu odbierającego, lub kwoty zobowiązania podatkowego albo zobowiązania podatkowego oraz opłaty paliwowej objętych zabezpieczeniem ryczałtowym tego podmiotu, wraz z odsetkami za zwłokę - w przypadku, o którym mowa w ust. 4."
+    },
+    {
+      "provision_ref": "art3p9lap3",
+      "section": "3",
+      "title": "Art. 3 pkt 9 lit. ap",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 64: w ust. 1 pkt 3-5 otrzymują brzmienie: „ jego sytuacja finansowa i posiadany majątek zapewniają wywiązywanie się z zobowiązań podatkowych oraz obowiązku zapłaty opłaty paliwowej;"
+    },
+    {
+      "provision_ref": "art3p9lap4",
+      "section": "3",
+      "title": "Art. 3 pkt 9 lit. ap",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 64: w ust. 1 pkt 3-5 otrzymują brzmienie: „ nie posiada zaległości z tytułu cła i podatków stanowiących dochód budżetu państwa, opłaty paliwowej, składek na ubezpieczenia społeczne i zdrowotne oraz nie jest wobec niego prowadzone postępowanie egzekucyjne, likwidacyjne lub upadłościowe, z wyjątkiem postępowania upadłościowego z możliwością zawarcia układu;"
+    },
+    {
+      "provision_ref": "art3p9lap5",
+      "section": "3",
+      "title": "Art. 3 pkt 9 lit. ap",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 64: w ust. 1 pkt 3-5 otrzymują brzmienie: „ zobowiązał się do zapłacenia, na pierwsze pisemne żądanie właściwego naczelnika urzędu celnego, kwoty akcyzy oraz kwoty opłaty paliwowej, przypadających do zapłaty z tytułu powstania zobowiązania podatkowego oraz obowiązku zapłaty opłaty paliwowej."
+    },
+    {
+      "provision_ref": "art3p9lb",
+      "section": "3",
+      "title": "Art. 3 pkt 9 lit. b",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 64: w ust. 4 zdanie pierwsze otrzymuje brzmienie: „ Wnioski, o których mowa w ust. 3, powinny zawierać dane dotyczące podmiotu i prowadzonej przez niego działalności gospodarczej, w szczególności imię i nazwisko lub nazwę, adres zamieszkania lub siedziby podmiotu, a także określenie przewidywanych maksymalnych kwot zobowiązań podatkowych oraz opłat paliwowych, podlegających zabezpieczeniu akcyzowemu oraz terminu, na jaki zwolnienie ma być udzielone lub przedłużone. ” ,"
+    },
+    {
+      "provision_ref": "art3p9lcu10",
+      "section": "3",
+      "title": "Art. 3 pkt 9 lit. cu",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 64: ust. 10 otrzymuje brzmienie: „ Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, sposób dokumentowania spełnienia warunków określonych w ust. 1, w tym rodzaj dokumentów potwierdzających ich spełnienie, wzór wniosków, o których mowa w ust. 3, a także szczegółowy sposób udzielania, przedłużania i cofania zwolnienia, o którym mowa w ust. 1 i 1a, uwzględniając konieczność właściwego zabezpieczenia zobowiązań podatkowych oraz opłaty paliwowej, a także konieczność zapewnienia przepływu informacji o zwolnieniach z obowiązku złożenia zabezpieczenia akcyzowego."
+    },
+    {
+      "provision_ref": "art3p10la",
+      "section": "3",
+      "title": "Art. 3 pkt 10 lit. a",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 65: w ust. 1 część wspólna otrzymuje brzmienie: „ - składają zabezpieczenie w formie zabezpieczenia generalnego w celu zagwarantowania pokrycia wielu zobowiązań podatkowych albo wielu zobowiązań podatkowych oraz wielu opłat paliwowych. ” ,"
+    },
+    {
+      "provision_ref": "art3p10lbp1",
+      "section": "3",
+      "title": "Art. 3 pkt 10 lit. bp",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 65: w ust. 1a pkt 1 i 2 otrzymują brzmienie: „ podatnika, o którym mowa w art. 78 ust. 1, lub przedstawiciela podatkowego, dla zagwarantowania pokrycia ich zobowiązań podatkowych oraz opłat paliwowych, do których zapłaty mogą być obowiązane te podmioty;"
+    },
+    {
+      "provision_ref": "art3p10lbp2",
+      "section": "3",
+      "title": "Art. 3 pkt 10 lit. bp",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 65: w ust. 1a pkt 1 i 2 otrzymują brzmienie: „ przewoźnika lub spedytora, dla zagwarantowania pokrycia zobowiązań podatkowych mogących powstać w stosunku do przemieszczanych przez nich, z zastosowaniem procedury zawieszania poboru akcyzy, wyrobów akcyzowych podmiotów obowiązanych do złożenia zabezpieczenia akcyzowego oraz opłat paliwowych, do których zapłaty mogą być obowiązane te podmioty."
+    },
+    {
+      "provision_ref": "art3p10lcp1",
+      "section": "3",
+      "title": "Art. 3 pkt 10 lit. cp",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 65: w ust. 2 pkt 1 i 2 otrzymują brzmienie: „ wysokości zobowiązań podatkowych albo zobowiązań podatkowych oraz opłat paliwowych, gdy ich kwota może zostać dokładnie obliczona przy przyjmowaniu zabezpieczenia;"
+    },
+    {
+      "provision_ref": "art3p10lcp2",
+      "section": "3",
+      "title": "Art. 3 pkt 10 lit. cp",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 65: w ust. 2 pkt 1 i 2 otrzymują brzmienie: „ szacunkowej kwocie maksymalnej wynikającej z mogących powstać zobowiązań podatkowych oraz opłat paliwowych, których obowiązek zapłaty może powstać."
+    },
+    {
+      "provision_ref": "art3p10ldu3",
+      "section": "3",
+      "title": "Art. 3 pkt 10 lit. du",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 65: ust. 3-7a otrzymują brzmienie: „ Wysokość zabezpieczenia generalnego składanego przez podmiot pośredniczący ustala się w kwocie równej wysokości maksymalnej kwoty miesięcznego zobowiązania podatkowego mogącego powstać w przypadku użycia wyrobów akcyzowych niezgodnie z przeznaczeniem uprawniającym do zwolnienia od akcyzy lub naruszenia warunków tego zwolnienia oraz maksymalnej kwoty opłaty paliwowej, której obowiązek zapłaty może powstać w stosunku do tych wyrobów."
+    },
+    {
+      "provision_ref": "art3p10ldu3a",
+      "section": "3",
+      "title": "Art. 3 pkt 10 lit. du",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 65: ust. 3-7a otrzymują brzmienie: „ Wysokość zabezpieczenia generalnego składanego przez podmiot, o którym mowa w ust. 1a, ustala się w kwocie wskazanej przez ten podmiot we wniosku o złożenie zabezpieczenia generalnego, oszacowanej przez ten podmiot na poziomie pozwalającym na pokrycie w każdym czasie zobowiązań podatkowych oraz opłat paliwowych, które mają być objęte tym zabezpieczeniem."
+    },
+    {
+      "provision_ref": "art3p10ldu4",
+      "section": "3",
+      "title": "Art. 3 pkt 10 lit. du",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 65: ust. 3-7a otrzymują brzmienie: „ Dla ustalenia wysokości zabezpieczenia akcyzowego stosuje się stawki akcyzy oraz stawki opłaty paliwowej, obowiązujące w dniu powstania obowiązku podatkowego, a w przypadku gdy tego dnia nie można ustalić - w dniu złożenia zabezpieczenia; jeżeli jednak stawki akcyzy lub stawki opłaty paliwowej ulegną zmianie w trakcie trwania procedury zawieszenia poboru akcyzy, właściwy naczelnik urzędu celnego koryguje wysokość zabezpieczenia akcyzowego i powiadamia o tym podmiot, który złożył zabezpieczenie."
+    },
+    {
+      "provision_ref": "art3p10ldu5",
+      "section": "3",
+      "title": "Art. 3 pkt 10 lit. du",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 65: ust. 3-7a otrzymują brzmienie: „ W przypadku gdy jest przyjmowane zabezpieczenie generalne dla zagwarantowania pokrycia zobowiązań podatkowych albo zobowiązań podatkowych oraz opłat paliwowych, których wysokość może ulec zmianie z upływem czasu, podmioty, o których mowa w ust. 1 lub 1a, są obowiązane wstępnie oszacować wysokość takiego zabezpieczenia na poziomie pozwalającym na pokrycie w każdym czasie tych zobowiązań podatkowych oraz opłat paliwowych."
+    },
+    {
+      "provision_ref": "art3p10ldu6",
+      "section": "3",
+      "title": "Art. 3 pkt 10 lit. du",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 65: ust. 3-7a otrzymują brzmienie: „ Podmiot pośredniczący jest obowiązany aktualizować wysokość zabezpieczenia generalnego w sposób zapewniający pokrycie mogących powstać w każdym czasie jego zobowiązań podatkowych oraz opłat paliwowych, do których zapłaty może być obowiązany."
+    },
+    {
+      "provision_ref": "art3p10ldu7",
+      "section": "3",
+      "title": "Art. 3 pkt 10 lit. du",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 65: ust. 3-7a otrzymują brzmienie: „ Dokonanie czynności lub zaistnienie stanu faktycznego, powodujących powstanie obowiązku podatkowego, wymaga odnotowania obciążenia zabezpieczenia generalnego kwotą powstałego lub mogącego powstać zobowiązania podatkowego albo kwotą zobowiązania podatkowego oraz opłaty paliwowej, której obowiązek zapłaty powstał lub może powstać, po uprzednim ustaleniu stanu jego wykorzystania."
+    },
+    {
+      "provision_ref": "art3p10ldu7ap1",
+      "section": "3",
+      "title": "Art. 3 pkt 10 lit. du",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 65: ust. 3-7a otrzymują brzmienie: „ Z zastrzeżeniem art. 41a ust. 6, obciążenie zabezpieczenia generalnego kwotą powstałego lub mogącego powstać zobowiązania podatkowego albo kwotą zobowiązania podatkowego oraz opłaty paliwowej, której obowiązek zapłaty powstał lub może powstać, i jego zwolnienie z obciążenia w przypadkach, o których mowa: w ust. 1 pkt 1-3 i 5 oraz ust. 1a - odnotowuje właściwy naczelnik urzędu celnego;"
+    },
+    {
+      "provision_ref": "art3p10ldu7ap2",
+      "section": "3",
+      "title": "Art. 3 pkt 10 lit. du",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 65: ust. 3-7a otrzymują brzmienie: „ Z zastrzeżeniem art. 41a ust. 6, obciążenie zabezpieczenia generalnego kwotą powstałego lub mogącego powstać zobowiązania podatkowego albo kwotą zobowiązania podatkowego oraz opłaty paliwowej, której obowiązek zapłaty powstał lub może powstać, i jego zwolnienie z obciążenia w przypadkach, o których mowa: w ust. 1 pkt 4 - odnotowuje podmiot pośredniczący."
+    },
+    {
+      "provision_ref": "art3p10leu7b",
+      "section": "3",
+      "title": "Art. 3 pkt 10 lit. eu",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 65: po ust. 7a dodaje się ust. 7b w brzmieniu: „ Obciążenie zabezpieczenia generalnego kwotą powstałego lub mogącego powstać zobowiązania podatkowego albo kwotą zobowiązania podatkowego oraz opłaty paliwowej, której obowiązek zapłaty powstał lub może powstać, a także jego zwolnienie z obciążenia, w przypadkach gdy to obciążenie lub zwolnienie nie jest odnotowywane z wykorzystaniem Systemu, może odnotowywać podmiot określony w ust. 1 pkt 1-3 i 5, pod warunkiem że sposób odnotowywania obciążania zabezpieczenia generalnego oraz zwalniania go z tego obciążenia zapewnia możliwość ustalenia w każdym czasie stanu wykorzystania tego zabezpieczenia oraz został uzgodniony na piśmie z właściwym naczelnikiem urzędu celnego."
+    },
+    {
+      "provision_ref": "art3p10lfu8",
+      "section": "3",
+      "title": "Art. 3 pkt 10 lit. fu",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 65: ust. 8 otrzymuje brzmienie: „ Na wniosek podmiotu określonego w ust. 1, który spełnia warunki określone w art. 64 ust. 1 pkt 1, 3 i 4, właściwy naczelnik urzędu celnego wyraża zgodę na złożenie zabezpieczenia ryczałtowego dla zabezpieczenia wykonania jego zobowiązań podatkowych albo wykonania jego zobowiązań podatkowych oraz obowiązku zapłaty opłaty paliwowej przez ten podmiot. Przepisy art. 64 ust. 3-5, 8 i 9 oraz przepisy wydane na podstawie art. 64 ust. 10 dotyczące sposobu dokumentowania spełnienia warunków określonych w art. 64 ust. 1, w tym rodzaju dokumentów potwierdzających ich spełnienie, stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "art3p11lala",
+      "section": "3",
+      "title": "Art. 3 pkt 11 lit. ala",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 66: w ust. 1: - w pkt 3 lit. a otrzymuje brzmienie: „ sposób ustalania stanu wykorzystania zabezpieczenia generalnego oraz odnotowywania jego obciążenia i zwolnienia z obciążenia kwotą powstałego lub mogącego powstać zobowiązania podatkowego oraz opłaty paliwowej, której obowiązek zapłaty powstał lub może powstać,"
+    },
+    {
+      "provision_ref": "art3p11lbu2p1",
+      "section": "3",
+      "title": "Art. 3 pkt 11 lit. bu",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 66: ust. 2 otrzymuje brzmienie: „ Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia: inne niż określone w art. 63 ust. 4 przypadki, w których zobowiązania podatkowe podmiotów, o których mowa w art. 63 ust. 1, oraz opłaty paliwowe, do których zapłaty są lub mogą być obowiązane te podmioty, mogą być, na ich wniosek, objęte zabezpieczeniem akcyzowym osoby trzeciej, za zgodą tej osoby,"
+    },
+    {
+      "provision_ref": "art3p11lbu2p2",
+      "section": "3",
+      "title": "Art. 3 pkt 11 lit. bu",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 66: ust. 2 otrzymuje brzmienie: „ Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia: inne niż określone w art. 65 ust. 8 przypadki, w których może być złożone zabezpieczenie ryczałtowe,"
+    },
+    {
+      "provision_ref": "art3p11lbu2p3",
+      "section": "3",
+      "title": "Art. 3 pkt 11 lit. bu",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 66: ust. 2 otrzymuje brzmienie: „ Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia: przypadki, w których stosuje się dla niektórych wyrobów akcyzowych niższy poziom zabezpieczenia akcyzowego niż określony w ustawie, oraz określić ten poziom,"
+    },
+    {
+      "provision_ref": "art3p11lbu2p4",
+      "section": "3",
+      "title": "Art. 3 pkt 11 lit. bu",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 66: ust. 2 otrzymuje brzmienie: „ Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia: szczegółowe warunki odnotowywania przez podmiot, o którym mowa w art. 65 ust. 7b, obciążenia zabezpieczenia generalnego kwotą powstałego lub mogącego powstać zobowiązania podatkowego albo kwotą zobowiązania podatkowego oraz opłaty paliwowej, a także zwalniania go z tego obciążenia,"
+    },
+    {
+      "provision_ref": "art3p11lbu2p5",
+      "section": "3",
+      "title": "Art. 3 pkt 11 lit. bu",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 66: ust. 2 otrzymuje brzmienie: „ Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia: szczegółowy sposób odnotowywania przez podmiot, o którym mowa w art. 65 ust. 7b, obciążenia zabezpieczenia generalnego kwotą powstałego lub mogącego powstać zobowiązania podatkowego albo kwotą zobowiązania podatkowego oraz opłaty paliwowej, a także zwalniania go z tego obciążenia,"
+    },
+    {
+      "provision_ref": "art3p11lbu2p6",
+      "section": "3",
+      "title": "Art. 3 pkt 11 lit. bu",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 66: ust. 2 otrzymuje brzmienie: „ Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia: przypadki, w których nie odnotowuje się obciążenia zabezpieczenia generalnego kwotą powstałego lub mogącego powstać zobowiązania podatkowego albo kwotą powstałego lub mogącego powstać zobowiązania podatkowego oraz kwotą opłaty paliwowej, której obowiązek zapłaty powstał lub może powstać"
+    },
+    {
+      "provision_ref": "art3p12",
+      "section": "3",
+      "title": "Art. 3 pkt 12",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 67 w ust. 3 część wspólna otrzymuje brzmienie: „ - uwzględniając konieczność właściwego zabezpieczenia wykonania zobowiązań podatkowych w akcyzie oraz obowiązku zapłaty opłaty paliwowej. ” ;"
+    },
+    {
+      "provision_ref": "art3p13u1",
+      "section": "3",
+      "title": "Art. 3 pkt 13 ust. 1",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 69 ust. 1 i 2 otrzymują brzmienie: „ Gwarant powinien zobowiązać się na piśmie do zapłacenia, solidarnie z podatnikiem, jego następcami prawnymi oraz osobą, której udzielił gwarancji bankowej lub ubezpieczeniowej, złożonej przez tę osobę jako zabezpieczenie akcyzowe zamiast podmiotu obowiązanego do złożenia zabezpieczenia akcyzowego lub łącznie z nim, bezwarunkowo i nieodwołalnie, na każde wezwanie właściwego naczelnika urzędu celnego, zabezpieczonej kwoty zobowiązania podatkowego, zabezpieczonej kwoty opłaty paliwowej, albo obu tych kwot, wraz z odsetkami za zwłokę, jeżeli ich zapłacenie stanie się wymagalne."
+    },
+    {
+      "provision_ref": "art3p13u2",
+      "section": "3",
+      "title": "Art. 3 pkt 13 ust. 2",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 69 ust. 1 i 2 otrzymują brzmienie: „ Gwarant odpowiada całym swoim majątkiem, solidarnie z podatnikiem, jego następcami prawnymi oraz osobą, której udzielił gwarancji bankowej lub ubezpieczeniowej, złożonej przez tę osobę jako zabezpieczenie akcyzowe zamiast podmiotu obowiązanego do złożenia zabezpieczenia akcyzowego lub łącznie z nim, za zobowiązanie podatkowe objęte gwarancją do czasu jego wygaśnięcia oraz za opłatę paliwową objętą gwarancją do czasu wygaśnięcia obowiązku jej zapłaty, wraz z odsetkami za zwłokę - do wysokości kwoty gwarancji."
+    },
+    {
+      "provision_ref": "art3p14u1",
+      "section": "3",
+      "title": "Art. 3 pkt 14 ust. 1",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: art. 71 otrzymuje brzmienie: „ Właściwy naczelnik urzędu celnego odmawia przyjęcia zabezpieczenia akcyzowego, jeżeli stwierdzi, że nie zapewni ono pokrycia w należnej wysokości kwoty zobowiązania podatkowego albo kwoty zobowiązania podatkowego oraz kwoty opłaty paliwowej."
+    },
+    {
+      "provision_ref": "art3p14u2",
+      "section": "3",
+      "title": "Art. 3 pkt 14 ust. 2",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: art. 71 otrzymuje brzmienie: „ Właściwy naczelnik urzędu celnego odmawia przyjęcia zabezpieczenia akcyzowego z określonym terminem ważności, jeżeli nie zabezpiecza ono w sposób skuteczny pokrycia w terminie kwoty zobowiązania podatkowego albo kwoty zobowiązania podatkowego oraz kwoty opłaty paliwowej."
+    },
+    {
+      "provision_ref": "art3p15u1",
+      "section": "3",
+      "title": "Art. 3 pkt 15 ust. 1",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 72 ust. 1 otrzymuje brzmienie: „ Jeżeli właściwy naczelnik urzędu celnego stwierdzi, że złożone zabezpieczenie akcyzowe nie zapewnia pokrycia w należnej wysokości lub w terminie kwoty zobowiązania podatkowego albo kwoty zobowiązania podatkowego oraz opłaty paliwowej, jest obowiązany zażądać przedłużenia zabezpieczenia, złożenia dodatkowego lub nowego zabezpieczenia akcyzowego."
+    },
+    {
+      "provision_ref": "art3p16lau1",
+      "section": "3",
+      "title": "Art. 3 pkt 16 lit. au",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 73: ust. 1 i 1a otrzymują brzmienie: „ Jeżeli określona lub zadeklarowana kwota akcyzy lub kwota opłaty paliwowej nie zostały zapłacone w terminie, organ podatkowy pokrywa je ze złożonego zabezpieczenia akcyzowego."
+    },
+    {
+      "provision_ref": "art3p16lau1a",
+      "section": "3",
+      "title": "Art. 3 pkt 16 lit. au",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 73: ust. 1 i 1a otrzymują brzmienie: „ Organ podatkowy nie pokrywa kwoty akcyzy lub kwoty opłaty paliwowej, o których mowa w ust. 1, z zabezpieczenia akcyzowego podmiotu, o którym mowa w art. 63 ust. 3, w przypadku, o którym mowa w art. 42 ust. 1 pkt 4, jeżeli podmiot ten nie został poinformowany lub nie mógł być poinformowany o nieotrzymaniu przez podmiot wysyłający raportu odbioru albo dokumentu zastępującego raport odbioru bądź raportu wywozu albo dokumentu zastępującego raport wywozu i, w terminie miesiąca od dnia przekazania mu informacji o tym fakcie przez organ podatkowy, przedstawi dowód, że przemieszczanie wyrobów akcyzowych z zastosowaniem procedury zawieszenia poboru akcyzy zakończyło się zgodnie z art. 41a ust. 2, lub dowód potwierdzający miejsce wystąpienia nieprawidłowości na terytorium państwa członkowskiego."
+    },
+    {
+      "provision_ref": "art3p16lbu1bp1",
+      "section": "3",
+      "title": "Art. 3 pkt 16 lit. bu",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 73: po ust. 1a dodaje się ust. 1b w brzmieniu: „ Jeżeli kwota zabezpieczenia akcyzowego nie pokrywa w całości, kwoty akcyzy i kwoty opłaty paliwowej, wraz z odsetkami: z części zabezpieczenia akcyzowego, której wysokość została ustalona dla pokrycia akcyzy - w pierwszej kolejności pokrywa się kwotę akcyzy wraz z odsetkami;"
+    },
+    {
+      "provision_ref": "art3p16lbu1bp2",
+      "section": "3",
+      "title": "Art. 3 pkt 16 lit. bu",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 73: po ust. 1a dodaje się ust. 1b w brzmieniu: „ Jeżeli kwota zabezpieczenia akcyzowego nie pokrywa w całości, kwoty akcyzy i kwoty opłaty paliwowej, wraz z odsetkami: z części zabezpieczenia akcyzowego, której wysokość została ustalona dla pokrycia opłaty paliwowej - w pierwszej kolejności pokrywa się kwotę opłaty paliwowej wraz z odsetkami."
+    },
+    {
+      "provision_ref": "art3p16lcu2",
+      "section": "3",
+      "title": "Art. 3 pkt 16 lit. cu",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 73: ust. 2 i 3 otrzymują brzmienie: „ Jeżeli w celu pokrycia kwoty akcyzy lub kwoty opłaty paliwowej niezapłaconych w terminie wymagana jest sprzedaż, w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. - Kodeks cywilny , praw z dokumentów mających wartość płatniczą złożonych jako zabezpieczenie akcyzowe, do sprzedaży stosuje się przepisy ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji ) ."
+    },
+    {
+      "provision_ref": "art3p16lcu3",
+      "section": "3",
+      "title": "Art. 3 pkt 16 lit. cu",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 73: ust. 2 i 3 otrzymują brzmienie: „ W przypadku, o którym mowa w ust. 1, należne odsetki za zwłokę od zaległości podatkowej są naliczane do dnia pokrycia kwoty akcyzy lub kwoty opłaty paliwowej."
+    },
+    {
+      "provision_ref": "art3p17lau1",
+      "section": "3",
+      "title": "Art. 3 pkt 17 lit. au",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 74: ust. 1 otrzymuje brzmienie: „ Zabezpieczenie akcyzowe nie może zostać zwrócone, dopóki nie wygasną lub nie będą mogły już powstać zobowiązanie podatkowe oraz obowiązek zapłaty opłaty paliwowej."
+    },
+    {
+      "provision_ref": "art3p17lbu3",
+      "section": "3",
+      "title": "Art. 3 pkt 17 lit. bu",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 74: ust. 3-5 otrzymują brzmienie: „ Jeżeli zobowiązanie podatkowe lub obowiązek zapłaty opłaty paliwowej wygaśnie częściowo lub nie może już powstać do części zabezpieczonej kwoty, złożone zabezpieczenie zostaje niezwłocznie częściowo zwrócone podmiotowi, który je złożył, na jego wniosek."
+    },
+    {
+      "provision_ref": "art3p17lbu4",
+      "section": "3",
+      "title": "Art. 3 pkt 17 lit. bu",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 74: ust. 3-5 otrzymują brzmienie: „ Jeżeli zobowiązanie podatkowe oraz obowiązek zapłaty opłaty paliwowej wygaśnie lub nie może już powstać, zabezpieczenie akcyzowe zostaje zwrócone na wniosek podmiotu, który je złożył, w terminie 7 dni."
+    },
+    {
+      "provision_ref": "art3p17lbu5",
+      "section": "3",
+      "title": "Art. 3 pkt 17 lit. bu",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 74: ust. 3-5 otrzymują brzmienie: „ Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowe warunki i tryb zwrotu zabezpieczenia akcyzowego, uwzględniając konieczność zabezpieczenia wykonania zobowiązań podatkowych w akcyzie oraz obowiązku zapłaty opłaty paliwowej."
+    },
+    {
+      "provision_ref": "art3p18u1a",
+      "section": "3",
+      "title": "Art. 3 pkt 18 ust. 1a",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 89 po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „ W latach 2015-2019 stawki akcyzy, o których mowa w ust. 1 pkt 2, 6, 8, 12 lit. a i c oraz pkt 14, są obniżone odpowiednio o 25,00 zł/1000 litrów, 25,00 zł/1000 kilogramów albo o 0,50 zł/1 gigadżul (GJ). oraz z 2014 r. poz. 379, 567, 897 i 1188."
+    },
+    {
+      "provision_ref": "art3p18u1bp1",
+      "section": "3",
+      "title": "Art. 3 pkt 18 ust. 1b pkt 1",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 89 po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „ Minister właściwy do spraw finansów publicznych ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, stawki akcyzy, o których mowa w ust. 1 pkt 2, 6, 8, 12 lit. a i c oraz pkt 14, obowiązujące w poszczególnych latach kalendarzowych okresu, o którym mowa w ust. 1a, uwzględniając kwoty ich obniżenia zgodnie z ust. 1a: w terminie do dnia 31 grudnia roku kalendarzowego poprzedzającego każdy rok z tego okresu;"
+    },
+    {
+      "provision_ref": "art3p18u1bp2",
+      "section": "3",
+      "title": "Art. 3 pkt 18 ust. 1b pkt 2",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym wprowadza się następujące zmiany: w art. 89 po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „ Minister właściwy do spraw finansów publicznych ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, stawki akcyzy, o których mowa w ust. 1 pkt 2, 6, 8, 12 lit. a i c oraz pkt 14, obowiązujące w poszczególnych latach kalendarzowych okresu, o którym mowa w ust. 1a, uwzględniając kwoty ich obniżenia zgodnie z ust. 1a: niezwłocznie - w przypadku zmiany ich wysokości."
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "1. Jeżeli czynności lub stany faktyczne, które spowodowały lub mogły spowodować powstanie obowiązku zapłaty opłaty paliwowej, o którym mowa w art. 37k ust. 1 ustawy zmienianej w art. 1, zostały dokonane lub powstały przed dniem wejścia w życie niniejszej ustawy, art. 37k ust. 1a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie stosuje się. 2. Podmioty, które złożyły zabezpieczenie akcyzowe, o którym mowa w ustawie zmienianej w art. 3, w należnej wysokości przed dniem wejścia w życie niniejszej ustawy, są zwolnione z obowiązku zabezpieczenia opłaty paliwowej, o którym mowa w art. 37k ust. 1a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, do dnia: 1) wygaśnięcia lub utraty ważności złożonego zabezpieczenia akcyzowego, 2) złożenia nowego lub dodatkowego zabezpieczenia akcyzowego, 3) przedłużenia złożonego zabezpieczenia akcyzowego lub jego ważności - nie dłużej jednak niż do dnia 31 grudnia 2015 r. 3. Podmioty, którym udzielono zwolnienia z obowiązku złożenia zabezpieczenia akcyzowego, o którym mowa w art. 64 ustawy zmienianej w art. 3, przed dniem wejścia w życie niniejszej ustawy, są zwolnione z obowiązku zabezpieczenia opłaty paliwowej, o którym mowa w art. 37k ust. 1a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, do dnia wygaśnięcia tego zwolnienia. 4. Zwolnienie z obowiązku złożenia zabezpieczenia akcyzowego udzielone przed dniem wejścia w życie niniejszej ustawy podmiotom zwolnionym z obowiązku zabezpieczenia opłaty paliwowej na podstawie ust. 3, nie może ulec przedłużeniu."
+      "content": "Jeżeli czynności lub stany faktyczne, które spowodowały lub mogły spowodować powstanie obowiązku zapłaty opłaty paliwowej, o którym mowa w art. 37k ust. 1 ustawy zmienianej w art. 1, zostały dokonane lub powstały przed dniem wejścia w życie niniejszej ustawy, art. 37k ust. 1a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie stosuje się. Podmioty, które złożyły zabezpieczenie akcyzowe, o którym mowa w ustawie zmienianej w art. 3, w należnej wysokości przed dniem wejścia w życie niniejszej ustawy, są zwolnione z obowiązku zabezpieczenia opłaty paliwowej, o którym mowa w art. 37k ust. 1a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, do dnia: wygaśnięcia lub utraty ważności złożonego zabezpieczenia akcyzowego, złożenia nowego lub dodatkowego zabezpieczenia akcyzowego, przedłużenia złożonego zabezpieczenia akcyzowego lub jego ważności - nie dłużej jednak niż do dnia 31 grudnia 2015 r. Podmioty, którym udzielono zwolnienia z obowiązku złożenia zabezpieczenia akcyzowego, o którym mowa w art. 64 ustawy zmienianej w art. 3, przed dniem wejścia w życie niniejszej ustawy, są zwolnione z obowiązku zabezpieczenia opłaty paliwowej, o którym mowa w art. 37k ust. 1a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, do dnia wygaśnięcia tego zwolnienia. Zwolnienie z obowiązku złożenia zabezpieczenia akcyzowego udzielone przed dniem wejścia w życie niniejszej ustawy podmiotom zwolnionym z obowiązku zabezpieczenia opłaty paliwowej na podstawie ust. 3, nie może ulec przedłużeniu."
+    },
+    {
+      "provision_ref": "art4u1",
+      "section": "4",
+      "title": "Art. 4 ust. 1",
+      "content": "Jeżeli czynności lub stany faktyczne, które spowodowały lub mogły spowodować powstanie obowiązku zapłaty opłaty paliwowej, o którym mowa w art. 37k ust. 1 ustawy zmienianej w art. 1, zostały dokonane lub powstały przed dniem wejścia w życie niniejszej ustawy, art. 37k ust. 1a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie stosuje się."
+    },
+    {
+      "provision_ref": "art4u2p1",
+      "section": "4",
+      "title": "Art. 4 ust. 2 pkt 1",
+      "content": "Podmioty, które złożyły zabezpieczenie akcyzowe, o którym mowa w ustawie zmienianej w art. 3, w należnej wysokości przed dniem wejścia w życie niniejszej ustawy, są zwolnione z obowiązku zabezpieczenia opłaty paliwowej, o którym mowa w art. 37k ust. 1a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, do dnia: wygaśnięcia lub utraty ważności złożonego zabezpieczenia akcyzowego,"
+    },
+    {
+      "provision_ref": "art4u2p2",
+      "section": "4",
+      "title": "Art. 4 ust. 2 pkt 2",
+      "content": "Podmioty, które złożyły zabezpieczenie akcyzowe, o którym mowa w ustawie zmienianej w art. 3, w należnej wysokości przed dniem wejścia w życie niniejszej ustawy, są zwolnione z obowiązku zabezpieczenia opłaty paliwowej, o którym mowa w art. 37k ust. 1a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, do dnia: złożenia nowego lub dodatkowego zabezpieczenia akcyzowego,"
+    },
+    {
+      "provision_ref": "art4u2p3",
+      "section": "4",
+      "title": "Art. 4 ust. 2 pkt 3",
+      "content": "Podmioty, które złożyły zabezpieczenie akcyzowe, o którym mowa w ustawie zmienianej w art. 3, w należnej wysokości przed dniem wejścia w życie niniejszej ustawy, są zwolnione z obowiązku zabezpieczenia opłaty paliwowej, o którym mowa w art. 37k ust. 1a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, do dnia: przedłużenia złożonego zabezpieczenia akcyzowego lub jego ważności"
+    },
+    {
+      "provision_ref": "art4u3",
+      "section": "4",
+      "title": "Art. 4 ust. 3",
+      "content": "Podmioty, którym udzielono zwolnienia z obowiązku złożenia zabezpieczenia akcyzowego, o którym mowa w art. 64 ustawy zmienianej w art. 3, przed dniem wejścia w życie niniejszej ustawy, są zwolnione z obowiązku zabezpieczenia opłaty paliwowej, o którym mowa w art. 37k ust. 1a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, do dnia wygaśnięcia tego zwolnienia."
+    },
+    {
+      "provision_ref": "art4u4",
+      "section": "4",
+      "title": "Art. 4 ust. 4",
+      "content": "Zwolnienie z obowiązku złożenia zabezpieczenia akcyzowego udzielone przed dniem wejścia w życie niniejszej ustawy podmiotom zwolnionym z obowiązku zabezpieczenia opłaty paliwowej na podstawie ust. 3, nie może ulec przedłużeniu."
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Art. 5",
-      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2015 r., z wyjątkiem art. 1 pkt 3 i art. 3 pkt 18, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951, z 2013 r. poz. 433, 843, 1543 i 1646 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951, z 2013 r. poz. 433, 843, 1543 i 1646 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1166, 1342 i 1529, z 2013 r. poz. 1289 Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-pint_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_1-pint_1-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\",\"children\": [{\"id\": \"arti_1-pint_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_2-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_2-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_3-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\",\"children\": [{\"id\": \"arti_3-pint_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_3-pint_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_3-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_3-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_3-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_3-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"arti_3-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\",\"children\": [{\"id\": \"arti_3-pint_8-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_3-pint_8-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_3-pint_8-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_3-pint_8-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"}]},{\"id\": \"arti_3-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\",\"children\": [{\"id\": \"arti_3-pint_9-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_3-pint_9-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_3-pint_9-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"arti_3-pint_10\",\"symbol\": \"pint_10\",\"type\": \"pint\",\"name\": \"10\",\"title\": \"10)\",\"children\": [{\"id\": \"arti_3-pint_10-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_3-pint_10-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_3-pint_10-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_3-pint_10-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"arti_3-pint_10-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"},{\"id\": \"arti_3-pint_10-lett_f\",\"symbol\": \"lett_f\",\"type\": \"lett\",\"name\": \"f\",\"title\": \"f)\"}]},{\"id\": \"arti_3-pint_11\",\"symbol\": \"pint_11\",\"type\": \"pint\",\"name\": \"11\",\"title\": \"11)\",\"children\": [{\"id\": \"arti_3-pint_11-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_3-pint_11-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_3-pint_12\",\"symbol\": \"pint_12\",\"type\": \"pint\",\"name\": \"12\",\"title\": \"12)\"},{\"id\": \"arti_3-pint_13\",\"symbol\": \"pint_13\",\"type\": \"pint\",\"name\": \"13\",\"title\": \"13)\"},{\"id\": \"arti_3-pint_14\",\"symbol\": \"pint_14\",\"type\": \"pint\",\"name\": \"14\",\"title\": \"14)\"},{\"id\": \"arti_3-pint_15\",\"symbol\": \"pint_15\",\"type\": \"pint\",\"name\": \"15\",\"title\": \"15)\"},{\"id\": \"arti_3-pint_16\",\"symbol\": \"pint_16\",\"type\": \"pint\",\"name\": \"16\",\"title\": \"16)\",\"children\": [{\"id\": \"arti_3-pint_16-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_3-pint_16-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_3-pint_16-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"arti_3-pint_17\",\"symbol\": \"pint_17\",\"type\": \"pint\",\"name\": \"17\",\"title\": \"17)\",\"children\": [{\"id\": \"arti_3-pint_17-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_3-pint_17-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_3-pint_18\",\"symbol\": \"pint_18\",\"type\": \"pint\",\"name\": \"18\",\"title\": \"18)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"arti_4-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_4-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_4-pass_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_4-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_4-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2015 r., z wyjątkiem art. 1 pkt 3 i art. 3 pkt 18, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2012-931",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2014-1201",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2014-752",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2014-121",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2014-827",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2012-1015",
+      "ref_type": "amended_by"
+    }
+  ]
 }

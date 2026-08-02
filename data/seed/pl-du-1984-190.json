@@ -13,7 +13,19 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "1. Tworzy się Uniwersytet Szczeciński, zwany dalej „Uniwersytetem”. 2. Siedzibą Uniwersytetu jest miasto Szczecin."
+      "content": "Tworzy się Uniwersytet Szczeciński, zwany dalej „Uniwersytetem”. Siedzibą Uniwersytetu jest miasto Szczecin."
+    },
+    {
+      "provision_ref": "art1u1",
+      "section": "1",
+      "title": "Art. 1 ust. 1",
+      "content": "Tworzy się Uniwersytet Szczeciński, zwany dalej „Uniwersytetem”."
+    },
+    {
+      "provision_ref": "art1u2",
+      "section": "1",
+      "title": "Art. 1 ust. 2",
+      "content": "Siedzibą Uniwersytetu jest miasto Szczecin."
     },
     {
       "provision_ref": "art2",
@@ -31,20 +43,51 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "1. Uniwersytet przejmuje Wyższą Szkołę Pedagogiczną w Szczecinie oraz Wydział Inżynieryjno-Ekonomiczny Transportu Politechniki Szczecińskiej. 2. Minister Nauki, Szkolnictwa Wyższego i Techniki, w drodze rozporządzenia, określi termin i zasady przejęcia przez Uniwersytet Wyższej Szkoły Pedagogicznej w Szczecinie oraz Wydziału Inżynieryjno-Ekonomicznego Transportu Politechniki Szczecińskiej. Zajęcia dydaktyczne w Uniwersytecie rozpoczną się nie później niż z początkiem roku akademickiego 1986/1987."
+      "content": "Uniwersytet przejmuje Wyższą Szkołę Pedagogiczną w Szczecinie oraz Wydział Inżynieryjno-Ekonomiczny Transportu Politechniki Szczecińskiej. Minister Nauki, Szkolnictwa Wyższego i Techniki, w drodze rozporządzenia, określi termin i zasady przejęcia przez Uniwersytet Wyższej Szkoły Pedagogicznej w Szczecinie oraz Wydziału Inżynieryjno-Ekonomicznego Transportu Politechniki Szczecińskiej. Zajęcia dydaktyczne w Uniwersytecie rozpoczną się nie później niż z początkiem roku akademickiego 1986/1987."
+    },
+    {
+      "provision_ref": "art4u1",
+      "section": "4",
+      "title": "Art. 4 ust. 1",
+      "content": "Uniwersytet przejmuje Wyższą Szkołę Pedagogiczną w Szczecinie oraz Wydział Inżynieryjno-Ekonomiczny Transportu Politechniki Szczecińskiej."
+    },
+    {
+      "provision_ref": "art4u2",
+      "section": "4",
+      "title": "Art. 4 ust. 2",
+      "content": "Minister Nauki, Szkolnictwa Wyższego i Techniki, w drodze rozporządzenia, określi termin i zasady przejęcia przez Uniwersytet Wyższej Szkoły Pedagogicznej w Szczecinie oraz Wydziału Inżynieryjno-Ekonomicznego Transportu Politechniki Szczecińskiej. Zajęcia dydaktyczne w Uniwersytecie rozpoczną się nie później niż z początkiem roku akademickiego 1986/1987."
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Art. 5",
-      "content": "1. Pierwszy statut Uniwersytetu ustala oraz powołuje pierwsze jego organy Minister Nauki, Szkolnictwa Wyższego i Techniki. 2. Kadencja organów powołanych przez Ministra Nauki, Szkolnictwa Wyższego i Techniki trwa według zasad ogólnych. 3. Statut nadany Uniwersytetowi przez Ministra Nauki, Szkolnictwa Wyższego i Techniki obowiązuje do czasu zastąpienia go przez statut uchwalony przez senat ukonstytuowany na zasadach określonych w ustawie o szkolnictwie wyższym."
+      "content": "Pierwszy statut Uniwersytetu ustala oraz powołuje pierwsze jego organy Minister Nauki, Szkolnictwa Wyższego i Techniki. Kadencja organów powołanych przez Ministra Nauki, Szkolnictwa Wyższego i Techniki trwa według zasad ogólnych. Statut nadany Uniwersytetowi przez Ministra Nauki, Szkolnictwa Wyższego i Techniki obowiązuje do czasu zastąpienia go przez statut uchwalony przez senat ukonstytuowany na zasadach określonych w ustawie o szkolnictwie wyższym."
+    },
+    {
+      "provision_ref": "art5u1",
+      "section": "5",
+      "title": "Art. 5 ust. 1",
+      "content": "Pierwszy statut Uniwersytetu ustala oraz powołuje pierwsze jego organy Minister Nauki, Szkolnictwa Wyższego i Techniki."
+    },
+    {
+      "provision_ref": "art5u2",
+      "section": "5",
+      "title": "Art. 5 ust. 2",
+      "content": "Kadencja organów powołanych przez Ministra Nauki, Szkolnictwa Wyższego i Techniki trwa według zasad ogólnych."
+    },
+    {
+      "provision_ref": "art5u3",
+      "section": "5",
+      "title": "Art. 5 ust. 3",
+      "content": "Statut nadany Uniwersytetowi przez Ministra Nauki, Szkolnictwa Wyższego i Techniki obowiązuje do czasu zastąpienia go przez statut uchwalony przez senat ukonstytuowany na zasadach określonych w ustawie o szkolnictwie wyższym."
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Art. 6",
-      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_5-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": []
 }

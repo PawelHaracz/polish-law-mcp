@@ -1,0 +1,510 @@
+{
+  "id": "pl-du-2021-1182",
+  "type": "statute",
+  "title": "Rozporządzenie Ministra Zdrowia z dnia 30 czerwca 2021 r. w sprawie systemu zarządzającego trybami obsługi pacjenta w szpitalnym oddziale ratunkowym",
+  "title_en": "",
+  "short_name": "pl-du-2021-1182",
+  "status": "in_force",
+  "issued_date": "2021-06-30",
+  "in_force_date": "2021-06-30",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2021/1182",
+  "provisions": [
+    {
+      "provision_ref": "par1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Rozporządzenie określa: minimalną funkcjonalność oraz minimalne wymagania techniczne, a także administrowanie systemem zarządzającym trybami obsługi pacjenta w szpitalnym oddziale ratunkowym, zwanym dalej „TOPSOR”; warunki organizacyjno-techniczne gromadzenia, przetwarzania i pobierania danych zgromadzonych w TOPSOR."
+    },
+    {
+      "provision_ref": "par1p1",
+      "section": "1",
+      "title": "§ 1 pkt 1",
+      "content": "Rozporządzenie określa: minimalną funkcjonalność oraz minimalne wymagania techniczne, a także administrowanie systemem zarządzającym trybami obsługi pacjenta w szpitalnym oddziale ratunkowym, zwanym dalej „TOPSOR”;"
+    },
+    {
+      "provision_ref": "par1p2",
+      "section": "1",
+      "title": "§ 1 pkt 2",
+      "content": "Rozporządzenie określa: warunki organizacyjno-techniczne gromadzenia, przetwarzania i pobierania danych zgromadzonych w TOPSOR."
+    },
+    {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Minimalne wymagania funkcjonalne dla TOPSOR użytkowanego w szpitalnym oddziale ratunkowym, zwanym dalej „SOR”, obejmują: rejestrację czasu przybycia pacjenta do SOR, odnotowanego jako czas pobrania w automacie biletowym biletu z oznaczeniem indywidualnego numeru pacjenta; całościowy i częściowe pomiary czasu pobytu pacjenta w SOR, w podziale na etap rejestracji i poszczególne etapy udzielania świadczeń zdrowotnych; pomiar średniego czasu oczekiwania pacjenta w SOR na pierwszy kontakt z lekarzem, z uwzględnieniem kategorii, o których mowa w art. 33a ust. 2 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym , zwanej dalej „ustawą”; prezentację na ekranach zbiorczych, zainstalowanych w obszarze segregacji medycznej, rejestracji i przyjęć SOR, średniego przewidywalnego czasu oczekiwania na pierwszy kontakt z lekarzem, z uwzględnieniem kategorii, o których mowa w art. 33a ust. 2 ustawy; pomiar indywidualnego czasu oczekiwania pacjenta w SOR na pierwszy kontakt z lekarzem; prezentację indywidualnego czasu oczekiwania pacjenta w SOR na pierwszy kontakt z lekarzem, przy użyciu czytnika kodów kreskowych na ekranie automatu biletowego; przechowywanie wszystkich danych przetwarzanych w TOPSOR, w tym danych osobowych i statystycznych, zgodnie z art. 33a ust. 9 ustawy; możliwość przeprowadzania segregacji medycznej przy wykorzystaniu karty segregacji medycznej, zwanej dalej „KSM”, prowadzonej w postaci elektronicznej, z możliwością jej wydruku, spełniającej wymagania określone w przepisach wydanych na podstawie art. 30 ust. 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta ; prowadzenie segregacji medycznej w systemie segregacji medycznej, zgodnie z algorytmem Emergency Severity Index (ESI) wersja 4.0, w sposób odpowiadający wytycznym twórcy lub licencjodawcy metodologii systemu segregacji medycznej; możliwość obsługi TOPSOR na komputerach klasy PC oraz urządzeniach przenośnych (terminalach stanowiskowych i tabletach medycznych); możliwość integracji z kardiomonitorem, z uwzględnieniem automatycznego i manualnego importu danych do KSM; przekazywanie do serwera centralnego TOPSOR: niezwłocznie po zajściu zdarzenia: - zanonimizowanych danych o czasie oczekiwania pacjentów (informacje o zdarzeniach informatycznych w TOPSOR) dotyczące zdarzeń: „wygenerowanie numeru”, „wygenerowanie numeru poza kolejnością”, „numer oczekuje”, „wezwanie numeru”, „rozpoczęcie obsługi”, „przypisanie numeru do kategorii kolejki”, „przeniesienie do innej kategorii kolejki”, „zakończenie obsługi”, „numer nie zgłosił się po wezwaniu”, „usunięcie numeru z kolejki”, „zawieszenie numeru”), - informacje o zdarzeniach informatycznych w TOPSOR, nie rzadziej niż raz na godzinę, danych telemetrycznych o dostępności infrastruktury technicznej lokalnego TOPSOR, o której mowa w § 4; odbieranie z serwera centralnego TOPSOR danych do wyświetlenia na wyświetlaczach zbiorczych, nie rzadziej niż co 10 minut; możliwość generowania statystyk pracy z uwzględnieniem zdefiniowanych użytkowników w podziale na czas pracy poświęcony poszczególnym kategoriom, o których mowa w art. 33a ust. 2 ustawy; aplikację przeglądarkową umożliwiającą kompleksową obsługę TOPSOR działającą na terminalach stanowiskowych, tabletach medycznych oraz komputerach klasy PC; możliwość dwustronnej komunikacji z systemami zewnętrznymi, w tym z systemami informatycznymi podmiotu leczniczego, w którego strukturach funkcjonuje SOR."
+    },
+    {
+      "provision_ref": "par2p1",
+      "section": "2",
+      "title": "§ 2 pkt 1",
+      "content": "Minimalne wymagania funkcjonalne dla TOPSOR użytkowanego w szpitalnym oddziale ratunkowym, zwanym dalej „SOR”, obejmują: rejestrację czasu przybycia pacjenta do SOR, odnotowanego jako czas pobrania w automacie biletowym biletu z oznaczeniem indywidualnego numeru pacjenta;"
+    },
+    {
+      "provision_ref": "par2p2",
+      "section": "2",
+      "title": "§ 2 pkt 2",
+      "content": "Minimalne wymagania funkcjonalne dla TOPSOR użytkowanego w szpitalnym oddziale ratunkowym, zwanym dalej „SOR”, obejmują: całościowy i częściowe pomiary czasu pobytu pacjenta w SOR, w podziale na etap rejestracji i poszczególne etapy udzielania świadczeń zdrowotnych;"
+    },
+    {
+      "provision_ref": "par2p3",
+      "section": "2",
+      "title": "§ 2 pkt 3",
+      "content": "Minimalne wymagania funkcjonalne dla TOPSOR użytkowanego w szpitalnym oddziale ratunkowym, zwanym dalej „SOR”, obejmują: pomiar średniego czasu oczekiwania pacjenta w SOR na pierwszy kontakt z lekarzem, z uwzględnieniem kategorii, o których mowa w art. 33a ust. 2 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym , zwanej dalej „ustawą”;"
+    },
+    {
+      "provision_ref": "par2p4",
+      "section": "2",
+      "title": "§ 2 pkt 4",
+      "content": "Minimalne wymagania funkcjonalne dla TOPSOR użytkowanego w szpitalnym oddziale ratunkowym, zwanym dalej „SOR”, obejmują: prezentację na ekranach zbiorczych, zainstalowanych w obszarze segregacji medycznej, rejestracji i przyjęć SOR, średniego przewidywalnego czasu oczekiwania na pierwszy kontakt z lekarzem, z uwzględnieniem kategorii, o których mowa w art. 33a ust. 2 ustawy;"
+    },
+    {
+      "provision_ref": "par2p5",
+      "section": "2",
+      "title": "§ 2 pkt 5",
+      "content": "Minimalne wymagania funkcjonalne dla TOPSOR użytkowanego w szpitalnym oddziale ratunkowym, zwanym dalej „SOR”, obejmują: pomiar indywidualnego czasu oczekiwania pacjenta w SOR na pierwszy kontakt z lekarzem;"
+    },
+    {
+      "provision_ref": "par2p6",
+      "section": "2",
+      "title": "§ 2 pkt 6",
+      "content": "Minimalne wymagania funkcjonalne dla TOPSOR użytkowanego w szpitalnym oddziale ratunkowym, zwanym dalej „SOR”, obejmują: prezentację indywidualnego czasu oczekiwania pacjenta w SOR na pierwszy kontakt z lekarzem, przy użyciu czytnika kodów kreskowych na ekranie automatu biletowego;"
+    },
+    {
+      "provision_ref": "par2p7",
+      "section": "2",
+      "title": "§ 2 pkt 7",
+      "content": "Minimalne wymagania funkcjonalne dla TOPSOR użytkowanego w szpitalnym oddziale ratunkowym, zwanym dalej „SOR”, obejmują: przechowywanie wszystkich danych przetwarzanych w TOPSOR, w tym danych osobowych i statystycznych, zgodnie z art. 33a ust. 9 ustawy;"
+    },
+    {
+      "provision_ref": "par2p8",
+      "section": "2",
+      "title": "§ 2 pkt 8",
+      "content": "Minimalne wymagania funkcjonalne dla TOPSOR użytkowanego w szpitalnym oddziale ratunkowym, zwanym dalej „SOR”, obejmują: możliwość przeprowadzania segregacji medycznej przy wykorzystaniu karty segregacji medycznej, zwanej dalej „KSM”, prowadzonej w postaci elektronicznej, z możliwością jej wydruku, spełniającej wymagania określone w przepisach wydanych na podstawie art. 30 ust. 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta ;"
+    },
+    {
+      "provision_ref": "par2p9",
+      "section": "2",
+      "title": "§ 2 pkt 9",
+      "content": "Minimalne wymagania funkcjonalne dla TOPSOR użytkowanego w szpitalnym oddziale ratunkowym, zwanym dalej „SOR”, obejmują: prowadzenie segregacji medycznej w systemie segregacji medycznej, zgodnie z algorytmem Emergency Severity Index (ESI) wersja 4.0, w sposób odpowiadający wytycznym twórcy lub licencjodawcy metodologii systemu segregacji medycznej;"
+    },
+    {
+      "provision_ref": "par2p10",
+      "section": "2",
+      "title": "§ 2 pkt 10",
+      "content": "Minimalne wymagania funkcjonalne dla TOPSOR użytkowanego w szpitalnym oddziale ratunkowym, zwanym dalej „SOR”, obejmują: możliwość obsługi TOPSOR na komputerach klasy PC oraz urządzeniach przenośnych (terminalach stanowiskowych i tabletach medycznych);"
+    },
+    {
+      "provision_ref": "par2p11",
+      "section": "2",
+      "title": "§ 2 pkt 11",
+      "content": "Minimalne wymagania funkcjonalne dla TOPSOR użytkowanego w szpitalnym oddziale ratunkowym, zwanym dalej „SOR”, obejmują: możliwość integracji z kardiomonitorem, z uwzględnieniem automatycznego i manualnego importu danych do KSM;"
+    },
+    {
+      "provision_ref": "par2p12la",
+      "section": "2",
+      "title": "§ 2 pkt 12 lit. a",
+      "content": "Minimalne wymagania funkcjonalne dla TOPSOR użytkowanego w szpitalnym oddziale ratunkowym, zwanym dalej „SOR”, obejmują: przekazywanie do serwera centralnego TOPSOR: niezwłocznie po zajściu zdarzenia: - zanonimizowanych danych o czasie oczekiwania pacjentów (informacje o zdarzeniach informatycznych w TOPSOR) dotyczące zdarzeń: „wygenerowanie numeru”, „wygenerowanie numeru poza kolejnością”, „numer oczekuje”, „wezwanie numeru”, „rozpoczęcie obsługi”, „przypisanie numeru do kategorii kolejki”, „przeniesienie do innej kategorii kolejki”, „zakończenie obsługi”, „numer nie zgłosił się po wezwaniu”, „usunięcie numeru z kolejki”, „zawieszenie numeru”), - informacje o zdarzeniach informatycznych w TOPSOR,"
+    },
+    {
+      "provision_ref": "par2p12lb",
+      "section": "2",
+      "title": "§ 2 pkt 12 lit. b",
+      "content": "Minimalne wymagania funkcjonalne dla TOPSOR użytkowanego w szpitalnym oddziale ratunkowym, zwanym dalej „SOR”, obejmują: przekazywanie do serwera centralnego TOPSOR: nie rzadziej niż raz na godzinę, danych telemetrycznych o dostępności infrastruktury technicznej lokalnego TOPSOR, o której mowa w § 4;"
+    },
+    {
+      "provision_ref": "par2p13",
+      "section": "2",
+      "title": "§ 2 pkt 13",
+      "content": "Minimalne wymagania funkcjonalne dla TOPSOR użytkowanego w szpitalnym oddziale ratunkowym, zwanym dalej „SOR”, obejmują: odbieranie z serwera centralnego TOPSOR danych do wyświetlenia na wyświetlaczach zbiorczych, nie rzadziej niż co 10 minut;"
+    },
+    {
+      "provision_ref": "par2p14",
+      "section": "2",
+      "title": "§ 2 pkt 14",
+      "content": "Minimalne wymagania funkcjonalne dla TOPSOR użytkowanego w szpitalnym oddziale ratunkowym, zwanym dalej „SOR”, obejmują: możliwość generowania statystyk pracy z uwzględnieniem zdefiniowanych użytkowników w podziale na czas pracy poświęcony poszczególnym kategoriom, o których mowa w art. 33a ust. 2 ustawy;"
+    },
+    {
+      "provision_ref": "par2p15",
+      "section": "2",
+      "title": "§ 2 pkt 15",
+      "content": "Minimalne wymagania funkcjonalne dla TOPSOR użytkowanego w szpitalnym oddziale ratunkowym, zwanym dalej „SOR”, obejmują: aplikację przeglądarkową umożliwiającą kompleksową obsługę TOPSOR działającą na terminalach stanowiskowych, tabletach medycznych oraz komputerach klasy PC;"
+    },
+    {
+      "provision_ref": "par2p16",
+      "section": "2",
+      "title": "§ 2 pkt 16",
+      "content": "Minimalne wymagania funkcjonalne dla TOPSOR użytkowanego w szpitalnym oddziale ratunkowym, zwanym dalej „SOR”, obejmują: możliwość dwustronnej komunikacji z systemami zewnętrznymi, w tym z systemami informatycznymi podmiotu leczniczego, w którego strukturach funkcjonuje SOR."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Minimalne wymagania funkcjonalne dla systemu obsługującego serwer centralny TOPSOR obejmują: możliwość bieżącego monitoringu TOPSOR w zakresie liczby osób oczekujących na pierwszy kontakt z lekarzem we wszystkich SOR oraz średnich przybliżonych czasów oczekiwania w poszczególnych kategoriach, o których mowa w art. 33a ust. 2 ustawy, przez udostępnienie danych statystycznych na potrzeby funkcjonowania responsywnej strony internetowej; możliwość kontroli TOPSOR w zakresie monitoringu liczby osób oczekujących na pierwszy kontakt z lekarzem, średnich czasów oczekiwania na ten kontakt, liczby pacjentów obsłużonych i nieobsłużonych oraz średniego czasu obsługi pacjentów w SOR, rozumianego jako czas od pobrania biletu w biletomacie do zakończenia udzielania świadczeń zdrowotnych w SOR; możliwość generowania statystyk z uwzględnieniem zdefiniowanych stanowisk pracy i kategorii, o których mowa w art. 33a ust. 2 ustawy, przez udostępnienie danych statystycznych (bieżących i historycznych) na potrzeby funkcjonowania strony internetowej; możliwość administrowania TOPSOR w zakresie zarządzania treściami wyświetlanymi na ekranach oraz generowania raportów i analiz."
+    },
+    {
+      "provision_ref": "par3p1",
+      "section": "3",
+      "title": "§ 3 pkt 1",
+      "content": "Minimalne wymagania funkcjonalne dla systemu obsługującego serwer centralny TOPSOR obejmują: możliwość bieżącego monitoringu TOPSOR w zakresie liczby osób oczekujących na pierwszy kontakt z lekarzem we wszystkich SOR oraz średnich przybliżonych czasów oczekiwania w poszczególnych kategoriach, o których mowa w art. 33a ust. 2 ustawy, przez udostępnienie danych statystycznych na potrzeby funkcjonowania responsywnej strony internetowej;"
+    },
+    {
+      "provision_ref": "par3p2",
+      "section": "3",
+      "title": "§ 3 pkt 2",
+      "content": "Minimalne wymagania funkcjonalne dla systemu obsługującego serwer centralny TOPSOR obejmują: możliwość kontroli TOPSOR w zakresie monitoringu liczby osób oczekujących na pierwszy kontakt z lekarzem, średnich czasów oczekiwania na ten kontakt, liczby pacjentów obsłużonych i nieobsłużonych oraz średniego czasu obsługi pacjentów w SOR, rozumianego jako czas od pobrania biletu w biletomacie do zakończenia udzielania świadczeń zdrowotnych w SOR;"
+    },
+    {
+      "provision_ref": "par3p3",
+      "section": "3",
+      "title": "§ 3 pkt 3",
+      "content": "Minimalne wymagania funkcjonalne dla systemu obsługującego serwer centralny TOPSOR obejmują: możliwość generowania statystyk z uwzględnieniem zdefiniowanych stanowisk pracy i kategorii, o których mowa w art. 33a ust. 2 ustawy, przez udostępnienie danych statystycznych (bieżących i historycznych) na potrzeby funkcjonowania strony internetowej;"
+    },
+    {
+      "provision_ref": "par3p4",
+      "section": "3",
+      "title": "§ 3 pkt 4",
+      "content": "Minimalne wymagania funkcjonalne dla systemu obsługującego serwer centralny TOPSOR obejmują: możliwość administrowania TOPSOR w zakresie zarządzania treściami wyświetlanymi na ekranach oraz generowania raportów i analiz."
+    },
+    {
+      "provision_ref": "par4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Minimalne wymagania infrastruktury technicznej wykorzystywanej w TOPSOR stanowią: automat biletowy stojący z ekranem dotykowym wykonanym w technologii LCD, o przekątnej wynoszącej co najmniej 24 cale, drukarką do biletów i czytnikiem kodów kreskowych, zainstalowany przy wejściu do SOR; automat biletowy stojący, z przyciskami mechanicznymi i drukarką, zainstalowany przy podjeździe dla specjalistycznych środków transportu sanitarnego; drukarka nabiurkowa do biletów zainstalowana na stanowisku rejestracji w SOR; wyświetlacz zbiorczy z ekranem wykonanym w technologii LCD, o przekątnej wynoszącej co najmniej 42 cale, z jednostką sterującą, zainstalowany w obszarze segregacji medycznej, rejestracji i przyjęć SOR; wyświetlacz stanowiskowy z ekranem wykonanym w technologii LCD, o przekątnej wynoszącej co najmniej 21 cali, zainstalowany w obszarze segregacji medycznej, rejestracji i przyjęć SOR; terminal stanowiskowy z ekranem dotykowym wykonanym w technologii LCD, o przekątnej wynoszącej co najmniej 10 cali; tablet o zwiększonej odporności na uszkodzenia mechaniczne, z możliwością jego dezynfekcji; zestaw nagłaśniający; komputer centralny klasy PC dostosowany do pracy ciągłej; kardiomonitor stacjonarno-transportowy z ekranem LCD, o przekątnej wynoszącej co najmniej 12 cali, umożliwiający komunikację z TOPSOR przez eksport danych do KSM."
+    },
+    {
+      "provision_ref": "par4p1",
+      "section": "4",
+      "title": "§ 4 pkt 1",
+      "content": "Minimalne wymagania infrastruktury technicznej wykorzystywanej w TOPSOR stanowią: automat biletowy stojący z ekranem dotykowym wykonanym w technologii LCD, o przekątnej wynoszącej co najmniej 24 cale, drukarką do biletów i czytnikiem kodów kreskowych, zainstalowany przy wejściu do SOR;"
+    },
+    {
+      "provision_ref": "par4p2",
+      "section": "4",
+      "title": "§ 4 pkt 2",
+      "content": "Minimalne wymagania infrastruktury technicznej wykorzystywanej w TOPSOR stanowią: automat biletowy stojący, z przyciskami mechanicznymi i drukarką, zainstalowany przy podjeździe dla specjalistycznych środków transportu sanitarnego;"
+    },
+    {
+      "provision_ref": "par4p3",
+      "section": "4",
+      "title": "§ 4 pkt 3",
+      "content": "Minimalne wymagania infrastruktury technicznej wykorzystywanej w TOPSOR stanowią: drukarka nabiurkowa do biletów zainstalowana na stanowisku rejestracji w SOR;"
+    },
+    {
+      "provision_ref": "par4p4",
+      "section": "4",
+      "title": "§ 4 pkt 4",
+      "content": "Minimalne wymagania infrastruktury technicznej wykorzystywanej w TOPSOR stanowią: wyświetlacz zbiorczy z ekranem wykonanym w technologii LCD, o przekątnej wynoszącej co najmniej 42 cale, z jednostką sterującą, zainstalowany w obszarze segregacji medycznej, rejestracji i przyjęć SOR;"
+    },
+    {
+      "provision_ref": "par4p5",
+      "section": "4",
+      "title": "§ 4 pkt 5",
+      "content": "Minimalne wymagania infrastruktury technicznej wykorzystywanej w TOPSOR stanowią: wyświetlacz stanowiskowy z ekranem wykonanym w technologii LCD, o przekątnej wynoszącej co najmniej 21 cali, zainstalowany w obszarze segregacji medycznej, rejestracji i przyjęć SOR;"
+    },
+    {
+      "provision_ref": "par4p6",
+      "section": "4",
+      "title": "§ 4 pkt 6",
+      "content": "Minimalne wymagania infrastruktury technicznej wykorzystywanej w TOPSOR stanowią: terminal stanowiskowy z ekranem dotykowym wykonanym w technologii LCD, o przekątnej wynoszącej co najmniej 10 cali;"
+    },
+    {
+      "provision_ref": "par4p7",
+      "section": "4",
+      "title": "§ 4 pkt 7",
+      "content": "Minimalne wymagania infrastruktury technicznej wykorzystywanej w TOPSOR stanowią: tablet o zwiększonej odporności na uszkodzenia mechaniczne, z możliwością jego dezynfekcji;"
+    },
+    {
+      "provision_ref": "par4p8",
+      "section": "4",
+      "title": "§ 4 pkt 8",
+      "content": "Minimalne wymagania infrastruktury technicznej wykorzystywanej w TOPSOR stanowią: zestaw nagłaśniający;"
+    },
+    {
+      "provision_ref": "par4p9",
+      "section": "4",
+      "title": "§ 4 pkt 9",
+      "content": "Minimalne wymagania infrastruktury technicznej wykorzystywanej w TOPSOR stanowią: komputer centralny klasy PC dostosowany do pracy ciągłej;"
+    },
+    {
+      "provision_ref": "par4p10",
+      "section": "4",
+      "title": "§ 4 pkt 10",
+      "content": "Minimalne wymagania infrastruktury technicznej wykorzystywanej w TOPSOR stanowią: kardiomonitor stacjonarno-transportowy z ekranem LCD, o przekątnej wynoszącej co najmniej 12 cali, umożliwiający komunikację z TOPSOR przez eksport danych do KSM."
+    },
+    {
+      "provision_ref": "par5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Administrowanie systemem zarządzającym TOPSOR polega na: stałym monitorowaniu infrastruktury TOPSOR na poziomie centralnym; zapewnieniu sprzętu o odpowiedniej mocy obliczeniowej oraz pojemności pamięci masowych w celu zagwarantowania właściwej wydajności przetwarzania danych oraz ich gromadzenia w infrastrukturze na poziomie centralnym; organizacji wsparcia technicznego; wykonywaniu kopii bezpieczeństwa danych przetwarzanych na poziomie centralnym w TOPSOR; monitorowaniu funkcjonowania sieci transmisji danych, pracy aplikacji, baz danych oraz systemu operacyjnego systemu centralnego TOPSOR; aktualizacji minimalnych wymagań funkcjonalnych TOPSOR, o których mowa w § 2; wdrażaniu rozwiązań poprawiających parametry funkcjonalne TOPSOR i bezpieczeństwo przetwarzanych danych; zarządzaniu certyfikatami zewnętrznymi i wewnętrznymi wykorzystywanymi przez TOPSOR; monitorowaniu wirtualnej sieci prywatnej utworzonej na potrzeby TOPSOR; zarządzaniu aplikacją oprogramowania standardowego i aplikacyjnego TOPSOR; zarządzaniu kontami użytkowników oraz ich uprawnieniami systemowymi w TOPSOR na poziomie centralnym; zarządzaniu elementami konfiguracji TOPSOR na poziomie centralnym; zarządzaniu słownikami i kategoriami TOPSOR oraz ich aktualizacją; zarządzaniu incydentami aplikacji TOPSOR, zgłaszanymi przez administratora lokalnego; opracowywaniu procedur dotyczących obsługi zgłoszeń użytkowników TOPSOR; sporządzaniu miesięcznych raportów z działania systemu TOPSOR i przekazywaniu ich ministrowi właściwemu do spraw zdrowia; informowaniu ministra właściwego do spraw zdrowia o awariach TOPSOR, wpływających na realizowanie zadań przez jego użytkowników. Podmiot leczniczy, w którego strukturach funkcjonuje SOR, zapewnia: kontrolowanie i monitorowanie lokalnej infrastruktury sieciowej i sprzętowej oraz jej obsługę techniczną i konfigurację; monitorowanie TOPSOR w zakresie bieżącego funkcjonowania systemu; konfigurowanie na poziomie lokalnym kategorii, o których mowa w art. 33a ust. 2 ustawy - zgodnych z wynikami przeprowadzonej segregacji medycznej; tworzenie i konfigurowanie na poziomie lokalnym: kont, grup uprawnień dla administratorów TOPSOR i użytkowników TOPSOR, uprawnień użytkowników, informacji prezentowanych na automatach biletowych, wyświetlaczach zbiorczych i wyświetlaczach stanowiskowych; tworzenie harmonogramów pracy oraz oznaczanie dni wolnych od pracy dla poszczególnych pracowników, konfigurację kompozycji biletów, uruchamianie, blokowanie i wznawianie wydawania biletów; generowanie raportów statystycznych, w trybie on-line i historycznym; udostępnianie danych z raportów statystycznych administratorowi danych przetwarzanych w TOPSOR lub podmiotom przez niego wskazanym; eksport danych i raportów statystycznych do aplikacji zewnętrznych; utrzymanie i zapewnienie wsparcia dla lokalnej infrastruktury sprzętowej, wchodzącej w skład TOPSOR; ochronę przed nieuprawnionym dostępem do TOPSOR; przeciwdziałanie uszkodzeniom lokalnej infrastruktury sprzętowej TOPSOR; zgłaszanie do administratora danych przetwarzanych w TOPSOR przypadków naruszenia zasad bezpieczeństwa przetwarzanych danych, w tym danych osobowych; zapewnienie rozwiązania technicznego, w tym urządzeń teleinformatycznych i współpracujących z nimi narzędzi programowych, umożliwiającego porozumiewanie się na odległość przy wykorzystaniu transmisji danych oraz zestawienie bezpiecznego tunelu komunikacyjnego do serwera centralnego TOPSOR; zarządzanie aplikacją TOPSOR, połączeniami stacji roboczych i terminali mobilnych ze środowiskiem TOPSOR; sporządzanie miesięcznych raportów z działania systemu TOPSOR i przekazywanie ich administratorowi danych przetwarzanych w TOPSOR."
+    },
+    {
+      "provision_ref": "par5u1p1",
+      "section": "5",
+      "title": "§ 5 ust. 1 pkt 1",
+      "content": "Administrowanie systemem zarządzającym TOPSOR polega na: stałym monitorowaniu infrastruktury TOPSOR na poziomie centralnym;"
+    },
+    {
+      "provision_ref": "par5u1p2",
+      "section": "5",
+      "title": "§ 5 ust. 1 pkt 2",
+      "content": "Administrowanie systemem zarządzającym TOPSOR polega na: zapewnieniu sprzętu o odpowiedniej mocy obliczeniowej oraz pojemności pamięci masowych w celu zagwarantowania właściwej wydajności przetwarzania danych oraz ich gromadzenia w infrastrukturze na poziomie centralnym;"
+    },
+    {
+      "provision_ref": "par5u1p3",
+      "section": "5",
+      "title": "§ 5 ust. 1 pkt 3",
+      "content": "Administrowanie systemem zarządzającym TOPSOR polega na: organizacji wsparcia technicznego;"
+    },
+    {
+      "provision_ref": "par5u1p4",
+      "section": "5",
+      "title": "§ 5 ust. 1 pkt 4",
+      "content": "Administrowanie systemem zarządzającym TOPSOR polega na: wykonywaniu kopii bezpieczeństwa danych przetwarzanych na poziomie centralnym w TOPSOR;"
+    },
+    {
+      "provision_ref": "par5u1p5",
+      "section": "5",
+      "title": "§ 5 ust. 1 pkt 5",
+      "content": "Administrowanie systemem zarządzającym TOPSOR polega na: monitorowaniu funkcjonowania sieci transmisji danych, pracy aplikacji, baz danych oraz systemu operacyjnego systemu centralnego TOPSOR;"
+    },
+    {
+      "provision_ref": "par5u1p6",
+      "section": "5",
+      "title": "§ 5 ust. 1 pkt 6",
+      "content": "Administrowanie systemem zarządzającym TOPSOR polega na: aktualizacji minimalnych wymagań funkcjonalnych TOPSOR, o których mowa w § 2;"
+    },
+    {
+      "provision_ref": "par5u1p7",
+      "section": "5",
+      "title": "§ 5 ust. 1 pkt 7",
+      "content": "Administrowanie systemem zarządzającym TOPSOR polega na: wdrażaniu rozwiązań poprawiających parametry funkcjonalne TOPSOR i bezpieczeństwo przetwarzanych danych;"
+    },
+    {
+      "provision_ref": "par5u1p8",
+      "section": "5",
+      "title": "§ 5 ust. 1 pkt 8",
+      "content": "Administrowanie systemem zarządzającym TOPSOR polega na: zarządzaniu certyfikatami zewnętrznymi i wewnętrznymi wykorzystywanymi przez TOPSOR;"
+    },
+    {
+      "provision_ref": "par5u1p9",
+      "section": "5",
+      "title": "§ 5 ust. 1 pkt 9",
+      "content": "Administrowanie systemem zarządzającym TOPSOR polega na: monitorowaniu wirtualnej sieci prywatnej utworzonej na potrzeby TOPSOR;"
+    },
+    {
+      "provision_ref": "par5u1p10",
+      "section": "5",
+      "title": "§ 5 ust. 1 pkt 10",
+      "content": "Administrowanie systemem zarządzającym TOPSOR polega na: zarządzaniu aplikacją oprogramowania standardowego i aplikacyjnego TOPSOR;"
+    },
+    {
+      "provision_ref": "par5u1p11",
+      "section": "5",
+      "title": "§ 5 ust. 1 pkt 11",
+      "content": "Administrowanie systemem zarządzającym TOPSOR polega na: zarządzaniu kontami użytkowników oraz ich uprawnieniami systemowymi w TOPSOR na poziomie centralnym;"
+    },
+    {
+      "provision_ref": "par5u1p12",
+      "section": "5",
+      "title": "§ 5 ust. 1 pkt 12",
+      "content": "Administrowanie systemem zarządzającym TOPSOR polega na: zarządzaniu elementami konfiguracji TOPSOR na poziomie centralnym;"
+    },
+    {
+      "provision_ref": "par5u1p13",
+      "section": "5",
+      "title": "§ 5 ust. 1 pkt 13",
+      "content": "Administrowanie systemem zarządzającym TOPSOR polega na: zarządzaniu słownikami i kategoriami TOPSOR oraz ich aktualizacją;"
+    },
+    {
+      "provision_ref": "par5u1p14",
+      "section": "5",
+      "title": "§ 5 ust. 1 pkt 14",
+      "content": "Administrowanie systemem zarządzającym TOPSOR polega na: zarządzaniu incydentami aplikacji TOPSOR, zgłaszanymi przez administratora lokalnego;"
+    },
+    {
+      "provision_ref": "par5u1p15",
+      "section": "5",
+      "title": "§ 5 ust. 1 pkt 15",
+      "content": "Administrowanie systemem zarządzającym TOPSOR polega na: opracowywaniu procedur dotyczących obsługi zgłoszeń użytkowników TOPSOR;"
+    },
+    {
+      "provision_ref": "par5u1p16",
+      "section": "5",
+      "title": "§ 5 ust. 1 pkt 16",
+      "content": "Administrowanie systemem zarządzającym TOPSOR polega na: sporządzaniu miesięcznych raportów z działania systemu TOPSOR i przekazywaniu ich ministrowi właściwemu do spraw zdrowia;"
+    },
+    {
+      "provision_ref": "par5u1p17",
+      "section": "5",
+      "title": "§ 5 ust. 1 pkt 17",
+      "content": "Administrowanie systemem zarządzającym TOPSOR polega na: informowaniu ministra właściwego do spraw zdrowia o awariach TOPSOR, wpływających na realizowanie zadań przez jego użytkowników."
+    },
+    {
+      "provision_ref": "par5u2p1",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 1",
+      "content": "Podmiot leczniczy, w którego strukturach funkcjonuje SOR, zapewnia: kontrolowanie i monitorowanie lokalnej infrastruktury sieciowej i sprzętowej oraz jej obsługę techniczną i konfigurację;"
+    },
+    {
+      "provision_ref": "par5u2p2",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 2",
+      "content": "Podmiot leczniczy, w którego strukturach funkcjonuje SOR, zapewnia: monitorowanie TOPSOR w zakresie bieżącego funkcjonowania systemu;"
+    },
+    {
+      "provision_ref": "par5u2p3",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 3",
+      "content": "Podmiot leczniczy, w którego strukturach funkcjonuje SOR, zapewnia: konfigurowanie na poziomie lokalnym kategorii, o których mowa w art. 33a ust. 2 ustawy - zgodnych z wynikami przeprowadzonej segregacji medycznej;"
+    },
+    {
+      "provision_ref": "par5u2p4la",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 4 lit. a",
+      "content": "Podmiot leczniczy, w którego strukturach funkcjonuje SOR, zapewnia: tworzenie i konfigurowanie na poziomie lokalnym: kont, grup uprawnień dla administratorów TOPSOR i użytkowników TOPSOR,"
+    },
+    {
+      "provision_ref": "par5u2p4lb",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 4 lit. b",
+      "content": "Podmiot leczniczy, w którego strukturach funkcjonuje SOR, zapewnia: tworzenie i konfigurowanie na poziomie lokalnym: uprawnień użytkowników,"
+    },
+    {
+      "provision_ref": "par5u2p4lc",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 4 lit. c",
+      "content": "Podmiot leczniczy, w którego strukturach funkcjonuje SOR, zapewnia: tworzenie i konfigurowanie na poziomie lokalnym: informacji prezentowanych na automatach biletowych, wyświetlaczach zbiorczych i wyświetlaczach stanowiskowych;"
+    },
+    {
+      "provision_ref": "par5u2p5",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 5",
+      "content": "Podmiot leczniczy, w którego strukturach funkcjonuje SOR, zapewnia: tworzenie harmonogramów pracy oraz oznaczanie dni wolnych od pracy dla poszczególnych pracowników, konfigurację kompozycji biletów, uruchamianie, blokowanie i wznawianie wydawania biletów;"
+    },
+    {
+      "provision_ref": "par5u2p6",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 6",
+      "content": "Podmiot leczniczy, w którego strukturach funkcjonuje SOR, zapewnia: generowanie raportów statystycznych, w trybie on-line i historycznym;"
+    },
+    {
+      "provision_ref": "par5u2p7",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 7",
+      "content": "Podmiot leczniczy, w którego strukturach funkcjonuje SOR, zapewnia: udostępnianie danych z raportów statystycznych administratorowi danych przetwarzanych w TOPSOR lub podmiotom przez niego wskazanym;"
+    },
+    {
+      "provision_ref": "par5u2p8",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 8",
+      "content": "Podmiot leczniczy, w którego strukturach funkcjonuje SOR, zapewnia: eksport danych i raportów statystycznych do aplikacji zewnętrznych;"
+    },
+    {
+      "provision_ref": "par5u2p9",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 9",
+      "content": "Podmiot leczniczy, w którego strukturach funkcjonuje SOR, zapewnia: utrzymanie i zapewnienie wsparcia dla lokalnej infrastruktury sprzętowej, wchodzącej w skład TOPSOR;"
+    },
+    {
+      "provision_ref": "par5u2p10",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 10",
+      "content": "Podmiot leczniczy, w którego strukturach funkcjonuje SOR, zapewnia: ochronę przed nieuprawnionym dostępem do TOPSOR;"
+    },
+    {
+      "provision_ref": "par5u2p11",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 11",
+      "content": "Podmiot leczniczy, w którego strukturach funkcjonuje SOR, zapewnia: przeciwdziałanie uszkodzeniom lokalnej infrastruktury sprzętowej TOPSOR;"
+    },
+    {
+      "provision_ref": "par5u2p12",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 12",
+      "content": "Podmiot leczniczy, w którego strukturach funkcjonuje SOR, zapewnia: zgłaszanie do administratora danych przetwarzanych w TOPSOR przypadków naruszenia zasad bezpieczeństwa przetwarzanych danych, w tym danych osobowych;"
+    },
+    {
+      "provision_ref": "par5u2p13",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 13",
+      "content": "Podmiot leczniczy, w którego strukturach funkcjonuje SOR, zapewnia: zapewnienie rozwiązania technicznego, w tym urządzeń teleinformatycznych i współpracujących z nimi narzędzi programowych, umożliwiającego porozumiewanie się na odległość przy wykorzystaniu transmisji danych oraz zestawienie bezpiecznego tunelu komunikacyjnego do serwera centralnego TOPSOR;"
+    },
+    {
+      "provision_ref": "par5u2p14",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 14",
+      "content": "Podmiot leczniczy, w którego strukturach funkcjonuje SOR, zapewnia: zarządzanie aplikacją TOPSOR, połączeniami stacji roboczych i terminali mobilnych ze środowiskiem TOPSOR;"
+    },
+    {
+      "provision_ref": "par5u2p15",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 15",
+      "content": "Podmiot leczniczy, w którego strukturach funkcjonuje SOR, zapewnia: sporządzanie miesięcznych raportów z działania systemu TOPSOR i przekazywanie ich administratorowi danych przetwarzanych w TOPSOR."
+    },
+    {
+      "provision_ref": "par6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "W zakresie warunków organizacyjno-technicznych gromadzenia i pobierania danych przetwarzanych w TOPSOR, TOPSOR jest zgodny z warunkami określonymi w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne , a w zakresie nieuregulowanym w tych przepisach, z następującymi normami, których przedmiotem są zasady gromadzenia i wymiany informacji w ochronie zdrowia: PN-EN ISO 13606-1:2019-08 Informatyka w ochronie zdrowia - Przesyłanie elektronicznej dokumentacji zdrowotnej; PN-EN ISO 13606:2-4:2009 Informatyka w ochronie zdrowia - Przesyłanie elektronicznej dokumentacji zdrowotnej; PN-EN ISO 13606-5:2019-08 Informatyka w ochronie zdrowia - Przesyłanie elektronicznej dokumentacji zdrowotnej - albo normami lub wersjami norm lub standardami je zastępującymi."
+    },
+    {
+      "provision_ref": "par6p1",
+      "section": "6",
+      "title": "§ 6 pkt 1",
+      "content": "W zakresie warunków organizacyjno-technicznych gromadzenia i pobierania danych przetwarzanych w TOPSOR, TOPSOR jest zgodny z warunkami określonymi w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne , a w zakresie nieuregulowanym w tych przepisach, z następującymi normami, których przedmiotem są zasady gromadzenia i wymiany informacji w ochronie zdrowia: PN-EN ISO 13606-1:2019-08 Informatyka w ochronie zdrowia - Przesyłanie elektronicznej dokumentacji zdrowotnej;"
+    },
+    {
+      "provision_ref": "par6p2",
+      "section": "6",
+      "title": "§ 6 pkt 2",
+      "content": "W zakresie warunków organizacyjno-technicznych gromadzenia i pobierania danych przetwarzanych w TOPSOR, TOPSOR jest zgodny z warunkami określonymi w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne , a w zakresie nieuregulowanym w tych przepisach, z następującymi normami, których przedmiotem są zasady gromadzenia i wymiany informacji w ochronie zdrowia: PN-EN ISO 13606:2-4:2009 Informatyka w ochronie zdrowia - Przesyłanie elektronicznej dokumentacji zdrowotnej;"
+    },
+    {
+      "provision_ref": "par6p3",
+      "section": "6",
+      "title": "§ 6 pkt 3",
+      "content": "W zakresie warunków organizacyjno-technicznych gromadzenia i pobierania danych przetwarzanych w TOPSOR, TOPSOR jest zgodny z warunkami określonymi w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne , a w zakresie nieuregulowanym w tych przepisach, z następującymi normami, których przedmiotem są zasady gromadzenia i wymiany informacji w ochronie zdrowia: PN-EN ISO 13606-5:2019-08 Informatyka w ochronie zdrowia - Przesyłanie elektronicznej dokumentacji zdrowotnej - albo normami lub wersjami norm lub standardami je zastępującymi."
+    },
+    {
+      "provision_ref": "par7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 lipca 2021 r."
+    }
+  ],
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2020-882",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-2112",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-2401",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-159",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-849",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-670",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-952",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1005",
+      "ref_type": "references"
+    }
+  ]
+}

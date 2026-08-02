@@ -10,16 +10,70 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2001/1402",
   "provisions": [
     {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia, z wyjątkiem art. 1 pkt 24, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "Ochronie określonej w ustawie podlegają bazy danych, z wyłączeniem baz danych spełniających cechy utworu określone w ustawie z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych ( Dz. U. z 2000 r. Nr 80, poz. 904 ) ."
+      "content": "Bazy danych podlegają ochronie określonej w ustawie niezależnie od ochrony przyznanej na podstawie ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych bazom danych spełniającym cechy utworu."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "1. W rozumieniu ustawy: 1) baza danych oznacza zbiór danych lub jakichkolwiek innych materiałów i elementów zgromadzonych według określonej systematyki lub metody, indywidualnie dostępnych w jakikolwiek sposób, w tym środkami elektronicznymi, wymagający istotnego, co do jakości lub ilości, nakładu inwestycyjnego w celu sporządzenia, weryfikacji lub prezentacji jego zawartości, 2) pobieranie danych oznacza stałe lub czasowe przejęcie lub przeniesienie całości lub istotnej, co do jakości lub ilości, części zawartości bazy danych na inny nośnik, bez względu na sposób lub formę tego przejęcia lub przeniesienia, z zastrzeżeniem art. 3, 3) wtórne wykorzystanie oznacza publiczne udostępnienie bazy danych w dowolnej formie, a w szczególności poprzez rozpowszechnianie, bezpośrednie przekazywanie lub najem, z zastrzeżeniem art. 3, 4) producentem bazy danych jest osoba fizyczna, prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej, która ponosi ryzyko nakładu inwestycyjnego przy tworzeniu bazy danych. 2. Ilekroć w ustawie jest mowa o producencie, należy przez to rozumieć także jego następcę prawnego."
+      "content": "W rozumieniu ustawy: baza danych oznacza zbiór danych lub jakichkolwiek innych materiałów i elementów zgromadzonych według określonej systematyki lub metody, indywidualnie dostępnych w jakikolwiek sposób, w tym środkami elektronicznymi, wymagający istotnego, co do jakości lub ilości, nakładu inwestycyjnego w celu sporządzenia, weryfikacji lub prezentacji jego zawartości; pobieranie danych oznacza stałe lub czasowe przejęcie lub przeniesienie całości lub istotnej, co do jakości lub ilości, części zawartości bazy danych na inny nośnik, bez względu na sposób lub formę tego przejęcia lub przeniesienia, z zastrzeżeniem art. 3; wtórne wykorzystanie oznacza publiczne udostępnienie bazy danych w dowolnej formie, a w szczególności poprzez rozpowszechnianie, bezpośrednie przekazywanie lub najem, z zastrzeżeniem art. 3; producentem bazy danych jest osoba fizyczna, prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej, która ponosi ryzyko nakładu inwestycyjnego przy tworzeniu bazy danych; eksploracja tekstów i danych oznacza eksplorację tekstów i danych w rozumieniu art. 6 ust. 1 pkt 22 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych ; instytucja oświatowa oznacza instytucję oświatową w rozumieniu art. 6 ust. 1 pkt 13 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych ; instytucja dziedzictwa kulturowego oznacza instytucję dziedzictwa kulturowego w rozumieniu art. 6 ust. 1 pkt 21 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych . Ilekroć w ustawie jest mowa o producencie, należy przez to rozumieć także jego następcę prawnego."
+    },
+    {
+      "provision_ref": "art2u1p1",
+      "section": "2",
+      "title": "Art. 2 ust. 1 pkt 1",
+      "content": "W rozumieniu ustawy: baza danych oznacza zbiór danych lub jakichkolwiek innych materiałów i elementów zgromadzonych według określonej systematyki lub metody, indywidualnie dostępnych w jakikolwiek sposób, w tym środkami elektronicznymi, wymagający istotnego, co do jakości lub ilości, nakładu inwestycyjnego w celu sporządzenia, weryfikacji lub prezentacji jego zawartości;"
+    },
+    {
+      "provision_ref": "art2u1p2",
+      "section": "2",
+      "title": "Art. 2 ust. 1 pkt 2",
+      "content": "W rozumieniu ustawy: pobieranie danych oznacza stałe lub czasowe przejęcie lub przeniesienie całości lub istotnej, co do jakości lub ilości, części zawartości bazy danych na inny nośnik, bez względu na sposób lub formę tego przejęcia lub przeniesienia, z zastrzeżeniem art. 3;"
+    },
+    {
+      "provision_ref": "art2u1p3",
+      "section": "2",
+      "title": "Art. 2 ust. 1 pkt 3",
+      "content": "W rozumieniu ustawy: wtórne wykorzystanie oznacza publiczne udostępnienie bazy danych w dowolnej formie, a w szczególności poprzez rozpowszechnianie, bezpośrednie przekazywanie lub najem, z zastrzeżeniem art. 3;"
+    },
+    {
+      "provision_ref": "art2u1p4",
+      "section": "2",
+      "title": "Art. 2 ust. 1 pkt 4",
+      "content": "W rozumieniu ustawy: producentem bazy danych jest osoba fizyczna, prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej, która ponosi ryzyko nakładu inwestycyjnego przy tworzeniu bazy danych;"
+    },
+    {
+      "provision_ref": "art2u1p2",
+      "section": "2",
+      "title": "Art. 2 ust. 1 pkt 2",
+      "content": "W rozumieniu ustawy: eksploracja tekstów i danych oznacza eksplorację tekstów i danych w rozumieniu art. 6 ust. 1 pkt 22 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych ;"
+    },
+    {
+      "provision_ref": "art2u1p2",
+      "section": "2",
+      "title": "Art. 2 ust. 1 pkt 2",
+      "content": "W rozumieniu ustawy: instytucja oświatowa oznacza instytucję oświatową w rozumieniu art. 6 ust. 1 pkt 13 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych ;"
+    },
+    {
+      "provision_ref": "art2u1p2",
+      "section": "2",
+      "title": "Art. 2 ust. 1 pkt 2",
+      "content": "W rozumieniu ustawy: instytucja dziedzictwa kulturowego oznacza instytucję dziedzictwa kulturowego w rozumieniu art. 6 ust. 1 pkt 21 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych ."
+    },
+    {
+      "provision_ref": "art2u2",
+      "section": "2",
+      "title": "Art. 2 ust. 2",
+      "content": "Ilekroć w ustawie jest mowa o producencie, należy przez to rozumieć także jego następcę prawnego."
     },
     {
       "provision_ref": "art3",
@@ -37,49 +91,373 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Art. 5",
-      "content": "Z ochrony korzystają bazy danych, których: 1) producent jest obywatelem Rzeczypospolitej Polskiej albo ma na jej terytorium swoją siedzibę, 2) producent jest obywatelem państwa członkowskiego Unii Europejskiej lub ma miejsce stałego pobytu na terytorium Wspólnoty Europejskiej, 3) producent jest osobą prawną założoną zgodnie z prawem państwa członkowskiego Unii Europejskiej, posiadającą siedzibę i zakład główny wykonywania działalności na terytorium Wspólnoty Europejskiej; jeżeli producent posiada tylko siedzibę na terytorium Wspólnoty Europejskiej, jego działalność musi być istotnie i trwale związana z gospodarką państwa członkowskiego Unii Europejskiej, 4) ochrona wynika z umów międzynarodowych, na zasadach i w zakresie w nich określonych, 5) producent jest podmiotem niewymienionym w pkt 1-4 i jest przedsiębiorcą w rozumieniu ustawy z dnia 19 listopada 1999 r. - Prawo działalności gospodarczej ( Dz. U. Nr 101, poz. 1178 , z 2000 r. Nr 86, poz. 958 i Nr 114, poz. 1193 oraz z 2001 r. Nr 49, poz. 509 , Nr 67, poz. 679 i Nr 102, poz. 1115 ) ."
+      "content": "Z ochrony korzystają bazy danych, których: (utracił moc) producent jest obywatelem państwa członkowskiego Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stron umowy o Europejskim Obszarze Gospodarczym lub ma miejsce stałego pobytu na terytorium Wspólnoty Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stron umowy o Europejskim Obszarze Gospodarczym; producent jest osobą prawną założoną zgodnie z prawem państwa członkowskiego Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stron umowy o Europejskim Obszarze Gospodarczym, posiadającą siedzibę i zakład główny wykonywania działalności na terytorium Wspólnoty Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stron umowy o Europejskim Obszarze Gospodarczym; jeżeli producent posiada tylko siedzibę na terytorium Wspólnoty Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stron umowy o Europejskim Obszarze Gospodarczym, jego działalność musi być istotnie i trwale związana z gospodarką państwa członkowskiego Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stron umowy o Europejskim Obszarze Gospodarczym; ochrona wynika z umów międzynarodowych, na zasadach i w zakresie w nich określonych; producent jest podmiotem niewymienionym w pkt 1-4 i jest przedsiębiorcą w rozumieniu ustawy z dnia 19 listopada 1999 r. - Prawo działalności gospodarczej ) 4) Ustawa utraciła moc na podstawie art. 66 ustawy z dnia 2 lipca 2004 r. - Przepisy wprowadzające ustawę o swobodzie działalności gospodarczej (Dz. U. poz. 1808, z 2006 r. poz. 1636, z 2008 r. poz. 888, z 2009 r. poz. 97 oraz z 2011 r. poz. 764), która weszła w życie z dniem 21 sierpnia 2004 r. ."
+    },
+    {
+      "provision_ref": "art5p1",
+      "section": "5",
+      "title": "Art. 5 pkt 1",
+      "content": "Z ochrony korzystają bazy danych, których: (utracił moc)"
+    },
+    {
+      "provision_ref": "art5p2",
+      "section": "5",
+      "title": "Art. 5 pkt 2",
+      "content": "Z ochrony korzystają bazy danych, których: producent jest obywatelem państwa członkowskiego Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stron umowy o Europejskim Obszarze Gospodarczym lub ma miejsce stałego pobytu na terytorium Wspólnoty Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stron umowy o Europejskim Obszarze Gospodarczym;"
+    },
+    {
+      "provision_ref": "art5p3",
+      "section": "5",
+      "title": "Art. 5 pkt 3",
+      "content": "Z ochrony korzystają bazy danych, których: producent jest osobą prawną założoną zgodnie z prawem państwa członkowskiego Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stron umowy o Europejskim Obszarze Gospodarczym, posiadającą siedzibę i zakład główny wykonywania działalności na terytorium Wspólnoty Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stron umowy o Europejskim Obszarze Gospodarczym; jeżeli producent posiada tylko siedzibę na terytorium Wspólnoty Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stron umowy o Europejskim Obszarze Gospodarczym, jego działalność musi być istotnie i trwale związana z gospodarką państwa członkowskiego Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stron umowy o Europejskim Obszarze Gospodarczym;"
+    },
+    {
+      "provision_ref": "art5p4",
+      "section": "5",
+      "title": "Art. 5 pkt 4",
+      "content": "Z ochrony korzystają bazy danych, których: ochrona wynika z umów międzynarodowych, na zasadach i w zakresie w nich określonych;"
+    },
+    {
+      "provision_ref": "art5p5",
+      "section": "5",
+      "title": "Art. 5 pkt 5",
+      "content": "Z ochrony korzystają bazy danych, których: producent jest podmiotem niewymienionym w pkt 1-4 i jest przedsiębiorcą w rozumieniu ustawy z dnia 19 listopada 1999 r. - Prawo działalności gospodarczej ) 4) Ustawa utraciła moc na podstawie art. 66 ustawy z dnia 2 lipca 2004 r. - Przepisy wprowadzające ustawę o swobodzie działalności gospodarczej (Dz. U. poz. 1808, z 2006 r. poz. 1636, z 2008 r. poz. 888, z 2009 r. poz. 97 oraz z 2011 r. poz. 764), która weszła w życie z dniem 21 sierpnia 2004 r. ."
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Art. 6",
+      "content": "Producentowi bazy danych przysługuje wyłączne i zbywalne prawo pobierania danych i wtórnego ich wykorzystania w całości lub w istotnej części, co do jakości lub ilości. Domniemywa się, że producentem jest osoba, której nazwisko lub firmę (nazwę) w tym charakterze uwidoczniono na egzemplarzach bazy danych lub której nazwisko lub firmę (nazwę) podano do publicznej wiadomości w jakikolwiek inny sposób w związku z rozpowszechnieniem bazy danych."
+    },
+    {
+      "provision_ref": "art6u1",
+      "section": "6",
+      "title": "Art. 6 ust. 1",
       "content": "Producentowi bazy danych przysługuje wyłączne i zbywalne prawo pobierania danych i wtórnego ich wykorzystania w całości lub w istotnej części, co do jakości lub ilości."
+    },
+    {
+      "provision_ref": "art6u2",
+      "section": "6",
+      "title": "Art. 6 ust. 2",
+      "content": "Domniemywa się, że producentem jest osoba, której nazwisko lub firmę (nazwę) w tym charakterze uwidoczniono na egzemplarzach bazy danych lub której nazwisko lub firmę (nazwę) podano do publicznej wiadomości w jakikolwiek inny sposób w związku z rozpowszechnieniem bazy danych."
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Art. 7",
-      "content": "1. Producent bazy danych udostępnionej publicznie w jakikolwiek sposób nie może zabronić użytkownikowi korzystającemu zgodnie z prawem z takiej bazy danych, pobierania lub wtórnego wykorzystania w jakimkolwiek celu nieistotnej, co do jakości lub ilości, części jej zawartości. 2. Jeżeli użytkownik korzystający zgodnie z prawem z bazy danych jest uprawniony do pobierania lub wtórnego wykorzystania jedynie części bazy danych, przepis ust. 1 dotyczy tylko tej części. 3. Korzystanie z baz danych, o którym mowa w ust. 1, nie może naruszać normalnego korzystania z baz danych lub godzić w słuszne interesy producenta baz danych."
+      "content": "Producent bazy danych udostępnionej publicznie w jakikolwiek sposób nie może zabronić użytkownikowi korzystającemu zgodnie z prawem z takiej bazy danych, pobierania lub wtórnego wykorzystania w jakimkolwiek celu nieistotnej, co do jakości lub ilości, części jej zawartości. Jeżeli użytkownik korzystający zgodnie z prawem z bazy danych jest uprawniony do pobierania lub wtórnego wykorzystania jedynie części bazy danych, przepis ust. 1 dotyczy tylko tej części. Korzystanie z baz danych, o którym mowa w ust. 1, nie może naruszać normalnego korzystania z baz danych lub godzić w słuszne interesy producenta baz danych. Postanowienia umowne sprzeczne z ust. 1 i 2 są nieważne."
+    },
+    {
+      "provision_ref": "art7u1",
+      "section": "7",
+      "title": "Art. 7 ust. 1",
+      "content": "Producent bazy danych udostępnionej publicznie w jakikolwiek sposób nie może zabronić użytkownikowi korzystającemu zgodnie z prawem z takiej bazy danych, pobierania lub wtórnego wykorzystania w jakimkolwiek celu nieistotnej, co do jakości lub ilości, części jej zawartości."
+    },
+    {
+      "provision_ref": "art7u2",
+      "section": "7",
+      "title": "Art. 7 ust. 2",
+      "content": "Jeżeli użytkownik korzystający zgodnie z prawem z bazy danych jest uprawniony do pobierania lub wtórnego wykorzystania jedynie części bazy danych, przepis ust. 1 dotyczy tylko tej części."
+    },
+    {
+      "provision_ref": "art7u3",
+      "section": "7",
+      "title": "Art. 7 ust. 3",
+      "content": "Korzystanie z baz danych, o którym mowa w ust. 1, nie może naruszać normalnego korzystania z baz danych lub godzić w słuszne interesy producenta baz danych."
+    },
+    {
+      "provision_ref": "art7u4",
+      "section": "7",
+      "title": "Art. 7 ust. 4",
+      "content": "Postanowienia umowne sprzeczne z ust. 1 i 2 są nieważne."
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Art. 8",
-      "content": "1. Wolno korzystać z istotnej, co do jakości lub ilości, części rozpowszechnionej bazy danych: 1) do własnego użytku osobistego, ale tylko z zawartości nieelektronicznej bazy danych, 2) w charakterze ilustracji, w celach dydaktycznych lub badawczych, ze wskazaniem źródła, jeżeli takie korzystanie jest uzasadnione niekomercyjnym celem, dla którego wykorzystano bazę, 3) do celów bezpieczeństwa wewnętrznego, postępowania sądowego lub administracyjnego. 2. Nie jest dozwolone powtarzające się i systematyczne pobieranie lub wtórne wykorzystanie sprzeczne z normalnym korzystaniem i powodujące nieusprawiedliwione naruszenie słusznych interesów producenta."
+      "content": "Wolno korzystać z istotnej, co do jakości lub ilości, części rozpowszechnionej bazy danych: do własnego użytku osobistego, ale tylko z zawartości nieelektronicznej bazy danych; w charakterze ilustracji, w celach dydaktycznych lub badawczych, ze wskazaniem źródła, jeżeli takie korzystanie jest uzasadnione niekomercyjnym celem, dla którego wykorzystano bazę; do celów bezpieczeństwa wewnętrznego, postępowania sądowego lub administracyjnego; dla dobra osób niepełnosprawnych będących beneficjentami w rozumieniu art. 6 ust. 1 pkt 18 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych , odpowiednio na zasadach określonych w rozdziale 3 w oddziale 3 1 tej ustawy. W przypadku instytucji oświatowych oraz podmiotów, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4-8 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce , korzystanie, o którym mowa w ust. 1 pkt 2, odbywa się na odpowiedzialność tych instytucji lub podmiotów, na ich terenie lub w innym miejscu, lub za pośrednictwem bezpiecznego środowiska elektronicznego dostępnego, dzięki zastosowaniu procedur uwierzytelniających, tylko dla osób uczących się i nauczających lub prowadzących działalność naukową w danej instytucji lub danym podmiocie. Uznaje się, że korzystanie z baz danych w charakterze ilustracji w celach dydaktycznych, za pośrednictwem bezpiecznego środowiska elektronicznego, w sposób określony w ust. 1a, odbywa się w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stronie umowy o Europejskim Obszarze Gospodarczym, w którym dana instytucja oświatowa lub dany podmiot mają siedzibę. Nie jest dozwolone powtarzające się i systematyczne pobieranie lub wtórne wykorzystanie sprzeczne z normalnym korzystaniem i powodujące nieusprawiedliwione naruszenie słusznych interesów producenta."
+    },
+    {
+      "provision_ref": "art8u1p1",
+      "section": "8",
+      "title": "Art. 8 ust. 1 pkt 1",
+      "content": "Wolno korzystać z istotnej, co do jakości lub ilości, części rozpowszechnionej bazy danych: do własnego użytku osobistego, ale tylko z zawartości nieelektronicznej bazy danych;"
+    },
+    {
+      "provision_ref": "art8u1p2",
+      "section": "8",
+      "title": "Art. 8 ust. 1 pkt 2",
+      "content": "Wolno korzystać z istotnej, co do jakości lub ilości, części rozpowszechnionej bazy danych: w charakterze ilustracji, w celach dydaktycznych lub badawczych, ze wskazaniem źródła, jeżeli takie korzystanie jest uzasadnione niekomercyjnym celem, dla którego wykorzystano bazę;"
+    },
+    {
+      "provision_ref": "art8u1p3",
+      "section": "8",
+      "title": "Art. 8 ust. 1 pkt 3",
+      "content": "Wolno korzystać z istotnej, co do jakości lub ilości, części rozpowszechnionej bazy danych: do celów bezpieczeństwa wewnętrznego, postępowania sądowego lub administracyjnego;"
+    },
+    {
+      "provision_ref": "art8u1p5",
+      "section": "8",
+      "title": "Art. 8 ust. 1 pkt 5",
+      "content": "Wolno korzystać z istotnej, co do jakości lub ilości, części rozpowszechnionej bazy danych: dla dobra osób niepełnosprawnych będących beneficjentami w rozumieniu art. 6 ust. 1 pkt 18 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych , odpowiednio na zasadach określonych w rozdziale 3 w oddziale 3 1 tej ustawy."
+    },
+    {
+      "provision_ref": "art8u1a",
+      "section": "8",
+      "title": "Art. 8 ust. 1a",
+      "content": "W przypadku instytucji oświatowych oraz podmiotów, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4-8 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce , korzystanie, o którym mowa w ust. 1 pkt 2, odbywa się na odpowiedzialność tych instytucji lub podmiotów, na ich terenie lub w innym miejscu, lub za pośrednictwem bezpiecznego środowiska elektronicznego dostępnego, dzięki zastosowaniu procedur uwierzytelniających, tylko dla osób uczących się i nauczających lub prowadzących działalność naukową w danej instytucji lub danym podmiocie."
+    },
+    {
+      "provision_ref": "art8u1b",
+      "section": "8",
+      "title": "Art. 8 ust. 1b",
+      "content": "Uznaje się, że korzystanie z baz danych w charakterze ilustracji w celach dydaktycznych, za pośrednictwem bezpiecznego środowiska elektronicznego, w sposób określony w ust. 1a, odbywa się w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stronie umowy o Europejskim Obszarze Gospodarczym, w którym dana instytucja oświatowa lub dany podmiot mają siedzibę."
+    },
+    {
+      "provision_ref": "art8u2",
+      "section": "8",
+      "title": "Art. 8 ust. 2",
+      "content": "Nie jest dozwolone powtarzające się i systematyczne pobieranie lub wtórne wykorzystanie sprzeczne z normalnym korzystaniem i powodujące nieusprawiedliwione naruszenie słusznych interesów producenta."
+    },
+    {
+      "provision_ref": "art8a",
+      "section": "8a",
+      "title": "Art. 8a",
+      "content": "Wolno zwielokrotniać rozpowszechnione bazy danych w celu eksploracji tekstów i danych, chyba że uprawniony zastrzegł inaczej. Zastrzeżenia, o którym mowa w ust. 1, dokonuje się wyraźnie i odpowiednio do sposobu, w jaki baza danych została udostępniona. W przypadku baz danych publicznie udostępnionych w taki sposób, aby każdy mógł mieć do nich dostęp w miejscu i czasie przez siebie wybranym, zastrzeżenia dokonuje się w formacie przeznaczonym do odczytu maszynowego w rozumieniu art. 2 pkt 7 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego wraz z metadanymi. Bazy danych zwielokrotnione zgodnie z ust. 1 mogą być przechowywane wyłącznie w celu eksploracji tekstów i danych tak długo, jak jest to konieczne do osiągnięcia tego celu."
+    },
+    {
+      "provision_ref": "art8au1",
+      "section": "8a",
+      "title": "Art. 8a ust. 1",
+      "content": "Wolno zwielokrotniać rozpowszechnione bazy danych w celu eksploracji tekstów i danych, chyba że uprawniony zastrzegł inaczej."
+    },
+    {
+      "provision_ref": "art8au2",
+      "section": "8a",
+      "title": "Art. 8a ust. 2",
+      "content": "Zastrzeżenia, o którym mowa w ust. 1, dokonuje się wyraźnie i odpowiednio do sposobu, w jaki baza danych została udostępniona. W przypadku baz danych publicznie udostępnionych w taki sposób, aby każdy mógł mieć do nich dostęp w miejscu i czasie przez siebie wybranym, zastrzeżenia dokonuje się w formacie przeznaczonym do odczytu maszynowego w rozumieniu art. 2 pkt 7 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego wraz z metadanymi."
+    },
+    {
+      "provision_ref": "art8au3",
+      "section": "8a",
+      "title": "Art. 8a ust. 3",
+      "content": "Bazy danych zwielokrotnione zgodnie z ust. 1 mogą być przechowywane wyłącznie w celu eksploracji tekstów i danych tak długo, jak jest to konieczne do osiągnięcia tego celu."
+    },
+    {
+      "provision_ref": "art8b",
+      "section": "8b",
+      "title": "Art. 8b",
+      "content": "Instytucje dziedzictwa kulturowego, a także podmioty, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4-8 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce , mogą zwielokrotniać bazy danych w celu eksploracji tekstów i danych do celów badań naukowych, jeżeli czynności te nie są dokonywane w celu osiągnięcia bezpośredniej lub pośredniej korzyści majątkowej. Bazy danych zwielokrotnione zgodnie z ust. 1 mogą być przechowywane do celów badań naukowych, w tym weryfikacji wyników tych badań. Przechowywanie baz danych odbywa się z zachowaniem poziomu bezpieczeństwa zapewniającego dostęp do nich wyłącznie upoważnionym osobom, z uwzględnieniem procedur uwierzytelniających. Uprawniony, w celu zapewnienia bezpieczeństwa i integralności sieci i baz danych, w których utwory są przechowywane, może stosować wyłącznie środki niezbędne do osiągnięcia tego celu."
+    },
+    {
+      "provision_ref": "art8bu1",
+      "section": "8b",
+      "title": "Art. 8b ust. 1",
+      "content": "Instytucje dziedzictwa kulturowego, a także podmioty, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4-8 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce , mogą zwielokrotniać bazy danych w celu eksploracji tekstów i danych do celów badań naukowych, jeżeli czynności te nie są dokonywane w celu osiągnięcia bezpośredniej lub pośredniej korzyści majątkowej."
+    },
+    {
+      "provision_ref": "art8bu2",
+      "section": "8b",
+      "title": "Art. 8b ust. 2",
+      "content": "Bazy danych zwielokrotnione zgodnie z ust. 1 mogą być przechowywane do celów badań naukowych, w tym weryfikacji wyników tych badań. Przechowywanie baz danych odbywa się z zachowaniem poziomu bezpieczeństwa zapewniającego dostęp do nich wyłącznie upoważnionym osobom, z uwzględnieniem procedur uwierzytelniających."
+    },
+    {
+      "provision_ref": "art8bu3",
+      "section": "8b",
+      "title": "Art. 8b ust. 3",
+      "content": "Uprawniony, w celu zapewnienia bezpieczeństwa i integralności sieci i baz danych, w których utwory są przechowywane, może stosować wyłącznie środki niezbędne do osiągnięcia tego celu."
+    },
+    {
+      "provision_ref": "art8c",
+      "section": "8c",
+      "title": "Art. 8c",
+      "content": "Instytucje dziedzictwa kulturowego mogą zwielokrotniać bazy danych znajdujące się na stałe w ich zbiorach, niezależnie od formatu lub nośnika, w celu uzupełnienia, zachowania lub ochrony tych zbiorów."
+    },
+    {
+      "provision_ref": "art8d",
+      "section": "8d",
+      "title": "Art. 8d",
+      "content": "Instytucje dziedzictwa kulturowego mogą zwielokrotniać znajdujące się na stałe w ich zbiorach bazy danych uznane za niedostępne w handlu oraz rozpowszechniać je na stronach internetowych, które nie są prowadzone w celach zarobkowych. Przepisy oddziałów 6 i 6 2 rozdziału 3 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych stosuje się odpowiednio."
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Art. 9",
-      "content": "1. Pierwsza sprzedaż kopii bazy danych na terytorium Rzeczypospolitej Polskiej przez uprawnionego lub za jego zgodą wyczerpuje prawo do kontrolowania odsprzedaży tej kopii na tym terytorium. 2. Pierwsza sprzedaż kopii bazy danych w państwach członkowskich Unii Europejskiej przez uprawnionego lub za jego zgodą wyczerpuje prawo do kontrolowania odsprzedaży tej kopii na ich terytorium."
+      "content": "(utracił moc) Pierwsza sprzedaż kopii bazy danych w państwach członkowskich Unii Europejskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stronach umowy o Europejskim Obszarze Gospodarczym przez uprawnionego lub za jego zgodą, wyczerpuje prawo do kontrolowania odsprzedaży tej kopii na ich terytorium."
+    },
+    {
+      "provision_ref": "art9u1",
+      "section": "9",
+      "title": "Art. 9 ust. 1",
+      "content": "(utracił moc)"
+    },
+    {
+      "provision_ref": "art9u2",
+      "section": "9",
+      "title": "Art. 9 ust. 2",
+      "content": "Pierwsza sprzedaż kopii bazy danych w państwach członkowskich Unii Europejskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stronach umowy o Europejskim Obszarze Gospodarczym przez uprawnionego lub za jego zgodą, wyczerpuje prawo do kontrolowania odsprzedaży tej kopii na ich terytorium."
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Art. 10",
-      "content": "1. Czas trwania ochrony bazy danych liczy się od jej sporządzenia przez okres piętnastu lat następujących po roku, w którym baza danych została sporządzona. 2. Jeżeli w okresie, o którym mowa w ust. 1, baza danych została w jakikolwiek sposób udostępniona publicznie, okres jej ochrony wygasa z upływem piętnastu lat następujących po roku, w którym doszło do jej udostępnienia po raz pierwszy. 3. W przypadku jakiejkolwiek istotnej zmiany treści bazy danych, co do jakości lub ilości, w tym jej uzupełnienia, zmiany lub usunięcia jej części, mających znamiona nowego istotnego, co do jakości lub ilości, nakładu, okres jej ochrony liczy się odrębnie."
+      "content": "Czas trwania ochrony bazy danych liczy się od jej sporządzenia przez okres piętnastu lat następujących po roku, w którym baza danych została sporządzona. Jeżeli w okresie, o którym mowa w ust. 1, baza danych została w jakikolwiek sposób udostępniona publicznie, okres jej ochrony wygasa z upływem piętnastu lat następujących po roku, w którym doszło do jej udostępnienia po raz pierwszy. W przypadku jakiejkolwiek istotnej zmiany treści bazy danych, co do jakości lub ilości, w tym jej uzupełnienia, zmiany lub usunięcia jej części, mających znamiona nowego istotnego, co do jakości lub ilości, nakładu, okres jej ochrony liczy się odrębnie."
+    },
+    {
+      "provision_ref": "art10u1",
+      "section": "10",
+      "title": "Art. 10 ust. 1",
+      "content": "Czas trwania ochrony bazy danych liczy się od jej sporządzenia przez okres piętnastu lat następujących po roku, w którym baza danych została sporządzona."
+    },
+    {
+      "provision_ref": "art10u2",
+      "section": "10",
+      "title": "Art. 10 ust. 2",
+      "content": "Jeżeli w okresie, o którym mowa w ust. 1, baza danych została w jakikolwiek sposób udostępniona publicznie, okres jej ochrony wygasa z upływem piętnastu lat następujących po roku, w którym doszło do jej udostępnienia po raz pierwszy."
+    },
+    {
+      "provision_ref": "art10u3",
+      "section": "10",
+      "title": "Art. 10 ust. 3",
+      "content": "W przypadku jakiejkolwiek istotnej zmiany treści bazy danych, co do jakości lub ilości, w tym jej uzupełnienia, zmiany lub usunięcia jej części, mających znamiona nowego istotnego, co do jakości lub ilości, nakładu, okres jej ochrony liczy się odrębnie."
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Art. 11",
-      "content": "Producent bazy danych może żądać od osoby, która naruszyła jego prawo do bazy danych, zaniechania naruszeń, przywrócenia stanu zgodnego z prawem i wydania bezprawnie uzyskanej korzyści majątkowej; producent bazy danych może również żądać naprawienia wyrządzonej szkody na zasadach ogólnych."
+      "content": "Producent, którego prawa do bazy danych zostały naruszone, może żądać od osoby, która naruszyła te prawa: zaniechania naruszania; usunięcia skutków naruszenia; naprawienia wyrządzonej szkody: na zasadach ogólnych albo poprzez zapłatę sumy pieniężnej w wysokości odpowiadającej dwukrotności, a w przypadku gdy naruszenie jest zawinione - trzykrotności stosownego wynagrodzenia, które w chwili jego dochodzenia byłoby należne tytułem udzielenia przez uprawnionego zgody na korzystanie z bazy danych; wydania uzyskanych korzyści. Niezależnie od roszczeń, określonych w ust. 1, producent może się domagać jednokrotnego albo wielokrotnego ogłoszenia w prasie oświadczenia odpowiedniej treści i w odpowiedniej formie lub podania do publicznej wiadomości części albo całości orzeczenia sądu wydanego w rozpatrywanej sprawie, w sposób i w zakresie określonym przez sąd. Sąd może nakazać osobie, która naruszyła prawa do bazy danych, na jej wniosek i za zgodą producenta, w przypadku gdy naruszenie jest niezawinione, zapłatę stosownej sumy pieniężnej na rzecz producenta, jeżeli zaniechanie naruszania lub usunięcie skutków naruszenia byłoby dla osoby naruszającej niewspółmiernie dotkliwe. Sąd, rozstrzygając o naruszeniu prawa, może orzec na wniosek producenta, którego prawa zostały naruszone, o bezprawnie wytworzonych przedmiotach oraz środkach i materiałach użytych do ich wytworzenia, w szczególności może orzec o ich wycofaniu z obrotu, przyznaniu producentowi na poczet należnego odszkodowania lub zniszczeniu. Orzekając, sąd uwzględnia wagę naruszenia oraz interesy osób trzecich. Domniemywa się, że środki i materiały, o których mowa w ust. 4, są własnością osoby, która naruszyła prawa do bazy danych."
+    },
+    {
+      "provision_ref": "art11u1p1",
+      "section": "11",
+      "title": "Art. 11 ust. 1 pkt 1",
+      "content": "Producent, którego prawa do bazy danych zostały naruszone, może żądać od osoby, która naruszyła te prawa: zaniechania naruszania;"
+    },
+    {
+      "provision_ref": "art11u1p2",
+      "section": "11",
+      "title": "Art. 11 ust. 1 pkt 2",
+      "content": "Producent, którego prawa do bazy danych zostały naruszone, może żądać od osoby, która naruszyła te prawa: usunięcia skutków naruszenia;"
+    },
+    {
+      "provision_ref": "art11u1p3la",
+      "section": "11",
+      "title": "Art. 11 ust. 1 pkt 3 lit. a",
+      "content": "Producent, którego prawa do bazy danych zostały naruszone, może żądać od osoby, która naruszyła te prawa: naprawienia wyrządzonej szkody: na zasadach ogólnych albo"
+    },
+    {
+      "provision_ref": "art11u1p3lb",
+      "section": "11",
+      "title": "Art. 11 ust. 1 pkt 3 lit. b",
+      "content": "Producent, którego prawa do bazy danych zostały naruszone, może żądać od osoby, która naruszyła te prawa: naprawienia wyrządzonej szkody: poprzez zapłatę sumy pieniężnej w wysokości odpowiadającej dwukrotności, a w przypadku gdy naruszenie jest zawinione - trzykrotności stosownego wynagrodzenia, które w chwili jego dochodzenia byłoby należne tytułem udzielenia przez uprawnionego zgody na korzystanie z bazy danych;"
+    },
+    {
+      "provision_ref": "art11u1p4",
+      "section": "11",
+      "title": "Art. 11 ust. 1 pkt 4",
+      "content": "Producent, którego prawa do bazy danych zostały naruszone, może żądać od osoby, która naruszyła te prawa: wydania uzyskanych korzyści."
+    },
+    {
+      "provision_ref": "art11u2",
+      "section": "11",
+      "title": "Art. 11 ust. 2",
+      "content": "Niezależnie od roszczeń, określonych w ust. 1, producent może się domagać jednokrotnego albo wielokrotnego ogłoszenia w prasie oświadczenia odpowiedniej treści i w odpowiedniej formie lub podania do publicznej wiadomości części albo całości orzeczenia sądu wydanego w rozpatrywanej sprawie, w sposób i w zakresie określonym przez sąd."
+    },
+    {
+      "provision_ref": "art11u3",
+      "section": "11",
+      "title": "Art. 11 ust. 3",
+      "content": "Sąd może nakazać osobie, która naruszyła prawa do bazy danych, na jej wniosek i za zgodą producenta, w przypadku gdy naruszenie jest niezawinione, zapłatę stosownej sumy pieniężnej na rzecz producenta, jeżeli zaniechanie naruszania lub usunięcie skutków naruszenia byłoby dla osoby naruszającej niewspółmiernie dotkliwe."
+    },
+    {
+      "provision_ref": "art11u4",
+      "section": "11",
+      "title": "Art. 11 ust. 4",
+      "content": "Sąd, rozstrzygając o naruszeniu prawa, może orzec na wniosek producenta, którego prawa zostały naruszone, o bezprawnie wytworzonych przedmiotach oraz środkach i materiałach użytych do ich wytworzenia, w szczególności może orzec o ich wycofaniu z obrotu, przyznaniu producentowi na poczet należnego odszkodowania lub zniszczeniu. Orzekając, sąd uwzględnia wagę naruszenia oraz interesy osób trzecich."
+    },
+    {
+      "provision_ref": "art11u5",
+      "section": "11",
+      "title": "Art. 11 ust. 5",
+      "content": "Domniemywa się, że środki i materiały, o których mowa w ust. 4, są własnością osoby, która naruszyła prawa do bazy danych."
+    },
+    {
+      "provision_ref": "art11a",
+      "section": "11a",
+      "title": "Art. 11a",
+      "content": "W sprawach dotyczących roszczeń cywilnoprawnych z zakresu ochrony baz danych, nienależących do kompetencji innych organów, sąd rozpoznaje wniosek o: zabezpieczenie środka dowodowego; wyjawienie lub wydanie środka dowodowego; wezwanie do udzielenia informacji. Sprawy, o których mowa w ust. 1, są rozstrzygane w postępowaniu w sprawach własności intelektualnej. (uchylony) (uchylony) (uchylony) (uchylony)"
+    },
+    {
+      "provision_ref": "art11au1p1",
+      "section": "11a",
+      "title": "Art. 11a ust. 1 pkt 1",
+      "content": "W sprawach dotyczących roszczeń cywilnoprawnych z zakresu ochrony baz danych, nienależących do kompetencji innych organów, sąd rozpoznaje wniosek o: zabezpieczenie środka dowodowego;"
+    },
+    {
+      "provision_ref": "art11au1p2",
+      "section": "11a",
+      "title": "Art. 11a ust. 1 pkt 2",
+      "content": "W sprawach dotyczących roszczeń cywilnoprawnych z zakresu ochrony baz danych, nienależących do kompetencji innych organów, sąd rozpoznaje wniosek o: wyjawienie lub wydanie środka dowodowego;"
+    },
+    {
+      "provision_ref": "art11au1p3",
+      "section": "11a",
+      "title": "Art. 11a ust. 1 pkt 3",
+      "content": "W sprawach dotyczących roszczeń cywilnoprawnych z zakresu ochrony baz danych, nienależących do kompetencji innych organów, sąd rozpoznaje wniosek o: wezwanie do udzielenia informacji."
+    },
+    {
+      "provision_ref": "art11au2",
+      "section": "11a",
+      "title": "Art. 11a ust. 2",
+      "content": "Sprawy, o których mowa w ust. 1, są rozstrzygane w postępowaniu w sprawach własności intelektualnej."
+    },
+    {
+      "provision_ref": "art11au3",
+      "section": "11a",
+      "title": "Art. 11a ust. 3",
+      "content": "(uchylony)"
+    },
+    {
+      "provision_ref": "art11au4",
+      "section": "11a",
+      "title": "Art. 11a ust. 4",
+      "content": "(uchylony)"
+    },
+    {
+      "provision_ref": "art11au5",
+      "section": "11a",
+      "title": "Art. 11a ust. 5",
+      "content": "(uchylony)"
+    },
+    {
+      "provision_ref": "art11au6",
+      "section": "11a",
+      "title": "Art. 11a ust. 6",
+      "content": "(uchylony)"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Art. 12",
-      "content": "1. Kto w celu osiągnięcia korzyści majątkowych, bez uprawnienia lub wbrew jego warunkom, pobiera dane lub wtórnie wykorzystuje w całości lub w istotnej, co do jakości lub ilości, części bazy danych, podlega karze grzywny. 2. Orzekanie następuje na podstawie Kodeksu postępowania w sprawach o wykroczenia . 3. Sąd może orzec przepadek, na rzecz Skarbu Państwa, bezprawnie wykonanych egzemplarzy bazy danych."
+      "content": "Kto w celu osiągnięcia korzyści majątkowych, bez uprawnienia lub wbrew jego warunkom, pobiera dane lub wtórnie wykorzystuje w całości lub w istotnej, co do jakości lub ilości, części bazy danych, podlega karze grzywny. Orzekanie następuje na podstawie Kodeksu postępowania w sprawach o wykroczenia . Sąd może orzec przepadek, na rzecz Skarbu Państwa, bezprawnie wykonanych egzemplarzy bazy danych."
+    },
+    {
+      "provision_ref": "art12u1",
+      "section": "12",
+      "title": "Art. 12 ust. 1",
+      "content": "Kto w celu osiągnięcia korzyści majątkowych, bez uprawnienia lub wbrew jego warunkom, pobiera dane lub wtórnie wykorzystuje w całości lub w istotnej, co do jakości lub ilości, części bazy danych, podlega karze grzywny."
+    },
+    {
+      "provision_ref": "art12u2",
+      "section": "12",
+      "title": "Art. 12 ust. 2",
+      "content": "Orzekanie następuje na podstawie Kodeksu postępowania w sprawach o wykroczenia ."
+    },
+    {
+      "provision_ref": "art12u3",
+      "section": "12",
+      "title": "Art. 12 ust. 3",
+      "content": "Sąd może orzec przepadek, na rzecz Skarbu Państwa, bezprawnie wykonanych egzemplarzy bazy danych."
     },
     {
       "provision_ref": "art13",
@@ -91,26 +469,84 @@
       "provision_ref": "art14",
       "section": "14",
       "title": "Art. 14",
-      "content": "W ustawie z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych ( Dz. U. z 2000 r. Nr 80, poz. 904 ) wprowadza się następujące zmiany: 1) w art. 2 w ust. 2 dodaje się zdanie drugie w brzmieniu: „ W przypadku baz danych spełniających cechy utworu zezwolenie twórcy jest konieczne także na sporządzenie opracowania. ” ; 2) w art. 3 po wyrazach „bazy danych” dodaje się wyrazy „spełniające cechy utworu” ; 3) po art. 17 dodaje się art. 17 1 w brzmieniu: „ Art. 17 1 . Opracowanie lub zwielokrotnienie bazy danych spełniającej cechy utworu, dokonane przez legalnego użytkownika bazy danych lub jej kopii, nie wymaga zezwolenia autora bazy danych, jeśli jest ono konieczne dla dostępu do zawartości bazy danych i normalnego korzystania z jej zawartości. Jeżeli użytkownik jest upoważniony do korzystania tylko z części bazy danych, niniejsze postanowienie odnosi się tylko do tej części. ” ; 4) w art. 23 w ust. 1 po wyrazach „architektoniczno-urbanistycznego” dodaje się wyrazy „oraz do korzystania z elektronicznych baz danych spełniających cechy utworu, chyba że dotyczy to własnego użytku naukowego niezwiązanego z celem zarobkowym” ; 5) po art. 30 dodaje się art. 30 1 w brzmieniu: „ Art. 30 1 . Do baz danych spełniających cechy utworu nie stosuje się art. 28, art. 29 ust. 2 i 3 i art. 30. ” ; 6) po art. 77 1 dodaje się art. 77 2 w brzmieniu: „ Art. 77 2 . Ochrona przyznana bazom danych spełniającym cechy utworu nie obejmuje programów komputerowych używanych do sporządzenia lub obsługi baz danych dostępnych przy pomocy środków elektronicznych. ”"
+      "content": "(pominięty)"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Art. 15",
-      "content": "1. Ustawę stosuje się także do baz danych istniejących w dniu jej wejścia w życie w odniesieniu do korzystania z nich po tej dacie. 2. Dokonane przed dniem wejścia w życie ustawy czynności prawne odnoszące się do baz danych są skuteczne i podlegają ochronie według zasad dotychczasowych."
+      "content": "Ustawę stosuje się także do baz danych istniejących w dniu jej wejścia w życie w odniesieniu do korzystania z nich po tej dacie. Dokonane przed dniem wejścia w życie ustawy czynności prawne odnoszące się do baz danych są skuteczne i podlegają ochronie według zasad dotychczasowych."
+    },
+    {
+      "provision_ref": "art15u1",
+      "section": "15",
+      "title": "Art. 15 ust. 1",
+      "content": "Ustawę stosuje się także do baz danych istniejących w dniu jej wejścia w życie w odniesieniu do korzystania z nich po tej dacie."
+    },
+    {
+      "provision_ref": "art15u2",
+      "section": "15",
+      "title": "Art. 15 ust. 2",
+      "content": "Dokonane przed dniem wejścia w życie ustawy czynności prawne odnoszące się do baz danych są skuteczne i podlegają ochronie według zasad dotychczasowych."
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Art. 16",
-      "content": "1. Przepisy art. 5 pkt 2 i 3 oraz art. 9 ust. 2 stosuje się od dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej. 2. Przepisy art. 5 pkt 1 i art. 9 ust. 1 tracą moc z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej."
+      "content": "Przepisy art. 5 pkt 2 i 3 oraz art. 9 ust. 2 stosuje się od dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej 8) Rzeczpospolita Polska uzyskała członkostwo w Unii Europejskiej z dniem 1 maja 2004 r. . Przepisy art. 5 pkt 1 i art. 9 ust. 1 tracą moc z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej."
+    },
+    {
+      "provision_ref": "art16u1",
+      "section": "16",
+      "title": "Art. 16 ust. 1",
+      "content": "Przepisy art. 5 pkt 2 i 3 oraz art. 9 ust. 2 stosuje się od dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej 8) Rzeczpospolita Polska uzyskała członkostwo w Unii Europejskiej z dniem 1 maja 2004 r. ."
+    },
+    {
+      "provision_ref": "art16u2",
+      "section": "16",
+      "title": "Art. 16 ust. 2",
+      "content": "Przepisy art. 5 pkt 1 i art. 9 ust. 1 tracą moc z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej."
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Art. 17",
-      "content": "Ustawa wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_2-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_2-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_2-pass_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_5-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_5-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_5-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_5-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"arti_7-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_7-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_7-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"arti_8-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_8-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_8-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_8-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_8-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"arti_9-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_9-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\",\"children\": [{\"id\": \"arti_10-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_10-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_10-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\",\"children\": [{\"id\": \"arti_12-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_12-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_12-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\",\"children\": [{\"id\": \"arti_14-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_14-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_14-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_14-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_14-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_14-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"}]},{\"id\": \"arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\",\"children\": [{\"id\": \"arti_15-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_15-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\",\"children\": [{\"id\": \"arti_16-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_16-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia 9) Ustawa została ogłoszona w dniu 9 listopada 2001 r. ."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2019-1461",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-386",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2024-1254",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2509",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2024-1222",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1999-1178",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2024-1571",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1524",
+      "ref_type": "references"
+    }
+  ]
 }

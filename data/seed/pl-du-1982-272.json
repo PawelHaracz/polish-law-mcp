@@ -13,14 +13,44 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 25 stycznia 1982 r. o szczególnej regulacji prawnej w okresie stanu wojennego ( Dz. U. Nr 3, poz. 18 ) po art. 1 dodaje się art. 1a w brzmieniu: „ Art. 1a. 1. W miarę utrwalania się pokoju społecznego, ładu i porządku publicznego Rada Państwa, na wniosek Rady Ministrów, może zawiesić stan wojenny wprowadzony ze względu na bezpieczeństwo państwa na całym lub na części terytorium Polskiej Rzeczypospolitej Ludowej. 2. W razie zagrożenia spokoju, ładu i porządku publicznego Rada Państwa, na wniosek Rady Ministrów, może przywrócić uprzednio zawieszony stan wojenny lub niektóre rygory tego stanu. 3. Zawieszenie stanu wojennego, o którym mowa w ust. 1, następuje w drodze uchwały Rady Państwa określającej terytorium i datę tego zawieszenia. Uchwała podlega ogłoszeniu w Dzienniku Ustaw Polskiej Rzeczypospolitej Ludowej oraz opublikowaniu w środkach masowego przekazu. W tym samym trybie następuje przywrócenie stanu wojennego lub jego rygorów, o których mowa w ust. 2. 4. Zakres regulacji prawnej w okresie zawieszenia stanu wojennego określa odrębna ustawa. ”"
+      "content": "W ustawie z dnia 25 stycznia 1982 r. o szczególnej regulacji prawnej w okresie stanu wojennego po art. 1 dodaje się art. 1a w brzmieniu: „ W miarę utrwalania się pokoju społecznego, ładu i porządku publicznego Rada Państwa, na wniosek Rady Ministrów, może zawiesić stan wojenny wprowadzony ze względu na bezpieczeństwo państwa na całym lub na części terytorium Polskiej Rzeczypospolitej Ludowej. W razie zagrożenia spokoju, ładu i porządku publicznego Rada Państwa, na wniosek Rady Ministrów, może przywrócić uprzednio zawieszony stan wojenny lub niektóre rygory tego stanu. Zawieszenie stanu wojennego, o którym mowa w ust. 1, następuje w drodze uchwały Rady Państwa określającej terytorium i datę tego zawieszenia. Uchwała podlega ogłoszeniu w Dzienniku Ustaw Polskiej Rzeczypospolitej Ludowej oraz opublikowaniu w środkach masowego przekazu. W tym samym trybie następuje przywrócenie stanu wojennego lub jego rygorów, o których mowa w ust. 2. Zakres regulacji prawnej w okresie zawieszenia stanu wojennego określa odrębna ustawa. ”"
+    },
+    {
+      "provision_ref": "art1u1",
+      "section": "1",
+      "title": "Art. 1 ust. 1",
+      "content": "W ustawie z dnia 25 stycznia 1982 r. o szczególnej regulacji prawnej w okresie stanu wojennego po art. 1 dodaje się art. 1a w brzmieniu: „ W miarę utrwalania się pokoju społecznego, ładu i porządku publicznego Rada Państwa, na wniosek Rady Ministrów, może zawiesić stan wojenny wprowadzony ze względu na bezpieczeństwo państwa na całym lub na części terytorium Polskiej Rzeczypospolitej Ludowej."
+    },
+    {
+      "provision_ref": "art1u2",
+      "section": "1",
+      "title": "Art. 1 ust. 2",
+      "content": "W ustawie z dnia 25 stycznia 1982 r. o szczególnej regulacji prawnej w okresie stanu wojennego po art. 1 dodaje się art. 1a w brzmieniu: „ W razie zagrożenia spokoju, ładu i porządku publicznego Rada Państwa, na wniosek Rady Ministrów, może przywrócić uprzednio zawieszony stan wojenny lub niektóre rygory tego stanu."
+    },
+    {
+      "provision_ref": "art1u3",
+      "section": "1",
+      "title": "Art. 1 ust. 3",
+      "content": "W ustawie z dnia 25 stycznia 1982 r. o szczególnej regulacji prawnej w okresie stanu wojennego po art. 1 dodaje się art. 1a w brzmieniu: „ Zawieszenie stanu wojennego, o którym mowa w ust. 1, następuje w drodze uchwały Rady Państwa określającej terytorium i datę tego zawieszenia. Uchwała podlega ogłoszeniu w Dzienniku Ustaw Polskiej Rzeczypospolitej Ludowej oraz opublikowaniu w środkach masowego przekazu. W tym samym trybie następuje przywrócenie stanu wojennego lub jego rygorów, o których mowa w ust. 2."
+    },
+    {
+      "provision_ref": "art1u4",
+      "section": "1",
+      "title": "Art. 1 ust. 4",
+      "content": "W ustawie z dnia 25 stycznia 1982 r. o szczególnej regulacji prawnej w okresie stanu wojennego po art. 1 dodaje się art. 1a w brzmieniu: „ Zakres regulacji prawnej w okresie zawieszenia stanu wojennego określa odrębna ustawa."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ustawa wchodzi w życie z dniem ogłoszenia Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-1982-18",
+      "ref_type": "amended_by"
+    }
+  ]
 }

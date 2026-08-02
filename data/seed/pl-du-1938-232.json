@@ -13,7 +13,25 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "Wprowadza się w rozporządzeniu Prezydenta Rzeczypospolitej z dnia 24 października 1934 r. o komunalnych kasach oszczędności ( Dz. U. R. P. Nr 95, poz. 860 ) zmianę następującą: w art. 91 po ust. (3) dodaje się trzy nowe ustępy, jako ustępy (4), (5) i (6): „ (4) Minister Skarbu w porozumieniu z Ministrem Spraw Wewnętrznych może zezwolić na rozłożenie na spłaty roczne sum brakujących do uzupełnienia kapitału zakładowego tym związkom założycielskim (poręczającym), które nie były w możności uzupełnić kapitału zakładowego swych kas oszczędności w terminie, przewidzianym w ust. (1). (5) Uzupełnienie brakującego kapitału zakładowego w spłatach rocznych winno nastąpić nie później niż dnia 29 października 1942 r. (6) Niezapłacenie raty w terminie oznaczonym powoduje skutki, przewidziane w ust. (3). ”"
+      "content": "Wprowadza się w rozporządzeniu Prezydenta Rzeczypospolitej z dnia 24 października 1934 r. o komunalnych kasach oszczędności zmianę następującą: w art. 91 po ust. (3) dodaje się trzy nowe ustępy, jako ustępy (4), (5) i (6): „ Minister Skarbu w porozumieniu z Ministrem Spraw Wewnętrznych może zezwolić na rozłożenie na spłaty roczne sum brakujących do uzupełnienia kapitału zakładowego tym związkom założycielskim (poręczającym), które nie były w możności uzupełnić kapitału zakładowego swych kas oszczędności w terminie, przewidzianym w ust. (1). Uzupełnienie brakującego kapitału zakładowego w spłatach rocznych winno nastąpić nie później niż dnia 29 października 1942 r. Niezapłacenie raty w terminie oznaczonym powoduje skutki, przewidziane w ust. (3). ”"
+    },
+    {
+      "provision_ref": "art1u4",
+      "section": "1",
+      "title": "Art. 1 ust. 4",
+      "content": "Wprowadza się w rozporządzeniu Prezydenta Rzeczypospolitej z dnia 24 października 1934 r. o komunalnych kasach oszczędności zmianę następującą: w art. 91 po ust. (3) dodaje się trzy nowe ustępy, jako ustępy (4), (5) i (6): „ Minister Skarbu w porozumieniu z Ministrem Spraw Wewnętrznych może zezwolić na rozłożenie na spłaty roczne sum brakujących do uzupełnienia kapitału zakładowego tym związkom założycielskim (poręczającym), które nie były w możności uzupełnić kapitału zakładowego swych kas oszczędności w terminie, przewidzianym w ust. (1)."
+    },
+    {
+      "provision_ref": "art1u5",
+      "section": "1",
+      "title": "Art. 1 ust. 5",
+      "content": "Wprowadza się w rozporządzeniu Prezydenta Rzeczypospolitej z dnia 24 października 1934 r. o komunalnych kasach oszczędności zmianę następującą: w art. 91 po ust. (3) dodaje się trzy nowe ustępy, jako ustępy (4), (5) i (6): „ Uzupełnienie brakującego kapitału zakładowego w spłatach rocznych winno nastąpić nie później niż dnia 29 października 1942 r."
+    },
+    {
+      "provision_ref": "art1u6",
+      "section": "1",
+      "title": "Art. 1 ust. 6",
+      "content": "Wprowadza się w rozporządzeniu Prezydenta Rzeczypospolitej z dnia 24 października 1934 r. o komunalnych kasach oszczędności zmianę następującą: w art. 91 po ust. (3) dodaje się trzy nowe ustępy, jako ustępy (4), (5) i (6): „ Niezapłacenie raty w terminie oznaczonym powoduje skutki, przewidziane w ust. (3)."
     },
     {
       "provision_ref": "art2",
@@ -25,8 +43,14 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-1934-860",
+      "ref_type": "amended_by"
+    }
+  ]
 }

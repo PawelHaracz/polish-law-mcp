@@ -19,7 +19,19 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Nadzwyczajny dodatek drożyżniany będzie wypłacany miesięcznie i wynosi od dotychczas pobieranych emerytur, pensji wdowich i sierocych jako też darów z łaski, bez dodatków drcżyźnianych i kwartalnych w rocznej kwocie: a) dla emerytów, wdów i sierot, przebywających na obszarze Państwa, gdzie dodatki drożyźniane były już przyznawane: do włącznie 400 koron 200% „ „ 600 „ 100% „ „ 1000 „ 75% „ „ 2000 „ 50% „ „ 4000 „ 20% b) dla emerytów, wdów i sierot, przebywających na obszarze Państwa, gdzie dodatki drożyźniane nie były dotąd przyznane: do włącznie 200 marek 250% „ „ 300 „ 200% „ „ 600 „ 150% „ „ 1000 „ 100% „ „ 2000 „ 70% „ „ 4000 „ 30%"
+      "content": "Nadzwyczajny dodatek drożyżniany będzie wypłacany miesięcznie i wynosi od dotychczas pobieranych emerytur, pensji wdowich i sierocych jako też darów z łaski, bez dodatków drcżyźnianych i kwartalnych w rocznej kwocie: dla emerytów, wdów i sierot, przebywających na obszarze Państwa, gdzie dodatki drożyźniane były już przyznawane: do włącznie 400 koron 200% „ „ 600 „ 100% „ „ 1000 „ 75% „ „ 2000 „ 50% „ „ 4000 „ 20% dla emerytów, wdów i sierot, przebywających na obszarze Państwa, gdzie dodatki drożyźniane nie były dotąd przyznane: do włącznie 200 marek 250% „ „ 300 „ 200% „ „ 600 „ 150% „ „ 1000 „ 100% „ „ 2000 „ 70% „ „ 4000 „ 30%"
+    },
+    {
+      "provision_ref": "art2la",
+      "section": "2",
+      "title": "Art. 2 lit. a",
+      "content": "Nadzwyczajny dodatek drożyżniany będzie wypłacany miesięcznie i wynosi od dotychczas pobieranych emerytur, pensji wdowich i sierocych jako też darów z łaski, bez dodatków drcżyźnianych i kwartalnych w rocznej kwocie: dla emerytów, wdów i sierot, przebywających na obszarze Państwa, gdzie dodatki drożyźniane były już przyznawane: do włącznie 400 koron 200% „ „ 600 „ 100% „ „ 1000 „ 75% „ „ 2000 „ 50% „ „ 4000 „ 20%"
+    },
+    {
+      "provision_ref": "art2lb",
+      "section": "2",
+      "title": "Art. 2 lit. b",
+      "content": "Nadzwyczajny dodatek drożyżniany będzie wypłacany miesięcznie i wynosi od dotychczas pobieranych emerytur, pensji wdowich i sierocych jako też darów z łaski, bez dodatków drcżyźnianych i kwartalnych w rocznej kwocie: dla emerytów, wdów i sierot, przebywających na obszarze Państwa, gdzie dodatki drożyźniane nie były dotąd przyznane: do włącznie 200 marek 250% „ „ 300 „ 200% „ „ 600 „ 150% „ „ 1000 „ 100% „ „ 2000 „ 70% „ „ 4000 „ 30%"
     },
     {
       "provision_ref": "art3",
@@ -37,7 +49,19 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Art. 5",
-      "content": "Prawo do poboru, ustanowionego niniejszą ustawą, dodatku drożyźnianego przysługuje tylko tym osobom, które: a) w czasie swej czynności służbowej nie odnosiły się wrogo do narodowości polskiej; b) pobierając emeryturę, względnie pensję wdowią z dotychczasowemi dodatkami wyżej 2.400 marek, względnie 4.800 koron rocznie - nie osiągały nadto z innych źródeł dochodu co najmniej równego powyższym kwotom."
+      "content": "Prawo do poboru, ustanowionego niniejszą ustawą, dodatku drożyźnianego przysługuje tylko tym osobom, które: w czasie swej czynności służbowej nie odnosiły się wrogo do narodowości polskiej; pobierając emeryturę, względnie pensję wdowią z dotychczasowemi dodatkami wyżej 2.400 marek, względnie 4.800 koron rocznie - nie osiągały nadto z innych źródeł dochodu co najmniej równego powyższym kwotom."
+    },
+    {
+      "provision_ref": "art5la",
+      "section": "5",
+      "title": "Art. 5 lit. a",
+      "content": "Prawo do poboru, ustanowionego niniejszą ustawą, dodatku drożyźnianego przysługuje tylko tym osobom, które: w czasie swej czynności służbowej nie odnosiły się wrogo do narodowości polskiej;"
+    },
+    {
+      "provision_ref": "art5lb",
+      "section": "5",
+      "title": "Art. 5 lit. b",
+      "content": "Prawo do poboru, ustanowionego niniejszą ustawą, dodatku drożyźnianego przysługuje tylko tym osobom, które: pobierając emeryturę, względnie pensję wdowią z dotychczasowemi dodatkami wyżej 2.400 marek, względnie 4.800 koron rocznie - nie osiągały nadto z innych źródeł dochodu co najmniej równego powyższym kwotom."
     },
     {
       "provision_ref": "art6",
@@ -55,8 +79,9 @@
       "provision_ref": "art8",
       "section": "8",
       "title": "Art. 8",
-      "content": "Wykonanie niniejszej ustawy poleca się Ministrowi Skarbu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_5-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"} ] } ];"
+      "content": "Wykonanie niniejszej ustawy poleca się Ministrowi Skarbu."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": []
 }

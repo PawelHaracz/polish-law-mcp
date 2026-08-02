@@ -13,14 +13,36 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne ( Dz. U. z 2012 r. poz. 657 oraz z 2013 r. poz. 198 ) w art. 30 dodaje się ust. 4 i 5 w brzmieniu: „ 4. Środki gromadzone na rachunku, o którym mowa w ust. 1, mogą być wykorzystywane na sfinansowanie potrzeb pożyczkowych budżetu państwa oraz w związku z zarządzaniem długiem Skarbu Państwa. 5. W przypadkach, o których mowa w ust. 4, środki podlegają zwrotowi na rachunek, o którym mowa w ust. 1, w wysokości i terminie umożliwiających ich przeznaczenie na cele określone w ust. 3. ” ."
+      "content": "W ustawie z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne w art. 30 dodaje się ust. 4 i 5 w brzmieniu: „ Środki gromadzone na rachunku, o którym mowa w ust. 1, mogą być wykorzystywane na sfinansowanie potrzeb pożyczkowych budżetu państwa oraz w związku z zarządzaniem długiem Skarbu Państwa. W przypadkach, o których mowa w ust. 4, środki podlegają zwrotowi na rachunek, o którym mowa w ust. 1, w wysokości i terminie umożliwiających ich przeznaczenie na cele określone w ust. 3. ” ."
+    },
+    {
+      "provision_ref": "art1u4",
+      "section": "1",
+      "title": "Art. 1 ust. 4",
+      "content": "W ustawie z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne w art. 30 dodaje się ust. 4 i 5 w brzmieniu: „ Środki gromadzone na rachunku, o którym mowa w ust. 1, mogą być wykorzystywane na sfinansowanie potrzeb pożyczkowych budżetu państwa oraz w związku z zarządzaniem długiem Skarbu Państwa."
+    },
+    {
+      "provision_ref": "art1u5",
+      "section": "1",
+      "title": "Art. 1 ust. 5",
+      "content": "W ustawie z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne w art. 30 dodaje się ust. 4 i 5 w brzmieniu: „ W przypadkach, o których mowa w ust. 4, środki podlegają zwrotowi na rachunek, o którym mowa w ust. 1, w wysokości i terminie umożliwiających ich przeznaczenie na cele określone w ust. 3."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2012-657",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2013-198",
+      "ref_type": "amended_by"
+    }
+  ]
 }

@@ -13,14 +13,32 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 1 lipca 2005 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz ustawy o systemie ubezpieczeń społecznych ( Dz. U. Nr 169, poz. 1412 ) w art. 4: 1) pkt 2 otrzymuje brzmienie: „ 2) art. 2 pkt 2, który wchodzi w życie pierwszego dnia dziewiątego miesiąca następującego po miesiącu ogłoszenia; ” ; 2) dodaje się pkt 3 w brzmieniu: „ 3) art. 2 pkt 1 lit. b i c, które wchodzą w życie z dniem 1 stycznia 2007 r. ” ."
+      "content": "W ustawie z dnia 1 lipca 2005 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz ustawy o systemie ubezpieczeń społecznych w art. 4: pkt 2 otrzymuje brzmienie: „ art. 2 pkt 2, który wchodzi w życie pierwszego dnia dziewiątego miesiąca następującego po miesiącu ogłoszenia; ” ; dodaje się pkt 3 w brzmieniu: „ art. 2 pkt 1 lit. b i c, które wchodzą w życie z dniem 1 stycznia 2007 r. ” ."
+    },
+    {
+      "provision_ref": "art1p1p2",
+      "section": "1",
+      "title": "Art. 1 pkt 1 pkt 2",
+      "content": "W ustawie z dnia 1 lipca 2005 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz ustawy o systemie ubezpieczeń społecznych w art. 4: pkt 2 otrzymuje brzmienie: „ art. 2 pkt 2, który wchodzi w życie pierwszego dnia dziewiątego miesiąca następującego po miesiącu ogłoszenia;"
+    },
+    {
+      "provision_ref": "art1p2p3",
+      "section": "1",
+      "title": "Art. 1 pkt 2 pkt 3",
+      "content": "W ustawie z dnia 1 lipca 2005 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz ustawy o systemie ubezpieczeń społecznych w art. 4: dodaje się pkt 3 w brzmieniu: „ art. 2 pkt 1 lit. b i c, które wchodzą w życie z dniem 1 stycznia 2007 r."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ustawa wchodzi w życie z dniem 31 maja 2006 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie z dniem 31 maja 2006 r."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2005-1412",
+      "ref_type": "amended_by"
+    }
+  ]
 }

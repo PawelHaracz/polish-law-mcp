@@ -13,20 +13,54 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego ( Dz. U. z 2016 r. poz. 1822 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1823, 1860, 1948, 2138, 2199, 2260 i 2261 oraz z 2017 r. poz. 67, 85, 187, 768, 933 i 1133. ) art. 152 otrzymuje brzmienie: „ Art. 152. § 1. Na posiedzenia jawne wstęp na salę sądową mają - poza stronami i osobami wezwanymi - tylko osoby pełnoletnie. Przewodniczący może zezwolić na obecność na posiedzeniu małoletnim. § 2. Na posiedzenia niejawne mają wstęp tylko osoby wezwane. ” ."
+      "content": "W ustawie z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego ) art. 152 otrzymuje brzmienie: „ Na posiedzenia jawne wstęp na salę sądową mają - poza stronami i osobami wezwanymi - tylko osoby pełnoletnie. Przewodniczący może zezwolić na obecność na posiedzeniu małoletnim. Na posiedzenia niejawne mają wstęp tylko osoby wezwane. ” ."
+    },
+    {
+      "provision_ref": "art1par1",
+      "section": "1",
+      "title": "Art. 1 § 1",
+      "content": "W ustawie z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego ) art. 152 otrzymuje brzmienie: „ Na posiedzenia jawne wstęp na salę sądową mają - poza stronami i osobami wezwanymi - tylko osoby pełnoletnie. Przewodniczący może zezwolić na obecność na posiedzeniu małoletnim."
+    },
+    {
+      "provision_ref": "art1par2",
+      "section": "1",
+      "title": "Art. 1 § 2",
+      "content": "W ustawie z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego ) art. 152 otrzymuje brzmienie: „ Na posiedzenia niejawne mają wstęp tylko osoby wezwane."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "W ustawie z dnia 30 sierpnia 2002 r. - Prawo o postępowaniu przed sądami administracyjnymi ( Dz. U. z 2016 r. poz. 718 , z późn. zm. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 846, 996, 1579, 1948, 2103 i 2261 oraz z 2017 r. poz. 935. ) art. 95 otrzymuje brzmienie: „ Art. 95. § 1. Na posiedzenia jawne wstęp na salę sądową mają - poza stronami i osobami wezwanymi - tylko osoby pełnoletnie. Przewodniczący może zezwolić na obecność na posiedzeniu małoletnim. § 2. Na posiedzenia niejawne mają wstęp tylko osoby wezwane. ” ."
+      "content": "W ustawie z dnia 30 sierpnia 2002 r. - Prawo o postępowaniu przed sądami administracyjnymi ) art. 95 otrzymuje brzmienie: „ Na posiedzenia jawne wstęp na salę sądową mają - poza stronami i osobami wezwanymi - tylko osoby pełnoletnie. Przewodniczący może zezwolić na obecność na posiedzeniu małoletnim. Na posiedzenia niejawne mają wstęp tylko osoby wezwane. ” ."
+    },
+    {
+      "provision_ref": "art2par1",
+      "section": "2",
+      "title": "Art. 2 § 1",
+      "content": "W ustawie z dnia 30 sierpnia 2002 r. - Prawo o postępowaniu przed sądami administracyjnymi ) art. 95 otrzymuje brzmienie: „ Na posiedzenia jawne wstęp na salę sądową mają - poza stronami i osobami wezwanymi - tylko osoby pełnoletnie. Przewodniczący może zezwolić na obecność na posiedzeniu małoletnim."
+    },
+    {
+      "provision_ref": "art2par2",
+      "section": "2",
+      "title": "Art. 2 § 2",
+      "content": "W ustawie z dnia 30 sierpnia 2002 r. - Prawo o postępowaniu przed sądami administracyjnymi ) art. 95 otrzymuje brzmienie: „ Na posiedzenia niejawne mają wstęp tylko osoby wezwane."
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1823, 1860, 1948, 2138, 2199, 2260 i 2261 oraz z 2017 r. poz. 67, 85, 187, 768, 933 i 1133. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 846, 996, 1579, 1948, 2103 i 2261 oraz z 2017 r. poz. 935. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2016-1822",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2016-718",
+      "ref_type": "amended_by"
+    }
+  ]
 }

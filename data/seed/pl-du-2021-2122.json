@@ -13,14 +13,26 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego ( Dz. U. z 2021 r. poz. 303 ) w art. 7 w ust. 1 pkt 14 otrzymuje brzmienie: „ 14) prowadzenie działań marketingowych i promocyjnych, organizacja przedsięwzięć związanych z promocją Sił Zbrojnych Rzeczypospolitej Polskiej, w tym pokazów lotniczych; ” ."
+      "content": "W ustawie z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego w art. 7 w ust. 1 pkt 14 otrzymuje brzmienie: „ prowadzenie działań marketingowych i promocyjnych, organizacja przedsięwzięć związanych z promocją Sił Zbrojnych Rzeczypospolitej Polskiej, w tym pokazów lotniczych; ” ."
+    },
+    {
+      "provision_ref": "art1p14",
+      "section": "1",
+      "title": "Art. 1 pkt 14",
+      "content": "W ustawie z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego w art. 7 w ust. 1 pkt 14 otrzymuje brzmienie: „ prowadzenie działań marketingowych i promocyjnych, organizacja przedsięwzięć związanych z promocją Sił Zbrojnych Rzeczypospolitej Polskiej, w tym pokazów lotniczych;"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2021-303",
+      "ref_type": "amended_by"
+    }
+  ]
 }

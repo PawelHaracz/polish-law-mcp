@@ -10,64 +10,328 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2004/1843",
   "provisions": [
     {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Art. 24",
+      "content": "Do skarg na naruszenie prawa strony do rozpoznania sprawy w postępowaniu przygotowawczym prowadzonym lub nadzorowanym przez prokuratora i postępowaniu sądowym bez nieuzasadnionej zwłoki wniesionych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy ustawy zmienianej w art. 8, w brzmieniu dotychczasowym."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Art. 31",
+      "content": "Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem: art. 7 pkt 1, który wchodzi w życie po upływie 9 miesięcy od dnia ogłoszenia; art. 1 pkt 138 lit. a tiret trzecie, który wchodzi w życie z dniem 1 października 2023 r.; art. 1 pkt 144 i 145, art. 7 pkt 2, 3, 5 i 6, art. 14, art. 15, art. 17, art. 18, art. 19 ust. 5-7, art. 23 ust. 2, art. 26 ust. 2, art. 28 oraz art. 29, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
+      "provision_ref": "art31p1",
+      "section": "31",
+      "title": "Art. 31 pkt 1",
+      "content": "Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem: art. 7 pkt 1, który wchodzi w życie po upływie 9 miesięcy od dnia ogłoszenia;"
+    },
+    {
+      "provision_ref": "art31p2",
+      "section": "31",
+      "title": "Art. 31 pkt 2",
+      "content": "Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem: art. 1 pkt 138 lit. a tiret trzecie, który wchodzi w życie z dniem 1 października 2023 r.;"
+    },
+    {
+      "provision_ref": "art31p3",
+      "section": "31",
+      "title": "Art. 31 pkt 3",
+      "content": "Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem: art. 1 pkt 144 i 145, art. 7 pkt 2, 3, 5 i 6, art. 14, art. 15, art. 17, art. 18, art. 19 ust. 5-7, art. 23 ust. 2, art. 26 ust. 2, art. 28 oraz art. 29, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "1. Ustawa reguluje zasady i tryb wnoszenia oraz rozpoznawania skargi strony, której prawo do rozpoznania sprawy bez nieuzasadnionej zwłoki zostało naruszone na skutek działania lub bezczynności sądu. 2. Przepisy ustawy stosuje się odpowiednio, gdy na skutek działania lub bezczynności sądu albo komornika sądowego doszło do naruszenia prawa strony do przeprowadzenia i zakończenia bez nieuzasadnionej zwłoki sprawy egzekucyjnej lub innej sprawy dotyczącej wykonania orzeczenia sądowego."
+      "content": "Ustawa reguluje zasady i tryb wnoszenia oraz rozpoznawania skargi strony, której prawo do rozpoznania sprawy bez nieuzasadnionej zwłoki zostało naruszone na skutek działania lub bezczynności sądu lub prokuratora prowadzącego lub nadzorującego postępowanie przygotowawcze. Przepisy ustawy stosuje się odpowiednio, gdy na skutek działania lub bezczynności sądu albo komornika sądowego doszło do naruszenia prawa strony do przeprowadzenia i zakończenia bez nieuzasadnionej zwłoki sprawy egzekucyjnej lub innej sprawy dotyczącej wykonania orzeczenia sądowego. Przepisy ustawy stosuje się zgodnie ze standardami wynikającymi z Konwencji o ochronie praw człowieka i podstawowych wolności, sporządzonej w Rzymie dnia 4 listopada 1950 r. ) ."
+    },
+    {
+      "provision_ref": "art1u1",
+      "section": "1",
+      "title": "Art. 1 ust. 1",
+      "content": "Ustawa reguluje zasady i tryb wnoszenia oraz rozpoznawania skargi strony, której prawo do rozpoznania sprawy bez nieuzasadnionej zwłoki zostało naruszone na skutek działania lub bezczynności sądu lub prokuratora prowadzącego lub nadzorującego postępowanie przygotowawcze."
+    },
+    {
+      "provision_ref": "art1u2",
+      "section": "1",
+      "title": "Art. 1 ust. 2",
+      "content": "Przepisy ustawy stosuje się odpowiednio, gdy na skutek działania lub bezczynności sądu albo komornika sądowego doszło do naruszenia prawa strony do przeprowadzenia i zakończenia bez nieuzasadnionej zwłoki sprawy egzekucyjnej lub innej sprawy dotyczącej wykonania orzeczenia sądowego."
+    },
+    {
+      "provision_ref": "art1u3",
+      "section": "1",
+      "title": "Art. 1 ust. 3",
+      "content": "Przepisy ustawy stosuje się zgodnie ze standardami wynikającymi z Konwencji o ochronie praw człowieka i podstawowych wolności, sporządzonej w Rzymie dnia 4 listopada 1950 r. ) ."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "1. Strona może wnieść skargę o stwierdzenie, że w postępowaniu, którego skarga dotyczy, nastąpiło naruszenie jej prawa do rozpoznania sprawy bez nieuzasadnionej zwłoki, jeżeli postępowanie w tej sprawie trwa dłużej, niż to konieczne dla wyjaśnienia tych okoliczności faktycznych i prawnych, które są istotne dla rozstrzygnięcia sprawy, albo dłużej niż to konieczne do załatwienia sprawy egzekucyjnej lub innej dotyczącej wykonania orzeczenia sądowego (przewlekłość postępowania). 2. Dla stwierdzenia, czy w sprawie doszło do przewlekłości postępowania, należy w szczególności ocenić terminowość i prawidłowość czynności podjętych przez sąd w celu wydania w sprawie rozstrzygnięcia co do istoty lub czynności podjętych przez sąd lub komornika sądowego w celu przeprowadzenia i zakończenia sprawy egzekucyjnej albo innej sprawy dotyczącej wykonania orzeczenia sądowego, uwzględniając charakter sprawy, stopień faktycznej i prawnej jej zawiłości, znaczenie dla strony, która wniosła skargę, rozstrzygniętych w niej zagadnień oraz zachowanie się stron, a w szczególności strony, która zarzuciła przewlekłość postępowania."
+      "content": "Strona może wnieść skargę o stwierdzenie, że w postępowaniu, którego skarga dotyczy, nastąpiło naruszenie jej prawa do rozpoznania sprawy bez nieuzasadnionej zwłoki, jeżeli postępowanie zmierzające do wydania rozstrzygnięcia kończącego postępowanie w sprawie trwa dłużej niż to konieczne dla wyjaśnienia istotnych okoliczności faktycznych i prawnych albo dłużej niż to konieczne do załatwienia sprawy egzekucyjnej lub innej dotyczącej wykonania orzeczenia sądowego (przewlekłość postępowania). Przepis ust. 1 stosuje się odpowiednio do postępowania przygotowawczego. Przepisu ust. 1 nie stosuje się w sprawach, o których mowa w art. 1 § 1 ustawy z dnia 6 czerwca 1997 r. - Kodeks karny wykonawczy , chyba że dotyczą one obowiązku naprawienia szkody, zadośćuczynienia za doznaną krzywdę lub nawiązki orzeczonej na rzecz pokrzywdzonego. Dla stwierdzenia, czy w sprawie doszło do przewlekłości postępowania, należy w szczególności ocenić terminowość i prawidłowość czynności podjętych przez sąd w celu wydania rozstrzygnięcia kończącego postępowanie w sprawie albo czynności podjętych przez prokuratora prowadzącego lub nadzorującego postępowanie przygotowawcze w celu zakończenia postępowania przygotowawczego lub czynności podjętych przez sąd lub komornika sądowego w celu przeprowadzenia i zakończenia sprawy egzekucyjnej albo innej sprawy dotyczącej wykonania orzeczenia sądowego. Dokonując tej oceny, uwzględnia się łączny dotychczasowy czas postępowania od jego wszczęcia do chwili rozpoznania skargi, niezależnie od tego, na jakim etapie skarga została wniesiona, a także charakter sprawy, stopień faktycznej i prawnej jej zawiłości, znaczenie dla strony, która wniosła skargę, rozstrzygniętych w niej zagadnień oraz zachowanie się stron, a w szczególności strony, która zarzuciła przewlekłość postępowania."
+    },
+    {
+      "provision_ref": "art2u1",
+      "section": "2",
+      "title": "Art. 2 ust. 1",
+      "content": "Strona może wnieść skargę o stwierdzenie, że w postępowaniu, którego skarga dotyczy, nastąpiło naruszenie jej prawa do rozpoznania sprawy bez nieuzasadnionej zwłoki, jeżeli postępowanie zmierzające do wydania rozstrzygnięcia kończącego postępowanie w sprawie trwa dłużej niż to konieczne dla wyjaśnienia istotnych okoliczności faktycznych i prawnych albo dłużej niż to konieczne do załatwienia sprawy egzekucyjnej lub innej dotyczącej wykonania orzeczenia sądowego (przewlekłość postępowania)."
+    },
+    {
+      "provision_ref": "art2u1a",
+      "section": "2",
+      "title": "Art. 2 ust. 1a",
+      "content": "Przepis ust. 1 stosuje się odpowiednio do postępowania przygotowawczego."
+    },
+    {
+      "provision_ref": "art2u1b",
+      "section": "2",
+      "title": "Art. 2 ust. 1b",
+      "content": "Przepisu ust. 1 nie stosuje się w sprawach, o których mowa w art. 1 § 1 ustawy z dnia 6 czerwca 1997 r. - Kodeks karny wykonawczy , chyba że dotyczą one obowiązku naprawienia szkody, zadośćuczynienia za doznaną krzywdę lub nawiązki orzeczonej na rzecz pokrzywdzonego."
+    },
+    {
+      "provision_ref": "art2u2",
+      "section": "2",
+      "title": "Art. 2 ust. 2",
+      "content": "Dla stwierdzenia, czy w sprawie doszło do przewlekłości postępowania, należy w szczególności ocenić terminowość i prawidłowość czynności podjętych przez sąd w celu wydania rozstrzygnięcia kończącego postępowanie w sprawie albo czynności podjętych przez prokuratora prowadzącego lub nadzorującego postępowanie przygotowawcze w celu zakończenia postępowania przygotowawczego lub czynności podjętych przez sąd lub komornika sądowego w celu przeprowadzenia i zakończenia sprawy egzekucyjnej albo innej sprawy dotyczącej wykonania orzeczenia sądowego. Dokonując tej oceny, uwzględnia się łączny dotychczasowy czas postępowania od jego wszczęcia do chwili rozpoznania skargi, niezależnie od tego, na jakim etapie skarga została wniesiona, a także charakter sprawy, stopień faktycznej i prawnej jej zawiłości, znaczenie dla strony, która wniosła skargę, rozstrzygniętych w niej zagadnień oraz zachowanie się stron, a w szczególności strony, która zarzuciła przewlekłość postępowania."
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "Uprawnionym do wniesienia skargi jest: 1) w postępowaniu w sprawach o przestępstwa skarbowe i wykroczenia skarbowe - strona; 2) w postępowaniu w sprawach o wykroczenia - strona; 3) w postępowaniu w przedmiocie odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary - strona lub wnioskodawca; 4) w postępowaniu karnym - strona oraz pokrzywdzony, nawet jeśli nie jest stroną; 5) w postępowaniu cywilnym - strona, interwenient uboczny i uczestnik postępowania; 6) w postępowaniu sądowo-administracyjnym - skarżący oraz uczestnik postępowania na prawach strony; 7) w postępowaniu egzekucyjnym oraz w innym postępowaniu dotyczącym wykonania orzeczenia sądowego - strona oraz inna osoba realizująca swoje uprawnienia w tym postępowaniu."
+      "content": "Uprawnionym do wniesienia skargi jest: w postępowaniu w sprawach o przestępstwa skarbowe i wykroczenia skarbowe - strona; w postępowaniu w sprawach o wykroczenia - strona; w postępowaniu w przedmiocie odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary - strona lub wnioskodawca; w postępowaniu karnym - strona oraz pokrzywdzony, nawet jeśli nie jest stroną; w postępowaniu cywilnym - strona, interwenient uboczny i uczestnik postępowania; w postępowaniu sądowo-administracyjnym - skarżący oraz uczestnik postępowania na prawach strony; w postępowaniu egzekucyjnym oraz w innym postępowaniu dotyczącym wykonania orzeczenia sądowego - strona oraz inna osoba realizująca swoje uprawnienia w tym postępowaniu."
+    },
+    {
+      "provision_ref": "art3p1",
+      "section": "3",
+      "title": "Art. 3 pkt 1",
+      "content": "Uprawnionym do wniesienia skargi jest: w postępowaniu w sprawach o przestępstwa skarbowe i wykroczenia skarbowe - strona;"
+    },
+    {
+      "provision_ref": "art3p2",
+      "section": "3",
+      "title": "Art. 3 pkt 2",
+      "content": "Uprawnionym do wniesienia skargi jest: w postępowaniu w sprawach o wykroczenia - strona;"
+    },
+    {
+      "provision_ref": "art3p3",
+      "section": "3",
+      "title": "Art. 3 pkt 3",
+      "content": "Uprawnionym do wniesienia skargi jest: w postępowaniu w przedmiocie odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary - strona lub wnioskodawca;"
+    },
+    {
+      "provision_ref": "art3p4",
+      "section": "3",
+      "title": "Art. 3 pkt 4",
+      "content": "Uprawnionym do wniesienia skargi jest: w postępowaniu karnym - strona oraz pokrzywdzony, nawet jeśli nie jest stroną;"
+    },
+    {
+      "provision_ref": "art3p5",
+      "section": "3",
+      "title": "Art. 3 pkt 5",
+      "content": "Uprawnionym do wniesienia skargi jest: w postępowaniu cywilnym - strona, interwenient uboczny i uczestnik postępowania;"
+    },
+    {
+      "provision_ref": "art3p6",
+      "section": "3",
+      "title": "Art. 3 pkt 6",
+      "content": "Uprawnionym do wniesienia skargi jest: w postępowaniu sądowo-administracyjnym - skarżący oraz uczestnik postępowania na prawach strony;"
+    },
+    {
+      "provision_ref": "art3p7",
+      "section": "3",
+      "title": "Art. 3 pkt 7",
+      "content": "Uprawnionym do wniesienia skargi jest: w postępowaniu egzekucyjnym oraz w innym postępowaniu dotyczącym wykonania orzeczenia sądowego - strona oraz inna osoba realizująca swoje uprawnienia w tym postępowaniu."
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "1. Sądem właściwym do rozpoznania skargi jest sąd przełożony nad sądem, przed którym toczy się postępowanie. 2. Jeżeli skarga dotyczy przewlekłości postępowania przed sądem apelacyjnym lub Sądem Najwyższym - właściwy do jej rozpoznania jest Sąd Najwyższy. 3. Jeżeli skarga dotyczy przewlekłości postępowania przed wojewódzkim sądem administracyjnym lub Naczelnym Sądem Administracyjnym - właściwy do jej rozpoznania jest Naczelny Sąd Administracyjny. 4. Sądem właściwym do rozpoznania skargi dotyczącej przewlekłości postępowania egzekucyjnego lub innego postępowania dotyczącego wykonania orzeczenia sądowego jest sąd okręgowy, w którego okręgu prowadzona jest egzekucja lub wykonywane są inne czynności, a gdy egzekucja lub inne postępowanie dotyczące wykonania orzeczenia sądowego prowadzone jest w dwu lub więcej okręgach - sąd, w okręgu którego dokonano pierwszej czynności."
+      "content": "Sądem właściwym do rozpoznania skargi jest sąd przełożony nad sądem, przed którym toczy się postępowanie. Jeżeli skarga dotyczy przewlekłości postępowania przed sądem rejonowym i sądem okręgowym - właściwy do jej rozpoznania w całości jest sąd apelacyjny. Jeżeli skarga dotyczy przewlekłości postępowania przed sądem okręgowym i sądem apelacyjnym - właściwy do jej rozpoznania w całości jest sąd apelacyjny. Jeżeli skarga dotyczy przewlekłości postępowania przed sądem apelacyjnym lub Sądem Najwyższym - właściwy do jej rozpoznania jest Sąd Najwyższy. Jeżeli skarga dotyczy przewlekłości postępowania przed wojewódzkim sądem administracyjnym lub Naczelnym Sądem Administracyjnym - właściwy do jej rozpoznania jest Naczelny Sąd Administracyjny. Sądem właściwym do rozpoznania skargi dotyczącej przewlekłości postępowania egzekucyjnego lub innego postępowania dotyczącego wykonania orzeczenia sądowego jest sąd okręgowy, w którego okręgu prowadzona jest egzekucja lub wykonywane są inne czynności, a gdy egzekucja lub inne postępowanie dotyczące wykonania orzeczenia sądowego prowadzone jest w dwu lub więcej okręgach - sąd, w okręgu którego dokonano pierwszej czynności. Jeżeli skarga dotyczy przewlekłości postępowania przygotowawczego, właściwy do jej rozpoznania jest sąd przełożony nad sądem, który byłby właściwy rzeczowo do rozpoznania sprawy. Jeżeli skarga dotyczy przewlekłości postępowania w sprawach o przestępstwa skarbowe i wykroczenia skarbowe lub postępowania karnego, które toczy się przed sądem - sąd właściwy według przepisów ust. 1-2 jest właściwy do rozpoznania skargi także w zakresie przewlekłości postępowania przygotowawczego."
+    },
+    {
+      "provision_ref": "art4u1",
+      "section": "4",
+      "title": "Art. 4 ust. 1",
+      "content": "Sądem właściwym do rozpoznania skargi jest sąd przełożony nad sądem, przed którym toczy się postępowanie."
+    },
+    {
+      "provision_ref": "art4u1a",
+      "section": "4",
+      "title": "Art. 4 ust. 1a",
+      "content": "Jeżeli skarga dotyczy przewlekłości postępowania przed sądem rejonowym i sądem okręgowym - właściwy do jej rozpoznania w całości jest sąd apelacyjny."
+    },
+    {
+      "provision_ref": "art4u1b",
+      "section": "4",
+      "title": "Art. 4 ust. 1b",
+      "content": "Jeżeli skarga dotyczy przewlekłości postępowania przed sądem okręgowym i sądem apelacyjnym - właściwy do jej rozpoznania w całości jest sąd apelacyjny."
+    },
+    {
+      "provision_ref": "art4u2",
+      "section": "4",
+      "title": "Art. 4 ust. 2",
+      "content": "Jeżeli skarga dotyczy przewlekłości postępowania przed sądem apelacyjnym lub Sądem Najwyższym - właściwy do jej rozpoznania jest Sąd Najwyższy."
+    },
+    {
+      "provision_ref": "art4u3",
+      "section": "4",
+      "title": "Art. 4 ust. 3",
+      "content": "Jeżeli skarga dotyczy przewlekłości postępowania przed wojewódzkim sądem administracyjnym lub Naczelnym Sądem Administracyjnym - właściwy do jej rozpoznania jest Naczelny Sąd Administracyjny."
+    },
+    {
+      "provision_ref": "art4u4",
+      "section": "4",
+      "title": "Art. 4 ust. 4",
+      "content": "Sądem właściwym do rozpoznania skargi dotyczącej przewlekłości postępowania egzekucyjnego lub innego postępowania dotyczącego wykonania orzeczenia sądowego jest sąd okręgowy, w którego okręgu prowadzona jest egzekucja lub wykonywane są inne czynności, a gdy egzekucja lub inne postępowanie dotyczące wykonania orzeczenia sądowego prowadzone jest w dwu lub więcej okręgach - sąd, w okręgu którego dokonano pierwszej czynności."
+    },
+    {
+      "provision_ref": "art4u5",
+      "section": "4",
+      "title": "Art. 4 ust. 5",
+      "content": "Jeżeli skarga dotyczy przewlekłości postępowania przygotowawczego, właściwy do jej rozpoznania jest sąd przełożony nad sądem, który byłby właściwy rzeczowo do rozpoznania sprawy."
+    },
+    {
+      "provision_ref": "art4u6",
+      "section": "4",
+      "title": "Art. 4 ust. 6",
+      "content": "Jeżeli skarga dotyczy przewlekłości postępowania w sprawach o przestępstwa skarbowe i wykroczenia skarbowe lub postępowania karnego, które toczy się przed sądem - sąd właściwy według przepisów ust. 1-2 jest właściwy do rozpoznania skargi także w zakresie przewlekłości postępowania przygotowawczego."
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Art. 5",
-      "content": "1. Skargę o stwierdzenie, że w postępowaniu, którego skarga dotyczy, nastąpiła przewlekłość postępowania, wnosi się w toku postępowania w sprawie. 2. Skargę składa się do sądu, przed którym toczy się postępowanie. 3. Skargę dotyczącą przewlekłości postępowania egzekucyjnego lub innego postępowania dotyczącego wykonania orzeczenia sądowego wnosi się do sądu, o którym mowa w art. 4 ust. 4."
+      "content": "Skargę o stwierdzenie, że w postępowaniu, którego skarga dotyczy, nastąpiła przewlekłość postępowania, wnosi się w toku postępowania w sprawie. Skargę składa się do sądu, przed którym toczy się postępowanie. Skargę dotyczącą przewlekłości postępowania egzekucyjnego lub innego postępowania dotyczącego wykonania orzeczenia sądowego wnosi się do sądu, o którym mowa w art. 4 ust. 4. Skargę dotyczącą przewlekłości postępowania przygotowawczego wnosi się do prokuratora prowadzącego lub nadzorującego to postępowanie."
+    },
+    {
+      "provision_ref": "art5u1",
+      "section": "5",
+      "title": "Art. 5 ust. 1",
+      "content": "Skargę o stwierdzenie, że w postępowaniu, którego skarga dotyczy, nastąpiła przewlekłość postępowania, wnosi się w toku postępowania w sprawie."
+    },
+    {
+      "provision_ref": "art5u2",
+      "section": "5",
+      "title": "Art. 5 ust. 2",
+      "content": "Skargę składa się do sądu, przed którym toczy się postępowanie."
+    },
+    {
+      "provision_ref": "art5u3",
+      "section": "5",
+      "title": "Art. 5 ust. 3",
+      "content": "Skargę dotyczącą przewlekłości postępowania egzekucyjnego lub innego postępowania dotyczącego wykonania orzeczenia sądowego wnosi się do sądu, o którym mowa w art. 4 ust. 4."
+    },
+    {
+      "provision_ref": "art5u4",
+      "section": "5",
+      "title": "Art. 5 ust. 4",
+      "content": "Skargę dotyczącą przewlekłości postępowania przygotowawczego wnosi się do prokuratora prowadzącego lub nadzorującego to postępowanie."
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Art. 6",
-      "content": "1. Skarga powinna czynić zadość wymaganiom przewidzianym dla pisma procesowego. 2. Skarga powinna ponadto zawierać: 1) żądanie stwierdzenia przewlekłości postępowania w sprawie, której skarga dotyczy; 2) przytoczenie okoliczności uzasadniających żądanie. 3. Skarga może zawierać żądanie wydania sądowi rozpoznającemu sprawę zalecenia podjęcia w wyznaczonym terminie odpowiednich czynności oraz zasądzenia odpowiedniej sumy pieniężnej, o której mowa w art. 12 ust. 4."
+      "content": "Skarga powinna czynić zadość wymaganiom przewidzianym dla pisma procesowego. Skarga powinna ponadto zawierać: żądanie stwierdzenia przewlekłości postępowania w sprawie, której skarga dotyczy; przytoczenie okoliczności uzasadniających żądanie. Skarga może zawierać żądanie wydania sądowi rozpoznającemu sprawę albo prokuratorowi prowadzącemu lub nadzorującemu postępowanie przygotowawcze zalecenia podjęcia w wyznaczonym terminie odpowiednich czynności oraz zasądzenia odpowiedniej sumy pieniężnej, o której mowa w art. 12 ust. 4. W prowadzonym przed Sądem Najwyższym postępowaniu ze skargi dotyczącej przewlekłości postępowania przed sądem apelacyjnym zastępstwo strony przez adwokata lub radcę prawnego nie jest wymagane."
+    },
+    {
+      "provision_ref": "art6u1",
+      "section": "6",
+      "title": "Art. 6 ust. 1",
+      "content": "Skarga powinna czynić zadość wymaganiom przewidzianym dla pisma procesowego."
+    },
+    {
+      "provision_ref": "art6u2p1",
+      "section": "6",
+      "title": "Art. 6 ust. 2 pkt 1",
+      "content": "Skarga powinna ponadto zawierać: żądanie stwierdzenia przewlekłości postępowania w sprawie, której skarga dotyczy;"
+    },
+    {
+      "provision_ref": "art6u2p2",
+      "section": "6",
+      "title": "Art. 6 ust. 2 pkt 2",
+      "content": "Skarga powinna ponadto zawierać: przytoczenie okoliczności uzasadniających żądanie."
+    },
+    {
+      "provision_ref": "art6u3",
+      "section": "6",
+      "title": "Art. 6 ust. 3",
+      "content": "Skarga może zawierać żądanie wydania sądowi rozpoznającemu sprawę albo prokuratorowi prowadzącemu lub nadzorującemu postępowanie przygotowawcze zalecenia podjęcia w wyznaczonym terminie odpowiednich czynności oraz zasądzenia odpowiedniej sumy pieniężnej, o której mowa w art. 12 ust. 4."
+    },
+    {
+      "provision_ref": "art6u4",
+      "section": "6",
+      "title": "Art. 6 ust. 4",
+      "content": "W prowadzonym przed Sądem Najwyższym postępowaniu ze skargi dotyczącej przewlekłości postępowania przed sądem apelacyjnym zastępstwo strony przez adwokata lub radcę prawnego nie jest wymagane."
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Art. 7",
-      "content": "Sąd, do którego wniesiono skargę, przedstawia ją niezwłocznie sądowi właściwemu wraz z aktami sprawy, w której toczy się postępowanie."
+      "content": "Sąd lub prokurator, do którego wniesiono skargę, przedstawia ją niezwłocznie sądowi właściwemu wraz z aktami sprawy, w której toczy się postępowanie."
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Art. 8",
-      "content": "1. Sąd rozpoznaje skargę w składzie trzech sędziów. 2. W sprawach nieuregulowanych w ustawie do postępowania toczącego się na skutek skargi sąd stosuje odpowiednio przepisy o postępowaniu zażaleniowym obowiązujące w postępowaniu, którego skarga dotyczy."
+      "content": "Sąd rozpoznaje skargę w składzie trzech sędziów. W sprawach nieuregulowanych w ustawie do postępowania toczącego się na skutek skargi sąd stosuje odpowiednio przepisy o postępowaniu zażaleniowym obowiązujące w postępowaniu, którego skarga dotyczy."
+    },
+    {
+      "provision_ref": "art8u1",
+      "section": "8",
+      "title": "Art. 8 ust. 1",
+      "content": "Sąd rozpoznaje skargę w składzie trzech sędziów."
+    },
+    {
+      "provision_ref": "art8u2",
+      "section": "8",
+      "title": "Art. 8 ust. 2",
+      "content": "W sprawach nieuregulowanych w ustawie do postępowania toczącego się na skutek skargi sąd stosuje odpowiednio przepisy o postępowaniu zażaleniowym obowiązujące w postępowaniu, którego skarga dotyczy."
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Art. 9",
-      "content": "1. Skargę niespełniającą wymagań przewidzianych w art. 6 ust. 2 sąd właściwy do jej rozpoznania odrzuca bez wzywania do uzupełnienia braków. 2. Sąd odrzuca skargę wniesioną przez nieuprawnionego albo niedopuszczalną na podstawie art. 14."
+      "content": "Skargę niespełniającą wymagań przewidzianych w art. 6 ust. 2 sąd właściwy do jej rozpoznania odrzuca bez wzywania do uzupełnienia braków. Sąd odrzuca skargę wniesioną przez nieuprawnionego albo niedopuszczalną na podstawie art. 14 ust. 1."
+    },
+    {
+      "provision_ref": "art9u1",
+      "section": "9",
+      "title": "Art. 9 ust. 1",
+      "content": "Skargę niespełniającą wymagań przewidzianych w art. 6 ust. 2 sąd właściwy do jej rozpoznania odrzuca bez wzywania do uzupełnienia braków."
+    },
+    {
+      "provision_ref": "art9u2",
+      "section": "9",
+      "title": "Art. 9 ust. 2",
+      "content": "Sąd odrzuca skargę wniesioną przez nieuprawnionego albo niedopuszczalną na podstawie art. 14 ust. 1."
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Art. 10",
-      "content": "1. Sąd właściwy do rozpoznania skargi zawiadamia o toczącym się postępowaniu Skarb Państwa - prezesa tego sądu, którego działanie lub bezczynność według twierdzeń skarżącego spowodowało przewlekłość postępowania, doręczając mu odpis skargi. 2. Jeżeli skarga dotyczy przewlekłości postępowania prowadzonego przez komornika sądowego, sąd zawiadamia komornika oraz Skarb Państwa - prezesa tego sądu rejonowego, przy którym działa komornik, doręczając im odpis skargi. 3. Skarbowi Państwa oraz komornikowi, w razie zgłoszenia udziału w sprawie, przysługują prawa strony w zakresie rozpoznania skargi."
+      "content": "Sąd właściwy do rozpoznania skargi zawiadamia o toczącym się postępowaniu Skarb Państwa - prezesa tego sądu, którego działanie lub bezczynność według twierdzeń skarżącego spowodowało przewlekłość postępowania, doręczając mu odpis skargi. Jeżeli skarga dotyczy przewlekłości postępowania prowadzonego przez komornika sądowego, sąd zawiadamia komornika oraz Skarb Państwa - prezesa tego sądu rejonowego, przy którym działa komornik, doręczając im odpis skargi. Jeżeli skarga dotyczy przewlekłości postępowania przygotowawczego, sąd właściwy zawiadamia Skarb Państwa - prokuratora przełożonego nad prokuratorem prowadzącym lub nadzorującym postępowanie przygotowawcze, doręczając mu odpis skargi. Skarbowi Państwa oraz komornikowi, w razie zgłoszenia udziału w sprawie, przysługują prawa strony w zakresie rozpoznania skargi."
+    },
+    {
+      "provision_ref": "art10u1",
+      "section": "10",
+      "title": "Art. 10 ust. 1",
+      "content": "Sąd właściwy do rozpoznania skargi zawiadamia o toczącym się postępowaniu Skarb Państwa - prezesa tego sądu, którego działanie lub bezczynność według twierdzeń skarżącego spowodowało przewlekłość postępowania, doręczając mu odpis skargi."
+    },
+    {
+      "provision_ref": "art10u2",
+      "section": "10",
+      "title": "Art. 10 ust. 2",
+      "content": "Jeżeli skarga dotyczy przewlekłości postępowania prowadzonego przez komornika sądowego, sąd zawiadamia komornika oraz Skarb Państwa - prezesa tego sądu rejonowego, przy którym działa komornik, doręczając im odpis skargi."
+    },
+    {
+      "provision_ref": "art10u2a",
+      "section": "10",
+      "title": "Art. 10 ust. 2a",
+      "content": "Jeżeli skarga dotyczy przewlekłości postępowania przygotowawczego, sąd właściwy zawiadamia Skarb Państwa - prokuratora przełożonego nad prokuratorem prowadzącym lub nadzorującym postępowanie przygotowawcze, doręczając mu odpis skargi."
+    },
+    {
+      "provision_ref": "art10u3",
+      "section": "10",
+      "title": "Art. 10 ust. 3",
+      "content": "Skarbowi Państwa oraz komornikowi, w razie zgłoszenia udziału w sprawie, przysługują prawa strony w zakresie rozpoznania skargi."
     },
     {
       "provision_ref": "art11",
@@ -79,50 +343,266 @@
       "provision_ref": "art12",
       "section": "12",
       "title": "Art. 12",
-      "content": "1. Skargę niezasadną sąd oddala. 2. Uwzględniając skargę, sąd stwierdza, że w postępowaniu, którego skarga dotyczy, nastąpiła przewlekłość postępowania. 3. Na żądanie skarżącego sąd może zalecić podjęcie przez sąd rozpoznający sprawę co do istoty, odpowiednich czynności w wyznaczonym terminie. Zalecenia nie mogą wkraczać w zakres oceny faktycznej i prawnej sprawy. 4. Uwzględniając skargę, sąd może, na żądanie skarżącego, przyznać od Skarbu Państwa, a w przypadku skargi na przewlekłość postępowania prowadzonego przez komornika - od komornika, odpowiednią sumę pieniężną w wysokości nieprzekraczającej 10 000 złotych. W wypadku przyznania odpowiedniej sumy pieniężnej od Skarbu Państwa, wypłaty dokonuje sąd prowadzący postępowanie, w którym nastąpiła przewlekłość postępowania, ze środków własnych tego sądu."
+      "content": "Skargę niezasadną sąd oddala. Uwzględniając skargę, sąd stwierdza, że w postępowaniu, którego skarga dotyczy, nastąpiła przewlekłość postępowania. Na żądanie skarżącego lub z urzędu sąd zaleca podjęcie przez sąd rozpoznający sprawę co do istoty albo przez prokuratora prowadzącego lub nadzorującego postępowanie przygotowawcze odpowiednich czynności w wyznaczonym terminie, chyba że wydanie zaleceń jest oczywiście zbędne. Zalecenia nie mogą wkraczać w zakres oceny faktycznej i prawnej sprawy. Uwzględniając skargę, sąd na żądanie skarżącego przyznaje od Skarbu Państwa, a w przypadku skargi na przewlekłość postępowania prowadzonego przez komornika sądowego - od komornika sądowego, sumę pieniężną w wysokości od 2000 do 20 000 złotych. Wysokość sumy pieniężnej, w granicach wskazanych w zdaniu pierwszym, wynosi nie mniej niż 500 złotych za każdy rok dotychczasowego trwania postępowania, niezależnie od tego, ilu etapów postępowania dotyczy stwierdzona przewlekłość postępowania. Sąd może przyznać sumę pieniężną wyższą niż 500 złotych za każdy rok dotychczasowego trwania postępowania, jeżeli sprawa ma szczególne znaczenie dla skarżącego, który swoją postawą nie przyczynił się w sposób zawiniony do wydłużenia czasu trwania postępowania. Na poczet tej sumy zalicza się kwoty przyznane już skarżącemu tytułem sumy pieniężnej w tej samej sprawie. Przyznając skarżącemu sumę pieniężną, sąd wskazuje, jakiego okresu przewlekłości postępowania ona dotyczy. Sumy pieniężnej nie przyznaje się w razie uwzględnienia skargi wniesionej przez Skarb Państwa albo państwowe jednostki sektora finansów publicznych. W przypadku przyznania sumy pieniężnej od Skarbu Państwa, wypłaty dokonuje: sąd prowadzący postępowanie, w którym nastąpiła przewlekłość postępowania - ze środków własnych tego sądu; jednostka organizacyjna prokuratury, w której w trakcie prowadzenia postępowania przygotowawczego nastąpiła przewlekłość postępowania, a w odniesieniu do postępowania przygotowawczego prowadzonego w prokuraturze rejonowej - właściwa prokuratura okręgowa - ze środków własnych tej jednostki. W sytuacji przyznania sumy pieniężnej w przypadku, o którym mowa w art. 4 ust. 1a, wypłaty dokonuje sąd okręgowy, a w przypadku, o którym mowa w art. 4 ust. 1b, wypłaty dokonuje sąd apelacyjny - ze środków własnych tego sądu. Jeżeli do przewlekłości postępowania doszło w postępowaniu przed więcej niż jednym organem, przyznając sumę pieniężną, sąd wskazuje, w jakiej części wypłaty dokonuje dany organ."
+    },
+    {
+      "provision_ref": "art12u1",
+      "section": "12",
+      "title": "Art. 12 ust. 1",
+      "content": "Skargę niezasadną sąd oddala."
+    },
+    {
+      "provision_ref": "art12u2",
+      "section": "12",
+      "title": "Art. 12 ust. 2",
+      "content": "Uwzględniając skargę, sąd stwierdza, że w postępowaniu, którego skarga dotyczy, nastąpiła przewlekłość postępowania."
+    },
+    {
+      "provision_ref": "art12u3",
+      "section": "12",
+      "title": "Art. 12 ust. 3",
+      "content": "Na żądanie skarżącego lub z urzędu sąd zaleca podjęcie przez sąd rozpoznający sprawę co do istoty albo przez prokuratora prowadzącego lub nadzorującego postępowanie przygotowawcze odpowiednich czynności w wyznaczonym terminie, chyba że wydanie zaleceń jest oczywiście zbędne. Zalecenia nie mogą wkraczać w zakres oceny faktycznej i prawnej sprawy."
+    },
+    {
+      "provision_ref": "art12u4",
+      "section": "12",
+      "title": "Art. 12 ust. 4",
+      "content": "Uwzględniając skargę, sąd na żądanie skarżącego przyznaje od Skarbu Państwa, a w przypadku skargi na przewlekłość postępowania prowadzonego przez komornika sądowego - od komornika sądowego, sumę pieniężną w wysokości od 2000 do 20 000 złotych. Wysokość sumy pieniężnej, w granicach wskazanych w zdaniu pierwszym, wynosi nie mniej niż 500 złotych za każdy rok dotychczasowego trwania postępowania, niezależnie od tego, ilu etapów postępowania dotyczy stwierdzona przewlekłość postępowania. Sąd może przyznać sumę pieniężną wyższą niż 500 złotych za każdy rok dotychczasowego trwania postępowania, jeżeli sprawa ma szczególne znaczenie dla skarżącego, który swoją postawą nie przyczynił się w sposób zawiniony do wydłużenia czasu trwania postępowania. Na poczet tej sumy zalicza się kwoty przyznane już skarżącemu tytułem sumy pieniężnej w tej samej sprawie. Przyznając skarżącemu sumę pieniężną, sąd wskazuje, jakiego okresu przewlekłości postępowania ona dotyczy. Sumy pieniężnej nie przyznaje się w razie uwzględnienia skargi wniesionej przez Skarb Państwa albo państwowe jednostki sektora finansów publicznych."
+    },
+    {
+      "provision_ref": "art12u5p1",
+      "section": "12",
+      "title": "Art. 12 ust. 5 pkt 1",
+      "content": "W przypadku przyznania sumy pieniężnej od Skarbu Państwa, wypłaty dokonuje: sąd prowadzący postępowanie, w którym nastąpiła przewlekłość postępowania - ze środków własnych tego sądu;"
+    },
+    {
+      "provision_ref": "art12u5p2",
+      "section": "12",
+      "title": "Art. 12 ust. 5 pkt 2",
+      "content": "W przypadku przyznania sumy pieniężnej od Skarbu Państwa, wypłaty dokonuje: jednostka organizacyjna prokuratury, w której w trakcie prowadzenia postępowania przygotowawczego nastąpiła przewlekłość postępowania, a w odniesieniu do postępowania przygotowawczego prowadzonego w prokuraturze rejonowej - właściwa prokuratura okręgowa - ze środków własnych tej jednostki."
+    },
+    {
+      "provision_ref": "art12u6",
+      "section": "12",
+      "title": "Art. 12 ust. 6",
+      "content": "W sytuacji przyznania sumy pieniężnej w przypadku, o którym mowa w art. 4 ust. 1a, wypłaty dokonuje sąd okręgowy, a w przypadku, o którym mowa w art. 4 ust. 1b, wypłaty dokonuje sąd apelacyjny - ze środków własnych tego sądu."
+    },
+    {
+      "provision_ref": "art12u7",
+      "section": "12",
+      "title": "Art. 12 ust. 7",
+      "content": "Jeżeli do przewlekłości postępowania doszło w postępowaniu przed więcej niż jednym organem, przyznając sumę pieniężną, sąd wskazuje, w jakiej części wypłaty dokonuje dany organ."
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Art. 13",
-      "content": "1. Odpis orzeczenia uwzględniającego skargę sąd doręcza prezesowi właściwego sądu. 2. Odpis orzeczenia uwzględniającego skargę dotyczącą przewlekłości postępowania prowadzonego przez komornika sąd doręcza Ministrowi Sprawiedliwości."
+      "content": "Odpis orzeczenia uwzględniającego skargę dotyczącą przewlekłości postępowania sądowego sąd doręcza prezesowi właściwego sądu. Prezes sądu, któremu doręczono orzeczenie, jest obowiązany do podjęcia czynności nadzoru przewidzianych w ustawie z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych . Odpis orzeczenia uwzględniającego skargę dotyczącą przewlekłości postępowania prowadzonego przez komornika sąd doręcza Ministrowi Sprawiedliwości. Odpis orzeczenia uwzględniającego skargę dotyczącą przewlekłości postępowania przygotowawczego sąd doręcza prokuratorowi przełożonemu nad prokuratorem prowadzącym lub nadzorującym postępowanie przygotowawcze. Prokurator, któremu doręczono odpis orzeczenia, jest obowiązany do podjęcia czynności nadzoru przewidzianych w przepisach ustawy z dnia 28 stycznia 2016 r. - Prawo o prokuraturze ."
+    },
+    {
+      "provision_ref": "art13u1",
+      "section": "13",
+      "title": "Art. 13 ust. 1",
+      "content": "Odpis orzeczenia uwzględniającego skargę dotyczącą przewlekłości postępowania sądowego sąd doręcza prezesowi właściwego sądu. Prezes sądu, któremu doręczono orzeczenie, jest obowiązany do podjęcia czynności nadzoru przewidzianych w ustawie z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych ."
+    },
+    {
+      "provision_ref": "art13u2",
+      "section": "13",
+      "title": "Art. 13 ust. 2",
+      "content": "Odpis orzeczenia uwzględniającego skargę dotyczącą przewlekłości postępowania prowadzonego przez komornika sąd doręcza Ministrowi Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art13u3",
+      "section": "13",
+      "title": "Art. 13 ust. 3",
+      "content": "Odpis orzeczenia uwzględniającego skargę dotyczącą przewlekłości postępowania przygotowawczego sąd doręcza prokuratorowi przełożonemu nad prokuratorem prowadzącym lub nadzorującym postępowanie przygotowawcze. Prokurator, któremu doręczono odpis orzeczenia, jest obowiązany do podjęcia czynności nadzoru przewidzianych w przepisach ustawy z dnia 28 stycznia 2016 r. - Prawo o prokuraturze ."
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Art. 14",
-      "content": "Skarżący może wystąpić z nową skargą w tej samej sprawie po upływie 12 miesięcy, a w sprawie egzekucyjnej lub innej dotyczącej wykonania orzeczenia sądowego po upływie 6 miesięcy, od daty wydania przez sąd orzeczenia, o którym mowa w art. 12."
+      "content": "Skarżący może wystąpić z nową skargą w tej samej sprawie po upływie 12 miesięcy, a w postępowaniu przygotowawczym, w którym stosowane jest tymczasowe aresztowanie, oraz w sprawie egzekucyjnej lub innej dotyczącej wykonania orzeczenia sądowego - po upływie 6 miesięcy, od daty wydania przez sąd orzeczenia, o którym mowa w art. 12. W przypadku odrzucenia skargi na podstawie art. 9 ust. 1 skarżący może wystąpić z nową skargą w tej samej sprawie. W razie odrzucenia skargi na podstawie art. 9 dalsze skargi tej samej strony dotyczące tego samego postępowania, które podlegałyby odrzuceniu na podstawie art. 9, pozostawia się w aktach sprawy bez żadnych dalszych czynności. O pozostawieniu skargi i pism związanych z jej wniesieniem w aktach sprawy zawiadamia się skarżącego tylko raz - przy odrzuceniu skargi."
+    },
+    {
+      "provision_ref": "art14u1",
+      "section": "14",
+      "title": "Art. 14 ust. 1",
+      "content": "Skarżący może wystąpić z nową skargą w tej samej sprawie po upływie 12 miesięcy, a w postępowaniu przygotowawczym, w którym stosowane jest tymczasowe aresztowanie, oraz w sprawie egzekucyjnej lub innej dotyczącej wykonania orzeczenia sądowego - po upływie 6 miesięcy, od daty wydania przez sąd orzeczenia, o którym mowa w art. 12."
+    },
+    {
+      "provision_ref": "art14u2",
+      "section": "14",
+      "title": "Art. 14 ust. 2",
+      "content": "W przypadku odrzucenia skargi na podstawie art. 9 ust. 1 skarżący może wystąpić z nową skargą w tej samej sprawie."
+    },
+    {
+      "provision_ref": "art14u3",
+      "section": "14",
+      "title": "Art. 14 ust. 3",
+      "content": "W razie odrzucenia skargi na podstawie art. 9 dalsze skargi tej samej strony dotyczące tego samego postępowania, które podlegałyby odrzuceniu na podstawie art. 9, pozostawia się w aktach sprawy bez żadnych dalszych czynności. O pozostawieniu skargi i pism związanych z jej wniesieniem w aktach sprawy zawiadamia się skarżącego tylko raz - przy odrzuceniu skargi."
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Art. 15",
-      "content": "1. Strona, której skargę uwzględniono, może w odrębnym postępowaniu dochodzić naprawienia szkody wynikłej ze stwierdzonej przewlekłości od Skarbu Państwa albo solidarnie od Skarbu Państwa i komornika. 2. Postanowienie uwzględniające skargę wiąże sąd w postępowaniu cywilnym o odszkodowanie lub zadośćuczynienie, co do stwierdzenia przewlekłości postępowania."
+      "content": "Strona, której skargę uwzględniono, może w odrębnym postępowaniu dochodzić naprawienia szkody wynikłej ze stwierdzonej przewlekłości od Skarbu Państwa albo solidarnie od Skarbu Państwa i komornika. Postanowienie uwzględniające skargę wiąże sąd w postępowaniu cywilnym o odszkodowanie lub zadośćuczynienie, co do stwierdzenia przewlekłości postępowania. W razie wystąpienia przez stronę z pozwem o roszczenie, o którym mowa w ust. 1, należne odszkodowanie lub zadośćuczynienie pomniejsza się o wysokość sum przyznanych na podstawie art. 12 ust. 4 za ten sam okres."
+    },
+    {
+      "provision_ref": "art15u1",
+      "section": "15",
+      "title": "Art. 15 ust. 1",
+      "content": "Strona, której skargę uwzględniono, może w odrębnym postępowaniu dochodzić naprawienia szkody wynikłej ze stwierdzonej przewlekłości od Skarbu Państwa albo solidarnie od Skarbu Państwa i komornika."
+    },
+    {
+      "provision_ref": "art15u2",
+      "section": "15",
+      "title": "Art. 15 ust. 2",
+      "content": "Postanowienie uwzględniające skargę wiąże sąd w postępowaniu cywilnym o odszkodowanie lub zadośćuczynienie, co do stwierdzenia przewlekłości postępowania."
+    },
+    {
+      "provision_ref": "art15u3",
+      "section": "15",
+      "title": "Art. 15 ust. 3",
+      "content": "W razie wystąpienia przez stronę z pozwem o roszczenie, o którym mowa w ust. 1, należne odszkodowanie lub zadośćuczynienie pomniejsza się o wysokość sum przyznanych na podstawie art. 12 ust. 4 za ten sam okres."
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Art. 16",
-      "content": "Strona, która nie wniosła skargi na przewlekłość postępowania zgodnie z art. 5 ust. 1, może dochodzić - na podstawie art. 417 ustawy z dnia 23 kwietnia 1964 r. - Kodeks cywilny ( Dz. U. Nr 16, poz. 93 , z późn. zm. 1) Zmiany ustawy zostały ogłoszone w Dz. U. z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751 i Nr 157, poz. 1040, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 758, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 271, Nr 74, poz. 855 i 857, Nr 88, poz. 983 i Nr 114, poz. 1191, z 2001 r. Nr 11, poz. 91, Nr 71, poz. 733, Nr 130, poz. 1450 i Nr 145, poz. 1638, z 2002 r. Nr 113, poz. 984 i Nr 141, poz. 1176, z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 64, poz. 592 i Nr 124, poz. 1151 oraz z 2004 r. Nr 91, poz. 870, Nr 96, poz. 959, Nr 162, poz. 1692 i Nr 172, poz. 1804. ) - naprawienia szkody wynikłej z przewlekłości, po prawomocnym zakończeniu postępowania co do istoty sprawy."
+      "content": "Strona, która nie wniosła skargi na przewlekłość postępowania zgodnie z art. 5 ust. 1, może dochodzić - na podstawie art. 417 ustawy z dnia 23 kwietnia 1964 r. - Kodeks cywilny - naprawienia szkody wynikłej z przewlekłości, po prawomocnym zakończeniu postępowania co do istoty sprawy."
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Art. 17",
-      "content": "1. Skarga podlega stałej opłacie w wysokości 100 złotych. 2. Jeśli skargę wniosło kilka osób, każda z nich uiszcza opłatę oddzielnie; jeżeli została uiszczona jedna opłata bez odpowiedniego wskazania, uznaje się, że wniosła ją osoba wymieniona jako pierwsza w skardze. 3. Uwzględniając skargę, sąd z urzędu zwraca uiszczoną od niej opłatę."
+      "content": "Skarga podlega stałej opłacie w wysokości 200 złotych. Jeśli skargę wniosło kilka osób, każda z nich uiszcza opłatę oddzielnie; jeżeli została uiszczona jedna opłata bez odpowiedniego wskazania, uznaje się, że wniosła ją osoba wymieniona jako pierwsza w skardze. Uwzględniając lub odrzucając skargę, sąd z urzędu zwraca uiszczoną od niej opłatę."
+    },
+    {
+      "provision_ref": "art17u1",
+      "section": "17",
+      "title": "Art. 17 ust. 1",
+      "content": "Skarga podlega stałej opłacie w wysokości 200 złotych."
+    },
+    {
+      "provision_ref": "art17u2",
+      "section": "17",
+      "title": "Art. 17 ust. 2",
+      "content": "Jeśli skargę wniosło kilka osób, każda z nich uiszcza opłatę oddzielnie; jeżeli została uiszczona jedna opłata bez odpowiedniego wskazania, uznaje się, że wniosła ją osoba wymieniona jako pierwsza w skardze."
+    },
+    {
+      "provision_ref": "art17u3",
+      "section": "17",
+      "title": "Art. 17 ust. 3",
+      "content": "Uwzględniając lub odrzucając skargę, sąd z urzędu zwraca uiszczoną od niej opłatę."
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Art. 18",
-      "content": "1. W okresie 6 miesięcy od dnia wejścia w życie niniejszej ustawy osoby, które przed tym dniem złożyły skargę do Europejskiego Trybunału Praw Człowieka (zwanego dalej „Trybunałem”), zarzucając naruszenie prawa do rozpoznania sprawy w rozsądnym terminie, o którym mowa w art. 6 ust. 1 Konwencji o ochronie praw człowieka i podstawowych wolności ( Dz. U. z 1993 r. Nr 61, poz. 284 , z 1995 r. Nr 36, poz. 175, 176 i 177 , z 1998 r. Nr 147, poz. 962 oraz z 2003 r. Nr 42, poz. 364 ) , mogą wnieść skargę o stwierdzenie przewlekłości postępowania na podstawie przepisów niniejszej ustawy, jeżeli skarga do Trybunału została wniesiona w toku postępowania, którego ona dotyczy, i o ile Trybunał nie wydał postanowienia w przedmiocie dopuszczalności skargi. 2. Skarga wniesiona w trybie ust. 1 powinna wskazywać datę wniesienia skargi do Trybunału. 3. Właściwy sąd niezwłocznie zawiadamia ministra właściwego do spraw zagranicznych o skargach wniesionych w trybie, o którym mowa w ust. 1."
+      "content": "W okresie 6 miesięcy od dnia wejścia w życie niniejszej ustawy osoby, które przed tym dniem złożyły skargę do Europejskiego Trybunału Praw Człowieka (zwanego dalej „Trybunałem”), zarzucając naruszenie prawa do rozpoznania sprawy w rozsądnym terminie, o którym mowa w art. 6 ust. 1 Konwencji o ochronie praw człowieka i podstawowych wolności, mogą wnieść skargę o stwierdzenie przewlekłości postępowania na podstawie przepisów niniejszej ustawy, jeżeli skarga do Trybunału została wniesiona w toku postępowania, którego ona dotyczy, i o ile Trybunał nie wydał postanowienia w przedmiocie dopuszczalności skargi. Skarga wniesiona w trybie ust. 1 powinna wskazywać datę wniesienia skargi do Trybunału. Właściwy sąd niezwłocznie zawiadamia ministra właściwego do spraw zagranicznych o skargach wniesionych w trybie, o którym mowa w ust. 1."
+    },
+    {
+      "provision_ref": "art18u1",
+      "section": "18",
+      "title": "Art. 18 ust. 1",
+      "content": "W okresie 6 miesięcy od dnia wejścia w życie niniejszej ustawy osoby, które przed tym dniem złożyły skargę do Europejskiego Trybunału Praw Człowieka (zwanego dalej „Trybunałem”), zarzucając naruszenie prawa do rozpoznania sprawy w rozsądnym terminie, o którym mowa w art. 6 ust. 1 Konwencji o ochronie praw człowieka i podstawowych wolności, mogą wnieść skargę o stwierdzenie przewlekłości postępowania na podstawie przepisów niniejszej ustawy, jeżeli skarga do Trybunału została wniesiona w toku postępowania, którego ona dotyczy, i o ile Trybunał nie wydał postanowienia w przedmiocie dopuszczalności skargi."
+    },
+    {
+      "provision_ref": "art18u2",
+      "section": "18",
+      "title": "Art. 18 ust. 2",
+      "content": "Skarga wniesiona w trybie ust. 1 powinna wskazywać datę wniesienia skargi do Trybunału."
+    },
+    {
+      "provision_ref": "art18u3",
+      "section": "18",
+      "title": "Art. 18 ust. 3",
+      "content": "Właściwy sąd niezwłocznie zawiadamia ministra właściwego do spraw zagranicznych o skargach wniesionych w trybie, o którym mowa w ust. 1."
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Art. 19",
-      "content": "Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia. 1) Zmiany ustawy zostały ogłoszone w Dz. U. z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751 i Nr 157, poz. 1040, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 758, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 271, Nr 74, poz. 855 i 857, Nr 88, poz. 983 i Nr 114, poz. 1191, z 2001 r. Nr 11, poz. 91, Nr 71, poz. 733, Nr 130, poz. 1450 i Nr 145, poz. 1638, z 2002 r. Nr 113, poz. 984 i Nr 141, poz. 1176, z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 64, poz. 592 i Nr 124, poz. 1151 oraz z 2004 r. Nr 91, poz. 870, Nr 96, poz. 959, Nr 162, poz. 1692 i Nr 172, poz. 1804. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_3-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_3-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_3-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_3-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_3-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_4-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_4-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_5-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"arti_6-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_6-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_6-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"arti_8-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_8-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"arti_9-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_9-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\",\"children\": [{\"id\": \"arti_10-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_10-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_10-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\",\"children\": [{\"id\": \"arti_12-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_12-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_12-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_12-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\",\"children\": [{\"id\": \"arti_13-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_13-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"},{\"id\": \"arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\",\"children\": [{\"id\": \"arti_15-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_15-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\"},{\"id\": \"arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\",\"children\": [{\"id\": \"arti_17-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_17-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_17-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\",\"children\": [{\"id\": \"arti_18-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_18-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_18-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia 7) Ustawa została ogłoszona w dniu 16 sierpnia 2004 r. ."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2019-1461",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-75",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-1349",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-614",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1993-284",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-127",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2600",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-818",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-217",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2642",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-289",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1030",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1429",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1360",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-1360",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2337",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2339",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-326",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1285",
+      "ref_type": "references"
+    }
+  ]
 }

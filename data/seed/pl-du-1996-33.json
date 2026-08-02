@@ -13,20 +13,90 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 29 kwietnia 1985 r. o gospodarce gruntami i wywłaszczaniu nieruchomości ( Dz. U. z 1991 r. Nr 30, poz. 127 , Nr 103, poz. 446 i Nr 107, poz. 464 , z 1993 r. Nr 47, poz. 212 i Nr 131, poz. 629 , z 1994 r. Nr 27, poz. 96 , Nr 31, poz. 118 , Nr 84, poz. 384 , Nr 85, poz. 388 , Nr 89, poz. 415 i Nr 123, poz. 601 oraz z 1995 r. Nr 99, poz. 486 ) w art. 88a w ust. 4 wyrazy „z dniem 31 grudnia 1995 r.” zastępuje się wyrazami „jeżeli wnioski zawierające to roszczenie nie zostaną złożone do dnia 31 grudnia 1996 r.”"
+      "content": "W ustawie z dnia 29 kwietnia 1985 r. o gospodarce gruntami i wywłaszczaniu nieruchomości w art. 88a w ust. 4 wyrazy „z dniem 31 grudnia 1995 r.” zastępuje się wyrazami „jeżeli wnioski zawierające to roszczenie nie zostaną złożone do dnia 31 grudnia 1996 r.”"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "W ustawie z dnia 29 września 1990 r. o zmianie ustawy o gospodarce gruntami i wywłaszczaniu nieruchomości ( Dz. U. Nr 79, poz. 464 , z 1991 r. Nr 83, poz. 373 , z 1992 r. Nr 91, poz. 455 oraz z 1994 r. Nr 51, poz. 201 , Nr 80, poz. 369 , Nr 84, poz. 384 i Nr 123, poz. 601 ) w art. 2c w ust. 5 wyrazy „z dniem 31 grudnia 1995 r.” zastępuje się wyrazami „jeżeli wnioski zawierające te roszczenia nie zostaną złożone do dnia 31 grudnia 1996 r.”"
+      "content": "W ustawie z dnia 29 września 1990 r. o zmianie ustawy o gospodarce gruntami i wywłaszczaniu nieruchomości w art. 2c w ust. 5 wyrazy „z dniem 31 grudnia 1995 r.” zastępuje się wyrazami „jeżeli wnioski zawierające te roszczenia nie zostaną złożone do dnia 31 grudnia 1996 r.”"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 1996 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 1996 r."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-1991-127",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1991-446",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1991-464",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1993-212",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1993-629",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1994-96",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1994-118",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1994-384",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1994-388",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1994-415",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1994-601",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1995-486",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1990-464",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1991-373",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1992-455",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1994-201",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1994-369",
+      "ref_type": "amended_by"
+    }
+  ]
 }

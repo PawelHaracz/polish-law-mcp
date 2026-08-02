@@ -13,14 +13,26 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 20 lutego 2015 r. o rzeczach znalezionych ( Dz. U. poz. 397 ) w art. 5 ust. 3 otrzymuje brzmienie: „ 3. Kto znalazł pieniądze, papiery wartościowe, kosztowności, o których mowa w art. 21 ust. 4, lub rzeczy o wartości historycznej, naukowej lub artystycznej i nie zna osoby uprawnionej do ich odbioru lub nie zna jej miejsca pobytu, oddaje rzecz niezwłocznie właściwemu staroście, chyba że znalezione zostały jedynie pieniądze a ich kwota nie przekracza 100 złotych lub równowartości tej kwoty obliczonej według kursu średniego ogłaszanego przez Narodowy Bank Polski z dnia znalezienia pieniędzy, a w przypadku gdy w tym dniu nie ogłoszono takiego kursu, według ostatniego kursu ogłoszonego przed tym dniem. ” ."
+      "content": "W ustawie z dnia 20 lutego 2015 r. o rzeczach znalezionych w art. 5 ust. 3 otrzymuje brzmienie: „ Kto znalazł pieniądze, papiery wartościowe, kosztowności, o których mowa w art. 21 ust. 4, lub rzeczy o wartości historycznej, naukowej lub artystycznej i nie zna osoby uprawnionej do ich odbioru lub nie zna jej miejsca pobytu, oddaje rzecz niezwłocznie właściwemu staroście, chyba że znalezione zostały jedynie pieniądze a ich kwota nie przekracza 100 złotych lub równowartości tej kwoty obliczonej według kursu średniego ogłaszanego przez Narodowy Bank Polski z dnia znalezienia pieniędzy, a w przypadku gdy w tym dniu nie ogłoszono takiego kursu, według ostatniego kursu ogłoszonego przed tym dniem. ” ."
+    },
+    {
+      "provision_ref": "art1u3",
+      "section": "1",
+      "title": "Art. 1 ust. 3",
+      "content": "W ustawie z dnia 20 lutego 2015 r. o rzeczach znalezionych w art. 5 ust. 3 otrzymuje brzmienie: „ Kto znalazł pieniądze, papiery wartościowe, kosztowności, o których mowa w art. 21 ust. 4, lub rzeczy o wartości historycznej, naukowej lub artystycznej i nie zna osoby uprawnionej do ich odbioru lub nie zna jej miejsca pobytu, oddaje rzecz niezwłocznie właściwemu staroście, chyba że znalezione zostały jedynie pieniądze a ich kwota nie przekracza 100 złotych lub równowartości tej kwoty obliczonej według kursu średniego ogłaszanego przez Narodowy Bank Polski z dnia znalezienia pieniędzy, a w przypadku gdy w tym dniu nie ogłoszono takiego kursu, według ostatniego kursu ogłoszonego przed tym dniem."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2015-397",
+      "ref_type": "amended_by"
+    }
+  ]
 }

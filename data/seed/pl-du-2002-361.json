@@ -10,10 +10,46 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2002/361",
   "provisions": [
     {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: art. 5 pkt 5 w zakresie § 2, 4, 9 i 11-14, pkt 7, 8, 12, pkt 68 lit. a tiret drugie w zakresie pkt 3b i 3d, pkt 99, 109, 110, 129, 130, 134 i 135, które wchodzą w życie z dniem 1 stycznia 2019 r.; art. 5 pkt 59 oraz pkt 60 lit. a, b i d, które wchodzą w życie z pierwszym dniem kadencji Sejmu następującej po kadencji, w czasie której niniejsza ustawa weszła w życie."
+    },
+    {
+      "provision_ref": "art19p1",
+      "section": "19",
+      "title": "Art. 19 pkt 1",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: art. 5 pkt 5 w zakresie § 2, 4, 9 i 11-14, pkt 7, 8, 12, pkt 68 lit. a tiret drugie w zakresie pkt 3b i 3d, pkt 99, 109, 110, 129, 130, 134 i 135, które wchodzą w życie z dniem 1 stycznia 2019 r.;"
+    },
+    {
+      "provision_ref": "art19p2",
+      "section": "19",
+      "title": "Art. 19 pkt 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: art. 5 pkt 59 oraz pkt 60 lit. a, b i d, które wchodzą w życie z pierwszym dniem kadencji Sejmu następującej po kadencji, w czasie której niniejsza ustawa weszła w życie."
+    },
+    {
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "1. Stolica Rzeczypospolitej Polskiej miasto stołeczne Warszawa jest gminą mającą status miasta na prawach powiatu. 2. Nazwa miasto stołeczne Warszawa może być określana skrótem „m.st. Warszawa”. 3. Herbem m.st. Warszawy jest wizerunek Syreny o wzorze określonym w statucie m.st. Warszawy."
+      "content": "Stolica Rzeczypospolitej Polskiej miasto stołeczne Warszawa jest gminą mającą status miasta na prawach powiatu. Nazwa miasto stołeczne Warszawa może być określana skrótem „m.st. Warszawa”. Herbem m.st. Warszawy jest wizerunek Syreny o wzorze określonym w statucie m.st. Warszawy."
+    },
+    {
+      "provision_ref": "art1u1",
+      "section": "1",
+      "title": "Art. 1 ust. 1",
+      "content": "Stolica Rzeczypospolitej Polskiej miasto stołeczne Warszawa jest gminą mającą status miasta na prawach powiatu."
+    },
+    {
+      "provision_ref": "art1u2",
+      "section": "1",
+      "title": "Art. 1 ust. 2",
+      "content": "Nazwa miasto stołeczne Warszawa może być określana skrótem „m.st. Warszawa”."
+    },
+    {
+      "provision_ref": "art1u3",
+      "section": "1",
+      "title": "Art. 1 ust. 3",
+      "content": "Herbem m.st. Warszawy jest wizerunek Syreny o wzorze określonym w statucie m.st. Warszawy."
     },
     {
       "provision_ref": "art2",
@@ -25,19 +61,103 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "1. Miasto stołeczne Warszawa, oprócz zadań przewidzianych przepisami dotyczącymi samorządu gminnego i samorządu powiatowego, wykonuje zadania wynikające ze stołecznego charakteru miasta, a w szczególności zapewnia warunki niezbędne do: 1) funkcjonowania w mieście naczelnych i centralnych organów państwa, obcych przedstawicielstw dyplomatycznych i urzędów konsularnych oraz organizacji międzynarodowych, 2) przyjmowania delegacji zagranicznych, 3) funkcjonowania urządzeń publicznych o charakterze infrastrukturalnym, mających znaczenie dla stołecznych funkcji miasta. 2. Zadania, o których mowa w ust. 1, są zadaniami zleconymi z zakresu administracji rządowej."
+      "content": "Miasto stołeczne Warszawa, oprócz zadań przewidzianych przepisami dotyczącymi samorządu gminnego i samorządu powiatowego, wykonuje zadania wynikające ze stołecznego charakteru miasta, a w szczególności zapewnia warunki niezbędne do: funkcjonowania w mieście naczelnych i centralnych organów państwa, obcych przedstawicielstw dyplomatycznych i urzędów konsularnych oraz organizacji międzynarodowych; przyjmowania delegacji zagranicznych; funkcjonowania urządzeń publicznych o charakterze infrastrukturalnym, mających znaczenie dla stołecznych funkcji miasta. Zadania, o których mowa w ust. 1, są zadaniami zleconymi z zakresu administracji rządowej."
+    },
+    {
+      "provision_ref": "art3u1p1",
+      "section": "3",
+      "title": "Art. 3 ust. 1 pkt 1",
+      "content": "Miasto stołeczne Warszawa, oprócz zadań przewidzianych przepisami dotyczącymi samorządu gminnego i samorządu powiatowego, wykonuje zadania wynikające ze stołecznego charakteru miasta, a w szczególności zapewnia warunki niezbędne do: funkcjonowania w mieście naczelnych i centralnych organów państwa, obcych przedstawicielstw dyplomatycznych i urzędów konsularnych oraz organizacji międzynarodowych;"
+    },
+    {
+      "provision_ref": "art3u1p2",
+      "section": "3",
+      "title": "Art. 3 ust. 1 pkt 2",
+      "content": "Miasto stołeczne Warszawa, oprócz zadań przewidzianych przepisami dotyczącymi samorządu gminnego i samorządu powiatowego, wykonuje zadania wynikające ze stołecznego charakteru miasta, a w szczególności zapewnia warunki niezbędne do: przyjmowania delegacji zagranicznych;"
+    },
+    {
+      "provision_ref": "art3u1p3",
+      "section": "3",
+      "title": "Art. 3 ust. 1 pkt 3",
+      "content": "Miasto stołeczne Warszawa, oprócz zadań przewidzianych przepisami dotyczącymi samorządu gminnego i samorządu powiatowego, wykonuje zadania wynikające ze stołecznego charakteru miasta, a w szczególności zapewnia warunki niezbędne do: funkcjonowania urządzeń publicznych o charakterze infrastrukturalnym, mających znaczenie dla stołecznych funkcji miasta."
+    },
+    {
+      "provision_ref": "art3u2",
+      "section": "3",
+      "title": "Art. 3 ust. 2",
+      "content": "Zadania, o których mowa w ust. 1, są zadaniami zleconymi z zakresu administracji rządowej."
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "1. Projekt statutu m.st. Warszawy uchwala Rada m.st. Warszawy po zasięgnięciu opinii rad dzielnic. W przypadku niewyrażenia opinii przez radę dzielnicy w terminie 14 dni od dnia otrzymania wystąpienia, wymóg zasięgnięcia opinii uważa się za spełniony. 2. Projekt statutu m.st. Warszawy podlega uzgodnieniu z Prezesem Rady Ministrów. 3. Uzgodnienie projektu statutu następuje w terminie nie dłuższym niż 30 dni od dnia jego przedłożenia. 4. Jeżeli Prezes Rady Ministrów nie zajmie stanowiska w terminie określonym w ust. 3, statut uznaje się za uzgodniony. 5. Prezes Rady Ministrów, w przypadku stwierdzenia uchybień, przekazuje projekt statutu do ponownego rozpatrzenia, wskazując termin ich usunięcia. 6. Zmiana statutu następuje w trybie przewidzianym dla jego uchwalenia."
+      "content": "Projekt statutu m.st. Warszawy uchwala Rada m.st. Warszawy po zasięgnięciu opinii rad dzielnic. W przypadku niewyrażenia opinii przez radę dzielnicy w terminie 14 dni od dnia otrzymania wystąpienia, wymóg zasięgnięcia opinii uważa się za spełniony. Projekt statutu m.st. Warszawy podlega uzgodnieniu z Prezesem Rady Ministrów. Uzgodnienie projektu statutu następuje w terminie nie dłuższym niż 30 dni od dnia jego przedłożenia. Jeżeli Prezes Rady Ministrów nie zajmie stanowiska w terminie określonym w ust. 3, statut uznaje się za uzgodniony. Prezes Rady Ministrów, w przypadku stwierdzenia uchybień, przekazuje projekt statutu do ponownego rozpatrzenia, wskazując termin ich usunięcia. Zmiana statutu następuje w trybie przewidzianym dla jego uchwalenia."
+    },
+    {
+      "provision_ref": "art4u1",
+      "section": "4",
+      "title": "Art. 4 ust. 1",
+      "content": "Projekt statutu m.st. Warszawy uchwala Rada m.st. Warszawy po zasięgnięciu opinii rad dzielnic. W przypadku niewyrażenia opinii przez radę dzielnicy w terminie 14 dni od dnia otrzymania wystąpienia, wymóg zasięgnięcia opinii uważa się za spełniony."
+    },
+    {
+      "provision_ref": "art4u2",
+      "section": "4",
+      "title": "Art. 4 ust. 2",
+      "content": "Projekt statutu m.st. Warszawy podlega uzgodnieniu z Prezesem Rady Ministrów."
+    },
+    {
+      "provision_ref": "art4u3",
+      "section": "4",
+      "title": "Art. 4 ust. 3",
+      "content": "Uzgodnienie projektu statutu następuje w terminie nie dłuższym niż 30 dni od dnia jego przedłożenia."
+    },
+    {
+      "provision_ref": "art4u4",
+      "section": "4",
+      "title": "Art. 4 ust. 4",
+      "content": "Jeżeli Prezes Rady Ministrów nie zajmie stanowiska w terminie określonym w ust. 3, statut uznaje się za uzgodniony."
+    },
+    {
+      "provision_ref": "art4u5",
+      "section": "4",
+      "title": "Art. 4 ust. 5",
+      "content": "Prezes Rady Ministrów, w przypadku stwierdzenia uchybień, przekazuje projekt statutu do ponownego rozpatrzenia, wskazując termin ich usunięcia."
+    },
+    {
+      "provision_ref": "art4u6",
+      "section": "4",
+      "title": "Art. 4 ust. 6",
+      "content": "Zmiana statutu następuje w trybie przewidzianym dla jego uchwalenia."
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Art. 5",
-      "content": "1. W m.st. Warszawie utworzenie jednostek pomocniczych - dzielnic m.st. Warszawy, zwanych dalej „dzielnicami”, jest obowiązkowe. 2. Rada m.st. Warszawy, w drodze uchwały, po przeprowadzeniu konsultacji z mieszkańcami lub z ich inicjatywy tworzy, łączy, dzieli i znosi jednostki pomocnicze. Przepis art. 4 ust. 3 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym ( Dz. U. z 2001 r. Nr 142, poz. 1591 i z 2002 r. Nr 23, poz. 220 ) stosuje się odpowiednio. 3. Zmiany, o których mowa w ust. 2, następują z dniem 1 stycznia, a w roku, w którym odbywają się wybory do rad gmin, mogą następować z dniem wyborów. 4. Statut dzielnicy nadany przez Radę m.st. Warszawy określa nazwę dzielnicy, jej granice, zadania i kompetencje oraz zasady i tryb funkcjonowania jej organów."
+      "content": "W m.st. Warszawie utworzenie jednostek pomocniczych - dzielnic m.st. Warszawy, zwanych dalej „dzielnicami”, jest obowiązkowe. Rada m.st. Warszawy, w drodze uchwały, po przeprowadzeniu konsultacji z mieszkańcami lub z ich inicjatywy tworzy, łączy, dzieli i znosi jednostki pomocnicze. Przepis art. 4 ust. 3 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym stosuje się odpowiednio. Zmiany, o których mowa w ust. 2, następują z dniem 1 stycznia, a w roku, w którym odbywają się wybory do rad gmin, mogą następować z dniem wyborów. Statut dzielnicy nadany przez Radę m.st. Warszawy określa nazwę dzielnicy, jej granice, zadania i kompetencje oraz zasady i tryb funkcjonowania jej organów."
+    },
+    {
+      "provision_ref": "art5u1",
+      "section": "5",
+      "title": "Art. 5 ust. 1",
+      "content": "W m.st. Warszawie utworzenie jednostek pomocniczych - dzielnic m.st. Warszawy, zwanych dalej „dzielnicami”, jest obowiązkowe."
+    },
+    {
+      "provision_ref": "art5u2",
+      "section": "5",
+      "title": "Art. 5 ust. 2",
+      "content": "Rada m.st. Warszawy, w drodze uchwały, po przeprowadzeniu konsultacji z mieszkańcami lub z ich inicjatywy tworzy, łączy, dzieli i znosi jednostki pomocnicze. Przepis art. 4 ust. 3 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "art5u3",
+      "section": "5",
+      "title": "Art. 5 ust. 3",
+      "content": "Zmiany, o których mowa w ust. 2, następują z dniem 1 stycznia, a w roku, w którym odbywają się wybory do rad gmin, mogą następować z dniem wyborów."
+    },
+    {
+      "provision_ref": "art5u4",
+      "section": "5",
+      "title": "Art. 5 ust. 4",
+      "content": "Statut dzielnicy nadany przez Radę m.st. Warszawy określa nazwę dzielnicy, jej granice, zadania i kompetencje oraz zasady i tryb funkcjonowania jej organów."
     },
     {
       "provision_ref": "art6",
@@ -49,145 +169,709 @@
       "provision_ref": "art7",
       "section": "7",
       "title": "Art. 7",
-      "content": "1. Wybory do rad dzielnic przeprowadza się łącznie z wyborami do Rady m.st. Warszawy. 2. Do wyborów do rady dzielnicy stosuje się odpowiednio przepisy ustawy z dnia 16 lipca 1998 r. - Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw ( Dz. U. Nr 95, poz. 602 i Nr 160, poz. 1060 , z 2001 r. Nr 45, poz. 497 i Nr 89, poz. 971 oraz z 2002 r. Nr 23, poz. 220 ) dotyczące wyboru radnych do rady gminy liczącej więcej niż 20 000 mieszkańców, z tym że komitetom wyborczym zgłaszającym kandydatów do rady dzielnicy nie przysługuje prawo do bezpłatnego rozpowszechniania audycji wyborczych w publicznym radiu i publicznej telewizji z tytułu tego zgłoszenia. 3. Wybory do rad dzielnic przeprowadzają dzielnicowe komisje wyborcze powołane w trybie i na zasadach przewidzianych dla gminnych komisji wyborczych w gminach niebędących miastami na prawach powiatu. 4. Podziału dzielnic na okręgi wyborcze dokonuje Rada m.st. Warszawy. 5. Nie można jednocześnie kandydować do rady dzielnicy i do organu stanowiącego jednostki samorządu terytorialnego."
+      "content": "Wybory do rad dzielnic przeprowadza się łącznie z wyborami do Rady m.st. Warszawy. Do wyborów do rady dzielnicy stosuje się odpowiednio przepisy ustawy z dnia 5 stycznia 2011 r. - Kodeks wyborczy dotyczące wyboru radnych do rady gminy w gminie liczącej powyżej 20 000 mieszkańców, z tym że komitetom wyborczym zgłaszającym kandydatów do rady dzielnicy nie przysługuje prawo do bezpłatnego rozpowszechniania audycji wyborczych w publicznym radiu i publicznej telewizji z tytułu tego zgłoszenia. Wybory do rad dzielnic przeprowadzają dzielnicowe komisje wyborcze powołane w trybie i na zasadach przewidzianych dla gminnych komisji wyborczych w gminach liczących do 20 000 mieszkańców. Podziału dzielnic na okręgi wyborcze dokonuje Rada m.st. Warszawy. Nie można jednocześnie kandydować do rady dzielnicy i do organu stanowiącego jednostki samorządu terytorialnego."
+    },
+    {
+      "provision_ref": "art7u1",
+      "section": "7",
+      "title": "Art. 7 ust. 1",
+      "content": "Wybory do rad dzielnic przeprowadza się łącznie z wyborami do Rady m.st. Warszawy."
+    },
+    {
+      "provision_ref": "art7u2",
+      "section": "7",
+      "title": "Art. 7 ust. 2",
+      "content": "Do wyborów do rady dzielnicy stosuje się odpowiednio przepisy ustawy z dnia 5 stycznia 2011 r. - Kodeks wyborczy dotyczące wyboru radnych do rady gminy w gminie liczącej powyżej 20 000 mieszkańców, z tym że komitetom wyborczym zgłaszającym kandydatów do rady dzielnicy nie przysługuje prawo do bezpłatnego rozpowszechniania audycji wyborczych w publicznym radiu i publicznej telewizji z tytułu tego zgłoszenia."
+    },
+    {
+      "provision_ref": "art7u3",
+      "section": "7",
+      "title": "Art. 7 ust. 3",
+      "content": "Wybory do rad dzielnic przeprowadzają dzielnicowe komisje wyborcze powołane w trybie i na zasadach przewidzianych dla gminnych komisji wyborczych w gminach liczących do 20 000 mieszkańców."
+    },
+    {
+      "provision_ref": "art7u4",
+      "section": "7",
+      "title": "Art. 7 ust. 4",
+      "content": "Podziału dzielnic na okręgi wyborcze dokonuje Rada m.st. Warszawy."
+    },
+    {
+      "provision_ref": "art7u5",
+      "section": "7",
+      "title": "Art. 7 ust. 5",
+      "content": "Nie można jednocześnie kandydować do rady dzielnicy i do organu stanowiącego jednostki samorządu terytorialnego."
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Art. 8",
-      "content": "1. Do radnych dzielnicy stosuje się odpowiednio przepisy dotyczące radnych gminy. 2. Liczbę radnych wybieranych do rady dzielnicy ustala się na podstawie przepisów o liczbie radnych wybieranych do rad gmin."
+      "content": "Do radnych dzielnicy stosuje się odpowiednio przepisy dotyczące radnych gminy. Liczbę radnych wybieranych do rady dzielnicy ustala się na podstawie przepisów o liczbie radnych wybieranych do rad gmin."
+    },
+    {
+      "provision_ref": "art8u1",
+      "section": "8",
+      "title": "Art. 8 ust. 1",
+      "content": "Do radnych dzielnicy stosuje się odpowiednio przepisy dotyczące radnych gminy."
+    },
+    {
+      "provision_ref": "art8u2",
+      "section": "8",
+      "title": "Art. 8 ust. 2",
+      "content": "Liczbę radnych wybieranych do rady dzielnicy ustala się na podstawie przepisów o liczbie radnych wybieranych do rad gmin."
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Art. 9",
-      "content": "1. Kadencja rady dzielnicy rozpoczyna się w dniu wyborów i upływa w dniu poprzedzającym następne wybory. 2. Pierwszą sesję rady dzielnicy zwołuje Prezydent m.st. Warszawy w ciągu 7 dni po ogłoszeniu zbiorczych wyników wyborów na obszarze całego kraju. 3. Po upływie terminu określonego w ust. 2 pierwszą sesję zwołuje komisarz wyborczy w ciągu 21 dni po ogłoszeniu zbiorczych wyników wyborów na obszarze całego kraju. 4. Pracami rady dzielnicy kieruje przewodniczący rady dzielnicy. 5. W sesjach rady dzielnicy mogą brać udział z głosem doradczym radni m.st. Warszawy."
+      "content": "Kadencja rady dzielnicy rozpoczyna się w dniu wyborów i upływa w dniu poprzedzającym następne wybory. Pierwszą sesję rady dzielnicy zwołuje Prezydent m.st. Warszawy w ciągu 7 dni po ogłoszeniu zbiorczych wyników wyborów na obszarze całego kraju. Po upływie terminu określonego w ust. 2 pierwszą sesję zwołuje komisarz wyborczy w ciągu 21 dni po ogłoszeniu zbiorczych wyników wyborów na obszarze całego kraju. Pracami rady dzielnicy kieruje przewodniczący rady dzielnicy. W sesjach rady dzielnicy mogą brać udział z głosem doradczym radni m.st. Warszawy."
+    },
+    {
+      "provision_ref": "art9u1",
+      "section": "9",
+      "title": "Art. 9 ust. 1",
+      "content": "Kadencja rady dzielnicy rozpoczyna się w dniu wyborów i upływa w dniu poprzedzającym następne wybory."
+    },
+    {
+      "provision_ref": "art9u2",
+      "section": "9",
+      "title": "Art. 9 ust. 2",
+      "content": "Pierwszą sesję rady dzielnicy zwołuje Prezydent m.st. Warszawy w ciągu 7 dni po ogłoszeniu zbiorczych wyników wyborów na obszarze całego kraju."
+    },
+    {
+      "provision_ref": "art9u3",
+      "section": "9",
+      "title": "Art. 9 ust. 3",
+      "content": "Po upływie terminu określonego w ust. 2 pierwszą sesję zwołuje komisarz wyborczy w ciągu 21 dni po ogłoszeniu zbiorczych wyników wyborów na obszarze całego kraju."
+    },
+    {
+      "provision_ref": "art9u4",
+      "section": "9",
+      "title": "Art. 9 ust. 4",
+      "content": "Pracami rady dzielnicy kieruje przewodniczący rady dzielnicy."
+    },
+    {
+      "provision_ref": "art9u5",
+      "section": "9",
+      "title": "Art. 9 ust. 5",
+      "content": "W sesjach rady dzielnicy mogą brać udział z głosem doradczym radni m.st. Warszawy."
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Art. 10",
-      "content": "1. Rada dzielnicy wybiera zarząd dzielnicy w liczbie od 3 do 5 osób. W dzielnicach do 100 000 mieszkańców zarząd dzielnicy liczy 3 osoby. 2. W skład zarządu dzielnicy wchodzi burmistrz dzielnicy, jego zastępca lub zastępcy oraz pozostali członkowie zarządu, jeżeli statut dzielnicy tak stanowi. 3. Wybór burmistrza następuje w głosowaniu tajnym bezwzględną większością głosów. Pozostali członkowie zarządu wybierani są na wniosek burmistrza zwykłą większością głosów w głosowaniu tajnym. 4. Jeżeli w ciągu 30 dni od dnia pierwszego posiedzenia rady dzielnicy zarząd dzielnicy nie zostanie wybrany, Prezydent m.st. Warszawy nie później niż w ciągu 14 dni powołuje zarząd dzielnicy, w tym burmistrza dzielnicy. 5. Odwołanie burmistrza następuje na wniosek Prezydenta m.st. Warszawy lub na wniosek co najmniej 1/4 ustawowego składu rady bezwzględną większością głosów w głosowaniu tajnym. Odwołanie burmistrza jest równoznaczne z odwołaniem całego zarządu. 6. Rada dzielnicy może odwołać członka zarządu na wniosek burmistrza, Prezydenta m.st. Warszawy lub na wniosek co najmniej 1/4 ustawowego składu rady dzielnicy zwykłą większością głosów w głosowaniu tajnym. 7. W przypadku odwołania zarządu stosuje się odpowiednio ust. 4."
+      "content": "Rada dzielnicy wybiera zarząd dzielnicy w liczbie od 3 do 5 osób. W dzielnicach do 100 000 mieszkańców zarząd dzielnicy liczy 3 osoby. W skład zarządu dzielnicy wchodzi burmistrz dzielnicy, jego zastępca lub zastępcy oraz pozostali członkowie zarządu, jeżeli statut dzielnicy tak stanowi. Wybór burmistrza następuje w głosowaniu tajnym bezwzględną większością głosów. Pozostali członkowie zarządu wybierani są na wniosek burmistrza zwykłą większością głosów w głosowaniu tajnym. Jeżeli w ciągu 30 dni od dnia pierwszego posiedzenia rady dzielnicy zarząd dzielnicy nie zostanie wybrany, Prezydent m.st. Warszawy nie później niż w ciągu 14 dni powołuje zarząd dzielnicy, w tym burmistrza dzielnicy. Odwołanie burmistrza następuje na wniosek Prezydenta m.st. Warszawy lub na wniosek co najmniej 1/4 ustawowego składu rady bezwzględną większością głosów w głosowaniu tajnym. Odwołanie burmistrza jest równoznaczne z odwołaniem całego zarządu. Rada dzielnicy może odwołać członka zarządu na wniosek burmistrza, Prezydenta m.st. Warszawy lub na wniosek co najmniej 1/4 ustawowego składu rady dzielnicy zwykłą większością głosów w głosowaniu tajnym. W przypadku odwołania zarządu stosuje się odpowiednio ust. 4."
+    },
+    {
+      "provision_ref": "art10u1",
+      "section": "10",
+      "title": "Art. 10 ust. 1",
+      "content": "Rada dzielnicy wybiera zarząd dzielnicy w liczbie od 3 do 5 osób. W dzielnicach do 100 000 mieszkańców zarząd dzielnicy liczy 3 osoby."
+    },
+    {
+      "provision_ref": "art10u2",
+      "section": "10",
+      "title": "Art. 10 ust. 2",
+      "content": "W skład zarządu dzielnicy wchodzi burmistrz dzielnicy, jego zastępca lub zastępcy oraz pozostali członkowie zarządu, jeżeli statut dzielnicy tak stanowi."
+    },
+    {
+      "provision_ref": "art10u3",
+      "section": "10",
+      "title": "Art. 10 ust. 3",
+      "content": "Wybór burmistrza następuje w głosowaniu tajnym bezwzględną większością głosów. Pozostali członkowie zarządu wybierani są na wniosek burmistrza zwykłą większością głosów w głosowaniu tajnym."
+    },
+    {
+      "provision_ref": "art10u4",
+      "section": "10",
+      "title": "Art. 10 ust. 4",
+      "content": "Jeżeli w ciągu 30 dni od dnia pierwszego posiedzenia rady dzielnicy zarząd dzielnicy nie zostanie wybrany, Prezydent m.st. Warszawy nie później niż w ciągu 14 dni powołuje zarząd dzielnicy, w tym burmistrza dzielnicy."
+    },
+    {
+      "provision_ref": "art10u5",
+      "section": "10",
+      "title": "Art. 10 ust. 5",
+      "content": "Odwołanie burmistrza następuje na wniosek Prezydenta m.st. Warszawy lub na wniosek co najmniej 1/4 ustawowego składu rady bezwzględną większością głosów w głosowaniu tajnym. Odwołanie burmistrza jest równoznaczne z odwołaniem całego zarządu."
+    },
+    {
+      "provision_ref": "art10u6",
+      "section": "10",
+      "title": "Art. 10 ust. 6",
+      "content": "Rada dzielnicy może odwołać członka zarządu na wniosek burmistrza, Prezydenta m.st. Warszawy lub na wniosek co najmniej 1/4 ustawowego składu rady dzielnicy zwykłą większością głosów w głosowaniu tajnym."
+    },
+    {
+      "provision_ref": "art10u7",
+      "section": "10",
+      "title": "Art. 10 ust. 7",
+      "content": "W przypadku odwołania zarządu stosuje się odpowiednio ust. 4."
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Art. 11",
-      "content": "1. Dzielnica działa na podstawie statutu dzielnicy nadanego przez Radę m.st. Warszawy i innych uchwał Rady m.st. Warszawy przekazujących dzielnicy zadania i kompetencje gminne i powiatowe, zadania zlecone gminie z zakresu administracji rządowej oraz zadania realizowane na podstawie porozumień zawartych pomiędzy jednostkami samorządu terytorialnego. 2. Do zakresu działania dzielnicy należą sprawy lokalne, a w szczególności: 1) utrzymywanie i eksploatacja gminnych zasobów lokalowych, 2) utrzymywanie placówek oświaty i wychowania, kultury, pomocy społecznej, rekreacji, sportu i turystyki, w zakresie określonym przez statut miasta i inne uchwały Rady m.st. Warszawy, 3) zadania związane z ochroną zdrowia, w zakresie określonym przez statut miasta i inne uchwały Rady m.st. Warszawy, 4) utrzymanie zieleni i dróg o charakterze lokalnym, w zakresie określonym przez statut miasta i inne uchwały Rady m.st. Warszawy, 5) utrzymywanie i eksploatacja dzielnicowych obiektów administracyjnych, 6) sprawowanie nadzoru nad jednostkami niższego rzędu utworzonymi na jej obszarze, 7) podejmowanie we własnym zakresie działań na rzecz zaspokajania zbiorowych potrzeb wspólnoty mieszkańców dzielnicy."
+      "content": "Dzielnica działa na podstawie statutu dzielnicy nadanego przez Radę m.st. Warszawy i innych uchwał Rady m.st. Warszawy przekazujących dzielnicy zadania i kompetencje gminne i powiatowe, zadania zlecone gminie z zakresu administracji rządowej oraz zadania realizowane na podstawie porozumień zawartych pomiędzy jednostkami samorządu terytorialnego. Do zakresu działania dzielnicy należą sprawy lokalne, a w szczególności: utrzymywanie i eksploatacja gminnych zasobów lokalowych; utrzymywanie placówek oświaty i wychowania, kultury, pomocy społecznej, rekreacji, sportu i turystyki, w zakresie określonym przez statut miasta i inne uchwały Rady m.st. Warszawy; zadania związane z ochroną zdrowia, w zakresie określonym przez statut miasta i inne uchwały Rady m.st. Warszawy; utrzymanie zieleni i dróg o charakterze lokalnym, w zakresie określonym przez statut miasta i inne uchwały Rady m.st. Warszawy; utrzymywanie i eksploatacja dzielnicowych obiektów administracyjnych; sprawowanie nadzoru nad jednostkami niższego rzędu utworzonymi na jej obszarze; podejmowanie we własnym zakresie działań na rzecz zaspokajania zbiorowych potrzeb wspólnoty mieszkańców dzielnicy. W zakresie kompetencji, o których mowa w ust. 1, zarząd dzielnicy może upoważnić poszczególnych członków zarządu oraz innych pracowników Urzędu m.st. Warszawy, wykonujących pracę w danej dzielnicy, do załatwiania indywidualnych spraw z zakresu administracji publicznej w trybie przepisów o postępowaniu administracyjnym i postępowaniu podatkowym, w tym do wydawania decyzji."
+    },
+    {
+      "provision_ref": "art11u1",
+      "section": "11",
+      "title": "Art. 11 ust. 1",
+      "content": "Dzielnica działa na podstawie statutu dzielnicy nadanego przez Radę m.st. Warszawy i innych uchwał Rady m.st. Warszawy przekazujących dzielnicy zadania i kompetencje gminne i powiatowe, zadania zlecone gminie z zakresu administracji rządowej oraz zadania realizowane na podstawie porozumień zawartych pomiędzy jednostkami samorządu terytorialnego."
+    },
+    {
+      "provision_ref": "art11u2p1",
+      "section": "11",
+      "title": "Art. 11 ust. 2 pkt 1",
+      "content": "Do zakresu działania dzielnicy należą sprawy lokalne, a w szczególności: utrzymywanie i eksploatacja gminnych zasobów lokalowych;"
+    },
+    {
+      "provision_ref": "art11u2p2",
+      "section": "11",
+      "title": "Art. 11 ust. 2 pkt 2",
+      "content": "Do zakresu działania dzielnicy należą sprawy lokalne, a w szczególności: utrzymywanie placówek oświaty i wychowania, kultury, pomocy społecznej, rekreacji, sportu i turystyki, w zakresie określonym przez statut miasta i inne uchwały Rady m.st. Warszawy;"
+    },
+    {
+      "provision_ref": "art11u2p3",
+      "section": "11",
+      "title": "Art. 11 ust. 2 pkt 3",
+      "content": "Do zakresu działania dzielnicy należą sprawy lokalne, a w szczególności: zadania związane z ochroną zdrowia, w zakresie określonym przez statut miasta i inne uchwały Rady m.st. Warszawy;"
+    },
+    {
+      "provision_ref": "art11u2p4",
+      "section": "11",
+      "title": "Art. 11 ust. 2 pkt 4",
+      "content": "Do zakresu działania dzielnicy należą sprawy lokalne, a w szczególności: utrzymanie zieleni i dróg o charakterze lokalnym, w zakresie określonym przez statut miasta i inne uchwały Rady m.st. Warszawy;"
+    },
+    {
+      "provision_ref": "art11u2p5",
+      "section": "11",
+      "title": "Art. 11 ust. 2 pkt 5",
+      "content": "Do zakresu działania dzielnicy należą sprawy lokalne, a w szczególności: utrzymywanie i eksploatacja dzielnicowych obiektów administracyjnych;"
+    },
+    {
+      "provision_ref": "art11u2p6",
+      "section": "11",
+      "title": "Art. 11 ust. 2 pkt 6",
+      "content": "Do zakresu działania dzielnicy należą sprawy lokalne, a w szczególności: sprawowanie nadzoru nad jednostkami niższego rzędu utworzonymi na jej obszarze;"
+    },
+    {
+      "provision_ref": "art11u2p7",
+      "section": "11",
+      "title": "Art. 11 ust. 2 pkt 7",
+      "content": "Do zakresu działania dzielnicy należą sprawy lokalne, a w szczególności: podejmowanie we własnym zakresie działań na rzecz zaspokajania zbiorowych potrzeb wspólnoty mieszkańców dzielnicy."
+    },
+    {
+      "provision_ref": "art11u3",
+      "section": "11",
+      "title": "Art. 11 ust. 3",
+      "content": "W zakresie kompetencji, o których mowa w ust. 1, zarząd dzielnicy może upoważnić poszczególnych członków zarządu oraz innych pracowników Urzędu m.st. Warszawy, wykonujących pracę w danej dzielnicy, do załatwiania indywidualnych spraw z zakresu administracji publicznej w trybie przepisów o postępowaniu administracyjnym i postępowaniu podatkowym, w tym do wydawania decyzji."
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Art. 12",
-      "content": "1. Gospodarka finansowa dzielnicy prowadzona jest na podstawie załącznika dzielnicowego do uchwały budżetowej m.st. Warszawy, stanowiącego integralną część tej uchwały, określającego środki przeznaczone do dyspozycji dzielnic na realizację ich zadań. 2. Rada dzielnicy przedstawia Radzie m.st. Warszawy opinię na temat załącznika dzielnicowego do projektu uchwały budżetowej. 3. Środki finansowe przeznaczone do dyspozycji dzielnicy w załączniku, o którym mowa w ust. 1, nie mogą być mniejsze niż planowane w budżecie m.st. Warszawy dochody stanowiące: 1) 100% wpływów, z obszaru dzielnicy, z tytułu: a) podatku od nieruchomości, b) podatku od środków transportowych, c) podatku od posiadania psów, d) podatku rolnego, e) podatku leśnego, f) opłat lokalnych uiszczanych na podstawie ustawy z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych ( Dz. U. z 2002 r. Nr 9, poz. 84 ) , 2) 70% wpływów z majątku m.st. Warszawy znajdującego się na obszarze dzielnicy, który przed dniem wejścia w życie ustawy był własnością gmin warszawskich, 3) 100% wpływów z innych dochodów m.st. Warszawy pozyskiwanych przez dzielnicę w wyniku realizacji zadań statutowych dzielnicy. 4. Załącznik, o którym mowa w ust. 1, określa także dodatkowe środki finansowe, które są przekazywane do dyspozycji dzielnicy, a w szczególności: 1) udział w środkach finansowych przekazywanych do m.st. Warszawy z budżetu państwa w stopniu proporcjonalnym do zadań, które są wykonywane przez dzielnicę i na które zostały przyznane te środki, 2) środki na realizację inwestycji i zadań własnych dzielnicy uzgodnione przez Prezydenta m.st. Warszawy i burmistrzów dzielnic, 3) środki wyrównawcze ustalane corocznie przez Radę m.st. Warszawy. 5. Przekazując do dyspozycji dzielnicy środki finansowe, o których mowa w ust. 4, Rada m.st. Warszawy uwzględnia potrzebę zapewnienia skuteczności decentralizacji zadań gminy, równomiernego rozwoju wszystkich dzielnic oraz maksymalnej możliwości zaspokojenia zbiorowych potrzeb wspólnot w dzielnicach. 6. Przekazanie zadań, o których mowa w art. 11, następuje wraz z zapewnieniem środków wystarczających na ich realizację."
+      "content": "Gospodarka finansowa dzielnicy prowadzona jest na podstawie załącznika dzielnicowego do uchwały budżetowej m.st. Warszawy, stanowiącego integralną część tej uchwały, określającego środki przeznaczone do dyspozycji dzielnic na realizację ich zadań. Rada dzielnicy przedstawia Radzie m.st. Warszawy opinię na temat załącznika dzielnicowego do projektu uchwały budżetowej. Środki finansowe przeznaczone do dyspozycji dzielnicy w załączniku, o którym mowa w ust. 1, nie mogą być mniejsze niż planowane w budżecie m.st. Warszawy dochody stanowiące: 100% wpływów, z obszaru dzielnicy, z tytułu: podatku od nieruchomości, podatku od środków transportowych, (uchylona) podatku rolnego, podatku leśnego, opłat lokalnych uiszczanych na podstawie ustawy z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych ; 70% wpływów z majątku m.st. Warszawy znajdującego się na obszarze dzielnicy, który przed dniem wejścia w życie ustawy był własnością gmin warszawskich; 100% wpływów z innych dochodów m.st. Warszawy pozyskiwanych przez dzielnicę w wyniku realizacji zadań statutowych dzielnicy. Załącznik, o którym mowa w ust. 1, określa także dodatkowe środki finansowe, które są przekazywane do dyspozycji dzielnicy, a w szczególności: udział w środkach finansowych przekazywanych do m.st. Warszawy z budżetu państwa w stopniu proporcjonalnym do zadań, które są wykonywane przez dzielnicę i na które zostały przyznane te środki; środki na realizację inwestycji i zadań własnych dzielnicy uzgodnione przez Prezydenta m.st. Warszawy i burmistrzów dzielnic; środki wyrównawcze ustalane corocznie przez Radę m.st. Warszawy. Przekazując do dyspozycji dzielnicy środki finansowe, o których mowa w ust. 4, Rada m.st. Warszawy uwzględnia potrzebę zapewnienia skuteczności decentralizacji zadań gminy, równomiernego rozwoju wszystkich dzielnic oraz maksymalnej możliwości zaspokojenia zbiorowych potrzeb wspólnot w dzielnicach. Przekazanie zadań, o których mowa w art. 11, następuje wraz z zapewnieniem środków wystarczających na ich realizację."
+    },
+    {
+      "provision_ref": "art12u1",
+      "section": "12",
+      "title": "Art. 12 ust. 1",
+      "content": "Gospodarka finansowa dzielnicy prowadzona jest na podstawie załącznika dzielnicowego do uchwały budżetowej m.st. Warszawy, stanowiącego integralną część tej uchwały, określającego środki przeznaczone do dyspozycji dzielnic na realizację ich zadań."
+    },
+    {
+      "provision_ref": "art12u2",
+      "section": "12",
+      "title": "Art. 12 ust. 2",
+      "content": "Rada dzielnicy przedstawia Radzie m.st. Warszawy opinię na temat załącznika dzielnicowego do projektu uchwały budżetowej."
+    },
+    {
+      "provision_ref": "art12u3p1la",
+      "section": "12",
+      "title": "Art. 12 ust. 3 pkt 1 lit. a",
+      "content": "Środki finansowe przeznaczone do dyspozycji dzielnicy w załączniku, o którym mowa w ust. 1, nie mogą być mniejsze niż planowane w budżecie m.st. Warszawy dochody stanowiące: 100% wpływów, z obszaru dzielnicy, z tytułu: podatku od nieruchomości,"
+    },
+    {
+      "provision_ref": "art12u3p1lb",
+      "section": "12",
+      "title": "Art. 12 ust. 3 pkt 1 lit. b",
+      "content": "Środki finansowe przeznaczone do dyspozycji dzielnicy w załączniku, o którym mowa w ust. 1, nie mogą być mniejsze niż planowane w budżecie m.st. Warszawy dochody stanowiące: 100% wpływów, z obszaru dzielnicy, z tytułu: podatku od środków transportowych,"
+    },
+    {
+      "provision_ref": "art12u3p1lc",
+      "section": "12",
+      "title": "Art. 12 ust. 3 pkt 1 lit. c",
+      "content": "Środki finansowe przeznaczone do dyspozycji dzielnicy w załączniku, o którym mowa w ust. 1, nie mogą być mniejsze niż planowane w budżecie m.st. Warszawy dochody stanowiące: 100% wpływów, z obszaru dzielnicy, z tytułu: (uchylona)"
+    },
+    {
+      "provision_ref": "art12u3p1ld",
+      "section": "12",
+      "title": "Art. 12 ust. 3 pkt 1 lit. d",
+      "content": "Środki finansowe przeznaczone do dyspozycji dzielnicy w załączniku, o którym mowa w ust. 1, nie mogą być mniejsze niż planowane w budżecie m.st. Warszawy dochody stanowiące: 100% wpływów, z obszaru dzielnicy, z tytułu: podatku rolnego,"
+    },
+    {
+      "provision_ref": "art12u3p1le",
+      "section": "12",
+      "title": "Art. 12 ust. 3 pkt 1 lit. e",
+      "content": "Środki finansowe przeznaczone do dyspozycji dzielnicy w załączniku, o którym mowa w ust. 1, nie mogą być mniejsze niż planowane w budżecie m.st. Warszawy dochody stanowiące: 100% wpływów, z obszaru dzielnicy, z tytułu: podatku leśnego,"
+    },
+    {
+      "provision_ref": "art12u3p1lf",
+      "section": "12",
+      "title": "Art. 12 ust. 3 pkt 1 lit. f",
+      "content": "Środki finansowe przeznaczone do dyspozycji dzielnicy w załączniku, o którym mowa w ust. 1, nie mogą być mniejsze niż planowane w budżecie m.st. Warszawy dochody stanowiące: 100% wpływów, z obszaru dzielnicy, z tytułu: opłat lokalnych uiszczanych na podstawie ustawy z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych ;"
+    },
+    {
+      "provision_ref": "art12u3p2",
+      "section": "12",
+      "title": "Art. 12 ust. 3 pkt 2",
+      "content": "Środki finansowe przeznaczone do dyspozycji dzielnicy w załączniku, o którym mowa w ust. 1, nie mogą być mniejsze niż planowane w budżecie m.st. Warszawy dochody stanowiące: 70% wpływów z majątku m.st. Warszawy znajdującego się na obszarze dzielnicy, który przed dniem wejścia w życie ustawy był własnością gmin warszawskich;"
+    },
+    {
+      "provision_ref": "art12u3p3",
+      "section": "12",
+      "title": "Art. 12 ust. 3 pkt 3",
+      "content": "Środki finansowe przeznaczone do dyspozycji dzielnicy w załączniku, o którym mowa w ust. 1, nie mogą być mniejsze niż planowane w budżecie m.st. Warszawy dochody stanowiące: 100% wpływów z innych dochodów m.st. Warszawy pozyskiwanych przez dzielnicę w wyniku realizacji zadań statutowych dzielnicy."
+    },
+    {
+      "provision_ref": "art12u4p1",
+      "section": "12",
+      "title": "Art. 12 ust. 4 pkt 1",
+      "content": "Załącznik, o którym mowa w ust. 1, określa także dodatkowe środki finansowe, które są przekazywane do dyspozycji dzielnicy, a w szczególności: udział w środkach finansowych przekazywanych do m.st. Warszawy z budżetu państwa w stopniu proporcjonalnym do zadań, które są wykonywane przez dzielnicę i na które zostały przyznane te środki;"
+    },
+    {
+      "provision_ref": "art12u4p2",
+      "section": "12",
+      "title": "Art. 12 ust. 4 pkt 2",
+      "content": "Załącznik, o którym mowa w ust. 1, określa także dodatkowe środki finansowe, które są przekazywane do dyspozycji dzielnicy, a w szczególności: środki na realizację inwestycji i zadań własnych dzielnicy uzgodnione przez Prezydenta m.st. Warszawy i burmistrzów dzielnic;"
+    },
+    {
+      "provision_ref": "art12u4p3",
+      "section": "12",
+      "title": "Art. 12 ust. 4 pkt 3",
+      "content": "Załącznik, o którym mowa w ust. 1, określa także dodatkowe środki finansowe, które są przekazywane do dyspozycji dzielnicy, a w szczególności: środki wyrównawcze ustalane corocznie przez Radę m.st. Warszawy."
+    },
+    {
+      "provision_ref": "art12u5",
+      "section": "12",
+      "title": "Art. 12 ust. 5",
+      "content": "Przekazując do dyspozycji dzielnicy środki finansowe, o których mowa w ust. 4, Rada m.st. Warszawy uwzględnia potrzebę zapewnienia skuteczności decentralizacji zadań gminy, równomiernego rozwoju wszystkich dzielnic oraz maksymalnej możliwości zaspokojenia zbiorowych potrzeb wspólnot w dzielnicach."
+    },
+    {
+      "provision_ref": "art12u6",
+      "section": "12",
+      "title": "Art. 12 ust. 6",
+      "content": "Przekazanie zadań, o których mowa w art. 11, następuje wraz z zapewnieniem środków wystarczających na ich realizację."
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Art. 13",
-      "content": "Obszar m.st. Warszawy, w dniu wejścia w życie ustawy, obejmuje obszar związku komunalnego m.st. Warszawy utworzonego ustawą z dnia 25 marca 1994 r. o ustroju miasta stołecznego Warszawy ( Dz. U. Nr 48, poz. 195 i Nr 86, poz. 396 , z 1995 r. Nr 124, poz. 601 , z 1998 r. Nr 127, poz. 847 , z 1999 r. Nr 92, poz. 1044 , z 2000 r. Nr 26, poz. 306 oraz z 2001 r. Nr 45, poz. 497 ) ."
+      "content": "Obszar m.st. Warszawy, w dniu wejścia w życie ustawy, obejmuje obszar związku komunalnego m.st. Warszawy, utworzonego ustawą z dnia 25 marca 1994 r. o ustroju miasta stołecznego Warszawy ) , oraz gminy Wesoła."
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Art. 14",
-      "content": "Dzielnicami m.st. Warszawy, w dniu wejścia w życie ustawy, są: Bemowo, Białołęka, Bielany, Mokotów, Ochota, Praga-Południe, Praga-Północ, Rembertów, Śródmieście, Targówek, Ursus, Ursynów, Wawer, Wilanów, Włochy, Wola i Żoliborz, w granicach dotychczasowych, odpowiednio, gmin warszawskich lub dzielnic w gminie Warszawa-Centrum."
+      "content": "Dzielnicami m.st. Warszawy, w dniu wejścia w życie ustawy, są: Bemowo, Białołęka, Bielany, Mokotów, Ochota, Praga-Południe, Praga-Północ, Rembertów, Śródmieście, Targówek, Ursus, Ursynów, Wawer, Wesoła, Wilanów, Włochy, Wola i Żoliborz w granicach dotychczasowych, odpowiednio, gmin warszawskich, gminy Wesoła lub dzielnic w gminie Warszawa-Centrum."
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Art. 15",
-      "content": "Znosi się gminy warszawskie, dzielnice w gminie Warszawa-Centrum oraz związek komunalny m.st. Warszawy, utworzone ustawą, o której mowa w art. 13."
+      "content": "Znosi się gminy warszawskie, dzielnice w gminie Warszawa-Centrum i związek komunalny m.st. Warszawy, utworzone ustawą, o której mowa w art. 13, oraz gminę Wesoła."
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Art. 16",
-      "content": "1. Znosi się powiat warszawski. 2. Gminy Sulejówek i Wesoła, w dniu wejścia w życie ustawy, wchodzą w skład powiatu mińskiego."
+      "content": "Znosi się powiat warszawski. Gmina Sulejówek, w dniu wejścia w życie ustawy, wchodzi w skład powiatu mińskiego."
+    },
+    {
+      "provision_ref": "art16u1",
+      "section": "16",
+      "title": "Art. 16 ust. 1",
+      "content": "Znosi się powiat warszawski."
+    },
+    {
+      "provision_ref": "art16u2",
+      "section": "16",
+      "title": "Art. 16 ust. 2",
+      "content": "Gmina Sulejówek, w dniu wejścia w życie ustawy, wchodzi w skład powiatu mińskiego."
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Art. 17",
-      "content": "1. Dotychczasowy Zarząd związku komunalnego m.st. Warszawy pełni obowiązki organu wykonawczego na obszarze m.st. Warszawy do czasu objęcia obowiązków przez organ wykonawczy m.st. Warszawy utworzony niniejszą ustawą. 2. Dotychczasowe zarządy gmin warszawskich i zarządy dzielnic w gminie Warszawa-Centrum pełnią obowiązki zarządów dzielnic do czasu wyboru lub powołania zarządów dzielnic m.st. Warszawy na podstawie niniejszej ustawy."
+      "content": "Dotychczasowy Zarząd związku komunalnego m.st. Warszawy pełni obowiązki organu wykonawczego na obszarze m.st. Warszawy do czasu objęcia obowiązków przez organ wykonawczy m.st. Warszawy utworzony niniejszą ustawą. Dotychczasowe zarządy gmin warszawskich, zarządy dzielnic w gminie Warszawa-Centrum oraz zarząd gminy Wesoła pełnią obowiązki zarządów dzielnic do czasu wyboru lub powołania zarządów dzielnic m.st. Warszawy na podstawie niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art17u1",
+      "section": "17",
+      "title": "Art. 17 ust. 1",
+      "content": "Dotychczasowy Zarząd związku komunalnego m.st. Warszawy pełni obowiązki organu wykonawczego na obszarze m.st. Warszawy do czasu objęcia obowiązków przez organ wykonawczy m.st. Warszawy utworzony niniejszą ustawą."
+    },
+    {
+      "provision_ref": "art17u2",
+      "section": "17",
+      "title": "Art. 17 ust. 2",
+      "content": "Dotychczasowe zarządy gmin warszawskich, zarządy dzielnic w gminie Warszawa-Centrum oraz zarząd gminy Wesoła pełnią obowiązki zarządów dzielnic do czasu wyboru lub powołania zarządów dzielnic m.st. Warszawy na podstawie niniejszej ustawy."
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Art. 18",
-      "content": "1. Dotychczasowe Biuro Zarządu m.st. Warszawy, starostwo powiatu warszawskiego, urzędy gmin warszawskich i urzędy dzielnic w gminie Warszawa-Centrum stają się Urzędem m.st. Warszawy. 2. Pracownicy samorządowi Biura Zarządu m.st. Warszawy, starostwa powiatu warszawskiego, urzędów gmin warszawskich i dzielnic gminy Warszawa-Centrum stają się pracownikami samorządowymi Urzędu m.st. Warszawy. 3. Stosunek pracy z pracownikami, o których mowa w ust. 2, wygasa z ostatnim dniem miesiąca, w którym upływa 6 miesięcy od dnia opublikowania przez komisarza wyborczego wyników wyborów do Rady m.st. Warszawy, jeżeli na miesiąc przed upływem tego terminu nie zostaną im zaproponowane nowe warunki pracy lub płacy na dalszy okres albo w razie ich nieprzyjęcia, w ciągu 14 dni od dnia ich zaproponowania. 4. Pracodawca obowiązany jest powiadomić na piśmie pracownika odpowiednio o terminie wygaśnięcia stosunku pracy albo o skutkach nieprzyjęcia nowych warunków pracy lub płacy."
+      "content": "Dotychczasowe Biuro Zarządu m.st. Warszawy, starostwo powiatu warszawskiego, urzędy gmin warszawskich i urzędy dzielnic w gminie Warszawa-Centrum oraz urząd gminy Wesoła stają się Urzędem m.st. Warszawy. Pracownicy samorządowi Biura Zarządu m.st. Warszawy, starostwa powiatu warszawskiego, urzędów gmin warszawskich i dzielnic gminy Warszawa-Centrum oraz urzędu gminy Wesoła stają się pracownikami samorządowymi Urzędu m.st. Warszawy. Stosunek pracy z pracownikami, o których mowa w ust. 2, wygasa z ostatnim dniem miesiąca, w którym upływa 6 miesięcy od dnia opublikowania przez komisarza wyborczego wyników wyborów do Rady m.st. Warszawy, jeżeli na miesiąc przed upływem tego terminu nie zostaną im zaproponowane nowe warunki pracy lub płacy na dalszy okres albo w razie ich nieprzyjęcia, w ciągu 14 dni od dnia ich zaproponowania. Pracodawca obowiązany jest powiadomić na piśmie pracownika odpowiednio o terminie wygaśnięcia stosunku pracy albo o skutkach nieprzyjęcia nowych warunków pracy lub płacy."
+    },
+    {
+      "provision_ref": "art18u1",
+      "section": "18",
+      "title": "Art. 18 ust. 1",
+      "content": "Dotychczasowe Biuro Zarządu m.st. Warszawy, starostwo powiatu warszawskiego, urzędy gmin warszawskich i urzędy dzielnic w gminie Warszawa-Centrum oraz urząd gminy Wesoła stają się Urzędem m.st. Warszawy."
+    },
+    {
+      "provision_ref": "art18u2",
+      "section": "18",
+      "title": "Art. 18 ust. 2",
+      "content": "Pracownicy samorządowi Biura Zarządu m.st. Warszawy, starostwa powiatu warszawskiego, urzędów gmin warszawskich i dzielnic gminy Warszawa-Centrum oraz urzędu gminy Wesoła stają się pracownikami samorządowymi Urzędu m.st. Warszawy."
+    },
+    {
+      "provision_ref": "art18u3",
+      "section": "18",
+      "title": "Art. 18 ust. 3",
+      "content": "Stosunek pracy z pracownikami, o których mowa w ust. 2, wygasa z ostatnim dniem miesiąca, w którym upływa 6 miesięcy od dnia opublikowania przez komisarza wyborczego wyników wyborów do Rady m.st. Warszawy, jeżeli na miesiąc przed upływem tego terminu nie zostaną im zaproponowane nowe warunki pracy lub płacy na dalszy okres albo w razie ich nieprzyjęcia, w ciągu 14 dni od dnia ich zaproponowania."
+    },
+    {
+      "provision_ref": "art18u4",
+      "section": "18",
+      "title": "Art. 18 ust. 4",
+      "content": "Pracodawca obowiązany jest powiadomić na piśmie pracownika odpowiednio o terminie wygaśnięcia stosunku pracy albo o skutkach nieprzyjęcia nowych warunków pracy lub płacy."
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Art. 19",
-      "content": "Do czasu uchwalenia statutów dzielnic m.st. Warszawy mają zastosowanie odpowiednio przepisy określające organizację dotychczasowych gmin warszawskich oraz dzielnic w gminie Warszawa-Centrum w zakresie niesprzecznym z niniejszą ustawą."
+      "content": "Do czasu uchwalenia statutów dzielnic m.st. Warszawy mają zastosowanie odpowiednio przepisy określające organizację dotychczasowych gmin warszawskich, dzielnic w gminie Warszawa-Centrum oraz gminy Wesoła w zakresie niesprzecznym z niniejszą ustawą."
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Art. 20",
-      "content": "1. Mienie gmin warszawskich oraz mienie powiatu warszawskiego działających na podstawie przepisów dotychczasowych, mienie związku komunalnego m.st. Warszawy utworzonego na podstawie art. 1 ustawy, o której mowa w art. 13, a także mienie związków komunalnych gmin warszawskich utworzonych na podstawie art. 6 ustawy, o której mowa w art. 13, staje się z mocy ustawy mieniem m.st. Warszawy. 2. Miasto stołeczne Warszawa staje się następcą prawnym podmiotów, o których mowa w ust. 1, w tym we wszczętych i niezakończonych do dnia wejścia w życie ustawy postępowaniach o nabycie mienia na podstawie odrębnych przepisów. 3. Ujawnienie w księgach wieczystych zmian wynikających z przejęcia przez m.st. Warszawę mienia, o którym mowa w ust. 1 i 2, następuje z urzędu. 4. Do czasu ujawnienia w księgach wieczystych zmian wynikających z przejęcia mienia przez m.st. Warszawę, jednak nie dłużej niż do dnia 31 grudnia 2003 r., czynności prawne mające za przedmiot mienie komunalne są, z uwzględnieniem przepisów Kodeksu cywilnego oraz przepisów o księgach wieczystych, ważne, jeżeli m.st. Warszawa, dokonując danej czynności, złoży w formie przewidzianej dla tej czynności oświadczenie, że jest gminą właściwą dla dokonania tej czynności. 5. Zobowiązania i wierzytelności podmiotów, o których mowa w ust. 1, stają się z dniem wejścia w życie ustawy zobowiązaniami i wierzytelnościami m.st. Warszawy."
+      "content": "Mienie gmin warszawskich, mienie gminy Wesoła oraz mienie powiatu warszawskiego działających na podstawie przepisów dotychczasowych, mienie związku komunalnego m.st. Warszawy utworzonego na podstawie art. 1 ustawy, o której mowa w art. 13, a także mienie związków komunalnych gmin warszawskich utworzonych na podstawie art. 6 ustawy, o której mowa w art. 13, staje się z mocy ustawy mieniem m.st. Warszawy. Miasto stołeczne Warszawa staje się fundatorem w fundacjach, w których był nim podmiot określony w ust. 1, w szczególności obejmuje przewidziane w statutach tych fundacji jego zadania i kompetencje. Miasto stołeczne Warszawa staje się następcą prawnym podmiotów, o których mowa w ust. 1, w tym we wszczętych i niezakończonych do dnia wejścia w życie ustawy postępowaniach o nabycie mienia na podstawie odrębnych przepisów. Ujawnienie w księgach wieczystych zmian wynikających z przejęcia przez m.st. Warszawę mienia, o którym mowa w ust. 1 i 2, następuje z urzędu. Do czasu ujawnienia w księgach wieczystych zmian wynikających z przejęcia mienia przez m.st. Warszawę, jednak nie dłużej niż do dnia 31 grudnia 2003 r., czynności prawne mające za przedmiot mienie komunalne są, z uwzględnieniem przepisów Kodeksu cywilnego oraz przepisów o księgach wieczystych, ważne, jeżeli m.st. Warszawa, dokonując danej czynności, złoży w formie przewidzianej dla tej czynności oświadczenie, że jest gminą właściwą dla dokonania tej czynności. Zobowiązania i wierzytelności podmiotów, o których mowa w ust. 1, stają się z dniem wejścia w życie ustawy zobowiązaniami i wierzytelnościami m.st. Warszawy."
+    },
+    {
+      "provision_ref": "art20u1",
+      "section": "20",
+      "title": "Art. 20 ust. 1",
+      "content": "Mienie gmin warszawskich, mienie gminy Wesoła oraz mienie powiatu warszawskiego działających na podstawie przepisów dotychczasowych, mienie związku komunalnego m.st. Warszawy utworzonego na podstawie art. 1 ustawy, o której mowa w art. 13, a także mienie związków komunalnych gmin warszawskich utworzonych na podstawie art. 6 ustawy, o której mowa w art. 13, staje się z mocy ustawy mieniem m.st. Warszawy."
+    },
+    {
+      "provision_ref": "art20u1a",
+      "section": "20",
+      "title": "Art. 20 ust. 1a",
+      "content": "Miasto stołeczne Warszawa staje się fundatorem w fundacjach, w których był nim podmiot określony w ust. 1, w szczególności obejmuje przewidziane w statutach tych fundacji jego zadania i kompetencje."
+    },
+    {
+      "provision_ref": "art20u2",
+      "section": "20",
+      "title": "Art. 20 ust. 2",
+      "content": "Miasto stołeczne Warszawa staje się następcą prawnym podmiotów, o których mowa w ust. 1, w tym we wszczętych i niezakończonych do dnia wejścia w życie ustawy postępowaniach o nabycie mienia na podstawie odrębnych przepisów."
+    },
+    {
+      "provision_ref": "art20u3",
+      "section": "20",
+      "title": "Art. 20 ust. 3",
+      "content": "Ujawnienie w księgach wieczystych zmian wynikających z przejęcia przez m.st. Warszawę mienia, o którym mowa w ust. 1 i 2, następuje z urzędu."
+    },
+    {
+      "provision_ref": "art20u4",
+      "section": "20",
+      "title": "Art. 20 ust. 4",
+      "content": "Do czasu ujawnienia w księgach wieczystych zmian wynikających z przejęcia mienia przez m.st. Warszawę, jednak nie dłużej niż do dnia 31 grudnia 2003 r., czynności prawne mające za przedmiot mienie komunalne są, z uwzględnieniem przepisów Kodeksu cywilnego oraz przepisów o księgach wieczystych, ważne, jeżeli m.st. Warszawa, dokonując danej czynności, złoży w formie przewidzianej dla tej czynności oświadczenie, że jest gminą właściwą dla dokonania tej czynności."
+    },
+    {
+      "provision_ref": "art20u5",
+      "section": "20",
+      "title": "Art. 20 ust. 5",
+      "content": "Zobowiązania i wierzytelności podmiotów, o których mowa w ust. 1, stają się z dniem wejścia w życie ustawy zobowiązaniami i wierzytelnościami m.st. Warszawy."
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Art. 21",
-      "content": "1. Przedsiębiorstwa komunalne i zakłady budżetowe, które wykonują zadania o charakterze użyteczności publicznej mające znaczenie dla całego miasta, podporządkowane i nadzorowane przez Zarząd m.st. Warszawy, ulegają z mocy prawa przekształceniu w jednoosobowe spółki prawa handlowego m.st. Warszawy z dniem 1 stycznia 2003 r. 2. Przedsiębiorstwami komunalnymi, o których mowa w ust. 1, są: 1) Miejskie Przedsiębiorstwo Oczyszczania, 2) Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji, 3) Stołeczne Przedsiębiorstwo Energetyki Cieplnej. 3. Zakładami budżetowymi, o których mowa w ust. 1, są: 1) Miejskie Zakłady Autobusowe, 2) Tramwaje Warszawskie, 3) Metro Warszawskie. 4. Przed upływem terminu, o którym mowa w ust. 1, organ wykonawczy m.st. Warszawy ustala statut spółki (akt założycielski) i niezwłocznie składa wniosek o wpisanie spółki do rejestru sądowego z dniem 1 stycznia 2003 r. 5. Wartość kapitału spółki i jej majątek określi organ wykonawczy m.st. Warszawy. 6. W sprawach nieuregulowanych w ust. 1-5 stosuje się odpowiednio przepisy rozdziału 4 ustawy z dnia 20 grudnia 1996 r. o gospodarce komunalnej ( Dz. U. z 1997 r. Nr 9, poz. 43 , Nr 106, poz. 679 i Nr 121, poz. 770 oraz z 1998 r. Nr 106, poz. 668 ) ."
+      "content": "Przedsiębiorstwa komunalne i zakłady budżetowe, które wykonują zadania o charakterze użyteczności publicznej mające znaczenie dla całego miasta, podporządkowane i nadzorowane przez Zarząd m.st. Warszawy, ulegają z mocy prawa przekształceniu w jednoosobowe spółki prawa handlowego m.st. Warszawy z dniem 1 stycznia 2003 r. Przedsiębiorstwami komunalnymi, o których mowa w ust. 1, są: Miejskie Przedsiębiorstwo Oczyszczania; Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji; Stołeczne Przedsiębiorstwo Energetyki Cieplnej. Zakładami budżetowymi, o których mowa w ust. 1, są: Miejskie Zakłady Autobusowe; Tramwaje Warszawskie; Metro Warszawskie. Przed upływem terminu, o którym mowa w ust. 1, organ wykonawczy m.st. Warszawy ustala statut spółki (akt założycielski) i niezwłocznie składa wniosek o wpisanie spółki do rejestru sądowego z dniem 1 stycznia 2003 r. Wartość kapitału spółki i jej majątek określi organ wykonawczy m.st. Warszawy. W sprawach nieuregulowanych w ust. 1-5 stosuje się odpowiednio przepisy rozdziału 4 ustawy z dnia 20 grudnia 1996 r. o gospodarce komunalnej ."
+    },
+    {
+      "provision_ref": "art21u1",
+      "section": "21",
+      "title": "Art. 21 ust. 1",
+      "content": "Przedsiębiorstwa komunalne i zakłady budżetowe, które wykonują zadania o charakterze użyteczności publicznej mające znaczenie dla całego miasta, podporządkowane i nadzorowane przez Zarząd m.st. Warszawy, ulegają z mocy prawa przekształceniu w jednoosobowe spółki prawa handlowego m.st. Warszawy z dniem 1 stycznia 2003 r."
+    },
+    {
+      "provision_ref": "art21u2p1",
+      "section": "21",
+      "title": "Art. 21 ust. 2 pkt 1",
+      "content": "Przedsiębiorstwami komunalnymi, o których mowa w ust. 1, są: Miejskie Przedsiębiorstwo Oczyszczania;"
+    },
+    {
+      "provision_ref": "art21u2p2",
+      "section": "21",
+      "title": "Art. 21 ust. 2 pkt 2",
+      "content": "Przedsiębiorstwami komunalnymi, o których mowa w ust. 1, są: Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji;"
+    },
+    {
+      "provision_ref": "art21u2p3",
+      "section": "21",
+      "title": "Art. 21 ust. 2 pkt 3",
+      "content": "Przedsiębiorstwami komunalnymi, o których mowa w ust. 1, są: Stołeczne Przedsiębiorstwo Energetyki Cieplnej."
+    },
+    {
+      "provision_ref": "art21u3p1",
+      "section": "21",
+      "title": "Art. 21 ust. 3 pkt 1",
+      "content": "Zakładami budżetowymi, o których mowa w ust. 1, są: Miejskie Zakłady Autobusowe;"
+    },
+    {
+      "provision_ref": "art21u3p2",
+      "section": "21",
+      "title": "Art. 21 ust. 3 pkt 2",
+      "content": "Zakładami budżetowymi, o których mowa w ust. 1, są: Tramwaje Warszawskie;"
+    },
+    {
+      "provision_ref": "art21u3p3",
+      "section": "21",
+      "title": "Art. 21 ust. 3 pkt 3",
+      "content": "Zakładami budżetowymi, o których mowa w ust. 1, są: Metro Warszawskie."
+    },
+    {
+      "provision_ref": "art21u4",
+      "section": "21",
+      "title": "Art. 21 ust. 4",
+      "content": "Przed upływem terminu, o którym mowa w ust. 1, organ wykonawczy m.st. Warszawy ustala statut spółki (akt założycielski) i niezwłocznie składa wniosek o wpisanie spółki do rejestru sądowego z dniem 1 stycznia 2003 r."
+    },
+    {
+      "provision_ref": "art21u5",
+      "section": "21",
+      "title": "Art. 21 ust. 5",
+      "content": "Wartość kapitału spółki i jej majątek określi organ wykonawczy m.st. Warszawy."
+    },
+    {
+      "provision_ref": "art21u6",
+      "section": "21",
+      "title": "Art. 21 ust. 6",
+      "content": "W sprawach nieuregulowanych w ust. 1-5 stosuje się odpowiednio przepisy rozdziału 4 ustawy z dnia 20 grudnia 1996 r. o gospodarce komunalnej ."
     },
     {
       "provision_ref": "art22",
       "section": "22",
       "title": "Art. 22",
-      "content": "1. Jednostki organizacyjne gmin warszawskich, związku komunalnego m.st. Warszawy i powiatu warszawskiego oraz powiatowe służby, inspekcje i straże stają się jednostkami organizacyjnymi, służbami, inspekcjami i strażami m.st. Warszawy. 2. Prezydent m.st. Warszawy jest zwierzchnikiem służbowym pracowników jednostek organizacyjnych oraz zwierzchnikiem służb, inspekcji i straży m.st. Warszawy. 3. Do czasu wprowadzenia nowych regulaminów organizacyjnych jednostki organizacyjne, służby, inspekcje i straże m.st. Warszawy, z zastrzeżeniem ust. 2, działają na podstawie dotychczasowych przepisów. 4. Osoby prawne gmin warszawskich, związku komunalnego m.st. Warszawy i powiatu warszawskiego stają się osobami prawnymi m.st. Warszawy."
+      "content": "Jednostki organizacyjne gmin warszawskich, związku komunalnego m.st. Warszawy, gminy Wesoła i powiatu warszawskiego oraz powiatowe służby, inspekcje i straże stają się jednostkami organizacyjnymi, służbami, inspekcjami i strażami m.st. Warszawy. Prezydent m.st. Warszawy jest zwierzchnikiem służbowym pracowników jednostek organizacyjnych oraz zwierzchnikiem służb, inspekcji i straży m.st. Warszawy. Do czasu wprowadzenia nowych regulaminów organizacyjnych jednostki organizacyjne, służby, inspekcje i straże m.st. Warszawy, z zastrzeżeniem ust. 2, działają na podstawie dotychczasowych przepisów. Osoby prawne gmin warszawskich, związku komunalnego m.st. Warszawy, gminy Wesoła i powiatu warszawskiego stają się osobami prawnymi m.st. Warszawy."
+    },
+    {
+      "provision_ref": "art22u1",
+      "section": "22",
+      "title": "Art. 22 ust. 1",
+      "content": "Jednostki organizacyjne gmin warszawskich, związku komunalnego m.st. Warszawy, gminy Wesoła i powiatu warszawskiego oraz powiatowe służby, inspekcje i straże stają się jednostkami organizacyjnymi, służbami, inspekcjami i strażami m.st. Warszawy."
+    },
+    {
+      "provision_ref": "art22u2",
+      "section": "22",
+      "title": "Art. 22 ust. 2",
+      "content": "Prezydent m.st. Warszawy jest zwierzchnikiem służbowym pracowników jednostek organizacyjnych oraz zwierzchnikiem służb, inspekcji i straży m.st. Warszawy."
+    },
+    {
+      "provision_ref": "art22u3",
+      "section": "22",
+      "title": "Art. 22 ust. 3",
+      "content": "Do czasu wprowadzenia nowych regulaminów organizacyjnych jednostki organizacyjne, służby, inspekcje i straże m.st. Warszawy, z zastrzeżeniem ust. 2, działają na podstawie dotychczasowych przepisów."
+    },
+    {
+      "provision_ref": "art22u4",
+      "section": "22",
+      "title": "Art. 22 ust. 4",
+      "content": "Osoby prawne gmin warszawskich, związku komunalnego m.st. Warszawy, gminy Wesoła i powiatu warszawskiego stają się osobami prawnymi m.st. Warszawy."
     },
     {
       "provision_ref": "art23",
       "section": "23",
       "title": "Art. 23",
-      "content": "Z dniem wejścia w życie ustawy stroną zawartych wcześniej porozumień pomiędzy organami administracji rządowej lub jednostek samorządu terytorialnego a dotychczasowymi gminami warszawskimi, związkiem komunalnym m.st. Warszawy lub powiatem warszawskim staje się m.st. Warszawa."
+      "content": "Z dniem wejścia w życie ustawy stroną zawartych wcześniej porozumień pomiędzy organami administracji rządowej lub jednostek samorządu terytorialnego a dotychczasowymi gminami warszawskimi, związkiem komunalnym m.st. Warszawy, gminą Wesoła lub powiatem warszawskim staje się m.st. Warszawa."
     },
     {
       "provision_ref": "art24",
       "section": "24",
       "title": "Art. 24",
-      "content": "1. Burmistrzowie gmin warszawskich, Prezydent m.st. Warszawy oraz starosta powiatu warszawskiego, działający na podstawie przepisów dotychczasowych, sporządzą i przekażą sprawozdanie budżetowe z wykonania budżetu jednostki samorządu terytorialnego na dzień poprzedzający wejście w życie ustawy do Regionalnej Izby Obrachunkowej w Warszawie. 2. Na podstawie sprawozdań, o których mowa w ust. 1, Prezes Regionalnej Izby Obrachunkowej w Warszawie sporządza zbiorcze sprawozdanie z wykonania budżetów jednostek, o których mowa w ust. 1, za okres od dnia 1 stycznia 2002 r. do dnia poprzedzającego wejście w życie ustawy, w terminie do 30 dnia miesiąca następującego po okresie sprawozdawczym. Sprawozdanie to przekazywane jest organom m.st. Warszawy oraz ministrowi właściwemu do spraw finansów publicznych. 3. Organ wykonawczy m.st. Warszawy sporządza sprawozdanie z wykonania budżetu za okres od dnia wejścia w życie ustawy do końca okresu sprawozdawczego. Sprawozdanie to przekazywane jest do Regionalnej Izby Obrachunkowej w Warszawie w terminie do 25 dnia miesiąca następującego po okresie sprawozdawczym."
+      "content": "Burmistrzowie gmin warszawskich, Prezydent m.st. Warszawy, burmistrz gminy Wesoła oraz starosta powiatu warszawskiego, działający na podstawie przepisów dotychczasowych, sporządzą i przekażą sprawozdanie budżetowe z wykonania budżetu jednostki samorządu terytorialnego na dzień poprzedzający wejście w życie ustawy do Regionalnej Izby Obrachunkowej w Warszawie. Na podstawie sprawozdań, o których mowa w ust. 1, Prezes Regionalnej Izby Obrachunkowej w Warszawie sporządza zbiorcze sprawozdanie z wykonania budżetów jednostek, o których mowa w ust. 1, za okres od dnia 1 stycznia 2002 r. do dnia poprzedzającego wejście w życie ustawy, w terminie do 30 dnia miesiąca następującego po okresie sprawozdawczym. Sprawozdanie to przekazywane jest organom m.st. Warszawy oraz ministrowi właściwemu do spraw finansów publicznych. Organ wykonawczy m.st. Warszawy sporządza sprawozdanie z wykonania budżetu za okres od dnia wejścia w życie ustawy do końca okresu sprawozdawczego. Sprawozdanie to przekazywane jest do Regionalnej Izby Obrachunkowej w Warszawie w terminie do 25 dnia miesiąca następującego po okresie sprawozdawczym."
+    },
+    {
+      "provision_ref": "art24u1",
+      "section": "24",
+      "title": "Art. 24 ust. 1",
+      "content": "Burmistrzowie gmin warszawskich, Prezydent m.st. Warszawy, burmistrz gminy Wesoła oraz starosta powiatu warszawskiego, działający na podstawie przepisów dotychczasowych, sporządzą i przekażą sprawozdanie budżetowe z wykonania budżetu jednostki samorządu terytorialnego na dzień poprzedzający wejście w życie ustawy do Regionalnej Izby Obrachunkowej w Warszawie."
+    },
+    {
+      "provision_ref": "art24u2",
+      "section": "24",
+      "title": "Art. 24 ust. 2",
+      "content": "Na podstawie sprawozdań, o których mowa w ust. 1, Prezes Regionalnej Izby Obrachunkowej w Warszawie sporządza zbiorcze sprawozdanie z wykonania budżetów jednostek, o których mowa w ust. 1, za okres od dnia 1 stycznia 2002 r. do dnia poprzedzającego wejście w życie ustawy, w terminie do 30 dnia miesiąca następującego po okresie sprawozdawczym. Sprawozdanie to przekazywane jest organom m.st. Warszawy oraz ministrowi właściwemu do spraw finansów publicznych."
+    },
+    {
+      "provision_ref": "art24u3",
+      "section": "24",
+      "title": "Art. 24 ust. 3",
+      "content": "Organ wykonawczy m.st. Warszawy sporządza sprawozdanie z wykonania budżetu za okres od dnia wejścia w życie ustawy do końca okresu sprawozdawczego. Sprawozdanie to przekazywane jest do Regionalnej Izby Obrachunkowej w Warszawie w terminie do 25 dnia miesiąca następującego po okresie sprawozdawczym."
     },
     {
       "provision_ref": "art25",
       "section": "25",
       "title": "Art. 25",
-      "content": "1. Prezes Regionalnej Izby Obrachunkowej w Warszawie ustala budżet m.st. Warszawy na okres od dnia wejścia w życie ustawy do dnia 31 grudnia 2002 r. 2. Budżet, o którym mowa w ust. 1, stanowi podstawę gospodarki finansowej m.st. Warszawy do czasu podjęcia uchwały budżetowej przez Radę m.st. Warszawy. 3. Ustalone wpłaty gmin warszawskich z przeznaczeniem na zwiększenie części podstawowej subwencji ogólnej, obliczone na podstawie art. 23 ust. 2 ustawy z dnia 26 listopada 1998 r. o dochodach jednostek samorządu terytorialnego w latach 1999-2002 ( Dz. U. Nr 150, poz. 983 i Nr 162, poz. 1119 , z 2000 r. Nr 95, poz. 1041 oraz z 2001 r. Nr 39, poz. 459 , Nr 55, poz. 574 i Nr 145, poz. 1623 ) , stają się z dniem wejścia w życie ustawy zobowiązaniami m.st. Warszawy. 4. Miasto stołeczne Warszawa dokonuje wpłat, o których mowa w ust. 3, zgodnie z art. 23 ust. 4 ustawy, o której mowa w ust. 3. 5. Subwencję ogólną dla m.st. Warszawy ustala się w wysokości stanowiącej różnicę pomiędzy ustaloną na 2002 r. sumą kwot części subwencji ogólnej dla poszczególnych gmin warszawskich a sumą kwot części subwencji ogólnej, przekazaną tym gminom do dnia wejścia w życie ustawy. 6. Do końca 2002 r. dotacje celowe z budżetu państwa na zadania realizowane dotychczas przez gminy warszawskie przekazywane są do budżetu m.st. Warszawy."
+      "content": "Prezes Regionalnej Izby Obrachunkowej w Warszawie ustala budżet m.st. Warszawy na okres od dnia wejścia w życie ustawy do dnia 31 grudnia 2002 r. Budżet, o którym mowa w ust. 1, stanowi podstawę gospodarki finansowej m.st. Warszawy do czasu podjęcia uchwały budżetowej przez Radę m.st. Warszawy. Ustalone wpłaty gmin warszawskich i gminy Wesoła z przeznaczeniem na zwiększenie części podstawowej subwencji ogólnej, obliczone na podstawie art. 23 ust. 2 ustawy z dnia 26 listopada 1998 r. o dochodach jednostek samorządu terytorialnego w latach 1999-2003 ) 4) Obowiązywała w latach 1999-2003 na podstawie art. 1 pkt 2 ustawy z dnia 23 listopada 2002 r. o zmianie ustawy o dochodach jednostek samorządu terytorialnego w latach 1999-2002 oraz niektórych innych ustaw (Dz. U. poz. 1826), która weszła w życie z dniem 1 stycznia 2003 r. , stają się z dniem wejścia w życie ustawy zobowiązaniami m.st. Warszawy. Miasto stołeczne Warszawa dokonuje wpłat, o których mowa w ust. 3, zgodnie z art. 23 ust. 4 ustawy, o której mowa w ust. 3. Subwencję ogólną dla m.st. Warszawy ustala się w wysokości stanowiącej różnicę pomiędzy ustaloną na 2002 r. sumą kwot części subwencji ogólnej dla poszczególnych gmin warszawskich i gminy Wesoła a sumą kwot części subwencji ogólnej, przekazaną tym gminom do dnia wejścia w życie ustawy. Do końca 2002 r. dotacje celowe z budżetu państwa na zadania realizowane dotychczas przez gminy warszawskie i gminę Wesoła przekazywane są do budżetu m.st. Warszawy."
+    },
+    {
+      "provision_ref": "art25u1",
+      "section": "25",
+      "title": "Art. 25 ust. 1",
+      "content": "Prezes Regionalnej Izby Obrachunkowej w Warszawie ustala budżet m.st. Warszawy na okres od dnia wejścia w życie ustawy do dnia 31 grudnia 2002 r."
+    },
+    {
+      "provision_ref": "art25u2",
+      "section": "25",
+      "title": "Art. 25 ust. 2",
+      "content": "Budżet, o którym mowa w ust. 1, stanowi podstawę gospodarki finansowej m.st. Warszawy do czasu podjęcia uchwały budżetowej przez Radę m.st. Warszawy."
+    },
+    {
+      "provision_ref": "art25u3",
+      "section": "25",
+      "title": "Art. 25 ust. 3",
+      "content": "Ustalone wpłaty gmin warszawskich i gminy Wesoła z przeznaczeniem na zwiększenie części podstawowej subwencji ogólnej, obliczone na podstawie art. 23 ust. 2 ustawy z dnia 26 listopada 1998 r. o dochodach jednostek samorządu terytorialnego w latach 1999-2003 ) 4) Obowiązywała w latach 1999-2003 na podstawie art. 1 pkt 2 ustawy z dnia 23 listopada 2002 r. o zmianie ustawy o dochodach jednostek samorządu terytorialnego w latach 1999-2002 oraz niektórych innych ustaw (Dz. U. poz. 1826), która weszła w życie z dniem 1 stycznia 2003 r. , stają się z dniem wejścia w życie ustawy zobowiązaniami m.st. Warszawy."
+    },
+    {
+      "provision_ref": "art25u4",
+      "section": "25",
+      "title": "Art. 25 ust. 4",
+      "content": "Miasto stołeczne Warszawa dokonuje wpłat, o których mowa w ust. 3, zgodnie z art. 23 ust. 4 ustawy, o której mowa w ust. 3."
+    },
+    {
+      "provision_ref": "art25u5",
+      "section": "25",
+      "title": "Art. 25 ust. 5",
+      "content": "Subwencję ogólną dla m.st. Warszawy ustala się w wysokości stanowiącej różnicę pomiędzy ustaloną na 2002 r. sumą kwot części subwencji ogólnej dla poszczególnych gmin warszawskich i gminy Wesoła a sumą kwot części subwencji ogólnej, przekazaną tym gminom do dnia wejścia w życie ustawy."
+    },
+    {
+      "provision_ref": "art25u6",
+      "section": "25",
+      "title": "Art. 25 ust. 6",
+      "content": "Do końca 2002 r. dotacje celowe z budżetu państwa na zadania realizowane dotychczas przez gminy warszawskie i gminę Wesoła przekazywane są do budżetu m.st. Warszawy."
     },
     {
       "provision_ref": "art26",
       "section": "26",
       "title": "Art. 26",
-      "content": "1. W toczących się postępowaniach sądowych i administracyjnych, w których stronami są dotychczasowe gminy warszawskie, związek komunalny m.st. Warszawy oraz powiat warszawski, stroną staje się m.st. Warszawa. 2. Niezakończone postępowania administracyjne, toczące się przed dotychczasowymi organami gmin warszawskich, związku komunalnego m.st. Warszawy oraz powiatu warszawskiego, toczą się nadal przed organami m.st. Warszawy. 3. Pełnomocnictwa udzielone przez dotychczasowe rady i zarządy gmin warszawskich, związku komunalnego m.st. Warszawy, powiatu warszawskiego, burmistrzów gmin i Prezydenta m.st. Warszawy zachowują moc do dnia upływu 4 miesięcy od dnia wejścia w życie ustawy, jeśli nie zostaną zmienione lub uchylone przez Radę m.st. Warszawy lub Prezydenta m.st. Warszawy."
+      "content": "W toczących się postępowaniach sądowych i administracyjnych, w których stronami są dotychczasowe gminy warszawskie, związek komunalny m.st. Warszawy, gmina Wesoła oraz powiat warszawski, stroną staje się m.st. Warszawa. Niezakończone postępowania administracyjne, toczące się przed dotychczasowymi organami gmin warszawskich, związku komunalnego m.st. Warszawy, gminy Wesoła oraz powiatu warszawskiego, toczą się nadal przed organami m.st. Warszawy. Pełnomocnictwa udzielone przez dotychczasowe rady i zarządy gmin warszawskich, związku komunalnego m.st. Warszawy, gminy Wesoła, powiatu warszawskiego, burmistrzów gmin i Prezydenta m.st. Warszawy zachowują moc do dnia upływu 4 miesięcy od dnia wejścia w życie ustawy, jeśli nie zostaną zmienione lub uchylone przez Radę m.st. Warszawy lub Prezydenta m.st. Warszawy."
+    },
+    {
+      "provision_ref": "art26u1",
+      "section": "26",
+      "title": "Art. 26 ust. 1",
+      "content": "W toczących się postępowaniach sądowych i administracyjnych, w których stronami są dotychczasowe gminy warszawskie, związek komunalny m.st. Warszawy, gmina Wesoła oraz powiat warszawski, stroną staje się m.st. Warszawa."
+    },
+    {
+      "provision_ref": "art26u2",
+      "section": "26",
+      "title": "Art. 26 ust. 2",
+      "content": "Niezakończone postępowania administracyjne, toczące się przed dotychczasowymi organami gmin warszawskich, związku komunalnego m.st. Warszawy, gminy Wesoła oraz powiatu warszawskiego, toczą się nadal przed organami m.st. Warszawy."
+    },
+    {
+      "provision_ref": "art26u3",
+      "section": "26",
+      "title": "Art. 26 ust. 3",
+      "content": "Pełnomocnictwa udzielone przez dotychczasowe rady i zarządy gmin warszawskich, związku komunalnego m.st. Warszawy, gminy Wesoła, powiatu warszawskiego, burmistrzów gmin i Prezydenta m.st. Warszawy zachowują moc do dnia upływu 4 miesięcy od dnia wejścia w życie ustawy, jeśli nie zostaną zmienione lub uchylone przez Radę m.st. Warszawy lub Prezydenta m.st. Warszawy."
     },
     {
       "provision_ref": "art27",
       "section": "27",
       "title": "Art. 27",
-      "content": "1. Miejscowe plany zagospodarowania przestrzennego uchwalone przez gminy warszawskie po dniu 1 stycznia 1995 r. stają się miejscowymi planami zagospodarowania przestrzennego m.st. Warszawy. 2. Dotychczasowy plan zagospodarowania m.st. Warszawy z określeniem ustaleń wiążących przy sporządzaniu miejscowych planów zagospodarowania przestrzennego pełni funkcję studium uwarunkowań i kierunków zagospodarowania przestrzennego m.st. Warszawy w rozumieniu przepisów o zagospodarowaniu przestrzennym."
+      "content": "Miejscowe plany zagospodarowania przestrzennego uchwalone przez gminy warszawskie po dniu 1 stycznia 1995 r. oraz miejscowe plany zagospodarowania przestrzennego gminy Wesoła stają się miejscowymi planami zagospodarowania przestrzennego m.st. Warszawy. Dotychczasowy plan zagospodarowania m.st. Warszawy z określeniem ustaleń wiążących przy sporządzaniu miejscowych planów zagospodarowania przestrzennego pełni funkcję studium uwarunkowań i kierunków zagospodarowania przestrzennego m.st. Warszawy w rozumieniu przepisów o zagospodarowaniu przestrzennym."
+    },
+    {
+      "provision_ref": "art27u1",
+      "section": "27",
+      "title": "Art. 27 ust. 1",
+      "content": "Miejscowe plany zagospodarowania przestrzennego uchwalone przez gminy warszawskie po dniu 1 stycznia 1995 r. oraz miejscowe plany zagospodarowania przestrzennego gminy Wesoła stają się miejscowymi planami zagospodarowania przestrzennego m.st. Warszawy."
+    },
+    {
+      "provision_ref": "art27u2",
+      "section": "27",
+      "title": "Art. 27 ust. 2",
+      "content": "Dotychczasowy plan zagospodarowania m.st. Warszawy z określeniem ustaleń wiążących przy sporządzaniu miejscowych planów zagospodarowania przestrzennego pełni funkcję studium uwarunkowań i kierunków zagospodarowania przestrzennego m.st. Warszawy w rozumieniu przepisów o zagospodarowaniu przestrzennym."
     },
     {
       "provision_ref": "art28",
       "section": "28",
       "title": "Art. 28",
-      "content": "1. Pierwsze wybory do Rady m.st. Warszawy i do rad dzielnic w m.st. Warszawie utworzonych na podstawie przepisów niniejszej ustawy zarządza Prezes Rady Ministrów, w drodze rozporządzenia, po zasięgnięciu opinii Państwowej Komisji Wyborczej. Termin wyborów wyznacza się na dzień wyborów do organów stanowiących jednostek samorządu terytorialnego przypadających w związku z zakończeniem kadencji tych organów wybranych w dniu 11 października 1998 r. 2. Wybory, o których mowa w ust. 1, przeprowadza się z uwzględnieniem przepisów niniejszej ustawy."
+      "content": "Pierwsze wybory do Rady m.st. Warszawy i do rad dzielnic w m.st. Warszawie utworzonych na podstawie przepisów niniejszej ustawy zarządza Prezes Rady Ministrów, w drodze rozporządzenia, po zasięgnięciu opinii Państwowej Komisji Wyborczej. Termin wyborów wyznacza się na dzień wyborów do organów stanowiących jednostek samorządu terytorialnego przypadających w związku z zakończeniem kadencji tych organów wybranych w dniu 11 października 1998 r. Wybory, o których mowa w ust. 1, przeprowadza się z uwzględnieniem przepisów niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art28u1",
+      "section": "28",
+      "title": "Art. 28 ust. 1",
+      "content": "Pierwsze wybory do Rady m.st. Warszawy i do rad dzielnic w m.st. Warszawie utworzonych na podstawie przepisów niniejszej ustawy zarządza Prezes Rady Ministrów, w drodze rozporządzenia, po zasięgnięciu opinii Państwowej Komisji Wyborczej. Termin wyborów wyznacza się na dzień wyborów do organów stanowiących jednostek samorządu terytorialnego przypadających w związku z zakończeniem kadencji tych organów wybranych w dniu 11 października 1998 r."
+    },
+    {
+      "provision_ref": "art28u2",
+      "section": "28",
+      "title": "Art. 28 ust. 2",
+      "content": "Wybory, o których mowa w ust. 1, przeprowadza się z uwzględnieniem przepisów niniejszej ustawy."
     },
     {
       "provision_ref": "art29",
       "section": "29",
       "title": "Art. 29",
-      "content": "W pierwszych wyborach do Rady m.st. Warszawy i do rad dzielnic w m.st. Warszawie stosuje się przepisy ustawy, o której mowa w art. 7 ust. 2, z następującymi zmianami: 1) Wojewoda Mazowiecki ogłosi liczbę radnych wybieranych do rad dzielnic w m.st. Warszawie w wojewódzkim dzienniku urzędowym i poda do publicznej wiadomości, w formie obwieszczenia, w każdej z dzielnic, na cztery miesiące przed upływem kadencji rad wybranych w dniu 11 października 1998 r., 2) Rada m.st. Warszawy, na wniosek Prezydenta m.st. Warszawy, dokona pierwszego podziału m.st. Warszawy i dzielnic m.st. Warszawy, utworzonych na podstawie niniejszej ustawy, na okręgi wyborcze, 3) Rada m.st. Warszawy może dokonać zmian w stałym podziale obszaru m.st. Warszawy na obwody głosowania z przyczyn określonych w ustawie, o której mowa w art. 7 ust. 2, oraz z przyczyn związanych z nowym podziałem m.st. Warszawy i dzielnic m.st. Warszawy na okręgi wyborcze."
+      "content": "W pierwszych wyborach do Rady m.st. Warszawy i do rad dzielnic w m.st. Warszawie stosuje się przepisy ustawy, o której mowa w art. 7 ust. 2, z następującymi zmianami: Wojewoda Mazowiecki ogłosi liczbę radnych wybieranych do rad dzielnic w m.st. Warszawie w wojewódzkim dzienniku urzędowym i poda do publicznej wiadomości, w formie obwieszczenia, w każdej z dzielnic, na cztery miesiące przed upływem kadencji rad wybranych w dniu 11 października 1998 r.; Rada m.st. Warszawy, na wniosek Prezydenta m.st. Warszawy, dokona pierwszego podziału m.st. Warszawy i dzielnic m.st. Warszawy, utworzonych na podstawie niniejszej ustawy, na okręgi wyborcze; Rada m.st. Warszawy może dokonać zmian w stałym podziale obszaru m.st. Warszawy na obwody głosowania z przyczyn określonych w ustawie, o której mowa w art. 7 ust. 2, oraz z przyczyn związanych z nowym podziałem m.st. Warszawy i dzielnic m.st. Warszawy na okręgi wyborcze. Do podziału na okręgi wyborcze, o którym mowa w ust. 1 pkt 2, oraz do zmian w podziale na obwody głosowania, o których mowa w ust. 1 pkt 3, nie stosuje się terminów określonych w art. 31 ust. 2 zdanie pierwsze i art. 92 ust. 1 ustawy, o której mowa w art. 7 ust. 2."
+    },
+    {
+      "provision_ref": "art29u1p1",
+      "section": "29",
+      "title": "Art. 29 ust. 1 pkt 1",
+      "content": "W pierwszych wyborach do Rady m.st. Warszawy i do rad dzielnic w m.st. Warszawie stosuje się przepisy ustawy, o której mowa w art. 7 ust. 2, z następującymi zmianami: Wojewoda Mazowiecki ogłosi liczbę radnych wybieranych do rad dzielnic w m.st. Warszawie w wojewódzkim dzienniku urzędowym i poda do publicznej wiadomości, w formie obwieszczenia, w każdej z dzielnic, na cztery miesiące przed upływem kadencji rad wybranych w dniu 11 października 1998 r.;"
+    },
+    {
+      "provision_ref": "art29u1p2",
+      "section": "29",
+      "title": "Art. 29 ust. 1 pkt 2",
+      "content": "W pierwszych wyborach do Rady m.st. Warszawy i do rad dzielnic w m.st. Warszawie stosuje się przepisy ustawy, o której mowa w art. 7 ust. 2, z następującymi zmianami: Rada m.st. Warszawy, na wniosek Prezydenta m.st. Warszawy, dokona pierwszego podziału m.st. Warszawy i dzielnic m.st. Warszawy, utworzonych na podstawie niniejszej ustawy, na okręgi wyborcze;"
+    },
+    {
+      "provision_ref": "art29u1p3",
+      "section": "29",
+      "title": "Art. 29 ust. 1 pkt 3",
+      "content": "W pierwszych wyborach do Rady m.st. Warszawy i do rad dzielnic w m.st. Warszawie stosuje się przepisy ustawy, o której mowa w art. 7 ust. 2, z następującymi zmianami: Rada m.st. Warszawy może dokonać zmian w stałym podziale obszaru m.st. Warszawy na obwody głosowania z przyczyn określonych w ustawie, o której mowa w art. 7 ust. 2, oraz z przyczyn związanych z nowym podziałem m.st. Warszawy i dzielnic m.st. Warszawy na okręgi wyborcze."
+    },
+    {
+      "provision_ref": "art29u2",
+      "section": "29",
+      "title": "Art. 29 ust. 2",
+      "content": "Do podziału na okręgi wyborcze, o którym mowa w ust. 1 pkt 2, oraz do zmian w podziale na obwody głosowania, o których mowa w ust. 1 pkt 3, nie stosuje się terminów określonych w art. 31 ust. 2 zdanie pierwsze i art. 92 ust. 1 ustawy, o której mowa w art. 7 ust. 2."
     },
     {
       "provision_ref": "art30",
       "section": "30",
       "title": "Art. 30",
-      "content": "1. Pierwszą sesję Rady m.st. Warszawy wybranej w wyborach, o których mowa w art. 28, zwołuje przewodniczący Rady m.st. Warszawy, działającej na podstawie przepisów dotychczasowych, w ciągu 7 dni po ogłoszeniu zbiorczych wyników wyborów na obszarze całego kraju. 2. Pierwszą sesję rady dzielnicy m.st. Warszawy wybranej w wyborach, o których mowa w art. 28, zwołuje Prezydent m.st. Warszawy w ciągu 7 dni po ogłoszeniu zbiorczych wyników wyborów na obszarze całego kraju. 3. Po upływie terminu określonego w ust. 1 i 2 pierwsze sesje zwołuje komisarz wyborczy w ciągu 21 dni po ogłoszeniu zbiorczych wyników wyborów na obszarze całego kraju."
+      "content": "Pierwszą sesję Rady m.st. Warszawy wybranej w wyborach, o których mowa w art. 28, zwołuje przewodniczący Rady m.st. Warszawy działającej na podstawie przepisów dotychczasowych, w ciągu 7 dni po ogłoszeniu zbiorczych wyników wyborów na obszarze całego kraju. Pierwszą sesję rady dzielnicy m.st. Warszawy wybranej w wyborach, o których mowa w art. 28, zwołuje Prezydent m.st. Warszawy w ciągu 7 dni po ogłoszeniu zbiorczych wyników wyborów na obszarze całego kraju. Po upływie terminu określonego w ust. 1 i 2 pierwsze sesje zwołuje komisarz wyborczy w ciągu 21 dni po ogłoszeniu zbiorczych wyników wyborów na obszarze całego kraju."
+    },
+    {
+      "provision_ref": "art30u1",
+      "section": "30",
+      "title": "Art. 30 ust. 1",
+      "content": "Pierwszą sesję Rady m.st. Warszawy wybranej w wyborach, o których mowa w art. 28, zwołuje przewodniczący Rady m.st. Warszawy działającej na podstawie przepisów dotychczasowych, w ciągu 7 dni po ogłoszeniu zbiorczych wyników wyborów na obszarze całego kraju."
+    },
+    {
+      "provision_ref": "art30u2",
+      "section": "30",
+      "title": "Art. 30 ust. 2",
+      "content": "Pierwszą sesję rady dzielnicy m.st. Warszawy wybranej w wyborach, o których mowa w art. 28, zwołuje Prezydent m.st. Warszawy w ciągu 7 dni po ogłoszeniu zbiorczych wyników wyborów na obszarze całego kraju."
+    },
+    {
+      "provision_ref": "art30u3",
+      "section": "30",
+      "title": "Art. 30 ust. 3",
+      "content": "Po upływie terminu określonego w ust. 1 i 2 pierwsze sesje zwołuje komisarz wyborczy w ciągu 21 dni po ogłoszeniu zbiorczych wyników wyborów na obszarze całego kraju."
     },
     {
       "provision_ref": "art31",
@@ -199,14 +883,84 @@
       "provision_ref": "art32",
       "section": "32",
       "title": "Art. 32",
-      "content": "Traci moc ustawa z dnia 25 marca 1994 r. o ustroju miasta stołecznego Warszawy ( Dz. U. Nr 48, poz. 195 i Nr 86, poz. 396 , z 1995 r. Nr 124, poz. 601 , z 1998 r. Nr 127, poz. 847 , z 1999 r. Nr 92, poz. 1044 , z 2000 r. Nr 26, poz. 306 oraz z 2001 r. Nr 45, poz. 497 ) ."
+      "content": "Traci moc ustawa z dnia 25 marca 1994 r. o ustroju miasta stołecznego Warszawy ."
     },
     {
       "provision_ref": "art33",
       "section": "33",
       "title": "Art. 33",
-      "content": "Ustawa wchodzi w życie w dniu wyborów, o których mowa w art. 28, z tym że art. 28 i art. 29 wchodzą w życie po upływie 14 dni od dnia ogłoszenia ustawy. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_1-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_3-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_3-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_3-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_4-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_4-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"arti_4-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"},{\"id\": \"arti_4-pass_6\",\"symbol\": \"pass_6\",\"type\": \"pass\",\"name\": \"6\",\"title\": \"6.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_5-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_5-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"arti_7-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_7-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_7-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_7-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"arti_7-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"arti_8-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_8-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"arti_9-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_9-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_9-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_9-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"arti_9-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\",\"children\": [{\"id\": \"arti_10-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_10-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_10-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_10-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"arti_10-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"},{\"id\": \"arti_10-pass_6\",\"symbol\": \"pass_6\",\"type\": \"pass\",\"name\": \"6\",\"title\": \"6.\"},{\"id\": \"arti_10-pass_7\",\"symbol\": \"pass_7\",\"type\": \"pass\",\"name\": \"7\",\"title\": \"7.\"}]},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\",\"children\": [{\"id\": \"arti_11-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_11-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"arti_11-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_11-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_11-pass_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_11-pass_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_11-pass_2-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_11-pass_2-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_11-pass_2-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"}]}]},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\",\"children\": [{\"id\": \"arti_12-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_12-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_12-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\",\"children\": [{\"id\": \"arti_12-pass_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_12-pass_3-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_12-pass_3-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_12-pass_3-pint_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_12-pass_3-pint_1-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"arti_12-pass_3-pint_1-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"},{\"id\": \"arti_12-pass_3-pint_1-lett_f\",\"symbol\": \"lett_f\",\"type\": \"lett\",\"name\": \"f\",\"title\": \"f)\"}]},{\"id\": \"arti_12-pass_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_12-pass_3-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_12-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\",\"children\": [{\"id\": \"arti_12-pass_4-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_12-pass_4-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_12-pass_4-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_12-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"},{\"id\": \"arti_12-pass_6\",\"symbol\": \"pass_6\",\"type\": \"pass\",\"name\": \"6\",\"title\": \"6.\"}]},{\"id\": \"arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"},{\"id\": \"arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\"},{\"id\": \"arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\",\"children\": [{\"id\": \"arti_16-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_16-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\",\"children\": [{\"id\": \"arti_17-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_17-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\",\"children\": [{\"id\": \"arti_18-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_18-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_18-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_18-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\"},{\"id\": \"arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\",\"children\": [{\"id\": \"arti_20-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_20-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_20-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_20-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"arti_20-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\",\"children\": [{\"id\": \"arti_21-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_21-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"arti_21-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_21-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_21-pass_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_21-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\",\"children\": [{\"id\": \"arti_21-pass_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_21-pass_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_21-pass_3-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_21-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"arti_21-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"},{\"id\": \"arti_21-pass_6\",\"symbol\": \"pass_6\",\"type\": \"pass\",\"name\": \"6\",\"title\": \"6.\"}]},{\"id\": \"arti_22\",\"symbol\": \"arti_22\",\"type\": \"arti\",\"name\": \"22\",\"title\": \"Art. 22.\",\"children\": [{\"id\": \"arti_22-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_22-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_22-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_22-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"arti_23\",\"symbol\": \"arti_23\",\"type\": \"arti\",\"name\": \"23\",\"title\": \"Art. 23.\"},{\"id\": \"arti_24\",\"symbol\": \"arti_24\",\"type\": \"arti\",\"name\": \"24\",\"title\": \"Art. 24.\",\"children\": [{\"id\": \"arti_24-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_24-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_24-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_25\",\"symbol\": \"arti_25\",\"type\": \"arti\",\"name\": \"25\",\"title\": \"Art. 25.\",\"children\": [{\"id\": \"arti_25-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_25-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_25-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_25-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"arti_25-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"},{\"id\": \"arti_25-pass_6\",\"symbol\": \"pass_6\",\"type\": \"pass\",\"name\": \"6\",\"title\": \"6.\"}]},{\"id\": \"arti_26\",\"symbol\": \"arti_26\",\"type\": \"arti\",\"name\": \"26\",\"title\": \"Art. 26.\",\"children\": [{\"id\": \"arti_26-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_26-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_26-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_27\",\"symbol\": "
+      "content": "Ustawa wchodzi w życie w dniu wyborów 5) Wybory, o których mowa w art. 28 tej ustawy, odbyły się w dniu 27 października 2002 r. , o których mowa w art. 28, z tym że art. 28 i art. 29 wchodzą w życie po upływie 14 dni od dnia ogłoszenia ustawy 6) Ustawa została ogłoszona w dniu 19 kwietnia 2002 r. ."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2017-1523",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2015-1438",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-130",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-994",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-1000",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-1349",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-1432",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-754",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-1445",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-1588",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-1669",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-1693",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-1722",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1994-195",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2017-827",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-1496",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1998-983",
+      "ref_type": "references"
+    }
+  ]
 }

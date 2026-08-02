@@ -1,6 +1,8 @@
 node_modules/
 dist/
 *.db
+*.db-shm
+*.db-wal
 .env
 .env.*
 .vercel
@@ -10,3 +12,4 @@ data/source/
 .claude/
 .serena/
 .tmp-test-scratch*
+data/source-pdf/

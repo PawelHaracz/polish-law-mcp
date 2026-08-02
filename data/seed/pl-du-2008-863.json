@@ -13,14 +13,20 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "Uchyla się ustawę z dnia 31 marca 2004 r. o klasyfikacji drewna surowego nieobrobionego ( Dz. U. Nr 93, poz. 886 ) ."
+      "content": "Uchyla się ustawę z dnia 31 marca 2004 r. o klasyfikacji drewna surowego nieobrobionego ."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2009 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2009 r."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2004-886",
+      "ref_type": "references"
+    }
+  ]
 }

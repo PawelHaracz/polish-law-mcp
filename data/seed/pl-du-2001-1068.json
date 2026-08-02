@@ -13,14 +13,74 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji ( Dz. U. z 1991 r. Nr 36, poz. 161 , z 1992 r. Nr 20, poz. 78 , z 1993 r. Nr 28, poz. 127 , z 1995 r. Nr 85, poz. 426 , z 1996 r. Nr 43, poz. 189 i Nr 146, poz. 680 , z 1997 r. Nr 137, poz. 926 i Nr 141, poz. 943 i 944 , z 1998 r. Nr 162, poz. 1126 , z 2000 r. Nr 114, poz. 1193 , Nr 120, poz. 1268 i Nr 122, poz. 1315 oraz z 2001 r. Nr 76, poz. 809 ) w art. 121 § 5 otrzymuje brzmienie: „ § 5. Wysokość grzywny, o której mowa w § 4, stanowi, w przypadku obowiązku przymusowej rozbiórki budynku lub jego części, iloczyn powierzchni zabudowy budynku lub jego części, objętego nakazem przymusowej rozbiórki, i 1/5 ceny 1 m 2 powierzchni użytkowej budynku mieszkalnego, ustalonej i ogłoszonej przez Prezesa Urzędu Mieszkalnictwa i Rozwoju Miast na podstawie odrębnych przepisów do obliczania premii gwarancyjnej dla posiadaczy oszczędnościowych książeczek mieszkaniowych. ”"
+      "content": "W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji w art. 121 § 5 otrzymuje brzmienie: „ Wysokość grzywny, o której mowa w § 4, stanowi, w przypadku obowiązku przymusowej rozbiórki budynku lub jego części, iloczyn powierzchni zabudowy budynku lub jego części, objętego nakazem przymusowej rozbiórki, i 1/5 ceny 1 m 2 powierzchni użytkowej budynku mieszkalnego, ustalonej i ogłoszonej przez Prezesa Urzędu Mieszkalnictwa i Rozwoju Miast na podstawie odrębnych przepisów do obliczania premii gwarancyjnej dla posiadaczy oszczędnościowych książeczek mieszkaniowych. ”"
+    },
+    {
+      "provision_ref": "art1par5",
+      "section": "1",
+      "title": "Art. 1 § 5",
+      "content": "W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji w art. 121 § 5 otrzymuje brzmienie: „ Wysokość grzywny, o której mowa w § 4, stanowi, w przypadku obowiązku przymusowej rozbiórki budynku lub jego części, iloczyn powierzchni zabudowy budynku lub jego części, objętego nakazem przymusowej rozbiórki, i 1/5 ceny 1 m 2 powierzchni użytkowej budynku mieszkalnego, ustalonej i ogłoszonej przez Prezesa Urzędu Mieszkalnictwa i Rozwoju Miast na podstawie odrębnych przepisów do obliczania premii gwarancyjnej dla posiadaczy oszczędnościowych książeczek mieszkaniowych."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-1991-161",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1992-78",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1993-127",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1995-426",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1996-189",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1996-680",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1997-926",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1997-943",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-1998-1126",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2000-1193",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2000-1268",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2000-1315",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2001-809",
+      "ref_type": "amended_by"
+    }
+  ]
 }

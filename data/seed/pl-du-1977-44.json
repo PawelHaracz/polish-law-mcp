@@ -13,14 +13,32 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W art. 3 ustawy z dnia 25 stycznia 1958 r. o radach narodowych ( Dz. U. z 1975 r. Nr 26, poz. 139 ) wprowadza się następujące zmiany: 1) dotychczasowy ust. 3 oznacza się jako ust. 4, 2) po ust. 2 dodaje się ust. 3 w brzmieniu: „ 3. Kadencja rad narodowych trwa cztery lata, licząc od dnia wyborów. ”"
+      "content": "W art. 3 ustawy z dnia 25 stycznia 1958 r. o radach narodowych wprowadza się następujące zmiany: dotychczasowy ust. 3 oznacza się jako ust. 4, po ust. 2 dodaje się ust. 3 w brzmieniu: „ Kadencja rad narodowych trwa cztery lata, licząc od dnia wyborów. ”"
+    },
+    {
+      "provision_ref": "art1p1",
+      "section": "1",
+      "title": "Art. 1 pkt 1",
+      "content": "W art. 3 ustawy z dnia 25 stycznia 1958 r. o radach narodowych wprowadza się następujące zmiany: dotychczasowy ust. 3 oznacza się jako ust. 4,"
+    },
+    {
+      "provision_ref": "art1p2u3",
+      "section": "1",
+      "title": "Art. 1 pkt 2 ust. 3",
+      "content": "W art. 3 ustawy z dnia 25 stycznia 1958 r. o radach narodowych wprowadza się następujące zmiany: po ust. 2 dodaje się ust. 3 w brzmieniu: „ Kadencja rad narodowych trwa cztery lata, licząc od dnia wyborów."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-1975-139",
+      "ref_type": "amended_by"
+    }
+  ]
 }

@@ -10,6 +10,24 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/1978/130",
   "provisions": [
     {
+      "provision_ref": "art824",
+      "section": "824",
+      "title": "Art. 824",
+      "content": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem: art. 288 ust. 2 i art. 777 ust. 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia; art. 439 ust. 1 pkt 4, który wchodzi w życie z dniem 1 stycznia 2023 r."
+    },
+    {
+      "provision_ref": "art824p1",
+      "section": "824",
+      "title": "Art. 824 pkt 1",
+      "content": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem: art. 288 ust. 2 i art. 777 ust. 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia;"
+    },
+    {
+      "provision_ref": "art824p2",
+      "section": "824",
+      "title": "Art. 824 pkt 2",
+      "content": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem: art. 439 ust. 1 pkt 4, który wchodzi w życie z dniem 1 stycznia 2023 r."
+    },
+    {
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
@@ -19,49 +37,199 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "1. Odznaki dzielą się na: 1) honorowe, stanowiące wyróżnienie za zasługi położone: a) w działalności państwowej lub społecznej stanowiącej istotny wkład w rozwój całego kraju, w rozwój określonej dziedziny gospodarki lub administracji państwowej, w rozwój określonego województwa albo w rozwój określonej organizacji gospodarczej, b) w działalności statutowej organizacji spółdzielczych lub organizacji społecznych, 2) organizacyjne, stanowiące oznaczenie organizacji społecznej lub spółdzielczej albo innej jednostki organizacyjnej bądź przynależności do takiej organizacji lub jednostki organizacyjnej, 3) okolicznościowe, upamiętniające rocznice, wystawy, zgromadzenia lub inne wydarzenia. 2. Odznakami mogą być emblematy, godła, barwy, herby miast lub województw oraz inne przedmioty, chociażby powszechnie używane, jeżeli sposób ich sporządzenia i używania wskazuje na to, że mają służyć celom określonym w ust. 1."
+      "content": "Odznaki dzielą się na: honorowe, stanowiące wyróżnienie za zasługi położone: w działalności państwowej lub społecznej stanowiącej istotny wkład w rozwój całego kraju, w rozwój określonej dziedziny gospodarki lub administracji państwowej, w rozwój określonego województwa albo w rozwój określonej organizacji gospodarczej, w działalności statutowej organizacji spółdzielczych lub organizacji społecznych; organizacyjne, stanowiące oznaczenie organizacji społecznej lub spółdzielczej albo innej jednostki organizacyjnej bądź przynależności do takiej organizacji lub jednostki organizacyjnej; okolicznościowe, upamiętniające rocznice, wystawy, zgromadzenia lub inne wydarzenia. Odznakami mogą być emblematy, godła, barwy, herby miast lub województw oraz inne przedmioty, chociażby powszechnie używane, jeżeli sposób ich sporządzenia i używania wskazuje na to, że mają służyć celom określonym w ust. 1."
+    },
+    {
+      "provision_ref": "art2u1p1la",
+      "section": "2",
+      "title": "Art. 2 ust. 1 pkt 1 lit. a",
+      "content": "Odznaki dzielą się na: honorowe, stanowiące wyróżnienie za zasługi położone: w działalności państwowej lub społecznej stanowiącej istotny wkład w rozwój całego kraju, w rozwój określonej dziedziny gospodarki lub administracji państwowej, w rozwój określonego województwa albo w rozwój określonej organizacji gospodarczej,"
+    },
+    {
+      "provision_ref": "art2u1p1lb",
+      "section": "2",
+      "title": "Art. 2 ust. 1 pkt 1 lit. b",
+      "content": "Odznaki dzielą się na: honorowe, stanowiące wyróżnienie za zasługi położone: w działalności statutowej organizacji spółdzielczych lub organizacji społecznych;"
+    },
+    {
+      "provision_ref": "art2u1p2",
+      "section": "2",
+      "title": "Art. 2 ust. 1 pkt 2",
+      "content": "Odznaki dzielą się na: organizacyjne, stanowiące oznaczenie organizacji społecznej lub spółdzielczej albo innej jednostki organizacyjnej bądź przynależności do takiej organizacji lub jednostki organizacyjnej;"
+    },
+    {
+      "provision_ref": "art2u1p3",
+      "section": "2",
+      "title": "Art. 2 ust. 1 pkt 3",
+      "content": "Odznaki dzielą się na: okolicznościowe, upamiętniające rocznice, wystawy, zgromadzenia lub inne wydarzenia."
+    },
+    {
+      "provision_ref": "art2u2",
+      "section": "2",
+      "title": "Art. 2 ust. 2",
+      "content": "Odznakami mogą być emblematy, godła, barwy, herby miast lub województw oraz inne przedmioty, chociażby powszechnie używane, jeżeli sposób ich sporządzenia i używania wskazuje na to, że mają służyć celom określonym w ust. 1."
+    },
+    {
+      "provision_ref": "art2a",
+      "section": "2a",
+      "title": "Art. 2a",
+      "content": "Minister właściwy do spraw administracji publicznej, w drodze rozporządzenia, powołuje Komisję Heraldyczną jako organ opiniodawczo-doradczy w zakresie spraw, o których mowa w ust. 3. Do składu Komisji Heraldycznej powołuje się w szczególności: osoby wyróżniające się wysokim poziomem wiedzy z zakresu heraldyki i weksylologii, przedstawicieli organizacji, których statutowe cele związane są z heraldyką i weksylologią oraz przedstawicieli jednostek samorządu terytorialnego. Do zadań Komisji Heraldycznej należy w szczególności: opiniowanie wzorów insygniów i symboli, o których mowa w art. 3 ust. 1; opiniowanie i przygotowywanie projektów wzorcowych aktów prawnych związanych z ustanawianiem insygniów władzy państwowej, herbów, flag, emblematów i innych znaków i symboli związanych z heraldyką i weksylologią; udzielanie konsultacji władzom i organom administracji publicznej w dziedzinie właściwego używania insygniów władzy państwowej, herbów, flag, emblematów i innych znaków i symboli związanych z heraldyką i weksylologią. Działalność Komisji Heraldycznej jest finansowana z budżetu państwa. Rada Ministrów określi, w drodze rozporządzenia, strukturę, tryb powoływania i odwoływania oraz szczegółowe zasady postępowania Komisji Heraldycznej."
+    },
+    {
+      "provision_ref": "art2au1",
+      "section": "2a",
+      "title": "Art. 2a ust. 1",
+      "content": "Minister właściwy do spraw administracji publicznej, w drodze rozporządzenia, powołuje Komisję Heraldyczną jako organ opiniodawczo-doradczy w zakresie spraw, o których mowa w ust. 3."
+    },
+    {
+      "provision_ref": "art2au2",
+      "section": "2a",
+      "title": "Art. 2a ust. 2",
+      "content": "Do składu Komisji Heraldycznej powołuje się w szczególności: osoby wyróżniające się wysokim poziomem wiedzy z zakresu heraldyki i weksylologii, przedstawicieli organizacji, których statutowe cele związane są z heraldyką i weksylologią oraz przedstawicieli jednostek samorządu terytorialnego."
+    },
+    {
+      "provision_ref": "art2au3p1",
+      "section": "2a",
+      "title": "Art. 2a ust. 3 pkt 1",
+      "content": "Do zadań Komisji Heraldycznej należy w szczególności: opiniowanie wzorów insygniów i symboli, o których mowa w art. 3 ust. 1;"
+    },
+    {
+      "provision_ref": "art2au3p2",
+      "section": "2a",
+      "title": "Art. 2a ust. 3 pkt 2",
+      "content": "Do zadań Komisji Heraldycznej należy w szczególności: opiniowanie i przygotowywanie projektów wzorcowych aktów prawnych związanych z ustanawianiem insygniów władzy państwowej, herbów, flag, emblematów i innych znaków i symboli związanych z heraldyką i weksylologią;"
+    },
+    {
+      "provision_ref": "art2au3p3",
+      "section": "2a",
+      "title": "Art. 2a ust. 3 pkt 3",
+      "content": "Do zadań Komisji Heraldycznej należy w szczególności: udzielanie konsultacji władzom i organom administracji publicznej w dziedzinie właściwego używania insygniów władzy państwowej, herbów, flag, emblematów i innych znaków i symboli związanych z heraldyką i weksylologią."
+    },
+    {
+      "provision_ref": "art2au4",
+      "section": "2a",
+      "title": "Art. 2a ust. 4",
+      "content": "Działalność Komisji Heraldycznej jest finansowana z budżetu państwa."
+    },
+    {
+      "provision_ref": "art2au5",
+      "section": "2a",
+      "title": "Art. 2a ust. 5",
+      "content": "Rada Ministrów określi, w drodze rozporządzenia, strukturę, tryb powoływania i odwoływania oraz szczegółowe zasady postępowania Komisji Heraldycznej."
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "1. Właściwe rady narodowe stopnia wojewódzkiego oraz miejskie rady narodowe mogą ustanawiać herby województw oraz herby miast. 2. Herbem województwa lub miasta może być znak nawiązujący do historii bądź tradycji albo do współczesnych zdarzeń i osiągnięć charakterystycznych dla danego województwa lub miasta. 3. Rada Państwa może ustalić ogólne zasady ustanawiania herbów przez rady narodowe."
+      "content": "Jednostki samorządu terytorialnego mogą ustanawiać, w drodze uchwały organu stanowiącego danej jednostki, własne herby, flagi, emblematy oraz insygnia i inne symbole. Wzory symboli, o których mowa w ust. 1, ustanawiane są w zgodzie z zasadami heraldyki, weksylologii i miejscową tradycją historyczną. Wzory symboli, o których mowa w ust. 1, wymagają zaopiniowania przez ministra właściwego do spraw administracji publicznej. Opinia, o której mowa w ust. 3, wydawana jest w terminie 3 miesięcy od dnia złożenia wniosku o jej wydanie."
+    },
+    {
+      "provision_ref": "art3u1",
+      "section": "3",
+      "title": "Art. 3 ust. 1",
+      "content": "Jednostki samorządu terytorialnego mogą ustanawiać, w drodze uchwały organu stanowiącego danej jednostki, własne herby, flagi, emblematy oraz insygnia i inne symbole."
+    },
+    {
+      "provision_ref": "art3u2",
+      "section": "3",
+      "title": "Art. 3 ust. 2",
+      "content": "Wzory symboli, o których mowa w ust. 1, ustanawiane są w zgodzie z zasadami heraldyki, weksylologii i miejscową tradycją historyczną."
+    },
+    {
+      "provision_ref": "art3u3",
+      "section": "3",
+      "title": "Art. 3 ust. 3",
+      "content": "Wzory symboli, o których mowa w ust. 1, wymagają zaopiniowania przez ministra właściwego do spraw administracji publicznej."
+    },
+    {
+      "provision_ref": "art3u4",
+      "section": "3",
+      "title": "Art. 3 ust. 4",
+      "content": "Opinia, o której mowa w ust. 3, wydawana jest w terminie 3 miesięcy od dnia złożenia wniosku o jej wydanie."
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "1. Odznaki honorowe za zasługi w działalności państwowej lub społecznej stanowiącej istotny wkład w rozwój kraju ustanawiane są przez Radę Państwa. 2. Odznaki honorowe za zasługi w działalności państwowej lub społecznej na rzecz rozwoju określonej dziedziny gospodarki narodowej lub administracji ustanawiane są przez Radę Ministrów w porozumieniu z Centralną Radą Związków Zawodowych. 3. Odznaki honorowe za zasługi w działalności państwowej lub społecznej na rzecz rozwoju określonego województwa ustanawiane są przez rady narodowe stopnia wojewódzkiego. 4. Odznaki honorowe za zasługi w działalności państwowej lub społecznej stanowiącej wkład w rozwój określonej organizacji gospodarczej ustanawiane są przez właściwego ministra w uzgodnieniu z zarządem głównym związku zawodowego. 5. Odznaki honorowe za zasługi w działalności stanowiącej wkład w rozwijanie działalności statutowej organizacji spółdzielczych lub organizacji społecznych ustanawiane są przez naczelne organy tych organizacji, za zgodą Naczelnej Rady Spółdzielczej - w odniesieniu do organizacji spółdzielczych, a Ministra Spraw Wewnętrznych - w odniesieniu do organizacji społecznych. Zgoda ta nie jest wymagana do ustanowienia odznaki honorowej przez Centralną Radę Związków Zawodowych."
+      "content": "Odznaki honorowe za zasługi w działalności państwowej lub społecznej, stanowiącej istotny wkład w rozwój kraju, są ustanawiane, w drodze rozporządzenia, przez Prezydenta Rzeczypospolitej Polskiej. Odznaki honorowe za zasługi w działalności państwowej lub społecznej na rzecz rozwoju określonej dziedziny gospodarki narodowej lub administracji są ustanawiane, w drodze rozporządzenia, przez Radę Ministrów. Odznaki honorowe za zasługi w działalności państwowej lub społecznej na rzecz rozwoju określonej jednostki samorządu terytorialnego są ustanawiane przez organ stanowiący tej jednostki. Odznaki honorowe za zasługi w działalności państwowej lub społecznej, stanowiącej wkład w rozwój określonej organizacji gospodarczej, są ustanawiane, w drodze rozporządzenia, przez właściwego ministra. Odznaki honorowe za zasługi stanowiące wkład w rozwijanie działalności statutowej organizacji spółdzielczych lub organizacji społecznych są ustanawiane przez naczelne organy tych organizacji."
+    },
+    {
+      "provision_ref": "art4u1",
+      "section": "4",
+      "title": "Art. 4 ust. 1",
+      "content": "Odznaki honorowe za zasługi w działalności państwowej lub społecznej, stanowiącej istotny wkład w rozwój kraju, są ustanawiane, w drodze rozporządzenia, przez Prezydenta Rzeczypospolitej Polskiej."
+    },
+    {
+      "provision_ref": "art4u2",
+      "section": "4",
+      "title": "Art. 4 ust. 2",
+      "content": "Odznaki honorowe za zasługi w działalności państwowej lub społecznej na rzecz rozwoju określonej dziedziny gospodarki narodowej lub administracji są ustanawiane, w drodze rozporządzenia, przez Radę Ministrów."
+    },
+    {
+      "provision_ref": "art4u3",
+      "section": "4",
+      "title": "Art. 4 ust. 3",
+      "content": "Odznaki honorowe za zasługi w działalności państwowej lub społecznej na rzecz rozwoju określonej jednostki samorządu terytorialnego są ustanawiane przez organ stanowiący tej jednostki."
+    },
+    {
+      "provision_ref": "art4u4",
+      "section": "4",
+      "title": "Art. 4 ust. 4",
+      "content": "Odznaki honorowe za zasługi w działalności państwowej lub społecznej, stanowiącej wkład w rozwój określonej organizacji gospodarczej, są ustanawiane, w drodze rozporządzenia, przez właściwego ministra."
+    },
+    {
+      "provision_ref": "art4u5",
+      "section": "4",
+      "title": "Art. 4 ust. 5",
+      "content": "Odznaki honorowe za zasługi stanowiące wkład w rozwijanie działalności statutowej organizacji spółdzielczych lub organizacji społecznych są ustanawiane przez naczelne organy tych organizacji."
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Art. 5",
-      "content": "1. Ustanowienie i używanie odznak organizacyjnych i okolicznościowych może nastąpić za zezwoleniem wydanym: 1) organizacjom społecznym, spółdzielczym i komitetom społecznym, które działają na obszarze nie większym niż województwo - przez terenowy organ administracji państwowej stopnia wojewódzkiego, 2) organizacjom społecznym, spółdzielczym i komitetom społecznym, których teren działania obejmuje obszar większy niż województwo - przez naczelny lub centralny organ administracji państwowej, właściwy ze względu na rodzaj prowadzonej przez organizację społeczną lub spółdzielczą działalności albo cel powołania komitetu, w porozumieniu z Ministrem Spraw Wewnętrznych. 2. Zezwolenie na ustanowienie i używanie odznaki okolicznościowej może być udzielone jednostce organizacyjnej lub komitetowi społecznemu, powołanemu do realizacji doraźnych celów przez organy władzy i administracji państwowej, instytucje państwowe lub partię i stronnictwa polityczne. 3. Naczelny lub centralny organ administracji państwowej, o którym mowa w ust. 1 pkt 2, może zakazać używania odznaki lub ubioru, których ustanowienie i używanie nie wymaga zezwolenia, jeżeli przemawia za tym interes społeczny lub względy porządku publicznego."
+      "content": "(uchylony)"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Art. 6",
-      "content": "1. Organy ustanawiające odznakę ustalają jej wzór oraz zasady i tryb jej nadawania i noszenia. Ustalenie wzoru odznaki honorowej oraz sposobu jej noszenia wymaga zgody Rady Państwa. 2. Odznaki powinny kształtem i wymiarami wyraźnie odróżniać się od orderów, odznaczeń i medali ustanawianych na podstawie odrębnych przepisów."
+      "content": "Organy ustanawiające odznakę ustalają jej wzór oraz zasady i tryb jej nadawania i noszenia. Ustalenie wzoru odznaki honorowej oraz sposobu jej noszenia wymaga zgody Prezydenta Rzeczypospolitej Polskiej. Odznaki powinny kształtem i wymiarami wyraźnie odróżniać się od orderów, odznaczeń i medali ustanawianych na podstawie odrębnych przepisów."
+    },
+    {
+      "provision_ref": "art6u1",
+      "section": "6",
+      "title": "Art. 6 ust. 1",
+      "content": "Organy ustanawiające odznakę ustalają jej wzór oraz zasady i tryb jej nadawania i noszenia. Ustalenie wzoru odznaki honorowej oraz sposobu jej noszenia wymaga zgody Prezydenta Rzeczypospolitej Polskiej."
+    },
+    {
+      "provision_ref": "art6u2",
+      "section": "6",
+      "title": "Art. 6 ust. 2",
+      "content": "Odznaki powinny kształtem i wymiarami wyraźnie odróżniać się od orderów, odznaczeń i medali ustanawianych na podstawie odrębnych przepisów."
+    },
+    {
+      "provision_ref": "art6a",
+      "section": "6a",
+      "title": "Art. 6a",
+      "content": "Jednostki samorządu terytorialnego mogą, w drodze uchwały organu stanowiącego danej jednostki, wyrazić zgodę na umieszczenie w oznaczeniu będącym znakiem towarowym w rozumieniu ustawy z dnia 30 czerwca 2000 r. - Prawo własności przemysłowej herbu tej jednostki lub odznaki, którą ustanowiły."
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Art. 7",
-      "content": "Do wniosku o zezwolenie na ustanowienie i używanie odznaki powinny być dołączone: 1) uchwała organu statutowego organizacji społecznej lub spółdzielczej albo decyzja jednostki wymienionej w art. 5 ust. 2 o celowości ustanowienia odznaki, 2) projekt regulaminu określającego cel ustanowienia odznaki, zasady i tryb jej przyznawania oraz sposób noszenia (używania), 3) wzór odznaki z jej opisem i wymiarami, 4) wzór legitymacji (dyplomu) odznaki."
+      "content": "(uchylony)"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Art. 8",
-      "content": "Zezwolenia na ustanowienie i używanie odznaki nie wydaje się, a wydane zezwolenie może być cofnięte, jeżeli: 1) wzór odznaki nie odpowiada wymaganiom, o których mowa w art. 6 ust. 2, 2) wymaga tego interes społeczny lub względy porządku publicznego."
+      "content": "(uchylony)"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Art. 9",
-      "content": "1. Nie wymaga zezwolenia, o którym mowa w art. 5, ustanowienie i używanie: 1) odznak i znaków firmowo-reklamowych, 2) ubiorów roboczych i ochronnych, wykorzystywanych w związku z wykonywaniem zawodu, 3) ubiorów sportowych oraz odznak i wyróżnień sprawnościowych, 4) odznak i ubiorów ustanawianych przez właściwe organy dla studentów i młodzieży szkolnej. 2. Do ubiorów wymienionych w ust. 1 pkt 2-4 stosuje się odpowiednio art. 12 ust. 1."
+      "content": "(uchylony)"
     },
     {
       "provision_ref": "art10",
@@ -73,50 +241,264 @@
       "provision_ref": "art11",
       "section": "11",
       "title": "Art. 11",
-      "content": "Rada Ministrów ustanawia mundury, określa osoby uprawnione do ich noszenia oraz ustala wzór i kolor munduru."
+      "content": "Rada Ministrów, w drodze rozporządzenia, ustanawia mundury, określa osoby uprawnione do ich noszenia oraz wzór i kolor munduru."
+    },
+    {
+      "provision_ref": "art11a",
+      "section": "11a",
+      "title": "Art. 11a",
+      "content": "Zakazane jest używanie munduru lub jego części przez osoby nieuprawnione. Zakaz w odniesieniu do munduru wojskowego polowego i ćwiczebnego nie dotyczy: członków, instruktorów i specjalistów zrzeszonych w stowarzyszeniach lub organizacjach społecznych, które zawarły porozumienia o współpracy z Ministrem Obrony Narodowej lub kierownikiem jednostki organizacyjnej od szczebla dowódcy jednostki wojskowej, a ich statuty przewidują prowadzenie działalności na rzecz obronności państwa; młodzieży szkolnej i akademickiej uczestniczącej w uroczystościach o charakterze patriotycznym oraz realizującej przedsięwzięcia w ramach różnych form szkolenia i działań o charakterze obronnym. Zakaz nie dotyczy używania munduru wojskowego bez oznak wojskowych przez uczniów szkół ponadpodstawowych, dla których organem prowadzącym jest Minister Obrony Narodowej lub uczelnia wojskowa. Zakaz nie dotyczy używania munduru wojskowego przez: żołnierzy przeniesionych, po odbyciu lub zakończeniu pełnienia czynnej służby wojskowej, do rezerwy lub w stan spoczynku, weteranów lub weteranów poszkodowanych będących żołnierzami rezerwy lub w stanie spoczynku oraz żołnierzy będących kombatantami w rozumieniu art. 1 ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego podczas: świąt państwowych i wojskowych oraz uroczystości organizowanych przez komórki organizacyjne Ministerstwa Obrony Narodowej oraz przez jednostki organizacyjne podległe Ministrowi Obrony Narodowej lub przez niego nadzorowane, uroczystości organizowanych przez organy państwowe, organizacje kombatanckie lub stowarzyszenia dla uczczenia rocznic związanych z walką o suwerenność i niepodległość Ojczyzny, wygłaszania prelekcji dotyczących historii lub obronności państwa w jednostkach wojskowych, szkołach, zakładach pracy lub organizacjach społecznych, spotkań autorskich związanych z własną twórczością nawiązującą do historii lub obronności państwa, uroczystości osobistych i rodzinnych; żołnierzy, którzy nie pełnią czynnej służby wojskowej, ale otrzymali przedmioty umundurowania i wyekwipowania wojskowego do celów związanych z wykonywaniem obowiązku obrony Ojczyzny; osoby niebędące żołnierzami w czynnej służbie wojskowej, które: biorą udział w występach wojskowych zespołów artystycznych - w czasie tych występów, występują w filmach i innych przedsięwzięciach artystycznych - w czasie ich realizacji."
+    },
+    {
+      "provision_ref": "art11au1",
+      "section": "11a",
+      "title": "Art. 11a ust. 1",
+      "content": "Zakazane jest używanie munduru lub jego części przez osoby nieuprawnione."
+    },
+    {
+      "provision_ref": "art11au2p1",
+      "section": "11a",
+      "title": "Art. 11a ust. 2 pkt 1",
+      "content": "Zakaz w odniesieniu do munduru wojskowego polowego i ćwiczebnego nie dotyczy: członków, instruktorów i specjalistów zrzeszonych w stowarzyszeniach lub organizacjach społecznych, które zawarły porozumienia o współpracy z Ministrem Obrony Narodowej lub kierownikiem jednostki organizacyjnej od szczebla dowódcy jednostki wojskowej, a ich statuty przewidują prowadzenie działalności na rzecz obronności państwa;"
+    },
+    {
+      "provision_ref": "art11au2p2",
+      "section": "11a",
+      "title": "Art. 11a ust. 2 pkt 2",
+      "content": "Zakaz w odniesieniu do munduru wojskowego polowego i ćwiczebnego nie dotyczy: młodzieży szkolnej i akademickiej uczestniczącej w uroczystościach o charakterze patriotycznym oraz realizującej przedsięwzięcia w ramach różnych form szkolenia i działań o charakterze obronnym."
+    },
+    {
+      "provision_ref": "art11au3",
+      "section": "11a",
+      "title": "Art. 11a ust. 3",
+      "content": "Zakaz nie dotyczy używania munduru wojskowego bez oznak wojskowych przez uczniów szkół ponadpodstawowych, dla których organem prowadzącym jest Minister Obrony Narodowej lub uczelnia wojskowa."
+    },
+    {
+      "provision_ref": "art11au4p1la",
+      "section": "11a",
+      "title": "Art. 11a ust. 4 pkt 1 lit. a",
+      "content": "Zakaz nie dotyczy używania munduru wojskowego przez: żołnierzy przeniesionych, po odbyciu lub zakończeniu pełnienia czynnej służby wojskowej, do rezerwy lub w stan spoczynku, weteranów lub weteranów poszkodowanych będących żołnierzami rezerwy lub w stanie spoczynku oraz żołnierzy będących kombatantami w rozumieniu art. 1 ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego podczas: świąt państwowych i wojskowych oraz uroczystości organizowanych przez komórki organizacyjne Ministerstwa Obrony Narodowej oraz przez jednostki organizacyjne podległe Ministrowi Obrony Narodowej lub przez niego nadzorowane,"
+    },
+    {
+      "provision_ref": "art11au4p1lb",
+      "section": "11a",
+      "title": "Art. 11a ust. 4 pkt 1 lit. b",
+      "content": "Zakaz nie dotyczy używania munduru wojskowego przez: żołnierzy przeniesionych, po odbyciu lub zakończeniu pełnienia czynnej służby wojskowej, do rezerwy lub w stan spoczynku, weteranów lub weteranów poszkodowanych będących żołnierzami rezerwy lub w stanie spoczynku oraz żołnierzy będących kombatantami w rozumieniu art. 1 ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego podczas: uroczystości organizowanych przez organy państwowe, organizacje kombatanckie lub stowarzyszenia dla uczczenia rocznic związanych z walką o suwerenność i niepodległość Ojczyzny,"
+    },
+    {
+      "provision_ref": "art11au4p1lc",
+      "section": "11a",
+      "title": "Art. 11a ust. 4 pkt 1 lit. c",
+      "content": "Zakaz nie dotyczy używania munduru wojskowego przez: żołnierzy przeniesionych, po odbyciu lub zakończeniu pełnienia czynnej służby wojskowej, do rezerwy lub w stan spoczynku, weteranów lub weteranów poszkodowanych będących żołnierzami rezerwy lub w stanie spoczynku oraz żołnierzy będących kombatantami w rozumieniu art. 1 ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego podczas: wygłaszania prelekcji dotyczących historii lub obronności państwa w jednostkach wojskowych, szkołach, zakładach pracy lub organizacjach społecznych,"
+    },
+    {
+      "provision_ref": "art11au4p1ld",
+      "section": "11a",
+      "title": "Art. 11a ust. 4 pkt 1 lit. d",
+      "content": "Zakaz nie dotyczy używania munduru wojskowego przez: żołnierzy przeniesionych, po odbyciu lub zakończeniu pełnienia czynnej służby wojskowej, do rezerwy lub w stan spoczynku, weteranów lub weteranów poszkodowanych będących żołnierzami rezerwy lub w stanie spoczynku oraz żołnierzy będących kombatantami w rozumieniu art. 1 ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego podczas: spotkań autorskich związanych z własną twórczością nawiązującą do historii lub obronności państwa,"
+    },
+    {
+      "provision_ref": "art11au4p1le",
+      "section": "11a",
+      "title": "Art. 11a ust. 4 pkt 1 lit. e",
+      "content": "Zakaz nie dotyczy używania munduru wojskowego przez: żołnierzy przeniesionych, po odbyciu lub zakończeniu pełnienia czynnej służby wojskowej, do rezerwy lub w stan spoczynku, weteranów lub weteranów poszkodowanych będących żołnierzami rezerwy lub w stanie spoczynku oraz żołnierzy będących kombatantami w rozumieniu art. 1 ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego podczas: uroczystości osobistych i rodzinnych;"
+    },
+    {
+      "provision_ref": "art11au4p2",
+      "section": "11a",
+      "title": "Art. 11a ust. 4 pkt 2",
+      "content": "Zakaz nie dotyczy używania munduru wojskowego przez: żołnierzy, którzy nie pełnią czynnej służby wojskowej, ale otrzymali przedmioty umundurowania i wyekwipowania wojskowego do celów związanych z wykonywaniem obowiązku obrony Ojczyzny;"
+    },
+    {
+      "provision_ref": "art11au4p3la",
+      "section": "11a",
+      "title": "Art. 11a ust. 4 pkt 3 lit. a",
+      "content": "Zakaz nie dotyczy używania munduru wojskowego przez: osoby niebędące żołnierzami w czynnej służbie wojskowej, które: biorą udział w występach wojskowych zespołów artystycznych - w czasie tych występów,"
+    },
+    {
+      "provision_ref": "art11au4p3lb",
+      "section": "11a",
+      "title": "Art. 11a ust. 4 pkt 3 lit. b",
+      "content": "Zakaz nie dotyczy używania munduru wojskowego przez: osoby niebędące żołnierzami w czynnej służbie wojskowej, które: występują w filmach i innych przedsięwzięciach artystycznych - w czasie ich realizacji."
+    },
+    {
+      "provision_ref": "art11b",
+      "section": "11b",
+      "title": "Art. 11b",
+      "content": "Zakaz, o którym mowa w art. 11a ust. 1, dotyczy również mundurów lub części mundurów, których wzór został już wycofany, w stosunku do osób uczestniczących w: przedsięwzięciach, które mogą godzić w dobre imię lub interes Sił Zbrojnych; strajkach, demonstracjach, manifestacjach i zgromadzeniach mających na celu wspólne wyrażanie stanowiska w sprawach publicznych; zgromadzeniach i przedsięwzięciach naruszających porządek i spokój publiczny; działaniach mających na celu niszczenie lub uszkadzanie mienia, w tym mienia publicznego, lub w działaniach, które mogą doprowadzić do takiego zniszczenia lub uszkodzenia; działaniach mających na celu naruszenie nietykalności cielesnej osób realizujących zadania na rzecz dobra wspólnego; przedsięwzięciach mających na celu publiczne manifestowanie poglądów, które mogą naruszać wolności, prawa i obowiązki człowieka i obywatela."
+    },
+    {
+      "provision_ref": "art11bp1",
+      "section": "11b",
+      "title": "Art. 11b pkt 1",
+      "content": "Zakaz, o którym mowa w art. 11a ust. 1, dotyczy również mundurów lub części mundurów, których wzór został już wycofany, w stosunku do osób uczestniczących w: przedsięwzięciach, które mogą godzić w dobre imię lub interes Sił Zbrojnych;"
+    },
+    {
+      "provision_ref": "art11bp2",
+      "section": "11b",
+      "title": "Art. 11b pkt 2",
+      "content": "Zakaz, o którym mowa w art. 11a ust. 1, dotyczy również mundurów lub części mundurów, których wzór został już wycofany, w stosunku do osób uczestniczących w: strajkach, demonstracjach, manifestacjach i zgromadzeniach mających na celu wspólne wyrażanie stanowiska w sprawach publicznych;"
+    },
+    {
+      "provision_ref": "art11bp3",
+      "section": "11b",
+      "title": "Art. 11b pkt 3",
+      "content": "Zakaz, o którym mowa w art. 11a ust. 1, dotyczy również mundurów lub części mundurów, których wzór został już wycofany, w stosunku do osób uczestniczących w: zgromadzeniach i przedsięwzięciach naruszających porządek i spokój publiczny;"
+    },
+    {
+      "provision_ref": "art11bp4",
+      "section": "11b",
+      "title": "Art. 11b pkt 4",
+      "content": "Zakaz, o którym mowa w art. 11a ust. 1, dotyczy również mundurów lub części mundurów, których wzór został już wycofany, w stosunku do osób uczestniczących w: działaniach mających na celu niszczenie lub uszkadzanie mienia, w tym mienia publicznego, lub w działaniach, które mogą doprowadzić do takiego zniszczenia lub uszkodzenia;"
+    },
+    {
+      "provision_ref": "art11bp5",
+      "section": "11b",
+      "title": "Art. 11b pkt 5",
+      "content": "Zakaz, o którym mowa w art. 11a ust. 1, dotyczy również mundurów lub części mundurów, których wzór został już wycofany, w stosunku do osób uczestniczących w: działaniach mających na celu naruszenie nietykalności cielesnej osób realizujących zadania na rzecz dobra wspólnego;"
+    },
+    {
+      "provision_ref": "art11bp6",
+      "section": "11b",
+      "title": "Art. 11b pkt 6",
+      "content": "Zakaz, o którym mowa w art. 11a ust. 1, dotyczy również mundurów lub części mundurów, których wzór został już wycofany, w stosunku do osób uczestniczących w: przedsięwzięciach mających na celu publiczne manifestowanie poglądów, które mogą naruszać wolności, prawa i obowiązki człowieka i obywatela."
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Art. 12",
-      "content": "1. Mundury ustanawiane na podstawie ustawy powinny różnić się w sposób widoczny od pozostających pod szczególną ochroną: 1) munduru Ludowego Wojska Polskiego, który jest symbolem tradycji wolnościowych i postaw patriotycznych Narodu Polskiego, 2) munduru Milicji Obywatelskiej, który jest symbolem poszanowania prawa oraz ładu i porządku publicznego. 2. Minister Obrony Narodowej w odniesieniu do munduru wojskowego, a Minister Spraw Wewnętrznych - w odniesieniu do munduru milicyjnego mogą wprowadzić zakaz używania munduru lub jego części, chociażby nawet zostały one pozbawione oznak określonych w przepisach o ustanowieniu munduru. 3. Wojskowe organy porządkowe mogą kontrolować uprawnienia do używania odznak i mundurów wojskowych."
+      "content": "Mundury ustanawiane na podstawie ustawy powinny różnić się w sposób widoczny od pozostających pod szczególną ochroną mundurów: Wojska Polskiego, będących symbolem tradycji wolnościowych i postaw patriotycznych Narodu Polskiego; Policji, Straży Granicznej, będących symbolem poszanowania prawa oraz ładu i porządku publicznego. Minister Obrony Narodowej w odniesieniu do munduru wojskowego, a minister właściwy do spraw wewnętrznych w odniesieniu do munduru policyjnego i Straży Granicznej, określą, w drodze rozporządzeń, części munduru, których używanie jest dozwolone, uwzględniając konieczność poszanowania tradycji wolnościowych i postaw patriotycznych Narodu Polskiego oraz prawa, ładu i porządku publicznego. Żandarmeria Wojskowa może kontrolować uprawnienia do używania odznak i mundurów wojskowych."
+    },
+    {
+      "provision_ref": "art12u1p1",
+      "section": "12",
+      "title": "Art. 12 ust. 1 pkt 1",
+      "content": "Mundury ustanawiane na podstawie ustawy powinny różnić się w sposób widoczny od pozostających pod szczególną ochroną mundurów: Wojska Polskiego, będących symbolem tradycji wolnościowych i postaw patriotycznych Narodu Polskiego;"
+    },
+    {
+      "provision_ref": "art12u1p2",
+      "section": "12",
+      "title": "Art. 12 ust. 1 pkt 2",
+      "content": "Mundury ustanawiane na podstawie ustawy powinny różnić się w sposób widoczny od pozostających pod szczególną ochroną mundurów: Policji, Straży Granicznej, będących symbolem poszanowania prawa oraz ładu i porządku publicznego."
+    },
+    {
+      "provision_ref": "art12u2",
+      "section": "12",
+      "title": "Art. 12 ust. 2",
+      "content": "Minister Obrony Narodowej w odniesieniu do munduru wojskowego, a minister właściwy do spraw wewnętrznych w odniesieniu do munduru policyjnego i Straży Granicznej, określą, w drodze rozporządzeń, części munduru, których używanie jest dozwolone, uwzględniając konieczność poszanowania tradycji wolnościowych i postaw patriotycznych Narodu Polskiego oraz prawa, ładu i porządku publicznego."
+    },
+    {
+      "provision_ref": "art12u3",
+      "section": "12",
+      "title": "Art. 12 ust. 3",
+      "content": "Żandarmeria Wojskowa może kontrolować uprawnienia do używania odznak i mundurów wojskowych."
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Art. 13",
-      "content": "1. Używanie munduru zagranicznego wymaga zezwolenia terenowego organu administracji państwowej stopnia wojewódzkiego. 2. Przepisu ust. 1 nie stosuje się do: 1) członków personelu dyplomatycznego obcych przedstawicielstw dyplomatycznych oraz urzędników konsularnych obcych urzędów konsularnych, 2) członków personelu administracyjnego i technicznego obcych przedstawicielstw dyplomatycznych i urzędów konsularnych - z zastrzeżeniem zasady wzajemności, 3) innych osób, które mogą używać w Polsce munduru na mocy umów albo zwyczajów międzynarodowych."
+      "content": "Używanie munduru zagranicznego wymaga zezwolenia terenowego organu administracji państwowej stopnia wojewódzkiego. Przepisu ust. 1 nie stosuje się do: członków personelu dyplomatycznego obcych przedstawicielstw dyplomatycznych oraz urzędników konsularnych obcych urzędów konsularnych; członków personelu administracyjnego i technicznego obcych przedstawicielstw dyplomatycznych i urzędów konsularnych - z zastrzeżeniem zasady wzajemności; innych osób, które mogą używać w Polsce munduru na mocy umów albo zwyczajów międzynarodowych."
+    },
+    {
+      "provision_ref": "art13u1",
+      "section": "13",
+      "title": "Art. 13 ust. 1",
+      "content": "Używanie munduru zagranicznego wymaga zezwolenia terenowego organu administracji państwowej stopnia wojewódzkiego."
+    },
+    {
+      "provision_ref": "art13u2p1",
+      "section": "13",
+      "title": "Art. 13 ust. 2 pkt 1",
+      "content": "Przepisu ust. 1 nie stosuje się do: członków personelu dyplomatycznego obcych przedstawicielstw dyplomatycznych oraz urzędników konsularnych obcych urzędów konsularnych;"
+    },
+    {
+      "provision_ref": "art13u2p2",
+      "section": "13",
+      "title": "Art. 13 ust. 2 pkt 2",
+      "content": "Przepisu ust. 1 nie stosuje się do: członków personelu administracyjnego i technicznego obcych przedstawicielstw dyplomatycznych i urzędów konsularnych - z zastrzeżeniem zasady wzajemności;"
+    },
+    {
+      "provision_ref": "art13u2p3",
+      "section": "13",
+      "title": "Art. 13 ust. 2 pkt 3",
+      "content": "Przepisu ust. 1 nie stosuje się do: innych osób, które mogą używać w Polsce munduru na mocy umów albo zwyczajów międzynarodowych."
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Art. 14",
-      "content": "Przepisy ustawy nie naruszają przepisów o godle i barwach Polskiej Rzeczypospolitej Ludowej, o znakach Sił Zbrojnych oraz przepisów szczególnych o odznakach i mundurach."
+      "content": "Przepisy ustawy nie naruszają przepisów o godle i barwach Rzeczypospolitej Polskiej, o znakach Sił Zbrojnych oraz przepisów szczególnych o odznakach i mundurach."
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Art. 15",
-      "content": "W art. 15 ust. 2 pkt 7 ustawy z dnia 25 stycznia 1958 r. o radach narodowych ( Dz. U. z 1975 r. Nr 26, poz. 139 , z 1977 r. Nr 11, poz. 44 i z 1978 r. Nr 14, poz. 61 ) skreśla się wyrazy: „oraz ustalania herbu miasta” ."
+      "content": "(pominięty)"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Art. 16",
-      "content": "Traci moc dekret z dnia 2 października 1935 r. o odznakach i mundurach ( Dz. U. Nr 72, poz. 455 i z 1971 r. Nr 12, poz. 115 ) ."
+      "content": "Traci moc dekret z dnia 2 października 1935 r. o odznakach i mundurach ."
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Art. 17",
-      "content": "1. Odznaki ustalone na podstawie dekretu, o którym mowa w art. 16, mogą być nadawane i używane na dotychczasowych zasadach. 2. Przepis ust. 1 stosuje się odpowiednio do mundurów ustalonych na podstawie dotychczasowych przepisów, gdy chodzi o używanie tych mundurów."
+      "content": "Odznaki ustalone na podstawie dekretu, o którym mowa w art. 16, mogą być nadawane i używane na dotychczasowych zasadach. Przepis ust. 1 stosuje się odpowiednio do mundurów ustalonych na podstawie dotychczasowych przepisów, gdy chodzi o używanie tych mundurów."
+    },
+    {
+      "provision_ref": "art17u1",
+      "section": "17",
+      "title": "Art. 17 ust. 1",
+      "content": "Odznaki ustalone na podstawie dekretu, o którym mowa w art. 16, mogą być nadawane i używane na dotychczasowych zasadach."
+    },
+    {
+      "provision_ref": "art17u2",
+      "section": "17",
+      "title": "Art. 17 ust. 2",
+      "content": "Przepis ust. 1 stosuje się odpowiednio do mundurów ustalonych na podstawie dotychczasowych przepisów, gdy chodzi o używanie tych mundurów."
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Art. 18",
-      "content": "Ustawa wchodzi w życie po upływie trzech miesięcy od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_2-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_2-pass_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_2-pass_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_2-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_2-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_3-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_4-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_4-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"arti_4-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_5-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_5-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_5-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"arti_7-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_7-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_7-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_7-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"arti_8-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_8-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"arti_9-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_9-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_9-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_9-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_9-pass_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_9-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\",\"children\": [{\"id\": \"arti_12-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_12-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_12-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_12-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_12-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\",\"children\": [{\"id\": \"arti_13-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_13-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"arti_13-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_13-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_13-pass_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]}]},{\"id\": \"arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"},{\"id\": \"arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\"},{\"id\": \"arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\"},{\"id\": \"arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\",\"children\": [{\"id\": \"arti_17-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_17-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie po upływie trzech miesięcy od dnia ogłoszenia 3) Ustawa została ogłoszona w dniu 30 grudnia 1978 r. ."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2019-1461",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2016-38",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-655",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-324",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2185",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2039",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1935-455",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1971-115",
+      "ref_type": "references"
+    }
+  ]
 }

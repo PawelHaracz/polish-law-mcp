@@ -13,20 +13,34 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "W ustawie z dnia 13 grudnia 2016 r. - Przepisy wprowadzające ustawę o organizacji i trybie postępowania przed Trybunałem Konstytucyjnym oraz ustawę o statusie sędziów Trybunału Konstytucyjnego ( Dz. U. poz. 2074 ) art. 19 otrzymuje brzmienie: „ Art. 19. Rozstrzygnięcia Trybunału podjęte z naruszeniem przepisów ustawy z dnia 25 czerwca 2015 r. o Trybunale Konstytucyjnym ( Dz. U. z 2016 r. poz. 293 ) albo ustawy z dnia 22 lipca 2016 r. o Trybunale Konstytucyjnym ( Dz. U. poz. 1157 ) , wydane przed dniem wejścia w życie ustawy, o której mowa w art. 1, podlegają ogłoszeniu w odpowiednich dziennikach urzędowych po zarządzeniu ich ogłoszenia przez Prezesa Trybunału albo sędziego pełniącego obowiązki Prezesa Trybunału. Jeżeli rozstrzygnięcia, podjęte z naruszeniem przepisów, o których mowa w zdaniu pierwszym, dotyczyły aktów normatywnych, które utraciły moc obowiązującą, ogłasza się je w odpowiednich dziennikach urzędowych z zaznaczeniem tych okoliczności. ” ."
+      "content": "W ustawie z dnia 13 grudnia 2016 r. - Przepisy wprowadzające ustawę o organizacji i trybie postępowania przed Trybunałem Konstytucyjnym oraz ustawę o statusie sędziów Trybunału Konstytucyjnego art. 19 otrzymuje brzmienie: „ Rozstrzygnięcia Trybunału podjęte z naruszeniem przepisów ustawy z dnia 25 czerwca 2015 r. o Trybunale Konstytucyjnym albo ustawy z dnia 22 lipca 2016 r. o Trybunale Konstytucyjnym , wydane przed dniem wejścia w życie ustawy, o której mowa w art. 1, podlegają ogłoszeniu w odpowiednich dziennikach urzędowych po zarządzeniu ich ogłoszenia przez Prezesa Trybunału albo sędziego pełniącego obowiązki Prezesa Trybunału. Jeżeli rozstrzygnięcia, podjęte z naruszeniem przepisów, o których mowa w zdaniu pierwszym, dotyczyły aktów normatywnych, które utraciły moc obowiązującą, ogłasza się je w odpowiednich dziennikach urzędowych z zaznaczeniem tych okoliczności. ” ."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Prezes Trybunału Konstytucyjnego zarządza ogłoszenie w odpowiednim dzienniku urzędowym rozstrzygnięć Trybunału Konstytucyjnego wydanych z naruszeniem przepisów ustawy z dnia 25 czerwca 2015 r. o Trybunale Konstytucyjnym ( Dz. U. z 2016 r. poz. 293 ) albo ustawy z dnia 22 lipca 2016 r. o Trybunale Konstytucyjnym ( Dz. U. poz. 1157 ) , stosownie do art. 1 niniejszej ustawy, w terminie 7 dni od dnia jej wejścia w życie."
+      "content": "Prezes Trybunału Konstytucyjnego zarządza ogłoszenie w odpowiednim dzienniku urzędowym rozstrzygnięć Trybunału Konstytucyjnego wydanych z naruszeniem przepisów ustawy z dnia 25 czerwca 2015 r. o Trybunale Konstytucyjnym albo ustawy z dnia 22 lipca 2016 r. o Trybunale Konstytucyjnym , stosownie do art. 1 niniejszej ustawy, w terminie 7 dni od dnia jej wejścia w życie."
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2016-2074",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2016-293",
+      "ref_type": "amended_by"
+    },
+    {
+      "target_document_id": "pl-du-2016-1157",
+      "ref_type": "amended_by"
+    }
+  ]
 }

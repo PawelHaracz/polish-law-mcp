@@ -25,7 +25,19 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "Osoby, winne wykroczenia przeciwko postanowieniom i zakazom, zawartym w rozporządzeniach rządowych, wymienionych w art. 1 i 2, oprócz konfiskaty sum pieniężnych, pozostających w związku z wykroczeniem, ulegają karze: a) na obszarze b. dzielnic rosyjskiej i pruskiej - więzienia do jednego roku i grzywny do stu tysięcy marek, lub jednej z tych kar; b) na obszarze b. dzielnicy austrjackiej - aresztu lub aresztu ścisłego do jednego roku i grzywny do stu tysięcy marek, lub jednej z tych kar. Takim samym karom ulegną osoby, winne usiłowania tych wykroczeń, lub udziału w nich."
+      "content": "Osoby, winne wykroczenia przeciwko postanowieniom i zakazom, zawartym w rozporządzeniach rządowych, wymienionych w art. 1 i 2, oprócz konfiskaty sum pieniężnych, pozostających w związku z wykroczeniem, ulegają karze: na obszarze b. dzielnic rosyjskiej i pruskiej - więzienia do jednego roku i grzywny do stu tysięcy marek, lub jednej z tych kar; na obszarze b. dzielnicy austrjackiej - aresztu lub aresztu ścisłego do jednego roku i grzywny do stu tysięcy marek, lub jednej z tych kar. Takim samym karom ulegną osoby, winne usiłowania tych wykroczeń, lub udziału w nich."
+    },
+    {
+      "provision_ref": "art3la",
+      "section": "3",
+      "title": "Art. 3 lit. a",
+      "content": "Osoby, winne wykroczenia przeciwko postanowieniom i zakazom, zawartym w rozporządzeniach rządowych, wymienionych w art. 1 i 2, oprócz konfiskaty sum pieniężnych, pozostających w związku z wykroczeniem, ulegają karze: na obszarze b. dzielnic rosyjskiej i pruskiej - więzienia do jednego roku i grzywny do stu tysięcy marek, lub jednej z tych kar;"
+    },
+    {
+      "provision_ref": "art3lb",
+      "section": "3",
+      "title": "Art. 3 lit. b",
+      "content": "Osoby, winne wykroczenia przeciwko postanowieniom i zakazom, zawartym w rozporządzeniach rządowych, wymienionych w art. 1 i 2, oprócz konfiskaty sum pieniężnych, pozostających w związku z wykroczeniem, ulegają karze: na obszarze b. dzielnicy austrjackiej - aresztu lub aresztu ścisłego do jednego roku i grzywny do stu tysięcy marek, lub jednej z tych kar."
     },
     {
       "provision_ref": "art4",
@@ -37,7 +49,19 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Art. 5",
-      "content": "Do orzekania kar w zakresie, przewidzianym w art. 3 i 4, powołuje sie: a) na obszarze b. dzielnicy rosyjskiej sądy pokoju, b) na obszarze b. dzielnic austrjackiej i pruskiej sądy powiatowe."
+      "content": "Do orzekania kar w zakresie, przewidzianym w art. 3 i 4, powołuje sie: na obszarze b. dzielnicy rosyjskiej sądy pokoju, na obszarze b. dzielnic austrjackiej i pruskiej sądy powiatowe."
+    },
+    {
+      "provision_ref": "art5la",
+      "section": "5",
+      "title": "Art. 5 lit. a",
+      "content": "Do orzekania kar w zakresie, przewidzianym w art. 3 i 4, powołuje sie: na obszarze b. dzielnicy rosyjskiej sądy pokoju,"
+    },
+    {
+      "provision_ref": "art5lb",
+      "section": "5",
+      "title": "Art. 5 lit. b",
+      "content": "Do orzekania kar w zakresie, przewidzianym w art. 3 i 4, powołuje sie: na obszarze b. dzielnic austrjackiej i pruskiej sądy powiatowe."
     },
     {
       "provision_ref": "art6",
@@ -49,8 +73,9 @@
       "provision_ref": "art7",
       "section": "7",
       "title": "Art. 7",
-      "content": "Wykonanie ustawy niniejszej powierza się Ministrowi Skarbu w porozumieniu z Ministrem Sprawiedliwości, na obszarze zaś b. dzielnicy pruskiej - Ministrowi b. Dzielnicy Pruskiej w porozumieniu z Ministrami Skarbu i Sprawiedliwości. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_5-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"} ] } ];"
+      "content": "Wykonanie ustawy niniejszej powierza się Ministrowi Skarbu w porozumieniu z Ministrem Sprawiedliwości, na obszarze zaś b. dzielnicy pruskiej - Ministrowi b. Dzielnicy Pruskiej w porozumieniu z Ministrami Skarbu i Sprawiedliwości."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": []
 }

@@ -10,82 +10,838 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2000/69",
   "provisions": [
     {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Art. 45",
+      "content": "Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem: art. 1 pkt 71 oraz art. 10, które wchodzą w życie z dniem 1 czerwca 2023 r.; art. 12, który wchodzi w życie z dniem 31 października 2022 r.; art. 15 pkt 2 lit. a-c, które wchodzą w życie z dniem 15 listopada 2022 r.; art. 18, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 stycznia 2022 r.; art. 20, który wchodzi w życie z dniem 30 października 2022 r."
+    },
+    {
+      "provision_ref": "art45p1",
+      "section": "45",
+      "title": "Art. 45 pkt 1",
+      "content": "Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem: art. 1 pkt 71 oraz art. 10, które wchodzą w życie z dniem 1 czerwca 2023 r.;"
+    },
+    {
+      "provision_ref": "art45p2",
+      "section": "45",
+      "title": "Art. 45 pkt 2",
+      "content": "Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem: art. 12, który wchodzi w życie z dniem 31 października 2022 r.;"
+    },
+    {
+      "provision_ref": "art45p2a",
+      "section": "45",
+      "title": "Art. 45 pkt 2a",
+      "content": "Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem: art. 15 pkt 2 lit. a-c, które wchodzą w życie z dniem 15 listopada 2022 r.;"
+    },
+    {
+      "provision_ref": "art45p3",
+      "section": "45",
+      "title": "Art. 45 pkt 3",
+      "content": "Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem: art. 18, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 stycznia 2022 r.;"
+    },
+    {
+      "provision_ref": "art45p4",
+      "section": "45",
+      "title": "Art. 45 pkt 4",
+      "content": "Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem: art. 20, który wchodzi w życie z dniem 30 października 2022 r."
+    },
+    {
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "1. Ustanawia się Rzecznika Praw Dziecka. 2. Rzecznik Praw Dziecka, zwany dalej Rzecznikiem, stoi na straży praw dziecka określonych w Konstytucji Rzeczypospolitej Polskiej , Konwencji o prawach dziecka i innych przepisach prawa, z poszanowaniem odpowiedzialności, praw i obowiązków rodziców. 3. Rzecznik przy wykonywaniu swoich uprawnień kieruje się dobrem dziecka oraz bierze pod uwagę, że naturalnym środowiskiem jego rozwoju jest rodzina."
+      "content": "Ustanawia się Rzecznika Praw Dziecka. Rzecznik Praw Dziecka, zwany dalej Rzecznikiem, stoi na straży praw dziecka określonych w Konstytucji Rzeczypospolitej Polskiej , Konwencji o prawach dziecka i innych przepisach prawa, z poszanowaniem odpowiedzialności, praw i obowiązków rodziców. Rzecznik przy wykonywaniu swoich uprawnień kieruje się dobrem dziecka oraz bierze pod uwagę, że naturalnym środowiskiem jego rozwoju jest rodzina. Rzecznikiem może być ten, kto: jest obywatelem polskim; posiada pełną zdolność do czynności prawnych i korzysta z pełni praw publicznych; nie był skazany prawomocnym wyrokiem za przestępstwo umyślne; ukończył studia wyższe i uzyskał tytuł magistra lub tytuł równorzędny; ma co najmniej pięcioletnie doświadczenie w pracy z dziećmi lub na ich rzecz; jest nieskazitelnego charakteru i wyróżnia się wysokim autorytetem ze względu na walory moralne i wrażliwość społeczną."
+    },
+    {
+      "provision_ref": "art1u1",
+      "section": "1",
+      "title": "Art. 1 ust. 1",
+      "content": "Ustanawia się Rzecznika Praw Dziecka."
+    },
+    {
+      "provision_ref": "art1u2",
+      "section": "1",
+      "title": "Art. 1 ust. 2",
+      "content": "Rzecznik Praw Dziecka, zwany dalej Rzecznikiem, stoi na straży praw dziecka określonych w Konstytucji Rzeczypospolitej Polskiej , Konwencji o prawach dziecka i innych przepisach prawa, z poszanowaniem odpowiedzialności, praw i obowiązków rodziców."
+    },
+    {
+      "provision_ref": "art1u3",
+      "section": "1",
+      "title": "Art. 1 ust. 3",
+      "content": "Rzecznik przy wykonywaniu swoich uprawnień kieruje się dobrem dziecka oraz bierze pod uwagę, że naturalnym środowiskiem jego rozwoju jest rodzina."
+    },
+    {
+      "provision_ref": "art1u4p1",
+      "section": "1",
+      "title": "Art. 1 ust. 4 pkt 1",
+      "content": "Rzecznikiem może być ten, kto: jest obywatelem polskim;"
+    },
+    {
+      "provision_ref": "art1u4p2",
+      "section": "1",
+      "title": "Art. 1 ust. 4 pkt 2",
+      "content": "Rzecznikiem może być ten, kto: posiada pełną zdolność do czynności prawnych i korzysta z pełni praw publicznych;"
+    },
+    {
+      "provision_ref": "art1u4p3",
+      "section": "1",
+      "title": "Art. 1 ust. 4 pkt 3",
+      "content": "Rzecznikiem może być ten, kto: nie był skazany prawomocnym wyrokiem za przestępstwo umyślne;"
+    },
+    {
+      "provision_ref": "art1u4p4",
+      "section": "1",
+      "title": "Art. 1 ust. 4 pkt 4",
+      "content": "Rzecznikiem może być ten, kto: ukończył studia wyższe i uzyskał tytuł magistra lub tytuł równorzędny;"
+    },
+    {
+      "provision_ref": "art1u4p5",
+      "section": "1",
+      "title": "Art. 1 ust. 4 pkt 5",
+      "content": "Rzecznikiem może być ten, kto: ma co najmniej pięcioletnie doświadczenie w pracy z dziećmi lub na ich rzecz;"
+    },
+    {
+      "provision_ref": "art1u4p6",
+      "section": "1",
+      "title": "Art. 1 ust. 4 pkt 6",
+      "content": "Rzecznikiem może być ten, kto: jest nieskazitelnego charakteru i wyróżnia się wysokim autorytetem ze względu na walory moralne i wrażliwość społeczną."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "1. W rozumieniu ustawy dzieckiem jest każda istota ludzka od poczęcia do osiągnięcia pełnoletności. 2. Uzyskanie pełnoletności określają odrębne przepisy."
+      "content": "W rozumieniu ustawy dzieckiem jest każda istota ludzka od poczęcia do osiągnięcia pełnoletności. Uzyskanie pełnoletności określają odrębne przepisy."
+    },
+    {
+      "provision_ref": "art2u1",
+      "section": "2",
+      "title": "Art. 2 ust. 1",
+      "content": "W rozumieniu ustawy dzieckiem jest każda istota ludzka od poczęcia do osiągnięcia pełnoletności."
+    },
+    {
+      "provision_ref": "art2u2",
+      "section": "2",
+      "title": "Art. 2 ust. 2",
+      "content": "Uzyskanie pełnoletności określają odrębne przepisy."
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "1. Rzecznik, w sposób określony w niniejszej ustawie, podejmuje działania mające na celu zapewnienie dziecku pełnego i harmonijnego rozwoju, z poszanowaniem jego godności i podmiotowości. 2. Rzecznik działa na rzecz ochrony praw dziecka, w szczególności: 1) prawa do życia i ochrony zdrowia, 2) prawa do wychowania w rodzinie, 3) prawa do godziwych warunków socjalnych, 4) prawa do nauki. 3. Rzecznik podejmuje działania zmierzające do ochrony dziecka przed przemocą, okrucieństwem, wyzyskiem, demoralizacją, zaniedbaniem oraz innym złym traktowaniem. 4. Rzecznik szczególną troską i pomocą otacza dzieci niepełnosprawne."
+      "content": "Rzecznik, w sposób określony w niniejszej ustawie, podejmuje działania mające na celu zapewnienie dziecku pełnego i harmonijnego rozwoju, z poszanowaniem jego godności i podmiotowości. Rzecznik działa na rzecz ochrony praw dziecka, w szczególności: prawa do życia i ochrony zdrowia; prawa do wychowania w rodzinie; prawa do godziwych warunków socjalnych; prawa do nauki. Rzecznik podejmuje działania zmierzające do ochrony dziecka przed przemocą, okrucieństwem, wyzyskiem, demoralizacją, zaniedbaniem oraz innym złym traktowaniem. Rzecznik szczególną troską i pomocą otacza dzieci niepełnosprawne. Rzecznik upowszechnia prawa dziecka oraz metody ich ochrony."
+    },
+    {
+      "provision_ref": "art3u1",
+      "section": "3",
+      "title": "Art. 3 ust. 1",
+      "content": "Rzecznik, w sposób określony w niniejszej ustawie, podejmuje działania mające na celu zapewnienie dziecku pełnego i harmonijnego rozwoju, z poszanowaniem jego godności i podmiotowości."
+    },
+    {
+      "provision_ref": "art3u2p1",
+      "section": "3",
+      "title": "Art. 3 ust. 2 pkt 1",
+      "content": "Rzecznik działa na rzecz ochrony praw dziecka, w szczególności: prawa do życia i ochrony zdrowia;"
+    },
+    {
+      "provision_ref": "art3u2p2",
+      "section": "3",
+      "title": "Art. 3 ust. 2 pkt 2",
+      "content": "Rzecznik działa na rzecz ochrony praw dziecka, w szczególności: prawa do wychowania w rodzinie;"
+    },
+    {
+      "provision_ref": "art3u2p3",
+      "section": "3",
+      "title": "Art. 3 ust. 2 pkt 3",
+      "content": "Rzecznik działa na rzecz ochrony praw dziecka, w szczególności: prawa do godziwych warunków socjalnych;"
+    },
+    {
+      "provision_ref": "art3u2p4",
+      "section": "3",
+      "title": "Art. 3 ust. 2 pkt 4",
+      "content": "Rzecznik działa na rzecz ochrony praw dziecka, w szczególności: prawa do nauki."
+    },
+    {
+      "provision_ref": "art3u3",
+      "section": "3",
+      "title": "Art. 3 ust. 3",
+      "content": "Rzecznik podejmuje działania zmierzające do ochrony dziecka przed przemocą, okrucieństwem, wyzyskiem, demoralizacją, zaniedbaniem oraz innym złym traktowaniem."
+    },
+    {
+      "provision_ref": "art3u4",
+      "section": "3",
+      "title": "Art. 3 ust. 4",
+      "content": "Rzecznik szczególną troską i pomocą otacza dzieci niepełnosprawne."
+    },
+    {
+      "provision_ref": "art3u5",
+      "section": "3",
+      "title": "Art. 3 ust. 5",
+      "content": "Rzecznik upowszechnia prawa dziecka oraz metody ich ochrony."
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "1. Rzecznika powołuje Sejm, za zgodą Senatu, na wniosek Marszałka Sejmu, Marszałka Senatu, grupy co najmniej 35 posłów lub co najmniej 15 senatorów. 2. Szczegółowy sposób zgłaszania kandydatów na Rzecznika określa uchwała Sejmu. 3. Uchwałę Sejmu o powołaniu Rzecznika Marszałek Sejmu przesyła niezwłocznie Marszałkowi Senatu. 4. Senat podejmuje uchwałę w sprawie wyrażenia zgody na powołanie Rzecznika w ciągu miesiąca od dnia otrzymania uchwały Sejmu, o której mowa w ust. 3. Niepodjęcie uchwały przez Senat w ciągu miesiąca oznacza wyrażenie zgody. 5. Jeżeli Senat nie wyrazi zgody na powołanie Rzecznika, Sejm powołuje na to stanowisko inną osobę. Przepisy ust. 1-4 stosuje się odpowiednio. 6. Dotychczasowy Rzecznik pełni swoje obowiązki do czasu złożenia ślubowania przez nowego Rzecznika, z zastrzeżeniem art. 8 ust. 1."
+      "content": "Rzecznika powołuje Sejm, za zgodą Senatu, na wniosek Marszałka Sejmu, Marszałka Senatu, grupy co najmniej 35 posłów lub co najmniej 15 senatorów. Szczegółowy tryb zgłaszania kandydatów na Rzecznika określa uchwała Sejmu. Uchwałę Sejmu o powołaniu Rzecznika Marszałek Sejmu przesyła niezwłocznie Marszałkowi Senatu. Senat podejmuje uchwałę w sprawie wyrażenia zgody na powołanie Rzecznika w ciągu miesiąca od dnia otrzymania uchwały Sejmu, o której mowa w ust. 3. Niepodjęcie uchwały przez Senat w ciągu miesiąca oznacza wyrażenie zgody. Jeżeli Senat nie wyrazi zgody na powołanie Rzecznika, Sejm powołuje na to stanowisko inną osobę. Przepisy ust. 1-4 stosuje się odpowiednio. Dotychczasowy Rzecznik pełni swoje obowiązki do czasu złożenia ślubowania przez nowego Rzecznika, z zastrzeżeniem art. 8 ust. 1."
+    },
+    {
+      "provision_ref": "art4u1",
+      "section": "4",
+      "title": "Art. 4 ust. 1",
+      "content": "Rzecznika powołuje Sejm, za zgodą Senatu, na wniosek Marszałka Sejmu, Marszałka Senatu, grupy co najmniej 35 posłów lub co najmniej 15 senatorów."
+    },
+    {
+      "provision_ref": "art4u2",
+      "section": "4",
+      "title": "Art. 4 ust. 2",
+      "content": "Szczegółowy tryb zgłaszania kandydatów na Rzecznika określa uchwała Sejmu."
+    },
+    {
+      "provision_ref": "art4u3",
+      "section": "4",
+      "title": "Art. 4 ust. 3",
+      "content": "Uchwałę Sejmu o powołaniu Rzecznika Marszałek Sejmu przesyła niezwłocznie Marszałkowi Senatu."
+    },
+    {
+      "provision_ref": "art4u4",
+      "section": "4",
+      "title": "Art. 4 ust. 4",
+      "content": "Senat podejmuje uchwałę w sprawie wyrażenia zgody na powołanie Rzecznika w ciągu miesiąca od dnia otrzymania uchwały Sejmu, o której mowa w ust. 3. Niepodjęcie uchwały przez Senat w ciągu miesiąca oznacza wyrażenie zgody."
+    },
+    {
+      "provision_ref": "art4u5",
+      "section": "4",
+      "title": "Art. 4 ust. 5",
+      "content": "Jeżeli Senat nie wyrazi zgody na powołanie Rzecznika, Sejm powołuje na to stanowisko inną osobę. Przepisy ust. 1-4 stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "art4u6",
+      "section": "4",
+      "title": "Art. 4 ust. 6",
+      "content": "Dotychczasowy Rzecznik pełni swoje obowiązki do czasu złożenia ślubowania przez nowego Rzecznika, z zastrzeżeniem art. 8 ust. 1."
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Art. 5",
-      "content": "Przed przystąpieniem do wykonywania obowiązków Rzecznik składa przed Sejmem następujące ślubowanie: „ Ślubuję uroczyście, że przy wykonywaniu powierzonych mi obowiązków Rzecznika Praw Dziecka dochowam wierności Konstytucji Rzeczypospolitej Polskiej, będę strzec praw dziecka, kierując się przepisami prawa, dobrem dziecka i dobrem rodziny. Ślubuję, że powierzone mi obowiązki będę wypełniać bezstronnie, z najwyższą sumiennością i starannością, że będę strzec godności powierzonego mi stanowiska oraz dochowam tajemnicy państwowej i służbowej. ” Ślubowanie może być złożone z dodaniem zdania „Tak mi dopomóż Bóg”."
+      "content": "Przed przystąpieniem do wykonywania obowiązków Rzecznik składa przed Sejmem następujące ślubowanie: „ Ślubuję uroczyście, że przy wykonywaniu powierzonych mi obowiązków Rzecznika Praw Dziecka dochowam wierności Konstytucji Rzeczypospolitej Polskiej , będę strzec praw dziecka, kierując się przepisami prawa, dobrem dziecka i dobrem rodziny. Ślubuję, że powierzone mi obowiązki będę wypełniać bezstronnie, z najwyższą sumiennością i starannością, że będę strzec godności powierzonego mi stanowiska oraz dochowam tajemnicy prawnie chronionej. ” . Ślubowanie może być złożone z dodaniem zdania „Tak mi dopomóż Bóg”."
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Art. 6",
-      "content": "1. Kadencja Rzecznika trwa 5 lat, licząc od dnia złożenia ślubowania przed Sejmem. 2. Kadencja Rzecznika wygasa w razie jego śmierci lub odwołania. 3. Ta sama osoba nie może być Rzecznikiem dłużej niż przez dwie kolejne kadencje."
+      "content": "Kadencja Rzecznika trwa 5 lat, licząc od dnia złożenia ślubowania przed Sejmem. Kadencja Rzecznika wygasa w razie jego śmierci lub odwołania. Ta sama osoba nie może być Rzecznikiem dłużej niż przez dwie kolejne kadencje."
+    },
+    {
+      "provision_ref": "art6u1",
+      "section": "6",
+      "title": "Art. 6 ust. 1",
+      "content": "Kadencja Rzecznika trwa 5 lat, licząc od dnia złożenia ślubowania przed Sejmem."
+    },
+    {
+      "provision_ref": "art6u2",
+      "section": "6",
+      "title": "Art. 6 ust. 2",
+      "content": "Kadencja Rzecznika wygasa w razie jego śmierci lub odwołania."
+    },
+    {
+      "provision_ref": "art6u3",
+      "section": "6",
+      "title": "Art. 6 ust. 3",
+      "content": "Ta sama osoba nie może być Rzecznikiem dłużej niż przez dwie kolejne kadencje."
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Art. 7",
-      "content": "1. Rzecznik jest w swojej działalności niezależny od innych organów państwowych i odpowiada jedynie przed Sejmem na zasadach określonych w ustawie. 2. Rzecznik nie może być bez uprzedniej zgody Sejmu pociągnięty do odpowiedzialności karnej ani pozbawiony wolności. Rzecznik nie może być zatrzymany lub aresztowany, z wyjątkiem ujęcia go na gorącym uczynku przestępstwa i jeżeli jego zatrzymanie jest niezbędne do zapewnienia prawidłowego toku postępowania. O zatrzymaniu niezwłocznie powiadamia się Marszałka Sejmu, który może nakazać natychmiastowe zwolnienie zatrzymanego. 3. Rzecznik nie może zajmować innego stanowiska ani wykonywać innych zajęć zawodowych, a także nie może prowadzić działalności publicznej niedającej się pogodzić się z obowiązkami i godnością jego urzędu. 4. Po zaprzestaniu wykonywania obowiązków Rzecznik ma prawo powrócić na stanowisko zajmowane poprzednio lub otrzymać stanowisko równorzędne z poprzednio zajmowanym."
+      "content": "Rzecznik jest w swojej działalności niezależny od innych organów państwowych i odpowiada jedynie przed Sejmem na zasadach określonych w ustawie. Rzecznik nie może być bez uprzedniej zgody Sejmu pociągnięty do odpowiedzialności karnej ani pozbawiony wolności, z zastrzeżeniem ust. 2a. Rzecznik może wyrazić zgodę na pociągnięcie go do odpowiedzialności karnej za wykroczenia, o których mowa w ust. 2b, w trybie określonym w tym przepisie. W przypadku popełnienia przez Rzecznika wykroczenia, o którym mowa w rozdziale XI ustawy z dnia 20 maja 1971 r. - Kodeks wykroczeń , przyjęcie przez Rzecznika mandatu karnego albo uiszczenie grzywny, w przypadku ukarania mandatem karnym zaocznym, o którym mowa w art. 98 § 1 pkt 3 ustawy z dnia 24 sierpnia 2001 r. - Kodeks postępowania w sprawach o wykroczenia , stanowi oświadczenie o wyrażeniu przez niego zgody na pociągnięcie go do odpowiedzialności w tej formie. Rzecznik nie może być zatrzymany lub aresztowany, z wyjątkiem ujęcia go na gorącym uczynku przestępstwa i jeżeli jego zatrzymanie jest niezbędne do zapewnienia prawidłowego toku postępowania. O zatrzymaniu niezwłocznie powiadamia się Marszałka Sejmu, który może nakazać natychmiastowe zwolnienie zatrzymanego. Rzecznik nie może: zajmować innego stanowiska, z wyjątkiem stanowiska profesora szkoły wyższej ani wykonywać innych zajęć zawodowych; należeć do partii politycznej; prowadzić działalności publicznej niedającej się pogodzić z obowiązkami i godnością jego urzędu. Po zaprzestaniu wykonywania obowiązków Rzecznik ma prawo powrócić na stanowisko zajmowane poprzednio lub otrzymać stanowisko równorzędne z poprzednio zajmowanym. W przypadku, o którym mowa w ust. 4, rozwiązanie przez pracodawcę stosunku pracy, z wyjątkiem stosunku pracy na podstawie wyboru, oraz zmiana warunków pracy lub płacy w ciągu dwóch lat po zaprzestaniu wykonywania obowiązków Rzecznika może nastąpić tylko za zgodą Prezydium Sejmu."
+    },
+    {
+      "provision_ref": "art7u1",
+      "section": "7",
+      "title": "Art. 7 ust. 1",
+      "content": "Rzecznik jest w swojej działalności niezależny od innych organów państwowych i odpowiada jedynie przed Sejmem na zasadach określonych w ustawie."
+    },
+    {
+      "provision_ref": "art7u2",
+      "section": "7",
+      "title": "Art. 7 ust. 2",
+      "content": "Rzecznik nie może być bez uprzedniej zgody Sejmu pociągnięty do odpowiedzialności karnej ani pozbawiony wolności, z zastrzeżeniem ust. 2a."
+    },
+    {
+      "provision_ref": "art7u2a",
+      "section": "7",
+      "title": "Art. 7 ust. 2a",
+      "content": "Rzecznik może wyrazić zgodę na pociągnięcie go do odpowiedzialności karnej za wykroczenia, o których mowa w ust. 2b, w trybie określonym w tym przepisie."
+    },
+    {
+      "provision_ref": "art7u2b",
+      "section": "7",
+      "title": "Art. 7 ust. 2b",
+      "content": "W przypadku popełnienia przez Rzecznika wykroczenia, o którym mowa w rozdziale XI ustawy z dnia 20 maja 1971 r. - Kodeks wykroczeń , przyjęcie przez Rzecznika mandatu karnego albo uiszczenie grzywny, w przypadku ukarania mandatem karnym zaocznym, o którym mowa w art. 98 § 1 pkt 3 ustawy z dnia 24 sierpnia 2001 r. - Kodeks postępowania w sprawach o wykroczenia , stanowi oświadczenie o wyrażeniu przez niego zgody na pociągnięcie go do odpowiedzialności w tej formie."
+    },
+    {
+      "provision_ref": "art7u2c",
+      "section": "7",
+      "title": "Art. 7 ust. 2c",
+      "content": "Rzecznik nie może być zatrzymany lub aresztowany, z wyjątkiem ujęcia go na gorącym uczynku przestępstwa i jeżeli jego zatrzymanie jest niezbędne do zapewnienia prawidłowego toku postępowania. O zatrzymaniu niezwłocznie powiadamia się Marszałka Sejmu, który może nakazać natychmiastowe zwolnienie zatrzymanego."
+    },
+    {
+      "provision_ref": "art7u3p1",
+      "section": "7",
+      "title": "Art. 7 ust. 3 pkt 1",
+      "content": "Rzecznik nie może: zajmować innego stanowiska, z wyjątkiem stanowiska profesora szkoły wyższej ani wykonywać innych zajęć zawodowych;"
+    },
+    {
+      "provision_ref": "art7u3p2",
+      "section": "7",
+      "title": "Art. 7 ust. 3 pkt 2",
+      "content": "Rzecznik nie może: należeć do partii politycznej;"
+    },
+    {
+      "provision_ref": "art7u3p3",
+      "section": "7",
+      "title": "Art. 7 ust. 3 pkt 3",
+      "content": "Rzecznik nie może: prowadzić działalności publicznej niedającej się pogodzić z obowiązkami i godnością jego urzędu."
+    },
+    {
+      "provision_ref": "art7u4",
+      "section": "7",
+      "title": "Art. 7 ust. 4",
+      "content": "Po zaprzestaniu wykonywania obowiązków Rzecznik ma prawo powrócić na stanowisko zajmowane poprzednio lub otrzymać stanowisko równorzędne z poprzednio zajmowanym."
+    },
+    {
+      "provision_ref": "art7u5",
+      "section": "7",
+      "title": "Art. 7 ust. 5",
+      "content": "W przypadku, o którym mowa w ust. 4, rozwiązanie przez pracodawcę stosunku pracy, z wyjątkiem stosunku pracy na podstawie wyboru, oraz zmiana warunków pracy lub płacy w ciągu dwóch lat po zaprzestaniu wykonywania obowiązków Rzecznika może nastąpić tylko za zgodą Prezydium Sejmu."
+    },
+    {
+      "provision_ref": "art7a",
+      "section": "7a",
+      "title": "Art. 7a",
+      "content": "Przedawnienie w postępowaniu karnym czynu objętego immunitetem nie biegnie w okresie korzystania z immunitetu."
+    },
+    {
+      "provision_ref": "art7b",
+      "section": "7b",
+      "title": "Art. 7b",
+      "content": "Wniosek o wyrażenie zgody na pociągnięcie Rzecznika do odpowiedzialności karnej w sprawie o przestępstwo ścigane z oskarżenia publicznego składa się za pośrednictwem Prokuratora Generalnego. Wniosek o wyrażenie zgody na pociągnięcie Rzecznika do odpowiedzialności karnej w sprawie o przestępstwo ścigane z oskarżenia prywatnego składa oskarżyciel prywatny, po wniesieniu sprawy do sądu. Wniosek, o którym mowa w ust. 2, sporządza i podpisuje adwokat lub radca prawny, z wyjątkiem wniosków składanych w swoich sprawach przez sędziów, prokuratorów, adwokatów, radców prawnych, notariuszy oraz profesorów i doktorów habilitowanych nauk prawnych. Wnioski, o których mowa w ust. 1 i 2, powinny zawierać: oznaczenie wnioskodawcy oraz pełnomocnika, o ile został ustanowiony; imię i nazwisko oraz datę i miejsce urodzenia Rzecznika; wskazanie podstawy prawnej wniosku; dokładne określenie czynu, którego dotyczy wniosek, ze wskazaniem czasu, miejsca, sposobu i okoliczności jego popełnienia oraz jego skutków, a zwłaszcza charakteru powstałej szkody; uzasadnienie."
+    },
+    {
+      "provision_ref": "art7bu1",
+      "section": "7b",
+      "title": "Art. 7b ust. 1",
+      "content": "Wniosek o wyrażenie zgody na pociągnięcie Rzecznika do odpowiedzialności karnej w sprawie o przestępstwo ścigane z oskarżenia publicznego składa się za pośrednictwem Prokuratora Generalnego."
+    },
+    {
+      "provision_ref": "art7bu2",
+      "section": "7b",
+      "title": "Art. 7b ust. 2",
+      "content": "Wniosek o wyrażenie zgody na pociągnięcie Rzecznika do odpowiedzialności karnej w sprawie o przestępstwo ścigane z oskarżenia prywatnego składa oskarżyciel prywatny, po wniesieniu sprawy do sądu."
+    },
+    {
+      "provision_ref": "art7bu3",
+      "section": "7b",
+      "title": "Art. 7b ust. 3",
+      "content": "Wniosek, o którym mowa w ust. 2, sporządza i podpisuje adwokat lub radca prawny, z wyjątkiem wniosków składanych w swoich sprawach przez sędziów, prokuratorów, adwokatów, radców prawnych, notariuszy oraz profesorów i doktorów habilitowanych nauk prawnych."
+    },
+    {
+      "provision_ref": "art7bu4p1",
+      "section": "7b",
+      "title": "Art. 7b ust. 4 pkt 1",
+      "content": "Wnioski, o których mowa w ust. 1 i 2, powinny zawierać: oznaczenie wnioskodawcy oraz pełnomocnika, o ile został ustanowiony;"
+    },
+    {
+      "provision_ref": "art7bu4p2",
+      "section": "7b",
+      "title": "Art. 7b ust. 4 pkt 2",
+      "content": "Wnioski, o których mowa w ust. 1 i 2, powinny zawierać: imię i nazwisko oraz datę i miejsce urodzenia Rzecznika;"
+    },
+    {
+      "provision_ref": "art7bu4p3",
+      "section": "7b",
+      "title": "Art. 7b ust. 4 pkt 3",
+      "content": "Wnioski, o których mowa w ust. 1 i 2, powinny zawierać: wskazanie podstawy prawnej wniosku;"
+    },
+    {
+      "provision_ref": "art7bu4p4",
+      "section": "7b",
+      "title": "Art. 7b ust. 4 pkt 4",
+      "content": "Wnioski, o których mowa w ust. 1 i 2, powinny zawierać: dokładne określenie czynu, którego dotyczy wniosek, ze wskazaniem czasu, miejsca, sposobu i okoliczności jego popełnienia oraz jego skutków, a zwłaszcza charakteru powstałej szkody;"
+    },
+    {
+      "provision_ref": "art7bu4p5",
+      "section": "7b",
+      "title": "Art. 7b ust. 4 pkt 5",
+      "content": "Wnioski, o których mowa w ust. 1 i 2, powinny zawierać: uzasadnienie."
+    },
+    {
+      "provision_ref": "art7c",
+      "section": "7c",
+      "title": "Art. 7c",
+      "content": "Wniosek o wyrażenie zgody na pociągnięcie Rzecznika do odpowiedzialności karnej składa się Marszałkowi Sejmu. Jeżeli wniosek nie spełnia wymogów formalnych, o których mowa w art. 7b ust. 3 lub 4, Marszałek Sejmu wzywa wnioskodawcę do poprawienia lub uzupełnienia wniosku w terminie 14 dni, wskazując niezbędny zakres poprawienia lub uzupełnienia. W przypadku niepoprawienia lub nieuzupełnienia wniosku we wskazanym terminie i zakresie Marszałek Sejmu postanawia o pozostawieniu wniosku bez biegu. Jeżeli wniosek spełnia wymogi formalne, o których mowa w art. 7b ust. 3 i 4, Marszałek Sejmu kieruje go do organu właściwego na podstawie regulaminu Sejmu do rozpatrzenia wniosku, zawiadamiając jednocześnie Rzecznika o treści wniosku. Organ właściwy do rozpatrzenia wniosku powiadamia Rzecznika o terminie rozpatrzenia wniosku. Pomiędzy doręczeniem powiadomienia a terminem rozpatrzenia wniosku, o ile nie zachodzi wypadek niecierpiący zwłoki, powinno upłynąć co najmniej 7 dni. Na żądanie organu właściwego do rozpatrzenia wniosku sąd albo odpowiedni organ, przed którym toczy się postępowanie wobec Rzecznika, udostępnia akta postępowania. Rzecznik przedstawia organowi właściwemu do rozpatrzenia wniosku wyjaśnienia i własne wnioski w tej sprawie w formie pisemnej lub ustnej. Po rozpatrzeniu sprawy, organ właściwy do rozpatrzenia wniosku uchwala sprawozdanie wraz z propozycją przyjęcia lub odrzucenia wniosku. W trakcie rozpatrywania przez Sejm sprawozdania, o którym mowa w ust. 7, Rzecznikowi przysługuje prawo do zabrania głosu. Sejm wyraża zgodę na pociągnięcie Rzecznika do odpowiedzialności karnej w drodze uchwały podjętej bezwzględną większością ustawowej liczby posłów. Nieuzyskanie wymaganej większości głosów oznacza podjęcie uchwały o niewyrażeniu zgody na pociągnięcie Rzecznika do odpowiedzialności karnej."
+    },
+    {
+      "provision_ref": "art7cu1",
+      "section": "7c",
+      "title": "Art. 7c ust. 1",
+      "content": "Wniosek o wyrażenie zgody na pociągnięcie Rzecznika do odpowiedzialności karnej składa się Marszałkowi Sejmu."
+    },
+    {
+      "provision_ref": "art7cu2",
+      "section": "7c",
+      "title": "Art. 7c ust. 2",
+      "content": "Jeżeli wniosek nie spełnia wymogów formalnych, o których mowa w art. 7b ust. 3 lub 4, Marszałek Sejmu wzywa wnioskodawcę do poprawienia lub uzupełnienia wniosku w terminie 14 dni, wskazując niezbędny zakres poprawienia lub uzupełnienia. W przypadku niepoprawienia lub nieuzupełnienia wniosku we wskazanym terminie i zakresie Marszałek Sejmu postanawia o pozostawieniu wniosku bez biegu."
+    },
+    {
+      "provision_ref": "art7cu3",
+      "section": "7c",
+      "title": "Art. 7c ust. 3",
+      "content": "Jeżeli wniosek spełnia wymogi formalne, o których mowa w art. 7b ust. 3 i 4, Marszałek Sejmu kieruje go do organu właściwego na podstawie regulaminu Sejmu do rozpatrzenia wniosku, zawiadamiając jednocześnie Rzecznika o treści wniosku."
+    },
+    {
+      "provision_ref": "art7cu4",
+      "section": "7c",
+      "title": "Art. 7c ust. 4",
+      "content": "Organ właściwy do rozpatrzenia wniosku powiadamia Rzecznika o terminie rozpatrzenia wniosku. Pomiędzy doręczeniem powiadomienia a terminem rozpatrzenia wniosku, o ile nie zachodzi wypadek niecierpiący zwłoki, powinno upłynąć co najmniej 7 dni."
+    },
+    {
+      "provision_ref": "art7cu5",
+      "section": "7c",
+      "title": "Art. 7c ust. 5",
+      "content": "Na żądanie organu właściwego do rozpatrzenia wniosku sąd albo odpowiedni organ, przed którym toczy się postępowanie wobec Rzecznika, udostępnia akta postępowania."
+    },
+    {
+      "provision_ref": "art7cu6",
+      "section": "7c",
+      "title": "Art. 7c ust. 6",
+      "content": "Rzecznik przedstawia organowi właściwemu do rozpatrzenia wniosku wyjaśnienia i własne wnioski w tej sprawie w formie pisemnej lub ustnej."
+    },
+    {
+      "provision_ref": "art7cu7",
+      "section": "7c",
+      "title": "Art. 7c ust. 7",
+      "content": "Po rozpatrzeniu sprawy, organ właściwy do rozpatrzenia wniosku uchwala sprawozdanie wraz z propozycją przyjęcia lub odrzucenia wniosku."
+    },
+    {
+      "provision_ref": "art7cu8",
+      "section": "7c",
+      "title": "Art. 7c ust. 8",
+      "content": "W trakcie rozpatrywania przez Sejm sprawozdania, o którym mowa w ust. 7, Rzecznikowi przysługuje prawo do zabrania głosu."
+    },
+    {
+      "provision_ref": "art7cu9",
+      "section": "7c",
+      "title": "Art. 7c ust. 9",
+      "content": "Sejm wyraża zgodę na pociągnięcie Rzecznika do odpowiedzialności karnej w drodze uchwały podjętej bezwzględną większością ustawowej liczby posłów. Nieuzyskanie wymaganej większości głosów oznacza podjęcie uchwały o niewyrażeniu zgody na pociągnięcie Rzecznika do odpowiedzialności karnej."
+    },
+    {
+      "provision_ref": "art7d",
+      "section": "7d",
+      "title": "Art. 7d",
+      "content": "Zakaz zatrzymania, o którym mowa w art. 7 ust. 2c, obejmuje wszelkie formy pozbawienia lub ograniczenia wolności osobistej Rzecznika przez organy stosujące przymus. Wniosek o wyrażenie zgody na zatrzymanie lub aresztowanie Rzecznika składa się za pośrednictwem Prokuratora Generalnego. Wniosek, o którym mowa w ust. 2, powinien zawierać: oznaczenie wnioskodawcy; imię i nazwisko oraz datę i miejsce urodzenia Rzecznika; dokładne określenie czynu oraz jego kwalifikację prawną; podstawę prawną zastosowania określonego środka; uzasadnienie, wskazujące w szczególności na konieczność zastosowania określonego środka. Do postępowania z wnioskiem o wyrażenie zgody na zatrzymanie lub aresztowanie Rzecznika przepisy art. 7c ust. 1-8 stosuje się odpowiednio. Sejm wyraża zgodę na zatrzymanie lub aresztowanie Rzecznika w drodze uchwały podjętej bezwzględną większością ustawowej liczby posłów. Nieuzyskanie wymaganej większości głosów oznacza podjęcie uchwały o niewyrażeniu zgody na zatrzymanie lub aresztowanie Rzecznika. Wymóg uzyskania zgody Sejmu nie dotyczy wykonania kary pozbawienia wolności orzeczonej prawomocnym wyrokiem sądu."
+    },
+    {
+      "provision_ref": "art7du1",
+      "section": "7d",
+      "title": "Art. 7d ust. 1",
+      "content": "Zakaz zatrzymania, o którym mowa w art. 7 ust. 2c, obejmuje wszelkie formy pozbawienia lub ograniczenia wolności osobistej Rzecznika przez organy stosujące przymus."
+    },
+    {
+      "provision_ref": "art7du2",
+      "section": "7d",
+      "title": "Art. 7d ust. 2",
+      "content": "Wniosek o wyrażenie zgody na zatrzymanie lub aresztowanie Rzecznika składa się za pośrednictwem Prokuratora Generalnego."
+    },
+    {
+      "provision_ref": "art7du3p1",
+      "section": "7d",
+      "title": "Art. 7d ust. 3 pkt 1",
+      "content": "Wniosek, o którym mowa w ust. 2, powinien zawierać: oznaczenie wnioskodawcy;"
+    },
+    {
+      "provision_ref": "art7du3p2",
+      "section": "7d",
+      "title": "Art. 7d ust. 3 pkt 2",
+      "content": "Wniosek, o którym mowa w ust. 2, powinien zawierać: imię i nazwisko oraz datę i miejsce urodzenia Rzecznika;"
+    },
+    {
+      "provision_ref": "art7du3p3",
+      "section": "7d",
+      "title": "Art. 7d ust. 3 pkt 3",
+      "content": "Wniosek, o którym mowa w ust. 2, powinien zawierać: dokładne określenie czynu oraz jego kwalifikację prawną;"
+    },
+    {
+      "provision_ref": "art7du3p4",
+      "section": "7d",
+      "title": "Art. 7d ust. 3 pkt 4",
+      "content": "Wniosek, o którym mowa w ust. 2, powinien zawierać: podstawę prawną zastosowania określonego środka;"
+    },
+    {
+      "provision_ref": "art7du3p5",
+      "section": "7d",
+      "title": "Art. 7d ust. 3 pkt 5",
+      "content": "Wniosek, o którym mowa w ust. 2, powinien zawierać: uzasadnienie, wskazujące w szczególności na konieczność zastosowania określonego środka."
+    },
+    {
+      "provision_ref": "art7du4",
+      "section": "7d",
+      "title": "Art. 7d ust. 4",
+      "content": "Do postępowania z wnioskiem o wyrażenie zgody na zatrzymanie lub aresztowanie Rzecznika przepisy art. 7c ust. 1-8 stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "art7du5",
+      "section": "7d",
+      "title": "Art. 7d ust. 5",
+      "content": "Sejm wyraża zgodę na zatrzymanie lub aresztowanie Rzecznika w drodze uchwały podjętej bezwzględną większością ustawowej liczby posłów. Nieuzyskanie wymaganej większości głosów oznacza podjęcie uchwały o niewyrażeniu zgody na zatrzymanie lub aresztowanie Rzecznika."
+    },
+    {
+      "provision_ref": "art7du6",
+      "section": "7d",
+      "title": "Art. 7d ust. 6",
+      "content": "Wymóg uzyskania zgody Sejmu nie dotyczy wykonania kary pozbawienia wolności orzeczonej prawomocnym wyrokiem sądu."
+    },
+    {
+      "provision_ref": "art7e",
+      "section": "7e",
+      "title": "Art. 7e",
+      "content": "Marszałek Sejmu przesyła wnioskodawcy niezwłocznie uchwałę, o której mowa w art. 7c ust. 9 i art. 7d ust. 5. Uchwały, o których mowa w ust. 1, podlegają ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”."
+    },
+    {
+      "provision_ref": "art7eu1",
+      "section": "7e",
+      "title": "Art. 7e ust. 1",
+      "content": "Marszałek Sejmu przesyła wnioskodawcy niezwłocznie uchwałę, o której mowa w art. 7c ust. 9 i art. 7d ust. 5."
+    },
+    {
+      "provision_ref": "art7eu2",
+      "section": "7e",
+      "title": "Art. 7e ust. 2",
+      "content": "Uchwały, o których mowa w ust. 1, podlegają ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”."
+    },
+    {
+      "provision_ref": "art7f",
+      "section": "7f",
+      "title": "Art. 7f",
+      "content": "Przepisy ustawy dotyczące odpowiedzialności karnej Rzecznika stosuje się odpowiednio do odpowiedzialności za wykroczenia."
+    },
+    {
+      "provision_ref": "art7g",
+      "section": "7g",
+      "title": "Art. 7g",
+      "content": "Szczegółowy tryb postępowania w sprawach, o których mowa w art. 7a-7f, określa regulamin Sejmu."
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Art. 8",
-      "content": "1. Sejm, za zgodą Senatu, odwołuje Rzecznika przed upływem kadencji, jeżeli: 1) zrzekł się on sprawowania urzędu, 2) stał się trwale niezdolny do pełnienia obowiązków na skutek choroby lub utraty sił, stwierdzonych orzeczeniem lekarskim, 3) sprzeniewierzył się złożonemu ślubowaniu. 2. Sejm podejmuje uchwałę w sprawie odwołania Rzecznika na wniosek Marszałka Sejmu, Marszałka Senatu, grupy co najmniej 35 posłów lub co najmniej 15 senatorów. 3. Uchwałę Sejmu o odwołaniu Rzecznika Marszałek Sejmu przesyła niezwłocznie Marszałkowi Senatu. 4. Senat podejmuje uchwałę w sprawie wyrażenia zgody na odwołanie Rzecznika w ciągu miesiąca od dnia otrzymania uchwały Sejmu, o której mowa w ust. 3. Niepodjęcie uchwały przez Senat w ciągu miesiąca oznacza wyrażenie zgody."
+      "content": "Sejm, za zgodą Senatu, odwołuje Rzecznika przed upływem kadencji, jeżeli: zrzekł się on sprawowania urzędu; stał się trwale niezdolny do pełnienia obowiązków na skutek choroby lub utraty sił, stwierdzonych orzeczeniem lekarskim; sprzeniewierzył się złożonemu ślubowaniu; został skazany prawomocnym wyrokiem za przestępstwo umyślne. Sejm podejmuje uchwałę w sprawie odwołania Rzecznika na wniosek Marszałka Sejmu, Marszałka Senatu, grupy co najmniej 35 posłów lub co najmniej 15 senatorów. Uchwałę Sejmu o odwołaniu Rzecznika Marszałek Sejmu przesyła niezwłocznie Marszałkowi Senatu. Senat podejmuje uchwałę w sprawie wyrażenia zgody na odwołanie Rzecznika w ciągu miesiąca od dnia otrzymania uchwały Sejmu, o której mowa w ust. 3. Niepodjęcie uchwały przez Senat w ciągu miesiąca oznacza wyrażenie zgody."
+    },
+    {
+      "provision_ref": "art8u1p1",
+      "section": "8",
+      "title": "Art. 8 ust. 1 pkt 1",
+      "content": "Sejm, za zgodą Senatu, odwołuje Rzecznika przed upływem kadencji, jeżeli: zrzekł się on sprawowania urzędu;"
+    },
+    {
+      "provision_ref": "art8u1p2",
+      "section": "8",
+      "title": "Art. 8 ust. 1 pkt 2",
+      "content": "Sejm, za zgodą Senatu, odwołuje Rzecznika przed upływem kadencji, jeżeli: stał się trwale niezdolny do pełnienia obowiązków na skutek choroby lub utraty sił, stwierdzonych orzeczeniem lekarskim;"
+    },
+    {
+      "provision_ref": "art8u1p3",
+      "section": "8",
+      "title": "Art. 8 ust. 1 pkt 3",
+      "content": "Sejm, za zgodą Senatu, odwołuje Rzecznika przed upływem kadencji, jeżeli: sprzeniewierzył się złożonemu ślubowaniu;"
+    },
+    {
+      "provision_ref": "art8u1p4",
+      "section": "8",
+      "title": "Art. 8 ust. 1 pkt 4",
+      "content": "Sejm, za zgodą Senatu, odwołuje Rzecznika przed upływem kadencji, jeżeli: został skazany prawomocnym wyrokiem za przestępstwo umyślne."
+    },
+    {
+      "provision_ref": "art8u2",
+      "section": "8",
+      "title": "Art. 8 ust. 2",
+      "content": "Sejm podejmuje uchwałę w sprawie odwołania Rzecznika na wniosek Marszałka Sejmu, Marszałka Senatu, grupy co najmniej 35 posłów lub co najmniej 15 senatorów."
+    },
+    {
+      "provision_ref": "art8u3",
+      "section": "8",
+      "title": "Art. 8 ust. 3",
+      "content": "Uchwałę Sejmu o odwołaniu Rzecznika Marszałek Sejmu przesyła niezwłocznie Marszałkowi Senatu."
+    },
+    {
+      "provision_ref": "art8u4",
+      "section": "8",
+      "title": "Art. 8 ust. 4",
+      "content": "Senat podejmuje uchwałę w sprawie wyrażenia zgody na odwołanie Rzecznika w ciągu miesiąca od dnia otrzymania uchwały Sejmu, o której mowa w ust. 3. Niepodjęcie uchwały przez Senat w ciągu miesiąca oznacza wyrażenie zgody."
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Art. 9",
-      "content": "Rzecznik podejmuje działania przewidziane w ustawie z własnej inicjatywy, biorąc pod uwagę w szczególności informacje wskazujące na naruszenie praw lub dobra dziecka."
+      "content": "Rzecznik podejmuje działania przewidziane w ustawie z własnej inicjatywy, biorąc pod uwagę w szczególności informacje pochodzące od obywateli lub ich organizacji, wskazujące na naruszanie praw lub dobra dziecka. Rzecznik powiadamia osobę lub organizację, która zgłosiła informację o naruszeniu praw lub dobra dziecka, o zajętym przez siebie stanowisku, a w przypadku podjęcia działania - o jego skutkach."
+    },
+    {
+      "provision_ref": "art9u1",
+      "section": "9",
+      "title": "Art. 9 ust. 1",
+      "content": "Rzecznik podejmuje działania przewidziane w ustawie z własnej inicjatywy, biorąc pod uwagę w szczególności informacje pochodzące od obywateli lub ich organizacji, wskazujące na naruszanie praw lub dobra dziecka."
+    },
+    {
+      "provision_ref": "art9u2",
+      "section": "9",
+      "title": "Art. 9 ust. 2",
+      "content": "Rzecznik powiadamia osobę lub organizację, która zgłosiła informację o naruszeniu praw lub dobra dziecka, o zajętym przez siebie stanowisku, a w przypadku podjęcia działania - o jego skutkach."
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Art. 10",
-      "content": "1. Rzecznik może: 1) zwrócić się do organów władzy publicznej, organizacji lub instytucji o złożenie wyjaśnień i udzielenie niezbędnych informacji, a także o udostępnienie akt i dokumentów, w tym zawierających dane osobowe, 2) zwrócić się do właściwych organów, w tym Rzecznika Praw Obywatelskich, organizacji lub instytucji o podjęcie na rzecz dziecka działań z zakresu ich kompetencji. 2. Rzecznik Praw Obywatelskich podejmuje sprawy skierowane przez Rzecznika Praw Dziecka."
+      "content": "Rzecznik może: zbadać, nawet bez uprzedzenia, każdą sprawę na miejscu; żądać od organów władzy publicznej, organizacji lub instytucji złożenia wyjaśnień, udzielenia informacji lub udostępnienia akt i dokumentów, w tym zawierających dane osobowe, także do wglądu w Biurze Rzecznika Praw Dziecka; zgłosić udział w postępowaniach przed Trybunałem Konstytucyjnym wszczętych na podstawie wniosku Rzecznika Praw Obywatelskich lub w sprawach skargi konstytucyjnej, dotyczących praw dziecka oraz brać udział w tych postępowaniach; występować do Sądu Najwyższego z wnioskami w sprawie rozstrzygnięcia rozbieżności wykładni prawa w zakresie przepisów prawnych dotyczących praw dziecka; wnieść kasację albo skargę kasacyjną od prawomocnego orzeczenia, w trybie i na zasadach określonych w odrębnych przepisach; żądać wszczęcia postępowania w sprawach cywilnych oraz wziąć udział w toczącym się już postępowaniu - na prawach przysługujących prokuratorowi; wziąć udział w toczącym się już postępowaniu w sprawach nieletnich - na prawach przysługujących prokuratorowi; żądać wszczęcia przez uprawnionego oskarżyciela postępowania przygotowawczego w sprawach o przestępstwa; zwrócić się o wszczęcie postępowania administracyjnego, wnosić skargi do sądu administracyjnego, a także uczestniczyć w tych postępowaniach - na prawach przysługujących prokuratorowi; wystąpić z wnioskiem o ukaranie w postępowaniu w sprawach o wykroczenia, w trybie i na zasadach określonych w odrębnych przepisach; zlecać przeprowadzanie badań oraz sporządzanie ekspertyz i opinii. Rzecznik, kierując się dobrem dziecka oraz przesłankami wskazującymi na brak możliwości zapewnienia dzieciom rodzinnej pieczy zastępczej, wydaje opinię, o której mowa w art. 106 ust. 4 pkt 2 lit. j ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej . Rzecznik może odmówić ujawnienia danych osobowych osoby, od której uzyskał informację wskazującą na naruszenie praw lub dobra dziecka, oraz osoby, której naruszenie dotyczy, a także dokumentacji zgromadzonej w toku badania sprawy, w tym także wobec organów władzy publicznej, jeżeli uzna to za niezbędne dla ochrony wolności, praw i interesów jednostki."
+    },
+    {
+      "provision_ref": "art10u1p1",
+      "section": "10",
+      "title": "Art. 10 ust. 1 pkt 1",
+      "content": "Rzecznik może: zbadać, nawet bez uprzedzenia, każdą sprawę na miejscu;"
+    },
+    {
+      "provision_ref": "art10u1p2",
+      "section": "10",
+      "title": "Art. 10 ust. 1 pkt 2",
+      "content": "Rzecznik może: żądać od organów władzy publicznej, organizacji lub instytucji złożenia wyjaśnień, udzielenia informacji lub udostępnienia akt i dokumentów, w tym zawierających dane osobowe, także do wglądu w Biurze Rzecznika Praw Dziecka;"
+    },
+    {
+      "provision_ref": "art10u1p2a",
+      "section": "10",
+      "title": "Art. 10 ust. 1 pkt 2a",
+      "content": "Rzecznik może: zgłosić udział w postępowaniach przed Trybunałem Konstytucyjnym wszczętych na podstawie wniosku Rzecznika Praw Obywatelskich lub w sprawach skargi konstytucyjnej, dotyczących praw dziecka oraz brać udział w tych postępowaniach;"
+    },
+    {
+      "provision_ref": "art10u1p2b",
+      "section": "10",
+      "title": "Art. 10 ust. 1 pkt 2b",
+      "content": "Rzecznik może: występować do Sądu Najwyższego z wnioskami w sprawie rozstrzygnięcia rozbieżności wykładni prawa w zakresie przepisów prawnych dotyczących praw dziecka;"
+    },
+    {
+      "provision_ref": "art10u1p2c",
+      "section": "10",
+      "title": "Art. 10 ust. 1 pkt 2c",
+      "content": "Rzecznik może: wnieść kasację albo skargę kasacyjną od prawomocnego orzeczenia, w trybie i na zasadach określonych w odrębnych przepisach;"
+    },
+    {
+      "provision_ref": "art10u1p3",
+      "section": "10",
+      "title": "Art. 10 ust. 1 pkt 3",
+      "content": "Rzecznik może: żądać wszczęcia postępowania w sprawach cywilnych oraz wziąć udział w toczącym się już postępowaniu - na prawach przysługujących prokuratorowi;"
+    },
+    {
+      "provision_ref": "art10u1p3a",
+      "section": "10",
+      "title": "Art. 10 ust. 1 pkt 3a",
+      "content": "Rzecznik może: wziąć udział w toczącym się już postępowaniu w sprawach nieletnich - na prawach przysługujących prokuratorowi;"
+    },
+    {
+      "provision_ref": "art10u1p4",
+      "section": "10",
+      "title": "Art. 10 ust. 1 pkt 4",
+      "content": "Rzecznik może: żądać wszczęcia przez uprawnionego oskarżyciela postępowania przygotowawczego w sprawach o przestępstwa;"
+    },
+    {
+      "provision_ref": "art10u1p5",
+      "section": "10",
+      "title": "Art. 10 ust. 1 pkt 5",
+      "content": "Rzecznik może: zwrócić się o wszczęcie postępowania administracyjnego, wnosić skargi do sądu administracyjnego, a także uczestniczyć w tych postępowaniach - na prawach przysługujących prokuratorowi;"
+    },
+    {
+      "provision_ref": "art10u1p6",
+      "section": "10",
+      "title": "Art. 10 ust. 1 pkt 6",
+      "content": "Rzecznik może: wystąpić z wnioskiem o ukaranie w postępowaniu w sprawach o wykroczenia, w trybie i na zasadach określonych w odrębnych przepisach;"
+    },
+    {
+      "provision_ref": "art10u1p7",
+      "section": "10",
+      "title": "Art. 10 ust. 1 pkt 7",
+      "content": "Rzecznik może: zlecać przeprowadzanie badań oraz sporządzanie ekspertyz i opinii."
+    },
+    {
+      "provision_ref": "art10u1a",
+      "section": "10",
+      "title": "Art. 10 ust. 1a",
+      "content": "Rzecznik, kierując się dobrem dziecka oraz przesłankami wskazującymi na brak możliwości zapewnienia dzieciom rodzinnej pieczy zastępczej, wydaje opinię, o której mowa w art. 106 ust. 4 pkt 2 lit. j ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej ."
+    },
+    {
+      "provision_ref": "art10u2",
+      "section": "10",
+      "title": "Art. 10 ust. 2",
+      "content": "Rzecznik może odmówić ujawnienia danych osobowych osoby, od której uzyskał informację wskazującą na naruszenie praw lub dobra dziecka, oraz osoby, której naruszenie dotyczy, a także dokumentacji zgromadzonej w toku badania sprawy, w tym także wobec organów władzy publicznej, jeżeli uzna to za niezbędne dla ochrony wolności, praw i interesów jednostki."
+    },
+    {
+      "provision_ref": "art10a",
+      "section": "10a",
+      "title": "Art. 10a",
+      "content": "Rzecznik może również zwracać się do właściwych organów, organizacji lub instytucji o podjęcie działań na rzecz dziecka z zakresu ich kompetencji. Organy, organizacje i instytucje, o których mowa w ust. 1, podejmują sprawy skierowane przez Rzecznika. Organ, organizacja lub instytucja, do których Rzecznik zwrócił się o podjęcie działań na rzecz dziecka, są obowiązane niezwłocznie, nie później jednak niż w terminie 30 dni, poinformować Rzecznika o podjętych działaniach lub zajętym stanowisku. W przypadku gdy organ, organizacja lub instytucja, o których mowa w ust. 1, nie poinformują Rzecznika o podjętych działaniach lub zajętym stanowisku albo gdy Rzecznik nie podziela ich stanowiska, może zwrócić się do właściwej jednostki nadrzędnej o podjęcie odpowiednich działań. W przypadku gdy Rzecznik stwierdził w działalności organu, organizacji lub instytucji, o których mowa w ust. 1, naruszenie praw lub dobra dziecka, może żądać wszczęcia postępowania dyscyplinarnego lub zastosowania sankcji służbowych."
+    },
+    {
+      "provision_ref": "art10au1",
+      "section": "10a",
+      "title": "Art. 10a ust. 1",
+      "content": "Rzecznik może również zwracać się do właściwych organów, organizacji lub instytucji o podjęcie działań na rzecz dziecka z zakresu ich kompetencji."
+    },
+    {
+      "provision_ref": "art10au2",
+      "section": "10a",
+      "title": "Art. 10a ust. 2",
+      "content": "Organy, organizacje i instytucje, o których mowa w ust. 1, podejmują sprawy skierowane przez Rzecznika."
+    },
+    {
+      "provision_ref": "art10au3",
+      "section": "10a",
+      "title": "Art. 10a ust. 3",
+      "content": "Organ, organizacja lub instytucja, do których Rzecznik zwrócił się o podjęcie działań na rzecz dziecka, są obowiązane niezwłocznie, nie później jednak niż w terminie 30 dni, poinformować Rzecznika o podjętych działaniach lub zajętym stanowisku."
+    },
+    {
+      "provision_ref": "art10au4",
+      "section": "10a",
+      "title": "Art. 10a ust. 4",
+      "content": "W przypadku gdy organ, organizacja lub instytucja, o których mowa w ust. 1, nie poinformują Rzecznika o podjętych działaniach lub zajętym stanowisku albo gdy Rzecznik nie podziela ich stanowiska, może zwrócić się do właściwej jednostki nadrzędnej o podjęcie odpowiednich działań."
+    },
+    {
+      "provision_ref": "art10au5",
+      "section": "10a",
+      "title": "Art. 10a ust. 5",
+      "content": "W przypadku gdy Rzecznik stwierdził w działalności organu, organizacji lub instytucji, o których mowa w ust. 1, naruszenie praw lub dobra dziecka, może żądać wszczęcia postępowania dyscyplinarnego lub zastosowania sankcji służbowych."
+    },
+    {
+      "provision_ref": "art10b",
+      "section": "10b",
+      "title": "Art. 10b",
+      "content": "Organ, organizacja lub instytucja, do których zwróci się Rzecznik, są obowiązane z nim współdziałać i udzielać mu pomocy, a w szczególności: zapewnić dostęp do akt i dokumentów badanej sprawy; udzielać Rzecznikowi żądanych przez niego informacji i wyjaśnień; udzielać wyjaśnień dotyczących podstawy faktycznej i prawnej swoich rozstrzygnięć."
+    },
+    {
+      "provision_ref": "art10bp1",
+      "section": "10b",
+      "title": "Art. 10b pkt 1",
+      "content": "Organ, organizacja lub instytucja, do których zwróci się Rzecznik, są obowiązane z nim współdziałać i udzielać mu pomocy, a w szczególności: zapewnić dostęp do akt i dokumentów badanej sprawy;"
+    },
+    {
+      "provision_ref": "art10bp2",
+      "section": "10b",
+      "title": "Art. 10b pkt 2",
+      "content": "Organ, organizacja lub instytucja, do których zwróci się Rzecznik, są obowiązane z nim współdziałać i udzielać mu pomocy, a w szczególności: udzielać Rzecznikowi żądanych przez niego informacji i wyjaśnień;"
+    },
+    {
+      "provision_ref": "art10bp3",
+      "section": "10b",
+      "title": "Art. 10b pkt 3",
+      "content": "Organ, organizacja lub instytucja, do których zwróci się Rzecznik, są obowiązane z nim współdziałać i udzielać mu pomocy, a w szczególności: udzielać wyjaśnień dotyczących podstawy faktycznej i prawnej swoich rozstrzygnięć."
+    },
+    {
+      "provision_ref": "art10c",
+      "section": "10c",
+      "title": "Art. 10c",
+      "content": "Rzecznik może przetwarzać wszelkie informacje, w tym dane osobowe, niezbędne do realizacji swoich ustawowych zadań. Rzecznik może przetwarzać dane osobowe, o których mowa w art. 9 ust. 1 i art. 10 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 127 z 23.05.2018, str. 2. , wyłącznie w celu ochrony wolności i praw człowieka i obywatela przy realizacji swoich ustawowych zadań. Rzecznik dopuszcza do przetwarzania danych osobowych osoby posiadające pisemne upoważnienie. Warunkiem udzielenia upoważnienia jest pisemne zobowiązanie się osoby upoważnianej do zachowania przetwarzanych danych osobowych w poufności."
+    },
+    {
+      "provision_ref": "art10cu1",
+      "section": "10c",
+      "title": "Art. 10c ust. 1",
+      "content": "Rzecznik może przetwarzać wszelkie informacje, w tym dane osobowe, niezbędne do realizacji swoich ustawowych zadań."
+    },
+    {
+      "provision_ref": "art10cu2",
+      "section": "10c",
+      "title": "Art. 10c ust. 2",
+      "content": "Rzecznik może przetwarzać dane osobowe, o których mowa w art. 9 ust. 1 i art. 10 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 127 z 23.05.2018, str. 2. , wyłącznie w celu ochrony wolności i praw człowieka i obywatela przy realizacji swoich ustawowych zadań."
+    },
+    {
+      "provision_ref": "art10cu3",
+      "section": "10c",
+      "title": "Art. 10c ust. 3",
+      "content": "Rzecznik dopuszcza do przetwarzania danych osobowych osoby posiadające pisemne upoważnienie. Warunkiem udzielenia upoważnienia jest pisemne zobowiązanie się osoby upoważnianej do zachowania przetwarzanych danych osobowych w poufności."
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Art. 11",
-      "content": "1. Rzecznik przedstawia właściwym organom władzy publicznej, organizacjom i instytucjom oceny i wnioski zmierzające do zapewnienia skutecznej ochrony praw i dobra dziecka oraz usprawnienia trybu załatwiania spraw w tym zakresie. 2. Rzecznik może również występować do właściwych organów z wnioskami o podjęcie inicjatywy ustawodawczej bądź o wydanie lub zmianę innych aktów prawnych. 3. Organy, instytucje i organizacje, do których Rzecznik zwrócił się z wnioskami określonymi w ust. 1 i 2, są obowiązane ustosunkować się do tych wniosków w terminie 30 dni od daty ich otrzymania."
+      "content": "Rzecznik przedstawia właściwym organom władzy publicznej, organizacjom i instytucjom oceny i wnioski zmierzające do zapewnienia skutecznej ochrony praw i dobra dziecka oraz usprawnienia trybu załatwiania spraw w tym zakresie. Rzecznik może również występować do właściwych organów z wnioskami o podjęcie inicjatywy ustawodawczej bądź o wydanie lub zmianę innych aktów prawnych. Organy, instytucje i organizacje, do których Rzecznik zwrócił się z wnioskami określonymi w ust. 1 i 2, są obowiązane ustosunkować się do tych wniosków w terminie 30 dni od daty ich otrzymania."
+    },
+    {
+      "provision_ref": "art11u1",
+      "section": "11",
+      "title": "Art. 11 ust. 1",
+      "content": "Rzecznik przedstawia właściwym organom władzy publicznej, organizacjom i instytucjom oceny i wnioski zmierzające do zapewnienia skutecznej ochrony praw i dobra dziecka oraz usprawnienia trybu załatwiania spraw w tym zakresie."
+    },
+    {
+      "provision_ref": "art11u2",
+      "section": "11",
+      "title": "Art. 11 ust. 2",
+      "content": "Rzecznik może również występować do właściwych organów z wnioskami o podjęcie inicjatywy ustawodawczej bądź o wydanie lub zmianę innych aktów prawnych."
+    },
+    {
+      "provision_ref": "art11u3",
+      "section": "11",
+      "title": "Art. 11 ust. 3",
+      "content": "Organy, instytucje i organizacje, do których Rzecznik zwrócił się z wnioskami określonymi w ust. 1 i 2, są obowiązane ustosunkować się do tych wniosków w terminie 30 dni od daty ich otrzymania."
+    },
+    {
+      "provision_ref": "art11a",
+      "section": "11a",
+      "title": "Art. 11a",
+      "content": "Rzecznik współdziała ze stowarzyszeniami, ruchami obywatelskimi, innymi dobrowolnymi zrzeszeniami i fundacjami działającymi na rzecz ochrony praw dziecka."
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Art. 12",
-      "content": "1. Rzecznik przedstawia Sejmowi i Senatowi, corocznie, informację o swojej działalności i uwagi o stanie przestrzegania praw dziecka. 2. Informacja Rzecznika jest podawana do wiadomości publicznej."
+      "content": "Rzecznik przedstawia Sejmowi i Senatowi, corocznie, nie później niż do dnia 31 marca, informację o swojej działalności i uwagi o stanie przestrzegania praw dziecka. Informacja Rzecznika jest podawana do wiadomości publicznej."
+    },
+    {
+      "provision_ref": "art12u1",
+      "section": "12",
+      "title": "Art. 12 ust. 1",
+      "content": "Rzecznik przedstawia Sejmowi i Senatowi, corocznie, nie później niż do dnia 31 marca, informację o swojej działalności i uwagi o stanie przestrzegania praw dziecka."
+    },
+    {
+      "provision_ref": "art12u2",
+      "section": "12",
+      "title": "Art. 12 ust. 2",
+      "content": "Informacja Rzecznika jest podawana do wiadomości publicznej."
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Art. 13",
-      "content": "1. Rzecznik wykonuje swoje zadania przy pomocy Biura Rzecznika Praw Dziecka. 2. Organizację Biura określa statut nadawany przez Marszałka Sejmu."
+      "content": "Rzecznik wykonuje swoje zadania przy pomocy Biura Rzecznika Praw Dziecka. Rzecznik nadaje, w drodze zarządzenia, statut, który określa organizację Biura. Rzecznik może powołać zastępcę Rzecznika. Rzecznik odwołuje zastępcę Rzecznika. Rzecznik określa zakres zadań zastępcy Rzecznika."
+    },
+    {
+      "provision_ref": "art13u1",
+      "section": "13",
+      "title": "Art. 13 ust. 1",
+      "content": "Rzecznik wykonuje swoje zadania przy pomocy Biura Rzecznika Praw Dziecka."
+    },
+    {
+      "provision_ref": "art13u2",
+      "section": "13",
+      "title": "Art. 13 ust. 2",
+      "content": "Rzecznik nadaje, w drodze zarządzenia, statut, który określa organizację Biura."
+    },
+    {
+      "provision_ref": "art13u3",
+      "section": "13",
+      "title": "Art. 13 ust. 3",
+      "content": "Rzecznik może powołać zastępcę Rzecznika. Rzecznik odwołuje zastępcę Rzecznika."
+    },
+    {
+      "provision_ref": "art13u4",
+      "section": "13",
+      "title": "Art. 13 ust. 4",
+      "content": "Rzecznik określa zakres zadań zastępcy Rzecznika."
     },
     {
       "provision_ref": "art14",
@@ -97,44 +853,60 @@
       "provision_ref": "art15",
       "section": "15",
       "title": "Art. 15",
-      "content": "W ustawie z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe ( Dz. U. Nr 20, poz. 101 , z 1982 r. Nr 31, poz. 214 , z 1985 r. Nr 22, poz. 98 i Nr 50, poz. 262 , z 1987 r. Nr 21, poz. 123 , z 1989 r. Nr 34, poz. 178 , z 1991 r. Nr 100, poz. 443 , z 1993 r. Nr 1, poz. 1 , z 1995 r. Nr 34, poz. 163 i Nr 142, poz. 701 , z 1996 r. Nr 73, poz. 350 , Nr 89, poz. 402 , Nr 106, poz. 496 i Nr 139, poz. 647 , z 1997 r. Nr 75, poz. 469 i Nr 133, poz. 883 , z 1998 r. Nr 155, poz. 1016 i Nr 160, poz. 1065 oraz z 1999 r. Nr 110, poz. 1255 ) w art. 2 w pkt 2 po wyrazach „Rzecznika Praw Obywatelskich,” dodaje się wyrazy „Rzecznika Praw Dziecka,” ."
-    },
-    {
-      "provision_ref": "art16",
-      "section": "16",
-      "title": "Art. 16",
-      "content": "W ustawie z dnia 16 września 1982 r. o pracownikach urzędów państwowych ( Dz. U. Nr 31, poz. 214 , z 1984 r. Nr 35, poz. 187 , z 1988 r. Nr 19, poz. 132 , z 1989 r. Nr 4, poz. 24 i Nr 34, poz. 178 i 182 , z 1990 r. Nr 20, poz. 121 , z 1991 r. Nr 55, poz. 234 , Nr 88, poz. 400 i Nr 95, poz. 425 , z 1992 r. Nr 54, poz. 254 i Nr 90, poz. 451 , z 1994 r. Nr 136, poz. 704 , z 1995 r. Nr 132, poz. 640 , z 1996 r. Nr 89, poz. 402 i Nr 106, poz. 496 , z 1997 r. Nr 98, poz. 604 , Nr 133, poz. 882 i 883 i Nr 141, poz. 943 , z 1998 r. Nr 131, poz. 860 , Nr 155, poz. 1016 i Nr 162, poz. 1118 oraz z 1999 r. Nr 49, poz. 483 i Nr 70, poz. 778 ) wprowadza się następujące zmiany: 1) w art. 1 w ust. 1 po pkt 7 dodaje się pkt 7a w brzmieniu: „ 7a) Biurze Rzecznika Praw Dziecka, ” ; 2) w art. 36 w ust. 5 po pkt 9a dodaje się pkt 9b w brzmieniu: „ 9b) Rzeczniku Praw Dziecka - dla urzędników Biura Rzecznika Praw Dziecka, ” ; 3) w art. 48: a) w ust. 1a wyrazy „pkt 1, 2, 6, 7, 9, 10 i 13” zastępuje się wyrazami „pkt 1, 2, 6, 7, 7a, 9, 10 i 13” , b) w ust. 2 wyrazy „pkt 6 i 7” zastępuje się wyrazami „pkt 6, 7 i 7a” , c) w ust. 3 wyrazy „pkt 1, 2, 6, 7, 9, 10 i 13” zastępuje się wyrazami „pkt 1, 2, 6, 7, 7a, 9, 10 i 13” ."
-    },
-    {
-      "provision_ref": "art17",
-      "section": "17",
-      "title": "Art. 17",
-      "content": "W ustawie z dnia 15 lipca 1987 r. o Rzeczniku Praw Obywatelskich ( Dz. U. z 1991 r. Nr 109, poz. 471 , z 1998 r. Nr 106, poz. 668 oraz z 1999 r. Nr 49, poz. 483 ) wprowadza się następujące zmiany: 1) w art. 1 po ust. 2 dodaje się ust. 2a w brzmieniu: „ 2a. W sprawach dzieci Rzecznik współpracuje z Rzecznikiem Praw Dziecka. ” ; 2) w art. 9 po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) na wniosek Rzecznika Praw Dziecka, ” ."
-    },
-    {
-      "provision_ref": "art18",
-      "section": "18",
-      "title": "Art. 18",
-      "content": "W ustawie z dnia 23 grudnia 1994 r. o kształtowaniu środków na wynagrodzenia w państwowej sferze budżetowej ( Dz. U. z 1995 r. Nr 34, poz. 163 , z 1996 r. Nr 106, poz. 496 i Nr 139, poz. 647 , z 1997 r. Nr 133, poz. 883 , z 1998 r. Nr 117, poz. 756 , Nr 155, poz. 1014 i 1016 i Nr 160, poz. 1059 oraz z 1999 r. Nr 62, poz. 684 i Nr 72, poz. 802 ) w art. 2 w ust. 2 w pkt 1 po wyrazach „Biurze Rzecznika Praw Obywatelskich,” dodaje się wyrazy „Biurze Rzecznika Praw Dziecka,” ."
-    },
-    {
-      "provision_ref": "art19",
-      "section": "19",
-      "title": "Art. 19",
-      "content": "W ustawie z dnia 9 maja 1996 r. o wykonywaniu mandatu posła i senatora ( Dz. U. Nr 73, poz. 350 i Nr 137, poz. 638 , z 1997 r. Nr 28, poz. 153 , Nr 98, poz. 604 , Nr 106, poz. 679 , Nr 121, poz. 770 i Nr 160, poz. 1080 , z 1998 r. Nr 162, poz. 1118 oraz z 1999 r. Nr 52, poz. 527 i 528 ) w art. 30 w ust. 1 po wyrazach „w Biurze Rzecznika Praw Obywatelskich,” dodaje się wyrazy „w Biurze Rzecznika Praw Dziecka,” ."
-    },
-    {
-      "provision_ref": "art20",
-      "section": "20",
-      "title": "Art. 20",
-      "content": "W ustawie z dnia 26 listopada 1998 r. o finansach publicznych ( Dz. U. Nr 155, poz. 1014 oraz z 1999 r. Nr 38, poz. 360 , Nr 49, poz. 485 , Nr 70, poz. 778 i Nr 110, poz. 1255 ) w art. 83 w ust. 2 po wyrazach „Rzecznika Praw Obywatelskich,” dodaje się wyrazy „Rzecznika Praw Dziecka,” ."
+      "content": "(pominięte)"
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Art. 21",
-      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2000 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_1-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"arti_3-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_3-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_3-pass_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_3-pass_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_3-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_3-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_4-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_4-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"arti_4-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"},{\"id\": \"arti_4-pass_6\",\"symbol\": \"pass_6\",\"type\": \"pass\",\"name\": \"6\",\"title\": \"6.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_6-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"arti_7-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_7-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_7-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_7-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"arti_8-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_8-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_8-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_8-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_8-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_8-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_8-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\",\"children\": [{\"id\": \"arti_10-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_10-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_10-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_10-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\",\"children\": [{\"id\": \"arti_11-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_11-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_11-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\",\"children\": [{\"id\": \"arti_12-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_12-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\",\"children\": [{\"id\": \"arti_13-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_13-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"},{\"id\": \"arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\"},{\"id\": \"arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\",\"children\": [{\"id\": \"arti_16-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_16-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_16-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\",\"children\": [{\"id\": \"arti_16-pint_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_16-pint_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_16-pint_3-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]}]},{\"id\": \"arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\",\"children\": [{\"id\": \"arti_17-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_17-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\"},{\"id\": \"arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\"},{\"id\": \"arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\"},{\"id\": \"arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2000 r."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2019-1461",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-141",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2140",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2243",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2151",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2311",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2581",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2600",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-1124",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-447",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-1700",
+      "ref_type": "references"
+    }
+  ]
 }

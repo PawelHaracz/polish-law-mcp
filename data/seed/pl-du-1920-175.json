@@ -25,7 +25,25 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "Ministra Skarbu upoważnia się: 1) do udzielania w miarę swego uznania koncesji lub odmowy na otwarcie i prowadzenie przedsiębiorstw, wymienionych w art. 1 ust. 1; 2) do ustalania minimalnej wysokości kapitału zakładowego takich przedsiębiorstw; 3) do ustanawiania nadzoru rządowego nad ich operacjami, oraz wydawania zarządzeń regulujących ten nadzór i ustalania kosztów nadzoru, obciążających te przedsiębiorstwa."
+      "content": "Ministra Skarbu upoważnia się: do udzielania w miarę swego uznania koncesji lub odmowy na otwarcie i prowadzenie przedsiębiorstw, wymienionych w art. 1 ust. 1; do ustalania minimalnej wysokości kapitału zakładowego takich przedsiębiorstw; do ustanawiania nadzoru rządowego nad ich operacjami, oraz wydawania zarządzeń regulujących ten nadzór i ustalania kosztów nadzoru, obciążających te przedsiębiorstwa."
+    },
+    {
+      "provision_ref": "art3p1",
+      "section": "3",
+      "title": "Art. 3 pkt 1",
+      "content": "Ministra Skarbu upoważnia się: do udzielania w miarę swego uznania koncesji lub odmowy na otwarcie i prowadzenie przedsiębiorstw, wymienionych w art. 1 ust. 1;"
+    },
+    {
+      "provision_ref": "art3p2",
+      "section": "3",
+      "title": "Art. 3 pkt 2",
+      "content": "Ministra Skarbu upoważnia się: do ustalania minimalnej wysokości kapitału zakładowego takich przedsiębiorstw;"
+    },
+    {
+      "provision_ref": "art3p3",
+      "section": "3",
+      "title": "Art. 3 pkt 3",
+      "content": "Ministra Skarbu upoważnia się: do ustanawiania nadzoru rządowego nad ich operacjami, oraz wydawania zarządzeń regulujących ten nadzór i ustalania kosztów nadzoru, obciążających te przedsiębiorstwa."
     },
     {
       "provision_ref": "art4",
@@ -55,7 +73,25 @@
       "provision_ref": "art8",
       "section": "8",
       "title": "Art. 8",
-      "content": "Właściciele przedsiębiorstw, wymienionych w art. 1 ust. 1, są obowiązani: 1) utrzymywać i prowadzić księgi handlowe, podług zasad podwójnej księgowości handlowej; 2) wykonywać wszelkie zarządzenia Ministra Skarbu, wydawane na mocy niniejszej ustawy, zarówno ogólnie obowiązujące, jakoteż dotyczące poszczególnych przedsiębiorstw (art. 3 ust. 3); 3) dostarczać na każde żądanie Ministra Skarbu wiadomości i sprawozdań o stanie interesów przedsiębiorstwa. Właściciele domów bankowych obowiązani są ponadto ogłaszać wiadomości o działalności tych przedsiębiorstw i ich stanie majątkowym w Gazecie Urzędowej i w organach prasy, przez Ministra Skarbu wskazanych."
+      "content": "Właściciele przedsiębiorstw, wymienionych w art. 1 ust. 1, są obowiązani: utrzymywać i prowadzić księgi handlowe, podług zasad podwójnej księgowości handlowej; wykonywać wszelkie zarządzenia Ministra Skarbu, wydawane na mocy niniejszej ustawy, zarówno ogólnie obowiązujące, jakoteż dotyczące poszczególnych przedsiębiorstw (art. 3 ust. 3); dostarczać na każde żądanie Ministra Skarbu wiadomości i sprawozdań o stanie interesów przedsiębiorstwa. Właściciele domów bankowych obowiązani są ponadto ogłaszać wiadomości o działalności tych przedsiębiorstw i ich stanie majątkowym w Gazecie Urzędowej i w organach prasy, przez Ministra Skarbu wskazanych."
+    },
+    {
+      "provision_ref": "art8p1",
+      "section": "8",
+      "title": "Art. 8 pkt 1",
+      "content": "Właściciele przedsiębiorstw, wymienionych w art. 1 ust. 1, są obowiązani: utrzymywać i prowadzić księgi handlowe, podług zasad podwójnej księgowości handlowej;"
+    },
+    {
+      "provision_ref": "art8p2",
+      "section": "8",
+      "title": "Art. 8 pkt 2",
+      "content": "Właściciele przedsiębiorstw, wymienionych w art. 1 ust. 1, są obowiązani: wykonywać wszelkie zarządzenia Ministra Skarbu, wydawane na mocy niniejszej ustawy, zarówno ogólnie obowiązujące, jakoteż dotyczące poszczególnych przedsiębiorstw (art. 3 ust. 3);"
+    },
+    {
+      "provision_ref": "art8p3",
+      "section": "8",
+      "title": "Art. 8 pkt 3",
+      "content": "Właściciele przedsiębiorstw, wymienionych w art. 1 ust. 1, są obowiązani: dostarczać na każde żądanie Ministra Skarbu wiadomości i sprawozdań o stanie interesów przedsiębiorstwa."
     },
     {
       "provision_ref": "art9",
@@ -85,8 +121,9 @@
       "provision_ref": "art13",
       "section": "13",
       "title": "Art. 13",
-      "content": "Wykonanie niniejszej ustawy poleca się Ministrowi Skarbu, o ile zaś chodzi o wykonanie jej na obszarze b. dzielnicy pruskiej - Ministrowi Skarbu w porozumieniu z Ministrem b. Dzielnicy Pruskiej. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_3-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"arti_8-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_8-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_8-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"},{\"id\": \"arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"} ] } ];"
+      "content": "Wykonanie niniejszej ustawy poleca się Ministrowi Skarbu, o ile zaś chodzi o wykonanie jej na obszarze b. dzielnicy pruskiej - Ministrowi Skarbu w porozumieniu z Ministrem b. Dzielnicy Pruskiej."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": []
 }

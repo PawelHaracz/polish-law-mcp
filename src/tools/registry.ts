@@ -19,6 +19,7 @@ import { formatCitationTool, type FormatCitationInput } from './format-citation.
 import { checkCurrency, type CheckCurrencyInput } from './check-currency.js';
 import { getEUBasis, type GetEUBasisInput } from './get-eu-basis.js';
 import { getPolishImplementations, type GetPolishImplementationsInput } from './get-polish-implementations.js';
+import { getRelatedActs, type GetRelatedActsInput } from './get-related-acts.js';
 import { searchEUImplementations, type SearchEUImplementationsInput } from './search-eu-implementations.js';
 import { getProvisionEUBasis, type GetProvisionEUBasisInput } from './get-provision-eu-basis.js';
 import { validateEUCompliance, type ValidateEUComplianceInput } from './validate-eu-compliance.js';
@@ -51,9 +52,13 @@ export const TOOLS: Tool[] = [
     name: 'search_legislation',
     description:
       'Search Polish statutes and regulations by keyword using full-text search (FTS5 with BM25 ranking). ' +
-      'Returns matching provisions with document context, snippets with >>> <<< markers around matched terms, and relevance scores. ' +
+      'Returns matching provisions with document context, a snippet, and a relevance score. ' +
+      'Results are reranked by validity status: in-force provisions rank above comparably-relevant ' +
+      'repealed/amended ones, so the governing law surfaces first (a repealed row can still appear if far more relevant). ' +
+      'Hits are at sub-provision granularity — a provision_ref may be an article (art1) or a specific ' +
+      'ustęp/punkt/litera/paragraf (art1u2p3la = art. 1 ust. 2 pkt 3 lit. a; art4par2 = art. 4 § 2). ' +
       'Supports FTS5 syntax: quoted phrases ("exact match"), boolean operators (AND, OR, NOT), and prefix wildcards (term*). ' +
-      'Results are in English. Default limit is 10 results. For broad topics, increase the limit. ' +
+      'Default limit is 10 results. For broad topics, increase the limit. ' +
       'Do NOT use this for retrieving a known provision — use get_provision instead.',
     inputSchema: {
       type: 'object',
@@ -87,7 +92,11 @@ export const TOOLS: Tool[] = [
     description:
       'Retrieve the full text of a specific provision (section) from an Polish statute. ' +
       'Specify a document_id (Act title, abbreviation, or internal ID) and optionally a section or provision_ref. ' +
+      'provision_ref is hierarchical: art1 returns the whole article (aggregate), while art1u2 (ust. 2), ' +
+      'art1u2p3 (pkt 3), art1u2p3la (lit. a), art4par2 (§ 2) return the exact sub-unit. ' +
       'Omit section/provision_ref to get ALL provisions in the statute (use sparingly — can be large). ' +
+      'When the act has been amended, the response includes a _related list of the amending acts ' +
+      '(citation-graph context) — use get_related_acts for the full graph. ' +
       'Subsection references like "13(1)" or "s29(2)(a)" resolve to the parent section. ' +
       'Returns provision text, chapter, section number, and metadata. ' +
       'Supports Act title references (e.g., "Privacy Act 1988"), abbreviations, and full titles. ' +
@@ -247,6 +256,41 @@ export const TOOLS: Tool[] = [
     },
   },
   {
+    name: 'get_related_acts',
+    description:
+      'Find acts related to a given statute through the citation graph. ' +
+      'Returns neighbours in both directions: acts that this one amends or cites (outbound) ' +
+      'and acts that amend or cite this one (inbound), via cross_references edges ' +
+      '(ref_type: amended_by | references). Use to answer "what amends the Labour Code?" or ' +
+      '"which acts does this amendment touch?". Results are ordered by source-of-law rank then status.',
+    inputSchema: {
+      type: 'object',
+      properties: {
+        document_id: {
+          type: 'string',
+          description: 'Statute identifier: title, abbreviation, or internal ID (e.g., "Kodeks pracy", "pl-du-1974-141").',
+        },
+        direction: {
+          type: 'string',
+          enum: ['outbound', 'inbound', 'both'],
+          description: 'outbound = acts this one cites/amends; inbound = acts citing/amending this one; both (default).',
+          default: 'both',
+        },
+        ref_type: {
+          type: 'string',
+          enum: ['references', 'amended_by'],
+          description: 'Optional: filter edges by type.',
+        },
+        limit: {
+          type: 'number',
+          description: 'Max results per direction (default: 25, max: 100).',
+          default: 25,
+        },
+      },
+      required: ['document_id'],
+    },
+  },
+  {
     name: 'search_eu_implementations',
     description:
       'Search for EU directives and regulations that are referenced by Polish legislation. ' +
@@ -379,6 +423,9 @@ export function registerTools(
           break;
         case 'get_polish_implementations':
           result = await getPolishImplementations(db, args as unknown as GetPolishImplementationsInput);
+          break;
+        case 'get_related_acts':
+          result = await getRelatedActs(db, args as unknown as GetRelatedActsInput);
           break;
         case 'search_eu_implementations':
           result = await searchEUImplementations(db, args as unknown as SearchEUImplementationsInput);

@@ -19,7 +19,19 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "O ile na dzień, bezpośrednio poprzedzający datę bilansu otwarcia w złotych, sporządzonego na zasadzie powołanego rozporządzenia Prezydenta Rzeczypospolitej, został zestawiony złotowy (frankowy) podatkowy bilans zamknięcia, który przyjęto za podstawę wymiaru podatku dochodowego za rok podatkowy 1924, to pozostałości rachunków mieszanych (bilansowo-wynikowych) mogą być w bilansie otwarcia w złotych wykazane bez dopłaty podatku dochodowego, w szacunku, przekraczającym ich wartość, przyjętą do zlotowego (frankowego) podatkowego bilansu zamknięcie: a) o różnicę między rzeczywistą wartością pozostałości, posiadanych w dacie podatkowego bilansu otwarcia, obliczoną według cen ich nabycia (kosztu własnego), a ich wartością, przyjętą do podatkowego bilansu otwarcia, albo b) w razie nieustalenia w powyższy sposób różnicy wartości pozostałości, posiadanych w dniu frankowego (podatkowego) bilansu otwarcia, o sumę, nieprzekraczającą 20% wartości pozostałości, wykazanej w złotowym (frankowym) podatkowym bilansie zamknięcia. Tego rodzaju nadwyżki w bilansie otwarcia w złotych, przekraczające granice wyżej zakreślone, podlegają podatkowi dochodowemu za rok podatkowy 1924."
+      "content": "O ile na dzień, bezpośrednio poprzedzający datę bilansu otwarcia w złotych, sporządzonego na zasadzie powołanego rozporządzenia Prezydenta Rzeczypospolitej, został zestawiony złotowy (frankowy) podatkowy bilans zamknięcia, który przyjęto za podstawę wymiaru podatku dochodowego za rok podatkowy 1924, to pozostałości rachunków mieszanych (bilansowo-wynikowych) mogą być w bilansie otwarcia w złotych wykazane bez dopłaty podatku dochodowego, w szacunku, przekraczającym ich wartość, przyjętą do zlotowego (frankowego) podatkowego bilansu zamknięcie: o różnicę między rzeczywistą wartością pozostałości, posiadanych w dacie podatkowego bilansu otwarcia, obliczoną według cen ich nabycia (kosztu własnego), a ich wartością, przyjętą do podatkowego bilansu otwarcia, albo w razie nieustalenia w powyższy sposób różnicy wartości pozostałości, posiadanych w dniu frankowego (podatkowego) bilansu otwarcia, o sumę, nieprzekraczającą 20% wartości pozostałości, wykazanej w złotowym (frankowym) podatkowym bilansie zamknięcia. Tego rodzaju nadwyżki w bilansie otwarcia w złotych, przekraczające granice wyżej zakreślone, podlegają podatkowi dochodowemu za rok podatkowy 1924."
+    },
+    {
+      "provision_ref": "art2la",
+      "section": "2",
+      "title": "Art. 2 lit. a",
+      "content": "O ile na dzień, bezpośrednio poprzedzający datę bilansu otwarcia w złotych, sporządzonego na zasadzie powołanego rozporządzenia Prezydenta Rzeczypospolitej, został zestawiony złotowy (frankowy) podatkowy bilans zamknięcia, który przyjęto za podstawę wymiaru podatku dochodowego za rok podatkowy 1924, to pozostałości rachunków mieszanych (bilansowo-wynikowych) mogą być w bilansie otwarcia w złotych wykazane bez dopłaty podatku dochodowego, w szacunku, przekraczającym ich wartość, przyjętą do zlotowego (frankowego) podatkowego bilansu zamknięcie: o różnicę między rzeczywistą wartością pozostałości, posiadanych w dacie podatkowego bilansu otwarcia, obliczoną według cen ich nabycia (kosztu własnego), a ich wartością, przyjętą do podatkowego bilansu otwarcia, albo"
+    },
+    {
+      "provision_ref": "art2lb",
+      "section": "2",
+      "title": "Art. 2 lit. b",
+      "content": "O ile na dzień, bezpośrednio poprzedzający datę bilansu otwarcia w złotych, sporządzonego na zasadzie powołanego rozporządzenia Prezydenta Rzeczypospolitej, został zestawiony złotowy (frankowy) podatkowy bilans zamknięcia, który przyjęto za podstawę wymiaru podatku dochodowego za rok podatkowy 1924, to pozostałości rachunków mieszanych (bilansowo-wynikowych) mogą być w bilansie otwarcia w złotych wykazane bez dopłaty podatku dochodowego, w szacunku, przekraczającym ich wartość, przyjętą do zlotowego (frankowego) podatkowego bilansu zamknięcie: w razie nieustalenia w powyższy sposób różnicy wartości pozostałości, posiadanych w dniu frankowego (podatkowego) bilansu otwarcia, o sumę, nieprzekraczającą 20% wartości pozostałości, wykazanej w złotowym (frankowym) podatkowym bilansie zamknięcia."
     },
     {
       "provision_ref": "art3",
@@ -49,8 +61,9 @@
       "provision_ref": "art7",
       "section": "7",
       "title": "Art. 7",
-      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"} ] } ];"
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": []
 }

@@ -12,6 +12,7 @@ import Database from 'better-sqlite3';
 import * as fs from 'fs';
 import * as path from 'path';
 import { fileURLToPath } from 'url';
+import { classifyLegalRank } from '../src/utils/legal-rank.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -33,6 +34,12 @@ interface DocumentSeed {
   description?: string;
   provisions?: ProvisionSeed[];
   definitions?: DefinitionSeed[];
+  references?: ReferenceSeed[];
+}
+
+interface ReferenceSeed {
+  target_document_id: string;
+  ref_type: 'references' | 'amended_by';
 }
 
 interface ProvisionSeed {
@@ -81,6 +88,9 @@ CREATE TABLE legal_documents (
   in_force_date TEXT,
   url TEXT,
   description TEXT,
+  -- Source-of-law hierarchy (art. 87/91): 0=Konstytucja, 1=umowa międzynar.,
+  -- 2=ustawa, 3=rozporządzenie, 4=prawo miejscowe. Secondary reranking signal.
+  legal_rank INTEGER NOT NULL DEFAULT 2,
   last_updated TEXT DEFAULT (datetime('now'))
 );
 
@@ -100,29 +110,56 @@ CREATE TABLE legal_provisions (
 CREATE INDEX idx_provisions_doc ON legal_provisions(document_id);
 CREATE INDEX idx_provisions_chapter ON legal_provisions(document_id, chapter);
 
--- FTS5 for provision search
+-- FTS5 for provision search.
+--
+-- Standalone (NOT external-content) so we can store ł-folded text for matching
+-- while the raw legal_provisions.content stays intact for display/snippets.
+-- Columns:
+--   content   — ł-folded provision body (unicode61 strips the other diacritics)
+--   doc_title — ł-folded parent document title, so "kodeks karny" finds the
+--               statute even though provision bodies rarely repeat the act name.
+-- bm25 weights are applied at query time (see search-legislation.ts).
 CREATE VIRTUAL TABLE provisions_fts USING fts5(
-  content, title,
-  content='legal_provisions',
-  content_rowid='id',
+  content, doc_title,
   tokenize='unicode61'
 );
 
+-- ł/Ł is a distinct Unicode codepoint that unicode61 does NOT fold, so we fold
+-- it ourselves on the way into the index. The query side folds identically
+-- (see normalizePolishForFts) so the two converge.
 CREATE TRIGGER provisions_ai AFTER INSERT ON legal_provisions BEGIN
-  INSERT INTO provisions_fts(rowid, content, title)
-  VALUES (new.id, new.content, new.title);
+  INSERT INTO provisions_fts(rowid, content, doc_title)
+  VALUES (
+    new.id,
+    replace(replace(new.content, 'ł', 'l'), 'Ł', 'L'),
+    replace(replace(
+      (SELECT title FROM legal_documents WHERE id = new.document_id),
+      'ł', 'l'), 'Ł', 'L')
+  );
 END;
 
 CREATE TRIGGER provisions_ad AFTER DELETE ON legal_provisions BEGIN
-  INSERT INTO provisions_fts(provisions_fts, rowid, content, title)
-  VALUES ('delete', old.id, old.content, old.title);
+  INSERT INTO provisions_fts(provisions_fts, rowid, content, doc_title)
+  VALUES ('delete', old.id,
+    replace(replace(old.content, 'ł', 'l'), 'Ł', 'L'),
+    replace(replace(
+      (SELECT title FROM legal_documents WHERE id = old.document_id),
+      'ł', 'l'), 'Ł', 'L'));
 END;
 
 CREATE TRIGGER provisions_au AFTER UPDATE ON legal_provisions BEGIN
-  INSERT INTO provisions_fts(provisions_fts, rowid, content, title)
-  VALUES ('delete', old.id, old.content, old.title);
-  INSERT INTO provisions_fts(rowid, content, title)
-  VALUES (new.id, new.content, new.title);
+  INSERT INTO provisions_fts(provisions_fts, rowid, content, doc_title)
+  VALUES ('delete', old.id,
+    replace(replace(old.content, 'ł', 'l'), 'Ł', 'L'),
+    replace(replace(
+      (SELECT title FROM legal_documents WHERE id = old.document_id),
+      'ł', 'l'), 'Ł', 'L'));
+  INSERT INTO provisions_fts(rowid, content, doc_title)
+  VALUES (new.id,
+    replace(replace(new.content, 'ł', 'l'), 'Ł', 'L'),
+    replace(replace(
+      (SELECT title FROM legal_documents WHERE id = new.document_id),
+      'ł', 'l'), 'Ł', 'L'));
 END;
 
 -- Cross-references between provisions/documents
@@ -363,8 +400,8 @@ function buildDatabase(): void {
   db.exec(SCHEMA);
 
   const insertDoc = db.prepare(`
-    INSERT INTO legal_documents (id, type, title, title_en, short_name, status, issued_date, in_force_date, url, description)
-    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+    INSERT INTO legal_documents (id, type, title, title_en, short_name, status, issued_date, in_force_date, url, description, legal_rank)
+    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
   `);
 
   const insertProvision = db.prepare(`
@@ -410,7 +447,19 @@ function buildDatabase(): void {
   let totalDefs = 0;
   let totalEuDocuments = 0;
   let totalEuReferences = 0;
+  let totalCrossRefs = 0;
   const primaryImplementationByDocument = new Set<string>();
+  // Collected for a SECOND pass: cross_references has FKs on both source and
+  // target document ids, but a reference may point to an act parsed later. We
+  // gather all edges first, then insert only those whose target exists.
+  const pendingCrossRefs: Array<{ source: string; target: string; type: string }> = [];
+  const knownDocIds = new Set<string>();
+
+  const insertCrossRef = db.prepare(`
+    INSERT OR IGNORE INTO cross_references
+      (source_document_id, target_document_id, ref_type)
+    VALUES (?, ?, ?)
+  `);
 
   const loadAll = db.transaction(() => {
     for (const file of seedFiles) {
@@ -423,8 +472,14 @@ function buildDatabase(): void {
         seed.short_name ?? null, seed.status ?? 'in_force',
         seed.issued_date ?? null, seed.in_force_date ?? null,
         seed.url ?? null, seed.description ?? null,
+        classifyLegalRank(seed.title),
       );
       totalDocs++;
+      knownDocIds.add(seed.id);
+
+      for (const ref of seed.references ?? []) {
+        pendingCrossRefs.push({ source: seed.id, target: ref.target_document_id, type: ref.ref_type });
+      }
 
       if (seed.provisions && seed.provisions.length > 0) {
         const deduped = dedupeProvisions(seed.provisions);
@@ -484,6 +539,22 @@ function buildDatabase(): void {
 
   loadAll();
 
+  // Second pass: insert cross-references, keeping only edges whose target act is
+  // also in the corpus (cross_references has FKs on both ends). Dangling targets
+  // (acts not ingested / pre-1918 / EU) are dropped — logged as a count.
+  let droppedCrossRefs = 0;
+  const loadCrossRefs = db.transaction(() => {
+    for (const e of pendingCrossRefs) {
+      if (!knownDocIds.has(e.target)) { droppedCrossRefs++; continue; }
+      const r = insertCrossRef.run(e.source, e.target, e.type);
+      if (r.changes > 0) totalCrossRefs++;
+    }
+  });
+  loadCrossRefs();
+  console.log(
+    `  Cross-references: ${totalCrossRefs} inserted, ${droppedCrossRefs} dropped (target not in corpus)`,
+  );
+
   // Write build metadata
   const insertMeta = db.prepare('INSERT INTO db_metadata (key, value) VALUES (?, ?)');
   const writeMeta = db.transaction(() => {
@@ -507,7 +578,8 @@ function buildDatabase(): void {
   const size = fs.statSync(DB_PATH).size;
   console.log(
     `\nBuild complete: ${totalDocs} documents, ${totalProvisions} provisions, ` +
-    `${totalDefs} definitions, ${totalEuDocuments} EU documents, ${totalEuReferences} EU references`
+    `${totalDefs} definitions, ${totalEuDocuments} EU documents, ${totalEuReferences} EU references, ` +
+    `${totalCrossRefs} cross-references`
   );
   console.log(`Output: ${DB_PATH} (${(size / 1024 / 1024).toFixed(1)} MB)`);
 }

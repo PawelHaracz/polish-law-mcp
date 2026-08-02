@@ -10,161 +10,535 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/1984/97",
   "provisions": [
     {
+      "provision_ref": "art81",
+      "section": "81",
+      "title": "Art. 81",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: art. 45 pkt 1, który wchodzi w życie z dniem ogłoszenia, z mocą od dnia 31 grudnia 2021 r.; art. 46, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 24 lutego 2022 r.; art. 47 i art. 79 ust. 2, które wchodzą w życie z dniem następującym po dniu ogłoszenia; art. 8 pkt 2, art. 21, art. 22 pkt 1−9, art. 28 i art. 38 pkt 6, pkt 9 lit. b i pkt 10, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia; art. 5, który wchodzi w życie z dniem 1 stycznia 2023 r.; art. 22 pkt 10-12 oraz art. 62 ust. 2, które wchodzą w życie z dniem 1 stycznia 2024 r."
+    },
+    {
+      "provision_ref": "art81p1",
+      "section": "81",
+      "title": "Art. 81 pkt 1",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: art. 45 pkt 1, który wchodzi w życie z dniem ogłoszenia, z mocą od dnia 31 grudnia 2021 r.;"
+    },
+    {
+      "provision_ref": "art81p2",
+      "section": "81",
+      "title": "Art. 81 pkt 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: art. 46, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 24 lutego 2022 r.;"
+    },
+    {
+      "provision_ref": "art81p3",
+      "section": "81",
+      "title": "Art. 81 pkt 3",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: art. 47 i art. 79 ust. 2, które wchodzą w życie z dniem następującym po dniu ogłoszenia;"
+    },
+    {
+      "provision_ref": "art81p4",
+      "section": "81",
+      "title": "Art. 81 pkt 4",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: art. 8 pkt 2, art. 21, art. 22 pkt 1−9, art. 28 i art. 38 pkt 6, pkt 9 lit. b i pkt 10, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia;"
+    },
+    {
+      "provision_ref": "art81p5",
+      "section": "81",
+      "title": "Art. 81 pkt 5",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: art. 5, który wchodzi w życie z dniem 1 stycznia 2023 r.;"
+    },
+    {
+      "provision_ref": "art81p6",
+      "section": "81",
+      "title": "Art. 81 pkt 6",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: art. 22 pkt 10-12 oraz art. 62 ust. 2, które wchodzą w życie z dniem 1 stycznia 2024 r."
+    },
+    {
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "Fundacja może być ustanowiona dla realizacji zgodnych z podstawowymi interesami Polskiej Rzeczypospolitej Ludowej celów społecznie lub gospodarczo użytecznych, w szczególności takich jak: ochrona zdrowia, rozwój gospodarki i nauki, oświata i wychowanie, kultura i sztuka, opieka i pomoc społeczna, ochrona środowiska i zabytków."
+      "content": "Fundacja może być ustanowiona dla realizacji zgodnych z podstawowymi interesami Rzeczypospolitej Polskiej celów społecznie lub gospodarczo użytecznych, w szczególności takich, jak: ochrona zdrowia, rozwój gospodarki i nauki, oświata i wychowanie, kultura i sztuka, opieka i pomoc społeczna, ochrona środowiska oraz opieka nad zabytkami."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "1. Fundacje mogą ustanawiać osoby fizyczne niezależnie od ich obywatelstwa i miejsca zamieszkania bądź osoby prawne mające siedziby w Polsce lub za granicą. 2. Siedziba fundacji powinna znajdować się na terytorium Polskiej Rzeczypospolitej Ludowej."
+      "content": "Fundacje mogą ustanawiać osoby fizyczne niezależnie od ich obywatelstwa i miejsca zamieszkania bądź osoby prawne mające siedziby w Polsce lub za granicą. Siedziba fundacji powinna znajdować się na terytorium Rzeczypospolitej Polskiej."
+    },
+    {
+      "provision_ref": "art2u1",
+      "section": "2",
+      "title": "Art. 2 ust. 1",
+      "content": "Fundacje mogą ustanawiać osoby fizyczne niezależnie od ich obywatelstwa i miejsca zamieszkania bądź osoby prawne mające siedziby w Polsce lub za granicą."
+    },
+    {
+      "provision_ref": "art2u2",
+      "section": "2",
+      "title": "Art. 2 ust. 2",
+      "content": "Siedziba fundacji powinna znajdować się na terytorium Rzeczypospolitej Polskiej."
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "1. Oświadczenie woli o ustanowieniu fundacji powinno być złożone w formie aktu notarialnego. Zachowania tej formy nie wymaga się, jeżeli ustanowienie fundacji następuje w testamencie. 2. W oświadczeniu woli o ustanowieniu fundacji fundator powinien wskazać cel fundacji oraz składniki majątkowe przeznaczone na jego realizację."
+      "content": "Oświadczenie woli o ustanowieniu fundacji powinno być złożone w formie aktu notarialnego. Zachowania tej formy nie wymaga się, jeżeli ustanowienie fundacji następuje w testamencie. W oświadczeniu woli o ustanowieniu fundacji fundator powinien wskazać cel fundacji oraz składniki majątkowe przeznaczone na jego realizację. Składnikami majątkowymi, o których mowa w ust. 2, mogą być pieniądze, papiery wartościowe, a także oddane fundacji na własność rzeczy ruchome i nieruchomości."
+    },
+    {
+      "provision_ref": "art3u1",
+      "section": "3",
+      "title": "Art. 3 ust. 1",
+      "content": "Oświadczenie woli o ustanowieniu fundacji powinno być złożone w formie aktu notarialnego. Zachowania tej formy nie wymaga się, jeżeli ustanowienie fundacji następuje w testamencie."
+    },
+    {
+      "provision_ref": "art3u2",
+      "section": "3",
+      "title": "Art. 3 ust. 2",
+      "content": "W oświadczeniu woli o ustanowieniu fundacji fundator powinien wskazać cel fundacji oraz składniki majątkowe przeznaczone na jego realizację."
+    },
+    {
+      "provision_ref": "art3u3",
+      "section": "3",
+      "title": "Art. 3 ust. 3",
+      "content": "Składnikami majątkowymi, o których mowa w ust. 2, mogą być pieniądze, papiery wartościowe, a także oddane fundacji na własność rzeczy ruchome i nieruchomości."
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "1. Ustanowienie fundacji wymaga zatwierdzenia przez ministra zainteresowanego - ze względu na zakres jego kompetencji - utworzeniem i działaniem fundacji, zwanego dalej „właściwym ministrem”. 2. Jeżeli cele i działalność fundacji wkraczają w zakres kompetencji dwóch lub więcej ministrów, Prezes Rady Ministrów wyznaczy właściwego ministra."
+      "content": "Fundacja działa na podstawie przepisów niniejszej ustawy i statutu."
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Art. 5",
-      "content": "Fundacja działa na podstawie przepisów niniejszej ustawy i statutu."
+      "content": "Fundator ustala statut fundacji, określający jej nazwę, siedzibę i majątek, cele, zasady, formy i zakres działalności fundacji, skład i organizację zarządu, sposób powoływania oraz obowiązki i uprawnienia tego organu i jego członków. Statut może zawierać również inne postanowienia, w szczególności dotyczące prowadzenia przez fundację działalności gospodarczej, dopuszczalności i warunków jej połączenia z inną fundacją, zmiany celu lub statutu, a także przewidywać tworzenie obok zarządu innych organów fundacji. Do korzystania ze środków komunikacji elektronicznej w głosowaniu władz fundacji stosuje się odpowiednio przepisy art. 10 ust. 1a-1d ustawy z dnia 7 kwietnia 1989 r. - Prawo o stowarzyszeniach . Rozwiązania, o których mowa w ust. 1a, stosuje się w przypadku wprowadzenia stanu zagrożenia epidemicznego lub stanu epidemii, o których mowa w ustawie z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi . Jeżeli kadencja zarządu fundacji lub jej innych organów, o których mowa w ust. 1, upływa w okresie obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii, o których mowa w ustawie z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi , lub do 30 dni po odwołaniu danego stanu, podlega ona przedłużeniu do czasu wyboru zarządu fundacji lub jej innych organów na nową kadencję, jednak nie dłużej niż do 60 dni od dnia odwołania stanu zagrożenia epidemicznego lub stanu epidemii. Fundator może wskazać ministra właściwego ze względu na cele fundacji. Oświadczenie fundatora w tej sprawie powinno być dołączone do statutu i przekazane sądowi prowadzącemu rejestr fundacji. Fundacja, która ma prowadzić działalność na terenie jednego województwa, powinna mieć siedzibę na terenie województwa objętego działalnością tej fundacji. Jeżeli w statucie określa się przeznaczenie środków majątkowych fundacji po jej likwidacji, środki te powinny być przeznaczone na cele, o których mowa w art. 1. Fundacja może prowadzić działalność gospodarczą w rozmiarach służących realizacji jej celów. Jeżeli fundacja ma prowadzić działalność gospodarczą, wartość środków majątkowych fundacji przeznaczonych na działalność gospodarczą nie może być mniejsza niż tysiąc złotych 1) Wartość pieniężna podana została z uwzględnieniem art. 4 ust. 6 ustawy z dnia 7 lipca 1994 r. o denominacji złotego (Dz. U. poz. 386), która weszła w życie z dniem 1 stycznia 1995 r. . Rada Ministrów, w drodze rozporządzenia, może określić ulgi i zwolnienia z tytułu przeznaczenia zysków z działalności gospodarczej fundacji na realizację jej zadań statutowych, inne niż ulgi i zwolnienia określone w innych ustawach."
+    },
+    {
+      "provision_ref": "art5u1",
+      "section": "5",
+      "title": "Art. 5 ust. 1",
+      "content": "Fundator ustala statut fundacji, określający jej nazwę, siedzibę i majątek, cele, zasady, formy i zakres działalności fundacji, skład i organizację zarządu, sposób powoływania oraz obowiązki i uprawnienia tego organu i jego członków. Statut może zawierać również inne postanowienia, w szczególności dotyczące prowadzenia przez fundację działalności gospodarczej, dopuszczalności i warunków jej połączenia z inną fundacją, zmiany celu lub statutu, a także przewidywać tworzenie obok zarządu innych organów fundacji."
+    },
+    {
+      "provision_ref": "art5u1a",
+      "section": "5",
+      "title": "Art. 5 ust. 1a",
+      "content": "Do korzystania ze środków komunikacji elektronicznej w głosowaniu władz fundacji stosuje się odpowiednio przepisy art. 10 ust. 1a-1d ustawy z dnia 7 kwietnia 1989 r. - Prawo o stowarzyszeniach ."
+    },
+    {
+      "provision_ref": "art5u1b",
+      "section": "5",
+      "title": "Art. 5 ust. 1b",
+      "content": "Rozwiązania, o których mowa w ust. 1a, stosuje się w przypadku wprowadzenia stanu zagrożenia epidemicznego lub stanu epidemii, o których mowa w ustawie z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi ."
+    },
+    {
+      "provision_ref": "art5u1c",
+      "section": "5",
+      "title": "Art. 5 ust. 1c",
+      "content": "Jeżeli kadencja zarządu fundacji lub jej innych organów, o których mowa w ust. 1, upływa w okresie obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii, o których mowa w ustawie z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi , lub do 30 dni po odwołaniu danego stanu, podlega ona przedłużeniu do czasu wyboru zarządu fundacji lub jej innych organów na nową kadencję, jednak nie dłużej niż do 60 dni od dnia odwołania stanu zagrożenia epidemicznego lub stanu epidemii."
+    },
+    {
+      "provision_ref": "art5u2",
+      "section": "5",
+      "title": "Art. 5 ust. 2",
+      "content": "Fundator może wskazać ministra właściwego ze względu na cele fundacji. Oświadczenie fundatora w tej sprawie powinno być dołączone do statutu i przekazane sądowi prowadzącemu rejestr fundacji."
+    },
+    {
+      "provision_ref": "art5u3",
+      "section": "5",
+      "title": "Art. 5 ust. 3",
+      "content": "Fundacja, która ma prowadzić działalność na terenie jednego województwa, powinna mieć siedzibę na terenie województwa objętego działalnością tej fundacji."
+    },
+    {
+      "provision_ref": "art5u4",
+      "section": "5",
+      "title": "Art. 5 ust. 4",
+      "content": "Jeżeli w statucie określa się przeznaczenie środków majątkowych fundacji po jej likwidacji, środki te powinny być przeznaczone na cele, o których mowa w art. 1."
+    },
+    {
+      "provision_ref": "art5u5",
+      "section": "5",
+      "title": "Art. 5 ust. 5",
+      "content": "Fundacja może prowadzić działalność gospodarczą w rozmiarach służących realizacji jej celów. Jeżeli fundacja ma prowadzić działalność gospodarczą, wartość środków majątkowych fundacji przeznaczonych na działalność gospodarczą nie może być mniejsza niż tysiąc złotych 1) Wartość pieniężna podana została z uwzględnieniem art. 4 ust. 6 ustawy z dnia 7 lipca 1994 r. o denominacji złotego (Dz. U. poz. 386), która weszła w życie z dniem 1 stycznia 1995 r. ."
+    },
+    {
+      "provision_ref": "art5u6",
+      "section": "5",
+      "title": "Art. 5 ust. 6",
+      "content": "Rada Ministrów, w drodze rozporządzenia, może określić ulgi i zwolnienia z tytułu przeznaczenia zysków z działalności gospodarczej fundacji na realizację jej zadań statutowych, inne niż ulgi i zwolnienia określone w innych ustawach."
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Art. 6",
-      "content": "Fundator ustala statut fundacji określający jej nazwę, siedzibę i majątek, zasady, formy i zakres działalności fundacji, skład i organizację zarządu, sposób powoływania oraz obowiązki i uprawnienia tego organu i jego członków. Statut może zawierać również inne postanowienia, w szczególności dotyczące prowadzenia przez fundację działalności gospodarczej, dopuszczalności i warunków jej połączenia z inną fundacją, zmiany celu lub statutu, a także przewidywać tworzenie obok zarządu innych organów fundacji."
+      "content": "Fundator może odstąpić od osobistego ustalenia statutu i upoważnić do jego ustalenia inną osobę fizyczną lub prawną. Do ustalenia statutu, stosownie do przepisu ust. 1, mają zastosowanie przepisy dotyczące ustalenia statutu przez fundatora. Jeżeli fundator ustanowił fundację w testamencie, a nie ustalił jej statutu i nie upoważnił do tej czynności innej osoby, stosuje się odpowiednio przepisy księgi IV Kodeksu cywilnego o poleceniu."
+    },
+    {
+      "provision_ref": "art6u1",
+      "section": "6",
+      "title": "Art. 6 ust. 1",
+      "content": "Fundator może odstąpić od osobistego ustalenia statutu i upoważnić do jego ustalenia inną osobę fizyczną lub prawną."
+    },
+    {
+      "provision_ref": "art6u2",
+      "section": "6",
+      "title": "Art. 6 ust. 2",
+      "content": "Do ustalenia statutu, stosownie do przepisu ust. 1, mają zastosowanie przepisy dotyczące ustalenia statutu przez fundatora."
+    },
+    {
+      "provision_ref": "art6u3",
+      "section": "6",
+      "title": "Art. 6 ust. 3",
+      "content": "Jeżeli fundator ustanowił fundację w testamencie, a nie ustalił jej statutu i nie upoważnił do tej czynności innej osoby, stosuje się odpowiednio przepisy księgi IV Kodeksu cywilnego o poleceniu."
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Art. 7",
-      "content": "1. Statut ustalony przez fundatora wymaga zatwierdzenia przez właściwego ministra równocześnie z zatwierdzeniem fundacji. Jeżeli statut przewiduje podjęcie działalności gospodarczej, zatwierdzenie statutu w tej części następuje w porozumieniu z Ministrem Finansów. 2. Jeżeli fundator nie przedstawi statutu lub przedstawiony statut jest niepełny, zawiera postanowienia sprzeczne z treścią oświadczenia woli o ustanowieniu fundacji albo z przepisami prawa, właściwy minister wezwie fundatora do przedstawienia, w wyznaczonym terminie, statutu lub do wprowadzenia w nim zmian bądź uzupełnień. 3. Przepisy dotyczące zatwierdzenia statutu mają odpowiednie zastosowanie do jego zmiany."
+      "content": "Fundacja podlega obowiązkowi wpisu do Krajowego Rejestru Sądowego. Fundacja uzyskuje osobowość prawną z chwilą wpisania do Krajowego Rejestru Sądowego."
+    },
+    {
+      "provision_ref": "art7u1",
+      "section": "7",
+      "title": "Art. 7 ust. 1",
+      "content": "Fundacja podlega obowiązkowi wpisu do Krajowego Rejestru Sądowego."
+    },
+    {
+      "provision_ref": "art7u2",
+      "section": "7",
+      "title": "Art. 7 ust. 2",
+      "content": "Fundacja uzyskuje osobowość prawną z chwilą wpisania do Krajowego Rejestru Sądowego."
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Art. 8",
-      "content": "1. Fundator może odstąpić od osobistego ustalenia statutu i upoważnić do jego ustalenia właściwego ministra albo inną osobę fizyczną lub prawną. 2. Do ustalenia statutu przez osobę upoważnioną stosownie do ust. 1 mają zastosowanie przepisy dotyczące ustalania statutu przez fundatora. 3. Jeżeli fundator ustanowił fundację w testamencie, a nie ustalił jej statutu i nie upoważnił do tej czynności innej osoby, statut ustala właściwy minister."
+      "content": "(uchylony)"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Art. 9",
-      "content": "Właściwy minister odmówi zatwierdzenia fundacji i jej statutu oraz zmian w statucie, jeżeli cel fundacji bądź postanowienia statutu są sprzeczne z przepisami niniejszej ustawy lub innymi powszechnie obowiązującymi przepisami prawa albo w razie bezskutecznego upływu terminu wyznaczonego do przedstawienia statutu lub do wprowadzenia w nim zmian bądź uzupełnień."
+      "content": "Sąd dokonuje wpisu do Krajowego Rejestru Sądowego fundacji po stwierdzeniu, że czynności prawne stanowiące podstawę wpisu zostały podjęte przez uprawnioną osobę lub organ i są ważne. Postanowienie o wpisaniu fundacji do Krajowego Rejestru Sądowego sąd wydaje ponadto po stwierdzeniu, że cel i statut fundacji są zgodne z przepisami prawa. O wpisaniu fundacji do Krajowego Rejestru Sądowego sąd zawiadamia ministra właściwego ze względu na zakres jego działania oraz cele fundacji, zwanego dalej „właściwym ministrem”, oraz właściwego ze względu na siedzibę fundacji starostę, przesyłając jednocześnie statut. Jeżeli cele fundacji wkraczają w zakres działania dwóch lub więcej ministrów, sąd zawiadamia o wpisaniu fundacji do Krajowego Rejestru Sądowego, wraz z przesłaniem statutu, właściwego ministra, z którego zakresem działania wiążą się główne cele fundacji."
+    },
+    {
+      "provision_ref": "art9u1",
+      "section": "9",
+      "title": "Art. 9 ust. 1",
+      "content": "Sąd dokonuje wpisu do Krajowego Rejestru Sądowego fundacji po stwierdzeniu, że czynności prawne stanowiące podstawę wpisu zostały podjęte przez uprawnioną osobę lub organ i są ważne. Postanowienie o wpisaniu fundacji do Krajowego Rejestru Sądowego sąd wydaje ponadto po stwierdzeniu, że cel i statut fundacji są zgodne z przepisami prawa."
+    },
+    {
+      "provision_ref": "art9u2",
+      "section": "9",
+      "title": "Art. 9 ust. 2",
+      "content": "O wpisaniu fundacji do Krajowego Rejestru Sądowego sąd zawiadamia ministra właściwego ze względu na zakres jego działania oraz cele fundacji, zwanego dalej „właściwym ministrem”, oraz właściwego ze względu na siedzibę fundacji starostę, przesyłając jednocześnie statut."
+    },
+    {
+      "provision_ref": "art9u3",
+      "section": "9",
+      "title": "Art. 9 ust. 3",
+      "content": "Jeżeli cele fundacji wkraczają w zakres działania dwóch lub więcej ministrów, sąd zawiadamia o wpisaniu fundacji do Krajowego Rejestru Sądowego, wraz z przesłaniem statutu, właściwego ministra, z którego zakresem działania wiążą się główne cele fundacji."
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Art. 10",
-      "content": "1. Fundacja uzyskuje osobowość prawną z chwilą wpisania do rejestru fundacji. 2. Rejestr fundacji prowadzi Sąd Rejonowy dla Warszawy-Pragi. 3. Rejestr jest jawny i dostępny dla osób trzecich. 4. Minister Sprawiedliwości, w drodze rozporządzenia, określa zasady i tryb postępowania w sprawach rejestru fundacji, dane podlegające wpisowi do tego rejestru, sposób jego prowadzenia oraz szczegółowe zasady udostępniania rejestru do wglądu."
+      "content": "Zarząd fundacji kieruje jej działalnością oraz reprezentuje fundację na zewnątrz."
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Art. 11",
-      "content": "1. Nie pobiera się opłat notarialnych za sporządzenie aktu, którego przedmiotem jest wyłącznie oświadczenie woli o ustanowieniu fundacji. 2. Postępowanie w sprawach rejestru fundacji jest wolne od opłat sądowych."
+      "content": "Podjęcie przez fundację działalności gospodarczej nieprzewidzianej w statucie wymaga uprzedniej zmiany statutu. Zmiana statutu fundacji wymaga wpisania do Krajowego Rejestru Sądowego. Przepisy art. 9 stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "art11u1",
+      "section": "11",
+      "title": "Art. 11 ust. 1",
+      "content": "Podjęcie przez fundację działalności gospodarczej nieprzewidzianej w statucie wymaga uprzedniej zmiany statutu."
+    },
+    {
+      "provision_ref": "art11u2",
+      "section": "11",
+      "title": "Art. 11 ust. 2",
+      "content": "Zmiana statutu fundacji wymaga wpisania do Krajowego Rejestru Sądowego. Przepisy art. 9 stosuje się odpowiednio."
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Art. 12",
-      "content": "Sąd dokonuje wpisu do rejestru fundacji po stwierdzeniu, że czynności prawne stanowiące podstawę wpisu zostały podjęte przez uprawnioną osobę lub organ i są ważne, a decyzje właściwego ministra nie podlegają już zaskarżeniu do sądu administracyjnego."
+      "content": "O zgodności działania fundacji z przepisami prawa i statutem oraz z celem, w jakim fundacja została ustanowiona, orzeka sąd w postępowaniu nieprocesowym na wniosek właściwego ministra lub starosty. Fundacja składa corocznie właściwemu ministrowi sprawozdanie ze swojej działalności obejmujące najważniejsze informacje o działalności fundacji w okresie sprawozdawczym, pozwalające ocenić prawidłowość realizacji przez fundację jej celów statutowych. Przepisu ust. 2 nie stosuje się do fundacji posiadających status organizacji pożytku publicznego, które zamieściły na stronie podmiotowej Narodowego Instytutu Wolności - Centrum Rozwoju Społeczeństwa Obywatelskiego w Biuletynie Informacji Publicznej sprawozdanie merytoryczne z działalności oraz sprawozdanie finansowe zgodnie z przepisami ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie . Sprawozdanie, o którym mowa w ust. 2, sporządza się w postaci elektronicznej, na formularzu udostępnionym w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego Ministra Sprawiedliwości, oraz opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. Sprawozdanie, o którym mowa w ust. 2, jest przez fundację udostępnione do publicznej wiadomości. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, jednolity wzór formularza sprawozdania, o którym mowa w ust. 2, mając na względzie potrzebę zapewnienia informacji pozwalających ocenić prawidłowość realizacji przez fundację jej celów statutowych oraz ujednolicenia sprawozdań."
+    },
+    {
+      "provision_ref": "art12u1",
+      "section": "12",
+      "title": "Art. 12 ust. 1",
+      "content": "O zgodności działania fundacji z przepisami prawa i statutem oraz z celem, w jakim fundacja została ustanowiona, orzeka sąd w postępowaniu nieprocesowym na wniosek właściwego ministra lub starosty."
+    },
+    {
+      "provision_ref": "art12u2",
+      "section": "12",
+      "title": "Art. 12 ust. 2",
+      "content": "Fundacja składa corocznie właściwemu ministrowi sprawozdanie ze swojej działalności obejmujące najważniejsze informacje o działalności fundacji w okresie sprawozdawczym, pozwalające ocenić prawidłowość realizacji przez fundację jej celów statutowych."
+    },
+    {
+      "provision_ref": "art12u2a",
+      "section": "12",
+      "title": "Art. 12 ust. 2a",
+      "content": "Przepisu ust. 2 nie stosuje się do fundacji posiadających status organizacji pożytku publicznego, które zamieściły na stronie podmiotowej Narodowego Instytutu Wolności - Centrum Rozwoju Społeczeństwa Obywatelskiego w Biuletynie Informacji Publicznej sprawozdanie merytoryczne z działalności oraz sprawozdanie finansowe zgodnie z przepisami ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie ."
+    },
+    {
+      "provision_ref": "art12u2b",
+      "section": "12",
+      "title": "Art. 12 ust. 2b",
+      "content": "Sprawozdanie, o którym mowa w ust. 2, sporządza się w postaci elektronicznej, na formularzu udostępnionym w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego Ministra Sprawiedliwości, oraz opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym."
+    },
+    {
+      "provision_ref": "art12u3",
+      "section": "12",
+      "title": "Art. 12 ust. 3",
+      "content": "Sprawozdanie, o którym mowa w ust. 2, jest przez fundację udostępnione do publicznej wiadomości."
+    },
+    {
+      "provision_ref": "art12u4",
+      "section": "12",
+      "title": "Art. 12 ust. 4",
+      "content": "Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, jednolity wzór formularza sprawozdania, o którym mowa w ust. 2, mając na względzie potrzebę zapewnienia informacji pozwalających ocenić prawidłowość realizacji przez fundację jej celów statutowych oraz ujednolicenia sprawozdań."
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Art. 13",
-      "content": "Zarząd fundacji kieruje jej działalnością oraz reprezentuje fundację na zewnątrz."
+      "content": "Właściwy minister lub starosta może wystąpić do sądu o uchylenie uchwały zarządu fundacji, pozostającej w rażącej sprzeczności z jej celem albo z postanowieniami statutu fundacji lub z przepisami prawa. Organ ten może jednocześnie zwrócić się do sądu o wstrzymanie wykonania uchwały do czasu rozstrzygnięcia sprawy."
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Art. 14",
-      "content": "1. Podjęcie przez fundację działalności gospodarczej nie przewidzianej w statucie wymaga uprzedniej zmiany statutu, a w wypadku gdy zmiana statutu nie jest możliwa - uzyskania odrębnego zezwolenia właściwego ministra, wydanego w porozumieniu z Ministrem Finansów. 2. Zatwierdzenie statutu fundacji w części przewidującej działalność gospodarczą lub uzyskanie odrębnego zezwolenia, o którym mowa w ust. 1, nie zwalnia z obowiązku uzyskania przewidzianych w przepisach prawa zezwoleń na prowadzenie tej działalności. 3. Rada Ministrów, w drodze rozporządzenia, określa szczegółowe zasady prowadzenia przez fundację działalności gospodarczej, warunki i tryb wydawania i cofania zezwoleń na jej prowadzenie oraz ulgi i zwolnienia z tytułu przeznaczania zysków z tej działalności na realizację zadań statutowych fundacji."
+      "content": "Jeżeli działanie zarządu fundacji w istotny sposób narusza przepisy prawa lub postanowienia jej statutu albo jest niezgodne z jej celem, organ, o którym mowa w art. 13, może wyznaczyć odpowiedni termin do usunięcia tych uchybień w działalności zarządu albo może żądać dokonania w wyznaczonym terminie zmiany zarządu fundacji. Po bezskutecznym upływie terminu, o którym mowa w ust. 1, albo w razie dalszego uporczywego działania zarządu fundacji w sposób niezgodny z prawem, statutem lub celem fundacji, organ, o którym mowa w art. 13, może wystąpić do sądu o zawieszenie zarządu fundacji i wyznaczenie zarządcy przymusowego. Zarządca przymusowy reprezentuje fundację w sprawach wynikających z zarządu, w tym również w postępowaniu sądowym; jest on obowiązany wykonywać czynności potrzebne do prawidłowego działania fundacji. Sąd uchyli swe postanowienie o zawieszeniu zarządu fundacji i wyznaczeniu zarządcy przymusowego na wniosek zarządu fundacji, jeżeli z okoliczności wynika, że działania, o których mowa w ust. 1, zostaną zaniechane."
+    },
+    {
+      "provision_ref": "art14u1",
+      "section": "14",
+      "title": "Art. 14 ust. 1",
+      "content": "Jeżeli działanie zarządu fundacji w istotny sposób narusza przepisy prawa lub postanowienia jej statutu albo jest niezgodne z jej celem, organ, o którym mowa w art. 13, może wyznaczyć odpowiedni termin do usunięcia tych uchybień w działalności zarządu albo może żądać dokonania w wyznaczonym terminie zmiany zarządu fundacji."
+    },
+    {
+      "provision_ref": "art14u2",
+      "section": "14",
+      "title": "Art. 14 ust. 2",
+      "content": "Po bezskutecznym upływie terminu, o którym mowa w ust. 1, albo w razie dalszego uporczywego działania zarządu fundacji w sposób niezgodny z prawem, statutem lub celem fundacji, organ, o którym mowa w art. 13, może wystąpić do sądu o zawieszenie zarządu fundacji i wyznaczenie zarządcy przymusowego."
+    },
+    {
+      "provision_ref": "art14u3",
+      "section": "14",
+      "title": "Art. 14 ust. 3",
+      "content": "Zarządca przymusowy reprezentuje fundację w sprawach wynikających z zarządu, w tym również w postępowaniu sądowym; jest on obowiązany wykonywać czynności potrzebne do prawidłowego działania fundacji."
+    },
+    {
+      "provision_ref": "art14u4",
+      "section": "14",
+      "title": "Art. 14 ust. 4",
+      "content": "Sąd uchyli swe postanowienie o zawieszeniu zarządu fundacji i wyznaczeniu zarządcy przymusowego na wniosek zarządu fundacji, jeżeli z okoliczności wynika, że działania, o których mowa w ust. 1, zostaną zaniechane."
+    },
+    {
+      "provision_ref": "art14a",
+      "section": "14a",
+      "title": "Art. 14a",
+      "content": "Organ, o którym mowa w art. 13, sprawuje kontrolę nad działalnością fundacji będącej instytucją obowiązaną w rozumieniu przepisów o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu w zakresie zgodności jej działania z przepisami tej ustawy. Do kontroli, o której mowa w ust. 1, stosuje się odpowiednio przepisy rozdziału 12 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu ."
+    },
+    {
+      "provision_ref": "art14au1",
+      "section": "14a",
+      "title": "Art. 14a ust. 1",
+      "content": "Organ, o którym mowa w art. 13, sprawuje kontrolę nad działalnością fundacji będącej instytucją obowiązaną w rozumieniu przepisów o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu w zakresie zgodności jej działania z przepisami tej ustawy."
+    },
+    {
+      "provision_ref": "art14au2",
+      "section": "14a",
+      "title": "Art. 14a ust. 2",
+      "content": "Do kontroli, o której mowa w ust. 1, stosuje się odpowiednio przepisy rozdziału 12 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu ."
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Art. 15",
-      "content": "1. Nadzór nad fundacją co do zgodności jej działania z przepisami prawa i statutem oraz z celem, w jakim fundacja została ustanowiona, sprawuje właściwy minister. 2. Właściwy minister sprawujący nadzór, o którym mowa w ust. 1, w szczególności przeprowadza kontrolę działalności finansowej i gospodarczej fundacji, ma prawo żądać sprawozdań z działalności zarządu oraz przedstawiania programów działania, a także bada prawidłowość wykorzystania środków finansowych i innych zasobów majątkowych fundacji."
+      "content": "W razie osiągnięcia celu, dla którego fundacja była ustanowiona, lub w razie wyczerpania środków finansowych i majątku fundacji, fundacja podlega likwidacji w sposób wskazany w statucie. Jeżeli statut nie przewiduje likwidacji fundacji lub jego postanowienia w tym przedmiocie nie są wykonywane, w wypadkach wymienionych w ust. 1 organ, o którym mowa w art. 13, zwraca się do sądu o likwidację fundacji. W wypadkach innych niż przewidziane w ust. 1 likwidacja fundacji może nastąpić tylko na mocy przepisu ustawy. Jeżeli statut fundacji nie określa przeznaczenia środków majątkowych pozostających po jej likwidacji, sąd orzeka o przeznaczeniu tych środków z uwzględnieniem celów, którym fundacja służyła."
+    },
+    {
+      "provision_ref": "art15u1",
+      "section": "15",
+      "title": "Art. 15 ust. 1",
+      "content": "W razie osiągnięcia celu, dla którego fundacja była ustanowiona, lub w razie wyczerpania środków finansowych i majątku fundacji, fundacja podlega likwidacji w sposób wskazany w statucie."
+    },
+    {
+      "provision_ref": "art15u2",
+      "section": "15",
+      "title": "Art. 15 ust. 2",
+      "content": "Jeżeli statut nie przewiduje likwidacji fundacji lub jego postanowienia w tym przedmiocie nie są wykonywane, w wypadkach wymienionych w ust. 1 organ, o którym mowa w art. 13, zwraca się do sądu o likwidację fundacji."
+    },
+    {
+      "provision_ref": "art15u3",
+      "section": "15",
+      "title": "Art. 15 ust. 3",
+      "content": "W wypadkach innych niż przewidziane w ust. 1 likwidacja fundacji może nastąpić tylko na mocy przepisu ustawy."
+    },
+    {
+      "provision_ref": "art15u4",
+      "section": "15",
+      "title": "Art. 15 ust. 4",
+      "content": "Jeżeli statut fundacji nie określa przeznaczenia środków majątkowych pozostających po jej likwidacji, sąd orzeka o przeznaczeniu tych środków z uwzględnieniem celów, którym fundacja służyła."
+    },
+    {
+      "provision_ref": "art15a",
+      "section": "15a",
+      "title": "Art. 15a",
+      "content": "W stosunku do fundacji korzystającej ze środków publicznych i prowadzącej działalność na obszarze całego kraju, w zakresie działalności prowadzonej na obszarze właściwości miejscowej samorządu powiatowego, starosta wykonuje uprawnienia wynikające z przepisów art. 12-15. Zadania starosty, o których mowa w ustawie, są zadaniami z zakresu administracji rządowej."
+    },
+    {
+      "provision_ref": "art15au1",
+      "section": "15a",
+      "title": "Art. 15a ust. 1",
+      "content": "W stosunku do fundacji korzystającej ze środków publicznych i prowadzącej działalność na obszarze całego kraju, w zakresie działalności prowadzonej na obszarze właściwości miejscowej samorządu powiatowego, starosta wykonuje uprawnienia wynikające z przepisów art. 12-15."
+    },
+    {
+      "provision_ref": "art15au2",
+      "section": "15a",
+      "title": "Art. 15a ust. 2",
+      "content": "Zadania starosty, o których mowa w ustawie, są zadaniami z zakresu administracji rządowej."
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Art. 16",
-      "content": "Właściwy minister może wstrzymać wykonanie lub uchylić uchwałę zarządu fundacji pozostającą w rażącej sprzeczności z jej celem albo z postanowieniami statutu fundacji lub z przepisami prawa."
+      "content": "Nabycie przez fundację w drodze spadku, zapisu lub darowizny pieniędzy lub innych rzeczy ruchomych albo praw majątkowych jest wolne od podatku od spadków i darowizn."
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Art. 17",
-      "content": "1. Jeżeli działanie zarządu fundacji w istotny sposób narusza przepisy prawa lub postanowienia jej statutu albo jest niezgodne z jej celem, właściwy minister może wyznaczyć odpowiedni termin do usunięcia tych uchybień w działalności zarządu albo może żądać dokonania w wyznaczonym terminie zmiany zarządu fundacji. 2. Po bezskutecznym upływie terminu, o którym mowa w ust. 1, albo w razie dalszego uporczywego działania zarządu fundacji w sposób niezgodny z prawem, statutem lub celem fundacji, właściwy minister może zawiesić zarząd fundacji i wyznaczyć zarządcę przymusowego. 3. Zarządca przymusowy reprezentuje fundację w sprawach wynikających z zarządu, w tym również w postępowaniu sądowym; jest on obowiązany wykonywać czynności potrzebne do prawidłowego działania fundacji. 4. Właściwy minister z urzędu lub na wniosek zarządu fundacji uchyli decyzję o zawieszeniu zarządu i o wyznaczeniu zarządcy przymusowego, jeżeli z okoliczności wynika, że działania, o których mowa w ust. 1, zostaną zaniechane."
+      "content": "Spory majątkowe, w których stroną jest fundacja, rozpoznaje sąd."
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Art. 18",
-      "content": "1. W razie osiągnięcia celu, dla którego fundacja była ustanowiona, lub w razie wyczerpania środków finansowych i majątku fundacji, fundacja podlega likwidacji w sposób wskazany w statucie. 2. Jeżeli statut nie przewiduje likwidacji fundacji lub jego postanowienia w tym przedmiocie nie są wykonywane, w wypadkach wymienionych w ust. 1 decyzję o likwidacji podejmuje właściwy minister. 3. W wypadkach innych niż przewidziane w ust. 1 likwidacja fundacji może nastąpić tylko na mocy przepisu ustawy. 4. Jeżeli statut fundacji nie określa przeznaczenia środków majątkowych pozostających po jej likwidacji, właściwy minister wydaje decyzję o przeznaczeniu tych środków z uwzględnieniem celów, którym fundacja służyła."
+      "content": "Ilekroć w ustawie jest mowa o właściwym ministrze, rozumie się przez to również kierownika właściwego urzędu centralnego."
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Art. 19",
-      "content": "Nabycie przez fundację w drodze spadku, zapisu lub darowizny pieniędzy lub innych rzeczy ruchomych albo praw majątkowych jest wolne od podatku od spadków i darowizn."
+      "content": "Fundacje zagraniczne mające siedzibę za granicą mogą tworzyć przedstawicielstwa na terytorium Rzeczypospolitej Polskiej. Utworzenie przedstawicielstwa wymaga zezwolenia, które oznacza jednocześnie zgodę na podjęcie działalności określonej w zezwoleniu. Zezwolenie wydaje minister właściwy ze względu na zakres swego działania oraz cele utworzenia przedstawicielstwa. Zezwolenie może być wydane, jeżeli utworzenie przedstawicielstwa ma służyć realizacji celów określonych w art. 1; jeżeli przedstawicielstwo ma prowadzić także działalność gospodarczą, stosuje się odpowiednio przepis art. 5 ust. 5 zdanie pierwsze. Przedstawicielstwo jest obowiązane przestrzegać przepisów prawa obowiązującego na terytorium Rzeczypospolitej Polskiej. Minister właściwy ze względu na zakres swego działania oraz cele utworzenia przedstawicielstwa może cofnąć zezwolenie, jeżeli przedstawicielstwo nie dotrzymuje warunków określonych w zezwoleniu lub w istotny sposób narusza przepisy prawa obowiązującego na terytorium Rzeczypospolitej Polskiej albo interes państwa. Jeżeli przedstawicielstwo lub reprezentowana przez nie fundacja naraża na szkodę bezpieczeństwo lub inny ważny interes państwa, właściwy minister może zawiesić zezwolenie. Zawieszenie zezwolenia powoduje - do czasu podjęcia decyzji w sprawie cofnięcia zezwolenia - bezzwłoczne zaprzestanie działalności objętej zezwoleniem bez odszkodowania z tego tytułu. W sprawach działalności gospodarczej przedstawicielstwa stosuje się ponadto przepisy odrębne, dotyczące prowadzenia działalności gospodarczej na terytorium Rzeczypospolitej Polskiej przez przedstawicielstwa podmiotów zagranicznych."
+    },
+    {
+      "provision_ref": "art19u1",
+      "section": "19",
+      "title": "Art. 19 ust. 1",
+      "content": "Fundacje zagraniczne mające siedzibę za granicą mogą tworzyć przedstawicielstwa na terytorium Rzeczypospolitej Polskiej."
+    },
+    {
+      "provision_ref": "art19u2",
+      "section": "19",
+      "title": "Art. 19 ust. 2",
+      "content": "Utworzenie przedstawicielstwa wymaga zezwolenia, które oznacza jednocześnie zgodę na podjęcie działalności określonej w zezwoleniu. Zezwolenie wydaje minister właściwy ze względu na zakres swego działania oraz cele utworzenia przedstawicielstwa."
+    },
+    {
+      "provision_ref": "art19u3",
+      "section": "19",
+      "title": "Art. 19 ust. 3",
+      "content": "Zezwolenie może być wydane, jeżeli utworzenie przedstawicielstwa ma służyć realizacji celów określonych w art. 1; jeżeli przedstawicielstwo ma prowadzić także działalność gospodarczą, stosuje się odpowiednio przepis art. 5 ust. 5 zdanie pierwsze."
+    },
+    {
+      "provision_ref": "art19u4",
+      "section": "19",
+      "title": "Art. 19 ust. 4",
+      "content": "Przedstawicielstwo jest obowiązane przestrzegać przepisów prawa obowiązującego na terytorium Rzeczypospolitej Polskiej."
+    },
+    {
+      "provision_ref": "art19u5",
+      "section": "19",
+      "title": "Art. 19 ust. 5",
+      "content": "Minister właściwy ze względu na zakres swego działania oraz cele utworzenia przedstawicielstwa może cofnąć zezwolenie, jeżeli przedstawicielstwo nie dotrzymuje warunków określonych w zezwoleniu lub w istotny sposób narusza przepisy prawa obowiązującego na terytorium Rzeczypospolitej Polskiej albo interes państwa."
+    },
+    {
+      "provision_ref": "art19u6",
+      "section": "19",
+      "title": "Art. 19 ust. 6",
+      "content": "Jeżeli przedstawicielstwo lub reprezentowana przez nie fundacja naraża na szkodę bezpieczeństwo lub inny ważny interes państwa, właściwy minister może zawiesić zezwolenie. Zawieszenie zezwolenia powoduje - do czasu podjęcia decyzji w sprawie cofnięcia zezwolenia - bezzwłoczne zaprzestanie działalności objętej zezwoleniem bez odszkodowania z tego tytułu."
+    },
+    {
+      "provision_ref": "art19u7",
+      "section": "19",
+      "title": "Art. 19 ust. 7",
+      "content": "W sprawach działalności gospodarczej przedstawicielstwa stosuje się ponadto przepisy odrębne, dotyczące prowadzenia działalności gospodarczej na terytorium Rzeczypospolitej Polskiej przez przedstawicielstwa podmiotów zagranicznych."
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Art. 20",
-      "content": "Właściwy minister podejmuje czynności przewidziane w niniejszej ustawie w formie decyzji. Na decyzje te przysługuje skarga do Naczelnego Sądu Administracyjnego na zasadach i w trybie określonych w Kodeksie postępowania administracyjnego ."
-    },
-    {
-      "provision_ref": "art21",
-      "section": "21",
-      "title": "Art. 21",
-      "content": "Spory majątkowe, których stroną jest fundacja, rozpoznaje sąd."
-    },
-    {
-      "provision_ref": "art22",
-      "section": "22",
-      "title": "Art. 22",
-      "content": "Ilekroć w ustawie jest mowa o właściwym ministrze, rozumie się przez to również kierownika właściwego urzędu centralnego."
-    },
-    {
-      "provision_ref": "art23",
-      "section": "23",
-      "title": "Art. 23",
-      "content": "1. Fundacje działające na podstawie przepisów dotychczasowych są obowiązane złożyć do sądu prowadzącego rejestr fundacji, w terminie 12 miesięcy od dnia wejścia w życie niniejszej ustawy, wnioski o wpis do rejestru fundacji oraz zawiadomić o ich złożeniu właściwego ministra. 2. W razie niedopełnienia obowiązku określonego w ust. 1, przepisy art. 17 stosuje się odpowiednio."
-    },
-    {
-      "provision_ref": "art24",
-      "section": "24",
-      "title": "Art. 24",
       "content": "Przepisy niniejszej ustawy nie naruszają przepisów prawa prywatnego międzynarodowego."
-    },
-    {
-      "provision_ref": "art25",
-      "section": "25",
-      "title": "Art. 25",
-      "content": "Traci moc dekret z dnia 7 lutego 1919 r. o fundacjach i o zatwierdzaniu darowizn i zapisów ( Dz. U. Nr 15, poz. 215 , z 1928 r. Nr 38, poz. 372 , z 1947 r. Nr 66, poz. 400 , z 1952 r. Nr 25, poz. 172 , z 1957 r. Nr 1, poz. 3 i z 1964 r. Nr 16, poz. 94 ) ."
-    },
-    {
-      "provision_ref": "art26",
-      "section": "26",
-      "title": "Art. 26",
-      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"arti_7-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_7-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_7-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"arti_8-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_8-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_8-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\",\"children\": [{\"id\": \"arti_10-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_10-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_10-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_10-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\",\"children\": [{\"id\": \"arti_11-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_11-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"},{\"id\": \"arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\",\"children\": [{\"id\": \"arti_14-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_14-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_14-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\",\"children\": [{\"id\": \"arti_15-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_15-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\"},{\"id\": \"arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\",\"children\": [{\"id\": \"arti_17-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_17-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_17-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_17-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\",\"children\": [{\"id\": \"arti_18-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_18-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_18-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_18-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\"},{\"id\": \"arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\"},{\"id\": \"arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\"},{\"id\": \"arti_22\",\"symbol\": \"arti_22\",\"type\": \"arti\",\"name\": \"22\",\"title\": \"Art. 22.\"},{\"id\": \"arti_23\",\"symbol\": \"arti_23\",\"type\": \"arti\",\"name\": \"23\",\"title\": \"Art. 23.\",\"children\": [{\"id\": \"arti_23-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_23-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_24\",\"symbol\": \"arti_24\",\"type\": \"arti\",\"name\": \"24\",\"title\": \"Art. 24.\"},{\"id\": \"arti_25\",\"symbol\": \"arti_25\",\"type\": \"arti\",\"name\": \"25\",\"title\": \"Art. 25.\"},{\"id\": \"arti_26\",\"symbol\": \"arti_26\",\"type\": \"arti\",\"name\": \"26\",\"title\": \"Art. 26.\"} ] } ];"
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2019-1461",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-2167",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2185",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-1657",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2280",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2674",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2705",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2770",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-1327",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-1265",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-1812",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-593",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-655",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-835",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2180",
+      "ref_type": "references"
+    }
+  ]
 }

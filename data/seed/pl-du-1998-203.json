@@ -19,14 +19,80 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Do uznania, o którym mowa w art. 1, nie stosuje się przepisu art. 22 ustawy z dnia 12 września 1990 r. o tytule naukowym i stopniach naukowych ( Dz. U. Nr 65, poz. 386 i z 1997 r. Nr 43, poz. 272 ) i przepisu art. 150 ustawy z dnia 12 września 1990 r. o szkolnictwie wyższym ( Dz. U. Nr 65, poz. 385 , z 1992 r. Nr 54, poz. 254 i Nr 63, poz. 314 , z 1994 r. Nr 1, poz. 3 , Nr 43, poz. 163 , Nr 105, poz. 509 i Nr 121, poz. 591 , z 1996 r. Nr 5, poz. 34 i Nr 24, poz. 110 oraz z 1997 r. Nr 28, poz. 153 , Nr 96, poz. 590 , Nr 104, poz. 661 , Nr 121, poz. 770 i Nr 141, poz. 943 ) ."
+      "content": "Do uznania, o którym mowa w art. 1, nie stosuje się przepisu art. 22 ustawy z dnia 12 września 1990 r. o tytule naukowym i stopniach naukowych i przepisu art. 150 ustawy z dnia 12 września 1990 r. o szkolnictwie wyższym ."
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-1990-386",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1997-272",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1990-385",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1992-254",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1992-314",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1994-3",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1994-163",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1994-509",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1994-591",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1996-34",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1996-110",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1997-153",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1997-590",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1997-661",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1997-770",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1997-943",
+      "ref_type": "references"
+    }
+  ]
 }

@@ -13,7 +13,31 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "Zatwierdza się dekret z dnia 9 grudnia 1918, № 20 Dz. Pr. za rok 1918 poz. 57, w przedmiocie niektórych zmian w Kodeksie Karnym i ustawie postępowania karnego z następującemi zmianami: 1) Część 2-ga art. i ma brzmieć: „ Ustęp pierwszy art. 55 K. K. otrzymuje brzmienie następujące: Zamiast kary śmierci i ciężkich robót bezterminowych stosuje się zamknięcie w więzieniu na czas do lat 12, zamiast ciężkich robót terminowych - zamknięcie w więzieniu na czas do lat 8, a zamiast zesłania na osiedlenie i domu poprawy - zamknięcie w więzieniu na czas do lat 3 ” . 2) W art. 2 po „623” dodać należy „625 ustęp 6”. 3) W art. 3 po wyrazach, 476 K. K.” zamiast słów „a ile dotyczą, ojca i matki” dodać należy słowa: „o ile dotyczą ojca, matki lub innych krewnych wstępnych”. 4) W art. 7 wyrazy „10 lipca” zastąpić należy wyrazami „18 lipca”."
+      "content": "Zatwierdza się dekret z dnia 9 grudnia 1918, № 20 Dz. Pr. za rok 1918 poz. 57, w przedmiocie niektórych zmian w Kodeksie Karnym i ustawie postępowania karnego z następującemi zmianami: Część 2-ga art. i ma brzmieć: „ Ustęp pierwszy art. 55 K. K. otrzymuje brzmienie następujące: Zamiast kary śmierci i ciężkich robót bezterminowych stosuje się zamknięcie w więzieniu na czas do lat 12, zamiast ciężkich robót terminowych - zamknięcie w więzieniu na czas do lat 8, a zamiast zesłania na osiedlenie i domu poprawy - zamknięcie w więzieniu na czas do lat 3 ” . W art. 2 po „623” dodać należy „625 ustęp 6”. W art. 3 po wyrazach, 476 K. K.” zamiast słów „a ile dotyczą, ojca i matki” dodać należy słowa: „o ile dotyczą ojca, matki lub innych krewnych wstępnych”. W art. 7 wyrazy „10 lipca” zastąpić należy wyrazami „18 lipca”."
+    },
+    {
+      "provision_ref": "art1p1",
+      "section": "1",
+      "title": "Art. 1 pkt 1",
+      "content": "Zatwierdza się dekret z dnia 9 grudnia 1918, № 20 Dz. Pr. za rok 1918 poz. 57, w przedmiocie niektórych zmian w Kodeksie Karnym i ustawie postępowania karnego z następującemi zmianami: Część 2-ga art. i ma brzmieć: „ Ustęp pierwszy art. 55 K. K. otrzymuje brzmienie następujące: Zamiast kary śmierci i ciężkich robót bezterminowych stosuje się zamknięcie w więzieniu na czas do lat 12, zamiast ciężkich robót terminowych - zamknięcie w więzieniu na czas do lat 8, a zamiast zesłania na osiedlenie i domu poprawy - zamknięcie w więzieniu na czas do lat 3 ” ."
+    },
+    {
+      "provision_ref": "art1p2",
+      "section": "1",
+      "title": "Art. 1 pkt 2",
+      "content": "Zatwierdza się dekret z dnia 9 grudnia 1918, № 20 Dz. Pr. za rok 1918 poz. 57, w przedmiocie niektórych zmian w Kodeksie Karnym i ustawie postępowania karnego z następującemi zmianami: W art. 2 po „623” dodać należy „625 ustęp 6”."
+    },
+    {
+      "provision_ref": "art1p3",
+      "section": "1",
+      "title": "Art. 1 pkt 3",
+      "content": "Zatwierdza się dekret z dnia 9 grudnia 1918, № 20 Dz. Pr. za rok 1918 poz. 57, w przedmiocie niektórych zmian w Kodeksie Karnym i ustawie postępowania karnego z następującemi zmianami: W art. 3 po wyrazach, 476 K. K.” zamiast słów „a ile dotyczą, ojca i matki” dodać należy słowa: „o ile dotyczą ojca, matki lub innych krewnych wstępnych”."
+    },
+    {
+      "provision_ref": "art1p4",
+      "section": "1",
+      "title": "Art. 1 pkt 4",
+      "content": "Zatwierdza się dekret z dnia 9 grudnia 1918, № 20 Dz. Pr. za rok 1918 poz. 57, w przedmiocie niektórych zmian w Kodeksie Karnym i ustawie postępowania karnego z następującemi zmianami: W art. 7 wyrazy „10 lipca” zastąpić należy wyrazami „18 lipca”."
     },
     {
       "provision_ref": "art2",
@@ -37,8 +61,9 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Art. 5",
-      "content": "Wykonanie niniejszej ustawy należy do Ministra Sprawiedliwości. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+      "content": "Wykonanie niniejszej ustawy należy do Ministra Sprawiedliwości."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "references": []
 }

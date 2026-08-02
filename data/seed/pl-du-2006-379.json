@@ -13,13 +13,19 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "Ustawa określa zasady oraz tryb zwrotu podatku akcyzowego, zwanego dalej „zwrotem podatku”, zawartego w cenie oleju napędowego oznaczonego kodem CN 2710 19 41 do 2710 19 49, wykorzystywanego do produkcji rolnej, zwanego dalej „olejem napędowym”."
+      "content": "Ustawa określa zasady oraz tryb zwrotu podatku akcyzowego, zwanego dalej „zwrotem podatku”, zawartego w cenie oleju napędowego oznaczonego kodem CN 2710 19 43 do 2710 19 48, kodem CN 2710 20 11 do CN 2710 20 19 oraz kodem CN 3826 00, wykorzystywanego do produkcji rolnej, zwanego dalej „olejem napędowym”."
+    },
+    {
+      "provision_ref": "art1a",
+      "section": "1a",
+      "title": "Art. 1a",
+      "content": "Zmiany oznaczenia oleju napędowego w Nomenklaturze Scalonej (CN) nie powodują zmian w zakresie zwrotu podatku akcyzowego zawartego w cenie oleju napędowego wykorzystywanego do produkcji rolnej, jeżeli nie zostały określone w niniejszej ustawie."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Do postępowania w sprawach indywidualnych dotyczących ustalania i wypłaty zwrotu podatku w zakresie nieuregulowanym ustawą stosuje się przepisy Kodeksu postępowania administracyjnego ."
+      "content": "Do postępowania w sprawach indywidualnych dotyczących ustalania i wypłaty zwrotu podatku w zakresie nieuregulowanym ustawą stosuje się przepisy Kodeksu postępowania administracyjnego."
     },
     {
       "provision_ref": "art3",
@@ -28,10 +34,160 @@
       "content": "1. Zwrot podatku przysługuje producentowi rolnemu. 2. Za producenta rolnego uważa się osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, będącą posiadaczem gospodarstwa rolnego w rozumieniu przepisów o podatku rolnym. 3. W przypadku gdy grunty gospodarstwa rolnego stanowią przedmiot posiadania samoistnego i posiadania zależnego, zwrot podatku przysługuje posiadaczowi zależnemu. 4. W przypadku gdy grunty gospodarstwa rolnego stanowią przedmiot współposiadania, zwrot podatku przysługuje temu współposiadaczowi, w stosunku do którego pozostali współposiadacze wyrazili pisemną zgodę. Pisemna zgoda nie dotyczy współmałżonków."
     },
     {
+      "provision_ref": "art3u1",
+      "section": "3",
+      "title": "Art. 3 ust. 1",
+      "content": "Zwrot podatku przysługuje producentowi rolnemu."
+    },
+    {
+      "provision_ref": "art3u2",
+      "section": "3",
+      "title": "Art. 3 ust. 2",
+      "content": "Za producenta rolnego uważa się osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, będącą posiadaczem gospodarstwa rolnego w rozumieniu przepisów o podatku rolnym."
+    },
+    {
+      "provision_ref": "art3u3",
+      "section": "3",
+      "title": "Art. 3 ust. 3",
+      "content": "W przypadku gdy grunty gospodarstwa rolnego stanowią przedmiot posiadania samoistnego i posiadania zależnego, zwrot podatku przysługuje posiadaczowi zależnemu."
+    },
+    {
+      "provision_ref": "art3u4",
+      "section": "3",
+      "title": "Art. 3 ust. 4",
+      "content": "W przypadku gdy grunty gospodarstwa rolnego stanowią przedmiot współposiadania, zwrot podatku przysługuje temu współposiadaczowi, w stosunku do którego pozostali współposiadacze wyrazili pisemną zgodę. Pisemna zgoda nie dotyczy współmałżonków."
+    },
+    {
+      "provision_ref": "art3a",
+      "section": "3a",
+      "title": "Art. 3a",
+      "content": "1. Zwrot podatku nie przysługuje producentowi rolnemu: 1) będącemu spółką z ograniczoną odpowiedzialnością, jeżeli ponad połowa kapitału zakładowego spółki ujawnionego w rejestrze przedsiębiorców Krajowego Rejestru Sądowego została utracona, w tym ponad 1/4 w okresie 12 miesięcy bezpośrednio poprzedzających dzień złożenia wniosku o zwrot podatku; 2) będącemu spółką, w której niektórzy członkowie są w sposób nieograniczony odpowiedzialni za zobowiązania spółki, a ponad połowa jej kapitału zgodnie ze sprawozdaniem finansowym została utracona, w tym 1/4 w okresie 12 miesięcy bezpośrednio poprzedzających dzień złożenia wniosku o zwrot podatku; 3) bez względu na formę spółki, jeżeli istnieją podstawy do ogłoszenia upadłości. 2. Przepisów ust. 1 nie stosuje się do producenta rolnego prowadzącego działalność rolniczą krócej niż 3 lata."
+    },
+    {
+      "provision_ref": "art3au1p1",
+      "section": "3a",
+      "title": "Art. 3a ust. 1 pkt 1",
+      "content": "będącemu spółką z ograniczoną odpowiedzialnością, jeżeli ponad połowa kapitału zakładowego spółki ujawnionego w rejestrze przedsiębiorców Krajowego Rejestru Sądowego została utracona, w tym ponad 1/4 w okresie 12 miesięcy bezpośrednio poprzedzających dzień złożenia wniosku o zwrot podatku;"
+    },
+    {
+      "provision_ref": "art3au1p2",
+      "section": "3a",
+      "title": "Art. 3a ust. 1 pkt 2",
+      "content": "będącemu spółką, w której niektórzy członkowie są w sposób nieograniczony odpowiedzialni za zobowiązania spółki, a ponad połowa jej kapitału zgodnie ze sprawozdaniem finansowym została utracona, w tym 1/4 w okresie 12 miesięcy bezpośrednio poprzedzających dzień złożenia wniosku o zwrot podatku;"
+    },
+    {
+      "provision_ref": "art3au1p3",
+      "section": "3a",
+      "title": "Art. 3a ust. 1 pkt 3",
+      "content": "bez względu na formę spółki, jeżeli istnieją podstawy do ogłoszenia upadłości."
+    },
+    {
+      "provision_ref": "art3au2",
+      "section": "3a",
+      "title": "Art. 3a ust. 2",
+      "content": "Przepisów ust. 1 nie stosuje się do producenta rolnego prowadzącego działalność rolniczą krócej niż 3 lata."
+    },
+    {
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "1. Kwotę zwrotu podatku ustala się jako iloczyn ilości oleju napędowego zakupionego przez producenta rolnego, wynikającej z faktur VAT, i stawki zwrotu podatku na 1 litr oleju napędowego, obowiązującej w dniu złożenia wniosku o zwrot podatku, w ramach rocznego limitu ustalonego w sposób określony w ust. 2. 2. Limit ustala się jako kwotę stanowiącą iloczyn stawki zwrotu podatku na 1 litr oleju napędowego, liczby 86 oraz powierzchni użytków rolnych, będących w posiadaniu lub współposiadaniu producenta rolnego, określonej w ewidencji gruntów i budynków, według stanu na dzień 1 kwietnia danego roku. 3. Przy ustalaniu limitu, o którym mowa w ust. 2, nie uwzględnia się: 1) gruntów gospodarstw rolnych, na których zaprzestano produkcji rolnej w rozumieniu przepisów o podatku rolnym; 2) gruntów zajętych na prowadzenie działalności gospodarczej innej niż działalność rolnicza w rozumieniu przepisów o podatku rolnym. 4. Rada Ministrów określa, w drodze rozporządzenia, corocznie, w terminie do dnia 30 listopada, stawkę zwrotu podatku na 1 litr oleju napędowego na rok następny, mając na względzie projekt ustawy budżetowej na następny rok i obowiązującą stawkę podatku akcyzowego od oleju napędowego."
+      "content": "1. Kwotę zwrotu podatku ustala się jako iloczyn ilości oleju napędowego zakupionego przez producenta rolnego, wynikającej z faktur VAT, i stawki zwrotu podatku na 1 litr oleju napędowego, obowiązującej w dniu złożenia wniosku o zwrot podatku, w ramach rocznego limitu ustalonego w sposób określony w ust. 2. 2. Limit ustala się jako sumę: 1) kwoty stanowiącej iloczyn stawki zwrotu podatku na 1 litr oleju napędowego, liczby 110 oraz powierzchni użytków rolnych będących w posiadaniu lub współposiadaniu producenta rolnego określonej w ewidencji gruntów i budynków, według stanu na dzień 1 lutego danego roku, oraz 2) kwoty stanowiącej iloczyn stawki zwrotu podatku na 1 litr oleju napędowego, liczby 40 oraz średniej rocznej liczby dużych jednostek przeliczeniowych bydła będącego w posiadaniu producenta rolnego w roku poprzedzającym rok, w którym został złożony wniosek o zwrot podatku, oraz 3) kwoty stanowiącej iloczyn stawki zwrotu podatku na 1 litr oleju napędowego, liczby 4 oraz średniej rocznej liczby świń będących w posiadaniu producenta rolnego w roku poprzedzającym rok, w którym został złożony wniosek o zwrot podatku, oraz 1) Niniejsza ustawa wdraża przepisy dyrektywy Rady 2003/96/WE z dnia 27 października 2003 r. w sprawie restrukturyzacji wspólnotowych przepisów ramowych dotyczących opodatkowania produktów energetycznych i energii elektrycznej (Dz. Urz. UE L 283 z 31.10.2003, s. 51; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 9, t. 1, s. 405). Poz. 546 4) kwoty stanowiącej iloczyn stawki zwrotu podatku na 1 litr oleju napędowego, liczby 40 oraz średniej rocznej liczby dużych jednostek przeliczeniowych owiec będących w posiadaniu producenta rolnego w roku poprzedzającym rok, w którym został złożony wniosek o zwrot podatku, oraz 5) kwoty stanowiącej iloczyn stawki zwrotu podatku na 1 litr oleju napędowego, liczby 40 oraz średniej rocznej liczby dużych jednostek przeliczeniowych kóz będących w posiadaniu producenta rolnego w roku poprzedzającym rok, w którym został złożony wniosek o zwrot podatku, oraz 6) kwoty stanowiącej iloczyn stawki zwrotu podatku na 1 litr oleju napędowego, liczby 40 oraz średniej rocznej liczby dużych jednostek przeliczeniowych koni będących w posiadaniu producenta rolnego w roku poprzedzającym rok, w którym został złożony wniosek o zwrot podatku. 3. Przy ustalaniu limitu, o którym mowa w ust. 2, nie uwzględnia się: 1) gruntów gospodarstw rolnych, na których zaprzestano produkcji rolnej w rozumieniu przepisów o podatku rolnym; 2) gruntów zajętych na prowadzenie działalności gospodarczej innej niż działalność rolnicza w rozumieniu przepisów o podatku rolnym. 3a. Średnią roczną liczbę dużych jednostek przeliczeniowych bydła, o której mowa w ust. 2 pkt 2, ustala się jako iloraz sumy dużych jednostek przeliczeniowych bydła będącego w posiadaniu producenta rolnego w ostatnim dniu każdego miesiąca roku poprzedzającego rok, w którym został złożony wniosek o zwrot podatku, ustalonych z uwzględnieniem wartości współczynników przeliczeniowych sztuk bydła na duże jednostki przeliczeniowe określonych w załączniku do ustawy, i liczby 12. 3b. Średnią roczną liczbę świń, o której mowa w ust. 2 pkt 3, ustala się jako iloraz sumy liczby świń będących w posiadaniu producenta rolnego w ostatnim dniu każdego miesiąca roku poprzedzającego rok, w którym został złożony wniosek o zwrot podatku, i liczby 12. 3c. Średnią roczną liczbę dużych jednostek przeliczeniowych owiec, o której mowa w ust. 2 pkt 4, ustala się jako iloraz sumy dużych jednostek przeliczeniowych owiec będących w posiadaniu producenta rolnego w ostatnim dniu każdego miesiąca roku poprzedzającego rok, w którym został złożony wniosek o zwrot podatku, ustalonych z uwzględnieniem wartości współczynników przeliczeniowych sztuk owiec na duże jednostki przeliczeniowe określonych w załączniku do ustawy, i liczby 12. 3d. Średnią roczną liczbę dużych jednostek przeliczeniowych kóz, o której mowa w ust. 2 pkt 5, ustala się jako iloraz sumy dużych jednostek przeliczeniowych kóz będących w posiadaniu producenta rolnego w ostatnim dniu każdego miesiąca roku poprzedzającego rok, w którym został złożony wniosek o zwrot podatku, ustalonych z uwzględnieniem wartości współczynników przeliczeniowych sztuk kóz na duże jednostki przeliczeniowe określonych w załączniku do ustawy, i liczby 12. 3e. Średnią roczną liczbę dużych jednostek przeliczeniowych koni, o której mowa w ust. 2 pkt 6, ustala się jako iloraz sumy dużych jednostek przeliczeniowych koni będących w posiadaniu producenta rolnego w ostatnim dniu każdego miesiąca roku poprzedzającego rok, w którym został złożony wniosek o zwrot podatku, ustalonych z uwzględnieniem wartości współczynników przeliczeniowych sztuk koni na duże jednostki przeliczeniowe określonych w załączniku do ustawy, i liczby 12. 4. Rada Ministrów określa, w drodze rozporządzenia, corocznie, w terminie do dnia 31 grudnia, stawkę zwrotu podatku na 1 litr oleju napędowego na rok następny, mając na względzie projekt ustawy budżetowej na następny rok i obowiązującą stawkę podatku akcyzowego od oleju napędowego."
+    },
+    {
+      "provision_ref": "art4u1",
+      "section": "4",
+      "title": "Art. 4 ust. 1",
+      "content": "Kwotę zwrotu podatku ustala się jako iloczyn ilości oleju napędowego zakupionego przez producenta rolnego, wynikającej z faktur VAT, i stawki zwrotu podatku na 1 litr oleju napędowego, obowiązującej w dniu złożenia wniosku o zwrot podatku, w ramach rocznego limitu ustalonego w sposób określony w ust. 2."
+    },
+    {
+      "provision_ref": "art4u2p1",
+      "section": "4",
+      "title": "Art. 4 ust. 2 pkt 1",
+      "content": "kwoty stanowiącej iloczyn stawki zwrotu podatku na 1 litr oleju napędowego, liczby 110 oraz powierzchni użytków rolnych będących w posiadaniu lub współposiadaniu producenta rolnego określonej w ewidencji gruntów i budynków, według stanu na dzień 1 lutego danego roku, oraz"
+    },
+    {
+      "provision_ref": "art4u2p2",
+      "section": "4",
+      "title": "Art. 4 ust. 2 pkt 2",
+      "content": "kwoty stanowiącej iloczyn stawki zwrotu podatku na 1 litr oleju napędowego, liczby 40 oraz średniej rocznej liczby dużych jednostek przeliczeniowych bydła będącego w posiadaniu producenta rolnego w roku poprzedzającym rok, w którym został złożony wniosek o zwrot podatku, oraz"
+    },
+    {
+      "provision_ref": "art4u2p3",
+      "section": "4",
+      "title": "Art. 4 ust. 2 pkt 3",
+      "content": "kwoty stanowiącej iloczyn stawki zwrotu podatku na 1 litr oleju napędowego, liczby 4 oraz średniej rocznej liczby świń będących w posiadaniu producenta rolnego w roku poprzedzającym rok, w którym został złożony wniosek o zwrot podatku, oraz"
+    },
+    {
+      "provision_ref": "art4u2p1",
+      "section": "4",
+      "title": "Art. 4 ust. 2 pkt 1",
+      "content": "Niniejsza ustawa wdraża przepisy dyrektywy Rady 2003/96/WE z dnia 27 października 2003 r. w sprawie restrukturyzacji wspólnotowych przepisów ramowych dotyczących opodatkowania produktów energetycznych i energii elektrycznej (Dz. Urz. UE L 283 z 31.10.2003, s. 51; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 9, t. 1, s. 405). Poz. 546"
+    },
+    {
+      "provision_ref": "art4u2p4",
+      "section": "4",
+      "title": "Art. 4 ust. 2 pkt 4",
+      "content": "kwoty stanowiącej iloczyn stawki zwrotu podatku na 1 litr oleju napędowego, liczby 40 oraz średniej rocznej liczby dużych jednostek przeliczeniowych owiec będących w posiadaniu producenta rolnego w roku poprzedzającym rok, w którym został złożony wniosek o zwrot podatku, oraz"
+    },
+    {
+      "provision_ref": "art4u2p5",
+      "section": "4",
+      "title": "Art. 4 ust. 2 pkt 5",
+      "content": "kwoty stanowiącej iloczyn stawki zwrotu podatku na 1 litr oleju napędowego, liczby 40 oraz średniej rocznej liczby dużych jednostek przeliczeniowych kóz będących w posiadaniu producenta rolnego w roku poprzedzającym rok, w którym został złożony wniosek o zwrot podatku, oraz"
+    },
+    {
+      "provision_ref": "art4u2p6",
+      "section": "4",
+      "title": "Art. 4 ust. 2 pkt 6",
+      "content": "kwoty stanowiącej iloczyn stawki zwrotu podatku na 1 litr oleju napędowego, liczby 40 oraz średniej rocznej liczby dużych jednostek przeliczeniowych koni będących w posiadaniu producenta rolnego w roku poprzedzającym rok, w którym został złożony wniosek o zwrot podatku."
+    },
+    {
+      "provision_ref": "art4u3p1",
+      "section": "4",
+      "title": "Art. 4 ust. 3 pkt 1",
+      "content": "gruntów gospodarstw rolnych, na których zaprzestano produkcji rolnej w rozumieniu przepisów o podatku rolnym;"
+    },
+    {
+      "provision_ref": "art4u3p2",
+      "section": "4",
+      "title": "Art. 4 ust. 3 pkt 2",
+      "content": "gruntów zajętych na prowadzenie działalności gospodarczej innej niż działalność rolnicza w rozumieniu przepisów o podatku rolnym."
+    },
+    {
+      "provision_ref": "art4u3a",
+      "section": "4",
+      "title": "Art. 4 ust. 3a",
+      "content": "Średnią roczną liczbę dużych jednostek przeliczeniowych bydła, o której mowa w ust. 2 pkt 2, ustala się jako iloraz sumy dużych jednostek przeliczeniowych bydła będącego w posiadaniu producenta rolnego w ostatnim dniu każdego miesiąca roku poprzedzającego rok, w którym został złożony wniosek o zwrot podatku, ustalonych z uwzględnieniem wartości współczynników przeliczeniowych sztuk bydła na duże jednostki przeliczeniowe określonych w załączniku do ustawy, i liczby 12."
+    },
+    {
+      "provision_ref": "art4u3b",
+      "section": "4",
+      "title": "Art. 4 ust. 3b",
+      "content": "Średnią roczną liczbę świń, o której mowa w ust. 2 pkt 3, ustala się jako iloraz sumy liczby świń będących w posiadaniu producenta rolnego w ostatnim dniu każdego miesiąca roku poprzedzającego rok, w którym został złożony wniosek o zwrot podatku, i liczby 12."
+    },
+    {
+      "provision_ref": "art4u3c",
+      "section": "4",
+      "title": "Art. 4 ust. 3c",
+      "content": "Średnią roczną liczbę dużych jednostek przeliczeniowych owiec, o której mowa w ust. 2 pkt 4, ustala się jako iloraz sumy dużych jednostek przeliczeniowych owiec będących w posiadaniu producenta rolnego w ostatnim dniu każdego miesiąca roku poprzedzającego rok, w którym został złożony wniosek o zwrot podatku, ustalonych z uwzględnieniem wartości współczynników przeliczeniowych sztuk owiec na duże jednostki przeliczeniowe określonych w załączniku do ustawy, i liczby 12."
+    },
+    {
+      "provision_ref": "art4u3d",
+      "section": "4",
+      "title": "Art. 4 ust. 3d",
+      "content": "Średnią roczną liczbę dużych jednostek przeliczeniowych kóz, o której mowa w ust. 2 pkt 5, ustala się jako iloraz sumy dużych jednostek przeliczeniowych kóz będących w posiadaniu producenta rolnego w ostatnim dniu każdego miesiąca roku poprzedzającego rok, w którym został złożony wniosek o zwrot podatku, ustalonych z uwzględnieniem wartości współczynników przeliczeniowych sztuk kóz na duże jednostki przeliczeniowe określonych w załączniku do ustawy, i liczby 12."
+    },
+    {
+      "provision_ref": "art4u3e",
+      "section": "4",
+      "title": "Art. 4 ust. 3e",
+      "content": "Średnią roczną liczbę dużych jednostek przeliczeniowych koni, o której mowa w ust. 2 pkt 6, ustala się jako iloraz sumy dużych jednostek przeliczeniowych koni będących w posiadaniu producenta rolnego w ostatnim dniu każdego miesiąca roku poprzedzającego rok, w którym został złożony wniosek o zwrot podatku, ustalonych z uwzględnieniem wartości współczynników przeliczeniowych sztuk koni na duże jednostki przeliczeniowe określonych w załączniku do ustawy, i liczby 12."
+    },
+    {
+      "provision_ref": "art4u4",
+      "section": "4",
+      "title": "Art. 4 ust. 4",
+      "content": "Rada Ministrów określa, w drodze rozporządzenia, corocznie, w terminie do dnia 31 grudnia, stawkę zwrotu podatku na 1 litr oleju napędowego na rok następny, mając na względzie projekt ustawy budżetowej na następny rok i obowiązującą stawkę podatku akcyzowego od oleju napędowego."
     },
     {
       "provision_ref": "art5",
@@ -40,40 +196,298 @@
       "content": "1. Wójt, burmistrz (prezydent miasta) właściwy ze względu na miejsce położenia gruntów będących w posiadaniu lub współposiadaniu producenta rolnego przyznaje, na wniosek tego producenta, w drodze decyzji, zwrot podatku. 2. Zwrot podatku przyznaje się za okres 6 miesięcy poprzedzających miesiąc złożenia wniosku o zwrot podatku. 3. Decyzja zawiera limit ustalony w sposób określony w art. 4 ust. 2, kwotę zwrotu podatku oraz część limitu pozostałą do wykorzystania. 4. Decyzję wydaje się w terminie 30 dni od dnia złożenia wniosku o zwrot podatku."
     },
     {
+      "provision_ref": "art5u1",
+      "section": "5",
+      "title": "Art. 5 ust. 1",
+      "content": "Wójt, burmistrz (prezydent miasta) właściwy ze względu na miejsce położenia gruntów będących w posiadaniu lub współposiadaniu producenta rolnego przyznaje, na wniosek tego producenta, w drodze decyzji, zwrot podatku."
+    },
+    {
+      "provision_ref": "art5u2",
+      "section": "5",
+      "title": "Art. 5 ust. 2",
+      "content": "Zwrot podatku przyznaje się za okres 6 miesięcy poprzedzających miesiąc złożenia wniosku o zwrot podatku."
+    },
+    {
+      "provision_ref": "art5u3",
+      "section": "5",
+      "title": "Art. 5 ust. 3",
+      "content": "Decyzja zawiera limit ustalony w sposób określony w art. 4 ust. 2, kwotę zwrotu podatku oraz część limitu pozostałą do wykorzystania."
+    },
+    {
+      "provision_ref": "art5u4",
+      "section": "5",
+      "title": "Art. 5 ust. 4",
+      "content": "Decyzję wydaje się w terminie 30 dni od dnia złożenia wniosku o zwrot podatku."
+    },
+    {
       "provision_ref": "art6",
       "section": "6",
       "title": "Art. 6",
-      "content": "1. Wniosek o zwrot podatku składa się w terminach od dnia 1 marca do dnia 31 marca i od dnia 1 września do dnia 30 września danego roku. 2. Wniosek o zwrot podatku zawiera: 1) imię i nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres producenta rolnego; 2) numer identyfikacji podatkowej (NIP) producenta rolnego, jeżeli został nadany; 3) numer ewidencyjny powszechnego elektronicznego systemu ewidencji ludności (PESEL) albo numer dowodu osobistego lub innego dokumentu potwierdzającego tożsamość producenta rolnego oraz nazwę organu, który wydał dokument, w przypadku gdy producent rolny jest osobą fizyczną; 4) oświadczenie o powierzchni użytków rolnych, o których mowa w art. 4 ust. 2, położonych na obszarze gminy, do której wójta, burmistrza (prezydenta miasta) jest składany wniosek o zwrot podatku; 5) pisemną zgodę pozostałych współposiadaczy, o której mowa w art. 3 ust. 4, jeżeli producent rolny jest współposiadaczem gruntów gospodarstwa rolnego; 6) numer rachunku bankowego, w przypadku gdy zwrot podatku nastąpi w formie przelewu. 3. Do wniosku o zwrot podatku dołącza się: 1) faktury VAT albo potwierdzone przez upoważnionego przez wójta, burmistrza (prezydenta miasta) pracownika urzędu gminy lub miasta za zgodność z oryginałem ich kopie, stanowiące dowód zakupu oleju napędowego w okresie 6 miesięcy poprzedzających miesiąc złożenia wniosku; 2) odpis z Krajowego Rejestru Sądowego, w przypadku gdy producent rolny podlega wpisowi do tego rejestru. 4. Na fakturach VAT, o których mowa w ust. 3 pkt 1, upoważniony przez wójta, burmistrza (prezydenta miasta) pracownik urzędu gminy lub miasta umieszcza adnotację o treści „przyjęto w dniu... do zwrotu części podatku akcyzowego”. 5. Wniosek o zwrot podatku wraz z załącznikami nie podlega opłacie skarbowej. 6. Minister właściwy do spraw rozwoju wsi określi, w drodze rozporządzenia, wzór wniosku o zwrot podatku, mając na względzie zapewnienie jednolitej formy składanych wniosków."
+      "content": "1. Wniosek o zwrot podatku składa się w terminach od dnia 1 lutego do ostatniego dnia lutego i od dnia 1 sierpnia do dnia 31 sierpnia danego roku. 2. Wniosek o zwrot podatku zawiera: 1) imię i nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres producenta rolnego; 2) numer identyfikacji podatkowej (NIP) producenta rolnego; Poz. 546 3) numer ewidencyjny powszechnego elektronicznego systemu ewidencji ludności (PESEL) albo numer dowodu osobistego lub innego dokumentu potwierdzającego tożsamość producenta rolnego oraz nazwę organu, który wydał dokument, w przypadku gdy producent rolny jest osobą fizyczną; 4) oświadczenie o powierzchni użytków rolnych, o których mowa w art. 4 ust. 2, położonych na obszarze gminy, do której wójta, burmistrza (prezydenta miasta) jest składany wniosek o zwrot podatku; 4a) oświadczenie o średniej rocznej liczbie dużych jednostek przeliczeniowych bydła będącego w posiadaniu producenta rolnego; 4b) oświadczenie o średniej rocznej liczbie świń będących w posiadaniu producenta rolnego; 4c) oświadczenie o średniej rocznej liczbie dużych jednostek przeliczeniowych owiec będących w posiadaniu producenta rolnego; 4d) oświadczenie o średniej rocznej liczbie dużych jednostek przeliczeniowych kóz będących w posiadaniu producenta rolnego; 4e) oświadczenie o średniej rocznej liczbie dużych jednostek przeliczeniowych koni będących w posiadaniu producenta rolnego; 5) pisemną zgodę pozostałych współposiadaczy, o której mowa w art. 3 ust. 4, jeżeli producent rolny jest współposiadaczem gruntów gospodarstwa rolnego; 6) numer rachunku bankowego, w przypadku gdy zwrot podatku nastąpi w formie przelewu; 7) numer w Krajowym Rejestrze Sądowym, w przypadku gdy producent rolny podlega wpisowi do tego rejestru. 3. Do wniosku o zwrot podatku dołącza się: 1) faktury VAT albo ich kopie, stanowiące dowód zakupu oleju napędowego w okresie 6 miesięcy poprzedzających miesiąc złożenia wniosku; 2)2) dokument wydany przez kierownika biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa albo dokument wygenerowany z komputerowej bazy danych prowadzonej na podstawie ustawy z dnia 4 listopada 2022 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U. z 2023 r. poz. 1815 oraz z 2025 r. poz. 1795) zawierający informacje o liczbie dużych jednostek przeliczeniowych bydła będącego w posiadaniu producenta rolnego, w odniesieniu do każdej siedziby stada tego producenta, w ostatnim dniu każdego miesiąca roku poprzedzającego rok, w którym został złożony wniosek o zwrot podatku, ustalonej z uwzględnieniem wartości współczynników przeliczeniowych sztuk bydła na duże jednostki przeliczeniowe określonych w załączniku do ustawy – w przypadku ubiegania się przez producenta rolnego o zwrot podatku w odniesieniu do bydła; 3)2) dokument wydany przez kierownika biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa albo dokument wygenerowany z komputerowej bazy danych prowadzonej na podstawie ustawy z dnia 4 listopada 2022 r. o systemie identyfikacji i rejestracji zwierząt zawierający informacje o liczbie świń będących w posiadaniu producenta rolnego, w odniesieniu do każdej siedziby stada tego producenta, w ostatnim dniu każdego miesiąca roku poprzedzającego rok, w którym został złożony wniosek o zwrot podatku – w przypadku ubiegania się przez producenta rolnego o zwrot podatku w odniesieniu do świń; 4)2) dokument wydany przez kierownika biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa albo dokument wygenerowany z komputerowej bazy danych prowadzonej na podstawie ustawy z dnia 4 listopada 2022 r. o systemie identyfikacji i rejestracji zwierząt zawierający informacje o liczbie dużych jednostek przeliczeniowych owiec będących w posiadaniu producenta rolnego, w odniesieniu do każdej siedziby stada tego producenta, w ostatnim dniu każdego miesiąca roku poprzedzającego rok, w którym został złożony wniosek o zwrot podatku, ustalonej z uwzględnieniem wartości współczynników przeliczeniowych sztuk owiec na duże jednostki przeliczeniowe określonych w załączniku do ustawy – w przypadku ubiegania się przez producenta rolnego o zwrot podatku w odniesieniu do owiec; 5)2) dokument wydany przez kierownika biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa albo dokument wygenerowany z komputerowej bazy danych prowadzonej na podstawie ustawy z dnia 4 listopada 2022 r. o systemie identyfikacji i rejestracji zwierząt zawierający informacje o liczbie dużych jednostek przeliczeniowych kóz będących w posiadaniu producenta rolnego, w odniesieniu do każdej siedziby stada tego producenta, w ostatnim dniu każdego miesiąca roku poprzedzającego rok, w którym został złożony wniosek o zwrot podatku, ustalonej z uwzględnieniem wartości współczynników przeliczeniowych sztuk kóz na duże jednostki przeliczeniowe określonych w załączniku do ustawy – w przypadku ubiegania się przez producenta rolnego o zwrot podatku w odniesieniu do kóz; 2) W brzmieniu ustalonym przez art. 1 pkt 1 ustawy z dnia 12 września 2025 r. o zmianie ustawy o zwrocie podatku akcyzowego zawartego w cenie oleju napędowego wykorzystywanego do produkcji rolnej (Dz. U. poz. 1415), która weszła w życie z dniem 4 listopada 2025 r. Poz. 546 6)2) dokument wydany przez kierownika biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa albo dokument wygenerowany z komputerowej bazy danych prowadzonej na podstawie ustawy z dnia 4 listopada 2022 r. o systemie identyfikacji i rejestracji zwierząt zawierający informacje o liczbie dużych jednostek przeliczeniowych koni będących w posiadaniu producenta rolnego, w odniesieniu do każdej siedziby stada tego producenta, w ostatnim dniu każdego miesiąca roku poprzedzającego rok, w którym został złożony wniosek o zwrot podatku, ustalonej z uwzględnieniem wartości współczynników przeliczeniowych sztuk koni na duże jednostki przeliczeniowe określonych w załączniku do ustawy – w przypadku ubiegania się przez producenta rolnego o zwrot podatku w odniesieniu do koni. 3a. Kierownik biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa na wniosek producenta rolnego wydaje dokumenty, o których mowa w ust. 3 pkt 2–6. Agencja Restrukturyzacji i Modernizacji Rolnictwa umożliwia producentowi rolnemu wygenerowanie z komputerowej bazy danych prowadzonej na podstawie ustawy z dnia 4 listopada 2022 r. o systemie identyfikacji i rejestracji zwierząt dokumentów, o których mowa w ust. 3 pkt 2–6.3) 4. Na fakturach VAT, o których mowa w ust. 3 pkt 1, upoważniony przez wójta, burmistrza (prezydenta miasta) pracownik urzędu gminy lub miasta umieszcza adnotację o treści „przyjęto w dniu … do zwrotu części podatku akcyzowego”. 5. (uchylony) 6. Minister właściwy do spraw rozwoju wsi określi, w drodze rozporządzenia, wzór wniosku o zwrot podatku, mając na względzie zapewnienie jednolitej formy składanych wniosków."
+    },
+    {
+      "provision_ref": "art6u1",
+      "section": "6",
+      "title": "Art. 6 ust. 1",
+      "content": "Wniosek o zwrot podatku składa się w terminach od dnia 1 lutego do ostatniego dnia lutego i od dnia 1 sierpnia do dnia 31 sierpnia danego roku."
+    },
+    {
+      "provision_ref": "art6u2p1",
+      "section": "6",
+      "title": "Art. 6 ust. 2 pkt 1",
+      "content": "imię i nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres producenta rolnego;"
+    },
+    {
+      "provision_ref": "art6u2p2",
+      "section": "6",
+      "title": "Art. 6 ust. 2 pkt 2",
+      "content": "numer identyfikacji podatkowej (NIP) producenta rolnego; Poz. 546"
+    },
+    {
+      "provision_ref": "art6u2p3",
+      "section": "6",
+      "title": "Art. 6 ust. 2 pkt 3",
+      "content": "numer ewidencyjny powszechnego elektronicznego systemu ewidencji ludności (PESEL) albo numer dowodu osobistego lub innego dokumentu potwierdzającego tożsamość producenta rolnego oraz nazwę organu, który wydał dokument, w przypadku gdy producent rolny jest osobą fizyczną;"
+    },
+    {
+      "provision_ref": "art6u2p4",
+      "section": "6",
+      "title": "Art. 6 ust. 2 pkt 4",
+      "content": "oświadczenie o powierzchni użytków rolnych, o których mowa w art. 4 ust. 2, położonych na obszarze gminy, do której wójta, burmistrza (prezydenta miasta) jest składany wniosek o zwrot podatku;"
+    },
+    {
+      "provision_ref": "art6u2p4a",
+      "section": "6",
+      "title": "Art. 6 ust. 2 pkt 4a",
+      "content": "oświadczenie o średniej rocznej liczbie dużych jednostek przeliczeniowych bydła będącego w posiadaniu producenta rolnego;"
+    },
+    {
+      "provision_ref": "art6u2p4b",
+      "section": "6",
+      "title": "Art. 6 ust. 2 pkt 4b",
+      "content": "oświadczenie o średniej rocznej liczbie świń będących w posiadaniu producenta rolnego;"
+    },
+    {
+      "provision_ref": "art6u2p4c",
+      "section": "6",
+      "title": "Art. 6 ust. 2 pkt 4c",
+      "content": "oświadczenie o średniej rocznej liczbie dużych jednostek przeliczeniowych owiec będących w posiadaniu producenta rolnego;"
+    },
+    {
+      "provision_ref": "art6u2p4d",
+      "section": "6",
+      "title": "Art. 6 ust. 2 pkt 4d",
+      "content": "oświadczenie o średniej rocznej liczbie dużych jednostek przeliczeniowych kóz będących w posiadaniu producenta rolnego;"
+    },
+    {
+      "provision_ref": "art6u2p4e",
+      "section": "6",
+      "title": "Art. 6 ust. 2 pkt 4e",
+      "content": "oświadczenie o średniej rocznej liczbie dużych jednostek przeliczeniowych koni będących w posiadaniu producenta rolnego;"
+    },
+    {
+      "provision_ref": "art6u2p5",
+      "section": "6",
+      "title": "Art. 6 ust. 2 pkt 5",
+      "content": "pisemną zgodę pozostałych współposiadaczy, o której mowa w art. 3 ust. 4, jeżeli producent rolny jest współposiadaczem gruntów gospodarstwa rolnego;"
+    },
+    {
+      "provision_ref": "art6u2p6",
+      "section": "6",
+      "title": "Art. 6 ust. 2 pkt 6",
+      "content": "numer rachunku bankowego, w przypadku gdy zwrot podatku nastąpi w formie przelewu;"
+    },
+    {
+      "provision_ref": "art6u2p7",
+      "section": "6",
+      "title": "Art. 6 ust. 2 pkt 7",
+      "content": "numer w Krajowym Rejestrze Sądowym, w przypadku gdy producent rolny podlega wpisowi do tego rejestru."
+    },
+    {
+      "provision_ref": "art6u3p1",
+      "section": "6",
+      "title": "Art. 6 ust. 3 pkt 1",
+      "content": "faktury VAT albo ich kopie, stanowiące dowód zakupu oleju napędowego w okresie 6 miesięcy poprzedzających miesiąc złożenia wniosku; 2)2) dokument wydany przez kierownika biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa albo dokument wygenerowany z komputerowej bazy danych prowadzonej na podstawie ustawy z dnia 4 listopada 2022 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U. z 2023 r. poz. 1815 oraz z 2025 r. poz."
+    },
+    {
+      "provision_ref": "art6u3p1795",
+      "section": "6",
+      "title": "Art. 6 ust. 3 pkt 1795",
+      "content": "zawierający informacje o liczbie dużych jednostek przeliczeniowych bydła będącego w posiadaniu producenta rolnego, w odniesieniu do każdej siedziby stada tego producenta, w ostatnim dniu każdego miesiąca roku poprzedzającego rok, w którym został złożony wniosek o zwrot podatku, ustalonej z uwzględnieniem wartości współczynników przeliczeniowych sztuk bydła na duże jednostki przeliczeniowe określonych w załączniku do ustawy – w przypadku ubiegania się przez producenta rolnego o zwrot podatku w odniesieniu do bydła; 3)2) dokument wydany przez kierownika biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa albo dokument wygenerowany z komputerowej bazy danych prowadzonej na podstawie ustawy z dnia 4 listopada 2022 r. o systemie identyfikacji i rejestracji zwierząt zawierający informacje o liczbie świń będących w posiadaniu producenta rolnego, w odniesieniu do każdej siedziby stada tego producenta, w ostatnim dniu każdego miesiąca roku poprzedzającego rok, w którym został złożony wniosek o zwrot podatku – w przypadku ubiegania się przez producenta rolnego o zwrot podatku w odniesieniu do świń; 4)2) dokument wydany przez kierownika biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa albo dokument wygenerowany z komputerowej bazy danych prowadzonej na podstawie ustawy z dnia 4 listopada 2022 r. o systemie identyfikacji i rejestracji zwierząt zawierający informacje o liczbie dużych jednostek przeliczeniowych owiec będących w posiadaniu producenta rolnego, w odniesieniu do każdej siedziby stada tego producenta, w ostatnim dniu każdego miesiąca roku poprzedzającego rok, w którym został złożony wniosek o zwrot podatku, ustalonej z uwzględnieniem wartości współczynników przeliczeniowych sztuk owiec na duże jednostki przeliczeniowe określonych w załączniku do ustawy – w przypadku ubiegania się przez producenta rolnego o zwrot podatku w odniesieniu do owiec; 5)2) dokument wydany przez kierownika biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa albo dokument wygenerowany z komputerowej bazy danych prowadzonej na podstawie ustawy z dnia 4 listopada 2022 r. o systemie identyfikacji i rejestracji zwierząt zawierający informacje o liczbie dużych jednostek przeliczeniowych kóz będących w posiadaniu producenta rolnego, w odniesieniu do każdej siedziby stada tego producenta, w ostatnim dniu każdego miesiąca roku poprzedzającego rok, w którym został złożony wniosek o zwrot podatku, ustalonej z uwzględnieniem wartości współczynników przeliczeniowych sztuk kóz na duże jednostki przeliczeniowe określonych w załączniku do ustawy – w przypadku ubiegania się przez producenta rolnego o zwrot podatku w odniesieniu do kóz;"
+    },
+    {
+      "provision_ref": "art6u3p2",
+      "section": "6",
+      "title": "Art. 6 ust. 3 pkt 2",
+      "content": "W brzmieniu ustalonym przez art. 1 pkt 1 ustawy z dnia 12 września 2025 r. o zmianie ustawy o zwrocie podatku akcyzowego zawartego w cenie oleju napędowego wykorzystywanego do produkcji rolnej (Dz. U. poz. 1415), która weszła w życie z dniem 4 listopada 2025 r. Poz. 546 6)2) dokument wydany przez kierownika biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa albo dokument wygenerowany z komputerowej bazy danych prowadzonej na podstawie ustawy z dnia 4 listopada 2022 r. o systemie identyfikacji i rejestracji zwierząt zawierający informacje o liczbie dużych jednostek przeliczeniowych koni będących w posiadaniu producenta rolnego, w odniesieniu do każdej siedziby stada tego producenta, w ostatnim dniu każdego miesiąca roku poprzedzającego rok, w którym został złożony wniosek o zwrot podatku, ustalonej z uwzględnieniem wartości współczynników przeliczeniowych sztuk koni na duże jednostki przeliczeniowe określonych w załączniku do ustawy – w przypadku ubiegania się przez producenta rolnego o zwrot podatku w odniesieniu do koni."
+    },
+    {
+      "provision_ref": "art6u3a",
+      "section": "6",
+      "title": "Art. 6 ust. 3a",
+      "content": "Kierownik biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa na wniosek producenta rolnego wydaje dokumenty, o których mowa w ust. 3 pkt 2–6. Agencja Restrukturyzacji i Modernizacji Rolnictwa umożliwia producentowi rolnemu wygenerowanie z komputerowej bazy danych prowadzonej na podstawie ustawy z dnia 4 listopada 2022 r. o systemie identyfikacji i rejestracji zwierząt dokumentów, o których mowa w ust. 3 pkt 2–6.3)"
+    },
+    {
+      "provision_ref": "art6u4",
+      "section": "6",
+      "title": "Art. 6 ust. 4",
+      "content": "Na fakturach VAT, o których mowa w ust. 3 pkt 1, upoważniony przez wójta, burmistrza (prezydenta miasta) pracownik urzędu gminy lub miasta umieszcza adnotację o treści „przyjęto w dniu … do zwrotu części podatku akcyzowego”. 5. (uchylony)"
+    },
+    {
+      "provision_ref": "art6u6",
+      "section": "6",
+      "title": "Art. 6 ust. 6",
+      "content": "Minister właściwy do spraw rozwoju wsi określi, w drodze rozporządzenia, wzór wniosku o zwrot podatku, mając na względzie zapewnienie jednolitej formy składanych wniosków."
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Art. 7",
-      "content": "1. Wypłata zwrotu podatku przyznanego na podstawie decyzji, o której mowa w art. 5 ust. 1, następuje w terminach: 1) od dnia 1 maja do dnia 31 maja - jeżeli wnioski o zwrot podatku zostały złożone w terminie od dnia 1 marca do dnia 31 marca; 2) od dnia 1 listopada do dnia 30 listopada - jeżeli wnioski o zwrot podatku zostały złożone w terminie od dnia 1 września do dnia 30 września. 2. W przypadku zmiany, uchylenia albo stwierdzenia nieważności decyzji, o której mowa w art. 5 ust. 1, wypłata zwrotu podatku następuje w terminie 14 dni od dnia, gdy decyzja przyznająca zwrot podatku wydana odpowiednio w wyniku zmiany, uchylenia albo stwierdzenia nieważności decyzji, o której mowa w art. 5 ust. 1, stała się ostateczna."
+      "content": "1. Wypłata zwrotu podatku przyznanego na podstawie decyzji, o której mowa w art. 5 ust. 1, następuje w terminach: 1) od dnia 1 kwietnia do dnia 30 kwietnia – jeżeli wnioski o zwrot podatku zostały złożone w terminie od dnia 1 lutego do ostatniego dnia lutego; 2) od dnia 1 października do dnia 31 października – jeżeli wnioski o zwrot podatku zostały złożone w terminie od dnia 1 sierpnia do dnia 31 sierpnia. 2. W przypadku zmiany, uchylenia albo stwierdzenia nieważności decyzji, o której mowa w art. 5 ust. 1, wypłata zwrotu podatku następuje w terminie 2 miesięcy od dnia, gdy decyzja przyznająca zwrot podatku wydana odpowiednio w wyniku zmiany, uchylenia albo stwierdzenia nieważności decyzji, o której mowa w art. 5 ust. 1, stała się ostateczna."
+    },
+    {
+      "provision_ref": "art7u1p1",
+      "section": "7",
+      "title": "Art. 7 ust. 1 pkt 1",
+      "content": "od dnia 1 kwietnia do dnia 30 kwietnia – jeżeli wnioski o zwrot podatku zostały złożone w terminie od dnia 1 lutego do ostatniego dnia lutego;"
+    },
+    {
+      "provision_ref": "art7u1p2",
+      "section": "7",
+      "title": "Art. 7 ust. 1 pkt 2",
+      "content": "od dnia 1 października do dnia 31 października – jeżeli wnioski o zwrot podatku zostały złożone w terminie od dnia 1 sierpnia do dnia 31 sierpnia."
+    },
+    {
+      "provision_ref": "art7u2",
+      "section": "7",
+      "title": "Art. 7 ust. 2",
+      "content": "W przypadku zmiany, uchylenia albo stwierdzenia nieważności decyzji, o której mowa w art. 5 ust. 1, wypłata zwrotu podatku następuje w terminie 2 miesięcy od dnia, gdy decyzja przyznająca zwrot podatku wydana odpowiednio w wyniku zmiany, uchylenia albo stwierdzenia nieważności decyzji, o której mowa w art. 5 ust. 1, stała się ostateczna."
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Art. 8",
-      "content": "1. Postępowanie w sprawie zwrotu podatku i jego wypłata jest zadaniem z zakresu administracji rządowej. 2. Na realizację zadania, o którym mowa w ust. 1, gmina otrzymuje dotację celową z budżetu państwa. 3. Środki na dotację, o której mowa w ust. 2, są ustalane w rezerwie celowej budżetu państwa. 4. Minister właściwy do spraw finansów publicznych, na wniosek ministra właściwego do spraw rozwoju wsi, przekazuje gminom, za pośrednictwem wojewodów, dotację, o której mowa w ust. 2. 5. Przy ustalaniu wysokości dotacji celowej na realizację zadania, o którym mowa w ust. 1, uwzględnia się koszty ustalania i wypłacania zwrotu podatku producentom rolnym, ponoszone przez gminę, w wysokości 2% łącznej kwoty dotacji wypłaconych w danej gminie. 6. Minister właściwy do spraw rozwoju wsi, w porozumieniu z ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia, tryb przekazywania gminom dotacji celowej oraz sposób jej rozliczania, a także zakres i tryb składania sprawozdań w tym zakresie, mając na względzie zapewnienie sprawnego przekazywania gminom środków na dotację, o której mowa w ust. 2, oraz zapewnienie prawidłowego ich wykorzystania."
+      "content": "1. Postępowanie w sprawie zwrotu podatku i jego wypłata jest zadaniem z zakresu administracji rządowej. 2. Na realizację zadania, o którym mowa w ust. 1, gmina otrzymuje dotację celową z budżetu państwa. 3. Środki na dotację, o której mowa w ust. 2, są ustalane w rezerwie celowej budżetu państwa. 4. Minister właściwy do spraw finansów publicznych, na wniosek ministra właściwego do spraw rozwoju wsi, przekazuje gminom, za pośrednictwem wojewodów, dotację, o której mowa w ust. 2. 5. Przy ustalaniu wysokości dotacji celowej na realizację zadania, o którym mowa w ust. 1, uwzględnia się koszty ustalania i wypłacania zwrotu podatku producentom rolnym, ponoszone przez gminę, w wysokości 2 % łącznej kwoty dotacji wypłaconych w danej gminie. 6. Minister właściwy do spraw rozwoju wsi, w porozumieniu z ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia, tryb przekazywania gminom dotacji celowej oraz sposób jej rozliczania, a także zakres i tryb składania sprawozdań w tym zakresie, mając na względzie zapewnienie sprawnego przekazywania gminom środków na dotację, o której mowa w ust. 2, oraz zapewnienie prawidłowego ich wykorzystania."
+    },
+    {
+      "provision_ref": "art8u1",
+      "section": "8",
+      "title": "Art. 8 ust. 1",
+      "content": "Postępowanie w sprawie zwrotu podatku i jego wypłata jest zadaniem z zakresu administracji rządowej."
+    },
+    {
+      "provision_ref": "art8u2",
+      "section": "8",
+      "title": "Art. 8 ust. 2",
+      "content": "Na realizację zadania, o którym mowa w ust. 1, gmina otrzymuje dotację celową z budżetu państwa."
+    },
+    {
+      "provision_ref": "art8u3",
+      "section": "8",
+      "title": "Art. 8 ust. 3",
+      "content": "Środki na dotację, o której mowa w ust. 2, są ustalane w rezerwie celowej budżetu państwa."
+    },
+    {
+      "provision_ref": "art8u4",
+      "section": "8",
+      "title": "Art. 8 ust. 4",
+      "content": "Minister właściwy do spraw finansów publicznych, na wniosek ministra właściwego do spraw rozwoju wsi, przekazuje gminom, za pośrednictwem wojewodów, dotację, o której mowa w ust. 2."
+    },
+    {
+      "provision_ref": "art8u5",
+      "section": "8",
+      "title": "Art. 8 ust. 5",
+      "content": "Przy ustalaniu wysokości dotacji celowej na realizację zadania, o którym mowa w ust. 1, uwzględnia się koszty ustalania i wypłacania zwrotu podatku producentom rolnym, ponoszone przez gminę, w wysokości 2 % łącznej kwoty dotacji wypłaconych w danej gminie."
+    },
+    {
+      "provision_ref": "art8u6",
+      "section": "8",
+      "title": "Art. 8 ust. 6",
+      "content": "Minister właściwy do spraw rozwoju wsi, w porozumieniu z ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia, tryb przekazywania gminom dotacji celowej oraz sposób jej rozliczania, a także zakres i tryb składania sprawozdań w tym zakresie, mając na względzie zapewnienie sprawnego przekazywania gminom środków na dotację, o której mowa w ust. 2, oraz zapewnienie prawidłowego ich wykorzystania."
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Art. 9",
-      "content": "1. Producent rolny, który pobrał nienależnie lub w nadmiernej wysokości zwrot podatku, jest obowiązany do jego zwrotu wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych. 2. Do należności wraz z odsetkami od zaległości z tytułu pobrania nienależnie lub w nadmiernej wysokości zwrotu podatku stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa ( Dz. U. z 2005 r. Nr 8, poz. 60 , Nr 85, poz. 727 , Nr 86, poz. 732 i Nr 143, poz. 1199 ) . 3. Uprawnienia organu podatkowego jako organu pierwszej instancji, określone w ustawie, o której mowa w ust. 2, przysługują wójtowi, burmistrzowi (prezydentowi miasta). 4. Kwoty z tytułu nienależnie pobranego lub w nadmiernej wysokości zwrotu podatku stanowią dochód budżetu państwa. 5. Do spraw nieuregulowanych w ustawie, związanych z rozliczeniem środków na zwrot podatku, stosuje się przepisy o finansach publicznych dotyczące dotacji celowych. 6. Do egzekucji należności, o których mowa w ust. 1, stosuje się przepisy o postępowaniu egzekucyjnym w administracji."
+      "content": "1. Producent rolny, który pobrał nienależnie lub w nadmiernej wysokości zwrot podatku, jest obowiązany do jego zwrotu wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych. 2. Do należności wraz z odsetkami od zaległości z tytułu pobrania nienależnie lub w nadmiernej wysokości zwrotu podatku stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm.4)). 3. Uprawnienia organu podatkowego jako organu pierwszej instancji, określone w ustawie, o której mowa w ust. 2, przysługują wójtowi, burmistrzowi (prezydentowi miasta). 4. Kwoty z tytułu nienależnie pobranego lub w nadmiernej wysokości zwrotu podatku stanowią dochód budżetu państwa. 3) 4) Zdanie drugie dodane przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 2. Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 497, 621, 622, 769, 820, 1203, 1235, 1414, 1417, 1669, 1804 i 1863 oraz z 2026 r. poz. 252 i 347. Poz. 546 5. Do spraw nieuregulowanych w ustawie, związanych z rozliczeniem środków na zwrot podatku, stosuje się przepisy o finansach publicznych dotyczące dotacji celowych. 6. Do egzekucji należności, o których mowa w ust. 1, stosuje się przepisy o postępowaniu egzekucyjnym w administracji."
+    },
+    {
+      "provision_ref": "art9u1",
+      "section": "9",
+      "title": "Art. 9 ust. 1",
+      "content": "Producent rolny, który pobrał nienależnie lub w nadmiernej wysokości zwrot podatku, jest obowiązany do jego zwrotu wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych."
+    },
+    {
+      "provision_ref": "art9u2",
+      "section": "9",
+      "title": "Art. 9 ust. 2",
+      "content": "Do należności wraz z odsetkami od zaległości z tytułu pobrania nienależnie lub w nadmiernej wysokości zwrotu podatku stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm.4))."
+    },
+    {
+      "provision_ref": "art9u3",
+      "section": "9",
+      "title": "Art. 9 ust. 3",
+      "content": "Uprawnienia organu podatkowego jako organu pierwszej instancji, określone w ustawie, o której mowa w ust. 2, przysługują wójtowi, burmistrzowi (prezydentowi miasta)."
+    },
+    {
+      "provision_ref": "art9u4",
+      "section": "9",
+      "title": "Art. 9 ust. 4",
+      "content": "Kwoty z tytułu nienależnie pobranego lub w nadmiernej wysokości zwrotu podatku stanowią dochód budżetu państwa. 3) 4) Zdanie drugie dodane przez art. 1 pkt 2 ustawy, o której mowa w odnośniku"
+    },
+    {
+      "provision_ref": "art9u2",
+      "section": "9",
+      "title": "Art. 9 ust. 2",
+      "content": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 497, 621, 622, 769, 820, 1203, 1235, 1414, 1417, 1669, 1804 i 1863 oraz z 2026 r. poz. 252 i"
+    },
+    {
+      "provision_ref": "art9u347",
+      "section": "9",
+      "title": "Art. 9 ust. 347",
+      "content": "Poz. 546"
+    },
+    {
+      "provision_ref": "art9u5",
+      "section": "9",
+      "title": "Art. 9 ust. 5",
+      "content": "Do spraw nieuregulowanych w ustawie, związanych z rozliczeniem środków na zwrot podatku, stosuje się przepisy o finansach publicznych dotyczące dotacji celowych."
+    },
+    {
+      "provision_ref": "art9u6",
+      "section": "9",
+      "title": "Art. 9 ust. 6",
+      "content": "Do egzekucji należności, o których mowa w ust. 1, stosuje się przepisy o postępowaniu egzekucyjnym w administracji."
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Art. 10",
-      "content": "1. W 2006 r. wniosek o zwrot podatku składa się w terminie od dnia 1 września do dnia 30 września wraz z fakturami VAT albo potwierdzonymi ich kopiami, o których mowa w art. 6 ust. 3 pkt 1, wystawionymi od dnia 1 stycznia 2006 r. 2. Decyzja, o której mowa w art. 5 ust. 1, wydawana w 2006 r. zawiera limit ustalony w sposób określony w art. 4 ust. 2 oraz kwotę zwrotu podatku. 3. W 2006 r. Rada Ministrów wyda rozporządzenie, o którym mowa w art. 4 ust. 4, w terminie do dnia 30 kwietnia, uwzględniając ustawę budżetową na rok 2006 ."
+      "content": "1. W 2006 r. wniosek o zwrot podatku składa się w terminie od dnia 1 września do dnia 30 września wraz z fakturami VAT albo potwierdzonymi ich kopiami, o których mowa w art. 6 ust. 3 pkt 1, wystawionymi od dnia 1 stycznia 2006 r. 2. Decyzja, o której mowa w art. 5 ust. 1, wydawana w 2006 r. zawiera limit ustalony w sposób określony w art. 4 ust. 2 oraz kwotę zwrotu podatku. 3. W 2006 r. Rada Ministrów wyda rozporządzenie, o którym mowa w art. 4 ust. 4, w terminie do dnia 30 kwietnia, uwzględniając ustawę budżetową na rok 2006."
+    },
+    {
+      "provision_ref": "art10u1",
+      "section": "10",
+      "title": "Art. 10 ust. 1",
+      "content": "W 2006 r. wniosek o zwrot podatku składa się w terminie od dnia 1 września do dnia 30 września wraz z fakturami VAT albo potwierdzonymi ich kopiami, o których mowa w art. 6 ust. 3 pkt 1, wystawionymi od dnia 1 stycznia 2006 r."
+    },
+    {
+      "provision_ref": "art10u2",
+      "section": "10",
+      "title": "Art. 10 ust. 2",
+      "content": "Decyzja, o której mowa w art. 5 ust. 1, wydawana w 2006 r. zawiera limit ustalony w sposób określony w art. 4 ust. 2 oraz kwotę zwrotu podatku."
+    },
+    {
+      "provision_ref": "art10u3",
+      "section": "10",
+      "title": "Art. 10 ust. 3",
+      "content": "W 2006 r. Rada Ministrów wyda rozporządzenie, o którym mowa w art. 4 ust. 4, w terminie do dnia 30 kwietnia, uwzględniając ustawę budżetową na rok 2006."
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Art. 11",
-      "content": "Ustawa wchodzi w życie z dniem 1 kwietnia 2006 r. 1) Niniejsza ustawa wdraża przepisy dyrektywy Rady 2003/96/WE z dnia 27 października 2003 r. w sprawie restrukturyzacji wspólnotowych przepisów ramowych dotyczących opodatkowania produktów energetycznych i energii elektrycznej (Dz. Urz. UE L 283 z 31.10.2003, s. 51; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 9, t. 1, s. 405). Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_3-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_3-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_4-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\",\"children\": [{\"id\": \"arti_4-pass_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_4-pass_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_4-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_5-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_5-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"arti_6-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_6-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_6-pass_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_6-pass_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_6-pass_2-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_6-pass_2-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"}]},{\"id\": \"arti_6-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\",\"children\": [{\"id\": \"arti_6-pass_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_6-pass_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_6-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"arti_6-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"},{\"id\": \"arti_6-pass_6\",\"symbol\": \"pass_6\",\"type\": \"pass\",\"name\": \"6\",\"title\": \"6.\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"arti_7-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_7-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_7-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_7-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"arti_8-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_8-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_8-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_8-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"arti_8-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"},{\"id\": \"arti_8-pass_6\",\"symbol\": \"pass_6\",\"type\": \"pass\",\"name\": \"6\",\"title\": \"6.\"}]},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"arti_9-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_9-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_9-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_9-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"arti_9-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"},{\"id\": \"arti_9-pass_6\",\"symbol\": \"pass_6\",\"type\": \"pass\",\"name\": \"6\",\"title\": \"6.\"}]},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\",\"children\": [{\"id\": \"arti_10-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_10-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_10-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"} ] } ];"
+      "content": "Ustawa wchodzi w życie z dniem 1 kwietnia 2006 r. Poz. 546 Załącznik do ustawy z dnia 10 marca 2006 r. (Dz. U. z 2026 r. poz. 546) WSPÓŁCZYNNIKI PRZELICZENIOWE SZTUK BYDŁA, OWIEC, KÓZ I KONI NA DUŻE JEDNOSTKI PRZELICZENIOWE Grupa technologiczna zwierząt gospodarskich Współczynnik przeliczenia sztuk bydła, owiec, kóz i koni na duże jednostki przeliczeniowe Bydło Buhaje powyżej 6. miesiąca do 1 roku 0,36 Buhaje powyżej 1 roku do 18. miesiąca 0,9 Buhaje powyżej 18. miesiąca 1,4 Cielęta do 6. miesiąca 0,15 Jałówki powyżej 6. miesiąca do 1 roku 0,3 Jałówki powyżej 1 roku do 18. miesiąca 0,8 Krowy powyżej 18. miesiąca Owce Owce samice powyżej 1,5 roku 0,1 Tryki powyżej 1,5 roku 0,12 Jagnięta do 3,5 miesiąca 0,05 Jarlaki tryczki powyżej 3,5 miesiąca do 1,5 roku 0,08 Jarlaki maciorki powyżej 3,5 miesiąca do 1,5 roku 0,1 Kozy Kozy matki powyżej 1,5 roku 0,15 Koźlęta do 3,5 miesiąca 0,05 Koźlęta powyżej 3,5 miesiąca do 1,5 roku 0,08 Pozostałe kozy – samce powyżej 1,5 roku 0,01 Konie ras dużych Ogiery, klacze i wałachy powyżej 3 lat 1,2 Źrebaki powyżej 2 lat do 3 lat Źrebaki powyżej 1 roku do 2 lat 0,8 Źrebaki powyżej 6. miesiąca do 1 roku 0,5 Źrebięta do 6. miesiąca 0,3 Konie ras małych Ogiery, klacze i wałachy powyżej 3 lat 0,6 Źrebaki powyżej 2 lat do 3 lat 0,5 Źrebaki powyżej 1 roku do 2 lat 0,35 Źrebaki powyżej 6. miesiąca do 1 roku 0,2 Źrebięta do 6. miesiąca 0,12"
     }
   ],
   "definitions": []

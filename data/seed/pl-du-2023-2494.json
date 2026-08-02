@@ -1,0 +1,1016 @@
+{
+  "id": "pl-du-2023-2494",
+  "type": "statute",
+  "title": "Rozporządzenie Ministra Rodziny i Polityki Społecznej z dnia 27 października 2023 r. w sprawie systemów teleinformatycznych stosowanych w jednostkach organizacyjnych pomocy społecznej",
+  "title_en": "",
+  "short_name": "pl-du-2023-2494",
+  "status": "in_force",
+  "issued_date": "2023-10-27",
+  "in_force_date": "2023-11-16",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2023/2494",
+  "provisions": [
+    {
+      "provision_ref": "par1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Rozporządzenie określa: opis systemów teleinformatycznych stosowanych w jednostkach organizacyjnych pomocy społecznej, zawierający strukturę systemu, wymaganą minimalną funkcjonalność systemu oraz zakres komunikacji między elementami struktury systemu; wymagania standaryzujące w zakresie bezpieczeństwa, wydajności i rozwoju systemu; sposób postępowania w zakresie stwierdzania zgodności oprogramowania z opisem systemu."
+    },
+    {
+      "provision_ref": "par1p1",
+      "section": "1",
+      "title": "§ 1 pkt 1",
+      "content": "Rozporządzenie określa: opis systemów teleinformatycznych stosowanych w jednostkach organizacyjnych pomocy społecznej, zawierający strukturę systemu, wymaganą minimalną funkcjonalność systemu oraz zakres komunikacji między elementami struktury systemu;"
+    },
+    {
+      "provision_ref": "par1p2",
+      "section": "1",
+      "title": "§ 1 pkt 2",
+      "content": "Rozporządzenie określa: wymagania standaryzujące w zakresie bezpieczeństwa, wydajności i rozwoju systemu;"
+    },
+    {
+      "provision_ref": "par1p3",
+      "section": "1",
+      "title": "§ 1 pkt 3",
+      "content": "Rozporządzenie określa: sposób postępowania w zakresie stwierdzania zgodności oprogramowania z opisem systemu."
+    },
+    {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: dokumentacji opisu systemu - oznacza to szczegółowy opis systemu teleinformatycznego; ministrze - oznacza to ministra właściwego do spraw zabezpieczenia społecznego; okresie przejściowym - oznacza to okres rozpoczynający się od dnia ogłoszenia obowiązującej wersji opisu systemu teleinformatycznego do dnia wskazanego w tym ogłoszeniu, w którym dopuszcza się użytkowanie systemów teleinformatycznych zgodnych z wersją opisu obowiązującą przed dniem ogłoszenia; opisie systemu - oznacza to opis systemu teleinformatycznego zawierający strukturę systemu, wymaganą minimalną funkcjonalność systemu oraz zakres komunikacji między elementami struktury systemu; oprogramowaniu - oznacza to system teleinformatyczny wspierający wykonywanie zadań określonych ustawą w jednostkach organizacyjnych pomocy społecznej; poziomie - oznacza to poziom, na który jest wydawane świadectwo zgodności; poziomie organizacyjnym - oznacza to odpowiednio: gminę, powiat, województwo, samorząd województwa oraz ministra; procedurze zgodności - oznacza to zespół działań zmierzających do ustalenia zgodności oprogramowania z opisem systemu; producencie - oznacza to przedsiębiorcę, o którym mowa w art. 4 ust. 1 i 2 ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców , lub obywatela Unii Europejskiej, Konfederacji Szwajcarskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym, lub osobę prawną posiadającą siedzibę w jednym z tych państw, posiadającego autorskie prawa majątkowe do oprogramowania; rejestrze centralnym - oznacza to rejestr określony w art. 23 ust. 4a ustawy; scenariuszu testowym - oznacza to dokument opisujący podstawowe funkcje systemu, uwzględniający procedury ich obsługi, służący do weryfikacji realizacji minimalnych wymagań dla systemu teleinformatycznego, udostępniany razem z dokumentacją opisu systemu; systemie teleinformatycznym - oznacza to system teleinformatyczny w rozumieniu art. 2 pkt 3 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną ; terminie dostosowawczym - oznacza to termin, do którego producenci są zobowiązani zgłosić fakt dostosowania oprogramowania do nowego opisu systemu; ustawie - oznacza to ustawę z dnia 12 marca 2004 r. o pomocy społecznej ; wersji opisu systemu - oznacza to oznaczenie kolejnego ogłoszonego opisu systemu; zbiorze centralnym - oznacza to zestaw danych jednostkowych, którego zakres informacyjny obejmuje dane o realizacji świadczeń z obszaru pomocy społecznej, stanowiący Krajowy System Monitoringu Pomocy Społecznej."
+    },
+    {
+      "provision_ref": "par2p1",
+      "section": "2",
+      "title": "§ 2 pkt 1",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: dokumentacji opisu systemu - oznacza to szczegółowy opis systemu teleinformatycznego;"
+    },
+    {
+      "provision_ref": "par2p2",
+      "section": "2",
+      "title": "§ 2 pkt 2",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: ministrze - oznacza to ministra właściwego do spraw zabezpieczenia społecznego;"
+    },
+    {
+      "provision_ref": "par2p3",
+      "section": "2",
+      "title": "§ 2 pkt 3",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: okresie przejściowym - oznacza to okres rozpoczynający się od dnia ogłoszenia obowiązującej wersji opisu systemu teleinformatycznego do dnia wskazanego w tym ogłoszeniu, w którym dopuszcza się użytkowanie systemów teleinformatycznych zgodnych z wersją opisu obowiązującą przed dniem ogłoszenia;"
+    },
+    {
+      "provision_ref": "par2p4",
+      "section": "2",
+      "title": "§ 2 pkt 4",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: opisie systemu - oznacza to opis systemu teleinformatycznego zawierający strukturę systemu, wymaganą minimalną funkcjonalność systemu oraz zakres komunikacji między elementami struktury systemu;"
+    },
+    {
+      "provision_ref": "par2p5",
+      "section": "2",
+      "title": "§ 2 pkt 5",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: oprogramowaniu - oznacza to system teleinformatyczny wspierający wykonywanie zadań określonych ustawą w jednostkach organizacyjnych pomocy społecznej;"
+    },
+    {
+      "provision_ref": "par2p6",
+      "section": "2",
+      "title": "§ 2 pkt 6",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: poziomie - oznacza to poziom, na który jest wydawane świadectwo zgodności;"
+    },
+    {
+      "provision_ref": "par2p7",
+      "section": "2",
+      "title": "§ 2 pkt 7",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: poziomie organizacyjnym - oznacza to odpowiednio: gminę, powiat, województwo, samorząd województwa oraz ministra;"
+    },
+    {
+      "provision_ref": "par2p8",
+      "section": "2",
+      "title": "§ 2 pkt 8",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: procedurze zgodności - oznacza to zespół działań zmierzających do ustalenia zgodności oprogramowania z opisem systemu;"
+    },
+    {
+      "provision_ref": "par2p9",
+      "section": "2",
+      "title": "§ 2 pkt 9",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: producencie - oznacza to przedsiębiorcę, o którym mowa w art. 4 ust. 1 i 2 ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców , lub obywatela Unii Europejskiej, Konfederacji Szwajcarskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym, lub osobę prawną posiadającą siedzibę w jednym z tych państw, posiadającego autorskie prawa majątkowe do oprogramowania;"
+    },
+    {
+      "provision_ref": "par2p10",
+      "section": "2",
+      "title": "§ 2 pkt 10",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: rejestrze centralnym - oznacza to rejestr określony w art. 23 ust. 4a ustawy;"
+    },
+    {
+      "provision_ref": "par2p11",
+      "section": "2",
+      "title": "§ 2 pkt 11",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: scenariuszu testowym - oznacza to dokument opisujący podstawowe funkcje systemu, uwzględniający procedury ich obsługi, służący do weryfikacji realizacji minimalnych wymagań dla systemu teleinformatycznego, udostępniany razem z dokumentacją opisu systemu;"
+    },
+    {
+      "provision_ref": "par2p12",
+      "section": "2",
+      "title": "§ 2 pkt 12",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: systemie teleinformatycznym - oznacza to system teleinformatyczny w rozumieniu art. 2 pkt 3 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną ;"
+    },
+    {
+      "provision_ref": "par2p13",
+      "section": "2",
+      "title": "§ 2 pkt 13",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: terminie dostosowawczym - oznacza to termin, do którego producenci są zobowiązani zgłosić fakt dostosowania oprogramowania do nowego opisu systemu;"
+    },
+    {
+      "provision_ref": "par2p14",
+      "section": "2",
+      "title": "§ 2 pkt 14",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: ustawie - oznacza to ustawę z dnia 12 marca 2004 r. o pomocy społecznej ;"
+    },
+    {
+      "provision_ref": "par2p15",
+      "section": "2",
+      "title": "§ 2 pkt 15",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: wersji opisu systemu - oznacza to oznaczenie kolejnego ogłoszonego opisu systemu;"
+    },
+    {
+      "provision_ref": "par2p16",
+      "section": "2",
+      "title": "§ 2 pkt 16",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: zbiorze centralnym - oznacza to zestaw danych jednostkowych, którego zakres informacyjny obejmuje dane o realizacji świadczeń z obszaru pomocy społecznej, stanowiący Krajowy System Monitoringu Pomocy Społecznej."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Struktura systemu teleinformatycznego stosowanego w jednostkach organizacyjnych pomocy społecznej określa podział tego systemu na następujące elementy, uwzględniając ich hierarchię, organizację i komunikację: obsługujący zadania realizowane na poziomie gminy w ośrodkach pomocy społecznej lub centrach usług społecznych i innych jednostkach organizacyjnych realizujących zadania pomocy społecznej; realizujący funkcjonalność na poziomie powiatu w powiatowych centrach pomocy rodzinie; będący połączeniem działań gminy i powiatu w miastach na prawach powiatu w miejskich ośrodkach pomocy społecznej, miejskich ośrodkach pomocy rodzinie lub centrach usług społecznych; umożliwiający przetwarzanie danych pochodzących ze sprawozdań oraz z zakresu zbioru centralnego lub rejestru centralnego na każdym z poziomów organizacyjnych: gmina, powiat, województwo, samorząd województwa, minister, a także zapewniający taką możliwość wszystkim pozostałym jednostkom, które uzyskały prawo dostępu do tego elementu. Minimalna funkcjonalność systemu teleinformatycznego: związana z wykonaniem zadań wynikających z ustawy zapewnia: rejestrację zgłoszeń i wniosków o pomoc wraz z załącznikami, wprowadzenie niezbędnych danych o świadczeniobiorcach i członkach rodziny na podstawie przeprowadzonych rodzinnych wywiadów środowiskowych, zapisanie informacji o sposobie rozpatrzenia wniosków o świadczenia, rejestrację kontraktów, umów i porozumień, realizację świadczeń w formie zarówno pieniężnej, jak i niepieniężnej, rozliczenie świadczeń przez ustalenie odpłatności, spłat, zwrotów i potrąceń, generowanie wymaganych sprawozdań oraz danych do zbioru centralnego lub rejestru centralnego w formacie i strukturze określonych w dokumentacji opisu systemu, jak również monitorowanie każdego z etapów postępowania administracyjnego w następujący sposób: na poziomie gminy: zgodnie z katalogiem zadań określonych w art. 17 i art. 18 ustawy, na poziomie powiatu: zgodnie z katalogiem zadań określonych w art. 19 i art. 20 ustawy, dla jednostek realizujących zadania gminy i powiatu: zgodnie z katalogiem zadań określonych w art. 17-20 ustawy; dotycząca zastosowań statystycznych gwarantuje: wczytanie sprawozdań oraz danych z zakresu zbioru centralnego lub rejestru centralnego, weryfikację danych pod względem zgodności ze standardem transmisji danych oraz poprawności merytorycznej, scalenie danych według zadanych kryteriów, dostęp do danych zgodnie z nadanymi uprawnieniami dla poszczególnych poziomów organizacyjnych. System teleinformatyczny umożliwia komunikację między elementami tego systemu przez zastosowanie jednolitych standardów transmisji danych dla sprawozdań oraz danych z zakresu zbioru centralnego i rejestru centralnego w formacie XML: przekazywanych przez gminę i powiat do województwa lub bezpośrednio wczytywanych do baz danych gromadzących dane zbioru centralnego lub rejestru centralnego; przekazywanych przez filie i oddziały jednostek organizacyjnych pomocy społecznej do jednostek nadrzędnych, zgodnie ze strukturą terytorialną kraju, lub bezpośrednio wczytywanych do baz danych gromadzących dane zbioru centralnego lub rejestru centralnego. Zestawienie struktur dokumentów elektronicznych w formacie XML, o którym mowa w ust. 3, wraz z formatami danych oraz protokołami komunikacyjnymi i szyfrującymi udostępnia się razem z dokumentacją opisu systemu na stronie internetowej, o której mowa w § 5 pkt 4."
+    },
+    {
+      "provision_ref": "par3u1p1",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 1",
+      "content": "Struktura systemu teleinformatycznego stosowanego w jednostkach organizacyjnych pomocy społecznej określa podział tego systemu na następujące elementy, uwzględniając ich hierarchię, organizację i komunikację: obsługujący zadania realizowane na poziomie gminy w ośrodkach pomocy społecznej lub centrach usług społecznych i innych jednostkach organizacyjnych realizujących zadania pomocy społecznej;"
+    },
+    {
+      "provision_ref": "par3u1p2",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 2",
+      "content": "Struktura systemu teleinformatycznego stosowanego w jednostkach organizacyjnych pomocy społecznej określa podział tego systemu na następujące elementy, uwzględniając ich hierarchię, organizację i komunikację: realizujący funkcjonalność na poziomie powiatu w powiatowych centrach pomocy rodzinie;"
+    },
+    {
+      "provision_ref": "par3u1p3",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 3",
+      "content": "Struktura systemu teleinformatycznego stosowanego w jednostkach organizacyjnych pomocy społecznej określa podział tego systemu na następujące elementy, uwzględniając ich hierarchię, organizację i komunikację: będący połączeniem działań gminy i powiatu w miastach na prawach powiatu w miejskich ośrodkach pomocy społecznej, miejskich ośrodkach pomocy rodzinie lub centrach usług społecznych;"
+    },
+    {
+      "provision_ref": "par3u1p4",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 4",
+      "content": "Struktura systemu teleinformatycznego stosowanego w jednostkach organizacyjnych pomocy społecznej określa podział tego systemu na następujące elementy, uwzględniając ich hierarchię, organizację i komunikację: umożliwiający przetwarzanie danych pochodzących ze sprawozdań oraz z zakresu zbioru centralnego lub rejestru centralnego na każdym z poziomów organizacyjnych: gmina, powiat, województwo, samorząd województwa, minister, a także zapewniający taką możliwość wszystkim pozostałym jednostkom, które uzyskały prawo dostępu do tego elementu."
+    },
+    {
+      "provision_ref": "par3u2p1la",
+      "section": "3",
+      "title": "§ 3 ust. 2 pkt 1 lit. a",
+      "content": "Minimalna funkcjonalność systemu teleinformatycznego: związana z wykonaniem zadań wynikających z ustawy zapewnia: rejestrację zgłoszeń i wniosków o pomoc wraz z załącznikami, wprowadzenie niezbędnych danych o świadczeniobiorcach i członkach rodziny na podstawie przeprowadzonych rodzinnych wywiadów środowiskowych, zapisanie informacji o sposobie rozpatrzenia wniosków o świadczenia, rejestrację kontraktów, umów i porozumień, realizację świadczeń w formie zarówno pieniężnej, jak i niepieniężnej, rozliczenie świadczeń przez ustalenie odpłatności, spłat, zwrotów i potrąceń, generowanie wymaganych sprawozdań oraz danych do zbioru centralnego lub rejestru centralnego w formacie i strukturze określonych w dokumentacji opisu systemu, jak również monitorowanie każdego z etapów postępowania administracyjnego w następujący sposób: na poziomie gminy: zgodnie z katalogiem zadań określonych w art. 17 i art. 18 ustawy,"
+    },
+    {
+      "provision_ref": "par3u2p1lb",
+      "section": "3",
+      "title": "§ 3 ust. 2 pkt 1 lit. b",
+      "content": "Minimalna funkcjonalność systemu teleinformatycznego: związana z wykonaniem zadań wynikających z ustawy zapewnia: rejestrację zgłoszeń i wniosków o pomoc wraz z załącznikami, wprowadzenie niezbędnych danych o świadczeniobiorcach i członkach rodziny na podstawie przeprowadzonych rodzinnych wywiadów środowiskowych, zapisanie informacji o sposobie rozpatrzenia wniosków o świadczenia, rejestrację kontraktów, umów i porozumień, realizację świadczeń w formie zarówno pieniężnej, jak i niepieniężnej, rozliczenie świadczeń przez ustalenie odpłatności, spłat, zwrotów i potrąceń, generowanie wymaganych sprawozdań oraz danych do zbioru centralnego lub rejestru centralnego w formacie i strukturze określonych w dokumentacji opisu systemu, jak również monitorowanie każdego z etapów postępowania administracyjnego w następujący sposób: na poziomie powiatu: zgodnie z katalogiem zadań określonych w art. 19 i art. 20 ustawy,"
+    },
+    {
+      "provision_ref": "par3u2p1lc",
+      "section": "3",
+      "title": "§ 3 ust. 2 pkt 1 lit. c",
+      "content": "Minimalna funkcjonalność systemu teleinformatycznego: związana z wykonaniem zadań wynikających z ustawy zapewnia: rejestrację zgłoszeń i wniosków o pomoc wraz z załącznikami, wprowadzenie niezbędnych danych o świadczeniobiorcach i członkach rodziny na podstawie przeprowadzonych rodzinnych wywiadów środowiskowych, zapisanie informacji o sposobie rozpatrzenia wniosków o świadczenia, rejestrację kontraktów, umów i porozumień, realizację świadczeń w formie zarówno pieniężnej, jak i niepieniężnej, rozliczenie świadczeń przez ustalenie odpłatności, spłat, zwrotów i potrąceń, generowanie wymaganych sprawozdań oraz danych do zbioru centralnego lub rejestru centralnego w formacie i strukturze określonych w dokumentacji opisu systemu, jak również monitorowanie każdego z etapów postępowania administracyjnego w następujący sposób: dla jednostek realizujących zadania gminy i powiatu: zgodnie z katalogiem zadań określonych w art. 17-20 ustawy;"
+    },
+    {
+      "provision_ref": "par3u2p2",
+      "section": "3",
+      "title": "§ 3 ust. 2 pkt 2",
+      "content": "Minimalna funkcjonalność systemu teleinformatycznego: dotycząca zastosowań statystycznych gwarantuje: wczytanie sprawozdań oraz danych z zakresu zbioru centralnego lub rejestru centralnego, weryfikację danych pod względem zgodności ze standardem transmisji danych oraz poprawności merytorycznej, scalenie danych według zadanych kryteriów, dostęp do danych zgodnie z nadanymi uprawnieniami dla poszczególnych poziomów organizacyjnych."
+    },
+    {
+      "provision_ref": "par3u3p1",
+      "section": "3",
+      "title": "§ 3 ust. 3 pkt 1",
+      "content": "System teleinformatyczny umożliwia komunikację między elementami tego systemu przez zastosowanie jednolitych standardów transmisji danych dla sprawozdań oraz danych z zakresu zbioru centralnego i rejestru centralnego w formacie XML: przekazywanych przez gminę i powiat do województwa lub bezpośrednio wczytywanych do baz danych gromadzących dane zbioru centralnego lub rejestru centralnego;"
+    },
+    {
+      "provision_ref": "par3u3p2",
+      "section": "3",
+      "title": "§ 3 ust. 3 pkt 2",
+      "content": "System teleinformatyczny umożliwia komunikację między elementami tego systemu przez zastosowanie jednolitych standardów transmisji danych dla sprawozdań oraz danych z zakresu zbioru centralnego i rejestru centralnego w formacie XML: przekazywanych przez filie i oddziały jednostek organizacyjnych pomocy społecznej do jednostek nadrzędnych, zgodnie ze strukturą terytorialną kraju, lub bezpośrednio wczytywanych do baz danych gromadzących dane zbioru centralnego lub rejestru centralnego."
+    },
+    {
+      "provision_ref": "par3u4",
+      "section": "3",
+      "title": "§ 3 ust. 4",
+      "content": "Zestawienie struktur dokumentów elektronicznych w formacie XML, o którym mowa w ust. 3, wraz z formatami danych oraz protokołami komunikacyjnymi i szyfrującymi udostępnia się razem z dokumentacją opisu systemu na stronie internetowej, o której mowa w § 5 pkt 4."
+    },
+    {
+      "provision_ref": "par4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "System teleinformatyczny spełnia następujące wymagania standaryzujące w zakresie bezpieczeństwa: wymagania w zakresie bezpieczeństwa przetwarzania danych osobowych zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35. oraz wymagania stosowane do rodzaju przetwarzanych danych, o których mowa w art. 9 tego rozporządzenia; ochrona i kontrola dostępu do zasobów tego systemu - na poziomie bezpieczeństwa co najmniej podwyższonym, natomiast w przypadku danych udostępnianych w sieci publicznej oraz przesyłów danych między elementami tego systemu - na wysokim poziomie bezpieczeństwa; obowiązek posiadania przez każdego użytkownika systemu teleinformatycznego identyfikatora służącego do autoryzacji, wbudowanie mechanizmu monitoringu umożliwiającego rejestrację prób logowań do systemu oraz zdefiniowanie zestawu śledzonych czynności wykonywanych przez użytkowników; obowiązek posiadania wbudowanych funkcji umożliwiających okresowe automatyczne wykonywanie kopii bezpieczeństwa. System teleinformatyczny umożliwia poprawną obsługę wszystkich procesów przy jednoczesnym zapewnieniu właściwych parametrów wydajnościowych wspieranych przez zastosowanie architektury wielowarstwowej, wysoki poziom niezawodności, stabilność pracy oraz skalowalność pozwalającą na rozbudowę systemu teleinformatycznego wraz ze wzrostem potrzeb. Bieżące funkcjonowanie systemu teleinformatycznego uwzględnia ciągły rozwój tego systemu, odnoszący się zarówno do rozszerzania jego funkcjonalności zgodnie z oczekiwaniami użytkowników, jak również do sfery technologicznej, obejmującej dostosowanie systemu teleinformatycznego do zmieniających się uwarunkowań zewnętrznych i rozwoju w dziedzinie informatyki i telekomunikacji."
+    },
+    {
+      "provision_ref": "par4u1p1",
+      "section": "4",
+      "title": "§ 4 ust. 1 pkt 1",
+      "content": "System teleinformatyczny spełnia następujące wymagania standaryzujące w zakresie bezpieczeństwa: wymagania w zakresie bezpieczeństwa przetwarzania danych osobowych zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35. oraz wymagania stosowane do rodzaju przetwarzanych danych, o których mowa w art. 9 tego rozporządzenia;"
+    },
+    {
+      "provision_ref": "par4u1p2",
+      "section": "4",
+      "title": "§ 4 ust. 1 pkt 2",
+      "content": "System teleinformatyczny spełnia następujące wymagania standaryzujące w zakresie bezpieczeństwa: ochrona i kontrola dostępu do zasobów tego systemu - na poziomie bezpieczeństwa co najmniej podwyższonym, natomiast w przypadku danych udostępnianych w sieci publicznej oraz przesyłów danych między elementami tego systemu - na wysokim poziomie bezpieczeństwa;"
+    },
+    {
+      "provision_ref": "par4u1p3",
+      "section": "4",
+      "title": "§ 4 ust. 1 pkt 3",
+      "content": "System teleinformatyczny spełnia następujące wymagania standaryzujące w zakresie bezpieczeństwa: obowiązek posiadania przez każdego użytkownika systemu teleinformatycznego identyfikatora służącego do autoryzacji, wbudowanie mechanizmu monitoringu umożliwiającego rejestrację prób logowań do systemu oraz zdefiniowanie zestawu śledzonych czynności wykonywanych przez użytkowników;"
+    },
+    {
+      "provision_ref": "par4u1p4",
+      "section": "4",
+      "title": "§ 4 ust. 1 pkt 4",
+      "content": "System teleinformatyczny spełnia następujące wymagania standaryzujące w zakresie bezpieczeństwa: obowiązek posiadania wbudowanych funkcji umożliwiających okresowe automatyczne wykonywanie kopii bezpieczeństwa."
+    },
+    {
+      "provision_ref": "par4u2",
+      "section": "4",
+      "title": "§ 4 ust. 2",
+      "content": "System teleinformatyczny umożliwia poprawną obsługę wszystkich procesów przy jednoczesnym zapewnieniu właściwych parametrów wydajnościowych wspieranych przez zastosowanie architektury wielowarstwowej, wysoki poziom niezawodności, stabilność pracy oraz skalowalność pozwalającą na rozbudowę systemu teleinformatycznego wraz ze wzrostem potrzeb."
+    },
+    {
+      "provision_ref": "par4u3",
+      "section": "4",
+      "title": "§ 4 ust. 3",
+      "content": "Bieżące funkcjonowanie systemu teleinformatycznego uwzględnia ciągły rozwój tego systemu, odnoszący się zarówno do rozszerzania jego funkcjonalności zgodnie z oczekiwaniami użytkowników, jak również do sfery technologicznej, obejmującej dostosowanie systemu teleinformatycznego do zmieniających się uwarunkowań zewnętrznych i rozwoju w dziedzinie informatyki i telekomunikacji."
+    },
+    {
+      "provision_ref": "par5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Minister ogłasza w prasie o zasięgu ogólnokrajowym i w Biuletynie Informacji Publicznej urzędu obsługującego ministra informacje o: obowiązującej wersji opisu systemu; terminie dostosowawczym; okresie przejściowym; adresie strony internetowej, pod którym udostępniono dokumentację obowiązującej wersji opisu systemu wraz z zestawem scenariuszy testowych."
+    },
+    {
+      "provision_ref": "par5p1",
+      "section": "5",
+      "title": "§ 5 pkt 1",
+      "content": "Minister ogłasza w prasie o zasięgu ogólnokrajowym i w Biuletynie Informacji Publicznej urzędu obsługującego ministra informacje o: obowiązującej wersji opisu systemu;"
+    },
+    {
+      "provision_ref": "par5p2",
+      "section": "5",
+      "title": "§ 5 pkt 2",
+      "content": "Minister ogłasza w prasie o zasięgu ogólnokrajowym i w Biuletynie Informacji Publicznej urzędu obsługującego ministra informacje o: terminie dostosowawczym;"
+    },
+    {
+      "provision_ref": "par5p3",
+      "section": "5",
+      "title": "§ 5 pkt 3",
+      "content": "Minister ogłasza w prasie o zasięgu ogólnokrajowym i w Biuletynie Informacji Publicznej urzędu obsługującego ministra informacje o: okresie przejściowym;"
+    },
+    {
+      "provision_ref": "par5p4",
+      "section": "5",
+      "title": "§ 5 pkt 4",
+      "content": "Minister ogłasza w prasie o zasięgu ogólnokrajowym i w Biuletynie Informacji Publicznej urzędu obsługującego ministra informacje o: adresie strony internetowej, pod którym udostępniono dokumentację obowiązującej wersji opisu systemu wraz z zestawem scenariuszy testowych."
+    },
+    {
+      "provision_ref": "par6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "Minister stwierdza zgodność oprogramowania z obowiązującą wersją opisu systemu zawartą w dokumentacji opisu systemu na podstawie pozytywnego wyniku procedury zgodności. Stwierdzenie zgodności oprogramowania z obowiązującą wersją opisu systemu następuje w świadectwie zgodności."
+    },
+    {
+      "provision_ref": "par6u1",
+      "section": "6",
+      "title": "§ 6 ust. 1",
+      "content": "Minister stwierdza zgodność oprogramowania z obowiązującą wersją opisu systemu zawartą w dokumentacji opisu systemu na podstawie pozytywnego wyniku procedury zgodności."
+    },
+    {
+      "provision_ref": "par6u2",
+      "section": "6",
+      "title": "§ 6 ust. 2",
+      "content": "Stwierdzenie zgodności oprogramowania z obowiązującą wersją opisu systemu następuje w świadectwie zgodności."
+    },
+    {
+      "provision_ref": "par7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "Procedurą zgodności jest objęte oprogramowanie wytwarzane przez producentów, wspomagające realizację zadań pomocy społecznej określonych w ustawie."
+    },
+    {
+      "provision_ref": "par8",
+      "section": "8",
+      "title": "§ 8",
+      "content": "Zgłoszenie oprogramowania do procedury zgodności następuje na wniosek producenta. Wniosek, o którym mowa w ust. 1, zawiera: nazwę producenta i adres jego siedziby; imię, nazwisko i stanowisko służbowe osoby wyznaczonej do kontaktów po stronie producenta w czasie trwania procedury zgodności; określenie poziomów, na które oprogramowanie zostało zgłoszone, oznaczanych w następujący sposób: GMINA - w przypadku oprogramowania wspomagającego realizację zadań pomocy społecznej przez gminę, POWIAT - w przypadku oprogramowania wspomagającego realizację zadań pomocy społecznej przez powiat, STAT - w przypadku oprogramowania statystycznego wspomagającego realizację zadań pomocy społecznej; oznaczenie nazwy i numeru wersji oprogramowania; określenie platformy sprzętowej i systemowej oprogramowania w przypadku platformy sprzętowej lub systemowej innej niż określona w opisie systemu, dla celów przeprowadzenia procedury zgodności. Numer wersji oprogramowania, o którym mowa w ust. 2 pkt 4, producent tworzy w następujący sposób: dla poziomu GMINA jako numer w formacie „G-k-y-x”; dla poziomu POWIAT jako numer w formacie „P-k-y-x”; dla poziomu STAT jako numer w formacie „S-k-y-x”; przez „k” w pkt 1-3 rozumie się numer obowiązującej wersji opisu systemu, który spełnia dane oprogramowanie; przez „y” w pkt 1-3 rozumie się numer wersji oprogramowania danego producenta; przez „x” w pkt 1-3 rozumie się numer kolejny aktualizacji wersji oprogramowania. Do wniosku, o którym mowa w ust. 1, dołącza się: dokumentację oprogramowania określoną w dokumentacji opisu systemu; oświadczenie o: spełnianiu przez oprogramowanie wymagań określonych w obowiązującej wersji opisu systemu, posiadaniu majątkowych praw autorskich do oprogramowania oraz braku toczącego się postępowania, którego przedmiotem jest to oprogramowanie, wykonaniu z wynikiem pozytywnym testu oprogramowania, na podstawie udostępnionych scenariuszy testowych, wraz z opisem wyniku testu; odpis lub wyciąg z rejestru przedsiębiorców lub zaświadczenie z ewidencji działalności gospodarczej - sporządzone nie wcześniej niż 6 miesięcy przed dniem złożenia wniosku. Przepis ust. 4 pkt 3 nie dotyczy obywateli Unii Europejskiej, Konfederacji Szwajcarskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stron umowy o Europejskim Obszarze Gospodarczym. Dokumentację oprogramowania wnioskodawca składa w formie dokumentu elektronicznego. W przypadku posiadania zainstalowanej wersji oprogramowania wspierającego realizację zadań w zakresie pomocy społecznej, do wniosku dołącza się ponadto: spis aktualnie posiadanych instalacji oprogramowania zgłoszonego do procedury zgodności; opis procedur postępowania związanych ze zmianą wersji zainstalowanego oprogramowania na wersję systemu informatycznego zgłoszonego do procedury zgodności."
+    },
+    {
+      "provision_ref": "par8u1",
+      "section": "8",
+      "title": "§ 8 ust. 1",
+      "content": "Zgłoszenie oprogramowania do procedury zgodności następuje na wniosek producenta."
+    },
+    {
+      "provision_ref": "par8u2p1",
+      "section": "8",
+      "title": "§ 8 ust. 2 pkt 1",
+      "content": "Wniosek, o którym mowa w ust. 1, zawiera: nazwę producenta i adres jego siedziby;"
+    },
+    {
+      "provision_ref": "par8u2p2",
+      "section": "8",
+      "title": "§ 8 ust. 2 pkt 2",
+      "content": "Wniosek, o którym mowa w ust. 1, zawiera: imię, nazwisko i stanowisko służbowe osoby wyznaczonej do kontaktów po stronie producenta w czasie trwania procedury zgodności;"
+    },
+    {
+      "provision_ref": "par8u2p3la",
+      "section": "8",
+      "title": "§ 8 ust. 2 pkt 3 lit. a",
+      "content": "Wniosek, o którym mowa w ust. 1, zawiera: określenie poziomów, na które oprogramowanie zostało zgłoszone, oznaczanych w następujący sposób: GMINA - w przypadku oprogramowania wspomagającego realizację zadań pomocy społecznej przez gminę,"
+    },
+    {
+      "provision_ref": "par8u2p3lb",
+      "section": "8",
+      "title": "§ 8 ust. 2 pkt 3 lit. b",
+      "content": "Wniosek, o którym mowa w ust. 1, zawiera: określenie poziomów, na które oprogramowanie zostało zgłoszone, oznaczanych w następujący sposób: POWIAT - w przypadku oprogramowania wspomagającego realizację zadań pomocy społecznej przez powiat,"
+    },
+    {
+      "provision_ref": "par8u2p3lc",
+      "section": "8",
+      "title": "§ 8 ust. 2 pkt 3 lit. c",
+      "content": "Wniosek, o którym mowa w ust. 1, zawiera: określenie poziomów, na które oprogramowanie zostało zgłoszone, oznaczanych w następujący sposób: STAT - w przypadku oprogramowania statystycznego wspomagającego realizację zadań pomocy społecznej;"
+    },
+    {
+      "provision_ref": "par8u2p4",
+      "section": "8",
+      "title": "§ 8 ust. 2 pkt 4",
+      "content": "Wniosek, o którym mowa w ust. 1, zawiera: oznaczenie nazwy i numeru wersji oprogramowania;"
+    },
+    {
+      "provision_ref": "par8u2p5",
+      "section": "8",
+      "title": "§ 8 ust. 2 pkt 5",
+      "content": "Wniosek, o którym mowa w ust. 1, zawiera: określenie platformy sprzętowej i systemowej oprogramowania w przypadku platformy sprzętowej lub systemowej innej niż określona w opisie systemu, dla celów przeprowadzenia procedury zgodności."
+    },
+    {
+      "provision_ref": "par8u3p1",
+      "section": "8",
+      "title": "§ 8 ust. 3 pkt 1",
+      "content": "Numer wersji oprogramowania, o którym mowa w ust. 2 pkt 4, producent tworzy w następujący sposób: dla poziomu GMINA jako numer w formacie „G-k-y-x”;"
+    },
+    {
+      "provision_ref": "par8u3p2",
+      "section": "8",
+      "title": "§ 8 ust. 3 pkt 2",
+      "content": "Numer wersji oprogramowania, o którym mowa w ust. 2 pkt 4, producent tworzy w następujący sposób: dla poziomu POWIAT jako numer w formacie „P-k-y-x”;"
+    },
+    {
+      "provision_ref": "par8u3p3",
+      "section": "8",
+      "title": "§ 8 ust. 3 pkt 3",
+      "content": "Numer wersji oprogramowania, o którym mowa w ust. 2 pkt 4, producent tworzy w następujący sposób: dla poziomu STAT jako numer w formacie „S-k-y-x”;"
+    },
+    {
+      "provision_ref": "par8u3p4",
+      "section": "8",
+      "title": "§ 8 ust. 3 pkt 4",
+      "content": "Numer wersji oprogramowania, o którym mowa w ust. 2 pkt 4, producent tworzy w następujący sposób: przez „k” w pkt 1-3 rozumie się numer obowiązującej wersji opisu systemu, który spełnia dane oprogramowanie;"
+    },
+    {
+      "provision_ref": "par8u3p5",
+      "section": "8",
+      "title": "§ 8 ust. 3 pkt 5",
+      "content": "Numer wersji oprogramowania, o którym mowa w ust. 2 pkt 4, producent tworzy w następujący sposób: przez „y” w pkt 1-3 rozumie się numer wersji oprogramowania danego producenta;"
+    },
+    {
+      "provision_ref": "par8u3p6",
+      "section": "8",
+      "title": "§ 8 ust. 3 pkt 6",
+      "content": "Numer wersji oprogramowania, o którym mowa w ust. 2 pkt 4, producent tworzy w następujący sposób: przez „x” w pkt 1-3 rozumie się numer kolejny aktualizacji wersji oprogramowania."
+    },
+    {
+      "provision_ref": "par8u4p1",
+      "section": "8",
+      "title": "§ 8 ust. 4 pkt 1",
+      "content": "Do wniosku, o którym mowa w ust. 1, dołącza się: dokumentację oprogramowania określoną w dokumentacji opisu systemu;"
+    },
+    {
+      "provision_ref": "par8u4p2la",
+      "section": "8",
+      "title": "§ 8 ust. 4 pkt 2 lit. a",
+      "content": "Do wniosku, o którym mowa w ust. 1, dołącza się: oświadczenie o: spełnianiu przez oprogramowanie wymagań określonych w obowiązującej wersji opisu systemu,"
+    },
+    {
+      "provision_ref": "par8u4p2lb",
+      "section": "8",
+      "title": "§ 8 ust. 4 pkt 2 lit. b",
+      "content": "Do wniosku, o którym mowa w ust. 1, dołącza się: oświadczenie o: posiadaniu majątkowych praw autorskich do oprogramowania oraz braku toczącego się postępowania, którego przedmiotem jest to oprogramowanie,"
+    },
+    {
+      "provision_ref": "par8u4p2lc",
+      "section": "8",
+      "title": "§ 8 ust. 4 pkt 2 lit. c",
+      "content": "Do wniosku, o którym mowa w ust. 1, dołącza się: oświadczenie o: wykonaniu z wynikiem pozytywnym testu oprogramowania, na podstawie udostępnionych scenariuszy testowych, wraz z opisem wyniku testu;"
+    },
+    {
+      "provision_ref": "par8u4p3",
+      "section": "8",
+      "title": "§ 8 ust. 4 pkt 3",
+      "content": "Do wniosku, o którym mowa w ust. 1, dołącza się: odpis lub wyciąg z rejestru przedsiębiorców lub zaświadczenie z ewidencji działalności gospodarczej - sporządzone nie wcześniej niż 6 miesięcy przed dniem złożenia wniosku."
+    },
+    {
+      "provision_ref": "par8u5",
+      "section": "8",
+      "title": "§ 8 ust. 5",
+      "content": "Przepis ust. 4 pkt 3 nie dotyczy obywateli Unii Europejskiej, Konfederacji Szwajcarskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stron umowy o Europejskim Obszarze Gospodarczym."
+    },
+    {
+      "provision_ref": "par8u6",
+      "section": "8",
+      "title": "§ 8 ust. 6",
+      "content": "Dokumentację oprogramowania wnioskodawca składa w formie dokumentu elektronicznego."
+    },
+    {
+      "provision_ref": "par8u7p1",
+      "section": "8",
+      "title": "§ 8 ust. 7 pkt 1",
+      "content": "W przypadku posiadania zainstalowanej wersji oprogramowania wspierającego realizację zadań w zakresie pomocy społecznej, do wniosku dołącza się ponadto: spis aktualnie posiadanych instalacji oprogramowania zgłoszonego do procedury zgodności;"
+    },
+    {
+      "provision_ref": "par8u7p2",
+      "section": "8",
+      "title": "§ 8 ust. 7 pkt 2",
+      "content": "W przypadku posiadania zainstalowanej wersji oprogramowania wspierającego realizację zadań w zakresie pomocy społecznej, do wniosku dołącza się ponadto: opis procedur postępowania związanych ze zmianą wersji zainstalowanego oprogramowania na wersję systemu informatycznego zgłoszonego do procedury zgodności."
+    },
+    {
+      "provision_ref": "par9",
+      "section": "9",
+      "title": "§ 9",
+      "content": "Jeżeli złożony wniosek nie spełnia wymagań, o których mowa w § 8 ust. 2-6, wzywa się producenta do usunięcia braków. Nieusunięcie braków w terminie 7 dni od dnia otrzymania zawiadomienia skutkuje pozostawieniem wniosku bez rozpoznania."
+    },
+    {
+      "provision_ref": "par10",
+      "section": "10",
+      "title": "§ 10",
+      "content": "Oświadczenia i zawiadomienia składane przez producentów w trakcie procedury zgodności zawierają co najmniej: nazwę producenta i adres jego siedziby; nazwę i wersję oprogramowania; opis przedmiotu sprawy."
+    },
+    {
+      "provision_ref": "par10p1",
+      "section": "10",
+      "title": "§ 10 pkt 1",
+      "content": "Oświadczenia i zawiadomienia składane przez producentów w trakcie procedury zgodności zawierają co najmniej: nazwę producenta i adres jego siedziby;"
+    },
+    {
+      "provision_ref": "par10p2",
+      "section": "10",
+      "title": "§ 10 pkt 2",
+      "content": "Oświadczenia i zawiadomienia składane przez producentów w trakcie procedury zgodności zawierają co najmniej: nazwę i wersję oprogramowania;"
+    },
+    {
+      "provision_ref": "par10p3",
+      "section": "10",
+      "title": "§ 10 pkt 3",
+      "content": "Oświadczenia i zawiadomienia składane przez producentów w trakcie procedury zgodności zawierają co najmniej: opis przedmiotu sprawy."
+    },
+    {
+      "provision_ref": "par11",
+      "section": "11",
+      "title": "§ 11",
+      "content": "Procedurę zgodności przeprowadza się w kolejności wpływu wniosków do urzędu obsługującego ministra. Pierwszeństwo w przeprowadzeniu procedury zgodności przysługuje producentom, którzy zgłaszają oprogramowanie do procedury zgodności w terminie dostosowawczym. Data złożenia wniosku w placówce operatora pocztowego albo w urzędzie konsularnym oznacza datę złożenia wniosku w urzędzie obsługującym ministra."
+    },
+    {
+      "provision_ref": "par11u1",
+      "section": "11",
+      "title": "§ 11 ust. 1",
+      "content": "Procedurę zgodności przeprowadza się w kolejności wpływu wniosków do urzędu obsługującego ministra."
+    },
+    {
+      "provision_ref": "par11u2",
+      "section": "11",
+      "title": "§ 11 ust. 2",
+      "content": "Pierwszeństwo w przeprowadzeniu procedury zgodności przysługuje producentom, którzy zgłaszają oprogramowanie do procedury zgodności w terminie dostosowawczym."
+    },
+    {
+      "provision_ref": "par11u3",
+      "section": "11",
+      "title": "§ 11 ust. 3",
+      "content": "Data złożenia wniosku w placówce operatora pocztowego albo w urzędzie konsularnym oznacza datę złożenia wniosku w urzędzie obsługującym ministra."
+    },
+    {
+      "provision_ref": "par12",
+      "section": "12",
+      "title": "§ 12",
+      "content": "W celu stwierdzenia zgodności oprogramowania z opisem systemu dokonuje się oceny kompletności dołączonej do wniosku dokumentacji oprogramowania oraz wykazu wykonanych scenariuszy testowych, będących udokumentowaniem poprawności działania oprogramowania. Po dokonaniu oceny, o której mowa w ust. 1, sporządza się raport, który niezwłocznie przekazuje się producentowi. Producent w terminie 7 dni od dnia otrzymania raportu może złożyć wyjaśnienia lub zgłosić umotywowane zastrzeżenia do wniosków w nim zawartych. Niezgłoszenie wyjaśnień lub zastrzeżeń w terminie, o którym mowa w ust. 3, stanowi potwierdzenie wniosków zawartych w raporcie. Jeżeli zastrzeżenia producenta nie zostaną uwzględnione, minister wzywa go do przedłożenia dokumentacji oprogramowania spełniającej wymagania określone w obowiązującej wersji opisu systemu w terminie 30 dni od dnia wezwania, informując jednocześnie, że w przypadku nieprzedłożenia dokumentacji w tym terminie, minister odmówi wydania świadectwa zgodności. W oparciu o wnioski zawarte w raporcie, o którym mowa w ust. 2, a także wniesione wyjaśnienia lub zgłoszone zastrzeżenia producenta minister wydaje świadectwo zgodności lub odmawia wydania świadectwa zgodności lub informuje producenta o zastosowaniu rozszerzonej procedury zgodności."
+    },
+    {
+      "provision_ref": "par12u1",
+      "section": "12",
+      "title": "§ 12 ust. 1",
+      "content": "W celu stwierdzenia zgodności oprogramowania z opisem systemu dokonuje się oceny kompletności dołączonej do wniosku dokumentacji oprogramowania oraz wykazu wykonanych scenariuszy testowych, będących udokumentowaniem poprawności działania oprogramowania."
+    },
+    {
+      "provision_ref": "par12u2",
+      "section": "12",
+      "title": "§ 12 ust. 2",
+      "content": "Po dokonaniu oceny, o której mowa w ust. 1, sporządza się raport, który niezwłocznie przekazuje się producentowi."
+    },
+    {
+      "provision_ref": "par12u3",
+      "section": "12",
+      "title": "§ 12 ust. 3",
+      "content": "Producent w terminie 7 dni od dnia otrzymania raportu może złożyć wyjaśnienia lub zgłosić umotywowane zastrzeżenia do wniosków w nim zawartych."
+    },
+    {
+      "provision_ref": "par12u4",
+      "section": "12",
+      "title": "§ 12 ust. 4",
+      "content": "Niezgłoszenie wyjaśnień lub zastrzeżeń w terminie, o którym mowa w ust. 3, stanowi potwierdzenie wniosków zawartych w raporcie."
+    },
+    {
+      "provision_ref": "par12u5",
+      "section": "12",
+      "title": "§ 12 ust. 5",
+      "content": "Jeżeli zastrzeżenia producenta nie zostaną uwzględnione, minister wzywa go do przedłożenia dokumentacji oprogramowania spełniającej wymagania określone w obowiązującej wersji opisu systemu w terminie 30 dni od dnia wezwania, informując jednocześnie, że w przypadku nieprzedłożenia dokumentacji w tym terminie, minister odmówi wydania świadectwa zgodności."
+    },
+    {
+      "provision_ref": "par12u6",
+      "section": "12",
+      "title": "§ 12 ust. 6",
+      "content": "W oparciu o wnioski zawarte w raporcie, o którym mowa w ust. 2, a także wniesione wyjaśnienia lub zgłoszone zastrzeżenia producenta minister wydaje świadectwo zgodności lub odmawia wydania świadectwa zgodności lub informuje producenta o zastosowaniu rozszerzonej procedury zgodności."
+    },
+    {
+      "provision_ref": "par13",
+      "section": "13",
+      "title": "§ 13",
+      "content": "W celu stwierdzenia zgodności oprogramowania z opisem systemu może być zastosowana rozszerzona procedura zgodności polegająca na przeglądzie dokumentacji oprogramowania lub testach oprogramowania. Po dokonaniu przeglądu dokumentacji oprogramowania, o której mowa w ust. 1, sporządza się raport z przeglądu, który niezwłocznie przekazuje się producentowi. Przepisy § 12 ust. 3-6 stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "par13u1",
+      "section": "13",
+      "title": "§ 13 ust. 1",
+      "content": "W celu stwierdzenia zgodności oprogramowania z opisem systemu może być zastosowana rozszerzona procedura zgodności polegająca na przeglądzie dokumentacji oprogramowania lub testach oprogramowania."
+    },
+    {
+      "provision_ref": "par13u2",
+      "section": "13",
+      "title": "§ 13 ust. 2",
+      "content": "Po dokonaniu przeglądu dokumentacji oprogramowania, o której mowa w ust. 1, sporządza się raport z przeglądu, który niezwłocznie przekazuje się producentowi."
+    },
+    {
+      "provision_ref": "par13u3",
+      "section": "13",
+      "title": "§ 13 ust. 3",
+      "content": "Przepisy § 12 ust. 3-6 stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "par14",
+      "section": "14",
+      "title": "§ 14",
+      "content": "O planowanym przeprowadzeniu testów oprogramowania zawiadamia się producenta na piśmie na co najmniej 14 dni przed terminem, o którym mowa w ust. 2 pkt 1. Zawiadomienie, o którym mowa w ust. 1, określa: termin i miejsce instalacji oprogramowania przez producenta w celu przeprowadzenia testu; planowany termin zakończenia testów; zobowiązanie producenta do dostarczenia sprzętu i oprogramowania niezbędnych do przeprowadzenia testów, jeżeli oprogramowanie wymaga innej platformy sprzętowej, systemowej lub bazy danych niż określone w opisie systemu."
+    },
+    {
+      "provision_ref": "par14u1",
+      "section": "14",
+      "title": "§ 14 ust. 1",
+      "content": "O planowanym przeprowadzeniu testów oprogramowania zawiadamia się producenta na piśmie na co najmniej 14 dni przed terminem, o którym mowa w ust. 2 pkt 1."
+    },
+    {
+      "provision_ref": "par14u2p1",
+      "section": "14",
+      "title": "§ 14 ust. 2 pkt 1",
+      "content": "Zawiadomienie, o którym mowa w ust. 1, określa: termin i miejsce instalacji oprogramowania przez producenta w celu przeprowadzenia testu;"
+    },
+    {
+      "provision_ref": "par14u2p2",
+      "section": "14",
+      "title": "§ 14 ust. 2 pkt 2",
+      "content": "Zawiadomienie, o którym mowa w ust. 1, określa: planowany termin zakończenia testów;"
+    },
+    {
+      "provision_ref": "par14u2p3",
+      "section": "14",
+      "title": "§ 14 ust. 2 pkt 3",
+      "content": "Zawiadomienie, o którym mowa w ust. 1, określa: zobowiązanie producenta do dostarczenia sprzętu i oprogramowania niezbędnych do przeprowadzenia testów, jeżeli oprogramowanie wymaga innej platformy sprzętowej, systemowej lub bazy danych niż określone w opisie systemu."
+    },
+    {
+      "provision_ref": "par15",
+      "section": "15",
+      "title": "§ 15",
+      "content": "W terminie, o którym mowa w § 14 ust. 2 pkt 1, producent dostarcza instalacyjną wersję oprogramowania wraz z instrukcją instalacji. Instalacja oprogramowania odbywa się w miejscu wskazanym w zawiadomieniu, o którym mowa w § 14 ust. 2 pkt 1. Oprogramowanie jest instalowane z pustymi bazami danych. Po dokonaniu instalacji producent wykonuje test poinstalacyjny, który sprawdza gotowość zainstalowanego oprogramowania do testów. Po instalacji i wykonaniu testu poinstalacyjnego oprogramowania producent dokonuje wstępnej prezentacji oprogramowania w zakresie sposobu jego obsługi."
+    },
+    {
+      "provision_ref": "par15u1",
+      "section": "15",
+      "title": "§ 15 ust. 1",
+      "content": "W terminie, o którym mowa w § 14 ust. 2 pkt 1, producent dostarcza instalacyjną wersję oprogramowania wraz z instrukcją instalacji."
+    },
+    {
+      "provision_ref": "par15u2",
+      "section": "15",
+      "title": "§ 15 ust. 2",
+      "content": "Instalacja oprogramowania odbywa się w miejscu wskazanym w zawiadomieniu, o którym mowa w § 14 ust. 2 pkt 1. Oprogramowanie jest instalowane z pustymi bazami danych."
+    },
+    {
+      "provision_ref": "par15u3",
+      "section": "15",
+      "title": "§ 15 ust. 3",
+      "content": "Po dokonaniu instalacji producent wykonuje test poinstalacyjny, który sprawdza gotowość zainstalowanego oprogramowania do testów."
+    },
+    {
+      "provision_ref": "par15u4",
+      "section": "15",
+      "title": "§ 15 ust. 4",
+      "content": "Po instalacji i wykonaniu testu poinstalacyjnego oprogramowania producent dokonuje wstępnej prezentacji oprogramowania w zakresie sposobu jego obsługi."
+    },
+    {
+      "provision_ref": "par16",
+      "section": "16",
+      "title": "§ 16",
+      "content": "Testy przeprowadza się z uwzględnieniem wybranych zestawów scenariuszy testowych. W trakcie przeprowadzania testów jest wymagana obecność producenta albo jego uprawnionego przedstawiciela. Producent albo jego uprawniony przedstawiciel, o których mowa w ust. 2, udzielają wszelkich informacji w trakcie przeprowadzania testów w sprawach związanych ze sposobem obsługi testowanego oprogramowania. W trakcie przeprowadzania testów nie dopuszcza się wykonywania poprawek i aktualizacji testowanego oprogramowania w celu poprawy jego funkcjonalności lub usunięcia stwierdzonych w trakcie przeprowadzania testów problemów testowych. Minister może przerwać na okres nie dłuższy niż 14 dni przeprowadzanie testów, jeżeli ich zakończenie w planowanym terminie nie jest możliwe ze względu na rodzaj stwierdzonych problemów, o czym zawiadamia producenta na piśmie, wyznaczając nowy termin zakończenia testów. Minister może zakończyć testy bez zastosowania ust. 5 i odmówić wydania świadectwa zgodności, jeżeli w trakcie przeprowadzania testów zostaną stwierdzone problemy kategorii 1 i 2k, o których mowa w § 17 ust. 2, świadczące o poważnych brakach funkcjonalnych w oprogramowaniu."
+    },
+    {
+      "provision_ref": "par16u1",
+      "section": "16",
+      "title": "§ 16 ust. 1",
+      "content": "Testy przeprowadza się z uwzględnieniem wybranych zestawów scenariuszy testowych."
+    },
+    {
+      "provision_ref": "par16u2",
+      "section": "16",
+      "title": "§ 16 ust. 2",
+      "content": "W trakcie przeprowadzania testów jest wymagana obecność producenta albo jego uprawnionego przedstawiciela."
+    },
+    {
+      "provision_ref": "par16u3",
+      "section": "16",
+      "title": "§ 16 ust. 3",
+      "content": "Producent albo jego uprawniony przedstawiciel, o których mowa w ust. 2, udzielają wszelkich informacji w trakcie przeprowadzania testów w sprawach związanych ze sposobem obsługi testowanego oprogramowania."
+    },
+    {
+      "provision_ref": "par16u4",
+      "section": "16",
+      "title": "§ 16 ust. 4",
+      "content": "W trakcie przeprowadzania testów nie dopuszcza się wykonywania poprawek i aktualizacji testowanego oprogramowania w celu poprawy jego funkcjonalności lub usunięcia stwierdzonych w trakcie przeprowadzania testów problemów testowych."
+    },
+    {
+      "provision_ref": "par16u5",
+      "section": "16",
+      "title": "§ 16 ust. 5",
+      "content": "Minister może przerwać na okres nie dłuższy niż 14 dni przeprowadzanie testów, jeżeli ich zakończenie w planowanym terminie nie jest możliwe ze względu na rodzaj stwierdzonych problemów, o czym zawiadamia producenta na piśmie, wyznaczając nowy termin zakończenia testów."
+    },
+    {
+      "provision_ref": "par16u6",
+      "section": "16",
+      "title": "§ 16 ust. 6",
+      "content": "Minister może zakończyć testy bez zastosowania ust. 5 i odmówić wydania świadectwa zgodności, jeżeli w trakcie przeprowadzania testów zostaną stwierdzone problemy kategorii 1 i 2k, o których mowa w § 17 ust. 2, świadczące o poważnych brakach funkcjonalnych w oprogramowaniu."
+    },
+    {
+      "provision_ref": "par17",
+      "section": "17",
+      "title": "§ 17",
+      "content": "Każdy problem testowy stwierdzony w trakcie przeprowadzania testów podlega zakwalifikowaniu do odpowiedniej kategorii. Wyróżnia się następujące kategorie problemów testowych: kategorię „1” - do której zalicza się problemy funkcjonalne blokujące możliwość użycia oprogramowania, w szczególności powodujące zawieszenie jego pracy; kategorię „2” - do której zalicza się problemy funkcjonalne, nierokujące możliwości użycia oprogramowania albo stanowiące brak lub nieprawidłową implementację wymagań funkcjonalnych, i w której wyróżnia się podkategorie: podkategorię „2k” - do której zalicza się problemy funkcjonalne powodujące, że nie jest możliwe poprawne wykonanie podstawowej funkcji merytorycznej oprogramowania, która zgodnie z dokumentacją oprogramowania i opisem systemu powinna być możliwa do zrealizowania, podkategorię „2n” - do której zalicza się problemy funkcjonalne powodujące, że wykonanie merytorycznej funkcji oprogramowania jest utrudnione, ale istnieje możliwość poprawnego wykonania danej funkcji w sposób inny, niż zdefiniowano to w dokumentacji oprogramowania lub w opisie systemu, podkategorię „2r” - do której zalicza się pozostałe problemy kategorii 2; kategorię „3” - do której zalicza się problemy dotyczące komunikacji z użytkownikiem, w szczególności nieprzestrzeganie przyjętych przez producenta standardów komunikacji w zakresie: wizualizacji treści, w tym komunikatów i menu, użycia klawiszy funkcyjnych i przycisków, niesygnalizowania operacji wykonywanych dłużej niż 3 sekundy, czasu dostępu do danych wyszukiwanych na listach i w słownikach według zadanych kryteriów wyszukiwania, czasu wykonywania złożonych operacji na bazie, wymagań dotyczących formatu danych oraz funkcjonalności podpowiedzi wartości domyślnych i sygnalizowania wypełnienia pól obligatoryjnych; kategorię „P” - do której zalicza się problemy w zakresie polonizacji treści komunikatów, podpowiedzi oraz opisów etykiet pól."
+    },
+    {
+      "provision_ref": "par17u1",
+      "section": "17",
+      "title": "§ 17 ust. 1",
+      "content": "Każdy problem testowy stwierdzony w trakcie przeprowadzania testów podlega zakwalifikowaniu do odpowiedniej kategorii."
+    },
+    {
+      "provision_ref": "par17u2p1",
+      "section": "17",
+      "title": "§ 17 ust. 2 pkt 1",
+      "content": "Wyróżnia się następujące kategorie problemów testowych: kategorię „1” - do której zalicza się problemy funkcjonalne blokujące możliwość użycia oprogramowania, w szczególności powodujące zawieszenie jego pracy;"
+    },
+    {
+      "provision_ref": "par17u2p2la",
+      "section": "17",
+      "title": "§ 17 ust. 2 pkt 2 lit. a",
+      "content": "Wyróżnia się następujące kategorie problemów testowych: kategorię „2” - do której zalicza się problemy funkcjonalne, nierokujące możliwości użycia oprogramowania albo stanowiące brak lub nieprawidłową implementację wymagań funkcjonalnych, i w której wyróżnia się podkategorie: podkategorię „2k” - do której zalicza się problemy funkcjonalne powodujące, że nie jest możliwe poprawne wykonanie podstawowej funkcji merytorycznej oprogramowania, która zgodnie z dokumentacją oprogramowania i opisem systemu powinna być możliwa do zrealizowania,"
+    },
+    {
+      "provision_ref": "par17u2p2lb",
+      "section": "17",
+      "title": "§ 17 ust. 2 pkt 2 lit. b",
+      "content": "Wyróżnia się następujące kategorie problemów testowych: kategorię „2” - do której zalicza się problemy funkcjonalne, nierokujące możliwości użycia oprogramowania albo stanowiące brak lub nieprawidłową implementację wymagań funkcjonalnych, i w której wyróżnia się podkategorie: podkategorię „2n” - do której zalicza się problemy funkcjonalne powodujące, że wykonanie merytorycznej funkcji oprogramowania jest utrudnione, ale istnieje możliwość poprawnego wykonania danej funkcji w sposób inny, niż zdefiniowano to w dokumentacji oprogramowania lub w opisie systemu,"
+    },
+    {
+      "provision_ref": "par17u2p2lc",
+      "section": "17",
+      "title": "§ 17 ust. 2 pkt 2 lit. c",
+      "content": "Wyróżnia się następujące kategorie problemów testowych: kategorię „2” - do której zalicza się problemy funkcjonalne, nierokujące możliwości użycia oprogramowania albo stanowiące brak lub nieprawidłową implementację wymagań funkcjonalnych, i w której wyróżnia się podkategorie: podkategorię „2r” - do której zalicza się pozostałe problemy kategorii 2;"
+    },
+    {
+      "provision_ref": "par17u2p3",
+      "section": "17",
+      "title": "§ 17 ust. 2 pkt 3",
+      "content": "Wyróżnia się następujące kategorie problemów testowych: kategorię „3” - do której zalicza się problemy dotyczące komunikacji z użytkownikiem, w szczególności nieprzestrzeganie przyjętych przez producenta standardów komunikacji w zakresie: wizualizacji treści, w tym komunikatów i menu, użycia klawiszy funkcyjnych i przycisków, niesygnalizowania operacji wykonywanych dłużej niż 3 sekundy, czasu dostępu do danych wyszukiwanych na listach i w słownikach według zadanych kryteriów wyszukiwania, czasu wykonywania złożonych operacji na bazie, wymagań dotyczących formatu danych oraz funkcjonalności podpowiedzi wartości domyślnych i sygnalizowania wypełnienia pól obligatoryjnych;"
+    },
+    {
+      "provision_ref": "par17u2p4",
+      "section": "17",
+      "title": "§ 17 ust. 2 pkt 4",
+      "content": "Wyróżnia się następujące kategorie problemów testowych: kategorię „P” - do której zalicza się problemy w zakresie polonizacji treści komunikatów, podpowiedzi oraz opisów etykiet pól."
+    },
+    {
+      "provision_ref": "par18",
+      "section": "18",
+      "title": "§ 18",
+      "content": "Po zakończeniu testów sporządza się raport z przebiegu testów, który przekazuje się niezwłocznie producentowi. Przepisy § 12 ust. 3, 4 i 6 stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "par18u1",
+      "section": "18",
+      "title": "§ 18 ust. 1",
+      "content": "Po zakończeniu testów sporządza się raport z przebiegu testów, który przekazuje się niezwłocznie producentowi."
+    },
+    {
+      "provision_ref": "par18u2",
+      "section": "18",
+      "title": "§ 18 ust. 2",
+      "content": "Przepisy § 12 ust. 3, 4 i 6 stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "par19",
+      "section": "19",
+      "title": "§ 19",
+      "content": "Producent uzyskuje świadectwo zgodności, jeżeli podczas procedury zgodności zostanie stwierdzone, że oprogramowanie spełnia jej wymagania."
+    },
+    {
+      "provision_ref": "par20",
+      "section": "20",
+      "title": "§ 20",
+      "content": "Świadectwo zgodności minister wydaje: na czas nieokreślony albo na czas określony, jako: warunkowe świadectwo zgodności, przejściowe świadectwo zgodności. Świadectwo zgodności zawiera: datę wydania i datę początku obowiązywania; numer wersji opisu systemu; nazwę oprogramowania; wersję oprogramowania; poziom, na jaki wydano świadectwo; nazwę producenta i adres jego siedziby; numer świadectwa zgodności; termin jego ważności - w przypadku wydania warunkowego lub przejściowego świadectwa zgodności."
+    },
+    {
+      "provision_ref": "par20u1p1",
+      "section": "20",
+      "title": "§ 20 ust. 1 pkt 1",
+      "content": "Świadectwo zgodności minister wydaje: na czas nieokreślony albo"
+    },
+    {
+      "provision_ref": "par20u1p2la",
+      "section": "20",
+      "title": "§ 20 ust. 1 pkt 2 lit. a",
+      "content": "Świadectwo zgodności minister wydaje: na czas określony, jako: warunkowe świadectwo zgodności,"
+    },
+    {
+      "provision_ref": "par20u1p2lb",
+      "section": "20",
+      "title": "§ 20 ust. 1 pkt 2 lit. b",
+      "content": "Świadectwo zgodności minister wydaje: na czas określony, jako: przejściowe świadectwo zgodności."
+    },
+    {
+      "provision_ref": "par20u2p1",
+      "section": "20",
+      "title": "§ 20 ust. 2 pkt 1",
+      "content": "Świadectwo zgodności zawiera: datę wydania i datę początku obowiązywania;"
+    },
+    {
+      "provision_ref": "par20u2p2",
+      "section": "20",
+      "title": "§ 20 ust. 2 pkt 2",
+      "content": "Świadectwo zgodności zawiera: numer wersji opisu systemu;"
+    },
+    {
+      "provision_ref": "par20u2p3",
+      "section": "20",
+      "title": "§ 20 ust. 2 pkt 3",
+      "content": "Świadectwo zgodności zawiera: nazwę oprogramowania;"
+    },
+    {
+      "provision_ref": "par20u2p4",
+      "section": "20",
+      "title": "§ 20 ust. 2 pkt 4",
+      "content": "Świadectwo zgodności zawiera: wersję oprogramowania;"
+    },
+    {
+      "provision_ref": "par20u2p5",
+      "section": "20",
+      "title": "§ 20 ust. 2 pkt 5",
+      "content": "Świadectwo zgodności zawiera: poziom, na jaki wydano świadectwo;"
+    },
+    {
+      "provision_ref": "par20u2p6",
+      "section": "20",
+      "title": "§ 20 ust. 2 pkt 6",
+      "content": "Świadectwo zgodności zawiera: nazwę producenta i adres jego siedziby;"
+    },
+    {
+      "provision_ref": "par20u2p7",
+      "section": "20",
+      "title": "§ 20 ust. 2 pkt 7",
+      "content": "Świadectwo zgodności zawiera: numer świadectwa zgodności;"
+    },
+    {
+      "provision_ref": "par20u2p8",
+      "section": "20",
+      "title": "§ 20 ust. 2 pkt 8",
+      "content": "Świadectwo zgodności zawiera: termin jego ważności - w przypadku wydania warunkowego lub przejściowego świadectwa zgodności."
+    },
+    {
+      "provision_ref": "par21",
+      "section": "21",
+      "title": "§ 21",
+      "content": "Warunkowe świadectwo zgodności może być wydane w przypadku stwierdzenia nieznacznych uchybień między funkcjonalnością oprogramowania a obowiązującą wersją opisu systemu, oznaczających brak wystąpienia problemów kategorii 1 i podkategorii 2k oraz nieliczne wystąpienie problemów pozostałych kategorii i podkategorii wymienionych w § 17 ust. 2 pkt 2 lit. b i c oraz pkt 3 i 4. Warunkowe świadectwo zgodności traci ważność z upływem terminu określonego w świadectwie. Producent, któremu wydano warunkowe świadectwo zgodności, usuwa uchybienia lub rozbieżności w funkcjonowaniu oprogramowania i nie później niż w terminie 30 dni przed upływem terminu ważności wskazanego w świadectwie zgodności przedstawia poprawione oprogramowanie do powtórnej procedury zgodności. Przeprowadzając powtórną procedurę zgodności, w przypadku wydania warunkowego świadectwa zgodności, minister może ograniczyć zakres procedury do obszarów funkcjonalnych oprogramowania zakwestionowanych podczas poprzedniej procedury. Do powtórnej procedury zgodności mają zastosowanie § 8-19 i § 20 ust. 1 pkt 1 oraz ust. 2."
+    },
+    {
+      "provision_ref": "par21u1",
+      "section": "21",
+      "title": "§ 21 ust. 1",
+      "content": "Warunkowe świadectwo zgodności może być wydane w przypadku stwierdzenia nieznacznych uchybień między funkcjonalnością oprogramowania a obowiązującą wersją opisu systemu, oznaczających brak wystąpienia problemów kategorii 1 i podkategorii 2k oraz nieliczne wystąpienie problemów pozostałych kategorii i podkategorii wymienionych w § 17 ust. 2 pkt 2 lit. b i c oraz pkt 3 i 4."
+    },
+    {
+      "provision_ref": "par21u2",
+      "section": "21",
+      "title": "§ 21 ust. 2",
+      "content": "Warunkowe świadectwo zgodności traci ważność z upływem terminu określonego w świadectwie."
+    },
+    {
+      "provision_ref": "par21u3",
+      "section": "21",
+      "title": "§ 21 ust. 3",
+      "content": "Producent, któremu wydano warunkowe świadectwo zgodności, usuwa uchybienia lub rozbieżności w funkcjonowaniu oprogramowania i nie później niż w terminie 30 dni przed upływem terminu ważności wskazanego w świadectwie zgodności przedstawia poprawione oprogramowanie do powtórnej procedury zgodności."
+    },
+    {
+      "provision_ref": "par21u4",
+      "section": "21",
+      "title": "§ 21 ust. 4",
+      "content": "Przeprowadzając powtórną procedurę zgodności, w przypadku wydania warunkowego świadectwa zgodności, minister może ograniczyć zakres procedury do obszarów funkcjonalnych oprogramowania zakwestionowanych podczas poprzedniej procedury."
+    },
+    {
+      "provision_ref": "par21u5",
+      "section": "21",
+      "title": "§ 21 ust. 5",
+      "content": "Do powtórnej procedury zgodności mają zastosowanie § 8-19 i § 20 ust. 1 pkt 1 oraz ust. 2."
+    },
+    {
+      "provision_ref": "par22",
+      "section": "22",
+      "title": "§ 22",
+      "content": "Przejściowe świadectwo zgodności może być wydane, jeżeli oprogramowanie zgłoszone do procedury zgodności nie spełnia wszystkich wymagań zawartych w opisie systemu na skutek zaprzestania przez producenta rozwoju oprogramowania i podjęcia prac dotyczących wytworzenia nowego oprogramowania w związku ze zmianą technologii informatycznej. Przejściowe świadectwo zgodności jest wydawane na oprogramowanie, które uzyskało wcześniej świadectwo zgodności lub warunkowe świadectwo zgodności. Przejściowe świadectwo zgodności jest wydawane na okres do czasu wdrożenia przez producenta nowego oprogramowania, które uzyska świadectwo zgodności, nie dłużej jednak niż na okres 12 miesięcy. Przejściowe świadectwo zgodności jest wydawane w celu zapewnienia ciągłości użytkowania podczas zmiany oprogramowania, które posiada świadectwo zgodności, na nowo wytworzone oprogramowanie, polegającej między innymi na: instalacji nowego oprogramowania w dotychczasowych lokalizacjach, przeszkoleniu użytkowników w zakresie obsługi nowego oprogramowania, przeniesieniu danych do nowej bazy danych, weryfikacji jakości przeniesionych danych, przeprowadzeniu wdrożenia pilotażowego, rozpoczęciu pracy przez użytkowników końcowych. Do czasu pełnego wdrożenia i przejścia na nowe oprogramowanie dopuszcza się użytkowanie obydwu oprogramowań w danej lokalizacji."
+    },
+    {
+      "provision_ref": "par22u1",
+      "section": "22",
+      "title": "§ 22 ust. 1",
+      "content": "Przejściowe świadectwo zgodności może być wydane, jeżeli oprogramowanie zgłoszone do procedury zgodności nie spełnia wszystkich wymagań zawartych w opisie systemu na skutek zaprzestania przez producenta rozwoju oprogramowania i podjęcia prac dotyczących wytworzenia nowego oprogramowania w związku ze zmianą technologii informatycznej."
+    },
+    {
+      "provision_ref": "par22u2",
+      "section": "22",
+      "title": "§ 22 ust. 2",
+      "content": "Przejściowe świadectwo zgodności jest wydawane na oprogramowanie, które uzyskało wcześniej świadectwo zgodności lub warunkowe świadectwo zgodności."
+    },
+    {
+      "provision_ref": "par22u3",
+      "section": "22",
+      "title": "§ 22 ust. 3",
+      "content": "Przejściowe świadectwo zgodności jest wydawane na okres do czasu wdrożenia przez producenta nowego oprogramowania, które uzyska świadectwo zgodności, nie dłużej jednak niż na okres 12 miesięcy."
+    },
+    {
+      "provision_ref": "par22u4",
+      "section": "22",
+      "title": "§ 22 ust. 4",
+      "content": "Przejściowe świadectwo zgodności jest wydawane w celu zapewnienia ciągłości użytkowania podczas zmiany oprogramowania, które posiada świadectwo zgodności, na nowo wytworzone oprogramowanie, polegającej między innymi na: instalacji nowego oprogramowania w dotychczasowych lokalizacjach, przeszkoleniu użytkowników w zakresie obsługi nowego oprogramowania, przeniesieniu danych do nowej bazy danych, weryfikacji jakości przeniesionych danych, przeprowadzeniu wdrożenia pilotażowego, rozpoczęciu pracy przez użytkowników końcowych."
+    },
+    {
+      "provision_ref": "par22u5",
+      "section": "22",
+      "title": "§ 22 ust. 5",
+      "content": "Do czasu pełnego wdrożenia i przejścia na nowe oprogramowanie dopuszcza się użytkowanie obydwu oprogramowań w danej lokalizacji."
+    },
+    {
+      "provision_ref": "par23",
+      "section": "23",
+      "title": "§ 23",
+      "content": "Producent posiadający dla oprogramowania świadectwo zgodności wydane dla wersji opisu systemu bezpośrednio poprzedzającej obowiązującą wersję opisu systemu zgłasza dostosowane oprogramowanie do procedury zgodności w terminie dostosowawczym. W przypadku niezgłoszenia oprogramowania do procedury zgodności w terminie dostosowawczym minister z urzędu cofa, z dniem upływu okresu dostosowawczego, świadectwa zgodności dla oprogramowania wydane producentowi. Minister ogłasza w Biuletynie Informacji Publicznej urzędu obsługującego ministra informację o cofnięciu ważności świadectwa zgodności dla oprogramowania wydanego producentowi wraz z jego uzasadnieniem. Świadectwo zgodności wydane dla ostatniej wersji opisu systemu obowiązującej przed ogłoszeniem nowej wersji opisu systemu traci ważność z upływem okresu przejściowego określonego przy ogłoszeniu nowej wersji opisu systemu. W okresie od ogłoszenia nowej wersji opisu systemu do końca okresu przejściowego dopuszcza się użytkowanie oprogramowania, które posiada świadectwo zgodności dla wersji opisu systemu bezpośrednio poprzedzającej obowiązującą."
+    },
+    {
+      "provision_ref": "par23u1",
+      "section": "23",
+      "title": "§ 23 ust. 1",
+      "content": "Producent posiadający dla oprogramowania świadectwo zgodności wydane dla wersji opisu systemu bezpośrednio poprzedzającej obowiązującą wersję opisu systemu zgłasza dostosowane oprogramowanie do procedury zgodności w terminie dostosowawczym."
+    },
+    {
+      "provision_ref": "par23u2",
+      "section": "23",
+      "title": "§ 23 ust. 2",
+      "content": "W przypadku niezgłoszenia oprogramowania do procedury zgodności w terminie dostosowawczym minister z urzędu cofa, z dniem upływu okresu dostosowawczego, świadectwa zgodności dla oprogramowania wydane producentowi."
+    },
+    {
+      "provision_ref": "par23u3",
+      "section": "23",
+      "title": "§ 23 ust. 3",
+      "content": "Minister ogłasza w Biuletynie Informacji Publicznej urzędu obsługującego ministra informację o cofnięciu ważności świadectwa zgodności dla oprogramowania wydanego producentowi wraz z jego uzasadnieniem."
+    },
+    {
+      "provision_ref": "par23u4",
+      "section": "23",
+      "title": "§ 23 ust. 4",
+      "content": "Świadectwo zgodności wydane dla ostatniej wersji opisu systemu obowiązującej przed ogłoszeniem nowej wersji opisu systemu traci ważność z upływem okresu przejściowego określonego przy ogłoszeniu nowej wersji opisu systemu."
+    },
+    {
+      "provision_ref": "par23u5",
+      "section": "23",
+      "title": "§ 23 ust. 5",
+      "content": "W okresie od ogłoszenia nowej wersji opisu systemu do końca okresu przejściowego dopuszcza się użytkowanie oprogramowania, które posiada świadectwo zgodności dla wersji opisu systemu bezpośrednio poprzedzającej obowiązującą."
+    },
+    {
+      "provision_ref": "par24",
+      "section": "24",
+      "title": "§ 24",
+      "content": "Producent, którego oprogramowanie uzyskało świadectwo zgodności, przekazuje użytkownikom aktualizacje oprogramowania związane z jego utrzymaniem, usuwające stwierdzone w czasie eksploatacji nieprawidłowości, jak również, mając na względzie dbałość o rozwój oprogramowania, zawierające zmiany zapewniające poprawną obsługę zgodną z obowiązującym stanem prawnym. Minister może wezwać producenta, którego oprogramowanie uzyskało świadectwo zgodności, do okresowego przeglądu oprogramowania w celu potwierdzenia właściwego jego funkcjonowania i utrzymania, o których mowa w ust. 1. W przypadku stwierdzenia nieprzekazania aktualizacji, o której mowa w ust. 1, minister wzywa producenta do usunięcia tej nieprawidłowości w terminie 7 dni pod rygorem cofnięcia wydanego świadectwa zgodności. Oprogramowanie, dla którego cofnięto świadectwo zgodności, o którym mowa w ust. 3 oraz w § 23 ust. 2, jak również oprogramowanie, dla którego odmówiono wydania świadectwa zgodności, może być zgłoszone ponownie do procedury zgodności nie wcześniej niż po upływie 6 miesięcy od dnia cofnięcia świadectwa zgodności lub odmowy wydania świadectwa zgodności. Producent, w ramach czynności, o których mowa w ust. 1, poddaje zaktualizowane oprogramowanie procedurze zgodności, nadając mu kolejny numer wersji, o której mowa w § 8 ust. 3, przez jednostkowe zwiększenie jej parametru „x”. Kolejne aktualizacje oprogramowania wykonywane w ramach danej wersji opisu systemu nie wymagają wydania nowego świadectwa zgodności."
+    },
+    {
+      "provision_ref": "par24u1",
+      "section": "24",
+      "title": "§ 24 ust. 1",
+      "content": "Producent, którego oprogramowanie uzyskało świadectwo zgodności, przekazuje użytkownikom aktualizacje oprogramowania związane z jego utrzymaniem, usuwające stwierdzone w czasie eksploatacji nieprawidłowości, jak również, mając na względzie dbałość o rozwój oprogramowania, zawierające zmiany zapewniające poprawną obsługę zgodną z obowiązującym stanem prawnym."
+    },
+    {
+      "provision_ref": "par24u2",
+      "section": "24",
+      "title": "§ 24 ust. 2",
+      "content": "Minister może wezwać producenta, którego oprogramowanie uzyskało świadectwo zgodności, do okresowego przeglądu oprogramowania w celu potwierdzenia właściwego jego funkcjonowania i utrzymania, o których mowa w ust. 1."
+    },
+    {
+      "provision_ref": "par24u3",
+      "section": "24",
+      "title": "§ 24 ust. 3",
+      "content": "W przypadku stwierdzenia nieprzekazania aktualizacji, o której mowa w ust. 1, minister wzywa producenta do usunięcia tej nieprawidłowości w terminie 7 dni pod rygorem cofnięcia wydanego świadectwa zgodności."
+    },
+    {
+      "provision_ref": "par24u4",
+      "section": "24",
+      "title": "§ 24 ust. 4",
+      "content": "Oprogramowanie, dla którego cofnięto świadectwo zgodności, o którym mowa w ust. 3 oraz w § 23 ust. 2, jak również oprogramowanie, dla którego odmówiono wydania świadectwa zgodności, może być zgłoszone ponownie do procedury zgodności nie wcześniej niż po upływie 6 miesięcy od dnia cofnięcia świadectwa zgodności lub odmowy wydania świadectwa zgodności."
+    },
+    {
+      "provision_ref": "par24u5",
+      "section": "24",
+      "title": "§ 24 ust. 5",
+      "content": "Producent, w ramach czynności, o których mowa w ust. 1, poddaje zaktualizowane oprogramowanie procedurze zgodności, nadając mu kolejny numer wersji, o której mowa w § 8 ust. 3, przez jednostkowe zwiększenie jej parametru „x”. Kolejne aktualizacje oprogramowania wykonywane w ramach danej wersji opisu systemu nie wymagają wydania nowego świadectwa zgodności."
+    },
+    {
+      "provision_ref": "par25",
+      "section": "25",
+      "title": "§ 25",
+      "content": "Świadectwa zgodności wydane na podstawie rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 2 listopada 2007 r. w sprawie systemów teleinformatycznych stosowanych w jednostkach organizacyjnych pomocy społecznej zachowują ważność do czasu wydania świadectw zgodności na podstawie niniejszego rozporządzenia, z zastrzeżeniem § 23 ust. 2."
+    },
+    {
+      "provision_ref": "par26",
+      "section": "26",
+      "title": "§ 26",
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 2024 r. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 2 listopada 2007 r. w sprawie systemów teleinformatycznych stosowanych w jednostkach organizacyjnych pomocy społecznej (Dz. U. poz. 1609), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 16 listopada 2022 r. o systemie teleinformatycznym do obsługi niektórych umów (Dz. U. poz. 2754 oraz z 2023 r. poz. 1234)."
+    }
+  ],
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2023-901",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1693",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1938",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-221",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-641",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-803",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1414",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-2029",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-344",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2007-1609",
+      "ref_type": "references"
+    }
+  ]
+}

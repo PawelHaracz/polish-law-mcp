@@ -1,0 +1,488 @@
+{
+  "id": "pl-du-2020-1916",
+  "type": "statute",
+  "title": "Rozporządzenie Ministra Rozwoju, Pracy i Technologii z dnia 26 października 2020 r. w sprawie zbiorów danych przestrzennych oraz metadanych w zakresie zagospodarowania przestrzennego",
+  "title_en": "",
+  "short_name": "pl-du-2020-1916",
+  "status": "in_force",
+  "issued_date": "2020-10-26",
+  "in_force_date": "2020-10-30",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/1916",
+  "provisions": [
+    {
+      "provision_ref": "par1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Rozporządzenie określa: sposób tworzenia oraz prowadzenia, w tym aktualizacji i udostępniania, zbiorów danych przestrzennych, uwzględniający zakres informacyjny, strukturę, format i rozdzielczość przestrzenną danych gromadzonych w zbiorach danych przestrzennych; zakres informacyjny i strukturę metadanych infrastruktury informacji przestrzennej w zakresie zagospodarowania przestrzennego."
+    },
+    {
+      "provision_ref": "par1p1",
+      "section": "1",
+      "title": "§ 1 pkt 1",
+      "content": "Rozporządzenie określa: sposób tworzenia oraz prowadzenia, w tym aktualizacji i udostępniania, zbiorów danych przestrzennych, uwzględniający zakres informacyjny, strukturę, format i rozdzielczość przestrzenną danych gromadzonych w zbiorach danych przestrzennych;"
+    },
+    {
+      "provision_ref": "par1p2",
+      "section": "1",
+      "title": "§ 1 pkt 2",
+      "content": "Rozporządzenie określa: zakres informacyjny i strukturę metadanych infrastruktury informacji przestrzennej w zakresie zagospodarowania przestrzennego."
+    },
+    {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: akt planowania przestrzennego - akt, o którym mowa w art. 67a ust. 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym ; dane przestrzenne - dane przestrzenne w rozumieniu art. 3 pkt 1 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej ; metadane infrastruktury informacji przestrzennej - metadane infrastruktury informacji przestrzennej w rozumieniu art. 3 pkt 4 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej ; obiekt przestrzenny - obiekt przestrzenny w rozumieniu art. 3 pkt 5 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej ; rejestr TERYT - krajowy rejestr urzędowy podziału terytorialnego kraju, o którym mowa w art. 47 ust. 1 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej ; układ PL -1992, układ PL -2000 - układy współrzędnych płaskich prostokątnych, o których mowa w przepisach wydanych na podstawie art. 3 ust. 5 ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne ; zbiór danych przestrzennych - zbiór danych przestrzennych w rozumieniu art. 3 pkt 11 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej ."
+    },
+    {
+      "provision_ref": "par2p1",
+      "section": "2",
+      "title": "§ 2 pkt 1",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: akt planowania przestrzennego - akt, o którym mowa w art. 67a ust. 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym ;"
+    },
+    {
+      "provision_ref": "par2p2",
+      "section": "2",
+      "title": "§ 2 pkt 2",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: dane przestrzenne - dane przestrzenne w rozumieniu art. 3 pkt 1 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej ;"
+    },
+    {
+      "provision_ref": "par2p3",
+      "section": "2",
+      "title": "§ 2 pkt 3",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: metadane infrastruktury informacji przestrzennej - metadane infrastruktury informacji przestrzennej w rozumieniu art. 3 pkt 4 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej ;"
+    },
+    {
+      "provision_ref": "par2p4",
+      "section": "2",
+      "title": "§ 2 pkt 4",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: obiekt przestrzenny - obiekt przestrzenny w rozumieniu art. 3 pkt 5 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej ;"
+    },
+    {
+      "provision_ref": "par2p5",
+      "section": "2",
+      "title": "§ 2 pkt 5",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: rejestr TERYT - krajowy rejestr urzędowy podziału terytorialnego kraju, o którym mowa w art. 47 ust. 1 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej ;"
+    },
+    {
+      "provision_ref": "par2p6",
+      "section": "2",
+      "title": "§ 2 pkt 6",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: układ PL -1992, układ PL -2000 - układy współrzędnych płaskich prostokątnych, o których mowa w przepisach wydanych na podstawie art. 3 ust. 5 ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne ;"
+    },
+    {
+      "provision_ref": "par2p7",
+      "section": "2",
+      "title": "§ 2 pkt 7",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: zbiór danych przestrzennych - zbiór danych przestrzennych w rozumieniu art. 3 pkt 11 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej ."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Utworzenie zbioru danych przestrzennych obejmuje następujące działania: wybór rodzaju zbioru danych przestrzennych, ze względu na typy aktów planowania przestrzennego, których dotyczą, z poniżej wymienionych: plan zagospodarowania przestrzennego województwa, oznaczany kodem „PZPW”, studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy, oznaczany kodem „SUIKZP”, miejscowe plany, w tym miejscowe plany zagospodarowania przestrzennego, miejscowe plany odbudowy oraz miejscowe plany rewitalizacji, oznaczany kodem „MPZP”; zgromadzenie danych dla aktów planowania przestrzennego; nadanie zbiorowi danych przestrzennych jednoznacznego i niezmiennego identyfikatora. W zbiorze danych przestrzennych gromadzi się dane o następujących obiektach przestrzennych: akcie planowania przestrzennego, obejmującym: informację określającą wersję obiektu przestrzennego reprezentującego akt planowania przestrzennego, tytuł aktu planowania przestrzennego, typ aktu planowania przestrzennego, poziom aktu planowania przestrzennego w hierarchii terytorialnej, okres obowiązywania aktu planowania przestrzennego, informację o statusie aktu planowania przestrzennego, informację o zmianach aktu planowania przestrzennego, informację o mapach podkładowych użytych do sporządzenia aktu planowania przestrzennego, określenie granic obszaru objętego ustaleniami aktu planowania przestrzennego, informację o rysunkach aktu planowania przestrzennego, informację o dokumentach powiązanych z aktem planowania przestrzennego, w szczególności inicjujących i przyjmujących akt, rozstrzygnięć nadzorczych i wyroków dotyczących aktu, rysunku aktu planowania przestrzennego, obejmującym: informację określającą wersję obiektu przestrzennego reprezentującego rysunek aktu planowania przestrzennego, tytuł rysunku aktu planowania przestrzennego, łącze (adres URI), pod którym dostępny jest rysunek aktu planowania przestrzennego, łącze (adres URI), pod którym dostępna jest legenda rysunku aktu planowania przestrzennego, informację o układzie odniesienia przestrzennego rysunku aktu planowania przestrzennego, informację o rozdzielczości przestrzennej rysunku aktu planowania przestrzennego, okres obowiązywania aktu planowania przestrzennego, dokumencie powiązanym z aktem planowania przestrzennego, obejmującym: tytuł dokumentu, dane identyfikacyjne dokumentu, datę utworzenia, publikacji lub zmiany dokumentu, datę wejścia w życie i datę uchylenia dokumentu, informację o organie wydającym dokument, informację o dzienniku urzędowym, w którym opublikowano dokument, łącze (adres URI), pod którym dostępny jest tekst dokumentu - zgodnie z zakresem informacyjnym i strukturą określonymi w załączniku nr 1 do rozporządzenia. Zakres informacyjny i struktura danych gromadzonych w zbiorach danych przestrzennych w postaci: schematu aplikacyjnego UML - schematu opisującego zawartość, strukturę oraz ograniczenia mające zastosowanie wobec informacji w określonej dziedzinie problemu opisane w języku UML, schematu aplikacyjnego GML - schematu aplikacyjnego UML zapisanego za pomocą XML Schema, standardu definiowania struktury dokumentów XML, w postaci definicji struktury dokumentów elektronicznych GML, specyfikacji danych zbiorów danych przestrzennych - szczegółowego opisu zestawów danych wraz z dodatkowymi informacjami umożliwiającymi ich tworzenie, dostarczanie i wykorzystywanie przez inny podmiot - udostępniane są na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa. Lokalizację przestrzenną obiektów przestrzennych zawartych w zbiorach danych przestrzennych określa się w obowiązującym państwowym systemie odniesień przestrzennych, stosując: układ PL -2000 dla opracowań w skalach większych od 1:10 000; układ PL -1992 dla opracowań w skalach mniejszych lub równych 1:10 000. Dane przestrzenne dla każdego aktu planowania przestrzennego tworzy się w rozdzielczości przestrzennej odpowiadającej skali sporządzania danego aktu. W przypadku gdy granica obszaru objętego aktem planowania przestrzennego ma wspólny przebieg z granicą: jednostki podziału terytorialnego kraju, wyznacza się ją z wykorzystaniem danych pochodzących z bazy danych, o której mowa w art. 4 ust. 1a pkt 4 ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne ; działki ewidencyjnej, wyznacza się ją z wykorzystaniem geometrii obiektów przestrzennych, pochodzących z bazy danych, o której mowa w art. 4 ust. 1a pkt 2 ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne . Aktualizacja zbioru danych przestrzennych odbywa się za każdym razem, gdy: zmianie ulegną dane, o których mowa w ust. 2; do zbioru danych przestrzennych włączane są dane przestrzenne dla kolejnego aktu planowania przestrzennego."
+    },
+    {
+      "provision_ref": "par3u1p1la",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 1 lit. a",
+      "content": "Utworzenie zbioru danych przestrzennych obejmuje następujące działania: wybór rodzaju zbioru danych przestrzennych, ze względu na typy aktów planowania przestrzennego, których dotyczą, z poniżej wymienionych: plan zagospodarowania przestrzennego województwa, oznaczany kodem „PZPW”,"
+    },
+    {
+      "provision_ref": "par3u1p1lb",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 1 lit. b",
+      "content": "Utworzenie zbioru danych przestrzennych obejmuje następujące działania: wybór rodzaju zbioru danych przestrzennych, ze względu na typy aktów planowania przestrzennego, których dotyczą, z poniżej wymienionych: studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy, oznaczany kodem „SUIKZP”,"
+    },
+    {
+      "provision_ref": "par3u1p1lc",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 1 lit. c",
+      "content": "Utworzenie zbioru danych przestrzennych obejmuje następujące działania: wybór rodzaju zbioru danych przestrzennych, ze względu na typy aktów planowania przestrzennego, których dotyczą, z poniżej wymienionych: miejscowe plany, w tym miejscowe plany zagospodarowania przestrzennego, miejscowe plany odbudowy oraz miejscowe plany rewitalizacji, oznaczany kodem „MPZP”;"
+    },
+    {
+      "provision_ref": "par3u1p2",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 2",
+      "content": "Utworzenie zbioru danych przestrzennych obejmuje następujące działania: zgromadzenie danych dla aktów planowania przestrzennego;"
+    },
+    {
+      "provision_ref": "par3u1p3",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 3",
+      "content": "Utworzenie zbioru danych przestrzennych obejmuje następujące działania: nadanie zbiorowi danych przestrzennych jednoznacznego i niezmiennego identyfikatora."
+    },
+    {
+      "provision_ref": "par3u2p1la",
+      "section": "3",
+      "title": "§ 3 ust. 2 pkt 1 lit. a",
+      "content": "W zbiorze danych przestrzennych gromadzi się dane o następujących obiektach przestrzennych: akcie planowania przestrzennego, obejmującym: informację określającą wersję obiektu przestrzennego reprezentującego akt planowania przestrzennego,"
+    },
+    {
+      "provision_ref": "par3u2p1lb",
+      "section": "3",
+      "title": "§ 3 ust. 2 pkt 1 lit. b",
+      "content": "W zbiorze danych przestrzennych gromadzi się dane o następujących obiektach przestrzennych: akcie planowania przestrzennego, obejmującym: tytuł aktu planowania przestrzennego,"
+    },
+    {
+      "provision_ref": "par3u2p1lc",
+      "section": "3",
+      "title": "§ 3 ust. 2 pkt 1 lit. c",
+      "content": "W zbiorze danych przestrzennych gromadzi się dane o następujących obiektach przestrzennych: akcie planowania przestrzennego, obejmującym: typ aktu planowania przestrzennego,"
+    },
+    {
+      "provision_ref": "par3u2p1ld",
+      "section": "3",
+      "title": "§ 3 ust. 2 pkt 1 lit. d",
+      "content": "W zbiorze danych przestrzennych gromadzi się dane o następujących obiektach przestrzennych: akcie planowania przestrzennego, obejmującym: poziom aktu planowania przestrzennego w hierarchii terytorialnej,"
+    },
+    {
+      "provision_ref": "par3u2p1le",
+      "section": "3",
+      "title": "§ 3 ust. 2 pkt 1 lit. e",
+      "content": "W zbiorze danych przestrzennych gromadzi się dane o następujących obiektach przestrzennych: akcie planowania przestrzennego, obejmującym: okres obowiązywania aktu planowania przestrzennego,"
+    },
+    {
+      "provision_ref": "par3u2p1lf",
+      "section": "3",
+      "title": "§ 3 ust. 2 pkt 1 lit. f",
+      "content": "W zbiorze danych przestrzennych gromadzi się dane o następujących obiektach przestrzennych: akcie planowania przestrzennego, obejmującym: informację o statusie aktu planowania przestrzennego,"
+    },
+    {
+      "provision_ref": "par3u2p1lg",
+      "section": "3",
+      "title": "§ 3 ust. 2 pkt 1 lit. g",
+      "content": "W zbiorze danych przestrzennych gromadzi się dane o następujących obiektach przestrzennych: akcie planowania przestrzennego, obejmującym: informację o zmianach aktu planowania przestrzennego,"
+    },
+    {
+      "provision_ref": "par3u2p1lh",
+      "section": "3",
+      "title": "§ 3 ust. 2 pkt 1 lit. h",
+      "content": "W zbiorze danych przestrzennych gromadzi się dane o następujących obiektach przestrzennych: akcie planowania przestrzennego, obejmującym: informację o mapach podkładowych użytych do sporządzenia aktu planowania przestrzennego,"
+    },
+    {
+      "provision_ref": "par3u2p1li",
+      "section": "3",
+      "title": "§ 3 ust. 2 pkt 1 lit. i",
+      "content": "W zbiorze danych przestrzennych gromadzi się dane o następujących obiektach przestrzennych: akcie planowania przestrzennego, obejmującym: określenie granic obszaru objętego ustaleniami aktu planowania przestrzennego,"
+    },
+    {
+      "provision_ref": "par3u2p1lj",
+      "section": "3",
+      "title": "§ 3 ust. 2 pkt 1 lit. j",
+      "content": "W zbiorze danych przestrzennych gromadzi się dane o następujących obiektach przestrzennych: akcie planowania przestrzennego, obejmującym: informację o rysunkach aktu planowania przestrzennego,"
+    },
+    {
+      "provision_ref": "par3u2p1lk",
+      "section": "3",
+      "title": "§ 3 ust. 2 pkt 1 lit. k",
+      "content": "W zbiorze danych przestrzennych gromadzi się dane o następujących obiektach przestrzennych: akcie planowania przestrzennego, obejmującym: informację o dokumentach powiązanych z aktem planowania przestrzennego, w szczególności inicjujących i przyjmujących akt, rozstrzygnięć nadzorczych i wyroków dotyczących aktu,"
+    },
+    {
+      "provision_ref": "par3u2p2la",
+      "section": "3",
+      "title": "§ 3 ust. 2 pkt 2 lit. a",
+      "content": "W zbiorze danych przestrzennych gromadzi się dane o następujących obiektach przestrzennych: rysunku aktu planowania przestrzennego, obejmującym: informację określającą wersję obiektu przestrzennego reprezentującego rysunek aktu planowania przestrzennego,"
+    },
+    {
+      "provision_ref": "par3u2p2lb",
+      "section": "3",
+      "title": "§ 3 ust. 2 pkt 2 lit. b",
+      "content": "W zbiorze danych przestrzennych gromadzi się dane o następujących obiektach przestrzennych: rysunku aktu planowania przestrzennego, obejmującym: tytuł rysunku aktu planowania przestrzennego,"
+    },
+    {
+      "provision_ref": "par3u2p2lc",
+      "section": "3",
+      "title": "§ 3 ust. 2 pkt 2 lit. c",
+      "content": "W zbiorze danych przestrzennych gromadzi się dane o następujących obiektach przestrzennych: rysunku aktu planowania przestrzennego, obejmującym: łącze (adres URI), pod którym dostępny jest rysunek aktu planowania przestrzennego,"
+    },
+    {
+      "provision_ref": "par3u2p2ld",
+      "section": "3",
+      "title": "§ 3 ust. 2 pkt 2 lit. d",
+      "content": "W zbiorze danych przestrzennych gromadzi się dane o następujących obiektach przestrzennych: rysunku aktu planowania przestrzennego, obejmującym: łącze (adres URI), pod którym dostępna jest legenda rysunku aktu planowania przestrzennego,"
+    },
+    {
+      "provision_ref": "par3u2p2le",
+      "section": "3",
+      "title": "§ 3 ust. 2 pkt 2 lit. e",
+      "content": "W zbiorze danych przestrzennych gromadzi się dane o następujących obiektach przestrzennych: rysunku aktu planowania przestrzennego, obejmującym: informację o układzie odniesienia przestrzennego rysunku aktu planowania przestrzennego,"
+    },
+    {
+      "provision_ref": "par3u2p2lf",
+      "section": "3",
+      "title": "§ 3 ust. 2 pkt 2 lit. f",
+      "content": "W zbiorze danych przestrzennych gromadzi się dane o następujących obiektach przestrzennych: rysunku aktu planowania przestrzennego, obejmującym: informację o rozdzielczości przestrzennej rysunku aktu planowania przestrzennego,"
+    },
+    {
+      "provision_ref": "par3u2p2lg",
+      "section": "3",
+      "title": "§ 3 ust. 2 pkt 2 lit. g",
+      "content": "W zbiorze danych przestrzennych gromadzi się dane o następujących obiektach przestrzennych: rysunku aktu planowania przestrzennego, obejmującym: okres obowiązywania aktu planowania przestrzennego,"
+    },
+    {
+      "provision_ref": "par3u2p3la",
+      "section": "3",
+      "title": "§ 3 ust. 2 pkt 3 lit. a",
+      "content": "W zbiorze danych przestrzennych gromadzi się dane o następujących obiektach przestrzennych: dokumencie powiązanym z aktem planowania przestrzennego, obejmującym: tytuł dokumentu,"
+    },
+    {
+      "provision_ref": "par3u2p3lb",
+      "section": "3",
+      "title": "§ 3 ust. 2 pkt 3 lit. b",
+      "content": "W zbiorze danych przestrzennych gromadzi się dane o następujących obiektach przestrzennych: dokumencie powiązanym z aktem planowania przestrzennego, obejmującym: dane identyfikacyjne dokumentu,"
+    },
+    {
+      "provision_ref": "par3u2p3lc",
+      "section": "3",
+      "title": "§ 3 ust. 2 pkt 3 lit. c",
+      "content": "W zbiorze danych przestrzennych gromadzi się dane o następujących obiektach przestrzennych: dokumencie powiązanym z aktem planowania przestrzennego, obejmującym: datę utworzenia, publikacji lub zmiany dokumentu,"
+    },
+    {
+      "provision_ref": "par3u2p3ld",
+      "section": "3",
+      "title": "§ 3 ust. 2 pkt 3 lit. d",
+      "content": "W zbiorze danych przestrzennych gromadzi się dane o następujących obiektach przestrzennych: dokumencie powiązanym z aktem planowania przestrzennego, obejmującym: datę wejścia w życie i datę uchylenia dokumentu,"
+    },
+    {
+      "provision_ref": "par3u2p3le",
+      "section": "3",
+      "title": "§ 3 ust. 2 pkt 3 lit. e",
+      "content": "W zbiorze danych przestrzennych gromadzi się dane o następujących obiektach przestrzennych: dokumencie powiązanym z aktem planowania przestrzennego, obejmującym: informację o organie wydającym dokument,"
+    },
+    {
+      "provision_ref": "par3u2p3lf",
+      "section": "3",
+      "title": "§ 3 ust. 2 pkt 3 lit. f",
+      "content": "W zbiorze danych przestrzennych gromadzi się dane o następujących obiektach przestrzennych: dokumencie powiązanym z aktem planowania przestrzennego, obejmującym: informację o dzienniku urzędowym, w którym opublikowano dokument,"
+    },
+    {
+      "provision_ref": "par3u2p3lg",
+      "section": "3",
+      "title": "§ 3 ust. 2 pkt 3 lit. g",
+      "content": "W zbiorze danych przestrzennych gromadzi się dane o następujących obiektach przestrzennych: dokumencie powiązanym z aktem planowania przestrzennego, obejmującym: łącze (adres URI), pod którym dostępny jest tekst dokumentu"
+    },
+    {
+      "provision_ref": "par3u3p1",
+      "section": "3",
+      "title": "§ 3 ust. 3 pkt 1",
+      "content": "Zakres informacyjny i struktura danych gromadzonych w zbiorach danych przestrzennych w postaci: schematu aplikacyjnego UML - schematu opisującego zawartość, strukturę oraz ograniczenia mające zastosowanie wobec informacji w określonej dziedzinie problemu opisane w języku UML,"
+    },
+    {
+      "provision_ref": "par3u3p2",
+      "section": "3",
+      "title": "§ 3 ust. 3 pkt 2",
+      "content": "Zakres informacyjny i struktura danych gromadzonych w zbiorach danych przestrzennych w postaci: schematu aplikacyjnego GML - schematu aplikacyjnego UML zapisanego za pomocą XML Schema, standardu definiowania struktury dokumentów XML, w postaci definicji struktury dokumentów elektronicznych GML,"
+    },
+    {
+      "provision_ref": "par3u3p3",
+      "section": "3",
+      "title": "§ 3 ust. 3 pkt 3",
+      "content": "Zakres informacyjny i struktura danych gromadzonych w zbiorach danych przestrzennych w postaci: specyfikacji danych zbiorów danych przestrzennych - szczegółowego opisu zestawów danych wraz z dodatkowymi informacjami umożliwiającymi ich tworzenie, dostarczanie i wykorzystywanie przez inny podmiot"
+    },
+    {
+      "provision_ref": "par3u4p1",
+      "section": "3",
+      "title": "§ 3 ust. 4 pkt 1",
+      "content": "Lokalizację przestrzenną obiektów przestrzennych zawartych w zbiorach danych przestrzennych określa się w obowiązującym państwowym systemie odniesień przestrzennych, stosując: układ PL -2000 dla opracowań w skalach większych od 1:10 000;"
+    },
+    {
+      "provision_ref": "par3u4p2",
+      "section": "3",
+      "title": "§ 3 ust. 4 pkt 2",
+      "content": "Lokalizację przestrzenną obiektów przestrzennych zawartych w zbiorach danych przestrzennych określa się w obowiązującym państwowym systemie odniesień przestrzennych, stosując: układ PL -1992 dla opracowań w skalach mniejszych lub równych 1:10 000."
+    },
+    {
+      "provision_ref": "par3u5",
+      "section": "3",
+      "title": "§ 3 ust. 5",
+      "content": "Dane przestrzenne dla każdego aktu planowania przestrzennego tworzy się w rozdzielczości przestrzennej odpowiadającej skali sporządzania danego aktu."
+    },
+    {
+      "provision_ref": "par3u6p1",
+      "section": "3",
+      "title": "§ 3 ust. 6 pkt 1",
+      "content": "W przypadku gdy granica obszaru objętego aktem planowania przestrzennego ma wspólny przebieg z granicą: jednostki podziału terytorialnego kraju, wyznacza się ją z wykorzystaniem danych pochodzących z bazy danych, o której mowa w art. 4 ust. 1a pkt 4 ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne ;"
+    },
+    {
+      "provision_ref": "par3u6p2",
+      "section": "3",
+      "title": "§ 3 ust. 6 pkt 2",
+      "content": "W przypadku gdy granica obszaru objętego aktem planowania przestrzennego ma wspólny przebieg z granicą: działki ewidencyjnej, wyznacza się ją z wykorzystaniem geometrii obiektów przestrzennych, pochodzących z bazy danych, o której mowa w art. 4 ust. 1a pkt 2 ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne ."
+    },
+    {
+      "provision_ref": "par3u7p1",
+      "section": "3",
+      "title": "§ 3 ust. 7 pkt 1",
+      "content": "Aktualizacja zbioru danych przestrzennych odbywa się za każdym razem, gdy: zmianie ulegną dane, o których mowa w ust. 2;"
+    },
+    {
+      "provision_ref": "par3u7p2",
+      "section": "3",
+      "title": "§ 3 ust. 7 pkt 2",
+      "content": "Aktualizacja zbioru danych przestrzennych odbywa się za każdym razem, gdy: do zbioru danych przestrzennych włączane są dane przestrzenne dla kolejnego aktu planowania przestrzennego."
+    },
+    {
+      "provision_ref": "par4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Identyfikator zbioru danych przestrzennych składa się z: przestrzeni nazw (PL.ZIPPZP.<numer>), składającej się z następujących elementów: PL - oznaczający kod Rzeczypospolitej Polskiej, ZIPPZP - oznaczający kod dla zbioru danych przestrzennych w zakresie zagospodarowania przestrzennego, <numer> - oznaczający numer porządkowy zbioru danych przestrzennych w ewidencji, o której mowa w art. 13 ust. 2 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej ; unikalnego kodu (<jpt> -<rodzaj>), składającego się z następujących elementów: <jpt> - oznaczający identyfikator jednostki podziału terytorialnego, dla której prowadzony jest zbiór danych przestrzennych, utworzony na podstawie identyfikatora z rejestru TERYT, bez ostatniego członu określającego rodzaj jednostki, <rodzaj> - oznaczający kod rodzaju zbioru danych przestrzennych, o którym mowa w § 3 ust. 1 pkt 1. Identyfikator zbioru danych przestrzennych, o którym mowa w ust. 1, nie może zostać zmieniony."
+    },
+    {
+      "provision_ref": "par4u1p1la",
+      "section": "4",
+      "title": "§ 4 ust. 1 pkt 1 lit. a",
+      "content": "Identyfikator zbioru danych przestrzennych składa się z: przestrzeni nazw (PL.ZIPPZP.<numer>), składającej się z następujących elementów: PL - oznaczający kod Rzeczypospolitej Polskiej,"
+    },
+    {
+      "provision_ref": "par4u1p1lb",
+      "section": "4",
+      "title": "§ 4 ust. 1 pkt 1 lit. b",
+      "content": "Identyfikator zbioru danych przestrzennych składa się z: przestrzeni nazw (PL.ZIPPZP.<numer>), składającej się z następujących elementów: ZIPPZP - oznaczający kod dla zbioru danych przestrzennych w zakresie zagospodarowania przestrzennego,"
+    },
+    {
+      "provision_ref": "par4u1p1lc",
+      "section": "4",
+      "title": "§ 4 ust. 1 pkt 1 lit. c",
+      "content": "Identyfikator zbioru danych przestrzennych składa się z: przestrzeni nazw (PL.ZIPPZP.<numer>), składającej się z następujących elementów: <numer> - oznaczający numer porządkowy zbioru danych przestrzennych w ewidencji, o której mowa w art. 13 ust. 2 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej ;"
+    },
+    {
+      "provision_ref": "par4u1p2la",
+      "section": "4",
+      "title": "§ 4 ust. 1 pkt 2 lit. a",
+      "content": "Identyfikator zbioru danych przestrzennych składa się z: unikalnego kodu (<jpt> -<rodzaj>), składającego się z następujących elementów: <jpt> - oznaczający identyfikator jednostki podziału terytorialnego, dla której prowadzony jest zbiór danych przestrzennych, utworzony na podstawie identyfikatora z rejestru TERYT, bez ostatniego członu określającego rodzaj jednostki,"
+    },
+    {
+      "provision_ref": "par4u1p2lb",
+      "section": "4",
+      "title": "§ 4 ust. 1 pkt 2 lit. b",
+      "content": "Identyfikator zbioru danych przestrzennych składa się z: unikalnego kodu (<jpt> -<rodzaj>), składającego się z następujących elementów: <rodzaj> - oznaczający kod rodzaju zbioru danych przestrzennych, o którym mowa w § 3 ust. 1 pkt 1."
+    },
+    {
+      "provision_ref": "par4u2",
+      "section": "4",
+      "title": "§ 4 ust. 2",
+      "content": "Identyfikator zbioru danych przestrzennych, o którym mowa w ust. 1, nie może zostać zmieniony."
+    },
+    {
+      "provision_ref": "par5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Obiektowi przestrzennemu wraz z włączeniem do zbioru danych przestrzennych nadawany jest identyfikator obiektu przestrzennego, składający się z następujących elementów: PL.ZIPPZP.<numer>/<jpt> -<rodzaj> - stanowiący przestrzeń nazw, oznaczającą identyfikator zbioru danych przestrzennych, do którego należy obiekt przestrzenny; <id lokalny> - oznaczający identyfikator lokalny identyfikujący jednoznacznie i unikalnie obiekt przestrzenny w zbiorze danych przestrzennych; <wersja> - oznaczający identyfikator wersji obiektu przestrzennego w zbiorze danych przestrzennych. Elementy, o których mowa w ust. 1 pkt 1 i 2, nie mogą zostać zmienione."
+    },
+    {
+      "provision_ref": "par5u1p1",
+      "section": "5",
+      "title": "§ 5 ust. 1 pkt 1",
+      "content": "Obiektowi przestrzennemu wraz z włączeniem do zbioru danych przestrzennych nadawany jest identyfikator obiektu przestrzennego, składający się z następujących elementów: PL.ZIPPZP.<numer>/<jpt> -<rodzaj> - stanowiący przestrzeń nazw, oznaczającą identyfikator zbioru danych przestrzennych, do którego należy obiekt przestrzenny;"
+    },
+    {
+      "provision_ref": "par5u1p2",
+      "section": "5",
+      "title": "§ 5 ust. 1 pkt 2",
+      "content": "Obiektowi przestrzennemu wraz z włączeniem do zbioru danych przestrzennych nadawany jest identyfikator obiektu przestrzennego, składający się z następujących elementów: <id lokalny> - oznaczający identyfikator lokalny identyfikujący jednoznacznie i unikalnie obiekt przestrzenny w zbiorze danych przestrzennych;"
+    },
+    {
+      "provision_ref": "par5u1p3",
+      "section": "5",
+      "title": "§ 5 ust. 1 pkt 3",
+      "content": "Obiektowi przestrzennemu wraz z włączeniem do zbioru danych przestrzennych nadawany jest identyfikator obiektu przestrzennego, składający się z następujących elementów: <wersja> - oznaczający identyfikator wersji obiektu przestrzennego w zbiorze danych przestrzennych."
+    },
+    {
+      "provision_ref": "par5u2",
+      "section": "5",
+      "title": "§ 5 ust. 2",
+      "content": "Elementy, o których mowa w ust. 1 pkt 1 i 2, nie mogą zostać zmienione."
+    },
+    {
+      "provision_ref": "par6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "Dane przestrzenne dla każdego aktu planowania przestrzennego, w postaci dokumentu elektronicznego GML, podpisywane są kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. Zbiór danych przestrzennych, w postaci dokumentu elektronicznego GML, po jego każdej aktualizacji, jest podpisywany kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym."
+    },
+    {
+      "provision_ref": "par6u1",
+      "section": "6",
+      "title": "§ 6 ust. 1",
+      "content": "Dane przestrzenne dla każdego aktu planowania przestrzennego, w postaci dokumentu elektronicznego GML, podpisywane są kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym."
+    },
+    {
+      "provision_ref": "par6u2",
+      "section": "6",
+      "title": "§ 6 ust. 2",
+      "content": "Zbiór danych przestrzennych, w postaci dokumentu elektronicznego GML, po jego każdej aktualizacji, jest podpisywany kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym."
+    },
+    {
+      "provision_ref": "par7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "Zbiór danych przestrzennych tworzy się w sposób umożliwiający udostępnianie danych przestrzennych oddzielnie dla każdego aktu planowania przestrzennego co najmniej: w postaci dokumentu elektronicznego GML zgodnego ze schematem aplikacyjnym GML struktury zbioru danych przestrzennych oraz dla obiektów obejmujących cyfrową reprezentację części graficznej aktu planowania przestrzennego z nadaną georeferencją w postaci plików GeoTIFF."
+    },
+    {
+      "provision_ref": "par7p1",
+      "section": "7",
+      "title": "§ 7 pkt 1",
+      "content": "Zbiór danych przestrzennych tworzy się w sposób umożliwiający udostępnianie danych przestrzennych oddzielnie dla każdego aktu planowania przestrzennego co najmniej: w postaci dokumentu elektronicznego GML zgodnego ze schematem aplikacyjnym GML struktury zbioru danych przestrzennych oraz"
+    },
+    {
+      "provision_ref": "par7p2",
+      "section": "7",
+      "title": "§ 7 pkt 2",
+      "content": "Zbiór danych przestrzennych tworzy się w sposób umożliwiający udostępnianie danych przestrzennych oddzielnie dla każdego aktu planowania przestrzennego co najmniej: dla obiektów obejmujących cyfrową reprezentację części graficznej aktu planowania przestrzennego z nadaną georeferencją w postaci plików GeoTIFF."
+    },
+    {
+      "provision_ref": "par8",
+      "section": "8",
+      "title": "§ 8",
+      "content": "Zakres informacyjny i strukturę metadanych infrastruktury informacji przestrzennej dla zbiorów danych przestrzennych w zakresie zagospodarowania przestrzennego określa załącznik nr 2 do rozporządzenia."
+    },
+    {
+      "provision_ref": "par9",
+      "section": "9",
+      "title": "§ 9",
+      "content": "Rozporządzenie wchodzi w życie z dniem 31 października 2020 r."
+    }
+  ],
+  "definitions": [],
+  "references": [
+    {
+      "target_document_id": "pl-du-2020-293",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-471",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-782",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-1086",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-1378",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-177",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-284",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-443",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-1486",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-276",
+      "ref_type": "references"
+    }
+  ]
+}
