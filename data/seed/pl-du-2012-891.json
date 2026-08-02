@@ -10,10 +10,52 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2012/891",
   "provisions": [
     {
+      "provision_ref": "art173",
+      "section": "173",
+      "title": "Art. 173",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: art. 87 pkt 1, który wchodzi w życie po upływie 90 dni od dnia ogłoszenia; art. 107 pkt 7 i 8, które wchodzą w życie z dniem 1 maja 2019 r.; art. 157 pkt 2, który wchodzi w życie z dniem 13 października 2019 r."
+    },
+    {
+      "provision_ref": "art173p1",
+      "section": "173",
+      "title": "Art. 173 pkt 1",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: art. 87 pkt 1, który wchodzi w życie po upływie 90 dni od dnia ogłoszenia;"
+    },
+    {
+      "provision_ref": "art173p2",
+      "section": "173",
+      "title": "Art. 173 pkt 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: art. 107 pkt 7 i 8, które wchodzą w życie z dniem 1 maja 2019 r.;"
+    },
+    {
+      "provision_ref": "art173p3",
+      "section": "173",
+      "title": "Art. 173 pkt 3",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: art. 157 pkt 2, który wchodzi w życie z dniem 13 października 2019 r."
+    },
+    {
+      "provision_ref": "art109",
+      "section": "109",
+      "title": "Art. 109",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2021 r., z wyjątkiem: art. 85 pkt 5, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia; art. 88, który wchodzi w życie z dniem 1 marca 2020 r."
+    },
+    {
+      "provision_ref": "art109p1",
+      "section": "109",
+      "title": "Art. 109 pkt 1",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2021 r., z wyjątkiem: art. 85 pkt 5, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia;"
+    },
+    {
+      "provision_ref": "art109p2",
+      "section": "109",
+      "title": "Art. 109 pkt 2",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2021 r., z wyjątkiem: art. 88, który wchodzi w życie z dniem 1 marca 2020 r."
+    },
+    {
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "Ustawa określa zasady spłaty przez Generalnego Dyrektora Dróg Krajowych i Autostrad niezaspokojonych przez wykonawcę należności głównych przedsiębiorcy, który zawarł umowę z wykonawcą w związku z realizacją zamówienia publicznego na roboty budowlane udzielonego przez Generalnego Dyrektora Dróg Krajowych i Autostrad, wyłącznie za zrealizowane i odebrane prace, zwanych dalej „należnościami”. Przepisy ustawy nie mają zastosowania do należności, które mogą być zaspokojone na podstawie art. 647 1 ustawy z dnia 23 kwietnia 1964 r. - Kodeks cywilny ) ."
+      "content": "Ustawa określa zasady spłaty przez Generalnego Dyrektora Dróg Krajowych i Autostrad niezaspokojonych przez wykonawcę należności głównych przedsiębiorcy, który zawarł umowę z wykonawcą w związku z realizacją zamówienia publicznego na roboty budowlane udzielonego przez Generalnego Dyrektora Dróg Krajowych i Autostrad, wyłącznie za zrealizowane i odebrane prace, zwanych dalej „należnościami”. Przepisy ustawy nie mają zastosowania do należności, które mogą być zaspokojone na podstawie art. 647 1 ustawy z dnia 23 kwietnia 1964 r. - Kodeks cywilny ."
     },
     {
       "provision_ref": "art1u1",
@@ -25,13 +67,19 @@
       "provision_ref": "art1u2",
       "section": "1",
       "title": "Art. 1 ust. 2",
-      "content": "Przepisy ustawy nie mają zastosowania do należności, które mogą być zaspokojone na podstawie art. 647 1 ustawy z dnia 23 kwietnia 1964 r. - Kodeks cywilny ) ."
+      "content": "Przepisy ustawy nie mają zastosowania do należności, które mogą być zaspokojone na podstawie art. 647 1 ustawy z dnia 23 kwietnia 1964 r. - Kodeks cywilny ."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Generalny Dyrektor Dróg Krajowych i Autostrad, zwany dalej „Generalnym Dyrektorem”, spłaca należności do wysokości równej kwocie zabezpieczenia, o którym mowa w art. 147 ustawy z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych ) - ze środków pochodzących z Krajowego Funduszu Drogowego."
+      "content": "Generalny Dyrektor Dróg Krajowych i Autostrad, zwany dalej „Generalnym Dyrektorem”, spłaca należności do wysokości równej kwocie zabezpieczenia, o którym mowa w art. 147 ustawy z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych - ze środków pochodzących z Krajowego Funduszu Drogowego."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Generalny Dyrektor Dróg Krajowych i Autostrad, zwany dalej „Generalnym Dyrektorem”, spłaca należności do wysokości równej kwocie zabezpieczenia, o którym mowa w art. 449 ustawy z dnia 11 września 2019 r. - Prawo zamówień publicznych - ze środków pochodzących z Krajowego Funduszu Drogowego."
     },
     {
       "provision_ref": "art3",
@@ -40,28 +88,58 @@
       "content": "Przepisy ustawy stosuje się do zamówień publicznych w rozumieniu art. 2 pkt 13 ustawy z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych , których przedmiotem są roboty budowlane w rozumieniu art. 3 pkt 7 ustawy z dnia 7 lipca 1994 r. - Prawo budowlane ) , co do których Generalny Dyrektor wszczął postępowanie o udzielenie zamówienia lub udzielił zamówienia przed dniem wejścia w życie ustawy, o ile zabezpieczenie, o którym mowa w art. 147 ustawy z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych , nie zostało zwrócone wykonawcy zgodnie z art. 151 tej ustawy."
     },
     {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Przepisy ustawy stosuje się do zamówień publicznych w rozumieniu art. 7 pkt 32 ustawy z dnia 11 września 2019 r. - Prawo zamówień publicznych , których przedmiotem są roboty budowlane w rozumieniu art. 3 pkt 7 ustawy z dnia 7 lipca 1994 r. - Prawo budowlane ) , co do których Generalny Dyrektor wszczął postępowanie o udzielenie zamówienia lub udzielił zamówienia przed dniem wejścia w życie ustawy, o ile zabezpieczenie, o którym mowa w art. 449 ustawy z dnia 11 września 2019 r. - Prawo zamówień publicznych , nie zostało zwrócone wykonawcy zgodnie z art. 453 tej ustawy."
+    },
+    {
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "Użyte w ustawie określenia oznaczają: przedsiębiorca - przedsiębiorcę w rozumieniu art. 104-106 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej ) oraz usługodawcę w rozumieniu art. 2 ust. 1 pkt 2 ustawy z dnia 4 marca 2010 r. o świadczeniu usług na terytorium Rzeczypospolitej Polskiej ) spełniającego wymagania dla mikroprzedsiębiorcy, małego lub średniego przedsiębiorcy, który zawarł umowę z wykonawcą udzielonego zamówienia publicznego; wykonawca - wykonawcę w rozumieniu art. 2 pkt 11 ustawy z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych oraz każdy z podmiotów, które wspólnie ubiegają się o udzielenie zamówienia publicznego, którego przedmiotem są roboty budowlane w rozumieniu art. 3 pkt 7 ustawy z dnia 7 lipca 1994 r. - Prawo budowlane ."
+      "content": "Użyte w ustawie określenia oznaczają: przedsiębiorca: przedsiębiorcę w rozumieniu art. 4 ust. 1 lub 2 ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców oraz osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, z innego państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym lub państwa, które zawarło ze Wspólnotą Europejską i jej państwami członkowskimi umowę regulującą swobodę świadczenia usług, nieprowadzącą działalności gospodarczej, która czasowo oferuje lub świadczy usługę na terytorium Rzeczypospolitej Polskiej, oraz przedsiębiorcę z innego państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym lub państwa, które zawarło ze Wspólnotą Europejską i jej państwami członkowskimi umowę regulującą swobodę świadczenia usług, który wykonuje działalność gospodarczą zgodnie z obowiązującymi w tym państwie przepisami, a na terytorium Rzeczypospolitej Polskiej czasowo oferuje lub świadczy usługę, oraz osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, która posiada siedzibę lub miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, nieprowadzącą działalności gospodarczej, oferującą lub świadczącą usługę - który zawarł umowę z wykonawcą udzielonego zamówienia publicznego; wykonawca - wykonawcę w rozumieniu art. 2 pkt 11 ustawy z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych oraz każdy z podmiotów, które wspólnie ubiegają się o udzielenie zamówienia publicznego, którego przedmiotem są roboty budowlane w rozumieniu art. 3 pkt 7 ustawy z dnia 7 lipca 1994 r. - Prawo budowlane . wykonawca - wykonawcę w rozumieniu art. 7 pkt 30 ustawy z dnia 11 września 2019 r. - Prawo zamówień publicznych oraz każdy z podmiotów, które wspólnie ubiegają się o udzielenie zamówienia publicznego, którego przedmiotem są roboty budowlane w rozumieniu art. 3 pkt 7 ustawy z dnia 7 lipca 1994 r. - Prawo budowlane ."
     },
     {
-      "provision_ref": "art4p1",
+      "provision_ref": "art4p1la",
       "section": "4",
-      "title": "Art. 4 pkt 1",
-      "content": "Użyte w ustawie określenia oznaczają: przedsiębiorca - przedsiębiorcę w rozumieniu art. 104-106 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej ) oraz usługodawcę w rozumieniu art. 2 ust. 1 pkt 2 ustawy z dnia 4 marca 2010 r. o świadczeniu usług na terytorium Rzeczypospolitej Polskiej ) spełniającego wymagania dla mikroprzedsiębiorcy, małego lub średniego przedsiębiorcy, który zawarł umowę z wykonawcą udzielonego zamówienia publicznego;"
+      "title": "Art. 4 pkt 1 lit. a",
+      "content": "Użyte w ustawie określenia oznaczają: przedsiębiorca: przedsiębiorcę w rozumieniu art. 4 ust. 1 lub 2 ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców oraz"
     },
     {
-      "provision_ref": "art4p2",
+      "provision_ref": "art4p1lb",
       "section": "4",
-      "title": "Art. 4 pkt 2",
+      "title": "Art. 4 pkt 1 lit. b",
+      "content": "Użyte w ustawie określenia oznaczają: przedsiębiorca: osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, z innego państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym lub państwa, które zawarło ze Wspólnotą Europejską i jej państwami członkowskimi umowę regulującą swobodę świadczenia usług, nieprowadzącą działalności gospodarczej, która czasowo oferuje lub świadczy usługę na terytorium Rzeczypospolitej Polskiej, oraz"
+    },
+    {
+      "provision_ref": "art4p1lc",
+      "section": "4",
+      "title": "Art. 4 pkt 1 lit. c",
+      "content": "Użyte w ustawie określenia oznaczają: przedsiębiorca: przedsiębiorcę z innego państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym lub państwa, które zawarło ze Wspólnotą Europejską i jej państwami członkowskimi umowę regulującą swobodę świadczenia usług, który wykonuje działalność gospodarczą zgodnie z obowiązującymi w tym państwie przepisami, a na terytorium Rzeczypospolitej Polskiej czasowo oferuje lub świadczy usługę, oraz"
+    },
+    {
+      "provision_ref": "art4p1ld",
+      "section": "4",
+      "title": "Art. 4 pkt 1 lit. d",
+      "content": "Użyte w ustawie określenia oznaczają: przedsiębiorca: osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, która posiada siedzibę lub miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, nieprowadzącą działalności gospodarczej, oferującą lub świadczącą usługę"
+    },
+    {
+      "provision_ref": "art4p6",
+      "section": "4",
+      "title": "Art. 4 pkt 6",
       "content": "Użyte w ustawie określenia oznaczają: wykonawca - wykonawcę w rozumieniu art. 2 pkt 11 ustawy z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych oraz każdy z podmiotów, które wspólnie ubiegają się o udzielenie zamówienia publicznego, którego przedmiotem są roboty budowlane w rozumieniu art. 3 pkt 7 ustawy z dnia 7 lipca 1994 r. - Prawo budowlane ."
+    },
+    {
+      "provision_ref": "art4p7",
+      "section": "4",
+      "title": "Art. 4 pkt 7",
+      "content": "Użyte w ustawie określenia oznaczają: wykonawca - wykonawcę w rozumieniu art. 7 pkt 30 ustawy z dnia 11 września 2019 r. - Prawo zamówień publicznych oraz każdy z podmiotów, które wspólnie ubiegają się o udzielenie zamówienia publicznego, którego przedmiotem są roboty budowlane w rozumieniu art. 3 pkt 7 ustawy z dnia 7 lipca 1994 r. - Prawo budowlane ."
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Art. 5",
-      "content": "Przedsiębiorca może zgłosić Generalnemu Dyrektorowi należność, która przysługuje mu od wykonawcy: który zalega z zapłatą za zrealizowane i odebrane prace co najmniej 30 dni albo wobec którego ogłoszono upadłość albo sąd oddalił wniosek o ogłoszenie upadłości na podstawie art. 13 ustawy z dnia 28 lutego 2003 r. - Prawo upadłościowe i naprawcze ) . Zgłoszenia, o którym mowa w ust. 1, dokonuje się w formie pisemnej. Do zgłoszenia dołącza się: pisemne oświadczenie wykonawcy o uznaniu należności przedsiębiorcy albo kopie: doręczonego wykonawcy wezwania do zapłaty należności, którego termin upłynął bezskutecznie, pozwu wniesionego przeciwko wykonawcy o zapłatę należności albo zgłoszenia wierzytelności w postępowaniu upadłościowym, umowy zawartej między wykonawcą a przedsiębiorcą. Po dokonaniu weryfikacji zgłoszenia, o którym mowa w ust. 1, Generalny Dyrektor może ogłosić, a w przypadku gdy zgłoszone należności przekroczą 3% wartości zamówienia publicznego ogłasza, w dzienniku o zasięgu ogólnokrajowym o otwarciu 21-dniowego terminu na dokonywanie zgłoszeń. Po upływie tego terminu Generalny Dyrektor sporządza listę przedsiębiorców spełniających warunki, o których mowa w ust. 2 i art. 8, i zawiadamia przedsiębiorców o umieszczeniu ich na liście. W przypadku gdy kwota określona w art. 2 nie wystarcza na zaspokojenie wszystkich należności umieszczonych na liście, o której mowa w ust. 3, kwoty, w jakiej należności te mogą być zaspokojone, są ustalane proporcjonalnie do wysokości każdej z nich."
+      "content": "Przedsiębiorca może zgłosić Generalnemu Dyrektorowi należność, która przysługuje mu od wykonawcy: który zalega z zapłatą za zrealizowane i odebrane prace co najmniej 30 dni albo wobec którego ogłoszono upadłość albo sąd oddalił wniosek o ogłoszenie upadłości na podstawie art. 13 ustawy z dnia 28 lutego 2003 r. - Prawo upadłościowe ) albo wobec którego otwarto postępowanie restrukturyzacyjne. Zgłoszenia, o którym mowa w ust. 1, dokonuje się w formie pisemnej. Do zgłoszenia dołącza się: pisemne oświadczenie wykonawcy o uznaniu należności przedsiębiorcy albo kopie: doręczonego wykonawcy wezwania do zapłaty należności, którego termin upłynął bezskutecznie, pozwu wniesionego przeciwko wykonawcy o zapłatę należności albo zgłoszenia wierzytelności w postępowaniu upadłościowym, umowy zawartej między wykonawcą a przedsiębiorcą. Po dokonaniu weryfikacji zgłoszenia, o którym mowa w ust. 1, Generalny Dyrektor może ogłosić, a w przypadku gdy zgłoszone należności przekroczą 3% wartości zamówienia publicznego ogłasza, w dzienniku o zasięgu ogólnokrajowym o otwarciu 21-dniowego terminu na dokonywanie zgłoszeń. Po upływie tego terminu Generalny Dyrektor sporządza listę przedsiębiorców spełniających warunki, o których mowa w ust. 2 i art. 8, i zawiadamia przedsiębiorców o umieszczeniu ich na liście. W przypadku gdy kwota określona w art. 2 nie wystarcza na zaspokojenie wszystkich należności umieszczonych na liście, o której mowa w ust. 3, kwoty, w jakiej należności te mogą być zaspokojone, są ustalane proporcjonalnie do wysokości każdej z nich."
     },
     {
       "provision_ref": "art5u1p1",
@@ -73,7 +151,7 @@
       "provision_ref": "art5u1p2",
       "section": "5",
       "title": "Art. 5 ust. 1 pkt 2",
-      "content": "Przedsiębiorca może zgłosić Generalnemu Dyrektorowi należność, która przysługuje mu od wykonawcy: wobec którego ogłoszono upadłość albo sąd oddalił wniosek o ogłoszenie upadłości na podstawie art. 13 ustawy z dnia 28 lutego 2003 r. - Prawo upadłościowe i naprawcze ) ."
+      "content": "Przedsiębiorca może zgłosić Generalnemu Dyrektorowi należność, która przysługuje mu od wykonawcy: wobec którego ogłoszono upadłość albo sąd oddalił wniosek o ogłoszenie upadłości na podstawie art. 13 ustawy z dnia 28 lutego 2003 r. - Prawo upadłościowe ) albo wobec którego otwarto postępowanie restrukturyzacyjne."
     },
     {
       "provision_ref": "art5u2p1",
@@ -115,7 +193,7 @@
       "provision_ref": "art6",
       "section": "6",
       "title": "Art. 6",
-      "content": "Przedsiębiorcom umieszczonym na liście, o której mowa w art. 5 ust. 3, na poczet należności jest wypłacana zaliczka, niezwłocznie po doręczeniu przez nich: nieprawomocnego orzeczenia sądu zasądzającego należność albo spisu wierzycieli, o którym mowa w art. 23 ust. 1 pkt 3 ustawy z dnia 28 lutego 2003 r. - Prawo upadłościowe i naprawcze , obejmującego należność - w wysokości nie większej jednak niż 50% kwoty należności lub kwoty ustalonej zgodnie z art. 5 ust. 4."
+      "content": "Przedsiębiorcom umieszczonym na liście, o której mowa w art. 5 ust. 3, na poczet należności jest wypłacana zaliczka, niezwłocznie po doręczeniu przez nich: nieprawomocnego orzeczenia sądu zasądzającego należność albo spisu wierzycieli, o którym mowa w art. 23 ust. 1 pkt 3 ustawy z dnia 28 lutego 2003 r. - Prawo upadłościowe , obejmującego należność - w wysokości nie większej jednak niż 50% kwoty należności lub kwoty ustalonej zgodnie z art. 5 ust. 4."
     },
     {
       "provision_ref": "art6p1",
@@ -127,13 +205,13 @@
       "provision_ref": "art6p2",
       "section": "6",
       "title": "Art. 6 pkt 2",
-      "content": "Przedsiębiorcom umieszczonym na liście, o której mowa w art. 5 ust. 3, na poczet należności jest wypłacana zaliczka, niezwłocznie po doręczeniu przez nich: spisu wierzycieli, o którym mowa w art. 23 ust. 1 pkt 3 ustawy z dnia 28 lutego 2003 r. - Prawo upadłościowe i naprawcze , obejmującego należność"
+      "content": "Przedsiębiorcom umieszczonym na liście, o której mowa w art. 5 ust. 3, na poczet należności jest wypłacana zaliczka, niezwłocznie po doręczeniu przez nich: spisu wierzycieli, o którym mowa w art. 23 ust. 1 pkt 3 ustawy z dnia 28 lutego 2003 r. - Prawo upadłościowe , obejmującego należność"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Art. 7",
-      "content": "Przedsiębiorcom umieszczonym na liście, o której mowa w art. 5 ust. 3, jest wypłacana kwota należności lub kwota ustalona zgodnie z art. 5 ust. 4, pomniejszona o kwotę zaliczki, po doręczeniu przez nich: prawomocnego orzeczenia sądu albo ugody zawartej przed sądem w sprawie między przedsiębiorcą i wykonawcą, opatrzonej klauzulą wykonalności, albo listy wierzytelności pod warunkiem niezłożenia w stosunku do danej wierzytelności sprzeciwu, o którym mowa w art. 256 ustawy z dnia 28 lutego 2003 r. - Prawo upadłościowe i naprawcze lub zatwierdzonej przez sędziego-komisarza listy wierzytelności - obejmujących należność. Na wniosek przedsiębiorcy złożony po upływie 30 dni od dnia obwieszczenia i ogłoszenia w Monitorze Sądowym i Gospodarczym o przekazaniu listy wierzytelności sędziemu-komisarzowi, sędzia-komisarz w terminie nie dłuższym niż 14 dni od chwili złożenia wniosku, udzieli pisemnej informacji czy wobec wierzytelności stanowiącej przedmiot wniosku zgłoszono sprzeciw. Jeżeli przedsiębiorca wykonywał prace związane z realizacją zamówienia publicznego na roboty budowlane przy pomocy innych podmiotów, do dokumentu, o którym mowa w ust. 1, dołącza oświadczenie, że nie zalega wobec tych podmiotów z zapłatą za zrealizowane i odebrane prace albo, że zaliczka, o której mowa w art. 6, została przekazana na zaspokojenie roszczeń tych podmiotów."
+      "content": "Przedsiębiorcom umieszczonym na liście, o której mowa w art. 5 ust. 3, jest wypłacana kwota należności lub kwota ustalona zgodnie z art. 5 ust. 4, pomniejszona o kwotę zaliczki, po doręczeniu przez nich: prawomocnego orzeczenia sądu albo ugody zawartej przed sądem w sprawie między przedsiębiorcą i wykonawcą, opatrzonej klauzulą wykonalności, albo listy wierzytelności pod warunkiem niezłożenia w stosunku do danej wierzytelności sprzeciwu, o którym mowa w art. 256 ustawy z dnia 28 lutego 2003 r. - Prawo upadłościowe , lub zatwierdzonej przez sędziego-komisarza listy wierzytelności, albo spisu wierzytelności pod warunkiem niezłożenia zastrzeżeń, o których mowa w art. 90 ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne ) , lub sprzeciwu, o którym mowa w art. 91 tej ustawy, lub zatwierdzonego przez sędziego-komisarza spisu wierzytelności - obejmujących należność. Na wniosek przedsiębiorcy złożony po upływie 30 dni od dnia obwieszczenia w Centralnym Rejestrze Restrukturyzacji i Upadłości, o którym mowa w art. 5 ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne , o przekazaniu listy wierzytelności lub spisu wierzytelności sędziemu-komisarzowi, sędzia-komisarz, w terminie nie dłuższym niż 14 dni od dnia złożenia wniosku, udzieli pisemnej informacji, czy wobec wierzytelności stanowiącej przedmiot wniosku zgłoszono sprzeciw lub zastrzeżenie. Na wniosek przedsiębiorcy złożony po upływie 30 dni od dnia obwieszczenia w Krajowym Rejestrze Zadłużonych o przekazaniu listy wierzytelności lub spisu wierzytelności sędziemu-komisarzowi, sędzia-komisarz, w terminie nie dłuższym niż 14 dni od dnia złożenia wniosku, udzieli pisemnej informacji, czy wobec wierzytelności stanowiącej przedmiot wniosku zgłoszono sprzeciw lub zastrzeżenie. Jeżeli przedsiębiorca wykonywał prace związane z realizacją zamówienia publicznego na roboty budowlane przy pomocy innych podmiotów, do dokumentu, o którym mowa w ust. 1, dołącza oświadczenie, że nie zalega wobec tych podmiotów z zapłatą za zrealizowane i odebrane prace albo, że zaliczka, o której mowa w art. 6, została przekazana na zaspokojenie roszczeń tych podmiotów."
     },
     {
       "provision_ref": "art7u1p1",
@@ -151,13 +229,25 @@
       "provision_ref": "art7u1p3",
       "section": "7",
       "title": "Art. 7 ust. 1 pkt 3",
-      "content": "Przedsiębiorcom umieszczonym na liście, o której mowa w art. 5 ust. 3, jest wypłacana kwota należności lub kwota ustalona zgodnie z art. 5 ust. 4, pomniejszona o kwotę zaliczki, po doręczeniu przez nich: listy wierzytelności pod warunkiem niezłożenia w stosunku do danej wierzytelności sprzeciwu, o którym mowa w art. 256 ustawy z dnia 28 lutego 2003 r. - Prawo upadłościowe i naprawcze lub zatwierdzonej przez sędziego-komisarza listy wierzytelności"
+      "content": "Przedsiębiorcom umieszczonym na liście, o której mowa w art. 5 ust. 3, jest wypłacana kwota należności lub kwota ustalona zgodnie z art. 5 ust. 4, pomniejszona o kwotę zaliczki, po doręczeniu przez nich: listy wierzytelności pod warunkiem niezłożenia w stosunku do danej wierzytelności sprzeciwu, o którym mowa w art. 256 ustawy z dnia 28 lutego 2003 r. - Prawo upadłościowe , lub zatwierdzonej przez sędziego-komisarza listy wierzytelności, albo"
+    },
+    {
+      "provision_ref": "art7u1p4",
+      "section": "7",
+      "title": "Art. 7 ust. 1 pkt 4",
+      "content": "Przedsiębiorcom umieszczonym na liście, o której mowa w art. 5 ust. 3, jest wypłacana kwota należności lub kwota ustalona zgodnie z art. 5 ust. 4, pomniejszona o kwotę zaliczki, po doręczeniu przez nich: spisu wierzytelności pod warunkiem niezłożenia zastrzeżeń, o których mowa w art. 90 ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne ) , lub sprzeciwu, o którym mowa w art. 91 tej ustawy, lub zatwierdzonego przez sędziego-komisarza spisu wierzytelności"
     },
     {
       "provision_ref": "art7u2",
       "section": "7",
       "title": "Art. 7 ust. 2",
-      "content": "Na wniosek przedsiębiorcy złożony po upływie 30 dni od dnia obwieszczenia i ogłoszenia w Monitorze Sądowym i Gospodarczym o przekazaniu listy wierzytelności sędziemu-komisarzowi, sędzia-komisarz w terminie nie dłuższym niż 14 dni od chwili złożenia wniosku, udzieli pisemnej informacji czy wobec wierzytelności stanowiącej przedmiot wniosku zgłoszono sprzeciw."
+      "content": "Na wniosek przedsiębiorcy złożony po upływie 30 dni od dnia obwieszczenia w Centralnym Rejestrze Restrukturyzacji i Upadłości, o którym mowa w art. 5 ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne , o przekazaniu listy wierzytelności lub spisu wierzytelności sędziemu-komisarzowi, sędzia-komisarz, w terminie nie dłuższym niż 14 dni od dnia złożenia wniosku, udzieli pisemnej informacji, czy wobec wierzytelności stanowiącej przedmiot wniosku zgłoszono sprzeciw lub zastrzeżenie."
+    },
+    {
+      "provision_ref": "art7u2",
+      "section": "7",
+      "title": "Art. 7 ust. 2",
+      "content": "Na wniosek przedsiębiorcy złożony po upływie 30 dni od dnia obwieszczenia w Krajowym Rejestrze Zadłużonych o przekazaniu listy wierzytelności lub spisu wierzytelności sędziemu-komisarzowi, sędzia-komisarz, w terminie nie dłuższym niż 14 dni od dnia złożenia wniosku, udzieli pisemnej informacji, czy wobec wierzytelności stanowiącej przedmiot wniosku zgłoszono sprzeciw lub zastrzeżenie."
     },
     {
       "provision_ref": "art7u3",
@@ -196,16 +286,22 @@
       "content": "W przypadku gdy kwota należności umieszczonych na liście, o której mowa w art. 5 ust. 3, jest mniejsza niż kwota zabezpieczenia, o którym mowa w art. 147 ustawy z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych , Generalny Dyrektor może ponownie sporządzić listę przedsiębiorców, o której mowa w art. 5 ust. 3. Przepisy art. 5-8 stosuje się."
     },
     {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "W przypadku gdy kwota należności umieszczonych na liście, o której mowa w art. 5 ust. 3, jest mniejsza niż kwota zabezpieczenia, o którym mowa w art. 449 ustawy z dnia 11 września 2019 r. - Prawo zamówień publicznych , Generalny Dyrektor może ponownie sporządzić listę przedsiębiorców, o której mowa w art. 5 ust. 3. Przepisy art. 5-8 stosuje się."
+    },
+    {
       "provision_ref": "art10",
       "section": "10",
       "title": "Art. 10",
-      "content": "W przypadku ogłoszenia upadłości wykonawcy Generalny Dyrektor zawiadamia sędziego-komisarza o przedsiębiorcach, którym wypłacono należności, oraz o ich wysokości. W przypadku niezaspokojenia należności na podstawie przepisów ustawy podlegają one zaspokojeniu z majątku wykonawcy."
+      "content": "W przypadku ogłoszenia upadłości wykonawcy lub otwarcia wobec niego postępowania restrukturyzacyjnego Generalny Dyrektor zawiadamia sędziego-komisarza o przedsiębiorcach, którym wypłacono należności, oraz o ich wysokości. W przypadku niezaspokojenia należności na podstawie przepisów ustawy podlegają one zaspokojeniu z majątku wykonawcy."
     },
     {
       "provision_ref": "art10u1",
       "section": "10",
       "title": "Art. 10 ust. 1",
-      "content": "W przypadku ogłoszenia upadłości wykonawcy Generalny Dyrektor zawiadamia sędziego-komisarza o przedsiębiorcach, którym wypłacono należności, oraz o ich wysokości."
+      "content": "W przypadku ogłoszenia upadłości wykonawcy lub otwarcia wobec niego postępowania restrukturyzacyjnego Generalny Dyrektor zawiadamia sędziego-komisarza o przedsiębiorcach, którym wypłacono należności, oraz o ich wysokości."
     },
     {
       "provision_ref": "art10u2",
@@ -241,19 +337,43 @@
       "provision_ref": "art12",
       "section": "12",
       "title": "Art. 12",
-      "content": "Jeżeli zabezpieczenie, o którym mowa w art. 147 ustawy z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych , zostało wniesione w pieniądzu, nie wchodzi w skład masy upadłości."
+      "content": "Jeżeli zabezpieczenie, o którym mowa w art. 147 ustawy z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych , zostało wniesione w pieniądzu, nie wchodzi w skład masy upadłości, w przypadku gdy upadłość wykonawcy ogłoszono po dniu wejścia w życie ustawy."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Jeżeli zabezpieczenie, o którym mowa w art. 449 ustawy z dnia 11 września 2019 r. - Prawo zamówień publicznych , zostało wniesione w pieniądzu, nie wchodzi w skład masy upadłości, w przypadku gdy upadłość wykonawcy ogłoszono po dniu wejścia w życie ustawy."
+    },
+    {
+      "provision_ref": "art12a",
+      "section": "12a",
+      "title": "Art. 12a",
+      "content": "Generalny Dyrektor, realizując zadania określone w ustawie, wykonuje obowiązek, o którym mowa w art. 13 ust. 1 i 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) ) , przy pierwszej czynności skierowanej do wykonawcy lub przedsiębiorcy, chyba że posiadają oni te informacje, a ich zakres lub treść nie uległy zmianie. Wystąpienie z żądaniem, o którym mowa w art. 18 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) , nie wpływa na prawa i obowiązki Generalnego Dyrektora wynikające z ustawy, w tym na dokonywanie weryfikacji, o której mowa w art. 5 ust. 3, wypłatę kwot, o których mowa w art. 7 ust. 1, oraz prawo do roszczeń, o których mowa w art. 11 ust. 1 i 2."
+    },
+    {
+      "provision_ref": "art12au1",
+      "section": "12a",
+      "title": "Art. 12a ust. 1",
+      "content": "Generalny Dyrektor, realizując zadania określone w ustawie, wykonuje obowiązek, o którym mowa w art. 13 ust. 1 i 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) ) , przy pierwszej czynności skierowanej do wykonawcy lub przedsiębiorcy, chyba że posiadają oni te informacje, a ich zakres lub treść nie uległy zmianie."
+    },
+    {
+      "provision_ref": "art12au2",
+      "section": "12a",
+      "title": "Art. 12a ust. 2",
+      "content": "Wystąpienie z żądaniem, o którym mowa w art. 18 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) , nie wpływa na prawa i obowiązki Generalnego Dyrektora wynikające z ustawy, w tym na dokonywanie weryfikacji, o której mowa w art. 5 ust. 3, wypłatę kwot, o których mowa w art. 7 ust. 1, oraz prawo do roszczeń, o których mowa w art. 11 ust. 1 i 2."
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Art. 13",
-      "content": "W zakresie niezbędnym do przeznaczania, zgodnie z art. 2, środków Krajowego Funduszu Drogowego na spłaty należności oraz w zakresie niezbędnym do przekazywania, zgodnie z art. 11 ust. 3, odzyskanych kwot, Bank Gospodarstwa Krajowego opracuje projekt zmiany planu finansowego Krajowego Funduszu Drogowego, o którym mowa w art. 39n ust. 1 ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym ) , na rok 2012, w terminie 14 dni od dnia wejścia w życie ustawy. Projekt zmiany planu, o którym mowa w ust. 1, podlega, w terminie 30 dni od dnia wejścia w życie ustawy: uzgodnieniu z: ministrem właściwym do spraw transportu, ministrem właściwym do spraw finansów publicznych w zakresie finansowym; zaopiniowaniu przez ministra właściwego do spraw rozwoju regionalnego w zakresie środków przeznaczonych na realizację inwestycji finansowanych z programów operacyjnych ujętych w wykazie, o którym mowa w art. 122 ust. 1 pkt 2 lit. b ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych ) . Przepis art. 39n ust. 5 ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym stosuje się odpowiednio."
+      "content": "W zakresie niezbędnym do przeznaczania, zgodnie z art. 2, środków Krajowego Funduszu Drogowego na spłaty należności oraz w zakresie niezbędnym do przekazywania, zgodnie z art. 11 ust. 3, odzyskanych kwot, Bank Gospodarstwa Krajowego opracuje projekt zmiany planu finansowego Krajowego Funduszu Drogowego, o którym mowa w art. 39n ust. 1 ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym , na rok 2012, w terminie 14 dni od dnia wejścia w życie ustawy. Projekt zmiany planu, o którym mowa w ust. 1, podlega, w terminie 30 dni od dnia wejścia w życie ustawy: uzgodnieniu z: ministrem właściwym do spraw transportu, ministrem właściwym do spraw finansów publicznych w zakresie finansowym; zaopiniowaniu przez ministra właściwego do spraw rozwoju regionalnego w zakresie środków przeznaczonych na realizację inwestycji finansowanych z programów operacyjnych ujętych w wykazie, o którym mowa w art. 122 ust. 1 pkt 2 lit. b ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych . Przepis art. 39n ust. 5 ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym stosuje się odpowiednio."
     },
     {
       "provision_ref": "art13u1",
       "section": "13",
       "title": "Art. 13 ust. 1",
-      "content": "W zakresie niezbędnym do przeznaczania, zgodnie z art. 2, środków Krajowego Funduszu Drogowego na spłaty należności oraz w zakresie niezbędnym do przekazywania, zgodnie z art. 11 ust. 3, odzyskanych kwot, Bank Gospodarstwa Krajowego opracuje projekt zmiany planu finansowego Krajowego Funduszu Drogowego, o którym mowa w art. 39n ust. 1 ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym ) , na rok 2012, w terminie 14 dni od dnia wejścia w życie ustawy."
+      "content": "W zakresie niezbędnym do przeznaczania, zgodnie z art. 2, środków Krajowego Funduszu Drogowego na spłaty należności oraz w zakresie niezbędnym do przekazywania, zgodnie z art. 11 ust. 3, odzyskanych kwot, Bank Gospodarstwa Krajowego opracuje projekt zmiany planu finansowego Krajowego Funduszu Drogowego, o którym mowa w art. 39n ust. 1 ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym , na rok 2012, w terminie 14 dni od dnia wejścia w życie ustawy."
     },
     {
       "provision_ref": "art13u2p1la",
@@ -271,7 +391,7 @@
       "provision_ref": "art13u2p2",
       "section": "13",
       "title": "Art. 13 ust. 2 pkt 2",
-      "content": "Projekt zmiany planu, o którym mowa w ust. 1, podlega, w terminie 30 dni od dnia wejścia w życie ustawy: zaopiniowaniu przez ministra właściwego do spraw rozwoju regionalnego w zakresie środków przeznaczonych na realizację inwestycji finansowanych z programów operacyjnych ujętych w wykazie, o którym mowa w art. 122 ust. 1 pkt 2 lit. b ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych ) ."
+      "content": "Projekt zmiany planu, o którym mowa w ust. 1, podlega, w terminie 30 dni od dnia wejścia w życie ustawy: zaopiniowaniu przez ministra właściwego do spraw rozwoju regionalnego w zakresie środków przeznaczonych na realizację inwestycji finansowanych z programów operacyjnych ujętych w wykazie, o którym mowa w art. 122 ust. 1 pkt 2 lit. b ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych ."
     },
     {
       "provision_ref": "art13u3",
@@ -289,41 +409,89 @@
       "provision_ref": "art15",
       "section": "15",
       "title": "Art. 15",
-      "content": "Ustawa wchodzi w życie z dniem ogłoszenia."
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia 16) Ustawa została ogłoszona w dniu 3 sierpnia 2012 r. ."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-1964-93",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2010-759",
+      "target_document_id": "pl-du-2019-580",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2010-1623",
+      "target_document_id": "pl-du-2019-730",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2010-1447",
+      "target_document_id": "pl-du-2019-2020",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2010-278",
+      "target_document_id": "pl-du-2019-1145",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2009-1361",
+      "target_document_id": "pl-du-2019-1495",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2004-2571",
+      "target_document_id": "pl-du-2019-1843",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2009-1240",
+      "target_document_id": "pl-du-2019-2019",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-1186",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-1292",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-498",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-243",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-2014",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-2244",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-1123",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-2217",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-869",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-1622",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-1649",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-2473",
       "ref_type": "references"
     }
   ]

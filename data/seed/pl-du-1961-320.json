@@ -10,16 +10,40 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/1961/320",
   "provisions": [
     {
+      "provision_ref": "art173",
+      "section": "173",
+      "title": "Art. 173",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: art. 87 pkt 1, który wchodzi w życie po upływie 90 dni od dnia ogłoszenia; art. 107 pkt 7 i 8, które wchodzą w życie z dniem 1 maja 2019 r.; art. 157 pkt 2, który wchodzi w życie z dniem 13 października 2019 r."
+    },
+    {
+      "provision_ref": "art173p1",
+      "section": "173",
+      "title": "Art. 173 pkt 1",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: art. 87 pkt 1, który wchodzi w życie po upływie 90 dni od dnia ogłoszenia;"
+    },
+    {
+      "provision_ref": "art173p2",
+      "section": "173",
+      "title": "Art. 173 pkt 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: art. 107 pkt 7 i 8, które wchodzą w życie z dniem 1 maja 2019 r.;"
+    },
+    {
+      "provision_ref": "art173p3",
+      "section": "173",
+      "title": "Art. 173 pkt 3",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: art. 157 pkt 2, który wchodzi w życie z dniem 13 października 2019 r."
+    },
+    {
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "Do właściwości izb morskich należy: orzekanie w sprawach z wypadków morskich, rozpoznawanie innych spraw przekazanych izbom morskim odrębnymi przepisami. Wypadkami morskimi w rozumieniu niniejszej ustawy są wypadki, które powodują lub którym ulegają statki na morzu bądź na wodach z morzem połączonych, a uczęszczanych przez statki morskie, oraz wypadki, wskutek których nastąpiło w związku z pracą na statku lub działaniem jego urządzeń ciężkie uszkodzenie ciała, rozstrój zdrowia lub śmierć człowieka."
+      "content": "Do właściwości izb morskich należy: orzekanie w sprawach z wypadków morskich; rozpoznawanie innych spraw przekazanych izbom morskim odrębnymi przepisami. Wypadkami morskimi w rozumieniu niniejszej ustawy są: wypadek morski, o którym mowa w art. 2 ust. 1 pkt 1 ustawy z dnia 31 sierpnia 2012 r. o Państwowej Komisji Badania Wypadków Morskich ; zdarzenie, lub kilka następujących po sobie zdarzeń, związane bezpośrednio z eksploatacją statku, w rozumieniu art. 5 pkt 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim , zaistniałe w wyniku świadomego działania lub zaniechania podjętego z zamiarem naruszenia bezpieczeństwa statku, wyrządzenia szkody na osobie lub szkody w środowisku."
     },
     {
       "provision_ref": "art1u1p1",
       "section": "1",
       "title": "Art. 1 ust. 1 pkt 1",
-      "content": "Do właściwości izb morskich należy: orzekanie w sprawach z wypadków morskich,"
+      "content": "Do właściwości izb morskich należy: orzekanie w sprawach z wypadków morskich;"
     },
     {
       "provision_ref": "art1u1p2",
@@ -28,46 +52,58 @@
       "content": "Do właściwości izb morskich należy: rozpoznawanie innych spraw przekazanych izbom morskim odrębnymi przepisami."
     },
     {
-      "provision_ref": "art1u2",
+      "provision_ref": "art1u2p1",
       "section": "1",
-      "title": "Art. 1 ust. 2",
-      "content": "Wypadkami morskimi w rozumieniu niniejszej ustawy są wypadki, które powodują lub którym ulegają statki na morzu bądź na wodach z morzem połączonych, a uczęszczanych przez statki morskie, oraz wypadki, wskutek których nastąpiło w związku z pracą na statku lub działaniem jego urządzeń ciężkie uszkodzenie ciała, rozstrój zdrowia lub śmierć człowieka."
+      "title": "Art. 1 ust. 2 pkt 1",
+      "content": "Wypadkami morskimi w rozumieniu niniejszej ustawy są: wypadek morski, o którym mowa w art. 2 ust. 1 pkt 1 ustawy z dnia 31 sierpnia 2012 r. o Państwowej Komisji Badania Wypadków Morskich ;"
+    },
+    {
+      "provision_ref": "art1u2p2",
+      "section": "1",
+      "title": "Art. 1 ust. 2 pkt 2",
+      "content": "Wypadkami morskimi w rozumieniu niniejszej ustawy są: zdarzenie, lub kilka następujących po sobie zdarzeń, związane bezpośrednio z eksploatacją statku, w rozumieniu art. 5 pkt 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim , zaistniałe w wyniku świadomego działania lub zaniechania podjętego z zamiarem naruszenia bezpieczeństwa statku, wyrządzenia szkody na osobie lub szkody w środowisku."
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Izby morskie rozpoznają wypadki morskie: statków polskich, statków obcych, jeżeli wypadek nastąpił na polskich morskich wodach wewnętrznych lub polskim morzu terytorialnym albo jeżeli z wnioskiem o wszczęcie postępowania wystąpił armator lub kapitan statku obcego. Sprawy wypadków morskich, w których uczestniczyły jednostki pływające Marynarki Wojennej lub Wojsk Ochrony Pogranicza, izby morskie rozpoznają, w odniesieniu do tych jednostek, za zgodą Dowództwa Marynarki Wojennej lub Wojsk Ochrony Pogranicza."
+      "content": "Izby morskie rozpoznają wypadki morskie: statków o polskiej przynależności; statków o obcej przynależności, jeżeli wypadek nastąpił na polskich morskich wodach wewnętrznych lub polskim morzu terytorialnym albo jeżeli z wnioskiem o wszczęcie postępowania wystąpił armator lub kapitan takiego statku. (uchylony) Sprawy wypadków morskich, w których uczestniczyły jednostki pływające Marynarki Wojennej, Straży Granicznej lub Policji, izby morskie rozpoznają, w odniesieniu do tych jednostek, za zgodą odpowiednio Dowódcy Generalnego Rodzajów Sił Zbrojnych, Komendanta Głównego Straży Granicznej lub Komendanta Głównego Policji."
     },
     {
       "provision_ref": "art2u1p1",
       "section": "2",
       "title": "Art. 2 ust. 1 pkt 1",
-      "content": "Izby morskie rozpoznają wypadki morskie: statków polskich,"
+      "content": "Izby morskie rozpoznają wypadki morskie: statków o polskiej przynależności;"
     },
     {
       "provision_ref": "art2u1p2",
       "section": "2",
       "title": "Art. 2 ust. 1 pkt 2",
-      "content": "Izby morskie rozpoznają wypadki morskie: statków obcych, jeżeli wypadek nastąpił na polskich morskich wodach wewnętrznych lub polskim morzu terytorialnym albo jeżeli z wnioskiem o wszczęcie postępowania wystąpił armator lub kapitan statku obcego."
+      "content": "Izby morskie rozpoznają wypadki morskie: statków o obcej przynależności, jeżeli wypadek nastąpił na polskich morskich wodach wewnętrznych lub polskim morzu terytorialnym albo jeżeli z wnioskiem o wszczęcie postępowania wystąpił armator lub kapitan takiego statku."
+    },
+    {
+      "provision_ref": "art2u1a",
+      "section": "2",
+      "title": "Art. 2 ust. 1a",
+      "content": "(uchylony)"
     },
     {
       "provision_ref": "art2u2",
       "section": "2",
       "title": "Art. 2 ust. 2",
-      "content": "Sprawy wypadków morskich, w których uczestniczyły jednostki pływające Marynarki Wojennej lub Wojsk Ochrony Pogranicza, izby morskie rozpoznają, w odniesieniu do tych jednostek, za zgodą Dowództwa Marynarki Wojennej lub Wojsk Ochrony Pogranicza."
+      "content": "Sprawy wypadków morskich, w których uczestniczyły jednostki pływające Marynarki Wojennej, Straży Granicznej lub Policji, izby morskie rozpoznają, w odniesieniu do tych jednostek, za zgodą odpowiednio Dowódcy Generalnego Rodzajów Sił Zbrojnych, Komendanta Głównego Straży Granicznej lub Komendanta Głównego Policji."
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "Sprawy należące do właściwości izb morskich rozpoznają: w pierwszej instancji - Izba Morska w Gdańsku i Izba Morska w Szczecinie, w drugiej instancji - Odwoławcza Izba Morska."
+      "content": "Sprawy należące do właściwości izb morskich rozpoznają: w pierwszej instancji - Izba Morska w Gdańsku i Izba Morska w Szczecinie; w drugiej instancji - Odwoławcza Izba Morska."
     },
     {
       "provision_ref": "art3p1",
       "section": "3",
       "title": "Art. 3 pkt 1",
-      "content": "Sprawy należące do właściwości izb morskich rozpoznają: w pierwszej instancji - Izba Morska w Gdańsku i Izba Morska w Szczecinie,"
+      "content": "Sprawy należące do właściwości izb morskich rozpoznają: w pierwszej instancji - Izba Morska w Gdańsku i Izba Morska w Szczecinie;"
     },
     {
       "provision_ref": "art3p2",
@@ -76,22 +112,16 @@
       "content": "Sprawy należące do właściwości izb morskich rozpoznają: w drugiej instancji - Odwoławcza Izba Morska."
     },
     {
+      "provision_ref": "art3a",
+      "section": "3a",
+      "title": "Art. 3a",
+      "content": "(uchylony)"
+    },
+    {
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "Właściwość Izby Morskiej w Gdańsku obejmuje obszar województw gdańskiego i olsztyńskiego. Właściwość Izby Morskiej w Szczecinie obejmuje obszar województw szczecińskiego i koszalińskiego."
-    },
-    {
-      "provision_ref": "art4u1",
-      "section": "4",
-      "title": "Art. 4 ust. 1",
-      "content": "Właściwość Izby Morskiej w Gdańsku obejmuje obszar województw gdańskiego i olsztyńskiego."
-    },
-    {
-      "provision_ref": "art4u2",
-      "section": "4",
-      "title": "Art. 4 ust. 2",
-      "content": "Właściwość Izby Morskiej w Szczecinie obejmuje obszar województw szczecińskiego i koszalińskiego."
+      "content": "Minister właściwy do spraw gospodarki morskiej w porozumieniu z Ministrem Sprawiedliwości określi, w drodze rozporządzenia, terytorialny zakres działania izb morskich, uwzględniając podział terytorialny państwa."
     },
     {
       "provision_ref": "art5",
@@ -133,229 +163,253 @@
       "provision_ref": "art6",
       "section": "6",
       "title": "Art. 6",
-      "content": "Izba Morska w Szczecinie działa przy Sądzie Wojewódzkim w Szczecinie, a Izba Morska w Gdańsku i Odwoławcza Izba Morska działają przy Sądzie Wojewódzkim w Gdańsku. Minister Sprawiedliwości w porozumieniu z Ministrem Żeglugi może w drodze rozporządzenia ustalić siedzibę izby morskiej poza siedzibą sądu wojewódzkiego, przy którym działa izba morska."
+      "content": "Izba Morska w Szczecinie działa przy Sądzie Okręgowym w Szczecinie, a Izba Morska w Gdańsku i Odwoławcza Izba Morska działają przy Sądzie Okręgowym w Gdańsku. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw gospodarki morskiej może określić, w drodze rozporządzenia, uwzględniając podział terytorialny państwa, siedzibę izby morskiej poza siedzibą sądu okręgowego, przy którym działa izba morska."
     },
     {
       "provision_ref": "art6u1",
       "section": "6",
       "title": "Art. 6 ust. 1",
-      "content": "Izba Morska w Szczecinie działa przy Sądzie Wojewódzkim w Szczecinie, a Izba Morska w Gdańsku i Odwoławcza Izba Morska działają przy Sądzie Wojewódzkim w Gdańsku."
+      "content": "Izba Morska w Szczecinie działa przy Sądzie Okręgowym w Szczecinie, a Izba Morska w Gdańsku i Odwoławcza Izba Morska działają przy Sądzie Okręgowym w Gdańsku."
     },
     {
       "provision_ref": "art6u2",
       "section": "6",
       "title": "Art. 6 ust. 2",
-      "content": "Minister Sprawiedliwości w porozumieniu z Ministrem Żeglugi może w drodze rozporządzenia ustalić siedzibę izby morskiej poza siedzibą sądu wojewódzkiego, przy którym działa izba morska."
+      "content": "Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw gospodarki morskiej może określić, w drodze rozporządzenia, uwzględniając podział terytorialny państwa, siedzibę izby morskiej poza siedzibą sądu okręgowego, przy którym działa izba morska."
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Art. 7",
-      "content": "W skład izby morskiej wchodzi przewodniczący oraz jeden lub więcej wiceprzewodniczących i ławnicy."
+      "content": "W skład izby morskiej wchodzą: sędziowie, w tym przewodniczący i jeden lub więcej wiceprzewodniczących; ławnicy."
+    },
+    {
+      "provision_ref": "art7p1",
+      "section": "7",
+      "title": "Art. 7 pkt 1",
+      "content": "W skład izby morskiej wchodzą: sędziowie, w tym przewodniczący i jeden lub więcej wiceprzewodniczących;"
+    },
+    {
+      "provision_ref": "art7p2",
+      "section": "7",
+      "title": "Art. 7 pkt 2",
+      "content": "W skład izby morskiej wchodzą: ławnicy."
+    },
+    {
+      "provision_ref": "art7a",
+      "section": "7a",
+      "title": "Art. 7a",
+      "content": "Do orzekania w sprawach należących do właściwości izb morskich Minister Sprawiedliwości deleguje sędziów na podstawie art. 77 ustawy z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych spośród sędziów sądów powszechnych posiadających znajomość zagadnień morskich w zakresie spraw należących do właściwości izb morskich."
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Art. 8",
-      "content": "Przewodniczącego i wiceprzewodniczących powołuje i odwołuje Minister Sprawiedliwości w porozumieniu z Ministrem Żeglugi spośród sędziów sądów powszechnych posiadających znajomość zagadnień morskich w zakresie spraw należących do właściwości izb morskich. Pozostałych pracowników izb morskich przyjmuje i zwalnia przewodniczący właściwej izby morskiej."
+      "content": "Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw gospodarki morskiej powołuje i odwołuje przewodniczącego i wiceprzewodniczących spośród sędziów delegowanych do izby morskiej zgodnie z art. 7a. Inspektorów dochodzeniowych oraz innych pracowników izb morskich przyjmuje i zwalnia przewodniczący właściwej izby morskiej."
     },
     {
       "provision_ref": "art8u1",
       "section": "8",
       "title": "Art. 8 ust. 1",
-      "content": "Przewodniczącego i wiceprzewodniczących powołuje i odwołuje Minister Sprawiedliwości w porozumieniu z Ministrem Żeglugi spośród sędziów sądów powszechnych posiadających znajomość zagadnień morskich w zakresie spraw należących do właściwości izb morskich."
+      "content": "Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw gospodarki morskiej powołuje i odwołuje przewodniczącego i wiceprzewodniczących spośród sędziów delegowanych do izby morskiej zgodnie z art. 7a."
     },
     {
       "provision_ref": "art8u2",
       "section": "8",
       "title": "Art. 8 ust. 2",
-      "content": "Pozostałych pracowników izb morskich przyjmuje i zwalnia przewodniczący właściwej izby morskiej."
+      "content": "Inspektorów dochodzeniowych oraz innych pracowników izb morskich przyjmuje i zwalnia przewodniczący właściwej izby morskiej."
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Art. 9",
-      "content": "Przewodniczący i wiceprzewodniczący izb morskich zachowują stanowiska sędziowskie oraz, z zastrzeżeniem odmiennych przepisów ustawy, prawa i obowiązki przewidziane w przepisach dotyczących sędziów. Do pozostałych pracowników izb morskich mają zastosowanie przepisy dotyczące pracowników organów administracji państwowej."
+      "content": "Sędziowie sądów powszechnych orzekający w izbach morskich zachowują prawa i obowiązki przewidziane w przepisach dotyczących sędziów sądów powszechnych. Do pracowników izb morskich mają odpowiednie zastosowanie przepisy ustawy z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury ."
     },
     {
       "provision_ref": "art9u1",
       "section": "9",
       "title": "Art. 9 ust. 1",
-      "content": "Przewodniczący i wiceprzewodniczący izb morskich zachowują stanowiska sędziowskie oraz, z zastrzeżeniem odmiennych przepisów ustawy, prawa i obowiązki przewidziane w przepisach dotyczących sędziów."
+      "content": "Sędziowie sądów powszechnych orzekający w izbach morskich zachowują prawa i obowiązki przewidziane w przepisach dotyczących sędziów sądów powszechnych."
     },
     {
       "provision_ref": "art9u2",
       "section": "9",
       "title": "Art. 9 ust. 2",
-      "content": "Do pozostałych pracowników izb morskich mają zastosowanie przepisy dotyczące pracowników organów administracji państwowej."
+      "content": "Do pracowników izb morskich mają odpowiednie zastosowanie przepisy ustawy z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury ."
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Art. 10",
-      "content": "Zakres udziału przewodniczących i wiceprzewodniczących izb morskich w pracy sądów określi Minister Sprawiedliwości w porozumieniu z Ministrem Żeglugi."
+      "content": "Minister Sprawiedliwości, w porozumieniu z ministrem właściwym do spraw gospodarki morskiej, określi, w drodze rozporządzenia, zakres udziału przewodniczących i wiceprzewodniczących izb morskich w pracy sądów, uwzględniając zakres zadań tych osób w izbach morskich oraz konieczność zachowania udziału sędziów czynnych zawodowo w sprawowaniu wymiaru sprawiedliwości."
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Art. 11",
-      "content": "W zakresie wynagradzania pracowników izb morskich mają odpowiednie zastosowanie: do przewodniczących i wiceprzewodniczących przepisy o uposażeniu pracowników zatrudnionych w dziale orzecznictwa państwowych komisji arbitrażowych, do pozostałych pracowników - przepisy o uposażeniu pracowników administracyjnych w państwowych komisjach arbitrażowych. Minister Żeglugi w porozumieniu z Przewodniczącym Komitetu Pracy i Płac dostosuje przepisy wymienione w ust. 1 do zakresu działania i struktury organizacyjnej izb morskich, w szczególności ustali tabele stanowisk i uposażenia dla pracowników izb morskich oraz kwalifikacje wymagane dla pracowników wymienionych w ust. 1 pkt 2."
+      "content": "W zakresie wynagradzania mają zastosowanie: do sędziów orzekających w sprawach należących do właściwości izb morskich - przepisy w sprawie wynagradzania sędziów sądów powszechnych; do pracowników izb morskich - odpowiednio przepisy ustawy z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury . Minister właściwy do spraw gospodarki morskiej, w porozumieniu z ministrem właściwym do spraw pracy, określi, w drodze rozporządzenia, stanowiska, zaszeregowanie oraz szczegółowe warunki wynagradzania pracowników izb morskich, a także kwalifikacje wymagane dla pracowników izb morskich, mając na uwadze przepisy, o których mowa w ust. 1 pkt 2."
     },
     {
       "provision_ref": "art11u1p1",
       "section": "11",
       "title": "Art. 11 ust. 1 pkt 1",
-      "content": "W zakresie wynagradzania pracowników izb morskich mają odpowiednie zastosowanie: do przewodniczących i wiceprzewodniczących przepisy o uposażeniu pracowników zatrudnionych w dziale orzecznictwa państwowych komisji arbitrażowych,"
+      "content": "W zakresie wynagradzania mają zastosowanie: do sędziów orzekających w sprawach należących do właściwości izb morskich - przepisy w sprawie wynagradzania sędziów sądów powszechnych;"
     },
     {
       "provision_ref": "art11u1p2",
       "section": "11",
       "title": "Art. 11 ust. 1 pkt 2",
-      "content": "W zakresie wynagradzania pracowników izb morskich mają odpowiednie zastosowanie: do pozostałych pracowników - przepisy o uposażeniu pracowników administracyjnych w państwowych komisjach arbitrażowych."
+      "content": "W zakresie wynagradzania mają zastosowanie: do pracowników izb morskich - odpowiednio przepisy ustawy z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury ."
     },
     {
       "provision_ref": "art11u2",
       "section": "11",
       "title": "Art. 11 ust. 2",
-      "content": "Minister Żeglugi w porozumieniu z Przewodniczącym Komitetu Pracy i Płac dostosuje przepisy wymienione w ust. 1 do zakresu działania i struktury organizacyjnej izb morskich, w szczególności ustali tabele stanowisk i uposażenia dla pracowników izb morskich oraz kwalifikacje wymagane dla pracowników wymienionych w ust. 1 pkt 2."
+      "content": "Minister właściwy do spraw gospodarki morskiej, w porozumieniu z ministrem właściwym do spraw pracy, określi, w drodze rozporządzenia, stanowiska, zaszeregowanie oraz szczegółowe warunki wynagradzania pracowników izb morskich, a także kwalifikacje wymagane dla pracowników izb morskich, mając na uwadze przepisy, o których mowa w ust. 1 pkt 2."
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Art. 12",
-      "content": "Ławników izb morskich powołuje na okres lat trzech Minister Żeglugi spośród osób posiadających wysokie kwalifikacje zawodowe i praktykę w zakresie zagadnień występujących w sprawach rozpoznawanych przez izby morskie. Liczbę ławników dla każdej izby ustala Minister Żeglugi na wniosek przewodniczących izb morskich. Rada Ministrów określi w drodze rozporządzenia szczegółowy tryb powoływania ławników oraz zasady wyznaczania ich do udziału w posiedzeniach, wynagradzania i pokrywania innych należności związanych z udziałem w posiedzeniach."
+      "content": "Ławników izb morskich powołuje na okres lat trzech minister właściwy do spraw gospodarki morskiej spośród osób posiadających wysokie kwalifikacje zawodowe i praktykę w zakresie zagadnień występujących w sprawach rozpoznawanych przez izby morskie. Minister właściwy do spraw gospodarki morskiej, na wniosek przewodniczącego izby morskiej, określi, w drodze zarządzenia, liczbę ławników dla izby z uwzględnieniem terytorialnego zakresu działania izby morskiej. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw gospodarki morskiej określi, w drodze rozporządzenia, szczegółowy tryb powoływania ławników oraz zasady ich wyznaczania do udziału w posiedzeniach, uwzględniając kwalifikacje zawodowe i praktykę w zakresie zagadnień występujących w sprawach rozpoznawanych przez izby morskie, a także sposób wynagradzania i pokrywania innych należności związanych z udziałem w posiedzeniach."
     },
     {
       "provision_ref": "art12u1",
       "section": "12",
       "title": "Art. 12 ust. 1",
-      "content": "Ławników izb morskich powołuje na okres lat trzech Minister Żeglugi spośród osób posiadających wysokie kwalifikacje zawodowe i praktykę w zakresie zagadnień występujących w sprawach rozpoznawanych przez izby morskie."
+      "content": "Ławników izb morskich powołuje na okres lat trzech minister właściwy do spraw gospodarki morskiej spośród osób posiadających wysokie kwalifikacje zawodowe i praktykę w zakresie zagadnień występujących w sprawach rozpoznawanych przez izby morskie."
     },
     {
       "provision_ref": "art12u2",
       "section": "12",
       "title": "Art. 12 ust. 2",
-      "content": "Liczbę ławników dla każdej izby ustala Minister Żeglugi na wniosek przewodniczących izb morskich."
+      "content": "Minister właściwy do spraw gospodarki morskiej, na wniosek przewodniczącego izby morskiej, określi, w drodze zarządzenia, liczbę ławników dla izby z uwzględnieniem terytorialnego zakresu działania izby morskiej."
     },
     {
       "provision_ref": "art12u3",
       "section": "12",
       "title": "Art. 12 ust. 3",
-      "content": "Rada Ministrów określi w drodze rozporządzenia szczegółowy tryb powoływania ławników oraz zasady wyznaczania ich do udziału w posiedzeniach, wynagradzania i pokrywania innych należności związanych z udziałem w posiedzeniach."
+      "content": "Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw gospodarki morskiej określi, w drodze rozporządzenia, szczegółowy tryb powoływania ławników oraz zasady ich wyznaczania do udziału w posiedzeniach, uwzględniając kwalifikacje zawodowe i praktykę w zakresie zagadnień występujących w sprawach rozpoznawanych przez izby morskie, a także sposób wynagradzania i pokrywania innych należności związanych z udziałem w posiedzeniach."
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Art. 13",
-      "content": "W sprawach nie uregulowanych ustawą i przepisami wydanymi na jej podstawie do ławników izb morskich stosuje się odpowiednio przepisy o ławnikach ludowych w sądach powszechnych."
+      "content": "W sprawach nieuregulowanych ustawą i przepisami wydanymi na jej podstawie do ławników izb morskich stosuje się odpowiednio przepisy o ławnikach w sądach powszechnych."
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Art. 14",
-      "content": "Izby morskie rozpoznają sprawy wypadków morskich na rozprawie, w pierwszej instancji - w składzie przewodniczącego lub wiceprzewodniczącego oraz dwóch ławników, w drugiej instancji - w składzie przewodniczącego lub wiceprzewodniczącego oraz czterech ławników. Rozprawie przewodniczy przewodniczący lub wiceprzewodniczący izby morskiej. Przewodniczący izby morskiej pierwszej i drugiej instancji może zwiększyć skład orzekający o dwóch ławników lub o wiceprzewodniczącego izby i jednego ławnika, jeżeli uzna to za wskazane ze względu na zawiły charakter sprawy. Poza rozprawą postanowienia wydaje izba morska bez udziału ławników, w składzie jednoosobowym."
+      "content": "Izby morskie rozpoznają sprawy wypadków morskich na rozprawie, w pierwszej instancji - w składzie jednego sędziego oraz dwóch ławników, w drugiej instancji - w składzie jednego sędziego oraz czterech ławników. Rozprawie przewodniczy sędzia. Przewodniczący izby morskiej pierwszej i drugiej instancji może zwiększyć skład orzekający o dwóch ławników lub o jednego sędziego i jednego ławnika, jeżeli uzna to za wskazane ze względu na zawiły charakter sprawy. Poza rozprawą postanowienia wydaje sędzia bez udziału ławników, jeżeli ustawa nie stanowi inaczej."
     },
     {
       "provision_ref": "art14u1",
       "section": "14",
       "title": "Art. 14 ust. 1",
-      "content": "Izby morskie rozpoznają sprawy wypadków morskich na rozprawie, w pierwszej instancji - w składzie przewodniczącego lub wiceprzewodniczącego oraz dwóch ławników, w drugiej instancji - w składzie przewodniczącego lub wiceprzewodniczącego oraz czterech ławników. Rozprawie przewodniczy przewodniczący lub wiceprzewodniczący izby morskiej."
+      "content": "Izby morskie rozpoznają sprawy wypadków morskich na rozprawie, w pierwszej instancji - w składzie jednego sędziego oraz dwóch ławników, w drugiej instancji - w składzie jednego sędziego oraz czterech ławników. Rozprawie przewodniczy sędzia."
     },
     {
       "provision_ref": "art14u2",
       "section": "14",
       "title": "Art. 14 ust. 2",
-      "content": "Przewodniczący izby morskiej pierwszej i drugiej instancji może zwiększyć skład orzekający o dwóch ławników lub o wiceprzewodniczącego izby i jednego ławnika, jeżeli uzna to za wskazane ze względu na zawiły charakter sprawy."
+      "content": "Przewodniczący izby morskiej pierwszej i drugiej instancji może zwiększyć skład orzekający o dwóch ławników lub o jednego sędziego i jednego ławnika, jeżeli uzna to za wskazane ze względu na zawiły charakter sprawy."
     },
     {
       "provision_ref": "art14u3",
       "section": "14",
       "title": "Art. 14 ust. 3",
-      "content": "Poza rozprawą postanowienia wydaje izba morska bez udziału ławników, w składzie jednoosobowym."
+      "content": "Poza rozprawą postanowienia wydaje sędzia bez udziału ławników, jeżeli ustawa nie stanowi inaczej."
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Art. 15",
-      "content": "Przy izbie morskiej Minister Żeglugi ustanawia delegata oraz jednego lub więcej zastępców delegata spośród osób posiadających wysokie kwalifikacje zawodowe i praktykę w zakresie żeglugi morskiej. Delegat Ministra Żeglugi, zwany w dalszym ciągu „delegatem”, uczestniczy w postępowaniu przed izbami jako rzecznik interesu publicznego. Delegat przy Odwoławczej Izbie Morskiej może przekazać uczestnictwo w postępowaniu przed tą izbą delegatowi przy izbie morskiej pierwszej instancji, który występował w sprawie, jeżeli ze względu na szczególnie zawiły charakter sprawy przyczyni się to w znacznym stopniu do szybszego zakończenia postępowania. W sprawach wypadków morskich, w których zdarzył się wypadek przy pracy, w postępowaniu przed izbami ma prawo uczestniczyć obok delegata - techniczny inspektor pracy właściwy dla zakładu pracy zatrudniającego pracownika, który uległ wypadkowi. Delegat i techniczny inspektor pracy mogą brać udział w dochodzeniu oraz w każdym stanie sprawy przeglądać akta i zgłaszać wnioski. Przepisy o wynagradzaniu ławników za udział w posiedzeniach izb morskich i pokrywaniu innych należności związanych z udziałem w posiedzeniach mają odpowiednie zastosowanie do delegata i technicznego inspektora pracy."
+      "content": "Przy izbie morskiej minister właściwy do spraw gospodarki morskiej ustanawia delegata oraz jednego lub więcej zastępców delegata spośród osób posiadających wysokie kwalifikacje zawodowe i praktykę w zakresie żeglugi morskiej. Delegat ministra właściwego do spraw gospodarki morskiej, zwany w dalszym ciągu „delegatem”, uczestniczy w postępowaniu przed izbami jako rzecznik interesu publicznego. Delegat przy Odwoławczej Izbie Morskiej może brać udział w postępowaniu przed izbą morską pierwszej instancji i podejmować czynności, do jakich uprawniony jest delegat przy tej izbie, oraz przekazać delegatowi przy izbie morskiej pierwszej instancji uczestnictwo w postępowaniu przed Odwoławczą Izbą Morską. W sprawach wypadków morskich, które mogą zostać uznane za wypadki przy pracy, w postępowaniu przed izbami morskimi ma prawo uczestniczyć - obok delegata - państwowy inspektor pracy właściwy dla pracodawcy zatrudniającego pracownika, który uległ wypadkowi. Delegat i państwowy inspektor pracy mogą brać udział w dochodzeniu oraz w każdym stanie sprawy przeglądać akta i zgłaszać wnioski. Przepisy o wynagradzaniu ławników za udział w posiedzeniach izb morskich i pokrywaniu innych należności związanych z udziałem w posiedzeniach mają odpowiednie zastosowanie do delegata i państwowego inspektora pracy. Minister właściwy do spraw gospodarki morskiej określi, w drodze rozporządzenia, uwzględniając system organizacyjny izb morskich, sposób wykonywania zadań przez delegatów oraz sprawowania nadzoru nad ich działalnością, a także zakres pokrywania kosztów tej działalności."
     },
     {
       "provision_ref": "art15u1",
       "section": "15",
       "title": "Art. 15 ust. 1",
-      "content": "Przy izbie morskiej Minister Żeglugi ustanawia delegata oraz jednego lub więcej zastępców delegata spośród osób posiadających wysokie kwalifikacje zawodowe i praktykę w zakresie żeglugi morskiej."
+      "content": "Przy izbie morskiej minister właściwy do spraw gospodarki morskiej ustanawia delegata oraz jednego lub więcej zastępców delegata spośród osób posiadających wysokie kwalifikacje zawodowe i praktykę w zakresie żeglugi morskiej."
     },
     {
       "provision_ref": "art15u2",
       "section": "15",
       "title": "Art. 15 ust. 2",
-      "content": "Delegat Ministra Żeglugi, zwany w dalszym ciągu „delegatem”, uczestniczy w postępowaniu przed izbami jako rzecznik interesu publicznego."
+      "content": "Delegat ministra właściwego do spraw gospodarki morskiej, zwany w dalszym ciągu „delegatem”, uczestniczy w postępowaniu przed izbami jako rzecznik interesu publicznego."
     },
     {
       "provision_ref": "art15u3",
       "section": "15",
       "title": "Art. 15 ust. 3",
-      "content": "Delegat przy Odwoławczej Izbie Morskiej może przekazać uczestnictwo w postępowaniu przed tą izbą delegatowi przy izbie morskiej pierwszej instancji, który występował w sprawie, jeżeli ze względu na szczególnie zawiły charakter sprawy przyczyni się to w znacznym stopniu do szybszego zakończenia postępowania."
+      "content": "Delegat przy Odwoławczej Izbie Morskiej może brać udział w postępowaniu przed izbą morską pierwszej instancji i podejmować czynności, do jakich uprawniony jest delegat przy tej izbie, oraz przekazać delegatowi przy izbie morskiej pierwszej instancji uczestnictwo w postępowaniu przed Odwoławczą Izbą Morską."
     },
     {
       "provision_ref": "art15u4",
       "section": "15",
       "title": "Art. 15 ust. 4",
-      "content": "W sprawach wypadków morskich, w których zdarzył się wypadek przy pracy, w postępowaniu przed izbami ma prawo uczestniczyć obok delegata - techniczny inspektor pracy właściwy dla zakładu pracy zatrudniającego pracownika, który uległ wypadkowi."
+      "content": "W sprawach wypadków morskich, które mogą zostać uznane za wypadki przy pracy, w postępowaniu przed izbami morskimi ma prawo uczestniczyć - obok delegata - państwowy inspektor pracy właściwy dla pracodawcy zatrudniającego pracownika, który uległ wypadkowi."
     },
     {
       "provision_ref": "art15u5",
       "section": "15",
       "title": "Art. 15 ust. 5",
-      "content": "Delegat i techniczny inspektor pracy mogą brać udział w dochodzeniu oraz w każdym stanie sprawy przeglądać akta i zgłaszać wnioski."
+      "content": "Delegat i państwowy inspektor pracy mogą brać udział w dochodzeniu oraz w każdym stanie sprawy przeglądać akta i zgłaszać wnioski."
     },
     {
       "provision_ref": "art15u6",
       "section": "15",
       "title": "Art. 15 ust. 6",
-      "content": "Przepisy o wynagradzaniu ławników za udział w posiedzeniach izb morskich i pokrywaniu innych należności związanych z udziałem w posiedzeniach mają odpowiednie zastosowanie do delegata i technicznego inspektora pracy."
+      "content": "Przepisy o wynagradzaniu ławników za udział w posiedzeniach izb morskich i pokrywaniu innych należności związanych z udziałem w posiedzeniach mają odpowiednie zastosowanie do delegata i państwowego inspektora pracy."
+    },
+    {
+      "provision_ref": "art15u7",
+      "section": "15",
+      "title": "Art. 15 ust. 7",
+      "content": "Minister właściwy do spraw gospodarki morskiej określi, w drodze rozporządzenia, uwzględniając system organizacyjny izb morskich, sposób wykonywania zadań przez delegatów oraz sprawowania nadzoru nad ich działalnością, a także zakres pokrywania kosztów tej działalności."
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Art. 16",
-      "content": "W celu zapewnienia bezpieczeństwa żeglugi i zapobiegania wypadkom morskim delegat może żądać wyjaśnień od organów państwowych i jednostek gospodarki uspołecznionej, zwracać im uwagę na uchybienia i sprawdzać zastosowanie odpowiednich środków zaradczych. Uprawnienia przewidziane w ust. 1 nie przysługują delegatowi w stosunku do organów Marynarki Wojennej i Wojsk Ochrony Pogranicza."
+      "content": "W celu zapewnienia bezpieczeństwa żeglugi i zapobiegania wypadkom morskim delegat może żądać wyjaśnień od armatorów, organów i instytucji państwowych, samorządowych i społecznych, przedsiębiorców oraz innych jednostek organizacyjnych, zwracać im uwagę na uchybienia i sprawdzać zastosowanie odpowiednich środków zaradczych. Uprawnienia przewidziane w ust. 1 nie przysługują delegatowi w stosunku do organów Marynarki Wojennej, Straży Granicznej i Policji."
     },
     {
       "provision_ref": "art16u1",
       "section": "16",
       "title": "Art. 16 ust. 1",
-      "content": "W celu zapewnienia bezpieczeństwa żeglugi i zapobiegania wypadkom morskim delegat może żądać wyjaśnień od organów państwowych i jednostek gospodarki uspołecznionej, zwracać im uwagę na uchybienia i sprawdzać zastosowanie odpowiednich środków zaradczych."
+      "content": "W celu zapewnienia bezpieczeństwa żeglugi i zapobiegania wypadkom morskim delegat może żądać wyjaśnień od armatorów, organów i instytucji państwowych, samorządowych i społecznych, przedsiębiorców oraz innych jednostek organizacyjnych, zwracać im uwagę na uchybienia i sprawdzać zastosowanie odpowiednich środków zaradczych."
     },
     {
       "provision_ref": "art16u2",
       "section": "16",
       "title": "Art. 16 ust. 2",
-      "content": "Uprawnienia przewidziane w ust. 1 nie przysługują delegatowi w stosunku do organów Marynarki Wojennej i Wojsk Ochrony Pogranicza."
+      "content": "Uprawnienia przewidziane w ust. 1 nie przysługują delegatowi w stosunku do organów Marynarki Wojennej, Straży Granicznej i Policji."
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Art. 17",
-      "content": "Zwierzchni nadzór nad izbami morskimi sprawują: Minister Sprawiedliwości nad przewodniczącymi i wiceprzewodniczącymi izb morskich oraz nad trybem postępowania przed izbami, Minister Żeglugi - w pozostałym zakresie. Nadzór bezpośredni nad izbami morskimi w zakresie zastrzeżonym Ministrowi Sprawiedliwości sprawuje prezes sądu wojewódzkiego, przy którym działa izba morska. Nadzór nie może wkraczać w zakres orzecznictwa izb morskich. Minister Sprawiedliwości w porozumieniu z Ministrem Żeglugi określi w regulaminie tryb wewnętrznego urzędowania izb morskich."
+      "content": "Zwierzchni nadzór nad izbami morskimi sprawują: Minister Sprawiedliwości nad przewodniczącymi i wiceprzewodniczącymi izb morskich oraz nad trybem postępowania przed izbami; minister właściwy do spraw gospodarki morskiej - w pozostałym zakresie. Nadzór bezpośredni nad izbami morskimi w zakresie zastrzeżonym Ministrowi Sprawiedliwości sprawuje prezes sądu okręgowego, przy którym działa izba morska. Nadzór nie może wkraczać w zakres orzecznictwa izb morskich. Minister Sprawiedliwości, w porozumieniu z ministrem właściwym do spraw gospodarki morskiej, określi, w drodze rozporządzenia, regulamin wewnętrznego urzędowania izb morskich, w tym: zadania przewodniczącego izby, zadania inspektorów dochodzeniowych, podstawowe zadania referentów, kierownika sekretariatu i sekretarza izby, szczegółowy sposób prowadzenia i protokołowania rozpraw, tryb występowania o pomoc prawną i komunikowania się z innymi organami, organizację pracy izby - mając na uwadze zapewnienie skuteczności i sprawności prowadzonych przed izbami morskimi postępowań."
     },
     {
       "provision_ref": "art17u1p1",
       "section": "17",
       "title": "Art. 17 ust. 1 pkt 1",
-      "content": "Zwierzchni nadzór nad izbami morskimi sprawują: Minister Sprawiedliwości nad przewodniczącymi i wiceprzewodniczącymi izb morskich oraz nad trybem postępowania przed izbami,"
+      "content": "Zwierzchni nadzór nad izbami morskimi sprawują: Minister Sprawiedliwości nad przewodniczącymi i wiceprzewodniczącymi izb morskich oraz nad trybem postępowania przed izbami;"
     },
     {
       "provision_ref": "art17u1p2",
       "section": "17",
       "title": "Art. 17 ust. 1 pkt 2",
-      "content": "Zwierzchni nadzór nad izbami morskimi sprawują: Minister Żeglugi - w pozostałym zakresie."
+      "content": "Zwierzchni nadzór nad izbami morskimi sprawują: minister właściwy do spraw gospodarki morskiej - w pozostałym zakresie."
     },
     {
       "provision_ref": "art17u2",
       "section": "17",
       "title": "Art. 17 ust. 2",
-      "content": "Nadzór bezpośredni nad izbami morskimi w zakresie zastrzeżonym Ministrowi Sprawiedliwości sprawuje prezes sądu wojewódzkiego, przy którym działa izba morska."
+      "content": "Nadzór bezpośredni nad izbami morskimi w zakresie zastrzeżonym Ministrowi Sprawiedliwości sprawuje prezes sądu okręgowego, przy którym działa izba morska."
     },
     {
       "provision_ref": "art17u3",
@@ -364,94 +418,232 @@
       "content": "Nadzór nie może wkraczać w zakres orzecznictwa izb morskich."
     },
     {
-      "provision_ref": "art17u4",
+      "provision_ref": "art17u4p1",
       "section": "17",
-      "title": "Art. 17 ust. 4",
-      "content": "Minister Sprawiedliwości w porozumieniu z Ministrem Żeglugi określi w regulaminie tryb wewnętrznego urzędowania izb morskich."
+      "title": "Art. 17 ust. 4 pkt 1",
+      "content": "Minister Sprawiedliwości, w porozumieniu z ministrem właściwym do spraw gospodarki morskiej, określi, w drodze rozporządzenia, regulamin wewnętrznego urzędowania izb morskich, w tym: zadania przewodniczącego izby,"
+    },
+    {
+      "provision_ref": "art17u4p2",
+      "section": "17",
+      "title": "Art. 17 ust. 4 pkt 2",
+      "content": "Minister Sprawiedliwości, w porozumieniu z ministrem właściwym do spraw gospodarki morskiej, określi, w drodze rozporządzenia, regulamin wewnętrznego urzędowania izb morskich, w tym: zadania inspektorów dochodzeniowych,"
+    },
+    {
+      "provision_ref": "art17u4p3",
+      "section": "17",
+      "title": "Art. 17 ust. 4 pkt 3",
+      "content": "Minister Sprawiedliwości, w porozumieniu z ministrem właściwym do spraw gospodarki morskiej, określi, w drodze rozporządzenia, regulamin wewnętrznego urzędowania izb morskich, w tym: podstawowe zadania referentów, kierownika sekretariatu i sekretarza izby,"
+    },
+    {
+      "provision_ref": "art17u4p4",
+      "section": "17",
+      "title": "Art. 17 ust. 4 pkt 4",
+      "content": "Minister Sprawiedliwości, w porozumieniu z ministrem właściwym do spraw gospodarki morskiej, określi, w drodze rozporządzenia, regulamin wewnętrznego urzędowania izb morskich, w tym: szczegółowy sposób prowadzenia i protokołowania rozpraw,"
+    },
+    {
+      "provision_ref": "art17u4p5",
+      "section": "17",
+      "title": "Art. 17 ust. 4 pkt 5",
+      "content": "Minister Sprawiedliwości, w porozumieniu z ministrem właściwym do spraw gospodarki morskiej, określi, w drodze rozporządzenia, regulamin wewnętrznego urzędowania izb morskich, w tym: tryb występowania o pomoc prawną i komunikowania się z innymi organami,"
+    },
+    {
+      "provision_ref": "art17u4p6",
+      "section": "17",
+      "title": "Art. 17 ust. 4 pkt 6",
+      "content": "Minister Sprawiedliwości, w porozumieniu z ministrem właściwym do spraw gospodarki morskiej, określi, w drodze rozporządzenia, regulamin wewnętrznego urzędowania izb morskich, w tym: organizację pracy izby"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Art. 18",
-      "content": "Dochody i wydatki izb morskich objęte są budżetem centralnym w części Ministerstwa Żeglugi."
+      "content": "Izby morskie są państwowymi jednostkami budżetowymi. Wydatki izb morskich są pokrywane z budżetu państwa z części, której dysponentem jest minister właściwy do spraw gospodarki morskiej."
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Art. 19",
-      "content": "Izby morskie mają prawo używania pieczęci okrągłej z wizerunkiem godła Polskiej Rzeczypospolitej Ludowej pośrodku, z napisem w otoku zawierającym nazwę izby i sądu, przy którym działa izba."
+      "content": "Izby morskie mają prawo używania pieczęci okrągłej z wizerunkiem godła Rzeczypospolitej Polskiej pośrodku, z napisem w otoku zawierającym nazwę izby i sądu, przy którym działa izba."
+    },
+    {
+      "provision_ref": "art19a",
+      "section": "19a",
+      "title": "Art. 19a",
+      "content": "Izby morskie przekazują informacje, o których mowa w art. 13 ust. 1 i 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) 2) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 127 z 23.05.2018, str. 2. , zwanego dalej „rozporządzeniem 2016/679”, przy pierwszej czynności skierowanej do osoby, chyba że posiada ona te informacje, a ich zakres lub treść nie uległy zmianie."
+    },
+    {
+      "provision_ref": "art19b",
+      "section": "19b",
+      "title": "Art. 19b",
+      "content": "Nadzór nad przetwarzaniem danych osobowych w postępowaniach przed izbami morskimi sprawują: w zakresie działalności Izby Morskiej w Gdańsku i Izby Morskiej w Szczecinie - Przewodniczący Odwoławczej Izby Morskiej; w zakresie działalności Odwoławczej Izby Morskiej - Prezes Sądu Okręgowego w Gdańsku. W ramach nadzoru, o którym mowa w ust. 1, właściwe organy: rozpatrują skargi związane z przetwarzaniem danych osobowych; podejmują działania mające na celu upowszechnianie wśród nadzorowanych administratorów danych i podmiotów przetwarzających wiedzy o obowiązkach wynikających z rozporządzenia 2016/679; współpracują z innymi organami sprawującymi nadzór nad przetwarzaniem danych osobowych w ramach postępowań prowadzonych przez sądy i trybunały oraz z organami nadzorczymi w rozumieniu art. 51 ust. 1 rozporządzenia 2016/679, w tym dzielą się informacjami oraz świadczą wzajemną pomoc, w celu zapewnienia spójnego stosowania rozporządzenia 2016/679. Organy, o których mowa w ust. 1, są uprawnione do: nakazywania administratorowi danych lub podmiotowi przetwarzającemu albo ich przedstawicielom dostarczenia wszelkich informacji potrzebnych do realizacji zadań tych organów; zawiadamiania administratora danych lub podmiotu przetwarzającego o podejrzeniu naruszenia przepisów rozporządzenia 2016/679; uzyskiwania od administratora danych lub podmiotu przetwarzającego dostępu do danych osobowych i informacji niezbędnych do realizacji zadań organu nadzorczego; uzyskiwania dostępu do pomieszczeń administratora danych lub podmiotu przetwarzającego, w tym do sprzętu i środków służących do przetwarzania danych; wydawania ostrzeżeń administratorowi danych lub podmiotowi przetwarzającemu, dotyczących możliwości naruszenia przepisów rozporządzenia 2016/679; udzielania upomnień administratorowi danych lub podmiotowi przetwarzającemu w przypadku naruszenia przepisów rozporządzenia 2016/679; wzywania administratora danych lub podmiotu przetwarzającego do dostosowania przetwarzania danych do przepisów rozporządzenia 2016/679. Do przyjmowania i rozpatrywania skarg związanych z przetwarzaniem danych osobowych przez izby morskie stosuje się odpowiednio przepisy działu I rozdziału 5a ustawy z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych ."
+    },
+    {
+      "provision_ref": "art19bu1p1",
+      "section": "19b",
+      "title": "Art. 19b ust. 1 pkt 1",
+      "content": "Nadzór nad przetwarzaniem danych osobowych w postępowaniach przed izbami morskimi sprawują: w zakresie działalności Izby Morskiej w Gdańsku i Izby Morskiej w Szczecinie - Przewodniczący Odwoławczej Izby Morskiej;"
+    },
+    {
+      "provision_ref": "art19bu1p2",
+      "section": "19b",
+      "title": "Art. 19b ust. 1 pkt 2",
+      "content": "Nadzór nad przetwarzaniem danych osobowych w postępowaniach przed izbami morskimi sprawują: w zakresie działalności Odwoławczej Izby Morskiej - Prezes Sądu Okręgowego w Gdańsku."
+    },
+    {
+      "provision_ref": "art19bu2p1",
+      "section": "19b",
+      "title": "Art. 19b ust. 2 pkt 1",
+      "content": "W ramach nadzoru, o którym mowa w ust. 1, właściwe organy: rozpatrują skargi związane z przetwarzaniem danych osobowych;"
+    },
+    {
+      "provision_ref": "art19bu2p2",
+      "section": "19b",
+      "title": "Art. 19b ust. 2 pkt 2",
+      "content": "W ramach nadzoru, o którym mowa w ust. 1, właściwe organy: podejmują działania mające na celu upowszechnianie wśród nadzorowanych administratorów danych i podmiotów przetwarzających wiedzy o obowiązkach wynikających z rozporządzenia 2016/679;"
+    },
+    {
+      "provision_ref": "art19bu2p3",
+      "section": "19b",
+      "title": "Art. 19b ust. 2 pkt 3",
+      "content": "W ramach nadzoru, o którym mowa w ust. 1, właściwe organy: współpracują z innymi organami sprawującymi nadzór nad przetwarzaniem danych osobowych w ramach postępowań prowadzonych przez sądy i trybunały oraz z organami nadzorczymi w rozumieniu art. 51 ust. 1 rozporządzenia 2016/679, w tym dzielą się informacjami oraz świadczą wzajemną pomoc, w celu zapewnienia spójnego stosowania rozporządzenia 2016/679."
+    },
+    {
+      "provision_ref": "art19bu3p1",
+      "section": "19b",
+      "title": "Art. 19b ust. 3 pkt 1",
+      "content": "Organy, o których mowa w ust. 1, są uprawnione do: nakazywania administratorowi danych lub podmiotowi przetwarzającemu albo ich przedstawicielom dostarczenia wszelkich informacji potrzebnych do realizacji zadań tych organów;"
+    },
+    {
+      "provision_ref": "art19bu3p2",
+      "section": "19b",
+      "title": "Art. 19b ust. 3 pkt 2",
+      "content": "Organy, o których mowa w ust. 1, są uprawnione do: zawiadamiania administratora danych lub podmiotu przetwarzającego o podejrzeniu naruszenia przepisów rozporządzenia 2016/679;"
+    },
+    {
+      "provision_ref": "art19bu3p3",
+      "section": "19b",
+      "title": "Art. 19b ust. 3 pkt 3",
+      "content": "Organy, o których mowa w ust. 1, są uprawnione do: uzyskiwania od administratora danych lub podmiotu przetwarzającego dostępu do danych osobowych i informacji niezbędnych do realizacji zadań organu nadzorczego;"
+    },
+    {
+      "provision_ref": "art19bu3p4",
+      "section": "19b",
+      "title": "Art. 19b ust. 3 pkt 4",
+      "content": "Organy, o których mowa w ust. 1, są uprawnione do: uzyskiwania dostępu do pomieszczeń administratora danych lub podmiotu przetwarzającego, w tym do sprzętu i środków służących do przetwarzania danych;"
+    },
+    {
+      "provision_ref": "art19bu3p5",
+      "section": "19b",
+      "title": "Art. 19b ust. 3 pkt 5",
+      "content": "Organy, o których mowa w ust. 1, są uprawnione do: wydawania ostrzeżeń administratorowi danych lub podmiotowi przetwarzającemu, dotyczących możliwości naruszenia przepisów rozporządzenia 2016/679;"
+    },
+    {
+      "provision_ref": "art19bu3p6",
+      "section": "19b",
+      "title": "Art. 19b ust. 3 pkt 6",
+      "content": "Organy, o których mowa w ust. 1, są uprawnione do: udzielania upomnień administratorowi danych lub podmiotowi przetwarzającemu w przypadku naruszenia przepisów rozporządzenia 2016/679;"
+    },
+    {
+      "provision_ref": "art19bu3p7",
+      "section": "19b",
+      "title": "Art. 19b ust. 3 pkt 7",
+      "content": "Organy, o których mowa w ust. 1, są uprawnione do: wzywania administratora danych lub podmiotu przetwarzającego do dostosowania przetwarzania danych do przepisów rozporządzenia 2016/679."
+    },
+    {
+      "provision_ref": "art19bu4",
+      "section": "19b",
+      "title": "Art. 19b ust. 4",
+      "content": "Do przyjmowania i rozpatrywania skarg związanych z przetwarzaniem danych osobowych przez izby morskie stosuje się odpowiednio przepisy działu I rozdziału 5a ustawy z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych ."
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Art. 20",
-      "content": "O ile przepisy ustawy niniejszej nie stanowią inaczej, do postępowania przed izbami morskimi w sprawach wypadków morskich stosuje się odpowiednio przepisy kodeksu postępowania karnego."
+      "content": "O ile przepisy ustawy niniejszej nie stanowią inaczej, do postępowania przed izbami morskimi w sprawach wypadków morskich stosuje się odpowiednio przepisy kodeksu postępowania karnego ."
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Art. 21",
-      "content": "Urzędy morskie oraz inne organy państwowe obowiązane są o wypadku morskim niezwłocznie zawiadomić izbę morską, zabezpieczyć ślady i dowody, a w przypadkach nie cierpiących zwłoki dokonać czynności koniecznych dla wstępnego ustalenia stanu faktycznego, przekazać izbie morskiej materiał dotyczący wypadku oraz w zakresie pomocy prawnej załatwiać wezwania izb morskich. Jeżeli organem określonym w ust. 1 jest polski urząd konsularny, jest on obowiązany po otrzymaniu wiadomości o wypadku morskim przedsięwziąć niezwłocznie w ramach swoich uprawnień czynności, o których mowa w ust. 1. Armator i kapitan statku, którego dotyczy wypadek morski, obowiązani są niezwłocznie zawiadamiać o każdym wypadku morskim kapitanat (bosmanat) pierwszego polskiego portu, do którego statek ma wejść po wypadku, oraz izbę morską, zabezpieczyć ślady i dowody dla wstępnego ustalenia stanu faktycznego oraz na żądanie kapitanatu (bosmanatu) portu i izby morskiej udzielać wszelkich wyjaśnień. Organy Marynarki Wojennej, Wojsk Ochrony Pogranicza i prokuratury wojskowej w sprawie toczącej się przed izbą morską nie są obowiązane do udzielania wiadomości, dokumentów i innych danych, jeżeli może to doprowadzić do ujawnienia tajemnicy państwowej w zakresie obronności kraju."
+      "content": "Organy administracji morskiej oraz inne organy władzy publicznej są obowiązane: (uchylony) zabezpieczyć ślady i dowody; w przypadkach niecierpiących zwłoki dokonać czynności koniecznych do wstępnego ustalenia stanu faktycznego; przekazać izbie morskiej, na jej żądanie, materiał dotyczący wypadku oraz wykonywać czynności w drodze pomocy prawnej. Konsul Rzeczypospolitej Polskiej jest obowiązany, po otrzymaniu wiadomości o wypadku morskim, przedsięwziąć niezwłocznie w ramach swoich uprawnień czynności, o których mowa w ust. 1. (uchylony) (uchylony) (uchylony) Organy Marynarki Wojennej, Straży Granicznej, Policji i prokuratury w sprawie toczącej się przed izbą morską nie są obowiązane do udzielania informacji, udostępniania dokumentów i innych danych, jeżeli może to doprowadzić do ujawnienia informacji niejawnych."
     },
     {
-      "provision_ref": "art21u1",
+      "provision_ref": "art21u1p1",
       "section": "21",
-      "title": "Art. 21 ust. 1",
-      "content": "Urzędy morskie oraz inne organy państwowe obowiązane są o wypadku morskim niezwłocznie zawiadomić izbę morską, zabezpieczyć ślady i dowody, a w przypadkach nie cierpiących zwłoki dokonać czynności koniecznych dla wstępnego ustalenia stanu faktycznego, przekazać izbie morskiej materiał dotyczący wypadku oraz w zakresie pomocy prawnej załatwiać wezwania izb morskich."
+      "title": "Art. 21 ust. 1 pkt 1",
+      "content": "Organy administracji morskiej oraz inne organy władzy publicznej są obowiązane: (uchylony)"
+    },
+    {
+      "provision_ref": "art21u1p2",
+      "section": "21",
+      "title": "Art. 21 ust. 1 pkt 2",
+      "content": "Organy administracji morskiej oraz inne organy władzy publicznej są obowiązane: zabezpieczyć ślady i dowody;"
+    },
+    {
+      "provision_ref": "art21u1p3",
+      "section": "21",
+      "title": "Art. 21 ust. 1 pkt 3",
+      "content": "Organy administracji morskiej oraz inne organy władzy publicznej są obowiązane: w przypadkach niecierpiących zwłoki dokonać czynności koniecznych do wstępnego ustalenia stanu faktycznego;"
+    },
+    {
+      "provision_ref": "art21u1p4",
+      "section": "21",
+      "title": "Art. 21 ust. 1 pkt 4",
+      "content": "Organy administracji morskiej oraz inne organy władzy publicznej są obowiązane: przekazać izbie morskiej, na jej żądanie, materiał dotyczący wypadku oraz"
+    },
+    {
+      "provision_ref": "art21u1p5",
+      "section": "21",
+      "title": "Art. 21 ust. 1 pkt 5",
+      "content": "Organy administracji morskiej oraz inne organy władzy publicznej są obowiązane: wykonywać czynności w drodze pomocy prawnej."
     },
     {
       "provision_ref": "art21u2",
       "section": "21",
       "title": "Art. 21 ust. 2",
-      "content": "Jeżeli organem określonym w ust. 1 jest polski urząd konsularny, jest on obowiązany po otrzymaniu wiadomości o wypadku morskim przedsięwziąć niezwłocznie w ramach swoich uprawnień czynności, o których mowa w ust. 1."
+      "content": "Konsul Rzeczypospolitej Polskiej jest obowiązany, po otrzymaniu wiadomości o wypadku morskim, przedsięwziąć niezwłocznie w ramach swoich uprawnień czynności, o których mowa w ust. 1."
     },
     {
       "provision_ref": "art21u3",
       "section": "21",
       "title": "Art. 21 ust. 3",
-      "content": "Armator i kapitan statku, którego dotyczy wypadek morski, obowiązani są niezwłocznie zawiadamiać o każdym wypadku morskim kapitanat (bosmanat) pierwszego polskiego portu, do którego statek ma wejść po wypadku, oraz izbę morską, zabezpieczyć ślady i dowody dla wstępnego ustalenia stanu faktycznego oraz na żądanie kapitanatu (bosmanatu) portu i izby morskiej udzielać wszelkich wyjaśnień."
+      "content": "(uchylony)"
+    },
+    {
+      "provision_ref": "art21u3a",
+      "section": "21",
+      "title": "Art. 21 ust. 3a",
+      "content": "(uchylony)"
+    },
+    {
+      "provision_ref": "art21u3b",
+      "section": "21",
+      "title": "Art. 21 ust. 3b",
+      "content": "(uchylony)"
     },
     {
       "provision_ref": "art21u4",
       "section": "21",
       "title": "Art. 21 ust. 4",
-      "content": "Organy Marynarki Wojennej, Wojsk Ochrony Pogranicza i prokuratury wojskowej w sprawie toczącej się przed izbą morską nie są obowiązane do udzielania wiadomości, dokumentów i innych danych, jeżeli może to doprowadzić do ujawnienia tajemnicy państwowej w zakresie obronności kraju."
+      "content": "Organy Marynarki Wojennej, Straży Granicznej, Policji i prokuratury w sprawie toczącej się przed izbą morską nie są obowiązane do udzielania informacji, udostępniania dokumentów i innych danych, jeżeli może to doprowadzić do ujawnienia informacji niejawnych."
     },
     {
       "provision_ref": "art22",
       "section": "22",
       "title": "Art. 22",
-      "content": "Izba morska wszczyna postępowanie z urzędu albo na wniosek delegata lub zainteresowanego. Wszczęcie postępowania następuje z urzędu, gdy: statek zatonął, zaginął, został opuszczony lub w inny sposób utracony, w wypadku morskim nastąpiło ciężkie uszkodzenie ciała, rozstrój zdrowia lub śmierć człowieka, izba morska uzna, że interes publiczny wymaga rozpoznania sprawy."
+      "content": "Izba morska wszczyna postępowanie na wniosek zainteresowanego lub organu administracji morskiej."
     },
     {
-      "provision_ref": "art22u1",
-      "section": "22",
-      "title": "Art. 22 ust. 1",
-      "content": "Izba morska wszczyna postępowanie z urzędu albo na wniosek delegata lub zainteresowanego."
-    },
-    {
-      "provision_ref": "art22u2p1",
-      "section": "22",
-      "title": "Art. 22 ust. 2 pkt 1",
-      "content": "Wszczęcie postępowania następuje z urzędu, gdy: statek zatonął, zaginął, został opuszczony lub w inny sposób utracony,"
-    },
-    {
-      "provision_ref": "art22u2p2",
-      "section": "22",
-      "title": "Art. 22 ust. 2 pkt 2",
-      "content": "Wszczęcie postępowania następuje z urzędu, gdy: w wypadku morskim nastąpiło ciężkie uszkodzenie ciała, rozstrój zdrowia lub śmierć człowieka,"
-    },
-    {
-      "provision_ref": "art22u2p3",
-      "section": "22",
-      "title": "Art. 22 ust. 2 pkt 3",
-      "content": "Wszczęcie postępowania następuje z urzędu, gdy: izba morska uzna, że interes publiczny wymaga rozpoznania sprawy."
+      "provision_ref": "art22a",
+      "section": "22a",
+      "title": "Art. 22a",
+      "content": "(uchylony)"
     },
     {
       "provision_ref": "art23",
       "section": "23",
       "title": "Art. 23",
-      "content": "Izba morska może, po wypowiedzeniu się delegata, odmówić wszczęcia postępowania lub wszczęte postępowanie umorzyć, jeżeli rozpoznanie sprawy byłoby niecelowe ze względu na brak interesu publicznego. W sprawach, w których wszczęcie postępowania następuje z urzędu, odmowa wszczęcia i umorzenie postępowania wymaga zgody delegata. Postanowienie o odmowie wszczęcia lub o umorzeniu postępowania doręcza się delegatowi oraz zainteresowanemu, który wniósł o rozpoznanie sprawy. W sprawach określonych w art. 15 ust. 4 uprawnienia delegata wynikające z przepisów ust. 1-3 przysługują odpowiednio technicznemu inspektorowi pracy."
+      "content": "Izba morska może, po wypowiedzeniu się delegata, odmówić wszczęcia postępowania lub wszczęte postępowanie umorzyć, jeżeli rozpoznanie sprawy byłoby niecelowe ze względu na brak interesu publicznego. (uchylony) Postanowienie o odmowie wszczęcia lub o umorzeniu postępowania doręcza się delegatowi oraz zainteresowanemu, który wniósł o rozpoznanie sprawy. W sprawach określonych w art. 15 ust. 4 uprawnienia delegata wynikające z przepisów ust. 1 i 3 przysługują odpowiednio państwowemu inspektorowi pracy."
     },
     {
       "provision_ref": "art23u1",
@@ -463,7 +655,7 @@
       "provision_ref": "art23u2",
       "section": "23",
       "title": "Art. 23 ust. 2",
-      "content": "W sprawach, w których wszczęcie postępowania następuje z urzędu, odmowa wszczęcia i umorzenie postępowania wymaga zgody delegata."
+      "content": "(uchylony)"
     },
     {
       "provision_ref": "art23u3",
@@ -475,19 +667,25 @@
       "provision_ref": "art23u4",
       "section": "23",
       "title": "Art. 23 ust. 4",
-      "content": "W sprawach określonych w art. 15 ust. 4 uprawnienia delegata wynikające z przepisów ust. 1-3 przysługują odpowiednio technicznemu inspektorowi pracy."
+      "content": "W sprawach określonych w art. 15 ust. 4 uprawnienia delegata wynikające z przepisów ust. 1 i 3 przysługują odpowiednio państwowemu inspektorowi pracy."
     },
     {
       "provision_ref": "art24",
       "section": "24",
       "title": "Art. 24",
-      "content": "Zainteresowani są w każdym razie armator i kapitan statku, którego dotyczy wypadek morski, oraz osoby podejrzane o zawinienie wypadku morskiego lub o błędne zachowanie, które przyczyniło się do wypadku."
+      "content": "Zainteresowanym w sprawie jest każdy, czyjego interesu prawnego dotyczy wypadek morski."
+    },
+    {
+      "provision_ref": "art24a",
+      "section": "24a",
+      "title": "Art. 24a",
+      "content": "(uchylony)"
     },
     {
       "provision_ref": "art25",
       "section": "25",
       "title": "Art. 25",
-      "content": "Zainteresowany ma prawo korzystać w każdym stanie sprawy z pomocy wybranego przez siebie pełnomocnika. Pełnomocnikiem może być pracownik zainteresowanego, członek związku zawodowego, do którego zainteresowany należy, lub adwokat."
+      "content": "Zainteresowany ma prawo korzystać w każdym stanie sprawy z pomocy wybranego przez siebie pełnomocnika. Pełnomocnikiem może być adwokat, radca prawny, pracownik zainteresowanego, członek związku lub stowarzyszenia zawodowego zrzeszającego osoby posiadające kwalifikacje zawodowe w żegludze morskiej."
     },
     {
       "provision_ref": "art25u1",
@@ -499,7 +697,13 @@
       "provision_ref": "art25u2",
       "section": "25",
       "title": "Art. 25 ust. 2",
-      "content": "Pełnomocnikiem może być pracownik zainteresowanego, członek związku zawodowego, do którego zainteresowany należy, lub adwokat."
+      "content": "Pełnomocnikiem może być adwokat, radca prawny, pracownik zainteresowanego, członek związku lub stowarzyszenia zawodowego zrzeszającego osoby posiadające kwalifikacje zawodowe w żegludze morskiej."
+    },
+    {
+      "provision_ref": "art25a",
+      "section": "25a",
+      "title": "Art. 25a",
+      "content": "(uchylony)"
     },
     {
       "provision_ref": "art26",
@@ -529,67 +733,139 @@
       "provision_ref": "art27",
       "section": "27",
       "title": "Art. 27",
-      "content": "Po wszczęciu postępowania izba morska przeprowadza dochodzenie bezpośrednio przez przewodniczącego lub wiceprzewodniczącego albo za pośrednictwem kapitanatu (bosmanatu) portu. Minister Żeglugi określi obowiązki kapitanatów (bosmanatów) portu w zakresie prowadzenia dochodzeń w sprawach wypadków morskich."
+      "content": "Po wszczęciu postępowania izba morska przeprowadza dochodzenie bezpośrednio przez inspektora dochodzeniowego albo za pośrednictwem kapitanatu (bosmanatu) portu. Minister właściwy do spraw gospodarki morskiej określi, w drodze rozporządzenia, obowiązki kapitanatów (bosmanatów) portów w zakresie prowadzenia dochodzeń w sprawach wypadków morskich w celu wyjaśnienia wszystkich okoliczności wypadku."
     },
     {
       "provision_ref": "art27u1",
       "section": "27",
       "title": "Art. 27 ust. 1",
-      "content": "Po wszczęciu postępowania izba morska przeprowadza dochodzenie bezpośrednio przez przewodniczącego lub wiceprzewodniczącego albo za pośrednictwem kapitanatu (bosmanatu) portu."
+      "content": "Po wszczęciu postępowania izba morska przeprowadza dochodzenie bezpośrednio przez inspektora dochodzeniowego albo za pośrednictwem kapitanatu (bosmanatu) portu."
     },
     {
       "provision_ref": "art27u2",
       "section": "27",
       "title": "Art. 27 ust. 2",
-      "content": "Minister Żeglugi określi obowiązki kapitanatów (bosmanatów) portu w zakresie prowadzenia dochodzeń w sprawach wypadków morskich."
+      "content": "Minister właściwy do spraw gospodarki morskiej określi, w drodze rozporządzenia, obowiązki kapitanatów (bosmanatów) portów w zakresie prowadzenia dochodzeń w sprawach wypadków morskich w celu wyjaśnienia wszystkich okoliczności wypadku."
     },
     {
       "provision_ref": "art28",
       "section": "28",
       "title": "Art. 28",
-      "content": "Dochodzenie ma na celu wyjaśnienie przebiegu, przyczyn i okoliczności wypadku morskiego przez zebranie potrzebnych wiadomości i utrwalenie śladów i dowodów. Armator i kapitan statku obowiązani są na wezwanie izby morskiej udzielić wyjaśnień o statku, w szczególności o składzie jego załogi, miejscu pobytu statku i członków załogi lub o terminach przybycia statku do polskiego portu i o wysokości szkody, oraz przedłożyć izbie użyte w danej podróży mapy morskie, dzienniki i inne dokumenty potrzebne do wyjaśnienia okoliczności wypadku."
+      "content": "Dochodzeniem w rozumieniu ustawy są czynności w celu utrwalenia śladów i dowodów oraz umożliwienia przeprowadzenia rozprawy przez wstępne wyjaśnienie przebiegu, przyczyn i okoliczności wypadku morskiego i ustalenie kręgu zainteresowanych oraz świadków. Z zastrzeżeniem art. 20, każda osoba wezwana w charakterze świadka ma obowiązek stawić się i złożyć zeznania w dochodzeniu. Rzeczy mogące stanowić dowód w sprawie należy wydać na żądanie izby morskiej, a w wypadkach niecierpiących zwłoki - także na żądanie inspektora dochodzeniowego lub kapitanatu (bosmanatu) portu. Armator i kapitan statku obowiązani są na wezwanie prowadzącego dochodzenie udzielić wyjaśnień o statku, w szczególności o składzie jego załogi, miejscu pobytu statku i członków załogi lub o terminach przybycia statku do polskiego portu i o wysokości szkody, oraz przedłożyć użyte w danej podróży mapy morskie, dzienniki i inne dokumenty lub dane gromadzone w formie elektronicznej potrzebne do wyjaśnienia okoliczności wypadku. Izba morska jest upoważniona do: dostępu i badania miejsca wypadku, statku, jego szczątków i zawartości; sporządzania spisów oraz czasowego przejmowania części statków i innych rzeczy wymagających zbadania; dostępu do rejestratorów pokładowych i ich odczytów, a także innych zapisów; zapoznania się z wynikami postępowań i badań przeprowadzanych przez inne podmioty; uzyskania informacji i dostępu do dokumentacji użytkownika statku, producenta i innych osób lub jednostek organizacyjnych w zakresie niezbędnym dla ustalenia przyczyny wypadku. Uprawnienie, o którym mowa w ust. 5 pkt 1, obejmuje także prawo wstępu do wszystkich części portu. Prowadzący dochodzenie na zlecenie izby morskiej korzysta z uprawnień, o których mowa w ust. 5 i 6, jest też uprawniony do: przesłuchiwania świadków; zapoznawania się z zeznaniami w innych postępowaniach i udziału w przesłuchiwaniu świadków. Przepisy ust. 2-7 nie naruszają przepisów ustawy z dnia 31 sierpnia 2012 r. o Państwowej Komisji Badania Wypadków Morskich ."
     },
     {
       "provision_ref": "art28u1",
       "section": "28",
       "title": "Art. 28 ust. 1",
-      "content": "Dochodzenie ma na celu wyjaśnienie przebiegu, przyczyn i okoliczności wypadku morskiego przez zebranie potrzebnych wiadomości i utrwalenie śladów i dowodów."
+      "content": "Dochodzeniem w rozumieniu ustawy są czynności w celu utrwalenia śladów i dowodów oraz umożliwienia przeprowadzenia rozprawy przez wstępne wyjaśnienie przebiegu, przyczyn i okoliczności wypadku morskiego i ustalenie kręgu zainteresowanych oraz świadków."
     },
     {
       "provision_ref": "art28u2",
       "section": "28",
       "title": "Art. 28 ust. 2",
-      "content": "Armator i kapitan statku obowiązani są na wezwanie izby morskiej udzielić wyjaśnień o statku, w szczególności o składzie jego załogi, miejscu pobytu statku i członków załogi lub o terminach przybycia statku do polskiego portu i o wysokości szkody, oraz przedłożyć izbie użyte w danej podróży mapy morskie, dzienniki i inne dokumenty potrzebne do wyjaśnienia okoliczności wypadku."
+      "content": "Z zastrzeżeniem art. 20, każda osoba wezwana w charakterze świadka ma obowiązek stawić się i złożyć zeznania w dochodzeniu."
+    },
+    {
+      "provision_ref": "art28u3",
+      "section": "28",
+      "title": "Art. 28 ust. 3",
+      "content": "Rzeczy mogące stanowić dowód w sprawie należy wydać na żądanie izby morskiej, a w wypadkach niecierpiących zwłoki - także na żądanie inspektora dochodzeniowego lub kapitanatu (bosmanatu) portu."
+    },
+    {
+      "provision_ref": "art28u4",
+      "section": "28",
+      "title": "Art. 28 ust. 4",
+      "content": "Armator i kapitan statku obowiązani są na wezwanie prowadzącego dochodzenie udzielić wyjaśnień o statku, w szczególności o składzie jego załogi, miejscu pobytu statku i członków załogi lub o terminach przybycia statku do polskiego portu i o wysokości szkody, oraz przedłożyć użyte w danej podróży mapy morskie, dzienniki i inne dokumenty lub dane gromadzone w formie elektronicznej potrzebne do wyjaśnienia okoliczności wypadku."
+    },
+    {
+      "provision_ref": "art28u5p1",
+      "section": "28",
+      "title": "Art. 28 ust. 5 pkt 1",
+      "content": "Izba morska jest upoważniona do: dostępu i badania miejsca wypadku, statku, jego szczątków i zawartości;"
+    },
+    {
+      "provision_ref": "art28u5p2",
+      "section": "28",
+      "title": "Art. 28 ust. 5 pkt 2",
+      "content": "Izba morska jest upoważniona do: sporządzania spisów oraz czasowego przejmowania części statków i innych rzeczy wymagających zbadania;"
+    },
+    {
+      "provision_ref": "art28u5p3",
+      "section": "28",
+      "title": "Art. 28 ust. 5 pkt 3",
+      "content": "Izba morska jest upoważniona do: dostępu do rejestratorów pokładowych i ich odczytów, a także innych zapisów;"
+    },
+    {
+      "provision_ref": "art28u5p4",
+      "section": "28",
+      "title": "Art. 28 ust. 5 pkt 4",
+      "content": "Izba morska jest upoważniona do: zapoznania się z wynikami postępowań i badań przeprowadzanych przez inne podmioty;"
+    },
+    {
+      "provision_ref": "art28u5p5",
+      "section": "28",
+      "title": "Art. 28 ust. 5 pkt 5",
+      "content": "Izba morska jest upoważniona do: uzyskania informacji i dostępu do dokumentacji użytkownika statku, producenta i innych osób lub jednostek organizacyjnych w zakresie niezbędnym dla ustalenia przyczyny wypadku."
+    },
+    {
+      "provision_ref": "art28u6",
+      "section": "28",
+      "title": "Art. 28 ust. 6",
+      "content": "Uprawnienie, o którym mowa w ust. 5 pkt 1, obejmuje także prawo wstępu do wszystkich części portu."
+    },
+    {
+      "provision_ref": "art28u7p1",
+      "section": "28",
+      "title": "Art. 28 ust. 7 pkt 1",
+      "content": "Prowadzący dochodzenie na zlecenie izby morskiej korzysta z uprawnień, o których mowa w ust. 5 i 6, jest też uprawniony do: przesłuchiwania świadków;"
+    },
+    {
+      "provision_ref": "art28u7p2",
+      "section": "28",
+      "title": "Art. 28 ust. 7 pkt 2",
+      "content": "Prowadzący dochodzenie na zlecenie izby morskiej korzysta z uprawnień, o których mowa w ust. 5 i 6, jest też uprawniony do: zapoznawania się z zeznaniami w innych postępowaniach i udziału w przesłuchiwaniu świadków."
+    },
+    {
+      "provision_ref": "art28u8",
+      "section": "28",
+      "title": "Art. 28 ust. 8",
+      "content": "Przepisy ust. 2-7 nie naruszają przepisów ustawy z dnia 31 sierpnia 2012 r. o Państwowej Komisji Badania Wypadków Morskich ."
+    },
+    {
+      "provision_ref": "art28a",
+      "section": "28a",
+      "title": "Art. 28a",
+      "content": "(uchylony)"
     },
     {
       "provision_ref": "art29",
       "section": "29",
       "title": "Art. 29",
-      "content": "Jeżeli przewodniczący izby morskiej uzna, że dochodzenie dostarczyło podstaw do przeprowadzenia rozprawy, wyznacza termin rozprawy, zawiadamia o nim delegata i w miarę możności znanych izbie zainteresowanych oraz urządza wezwanie świadków, a w razie potrzeby biegłych i tłumaczy. Jeżeli sprawa dotyczy wypadku określonego w art. 15 ust. 4, przewodniczący izby morskiej zawiadamia również technicznego inspektora pracy. Niestawiennictwo delegata, technicznego inspektora pracy lub zainteresowanego nie wstrzymuje rozpoznania sprawy, chyba że izba morska uzna obecność ich na rozprawie za niezbędną."
+      "content": "Jeżeli przewodniczący izby morskiej uzna, że dochodzenie dostarczyło podstaw do przeprowadzenia rozprawy, wyznacza termin rozprawy, zawiadamia o nim delegata i w miarę możności znanych izbie zainteresowanych oraz zarządza wezwanie świadków, a w razie potrzeby biegłych i tłumaczy. Jeżeli sprawa dotyczy wypadku określonego w art. 15 ust. 4, przewodniczący izby morskiej zawiadamia również państwowego inspektora pracy. Niestawiennictwo delegata, państwowego inspektora pracy lub zainteresowanego nie wstrzymuje rozpoznania sprawy, chyba że izba morska uzna obecność ich na rozprawie za niezbędną."
     },
     {
       "provision_ref": "art29u1",
       "section": "29",
       "title": "Art. 29 ust. 1",
-      "content": "Jeżeli przewodniczący izby morskiej uzna, że dochodzenie dostarczyło podstaw do przeprowadzenia rozprawy, wyznacza termin rozprawy, zawiadamia o nim delegata i w miarę możności znanych izbie zainteresowanych oraz urządza wezwanie świadków, a w razie potrzeby biegłych i tłumaczy."
+      "content": "Jeżeli przewodniczący izby morskiej uzna, że dochodzenie dostarczyło podstaw do przeprowadzenia rozprawy, wyznacza termin rozprawy, zawiadamia o nim delegata i w miarę możności znanych izbie zainteresowanych oraz zarządza wezwanie świadków, a w razie potrzeby biegłych i tłumaczy."
     },
     {
       "provision_ref": "art29u2",
       "section": "29",
       "title": "Art. 29 ust. 2",
-      "content": "Jeżeli sprawa dotyczy wypadku określonego w art. 15 ust. 4, przewodniczący izby morskiej zawiadamia również technicznego inspektora pracy."
+      "content": "Jeżeli sprawa dotyczy wypadku określonego w art. 15 ust. 4, przewodniczący izby morskiej zawiadamia również państwowego inspektora pracy."
     },
     {
       "provision_ref": "art29u3",
       "section": "29",
       "title": "Art. 29 ust. 3",
-      "content": "Niestawiennictwo delegata, technicznego inspektora pracy lub zainteresowanego nie wstrzymuje rozpoznania sprawy, chyba że izba morska uzna obecność ich na rozprawie za niezbędną."
+      "content": "Niestawiennictwo delegata, państwowego inspektora pracy lub zainteresowanego nie wstrzymuje rozpoznania sprawy, chyba że izba morska uzna obecność ich na rozprawie za niezbędną."
     },
     {
       "provision_ref": "art30",
       "section": "30",
       "title": "Art. 30",
-      "content": "Na wstępie rozprawy przewodniczący przedstawia stan sprawy na podstawie wyników dochodzenia, po czym izba morska wysłuchuje wyjaśnień osób zainteresowanych, a następnie przeprowadza postępowanie dowodowe. Zainteresowany, którego zeznanie może mieć znaczenie dla ustalenia przebiegu i przyczyn wypadku morskiego może być przesłuchany jako świadek. Przed przesłuchaniem należy go uprzedzić o prawie odmowy udzielania odpowiedzi na pytania co do okoliczności, których ujawnienie mogłoby narazić na odpowiedzialność za przestępstwo jego samego lub członków jego najbliższej rodziny. Delegatowi, technicznemu inspektorowi pracy i zainteresowanym służy prawo zadawania pytań przesłuchiwanym świadkom i biegłym oraz zgłaszania wniosków dowodowych."
+      "content": "Na wstępie rozprawy przewodniczący przedstawia stan sprawy na podstawie wyników dochodzenia, po czym izba morska wysłuchuje wyjaśnień osób zainteresowanych, a następnie przeprowadza postępowanie dowodowe. Zainteresowany, którego zeznanie może mieć znaczenie dla ustalenia przebiegu i przyczyn wypadku morskiego, może być przesłuchany jako świadek. Przed przesłuchaniem należy go uprzedzić o prawie odmowy udzielania odpowiedzi na pytania co do okoliczności, których ujawnienie mogłoby narazić na odpowiedzialność za przestępstwo jego samego lub członków jego najbliższej rodziny. Delegatowi, państwowemu inspektorowi pracy i zainteresowanym służy prawo zadawania pytań przesłuchiwanym świadkom i biegłym oraz zgłaszania wniosków dowodowych."
     },
     {
       "provision_ref": "art30u1",
@@ -601,13 +877,13 @@
       "provision_ref": "art30u2",
       "section": "30",
       "title": "Art. 30 ust. 2",
-      "content": "Zainteresowany, którego zeznanie może mieć znaczenie dla ustalenia przebiegu i przyczyn wypadku morskiego może być przesłuchany jako świadek. Przed przesłuchaniem należy go uprzedzić o prawie odmowy udzielania odpowiedzi na pytania co do okoliczności, których ujawnienie mogłoby narazić na odpowiedzialność za przestępstwo jego samego lub członków jego najbliższej rodziny."
+      "content": "Zainteresowany, którego zeznanie może mieć znaczenie dla ustalenia przebiegu i przyczyn wypadku morskiego, może być przesłuchany jako świadek. Przed przesłuchaniem należy go uprzedzić o prawie odmowy udzielania odpowiedzi na pytania co do okoliczności, których ujawnienie mogłoby narazić na odpowiedzialność za przestępstwo jego samego lub członków jego najbliższej rodziny."
     },
     {
       "provision_ref": "art30u3",
       "section": "30",
       "title": "Art. 30 ust. 3",
-      "content": "Delegatowi, technicznemu inspektorowi pracy i zainteresowanym służy prawo zadawania pytań przesłuchiwanym świadkom i biegłym oraz zgłaszania wniosków dowodowych."
+      "content": "Delegatowi, państwowemu inspektorowi pracy i zainteresowanym służy prawo zadawania pytań przesłuchiwanym świadkom i biegłym oraz zgłaszania wniosków dowodowych."
     },
     {
       "provision_ref": "art31",
@@ -625,7 +901,7 @@
       "provision_ref": "art33",
       "section": "33",
       "title": "Art. 33",
-      "content": "Po zakończeniu postępowania dowodowego przewodniczący udziela głosu najpierw delegatowi, który zgłasza i uzasadnia swoje wnioski co do orzeczenia, następnie technicznemu inspektorowi pracy, jeżeli uczestniczy w rozprawie, oraz obecnym pełnomocnikom zainteresowanych i samym zainteresowanym."
+      "content": "Po zakończeniu postępowania dowodowego przewodniczący udziela głosu najpierw delegatowi, który zgłasza i uzasadnia swoje wnioski co do orzeczenia, następnie państwowemu inspektorowi pracy, jeżeli uczestniczy w rozprawie, oraz obecnym pełnomocnikom zainteresowanych i samym zainteresowanym."
     },
     {
       "provision_ref": "art34",
@@ -637,79 +913,91 @@
       "provision_ref": "art35",
       "section": "35",
       "title": "Art. 35",
-      "content": "Izba morska może w orzeczeniu pozbawić na czas oznaczony lub na zawsze prawa wykonywania zawodu lub prawa wykonywania określonych funkcji członka załogi polskiego statku lub polskiego pilota, który w związku z wypadkiem morskim wykazał brak kwalifikacji niezbędnych do wykonywania czynności związanych z tymi funkcjami bądź do wykonywania zawodu albo przez rażące zaniedbania przyczynił się do powstania wypadku. Orzeczenie w zakresie określonym w ust. 1 jest natychmiast wykonalne. Izba morska może w orzeczeniu uzależnić przywrócenie prawa wykonywania zawodu lub funkcji od pełnienia w ciągu oznaczonego czasu określonej służby morskiej albo od wykazania koniecznych umiejętności w trybie przewidzianym przepisami o kwalifikacjach wymaganych od członków załogi polskiego statku morskiego lub od pilotów morskich. W przypadku wydania orzeczenia pozbawiającego członka załogi lub pilota prawa wykonywania zawodu lub określonych funkcji na czas dłuższy niż dwa lata albo na zawsze, Minister Żeglugi może w uzasadnionych przypadkach, po upływie dwóch lat od wydania orzeczenia, przywrócić prawo, którego członek załogi lub pilot został pozbawiony, jeżeli względy bezpieczeństwa żeglugi nie stają temu na przeszkodzie. Uprawnienia wynikające z przepisu ust. 1 nie przysługują izbom morskim w stosunku do żołnierzy Marynarki Wojennej lub Wojsk Ochrony Pogranicza."
+      "content": "Jeżeli zainteresowany członek załogi statku lub pilot morski, posiadający dokument określający jego uprawnienia w żegludze morskiej wydany przez właściwy organ polski, wykazał brak koniecznych umiejętności niezbędnych do zapewnienia bezpieczeństwa żeglugi morskiej lub przez rażące zaniedbania spowodował wypadek morski lub przyczynił się do jego powstania, izba morska może, w orzeczeniu, pozbawić go prawa wykonywania tych uprawnień w częściowym lub pełnym zakresie na okres od 1 roku do 5 lat. Izba morska może w orzeczeniu uzależnić przywrócenie prawa wykonywania uprawnień w żegludze morskiej od spełnienia przez zainteresowanego co najmniej jednego z następujących warunków: wykonywania określonych niższych uprawnień w żegludze morskiej przez czas oznaczony; wykazania koniecznych umiejętności w trybie przewidzianym przepisami o kwalifikacjach w żegludze morskiej; odbycia w częściowym lub pełnym zakresie praktyki, która była wymagana do uzyskania dotychczasowych uprawnień. Izba morska może na posiedzeniu, w tym samym składzie, w którym orzekła o pozbawieniu zainteresowanego prawa wykonywania uprawnień w żegludze morskiej, postanowić o zawieszeniu prawa wykonywania tych uprawnień przez zainteresowanego do czasu ostatecznego zakończenia postępowania, jeżeli uzasadniają to względy bezpieczeństwa żeglugi. Na postanowienie to zainteresowanemu przysługuje zażalenie. Dokumenty określające uprawnienia w żegludze morskiej członków załóg statków i pilotów oraz organy właściwe do ich wydawania określają odrębne przepisy. Przepisów ust. 1-3 nie stosuje się do członków załóg jednostek pływających Marynarki Wojennej, Straży Granicznej i Policji."
     },
     {
       "provision_ref": "art35u1",
       "section": "35",
       "title": "Art. 35 ust. 1",
-      "content": "Izba morska może w orzeczeniu pozbawić na czas oznaczony lub na zawsze prawa wykonywania zawodu lub prawa wykonywania określonych funkcji członka załogi polskiego statku lub polskiego pilota, który w związku z wypadkiem morskim wykazał brak kwalifikacji niezbędnych do wykonywania czynności związanych z tymi funkcjami bądź do wykonywania zawodu albo przez rażące zaniedbania przyczynił się do powstania wypadku."
+      "content": "Jeżeli zainteresowany członek załogi statku lub pilot morski, posiadający dokument określający jego uprawnienia w żegludze morskiej wydany przez właściwy organ polski, wykazał brak koniecznych umiejętności niezbędnych do zapewnienia bezpieczeństwa żeglugi morskiej lub przez rażące zaniedbania spowodował wypadek morski lub przyczynił się do jego powstania, izba morska może, w orzeczeniu, pozbawić go prawa wykonywania tych uprawnień w częściowym lub pełnym zakresie na okres od 1 roku do 5 lat."
     },
     {
-      "provision_ref": "art35u2",
+      "provision_ref": "art35u2p1",
       "section": "35",
-      "title": "Art. 35 ust. 2",
-      "content": "Orzeczenie w zakresie określonym w ust. 1 jest natychmiast wykonalne."
+      "title": "Art. 35 ust. 2 pkt 1",
+      "content": "Izba morska może w orzeczeniu uzależnić przywrócenie prawa wykonywania uprawnień w żegludze morskiej od spełnienia przez zainteresowanego co najmniej jednego z następujących warunków: wykonywania określonych niższych uprawnień w żegludze morskiej przez czas oznaczony;"
+    },
+    {
+      "provision_ref": "art35u2p2",
+      "section": "35",
+      "title": "Art. 35 ust. 2 pkt 2",
+      "content": "Izba morska może w orzeczeniu uzależnić przywrócenie prawa wykonywania uprawnień w żegludze morskiej od spełnienia przez zainteresowanego co najmniej jednego z następujących warunków: wykazania koniecznych umiejętności w trybie przewidzianym przepisami o kwalifikacjach w żegludze morskiej;"
+    },
+    {
+      "provision_ref": "art35u2p3",
+      "section": "35",
+      "title": "Art. 35 ust. 2 pkt 3",
+      "content": "Izba morska może w orzeczeniu uzależnić przywrócenie prawa wykonywania uprawnień w żegludze morskiej od spełnienia przez zainteresowanego co najmniej jednego z następujących warunków: odbycia w częściowym lub pełnym zakresie praktyki, która była wymagana do uzyskania dotychczasowych uprawnień."
     },
     {
       "provision_ref": "art35u3",
       "section": "35",
       "title": "Art. 35 ust. 3",
-      "content": "Izba morska może w orzeczeniu uzależnić przywrócenie prawa wykonywania zawodu lub funkcji od pełnienia w ciągu oznaczonego czasu określonej służby morskiej albo od wykazania koniecznych umiejętności w trybie przewidzianym przepisami o kwalifikacjach wymaganych od członków załogi polskiego statku morskiego lub od pilotów morskich."
+      "content": "Izba morska może na posiedzeniu, w tym samym składzie, w którym orzekła o pozbawieniu zainteresowanego prawa wykonywania uprawnień w żegludze morskiej, postanowić o zawieszeniu prawa wykonywania tych uprawnień przez zainteresowanego do czasu ostatecznego zakończenia postępowania, jeżeli uzasadniają to względy bezpieczeństwa żeglugi. Na postanowienie to zainteresowanemu przysługuje zażalenie."
     },
     {
       "provision_ref": "art35u4",
       "section": "35",
       "title": "Art. 35 ust. 4",
-      "content": "W przypadku wydania orzeczenia pozbawiającego członka załogi lub pilota prawa wykonywania zawodu lub określonych funkcji na czas dłuższy niż dwa lata albo na zawsze, Minister Żeglugi może w uzasadnionych przypadkach, po upływie dwóch lat od wydania orzeczenia, przywrócić prawo, którego członek załogi lub pilot został pozbawiony, jeżeli względy bezpieczeństwa żeglugi nie stają temu na przeszkodzie."
+      "content": "Dokumenty określające uprawnienia w żegludze morskiej członków załóg statków i pilotów oraz organy właściwe do ich wydawania określają odrębne przepisy."
     },
     {
       "provision_ref": "art35u5",
       "section": "35",
       "title": "Art. 35 ust. 5",
-      "content": "Uprawnienia wynikające z przepisu ust. 1 nie przysługują izbom morskim w stosunku do żołnierzy Marynarki Wojennej lub Wojsk Ochrony Pogranicza."
+      "content": "Przepisów ust. 1-3 nie stosuje się do członków załóg jednostek pływających Marynarki Wojennej, Straży Granicznej i Policji."
     },
     {
       "provision_ref": "art36",
       "section": "36",
       "title": "Art. 36",
-      "content": "Sentencja orzeczenia powinna zawierać: oznaczenie izby morskiej, która wydała orzeczenie, imiona i nazwiska oraz stopnie i tytuły zawodowe (stanowiska służbowe) członków składu orzekającego, datę i miejsce rozpoznania sprawy i wydania orzeczenia, ustalenie czasu, miejsca i rodzaju wypadku morskiego, dokładne ustalenie przyczyn wypadku ze wskazaniem - o ile to możliwe - statku i osób, których wina spowodowała wypadek, oraz z określeniem stopnia, w jakim przyczyniły się do wypadku, albo stwierdzenie uzasadnionych wątpliwości co do przyczyny wypadku bądź stwierdzenie niemożności jej ustalenia, wskazanie ujawnionych wad i braków w budowie statku, jego wyposażeniu, załadowaniu lub obsadzeniu załogą, w stanie toru wodnego lub urządzeniach oznakowania nawigacyjnego oraz uchybień w działalności i wad w organizacji instytucji służących bezpieczeństwu żeglugi morskiej, ocenę prawidłowości zachowania się statku po wypadku oraz w razie potrzeby prawidłowości czynności ratowniczych. Jeżeli izba morska pozbawia członka załogi lub pilota prawa wykonywania określonych funkcji bądź prawa wykonywania zawodu, rozstrzygnięcie o tym powinno być zawarte w sentencji."
+      "content": "Sentencja orzeczenia powinna zawierać: oznaczenie izby morskiej, która wydała orzeczenie; imiona i nazwiska oraz stopnie i tytuły zawodowe (stanowiska służbowe) członków składu orzekającego; datę i miejsce rozpoznania sprawy i wydania orzeczenia; ustalenie czasu, miejsca i rodzaju wypadku morskiego; dokładne ustalenie przyczyn wypadku ze wskazaniem - o ile to możliwe - statku i osób, których wina spowodowała wypadek, oraz z określeniem stopnia, w jakim przyczyniły się do wypadku, albo stwierdzenie uzasadnionych wątpliwości co do przyczyny wypadku bądź stwierdzenie niemożności jej ustalenia; wskazanie ujawnionych wad i braków w budowie statku, jego wyposażeniu, załadowaniu lub obsadzeniu załogą, w stanie toru wodnego lub urządzeniach oznakowania nawigacyjnego oraz uchybień w działalności i wad w organizacji instytucji służących bezpieczeństwu żeglugi morskiej; ocenę prawidłowości zachowania się statku po wypadku oraz w razie potrzeby prawidłowości czynności ratowniczych. Jeżeli izba morska stosuje środek, o którym mowa w art. 35 ust. 1 i 2, rozstrzygnięcie o tym powinno być zawarte w sentencji orzeczenia."
     },
     {
       "provision_ref": "art36u1p1",
       "section": "36",
       "title": "Art. 36 ust. 1 pkt 1",
-      "content": "Sentencja orzeczenia powinna zawierać: oznaczenie izby morskiej, która wydała orzeczenie,"
+      "content": "Sentencja orzeczenia powinna zawierać: oznaczenie izby morskiej, która wydała orzeczenie;"
     },
     {
       "provision_ref": "art36u1p2",
       "section": "36",
       "title": "Art. 36 ust. 1 pkt 2",
-      "content": "Sentencja orzeczenia powinna zawierać: imiona i nazwiska oraz stopnie i tytuły zawodowe (stanowiska służbowe) członków składu orzekającego,"
+      "content": "Sentencja orzeczenia powinna zawierać: imiona i nazwiska oraz stopnie i tytuły zawodowe (stanowiska służbowe) członków składu orzekającego;"
     },
     {
       "provision_ref": "art36u1p3",
       "section": "36",
       "title": "Art. 36 ust. 1 pkt 3",
-      "content": "Sentencja orzeczenia powinna zawierać: datę i miejsce rozpoznania sprawy i wydania orzeczenia,"
+      "content": "Sentencja orzeczenia powinna zawierać: datę i miejsce rozpoznania sprawy i wydania orzeczenia;"
     },
     {
       "provision_ref": "art36u1p4",
       "section": "36",
       "title": "Art. 36 ust. 1 pkt 4",
-      "content": "Sentencja orzeczenia powinna zawierać: ustalenie czasu, miejsca i rodzaju wypadku morskiego,"
+      "content": "Sentencja orzeczenia powinna zawierać: ustalenie czasu, miejsca i rodzaju wypadku morskiego;"
     },
     {
       "provision_ref": "art36u1p5",
       "section": "36",
       "title": "Art. 36 ust. 1 pkt 5",
-      "content": "Sentencja orzeczenia powinna zawierać: dokładne ustalenie przyczyn wypadku ze wskazaniem - o ile to możliwe - statku i osób, których wina spowodowała wypadek, oraz z określeniem stopnia, w jakim przyczyniły się do wypadku, albo stwierdzenie uzasadnionych wątpliwości co do przyczyny wypadku bądź stwierdzenie niemożności jej ustalenia,"
+      "content": "Sentencja orzeczenia powinna zawierać: dokładne ustalenie przyczyn wypadku ze wskazaniem - o ile to możliwe - statku i osób, których wina spowodowała wypadek, oraz z określeniem stopnia, w jakim przyczyniły się do wypadku, albo stwierdzenie uzasadnionych wątpliwości co do przyczyny wypadku bądź stwierdzenie niemożności jej ustalenia;"
     },
     {
       "provision_ref": "art36u1p6",
       "section": "36",
       "title": "Art. 36 ust. 1 pkt 6",
-      "content": "Sentencja orzeczenia powinna zawierać: wskazanie ujawnionych wad i braków w budowie statku, jego wyposażeniu, załadowaniu lub obsadzeniu załogą, w stanie toru wodnego lub urządzeniach oznakowania nawigacyjnego oraz uchybień w działalności i wad w organizacji instytucji służących bezpieczeństwu żeglugi morskiej,"
+      "content": "Sentencja orzeczenia powinna zawierać: wskazanie ujawnionych wad i braków w budowie statku, jego wyposażeniu, załadowaniu lub obsadzeniu załogą, w stanie toru wodnego lub urządzeniach oznakowania nawigacyjnego oraz uchybień w działalności i wad w organizacji instytucji służących bezpieczeństwu żeglugi morskiej;"
     },
     {
       "provision_ref": "art36u1p7",
@@ -721,7 +1009,7 @@
       "provision_ref": "art36u2",
       "section": "36",
       "title": "Art. 36 ust. 2",
-      "content": "Jeżeli izba morska pozbawia członka załogi lub pilota prawa wykonywania określonych funkcji bądź prawa wykonywania zawodu, rozstrzygnięcie o tym powinno być zawarte w sentencji."
+      "content": "Jeżeli izba morska stosuje środek, o którym mowa w art. 35 ust. 1 i 2, rozstrzygnięcie o tym powinno być zawarte w sentencji orzeczenia."
     },
     {
       "provision_ref": "art37",
@@ -751,49 +1039,43 @@
       "provision_ref": "art38",
       "section": "38",
       "title": "Art. 38",
-      "content": "Uzasadnienie orzeczenia powinno zawierać: dokładne ustalenie podstawy faktycznej przez wskazanie, jakie fakty izba morska uznała za udowodnione, na jakich oparła się dowodach i dlaczego nie uznała dowodów przeciwnych, przytoczenie okoliczności, które izba morska miała na względzie przy ocenie podstawy faktycznej, w razie potrzeby, zalecenie podjęcia środków zmierzających do zapewnienia bezpieczeństwa żeglugi i zapobiegania wypadkom morskim, przytoczenie okoliczności, które izba morska miała na względzie przy orzekaniu o pozbawieniu prawa wykonywania zawodu lub określonych funkcji, jeżeli izba o tym orzekła."
+      "content": "Uzasadnienie orzeczenia powinno zawierać: dokładne ustalenie podstawy faktycznej przez wskazanie, jakie fakty izba morska uznała za udowodnione, na jakich oparła się dowodach i dlaczego nie uznała dowodów przeciwnych; przytoczenie okoliczności, które izba morska miała na względzie przy ocenie podstawy faktycznej; w razie potrzeby, zalecenie podjęcia środków zmierzających do zapewnienia bezpieczeństwa żeglugi i zapobiegania wypadkom morskim; przytoczenie okoliczności, które izba morska miała na względzie przy zastosowaniu środka, o którym mowa w art. 35 ust. 1 lub 2."
     },
     {
       "provision_ref": "art38p1",
       "section": "38",
       "title": "Art. 38 pkt 1",
-      "content": "Uzasadnienie orzeczenia powinno zawierać: dokładne ustalenie podstawy faktycznej przez wskazanie, jakie fakty izba morska uznała za udowodnione, na jakich oparła się dowodach i dlaczego nie uznała dowodów przeciwnych,"
+      "content": "Uzasadnienie orzeczenia powinno zawierać: dokładne ustalenie podstawy faktycznej przez wskazanie, jakie fakty izba morska uznała za udowodnione, na jakich oparła się dowodach i dlaczego nie uznała dowodów przeciwnych;"
     },
     {
       "provision_ref": "art38p2",
       "section": "38",
       "title": "Art. 38 pkt 2",
-      "content": "Uzasadnienie orzeczenia powinno zawierać: przytoczenie okoliczności, które izba morska miała na względzie przy ocenie podstawy faktycznej,"
+      "content": "Uzasadnienie orzeczenia powinno zawierać: przytoczenie okoliczności, które izba morska miała na względzie przy ocenie podstawy faktycznej;"
     },
     {
       "provision_ref": "art38p3",
       "section": "38",
       "title": "Art. 38 pkt 3",
-      "content": "Uzasadnienie orzeczenia powinno zawierać: w razie potrzeby, zalecenie podjęcia środków zmierzających do zapewnienia bezpieczeństwa żeglugi i zapobiegania wypadkom morskim,"
+      "content": "Uzasadnienie orzeczenia powinno zawierać: w razie potrzeby, zalecenie podjęcia środków zmierzających do zapewnienia bezpieczeństwa żeglugi i zapobiegania wypadkom morskim;"
     },
     {
       "provision_ref": "art38p4",
       "section": "38",
       "title": "Art. 38 pkt 4",
-      "content": "Uzasadnienie orzeczenia powinno zawierać: przytoczenie okoliczności, które izba morska miała na względzie przy orzekaniu o pozbawieniu prawa wykonywania zawodu lub określonych funkcji, jeżeli izba o tym orzekła."
+      "content": "Uzasadnienie orzeczenia powinno zawierać: przytoczenie okoliczności, które izba morska miała na względzie przy zastosowaniu środka, o którym mowa w art. 35 ust. 1 lub 2."
     },
     {
       "provision_ref": "art39",
       "section": "39",
       "title": "Art. 39",
-      "content": "Orzeczenie z uzasadnieniem doręcza się Ministrowi Żeglugi, delegatowi, właściwemu urzędowi morskiemu oraz zainteresowanym, a w sprawach określonych w art. 15 ust. 4 również technicznemu inspektorowi pracy. Jeżeli w orzeczeniu pozbawiono członka załogi lub pilota prawa wykonywania zawodu lub określonej funkcji, orzeczenie z uzasadnieniem doręcza się ponadto pozostałym urzędom morskim."
+      "content": "Orzeczenie wraz z uzasadnieniem doręcza się ministrowi właściwemu do spraw gospodarki morskiej, delegatowi oraz zainteresowanemu, a w sprawach określonych w art. 15 ust. 4 również państwowemu inspektorowi pracy."
     },
     {
-      "provision_ref": "art39u1",
-      "section": "39",
-      "title": "Art. 39 ust. 1",
-      "content": "Orzeczenie z uzasadnieniem doręcza się Ministrowi Żeglugi, delegatowi, właściwemu urzędowi morskiemu oraz zainteresowanym, a w sprawach określonych w art. 15 ust. 4 również technicznemu inspektorowi pracy."
-    },
-    {
-      "provision_ref": "art39u2",
-      "section": "39",
-      "title": "Art. 39 ust. 2",
-      "content": "Jeżeli w orzeczeniu pozbawiono członka załogi lub pilota prawa wykonywania zawodu lub określonej funkcji, orzeczenie z uzasadnieniem doręcza się ponadto pozostałym urzędom morskim."
+      "provision_ref": "art39a",
+      "section": "39a",
+      "title": "Art. 39a",
+      "content": "(uchylony)"
     },
     {
       "provision_ref": "art40",
@@ -829,19 +1111,19 @@
       "provision_ref": "art41",
       "section": "41",
       "title": "Art. 41",
-      "content": "Środki odwoławcze służą delegatowi i zainteresowanym, a w sprawach określonych w art. 15 ust. 4 również technicznemu inspektorowi pracy."
+      "content": "Środki odwoławcze służą delegatowi i zainteresowanym, a w sprawach określonych w art. 15 ust. 4 również państwowemu inspektorowi pracy."
     },
     {
       "provision_ref": "art42",
       "section": "42",
       "title": "Art. 42",
-      "content": "Odwoławcza Izba Morska rozpoznaje odwołania na rozprawie, jeżeli przepisy postępowania karnego o rewizji nie stanowią inaczej."
+      "content": "Odwoławcza Izba Morska rozpoznaje odwołanie na rozprawie, jeżeli przepisy postępowania karnego o apelacji nie stanowią inaczej."
     },
     {
       "provision_ref": "art43",
       "section": "43",
       "title": "Art. 43",
-      "content": "Odwoławcza Izba Morska orzeka na podstawie wyników przewodu w izbie morskiej pierwszej instancji, uzupełnionego w razie potrzeby przewodem odwoławczym. Odwoławcza Izba Morska może pominąć nowe fakty i dowody, jeżeli odwołujący się mógł je przytoczyć w pierwszej instancji. Z zastrzeżeniem ust. 4 Odwoławcza Izba Morska nie jest związana wnioskami ani granicami odwołania. Odwoławcza Izba Morska może zmienić orzeczenie izby morskiej pierwszej instancji w części pozbawiającej członka załogi lub pilota prawa wykonywania zawodu lub określonych funkcji na jego niekorzyść tylko w przypadkach zaskarżenia tej części orzeczenia przez delegata na niekorzyść zainteresowanego."
+      "content": "Odwoławcza Izba Morska orzeka na podstawie wyników przewodu w izbie morskiej pierwszej instancji, uzupełnionego w razie potrzeby przewodem odwoławczym. Odwoławcza Izba Morska może pominąć nowe fakty i dowody, jeżeli odwołujący się mógł je przytoczyć w pierwszej instancji. Z zastrzeżeniem ust. 4 Odwoławcza Izba Morska nie jest związana wnioskami ani granicami odwołania. Odwoławcza Izba Morska może zmienić orzeczenie izby morskiej pierwszej instancji na niekorzyść zainteresowanego w części dotyczącej zastosowanego wobec niego środka, o którym mowa w art. 35 ust. 1 lub 2, albo zastosować środek, o którym nie orzekła izba, tylko w przypadku zaskarżenia w tym zakresie orzeczenia przez delegata na niekorzyść zainteresowanego. Przepis art. 35 ust. 3 stosuje się odpowiednio tylko w warunkach określonych w ust. 4. Odwoławcza Izba Morska rozpoznaje zażalenie na postanowienie, o którym mowa w art. 35 ust. 3, na posiedzeniu, w składzie: jednego sędziego i czterech ławników, najpóźniej w ciągu 3 dni od dnia wpływu akt wraz z zażaleniem do Odwoławczej Izby Morskiej."
     },
     {
       "provision_ref": "art43u1",
@@ -865,49 +1147,175 @@
       "provision_ref": "art43u4",
       "section": "43",
       "title": "Art. 43 ust. 4",
-      "content": "Odwoławcza Izba Morska może zmienić orzeczenie izby morskiej pierwszej instancji w części pozbawiającej członka załogi lub pilota prawa wykonywania zawodu lub określonych funkcji na jego niekorzyść tylko w przypadkach zaskarżenia tej części orzeczenia przez delegata na niekorzyść zainteresowanego."
+      "content": "Odwoławcza Izba Morska może zmienić orzeczenie izby morskiej pierwszej instancji na niekorzyść zainteresowanego w części dotyczącej zastosowanego wobec niego środka, o którym mowa w art. 35 ust. 1 lub 2, albo zastosować środek, o którym nie orzekła izba, tylko w przypadku zaskarżenia w tym zakresie orzeczenia przez delegata na niekorzyść zainteresowanego."
+    },
+    {
+      "provision_ref": "art43u5",
+      "section": "43",
+      "title": "Art. 43 ust. 5",
+      "content": "Przepis art. 35 ust. 3 stosuje się odpowiednio tylko w warunkach określonych w ust. 4."
+    },
+    {
+      "provision_ref": "art43u6",
+      "section": "43",
+      "title": "Art. 43 ust. 6",
+      "content": "Odwoławcza Izba Morska rozpoznaje zażalenie na postanowienie, o którym mowa w art. 35 ust. 3, na posiedzeniu, w składzie: jednego sędziego i czterech ławników, najpóźniej w ciągu 3 dni od dnia wpływu akt wraz z zażaleniem do Odwoławczej Izby Morskiej."
     },
     {
       "provision_ref": "art44",
       "section": "44",
       "title": "Art. 44",
-      "content": "Odwoławcza Izba Morska zatwierdza albo zmienia zaskarżone orzeczenie w całości lub w części. W razie stwierdzenia nierozpoznania istoty sprawy lub nieważności postępowania, Odwoławcza Izba Morska uchyla zaskarżone orzeczenie i sprawę przekazuje izbie morskiej do ponownego rozpoznania lub postępowanie umarza."
+      "content": "Odwoławcza Izba Morska utrzymuje w mocy, zmienia lub uchyla zaskarżone orzeczenie w całości lub części. W razie stwierdzenia niewyjaśnienia istoty sprawy w częściowym lub pełnym zakresie rozstrzygnięć określonych w art. 35 ust. 1 i 2 oraz w art. 36 ust. 1 pkt 5-7 Odwoławcza Izba Morska uchyla zaskarżone orzeczenie w całości lub w części i przekazuje sprawę izbie morskiej do ponownego rozpoznania. Odwoławcza Izba Morska utrzymuje w mocy lub uchyla zaskarżone postanowienie, o którym mowa w art. 35 ust. 3."
     },
     {
       "provision_ref": "art44u1",
       "section": "44",
       "title": "Art. 44 ust. 1",
-      "content": "Odwoławcza Izba Morska zatwierdza albo zmienia zaskarżone orzeczenie w całości lub w części."
+      "content": "Odwoławcza Izba Morska utrzymuje w mocy, zmienia lub uchyla zaskarżone orzeczenie w całości lub części."
     },
     {
       "provision_ref": "art44u2",
       "section": "44",
       "title": "Art. 44 ust. 2",
-      "content": "W razie stwierdzenia nierozpoznania istoty sprawy lub nieważności postępowania, Odwoławcza Izba Morska uchyla zaskarżone orzeczenie i sprawę przekazuje izbie morskiej do ponownego rozpoznania lub postępowanie umarza."
+      "content": "W razie stwierdzenia niewyjaśnienia istoty sprawy w częściowym lub pełnym zakresie rozstrzygnięć określonych w art. 35 ust. 1 i 2 oraz w art. 36 ust. 1 pkt 5-7 Odwoławcza Izba Morska uchyla zaskarżone orzeczenie w całości lub w części i przekazuje sprawę izbie morskiej do ponownego rozpoznania."
+    },
+    {
+      "provision_ref": "art44u3",
+      "section": "44",
+      "title": "Art. 44 ust. 3",
+      "content": "Odwoławcza Izba Morska utrzymuje w mocy lub uchyla zaskarżone postanowienie, o którym mowa w art. 35 ust. 3."
     },
     {
       "provision_ref": "art45",
       "section": "45",
       "title": "Art. 45",
-      "content": "Od orzeczeń i postanowień izb morskich kończących postępowanie przed tymi izbami nie można zakładać rewizji nadzwyczajnej."
+      "content": "Od orzeczenia Odwoławczej Izby Morskiej przysługuje apelacja. Apelację wnosi się za pośrednictwem Odwoławczej Izby Morskiej do Sądu Apelacyjnego w Gdańsku w terminie 14 dni od daty doręczenia orzeczenia wraz z uzasadnieniem. Apelacja powinna być sporządzona i podpisana przez adwokata lub radcę prawnego. Jeżeli w wyniku rozpoznania apelacji zaskarżone orzeczenie zostało uchylone w całości lub w części, przy ponownym rozpoznaniu sprawy stosuje się odpowiednio przepisy art. 43 ust. 4 i 5. Na postanowienie Odwoławczej Izby Morskiej wydane w trybie art. 43 ust. 5 lub 6 zainteresowanemu, któremu zawieszono prawo wykonywania uprawnień w żegludze morskiej, przysługuje zażalenie. Zażalenie wnosi się za pośrednictwem Odwoławczej Izby Morskiej do Sądu Apelacyjnego w Gdańsku w terminie 7 dni od daty doręczenia postanowienia wraz z uzasadnieniem. Okres trwania zawieszenia, o którym mowa w art. 35 ust. 3, zalicza się na poczet zastosowanego środka, o którym mowa w art. 35 ust. 1. Od wyroków i postanowień Sądu Apelacyjnego w Gdańsku wydanych w postępowaniu odwoławczym, o którym mowa w ust. 1 i 4, oraz od orzeczeń i postanowień kończących postępowanie przed izbami morskimi nie przysługuje kasacja."
+    },
+    {
+      "provision_ref": "art45u1",
+      "section": "45",
+      "title": "Art. 45 ust. 1",
+      "content": "Od orzeczenia Odwoławczej Izby Morskiej przysługuje apelacja. Apelację wnosi się za pośrednictwem Odwoławczej Izby Morskiej do Sądu Apelacyjnego w Gdańsku w terminie 14 dni od daty doręczenia orzeczenia wraz z uzasadnieniem."
+    },
+    {
+      "provision_ref": "art45u2",
+      "section": "45",
+      "title": "Art. 45 ust. 2",
+      "content": "Apelacja powinna być sporządzona i podpisana przez adwokata lub radcę prawnego."
+    },
+    {
+      "provision_ref": "art45u3",
+      "section": "45",
+      "title": "Art. 45 ust. 3",
+      "content": "Jeżeli w wyniku rozpoznania apelacji zaskarżone orzeczenie zostało uchylone w całości lub w części, przy ponownym rozpoznaniu sprawy stosuje się odpowiednio przepisy art. 43 ust. 4 i 5."
+    },
+    {
+      "provision_ref": "art45u4",
+      "section": "45",
+      "title": "Art. 45 ust. 4",
+      "content": "Na postanowienie Odwoławczej Izby Morskiej wydane w trybie art. 43 ust. 5 lub 6 zainteresowanemu, któremu zawieszono prawo wykonywania uprawnień w żegludze morskiej, przysługuje zażalenie. Zażalenie wnosi się za pośrednictwem Odwoławczej Izby Morskiej do Sądu Apelacyjnego w Gdańsku w terminie 7 dni od daty doręczenia postanowienia wraz z uzasadnieniem."
+    },
+    {
+      "provision_ref": "art45u5",
+      "section": "45",
+      "title": "Art. 45 ust. 5",
+      "content": "Okres trwania zawieszenia, o którym mowa w art. 35 ust. 3, zalicza się na poczet zastosowanego środka, o którym mowa w art. 35 ust. 1."
+    },
+    {
+      "provision_ref": "art45u6",
+      "section": "45",
+      "title": "Art. 45 ust. 6",
+      "content": "Od wyroków i postanowień Sądu Apelacyjnego w Gdańsku wydanych w postępowaniu odwoławczym, o którym mowa w ust. 1 i 4, oraz od orzeczeń i postanowień kończących postępowanie przed izbami morskimi nie przysługuje kasacja."
     },
     {
       "provision_ref": "art46",
       "section": "46",
       "title": "Art. 46",
-      "content": "Ustalenia winy i okoliczności faktycznych wypadku morskiego zawarte w orzeczeniu izby morskiej kończącym postępowanie przed izbami obowiązują państwowy arbitraż gospodarczy."
+      "content": "O ile przepisy niniejszej ustawy nie stanowią inaczej, do rozpoznania apelacji lub zażalenia, o których mowa w art. 45 ust. 1 i 4, stosuje się odpowiednio przepisy Kodeksu postępowania karnego o apelacji lub zażaleniu."
+    },
+    {
+      "provision_ref": "art46a",
+      "section": "46a",
+      "title": "Art. 46a",
+      "content": "Wykonaniu podlega: orzeczenie w części dotyczącej zastosowanego środka, o którym mowa w art. 35 ust. 1 lub 2, jeżeli postępowanie zostało ostatecznie zakończone; postanowienie o zawieszeniu prawa wykonywania uprawnień w żegludze morskiej, którego nie zaskarżono albo które zostało utrzymane w mocy po rozpoznaniu zażalenia."
+    },
+    {
+      "provision_ref": "art46ap1",
+      "section": "46a",
+      "title": "Art. 46a pkt 1",
+      "content": "Wykonaniu podlega: orzeczenie w części dotyczącej zastosowanego środka, o którym mowa w art. 35 ust. 1 lub 2, jeżeli postępowanie zostało ostatecznie zakończone;"
+    },
+    {
+      "provision_ref": "art46ap2",
+      "section": "46a",
+      "title": "Art. 46a pkt 2",
+      "content": "Wykonaniu podlega: postanowienie o zawieszeniu prawa wykonywania uprawnień w żegludze morskiej, którego nie zaskarżono albo które zostało utrzymane w mocy po rozpoznaniu zażalenia."
+    },
+    {
+      "provision_ref": "art46b",
+      "section": "46b",
+      "title": "Art. 46b",
+      "content": "Właściwy do wykonania orzeczenia lub postanowienia, o których mowa w art. 46a, jest organ polski, który wydał zainteresowanemu ostatni dokument określający uprawnienia w żegludze morskiej."
+    },
+    {
+      "provision_ref": "art46c",
+      "section": "46c",
+      "title": "Art. 46c",
+      "content": "Orzeczenie lub postanowienie podlegające wykonaniu doręcza właściwemu organowi izba morska, która zastosowała środek, o którym mowa w art. 35 ust. 1 lub 2. Organ właściwy do wykonania orzeczenia lub postanowienia wzywa zainteresowanego do złożenia, w terminie 3 dni od daty doręczenia tego wezwania, dokumentu dotyczącego uprawnień będących przedmiotem rozstrzygnięcia zawartego w orzeczeniu lub postanowieniu, pouczając zainteresowanego o skutkach niezłożenia tego dokumentu określonych w ust. 3. Dokument niezłożony w terminie, o którym mowa w ust. 2, traci ważność z mocy prawa."
+    },
+    {
+      "provision_ref": "art46cu1",
+      "section": "46c",
+      "title": "Art. 46c ust. 1",
+      "content": "Orzeczenie lub postanowienie podlegające wykonaniu doręcza właściwemu organowi izba morska, która zastosowała środek, o którym mowa w art. 35 ust. 1 lub 2."
+    },
+    {
+      "provision_ref": "art46cu2",
+      "section": "46c",
+      "title": "Art. 46c ust. 2",
+      "content": "Organ właściwy do wykonania orzeczenia lub postanowienia wzywa zainteresowanego do złożenia, w terminie 3 dni od daty doręczenia tego wezwania, dokumentu dotyczącego uprawnień będących przedmiotem rozstrzygnięcia zawartego w orzeczeniu lub postanowieniu, pouczając zainteresowanego o skutkach niezłożenia tego dokumentu określonych w ust. 3."
+    },
+    {
+      "provision_ref": "art46cu3",
+      "section": "46c",
+      "title": "Art. 46c ust. 3",
+      "content": "Dokument niezłożony w terminie, o którym mowa w ust. 2, traci ważność z mocy prawa."
+    },
+    {
+      "provision_ref": "art46d",
+      "section": "46d",
+      "title": "Art. 46d",
+      "content": "Organ właściwy do wykonania orzeczenia lub postanowienia wyda zainteresowanemu w miejsce złożonego dokumentu inny dokument określający uprawnienia w żegludze morskiej stosownie do treści orzeczenia lub postanowienia albo zatrzyma złożony dokument, jeżeli uprawnienia były najniższe. Organ, o którym mowa w ust. 1, zwróci zainteresowanemu złożony przez niego dokument niezwłocznie: z upływem okresu pozbawienia prawa wykonywania uprawnień w żegludze morskiej i po stwierdzeniu spełnienia warunków, od których przywrócenie prawa wykonywania uprawnień było uzależnione; jeżeli postanowienie o zawieszeniu prawa wykonywania uprawnień w żegludze morskiej zostało uchylone."
+    },
+    {
+      "provision_ref": "art46du1",
+      "section": "46d",
+      "title": "Art. 46d ust. 1",
+      "content": "Organ właściwy do wykonania orzeczenia lub postanowienia wyda zainteresowanemu w miejsce złożonego dokumentu inny dokument określający uprawnienia w żegludze morskiej stosownie do treści orzeczenia lub postanowienia albo zatrzyma złożony dokument, jeżeli uprawnienia były najniższe."
+    },
+    {
+      "provision_ref": "art46du2p1",
+      "section": "46d",
+      "title": "Art. 46d ust. 2 pkt 1",
+      "content": "Organ, o którym mowa w ust. 1, zwróci zainteresowanemu złożony przez niego dokument niezwłocznie: z upływem okresu pozbawienia prawa wykonywania uprawnień w żegludze morskiej i po stwierdzeniu spełnienia warunków, od których przywrócenie prawa wykonywania uprawnień było uzależnione;"
+    },
+    {
+      "provision_ref": "art46du2p2",
+      "section": "46d",
+      "title": "Art. 46d ust. 2 pkt 2",
+      "content": "Organ, o którym mowa w ust. 1, zwróci zainteresowanemu złożony przez niego dokument niezwłocznie: jeżeli postanowienie o zawieszeniu prawa wykonywania uprawnień w żegludze morskiej zostało uchylone."
     },
     {
       "provision_ref": "art47",
       "section": "47",
       "title": "Art. 47",
-      "content": "Izba morska wznawia postępowanie zakończone przed izbami w razie późniejszego ujawnienia faktów i dowodów nie znanych izbie, które mogłyby mieć istotny wpływ na wynik sprawy. Zainteresowany może żądać wznowienia postępowania w okolicznościach wymienionych w ust. 1 tylko wtedy, gdy z faktów i dowodów nie mógł skorzystać w poprzednim postępowaniu."
+      "content": "Izba morska wznawia postępowanie zakończone przed izbami w razie późniejszego ujawnienia faktów i dowodów nieznanych izbie, które mogłyby mieć istotny wpływ na wynik sprawy. Zainteresowany może żądać wznowienia postępowania w okolicznościach wymienionych w ust. 1 tylko wtedy, gdy z faktów i dowodów nie mógł skorzystać w poprzednim postępowaniu."
     },
     {
       "provision_ref": "art47u1",
       "section": "47",
       "title": "Art. 47 ust. 1",
-      "content": "Izba morska wznawia postępowanie zakończone przed izbami w razie późniejszego ujawnienia faktów i dowodów nie znanych izbie, które mogłyby mieć istotny wpływ na wynik sprawy."
+      "content": "Izba morska wznawia postępowanie zakończone przed izbami w razie późniejszego ujawnienia faktów i dowodów nieznanych izbie, które mogłyby mieć istotny wpływ na wynik sprawy."
     },
     {
       "provision_ref": "art47u2",
@@ -919,13 +1327,13 @@
       "provision_ref": "art48",
       "section": "48",
       "title": "Art. 48",
-      "content": "Koszty postępowania, obejmujące również należności ławników, delegata i technicznego inspektora pracy, ponosi armator, którego statek spowodował lub przyczynił się do powstania wypadku. W razie uznania winy lub błędu kilku statków koszty postępowania rozdziela się stosunkowo. Przepisy ust. 1 i 2 stosuje się odpowiednio do użytkowników urządzeń służących żegludze morskiej, z wyjątkiem organów administracji państwowej."
+      "content": "Koszty postępowania, obejmujące również należności ławników, delegata i państwowego inspektora pracy, ponosi armator, którego statek spowodował lub przyczynił się do powstania wypadku. W razie uznania winy lub błędu kilku statków koszty postępowania rozdziela się stosunkowo. Przepisy ust. 1 i 2 stosuje się odpowiednio do użytkowników urządzeń służących żegludze morskiej, z wyjątkiem organów administracji rządowej."
     },
     {
       "provision_ref": "art48u1",
       "section": "48",
       "title": "Art. 48 ust. 1",
-      "content": "Koszty postępowania, obejmujące również należności ławników, delegata i technicznego inspektora pracy, ponosi armator, którego statek spowodował lub przyczynił się do powstania wypadku."
+      "content": "Koszty postępowania, obejmujące również należności ławników, delegata i państwowego inspektora pracy, ponosi armator, którego statek spowodował lub przyczynił się do powstania wypadku."
     },
     {
       "provision_ref": "art48u2",
@@ -937,7 +1345,7 @@
       "provision_ref": "art48u3",
       "section": "48",
       "title": "Art. 48 ust. 3",
-      "content": "Przepisy ust. 1 i 2 stosuje się odpowiednio do użytkowników urządzeń służących żegludze morskiej, z wyjątkiem organów administracji państwowej."
+      "content": "Przepisy ust. 1 i 2 stosuje się odpowiednio do użytkowników urządzeń służących żegludze morskiej, z wyjątkiem organów administracji rządowej."
     },
     {
       "provision_ref": "art49",
@@ -949,7 +1357,7 @@
       "provision_ref": "art50",
       "section": "50",
       "title": "Art. 50",
-      "content": "Nie pobiera się kosztów postępowania od armatora statku obcego, z wyjątkiem przypadku, kiedy postępowanie zostało wszczęte na jego wniosek."
+      "content": "Nie pobiera się kosztów postępowania od armatora statku o obcej przynależności, z wyjątkiem przypadku, kiedy postępowanie zostało wszczęte na wniosek armatora lub kapitana takiego statku."
     },
     {
       "provision_ref": "art51",
@@ -1009,13 +1417,13 @@
       "provision_ref": "art56",
       "section": "56",
       "title": "Art. 56",
-      "content": "W razie nieusprawiedliwionego niestawiennictwa świadka, biegłego lub tłumacza izba morska nakłada na świadka, biegłego lub tłumacza grzywnę do 2.000 zł; jeżeli niestawiennictwo spowodowało odroczenie rozprawy, izba morska nakłada ponadto na świadka, biegłego lub tłumacza obowiązek zwrotu kosztów wywołanych odroczeniem rozprawy. Niezależnie od środków zastosowanych na podstawie ust. 1 izba morska może zarządzić przymusowe sprowadzenie świadka, a biegłego i tłumacza tylko w przypadkach wyjątkowych. Izba morska zwalnia świadka, biegłego lub tłumacza od nałożonych środków przymusu i zwrotu kosztów, jeżeli świadek, biegły lub tłumacz w ciągu dwóch tygodni od zawiadomienia go udowodni, że niestawiennictwo jego było usprawiedliwione. Niezależnie od skutków niestawiennictwa na rozprawie, świadek, biegły i zainteresowany lub jego pracownik mogą być zobowiązani do zwrotu kosztów wywołanych oczywistą ich winą. Postanowienie izby morskiej w przedmiocie zwrotu kosztów zapada po wysłuchaniu osoby, której zarzucono winę."
+      "content": "Na świadka, biegłego lub tłumacza, który bez usprawiedliwienia nie stawił się na rozprawie, izba morska może nałożyć karę pieniężną w wysokości do 3000 zł, jeżeli niestawiennictwo tej osoby spowodowało odroczenie rozprawy, izba morska może ponadto nałożyć na nią obowiązek zwrotu powstałych z tego tytułu kosztów. Niezależnie od środków zastosowanych na podstawie ust. 1 izba morska może zarządzić przymusowe sprowadzenie świadka, a biegłego i tłumacza tylko w przypadkach wyjątkowych. Izba morska zwalnia świadka, biegłego lub tłumacza od nałożonych środków przymusu i zwrotu kosztów, jeżeli świadek, biegły lub tłumacz w ciągu dwóch tygodni od zawiadomienia go udowodni, że niestawiennictwo jego było usprawiedliwione. Niezależnie od skutków niestawiennictwa na rozprawie, świadek, biegły i zainteresowany lub jego pracownik mogą być zobowiązani do zwrotu kosztów wywołanych oczywistą ich winą. Postanowienie izby morskiej w przedmiocie zwrotu kosztów zapada po wysłuchaniu osoby, której zarzucono winę."
     },
     {
       "provision_ref": "art56u1",
       "section": "56",
       "title": "Art. 56 ust. 1",
-      "content": "W razie nieusprawiedliwionego niestawiennictwa świadka, biegłego lub tłumacza izba morska nakłada na świadka, biegłego lub tłumacza grzywnę do 2.000 zł; jeżeli niestawiennictwo spowodowało odroczenie rozprawy, izba morska nakłada ponadto na świadka, biegłego lub tłumacza obowiązek zwrotu kosztów wywołanych odroczeniem rozprawy."
+      "content": "Na świadka, biegłego lub tłumacza, który bez usprawiedliwienia nie stawił się na rozprawie, izba morska może nałożyć karę pieniężną w wysokości do 3000 zł, jeżeli niestawiennictwo tej osoby spowodowało odroczenie rozprawy, izba morska może ponadto nałożyć na nią obowiązek zwrotu powstałych z tego tytułu kosztów."
     },
     {
       "provision_ref": "art56u2",
@@ -1039,7 +1447,7 @@
       "provision_ref": "art57",
       "section": "57",
       "title": "Art. 57",
-      "content": "Przepisy art. 56 ust. 1 i 3 mają również zastosowanie w razie nieusprawiedliwionej odmowy złożenia zeznań lub przyrzeczenia, przy czym w razie ponownej odmowy izba morska może nałożyć na świadka ponownie grzywnę do 3.000 zł."
+      "content": "Przepisy art. 56 ust. 1 i 3 mają również zastosowanie w razie nieusprawiedliwionej odmowy złożenia zeznań lub przyrzeczenia, przy czym w razie ponownej odmowy izba morska może nałożyć na świadka ponownie karę pieniężną w wysokości do 4500 zł."
     },
     {
       "provision_ref": "art58",
@@ -1051,13 +1459,13 @@
       "provision_ref": "art59",
       "section": "59",
       "title": "Art. 59",
-      "content": "Izba morska może nałożyć grzywnę do 3.000 zł na winnych nieprzestrzegania przepisów art. 21 ust. 3 i art. 28 ust. 2. Na postanowienie wydane na podstawie ust. 1 służy zażalenie."
+      "content": "Izba morska może nałożyć na winnych nieprzestrzegania przepisu art. 28 ust. 2 karę pieniężną w wysokości do 5000 zł. Na postanowienie wydane na podstawie ust. 1 służy zażalenie."
     },
     {
       "provision_ref": "art59u1",
       "section": "59",
       "title": "Art. 59 ust. 1",
-      "content": "Izba morska może nałożyć grzywnę do 3.000 zł na winnych nieprzestrzegania przepisów art. 21 ust. 3 i art. 28 ust. 2."
+      "content": "Izba morska może nałożyć na winnych nieprzestrzegania przepisu art. 28 ust. 2 karę pieniężną w wysokości do 5000 zł."
     },
     {
       "provision_ref": "art59u2",
@@ -1081,19 +1489,7 @@
       "provision_ref": "art62",
       "section": "62",
       "title": "Art. 62",
-      "content": "W sprawach wypadków morskich, w których wszczęto postępowanie przed dniem wejścia w życie ustawy, a nie rozpoczęto rozprawy w pierwszej instancji, w zakresie postępowania stosuje się przepisy niniejszej ustawy. W sprawach, w których przed dniem wejścia w życie ustawy rozpoczęto rozprawę w pierwszej instancji, stosuje się przepisy dotychczasowe."
-    },
-    {
-      "provision_ref": "art62u1",
-      "section": "62",
-      "title": "Art. 62 ust. 1",
-      "content": "W sprawach wypadków morskich, w których wszczęto postępowanie przed dniem wejścia w życie ustawy, a nie rozpoczęto rozprawy w pierwszej instancji, w zakresie postępowania stosuje się przepisy niniejszej ustawy."
-    },
-    {
-      "provision_ref": "art62u2",
-      "section": "62",
-      "title": "Art. 62 ust. 2",
-      "content": "W sprawach, w których przed dniem wejścia w życie ustawy rozpoczęto rozprawę w pierwszej instancji, stosuje się przepisy dotychczasowe."
+      "content": "(pominięty)"
     },
     {
       "provision_ref": "art63",
@@ -1116,6 +1512,66 @@
   ],
   "definitions": [],
   "references": [
+    {
+      "target_document_id": "pl-du-2019-1461",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2016-1207",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-730",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-1374",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-1452",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-1702",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-2197",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-2303",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-52",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-55",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-60",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-125",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-1469",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-1495",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-577",
+      "ref_type": "references"
+    },
     {
       "target_document_id": "pl-du-1925-243",
       "ref_type": "references"

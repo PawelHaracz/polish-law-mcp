@@ -10,6 +10,24 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2011/714",
   "provisions": [
     {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem: art. 1 pkt 1-3 i art. 3 pkt 10, które wchodzą w życie po upływie miesiąca od dnia ogłoszenia; art. 4 i art. 9, które wchodzą w życie po upływie 12 miesięcy od dnia ogłoszenia."
+    },
+    {
+      "provision_ref": "art14p1",
+      "section": "14",
+      "title": "Art. 14 pkt 1",
+      "content": "Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem: art. 1 pkt 1-3 i art. 3 pkt 10, które wchodzą w życie po upływie miesiąca od dnia ogłoszenia;"
+    },
+    {
+      "provision_ref": "art14p2",
+      "section": "14",
+      "title": "Art. 14 pkt 2",
+      "content": "Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem: art. 4 i art. 9, które wchodzą w życie po upływie 12 miesięcy od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
@@ -25,55 +43,61 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "Do kompetencji Rady należy: rozpatrywanie i ocena kandydatów do pełnienia urzędu na stanowiskach sędziów Sądu Najwyższego oraz stanowiskach sędziowskich w sądach powszechnych, sądach administracyjnych i sądach wojskowych; przedstawianie Prezydentowi Rzeczypospolitej Polskiej wniosków o powołanie sędziów w Sądzie Najwyższym, sądach powszechnych, sądach administracyjnych i sądach wojskowych; uchwalanie zbioru zasad etyki zawodowej sędziów i czuwanie nad ich przestrzeganiem; wypowiadanie się o stanie kadry sędziowskiej; wyrażanie stanowiska w sprawach dotyczących sądownictwa i sędziów, wniesionych pod jej obrady przez Prezydenta Rzeczypospolitej Polskiej, inne organy władzy publicznej lub organy samorządu sędziowskiego; opiniowanie projektów aktów normatywnych dotyczących sądownictwa i sędziów, a także przedstawianie wniosków w tym zakresie; opiniowanie programów szkolenia w ramach aplikacji ogólnej i aplikacji sędziowskiej, zakresu i sposobu przeprowadzania konkursów na aplikację ogólną oraz egzaminów sędziowskich; opiniowanie rocznych harmonogramów działalności szkoleniowej w zakresie dotyczącym szkolenia i doskonalenia zawodowego sędziów i pracowników sądów. Ponadto Rada wykonuje inne zadania określone w ustawach, a w szczególności: podejmuje uchwały w sprawach wystąpienia do Trybunału Konstytucyjnego o zbadanie zgodności z Konstytucją Rzeczypospolitej Polskiej aktów normatywnych w zakresie, w jakim dotyczą one niezależności sądów i niezawisłości sędziów; rozpatruje wnioski o przeniesienie sędziego w stan spoczynku; rozpatruje wystąpienia sędziów w stanie spoczynku o powrót na stanowisko sędziowskie; wybiera rzecznika dyscyplinarnego sędziów sądów powszechnych i rzecznika dyscyplinarnego sędziów sądów wojskowych; wyraża opinię w sprawie powołania i odwołania prezesa albo wiceprezesa sądu powszechnego oraz prezesa albo zastępcy prezesa sądu wojskowego; zgłasza kandydata na stanowisko Prokuratora Generalnego; wskazuje trzech członków Rady Programowej Krajowej Szkoły Sądownictwa i Prokuratury; wyraża opinię w sprawie powołania Dyrektora Krajowej Szkoły Sądownictwa i Prokuratury; zgłasza dwóch kandydatów na członków Rady Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu."
+      "content": "Do kompetencji Rady należy: rozpatrywanie i ocena kandydatów do pełnienia urzędu na stanowiskach sędziów Sądu Najwyższego oraz stanowiskach sędziowskich w sądach powszechnych, sądach administracyjnych i sądach wojskowych oraz na stanowiskach asesorów sądowych w sądach administracyjnych; przedstawianie Prezydentowi Rzeczypospolitej Polskiej wniosków o powołanie sędziów w Sądzie Najwyższym, sądach powszechnych, sądach administracyjnych i sądach wojskowych oraz o powołanie asesorów sądowych w sądach administracyjnych; przedstawianie Prezydentowi Rzeczypospolitej Polskiej wniosków o mianowanie egzaminowanych aplikantów aplikacji sędziowskiej i aplikacji prokuratorskiej na stanowiska asesorów sądowych w sądach powszechnych; uchwalanie zbioru zasad etyki zawodowej sędziów i asesorów sądowych oraz czuwanie nad ich przestrzeganiem; wypowiadanie się o stanie kadry sędziowskiej i asesorskiej; wyrażanie stanowiska w sprawach dotyczących sądownictwa, sędziów i asesorów sądowych, wniesionych pod jej obrady przez Prezydenta Rzeczypospolitej Polskiej, inne organy władzy publicznej lub organy samorządu sędziowskiego; opiniowanie projektów aktów normatywnych dotyczących sądownictwa, sędziów i asesorów sądowych, a także przedstawianie wniosków w tym zakresie; opiniowanie programów szkolenia w ramach aplikacji sędziowskiej, zakresu i sposobu przeprowadzania konkursów na aplikację sędziowską oraz egzaminów sędziowskich; opiniowanie rocznych harmonogramów działalności szkoleniowej w zakresie dotyczącym szkolenia i doskonalenia zawodowego sędziów, asesorów sądowych i pracowników sądów. Ponadto Rada wykonuje inne zadania określone w ustawach, a w szczególności: podejmuje uchwały w sprawach wystąpienia do Trybunału Konstytucyjnego o zbadanie zgodności z Konstytucją Rzeczypospolitej Polskiej aktów normatywnych w zakresie, w jakim dotyczą one niezależności sądów i niezawisłości sędziów; rozpatruje wnioski o przeniesienie sędziego w stan spoczynku; rozpatruje wystąpienia sędziów w stanie spoczynku o powrót na stanowisko sędziowskie; (uchylony) 1) Przez art. 8 pkt 1 ustawy z dnia 28 lipca 2023 r. o zmianie ustawy - Kodeks cywilny oraz niektórych innych ustaw (Dz. U. poz. 1615), która weszła w życie z dniem 15 listopada 2023 r. wyraża opinię w sprawie odwołania prezesa albo wiceprezesa sądu powszechnego oraz prezesa albo zastępcy prezesa sądu wojskowego; (uchylony) wskazuje jednego członka Rady Programowej Krajowej Szkoły Sądownictwa i Prokuratury; wyraża opinię w sprawach powołania i odwołania Dyrektora Krajowej Szkoły Sądownictwa i Prokuratury; (uchylony) sprawuje nadzór nad przetwarzaniem danych osobowych przez Trybunał Konstytucyjny, Trybunał Stanu, Sąd Najwyższy, Naczelny Sąd Administracyjny oraz sądy apelacyjne, w ramach prowadzonych przez nie postępowań."
     },
     {
       "provision_ref": "art3u1p1",
       "section": "3",
       "title": "Art. 3 ust. 1 pkt 1",
-      "content": "Do kompetencji Rady należy: rozpatrywanie i ocena kandydatów do pełnienia urzędu na stanowiskach sędziów Sądu Najwyższego oraz stanowiskach sędziowskich w sądach powszechnych, sądach administracyjnych i sądach wojskowych;"
+      "content": "Do kompetencji Rady należy: rozpatrywanie i ocena kandydatów do pełnienia urzędu na stanowiskach sędziów Sądu Najwyższego oraz stanowiskach sędziowskich w sądach powszechnych, sądach administracyjnych i sądach wojskowych oraz na stanowiskach asesorów sądowych w sądach administracyjnych;"
     },
     {
       "provision_ref": "art3u1p2",
       "section": "3",
       "title": "Art. 3 ust. 1 pkt 2",
-      "content": "Do kompetencji Rady należy: przedstawianie Prezydentowi Rzeczypospolitej Polskiej wniosków o powołanie sędziów w Sądzie Najwyższym, sądach powszechnych, sądach administracyjnych i sądach wojskowych;"
+      "content": "Do kompetencji Rady należy: przedstawianie Prezydentowi Rzeczypospolitej Polskiej wniosków o powołanie sędziów w Sądzie Najwyższym, sądach powszechnych, sądach administracyjnych i sądach wojskowych oraz o powołanie asesorów sądowych w sądach administracyjnych;"
+    },
+    {
+      "provision_ref": "art3u1p2a",
+      "section": "3",
+      "title": "Art. 3 ust. 1 pkt 2a",
+      "content": "Do kompetencji Rady należy: przedstawianie Prezydentowi Rzeczypospolitej Polskiej wniosków o mianowanie egzaminowanych aplikantów aplikacji sędziowskiej i aplikacji prokuratorskiej na stanowiska asesorów sądowych w sądach powszechnych;"
     },
     {
       "provision_ref": "art3u1p3",
       "section": "3",
       "title": "Art. 3 ust. 1 pkt 3",
-      "content": "Do kompetencji Rady należy: uchwalanie zbioru zasad etyki zawodowej sędziów i czuwanie nad ich przestrzeganiem;"
+      "content": "Do kompetencji Rady należy: uchwalanie zbioru zasad etyki zawodowej sędziów i asesorów sądowych oraz czuwanie nad ich przestrzeganiem;"
     },
     {
       "provision_ref": "art3u1p4",
       "section": "3",
       "title": "Art. 3 ust. 1 pkt 4",
-      "content": "Do kompetencji Rady należy: wypowiadanie się o stanie kadry sędziowskiej;"
+      "content": "Do kompetencji Rady należy: wypowiadanie się o stanie kadry sędziowskiej i asesorskiej;"
     },
     {
       "provision_ref": "art3u1p5",
       "section": "3",
       "title": "Art. 3 ust. 1 pkt 5",
-      "content": "Do kompetencji Rady należy: wyrażanie stanowiska w sprawach dotyczących sądownictwa i sędziów, wniesionych pod jej obrady przez Prezydenta Rzeczypospolitej Polskiej, inne organy władzy publicznej lub organy samorządu sędziowskiego;"
+      "content": "Do kompetencji Rady należy: wyrażanie stanowiska w sprawach dotyczących sądownictwa, sędziów i asesorów sądowych, wniesionych pod jej obrady przez Prezydenta Rzeczypospolitej Polskiej, inne organy władzy publicznej lub organy samorządu sędziowskiego;"
     },
     {
       "provision_ref": "art3u1p6",
       "section": "3",
       "title": "Art. 3 ust. 1 pkt 6",
-      "content": "Do kompetencji Rady należy: opiniowanie projektów aktów normatywnych dotyczących sądownictwa i sędziów, a także przedstawianie wniosków w tym zakresie;"
+      "content": "Do kompetencji Rady należy: opiniowanie projektów aktów normatywnych dotyczących sądownictwa, sędziów i asesorów sądowych, a także przedstawianie wniosków w tym zakresie;"
     },
     {
       "provision_ref": "art3u1p7",
       "section": "3",
       "title": "Art. 3 ust. 1 pkt 7",
-      "content": "Do kompetencji Rady należy: opiniowanie programów szkolenia w ramach aplikacji ogólnej i aplikacji sędziowskiej, zakresu i sposobu przeprowadzania konkursów na aplikację ogólną oraz egzaminów sędziowskich;"
+      "content": "Do kompetencji Rady należy: opiniowanie programów szkolenia w ramach aplikacji sędziowskiej, zakresu i sposobu przeprowadzania konkursów na aplikację sędziowską oraz egzaminów sędziowskich;"
     },
     {
       "provision_ref": "art3u1p8",
       "section": "3",
       "title": "Art. 3 ust. 1 pkt 8",
-      "content": "Do kompetencji Rady należy: opiniowanie rocznych harmonogramów działalności szkoleniowej w zakresie dotyczącym szkolenia i doskonalenia zawodowego sędziów i pracowników sądów."
+      "content": "Do kompetencji Rady należy: opiniowanie rocznych harmonogramów działalności szkoleniowej w zakresie dotyczącym szkolenia i doskonalenia zawodowego sędziów, asesorów sądowych i pracowników sądów."
     },
     {
       "provision_ref": "art3u2p1",
@@ -97,37 +121,43 @@
       "provision_ref": "art3u2p4",
       "section": "3",
       "title": "Art. 3 ust. 2 pkt 4",
-      "content": "Ponadto Rada wykonuje inne zadania określone w ustawach, a w szczególności: wybiera rzecznika dyscyplinarnego sędziów sądów powszechnych i rzecznika dyscyplinarnego sędziów sądów wojskowych;"
+      "content": "Ponadto Rada wykonuje inne zadania określone w ustawach, a w szczególności: (uchylony) 1) Przez art. 8 pkt 1 ustawy z dnia 28 lipca 2023 r. o zmianie ustawy - Kodeks cywilny oraz niektórych innych ustaw (Dz. U. poz. 1615), która weszła w życie z dniem 15 listopada 2023 r."
     },
     {
       "provision_ref": "art3u2p5",
       "section": "3",
       "title": "Art. 3 ust. 2 pkt 5",
-      "content": "Ponadto Rada wykonuje inne zadania określone w ustawach, a w szczególności: wyraża opinię w sprawie powołania i odwołania prezesa albo wiceprezesa sądu powszechnego oraz prezesa albo zastępcy prezesa sądu wojskowego;"
+      "content": "Ponadto Rada wykonuje inne zadania określone w ustawach, a w szczególności: wyraża opinię w sprawie odwołania prezesa albo wiceprezesa sądu powszechnego oraz prezesa albo zastępcy prezesa sądu wojskowego;"
     },
     {
       "provision_ref": "art3u2p6",
       "section": "3",
       "title": "Art. 3 ust. 2 pkt 6",
-      "content": "Ponadto Rada wykonuje inne zadania określone w ustawach, a w szczególności: zgłasza kandydata na stanowisko Prokuratora Generalnego;"
+      "content": "Ponadto Rada wykonuje inne zadania określone w ustawach, a w szczególności: (uchylony)"
     },
     {
       "provision_ref": "art3u2p7",
       "section": "3",
       "title": "Art. 3 ust. 2 pkt 7",
-      "content": "Ponadto Rada wykonuje inne zadania określone w ustawach, a w szczególności: wskazuje trzech członków Rady Programowej Krajowej Szkoły Sądownictwa i Prokuratury;"
+      "content": "Ponadto Rada wykonuje inne zadania określone w ustawach, a w szczególności: wskazuje jednego członka Rady Programowej Krajowej Szkoły Sądownictwa i Prokuratury;"
     },
     {
       "provision_ref": "art3u2p8",
       "section": "3",
       "title": "Art. 3 ust. 2 pkt 8",
-      "content": "Ponadto Rada wykonuje inne zadania określone w ustawach, a w szczególności: wyraża opinię w sprawie powołania Dyrektora Krajowej Szkoły Sądownictwa i Prokuratury;"
+      "content": "Ponadto Rada wykonuje inne zadania określone w ustawach, a w szczególności: wyraża opinię w sprawach powołania i odwołania Dyrektora Krajowej Szkoły Sądownictwa i Prokuratury;"
     },
     {
       "provision_ref": "art3u2p9",
       "section": "3",
       "title": "Art. 3 ust. 2 pkt 9",
-      "content": "Ponadto Rada wykonuje inne zadania określone w ustawach, a w szczególności: zgłasza dwóch kandydatów na członków Rady Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu."
+      "content": "Ponadto Rada wykonuje inne zadania określone w ustawach, a w szczególności: (uchylony)"
+    },
+    {
+      "provision_ref": "art3u2p10",
+      "section": "3",
+      "title": "Art. 3 ust. 2 pkt 10",
+      "content": "Ponadto Rada wykonuje inne zadania określone w ustawach, a w szczególności: sprawuje nadzór nad przetwarzaniem danych osobowych przez Trybunał Konstytucyjny, Trybunał Stanu, Sąd Najwyższy, Naczelny Sąd Administracyjny oraz sądy apelacyjne, w ramach prowadzonych przez nie postępowań."
     },
     {
       "provision_ref": "art4",
@@ -139,7 +169,7 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Art. 5",
-      "content": "Rada może zarządzić przeprowadzenie: wizytacji sądu albo jego jednostki organizacyjnej; lustracji w sądzie; lustracji pracy sędziego, którego indywidualna sprawa podlega rozpatrzeniu przez Radę. Czynności, o których mowa w ust. 1, nie mogą wkraczać w dziedzinę, w której sędziowie są niezawiśli. Czynności, o których mowa w ust. 1, mogą być przeprowadzane przez członków Rady lub przez sędziów delegowanych do Biura Rady na podstawie odrębnych przepisów."
+      "content": "Rada może zarządzić przeprowadzenie: wizytacji sądu albo jego jednostki organizacyjnej; lustracji w sądzie; lustracji pracy sędziego lub asesora sądowego, którego indywidualna sprawa podlega rozpatrzeniu przez Radę. Czynności, o których mowa w ust. 1, nie mogą wkraczać w dziedzinę, w której sędziowie i asesorzy sądowi są niezawiśli. Czynności, o których mowa w ust. 1, mogą być przeprowadzane przez członków Rady lub przez sędziów delegowanych do Biura Rady na podstawie odrębnych przepisów."
     },
     {
       "provision_ref": "art5u1p1",
@@ -157,13 +187,13 @@
       "provision_ref": "art5u1p3",
       "section": "5",
       "title": "Art. 5 ust. 1 pkt 3",
-      "content": "Rada może zarządzić przeprowadzenie: lustracji pracy sędziego, którego indywidualna sprawa podlega rozpatrzeniu przez Radę."
+      "content": "Rada może zarządzić przeprowadzenie: lustracji pracy sędziego lub asesora sądowego, którego indywidualna sprawa podlega rozpatrzeniu przez Radę."
     },
     {
       "provision_ref": "art5u2",
       "section": "5",
       "title": "Art. 5 ust. 2",
-      "content": "Czynności, o których mowa w ust. 1, nie mogą wkraczać w dziedzinę, w której sędziowie są niezawiśli."
+      "content": "Czynności, o których mowa w ust. 1, nie mogą wkraczać w dziedzinę, w której sędziowie i asesorzy sądowi są niezawiśli."
     },
     {
       "provision_ref": "art5u3",
@@ -175,7 +205,7 @@
       "provision_ref": "art6",
       "section": "6",
       "title": "Art. 6",
-      "content": "Rada wybiera rzecznika dyscyplinarnego sędziów sądów powszechnych po zgłoszeniu kandydatów przez zgromadzenia ogólne sędziów sądów apelacyjnych oraz rzecznika dyscyplinarnego sędziów sądów wojskowych po zgłoszeniu kandydatów przez Zgromadzenie Sędziów Sądów Wojskowych. Przepisy art. 18 stosuje się odpowiednio."
+      "content": "(uchylony) 2) Przez art. 8 pkt 2 ustawy, o której mowa w odnośniku 1."
     },
     {
       "provision_ref": "art7",
@@ -226,6 +256,30 @@
       "content": "Członkowie Rady wybrani przez Sejm i Senat pełnią swoje funkcje do czasu wyboru nowych członków."
     },
     {
+      "provision_ref": "art9a",
+      "section": "9a",
+      "title": "Art. 9a",
+      "content": "Sejm wybiera spośród sędziów Sądu Najwyższego, sądów powszechnych, sądów administracyjnych i sądów wojskowych piętnastu członków Rady na wspólną czteroletnią kadencję. Dokonując wyboru, o którym mowa w ust. 1, Sejm, w miarę możliwości, uwzględnia potrzebę reprezentacji w Radzie sędziów poszczególnych rodzajów i szczebli sądów. Wspólna kadencja nowych członków Rady wybranych spośród sędziów rozpoczyna się z dniem następującym po dniu, w którym dokonano ich wyboru. Członkowie Rady poprzedniej kadencji pełnią swoje funkcje do dnia rozpoczęcia wspólnej kadencji nowych członków Rady."
+    },
+    {
+      "provision_ref": "art9au1",
+      "section": "9a",
+      "title": "Art. 9a ust. 1",
+      "content": "Sejm wybiera spośród sędziów Sądu Najwyższego, sądów powszechnych, sądów administracyjnych i sądów wojskowych piętnastu członków Rady na wspólną czteroletnią kadencję."
+    },
+    {
+      "provision_ref": "art9au2",
+      "section": "9a",
+      "title": "Art. 9a ust. 2",
+      "content": "Dokonując wyboru, o którym mowa w ust. 1, Sejm, w miarę możliwości, uwzględnia potrzebę reprezentacji w Radzie sędziów poszczególnych rodzajów i szczebli sądów."
+    },
+    {
+      "provision_ref": "art9au3",
+      "section": "9a",
+      "title": "Art. 9a ust. 3",
+      "content": "Wspólna kadencja nowych członków Rady wybranych spośród sędziów rozpoczyna się z dniem następującym po dniu, w którym dokonano ich wyboru. Członkowie Rady poprzedniej kadencji pełnią swoje funkcje do dnia rozpoczęcia wspólnej kadencji nowych członków Rady."
+    },
+    {
       "provision_ref": "art10",
       "section": "10",
       "title": "Art. 10",
@@ -235,103 +289,235 @@
       "provision_ref": "art11",
       "section": "11",
       "title": "Art. 11",
-      "content": "Zgromadzenie Ogólne Sędziów Sądu Najwyższego wybiera spośród sędziów tego Sądu dwóch członków Rady. Zgromadzenie Ogólne Sędziów Naczelnego Sądu Administracyjnego wspólnie z przedstawicielami zgromadzeń ogólnych wojewódzkich sądów administracyjnych wybiera spośród sędziów sądów administracyjnych dwóch członków Rady. Zebranie przedstawicieli zgromadzeń ogólnych sędziów sądów apelacyjnych wybiera spośród sędziów sądów apelacyjnych dwóch członków Rady. Zebranie przedstawicieli zgromadzeń ogólnych sędziów okręgów wybiera spośród swego grona ośmiu członków Rady. Zgromadzenie Sędziów Sądów Wojskowych wybiera spośród swego grona jednego członka Rady."
+      "content": "(uchylony)"
     },
     {
-      "provision_ref": "art11u1",
-      "section": "11",
-      "title": "Art. 11 ust. 1",
-      "content": "Zgromadzenie Ogólne Sędziów Sądu Najwyższego wybiera spośród sędziów tego Sądu dwóch członków Rady."
+      "provision_ref": "art11a",
+      "section": "11a",
+      "title": "Art. 11a",
+      "content": "Marszałek Sejmu, nie wcześniej niż na sto dwadzieścia i nie później niż na dziewięćdziesiąt dni przed upływem kadencji członków Rady wybranych spośród sędziów obwieszcza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” o rozpoczęciu procedury zgłaszania kandydatów na członków Rady. Podmiotami uprawnionymi do zgłoszenia kandydata na członka Rady jest grupa co najmniej: dwóch tysięcy obywateli Rzeczypospolitej Polskiej, którzy ukończyli osiemnaście lat, mają pełną zdolność do czynności prawnych i korzystają z pełni praw publicznych; dwudziestu pięciu sędziów, z wyłączeniem sędziów w stanie spoczynku. Jedno zgłoszenie może dotyczyć wyłącznie jednego kandydata na członka Rady. Podmioty, o których mowa w ust. 2, mogą złożyć więcej niż jedno zgłoszenie. Kandydata na członka Rady zgłasza się Marszałkowi Sejmu, w terminie trzydziestu dni od dnia obwieszczenia, o którym mowa w ust. 1. Zgłoszenie kandydata obejmuje informacje o kandydacie, pełnionych dotychczas funkcjach i działalności społecznej oraz innych istotnych zdarzeniach mających miejsce w trakcie pełnienia przez kandydata urzędu sędziego. Do zgłoszenia dołącza się zgodę sędziego na kandydowanie. Marszałek Sejmu, w terminie trzech dni od dnia otrzymania zgłoszenia kandydata, zwraca się na piśmie do prezesa sądu właściwego dla zgłoszonego kandydata, a w przypadku gdy zgłoszenie dotyczy prezesa: sądu rejonowego, sądu okręgowego albo wojskowego sądu garnizonowego - do prezesa sądu wyższej instancji, sądu apelacyjnego, wojewódzkiego sądu administracyjnego albo wojskowego sądu okręgowego - do wiceprezesa albo zastępcy prezesa tego sądu - z wnioskiem o sporządzenie i przekazanie, w terminie siedmiu dni od dnia otrzymania wniosku, informacji obejmującej dorobek orzeczniczy kandydata, w tym doniosłe społecznie lub precedensowe orzeczenia, i istotne informacje dotyczące kultury urzędowania, przede wszystkim ujawnione podczas wizytacji i lustracji. W przypadku, gdy informacja, o której mowa w ust. 6, nie zostanie sporządzona w terminie, o którym mowa w ust. 6, Marszałek Sejmu zwraca się na piśmie do kandydata na członka Rady o sporządzenie przez niego tej informacji, w terminie siedmiu dni od dnia otrzymania wniosku Marszałka Sejmu. Kopię sporządzonej przez siebie informacji kandydat na członka Rady przekazuje, odpowiednio, prezesowi sądu właściwego dla zgłoszonego kandydata, prezesowi sądu wyższej instancji albo wiceprezesowi albo zastępcy prezesa sądu apelacyjnego, wojewódzkiego sądu administracyjnego albo wojskowego sądu okręgowego. W przypadku niesporządzenia informacji, o której mowa w ust. 6, przez kandydata na członka Rady w terminie, o którym mowa w ust. 7, Marszałek Sejmu odmawia przyjęcia zgłoszenia. Postanowienie w tej sprawie wraz z uzasadnieniem doręcza się niezwłocznie pełnomocnikowi oraz kandydatowi na członka Rady. Informację, o której mowa w ust. 6, Marszałek Sejmu załącza do zgłoszenia kandydata."
     },
     {
-      "provision_ref": "art11u2",
-      "section": "11",
-      "title": "Art. 11 ust. 2",
-      "content": "Zgromadzenie Ogólne Sędziów Naczelnego Sądu Administracyjnego wspólnie z przedstawicielami zgromadzeń ogólnych wojewódzkich sądów administracyjnych wybiera spośród sędziów sądów administracyjnych dwóch członków Rady."
+      "provision_ref": "art11au1",
+      "section": "11a",
+      "title": "Art. 11a ust. 1",
+      "content": "Marszałek Sejmu, nie wcześniej niż na sto dwadzieścia i nie później niż na dziewięćdziesiąt dni przed upływem kadencji członków Rady wybranych spośród sędziów obwieszcza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” o rozpoczęciu procedury zgłaszania kandydatów na członków Rady."
     },
     {
-      "provision_ref": "art11u3",
-      "section": "11",
-      "title": "Art. 11 ust. 3",
-      "content": "Zebranie przedstawicieli zgromadzeń ogólnych sędziów sądów apelacyjnych wybiera spośród sędziów sądów apelacyjnych dwóch członków Rady."
+      "provision_ref": "art11au2p1",
+      "section": "11a",
+      "title": "Art. 11a ust. 2 pkt 1",
+      "content": "Podmiotami uprawnionymi do zgłoszenia kandydata na członka Rady jest grupa co najmniej: dwóch tysięcy obywateli Rzeczypospolitej Polskiej, którzy ukończyli osiemnaście lat, mają pełną zdolność do czynności prawnych i korzystają z pełni praw publicznych;"
     },
     {
-      "provision_ref": "art11u4",
-      "section": "11",
-      "title": "Art. 11 ust. 4",
-      "content": "Zebranie przedstawicieli zgromadzeń ogólnych sędziów okręgów wybiera spośród swego grona ośmiu członków Rady."
+      "provision_ref": "art11au2p2",
+      "section": "11a",
+      "title": "Art. 11a ust. 2 pkt 2",
+      "content": "Podmiotami uprawnionymi do zgłoszenia kandydata na członka Rady jest grupa co najmniej: dwudziestu pięciu sędziów, z wyłączeniem sędziów w stanie spoczynku."
     },
     {
-      "provision_ref": "art11u5",
-      "section": "11",
-      "title": "Art. 11 ust. 5",
-      "content": "Zgromadzenie Sędziów Sądów Wojskowych wybiera spośród swego grona jednego członka Rady."
+      "provision_ref": "art11au3",
+      "section": "11a",
+      "title": "Art. 11a ust. 3",
+      "content": "Jedno zgłoszenie może dotyczyć wyłącznie jednego kandydata na członka Rady. Podmioty, o których mowa w ust. 2, mogą złożyć więcej niż jedno zgłoszenie."
+    },
+    {
+      "provision_ref": "art11au4",
+      "section": "11a",
+      "title": "Art. 11a ust. 4",
+      "content": "Kandydata na członka Rady zgłasza się Marszałkowi Sejmu, w terminie trzydziestu dni od dnia obwieszczenia, o którym mowa w ust. 1."
+    },
+    {
+      "provision_ref": "art11au5",
+      "section": "11a",
+      "title": "Art. 11a ust. 5",
+      "content": "Zgłoszenie kandydata obejmuje informacje o kandydacie, pełnionych dotychczas funkcjach i działalności społecznej oraz innych istotnych zdarzeniach mających miejsce w trakcie pełnienia przez kandydata urzędu sędziego. Do zgłoszenia dołącza się zgodę sędziego na kandydowanie."
+    },
+    {
+      "provision_ref": "art11au6p1",
+      "section": "11a",
+      "title": "Art. 11a ust. 6 pkt 1",
+      "content": "Marszałek Sejmu, w terminie trzech dni od dnia otrzymania zgłoszenia kandydata, zwraca się na piśmie do prezesa sądu właściwego dla zgłoszonego kandydata, a w przypadku gdy zgłoszenie dotyczy prezesa: sądu rejonowego, sądu okręgowego albo wojskowego sądu garnizonowego - do prezesa sądu wyższej instancji,"
+    },
+    {
+      "provision_ref": "art11au6p2",
+      "section": "11a",
+      "title": "Art. 11a ust. 6 pkt 2",
+      "content": "Marszałek Sejmu, w terminie trzech dni od dnia otrzymania zgłoszenia kandydata, zwraca się na piśmie do prezesa sądu właściwego dla zgłoszonego kandydata, a w przypadku gdy zgłoszenie dotyczy prezesa: sądu apelacyjnego, wojewódzkiego sądu administracyjnego albo wojskowego sądu okręgowego - do wiceprezesa albo zastępcy prezesa tego sądu"
+    },
+    {
+      "provision_ref": "art11au7",
+      "section": "11a",
+      "title": "Art. 11a ust. 7",
+      "content": "W przypadku, gdy informacja, o której mowa w ust. 6, nie zostanie sporządzona w terminie, o którym mowa w ust. 6, Marszałek Sejmu zwraca się na piśmie do kandydata na członka Rady o sporządzenie przez niego tej informacji, w terminie siedmiu dni od dnia otrzymania wniosku Marszałka Sejmu. Kopię sporządzonej przez siebie informacji kandydat na członka Rady przekazuje, odpowiednio, prezesowi sądu właściwego dla zgłoszonego kandydata, prezesowi sądu wyższej instancji albo wiceprezesowi albo zastępcy prezesa sądu apelacyjnego, wojewódzkiego sądu administracyjnego albo wojskowego sądu okręgowego."
+    },
+    {
+      "provision_ref": "art11au8",
+      "section": "11a",
+      "title": "Art. 11a ust. 8",
+      "content": "W przypadku niesporządzenia informacji, o której mowa w ust. 6, przez kandydata na członka Rady w terminie, o którym mowa w ust. 7, Marszałek Sejmu odmawia przyjęcia zgłoszenia. Postanowienie w tej sprawie wraz z uzasadnieniem doręcza się niezwłocznie pełnomocnikowi oraz kandydatowi na członka Rady."
+    },
+    {
+      "provision_ref": "art11au9",
+      "section": "11a",
+      "title": "Art. 11a ust. 9",
+      "content": "Informację, o której mowa w ust. 6, Marszałek Sejmu załącza do zgłoszenia kandydata."
+    },
+    {
+      "provision_ref": "art11b",
+      "section": "11b",
+      "title": "Art. 11b",
+      "content": "Zgłoszenia kandydata dokonuje na piśmie pełnomocnik. Pełnomocnikiem jest osoba wskazana w pisemnym oświadczeniu pierwszych piętnastu osób z wykazu. Do zgłoszenia kandydata przez podmiot, o którym mowa w art. 11a ust. 2 pkt 1, załącza się wykaz obywateli popierających zgłoszenie, zawierający ich imiona, nazwiska, adresy zamieszkania, numery ewidencyjne PESEL i własnoręcznie złożone podpisy. W przypadku wątpliwości, co do prawidłowości złożenia wymaganej liczby podpisów Marszałek Sejmu, w terminie trzech dni od dnia otrzymania zgłoszenia, zwraca się na piśmie do Państwowej Komisji Wyborczej o stwierdzenie, czy złożono wymaganą liczbę podpisów. Państwowa Komisja Wyborcza w postępowaniu stwierdza, czy złożono wymaganą liczbę podpisów w terminie czternastu dni od dnia otrzymania pisma Marszałka Sejmu. Jeżeli po przeprowadzeniu postępowania, o którym mowa w ust. 4, okaże się, że liczba prawidłowo złożonych podpisów przez obywateli popierających zgłoszenie jest mniejsza niż wymagana, Marszałek Sejmu odmawia przyjęcia zgłoszenia. Postanowienie w tej sprawie wraz z uzasadnieniem doręcza się niezwłocznie pełnomocnikowi. Postanowienie może być zaskarżone przez pełnomocnika do Sądu Najwyższego w terminie trzech dni od dnia doręczenia. Sąd Najwyższy rozpoznaje skargę w terminie trzech dni w postępowaniu nieprocesowym, w składzie trzech sędziów. W wyniku rozpoznania skargi Sąd Najwyższy zaskarżone postanowienie zmienia albo utrzymuje w mocy. Od postanowienia Sądu Najwyższego nie przysługuje środek prawny. W przypadku nierozpoznania skargi przez Sąd Najwyższy w terminie trzech dni postępowanie przed Sądem Najwyższym umarza się z mocy prawa, a postanowienie Marszałka Sejmu odmawiające przyjęcia zgłoszenia jest wiążące. Do zgłoszenia kandydata przez podmiot, o którym mowa w art. 11a ust. 2 pkt 2, załącza się wykaz sędziów popierających zgłoszenie, zawierający ich imiona, nazwiska, miejsca służbowe, numery ewidencyjne PESEL i własnoręcznie złożone podpisy. Marszałek Sejmu, w terminie trzech dni od dnia otrzymania zgłoszenia kandydata przez podmiot, o którym mowa w art. 11a ust. 2 pkt 2, zwraca się na piśmie do Ministra Sprawiedliwości o potwierdzenie posiadania przez osoby popierające zgłoszenie statusu sędziego. Minister Sprawiedliwości potwierdza posiadanie przez osoby popierające zgłoszenie statusu sędziego w terminie trzech dni od dnia otrzymania pisma Marszałka Sejmu. Przepisy ust. 5 i 6 stosuje się odpowiednio. Wzór zgłoszenia kandydata oraz wzory wykazu obywateli i wykazu sędziów popierających zgłoszenie kandydata na członka Rady ustala, w drodze zarządzenia, Marszałek Sejmu. Zarządzenie Marszałka Sejmu podlega obwieszczeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”."
+    },
+    {
+      "provision_ref": "art11bu1",
+      "section": "11b",
+      "title": "Art. 11b ust. 1",
+      "content": "Zgłoszenia kandydata dokonuje na piśmie pełnomocnik. Pełnomocnikiem jest osoba wskazana w pisemnym oświadczeniu pierwszych piętnastu osób z wykazu."
+    },
+    {
+      "provision_ref": "art11bu2",
+      "section": "11b",
+      "title": "Art. 11b ust. 2",
+      "content": "Do zgłoszenia kandydata przez podmiot, o którym mowa w art. 11a ust. 2 pkt 1, załącza się wykaz obywateli popierających zgłoszenie, zawierający ich imiona, nazwiska, adresy zamieszkania, numery ewidencyjne PESEL i własnoręcznie złożone podpisy."
+    },
+    {
+      "provision_ref": "art11bu3",
+      "section": "11b",
+      "title": "Art. 11b ust. 3",
+      "content": "W przypadku wątpliwości, co do prawidłowości złożenia wymaganej liczby podpisów Marszałek Sejmu, w terminie trzech dni od dnia otrzymania zgłoszenia, zwraca się na piśmie do Państwowej Komisji Wyborczej o stwierdzenie, czy złożono wymaganą liczbę podpisów."
+    },
+    {
+      "provision_ref": "art11bu4",
+      "section": "11b",
+      "title": "Art. 11b ust. 4",
+      "content": "Państwowa Komisja Wyborcza w postępowaniu stwierdza, czy złożono wymaganą liczbę podpisów w terminie czternastu dni od dnia otrzymania pisma Marszałka Sejmu."
+    },
+    {
+      "provision_ref": "art11bu5",
+      "section": "11b",
+      "title": "Art. 11b ust. 5",
+      "content": "Jeżeli po przeprowadzeniu postępowania, o którym mowa w ust. 4, okaże się, że liczba prawidłowo złożonych podpisów przez obywateli popierających zgłoszenie jest mniejsza niż wymagana, Marszałek Sejmu odmawia przyjęcia zgłoszenia. Postanowienie w tej sprawie wraz z uzasadnieniem doręcza się niezwłocznie pełnomocnikowi."
+    },
+    {
+      "provision_ref": "art11bu6",
+      "section": "11b",
+      "title": "Art. 11b ust. 6",
+      "content": "Postanowienie może być zaskarżone przez pełnomocnika do Sądu Najwyższego w terminie trzech dni od dnia doręczenia. Sąd Najwyższy rozpoznaje skargę w terminie trzech dni w postępowaniu nieprocesowym, w składzie trzech sędziów. W wyniku rozpoznania skargi Sąd Najwyższy zaskarżone postanowienie zmienia albo utrzymuje w mocy. Od postanowienia Sądu Najwyższego nie przysługuje środek prawny. W przypadku nierozpoznania skargi przez Sąd Najwyższy w terminie trzech dni postępowanie przed Sądem Najwyższym umarza się z mocy prawa, a postanowienie Marszałka Sejmu odmawiające przyjęcia zgłoszenia jest wiążące."
+    },
+    {
+      "provision_ref": "art11bu7",
+      "section": "11b",
+      "title": "Art. 11b ust. 7",
+      "content": "Do zgłoszenia kandydata przez podmiot, o którym mowa w art. 11a ust. 2 pkt 2, załącza się wykaz sędziów popierających zgłoszenie, zawierający ich imiona, nazwiska, miejsca służbowe, numery ewidencyjne PESEL i własnoręcznie złożone podpisy."
+    },
+    {
+      "provision_ref": "art11bu8",
+      "section": "11b",
+      "title": "Art. 11b ust. 8",
+      "content": "Marszałek Sejmu, w terminie trzech dni od dnia otrzymania zgłoszenia kandydata przez podmiot, o którym mowa w art. 11a ust. 2 pkt 2, zwraca się na piśmie do Ministra Sprawiedliwości o potwierdzenie posiadania przez osoby popierające zgłoszenie statusu sędziego. Minister Sprawiedliwości potwierdza posiadanie przez osoby popierające zgłoszenie statusu sędziego w terminie trzech dni od dnia otrzymania pisma Marszałka Sejmu. Przepisy ust. 5 i 6 stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "art11bu9",
+      "section": "11b",
+      "title": "Art. 11b ust. 9",
+      "content": "Wzór zgłoszenia kandydata oraz wzory wykazu obywateli i wykazu sędziów popierających zgłoszenie kandydata na członka Rady ustala, w drodze zarządzenia, Marszałek Sejmu. Zarządzenie Marszałka Sejmu podlega obwieszczeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”."
+    },
+    {
+      "provision_ref": "art11c",
+      "section": "11c",
+      "title": "Art. 11c",
+      "content": "Zgłoszenia kandydatów dokonane zgodnie z art. 11a i art. 11b Marszałek Sejmu niezwłocznie przekazuje posłom i podaje do publicznej wiadomości, z wyłączeniem załączników."
+    },
+    {
+      "provision_ref": "art11d",
+      "section": "11d",
+      "title": "Art. 11d",
+      "content": "Marszałek Sejmu zwraca się do klubów poselskich o wskazanie, w terminie siedmiu dni, kandydatów na członków Rady. Klub poselski wskazuje, spośród sędziów, których kandydatury zostały zgłoszone w trybie art. 11a, nie więcej niż dziewięciu kandydatów na członków Rady. Jeżeli łączna liczba kandydatów wskazanych przez kluby poselskie jest mniejsza niż piętnaście, Prezydium Sejmu wskazuje, spośród kandydatów zgłoszonych w trybie art. 11a, kandydatów w liczbie brakującej do piętnastu. Właściwa komisja sejmowa ustala listę kandydatów wybierając, spośród kandydatów wskazanych w trybie ust. 2 i 3, piętnastu kandydatów na członków Rady, z zastrzeżeniem, że na liście uwzględnia się co najmniej jednego kandydata wskazanego przez każdy klub poselski, który działał w terminie sześćdziesięciu dni od dnia pierwszego posiedzenia Sejmu kadencji w trakcie której jest dokonywany wybór, o ile kandydat ten został wskazany przez klub w ramach wskazania, o którym mowa w ust. 2. Sejm wybiera członków Rady na wspólną czteroletnią kadencję, na najbliższym posiedzeniu Sejmu, większością 3/5 głosów w obecności co najmniej połowy ustawowej liczby posłów, głosując na listę kandydatów, o której mowa w ust. 4. W przypadku niedokonania wyboru członków Rady w trybie określonym w ust. 5, Sejm wybiera członków Rady bezwzględną większością głosów w obecności co najmniej połowy ustawowej liczby posłów, głosując na listę kandydatów, o której mowa w ust. 4. Jeżeli w wyniku zastosowania trybu, o którym mowa w ust. 1-6, nie zostanie wybranych piętnastu członków Rady, stosuje się odpowiednio przepisy art. 11a-11d."
+    },
+    {
+      "provision_ref": "art11du1",
+      "section": "11d",
+      "title": "Art. 11d ust. 1",
+      "content": "Marszałek Sejmu zwraca się do klubów poselskich o wskazanie, w terminie siedmiu dni, kandydatów na członków Rady."
+    },
+    {
+      "provision_ref": "art11du2",
+      "section": "11d",
+      "title": "Art. 11d ust. 2",
+      "content": "Klub poselski wskazuje, spośród sędziów, których kandydatury zostały zgłoszone w trybie art. 11a, nie więcej niż dziewięciu kandydatów na członków Rady."
+    },
+    {
+      "provision_ref": "art11du3",
+      "section": "11d",
+      "title": "Art. 11d ust. 3",
+      "content": "Jeżeli łączna liczba kandydatów wskazanych przez kluby poselskie jest mniejsza niż piętnaście, Prezydium Sejmu wskazuje, spośród kandydatów zgłoszonych w trybie art. 11a, kandydatów w liczbie brakującej do piętnastu."
+    },
+    {
+      "provision_ref": "art11du4",
+      "section": "11d",
+      "title": "Art. 11d ust. 4",
+      "content": "Właściwa komisja sejmowa ustala listę kandydatów wybierając, spośród kandydatów wskazanych w trybie ust. 2 i 3, piętnastu kandydatów na członków Rady, z zastrzeżeniem, że na liście uwzględnia się co najmniej jednego kandydata wskazanego przez każdy klub poselski, który działał w terminie sześćdziesięciu dni od dnia pierwszego posiedzenia Sejmu kadencji w trakcie której jest dokonywany wybór, o ile kandydat ten został wskazany przez klub w ramach wskazania, o którym mowa w ust. 2."
+    },
+    {
+      "provision_ref": "art11du5",
+      "section": "11d",
+      "title": "Art. 11d ust. 5",
+      "content": "Sejm wybiera członków Rady na wspólną czteroletnią kadencję, na najbliższym posiedzeniu Sejmu, większością 3/5 głosów w obecności co najmniej połowy ustawowej liczby posłów, głosując na listę kandydatów, o której mowa w ust. 4."
+    },
+    {
+      "provision_ref": "art11du6",
+      "section": "11d",
+      "title": "Art. 11d ust. 6",
+      "content": "W przypadku niedokonania wyboru członków Rady w trybie określonym w ust. 5, Sejm wybiera członków Rady bezwzględną większością głosów w obecności co najmniej połowy ustawowej liczby posłów, głosując na listę kandydatów, o której mowa w ust. 4."
+    },
+    {
+      "provision_ref": "art11du7",
+      "section": "11d",
+      "title": "Art. 11d ust. 7",
+      "content": "Jeżeli w wyniku zastosowania trybu, o którym mowa w ust. 1-6, nie zostanie wybranych piętnastu członków Rady, stosuje się odpowiednio przepisy art. 11a-11d."
+    },
+    {
+      "provision_ref": "art11e",
+      "section": "11e",
+      "title": "Art. 11e",
+      "content": "Jeżeli przed upływem kadencji członka Rady wybranego spośród sędziów zajdzie potrzeba ponownego obsadzenia mandatu członka Rady, Marszałek Sejmu niezwłocznie obwieszcza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” o rozpoczęciu procedury zgłaszania kandydatów na członka Rady w związku z potrzebą ponownego obsadzenia mandatu. Przepisy art. 11a ust. 2-9, art. 11b i art. 11c stosuje się odpowiednio. W przypadku, o którym mowa w ust. 1, do wyboru członka Rady stosuje się przepisy art. 9a ust. 1 i 2 oraz art. 11d. Kadencja członka Rady wybranego w związku z potrzebą ponownego obsadzenia mandatu upływa z dniem zakończenia kadencji członków Rady wybranych spośród sędziów."
+    },
+    {
+      "provision_ref": "art11eu1",
+      "section": "11e",
+      "title": "Art. 11e ust. 1",
+      "content": "Jeżeli przed upływem kadencji członka Rady wybranego spośród sędziów zajdzie potrzeba ponownego obsadzenia mandatu członka Rady, Marszałek Sejmu niezwłocznie obwieszcza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” o rozpoczęciu procedury zgłaszania kandydatów na członka Rady w związku z potrzebą ponownego obsadzenia mandatu. Przepisy art. 11a ust. 2-9, art. 11b i art. 11c stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "art11eu2",
+      "section": "11e",
+      "title": "Art. 11e ust. 2",
+      "content": "W przypadku, o którym mowa w ust. 1, do wyboru członka Rady stosuje się przepisy art. 9a ust. 1 i 2 oraz art. 11d."
+    },
+    {
+      "provision_ref": "art11eu3",
+      "section": "11e",
+      "title": "Art. 11e ust. 3",
+      "content": "Kadencja członka Rady wybranego w związku z potrzebą ponownego obsadzenia mandatu upływa z dniem zakończenia kadencji członków Rady wybranych spośród sędziów."
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Art. 12",
-      "content": "Zgromadzenia ogólne sędziów wojewódzkich sądów administracyjnych wybierają spośród swoich członków po dwóch przedstawicieli. Wybory przedstawicieli zgromadzeń ogólnych sędziów wojewódzkich sądów administracyjnych przeprowadza się najpóźniej na miesiąc przed upływem kadencji członków Rady, wybieranych spośród sędziów sądów administracyjnych. Przedstawiciele wybierani są na okres czterech lat."
-    },
-    {
-      "provision_ref": "art12u1",
-      "section": "12",
-      "title": "Art. 12 ust. 1",
-      "content": "Zgromadzenia ogólne sędziów wojewódzkich sądów administracyjnych wybierają spośród swoich członków po dwóch przedstawicieli."
-    },
-    {
-      "provision_ref": "art12u2",
-      "section": "12",
-      "title": "Art. 12 ust. 2",
-      "content": "Wybory przedstawicieli zgromadzeń ogólnych sędziów wojewódzkich sądów administracyjnych przeprowadza się najpóźniej na miesiąc przed upływem kadencji członków Rady, wybieranych spośród sędziów sądów administracyjnych. Przedstawiciele wybierani są na okres czterech lat."
+      "content": "(uchylony)"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Art. 13",
-      "content": "Zgromadzenia ogólne sędziów sądów apelacyjnych wybierają przedstawicieli zgromadzeń ogólnych sędziów sądów apelacyjnych spośród sędziów sądów apelacyjnych w liczbie jednej piątej liczby tych sędziów. Zgromadzenia ogólne sędziów okręgów wybierają przedstawicieli zgromadzeń ogólnych sędziów okręgów spośród swych członków w liczbie jednej pięćdziesiątej liczby sędziów okręgu. Wybory przedstawicieli zgromadzeń ogólnych przeprowadza się najpóźniej na miesiąc przed upływem kadencji członków Rady, wybieranych spośród sędziów sądów powszechnych. Przedstawiciele wybierani są na okres czterech lat. Minister Sprawiedliwości w porozumieniu z Przewodniczącym Rady zwołuje zebranie przedstawicieli w celu wyboru członków Rady. Przewodniczący Rady zwołuje zebranie przedstawicieli raz na dwa lata, a także na żądanie jednej trzeciej liczby przedstawicieli albo na wniosek Rady. Zebrania przedstawicieli dokonują oceny działalności wybranych przez nich członków Rady, zgłaszają Radzie postulaty dotyczące jej działalności i podejmują uchwały dotyczące problemów pojawiających się w działalności sądów powszechnych. Zebraniu przedstawicieli przewodniczy najstarszy wiekiem sędzia. Zebrania obradują zgodnie z uchwalanymi przez nie regulaminami."
-    },
-    {
-      "provision_ref": "art13u1",
-      "section": "13",
-      "title": "Art. 13 ust. 1",
-      "content": "Zgromadzenia ogólne sędziów sądów apelacyjnych wybierają przedstawicieli zgromadzeń ogólnych sędziów sądów apelacyjnych spośród sędziów sądów apelacyjnych w liczbie jednej piątej liczby tych sędziów."
-    },
-    {
-      "provision_ref": "art13u2",
-      "section": "13",
-      "title": "Art. 13 ust. 2",
-      "content": "Zgromadzenia ogólne sędziów okręgów wybierają przedstawicieli zgromadzeń ogólnych sędziów okręgów spośród swych członków w liczbie jednej pięćdziesiątej liczby sędziów okręgu."
-    },
-    {
-      "provision_ref": "art13u3",
-      "section": "13",
-      "title": "Art. 13 ust. 3",
-      "content": "Wybory przedstawicieli zgromadzeń ogólnych przeprowadza się najpóźniej na miesiąc przed upływem kadencji członków Rady, wybieranych spośród sędziów sądów powszechnych. Przedstawiciele wybierani są na okres czterech lat."
-    },
-    {
-      "provision_ref": "art13u4",
-      "section": "13",
-      "title": "Art. 13 ust. 4",
-      "content": "Minister Sprawiedliwości w porozumieniu z Przewodniczącym Rady zwołuje zebranie przedstawicieli w celu wyboru członków Rady. Przewodniczący Rady zwołuje zebranie przedstawicieli raz na dwa lata, a także na żądanie jednej trzeciej liczby przedstawicieli albo na wniosek Rady."
-    },
-    {
-      "provision_ref": "art13u5",
-      "section": "13",
-      "title": "Art. 13 ust. 5",
-      "content": "Zebrania przedstawicieli dokonują oceny działalności wybranych przez nich członków Rady, zgłaszają Radzie postulaty dotyczące jej działalności i podejmują uchwały dotyczące problemów pojawiających się w działalności sądów powszechnych."
-    },
-    {
-      "provision_ref": "art13u6",
-      "section": "13",
-      "title": "Art. 13 ust. 6",
-      "content": "Zebraniu przedstawicieli przewodniczy najstarszy wiekiem sędzia. Zebrania obradują zgodnie z uchwalanymi przez nie regulaminami."
+      "content": "(uchylony)"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Art. 14",
-      "content": "Mandat wybranego członka Rady wygasa przed upływem kadencji w razie: śmierci; zrzeczenia się mandatu; wygaśnięcia mandatu posła albo senatora; powołania sędziego na inne stanowisko sędziowskie, z wyjątkiem powołania sędziego sądu rejonowego na stanowisko sędziego sądu okręgowego, sędziego wojskowego sądu garnizonowego na stanowisko sędziego wojskowego sądu okręgowego albo sędziego wojewódzkiego sądu administracyjnego na stanowisko sędziego Naczelnego Sądu Administracyjnego; wygaśnięcia albo rozwiązania stosunku służbowego sędziego; przejścia lub przeniesienia sędziego w stan spoczynku. Zrzeczenie się mandatu w Radzie jest skuteczne z chwilą powiadomienia o tym na piśmie Przewodniczącego Rady. Przewodniczący powiadamia niezwłocznie organ, który dokonał wyboru członka. Wybór nowego członka Rady powinien być dokonany w ciągu dwóch miesięcy od dnia wygaśnięcia mandatu."
+      "content": "Mandat wybranego członka Rady wygasa przed upływem kadencji w razie: śmierci; zrzeczenia się mandatu; wygaśnięcia mandatu posła albo senatora; (uchylony) wygaśnięcia albo rozwiązania stosunku służbowego sędziego; przejścia lub przeniesienia sędziego w stan spoczynku. Zrzeczenie się mandatu w Radzie jest skuteczne z chwilą powiadomienia o tym na piśmie Przewodniczącego Rady. Przewodniczący powiadamia niezwłocznie organ, który dokonał wyboru członka. Wybór nowego członka Rady spośród posłów lub senatorów powinien być dokonany w terminie dwóch miesięcy od dnia wygaśnięcia mandatu."
     },
     {
       "provision_ref": "art14u1p1",
@@ -355,7 +541,7 @@
       "provision_ref": "art14u1p4",
       "section": "14",
       "title": "Art. 14 ust. 1 pkt 4",
-      "content": "Mandat wybranego członka Rady wygasa przed upływem kadencji w razie: powołania sędziego na inne stanowisko sędziowskie, z wyjątkiem powołania sędziego sądu rejonowego na stanowisko sędziego sądu okręgowego, sędziego wojskowego sądu garnizonowego na stanowisko sędziego wojskowego sądu okręgowego albo sędziego wojewódzkiego sądu administracyjnego na stanowisko sędziego Naczelnego Sądu Administracyjnego;"
+      "content": "Mandat wybranego członka Rady wygasa przed upływem kadencji w razie: (uchylony)"
     },
     {
       "provision_ref": "art14u1p5",
@@ -379,7 +565,7 @@
       "provision_ref": "art14u3",
       "section": "14",
       "title": "Art. 14 ust. 3",
-      "content": "Wybór nowego członka Rady powinien być dokonany w ciągu dwóch miesięcy od dnia wygaśnięcia mandatu."
+      "content": "Wybór nowego członka Rady spośród posłów lub senatorów powinien być dokonany w terminie dwóch miesięcy od dnia wygaśnięcia mandatu."
     },
     {
       "provision_ref": "art15",
@@ -511,19 +697,19 @@
       "provision_ref": "art19",
       "section": "19",
       "title": "Art. 19",
-      "content": "Rada powołuje ze swego składu stałe komisje: komisję do spraw odpowiedzialności dyscyplinarnej sędziów, której zadaniem jest analizowanie wyroków sądów dyscyplinarnych, składanie Radzie wniosków w przedmiocie żądania podjęcia czynności dyscyplinarnych, zaskarżania orzeczeń sądów dyscyplinarnych i rzeczników dyscyplinarnych oraz żądania wznowienia postępowania dyscyplinarnego; komisję budżetową, której zadaniem jest coroczne: opracowywanie projektu uchwały zawierającej plan dochodów i wydatków Rady oraz uchwał zawierających wnioski, o których mowa w art. 178 § 3 ustawy z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych ) i art. 4 § 4 ustawy z dnia 21 sierpnia 1997 r. - Prawo o ustroju sądów wojskowych ) , badanie danych zawartych w oświadczeniach prezesów sądów apelacyjnych oraz prezesów wojskowych sądów okręgowych o ich stanie majątkowym celem dokonania przez Radę analizy tych oświadczeń do dnia 30 czerwca każdego roku; komisję do spraw wizytacji i lustracji, której zadaniem jest przygotowanie projektów uchwał w sprawach przeprowadzenia wizytacji sądu albo jego jednostki organizacyjnej, lustracji w sądzie albo lustracji pracy sędziego; komisję do spraw etyki zawodowej sędziów, której zadaniem jest przygotowywanie projektów uchwał dotyczących zbioru zasad etyki zawodowej sędziów oraz przestrzegania tych zasad. Rada może powoływać inne komisje problemowe."
+      "content": "Rada powołuje ze swego składu stałe komisje: komisję do spraw odpowiedzialności dyscyplinarnej sędziów i asesorów sądowych, której zadaniem jest analizowanie wyroków sądów dyscyplinarnych, składanie Radzie wniosków w przedmiocie żądania podjęcia czynności dyscyplinarnych, zaskarżania orzeczeń sądów dyscyplinarnych i rzeczników dyscyplinarnych oraz żądania wznowienia postępowania dyscyplinarnego; komisję budżetową, której zadaniem jest coroczne: opracowywanie projektu uchwały zawierającej plan dochodów i wydatków Rady oraz uchwał zawierających wnioski, o których mowa w art. 178 § 3 ustawy z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych i art. 4 § 4 ustawy z dnia 21 sierpnia 1997 r. - Prawo o ustroju sądów wojskowych , badanie danych zawartych w oświadczeniach prezesów sądów apelacyjnych oraz prezesów wojskowych sądów okręgowych o ich stanie majątkowym celem dokonania przez Radę analizy tych oświadczeń do dnia 30 czerwca każdego roku; komisję do spraw wizytacji i lustracji, której zadaniem jest przygotowanie projektów uchwał w sprawach przeprowadzenia wizytacji sądu albo jego jednostki organizacyjnej, lustracji w sądzie albo lustracji pracy sędziego lub asesora sądowego; komisję do spraw etyki zawodowej sędziów i asesorów sądowych, której zadaniem jest przygotowywanie projektów uchwał dotyczących zbioru zasad etyki zawodowej sędziów i asesorów sądowych oraz przestrzegania tych zasad. Rada może powoływać inne komisje problemowe."
     },
     {
       "provision_ref": "art19u1p1",
       "section": "19",
       "title": "Art. 19 ust. 1 pkt 1",
-      "content": "Rada powołuje ze swego składu stałe komisje: komisję do spraw odpowiedzialności dyscyplinarnej sędziów, której zadaniem jest analizowanie wyroków sądów dyscyplinarnych, składanie Radzie wniosków w przedmiocie żądania podjęcia czynności dyscyplinarnych, zaskarżania orzeczeń sądów dyscyplinarnych i rzeczników dyscyplinarnych oraz żądania wznowienia postępowania dyscyplinarnego;"
+      "content": "Rada powołuje ze swego składu stałe komisje: komisję do spraw odpowiedzialności dyscyplinarnej sędziów i asesorów sądowych, której zadaniem jest analizowanie wyroków sądów dyscyplinarnych, składanie Radzie wniosków w przedmiocie żądania podjęcia czynności dyscyplinarnych, zaskarżania orzeczeń sądów dyscyplinarnych i rzeczników dyscyplinarnych oraz żądania wznowienia postępowania dyscyplinarnego;"
     },
     {
       "provision_ref": "art19u1p2la",
       "section": "19",
       "title": "Art. 19 ust. 1 pkt 2 lit. a",
-      "content": "Rada powołuje ze swego składu stałe komisje: komisję budżetową, której zadaniem jest coroczne: opracowywanie projektu uchwały zawierającej plan dochodów i wydatków Rady oraz uchwał zawierających wnioski, o których mowa w art. 178 § 3 ustawy z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych ) i art. 4 § 4 ustawy z dnia 21 sierpnia 1997 r. - Prawo o ustroju sądów wojskowych ) ,"
+      "content": "Rada powołuje ze swego składu stałe komisje: komisję budżetową, której zadaniem jest coroczne: opracowywanie projektu uchwały zawierającej plan dochodów i wydatków Rady oraz uchwał zawierających wnioski, o których mowa w art. 178 § 3 ustawy z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych i art. 4 § 4 ustawy z dnia 21 sierpnia 1997 r. - Prawo o ustroju sądów wojskowych ,"
     },
     {
       "provision_ref": "art19u1p2lb",
@@ -535,13 +721,13 @@
       "provision_ref": "art19u1p3",
       "section": "19",
       "title": "Art. 19 ust. 1 pkt 3",
-      "content": "Rada powołuje ze swego składu stałe komisje: komisję do spraw wizytacji i lustracji, której zadaniem jest przygotowanie projektów uchwał w sprawach przeprowadzenia wizytacji sądu albo jego jednostki organizacyjnej, lustracji w sądzie albo lustracji pracy sędziego;"
+      "content": "Rada powołuje ze swego składu stałe komisje: komisję do spraw wizytacji i lustracji, której zadaniem jest przygotowanie projektów uchwał w sprawach przeprowadzenia wizytacji sądu albo jego jednostki organizacyjnej, lustracji w sądzie albo lustracji pracy sędziego lub asesora sądowego;"
     },
     {
       "provision_ref": "art19u1p4",
       "section": "19",
       "title": "Art. 19 ust. 1 pkt 4",
-      "content": "Rada powołuje ze swego składu stałe komisje: komisję do spraw etyki zawodowej sędziów, której zadaniem jest przygotowywanie projektów uchwał dotyczących zbioru zasad etyki zawodowej sędziów oraz przestrzegania tych zasad."
+      "content": "Rada powołuje ze swego składu stałe komisje: komisję do spraw etyki zawodowej sędziów i asesorów sądowych, której zadaniem jest przygotowywanie projektów uchwał dotyczących zbioru zasad etyki zawodowej sędziów i asesorów sądowych oraz przestrzegania tych zasad."
     },
     {
       "provision_ref": "art19u2",
@@ -553,13 +739,13 @@
       "provision_ref": "art20",
       "section": "20",
       "title": "Art. 20",
-      "content": "Rada obraduje na posiedzeniach plenarnych. Posiedzenia plenarne Rady zwołuje Przewodniczący Rady w miarę potrzeb, co najmniej raz na dwa miesiące. Ponadto posiedzenia plenarne Rady zwołuje się na wniosek co najmniej jednej trzeciej jej członków oraz na wniosek Ministra Sprawiedliwości. Pierwsze posiedzenie Rady po zwolnieniu stanowiska Przewodniczącego zwołuje Pierwszy Prezes Sądu Najwyższego, który przewodniczy obradom do czasu wyboru nowego Przewodniczącego."
+      "content": "Rada obraduje na posiedzeniach plenarnych. Obrady są transmitowane za pośrednictwem Internetu, chyba że Rada podejmie uchwałę o wyłączeniu jawności posiedzenia. Rada wyłącza jawność posiedzenia w całości lub części, jeżeli jawność mogłaby prowadzić do ujawnienia informacji podlegających ochronie na zasadach określonych w ustawie z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych lub naruszyć ważny interes prywatny przez ujawnienie danych, o których mowa w art. 9 ust. 1 i art. 10 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) 3) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 127 z 23.05.2018, str. 2. . Posiedzenia plenarne Rady zwołuje Przewodniczący Rady w miarę potrzeb, co najmniej raz na dwa miesiące. Ponadto posiedzenia plenarne Rady zwołuje się na wniosek co najmniej jednej trzeciej jej członków oraz na wniosek Ministra Sprawiedliwości. Pierwsze posiedzenie Rady po zwolnieniu stanowiska Przewodniczącego zwołuje Pierwszy Prezes Sądu Najwyższego na dzień przypadający nie później niż w terminie 30 dni od dnia zwolnienia stanowiska Przewodniczącego. Pierwszy Prezes Sądu Najwyższego przewodniczy obradom do czasu wyboru nowego Przewodniczącego. W przypadku gdy nie doszło do zwołania posiedzenia Rady w sposób, o którym mowa w ust. 3, pierwsze posiedzenie Rady zwołuje najstarszy wiekiem członek Rady będący sędzią albo sędzią w stanie spoczynku, na dzień przypadający nie później niż w terminie 14 dni od dnia upływu terminu, o którym mowa w ust. 3. Sędzia ten przewodniczy obradom do czasu wyboru nowego Przewodniczącego. W przypadku, gdy nie doszło do zwołania posiedzenia Rady w sposób, o którym mowa w ust. 4, obowiązek zwołania pierwszego posiedzenia Rady przechodzi kolejno na najstarszych wiekiem członków Rady będących sędziami albo sędziami w stanie spoczynku. Przepis ust. 4 stosuje się odpowiednio."
     },
     {
       "provision_ref": "art20u1",
       "section": "20",
       "title": "Art. 20 ust. 1",
-      "content": "Rada obraduje na posiedzeniach plenarnych."
+      "content": "Rada obraduje na posiedzeniach plenarnych. Obrady są transmitowane za pośrednictwem Internetu, chyba że Rada podejmie uchwałę o wyłączeniu jawności posiedzenia. Rada wyłącza jawność posiedzenia w całości lub części, jeżeli jawność mogłaby prowadzić do ujawnienia informacji podlegających ochronie na zasadach określonych w ustawie z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych lub naruszyć ważny interes prywatny przez ujawnienie danych, o których mowa w art. 9 ust. 1 i art. 10 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) 3) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 127 z 23.05.2018, str. 2. ."
     },
     {
       "provision_ref": "art20u2",
@@ -571,13 +757,25 @@
       "provision_ref": "art20u3",
       "section": "20",
       "title": "Art. 20 ust. 3",
-      "content": "Pierwsze posiedzenie Rady po zwolnieniu stanowiska Przewodniczącego zwołuje Pierwszy Prezes Sądu Najwyższego, który przewodniczy obradom do czasu wyboru nowego Przewodniczącego."
+      "content": "Pierwsze posiedzenie Rady po zwolnieniu stanowiska Przewodniczącego zwołuje Pierwszy Prezes Sądu Najwyższego na dzień przypadający nie później niż w terminie 30 dni od dnia zwolnienia stanowiska Przewodniczącego. Pierwszy Prezes Sądu Najwyższego przewodniczy obradom do czasu wyboru nowego Przewodniczącego."
+    },
+    {
+      "provision_ref": "art20u4",
+      "section": "20",
+      "title": "Art. 20 ust. 4",
+      "content": "W przypadku gdy nie doszło do zwołania posiedzenia Rady w sposób, o którym mowa w ust. 3, pierwsze posiedzenie Rady zwołuje najstarszy wiekiem członek Rady będący sędzią albo sędzią w stanie spoczynku, na dzień przypadający nie później niż w terminie 14 dni od dnia upływu terminu, o którym mowa w ust. 3. Sędzia ten przewodniczy obradom do czasu wyboru nowego Przewodniczącego."
+    },
+    {
+      "provision_ref": "art20u5",
+      "section": "20",
+      "title": "Art. 20 ust. 5",
+      "content": "W przypadku, gdy nie doszło do zwołania posiedzenia Rady w sposób, o którym mowa w ust. 4, obowiązek zwołania pierwszego posiedzenia Rady przechodzi kolejno na najstarszych wiekiem członków Rady będących sędziami albo sędziami w stanie spoczynku. Przepis ust. 4 stosuje się odpowiednio."
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Art. 21",
-      "content": "Do ważności uchwał Rady potrzebna jest obecność co najmniej połowy jej składu. Rada podejmuje uchwały bezwzględną większością głosów, w głosowaniu jawnym. Na żądanie członka Rady głosowanie jest tajne. Powtórzenie głosowania może nastąpić w przypadku naruszenia zasad postępowania, na podstawie uchwały Rady podjętej na wniosek członka Rady zgłoszony najpóźniej w terminie określonym do zgłaszania zastrzeżeń do protokołu posiedzenia."
+      "content": "Do ważności uchwał Rady potrzebna jest obecność co najmniej połowy jej składu. Rada podejmuje uchwały bezwzględną większością głosów, w głosowaniu jawnym. Na żądanie członka Rady głosowanie jest tajne. W uzasadnionych przypadkach Przewodniczący Rady może zarządzić przeprowadzenie głosowania w trybie obiegowym za pośrednictwem poczty elektronicznej. Przewodniczący Rady przekazuje materiały zawierające dane osobowe w sposób zapewniający ich ochronę, a także zawiadamia członków Rady o sposobie oddania głosu oraz nieprzekraczalnym terminie, w którym oświadczenie o oddaniu głosu „za”, głosu „przeciw” albo wstrzymaniu się od głosu przekazuje się na adres poczty elektronicznej wskazany przez Przewodniczącego Rady. W przypadku przeprowadzania głosowania w trybie obiegowym nie można zarządzić głosowania tajnego. Głosowanie w trybie obiegowym jest ważne, jeżeli w terminie wyznaczonym na zajęcie stanowiska głos odda co najmniej połowa składu Rady. Powtórzenie głosowania może nastąpić w przypadku naruszenia zasad postępowania, na podstawie uchwały Rady podjętej na wniosek członka Rady zgłoszony najpóźniej w terminie określonym do zgłaszania zastrzeżeń do protokołu posiedzenia."
     },
     {
       "provision_ref": "art21u1",
@@ -592,6 +790,24 @@
       "content": "Rada podejmuje uchwały bezwzględną większością głosów, w głosowaniu jawnym. Na żądanie członka Rady głosowanie jest tajne."
     },
     {
+      "provision_ref": "art21u2a",
+      "section": "21",
+      "title": "Art. 21 ust. 2a",
+      "content": "W uzasadnionych przypadkach Przewodniczący Rady może zarządzić przeprowadzenie głosowania w trybie obiegowym za pośrednictwem poczty elektronicznej. Przewodniczący Rady przekazuje materiały zawierające dane osobowe w sposób zapewniający ich ochronę, a także zawiadamia członków Rady o sposobie oddania głosu oraz nieprzekraczalnym terminie, w którym oświadczenie o oddaniu głosu „za”, głosu „przeciw” albo wstrzymaniu się od głosu przekazuje się na adres poczty elektronicznej wskazany przez Przewodniczącego Rady."
+    },
+    {
+      "provision_ref": "art21u2b",
+      "section": "21",
+      "title": "Art. 21 ust. 2b",
+      "content": "W przypadku przeprowadzania głosowania w trybie obiegowym nie można zarządzić głosowania tajnego."
+    },
+    {
+      "provision_ref": "art21u2c",
+      "section": "21",
+      "title": "Art. 21 ust. 2c",
+      "content": "Głosowanie w trybie obiegowym jest ważne, jeżeli w terminie wyznaczonym na zajęcie stanowiska głos odda co najmniej połowa składu Rady."
+    },
+    {
       "provision_ref": "art21u3",
       "section": "21",
       "title": "Art. 21 ust. 3",
@@ -601,13 +817,19 @@
       "provision_ref": "art22",
       "section": "22",
       "title": "Art. 22",
-      "content": "Rada określa w regulaminie szczegółowy tryb swojego działania. Regulamin Rady podlega ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”."
+      "content": "Rada określa w regulaminie szczegółowy tryb swojego działania, z uwzględnieniem zastosowania systemu teleinformatycznego obsługującego postępowanie w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim, o którym mowa w ustawie z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych , zwanego dalej „systemem teleinformatycznym”. Rada, określając szczegółowy tryb swojego działania, kieruje się potrzebą zapewnienia dostępności informacji o postępowaniu przed Radą oraz wyczerpującej informacji o kandydatach i powodach, dla których przedstawiono wniosek o powołanie danej osoby do pełnienia urzędu sędziego albo asesora sądowego. Regulamin Rady podlega ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”."
     },
     {
       "provision_ref": "art22u1",
       "section": "22",
       "title": "Art. 22 ust. 1",
-      "content": "Rada określa w regulaminie szczegółowy tryb swojego działania."
+      "content": "Rada określa w regulaminie szczegółowy tryb swojego działania, z uwzględnieniem zastosowania systemu teleinformatycznego obsługującego postępowanie w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim, o którym mowa w ustawie z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych , zwanego dalej „systemem teleinformatycznym”."
+    },
+    {
+      "provision_ref": "art22u1a",
+      "section": "22",
+      "title": "Art. 22 ust. 1a",
+      "content": "Rada, określając szczegółowy tryb swojego działania, kieruje się potrzebą zapewnienia dostępności informacji o postępowaniu przed Radą oraz wyczerpującej informacji o kandydatach i powodach, dla których przedstawiono wniosek o powołanie danej osoby do pełnienia urzędu sędziego albo asesora sądowego."
     },
     {
       "provision_ref": "art22u2",
@@ -625,7 +847,7 @@
       "provision_ref": "art24",
       "section": "24",
       "title": "Art. 24",
-      "content": "Rada wykonuje swoje zadania przy pomocy Biura Rady, zwanego dalej „Biurem”. Biurem kieruje szef, którego powołuje i odwołuje Przewodniczący Rady po zasięgnięciu opinii Prezydium Rady. Organizację i tryb działania Biura określa regulamin uchwalany przez Radę. Do pracowników Biura stosuje się przepisy o pracownikach urzędów państwowych."
+      "content": "Rada wykonuje swoje zadania przy pomocy Biura Rady, zwanego dalej „Biurem”. Biurem kieruje szef, którego powołuje i odwołuje Przewodniczący Rady po zasięgnięciu opinii Prezydium Rady. Organizację i tryb działania Biura określa regulamin uchwalany przez Radę. Do pracowników Biura stosuje się odpowiednio przepisy ustawy z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury , z wyjątkiem wymogu odbycia stażu urzędniczego w sądzie lub prokuraturze, o którym mowa w art. 2 pkt 7 tej ustawy."
     },
     {
       "provision_ref": "art24u1",
@@ -649,7 +871,7 @@
       "provision_ref": "art24u4",
       "section": "24",
       "title": "Art. 24 ust. 4",
-      "content": "Do pracowników Biura stosuje się przepisy o pracownikach urzędów państwowych."
+      "content": "Do pracowników Biura stosuje się odpowiednio przepisy ustawy z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury , z wyjątkiem wymogu odbycia stażu urzędniczego w sądzie lub prokuraturze, o którym mowa w art. 2 pkt 7 tej ustawy."
     },
     {
       "provision_ref": "art25",
@@ -673,31 +895,31 @@
       "provision_ref": "art26",
       "section": "26",
       "title": "Art. 26",
-      "content": "Członkowie Rady w związku z pełnieniem obowiązków w Radzie otrzymują: diety za każdy dzień udziału w posiedzeniach plenarnych i innych pracach Rady w wysokości 20% podstawy ustalenia wynagrodzenia zasadniczego sędziego, o której mowa w art. 91 § 1c ustawy z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych ; zwrot kosztów podróży i zakwaterowania na warunkach określonych w przepisach wydanych na podstawie art. 77 5 § 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy ) według zasad obowiązujących przy podróżach służbowych na obszarze kraju."
+      "content": "Członkowie Rady w związku z pełnieniem obowiązków w Radzie otrzymują: diety za każdy dzień udziału w posiedzeniach plenarnych i innych pracach Rady w wysokości 20 % podstawy ustalenia wynagrodzenia zasadniczego sędziego, o której mowa w art. 91 § 1c ustawy z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych ; zwrot kosztów podróży i zakwaterowania na warunkach określonych w przepisach wydanych na podstawie art. 77 5 § 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy według zasad obowiązujących przy podróżach służbowych na obszarze kraju."
     },
     {
       "provision_ref": "art26p1",
       "section": "26",
       "title": "Art. 26 pkt 1",
-      "content": "Członkowie Rady w związku z pełnieniem obowiązków w Radzie otrzymują: diety za każdy dzień udziału w posiedzeniach plenarnych i innych pracach Rady w wysokości 20% podstawy ustalenia wynagrodzenia zasadniczego sędziego, o której mowa w art. 91 § 1c ustawy z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych ;"
+      "content": "Członkowie Rady w związku z pełnieniem obowiązków w Radzie otrzymują: diety za każdy dzień udziału w posiedzeniach plenarnych i innych pracach Rady w wysokości 20 % podstawy ustalenia wynagrodzenia zasadniczego sędziego, o której mowa w art. 91 § 1c ustawy z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych ;"
     },
     {
       "provision_ref": "art26p2",
       "section": "26",
       "title": "Art. 26 pkt 2",
-      "content": "Członkowie Rady w związku z pełnieniem obowiązków w Radzie otrzymują: zwrot kosztów podróży i zakwaterowania na warunkach określonych w przepisach wydanych na podstawie art. 77 5 § 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy ) według zasad obowiązujących przy podróżach służbowych na obszarze kraju."
+      "content": "Członkowie Rady w związku z pełnieniem obowiązków w Radzie otrzymują: zwrot kosztów podróży i zakwaterowania na warunkach określonych w przepisach wydanych na podstawie art. 77 5 § 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy według zasad obowiązujących przy podróżach służbowych na obszarze kraju."
     },
     {
       "provision_ref": "art27",
       "section": "27",
       "title": "Art. 27",
-      "content": "Koszty działalności Rady są pokrywane z budżetu państwa. Rada zapewnia warunki działania rzecznikowi dyscyplinarnemu sędziów sądów powszechnych oraz rzecznikowi dyscyplinarnemu sędziów sądów wojskowych. Dochody i wydatki Rady stanowią odrębną część w budżecie państwa. Dysponentem części budżetowej odpowiadającej Radzie jest Przewodniczący Rady. Projekt planu dochodów i wydatków uchwalony przez Radę Przewodniczący Rady przekazuje ministrowi właściwemu do spraw budżetu, w celu włączenia do projektu ustawy budżetowej na podstawie art. 139 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych ) ."
+      "content": "Koszty działalności Rady są pokrywane z budżetu państwa. Rada zapewnia warunki działania rzecznikowi dyscyplinarnemu sędziów sądów powszechnych i asesorów sądowych oraz rzecznikowi dyscyplinarnemu sędziów sądów wojskowych. Dochody i wydatki Rady stanowią odrębną część w budżecie państwa. Dysponentem części budżetowej odpowiadającej Radzie jest Przewodniczący Rady. Projekt planu dochodów i wydatków uchwalony przez Radę Przewodniczący Rady przekazuje ministrowi właściwemu do spraw budżetu, w celu włączenia do projektu ustawy budżetowej na podstawie art. 139 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych ) ."
     },
     {
       "provision_ref": "art27u1",
       "section": "27",
       "title": "Art. 27 ust. 1",
-      "content": "Koszty działalności Rady są pokrywane z budżetu państwa. Rada zapewnia warunki działania rzecznikowi dyscyplinarnemu sędziów sądów powszechnych oraz rzecznikowi dyscyplinarnemu sędziów sądów wojskowych."
+      "content": "Koszty działalności Rady są pokrywane z budżetu państwa. Rada zapewnia warunki działania rzecznikowi dyscyplinarnemu sędziów sądów powszechnych i asesorów sądowych oraz rzecznikowi dyscyplinarnemu sędziów sądów wojskowych."
     },
     {
       "provision_ref": "art27u2",
@@ -775,7 +997,7 @@
       "provision_ref": "art30",
       "section": "30",
       "title": "Art. 30",
-      "content": "W sprawach indywidualnych, w razie stwierdzenia braku dokumentów uniemożliwiającego rozpatrzenie sprawy, Przewodniczący zarządza jego uzupełnienie w wyznaczonym terminie, pod rygorem pozostawienia wniosku bez rozpatrzenia. Jeżeli do rozpatrzenia indywidualnej sprawy są niezbędne akta osobowe, Przewodniczący zwraca się o ich przedstawienie Radzie. Właściwy organ lub instytucja obowiązana jest niezwłocznie przedstawić akta Radzie."
+      "content": "W sprawach indywidualnych, w razie stwierdzenia braku dokumentów uniemożliwiającego rozpatrzenie sprawy, Przewodniczący zarządza jego uzupełnienie w wyznaczonym terminie, pod rygorem pozostawienia wniosku bez rozpatrzenia. Jeżeli do rozpatrzenia indywidualnej sprawy są niezbędne akta osobowe, Przewodniczący zwraca się o ich przedstawienie Radzie. Właściwy organ lub instytucja są obowiązane przedstawić akta Radzie w terminie 7 dni. W sprawach indywidualnych dotyczących powołania do pełnienia urzędu na stanowisku sędziego sądu powszechnego Przewodniczący zwraca się o przedstawienie akt osobowych kandydata oraz innych dokumentów do organów i instytucji objętych systemem teleinformatycznym za pośrednictwem tego systemu. Akta osobowe kandydata oraz dokumenty, o których przedstawienie zwrócił się Przewodniczący, mogą być przedstawione za pośrednictwem systemu teleinformatycznego."
     },
     {
       "provision_ref": "art30u1",
@@ -787,25 +1009,67 @@
       "provision_ref": "art30u2",
       "section": "30",
       "title": "Art. 30 ust. 2",
-      "content": "Jeżeli do rozpatrzenia indywidualnej sprawy są niezbędne akta osobowe, Przewodniczący zwraca się o ich przedstawienie Radzie. Właściwy organ lub instytucja obowiązana jest niezwłocznie przedstawić akta Radzie."
+      "content": "Jeżeli do rozpatrzenia indywidualnej sprawy są niezbędne akta osobowe, Przewodniczący zwraca się o ich przedstawienie Radzie. Właściwy organ lub instytucja są obowiązane przedstawić akta Radzie w terminie 7 dni."
+    },
+    {
+      "provision_ref": "art30u2a",
+      "section": "30",
+      "title": "Art. 30 ust. 2a",
+      "content": "W sprawach indywidualnych dotyczących powołania do pełnienia urzędu na stanowisku sędziego sądu powszechnego Przewodniczący zwraca się o przedstawienie akt osobowych kandydata oraz innych dokumentów do organów i instytucji objętych systemem teleinformatycznym za pośrednictwem tego systemu. Akta osobowe kandydata oraz dokumenty, o których przedstawienie zwrócił się Przewodniczący, mogą być przedstawione za pośrednictwem systemu teleinformatycznego."
     },
     {
       "provision_ref": "art31",
       "section": "31",
       "title": "Art. 31",
-      "content": "W celu przygotowania sprawy indywidualnej do rozpatrzenia na posiedzeniu Rady Przewodniczący wyznacza zespół. W skład zespołu wchodzi od trzech do pięciu członków Rady. Członkami zespołu nie mogą być sędziowie sądu, z którego działalnością sprawa jest związana, oraz sądu działającego w tym samym okręgu sądowym. Wyznaczony członek Rady może zostać wyłączony ze składu zespołu. O wyłączeniu decyduje Rada na wniosek członka."
+      "content": "W celu przygotowania sprawy indywidualnej do rozpatrzenia na posiedzeniu Rady Przewodniczący wyznacza zespół. W skład zespołu wchodzi trzech członków Rady. W uzasadnionych przypadkach Przewodniczący może wyznaczyć zespół liczący więcej członków Rady niż trzech. Członkami zespołu nie mogą być wyłącznie: sędziowie; posłowie i senatorowie. Członkami zespołu nie mogą być sędziowie sądu, z którego działalnością sprawa jest związana, oraz sądu działającego w tym samym okręgu sądowym. Wyznaczając zespół Przewodniczący Rady zawiadamia Ministra Sprawiedliwości o jego powołaniu oraz informuje o sprawach indywidualnych przekazanych zespołowi w celu przygotowania ich do rozpatrzenia na posiedzeniu Rady. Zmiany składu zespołu nie wymagają zawiadomienia Ministra Sprawiedliwości. Minister Sprawiedliwości w terminie dwudziestu jeden dni od dnia otrzymania informacji, o której mowa w ust. 2a, może przedstawić Radzie opinię w sprawie indywidualnej. Przed upływem terminu na przedstawienie opinii przez Ministra Sprawiedliwości zespół nie może przyjąć stanowiska, o którym mowa w art. 34 ust. 1. Nieprzedstawienie przez Ministra Sprawiedliwości opinii w sprawie indywidualnej, w terminie, o którym mowa w ust. 2b, nie wstrzymuje prac zespołu. Opinię, o której mowa w ust. 2b, albo informację o jej nieprzedstawieniu dołącza się do dokumentacji postępowania w sprawie. Wyznaczony członek Rady może zostać wyłączony ze składu zespołu. O wyłączeniu decyduje Rada na wniosek członka."
     },
     {
       "provision_ref": "art31u1",
       "section": "31",
       "title": "Art. 31 ust. 1",
-      "content": "W celu przygotowania sprawy indywidualnej do rozpatrzenia na posiedzeniu Rady Przewodniczący wyznacza zespół. W skład zespołu wchodzi od trzech do pięciu członków Rady."
+      "content": "W celu przygotowania sprawy indywidualnej do rozpatrzenia na posiedzeniu Rady Przewodniczący wyznacza zespół. W skład zespołu wchodzi trzech członków Rady. W uzasadnionych przypadkach Przewodniczący może wyznaczyć zespół liczący więcej członków Rady niż trzech."
+    },
+    {
+      "provision_ref": "art31u1ap1",
+      "section": "31",
+      "title": "Art. 31 ust. 1a pkt 1",
+      "content": "Członkami zespołu nie mogą być wyłącznie: sędziowie;"
+    },
+    {
+      "provision_ref": "art31u1ap2",
+      "section": "31",
+      "title": "Art. 31 ust. 1a pkt 2",
+      "content": "Członkami zespołu nie mogą być wyłącznie: posłowie i senatorowie."
     },
     {
       "provision_ref": "art31u2",
       "section": "31",
       "title": "Art. 31 ust. 2",
       "content": "Członkami zespołu nie mogą być sędziowie sądu, z którego działalnością sprawa jest związana, oraz sądu działającego w tym samym okręgu sądowym."
+    },
+    {
+      "provision_ref": "art31u2a",
+      "section": "31",
+      "title": "Art. 31 ust. 2a",
+      "content": "Wyznaczając zespół Przewodniczący Rady zawiadamia Ministra Sprawiedliwości o jego powołaniu oraz informuje o sprawach indywidualnych przekazanych zespołowi w celu przygotowania ich do rozpatrzenia na posiedzeniu Rady. Zmiany składu zespołu nie wymagają zawiadomienia Ministra Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art31u2b",
+      "section": "31",
+      "title": "Art. 31 ust. 2b",
+      "content": "Minister Sprawiedliwości w terminie dwudziestu jeden dni od dnia otrzymania informacji, o której mowa w ust. 2a, może przedstawić Radzie opinię w sprawie indywidualnej. Przed upływem terminu na przedstawienie opinii przez Ministra Sprawiedliwości zespół nie może przyjąć stanowiska, o którym mowa w art. 34 ust. 1."
+    },
+    {
+      "provision_ref": "art31u2c",
+      "section": "31",
+      "title": "Art. 31 ust. 2c",
+      "content": "Nieprzedstawienie przez Ministra Sprawiedliwości opinii w sprawie indywidualnej, w terminie, o którym mowa w ust. 2b, nie wstrzymuje prac zespołu."
+    },
+    {
+      "provision_ref": "art31u2d",
+      "section": "31",
+      "title": "Art. 31 ust. 2d",
+      "content": "Opinię, o której mowa w ust. 2b, albo informację o jej nieprzedstawieniu dołącza się do dokumentacji postępowania w sprawie."
     },
     {
       "provision_ref": "art31u3",
@@ -817,13 +1081,25 @@
       "provision_ref": "art32",
       "section": "32",
       "title": "Art. 32",
-      "content": "Pisma w sprawach rozpatrywanych przez Radę doręcza się uczestnikom postępowania za zwrotnym poświadczeniem odbioru. Uchwały Rady doręcza się w odpisach uwierzytelnionych przez Biuro Rady. Akta spraw są dostępne dla uczestników postępowania z uwzględnieniem przepisów dotyczących ochrony informacji niejawnych oraz ochrony danych osobowych. Uczestnicy postępowania mogą przeglądać akta spraw oraz sporządzać odpisy lub wyciągi z tych akt. Na pisemny wniosek uczestnik postępowania może otrzymać odpisy i wyciągi z akt, z potwierdzeniem przez Biuro Rady ich zgodności z oryginałami."
+      "content": "Pisma w sprawach rozpatrywanych przez Radę doręcza się uczestnikom postępowania za zwrotnym poświadczeniem odbioru. Pisma i inne dokumenty w rozpatrywanych przez Radę sprawach indywidualnych dotyczących powołania do pełnienia urzędu na stanowisku sędziego sądu powszechnego, a także uchwały Rady podjęte w tych sprawach doręcza się kandydatom za pośrednictwem systemu teleinformatycznego. Doręczenie uznaje się za skuteczne z chwilą zalogowania się kandydata do systemu teleinformatycznego lub po upływie 14 dni od dnia umieszczenia pisma w systemie teleinformatycznym. Przepis ust. 1a stosuje się odpowiednio do rozpatrywanych przez Radę spraw indywidualnych dotyczących powołania do pełnienia urzędu na stanowisku sędziego Sądu Najwyższego, o ile pozwalają na to możliwości systemu teleinformatycznego. Uchwały Rady doręcza się w odpisach uwierzytelnionych przez Biuro Rady. Akta spraw są dostępne dla uczestników postępowania z uwzględnieniem przepisów dotyczących ochrony informacji niejawnych oraz ochrony danych osobowych. Uczestnicy postępowania mogą przeglądać akta spraw oraz sporządzać odpisy lub wyciągi z tych akt. Na pisemny wniosek uczestnik postępowania może otrzymać odpisy i wyciągi z akt, z potwierdzeniem przez Biuro Rady ich zgodności z oryginałami."
     },
     {
       "provision_ref": "art32u1",
       "section": "32",
       "title": "Art. 32 ust. 1",
       "content": "Pisma w sprawach rozpatrywanych przez Radę doręcza się uczestnikom postępowania za zwrotnym poświadczeniem odbioru."
+    },
+    {
+      "provision_ref": "art32u1a",
+      "section": "32",
+      "title": "Art. 32 ust. 1a",
+      "content": "Pisma i inne dokumenty w rozpatrywanych przez Radę sprawach indywidualnych dotyczących powołania do pełnienia urzędu na stanowisku sędziego sądu powszechnego, a także uchwały Rady podjęte w tych sprawach doręcza się kandydatom za pośrednictwem systemu teleinformatycznego. Doręczenie uznaje się za skuteczne z chwilą zalogowania się kandydata do systemu teleinformatycznego lub po upływie 14 dni od dnia umieszczenia pisma w systemie teleinformatycznym."
+    },
+    {
+      "provision_ref": "art32u1b",
+      "section": "32",
+      "title": "Art. 32 ust. 1b",
+      "content": "Przepis ust. 1a stosuje się odpowiednio do rozpatrywanych przez Radę spraw indywidualnych dotyczących powołania do pełnienia urzędu na stanowisku sędziego Sądu Najwyższego, o ile pozwalają na to możliwości systemu teleinformatycznego."
     },
     {
       "provision_ref": "art32u2",
@@ -841,7 +1117,7 @@
       "provision_ref": "art33",
       "section": "33",
       "title": "Art. 33",
-      "content": "W sprawach indywidualnych Rada podejmuje uchwały po wszechstronnym rozważeniu sprawy, na podstawie udostępnionej dokumentacji oraz wyjaśnień uczestników postępowania lub innych osób, jeżeli zostały złożone. W uzasadnionych przypadkach Rada może żądać osobistego stawiennictwa uczestnika postępowania lub złożenia przez niego pisemnych wyjaśnień, a także uzupełnienia materiałów sprawy. Przepis art. 30 ust. 2 stosuje się odpowiednio."
+      "content": "W sprawach indywidualnych Rada podejmuje uchwały po wszechstronnym rozważeniu sprawy, na podstawie udostępnionej dokumentacji oraz wyjaśnień uczestników postępowania lub innych osób, jeżeli zostały złożone. W uzasadnionych przypadkach Rada może żądać osobistego stawiennictwa uczestnika postępowania lub złożenia przez niego pisemnych wyjaśnień, a także uzupełnienia materiałów sprawy. Przepis art. 30 ust. 2 stosuje się odpowiednio. Wyjaśnienia kandydata do objęcia stanowiska sędziego sądu powszechnego oraz materiały uzupełniające mogą być składane także za pośrednictwem systemu teleinformatycznego."
     },
     {
       "provision_ref": "art33u1",
@@ -856,16 +1132,22 @@
       "content": "W uzasadnionych przypadkach Rada może żądać osobistego stawiennictwa uczestnika postępowania lub złożenia przez niego pisemnych wyjaśnień, a także uzupełnienia materiałów sprawy. Przepis art. 30 ust. 2 stosuje się odpowiednio."
     },
     {
+      "provision_ref": "art33u3",
+      "section": "33",
+      "title": "Art. 33 ust. 3",
+      "content": "Wyjaśnienia kandydata do objęcia stanowiska sędziego sądu powszechnego oraz materiały uzupełniające mogą być składane także za pośrednictwem systemu teleinformatycznego."
+    },
+    {
       "provision_ref": "art34",
       "section": "34",
       "title": "Art. 34",
-      "content": "Przygotowując do rozpatrzenia i oceny na posiedzeniu Rady kandydatów na stanowiska sędziowskie, zespół przyjmuje stanowisko bezwzględną większością głosów w obecności wszystkich swoich członków. Głosowanie w sprawach, o których mowa w ust. 1, jest jawne, chyba że zespół większością głosów podejmie uchwałę o głosowaniu tajnym. Stanowisko zespołu w sprawach, o których mowa w ust. 1, wymaga uzasadnienia. Posiedzenia zespołu w sprawach, o których mowa w ust. 1, są protokołowane."
+      "content": "Przygotowując do rozpatrzenia i oceny na posiedzeniu Rady kandydatów na stanowiska sędziowskie lub asesorskie, zespół przyjmuje stanowisko bezwzględną większością głosów w obecności wszystkich swoich członków. Głosowanie w sprawach, o których mowa w ust. 1, jest jawne, chyba że zespół większością głosów podejmie uchwałę o głosowaniu tajnym. Stanowisko zespołu w sprawach, o których mowa w ust. 1, wymaga uzasadnienia. Posiedzenia zespołu w sprawach, o których mowa w ust. 1, są protokołowane."
     },
     {
       "provision_ref": "art34u1",
       "section": "34",
       "title": "Art. 34 ust. 1",
-      "content": "Przygotowując do rozpatrzenia i oceny na posiedzeniu Rady kandydatów na stanowiska sędziowskie, zespół przyjmuje stanowisko bezwzględną większością głosów w obecności wszystkich swoich członków."
+      "content": "Przygotowując do rozpatrzenia i oceny na posiedzeniu Rady kandydatów na stanowiska sędziowskie lub asesorskie, zespół przyjmuje stanowisko bezwzględną większością głosów w obecności wszystkich swoich członków."
     },
     {
       "provision_ref": "art34u2",
@@ -889,19 +1171,19 @@
       "provision_ref": "art35",
       "section": "35",
       "title": "Art. 35",
-      "content": "Jeżeli na stanowisko sędziowskie zgłosił się więcej niż jeden kandydat, zespół opracowuje listę rekomendowanych kandydatów. Przy ustalaniu kolejności kandydatów na liście zespół kieruje się przede wszystkim oceną kwalifikacji kandydatów, a ponadto uwzględnia: doświadczenie zawodowe, opinie przełożonych, rekomendacje, publikacje i inne dokumenty dołączone do karty zgłoszenia; opinię kolegium właściwego sądu oraz ocenę właściwego zgromadzenia ogólnego sędziów."
+      "content": "Jeżeli na stanowisko sędziowskie albo asesorskie zgłosił się więcej niż jeden kandydat, zespół opracowuje listę rekomendowanych kandydatów. Przy ustalaniu kolejności kandydatów na liście zespół kieruje się przede wszystkim oceną kwalifikacji kandydatów, a ponadto uwzględnia: doświadczenie zawodowe, w tym doświadczenie w stosowaniu przepisów prawa, dorobek naukowy, opinie przełożonych, rekomendacje, publikacje i inne dokumenty dołączone do karty zgłoszenia; opinię kolegium właściwego sądu oraz ocenę właściwego zgromadzenia ogólnego sędziów. Brak dokumentów, o których mowa w ust. 2, nie stanowi przeszkody do opracowania listy rekomendowanych kandydatów."
     },
     {
       "provision_ref": "art35u1",
       "section": "35",
       "title": "Art. 35 ust. 1",
-      "content": "Jeżeli na stanowisko sędziowskie zgłosił się więcej niż jeden kandydat, zespół opracowuje listę rekomendowanych kandydatów."
+      "content": "Jeżeli na stanowisko sędziowskie albo asesorskie zgłosił się więcej niż jeden kandydat, zespół opracowuje listę rekomendowanych kandydatów."
     },
     {
       "provision_ref": "art35u2p1",
       "section": "35",
       "title": "Art. 35 ust. 2 pkt 1",
-      "content": "Przy ustalaniu kolejności kandydatów na liście zespół kieruje się przede wszystkim oceną kwalifikacji kandydatów, a ponadto uwzględnia: doświadczenie zawodowe, opinie przełożonych, rekomendacje, publikacje i inne dokumenty dołączone do karty zgłoszenia;"
+      "content": "Przy ustalaniu kolejności kandydatów na liście zespół kieruje się przede wszystkim oceną kwalifikacji kandydatów, a ponadto uwzględnia: doświadczenie zawodowe, w tym doświadczenie w stosowaniu przepisów prawa, dorobek naukowy, opinie przełożonych, rekomendacje, publikacje i inne dokumenty dołączone do karty zgłoszenia;"
     },
     {
       "provision_ref": "art35u2p2",
@@ -910,28 +1192,34 @@
       "content": "Przy ustalaniu kolejności kandydatów na liście zespół kieruje się przede wszystkim oceną kwalifikacji kandydatów, a ponadto uwzględnia: opinię kolegium właściwego sądu oraz ocenę właściwego zgromadzenia ogólnego sędziów."
     },
     {
+      "provision_ref": "art35u3",
+      "section": "35",
+      "title": "Art. 35 ust. 3",
+      "content": "Brak dokumentów, o których mowa w ust. 2, nie stanowi przeszkody do opracowania listy rekomendowanych kandydatów."
+    },
+    {
       "provision_ref": "art36",
       "section": "36",
       "title": "Art. 36",
-      "content": "Jeżeli na stanowisko sędziowskie swoje kandydatury zgłosiły osoby, wykonujące zawód adwokata, radcy prawnego, notariusza albo zajmujące stanowisko prokuratora, asesora prokuratorskiego, radcy lub starszego radcy Prokuratorii Generalnej Skarbu Państwa, o posiedzeniu zespołu zawiadamia się odpowiednio: Naczelną Radę Adwokacką, Krajową Radę Radców Prawnych, Krajową Radę Notarialną, Krajową Radę Prokuratury, Prezesa Prokuratorii Generalnej Skarbu Państwa. W przypadku, o którym mowa w ust. 1, przedstawiciel Naczelnej Rady Adwokackiej, Krajowej Rady Radców Prawnych, Krajowej Rady Notarialnej, Krajowej Rady Prokuratury, Prezesa Prokuratorii Generalnej Skarbu Państwa może wziąć udział w posiedzeniu zespołu z głosem doradczym."
+      "content": "Jeżeli na stanowisko sędziowskie albo asesorskie swoje kandydatury zgłosiły osoby wykonujące zawód adwokata, radcy prawnego, notariusza albo zajmujące stanowisko prokuratora, radcy, starszego radcy lub wiceprezesa Prokuratorii Generalnej Rzeczypospolitej Polskiej, o posiedzeniu zespołu zawiadamia się odpowiednio: Naczelną Radę Adwokacką, Krajową Radę Radców Prawnych, Krajową Radę Notarialną, Krajową Radę Prokuratorów przy Prokuratorze Generalnym oraz Prezesa Prokuratorii Generalnej Rzeczypospolitej Polskiej. W przypadku, o którym mowa w ust. 1, przedstawiciel Naczelnej Rady Adwokackiej, Krajowej Rady Radców Prawnych, Krajowej Rady Notarialnej, Krajowej Rady Prokuratorów przy Prokuratorze Generalnym, Prezesa Prokuratorii Generalnej Rzeczypospolitej Polskiej może wziąć udział w posiedzeniu zespołu z głosem doradczym."
     },
     {
       "provision_ref": "art36u1",
       "section": "36",
       "title": "Art. 36 ust. 1",
-      "content": "Jeżeli na stanowisko sędziowskie swoje kandydatury zgłosiły osoby, wykonujące zawód adwokata, radcy prawnego, notariusza albo zajmujące stanowisko prokuratora, asesora prokuratorskiego, radcy lub starszego radcy Prokuratorii Generalnej Skarbu Państwa, o posiedzeniu zespołu zawiadamia się odpowiednio: Naczelną Radę Adwokacką, Krajową Radę Radców Prawnych, Krajową Radę Notarialną, Krajową Radę Prokuratury, Prezesa Prokuratorii Generalnej Skarbu Państwa."
+      "content": "Jeżeli na stanowisko sędziowskie albo asesorskie swoje kandydatury zgłosiły osoby wykonujące zawód adwokata, radcy prawnego, notariusza albo zajmujące stanowisko prokuratora, radcy, starszego radcy lub wiceprezesa Prokuratorii Generalnej Rzeczypospolitej Polskiej, o posiedzeniu zespołu zawiadamia się odpowiednio: Naczelną Radę Adwokacką, Krajową Radę Radców Prawnych, Krajową Radę Notarialną, Krajową Radę Prokuratorów przy Prokuratorze Generalnym oraz Prezesa Prokuratorii Generalnej Rzeczypospolitej Polskiej."
     },
     {
       "provision_ref": "art36u2",
       "section": "36",
       "title": "Art. 36 ust. 2",
-      "content": "W przypadku, o którym mowa w ust. 1, przedstawiciel Naczelnej Rady Adwokackiej, Krajowej Rady Radców Prawnych, Krajowej Rady Notarialnej, Krajowej Rady Prokuratury, Prezesa Prokuratorii Generalnej Skarbu Państwa może wziąć udział w posiedzeniu zespołu z głosem doradczym."
+      "content": "W przypadku, o którym mowa w ust. 1, przedstawiciel Naczelnej Rady Adwokackiej, Krajowej Rady Radców Prawnych, Krajowej Rady Notarialnej, Krajowej Rady Prokuratorów przy Prokuratorze Generalnym, Prezesa Prokuratorii Generalnej Rzeczypospolitej Polskiej może wziąć udział w posiedzeniu zespołu z głosem doradczym."
     },
     {
       "provision_ref": "art37",
       "section": "37",
       "title": "Art. 37",
-      "content": "Jeżeli na stanowisko sędziowskie zgłosił się więcej niż jeden kandydat, Rada rozpatruje i ocenia wszystkie zgłoszone kandydatury łącznie. W takim przypadku Rada podejmuje uchwałę obejmującą rozstrzygnięcia w przedmiocie przedstawienia wniosku o powołanie do pełnienia urzędu sędziego w stosunku do wszystkich kandydatów. Imiona i nazwiska kandydatów, stanowisko zespołu oraz uchwałę Rady wraz z uzasadnieniem umieszcza się w Biuletynie Informacji Publicznej."
+      "content": "Jeżeli na stanowisko sędziowskie zgłosił się więcej niż jeden kandydat, Rada rozpatruje i ocenia wszystkie zgłoszone kandydatury łącznie. W takim przypadku Rada podejmuje uchwałę obejmującą rozstrzygnięcia w przedmiocie przedstawienia wniosku o powołanie do pełnienia urzędu sędziego w stosunku do wszystkich kandydatów. Jeżeli na stanowisko asesorskie zgłosił się więcej niż jeden kandydat, Rada rozpatruje i ocenia wszystkie zgłoszone kandydatury łącznie. W takim przypadku Rada podejmuje uchwałę obejmującą rozstrzygnięcia w przedmiocie przedstawienia wniosku o powołanie do pełnienia urzędu asesora sądowego w stosunku do wszystkich kandydatów. Imiona i nazwiska kandydatów, stanowisko zespołu oraz uchwałę Rady wraz z uzasadnieniem umieszcza się w Biuletynie Informacji Publicznej."
     },
     {
       "provision_ref": "art37u1",
@@ -940,10 +1228,40 @@
       "content": "Jeżeli na stanowisko sędziowskie zgłosił się więcej niż jeden kandydat, Rada rozpatruje i ocenia wszystkie zgłoszone kandydatury łącznie. W takim przypadku Rada podejmuje uchwałę obejmującą rozstrzygnięcia w przedmiocie przedstawienia wniosku o powołanie do pełnienia urzędu sędziego w stosunku do wszystkich kandydatów."
     },
     {
+      "provision_ref": "art37u1a",
+      "section": "37",
+      "title": "Art. 37 ust. 1a",
+      "content": "Jeżeli na stanowisko asesorskie zgłosił się więcej niż jeden kandydat, Rada rozpatruje i ocenia wszystkie zgłoszone kandydatury łącznie. W takim przypadku Rada podejmuje uchwałę obejmującą rozstrzygnięcia w przedmiocie przedstawienia wniosku o powołanie do pełnienia urzędu asesora sądowego w stosunku do wszystkich kandydatów."
+    },
+    {
       "provision_ref": "art37u2",
       "section": "37",
       "title": "Art. 37 ust. 2",
       "content": "Imiona i nazwiska kandydatów, stanowisko zespołu oraz uchwałę Rady wraz z uzasadnieniem umieszcza się w Biuletynie Informacji Publicznej."
+    },
+    {
+      "provision_ref": "art37a",
+      "section": "37a",
+      "title": "Art. 37a",
+      "content": "Jeżeli na stanowisko sędziowskie zgłosił się asesor sądowy, uchwała o nieprzedstawieniu wniosku o powołanie do pełnienia urzędu sędziego może zostać podjęta dopiero po uprzednim rozpatrzeniu zgłoszonych przez asesora uwag do oceny kwalifikacji w trybie określonym w art. 5 ust. 1 pkt 3. W takim przypadku lustracji pracy asesora sądowego dokonuje trzech sędziów wizytatorów wyznaczonych w drodze losowania spośród sędziów wizytatorów z obszaru innej apelacji niż ta, na obszarze której ma siedzibę sąd, w którym asesor sądowy pełni służbę, w terminie nie dłuższym niż sześćdziesiąt dni. Sędziowie wizytatorzy po rozpatrzeniu uwag podtrzymują ocenę kwalifikacji asesora sądowego, do której zgłoszono uwagi, albo dokonują oceny odmiennej. Stanowisko sędziów wizytatorów sporządza się na piśmie wraz z uzasadnieniem i doręcza się asesorowi sądowemu. Uwagi asesora sądowego złożone po terminie, o którym mowa w art. 106xa § 4 ustawy z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych , pozostawia się bez rozpatrzenia."
+    },
+    {
+      "provision_ref": "art37au1",
+      "section": "37a",
+      "title": "Art. 37a ust. 1",
+      "content": "Jeżeli na stanowisko sędziowskie zgłosił się asesor sądowy, uchwała o nieprzedstawieniu wniosku o powołanie do pełnienia urzędu sędziego może zostać podjęta dopiero po uprzednim rozpatrzeniu zgłoszonych przez asesora uwag do oceny kwalifikacji w trybie określonym w art. 5 ust. 1 pkt 3. W takim przypadku lustracji pracy asesora sądowego dokonuje trzech sędziów wizytatorów wyznaczonych w drodze losowania spośród sędziów wizytatorów z obszaru innej apelacji niż ta, na obszarze której ma siedzibę sąd, w którym asesor sądowy pełni służbę, w terminie nie dłuższym niż sześćdziesiąt dni."
+    },
+    {
+      "provision_ref": "art37au2",
+      "section": "37a",
+      "title": "Art. 37a ust. 2",
+      "content": "Sędziowie wizytatorzy po rozpatrzeniu uwag podtrzymują ocenę kwalifikacji asesora sądowego, do której zgłoszono uwagi, albo dokonują oceny odmiennej. Stanowisko sędziów wizytatorów sporządza się na piśmie wraz z uzasadnieniem i doręcza się asesorowi sądowemu."
+    },
+    {
+      "provision_ref": "art37au3",
+      "section": "37a",
+      "title": "Art. 37a ust. 3",
+      "content": "Uwagi asesora sądowego złożone po terminie, o którym mowa w art. 106xa § 4 ustawy z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych , pozostawia się bez rozpatrzenia."
     },
     {
       "provision_ref": "art38",
@@ -991,7 +1309,19 @@
       "provision_ref": "art39",
       "section": "39",
       "title": "Art. 39",
+      "content": "Wniosek o powrót na stanowisko sędziego powinien zawierać uzasadnienie. Do wniosku powinny być dołączone stosowne dokumenty. Art. 38 stosuje się odpowiednio. O złożeniu wniosku, o którym mowa w ust. 1, Przewodniczący zawiadamia w terminie 14 dni Ministra Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art39u1",
+      "section": "39",
+      "title": "Art. 39 ust. 1",
       "content": "Wniosek o powrót na stanowisko sędziego powinien zawierać uzasadnienie. Do wniosku powinny być dołączone stosowne dokumenty. Art. 38 stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "art39u2",
+      "section": "39",
+      "title": "Art. 39 ust. 2",
+      "content": "O złożeniu wniosku, o którym mowa w ust. 1, Przewodniczący zawiadamia w terminie 14 dni Ministra Sprawiedliwości."
     },
     {
       "provision_ref": "art40",
@@ -1075,31 +1405,73 @@
       "provision_ref": "art44",
       "section": "44",
       "title": "Art. 44",
-      "content": "Uczestnik postępowania może odwołać się do Sądu Najwyższego z powodu sprzeczności uchwały Rady z prawem, o ile przepisy odrębne nie stanowią inaczej. Odwołanie nie przysługuje w sprawach określonych w art. 3 ust. 2 pkt 2 niniejszej ustawy oraz w art. 10a ust. 2 ustawy z dnia 20 czerwca 1985 r. o prokuraturze ) . Odwołanie wnosi się za pośrednictwem Przewodniczącego, w terminie dwutygodniowym od doręczenia uchwały z uzasadnieniem. Do postępowania przed Sądem Najwyższym stosuje się przepisy ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego ) o skardze kasacyjnej. Przepisów art. 87 1 Kodeksu postępowania cywilnego nie stosuje się."
+      "content": "Uczestnik postępowania może odwołać się do Sądu Najwyższego z powodu sprzeczności uchwały Rady z prawem, o ile przepisy odrębne nie stanowią inaczej. Odwołanie nie przysługuje w sprawach indywidualnych dotyczących powołania do pełnienia urzędu na stanowisku sędziego Sądu Najwyższego. (utracił moc) 5) Z dniem 1 kwietnia 2019 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 25 marca 2019 r. sygn. akt K 12/18 (Dz. U. poz. 609). (uchylony) Odwołanie wnosi się za pośrednictwem Przewodniczącego, w terminie dwutygodniowym od dnia doręczenia uchwały z uzasadnieniem. Wszystkie odwołania wniesione przez uczestników tego samego postępowania podlegają łącznemu rozpoznaniu i rozstrzygnięciu w toku jednego postępowania przed Sądem Najwyższym. Do postępowania przed Sądem Najwyższym stosuje się przepisy ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego ) o skardze kasacyjnej. Przepisu art. 87 1 tej ustawy nie stosuje się. W sprawach dotyczących uchwał w przedmiocie powołania do pełnienia urzędu na stanowisku sędziego sądu powszechnego Sąd Najwyższy dokonuje doręczeń w sposób określony w art. 32 ust. 1a. (uchylony)"
     },
     {
       "provision_ref": "art44u1",
       "section": "44",
       "title": "Art. 44 ust. 1",
-      "content": "Uczestnik postępowania może odwołać się do Sądu Najwyższego z powodu sprzeczności uchwały Rady z prawem, o ile przepisy odrębne nie stanowią inaczej. Odwołanie nie przysługuje w sprawach określonych w art. 3 ust. 2 pkt 2 niniejszej ustawy oraz w art. 10a ust. 2 ustawy z dnia 20 czerwca 1985 r. o prokuraturze ) ."
+      "content": "Uczestnik postępowania może odwołać się do Sądu Najwyższego z powodu sprzeczności uchwały Rady z prawem, o ile przepisy odrębne nie stanowią inaczej. Odwołanie nie przysługuje w sprawach indywidualnych dotyczących powołania do pełnienia urzędu na stanowisku sędziego Sądu Najwyższego."
+    },
+    {
+      "provision_ref": "art44u1a",
+      "section": "44",
+      "title": "Art. 44 ust. 1a",
+      "content": "(utracił moc) 5) Z dniem 1 kwietnia 2019 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 25 marca 2019 r. sygn. akt K 12/18 (Dz. U. poz. 609)."
+    },
+    {
+      "provision_ref": "art44u1b",
+      "section": "44",
+      "title": "Art. 44 ust. 1b",
+      "content": "(uchylony)"
     },
     {
       "provision_ref": "art44u2",
       "section": "44",
       "title": "Art. 44 ust. 2",
-      "content": "Odwołanie wnosi się za pośrednictwem Przewodniczącego, w terminie dwutygodniowym od doręczenia uchwały z uzasadnieniem."
+      "content": "Odwołanie wnosi się za pośrednictwem Przewodniczącego, w terminie dwutygodniowym od dnia doręczenia uchwały z uzasadnieniem."
+    },
+    {
+      "provision_ref": "art44u2a",
+      "section": "44",
+      "title": "Art. 44 ust. 2a",
+      "content": "Wszystkie odwołania wniesione przez uczestników tego samego postępowania podlegają łącznemu rozpoznaniu i rozstrzygnięciu w toku jednego postępowania przed Sądem Najwyższym."
     },
     {
       "provision_ref": "art44u3",
       "section": "44",
       "title": "Art. 44 ust. 3",
-      "content": "Do postępowania przed Sądem Najwyższym stosuje się przepisy ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego ) o skardze kasacyjnej. Przepisów art. 87 1 Kodeksu postępowania cywilnego nie stosuje się."
+      "content": "Do postępowania przed Sądem Najwyższym stosuje się przepisy ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego ) o skardze kasacyjnej. Przepisu art. 87 1 tej ustawy nie stosuje się."
+    },
+    {
+      "provision_ref": "art44u3a",
+      "section": "44",
+      "title": "Art. 44 ust. 3a",
+      "content": "W sprawach dotyczących uchwał w przedmiocie powołania do pełnienia urzędu na stanowisku sędziego sądu powszechnego Sąd Najwyższy dokonuje doręczeń w sposób określony w art. 32 ust. 1a."
+    },
+    {
+      "provision_ref": "art44u4",
+      "section": "44",
+      "title": "Art. 44 ust. 4",
+      "content": "(uchylony)"
+    },
+    {
+      "provision_ref": "art44a",
+      "section": "44a",
+      "title": "Art. 44a",
+      "content": "Rada przedstawia Prezydentowi Rzeczypospolitej Polskiej uchwałę zawierającą wniosek o powołanie do pełnienia urzędu sędziego albo asesora sądowego wraz z uzasadnieniem i informacją o pozostałych kandydatach na stanowisko sędziowskie albo asesorskie wraz z oceną wszystkich kandydatów. Do uchwały dołącza się dokumentację postępowania w sprawie."
+    },
+    {
+      "provision_ref": "art44b",
+      "section": "44b",
+      "title": "Art. 44b",
+      "content": "Rada przedstawia Prezydentowi Rzeczypospolitej Polskiej uchwałę zawierającą wniosek o mianowanie na stanowisko asesora sądowego w sądzie powszechnym wraz z uzasadnieniem. Do uchwały dołącza się dokumentację postępowania w sprawie."
     },
     {
       "provision_ref": "art45",
       "section": "45",
       "title": "Art. 45",
-      "content": "W przypadku ujawnienia nowych okoliczności Rada może z urzędu lub na wniosek uczestnika postępowania ponownie rozpatrzyć sprawę. W przypadku ujawnienia nowych okoliczności dotyczących osoby wskazanej we wniosku o powołanie do pełnienia urzędu sędziego, przedstawionym Prezydentowi Rzeczypospolitej Polskiej, z wnioskiem o ponowne rozpatrzenie sprawy może wystąpić również Prezydent. O ponownym rozpatrzeniu albo jego odmowie Rada rozstrzyga w drodze uchwały."
+      "content": "W przypadku ujawnienia nowych okoliczności Rada może z urzędu lub na wniosek uczestnika postępowania ponownie rozpatrzyć sprawę. W przypadku ujawnienia nowych okoliczności dotyczących osoby wskazanej we wniosku o powołanie do pełnienia urzędu sędziego albo asesora sądowego, przedstawionym Prezydentowi Rzeczypospolitej Polskiej, z wnioskiem o ponowne rozpatrzenie sprawy może wystąpić również Prezydent. O ponownym rozpatrzeniu albo jego odmowie Rada rozstrzyga w drodze uchwały."
     },
     {
       "provision_ref": "art45u1",
@@ -1111,7 +1483,7 @@
       "provision_ref": "art45u2",
       "section": "45",
       "title": "Art. 45 ust. 2",
-      "content": "W przypadku ujawnienia nowych okoliczności dotyczących osoby wskazanej we wniosku o powołanie do pełnienia urzędu sędziego, przedstawionym Prezydentowi Rzeczypospolitej Polskiej, z wnioskiem o ponowne rozpatrzenie sprawy może wystąpić również Prezydent."
+      "content": "W przypadku ujawnienia nowych okoliczności dotyczących osoby wskazanej we wniosku o powołanie do pełnienia urzędu sędziego albo asesora sądowego, przedstawionym Prezydentowi Rzeczypospolitej Polskiej, z wnioskiem o ponowne rozpatrzenie sprawy może wystąpić również Prezydent."
     },
     {
       "provision_ref": "art45u3",
@@ -1120,76 +1492,28 @@
       "content": "O ponownym rozpatrzeniu albo jego odmowie Rada rozstrzyga w drodze uchwały."
     },
     {
+      "provision_ref": "art45a",
+      "section": "45a",
+      "title": "Art. 45a",
+      "content": "Ponowne rozpatrzenie sprawy dotyczącej uchwały zawierającej wniosek do Prezydenta Rzeczypospolitej Polskiej o powołanie do pełnienia urzędu na stanowisku sędziego lub wniosek o mianowanie na stanowisko asesora sądowego w sądzie powszechnym jest niedopuszczalne w razie powołania jednej z osób wskazanych w uchwale w zakresie, w jakim dotyczy powołania na to stanowisko. Wniosek o ponowne rozpatrzenie sprawy, o którym mowa w art. 45, w zakresie, w jakim dotyczy powołania na to stanowisko, pozostawia się bez rozpoznania."
+    },
+    {
+      "provision_ref": "art45b",
+      "section": "45b",
+      "title": "Art. 45b",
+      "content": "W razie powołania przez Prezydenta Rzeczypospolitej Polskiej do pełnienia urzędu na stanowisku sędziego postępowanie w sprawie odwołania od uchwały Krajowej Rady Sądownictwa w sprawie indywidualnej dotyczącej powołania do pełnienia urzędu na tym stanowisku, w zakresie dotyczącym uchwały zawierającej wniosek o powołanie na tym stanowisku, umarza się z mocy prawa. W pozostałym zakresie w razie uwzględnienia przez sąd odwołania osoby, która była uczestnikiem postępowania w sprawie dotyczącej kandydatów do pełnienia urzędu na stanowisku sędziego, osoba ta może ubiegać się o urząd w kolejnym postępowaniu do pełnienia urzędu na stanowisku sędziego w tym samym lub równorzędnym sądzie, zaś Rada obowiązana jest uwzględnić w tym postępowaniu okoliczności, określone w orzeczeniu sądu."
+    },
+    {
+      "provision_ref": "art45c",
+      "section": "45c",
+      "title": "Art. 45c",
+      "content": "Wznowienie postępowania przed Krajową Radą Sądownictwa lub wzruszenie uchwały zawierającej wniosek o powołanie do pełnienia urzędu sędziego nie jest dopuszczalne, jeżeli osoba przedstawiona Prezydentowi Rzeczypospolitej Polskiej spełnia w dniu podjęcia uchwały przez Krajową Radę Sądownictwa warunki formalne wymagane do pełnienia urzędu, określone w Konstytucji Rzeczypospolitej Polskiej ."
+    },
+    {
       "provision_ref": "art46",
       "section": "46",
       "title": "Art. 46",
-      "content": "W ustawie z dnia 17 grudnia 1997 r. o zmianie ustawy - Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw w art. 7 ust. 4 otrzymuje brzmienie: „ Okoliczności wymienione w ust. 1 pkt 1-5, ust. 2 i 3 w stosunku do sędziów lub członków ich rodzin stwierdza Krajowa Rada Sądownictwa, w drodze uchwały. Wniosek o podjęcie uchwały może złożyć Minister Sprawiedliwości, a także osoba represjonowana za działalność niepodległościową lub obronę praw człowieka, a w razie śmierci tej osoby - jej małżonek, rodzeństwo lub dzieci. ” ."
-    },
-    {
-      "provision_ref": "art46u4",
-      "section": "46",
-      "title": "Art. 46 ust. 4",
-      "content": "W ustawie z dnia 17 grudnia 1997 r. o zmianie ustawy - Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw w art. 7 ust. 4 otrzymuje brzmienie: „ Okoliczności wymienione w ust. 1 pkt 1-5, ust. 2 i 3 w stosunku do sędziów lub członków ich rodzin stwierdza Krajowa Rada Sądownictwa, w drodze uchwały. Wniosek o podjęcie uchwały może złożyć Minister Sprawiedliwości, a także osoba represjonowana za działalność niepodległościową lub obronę praw człowieka, a w razie śmierci tej osoby - jej małżonek, rodzeństwo lub dzieci."
-    },
-    {
-      "provision_ref": "art47",
-      "section": "47",
-      "title": "Art. 47",
-      "content": "W ustawie z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych ) w art. 70 po § 3 dodaje się § 3a w brzmieniu: „ Od orzeczenia lekarza orzecznika, o którym mowa w § 1 i 2, zainteresowanemu sędziemu lub kolegium właściwego sądu przysługuje sprzeciw do komisji lekarskiej Zakładu Ubezpieczeń Społecznych, w ciągu 14 dni od dnia doręczenia tego orzeczenia. ” ."
-    },
-    {
-      "provision_ref": "art47par3a",
-      "section": "47",
-      "title": "Art. 47 § 3a",
-      "content": "W ustawie z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych ) w art. 70 po § 3 dodaje się § 3a w brzmieniu: „ Od orzeczenia lekarza orzecznika, o którym mowa w § 1 i 2, zainteresowanemu sędziemu lub kolegium właściwego sądu przysługuje sprzeciw do komisji lekarskiej Zakładu Ubezpieczeń Społecznych, w ciągu 14 dni od dnia doręczenia tego orzeczenia."
-    },
-    {
-      "provision_ref": "art48",
-      "section": "48",
-      "title": "Art. 48",
-      "content": "W ustawie z dnia 25 lipca 2002 r. - Prawo o ustroju sądów administracyjnych wprowadza się następujące zmiany: w art. 21: § 1 otrzymuje brzmienie: „ Prezesa i wiceprezesa sądu w wojewódzkim sądzie administracyjnym powołuje Prezes Naczelnego Sądu Administracyjnego spośród sędziów wojewódzkiego sądu administracyjnego lub Naczelnego Sądu Administracyjnego, po zasięgnięciu opinii zgromadzenia ogólnego tego sądu. ” , § 3 i 4 otrzymują brzmienie: „ W przypadku wydania przez zgromadzenie ogólne negatywnej opinii o kandydacie, Prezes Naczelnego Sądu Administracyjnego może go powołać po uzyskaniu pozytywnej opinii Krajowej Rady Sądownictwa. Negatywna opinia Krajowej Rady Sądownictwa jest dla Prezesa Naczelnego Sądu Administracyjnego wiążąca. Jeżeli Krajowa Rada Sądownictwa w terminie trzydziestu dni od dnia przedstawienia przez Prezesa Naczelnego Sądu Administracyjnego zamiaru powołania sędziego na stanowisko prezesa sądu, mimo negatywnej opinii zgromadzenia ogólnego tego sądu, nie wyda opinii, uważa się, że opinia jest pozytywna. ” ; w art. 21a w § 2 zdanie pierwsze otrzymuje brzmienie: „ Odwołanie prezesa i wiceprezesa sądu w wojewódzkim sądzie administracyjnym następuje po zasięgnięciu opinii zgromadzenia ogólnego tego sądu i Krajowej Rady Sądownictwa. ” ; w art. 46 uchyla się § 3."
-    },
-    {
-      "provision_ref": "art48p1lapar1",
-      "section": "48",
-      "title": "Art. 48 pkt 1 lit. apar",
-      "content": "W ustawie z dnia 25 lipca 2002 r. - Prawo o ustroju sądów administracyjnych wprowadza się następujące zmiany: w art. 21: § 1 otrzymuje brzmienie: „ Prezesa i wiceprezesa sądu w wojewódzkim sądzie administracyjnym powołuje Prezes Naczelnego Sądu Administracyjnego spośród sędziów wojewódzkiego sądu administracyjnego lub Naczelnego Sądu Administracyjnego, po zasięgnięciu opinii zgromadzenia ogólnego tego sądu."
-    },
-    {
-      "provision_ref": "art48p1lbpar3",
-      "section": "48",
-      "title": "Art. 48 pkt 1 lit. bpar",
-      "content": "W ustawie z dnia 25 lipca 2002 r. - Prawo o ustroju sądów administracyjnych wprowadza się następujące zmiany: w art. 21: § 3 i 4 otrzymują brzmienie: „ W przypadku wydania przez zgromadzenie ogólne negatywnej opinii o kandydacie, Prezes Naczelnego Sądu Administracyjnego może go powołać po uzyskaniu pozytywnej opinii Krajowej Rady Sądownictwa. Negatywna opinia Krajowej Rady Sądownictwa jest dla Prezesa Naczelnego Sądu Administracyjnego wiążąca."
-    },
-    {
-      "provision_ref": "art48p1lbpar4",
-      "section": "48",
-      "title": "Art. 48 pkt 1 lit. bpar",
-      "content": "W ustawie z dnia 25 lipca 2002 r. - Prawo o ustroju sądów administracyjnych wprowadza się następujące zmiany: w art. 21: § 3 i 4 otrzymują brzmienie: „ Jeżeli Krajowa Rada Sądownictwa w terminie trzydziestu dni od dnia przedstawienia przez Prezesa Naczelnego Sądu Administracyjnego zamiaru powołania sędziego na stanowisko prezesa sądu, mimo negatywnej opinii zgromadzenia ogólnego tego sądu, nie wyda opinii, uważa się, że opinia jest pozytywna."
-    },
-    {
-      "provision_ref": "art48p2",
-      "section": "48",
-      "title": "Art. 48 pkt 2",
-      "content": "W ustawie z dnia 25 lipca 2002 r. - Prawo o ustroju sądów administracyjnych wprowadza się następujące zmiany: w art. 21a w § 2 zdanie pierwsze otrzymuje brzmienie: „ Odwołanie prezesa i wiceprezesa sądu w wojewódzkim sądzie administracyjnym następuje po zasięgnięciu opinii zgromadzenia ogólnego tego sądu i Krajowej Rady Sądownictwa. ” ;"
-    },
-    {
-      "provision_ref": "art48p3",
-      "section": "48",
-      "title": "Art. 48 pkt 3",
-      "content": "W ustawie z dnia 25 lipca 2002 r. - Prawo o ustroju sądów administracyjnych wprowadza się następujące zmiany: w art. 46 uchyla się § 3."
-    },
-    {
-      "provision_ref": "art49",
-      "section": "49",
-      "title": "Art. 49",
-      "content": "W ustawie z dnia 23 listopada 2002 r. o Sądzie Najwyższym ) w art. 31 § 7 otrzymuje brzmienie: „ Jeżeli z wnioskiem o przeniesienie sędziego w stan spoczynku wystąpiło Kolegium Sądu Najwyższego, odwołanie przysługuje także temu Kolegium. ” ."
-    },
-    {
-      "provision_ref": "art49par7",
-      "section": "49",
-      "title": "Art. 49 § 7",
-      "content": "W ustawie z dnia 23 listopada 2002 r. o Sądzie Najwyższym ) w art. 31 § 7 otrzymuje brzmienie: „ Jeżeli z wnioskiem o przeniesienie sędziego w stan spoczynku wystąpiło Kolegium Sądu Najwyższego, odwołanie przysługuje także temu Kolegium."
+      "content": "(pominięte)"
     },
     {
       "provision_ref": "art50",
@@ -1207,25 +1531,49 @@
       "provision_ref": "art52",
       "section": "52",
       "title": "Art. 52",
-      "content": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia."
+      "content": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia 7) Ustawa została ogłoszona w dniu 17 czerwca 2011 r. ."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2001-1070",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2007-1676",
+      "target_document_id": "pl-du-2021-269",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1998-94",
+      "target_document_id": "pl-du-2023-1615",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2009-1240",
+      "target_document_id": "pl-du-2024-334",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2250",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2024-632",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-577",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1465",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2024-878",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1270",
       "ref_type": "references"
     },
     {
@@ -1233,31 +1581,11 @@
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2008-39",
+      "target_document_id": "pl-du-2001-1070",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1964-296",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-2002-1269",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-2005-1417",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-2009-1706",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-2010-196",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-2002-2052",
+      "target_document_id": "pl-du-2023-1550",
       "ref_type": "references"
     },
     {

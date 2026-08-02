@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2015/397",
   "provisions": [
     {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Art. 37",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2024 r., z wyjątkiem art. 29 pkt 1, art. 33, art. 34 i art. 36, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
@@ -46,6 +52,24 @@
       "content": "Przepisów ustawy nie stosuje się do zabytków archeologicznych."
     },
     {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Przepisów ustawy nie stosuje się do: zabytków archeologicznych; zwierząt, które zabłąkały się lub uciekły, przekazanych do Centralnego Azylu dla Zwierząt, o którym mowa w ustawie z dnia 4 listopada 2022 r. o Centralnym Azylu dla Zwierząt ."
+    },
+    {
+      "provision_ref": "art3p1",
+      "section": "3",
+      "title": "Art. 3 pkt 1",
+      "content": "Przepisów ustawy nie stosuje się do: zabytków archeologicznych;"
+    },
+    {
+      "provision_ref": "art3p2",
+      "section": "3",
+      "title": "Art. 3 pkt 2",
+      "content": "Przepisów ustawy nie stosuje się do: zwierząt, które zabłąkały się lub uciekły, przekazanych do Centralnego Azylu dla Zwierząt, o którym mowa w ustawie z dnia 4 listopada 2022 r. o Centralnym Azylu dla Zwierząt ."
+    },
+    {
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
@@ -67,7 +91,7 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Art. 5",
-      "content": "Kto znalazł rzecz i nie zna osoby uprawnionej do jej odbioru lub nie zna jej miejsca pobytu, niezwłocznie zawiadamia o znalezieniu rzeczy starostę właściwego ze względu na miejsce zamieszkania znalazcy lub miejsce znalezienia rzeczy (właściwy starosta). Kto znalazł rzecz w cudzym pomieszczeniu niezwłocznie zawiadamia o tym osobę zajmującą pomieszczenie i na żądanie tej osoby oddaje jej rzecz na przechowanie. Jeżeli osoba zajmująca pomieszczenie nie zna osoby uprawnionej do odbioru rzeczy lub nie zna miejsca jej pobytu, niezwłocznie zawiadamia o znalezieniu rzeczy właściwego starostę. Kto znalazł pieniądze, papiery wartościowe, kosztowności , o których mowa w art. 21 ust. 4, lub rzeczy o wartości historycznej, naukowej lub artystycznej i nie zna osoby uprawnionej do ich odbioru lub nie zna jej miejsca pobytu, oddaje rzecz niezwłocznie właściwemu staroście. Kto znalazł rzecz, której cechy zewnętrzne lub umieszczone na niej znaki szczególne wskazują, że stanowi ona sprzęt lub ekwipunek wojskowy, oraz w przypadku znalezienia dokumentu wojskowego, a w szczególności legitymacji, książeczki lub zaświadczenia wojskowego albo karty powołania, oddaje rzecz lub dokument niezwłocznie właściwemu staroście. 5. Kto znalazł rzecz inną niż rzecz, o której mowa w ust. 3 i 4, może ją oddać właściwemu staroście."
+      "content": "Kto znalazł rzecz i nie zna osoby uprawnionej do jej odbioru lub nie zna jej miejsca pobytu, niezwłocznie zawiadamia o znalezieniu rzeczy starostę właściwego ze względu na miejsce zamieszkania znalazcy lub miejsce znalezienia rzeczy (właściwy starosta). Kto znalazł rzecz w cudzym pomieszczeniu niezwłocznie zawiadamia o tym osobę zajmującą pomieszczenie i na żądanie tej osoby oddaje jej rzecz na przechowanie. Jeżeli osoba zajmująca pomieszczenie nie zna osoby uprawnionej do odbioru rzeczy lub nie zna miejsca jej pobytu, niezwłocznie zawiadamia o znalezieniu rzeczy właściwego starostę. Kto znalazł pieniądze, papiery wartościowe, kosztowności, o których mowa w art. 21 ust. 4, lub rzeczy o wartości historycznej, naukowej lub artystycznej i nie zna osoby uprawnionej do ich odbioru lub nie zna jej miejsca pobytu, oddaje rzecz niezwłocznie właściwemu staroście, chyba że znalezione zostały jedynie pieniądze a ich kwota nie przekracza 100 złotych lub równowartości tej kwoty obliczonej według kursu średniego ogłaszanego przez Narodowy Bank Polski z dnia znalezienia pieniędzy, a w przypadku gdy w tym dniu nie ogłoszono takiego kursu, według ostatniego kursu ogłoszonego przed tym dniem. Kto znalazł rzecz, której cechy zewnętrzne lub umieszczone na niej znaki szczególne wskazują, że stanowi ona sprzęt lub ekwipunek wojskowy, oraz w przypadku znalezienia dokumentu wojskowego, a w szczególności legitymacji, książeczki lub zaświadczenia wojskowego albo karty powołania, oddaje rzecz lub dokument niezwłocznie właściwemu staroście. Kto znalazł rzecz inną niż rzecz, o której mowa w ust. 3 i 4, może ją oddać właściwemu staroście."
     },
     {
       "provision_ref": "art5u1",
@@ -85,13 +109,19 @@
       "provision_ref": "art5u3",
       "section": "5",
       "title": "Art. 5 ust. 3",
-      "content": "Kto znalazł pieniądze, papiery wartościowe, kosztowności , o których mowa w art. 21 ust. 4, lub rzeczy o wartości historycznej, naukowej lub artystycznej i nie zna osoby uprawnionej do ich odbioru lub nie zna jej miejsca pobytu, oddaje rzecz niezwłocznie właściwemu staroście."
+      "content": "Kto znalazł pieniądze, papiery wartościowe, kosztowności, o których mowa w art. 21 ust. 4, lub rzeczy o wartości historycznej, naukowej lub artystycznej i nie zna osoby uprawnionej do ich odbioru lub nie zna jej miejsca pobytu, oddaje rzecz niezwłocznie właściwemu staroście, chyba że znalezione zostały jedynie pieniądze a ich kwota nie przekracza 100 złotych lub równowartości tej kwoty obliczonej według kursu średniego ogłaszanego przez Narodowy Bank Polski z dnia znalezienia pieniędzy, a w przypadku gdy w tym dniu nie ogłoszono takiego kursu, według ostatniego kursu ogłoszonego przed tym dniem."
     },
     {
       "provision_ref": "art5u4",
       "section": "5",
       "title": "Art. 5 ust. 4",
-      "content": "Kto znalazł rzecz, której cechy zewnętrzne lub umieszczone na niej znaki szczególne wskazują, że stanowi ona sprzęt lub ekwipunek wojskowy, oraz w przypadku znalezienia dokumentu wojskowego, a w szczególności legitymacji, książeczki lub zaświadczenia wojskowego albo karty powołania, oddaje rzecz lub dokument niezwłocznie właściwemu staroście. 5. Kto znalazł rzecz inną niż rzecz, o której mowa w ust. 3 i 4, może ją oddać właściwemu staroście."
+      "content": "Kto znalazł rzecz, której cechy zewnętrzne lub umieszczone na niej znaki szczególne wskazują, że stanowi ona sprzęt lub ekwipunek wojskowy, oraz w przypadku znalezienia dokumentu wojskowego, a w szczególności legitymacji, książeczki lub zaświadczenia wojskowego albo karty powołania, oddaje rzecz lub dokument niezwłocznie właściwemu staroście."
+    },
+    {
+      "provision_ref": "art5u5",
+      "section": "5",
+      "title": "Art. 5 ust. 5",
+      "content": "Kto znalazł rzecz inną niż rzecz, o której mowa w ust. 3 i 4, może ją oddać właściwemu staroście."
     },
     {
       "provision_ref": "art6",
@@ -103,13 +133,19 @@
       "provision_ref": "art7",
       "section": "7",
       "title": "Art. 7",
-      "content": "Kto znalazł rzecz w budynku publicznym, innym budynku lub pomieszczeniu otwartym dla publiczności albo środku transportu publicznego, oddaje rzecz zarządcy budynku, pomieszczenia albo środka transportu publicznego (właściwy zarządca), który po upływie 3 dni od dnia otrzymania rzeczy przekazuje ją właściwemu staroście, chyba że w tym terminie zgłosi się osoba uprawniona do odbioru rzeczy. 2. Rzecz, której posiadanie wymaga pozwolenia, w szczególności broń, amunicję, materiały wybuchowe albo dowód osobisty lub paszport, właściwy zarządca niezwłocznie oddaje najbliższej jednostce organizacyjnej Policji, a jeżeli oddanie rzeczy wiązałoby się z zagrożeniem życia lub zdrowia - zawiadamia o miejscu, w którym rzecz się znajduje. Jednostka organizacyjna Policji niezwłocznie zawiadamia właściwego starostę o znalezieniu rzeczy oraz znalazcy."
+      "content": "Kto znalazł rzecz w budynku publicznym, innym budynku lub pomieszczeniu otwartym dla publiczności albo środku transportu publicznego, oddaje rzecz zarządcy budynku, pomieszczenia albo środka transportu publicznego (właściwy zarządca), który po upływie 3 dni od dnia otrzymania rzeczy przekazuje ją właściwemu staroście, chyba że w tym terminie zgłosi się osoba uprawniona do odbioru rzeczy. Rzecz, której posiadanie wymaga pozwolenia, w szczególności broń, amunicję, materiały wybuchowe albo dowód osobisty lub paszport, właściwy zarządca niezwłocznie oddaje najbliższej jednostce organizacyjnej Policji, a jeżeli oddanie rzeczy wiązałoby się z zagrożeniem życia lub zdrowia - zawiadamia o miejscu, w którym rzecz się znajduje. Jednostka organizacyjna Policji niezwłocznie zawiadamia właściwego starostę o znalezieniu rzeczy oraz znalazcy."
     },
     {
       "provision_ref": "art7u1",
       "section": "7",
       "title": "Art. 7 ust. 1",
-      "content": "Kto znalazł rzecz w budynku publicznym, innym budynku lub pomieszczeniu otwartym dla publiczności albo środku transportu publicznego, oddaje rzecz zarządcy budynku, pomieszczenia albo środka transportu publicznego (właściwy zarządca), który po upływie 3 dni od dnia otrzymania rzeczy przekazuje ją właściwemu staroście, chyba że w tym terminie zgłosi się osoba uprawniona do odbioru rzeczy. 2. Rzecz, której posiadanie wymaga pozwolenia, w szczególności broń, amunicję, materiały wybuchowe albo dowód osobisty lub paszport, właściwy zarządca niezwłocznie oddaje najbliższej jednostce organizacyjnej Policji, a jeżeli oddanie rzeczy wiązałoby się z zagrożeniem życia lub zdrowia - zawiadamia o miejscu, w którym rzecz się znajduje. Jednostka organizacyjna Policji niezwłocznie zawiadamia właściwego starostę o znalezieniu rzeczy oraz znalazcy."
+      "content": "Kto znalazł rzecz w budynku publicznym, innym budynku lub pomieszczeniu otwartym dla publiczności albo środku transportu publicznego, oddaje rzecz zarządcy budynku, pomieszczenia albo środka transportu publicznego (właściwy zarządca), który po upływie 3 dni od dnia otrzymania rzeczy przekazuje ją właściwemu staroście, chyba że w tym terminie zgłosi się osoba uprawniona do odbioru rzeczy."
+    },
+    {
+      "provision_ref": "art7u2",
+      "section": "7",
+      "title": "Art. 7 ust. 2",
+      "content": "Rzecz, której posiadanie wymaga pozwolenia, w szczególności broń, amunicję, materiały wybuchowe albo dowód osobisty lub paszport, właściwy zarządca niezwłocznie oddaje najbliższej jednostce organizacyjnej Policji, a jeżeli oddanie rzeczy wiązałoby się z zagrożeniem życia lub zdrowia - zawiadamia o miejscu, w którym rzecz się znajduje. Jednostka organizacyjna Policji niezwłocznie zawiadamia właściwego starostę o znalezieniu rzeczy oraz znalazcy."
     },
     {
       "provision_ref": "art8",
@@ -121,13 +157,13 @@
       "provision_ref": "art9",
       "section": "9",
       "title": "Art. 9",
-      "content": "Do przechowania rzeczy przez znalazcę lub przechowującego stosuje się odpowiednio przepisy tytułu XXVIII księgi trzeciej ustawy z dnia 23 kwietnia 1964 r. - Kodeks cywilny ) , zwanej dalej „Kodeksem cywilnym”, z tym, że przechowanie jest nieodpłatne. Poniesione przez znalazcę lub przechowującego koszty przechowania oraz utrzymania rzeczy w należytym stanie, a także koszty poszukiwania osoby uprawnionej do jej odbioru, obciążają osobę uprawnioną do odbioru rzeczy do wysokości wartości rzeczy w dniu odbioru. Znalazcy lub przechowującemu przysługuje prawo zatrzymania. Znalazca przechowujący rzecz, przechowujący lub właściwy zarządca przechowujący rzecz ulegającą szybkiemu zepsuciu sprzedaje ją niezwłocznie. Suma uzyskana ze sprzedaży wchodzi w miejsce rzeczy sprzedanej, po potrąceniu kosztów sprzedaży. Art. 10. 1. Znalazca przechowujący rzecz, który uczynił zadość swoim obowiązkom, może żądać znaleźnego w wysokości jednej dziesiątej wartości rzeczy, jeżeli zgłosił swoje roszczenie najpóźniej w chwili wydania rzeczy osobie uprawnionej do jej odbioru. 2. W przypadku gdy rzecz nie jest przechowywana przez znalazcę, znalazca może zastrzec wobec przechowującego, że będzie żądał znaleźnego. W takim przypadku przechowujący zawiadamia znalazcę o wydaniu rzeczy osobie uprawnionej do jej odbioru oraz o jej adresie zamieszkania albo siedziby, a znalazca może zgłosić żądanie znaleźnego w terminie miesiąca od dnia zawiadomienia go o wydaniu rzeczy. Przechowujący informuje o tym osobę uprawnioną do odbioru rzeczy."
+      "content": "Do przechowania rzeczy przez znalazcę lub przechowującego stosuje się odpowiednio przepisy tytułu XXVIII księgi trzeciej ustawy z dnia 23 kwietnia 1964 r. - Kodeks cywilny , zwanej dalej „Kodeksem cywilnym”, z tym, że przechowanie jest nieodpłatne. Poniesione przez znalazcę lub przechowującego koszty przechowania oraz utrzymania rzeczy w należytym stanie, a także koszty poszukiwania osoby uprawnionej do jej odbioru, obciążają osobę uprawnioną do odbioru rzeczy do wysokości wartości rzeczy w dniu odbioru. Znalazcy lub przechowującemu przysługuje prawo zatrzymania. Znalazca przechowujący rzecz, przechowujący lub właściwy zarządca przechowujący rzecz ulegającą szybkiemu zepsuciu sprzedaje ją niezwłocznie. Suma uzyskana ze sprzedaży wchodzi w miejsce rzeczy sprzedanej, po potrąceniu kosztów sprzedaży."
     },
     {
       "provision_ref": "art9u1",
       "section": "9",
       "title": "Art. 9 ust. 1",
-      "content": "Do przechowania rzeczy przez znalazcę lub przechowującego stosuje się odpowiednio przepisy tytułu XXVIII księgi trzeciej ustawy z dnia 23 kwietnia 1964 r. - Kodeks cywilny ) , zwanej dalej „Kodeksem cywilnym”, z tym, że przechowanie jest nieodpłatne."
+      "content": "Do przechowania rzeczy przez znalazcę lub przechowującego stosuje się odpowiednio przepisy tytułu XXVIII księgi trzeciej ustawy z dnia 23 kwietnia 1964 r. - Kodeks cywilny , zwanej dalej „Kodeksem cywilnym”, z tym, że przechowanie jest nieodpłatne."
     },
     {
       "provision_ref": "art9u2",
@@ -145,7 +181,25 @@
       "provision_ref": "art9u4",
       "section": "9",
       "title": "Art. 9 ust. 4",
-      "content": "Znalazca przechowujący rzecz, przechowujący lub właściwy zarządca przechowujący rzecz ulegającą szybkiemu zepsuciu sprzedaje ją niezwłocznie. Suma uzyskana ze sprzedaży wchodzi w miejsce rzeczy sprzedanej, po potrąceniu kosztów sprzedaży. Art. 10. 1. Znalazca przechowujący rzecz, który uczynił zadość swoim obowiązkom, może żądać znaleźnego w wysokości jednej dziesiątej wartości rzeczy, jeżeli zgłosił swoje roszczenie najpóźniej w chwili wydania rzeczy osobie uprawnionej do jej odbioru. 2. W przypadku gdy rzecz nie jest przechowywana przez znalazcę, znalazca może zastrzec wobec przechowującego, że będzie żądał znaleźnego. W takim przypadku przechowujący zawiadamia znalazcę o wydaniu rzeczy osobie uprawnionej do jej odbioru oraz o jej adresie zamieszkania albo siedziby, a znalazca może zgłosić żądanie znaleźnego w terminie miesiąca od dnia zawiadomienia go o wydaniu rzeczy. Przechowujący informuje o tym osobę uprawnioną do odbioru rzeczy."
+      "content": "Znalazca przechowujący rzecz, przechowujący lub właściwy zarządca przechowujący rzecz ulegającą szybkiemu zepsuciu sprzedaje ją niezwłocznie. Suma uzyskana ze sprzedaży wchodzi w miejsce rzeczy sprzedanej, po potrąceniu kosztów sprzedaży."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Znalazca przechowujący rzecz, który uczynił zadość swoim obowiązkom, może żądać znaleźnego w wysokości jednej dziesiątej wartości rzeczy, jeżeli zgłosił swoje roszczenie najpóźniej w chwili wydania rzeczy osobie uprawnionej do jej odbioru. W przypadku gdy rzecz nie jest przechowywana przez znalazcę, znalazca może zastrzec wobec przechowującego, że będzie żądał znaleźnego. W takim przypadku przechowujący zawiadamia znalazcę o wydaniu rzeczy osobie uprawnionej do jej odbioru oraz o jej adresie zamieszkania albo siedziby, a znalazca może zgłosić żądanie znaleźnego w terminie miesiąca od dnia zawiadomienia go o wydaniu rzeczy. Przechowujący informuje o tym osobę uprawnioną do odbioru rzeczy."
+    },
+    {
+      "provision_ref": "art10u1",
+      "section": "10",
+      "title": "Art. 10 ust. 1",
+      "content": "Znalazca przechowujący rzecz, który uczynił zadość swoim obowiązkom, może żądać znaleźnego w wysokości jednej dziesiątej wartości rzeczy, jeżeli zgłosił swoje roszczenie najpóźniej w chwili wydania rzeczy osobie uprawnionej do jej odbioru."
+    },
+    {
+      "provision_ref": "art10u2",
+      "section": "10",
+      "title": "Art. 10 ust. 2",
+      "content": "W przypadku gdy rzecz nie jest przechowywana przez znalazcę, znalazca może zastrzec wobec przechowującego, że będzie żądał znaleźnego. W takim przypadku przechowujący zawiadamia znalazcę o wydaniu rzeczy osobie uprawnionej do jej odbioru oraz o jej adresie zamieszkania albo siedziby, a znalazca może zgłosić żądanie znaleźnego w terminie miesiąca od dnia zawiadomienia go o wydaniu rzeczy. Przechowujący informuje o tym osobę uprawnioną do odbioru rzeczy."
     },
     {
       "provision_ref": "art11",
@@ -481,217 +535,19 @@
       "provision_ref": "art26",
       "section": "26",
       "title": "Art. 26",
-      "content": "W ustawie z dnia 23 kwietnia 1964 r. - Kodeks cywilny wprowadza się następujące zmiany: w art. 169 dodaje się § 3 w brzmieniu: „ Przepisów § 1 i 2 nie stosuje się do rzeczy wpisanej do krajowego rejestru utraconych dóbr kultury. ” ; w art. 170 dotychczasową treść oznacza się jako § 1 i dodaje się § 2 w brzmieniu: „ Przepisu § 1 nie stosuje się do rzeczy wpisanej do krajowego rejestru utraconych dóbr kultury. ” ; w art. 174 dotychczasową treść oznacza się jako § 1 i dodaje się § 2 w brzmieniu: „ Przepisu § 1 nie stosuje się do rzeczy wpisanej do krajowego rejestru utraconych dóbr kultury. ” ; uchyla się art. 183-186; art. 187 otrzymuje brzmienie: „ Rzecz znaleziona, która nie zostanie przez osobę uprawnioną odebrana w ciągu roku od dnia doręczenia jej wezwania do odbioru, a w przypadku niemożności wezwania - w ciągu dwóch lat od dnia jej znalezienia, staje się własnością znalazcy, jeżeli uczynił on zadość swoim obowiązkom. Jeżeli jednak rzecz została oddana staroście, znalazca staje się jej właścicielem, jeżeli rzecz odebrał w wyznaczonym przez starostę terminie. Rzecz znaleziona będąca zabytkiem lub materiałem archiwalnym po upływie terminu do jej odebrania przez osobę uprawnioną staje się własnością Skarbu Państwa. Inne rzeczy znalezione stają się własnością powiatu po upływie terminu do ich odbioru przez znalazcę. Z chwilą nabycia własności rzeczy przez znalazcę, powiat albo Skarb Państwa wygasają obciążające ją ograniczone prawa rzeczowe . ” ; uchyla się art. 188; art. 189 otrzymuje brzmienie: „ Jeżeli rzecz znaleziono w takich okolicznościach, że poszukiwanie właściciela byłoby oczywiście bezcelowe, staje się ona przedmiotem współwłasności w częściach ułamkowych znalazcy i właściciela nieruchomości, na której rzecz została znaleziona, jeżeli jednak rzecz ta jest zabytkiem lub materiałem archiwalnym, staje się ona własnością Skarbu Państwa, a znalazca jest obowiązany wydać ją niezwłocznie właściwemu staroście. ” ; w art. 223 dodaje się § 4 w brzmieniu: „ Roszczenie właściciela, o którym mowa w art. 222 § 1, nie ulega przedawnieniu, jeżeli dotyczy rzeczy wpisanej do krajowego rejestru utraconych dóbr kultury. ” ."
-    },
-    {
-      "provision_ref": "art26p1par3",
-      "section": "26",
-      "title": "Art. 26 pkt 1 § 3",
-      "content": "W ustawie z dnia 23 kwietnia 1964 r. - Kodeks cywilny wprowadza się następujące zmiany: w art. 169 dodaje się § 3 w brzmieniu: „ Przepisów § 1 i 2 nie stosuje się do rzeczy wpisanej do krajowego rejestru utraconych dóbr kultury."
-    },
-    {
-      "provision_ref": "art26p2par2",
-      "section": "26",
-      "title": "Art. 26 pkt 2 § 2",
-      "content": "W ustawie z dnia 23 kwietnia 1964 r. - Kodeks cywilny wprowadza się następujące zmiany: w art. 170 dotychczasową treść oznacza się jako § 1 i dodaje się § 2 w brzmieniu: „ Przepisu § 1 nie stosuje się do rzeczy wpisanej do krajowego rejestru utraconych dóbr kultury."
-    },
-    {
-      "provision_ref": "art26p3par2",
-      "section": "26",
-      "title": "Art. 26 pkt 3 § 2",
-      "content": "W ustawie z dnia 23 kwietnia 1964 r. - Kodeks cywilny wprowadza się następujące zmiany: w art. 174 dotychczasową treść oznacza się jako § 1 i dodaje się § 2 w brzmieniu: „ Przepisu § 1 nie stosuje się do rzeczy wpisanej do krajowego rejestru utraconych dóbr kultury."
-    },
-    {
-      "provision_ref": "art26p4",
-      "section": "26",
-      "title": "Art. 26 pkt 4",
-      "content": "W ustawie z dnia 23 kwietnia 1964 r. - Kodeks cywilny wprowadza się następujące zmiany: uchyla się art. 183-186;"
-    },
-    {
-      "provision_ref": "art26p5par1",
-      "section": "26",
-      "title": "Art. 26 pkt 5 § 1",
-      "content": "W ustawie z dnia 23 kwietnia 1964 r. - Kodeks cywilny wprowadza się następujące zmiany: art. 187 otrzymuje brzmienie: „ Rzecz znaleziona, która nie zostanie przez osobę uprawnioną odebrana w ciągu roku od dnia doręczenia jej wezwania do odbioru, a w przypadku niemożności wezwania - w ciągu dwóch lat od dnia jej znalezienia, staje się własnością znalazcy, jeżeli uczynił on zadość swoim obowiązkom. Jeżeli jednak rzecz została oddana staroście, znalazca staje się jej właścicielem, jeżeli rzecz odebrał w wyznaczonym przez starostę terminie."
-    },
-    {
-      "provision_ref": "art26p5par2",
-      "section": "26",
-      "title": "Art. 26 pkt 5 § 2",
-      "content": "W ustawie z dnia 23 kwietnia 1964 r. - Kodeks cywilny wprowadza się następujące zmiany: art. 187 otrzymuje brzmienie: „ Rzecz znaleziona będąca zabytkiem lub materiałem archiwalnym po upływie terminu do jej odebrania przez osobę uprawnioną staje się własnością Skarbu Państwa. Inne rzeczy znalezione stają się własnością powiatu po upływie terminu do ich odbioru przez znalazcę."
-    },
-    {
-      "provision_ref": "art26p5par3",
-      "section": "26",
-      "title": "Art. 26 pkt 5 § 3",
-      "content": "W ustawie z dnia 23 kwietnia 1964 r. - Kodeks cywilny wprowadza się następujące zmiany: art. 187 otrzymuje brzmienie: „ Z chwilą nabycia własności rzeczy przez znalazcę, powiat albo Skarb Państwa wygasają obciążające ją ograniczone prawa rzeczowe ."
-    },
-    {
-      "provision_ref": "art26p6",
-      "section": "26",
-      "title": "Art. 26 pkt 6",
-      "content": "W ustawie z dnia 23 kwietnia 1964 r. - Kodeks cywilny wprowadza się następujące zmiany: uchyla się art. 188;"
-    },
-    {
-      "provision_ref": "art26p7",
-      "section": "26",
-      "title": "Art. 26 pkt 7",
-      "content": "W ustawie z dnia 23 kwietnia 1964 r. - Kodeks cywilny wprowadza się następujące zmiany: art. 189 otrzymuje brzmienie: „ Jeżeli rzecz znaleziono w takich okolicznościach, że poszukiwanie właściciela byłoby oczywiście bezcelowe, staje się ona przedmiotem współwłasności w częściach ułamkowych znalazcy i właściciela nieruchomości, na której rzecz została znaleziona, jeżeli jednak rzecz ta jest zabytkiem lub materiałem archiwalnym, staje się ona własnością Skarbu Państwa, a znalazca jest obowiązany wydać ją niezwłocznie właściwemu staroście. ” ;"
-    },
-    {
-      "provision_ref": "art26p8u4",
-      "section": "26",
-      "title": "Art. 26 pkt 8 ust. 4",
-      "content": "W ustawie z dnia 23 kwietnia 1964 r. - Kodeks cywilny wprowadza się następujące zmiany: w art. 223 dodaje się § 4 w brzmieniu: „ Roszczenie właściciela, o którym mowa w art. 222 § 1, nie ulega przedawnieniu, jeżeli dotyczy rzeczy wpisanej do krajowego rejestru utraconych dóbr kultury."
+      "content": "(pominięty)"
     },
     {
       "provision_ref": "art27",
       "section": "27",
       "title": "Art. 27",
-      "content": "W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami wprowadza się następujące zmiany: w art. 2 ust. 2 otrzymuje brzmienie: „ Ochronę materiałów archiwalnych wchodzących w skład narodowego zasobu archiwalnego regulują przepisy ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach , z uwzględnieniem przepisów rozdziału 2a. ” ; po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „ Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego prowadzi krajowy rejestr utraconych dóbr kultury. Do krajowego rejestru utraconych dóbr kultury wpisuje się rzeczy ruchome będące: zabytkami wpisanymi do rejestru, muzealiami, o których mowa w art. 21 ust. 1 i 1a ustawy z dnia 21 listopada 1996 r. o muzeach , materiałami bibliotecznymi, o których mowa w art. 5 ustawy z dnia 27 czerwca 1997 r. o bibliotekach , należącymi do narodowego zasobu bibliotecznego, materiałami archiwalnymi, o których mowa w art. 1 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach - utraconymi przez właściciela w wyniku popełnienia czynu zabronionego, określonego w art. 278 § 1 i 3, art. 279 § 1, art. 280-283 albo art. 284 § 1-3 ustawy z dnia 6 czerwca 1997 r. - Kodeks karny ) . Wpisu do krajowego rejestru utraconych dóbr kultury dokonuje się na wniosek Policji, prokuratora, wojewódzkiego konserwatora zabytków, Naczelnego Dyrektora Archiwów Państwowych, właściciela rzeczy, o której mowa w ust. 2, lub osoby kierującej jednostką organizacyjną, w zbiorach albo zasobach której rzecz się znajdowała. Wniosek, o którym mowa w ust. 3, składa się na urzędowym formularzu. Stroną postępowania o wpis do krajowego rejestru utraconych dóbr kultury jest właściciel rzeczy lub jednostka organizacyjna, w zbiorach albo zasobie której rzecz się znajdowała. Do wniosku, o którym mowa w ust. 3, załącza się: kopię zawiadomienia o przestępstwie wraz z dowodem złożenia go organowi ścigania albo odpis protokołu z przyjęcia ustnego zawiadomienia o przestępstwie lub postanowienie o wszczęciu śledztwa albo dochodzenia, w przypadku gdy wniosek składa właściciel utraconej rzeczy lub osoba kierująca jednostką organizacyjną, w zbiorach albo zasobie której rzecz się znajdowała; zdjęcie utraconej rzeczy, w przypadku gdy jest ona zabytkiem lub muzealium, o których mowa w ust. 2 pkt 1 i 2, w formie pliku cyfrowego. Wpisu utraconej rzeczy do krajowego rejestru utraconych dóbr kultury dokonuje się na podstawie decyzji o wpisie do rejestru utraconych dóbr kultury wydanej przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego. Decyzja podlega natychmiastowemu wykonaniu. Wpis do krajowego rejestru utraconych dóbr kultury polega na wprowadzeniu do niego danych umożliwiających identyfikację utraconej rzeczy zawartych w decyzji, o której mowa w ust. 1, niezwłocznie po jej wydaniu. Dokonanie wpisu do krajowego rejestru utraconych dóbr kultury nie jest uzależnione od ustalenia popełnienia czynu zabronionego, o którym mowa w art. 24a ust. 2, prawomocnym wyrokiem skazującym. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, w drodze decyzji, odmawia wpisu do krajowego rejestru utraconych dóbr kultury, w przypadku gdy dane dotyczące utraconej rzeczy zawarte we wniosku, o którym mowa w art. 24a ust. 3, nie pozwalają na jej identyfikację. Krajowy rejestr utraconych dóbr kultury, prowadzony w systemie teleinformatycznym, jest jawny. Odpisy z krajowego rejestru utraconych dóbr kultury wydawane są na wniosek każdego, kto tego zażąda. Dane będące podstawą wpisu do krajowego rejestru utraconych dóbr kultury udostępnia się wyłącznie organom władzy publicznej oraz właścicielowi utraconej rzeczy lub jednostce organizacyjnej, w zbiorach albo zasobie której rzecz się znajdowała, a innym osobom tylko za zgodą właściciela utraconej rzeczy lub jednostki organizacyjnej, w zbiorach albo zasobie której rzecz się znajdowała. Od dnia dokonania wpisu w krajowym rejestrze utraconych dóbr kultury nikt nie może zasłaniać się nieznajomością danych ujawnionych w tym rejestrze. Wykreślenie wpisu z krajowego rejestru utraconych dóbr kultury następuje na podstawie decyzji ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego. Wykreślenie wpisu z krajowego rejestru utraconych dóbr kultury następuje na wniosek podmiotów wskazanych w art. 24a ust. 3 albo z urzędu, w przypadku gdy: właściciel odzyskał posiadanie utraconej rzeczy; dane będące podstawą wpisu okazały się nieprawdziwe. W przypadku określonym w ust. 2 pkt 2, skutki prawne dokonania wpisu w krajowym rejestrze utraconych dóbr kultury zostają zniesione z mocą wsteczną. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, szczegółowy sposób prowadzenia krajowego rejestru utraconych dóbr kultury, w tym zakres danych objętych wpisem, zasady wydawania odpisów oraz wzór formularza wniosku o wpis, uwzględniając prowadzenie krajowego rejestru utraconych dóbr kultury w systemie teleinformatycznym, konieczność zapewnienia przejrzystości i kompletności zapisu informacji znajdujących się w krajowym rejestrze utraconych dóbr kultury, zmian i wykreśleń wpisów oraz sprawność postępowania rejestracyjnego. ” ; w art. 32 uchyla się ust. 9."
-    },
-    {
-      "provision_ref": "art27p1u2",
-      "section": "27",
-      "title": "Art. 27 pkt 1 ust. 2",
-      "content": "W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami wprowadza się następujące zmiany: w art. 2 ust. 2 otrzymuje brzmienie: „ Ochronę materiałów archiwalnych wchodzących w skład narodowego zasobu archiwalnego regulują przepisy ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach , z uwzględnieniem przepisów rozdziału 2a."
-    },
-    {
-      "provision_ref": "art27p2u1",
-      "section": "27",
-      "title": "Art. 27 pkt 2 ust. 1",
-      "content": "W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami wprowadza się następujące zmiany: po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „ Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego prowadzi krajowy rejestr utraconych dóbr kultury."
-    },
-    {
-      "provision_ref": "art27p2u2p1",
-      "section": "27",
-      "title": "Art. 27 pkt 2 ust. 2 pkt 1",
-      "content": "W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami wprowadza się następujące zmiany: po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „ Do krajowego rejestru utraconych dóbr kultury wpisuje się rzeczy ruchome będące: zabytkami wpisanymi do rejestru,"
-    },
-    {
-      "provision_ref": "art27p2u2p2",
-      "section": "27",
-      "title": "Art. 27 pkt 2 ust. 2 pkt 2",
-      "content": "W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami wprowadza się następujące zmiany: po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „ Do krajowego rejestru utraconych dóbr kultury wpisuje się rzeczy ruchome będące: muzealiami, o których mowa w art. 21 ust. 1 i 1a ustawy z dnia 21 listopada 1996 r. o muzeach ,"
-    },
-    {
-      "provision_ref": "art27p2u2p3",
-      "section": "27",
-      "title": "Art. 27 pkt 2 ust. 2 pkt 3",
-      "content": "W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami wprowadza się następujące zmiany: po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „ Do krajowego rejestru utraconych dóbr kultury wpisuje się rzeczy ruchome będące: materiałami bibliotecznymi, o których mowa w art. 5 ustawy z dnia 27 czerwca 1997 r. o bibliotekach , należącymi do narodowego zasobu bibliotecznego,"
-    },
-    {
-      "provision_ref": "art27p2u2p4",
-      "section": "27",
-      "title": "Art. 27 pkt 2 ust. 2 pkt 4",
-      "content": "W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami wprowadza się następujące zmiany: po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „ Do krajowego rejestru utraconych dóbr kultury wpisuje się rzeczy ruchome będące: materiałami archiwalnymi, o których mowa w art. 1 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach"
-    },
-    {
-      "provision_ref": "art27p2u3",
-      "section": "27",
-      "title": "Art. 27 pkt 2 ust. 3",
-      "content": "W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami wprowadza się następujące zmiany: po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „ Wpisu do krajowego rejestru utraconych dóbr kultury dokonuje się na wniosek Policji, prokuratora, wojewódzkiego konserwatora zabytków, Naczelnego Dyrektora Archiwów Państwowych, właściciela rzeczy, o której mowa w ust. 2, lub osoby kierującej jednostką organizacyjną, w zbiorach albo zasobach której rzecz się znajdowała."
-    },
-    {
-      "provision_ref": "art27p2u4",
-      "section": "27",
-      "title": "Art. 27 pkt 2 ust. 4",
-      "content": "W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami wprowadza się następujące zmiany: po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „ Wniosek, o którym mowa w ust. 3, składa się na urzędowym formularzu."
-    },
-    {
-      "provision_ref": "art27p2u5",
-      "section": "27",
-      "title": "Art. 27 pkt 2 ust. 5",
-      "content": "W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami wprowadza się następujące zmiany: po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „ Stroną postępowania o wpis do krajowego rejestru utraconych dóbr kultury jest właściciel rzeczy lub jednostka organizacyjna, w zbiorach albo zasobie której rzecz się znajdowała."
-    },
-    {
-      "provision_ref": "art27p2u6p1",
-      "section": "27",
-      "title": "Art. 27 pkt 2 ust. 6 pkt 1",
-      "content": "W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami wprowadza się następujące zmiany: po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „ Do wniosku, o którym mowa w ust. 3, załącza się: kopię zawiadomienia o przestępstwie wraz z dowodem złożenia go organowi ścigania albo odpis protokołu z przyjęcia ustnego zawiadomienia o przestępstwie lub postanowienie o wszczęciu śledztwa albo dochodzenia, w przypadku gdy wniosek składa właściciel utraconej rzeczy lub osoba kierująca jednostką organizacyjną, w zbiorach albo zasobie której rzecz się znajdowała;"
-    },
-    {
-      "provision_ref": "art27p2u6p2",
-      "section": "27",
-      "title": "Art. 27 pkt 2 ust. 6 pkt 2",
-      "content": "W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami wprowadza się następujące zmiany: po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „ Do wniosku, o którym mowa w ust. 3, załącza się: zdjęcie utraconej rzeczy, w przypadku gdy jest ona zabytkiem lub muzealium, o których mowa w ust. 2 pkt 1 i 2, w formie pliku cyfrowego."
-    },
-    {
-      "provision_ref": "art27p2u1",
-      "section": "27",
-      "title": "Art. 27 pkt 2 ust. 1",
-      "content": "W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami wprowadza się następujące zmiany: po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „ Wpisu utraconej rzeczy do krajowego rejestru utraconych dóbr kultury dokonuje się na podstawie decyzji o wpisie do rejestru utraconych dóbr kultury wydanej przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego. Decyzja podlega natychmiastowemu wykonaniu."
-    },
-    {
-      "provision_ref": "art27p2u2",
-      "section": "27",
-      "title": "Art. 27 pkt 2 ust. 2",
-      "content": "W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami wprowadza się następujące zmiany: po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „ Wpis do krajowego rejestru utraconych dóbr kultury polega na wprowadzeniu do niego danych umożliwiających identyfikację utraconej rzeczy zawartych w decyzji, o której mowa w ust. 1, niezwłocznie po jej wydaniu."
-    },
-    {
-      "provision_ref": "art27p2u3",
-      "section": "27",
-      "title": "Art. 27 pkt 2 ust. 3",
-      "content": "W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami wprowadza się następujące zmiany: po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „ Dokonanie wpisu do krajowego rejestru utraconych dóbr kultury nie jest uzależnione od ustalenia popełnienia czynu zabronionego, o którym mowa w art. 24a ust. 2, prawomocnym wyrokiem skazującym."
-    },
-    {
-      "provision_ref": "art27p2u4",
-      "section": "27",
-      "title": "Art. 27 pkt 2 ust. 4",
-      "content": "W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami wprowadza się następujące zmiany: po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „ Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, w drodze decyzji, odmawia wpisu do krajowego rejestru utraconych dóbr kultury, w przypadku gdy dane dotyczące utraconej rzeczy zawarte we wniosku, o którym mowa w art. 24a ust. 3, nie pozwalają na jej identyfikację."
-    },
-    {
-      "provision_ref": "art27p2u1",
-      "section": "27",
-      "title": "Art. 27 pkt 2 ust. 1",
-      "content": "W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami wprowadza się następujące zmiany: po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „ Krajowy rejestr utraconych dóbr kultury, prowadzony w systemie teleinformatycznym, jest jawny."
-    },
-    {
-      "provision_ref": "art27p2u2",
-      "section": "27",
-      "title": "Art. 27 pkt 2 ust. 2",
-      "content": "W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami wprowadza się następujące zmiany: po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „ Odpisy z krajowego rejestru utraconych dóbr kultury wydawane są na wniosek każdego, kto tego zażąda."
-    },
-    {
-      "provision_ref": "art27p2u3",
-      "section": "27",
-      "title": "Art. 27 pkt 2 ust. 3",
-      "content": "W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami wprowadza się następujące zmiany: po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „ Dane będące podstawą wpisu do krajowego rejestru utraconych dóbr kultury udostępnia się wyłącznie organom władzy publicznej oraz właścicielowi utraconej rzeczy lub jednostce organizacyjnej, w zbiorach albo zasobie której rzecz się znajdowała, a innym osobom tylko za zgodą właściciela utraconej rzeczy lub jednostki organizacyjnej, w zbiorach albo zasobie której rzecz się znajdowała."
-    },
-    {
-      "provision_ref": "art27p2u1",
-      "section": "27",
-      "title": "Art. 27 pkt 2 ust. 1",
-      "content": "W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami wprowadza się następujące zmiany: po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „ Wykreślenie wpisu z krajowego rejestru utraconych dóbr kultury następuje na podstawie decyzji ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego."
-    },
-    {
-      "provision_ref": "art27p2u2p1",
-      "section": "27",
-      "title": "Art. 27 pkt 2 ust. 2 pkt 1",
-      "content": "W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami wprowadza się następujące zmiany: po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „ Wykreślenie wpisu z krajowego rejestru utraconych dóbr kultury następuje na wniosek podmiotów wskazanych w art. 24a ust. 3 albo z urzędu, w przypadku gdy: właściciel odzyskał posiadanie utraconej rzeczy;"
-    },
-    {
-      "provision_ref": "art27p2u2p2",
-      "section": "27",
-      "title": "Art. 27 pkt 2 ust. 2 pkt 2",
-      "content": "W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami wprowadza się następujące zmiany: po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „ Wykreślenie wpisu z krajowego rejestru utraconych dóbr kultury następuje na wniosek podmiotów wskazanych w art. 24a ust. 3 albo z urzędu, w przypadku gdy: dane będące podstawą wpisu okazały się nieprawdziwe."
-    },
-    {
-      "provision_ref": "art27p2u3",
-      "section": "27",
-      "title": "Art. 27 pkt 2 ust. 3",
-      "content": "W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami wprowadza się następujące zmiany: po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „ W przypadku określonym w ust. 2 pkt 2, skutki prawne dokonania wpisu w krajowym rejestrze utraconych dóbr kultury zostają zniesione z mocą wsteczną."
-    },
-    {
-      "provision_ref": "art27p3",
-      "section": "27",
-      "title": "Art. 27 pkt 3",
-      "content": "W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami wprowadza się następujące zmiany: w art. 32 uchyla się ust. 9."
+      "content": "(pominięty)"
     },
     {
       "provision_ref": "art28",
       "section": "28",
       "title": "Art. 28",
-      "content": "Przepisy rozdziału 2a ustawy zmienianej w art. 27 stosuje się do rzeczy ruchomych utraconych w wyniku czynu zabronionego popełnionego po dniu wejścia w życie niniejszej ustawy."
+      "content": "Przepisy rozdziału 2a ustawy zmienianej w art. 27 5) Artykuł 27 zawiera zmiany do ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami. stosuje się do rzeczy ruchomych utraconych w wyniku czynu zabronionego popełnionego po dniu wejścia w życie niniejszej ustawy."
     },
     {
       "provision_ref": "art29",
@@ -781,65 +637,41 @@
       "provision_ref": "art30",
       "section": "30",
       "title": "Art. 30",
-      "content": "Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia."
+      "content": "Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia 6) Ustawa została ogłoszona w dniu 20 marca 2015 r. ."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2014-121",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2014-1619",
+      "target_document_id": "pl-du-2019-908",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2014-101",
+      "target_document_id": "pl-du-2022-2375",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2014-827",
+      "target_document_id": "pl-du-2022-1360",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2015-4",
+      "target_document_id": "pl-du-2022-2337",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2014-1446",
+      "target_document_id": "pl-du-2022-2339",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2011-698",
+      "target_document_id": "pl-du-2022-479",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2011-1016",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-2014-822",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-2012-987",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-2012-642",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-2012-908",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-2013-829",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1997-553",
+      "target_document_id": "pl-du-2021-1805",
       "ref_type": "references"
     }
   ]

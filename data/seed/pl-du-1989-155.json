@@ -10,16 +10,22 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/1989/155",
   "provisions": [
     {
+      "provision_ref": "art417",
+      "section": "417",
+      "title": "Art. 417",
+      "content": "Ustawa wchodzi w życie z dniem 1 września 2022 r., z wyjątkiem art. 135 ust. 1 i 2, art. 186 ust. 1 i 2, art. 243 ust. 1, art. 321, art. 324-338 w zakresie okręgowych ośrodków wychowawczych, art. 340 w zakresie okręgowych ośrodków wychowawczych, art. 341 w zakresie okręgowych ośrodków wychowawczych, art. 343, art. 348 w zakresie okręgowych ośrodków wychowawczych, art. 361, art. 363, art. 385 pkt 1 i 2, art. 389 pkt 1 i 3-7, art. 393, art. 400, art. 401 ust. 2 i art. 415 pkt 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia."
+    },
+    {
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "Polska Rzeczpospolita Ludowa zapewnia każdemu obywatelowi wolność sumienia i wyznania. Wolność sumienia i wyznania obejmuje swobodę wyboru religii lub przekonań oraz wyrażania ich indywidualnie i zbiorowo, prywatnie i publicznie. Obywatele wierzący wszystkich wyznań oraz niewierzący mają równe prawa w życiu państwowym, politycznym, gospodarczym, społecznym i kulturalnym."
+      "content": "Rzeczpospolita Polska zapewnia każdemu obywatelowi wolność sumienia i wyznania. Wolność sumienia i wyznania obejmuje swobodę wyboru religii lub przekonań oraz wyrażania ich indywidualnie i zbiorowo, prywatnie i publicznie. Obywatele wierzący wszystkich wyznań oraz niewierzący mają równe prawa w życiu państwowym, politycznym, gospodarczym, społecznym i kulturalnym."
     },
     {
       "provision_ref": "art1u1",
       "section": "1",
       "title": "Art. 1 ust. 1",
-      "content": "Polska Rzeczpospolita Ludowa zapewnia każdemu obywatelowi wolność sumienia i wyznania."
+      "content": "Rzeczpospolita Polska zapewnia każdemu obywatelowi wolność sumienia i wyznania."
     },
     {
       "provision_ref": "art1u2",
@@ -37,79 +43,91 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Korzystając z wolności sumienia i wyznania obywatele mogą w szczególności: tworzyć kościoły i inne związki wyznaniowe oraz należeć lub nie należeć do nich, zgodnie z zasadami swojego wyznania uczestniczyć w czynnościach i obrzędach religijnych oraz wypełniać obowiązki religijne i obchodzić święta religijne, głosić swoją religię lub przekonania, wychowywać dzieci zgodnie ze swoimi przekonaniami w sprawach religii, zachowywać milczenie w sprawach swojej religii lub przekonań, utrzymywać kontakty ze współwyznawcami, w tym uczestniczyć w pracach organizacji religijnych o zasięgu międzynarodowym, korzystać ze źródeł informacji na temat religii, wytwarzać i nabywać przedmioty potrzebne do celów kultu i praktyk religijnych oraz korzystać z nich, wytwarzać, nabywać i posiadać artykuły potrzebne do przestrzegania reguł religijnych, wybrać stan duchowny lub zakonny, zrzeszać się w organizacjach świeckich w celu realizacji zadań wynikających z wyznawanej religii bądź przekonań w sprawach religii."
+      "content": "Korzystając z wolności sumienia i wyznania obywatele mogą w szczególności: tworzyć wspólnoty religijne, zwane dalej „kościołami i innymi związkami wyznaniowymi”, zakładane w celu wyznawania i szerzenia wiary religijnej, posiadające własny ustrój, doktrynę i obrzędy kultowe; zgodnie z zasadami swojego wyznania uczestniczyć w czynnościach i obrzędach religijnych oraz wypełniać obowiązki religijne i obchodzić święta religijne; należeć lub nie należeć do kościołów i innych związków wyznaniowych; głosić swoją religię lub przekonania; wychowywać dzieci zgodnie ze swoimi przekonaniami w sprawach religii; zachowywać milczenie w sprawach swojej religii lub przekonań; utrzymywać kontakty ze współwyznawcami, w tym uczestniczyć w pracach organizacji religijnych o zasięgu międzynarodowym; korzystać ze źródeł informacji na temat religii; wytwarzać i nabywać przedmioty potrzebne do celów kultu i praktyk religijnych oraz korzystać z nich; wytwarzać, nabywać i posiadać artykuły potrzebne do przestrzegania reguł religijnych; wybrać stan duchowny lub zakonny; zrzeszać się w organizacjach świeckich w celu realizacji zadań wynikających z wyznawanej religii bądź przekonań w sprawach religii; otrzymać pochówek zgodny z wyznawanymi zasadami religijnymi lub z przekonaniami w sprawach religii."
     },
     {
       "provision_ref": "art2p1",
       "section": "2",
       "title": "Art. 2 pkt 1",
-      "content": "Korzystając z wolności sumienia i wyznania obywatele mogą w szczególności: tworzyć kościoły i inne związki wyznaniowe oraz należeć lub nie należeć do nich,"
+      "content": "Korzystając z wolności sumienia i wyznania obywatele mogą w szczególności: tworzyć wspólnoty religijne, zwane dalej „kościołami i innymi związkami wyznaniowymi”, zakładane w celu wyznawania i szerzenia wiary religijnej, posiadające własny ustrój, doktrynę i obrzędy kultowe;"
     },
     {
       "provision_ref": "art2p2",
       "section": "2",
       "title": "Art. 2 pkt 2",
-      "content": "Korzystając z wolności sumienia i wyznania obywatele mogą w szczególności: zgodnie z zasadami swojego wyznania uczestniczyć w czynnościach i obrzędach religijnych oraz wypełniać obowiązki religijne i obchodzić święta religijne,"
+      "content": "Korzystając z wolności sumienia i wyznania obywatele mogą w szczególności: zgodnie z zasadami swojego wyznania uczestniczyć w czynnościach i obrzędach religijnych oraz wypełniać obowiązki religijne i obchodzić święta religijne;"
+    },
+    {
+      "provision_ref": "art2p2a",
+      "section": "2",
+      "title": "Art. 2 pkt 2a",
+      "content": "Korzystając z wolności sumienia i wyznania obywatele mogą w szczególności: należeć lub nie należeć do kościołów i innych związków wyznaniowych;"
     },
     {
       "provision_ref": "art2p3",
       "section": "2",
       "title": "Art. 2 pkt 3",
-      "content": "Korzystając z wolności sumienia i wyznania obywatele mogą w szczególności: głosić swoją religię lub przekonania,"
+      "content": "Korzystając z wolności sumienia i wyznania obywatele mogą w szczególności: głosić swoją religię lub przekonania;"
     },
     {
       "provision_ref": "art2p4",
       "section": "2",
       "title": "Art. 2 pkt 4",
-      "content": "Korzystając z wolności sumienia i wyznania obywatele mogą w szczególności: wychowywać dzieci zgodnie ze swoimi przekonaniami w sprawach religii,"
+      "content": "Korzystając z wolności sumienia i wyznania obywatele mogą w szczególności: wychowywać dzieci zgodnie ze swoimi przekonaniami w sprawach religii;"
     },
     {
       "provision_ref": "art2p5",
       "section": "2",
       "title": "Art. 2 pkt 5",
-      "content": "Korzystając z wolności sumienia i wyznania obywatele mogą w szczególności: zachowywać milczenie w sprawach swojej religii lub przekonań,"
+      "content": "Korzystając z wolności sumienia i wyznania obywatele mogą w szczególności: zachowywać milczenie w sprawach swojej religii lub przekonań;"
     },
     {
       "provision_ref": "art2p6",
       "section": "2",
       "title": "Art. 2 pkt 6",
-      "content": "Korzystając z wolności sumienia i wyznania obywatele mogą w szczególności: utrzymywać kontakty ze współwyznawcami, w tym uczestniczyć w pracach organizacji religijnych o zasięgu międzynarodowym,"
+      "content": "Korzystając z wolności sumienia i wyznania obywatele mogą w szczególności: utrzymywać kontakty ze współwyznawcami, w tym uczestniczyć w pracach organizacji religijnych o zasięgu międzynarodowym;"
     },
     {
       "provision_ref": "art2p7",
       "section": "2",
       "title": "Art. 2 pkt 7",
-      "content": "Korzystając z wolności sumienia i wyznania obywatele mogą w szczególności: korzystać ze źródeł informacji na temat religii,"
+      "content": "Korzystając z wolności sumienia i wyznania obywatele mogą w szczególności: korzystać ze źródeł informacji na temat religii;"
     },
     {
       "provision_ref": "art2p8",
       "section": "2",
       "title": "Art. 2 pkt 8",
-      "content": "Korzystając z wolności sumienia i wyznania obywatele mogą w szczególności: wytwarzać i nabywać przedmioty potrzebne do celów kultu i praktyk religijnych oraz korzystać z nich,"
+      "content": "Korzystając z wolności sumienia i wyznania obywatele mogą w szczególności: wytwarzać i nabywać przedmioty potrzebne do celów kultu i praktyk religijnych oraz korzystać z nich;"
     },
     {
       "provision_ref": "art2p9",
       "section": "2",
       "title": "Art. 2 pkt 9",
-      "content": "Korzystając z wolności sumienia i wyznania obywatele mogą w szczególności: wytwarzać, nabywać i posiadać artykuły potrzebne do przestrzegania reguł religijnych,"
+      "content": "Korzystając z wolności sumienia i wyznania obywatele mogą w szczególności: wytwarzać, nabywać i posiadać artykuły potrzebne do przestrzegania reguł religijnych;"
     },
     {
       "provision_ref": "art2p10",
       "section": "2",
       "title": "Art. 2 pkt 10",
-      "content": "Korzystając z wolności sumienia i wyznania obywatele mogą w szczególności: wybrać stan duchowny lub zakonny,"
+      "content": "Korzystając z wolności sumienia i wyznania obywatele mogą w szczególności: wybrać stan duchowny lub zakonny;"
     },
     {
       "provision_ref": "art2p11",
       "section": "2",
       "title": "Art. 2 pkt 11",
-      "content": "Korzystając z wolności sumienia i wyznania obywatele mogą w szczególności: zrzeszać się w organizacjach świeckich w celu realizacji zadań wynikających z wyznawanej religii bądź przekonań w sprawach religii."
+      "content": "Korzystając z wolności sumienia i wyznania obywatele mogą w szczególności: zrzeszać się w organizacjach świeckich w celu realizacji zadań wynikających z wyznawanej religii bądź przekonań w sprawach religii;"
+    },
+    {
+      "provision_ref": "art2p12",
+      "section": "2",
+      "title": "Art. 2 pkt 12",
+      "content": "Korzystając z wolności sumienia i wyznania obywatele mogą w szczególności: otrzymać pochówek zgodny z wyznawanymi zasadami religijnymi lub z przekonaniami w sprawach religii."
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "Uzewnętrznianie indywidualnie lub zbiorowo swojej religii lub przekonań może podlegać jedynie ograniczeniom ustawowym koniecznym do ochrony bezpieczeństwa publicznego, porządku, zdrowia lub moralności publicznej albo podstawowych praw i wolności innych osób. Korzystanie z wolności sumienia i wyznania nie może prowadzić do uchylania się od wykonywania obowiązków publicznych nałożonych przez ustawy. Ze względu na przekonania religijne lub wyznawane zasady moralne obywatele mogą występować o skierowanie ich do służby zastępczej, na zasadach i w trybie określonych w ustawie o powszechnym obowiązku obrony Polskiej Rzeczypospolitej Ludowej. Korzystanie z tego prawa wymaga złożenia oświadczenia w sprawie przekonań religijnych lub wyznawanych zasad moralnych."
+      "content": "Uzewnętrznianie indywidualnie lub zbiorowo swojej religii lub przekonań może podlegać jedynie ograniczeniom ustawowym koniecznym do ochrony bezpieczeństwa publicznego, porządku, zdrowia lub moralności publicznej albo podstawowych praw i wolności innych osób. Korzystanie z wolności sumienia i wyznania nie może prowadzić do uchylania się od wykonywania obowiązków publicznych nałożonych przez ustawy. Ze względu na przekonania religijne lub wyznawane zasady moralne obywatele mogą występować o przeznaczenie do służby zastępczej na zasadach i w trybie określonych w ustawie z dnia 11 marca 2022 r. o obronie Ojczyzny ."
     },
     {
       "provision_ref": "art3u1",
@@ -127,31 +145,31 @@
       "provision_ref": "art3u3",
       "section": "3",
       "title": "Art. 3 ust. 3",
-      "content": "Ze względu na przekonania religijne lub wyznawane zasady moralne obywatele mogą występować o skierowanie ich do służby zastępczej, na zasadach i w trybie określonych w ustawie o powszechnym obowiązku obrony Polskiej Rzeczypospolitej Ludowej. Korzystanie z tego prawa wymaga złożenia oświadczenia w sprawie przekonań religijnych lub wyznawanych zasad moralnych."
+      "content": "Ze względu na przekonania religijne lub wyznawane zasady moralne obywatele mogą występować o przeznaczenie do służby zastępczej na zasadach i w trybie określonych w ustawie z dnia 11 marca 2022 r. o obronie Ojczyzny ."
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "Prawo określone w art. 2 pkt 2 oraz prawo do posiadania i korzystania z przedmiotów potrzebnych do uprawiania kultu i praktyk religijnych przysługują również osobom: pełniącym służbę wojskową lub zasadniczą służbę w obronie cywilnej, przebywającym w zakładach służby zdrowia i opieki społecznej oraz dzieciom i młodzieży na krajowych koloniach i obozach organizowanych przez instytucje państwowe, przebywającym w zakładach karnych, poprawczych i wychowawczych oraz aresztach śledczych, ośrodkach przystosowania społecznego oraz schroniskach dla nieletnich. Sposób realizacji uprawnień określonych w ust. 1 regulują odrębne ustawy oraz przepisy wydane na ich podstawie."
+      "content": "Prawo określone w art. 2 pkt 2 oraz prawo do posiadania i korzystania z przedmiotów potrzebnych do uprawiania kultu i praktyk religijnych przysługują również osobom: pełniącym służbę wojskową lub zasadniczą służbę w obronie cywilnej; przebywającym w zakładach służby zdrowia 1) Obecnie zakładach leczniczych podmiotów leczniczych, na podstawie art. 40 ustawy z dnia 10 czerwca 2016 r. o zmianie ustawy o działalności leczniczej oraz niektórych innych ustaw (Dz. U. poz. 960), która weszła w życie z dniem 15 lipca 2016 r. i opieki społecznej 2) Obecnie odpowiednich jednostkach organizacyjnych pomocy społecznej, o których mowa w ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2021 r. poz. 2268 i 2270 oraz z 2022 r. poz. 1, 66, 1079, 1692, 1700, 1812, 1967, 2127, 2140 i 2754), która weszła w życie z dniem 1 maja 2004 r. oraz dzieciom i młodzieży na krajowych koloniach i obozach organizowanych przez instytucje państwowe; przebywającym w zakładach karnych, zakładach poprawczych, okręgowych ośrodkach wychowawczych, młodzieżowych ośrodkach wychowawczych, aresztach śledczych oraz schroniskach dla nieletnich. Sposób realizacji uprawnień określonych w ust. 1 regulują odrębne ustawy oraz przepisy wydane na ich podstawie."
     },
     {
       "provision_ref": "art4u1p1",
       "section": "4",
       "title": "Art. 4 ust. 1 pkt 1",
-      "content": "Prawo określone w art. 2 pkt 2 oraz prawo do posiadania i korzystania z przedmiotów potrzebnych do uprawiania kultu i praktyk religijnych przysługują również osobom: pełniącym służbę wojskową lub zasadniczą służbę w obronie cywilnej,"
+      "content": "Prawo określone w art. 2 pkt 2 oraz prawo do posiadania i korzystania z przedmiotów potrzebnych do uprawiania kultu i praktyk religijnych przysługują również osobom: pełniącym służbę wojskową lub zasadniczą służbę w obronie cywilnej;"
     },
     {
       "provision_ref": "art4u1p2",
       "section": "4",
       "title": "Art. 4 ust. 1 pkt 2",
-      "content": "Prawo określone w art. 2 pkt 2 oraz prawo do posiadania i korzystania z przedmiotów potrzebnych do uprawiania kultu i praktyk religijnych przysługują również osobom: przebywającym w zakładach służby zdrowia i opieki społecznej oraz dzieciom i młodzieży na krajowych koloniach i obozach organizowanych przez instytucje państwowe,"
+      "content": "Prawo określone w art. 2 pkt 2 oraz prawo do posiadania i korzystania z przedmiotów potrzebnych do uprawiania kultu i praktyk religijnych przysługują również osobom: przebywającym w zakładach służby zdrowia 1) Obecnie zakładach leczniczych podmiotów leczniczych, na podstawie art. 40 ustawy z dnia 10 czerwca 2016 r. o zmianie ustawy o działalności leczniczej oraz niektórych innych ustaw (Dz. U. poz. 960), która weszła w życie z dniem 15 lipca 2016 r. i opieki społecznej 2) Obecnie odpowiednich jednostkach organizacyjnych pomocy społecznej, o których mowa w ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2021 r. poz. 2268 i 2270 oraz z 2022 r. poz. 1, 66, 1079, 1692, 1700, 1812, 1967, 2127, 2140 i 2754), która weszła w życie z dniem 1 maja 2004 r. oraz dzieciom i młodzieży na krajowych koloniach i obozach organizowanych przez instytucje państwowe;"
     },
     {
       "provision_ref": "art4u1p3",
       "section": "4",
       "title": "Art. 4 ust. 1 pkt 3",
-      "content": "Prawo określone w art. 2 pkt 2 oraz prawo do posiadania i korzystania z przedmiotów potrzebnych do uprawiania kultu i praktyk religijnych przysługują również osobom: przebywającym w zakładach karnych, poprawczych i wychowawczych oraz aresztach śledczych, ośrodkach przystosowania społecznego oraz schroniskach dla nieletnich."
+      "content": "Prawo określone w art. 2 pkt 2 oraz prawo do posiadania i korzystania z przedmiotów potrzebnych do uprawiania kultu i praktyk religijnych przysługują również osobom: przebywającym w zakładach karnych, zakładach poprawczych, okręgowych ośrodkach wychowawczych, młodzieżowych ośrodkach wychowawczych, aresztach śledczych oraz schroniskach dla nieletnich."
     },
     {
       "provision_ref": "art4u2",
@@ -187,13 +205,13 @@
       "provision_ref": "art7",
       "section": "7",
       "title": "Art. 7",
-      "content": "Cudzoziemcy przebywający na terytorium Polskiej Rzeczypospolitej Ludowej korzystają z wolności sumienia i wyznania na równi z obywatelami polskimi. Przepis ust. 1 stosuje się odpowiednio do bezpaństwowców."
+      "content": "Cudzoziemcy przebywający na terytorium Rzeczypospolitej Polskiej korzystają z wolności sumienia i wyznania na równi z obywatelami polskimi. Przepis ust. 1 stosuje się odpowiednio do bezpaństwowców."
     },
     {
       "provision_ref": "art7u1",
       "section": "7",
       "title": "Art. 7 ust. 1",
-      "content": "Cudzoziemcy przebywający na terytorium Polskiej Rzeczypospolitej Ludowej korzystają z wolności sumienia i wyznania na równi z obywatelami polskimi."
+      "content": "Cudzoziemcy przebywający na terytorium Rzeczypospolitej Polskiej korzystają z wolności sumienia i wyznania na równi z obywatelami polskimi."
     },
     {
       "provision_ref": "art7u2",
@@ -205,31 +223,31 @@
       "provision_ref": "art8",
       "section": "8",
       "title": "Art. 8",
-      "content": "Kościoły i inne związki wyznaniowe w Polsce działają w konstytucyjnych ramach ustrojowych Polskiej Rzeczypospolitej Ludowej; ich sytuację prawną i majątkową regulują odrębne ustawy."
+      "content": "Kościoły i inne związki wyznaniowe w Polsce działają w konstytucyjnych ramach ustrojowych Rzeczypospolitej Polskiej; ich sytuację prawną i majątkową regulują przepisy rangi ustawowej."
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Art. 9",
-      "content": "W Polskiej Rzeczypospolitej Ludowej stosunek państwa do wszystkich kościołów i innych związków wyznaniowych opiera się na poszanowaniu wolności sumienia i wyznania. Gwarancjami wolności sumienia i wyznania w stosunkach państwa z kościołami i innymi związkami wyznaniowymi są: oddzielenie kościołów i innych związków wyznaniowych od państwa, swoboda wypełniania przez kościoły i inne związki wyznaniowe funkcji religijnych, równouprawnienie wszystkich kościołów i innych związków wyznaniowych, bez względu na formę uregulowania ich sytuacji prawnej."
+      "content": "W Rzeczypospolitej Polskiej stosunek państwa do wszystkich kościołów i innych związków wyznaniowych opiera się na poszanowaniu wolności sumienia i wyznania. Gwarancjami wolności sumienia i wyznania w stosunkach państwa z kościołami i innymi związkami wyznaniowymi są: oddzielenie kościołów i innych związków wyznaniowych od państwa; swoboda wypełniania przez kościoły i inne związki wyznaniowe funkcji religijnych; równouprawnienie wszystkich kościołów i innych związków wyznaniowych, bez względu na formę uregulowania ich sytuacji prawnej."
     },
     {
       "provision_ref": "art9u1",
       "section": "9",
       "title": "Art. 9 ust. 1",
-      "content": "W Polskiej Rzeczypospolitej Ludowej stosunek państwa do wszystkich kościołów i innych związków wyznaniowych opiera się na poszanowaniu wolności sumienia i wyznania."
+      "content": "W Rzeczypospolitej Polskiej stosunek państwa do wszystkich kościołów i innych związków wyznaniowych opiera się na poszanowaniu wolności sumienia i wyznania."
     },
     {
       "provision_ref": "art9u2p1",
       "section": "9",
       "title": "Art. 9 ust. 2 pkt 1",
-      "content": "Gwarancjami wolności sumienia i wyznania w stosunkach państwa z kościołami i innymi związkami wyznaniowymi są: oddzielenie kościołów i innych związków wyznaniowych od państwa,"
+      "content": "Gwarancjami wolności sumienia i wyznania w stosunkach państwa z kościołami i innymi związkami wyznaniowymi są: oddzielenie kościołów i innych związków wyznaniowych od państwa;"
     },
     {
       "provision_ref": "art9u2p2",
       "section": "9",
       "title": "Art. 9 ust. 2 pkt 2",
-      "content": "Gwarancjami wolności sumienia i wyznania w stosunkach państwa z kościołami i innymi związkami wyznaniowymi są: swoboda wypełniania przez kościoły i inne związki wyznaniowe funkcji religijnych,"
+      "content": "Gwarancjami wolności sumienia i wyznania w stosunkach państwa z kościołami i innymi związkami wyznaniowymi są: swoboda wypełniania przez kościoły i inne związki wyznaniowe funkcji religijnych;"
     },
     {
       "provision_ref": "art9u2p3",
@@ -241,13 +259,13 @@
       "provision_ref": "art10",
       "section": "10",
       "title": "Art. 10",
-      "content": "Polska Rzeczpospolita Ludowa jest państwem świeckim, neutralnym w sprawach religii i przekonań. Państwo i państwowe jednostki organizacyjne nie dotują i nie subwencjonują kościołów i innych związków wyznaniowych. Wyjątki od tej zasady regulują ustawy lub przepisy wydane na ich podstawie."
+      "content": "Rzeczpospolita Polska jest państwem świeckim, neutralnym w sprawach religii i przekonań. Państwo i państwowe jednostki organizacyjne nie dotują i nie subwencjonują kościołów i innych związków wyznaniowych. Wyjątki od tej zasady regulują ustawy lub przepisy wydane na ich podstawie."
     },
     {
       "provision_ref": "art10u1",
       "section": "10",
       "title": "Art. 10 ust. 1",
-      "content": "Polska Rzeczpospolita Ludowa jest państwem świeckim, neutralnym w sprawach religii i przekonań."
+      "content": "Rzeczpospolita Polska jest państwem świeckim, neutralnym w sprawach religii i przekonań."
     },
     {
       "provision_ref": "art10u2",
@@ -283,13 +301,13 @@
       "provision_ref": "art12",
       "section": "12",
       "title": "Art. 12",
-      "content": "Duchowni oraz osoby zakonne kościołów i innych związków wyznaniowych korzystają z praw i podlegają obowiązkom na równi z innymi obywatelami we wszystkich dziedzinach życia państwowego, politycznego, gospodarczego, społecznego i kulturalnego. Są oni w ramach obowiązujących przepisów ustaw zwolnieni z obowiązków niemożliwych do pogodzenia z pełnieniem funkcji duchownego lub osoby zakonnej. Osoby, o których mowa w ust. 1, mają prawo do noszenia stroju duchownego. Sprawy ubezpieczeń społecznych duchownych reguluje odrębna ustawa."
+      "content": "Duchowni oraz osoby zakonne kościołów i innych związków wyznaniowych, ustanowione według przepisów prawa wewnętrznego kościoła lub innego związku wyznaniowego, korzystają z praw i podlegają obowiązkom na równi z innymi obywatelami we wszystkich dziedzinach życia państwowego, politycznego, gospodarczego, społecznego i kulturalnego. Są oni w ramach obowiązujących przepisów ustaw zwolnieni z obowiązków niemożliwych do pogodzenia z pełnieniem funkcji duchownego lub osoby zakonnej. Osoby, o których mowa w ust. 1, mają prawo do noszenia stroju duchownego. Uprawnienia i obowiązki osób duchownych w myśl prawa państwowego określają odrębne ustawy."
     },
     {
       "provision_ref": "art12u1",
       "section": "12",
       "title": "Art. 12 ust. 1",
-      "content": "Duchowni oraz osoby zakonne kościołów i innych związków wyznaniowych korzystają z praw i podlegają obowiązkom na równi z innymi obywatelami we wszystkich dziedzinach życia państwowego, politycznego, gospodarczego, społecznego i kulturalnego. Są oni w ramach obowiązujących przepisów ustaw zwolnieni z obowiązków niemożliwych do pogodzenia z pełnieniem funkcji duchownego lub osoby zakonnej."
+      "content": "Duchowni oraz osoby zakonne kościołów i innych związków wyznaniowych, ustanowione według przepisów prawa wewnętrznego kościoła lub innego związku wyznaniowego, korzystają z praw i podlegają obowiązkom na równi z innymi obywatelami we wszystkich dziedzinach życia państwowego, politycznego, gospodarczego, społecznego i kulturalnego. Są oni w ramach obowiązujących przepisów ustaw zwolnieni z obowiązków niemożliwych do pogodzenia z pełnieniem funkcji duchownego lub osoby zakonnej."
     },
     {
       "provision_ref": "art12u2",
@@ -301,13 +319,13 @@
       "provision_ref": "art12u3",
       "section": "12",
       "title": "Art. 12 ust. 3",
-      "content": "Sprawy ubezpieczeń społecznych duchownych reguluje odrębna ustawa."
+      "content": "Uprawnienia i obowiązki osób duchownych w myśl prawa państwowego określają odrębne ustawy."
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Art. 13",
-      "content": "Majątek i przychody kościołów i innych związków wyznaniowych podlegają ogólnie obowiązującym przepisom podatkowym, z wyjątkami określonymi w odrębnych ustawach. Osoby prawne kościołów i innych związków wyznaniowych są zwolnione od opodatkowania z tytułu przychodów ze swojej działalności niegospodarczej. W tym zakresie osoby te nie mają obowiązku prowadzenia dokumentacji wymaganej przez przepisy podatkowe. Osoby prawne kościołów i innych związków wyznaniowych są zwolnione od obowiązku uzyskiwania zezwoleń na przyjęcie spadku, zapisu i darowizny. Jeżeli przedmiotem spadku, zapisu lub darowizny jest nieruchomość, zwolnienie ma zastosowanie, gdy według testamentu lub aktu darowizny nieruchomość jest przeznaczona na inwestycję sakralną lub związaną z nią inwestycję kościelną. Zezwolenie na zawarcie umowy dożywocia nie jest wymagane, jeżeli nieruchomość będąca przedmiotem umowy jest przeznaczona na inwestycję sakralną lub związaną z nią inwestycję kościelną. Dochody z działalności gospodarczej osób prawnych kościołów i innych związków wyznaniowych oraz spółek, których udziałowcami są wyłącznie te osoby, są zwolnione od opodatkowania w części, w jakiej zostały przeznaczone w roku podatkowym lub w roku po nim następującym na cele kultowe, oświatowo-wychowawcze, naukowe, kulturalne, działalność charytatywno-opiekuńczą, punkty katechetyczne, konserwację zabytków oraz na inwestycje sakralne i inwestycje kościelne, których przedmiotem są punkty katechetyczne i zakłady charytatywno-opiekuńcze, jak również remonty tych obiektów. Osoby prawne kościołów i innych związków wyznaniowych są zwolnione od opodatkowania i od świadczeń na fundusz gminny i fundusz miejski, od nieruchomości lub ich części, stanowiących własność tych osób lub używanych przez nie na podstawie innego tytułu prawnego na cele niemieszkalne, z wyjątkiem części zajmowanej na wykonywanie działalności gospodarczej. Wolne od opłat celnych są przesyłane z zagranicy dla osób prawnych kościołów i innych związków wyznaniowych dary: przeznaczone na cele kultowe, charytatywno-opiekuńcze i oświatowo-wychowawcze, maszyny, urządzenia i materiały poligraficzne oraz papier."
+      "content": "Majątek i przychody kościołów i innych związków wyznaniowych podlegają ogólnie obowiązującym przepisom podatkowym, z wyjątkami określonymi w odrębnych ustawach. Osoby prawne kościołów i innych związków wyznaniowych są zwolnione od opodatkowania z tytułu przychodów ze swojej działalności niegospodarczej. W tym zakresie osoby te nie mają obowiązku prowadzenia dokumentacji wymaganej przez przepisy podatkowe. (uchylony) (uchylony) Dochody z działalności gospodarczej osób prawnych kościołów i innych związków wyznaniowych oraz spółek, których udziałowcami są wyłącznie te osoby, są zwolnione od opodatkowania w części, w jakiej zostały przeznaczone w roku podatkowym lub w roku po nim następującym na cele kultowe, oświatowo-wychowawcze, naukowe, kulturalne, działalność charytatywno-opiekuńczą, punkty katechetyczne, konserwację zabytków oraz na inwestycje sakralne i inwestycje kościelne, których przedmiotem są punkty katechetyczne i zakłady charytatywno-opiekuńcze, jak również remonty tych obiektów. Osoby prawne kościołów i innych związków wyznaniowych są zwolnione od opodatkowania i od świadczeń na fundusz gminny i fundusz miejski 4) Zniesiony z dniem 1 stycznia 1991 r. na podstawie art. 1 ust. 1 pkt 12 ustawy z dnia 14 grudnia 1990 r. o zniesieniu i likwidacji niektórych funduszy (Dz. U. poz. 517, z 1995 r. poz. 654 oraz z 1999 r. poz. 1226), która weszła w życie z dniem 1 stycznia 1991 r. , od nieruchomości lub ich części, stanowiących własność tych osób lub używanych przez nie na podstawie innego tytułu prawnego na cele niemieszkalne, z wyjątkiem części zajmowanej na wykonywanie działalności gospodarczej. Zwalnia się z należności celnych przywozowych towary przeznaczone na cele charytatywno-opiekuńcze i oświatowo-wychowawcze oraz towary o charakterze kulturalnym przeznaczone na cele kultu, przywożone dla osób prawnych kościołów i innych związków wyznaniowych, w granicach i na warunkach określonych w rozporządzeniu Rady (WE) nr 1186/2009 z dnia 16 listopada 2009 r. ustanawiającym wspólnotowy system zwolnień celnych (Dz. Urz. UE L 342 z 10.12.2009, str. 23)."
     },
     {
       "provision_ref": "art13u1",
@@ -325,13 +343,13 @@
       "provision_ref": "art13u3",
       "section": "13",
       "title": "Art. 13 ust. 3",
-      "content": "Osoby prawne kościołów i innych związków wyznaniowych są zwolnione od obowiązku uzyskiwania zezwoleń na przyjęcie spadku, zapisu i darowizny. Jeżeli przedmiotem spadku, zapisu lub darowizny jest nieruchomość, zwolnienie ma zastosowanie, gdy według testamentu lub aktu darowizny nieruchomość jest przeznaczona na inwestycję sakralną lub związaną z nią inwestycję kościelną."
+      "content": "(uchylony)"
     },
     {
       "provision_ref": "art13u4",
       "section": "13",
       "title": "Art. 13 ust. 4",
-      "content": "Zezwolenie na zawarcie umowy dożywocia nie jest wymagane, jeżeli nieruchomość będąca przedmiotem umowy jest przeznaczona na inwestycję sakralną lub związaną z nią inwestycję kościelną."
+      "content": "(uchylony)"
     },
     {
       "provision_ref": "art13u5",
@@ -343,37 +361,31 @@
       "provision_ref": "art13u6",
       "section": "13",
       "title": "Art. 13 ust. 6",
-      "content": "Osoby prawne kościołów i innych związków wyznaniowych są zwolnione od opodatkowania i od świadczeń na fundusz gminny i fundusz miejski, od nieruchomości lub ich części, stanowiących własność tych osób lub używanych przez nie na podstawie innego tytułu prawnego na cele niemieszkalne, z wyjątkiem części zajmowanej na wykonywanie działalności gospodarczej."
+      "content": "Osoby prawne kościołów i innych związków wyznaniowych są zwolnione od opodatkowania i od świadczeń na fundusz gminny i fundusz miejski 4) Zniesiony z dniem 1 stycznia 1991 r. na podstawie art. 1 ust. 1 pkt 12 ustawy z dnia 14 grudnia 1990 r. o zniesieniu i likwidacji niektórych funduszy (Dz. U. poz. 517, z 1995 r. poz. 654 oraz z 1999 r. poz. 1226), która weszła w życie z dniem 1 stycznia 1991 r. , od nieruchomości lub ich części, stanowiących własność tych osób lub używanych przez nie na podstawie innego tytułu prawnego na cele niemieszkalne, z wyjątkiem części zajmowanej na wykonywanie działalności gospodarczej."
     },
     {
-      "provision_ref": "art13u7p1",
+      "provision_ref": "art13u7",
       "section": "13",
-      "title": "Art. 13 ust. 7 pkt 1",
-      "content": "Wolne od opłat celnych są przesyłane z zagranicy dla osób prawnych kościołów i innych związków wyznaniowych dary: przeznaczone na cele kultowe, charytatywno-opiekuńcze i oświatowo-wychowawcze,"
-    },
-    {
-      "provision_ref": "art13u7p2",
-      "section": "13",
-      "title": "Art. 13 ust. 7 pkt 2",
-      "content": "Wolne od opłat celnych są przesyłane z zagranicy dla osób prawnych kościołów i innych związków wyznaniowych dary: maszyny, urządzenia i materiały poligraficzne oraz papier."
+      "title": "Art. 13 ust. 7",
+      "content": "Zwalnia się z należności celnych przywozowych towary przeznaczone na cele charytatywno-opiekuńcze i oświatowo-wychowawcze oraz towary o charakterze kulturalnym przeznaczone na cele kultu, przywożone dla osób prawnych kościołów i innych związków wyznaniowych, w granicach i na warunkach określonych w rozporządzeniu Rady (WE) nr 1186/2009 z dnia 16 listopada 2009 r. ustanawiającym wspólnotowy system zwolnień celnych (Dz. Urz. UE L 342 z 10.12.2009, str. 23)."
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Art. 14",
-      "content": "Jeżeli odrębna ustawa lub ratyfikowana umowa międzynarodowa nie stanowią inaczej, władze kościoła lub innego związku wyznaniowego powiadamiają właściwy organ administracji państwowej o utworzeniu, zmianie nazwy, siedziby, granic lub połączeniu, podziale i zniesieniu diecezji (okręgów i porównywalnych jednostek organizacyjnych) oraz parafii (zborów, gmin i porównywalnych jednostek organizacyjnych). Jeżeli odrębna ustawa lub ratyfikowana umowa międzynarodowa nie stanowią inaczej, władze kościoła lub innego związku wyznaniowego powiadamiają właściwy organ administracji państwowej o powołaniu i odwołaniu osoby będącej kierowniczym organem wykonawczym w kościele lub innym związku wyznaniowym. Przepis ust. 2 stosuje się odpowiednio do jednostek organizacyjnych, o których mowa w ust. 1. Jeżeli odrębna ustawa lub ratyfikowana umowa międzynarodowa nie stanowią inaczej, przed powołaniem na stanowiska, o których mowa w ust. 2 i 3, cudzoziemca, władze kościoła lub innego związku wyznaniowego winny się upewnić, czy Minister-Kierownik Urzędu do Spraw Wyznań nie wyraża wobec tego zastrzeżeń. Niezgłoszenie zastrzeżeń w terminie trzydziestu dni od daty powiadomienia uważa się za wyrażenie zgody."
+      "content": "Jeżeli odrębna ustawa lub ratyfikowana umowa międzynarodowa nie stanowią inaczej, kościół lub inny związek wyznaniowy powiadamia ministra właściwego do spraw wyznań religijnych 5) Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych, na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r. i wojewodę właściwego ze względu na siedzibę jednostki organizacyjnej kościoła lub innego związku wyznaniowego o utworzeniu, zmianie nazwy, siedziby, granic lub połączeniu, podziale i zniesieniu diecezji (okręgów i porównywalnych jednostek organizacyjnych) oraz parafii (zborów, gmin i porównywalnych jednostek organizacyjnych). Jeżeli odrębna ustawa lub ratyfikowana umowa międzynarodowa nie stanowią inaczej, kościół lub inny związek wyznaniowy powiadamia w terminie 30 dni ministra właściwego do spraw wyznań religijnych 5) Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych, na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r. i wojewodę właściwego ze względu na siedzibę kościoła lub innego związku wyznaniowego o zmianie siedziby oraz o zmianie osób wchodzących do kierowniczych organów wykonawczych, podając ich imiona i nazwiska, obywatelstwo i miejsce zamieszkania. Przepis ust. 2 stosuje się odpowiednio do jednostek organizacyjnych, o których mowa w ust. 1. Jeżeli odrębna ustawa lub ratyfikowana umowa międzynarodowa nie stanowią inaczej, przed objęciem stanowisk, o których mowa w ust. 2 i 3, przez cudzoziemca, władze kościoła lub innego związku wyznaniowego powinny się upewnić, czy minister właściwy do spraw wyznań religijnych 5) Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych, na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r. nie wyraża wobec tego zastrzeżeń. Niezgłoszenie zastrzeżeń w terminie 60 dni od daty powiadomienia uważa się za wyrażenie zgody."
     },
     {
       "provision_ref": "art14u1",
       "section": "14",
       "title": "Art. 14 ust. 1",
-      "content": "Jeżeli odrębna ustawa lub ratyfikowana umowa międzynarodowa nie stanowią inaczej, władze kościoła lub innego związku wyznaniowego powiadamiają właściwy organ administracji państwowej o utworzeniu, zmianie nazwy, siedziby, granic lub połączeniu, podziale i zniesieniu diecezji (okręgów i porównywalnych jednostek organizacyjnych) oraz parafii (zborów, gmin i porównywalnych jednostek organizacyjnych)."
+      "content": "Jeżeli odrębna ustawa lub ratyfikowana umowa międzynarodowa nie stanowią inaczej, kościół lub inny związek wyznaniowy powiadamia ministra właściwego do spraw wyznań religijnych 5) Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych, na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r. i wojewodę właściwego ze względu na siedzibę jednostki organizacyjnej kościoła lub innego związku wyznaniowego o utworzeniu, zmianie nazwy, siedziby, granic lub połączeniu, podziale i zniesieniu diecezji (okręgów i porównywalnych jednostek organizacyjnych) oraz parafii (zborów, gmin i porównywalnych jednostek organizacyjnych)."
     },
     {
       "provision_ref": "art14u2",
       "section": "14",
       "title": "Art. 14 ust. 2",
-      "content": "Jeżeli odrębna ustawa lub ratyfikowana umowa międzynarodowa nie stanowią inaczej, władze kościoła lub innego związku wyznaniowego powiadamiają właściwy organ administracji państwowej o powołaniu i odwołaniu osoby będącej kierowniczym organem wykonawczym w kościele lub innym związku wyznaniowym."
+      "content": "Jeżeli odrębna ustawa lub ratyfikowana umowa międzynarodowa nie stanowią inaczej, kościół lub inny związek wyznaniowy powiadamia w terminie 30 dni ministra właściwego do spraw wyznań religijnych 5) Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych, na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r. i wojewodę właściwego ze względu na siedzibę kościoła lub innego związku wyznaniowego o zmianie siedziby oraz o zmianie osób wchodzących do kierowniczych organów wykonawczych, podając ich imiona i nazwiska, obywatelstwo i miejsce zamieszkania."
     },
     {
       "provision_ref": "art14u3",
@@ -385,25 +397,13 @@
       "provision_ref": "art14u4",
       "section": "14",
       "title": "Art. 14 ust. 4",
-      "content": "Jeżeli odrębna ustawa lub ratyfikowana umowa międzynarodowa nie stanowią inaczej, przed powołaniem na stanowiska, o których mowa w ust. 2 i 3, cudzoziemca, władze kościoła lub innego związku wyznaniowego winny się upewnić, czy Minister-Kierownik Urzędu do Spraw Wyznań nie wyraża wobec tego zastrzeżeń. Niezgłoszenie zastrzeżeń w terminie trzydziestu dni od daty powiadomienia uważa się za wyrażenie zgody."
+      "content": "Jeżeli odrębna ustawa lub ratyfikowana umowa międzynarodowa nie stanowią inaczej, przed objęciem stanowisk, o których mowa w ust. 2 i 3, przez cudzoziemca, władze kościoła lub innego związku wyznaniowego powinny się upewnić, czy minister właściwy do spraw wyznań religijnych 5) Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych, na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r. nie wyraża wobec tego zastrzeżeń. Niezgłoszenie zastrzeżeń w terminie 60 dni od daty powiadomienia uważa się za wyrażenie zgody."
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Art. 15",
-      "content": "W sprawach, o których mowa w art. 14, właściwym organem administracji państwowej jest: odnośnie do jednostek organizacyjnych o zasięgu ogólnopolskim oraz obejmujących swoimi granicami teren przekraczający granice jednego województwa, a także stanowisk w tych jednostkach - Urząd do Spraw Wyznań, w pozostałych przypadkach - terenowy organ administracji państwowej stopnia wojewódzkiego o właściwości szczególnej do spraw wyznań."
-    },
-    {
-      "provision_ref": "art15p1",
-      "section": "15",
-      "title": "Art. 15 pkt 1",
-      "content": "W sprawach, o których mowa w art. 14, właściwym organem administracji państwowej jest: odnośnie do jednostek organizacyjnych o zasięgu ogólnopolskim oraz obejmujących swoimi granicami teren przekraczający granice jednego województwa, a także stanowisk w tych jednostkach - Urząd do Spraw Wyznań,"
-    },
-    {
-      "provision_ref": "art15p2",
-      "section": "15",
-      "title": "Art. 15 pkt 2",
-      "content": "W sprawach, o których mowa w art. 14, właściwym organem administracji państwowej jest: w pozostałych przypadkach - terenowy organ administracji państwowej stopnia wojewódzkiego o właściwości szczególnej do spraw wyznań."
+      "content": "(uchylony)"
     },
     {
       "provision_ref": "art16",
@@ -422,6 +422,30 @@
       "section": "16",
       "title": "Art. 16 ust. 2",
       "content": "W celach, o których mowa w ust. 1, oraz do rozpatrywania problemów związanych z rozwojem stosunków między państwem a poszczególnymi kościołami i innymi związkami wyznaniowymi mogą być, na zasadach wzajemnego uzgodnienia, tworzone różne, w tym stałe formy współdziałania. Przepis ten nie narusza właściwości organów państwowych oraz organów kościołów i innych związków wyznaniowych."
+    },
+    {
+      "provision_ref": "art16a",
+      "section": "16a",
+      "title": "Art. 16a",
+      "content": "Dla określenia szczegółowych zasad stosunków, o których mowa w art. 16, mogą być zawierane umowy między właściwymi rzeczowo centralnymi organami administracji rządowej a władzami poszczególnych kościołów i innych związków wyznaniowych. Przepisy umowy nie mogą naruszać przepisów ogólnie obowiązującego prawa, a w szczególności zasady równouprawnienia wszystkich kościołów i innych związków wyznaniowych. Podpisana umowa zostaje opublikowana w dzienniku urzędowym właściwego ministerstwa."
+    },
+    {
+      "provision_ref": "art16au1",
+      "section": "16a",
+      "title": "Art. 16a ust. 1",
+      "content": "Dla określenia szczegółowych zasad stosunków, o których mowa w art. 16, mogą być zawierane umowy między właściwymi rzeczowo centralnymi organami administracji rządowej a władzami poszczególnych kościołów i innych związków wyznaniowych."
+    },
+    {
+      "provision_ref": "art16au2",
+      "section": "16a",
+      "title": "Art. 16a ust. 2",
+      "content": "Przepisy umowy nie mogą naruszać przepisów ogólnie obowiązującego prawa, a w szczególności zasady równouprawnienia wszystkich kościołów i innych związków wyznaniowych."
+    },
+    {
+      "provision_ref": "art16au3",
+      "section": "16a",
+      "title": "Art. 16a ust. 3",
+      "content": "Podpisana umowa zostaje opublikowana w dzienniku urzędowym właściwego ministerstwa."
     },
     {
       "provision_ref": "art17",
@@ -451,7 +475,7 @@
       "provision_ref": "art19",
       "section": "19",
       "title": "Art. 19",
-      "content": "Kościoły i inne związki wyznaniowe korzystają na zasadach równouprawnienia ze swobody pełnienia funkcji religijnych. Wypełniając funkcje religijne kościoły i inne związki wyznaniowe mogą w szczególności: określać doktrynę religijną, dogmaty i zasady wiary oraz liturgię, organizować i publicznie sprawować kult, udzielać posług religijnych, w tym osobom, o których mowa w art. 4, oraz organizować obrzędy i zgromadzenia religijne, rządzić się w swoich sprawach własnym prawem, swobodnie wykonywać władzę duchowną oraz zarządzać swoimi sprawami, kształcić i zatrudniać duchownych, realizować inwestycje sakralne i inne inwestycje kościelne, nabywać, posiadać i zbywać majątek ruchomy i nieruchomy oraz zarządzać nim, zbierać składki i otrzymywać darowizny, spadki i inne świadczenia od osób fizycznych i prawnych, wytwarzać i nabywać przedmioty i artykuły potrzebne do celów kultu i praktyk religijnych oraz korzystać z nich, nauczać religii i głosić ją, w tym za pomocą prasy, książek i innych druków oraz filmów i środków audiowizualnych, korzystać ze środków masowego przekazywania, prowadzić działalność oświatowo-wychowawczą, tworzyć i prowadzić zakony oraz diakonaty, tworzyć organizacje mające na celu działalność na rzecz formacji religijnej, kultu publicznego oraz przeciwdziałania patologiom społecznym i ich skutkom, prowadzić działalność charytatywno-opiekuńczą, zakładać, posiadać i poszerzać cmentarze grzebalne oraz zarządzać nimi, powoływać krajowe organizacje międzykościelne, należeć do międzynarodowych organizacji wyznaniowych i międzywyznaniowych oraz utrzymywać kontakty zagraniczne w sprawach związanych z realizacją swoich funkcji."
+      "content": "Kościoły i inne związki wyznaniowe korzystają na zasadach równouprawnienia ze swobody pełnienia funkcji religijnych. Wypełniając funkcje religijne kościoły i inne związki wyznaniowe mogą w szczególności: określać doktrynę religijną, dogmaty i zasady wiary oraz liturgię; organizować i publicznie sprawować kult; udzielać posług religijnych, w tym osobom, o których mowa w art. 4, oraz organizować obrzędy i zgromadzenia religijne; rządzić się w swoich sprawach własnym prawem, swobodnie wykonywać władzę duchowną oraz zarządzać swoimi sprawami; ustanawiać, kształcić i zatrudniać duchownych; realizować inwestycje sakralne i inne inwestycje kościelne; nabywać, posiadać i zbywać majątek ruchomy i nieruchomy oraz zarządzać nim; zbierać składki i otrzymywać darowizny, spadki i inne świadczenia od osób fizycznych i prawnych; wytwarzać i nabywać przedmioty i artykuły potrzebne do celów kultu i praktyk religijnych oraz korzystać z nich; nauczać religii i głosić ją, w tym za pomocą prasy, książek i innych druków oraz filmów i środków audiowizualnych; korzystać ze środków masowego przekazywania; prowadzić działalność oświatowo-wychowawczą; tworzyć i prowadzić zakony oraz diakonaty; tworzyć organizacje mające na celu działalność na rzecz formacji religijnej, kultu publicznego oraz przeciwdziałania patologiom społecznym i ich skutkom; prowadzić działalność charytatywno-opiekuńczą; (uchylony) powoływać krajowe organizacje międzykościelne; należeć do międzynarodowych organizacji wyznaniowych i międzywyznaniowych oraz utrzymywać kontakty zagraniczne w sprawach związanych z realizacją swoich funkcji. Za wypełnianie funkcji religijnych, o których mowa w ust. 1, nie uznaje się oddziaływania poprzez badania i eksperymenty psychologiczne."
     },
     {
       "provision_ref": "art19u1",
@@ -463,103 +487,103 @@
       "provision_ref": "art19u2p1",
       "section": "19",
       "title": "Art. 19 ust. 2 pkt 1",
-      "content": "Wypełniając funkcje religijne kościoły i inne związki wyznaniowe mogą w szczególności: określać doktrynę religijną, dogmaty i zasady wiary oraz liturgię,"
+      "content": "Wypełniając funkcje religijne kościoły i inne związki wyznaniowe mogą w szczególności: określać doktrynę religijną, dogmaty i zasady wiary oraz liturgię;"
     },
     {
       "provision_ref": "art19u2p2",
       "section": "19",
       "title": "Art. 19 ust. 2 pkt 2",
-      "content": "Wypełniając funkcje religijne kościoły i inne związki wyznaniowe mogą w szczególności: organizować i publicznie sprawować kult,"
+      "content": "Wypełniając funkcje religijne kościoły i inne związki wyznaniowe mogą w szczególności: organizować i publicznie sprawować kult;"
     },
     {
       "provision_ref": "art19u2p3",
       "section": "19",
       "title": "Art. 19 ust. 2 pkt 3",
-      "content": "Wypełniając funkcje religijne kościoły i inne związki wyznaniowe mogą w szczególności: udzielać posług religijnych, w tym osobom, o których mowa w art. 4, oraz organizować obrzędy i zgromadzenia religijne,"
+      "content": "Wypełniając funkcje religijne kościoły i inne związki wyznaniowe mogą w szczególności: udzielać posług religijnych, w tym osobom, o których mowa w art. 4, oraz organizować obrzędy i zgromadzenia religijne;"
     },
     {
       "provision_ref": "art19u2p4",
       "section": "19",
       "title": "Art. 19 ust. 2 pkt 4",
-      "content": "Wypełniając funkcje religijne kościoły i inne związki wyznaniowe mogą w szczególności: rządzić się w swoich sprawach własnym prawem, swobodnie wykonywać władzę duchowną oraz zarządzać swoimi sprawami,"
+      "content": "Wypełniając funkcje religijne kościoły i inne związki wyznaniowe mogą w szczególności: rządzić się w swoich sprawach własnym prawem, swobodnie wykonywać władzę duchowną oraz zarządzać swoimi sprawami;"
     },
     {
       "provision_ref": "art19u2p5",
       "section": "19",
       "title": "Art. 19 ust. 2 pkt 5",
-      "content": "Wypełniając funkcje religijne kościoły i inne związki wyznaniowe mogą w szczególności: kształcić i zatrudniać duchownych,"
+      "content": "Wypełniając funkcje religijne kościoły i inne związki wyznaniowe mogą w szczególności: ustanawiać, kształcić i zatrudniać duchownych;"
     },
     {
       "provision_ref": "art19u2p6",
       "section": "19",
       "title": "Art. 19 ust. 2 pkt 6",
-      "content": "Wypełniając funkcje religijne kościoły i inne związki wyznaniowe mogą w szczególności: realizować inwestycje sakralne i inne inwestycje kościelne,"
+      "content": "Wypełniając funkcje religijne kościoły i inne związki wyznaniowe mogą w szczególności: realizować inwestycje sakralne i inne inwestycje kościelne;"
     },
     {
       "provision_ref": "art19u2p7",
       "section": "19",
       "title": "Art. 19 ust. 2 pkt 7",
-      "content": "Wypełniając funkcje religijne kościoły i inne związki wyznaniowe mogą w szczególności: nabywać, posiadać i zbywać majątek ruchomy i nieruchomy oraz zarządzać nim,"
+      "content": "Wypełniając funkcje religijne kościoły i inne związki wyznaniowe mogą w szczególności: nabywać, posiadać i zbywać majątek ruchomy i nieruchomy oraz zarządzać nim;"
     },
     {
       "provision_ref": "art19u2p8",
       "section": "19",
       "title": "Art. 19 ust. 2 pkt 8",
-      "content": "Wypełniając funkcje religijne kościoły i inne związki wyznaniowe mogą w szczególności: zbierać składki i otrzymywać darowizny, spadki i inne świadczenia od osób fizycznych i prawnych,"
+      "content": "Wypełniając funkcje religijne kościoły i inne związki wyznaniowe mogą w szczególności: zbierać składki i otrzymywać darowizny, spadki i inne świadczenia od osób fizycznych i prawnych;"
     },
     {
       "provision_ref": "art19u2p9",
       "section": "19",
       "title": "Art. 19 ust. 2 pkt 9",
-      "content": "Wypełniając funkcje religijne kościoły i inne związki wyznaniowe mogą w szczególności: wytwarzać i nabywać przedmioty i artykuły potrzebne do celów kultu i praktyk religijnych oraz korzystać z nich,"
+      "content": "Wypełniając funkcje religijne kościoły i inne związki wyznaniowe mogą w szczególności: wytwarzać i nabywać przedmioty i artykuły potrzebne do celów kultu i praktyk religijnych oraz korzystać z nich;"
     },
     {
       "provision_ref": "art19u2p10",
       "section": "19",
       "title": "Art. 19 ust. 2 pkt 10",
-      "content": "Wypełniając funkcje religijne kościoły i inne związki wyznaniowe mogą w szczególności: nauczać religii i głosić ją, w tym za pomocą prasy, książek i innych druków oraz filmów i środków audiowizualnych,"
+      "content": "Wypełniając funkcje religijne kościoły i inne związki wyznaniowe mogą w szczególności: nauczać religii i głosić ją, w tym za pomocą prasy, książek i innych druków oraz filmów i środków audiowizualnych;"
     },
     {
       "provision_ref": "art19u2p11",
       "section": "19",
       "title": "Art. 19 ust. 2 pkt 11",
-      "content": "Wypełniając funkcje religijne kościoły i inne związki wyznaniowe mogą w szczególności: korzystać ze środków masowego przekazywania,"
+      "content": "Wypełniając funkcje religijne kościoły i inne związki wyznaniowe mogą w szczególności: korzystać ze środków masowego przekazywania;"
     },
     {
       "provision_ref": "art19u2p12",
       "section": "19",
       "title": "Art. 19 ust. 2 pkt 12",
-      "content": "Wypełniając funkcje religijne kościoły i inne związki wyznaniowe mogą w szczególności: prowadzić działalność oświatowo-wychowawczą,"
+      "content": "Wypełniając funkcje religijne kościoły i inne związki wyznaniowe mogą w szczególności: prowadzić działalność oświatowo-wychowawczą;"
     },
     {
       "provision_ref": "art19u2p13",
       "section": "19",
       "title": "Art. 19 ust. 2 pkt 13",
-      "content": "Wypełniając funkcje religijne kościoły i inne związki wyznaniowe mogą w szczególności: tworzyć i prowadzić zakony oraz diakonaty,"
+      "content": "Wypełniając funkcje religijne kościoły i inne związki wyznaniowe mogą w szczególności: tworzyć i prowadzić zakony oraz diakonaty;"
     },
     {
       "provision_ref": "art19u2p14",
       "section": "19",
       "title": "Art. 19 ust. 2 pkt 14",
-      "content": "Wypełniając funkcje religijne kościoły i inne związki wyznaniowe mogą w szczególności: tworzyć organizacje mające na celu działalność na rzecz formacji religijnej, kultu publicznego oraz przeciwdziałania patologiom społecznym i ich skutkom,"
+      "content": "Wypełniając funkcje religijne kościoły i inne związki wyznaniowe mogą w szczególności: tworzyć organizacje mające na celu działalność na rzecz formacji religijnej, kultu publicznego oraz przeciwdziałania patologiom społecznym i ich skutkom;"
     },
     {
       "provision_ref": "art19u2p15",
       "section": "19",
       "title": "Art. 19 ust. 2 pkt 15",
-      "content": "Wypełniając funkcje religijne kościoły i inne związki wyznaniowe mogą w szczególności: prowadzić działalność charytatywno-opiekuńczą,"
+      "content": "Wypełniając funkcje religijne kościoły i inne związki wyznaniowe mogą w szczególności: prowadzić działalność charytatywno-opiekuńczą;"
     },
     {
       "provision_ref": "art19u2p16",
       "section": "19",
       "title": "Art. 19 ust. 2 pkt 16",
-      "content": "Wypełniając funkcje religijne kościoły i inne związki wyznaniowe mogą w szczególności: zakładać, posiadać i poszerzać cmentarze grzebalne oraz zarządzać nimi,"
+      "content": "Wypełniając funkcje religijne kościoły i inne związki wyznaniowe mogą w szczególności: (uchylony)"
     },
     {
       "provision_ref": "art19u2p17",
       "section": "19",
       "title": "Art. 19 ust. 2 pkt 17",
-      "content": "Wypełniając funkcje religijne kościoły i inne związki wyznaniowe mogą w szczególności: powoływać krajowe organizacje międzykościelne,"
+      "content": "Wypełniając funkcje religijne kościoły i inne związki wyznaniowe mogą w szczególności: powoływać krajowe organizacje międzykościelne;"
     },
     {
       "provision_ref": "art19u2p18",
@@ -568,10 +592,34 @@
       "content": "Wypełniając funkcje religijne kościoły i inne związki wyznaniowe mogą w szczególności: należeć do międzynarodowych organizacji wyznaniowych i międzywyznaniowych oraz utrzymywać kontakty zagraniczne w sprawach związanych z realizacją swoich funkcji."
     },
     {
+      "provision_ref": "art19u3",
+      "section": "19",
+      "title": "Art. 19 ust. 3",
+      "content": "Za wypełnianie funkcji religijnych, o których mowa w ust. 1, nie uznaje się oddziaływania poprzez badania i eksperymenty psychologiczne."
+    },
+    {
+      "provision_ref": "art19a",
+      "section": "19a",
+      "title": "Art. 19a",
+      "content": "Kościoły i inne związki wyznaniowe mają prawo posiadania, zarządzania oraz zakładania i poszerzania cmentarzy grzebalnych. Przepis ust. 1 nie narusza przepisów dotyczących cmentarzy i chowania zmarłych."
+    },
+    {
+      "provision_ref": "art19au1",
+      "section": "19a",
+      "title": "Art. 19a ust. 1",
+      "content": "Kościoły i inne związki wyznaniowe mają prawo posiadania, zarządzania oraz zakładania i poszerzania cmentarzy grzebalnych."
+    },
+    {
+      "provision_ref": "art19au2",
+      "section": "19a",
+      "title": "Art. 19a ust. 2",
+      "content": "Przepis ust. 1 nie narusza przepisów dotyczących cmentarzy i chowania zmarłych."
+    },
+    {
       "provision_ref": "art20",
       "section": "20",
       "title": "Art. 20",
-      "content": "Kościoły i inne związki wyznaniowe mogą nauczać religii oraz wychowywać religijnie dzieci i młodzież, zgodnie z wyborem dokonanym przez ich rodziców lub opiekunów prawnych. Nauczanie religii dzieci i młodzieży jest wewnętrzną sprawą kościołów i innych związków wyznaniowych. Jest ono organizowane, zgodnie z programem ustalonym przez władze kościoła lub innego związku wyznaniowego, w punktach katechetycznych znajdujących się w kościołach, domach modlitw i innych pomieszczeniach udostępnionych na ten cel przez osobę uprawnioną do dysponowania nimi. Minister Edukacji Narodowej, w drodze rozporządzenia, określa zasady i sposób godzenia rozkładu zajęć szkolnych z rozkładem zajęć z religii."
+      "content": "Kościoły i inne związki wyznaniowe mogą nauczać religii oraz wychowywać religijnie dzieci i młodzież, zgodnie z wyborem dokonanym przez ich rodziców lub opiekunów prawnych. Nauczanie religii dzieci i młodzieży jest wewnętrzną sprawą kościołów i innych związków wyznaniowych. Jest ono organizowane, zgodnie z programem ustalonym przez władze kościoła lub innego związku wyznaniowego, w punktach katechetycznych znajdujących się w kościołach, domach modlitw i innych pomieszczeniach udostępnionych na ten cel przez osobę uprawnioną do dysponowania nimi. Nauczanie religii uczniów szkół publicznych i wychowanków przedszkoli publicznych może odbywać się również w szkołach i przedszkolach na zasadach określonych w odrębnej ustawie."
     },
     {
       "provision_ref": "art20u1",
@@ -589,31 +637,37 @@
       "provision_ref": "art20u3",
       "section": "20",
       "title": "Art. 20 ust. 3",
-      "content": "Minister Edukacji Narodowej, w drodze rozporządzenia, określa zasady i sposób godzenia rozkładu zajęć szkolnych z rozkładem zajęć z religii."
+      "content": "Nauczanie religii uczniów szkół publicznych i wychowanków przedszkoli publicznych może odbywać się również w szkołach i przedszkolach na zasadach określonych w odrębnej ustawie."
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Art. 21",
-      "content": "Kościoły i inne związki wyznaniowe mają prawo zakładać i prowadzić szkoły oraz inne placówki oświatowo-wychowawcze i opiekuńczo-wychowawcze na zasadach określonych w ustawach. Rodzaje szkół i placówek wymienionych w ust. 1 i zasady ich tworzenia oraz warunki prowadzenia i nadzoru nad nimi określa Minister Edukacji Narodowej w porozumieniu z władzami kościoła lub innego związku wyznaniowego; może również określać zasady ich dotowania."
+      "content": "Kościoły i inne związki wyznaniowe mają prawo zakładać i prowadzić szkoły i przedszkola oraz inne placówki oświatowo-wychowawcze i opiekuńczo-wychowawcze na zasadach określonych w ustawach. Szkoły, przedszkola oraz inne placówki, o których mowa w ust. 1, będą dotowane przez państwo lub organy samorządu terytorialnego w przypadkach i na zasadach określonych w odrębnych ustawach."
     },
     {
       "provision_ref": "art21u1",
       "section": "21",
       "title": "Art. 21 ust. 1",
-      "content": "Kościoły i inne związki wyznaniowe mają prawo zakładać i prowadzić szkoły oraz inne placówki oświatowo-wychowawcze i opiekuńczo-wychowawcze na zasadach określonych w ustawach."
+      "content": "Kościoły i inne związki wyznaniowe mają prawo zakładać i prowadzić szkoły i przedszkola oraz inne placówki oświatowo-wychowawcze i opiekuńczo-wychowawcze na zasadach określonych w ustawach."
     },
     {
       "provision_ref": "art21u2",
       "section": "21",
       "title": "Art. 21 ust. 2",
-      "content": "Rodzaje szkół i placówek wymienionych w ust. 1 i zasady ich tworzenia oraz warunki prowadzenia i nadzoru nad nimi określa Minister Edukacji Narodowej w porozumieniu z władzami kościoła lub innego związku wyznaniowego; może również określać zasady ich dotowania."
+      "content": "Szkoły, przedszkola oraz inne placówki, o których mowa w ust. 1, będą dotowane przez państwo lub organy samorządu terytorialnego w przypadkach i na zasadach określonych w odrębnych ustawach."
+    },
+    {
+      "provision_ref": "art21a",
+      "section": "21a",
+      "title": "Art. 21a",
+      "content": "Działalność służąca celom humanitarnym, charytatywno-opiekuńczym, naukowym i oświatowo-wychowawczym, podejmowana przez osoby prawne kościołów i innych związków wyznaniowych, jest zrównana pod względem prawnym z działalnością służącą analogicznym celom i prowadzoną przez instytucje państwowe."
     },
     {
       "provision_ref": "art22",
       "section": "22",
       "title": "Art. 22",
-      "content": "Kościoły i inne związki wyznaniowe mają prawo zakładać i prowadzić, według samodzielnie ustalonych programów, szkoły duchowne i seminaria duchowne. W zakresie realizacji programu szkół ogólnokształcących i uzyskiwania świadectw dojrzałości szkoły duchowne wymienione w ust. 1 podlegają nadzorowi Ministra Edukacji Narodowej. Tworzenie i prowadzenie szkół wyższych przez kościoły i inne związki wyznaniowe oraz tryb i zakres uznawania przez państwo stopni i tytułów naukowych nadawanych w tych szkołach regulują, na wniosek władz kościelnych, odrębne ustawy. Kościoły i inne związki wyznaniowe mają prawo zakładać religijne instytuty naukowe i naukowo-dydaktyczne."
+      "content": "Kościoły i inne związki wyznaniowe mają prawo zakładać i prowadzić, według samodzielnie ustalonych programów, szkoły duchowne i seminaria duchowne. W zakresie realizacji programu szkół ogólnokształcących i uzyskiwania świadectw dojrzałości szkoły duchowne wymienione w ust. 1 podlegają nadzorowi ministra właściwego do spraw oświaty i wychowania. Tworzenie i prowadzenie przez kościoły i inne związki wyznaniowe szkół wyższych, zasady udzielania im przez państwo pomocy finansowej oraz tryb i zakres uznawania stopni i tytułów naukowych nadawanych w tych szkołach regulują, na wniosek władz kościołów lub innych związków wyznaniowych, odrębne ustawy. Kościoły i inne związki wyznaniowe mają prawo zakładać religijne instytuty naukowe i naukowo-dydaktyczne. Status prawny wydziałów teologicznych na uniwersytetach państwowych regulują odrębne umowy pomiędzy ministrem właściwym do spraw szkolnictwa wyższego 6) Obecnie ministrem właściwym do spraw szkolnictwa wyższego i nauki, na podstawie art. 4 ust. 1, art. 5 pkt 21 i art. 26 ustawy, o której mowa w odnośniku 5. a władzami kościołów lub innych związków wyznaniowych."
     },
     {
       "provision_ref": "art22u1",
@@ -625,13 +679,13 @@
       "provision_ref": "art22u2",
       "section": "22",
       "title": "Art. 22 ust. 2",
-      "content": "W zakresie realizacji programu szkół ogólnokształcących i uzyskiwania świadectw dojrzałości szkoły duchowne wymienione w ust. 1 podlegają nadzorowi Ministra Edukacji Narodowej."
+      "content": "W zakresie realizacji programu szkół ogólnokształcących i uzyskiwania świadectw dojrzałości szkoły duchowne wymienione w ust. 1 podlegają nadzorowi ministra właściwego do spraw oświaty i wychowania."
     },
     {
       "provision_ref": "art22u3",
       "section": "22",
       "title": "Art. 22 ust. 3",
-      "content": "Tworzenie i prowadzenie szkół wyższych przez kościoły i inne związki wyznaniowe oraz tryb i zakres uznawania przez państwo stopni i tytułów naukowych nadawanych w tych szkołach regulują, na wniosek władz kościelnych, odrębne ustawy."
+      "content": "Tworzenie i prowadzenie przez kościoły i inne związki wyznaniowe szkół wyższych, zasady udzielania im przez państwo pomocy finansowej oraz tryb i zakres uznawania stopni i tytułów naukowych nadawanych w tych szkołach regulują, na wniosek władz kościołów lub innych związków wyznaniowych, odrębne ustawy."
     },
     {
       "provision_ref": "art22u4",
@@ -640,52 +694,58 @@
       "content": "Kościoły i inne związki wyznaniowe mają prawo zakładać religijne instytuty naukowe i naukowo-dydaktyczne."
     },
     {
+      "provision_ref": "art22u5",
+      "section": "22",
+      "title": "Art. 22 ust. 5",
+      "content": "Status prawny wydziałów teologicznych na uniwersytetach państwowych regulują odrębne umowy pomiędzy ministrem właściwym do spraw szkolnictwa wyższego 6) Obecnie ministrem właściwym do spraw szkolnictwa wyższego i nauki, na podstawie art. 4 ust. 1, art. 5 pkt 21 i art. 26 ustawy, o której mowa w odnośniku 5. a władzami kościołów lub innych związków wyznaniowych."
+    },
+    {
       "provision_ref": "art23",
       "section": "23",
       "title": "Art. 23",
-      "content": "Zakres stosowania do nauczycieli i wychowawców oraz uczących się w szkołach, o których mowa w art. 21 oraz art. 22 ust. 3, uprawnień i świadczeń społecznych oraz nakładania obowiązków przewidzianych dla pracowników i uczniów w szkołach państwowych określa Minister Edukacji Narodowej w porozumieniu z władzami kościołów i innych związków wyznaniowych, chyba że przepis ustawy stanowi inaczej."
+      "content": "(uchylony)"
     },
     {
       "provision_ref": "art24",
       "section": "24",
       "title": "Art. 24",
-      "content": "W celu realizacji działalności charytatywno-opiekuńczej kościoły i inne związki wyznaniowe mają prawo zakładać i prowadzić, na zasadach określonych w ustawach, odpowiednie instytucje, w tym zakłady dla osób potrzebujących opieki, szpitale i inne zakłady lecznicze, żłobki i schroniska dla dzieci. Środki na realizację działalności charytatywno-opiekuńczej pochodzą w szczególności z: ofiar pieniężnych i w naturze, spadków, zapisów i darowizn krajowych i zagranicznych, dochodów z imprez i zbiórek publicznych, subwencji, dotacji i ofiar pochodzących od krajowych instytucji i przedsiębiorstw państwowych, społecznych, wyznaniowych i prywatnych, odpłatności za usługi świadczone przez instytucje charytatywno-opiekuńcze kościołów i innych związków wyznaniowych, dochodów instytucji kościołów i innych związków wyznaniowych."
+      "content": "W celu realizacji działalności charytatywno-opiekuńczej kościoły i inne związki wyznaniowe mają prawo zakładać i prowadzić, na zasadach określonych w ustawach, odpowiednie instytucje, w tym zakłady dla osób potrzebujących opieki, szpitale i inne zakłady lecznicze podmiotów leczniczych w rozumieniu przepisów o działalności leczniczej, żłobki i schroniska dla dzieci. Środki na realizację działalności charytatywno-opiekuńczej pochodzą w szczególności z: ofiar pieniężnych i w naturze; spadków, zapisów i darowizn krajowych i zagranicznych; dochodów z imprez i zbiórek publicznych; subwencji, dotacji i ofiar pochodzących od krajowych instytucji i przedsiębiorstw państwowych, społecznych, wyznaniowych i prywatnych; odpłatności za usługi świadczone przez instytucje charytatywno-opiekuńcze kościołów i innych związków wyznaniowych; dochodów instytucji kościołów i innych związków wyznaniowych."
     },
     {
       "provision_ref": "art24u1",
       "section": "24",
       "title": "Art. 24 ust. 1",
-      "content": "W celu realizacji działalności charytatywno-opiekuńczej kościoły i inne związki wyznaniowe mają prawo zakładać i prowadzić, na zasadach określonych w ustawach, odpowiednie instytucje, w tym zakłady dla osób potrzebujących opieki, szpitale i inne zakłady lecznicze, żłobki i schroniska dla dzieci."
+      "content": "W celu realizacji działalności charytatywno-opiekuńczej kościoły i inne związki wyznaniowe mają prawo zakładać i prowadzić, na zasadach określonych w ustawach, odpowiednie instytucje, w tym zakłady dla osób potrzebujących opieki, szpitale i inne zakłady lecznicze podmiotów leczniczych w rozumieniu przepisów o działalności leczniczej, żłobki i schroniska dla dzieci."
     },
     {
       "provision_ref": "art24u2p1",
       "section": "24",
       "title": "Art. 24 ust. 2 pkt 1",
-      "content": "Środki na realizację działalności charytatywno-opiekuńczej pochodzą w szczególności z: ofiar pieniężnych i w naturze,"
+      "content": "Środki na realizację działalności charytatywno-opiekuńczej pochodzą w szczególności z: ofiar pieniężnych i w naturze;"
     },
     {
       "provision_ref": "art24u2p2",
       "section": "24",
       "title": "Art. 24 ust. 2 pkt 2",
-      "content": "Środki na realizację działalności charytatywno-opiekuńczej pochodzą w szczególności z: spadków, zapisów i darowizn krajowych i zagranicznych,"
+      "content": "Środki na realizację działalności charytatywno-opiekuńczej pochodzą w szczególności z: spadków, zapisów i darowizn krajowych i zagranicznych;"
     },
     {
       "provision_ref": "art24u2p3",
       "section": "24",
       "title": "Art. 24 ust. 2 pkt 3",
-      "content": "Środki na realizację działalności charytatywno-opiekuńczej pochodzą w szczególności z: dochodów z imprez i zbiórek publicznych,"
+      "content": "Środki na realizację działalności charytatywno-opiekuńczej pochodzą w szczególności z: dochodów z imprez i zbiórek publicznych;"
     },
     {
       "provision_ref": "art24u2p4",
       "section": "24",
       "title": "Art. 24 ust. 2 pkt 4",
-      "content": "Środki na realizację działalności charytatywno-opiekuńczej pochodzą w szczególności z: subwencji, dotacji i ofiar pochodzących od krajowych instytucji i przedsiębiorstw państwowych, społecznych, wyznaniowych i prywatnych,"
+      "content": "Środki na realizację działalności charytatywno-opiekuńczej pochodzą w szczególności z: subwencji, dotacji i ofiar pochodzących od krajowych instytucji i przedsiębiorstw państwowych, społecznych, wyznaniowych i prywatnych;"
     },
     {
       "provision_ref": "art24u2p5",
       "section": "24",
       "title": "Art. 24 ust. 2 pkt 5",
-      "content": "Środki na realizację działalności charytatywno-opiekuńczej pochodzą w szczególności z: odpłatności za usługi świadczone przez instytucje charytatywno-opiekuńcze kościołów i innych związków wyznaniowych,"
+      "content": "Środki na realizację działalności charytatywno-opiekuńczej pochodzą w szczególności z: odpłatności za usługi świadczone przez instytucje charytatywno-opiekuńcze kościołów i innych związków wyznaniowych;"
     },
     {
       "provision_ref": "art24u2p6",
@@ -697,7 +757,7 @@
       "provision_ref": "art25",
       "section": "25",
       "title": "Art. 25",
-      "content": "W celu realizacji swoich funkcji kościoły i inne związki wyznaniowe mają prawo wydawania prasy, książek, druków oraz zakładania i posiadania wydawnictw oraz zakładów poligraficznych, z zachowaniem obowiązujących w tym zakresie przepisów prawa. Kościoły i inne związki wyznaniowe mogą organizować własny kolportaż prasy lub korzystać z pośrednictwa innej sieci kolportażu. Dla realizacji postanowień ust. 1 kościoły i inne związki wyznaniowe mogą otrzymywać jako darowizny z zagranicy maszyny, urządzenia, materiały poligraficzne i papier. Kościoły i inne związki wyznaniowe mają prawo do emitowania w radiu i telewizji programów religijno-moralnych i kulturalnych, w sposób określony w porozumieniu między władzami danego kościoła lub innego związku wyznaniowego a Komitetem do Spraw Radia i Telewizji „Polskie Radio i Telewizja”."
+      "content": "W celu realizacji swoich funkcji kościoły i inne związki wyznaniowe mają prawo wydawania prasy, książek, druków oraz zakładania i posiadania wydawnictw oraz zakładów poligraficznych, z zachowaniem obowiązujących w tym zakresie przepisów prawa. Kościoły i inne związki wyznaniowe mogą organizować własny kolportaż prasy lub korzystać z pośrednictwa innej sieci kolportażu. Dla realizacji postanowień ust. 1 kościoły i inne związki wyznaniowe mogą otrzymywać jako darowizny z zagranicy maszyny, urządzenia, materiały poligraficzne i papier. Kościoły i inne związki wyznaniowe mają prawo do emitowania w radiu i telewizji programów religijno-moralnych, społecznych i kulturalnych w sposób określony w porozumieniach między władzami danego kościoła lub innego związku wyznaniowego a jednostkami publicznej radiofonii i telewizji."
     },
     {
       "provision_ref": "art25u1",
@@ -721,7 +781,7 @@
       "provision_ref": "art25u4",
       "section": "25",
       "title": "Art. 25 ust. 4",
-      "content": "Kościoły i inne związki wyznaniowe mają prawo do emitowania w radiu i telewizji programów religijno-moralnych i kulturalnych, w sposób określony w porozumieniu między władzami danego kościoła lub innego związku wyznaniowego a Komitetem do Spraw Radia i Telewizji „Polskie Radio i Telewizja”."
+      "content": "Kościoły i inne związki wyznaniowe mają prawo do emitowania w radiu i telewizji programów religijno-moralnych, społecznych i kulturalnych w sposób określony w porozumieniach między władzami danego kościoła lub innego związku wyznaniowego a jednostkami publicznej radiofonii i telewizji."
     },
     {
       "provision_ref": "art26",
@@ -757,13 +817,13 @@
       "provision_ref": "art27",
       "section": "27",
       "title": "Art. 27",
-      "content": "Działalność kościołów i innych związków wyznaniowych nie może naruszać przepisów ogólnie obowiązujących ustaw chroniących bezpieczeństwo publiczne, porządek, zdrowie lub moralność publiczną albo podstawowe prawa i wolności innych osób. Korzystanie przez kościoły i inne związki wyznaniowe ze swobody działania odbywa się zgodnie z ogólnie obowiązującymi przepisami, chyba że ustawy stanowią inaczej."
+      "content": "Działalność kościołów i innych związków wyznaniowych nie może naruszać przepisów ogólnie obowiązujących ustaw chroniących bezpieczeństwo publiczne, porządek, zdrowie lub moralność publiczną, władzę rodzicielską albo podstawowe prawa i wolności innych osób. Korzystanie przez kościoły i inne związki wyznaniowe ze swobody działania odbywa się zgodnie z ogólnie obowiązującymi przepisami, chyba że ustawy stanowią inaczej."
     },
     {
       "provision_ref": "art27u1",
       "section": "27",
       "title": "Art. 27 ust. 1",
-      "content": "Działalność kościołów i innych związków wyznaniowych nie może naruszać przepisów ogólnie obowiązujących ustaw chroniących bezpieczeństwo publiczne, porządek, zdrowie lub moralność publiczną albo podstawowe prawa i wolności innych osób."
+      "content": "Działalność kościołów i innych związków wyznaniowych nie może naruszać przepisów ogólnie obowiązujących ustaw chroniących bezpieczeństwo publiczne, porządek, zdrowie lub moralność publiczną, władzę rodzicielską albo podstawowe prawa i wolności innych osób."
     },
     {
       "provision_ref": "art27u2",
@@ -793,13 +853,13 @@
       "provision_ref": "art29",
       "section": "29",
       "title": "Art. 29",
-      "content": "W stosunku do organizacji tworzonych na podstawie art. 19 pkt 14, jeżeli nie mają osobowości prawnej, nie stosuje się Prawa o stowarzyszeniach. Natomiast przepisy ustawy o zgromadzeniach stosuje się do nich jedynie w zakresie dotyczącym zebrań na drogach i placach publicznych oraz w budynkach państwowych. Organizacje, o których mowa w ust. 1, działają w ramach osób prawnych kościołów i innych związków wyznaniowych, w których zostały powołane. Władze kościołów i innych związków wyznaniowych czuwają nad zgodnością działania tych organizacji z ich celami religijnymi i moralnymi."
+      "content": "W stosunku do organizacji tworzonych na podstawie art. 19 pkt 14, jeżeli nie mają osobowości prawnej, nie stosuje się Prawa o stowarzyszeniach. Natomiast przepisy ustawy o zgromadzeniach stosuje się do nich jedynie w zakresie dotyczącym zebrań na drogach i placach publicznych oraz w pomieszczeniach użyteczności publicznej. Organizacje, o których mowa w ust. 1, działają w ramach osób prawnych kościołów i innych związków wyznaniowych, w których zostały powołane. Władze kościołów i innych związków wyznaniowych czuwają nad zgodnością działania tych organizacji z ich celami religijnymi i moralnymi."
     },
     {
       "provision_ref": "art29u1",
       "section": "29",
       "title": "Art. 29 ust. 1",
-      "content": "W stosunku do organizacji tworzonych na podstawie art. 19 pkt 14, jeżeli nie mają osobowości prawnej, nie stosuje się Prawa o stowarzyszeniach. Natomiast przepisy ustawy o zgromadzeniach stosuje się do nich jedynie w zakresie dotyczącym zebrań na drogach i placach publicznych oraz w budynkach państwowych."
+      "content": "W stosunku do organizacji tworzonych na podstawie art. 19 pkt 14, jeżeli nie mają osobowości prawnej, nie stosuje się Prawa o stowarzyszeniach. Natomiast przepisy ustawy o zgromadzeniach stosuje się do nich jedynie w zakresie dotyczącym zebrań na drogach i placach publicznych oraz w pomieszczeniach użyteczności publicznej."
     },
     {
       "provision_ref": "art29u2",
@@ -817,91 +877,187 @@
       "provision_ref": "art30",
       "section": "30",
       "title": "Art. 30",
-      "content": "Prawo tworzenia kościołów i innych związków wyznaniowych jest realizowane przez złożenie w Urzędzie do Spraw Wyznań deklaracji oraz wpis do rejestru kościołów i innych związków wyznaniowych, zwanego dalej „rejestrem”."
+      "content": "Prawo wpisu do rejestru kościołów i innych związków wyznaniowych, zwanego dalej „rejestrem”, prowadzonego przez ministra właściwego do spraw wyznań religijnych 5) Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych, na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r. , jest realizowane przez złożenie temu ministrowi, zwanemu dalej „organem rejestrowym”, deklaracji o utworzeniu kościoła lub innego związku wyznaniowego i wniosku o wpis do rejestru."
     },
     {
       "provision_ref": "art31",
       "section": "31",
       "title": "Art. 31",
-      "content": "Prawo złożenia deklaracji, o której mowa w art. 30, przysługuje co najmniej 15 obywatelom polskim posiadającym pełną zdolność do czynności prawnych."
+      "content": "Prawo wniesienia wniosku, o którym mowa w art. 30, przysługuje co najmniej 100 obywatelom polskim posiadającym pełną zdolność do czynności prawnych, zwanych dalej „wnioskodawcami”. Wnioskodawcy składają listę zawierającą ich notarialnie poświadczone podpisy potwierdzające treść wniosku, o którym mowa w ust. 1, i deklaracji o utworzeniu kościoła lub innego związku wyznaniowego, imię i nazwisko, datę urodzenia, miejsce zamieszkania oraz rodzaj, serię i numer dokumentu tożsamości oraz numer PESEL każdego z wnioskodawców. Wnioskodawcy mogą wybrać spośród siebie co najmniej pięcioosobowy komitet założycielski reprezentujący ich w postępowaniu w sprawie wpisu do rejestru."
+    },
+    {
+      "provision_ref": "art31u1",
+      "section": "31",
+      "title": "Art. 31 ust. 1",
+      "content": "Prawo wniesienia wniosku, o którym mowa w art. 30, przysługuje co najmniej 100 obywatelom polskim posiadającym pełną zdolność do czynności prawnych, zwanych dalej „wnioskodawcami”."
+    },
+    {
+      "provision_ref": "art31u2",
+      "section": "31",
+      "title": "Art. 31 ust. 2",
+      "content": "Wnioskodawcy składają listę zawierającą ich notarialnie poświadczone podpisy potwierdzające treść wniosku, o którym mowa w ust. 1, i deklaracji o utworzeniu kościoła lub innego związku wyznaniowego, imię i nazwisko, datę urodzenia, miejsce zamieszkania oraz rodzaj, serię i numer dokumentu tożsamości oraz numer PESEL każdego z wnioskodawców."
+    },
+    {
+      "provision_ref": "art31u3",
+      "section": "31",
+      "title": "Art. 31 ust. 3",
+      "content": "Wnioskodawcy mogą wybrać spośród siebie co najmniej pięcioosobowy komitet założycielski reprezentujący ich w postępowaniu w sprawie wpisu do rejestru."
     },
     {
       "provision_ref": "art32",
       "section": "32",
       "title": "Art. 32",
-      "content": "Deklaracja, o której mowa w art. 30, powinna zawierać: informację o podstawowych założeniach doktrynalnych wyznania, listę osób zgłaszających, zawierającą imiona i nazwiska, obywatelstwo, datę urodzenia, miejsce zamieszkania i własnoręczne podpisy, adres tymczasowej siedziby kościoła lub innego związku wyznaniowego, statut. Statut powinien określać w szczególności: nazwę kościoła lub innego związku wyznaniowego różną od nazw innych organizacji, teren działania i siedzibę władz, cele działalności i zasady ich realizacji, organy i ich kompetencje, źródła finansowania, tryb dokonywania zmian statutu, sposób rozwiązania kościoła lub innego związku wyznaniowego i przeznaczenie pozostałego majątku. Jeżeli kościół lub inny związek wyznaniowy przewiduje tworzenie jednostek organizacyjnych, zakonów lub diakonatów mających osobowość prawną, w statucie powinny być określone nazwy, zakres uprawnień oraz zasady tworzenia, znoszenia i przekształcania tych jednostek oraz ich organy, zakres kompetencji, sposób powoływania i odwoływania tych organów. Jeżeli kościół lub inny związek wyznaniowy stanowi część organizacji o zasięgu międzynarodowym, w statucie powinny być określone zakres i formy wzajemnych stosunków."
+      "content": "Wniosek, o którym mowa w art. 30, powinien zawierać: listę, o której mowa w art. 31 ust. 2; informację o dotychczasowych formach życia religijnego i metodach działania kościoła lub innego związku wyznaniowego na terytorium Rzeczypospolitej Polskiej; informację o podstawowych celach, źródłach i zasadach doktrynalnych, obrzędach religijnych; adres siedziby kościoła lub innego związku wyznaniowego oraz dane osób wchodzących do kierowniczych organów wykonawczych: imiona i nazwisko, datę urodzenia, adres zamieszkania, nazwę, serię i numer dokumentu tożsamości, nr PESEL; statut. W przypadku wybrania komitetu założycielskiego, o którym mowa w art. 31 ust. 3, wniosek o wpis do rejestru powinien zawierać także podpisany przez wnioskodawców protokół z wyboru tego komitetu określający datę i miejsce wyborów oraz następujące dane osób wchodzących w jego skład: imiona i nazwisko; datę urodzenia; adres zamieszkania; rodzaj, serię i numer dokumentu tożsamości; nr PESEL. Statut powinien określać w szczególności: nazwę kościoła lub innego związku wyznaniowego różną od nazw innych organizacji; teren działania i siedzibę władz; cele działalności oraz formy i zasady ich realizacji; organy, sposób ich powoływania i odwoływania, zakres kompetencji oraz tryb podejmowania decyzji; źródła finansowania; tryb dokonywania zmian statutu; sposób reprezentowania na zewnątrz oraz zaciągania zobowiązań majątkowych; sposób nabywania i utraty członkostwa oraz prawa i obowiązki członków; sposób powoływania, odwoływania oraz kompetencje osób duchownych, o których mowa w art. 12 ust. 3, o ile kościół lub inny związek wyznaniowy przewiduje tworzenie takich stanowisk; sposób rozwiązania kościoła lub innego związku wyznaniowego i przeznaczenie pozostałego majątku. Jeżeli kościół lub inny związek wyznaniowy przewiduje tworzenie jednostek organizacyjnych mających osobowość prawną, statut powinien określać ich nazwy, teren działania, siedziby, zakres uprawnień, zasady tworzenia, znoszenia i przekształcania tych jednostek, ich organy, zakres kompetencji, tryb podejmowania decyzji, sposób powoływania i odwoływania tych organów, sposób reprezentowania na zewnątrz oraz zaciągania zobowiązań majątkowych, a także przeznaczenie majątku pozostałego po zakończeniu likwidacji osoby prawnej kościoła lub innego związku wyznaniowego. Jeżeli kościół lub inny związek wyznaniowy stanowi część organizacji o zasięgu międzynarodowym, w statucie powinny być określone zakres i formy wzajemnych stosunków. Jeżeli kościół lub inny związek wyznaniowy przewiduje tworzenie jednostek organizacyjnych bez osobowości prawnej, w statucie powinny być określone nazwy, zasady tworzenia, znoszenia i przekształcania tych jednostek."
     },
     {
       "provision_ref": "art32u1p1",
       "section": "32",
       "title": "Art. 32 ust. 1 pkt 1",
-      "content": "Deklaracja, o której mowa w art. 30, powinna zawierać: informację o podstawowych założeniach doktrynalnych wyznania,"
+      "content": "Wniosek, o którym mowa w art. 30, powinien zawierać: listę, o której mowa w art. 31 ust. 2;"
     },
     {
       "provision_ref": "art32u1p2",
       "section": "32",
       "title": "Art. 32 ust. 1 pkt 2",
-      "content": "Deklaracja, o której mowa w art. 30, powinna zawierać: listę osób zgłaszających, zawierającą imiona i nazwiska, obywatelstwo, datę urodzenia, miejsce zamieszkania i własnoręczne podpisy,"
+      "content": "Wniosek, o którym mowa w art. 30, powinien zawierać: informację o dotychczasowych formach życia religijnego i metodach działania kościoła lub innego związku wyznaniowego na terytorium Rzeczypospolitej Polskiej;"
     },
     {
       "provision_ref": "art32u1p3",
       "section": "32",
       "title": "Art. 32 ust. 1 pkt 3",
-      "content": "Deklaracja, o której mowa w art. 30, powinna zawierać: adres tymczasowej siedziby kościoła lub innego związku wyznaniowego,"
+      "content": "Wniosek, o którym mowa w art. 30, powinien zawierać: informację o podstawowych celach, źródłach i zasadach doktrynalnych, obrzędach religijnych;"
     },
     {
-      "provision_ref": "art32u1p4",
+      "provision_ref": "art32u1p4la",
       "section": "32",
-      "title": "Art. 32 ust. 1 pkt 4",
-      "content": "Deklaracja, o której mowa w art. 30, powinna zawierać: statut."
+      "title": "Art. 32 ust. 1 pkt 4 lit. a",
+      "content": "Wniosek, o którym mowa w art. 30, powinien zawierać: adres siedziby kościoła lub innego związku wyznaniowego oraz dane osób wchodzących do kierowniczych organów wykonawczych: imiona i nazwisko,"
+    },
+    {
+      "provision_ref": "art32u1p4lb",
+      "section": "32",
+      "title": "Art. 32 ust. 1 pkt 4 lit. b",
+      "content": "Wniosek, o którym mowa w art. 30, powinien zawierać: adres siedziby kościoła lub innego związku wyznaniowego oraz dane osób wchodzących do kierowniczych organów wykonawczych: datę urodzenia,"
+    },
+    {
+      "provision_ref": "art32u1p4lc",
+      "section": "32",
+      "title": "Art. 32 ust. 1 pkt 4 lit. c",
+      "content": "Wniosek, o którym mowa w art. 30, powinien zawierać: adres siedziby kościoła lub innego związku wyznaniowego oraz dane osób wchodzących do kierowniczych organów wykonawczych: adres zamieszkania,"
+    },
+    {
+      "provision_ref": "art32u1p4ld",
+      "section": "32",
+      "title": "Art. 32 ust. 1 pkt 4 lit. d",
+      "content": "Wniosek, o którym mowa w art. 30, powinien zawierać: adres siedziby kościoła lub innego związku wyznaniowego oraz dane osób wchodzących do kierowniczych organów wykonawczych: nazwę, serię i numer dokumentu tożsamości,"
+    },
+    {
+      "provision_ref": "art32u1p4le",
+      "section": "32",
+      "title": "Art. 32 ust. 1 pkt 4 lit. e",
+      "content": "Wniosek, o którym mowa w art. 30, powinien zawierać: adres siedziby kościoła lub innego związku wyznaniowego oraz dane osób wchodzących do kierowniczych organów wykonawczych: nr PESEL;"
+    },
+    {
+      "provision_ref": "art32u1p5",
+      "section": "32",
+      "title": "Art. 32 ust. 1 pkt 5",
+      "content": "Wniosek, o którym mowa w art. 30, powinien zawierać: statut."
+    },
+    {
+      "provision_ref": "art32u1ap1",
+      "section": "32",
+      "title": "Art. 32 ust. 1a pkt 1",
+      "content": "W przypadku wybrania komitetu założycielskiego, o którym mowa w art. 31 ust. 3, wniosek o wpis do rejestru powinien zawierać także podpisany przez wnioskodawców protokół z wyboru tego komitetu określający datę i miejsce wyborów oraz następujące dane osób wchodzących w jego skład: imiona i nazwisko;"
+    },
+    {
+      "provision_ref": "art32u1ap2",
+      "section": "32",
+      "title": "Art. 32 ust. 1a pkt 2",
+      "content": "W przypadku wybrania komitetu założycielskiego, o którym mowa w art. 31 ust. 3, wniosek o wpis do rejestru powinien zawierać także podpisany przez wnioskodawców protokół z wyboru tego komitetu określający datę i miejsce wyborów oraz następujące dane osób wchodzących w jego skład: datę urodzenia;"
+    },
+    {
+      "provision_ref": "art32u1ap3",
+      "section": "32",
+      "title": "Art. 32 ust. 1a pkt 3",
+      "content": "W przypadku wybrania komitetu założycielskiego, o którym mowa w art. 31 ust. 3, wniosek o wpis do rejestru powinien zawierać także podpisany przez wnioskodawców protokół z wyboru tego komitetu określający datę i miejsce wyborów oraz następujące dane osób wchodzących w jego skład: adres zamieszkania;"
+    },
+    {
+      "provision_ref": "art32u1ap4",
+      "section": "32",
+      "title": "Art. 32 ust. 1a pkt 4",
+      "content": "W przypadku wybrania komitetu założycielskiego, o którym mowa w art. 31 ust. 3, wniosek o wpis do rejestru powinien zawierać także podpisany przez wnioskodawców protokół z wyboru tego komitetu określający datę i miejsce wyborów oraz następujące dane osób wchodzących w jego skład: rodzaj, serię i numer dokumentu tożsamości;"
+    },
+    {
+      "provision_ref": "art32u1ap5",
+      "section": "32",
+      "title": "Art. 32 ust. 1a pkt 5",
+      "content": "W przypadku wybrania komitetu założycielskiego, o którym mowa w art. 31 ust. 3, wniosek o wpis do rejestru powinien zawierać także podpisany przez wnioskodawców protokół z wyboru tego komitetu określający datę i miejsce wyborów oraz następujące dane osób wchodzących w jego skład: nr PESEL."
     },
     {
       "provision_ref": "art32u2p1",
       "section": "32",
       "title": "Art. 32 ust. 2 pkt 1",
-      "content": "Statut powinien określać w szczególności: nazwę kościoła lub innego związku wyznaniowego różną od nazw innych organizacji,"
+      "content": "Statut powinien określać w szczególności: nazwę kościoła lub innego związku wyznaniowego różną od nazw innych organizacji;"
     },
     {
       "provision_ref": "art32u2p2",
       "section": "32",
       "title": "Art. 32 ust. 2 pkt 2",
-      "content": "Statut powinien określać w szczególności: teren działania i siedzibę władz,"
+      "content": "Statut powinien określać w szczególności: teren działania i siedzibę władz;"
     },
     {
       "provision_ref": "art32u2p3",
       "section": "32",
       "title": "Art. 32 ust. 2 pkt 3",
-      "content": "Statut powinien określać w szczególności: cele działalności i zasady ich realizacji,"
+      "content": "Statut powinien określać w szczególności: cele działalności oraz formy i zasady ich realizacji;"
     },
     {
       "provision_ref": "art32u2p4",
       "section": "32",
       "title": "Art. 32 ust. 2 pkt 4",
-      "content": "Statut powinien określać w szczególności: organy i ich kompetencje,"
+      "content": "Statut powinien określać w szczególności: organy, sposób ich powoływania i odwoływania, zakres kompetencji oraz tryb podejmowania decyzji;"
     },
     {
       "provision_ref": "art32u2p5",
       "section": "32",
       "title": "Art. 32 ust. 2 pkt 5",
-      "content": "Statut powinien określać w szczególności: źródła finansowania,"
+      "content": "Statut powinien określać w szczególności: źródła finansowania;"
     },
     {
       "provision_ref": "art32u2p6",
       "section": "32",
       "title": "Art. 32 ust. 2 pkt 6",
-      "content": "Statut powinien określać w szczególności: tryb dokonywania zmian statutu,"
+      "content": "Statut powinien określać w szczególności: tryb dokonywania zmian statutu;"
     },
     {
       "provision_ref": "art32u2p7",
       "section": "32",
       "title": "Art. 32 ust. 2 pkt 7",
+      "content": "Statut powinien określać w szczególności: sposób reprezentowania na zewnątrz oraz zaciągania zobowiązań majątkowych;"
+    },
+    {
+      "provision_ref": "art32u2p8",
+      "section": "32",
+      "title": "Art. 32 ust. 2 pkt 8",
+      "content": "Statut powinien określać w szczególności: sposób nabywania i utraty członkostwa oraz prawa i obowiązki członków;"
+    },
+    {
+      "provision_ref": "art32u2p9",
+      "section": "32",
+      "title": "Art. 32 ust. 2 pkt 9",
+      "content": "Statut powinien określać w szczególności: sposób powoływania, odwoływania oraz kompetencje osób duchownych, o których mowa w art. 12 ust. 3, o ile kościół lub inny związek wyznaniowy przewiduje tworzenie takich stanowisk;"
+    },
+    {
+      "provision_ref": "art32u2p10",
+      "section": "32",
+      "title": "Art. 32 ust. 2 pkt 10",
       "content": "Statut powinien określać w szczególności: sposób rozwiązania kościoła lub innego związku wyznaniowego i przeznaczenie pozostałego majątku."
     },
     {
       "provision_ref": "art32u3",
       "section": "32",
       "title": "Art. 32 ust. 3",
-      "content": "Jeżeli kościół lub inny związek wyznaniowy przewiduje tworzenie jednostek organizacyjnych, zakonów lub diakonatów mających osobowość prawną, w statucie powinny być określone nazwy, zakres uprawnień oraz zasady tworzenia, znoszenia i przekształcania tych jednostek oraz ich organy, zakres kompetencji, sposób powoływania i odwoływania tych organów."
+      "content": "Jeżeli kościół lub inny związek wyznaniowy przewiduje tworzenie jednostek organizacyjnych mających osobowość prawną, statut powinien określać ich nazwy, teren działania, siedziby, zakres uprawnień, zasady tworzenia, znoszenia i przekształcania tych jednostek, ich organy, zakres kompetencji, tryb podejmowania decyzji, sposób powoływania i odwoływania tych organów, sposób reprezentowania na zewnątrz oraz zaciągania zobowiązań majątkowych, a także przeznaczenie majątku pozostałego po zakończeniu likwidacji osoby prawnej kościoła lub innego związku wyznaniowego."
     },
     {
       "provision_ref": "art32u4",
@@ -910,46 +1066,58 @@
       "content": "Jeżeli kościół lub inny związek wyznaniowy stanowi część organizacji o zasięgu międzynarodowym, w statucie powinny być określone zakres i formy wzajemnych stosunków."
     },
     {
+      "provision_ref": "art32u5",
+      "section": "32",
+      "title": "Art. 32 ust. 5",
+      "content": "Jeżeli kościół lub inny związek wyznaniowy przewiduje tworzenie jednostek organizacyjnych bez osobowości prawnej, w statucie powinny być określone nazwy, zasady tworzenia, znoszenia i przekształcania tych jednostek."
+    },
+    {
       "provision_ref": "art33",
       "section": "33",
       "title": "Art. 33",
-      "content": "Jeżeli deklaracja, o której mowa w art. 30, nie zawiera wymaganych przez ustawę informacji, Minister-Kierownik Urzędu do Spraw Wyznań wyznacza trzydziestodniowy termin jej uzupełnienia, po którego upływie wydaje decyzję o odmowie przyjęcia deklaracji. Jeżeli deklaracja, o której mowa w art. 30, zawiera postanowienia pozostające w sprzeczności z przepisami ustaw chroniących bezpieczeństwo publiczne, porządek, zdrowie lub moralność publiczną albo podstawowe prawa i wolności innych osób - Minister-Kierownik Urzędu do Spraw Wyznań wydaje decyzję o odmowie przyjęcia tej deklaracji. Decyzje, o których mowa w ust. 1 i 2, powinny być wydane w terminie dwóch miesięcy od daty zgłoszenia deklaracji. Od decyzji tych przysługuje prawo skargi do Naczelnego Sądu Administracyjnego w trybie przepisów Kodeksu postępowania administracyjnego ."
+      "content": "W trakcie postępowania w sprawie wpisu do rejestru organ rejestrowy może żądać od wnioskodawców wyjaśnień treści wniosku w zakresie określonym w art. 32, a także zwracać się do odpowiednich organów państwowych o sprawdzanie prawdziwości zawartych we wniosku danych. Jeżeli organ rejestrowy w trakcie postępowania w sprawie wpisu do rejestru stwierdzi braki lub uchybienia w treści wniosku, w zakresie określonym w art. 32, wyznacza dwumiesięczny termin ich uzupełnienia, a po upływie tego terminu wydaje decyzję o odmowie wpisu do rejestru. Jeżeli wniosek zawiera postanowienia pozostające w sprzeczności z przepisami ustaw chroniącymi bezpieczeństwo i porządek publiczny, zdrowie, moralność publiczną, władzę rodzicielską albo podstawowe prawa i wolności innych osób, organ rejestrowy wydaje decyzję o odmowie wpisu do rejestru. Decyzje, o których mowa w ust. 2 i 3, powinny być wydane w terminie 3 miesięcy od daty wszczęcia postępowania o wpis do rejestru. Na decyzje te może być wniesiona skarga do sądu administracyjnego."
     },
     {
       "provision_ref": "art33u1",
       "section": "33",
       "title": "Art. 33 ust. 1",
-      "content": "Jeżeli deklaracja, o której mowa w art. 30, nie zawiera wymaganych przez ustawę informacji, Minister-Kierownik Urzędu do Spraw Wyznań wyznacza trzydziestodniowy termin jej uzupełnienia, po którego upływie wydaje decyzję o odmowie przyjęcia deklaracji."
+      "content": "W trakcie postępowania w sprawie wpisu do rejestru organ rejestrowy może żądać od wnioskodawców wyjaśnień treści wniosku w zakresie określonym w art. 32, a także zwracać się do odpowiednich organów państwowych o sprawdzanie prawdziwości zawartych we wniosku danych."
     },
     {
       "provision_ref": "art33u2",
       "section": "33",
       "title": "Art. 33 ust. 2",
-      "content": "Jeżeli deklaracja, o której mowa w art. 30, zawiera postanowienia pozostające w sprzeczności z przepisami ustaw chroniących bezpieczeństwo publiczne, porządek, zdrowie lub moralność publiczną albo podstawowe prawa i wolności innych osób - Minister-Kierownik Urzędu do Spraw Wyznań wydaje decyzję o odmowie przyjęcia tej deklaracji."
+      "content": "Jeżeli organ rejestrowy w trakcie postępowania w sprawie wpisu do rejestru stwierdzi braki lub uchybienia w treści wniosku, w zakresie określonym w art. 32, wyznacza dwumiesięczny termin ich uzupełnienia, a po upływie tego terminu wydaje decyzję o odmowie wpisu do rejestru."
     },
     {
       "provision_ref": "art33u3",
       "section": "33",
       "title": "Art. 33 ust. 3",
-      "content": "Decyzje, o których mowa w ust. 1 i 2, powinny być wydane w terminie dwóch miesięcy od daty zgłoszenia deklaracji. Od decyzji tych przysługuje prawo skargi do Naczelnego Sądu Administracyjnego w trybie przepisów Kodeksu postępowania administracyjnego ."
+      "content": "Jeżeli wniosek zawiera postanowienia pozostające w sprzeczności z przepisami ustaw chroniącymi bezpieczeństwo i porządek publiczny, zdrowie, moralność publiczną, władzę rodzicielską albo podstawowe prawa i wolności innych osób, organ rejestrowy wydaje decyzję o odmowie wpisu do rejestru."
+    },
+    {
+      "provision_ref": "art33u4",
+      "section": "33",
+      "title": "Art. 33 ust. 4",
+      "content": "Decyzje, o których mowa w ust. 2 i 3, powinny być wydane w terminie 3 miesięcy od daty wszczęcia postępowania o wpis do rejestru. Na decyzje te może być wniesiona skarga do sądu administracyjnego."
     },
     {
       "provision_ref": "art34",
       "section": "34",
       "title": "Art. 34",
-      "content": "Jeżeli nie zachodzą okoliczności wskazane w art. 33, Minister-Kierownik Urzędu do Spraw Wyznań wydaje, w terminie dwóch miesięcy od zgłoszenia deklaracji, decyzję o wpisie do rejestru. Z chwilą wpisu do rejestru kościół lub inny związek wyznaniowy uzyskuje, jako całość, osobowość prawną oraz korzysta z wszystkich uprawnień i podlega obowiązkom określonym w ustawach. Przepis ust. 2 stosuje się odpowiednio do jednostek organizacyjnych, zakonów i diakonatów, o których mowa w art. 32 ust. 3. Do kościołów i innych związków wyznaniowych wpisanych do rejestru stosuje się odpowiednio przepisy art. 14 i 15."
+      "content": "Jeżeli nie zachodzą okoliczności wskazane w art. 33 ust. 2 i 3, organ rejestrowy wydaje, w terminie 3 miesięcy od zgłoszenia deklaracji, decyzję o wpisie do rejestru. Z chwilą wpisu do rejestru kościół lub inny związek wyznaniowy uzyskuje, jako całość, osobowość prawną oraz korzysta ze wszystkich uprawnień i podlega obowiązkom określonym w ustawach. Przepis ust. 2 stosuje się odpowiednio do jednostek organizacyjnych, zakonów i diakonatów, o których mowa w art. 32 ust. 3. Do kościołów i innych związków wyznaniowych wpisanych do rejestru stosuje się odpowiednio art. 14."
     },
     {
       "provision_ref": "art34u1",
       "section": "34",
       "title": "Art. 34 ust. 1",
-      "content": "Jeżeli nie zachodzą okoliczności wskazane w art. 33, Minister-Kierownik Urzędu do Spraw Wyznań wydaje, w terminie dwóch miesięcy od zgłoszenia deklaracji, decyzję o wpisie do rejestru."
+      "content": "Jeżeli nie zachodzą okoliczności wskazane w art. 33 ust. 2 i 3, organ rejestrowy wydaje, w terminie 3 miesięcy od zgłoszenia deklaracji, decyzję o wpisie do rejestru."
     },
     {
       "provision_ref": "art34u2",
       "section": "34",
       "title": "Art. 34 ust. 2",
-      "content": "Z chwilą wpisu do rejestru kościół lub inny związek wyznaniowy uzyskuje, jako całość, osobowość prawną oraz korzysta z wszystkich uprawnień i podlega obowiązkom określonym w ustawach."
+      "content": "Z chwilą wpisu do rejestru kościół lub inny związek wyznaniowy uzyskuje, jako całość, osobowość prawną oraz korzysta ze wszystkich uprawnień i podlega obowiązkom określonym w ustawach."
     },
     {
       "provision_ref": "art34u3",
@@ -961,127 +1129,355 @@
       "provision_ref": "art34u4",
       "section": "34",
       "title": "Art. 34 ust. 4",
-      "content": "Do kościołów i innych związków wyznaniowych wpisanych do rejestru stosuje się odpowiednio przepisy art. 14 i 15."
+      "content": "Do kościołów i innych związków wyznaniowych wpisanych do rejestru stosuje się odpowiednio art. 14."
     },
     {
       "provision_ref": "art35",
       "section": "35",
       "title": "Art. 35",
-      "content": "Zmiany statutu kościoła lub innego związku wyznaniowego wpisanego do rejestru dokonuje się w trybie obowiązującym przy ich tworzeniu."
+      "content": "Zmiany statutu kościoła lub innego związku wyznaniowego wpisanego do rejestru dokonuje się w trybie obowiązującym przy ich rejestrowaniu. Organ rejestrowy może domagać się aktualizacji danych warunkujących wpis do rejestru, określonych w art. 32 ust. 1 pkt 2-5."
+    },
+    {
+      "provision_ref": "art35u1",
+      "section": "35",
+      "title": "Art. 35 ust. 1",
+      "content": "Zmiany statutu kościoła lub innego związku wyznaniowego wpisanego do rejestru dokonuje się w trybie obowiązującym przy ich rejestrowaniu."
+    },
+    {
+      "provision_ref": "art35u2",
+      "section": "35",
+      "title": "Art. 35 ust. 2",
+      "content": "Organ rejestrowy może domagać się aktualizacji danych warunkujących wpis do rejestru, określonych w art. 32 ust. 1 pkt 2-5."
     },
     {
       "provision_ref": "art36",
       "section": "36",
       "title": "Art. 36",
-      "content": "Wykreślenia z rejestru podlega: kościół lub inny związek wyznaniowy, którego sytuacja prawna i majątkowa została uregulowana w odrębnej ustawie, kościół lub inny związek wyznaniowy, który zawiadomił Urząd do Spraw Wyznań o zaprzestaniu swojej działalności, kościół lub inny związek wyznaniowy, który nie przejawiał swojej działalności w okresie dwóch lat. Wykreślenie z rejestru następuje na podstawie decyzji Ministra-Kierownika Urzędu do Spraw Wyznań. W przypadku decyzji o wykreśleniu z rejestru z powodu zaprzestania przez kościół lub inny związek wyznaniowy działalności, Minister-Kierownik Urzędu do Spraw Wyznań wyznacza likwidatora, stosując odpowiednio przepisy Prawa o stowarzyszeniach. Przepis ust. 3 ma również zastosowanie, jeżeli zawiadomienie o zaprzestaniu działalności kościoła lub innego związku wyznaniowego nie określa likwidatora. Jeżeli statut kościoła lub innego związku wyznaniowego nie stanowi inaczej majątek pozostały po zakończeniu postępowania likwidacyjnego może być przeznaczony wyłącznie na cele charytatywno-opiekuńcze. Od decyzji, o których mowa w ust. 2-4, przysługuje prawo skargi do Naczelnego Sądu Administracyjnego w trybie przepisów Kodeksu postępowania administracyjnego ."
+      "content": "Wykreśleniu z rejestru podlega: kościół lub inny związek wyznaniowy, którego sytuacja prawna i majątkowa została uregulowana w odrębnej ustawie; kościół lub inny związek wyznaniowy, który zawiadomił organ rejestrowy o zaprzestaniu swojej działalności; kościół lub inny związek wyznaniowy, który utracił cechy warunkujące uzyskanie wpisu do rejestru; dotyczy to w szczególności kościoła lub innego związku wyznaniowego, który w ciągu 3 lat nie odpowiedział na żądanie organu rejestrowego i nie zaktualizował wpisów do rejestru w zakresie określonym w art. 32 ust. 1 pkt 4. Wykreślenie z rejestru następuje na podstawie decyzji organu rejestrowego. W przypadkach, o których mowa w ust. 1 pkt 2 i 3 oraz art. 36a ust. 2, wykreślenie z rejestru następuje po przeprowadzeniu likwidacji. W przypadku, o którym mowa w ust. 1 pkt 2, likwidatorami są członkowie organu kościoła lub innego związku wyznaniowego uprawnionego do reprezentowania na zewnątrz i zaciągania zobowiązań majątkowych, jeżeli statut lub, w razie braku odpowiednich postanowień statutu, decyzja właściwego organu kościoła lub innego związku wyznaniowego nie stanowi inaczej. Organ rejestrowy, w drodze decyzji, zarządza likwidację i wyznacza likwidatora: w przypadkach, o których mowa w ust. 1 pkt 3 i art. 36a ust. 2; w razie braku możliwości ustalenia likwidatora, o którym mowa w ust. 4. Przed zniesieniem osoby prawnej, o której mowa w art. 32 ust. 3, kościół lub inny związek wyznaniowy zarządza jej likwidację i wyznacza likwidatora informując o tym organ rejestrowy oraz określa przeznaczenie majątku pozostałego po zakończeniu likwidacji. Do obowiązków likwidatora stosuje się odpowiednio art. 37 ustawy z dnia 7 kwietnia 1989 r. - Prawo o stowarzyszeniach . Jeżeli statut kościoła lub innego związku wyznaniowego nie stanowi inaczej, majątek pozostały po zakończeniu postępowania likwidacyjnego kościoła lub innego związku wyznaniowego albo osób prawnych, o których mowa w art. 32 ust. 3, może być przeznaczony wyłącznie na cele charytatywno-opiekuńcze w drodze decyzji organu rejestrowego."
     },
     {
       "provision_ref": "art36u1p1",
       "section": "36",
       "title": "Art. 36 ust. 1 pkt 1",
-      "content": "Wykreślenia z rejestru podlega: kościół lub inny związek wyznaniowy, którego sytuacja prawna i majątkowa została uregulowana w odrębnej ustawie,"
+      "content": "Wykreśleniu z rejestru podlega: kościół lub inny związek wyznaniowy, którego sytuacja prawna i majątkowa została uregulowana w odrębnej ustawie;"
     },
     {
       "provision_ref": "art36u1p2",
       "section": "36",
       "title": "Art. 36 ust. 1 pkt 2",
-      "content": "Wykreślenia z rejestru podlega: kościół lub inny związek wyznaniowy, który zawiadomił Urząd do Spraw Wyznań o zaprzestaniu swojej działalności,"
+      "content": "Wykreśleniu z rejestru podlega: kościół lub inny związek wyznaniowy, który zawiadomił organ rejestrowy o zaprzestaniu swojej działalności;"
     },
     {
       "provision_ref": "art36u1p3",
       "section": "36",
       "title": "Art. 36 ust. 1 pkt 3",
-      "content": "Wykreślenia z rejestru podlega: kościół lub inny związek wyznaniowy, który nie przejawiał swojej działalności w okresie dwóch lat."
+      "content": "Wykreśleniu z rejestru podlega: kościół lub inny związek wyznaniowy, który utracił cechy warunkujące uzyskanie wpisu do rejestru; dotyczy to w szczególności kościoła lub innego związku wyznaniowego, który w ciągu 3 lat nie odpowiedział na żądanie organu rejestrowego i nie zaktualizował wpisów do rejestru w zakresie określonym w art. 32 ust. 1 pkt 4."
     },
     {
       "provision_ref": "art36u2",
       "section": "36",
       "title": "Art. 36 ust. 2",
-      "content": "Wykreślenie z rejestru następuje na podstawie decyzji Ministra-Kierownika Urzędu do Spraw Wyznań."
+      "content": "Wykreślenie z rejestru następuje na podstawie decyzji organu rejestrowego."
     },
     {
       "provision_ref": "art36u3",
       "section": "36",
       "title": "Art. 36 ust. 3",
-      "content": "W przypadku decyzji o wykreśleniu z rejestru z powodu zaprzestania przez kościół lub inny związek wyznaniowy działalności, Minister-Kierownik Urzędu do Spraw Wyznań wyznacza likwidatora, stosując odpowiednio przepisy Prawa o stowarzyszeniach."
+      "content": "W przypadkach, o których mowa w ust. 1 pkt 2 i 3 oraz art. 36a ust. 2, wykreślenie z rejestru następuje po przeprowadzeniu likwidacji."
     },
     {
       "provision_ref": "art36u4",
       "section": "36",
       "title": "Art. 36 ust. 4",
-      "content": "Przepis ust. 3 ma również zastosowanie, jeżeli zawiadomienie o zaprzestaniu działalności kościoła lub innego związku wyznaniowego nie określa likwidatora."
+      "content": "W przypadku, o którym mowa w ust. 1 pkt 2, likwidatorami są członkowie organu kościoła lub innego związku wyznaniowego uprawnionego do reprezentowania na zewnątrz i zaciągania zobowiązań majątkowych, jeżeli statut lub, w razie braku odpowiednich postanowień statutu, decyzja właściwego organu kościoła lub innego związku wyznaniowego nie stanowi inaczej."
     },
     {
-      "provision_ref": "art36u5",
+      "provision_ref": "art36u5p1",
       "section": "36",
-      "title": "Art. 36 ust. 5",
-      "content": "Jeżeli statut kościoła lub innego związku wyznaniowego nie stanowi inaczej majątek pozostały po zakończeniu postępowania likwidacyjnego może być przeznaczony wyłącznie na cele charytatywno-opiekuńcze."
+      "title": "Art. 36 ust. 5 pkt 1",
+      "content": "Organ rejestrowy, w drodze decyzji, zarządza likwidację i wyznacza likwidatora: w przypadkach, o których mowa w ust. 1 pkt 3 i art. 36a ust. 2;"
+    },
+    {
+      "provision_ref": "art36u5p2",
+      "section": "36",
+      "title": "Art. 36 ust. 5 pkt 2",
+      "content": "Organ rejestrowy, w drodze decyzji, zarządza likwidację i wyznacza likwidatora: w razie braku możliwości ustalenia likwidatora, o którym mowa w ust. 4."
     },
     {
       "provision_ref": "art36u6",
       "section": "36",
       "title": "Art. 36 ust. 6",
-      "content": "Od decyzji, o których mowa w ust. 2-4, przysługuje prawo skargi do Naczelnego Sądu Administracyjnego w trybie przepisów Kodeksu postępowania administracyjnego ."
+      "content": "Przed zniesieniem osoby prawnej, o której mowa w art. 32 ust. 3, kościół lub inny związek wyznaniowy zarządza jej likwidację i wyznacza likwidatora informując o tym organ rejestrowy oraz określa przeznaczenie majątku pozostałego po zakończeniu likwidacji."
+    },
+    {
+      "provision_ref": "art36u7",
+      "section": "36",
+      "title": "Art. 36 ust. 7",
+      "content": "Do obowiązków likwidatora stosuje się odpowiednio art. 37 ustawy z dnia 7 kwietnia 1989 r. - Prawo o stowarzyszeniach ."
+    },
+    {
+      "provision_ref": "art36u8",
+      "section": "36",
+      "title": "Art. 36 ust. 8",
+      "content": "Jeżeli statut kościoła lub innego związku wyznaniowego nie stanowi inaczej, majątek pozostały po zakończeniu postępowania likwidacyjnego kościoła lub innego związku wyznaniowego albo osób prawnych, o których mowa w art. 32 ust. 3, może być przeznaczony wyłącznie na cele charytatywno-opiekuńcze w drodze decyzji organu rejestrowego."
+    },
+    {
+      "provision_ref": "art36a",
+      "section": "36a",
+      "title": "Art. 36a",
+      "content": "Organ rejestrowy lub prokurator może wystąpić do sądu okręgowego o stwierdzenie niezgodności działania kościoła lub innego związku wyznaniowego z przepisami prawa, o których mowa w art. 27 ust. 1, lub ze statutem, o którym mowa w art. 32. W razie stwierdzenia prawomocnym wyrokiem sądu, że działalność kościoła lub innego związku wyznaniowego rażąco narusza prawo lub postanowienia statutu, organ rejestrowy wykreśli z rejestru ten kościół lub inny związek wyznaniowy."
+    },
+    {
+      "provision_ref": "art36au1",
+      "section": "36a",
+      "title": "Art. 36a ust. 1",
+      "content": "Organ rejestrowy lub prokurator może wystąpić do sądu okręgowego o stwierdzenie niezgodności działania kościoła lub innego związku wyznaniowego z przepisami prawa, o których mowa w art. 27 ust. 1, lub ze statutem, o którym mowa w art. 32."
+    },
+    {
+      "provision_ref": "art36au2",
+      "section": "36a",
+      "title": "Art. 36a ust. 2",
+      "content": "W razie stwierdzenia prawomocnym wyrokiem sądu, że działalność kościoła lub innego związku wyznaniowego rażąco narusza prawo lub postanowienia statutu, organ rejestrowy wykreśli z rejestru ten kościół lub inny związek wyznaniowy."
     },
     {
       "provision_ref": "art37",
       "section": "37",
       "title": "Art. 37",
-      "content": "Minister-Kierownik Urzędu do Spraw Wyznań, w drodze rozporządzenia, określa szczegółowe zasady i sposób prowadzenia rejestru, dane i informacje podlegające wpisowi, warunki udostępniania rejestru, wydawania wyciągów z rejestru oraz sposób wykreślenia kościoła lub innego związku wyznaniowego z rejestru."
+      "content": "Minister właściwy do spraw wyznań religijnych 5) Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych, na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r. określa, w drodze rozporządzenia, zasady i sposób prowadzenia rejestru, dane i informacje podlegające wpisowi, sposób, formę i termin aktualizacji wpisów do rejestru, warunki udostępniania rejestru, wydawania wyciągów z rejestru oraz sposób wykreślania kościoła lub innego związku wyznaniowego z rejestru."
     },
     {
       "provision_ref": "art38",
       "section": "38",
       "title": "Art. 38",
-      "content": "Przepisy niniejszego rozdziału stosuje się odpowiednio do krajowych organizacji międzykościelnych, jeżeli mają one mieć osobowość prawną. Do utworzenia takiej organizacji jest wymagana deklaracja podpisana przez władze co najmniej dwóch działających w Polskiej Rzeczypospolitej Ludowej kościołów i innych związków wyznaniowych."
+      "content": "Przepisy niniejszego działu stosuje się odpowiednio do krajowych organizacji międzykościelnych, jeżeli mają one mieć osobowość prawną. Do utworzenia takiej organizacji jest wymagana deklaracja podpisana przez władze co najmniej dwóch działających w Rzeczypospolitej Polskiej kościołów i innych związków wyznaniowych."
+    },
+    {
+      "provision_ref": "art38a",
+      "section": "38a",
+      "title": "Art. 38a",
+      "content": "Tworzy się Międzykościelną Komisję Regulacyjną, zwaną dalej „Komisją”, w celu ostatecznego uregulowania spraw majątkowych między Państwem a kościołami i ich osobami prawnymi, które zgłosiły roszczenia w trybie i na zasadach określonych w: art. 24-26 ustawy z dnia 13 maja 1994 r. o stosunku Państwa do Kościoła Ewangelicko-Reformowanego w Rzeczypospolitej Polskiej ; art. 37 ustawy z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Ewangelicko-Metodystycznego w Rzeczypospolitej Polskiej ; art. 40-42 ustawy z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Chrześcijan Baptystów w Rzeczypospolitej Polskiej ; art. 35 ustawy z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Adwentystów Dnia Siódmego w Rzeczypospolitej Polskiej . Roszczenia majątkowe wobec Państwa mogą również zgłaszać do Komisji w terminie do dnia 31 grudnia 1998 r. kościoły i inne związki wyznaniowe, niewymienione w ust. 1, a także krajowe organizacje międzykościelne, jeżeli wskażą we wniosku, że na rzecz Skarbu Państwa przejęto własność nieruchomości lub ich części będących uprzednio własnością tych kościołów i związków wyznaniowych oraz krajowych organizacji międzykościelnych. Do oceny dopuszczalności postępowania regulacyjnego w sprawach, o których mowa w ust. 2, mają odpowiednie zastosowanie przepisy ustaw wskazanych w ust. 1 pkt 1-4. Jeżeli przywrócenie kościelnej osobie prawnej własności nieruchomości nie jest możliwe z uwagi na trudne do przezwyciężenia przeszkody, przyznaje się jej nieruchomość zamienną, a jeżeli nie jest to możliwe, osobie tej przyznaje się odszkodowanie ustalone według przepisów o wywłaszczeniu nieruchomości 7) Obecnie przepisów ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2021 r. poz. 1899 oraz z 2022 r. poz. 1846 i 2185), która weszła w życie z dniem 1 stycznia 1998 r. . Rada Ministrów określi, w drodze rozporządzenia, z mienia których państwowych jednostek organizacyjnych lub gmin może być wyłączona nieruchomość zamienna lub na którą państwową jednostkę organizacyjną może być nałożony obowiązek zapłaty odszkodowania."
+    },
+    {
+      "provision_ref": "art38au1p1",
+      "section": "38a",
+      "title": "Art. 38a ust. 1 pkt 1",
+      "content": "Tworzy się Międzykościelną Komisję Regulacyjną, zwaną dalej „Komisją”, w celu ostatecznego uregulowania spraw majątkowych między Państwem a kościołami i ich osobami prawnymi, które zgłosiły roszczenia w trybie i na zasadach określonych w: art. 24-26 ustawy z dnia 13 maja 1994 r. o stosunku Państwa do Kościoła Ewangelicko-Reformowanego w Rzeczypospolitej Polskiej ;"
+    },
+    {
+      "provision_ref": "art38au1p2",
+      "section": "38a",
+      "title": "Art. 38a ust. 1 pkt 2",
+      "content": "Tworzy się Międzykościelną Komisję Regulacyjną, zwaną dalej „Komisją”, w celu ostatecznego uregulowania spraw majątkowych między Państwem a kościołami i ich osobami prawnymi, które zgłosiły roszczenia w trybie i na zasadach określonych w: art. 37 ustawy z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Ewangelicko-Metodystycznego w Rzeczypospolitej Polskiej ;"
+    },
+    {
+      "provision_ref": "art38au1p3",
+      "section": "38a",
+      "title": "Art. 38a ust. 1 pkt 3",
+      "content": "Tworzy się Międzykościelną Komisję Regulacyjną, zwaną dalej „Komisją”, w celu ostatecznego uregulowania spraw majątkowych między Państwem a kościołami i ich osobami prawnymi, które zgłosiły roszczenia w trybie i na zasadach określonych w: art. 40-42 ustawy z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Chrześcijan Baptystów w Rzeczypospolitej Polskiej ;"
+    },
+    {
+      "provision_ref": "art38au1p4",
+      "section": "38a",
+      "title": "Art. 38a ust. 1 pkt 4",
+      "content": "Tworzy się Międzykościelną Komisję Regulacyjną, zwaną dalej „Komisją”, w celu ostatecznego uregulowania spraw majątkowych między Państwem a kościołami i ich osobami prawnymi, które zgłosiły roszczenia w trybie i na zasadach określonych w: art. 35 ustawy z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Adwentystów Dnia Siódmego w Rzeczypospolitej Polskiej ."
+    },
+    {
+      "provision_ref": "art38au2",
+      "section": "38a",
+      "title": "Art. 38a ust. 2",
+      "content": "Roszczenia majątkowe wobec Państwa mogą również zgłaszać do Komisji w terminie do dnia 31 grudnia 1998 r. kościoły i inne związki wyznaniowe, niewymienione w ust. 1, a także krajowe organizacje międzykościelne, jeżeli wskażą we wniosku, że na rzecz Skarbu Państwa przejęto własność nieruchomości lub ich części będących uprzednio własnością tych kościołów i związków wyznaniowych oraz krajowych organizacji międzykościelnych."
+    },
+    {
+      "provision_ref": "art38au3",
+      "section": "38a",
+      "title": "Art. 38a ust. 3",
+      "content": "Do oceny dopuszczalności postępowania regulacyjnego w sprawach, o których mowa w ust. 2, mają odpowiednie zastosowanie przepisy ustaw wskazanych w ust. 1 pkt 1-4."
+    },
+    {
+      "provision_ref": "art38au4",
+      "section": "38a",
+      "title": "Art. 38a ust. 4",
+      "content": "Jeżeli przywrócenie kościelnej osobie prawnej własności nieruchomości nie jest możliwe z uwagi na trudne do przezwyciężenia przeszkody, przyznaje się jej nieruchomość zamienną, a jeżeli nie jest to możliwe, osobie tej przyznaje się odszkodowanie ustalone według przepisów o wywłaszczeniu nieruchomości 7) Obecnie przepisów ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2021 r. poz. 1899 oraz z 2022 r. poz. 1846 i 2185), która weszła w życie z dniem 1 stycznia 1998 r. ."
+    },
+    {
+      "provision_ref": "art38au5",
+      "section": "38a",
+      "title": "Art. 38a ust. 5",
+      "content": "Rada Ministrów określi, w drodze rozporządzenia, z mienia których państwowych jednostek organizacyjnych lub gmin może być wyłączona nieruchomość zamienna lub na którą państwową jednostkę organizacyjną może być nałożony obowiązek zapłaty odszkodowania."
+    },
+    {
+      "provision_ref": "art38b",
+      "section": "38b",
+      "title": "Art. 38b",
+      "content": "Przedmiotem postępowania regulacyjnego może być również nieodpłatne przekazanie na własność nieruchomości lub ich części, które były własnością kościelnych osób prawnych działających do 1945 r. na Ziemiach Zachodnich i Północnych, w celu przywrócenia w nich sprawowania kultu religijnego, działalności oświatowo-wychowawczej, charytatywno-opiekuńczej i opiekuńczo-wychowawczej. W razie niemożności dokonania regulacji, o której mowa w ust. 1, postępowanie ulega umorzeniu."
+    },
+    {
+      "provision_ref": "art38bu1",
+      "section": "38b",
+      "title": "Art. 38b ust. 1",
+      "content": "Przedmiotem postępowania regulacyjnego może być również nieodpłatne przekazanie na własność nieruchomości lub ich części, które były własnością kościelnych osób prawnych działających do 1945 r. na Ziemiach Zachodnich i Północnych, w celu przywrócenia w nich sprawowania kultu religijnego, działalności oświatowo-wychowawczej, charytatywno-opiekuńczej i opiekuńczo-wychowawczej."
+    },
+    {
+      "provision_ref": "art38bu2",
+      "section": "38b",
+      "title": "Art. 38b ust. 2",
+      "content": "W razie niemożności dokonania regulacji, o której mowa w ust. 1, postępowanie ulega umorzeniu."
+    },
+    {
+      "provision_ref": "art38c",
+      "section": "38c",
+      "title": "Art. 38c",
+      "content": "Majątek nieruchomy, przekazany na własność gminie w trybie ustawy z dnia 10 maja 1990 r. - Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych ) , podlega postępowaniu, o którym mowa w art. 38a i 38b."
+    },
+    {
+      "provision_ref": "art38d",
+      "section": "38d",
+      "title": "Art. 38d",
+      "content": "Minister właściwy do spraw wyznań religijnych 5) Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych, na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r. po zasięgnięciu opinii władz kościołów, o których mowa w art. 38a ust. 1 pkt 1-4, określi, w drodze rozporządzenia, liczebność Komisji, szczegółowy tryb postępowania regulacyjnego oraz wynagrodzenie dla członków Komisji i personelu pomocniczego, uwzględniając w szczególności organizację pracy Komisji, zadania współprzewodniczących zespołów orzekających, oraz sposób prowadzenia i protokołowania rozpraw, orzekania i nadawania klauzul wykonalności orzeczeniom i ugodom. Komisja rozpatruje sprawy w zespołach orzekających, w skład których wchodzi po dwóch członków wyznaczonych przez ministra właściwego do spraw wyznań religijnych 5) Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych, na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r. i władze kościoła lub związku wyznaniowego, którego wniosek dotyczy. Postępowanie regulacyjne wszczyna się z chwilą złożenia wniosku w Komisji. Zespół orzekający po otrzymaniu wniosku o wszczęcie postępowania regulacyjnego bada, czy jest ono dopuszczalne, a wniosek niedopuszczalny odrzuca. Postępowania sądowe lub administracyjne dotyczące nieruchomości, w stosunku do których wszczęto postępowanie regulacyjne, ulegają zawieszeniu, a sądy i organy prowadzące postępowania administracyjne przekazują ich akta do Komisji. Uczestnikami postępowania regulacyjnego są, oprócz wnioskodawcy, wszystkie zainteresowane jednostki państwowe, samorządowe i kościelne. Uczestnicy postępowania regulacyjnego mogą zawrzeć ugodę przed zespołem orzekającym. Jeżeli ugoda nie zostanie zawarta, zespół orzekający wydaje orzeczenie. Regulacja nie może naruszać praw nabytych przez niepaństwowe osoby trzecie, a w szczególności przez inne kościoły i związki wyznaniowe oraz rolników indywidualnych. Ugody zawarte przed zespołem orzekającym, jak i orzeczenia uwzględniające wniosek, powinny określać: stan prawny nieruchomości; związane z tym stanem obowiązki uczestników postępowania, a w szczególności obowiązek wydania nieruchomości w wyznaczonym terminie, jeżeli nie znajduje się ona we władaniu wnioskodawcy; w razie przyznania odszkodowania, obowiązek i termin zapłaty należnej z tego tytułu kwoty. Od orzeczenia zespołu orzekającego nie przysługuje odwołanie."
+    },
+    {
+      "provision_ref": "art38du1",
+      "section": "38d",
+      "title": "Art. 38d ust. 1",
+      "content": "Minister właściwy do spraw wyznań religijnych 5) Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych, na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r. po zasięgnięciu opinii władz kościołów, o których mowa w art. 38a ust. 1 pkt 1-4, określi, w drodze rozporządzenia, liczebność Komisji, szczegółowy tryb postępowania regulacyjnego oraz wynagrodzenie dla członków Komisji i personelu pomocniczego, uwzględniając w szczególności organizację pracy Komisji, zadania współprzewodniczących zespołów orzekających, oraz sposób prowadzenia i protokołowania rozpraw, orzekania i nadawania klauzul wykonalności orzeczeniom i ugodom."
+    },
+    {
+      "provision_ref": "art38du2",
+      "section": "38d",
+      "title": "Art. 38d ust. 2",
+      "content": "Komisja rozpatruje sprawy w zespołach orzekających, w skład których wchodzi po dwóch członków wyznaczonych przez ministra właściwego do spraw wyznań religijnych 5) Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych, na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r. i władze kościoła lub związku wyznaniowego, którego wniosek dotyczy."
+    },
+    {
+      "provision_ref": "art38du3",
+      "section": "38d",
+      "title": "Art. 38d ust. 3",
+      "content": "Postępowanie regulacyjne wszczyna się z chwilą złożenia wniosku w Komisji. Zespół orzekający po otrzymaniu wniosku o wszczęcie postępowania regulacyjnego bada, czy jest ono dopuszczalne, a wniosek niedopuszczalny odrzuca."
+    },
+    {
+      "provision_ref": "art38du4",
+      "section": "38d",
+      "title": "Art. 38d ust. 4",
+      "content": "Postępowania sądowe lub administracyjne dotyczące nieruchomości, w stosunku do których wszczęto postępowanie regulacyjne, ulegają zawieszeniu, a sądy i organy prowadzące postępowania administracyjne przekazują ich akta do Komisji."
+    },
+    {
+      "provision_ref": "art38du5",
+      "section": "38d",
+      "title": "Art. 38d ust. 5",
+      "content": "Uczestnikami postępowania regulacyjnego są, oprócz wnioskodawcy, wszystkie zainteresowane jednostki państwowe, samorządowe i kościelne."
+    },
+    {
+      "provision_ref": "art38du6",
+      "section": "38d",
+      "title": "Art. 38d ust. 6",
+      "content": "Uczestnicy postępowania regulacyjnego mogą zawrzeć ugodę przed zespołem orzekającym. Jeżeli ugoda nie zostanie zawarta, zespół orzekający wydaje orzeczenie."
+    },
+    {
+      "provision_ref": "art38du7",
+      "section": "38d",
+      "title": "Art. 38d ust. 7",
+      "content": "Regulacja nie może naruszać praw nabytych przez niepaństwowe osoby trzecie, a w szczególności przez inne kościoły i związki wyznaniowe oraz rolników indywidualnych."
+    },
+    {
+      "provision_ref": "art38du8p1",
+      "section": "38d",
+      "title": "Art. 38d ust. 8 pkt 1",
+      "content": "Ugody zawarte przed zespołem orzekającym, jak i orzeczenia uwzględniające wniosek, powinny określać: stan prawny nieruchomości;"
+    },
+    {
+      "provision_ref": "art38du8p2",
+      "section": "38d",
+      "title": "Art. 38d ust. 8 pkt 2",
+      "content": "Ugody zawarte przed zespołem orzekającym, jak i orzeczenia uwzględniające wniosek, powinny określać: związane z tym stanem obowiązki uczestników postępowania, a w szczególności obowiązek wydania nieruchomości w wyznaczonym terminie, jeżeli nie znajduje się ona we władaniu wnioskodawcy;"
+    },
+    {
+      "provision_ref": "art38du8p3",
+      "section": "38d",
+      "title": "Art. 38d ust. 8 pkt 3",
+      "content": "Ugody zawarte przed zespołem orzekającym, jak i orzeczenia uwzględniające wniosek, powinny określać: w razie przyznania odszkodowania, obowiązek i termin zapłaty należnej z tego tytułu kwoty."
+    },
+    {
+      "provision_ref": "art38du9",
+      "section": "38d",
+      "title": "Art. 38d ust. 9",
+      "content": "Od orzeczenia zespołu orzekającego nie przysługuje odwołanie."
+    },
+    {
+      "provision_ref": "art38e",
+      "section": "38e",
+      "title": "Art. 38e",
+      "content": "Ugody i orzeczenia mają moc sądowych tytułów egzekucyjnych. Ugody i orzeczenia stanowią podstawę do dokonywania wpisów w księgach wieczystych i w ewidencji gruntów."
+    },
+    {
+      "provision_ref": "art38eu1",
+      "section": "38e",
+      "title": "Art. 38e ust. 1",
+      "content": "Ugody i orzeczenia mają moc sądowych tytułów egzekucyjnych."
+    },
+    {
+      "provision_ref": "art38eu2",
+      "section": "38e",
+      "title": "Art. 38e ust. 2",
+      "content": "Ugody i orzeczenia stanowią podstawę do dokonywania wpisów w księgach wieczystych i w ewidencji gruntów."
+    },
+    {
+      "provision_ref": "art38f",
+      "section": "38f",
+      "title": "Art. 38f",
+      "content": "Postępowanie regulacyjne jest wolne od opłat. Nabycie własności nieruchomości lub ich części na podstawie ugody lub orzeczenia jest wolne od podatków i opłat z tym związanych."
+    },
+    {
+      "provision_ref": "art38fu1",
+      "section": "38f",
+      "title": "Art. 38f ust. 1",
+      "content": "Postępowanie regulacyjne jest wolne od opłat."
+    },
+    {
+      "provision_ref": "art38fu2",
+      "section": "38f",
+      "title": "Art. 38f ust. 2",
+      "content": "Nabycie własności nieruchomości lub ich części na podstawie ugody lub orzeczenia jest wolne od podatków i opłat z tym związanych."
+    },
+    {
+      "provision_ref": "art38g",
+      "section": "38g",
+      "title": "Art. 38g",
+      "content": "Jeżeli zespół orzekający nie uzgodni orzeczenia, zawiadamia o tym pisemnie uczestników postępowania regulacyjnego. Uczestnicy postępowania regulacyjnego mogą, w terminie sześciu miesięcy od otrzymania zawiadomienia, wystąpić o podjęcie zawieszonego postępowania sądowego lub administracyjnego, a jeżeli nie było ono wszczęte - wystąpić na drogę sądową pod rygorem wygaśnięcia roszczenia. Przy rozpoznawaniu sprawy sąd stosuje zasady określone w art. 38a i 38b."
+    },
+    {
+      "provision_ref": "art38gu1",
+      "section": "38g",
+      "title": "Art. 38g ust. 1",
+      "content": "Jeżeli zespół orzekający nie uzgodni orzeczenia, zawiadamia o tym pisemnie uczestników postępowania regulacyjnego."
+    },
+    {
+      "provision_ref": "art38gu2",
+      "section": "38g",
+      "title": "Art. 38g ust. 2",
+      "content": "Uczestnicy postępowania regulacyjnego mogą, w terminie sześciu miesięcy od otrzymania zawiadomienia, wystąpić o podjęcie zawieszonego postępowania sądowego lub administracyjnego, a jeżeli nie było ono wszczęte - wystąpić na drogę sądową pod rygorem wygaśnięcia roszczenia. Przy rozpoznawaniu sprawy sąd stosuje zasady określone w art. 38a i 38b."
     },
     {
       "provision_ref": "art39",
       "section": "39",
       "title": "Art. 39",
-      "content": "Zachowują moc przepisy statutów kościołów i innych związków wyznaniowych, o ile nie pozostają w sprzeczności z przepisami niniejszej ustawy. Do czasu wydania przepisów wykonawczych do ustawy pozostają w mocy przepisy dotychczasowe."
-    },
-    {
-      "provision_ref": "art39u1",
-      "section": "39",
-      "title": "Art. 39 ust. 1",
-      "content": "Zachowują moc przepisy statutów kościołów i innych związków wyznaniowych, o ile nie pozostają w sprzeczności z przepisami niniejszej ustawy."
-    },
-    {
-      "provision_ref": "art39u2",
-      "section": "39",
-      "title": "Art. 39 ust. 2",
-      "content": "Do czasu wydania przepisów wykonawczych do ustawy pozostają w mocy przepisy dotychczasowe."
+      "content": "(pominięty)"
     },
     {
       "provision_ref": "art40",
       "section": "40",
       "title": "Art. 40",
-      "content": "Kościoły, których byt prawny był uregulowany przed dniem 6 sierpnia 1949 r. decyzjami Ministra Administracji Publicznej, zachowują swój dotychczasowy status prawny do czasu ustawowego uregulowania ich sytuacji prawnej."
+      "content": "Stosunki Państwa z kościołami i innymi związkami wyznaniowymi działającymi na podstawie wpisu do rejestru mogą być regulowane w drodze odrębnej ustawy."
     },
     {
       "provision_ref": "art41",
       "section": "41",
       "title": "Art. 41",
-      "content": "Kościoły i inne związki wyznaniowe, które w dniu wejścia w życie ustawy miały uregulowany byt prawny na zasadach i w trybie określonym w § 3, 4 i 7 rozporządzenia Ministra Administracji Publicznej z dnia 6 sierpnia 1949 r. w sprawie wykonania dekretu z dnia 5 sierpnia 1949 r. o zmianie niektórych przepisów Prawa o stowarzyszeniach , podlegają wpisowi do rejestru z urzędu. Kościoły i inne związki wyznaniowe działające w dniu wejścia w życie ustawy jako stowarzyszenia zwykłe, mogą nabyć osobowość prawną, jeżeli spełnią wymagania określone w art. 30-32."
-    },
-    {
-      "provision_ref": "art41u1",
-      "section": "41",
-      "title": "Art. 41 ust. 1",
-      "content": "Kościoły i inne związki wyznaniowe, które w dniu wejścia w życie ustawy miały uregulowany byt prawny na zasadach i w trybie określonym w § 3, 4 i 7 rozporządzenia Ministra Administracji Publicznej z dnia 6 sierpnia 1949 r. w sprawie wykonania dekretu z dnia 5 sierpnia 1949 r. o zmianie niektórych przepisów Prawa o stowarzyszeniach , podlegają wpisowi do rejestru z urzędu."
-    },
-    {
-      "provision_ref": "art41u2",
-      "section": "41",
-      "title": "Art. 41 ust. 2",
-      "content": "Kościoły i inne związki wyznaniowe działające w dniu wejścia w życie ustawy jako stowarzyszenia zwykłe, mogą nabyć osobowość prawną, jeżeli spełnią wymagania określone w art. 30-32."
+      "content": "Kościoły i inne związki wyznaniowe działające w dniu wejścia w życie ustawy jako stowarzyszenia zwykłe mogą nabyć osobowość prawną, jeżeli spełnią wymagania określone w art. 30-32."
     },
     {
       "provision_ref": "art42",
       "section": "42",
       "title": "Art. 42",
-      "content": "Osoby należące do kościołów i innych związków wyznaniowych, których święta religijne nie są dniami ustawowo wolnymi od pracy, mogą na własną prośbę uzyskać zwolnienie od pracy lub nauki na czas niezbędny do obchodzenia tych świąt, zgodnie z wymogami wyznawanej przez siebie religii. Osoby niepełnoletnie mogą korzystać z prawa określonego w ust. 1 na wniosek swych rodziców bądź opiekunów prawnych. Zwolnienie od pracy, o którym mowa w ust. 1 i 2, może być udzielone pod warunkiem odpracowania czasu zwolnienia, bez prawa do dodatkowego wynagrodzenia za pracę w dni ustawowo wolne od pracy lub pracę w godzinach nadliczbowych. Minister Pracy i Polityki Socjalnej oraz Minister Edukacji Narodowej, w porozumieniu z Ministrem-Kierownikiem Urzędu do Spraw Wyznań, w drodze rozporządzenia, określają szczegółowe zasady udzielania zwolnień, o których mowa w ust. 1 i 2."
+      "content": "Osoby należące do kościołów i innych związków wyznaniowych, których święta religijne nie są dniami ustawowo wolnymi od pracy, mogą na własną prośbę uzyskać zwolnienie od pracy lub nauki na czas niezbędny do obchodzenia tych świąt, zgodnie z wymogami wyznawanej przez siebie religii. Osoby niepełnoletnie mogą korzystać z prawa określonego w ust. 1 na wniosek swych rodziców bądź opiekunów prawnych. Zwolnienie od pracy, o którym mowa w ust. 1 i 2, może być udzielone pod warunkiem odpracowania czasu zwolnienia, bez prawa do dodatkowego wynagrodzenia za pracę w dni ustawowo wolne od pracy lub pracę w godzinach nadliczbowych. Minister właściwy do spraw pracy oraz minister właściwy do spraw oświaty i wychowania, minister właściwy do spraw szkolnictwa wyższego 6) Obecnie ministrem właściwym do spraw szkolnictwa wyższego i nauki, na podstawie art. 4 ust. 1, art. 5 pkt 21 i art. 26 ustawy, o której mowa w odnośniku 5. , w porozumieniu z ministrem właściwym do spraw wyznań religijnych 5) Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych, na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r. , w drodze rozporządzenia, określają szczegółowe zasady udzielania zwolnień, o których mowa w ust. 1 i 2."
     },
     {
       "provision_ref": "art42u1",
@@ -1105,65 +1501,67 @@
       "provision_ref": "art42u4",
       "section": "42",
       "title": "Art. 42 ust. 4",
-      "content": "Minister Pracy i Polityki Socjalnej oraz Minister Edukacji Narodowej, w porozumieniu z Ministrem-Kierownikiem Urzędu do Spraw Wyznań, w drodze rozporządzenia, określają szczegółowe zasady udzielania zwolnień, o których mowa w ust. 1 i 2."
+      "content": "Minister właściwy do spraw pracy oraz minister właściwy do spraw oświaty i wychowania, minister właściwy do spraw szkolnictwa wyższego 6) Obecnie ministrem właściwym do spraw szkolnictwa wyższego i nauki, na podstawie art. 4 ust. 1, art. 5 pkt 21 i art. 26 ustawy, o której mowa w odnośniku 5. , w porozumieniu z ministrem właściwym do spraw wyznań religijnych 5) Obecnie ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych, na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512), która weszła w życie z dniem 1 kwietnia 1999 r. , w drodze rozporządzenia, określają szczegółowe zasady udzielania zwolnień, o których mowa w ust. 1 i 2."
     },
     {
       "provision_ref": "art43",
       "section": "43",
       "title": "Art. 43",
-      "content": "W ustawie z dnia 15 lipca 1961 r. o rozwoju systemu oświaty i wychowania w art. 1 akapity drugi i trzeci otrzymują brzmienie: „ Zmierza ono do tego, aby uczniom i wychowankom zapewnić wiedzę o przyrodzie i życiu społecznym, o dziejach oraz kulturze narodu i ludzkości, aby zapewnić kwalifikacje do pracy zawodowej. Szkoły i inne placówki oświatowo-wychowawcze wychowują w duchu zasad współżycia społecznego, w duchu umiłowania Ojczyzny, pokoju, wolności, sprawiedliwości społecznej i braterstwa z ludźmi wszystkich krajów, uczą zamiłowania i szacunku dla skutecznej pracy, poszanowania mienia narodowego, przygotowują do czynnego udziału w rozwoju kraju, jego gospodarki i kultury. ”"
+      "content": "(pominięty)"
     },
     {
       "provision_ref": "art44",
       "section": "44",
       "title": "Art. 44",
-      "content": "W ustawie z dnia 19 kwietnia 1968 r. o bibliotekach w art. 34 po ust. 2 dodaje się ust. 2a w brzmieniu: „ Obowiązkom określonym w ust. 1 i 2 nie podlegają biblioteki i zbiory materiałów bibliotecznych należące do kościołów i innych związków wyznaniowych oraz ich osób prawnych, które o podjęciu publicznego udostępnienia zbiorów powiadamiają organ określony w ust. 1. ” ."
-    },
-    {
-      "provision_ref": "art44u2a",
-      "section": "44",
-      "title": "Art. 44 ust. 2a",
-      "content": "W ustawie z dnia 19 kwietnia 1968 r. o bibliotekach w art. 34 po ust. 2 dodaje się ust. 2a w brzmieniu: „ Obowiązkom określonym w ust. 1 i 2 nie podlegają biblioteki i zbiory materiałów bibliotecznych należące do kościołów i innych związków wyznaniowych oraz ich osób prawnych, które o podjęciu publicznego udostępnienia zbiorów powiadamiają organ określony w ust. 1."
+      "content": "(pominięty)"
     },
     {
       "provision_ref": "art45",
       "section": "45",
       "title": "Art. 45",
-      "content": "Ustawa wchodzi w życie z dniem ogłoszenia."
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia 9) Ustawa została ogłoszona w dniu 23 maja 1989 r. ."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-1949-358",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1961-160",
+      "target_document_id": "pl-du-2022-1435",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1971-115",
+      "target_document_id": "pl-du-2022-1700",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1972-114",
+      "target_document_id": "pl-du-2022-2305",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1975-234",
+      "target_document_id": "pl-du-2020-2261",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1984-253",
+      "target_document_id": "pl-du-2015-483",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1968-63",
+      "target_document_id": "pl-du-2014-1712",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1984-129",
+      "target_document_id": "pl-du-2015-169",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2616",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1990-191",
       "ref_type": "references"
     }
   ]

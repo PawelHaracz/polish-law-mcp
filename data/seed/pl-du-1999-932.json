@@ -10,16 +10,76 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/1999/932",
   "provisions": [
     {
+      "provision_ref": "art109",
+      "section": "109",
+      "title": "Art. 109",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2021 r., z wyjątkiem: art. 85 pkt 5, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia; art. 88, który wchodzi w życie z dniem 1 marca 2020 r."
+    },
+    {
+      "provision_ref": "art109p1",
+      "section": "109",
+      "title": "Art. 109 pkt 1",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2021 r., z wyjątkiem: art. 85 pkt 5, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia;"
+    },
+    {
+      "provision_ref": "art109p2",
+      "section": "109",
+      "title": "Art. 109 pkt 2",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2021 r., z wyjątkiem: art. 88, który wchodzi w życie z dniem 1 marca 2020 r."
+    },
+    {
+      "provision_ref": "art98",
+      "section": "98",
+      "title": "Art. 98",
+      "content": "Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe, z tym że sprawy te toczą się przed organami, które przejęły zadania i kompetencje na podstawie niniejszej ustawy, z zastrzeżeniem art. 99. Organy, które przejęły zadania i kompetencje na podstawie niniejszej ustawy, przejmują związane z tymi zadaniami i kompetencjami prawa i obowiązki organów, które utraciły te zadania i kompetencje, w tym także wynikające z umów i porozumień. Akta spraw, rejestry, ewidencje, listy i bazy danych, prowadzone przed dniem wejścia w życie niniejszej ustawy przez organy, które utraciły zadania i kompetencje na podstawie niniejszej ustawy, przejmują organy, które przejęły od nich w tym zakresie zadania i kompetencje na podstawie niniejszej ustawy. Organy, które utraciły zadania i kompetencje na podstawie niniejszej ustawy, przekazują niezwłocznie organom, które przejęły od nich zadania i kompetencje na podstawie niniejszej ustawy, dokumentację związaną z wykonywaniem przejętych zadań i kompetencji, w tym także w postaci informatycznych nośników danych. Z czynności, o których mowa w ust. 3 i 4, sporządza się protokół."
+    },
+    {
+      "provision_ref": "art98u1",
+      "section": "98",
+      "title": "Art. 98 ust. 1",
+      "content": "Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe, z tym że sprawy te toczą się przed organami, które przejęły zadania i kompetencje na podstawie niniejszej ustawy, z zastrzeżeniem art. 99."
+    },
+    {
+      "provision_ref": "art98u2",
+      "section": "98",
+      "title": "Art. 98 ust. 2",
+      "content": "Organy, które przejęły zadania i kompetencje na podstawie niniejszej ustawy, przejmują związane z tymi zadaniami i kompetencjami prawa i obowiązki organów, które utraciły te zadania i kompetencje, w tym także wynikające z umów i porozumień."
+    },
+    {
+      "provision_ref": "art98u3",
+      "section": "98",
+      "title": "Art. 98 ust. 3",
+      "content": "Akta spraw, rejestry, ewidencje, listy i bazy danych, prowadzone przed dniem wejścia w życie niniejszej ustawy przez organy, które utraciły zadania i kompetencje na podstawie niniejszej ustawy, przejmują organy, które przejęły od nich w tym zakresie zadania i kompetencje na podstawie niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art98u4",
+      "section": "98",
+      "title": "Art. 98 ust. 4",
+      "content": "Organy, które utraciły zadania i kompetencje na podstawie niniejszej ustawy, przekazują niezwłocznie organom, które przejęły od nich zadania i kompetencje na podstawie niniejszej ustawy, dokumentację związaną z wykonywaniem przejętych zadań i kompetencji, w tym także w postaci informatycznych nośników danych."
+    },
+    {
+      "provision_ref": "art98u5",
+      "section": "98",
+      "title": "Art. 98 ust. 5",
+      "content": "Z czynności, o których mowa w ust. 3 i 4, sporządza się protokół."
+    },
+    {
+      "provision_ref": "art114",
+      "section": "114",
+      "title": "Art. 114",
+      "content": "Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia, z wyjątkiem art. 106 ust. 4, art. 107 ust. 2 i art. 108 ust. 2, które wchodzą w życie z dniem następującym po dniu ogłoszenia."
+    },
+    {
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "Ustawa określa zasady niektórych form wspierania: restrukturyzacji przemysłowego potencjału obronnego, modernizacji technicznej Sił Zbrojnych Rzeczypospolitej Polskiej."
+      "content": "Ustawa określa zasady niektórych form wspierania: restrukturyzacji przemysłowego potencjału obronnego; modernizacji technicznej Sił Zbrojnych Rzeczypospolitej Polskiej."
     },
     {
       "provision_ref": "art1p1",
       "section": "1",
       "title": "Art. 1 pkt 1",
-      "content": "Ustawa określa zasady niektórych form wspierania: restrukturyzacji przemysłowego potencjału obronnego,"
+      "content": "Ustawa określa zasady niektórych form wspierania: restrukturyzacji przemysłowego potencjału obronnego;"
     },
     {
       "provision_ref": "art1p2",
@@ -31,151 +91,355 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ustawę stosuje się do: spółek z ograniczoną odpowiedzialnością lub spółek akcyjnych prowadzących działalność gospodarczą na potrzeby bezpieczeństwa i obronności państwa, przedsiębiorstw państwowych, dla których organem założycielskim jest Minister Obrony Narodowej, oraz spółek powstałych w wyniku komercjalizacji tych przedsiębiorstw, jednostek badawczo-rozwojowych prowadzących działalność na potrzeby bezpieczeństwa i obronności państwa. Rada Ministrów określi, w drodze rozporządzenia, wykaz spółek oraz przedsiębiorstw państwowych i jednostek badawczo-rozwojowych, o których mowa w ust. 1."
+      "content": "Ustawę stosuje się do: spółek z ograniczoną odpowiedzialnością lub spółek akcyjnych prowadzących działalność gospodarczą na potrzeby bezpieczeństwa i obronności państwa; przedsiębiorstw państwowych, dla których organem założycielskim jest Minister Obrony Narodowej, oraz spółek powstałych w wyniku komercjalizacji tych przedsiębiorstw; jednostek badawczo-rozwojowych prowadzących działalność na potrzeby bezpieczeństwa i obronności państwa; spółek realizujących obrót z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa oraz dla utrzymania międzynarodowego pokoju i bezpieczeństwa w rozumieniu ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa . Rada Ministrów, w drodze rozporządzenia, uwzględniając przyjęte kierunki przekształceń strukturalnych przemysłowego potencjału obronnego, określi: wykaz spółek oraz przedsiębiorstw państwowych i jednostek badawczo-rozwojowych, o których mowa w ust. 1. (uchylony)"
     },
     {
       "provision_ref": "art2u1p1",
       "section": "2",
       "title": "Art. 2 ust. 1 pkt 1",
-      "content": "Ustawę stosuje się do: spółek z ograniczoną odpowiedzialnością lub spółek akcyjnych prowadzących działalność gospodarczą na potrzeby bezpieczeństwa i obronności państwa,"
+      "content": "Ustawę stosuje się do: spółek z ograniczoną odpowiedzialnością lub spółek akcyjnych prowadzących działalność gospodarczą na potrzeby bezpieczeństwa i obronności państwa;"
     },
     {
       "provision_ref": "art2u1p2",
       "section": "2",
       "title": "Art. 2 ust. 1 pkt 2",
-      "content": "Ustawę stosuje się do: przedsiębiorstw państwowych, dla których organem założycielskim jest Minister Obrony Narodowej, oraz spółek powstałych w wyniku komercjalizacji tych przedsiębiorstw,"
+      "content": "Ustawę stosuje się do: przedsiębiorstw państwowych, dla których organem założycielskim jest Minister Obrony Narodowej, oraz spółek powstałych w wyniku komercjalizacji tych przedsiębiorstw;"
     },
     {
       "provision_ref": "art2u1p3",
       "section": "2",
       "title": "Art. 2 ust. 1 pkt 3",
-      "content": "Ustawę stosuje się do: jednostek badawczo-rozwojowych prowadzących działalność na potrzeby bezpieczeństwa i obronności państwa."
+      "content": "Ustawę stosuje się do: jednostek badawczo-rozwojowych prowadzących działalność na potrzeby bezpieczeństwa i obronności państwa;"
     },
     {
-      "provision_ref": "art2u2",
+      "provision_ref": "art2u1p4",
       "section": "2",
-      "title": "Art. 2 ust. 2",
-      "content": "Rada Ministrów określi, w drodze rozporządzenia, wykaz spółek oraz przedsiębiorstw państwowych i jednostek badawczo-rozwojowych, o których mowa w ust. 1."
+      "title": "Art. 2 ust. 1 pkt 4",
+      "content": "Ustawę stosuje się do: spółek realizujących obrót z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa oraz dla utrzymania międzynarodowego pokoju i bezpieczeństwa w rozumieniu ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa ."
+    },
+    {
+      "provision_ref": "art2u2p1",
+      "section": "2",
+      "title": "Art. 2 ust. 2 pkt 1",
+      "content": "Rada Ministrów, w drodze rozporządzenia, uwzględniając przyjęte kierunki przekształceń strukturalnych przemysłowego potencjału obronnego, określi: wykaz spółek oraz przedsiębiorstw państwowych i jednostek badawczo-rozwojowych, o których mowa w ust. 1."
+    },
+    {
+      "provision_ref": "art2u2p2",
+      "section": "2",
+      "title": "Art. 2 ust. 2 pkt 2",
+      "content": "Rada Ministrów, w drodze rozporządzenia, uwzględniając przyjęte kierunki przekształceń strukturalnych przemysłowego potencjału obronnego, określi: (uchylony)"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "Przepisy art. 5 pkt 2 i art. 10-15 stosuje się odpowiednio do spółek zależnych od spółek, o których mowa w art. 2 ust. 1 pkt 1."
+      "content": "(uchylony)"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "Ilekroć w ustawie jest mowa o: przemysłowym potencjale obronnym - rozumie się przez to zasoby materialne i niematerialne istniejące w przemyśle Rzeczypospolitej Polskiej, zabezpieczające potrzeby obronne państwa, w tym potrzeby Sił Zbrojnych Rzeczypospolitej Polskiej, w uzbrojenie lub sprzęt wojskowy, spółkach przemysłowego potencjału obronnego - rozumie się przez to spółki z ograniczoną odpowiedzialnością lub spółki akcyjne prowadzące działalność gospodarczą na potrzeby bezpieczeństwa i obronności państwa, o których mowa w art. 2 ust. 1 pkt 1, oraz spółki powstałe w wyniku komercjalizacji przedsiębiorstw państwowych, o których mowa w art. 2 ust. 1 pkt 2, spółkach zależnych - rozumie się przez to spółki z ograniczoną odpowiedzialnością lub spółki akcyjne, prowadzące działalność gospodarczą polegającą na produkcji lub świadczeniu usług w zakresie uzbrojenia lub sprzętu wojskowego, w których w chwili wejścia w życie ustawy spółki przemysłowego potencjału obronnego i Skarb Państwa posiadają łącznie więcej niż połowę ogólnej liczby udziałów lub akcji, zobowiązaniach - rozumie się przez to zobowiązania pieniężne spółek przemysłowego potencjału obronnego lub spółek zależnych wraz z odsetkami, przychodach z prywatyzacji spółek przemysłowego potencjału obronnego - rozumie się przez to środki finansowe pochodzące ze sprzedaży akcji lub udziałów należących do Skarbu Państwa w spółkach, o których mowa w pkt 2, uzbrojeniu lub sprzęcie wojskowym - rozumie się przez to broń, amunicję, materiały wybuchowe oraz wyroby i ich części, usługi, a także technologie o przeznaczeniu wojskowym lub policyjnym, określone na podstawie art. 1 ust. 2 ustawy z dnia 2 grudnia 1993 r. o zasadach szczególnej kontroli obrotu z zagranicą towarami i technologiami w związku z porozumieniami i zobowiązaniami międzynarodowymi , koncentracji - rozumie się przez to przeniesienie działalności produkcyjnej lub usługowej spółek przemysłowego potencjału obronnego do jednego przedsiębiorcy, konwersji - rozumie się przez to zmianę przedmiotu działalności gospodarczej spółek przemysłowego potencjału obronnego na działanie niezwiązane z produkcją lub świadczeniem usług w zakresie uzbrojenia lub sprzętu wojskowego."
+      "content": "Ilekroć w ustawie jest mowa o: przemysłowym potencjale obronnym - rozumie się przez to zasoby materialne i niematerialne istniejące w przemyśle Rzeczypospolitej Polskiej, zabezpieczające potrzeby obronne państwa, w tym potrzeby Sił Zbrojnych Rzeczypospolitej Polskiej, w uzbrojenie lub sprzęt wojskowy; spółkach przemysłowego potencjału obronnego - rozumie się przez to spółki z ograniczoną odpowiedzialnością lub spółki akcyjne prowadzące działalność gospodarczą na potrzeby bezpieczeństwa i obronności państwa, o których mowa w art. 2 ust. 1 pkt 1 i 4, oraz spółki powstałe w wyniku komercjalizacji przedsiębiorstw państwowych, o których mowa w art. 2 ust. 1 pkt 2; spółkach zależnych - rozumie się przez to spółki z ograniczoną odpowiedzialnością lub spółki akcyjne, wykonujące działalność gospodarczą polegającą na produkcji lub świadczeniu usług w zakresie uzbrojenia lub sprzętu wojskowego, w których spółki przemysłowego potencjału obronnego, Skarb Państwa oraz Agencja Rozwoju Przemysłu posiadają łącznie więcej niż połowę ogólnej liczby udziałów lub akcji; zobowiązaniach - rozumie się przez to zobowiązania pieniężne spółek przemysłowego potencjału obronnego lub spółek zależnych wraz z odsetkami; przychodach z prywatyzacji spółek przemysłowego potencjału obronnego - rozumie się przez to środki finansowe pochodzące ze sprzedaży akcji lub udziałów należących do Skarbu Państwa w spółkach, o których mowa w pkt 2; uzbrojeniu lub sprzęcie wojskowym - rozumie się przez to uzbrojenie w rozumieniu ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa ; koncentracji - rozumie się przez to przeniesienie działalności produkcyjnej lub usługowej podmiotów, o których mowa w art. 2 ust. 1 - do jednego przedsiębiorcy; konwersji - rozumie się przez to zmianę przedmiotu działalności gospodarczej na działanie niezwiązane z produkcją lub świadczeniem usług w zakresie uzbrojenia lub sprzętu wojskowego; wdrożeniu do produkcji nowoczesnego uzbrojenia lub sprzętu wojskowego - rozumie się przez to prace związane z uruchomieniem produkcji nowych wyrobów lub modernizacji uzbrojenia lub sprzętu wojskowego będącego na wyposażeniu wojsk, zastosowaniem nowych metod wytwarzania lub usług materialnych, w tym: sporządzenie dokumentacji technicznej, wykonanie oprzyrządowania i instalacji produkcyjnej, wykonanie niezbędnych robót budowlano-montażowych, wykonanie serii informacyjnej nowego wyrobu oraz zakup i montaż maszyn lub urządzeń związanych z wdrożeniem; wspieraniu restrukturyzacji zatrudnienia - rozumie się przez to przeznaczanie środków na odprawy pieniężne przysługujące na podstawie ustawy z dnia 13 marca 2003 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników lub jednorazowe odprawy pieniężne w związku z przejściem na emeryturę lub rentę inwalidzką; pozyskiwaniu majątku niezbędnego do zapewnienia produkcji uzbrojenia lub sprzętu wojskowego - rozumie się przez to zakup lub przyjęcie do odpłatnego korzystania zorganizowanych części przedsiębiorstw w rozumieniu art. 55 1 Kodeksu cywilnego lub maszyn, urządzeń, nieruchomości niezbędnych do prowadzenia produkcji lub modernizacji uzbrojenia lub sprzętu wojskowego."
     },
     {
       "provision_ref": "art4p1",
       "section": "4",
       "title": "Art. 4 pkt 1",
-      "content": "Ilekroć w ustawie jest mowa o: przemysłowym potencjale obronnym - rozumie się przez to zasoby materialne i niematerialne istniejące w przemyśle Rzeczypospolitej Polskiej, zabezpieczające potrzeby obronne państwa, w tym potrzeby Sił Zbrojnych Rzeczypospolitej Polskiej, w uzbrojenie lub sprzęt wojskowy,"
+      "content": "Ilekroć w ustawie jest mowa o: przemysłowym potencjale obronnym - rozumie się przez to zasoby materialne i niematerialne istniejące w przemyśle Rzeczypospolitej Polskiej, zabezpieczające potrzeby obronne państwa, w tym potrzeby Sił Zbrojnych Rzeczypospolitej Polskiej, w uzbrojenie lub sprzęt wojskowy;"
     },
     {
       "provision_ref": "art4p2",
       "section": "4",
       "title": "Art. 4 pkt 2",
-      "content": "Ilekroć w ustawie jest mowa o: spółkach przemysłowego potencjału obronnego - rozumie się przez to spółki z ograniczoną odpowiedzialnością lub spółki akcyjne prowadzące działalność gospodarczą na potrzeby bezpieczeństwa i obronności państwa, o których mowa w art. 2 ust. 1 pkt 1, oraz spółki powstałe w wyniku komercjalizacji przedsiębiorstw państwowych, o których mowa w art. 2 ust. 1 pkt 2,"
+      "content": "Ilekroć w ustawie jest mowa o: spółkach przemysłowego potencjału obronnego - rozumie się przez to spółki z ograniczoną odpowiedzialnością lub spółki akcyjne prowadzące działalność gospodarczą na potrzeby bezpieczeństwa i obronności państwa, o których mowa w art. 2 ust. 1 pkt 1 i 4, oraz spółki powstałe w wyniku komercjalizacji przedsiębiorstw państwowych, o których mowa w art. 2 ust. 1 pkt 2;"
     },
     {
       "provision_ref": "art4p3",
       "section": "4",
       "title": "Art. 4 pkt 3",
-      "content": "Ilekroć w ustawie jest mowa o: spółkach zależnych - rozumie się przez to spółki z ograniczoną odpowiedzialnością lub spółki akcyjne, prowadzące działalność gospodarczą polegającą na produkcji lub świadczeniu usług w zakresie uzbrojenia lub sprzętu wojskowego, w których w chwili wejścia w życie ustawy spółki przemysłowego potencjału obronnego i Skarb Państwa posiadają łącznie więcej niż połowę ogólnej liczby udziałów lub akcji,"
+      "content": "Ilekroć w ustawie jest mowa o: spółkach zależnych - rozumie się przez to spółki z ograniczoną odpowiedzialnością lub spółki akcyjne, wykonujące działalność gospodarczą polegającą na produkcji lub świadczeniu usług w zakresie uzbrojenia lub sprzętu wojskowego, w których spółki przemysłowego potencjału obronnego, Skarb Państwa oraz Agencja Rozwoju Przemysłu posiadają łącznie więcej niż połowę ogólnej liczby udziałów lub akcji;"
     },
     {
       "provision_ref": "art4p4",
       "section": "4",
       "title": "Art. 4 pkt 4",
-      "content": "Ilekroć w ustawie jest mowa o: zobowiązaniach - rozumie się przez to zobowiązania pieniężne spółek przemysłowego potencjału obronnego lub spółek zależnych wraz z odsetkami,"
+      "content": "Ilekroć w ustawie jest mowa o: zobowiązaniach - rozumie się przez to zobowiązania pieniężne spółek przemysłowego potencjału obronnego lub spółek zależnych wraz z odsetkami;"
     },
     {
       "provision_ref": "art4p5",
       "section": "4",
       "title": "Art. 4 pkt 5",
-      "content": "Ilekroć w ustawie jest mowa o: przychodach z prywatyzacji spółek przemysłowego potencjału obronnego - rozumie się przez to środki finansowe pochodzące ze sprzedaży akcji lub udziałów należących do Skarbu Państwa w spółkach, o których mowa w pkt 2,"
+      "content": "Ilekroć w ustawie jest mowa o: przychodach z prywatyzacji spółek przemysłowego potencjału obronnego - rozumie się przez to środki finansowe pochodzące ze sprzedaży akcji lub udziałów należących do Skarbu Państwa w spółkach, o których mowa w pkt 2;"
     },
     {
       "provision_ref": "art4p6",
       "section": "4",
       "title": "Art. 4 pkt 6",
-      "content": "Ilekroć w ustawie jest mowa o: uzbrojeniu lub sprzęcie wojskowym - rozumie się przez to broń, amunicję, materiały wybuchowe oraz wyroby i ich części, usługi, a także technologie o przeznaczeniu wojskowym lub policyjnym, określone na podstawie art. 1 ust. 2 ustawy z dnia 2 grudnia 1993 r. o zasadach szczególnej kontroli obrotu z zagranicą towarami i technologiami w związku z porozumieniami i zobowiązaniami międzynarodowymi ,"
+      "content": "Ilekroć w ustawie jest mowa o: uzbrojeniu lub sprzęcie wojskowym - rozumie się przez to uzbrojenie w rozumieniu ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa ;"
     },
     {
       "provision_ref": "art4p7",
       "section": "4",
       "title": "Art. 4 pkt 7",
-      "content": "Ilekroć w ustawie jest mowa o: koncentracji - rozumie się przez to przeniesienie działalności produkcyjnej lub usługowej spółek przemysłowego potencjału obronnego do jednego przedsiębiorcy,"
+      "content": "Ilekroć w ustawie jest mowa o: koncentracji - rozumie się przez to przeniesienie działalności produkcyjnej lub usługowej podmiotów, o których mowa w art. 2 ust. 1 - do jednego przedsiębiorcy;"
     },
     {
       "provision_ref": "art4p8",
       "section": "4",
       "title": "Art. 4 pkt 8",
-      "content": "Ilekroć w ustawie jest mowa o: konwersji - rozumie się przez to zmianę przedmiotu działalności gospodarczej spółek przemysłowego potencjału obronnego na działanie niezwiązane z produkcją lub świadczeniem usług w zakresie uzbrojenia lub sprzętu wojskowego."
+      "content": "Ilekroć w ustawie jest mowa o: konwersji - rozumie się przez to zmianę przedmiotu działalności gospodarczej na działanie niezwiązane z produkcją lub świadczeniem usług w zakresie uzbrojenia lub sprzętu wojskowego;"
+    },
+    {
+      "provision_ref": "art4p9",
+      "section": "4",
+      "title": "Art. 4 pkt 9",
+      "content": "Ilekroć w ustawie jest mowa o: wdrożeniu do produkcji nowoczesnego uzbrojenia lub sprzętu wojskowego - rozumie się przez to prace związane z uruchomieniem produkcji nowych wyrobów lub modernizacji uzbrojenia lub sprzętu wojskowego będącego na wyposażeniu wojsk, zastosowaniem nowych metod wytwarzania lub usług materialnych, w tym: sporządzenie dokumentacji technicznej, wykonanie oprzyrządowania i instalacji produkcyjnej, wykonanie niezbędnych robót budowlano-montażowych, wykonanie serii informacyjnej nowego wyrobu oraz zakup i montaż maszyn lub urządzeń związanych z wdrożeniem;"
+    },
+    {
+      "provision_ref": "art4p10",
+      "section": "4",
+      "title": "Art. 4 pkt 10",
+      "content": "Ilekroć w ustawie jest mowa o: wspieraniu restrukturyzacji zatrudnienia - rozumie się przez to przeznaczanie środków na odprawy pieniężne przysługujące na podstawie ustawy z dnia 13 marca 2003 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników lub jednorazowe odprawy pieniężne w związku z przejściem na emeryturę lub rentę inwalidzką;"
+    },
+    {
+      "provision_ref": "art4p11",
+      "section": "4",
+      "title": "Art. 4 pkt 11",
+      "content": "Ilekroć w ustawie jest mowa o: pozyskiwaniu majątku niezbędnego do zapewnienia produkcji uzbrojenia lub sprzętu wojskowego - rozumie się przez to zakup lub przyjęcie do odpłatnego korzystania zorganizowanych części przedsiębiorstw w rozumieniu art. 55 1 Kodeksu cywilnego lub maszyn, urządzeń, nieruchomości niezbędnych do prowadzenia produkcji lub modernizacji uzbrojenia lub sprzętu wojskowego."
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Art. 5",
-      "content": "Wspieranie restrukturyzacji przemysłowego potencjału obronnego polega w szczególności na: przeznaczaniu części przychodów z prywatyzacji spółek przemysłowego potencjału obronnego na: konwersję lub koncentrację produkcji w ramach programów naprawczych lub restrukturyzacyjnych, działalność badawczo-rozwojową na potrzeby przemysłowego potencjału obronnego, promocję eksportu wytworzonego w Polsce uzbrojenia lub sprzętu wojskowego, wyprodukowanych w spółkach przemysłowego potencjału obronnego lub spółkach zależnych, finansowanie, za pośrednictwem Banku Gospodarstwa Krajowego, dopłat w wysokości nieprzekraczającej 50% kwot stanowiących oprocentowanie kredytów inwestycyjnych udzielonych spółkom przemysłowego potencjału obronnego, restrukturyzacji finansowej zobowiązań spółek przemysłowego potencjału obronnego po przeprowadzeniu postępowania, o którym mowa w art. 10-15, przeznaczaniu, w okresie do 31 grudnia 2002 r., dotacji określonej w rozporządzeniu wydanym na podstawie art. 222 ust. 1 oraz art. 223 ust. 1 i 2 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej , wypłacanej przedsiębiorcom na dostosowanie mocy produkcyjnych i remontowych w spółkach przemysłowego potencjału obronnego i spółkach zależnych do zadań określonych w Centralnym Programie Mobilizacji Gospodarki, przeznaczaniu środków z Funduszu Gwarantowanych Świadczeń Pracowniczych, w trybie i na zasadach określonych w art. 3 ust. 3 i w art. 6b ustawy z dnia 29 grudnia 1993 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy , na odprawy pieniężne przysługujące na podstawie ustawy z dnia 28 grudnia 1989 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn dotyczących zakładu pracy oraz o zmianie niektórych ustaw z tytułu zwolnień grupowych, należne pracownikom, którym przysługuje zasiłek albo świadczenie przedemerytalne."
+      "content": "Wspieranie restrukturyzacji podmiotów, o których mowa w art. 2 ust. 1, polega na: przeznaczaniu części przychodów z prywatyzacji spółek przemysłowego potencjału obronnego na: konwersję lub koncentrację produkcji w ramach programów naprawczych lub restrukturyzacyjnych, działalność badawczo-rozwojową, promocję eksportu wytworzonego w Rzeczypospolitej Polskiej uzbrojenia lub sprzętu wojskowego, finansowanie, za pośrednictwem Banku Gospodarstwa Krajowego, dopłat w wysokości nieprzekraczającej 50% kwot stanowiących oprocentowanie udzielonych kredytów inwestycyjnych lub oprocentowanie udzielonych kredytów pomostowych na uruchomienie programów restrukturyzacyjnych przewidzianych przepisami niniejszej ustawy oraz ustawy z dnia 30 sierpnia 2002 r. o restrukturyzacji niektórych należności publicznoprawnych od przedsiębiorców , wspieranie restrukturyzacji zatrudnienia, wdrażanie do produkcji nowoczesnego uzbrojenia lub sprzętu wojskowego, pozyskiwanie majątku niezbędnego do zapewnienia produkcji uzbrojenia lub sprzętu wojskowego; restrukturyzacji finansowej zobowiązań po przeprowadzeniu postępowania, o którym mowa w art. 10-15; przeznaczaniu, w okresie do dnia 31 grudnia 2005 r., dotacji określonej w rozporządzeniu wydanym na podstawie art. 222 ust. 1 oraz art. 223 ust. 2 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej , wypłaconej przedsiębiorcom na dostosowanie mocy produkcyjnych i remontowych do zadań określonych w programie mobilizacji gospodarki, w tym na realizację zadań, o których mowa w pkt 1 lit. a."
     },
     {
       "provision_ref": "art5p1la",
       "section": "5",
       "title": "Art. 5 pkt 1 lit. a",
-      "content": "Wspieranie restrukturyzacji przemysłowego potencjału obronnego polega w szczególności na: przeznaczaniu części przychodów z prywatyzacji spółek przemysłowego potencjału obronnego na: konwersję lub koncentrację produkcji w ramach programów naprawczych lub restrukturyzacyjnych,"
+      "content": "Wspieranie restrukturyzacji podmiotów, o których mowa w art. 2 ust. 1, polega na: przeznaczaniu części przychodów z prywatyzacji spółek przemysłowego potencjału obronnego na: konwersję lub koncentrację produkcji w ramach programów naprawczych lub restrukturyzacyjnych,"
     },
     {
       "provision_ref": "art5p1lb",
       "section": "5",
       "title": "Art. 5 pkt 1 lit. b",
-      "content": "Wspieranie restrukturyzacji przemysłowego potencjału obronnego polega w szczególności na: przeznaczaniu części przychodów z prywatyzacji spółek przemysłowego potencjału obronnego na: działalność badawczo-rozwojową na potrzeby przemysłowego potencjału obronnego,"
+      "content": "Wspieranie restrukturyzacji podmiotów, o których mowa w art. 2 ust. 1, polega na: przeznaczaniu części przychodów z prywatyzacji spółek przemysłowego potencjału obronnego na: działalność badawczo-rozwojową,"
     },
     {
       "provision_ref": "art5p1lc",
       "section": "5",
       "title": "Art. 5 pkt 1 lit. c",
-      "content": "Wspieranie restrukturyzacji przemysłowego potencjału obronnego polega w szczególności na: przeznaczaniu części przychodów z prywatyzacji spółek przemysłowego potencjału obronnego na: promocję eksportu wytworzonego w Polsce uzbrojenia lub sprzętu wojskowego, wyprodukowanych w spółkach przemysłowego potencjału obronnego lub spółkach zależnych,"
+      "content": "Wspieranie restrukturyzacji podmiotów, o których mowa w art. 2 ust. 1, polega na: przeznaczaniu części przychodów z prywatyzacji spółek przemysłowego potencjału obronnego na: promocję eksportu wytworzonego w Rzeczypospolitej Polskiej uzbrojenia lub sprzętu wojskowego,"
     },
     {
       "provision_ref": "art5p1ld",
       "section": "5",
       "title": "Art. 5 pkt 1 lit. d",
-      "content": "Wspieranie restrukturyzacji przemysłowego potencjału obronnego polega w szczególności na: przeznaczaniu części przychodów z prywatyzacji spółek przemysłowego potencjału obronnego na: finansowanie, za pośrednictwem Banku Gospodarstwa Krajowego, dopłat w wysokości nieprzekraczającej 50% kwot stanowiących oprocentowanie kredytów inwestycyjnych udzielonych spółkom przemysłowego potencjału obronnego,"
+      "content": "Wspieranie restrukturyzacji podmiotów, o których mowa w art. 2 ust. 1, polega na: przeznaczaniu części przychodów z prywatyzacji spółek przemysłowego potencjału obronnego na: finansowanie, za pośrednictwem Banku Gospodarstwa Krajowego, dopłat w wysokości nieprzekraczającej 50% kwot stanowiących oprocentowanie udzielonych kredytów inwestycyjnych lub oprocentowanie udzielonych kredytów pomostowych na uruchomienie programów restrukturyzacyjnych przewidzianych przepisami niniejszej ustawy oraz ustawy z dnia 30 sierpnia 2002 r. o restrukturyzacji niektórych należności publicznoprawnych od przedsiębiorców ,"
+    },
+    {
+      "provision_ref": "art5p1le",
+      "section": "5",
+      "title": "Art. 5 pkt 1 lit. e",
+      "content": "Wspieranie restrukturyzacji podmiotów, o których mowa w art. 2 ust. 1, polega na: przeznaczaniu części przychodów z prywatyzacji spółek przemysłowego potencjału obronnego na: wspieranie restrukturyzacji zatrudnienia,"
+    },
+    {
+      "provision_ref": "art5p1lf",
+      "section": "5",
+      "title": "Art. 5 pkt 1 lit. f",
+      "content": "Wspieranie restrukturyzacji podmiotów, o których mowa w art. 2 ust. 1, polega na: przeznaczaniu części przychodów z prywatyzacji spółek przemysłowego potencjału obronnego na: wdrażanie do produkcji nowoczesnego uzbrojenia lub sprzętu wojskowego,"
+    },
+    {
+      "provision_ref": "art5p1lg",
+      "section": "5",
+      "title": "Art. 5 pkt 1 lit. g",
+      "content": "Wspieranie restrukturyzacji podmiotów, o których mowa w art. 2 ust. 1, polega na: przeznaczaniu części przychodów z prywatyzacji spółek przemysłowego potencjału obronnego na: pozyskiwanie majątku niezbędnego do zapewnienia produkcji uzbrojenia lub sprzętu wojskowego;"
     },
     {
       "provision_ref": "art5p2",
       "section": "5",
       "title": "Art. 5 pkt 2",
-      "content": "Wspieranie restrukturyzacji przemysłowego potencjału obronnego polega w szczególności na: restrukturyzacji finansowej zobowiązań spółek przemysłowego potencjału obronnego po przeprowadzeniu postępowania, o którym mowa w art. 10-15,"
+      "content": "Wspieranie restrukturyzacji podmiotów, o których mowa w art. 2 ust. 1, polega na: restrukturyzacji finansowej zobowiązań po przeprowadzeniu postępowania, o którym mowa w art. 10-15;"
     },
     {
       "provision_ref": "art5p3",
       "section": "5",
       "title": "Art. 5 pkt 3",
-      "content": "Wspieranie restrukturyzacji przemysłowego potencjału obronnego polega w szczególności na: przeznaczaniu, w okresie do 31 grudnia 2002 r., dotacji określonej w rozporządzeniu wydanym na podstawie art. 222 ust. 1 oraz art. 223 ust. 1 i 2 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej , wypłacanej przedsiębiorcom na dostosowanie mocy produkcyjnych i remontowych w spółkach przemysłowego potencjału obronnego i spółkach zależnych do zadań określonych w Centralnym Programie Mobilizacji Gospodarki,"
+      "content": "Wspieranie restrukturyzacji podmiotów, o których mowa w art. 2 ust. 1, polega na: przeznaczaniu, w okresie do dnia 31 grudnia 2005 r., dotacji określonej w rozporządzeniu wydanym na podstawie art. 222 ust. 1 oraz art. 223 ust. 2 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej , wypłaconej przedsiębiorcom na dostosowanie mocy produkcyjnych i remontowych do zadań określonych w programie mobilizacji gospodarki, w tym na realizację zadań, o których mowa w pkt 1 lit. a."
     },
     {
-      "provision_ref": "art5p4",
-      "section": "5",
-      "title": "Art. 5 pkt 4",
-      "content": "Wspieranie restrukturyzacji przemysłowego potencjału obronnego polega w szczególności na: przeznaczaniu środków z Funduszu Gwarantowanych Świadczeń Pracowniczych, w trybie i na zasadach określonych w art. 3 ust. 3 i w art. 6b ustawy z dnia 29 grudnia 1993 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy , na odprawy pieniężne przysługujące na podstawie ustawy z dnia 28 grudnia 1989 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn dotyczących zakładu pracy oraz o zmianie niektórych ustaw z tytułu zwolnień grupowych, należne pracownikom, którym przysługuje zasiłek albo świadczenie przedemerytalne."
+      "provision_ref": "art5a",
+      "section": "5a",
+      "title": "Art. 5a",
+      "content": "Wspieranie restrukturyzacji przemysłowego potencjału obronnego polega również na przeznaczeniu części przychodów z prywatyzacji spółek przemysłowego potencjału obronnego na: dokapitalizowanie Przedsiębiorstwa Handlu Zagranicznego BUMAR Sp. z o.o. lub Agencji Rozwoju Przemysłu S.A. w celu wykupienia, po cenie nie wyższej niż ich wartość nominalna, od Funduszu Gwarantowanych Świadczeń Pracowniczych, w terminie do dnia 30 czerwca 2003 r., udziałów i akcji spółek przemysłowego potencjału obronnego; zapłatę podatku od czynności cywilnoprawnych, o których mowa w art. 1 ust. 1 pkt 1 lit. k i pkt 2 ustawy z dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych , o ile czynności te wynikają z przyjętych kierunków przekształceń strukturalnych przemysłowego potencjału obronnego; pokrycie kosztów, o których mowa w art. 7 ust. 5 ustawy z dnia 10 września 1999 r. o niektórych umowach kompensacyjnych zawieranych w związku z umowami dostaw na potrzeby obronności i bezpieczeństwa państwa 1) Ustawa utraciła moc z dniem 30 lipca 2014 r. na podstawie art. 37 ustawy z dnia 26 czerwca 2014 r. o niektórych umowach zawieranych w związku z realizacją zamówień o podstawowym znaczeniu dla bezpieczeństwa państwa (Dz. U. poz. 932), która weszła w życie z dniem 30 lipca 2014 r. ; pokrycie kosztów przygotowania programów restrukturyzacyjnych, o których mowa w art. 5b ust. 3, w stosunku do których minister właściwy do spraw gospodarki wydał pozytywną decyzję, o której mowa w art. 5b ust. 4."
+    },
+    {
+      "provision_ref": "art5ap1",
+      "section": "5a",
+      "title": "Art. 5a pkt 1",
+      "content": "Wspieranie restrukturyzacji przemysłowego potencjału obronnego polega również na przeznaczeniu części przychodów z prywatyzacji spółek przemysłowego potencjału obronnego na: dokapitalizowanie Przedsiębiorstwa Handlu Zagranicznego BUMAR Sp. z o.o. lub Agencji Rozwoju Przemysłu S.A. w celu wykupienia, po cenie nie wyższej niż ich wartość nominalna, od Funduszu Gwarantowanych Świadczeń Pracowniczych, w terminie do dnia 30 czerwca 2003 r., udziałów i akcji spółek przemysłowego potencjału obronnego;"
+    },
+    {
+      "provision_ref": "art5ap2",
+      "section": "5a",
+      "title": "Art. 5a pkt 2",
+      "content": "Wspieranie restrukturyzacji przemysłowego potencjału obronnego polega również na przeznaczeniu części przychodów z prywatyzacji spółek przemysłowego potencjału obronnego na: zapłatę podatku od czynności cywilnoprawnych, o których mowa w art. 1 ust. 1 pkt 1 lit. k i pkt 2 ustawy z dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych , o ile czynności te wynikają z przyjętych kierunków przekształceń strukturalnych przemysłowego potencjału obronnego;"
+    },
+    {
+      "provision_ref": "art5ap3",
+      "section": "5a",
+      "title": "Art. 5a pkt 3",
+      "content": "Wspieranie restrukturyzacji przemysłowego potencjału obronnego polega również na przeznaczeniu części przychodów z prywatyzacji spółek przemysłowego potencjału obronnego na: pokrycie kosztów, o których mowa w art. 7 ust. 5 ustawy z dnia 10 września 1999 r. o niektórych umowach kompensacyjnych zawieranych w związku z umowami dostaw na potrzeby obronności i bezpieczeństwa państwa 1) Ustawa utraciła moc z dniem 30 lipca 2014 r. na podstawie art. 37 ustawy z dnia 26 czerwca 2014 r. o niektórych umowach zawieranych w związku z realizacją zamówień o podstawowym znaczeniu dla bezpieczeństwa państwa (Dz. U. poz. 932), która weszła w życie z dniem 30 lipca 2014 r. ;"
+    },
+    {
+      "provision_ref": "art5ap4",
+      "section": "5a",
+      "title": "Art. 5a pkt 4",
+      "content": "Wspieranie restrukturyzacji przemysłowego potencjału obronnego polega również na przeznaczeniu części przychodów z prywatyzacji spółek przemysłowego potencjału obronnego na: pokrycie kosztów przygotowania programów restrukturyzacyjnych, o których mowa w art. 5b ust. 3, w stosunku do których minister właściwy do spraw gospodarki wydał pozytywną decyzję, o której mowa w art. 5b ust. 4."
+    },
+    {
+      "provision_ref": "art5b",
+      "section": "5b",
+      "title": "Art. 5b",
+      "content": "Część przychodów z prywatyzacji spółek przemysłowego potencjału obronnego przeznacza się na wsparcie finansowe działań, o których mowa w art. 5 pkt 1 oraz art. 5a. Wsparcie jest udzielane na wniosek podmiotów, o których mowa w art. 2 ust. 1, złożony ministrowi właściwemu do spraw gospodarki, z zastrzeżeniem ust. 10. W przypadku gdy wsparcie dotyczy czynności określonych w art. 5 pkt 1 lit. a oraz lit. e-g, do wniosku dołącza się program restrukturyzacyjny, którego realizacja ma zapewnić trwałą poprawę wyniku finansowego netto podmiotu, o którym mowa w art. 2 ust. 1. Podstawą udzielenia wsparcia jest decyzja ministra właściwego do spraw gospodarki, z zastrzeżeniem ust. 10. Warunki udzielenia wsparcia, o którym mowa w ust. 3, określa umowa zawarta z ministrem właściwym do spraw gospodarki, z zastrzeżeniem ust. 10. Program restrukturyzacyjny powinien zawierać w szczególności: analizę i ocenę stanu ekonomiczno-finansowego podmiotu, ze wskazaniem możliwości dalszego jego rozwoju; określenie sposobów działania, które zapewnią podmiotowi osiągnięcie trwałej poprawy wyniku finansowego, wraz ze wskazaniem źródeł finansowania przedsięwzięć restrukturyzacyjnych; opis zadań wykonywanych przez podmiot w ramach programu restrukturyzacyjnego wraz z harmonogramem ich realizacji; prognozę efektów ekonomiczno-finansowych programu restrukturyzacyjnego podmiotu. W umowie, o której mowa w ust. 5, określa się w szczególności: przedmiot umowy; okres obowiązywania umowy; wysokość przyznanych środków; warunki cofnięcia lub czasowego wstrzymania wypłaty przyznanych środków; tryb i sposób rozliczania przyznanych środków. Wysokość środków finansowych przeznaczonych na wsparcie działań, o których mowa w art. 5 pkt 1 lit. a-c oraz lit. e-g, ustala się na podstawie wniosku i programu restrukturyzacyjnego. Środki finansowe przeznaczone na wsparcie wypłaca się zaliczkowo i w ratach. W przypadku wykorzystania środków finansowych niezgodnie z przeznaczeniem, wstrzymuje się przekazywanie dalszych rat zaliczki, do czasu rozliczenia się wnioskodawcy z otrzymanych rat. Środki wykorzystane niezgodnie z przeznaczeniem podlegają zwrotowi do budżetu państwa. Rozliczenie przyznanych środków następuje w terminie do 30 dni od dnia zakończenia realizacji programu restrukturyzacyjnego. W odniesieniu do przedsiębiorstw państwowych oraz spółek powstałych w wyniku ich komercjalizacji, o których mowa w art. 2 ust. 1 pkt 2, uprawnienia ministra właściwego do spraw gospodarki, o których mowa w ust. 2, 4 i 5, wykonuje Minister Obrony Narodowej. Minister właściwy do spraw gospodarki, w porozumieniu z Ministrem Obrony Narodowej, ministrem właściwym do spraw pracy oraz ministrem właściwym do spraw finansów publicznych, w drodze rozporządzenia, określi szczegółowe warunki, tryb przyznawania, ustalania wysokości oraz rozliczania środków przeznaczonych na wspieranie działań, o których mowa w art. 5 pkt 1 lit. a-c oraz lit. e-g, a także wzór wniosku o udzielenie wsparcia, mając na uwadze zapewnienie racjonalności i terminowości wykorzystania środków finansowych przeznaczonych na wsparcie."
+    },
+    {
+      "provision_ref": "art5bu1",
+      "section": "5b",
+      "title": "Art. 5b ust. 1",
+      "content": "Część przychodów z prywatyzacji spółek przemysłowego potencjału obronnego przeznacza się na wsparcie finansowe działań, o których mowa w art. 5 pkt 1 oraz art. 5a."
+    },
+    {
+      "provision_ref": "art5bu2",
+      "section": "5b",
+      "title": "Art. 5b ust. 2",
+      "content": "Wsparcie jest udzielane na wniosek podmiotów, o których mowa w art. 2 ust. 1, złożony ministrowi właściwemu do spraw gospodarki, z zastrzeżeniem ust. 10."
+    },
+    {
+      "provision_ref": "art5bu3",
+      "section": "5b",
+      "title": "Art. 5b ust. 3",
+      "content": "W przypadku gdy wsparcie dotyczy czynności określonych w art. 5 pkt 1 lit. a oraz lit. e-g, do wniosku dołącza się program restrukturyzacyjny, którego realizacja ma zapewnić trwałą poprawę wyniku finansowego netto podmiotu, o którym mowa w art. 2 ust. 1."
+    },
+    {
+      "provision_ref": "art5bu4",
+      "section": "5b",
+      "title": "Art. 5b ust. 4",
+      "content": "Podstawą udzielenia wsparcia jest decyzja ministra właściwego do spraw gospodarki, z zastrzeżeniem ust. 10."
+    },
+    {
+      "provision_ref": "art5bu5",
+      "section": "5b",
+      "title": "Art. 5b ust. 5",
+      "content": "Warunki udzielenia wsparcia, o którym mowa w ust. 3, określa umowa zawarta z ministrem właściwym do spraw gospodarki, z zastrzeżeniem ust. 10."
+    },
+    {
+      "provision_ref": "art5bu6p1",
+      "section": "5b",
+      "title": "Art. 5b ust. 6 pkt 1",
+      "content": "Program restrukturyzacyjny powinien zawierać w szczególności: analizę i ocenę stanu ekonomiczno-finansowego podmiotu, ze wskazaniem możliwości dalszego jego rozwoju;"
+    },
+    {
+      "provision_ref": "art5bu6p2",
+      "section": "5b",
+      "title": "Art. 5b ust. 6 pkt 2",
+      "content": "Program restrukturyzacyjny powinien zawierać w szczególności: określenie sposobów działania, które zapewnią podmiotowi osiągnięcie trwałej poprawy wyniku finansowego, wraz ze wskazaniem źródeł finansowania przedsięwzięć restrukturyzacyjnych;"
+    },
+    {
+      "provision_ref": "art5bu6p3",
+      "section": "5b",
+      "title": "Art. 5b ust. 6 pkt 3",
+      "content": "Program restrukturyzacyjny powinien zawierać w szczególności: opis zadań wykonywanych przez podmiot w ramach programu restrukturyzacyjnego wraz z harmonogramem ich realizacji;"
+    },
+    {
+      "provision_ref": "art5bu6p4",
+      "section": "5b",
+      "title": "Art. 5b ust. 6 pkt 4",
+      "content": "Program restrukturyzacyjny powinien zawierać w szczególności: prognozę efektów ekonomiczno-finansowych programu restrukturyzacyjnego podmiotu."
+    },
+    {
+      "provision_ref": "art5bu7p1",
+      "section": "5b",
+      "title": "Art. 5b ust. 7 pkt 1",
+      "content": "W umowie, o której mowa w ust. 5, określa się w szczególności: przedmiot umowy;"
+    },
+    {
+      "provision_ref": "art5bu7p2",
+      "section": "5b",
+      "title": "Art. 5b ust. 7 pkt 2",
+      "content": "W umowie, o której mowa w ust. 5, określa się w szczególności: okres obowiązywania umowy;"
+    },
+    {
+      "provision_ref": "art5bu7p3",
+      "section": "5b",
+      "title": "Art. 5b ust. 7 pkt 3",
+      "content": "W umowie, o której mowa w ust. 5, określa się w szczególności: wysokość przyznanych środków;"
+    },
+    {
+      "provision_ref": "art5bu7p4",
+      "section": "5b",
+      "title": "Art. 5b ust. 7 pkt 4",
+      "content": "W umowie, o której mowa w ust. 5, określa się w szczególności: warunki cofnięcia lub czasowego wstrzymania wypłaty przyznanych środków;"
+    },
+    {
+      "provision_ref": "art5bu7p5",
+      "section": "5b",
+      "title": "Art. 5b ust. 7 pkt 5",
+      "content": "W umowie, o której mowa w ust. 5, określa się w szczególności: tryb i sposób rozliczania przyznanych środków."
+    },
+    {
+      "provision_ref": "art5bu8",
+      "section": "5b",
+      "title": "Art. 5b ust. 8",
+      "content": "Wysokość środków finansowych przeznaczonych na wsparcie działań, o których mowa w art. 5 pkt 1 lit. a-c oraz lit. e-g, ustala się na podstawie wniosku i programu restrukturyzacyjnego."
+    },
+    {
+      "provision_ref": "art5bu9",
+      "section": "5b",
+      "title": "Art. 5b ust. 9",
+      "content": "Środki finansowe przeznaczone na wsparcie wypłaca się zaliczkowo i w ratach."
+    },
+    {
+      "provision_ref": "art5bu10",
+      "section": "5b",
+      "title": "Art. 5b ust. 10",
+      "content": "W przypadku wykorzystania środków finansowych niezgodnie z przeznaczeniem, wstrzymuje się przekazywanie dalszych rat zaliczki, do czasu rozliczenia się wnioskodawcy z otrzymanych rat."
+    },
+    {
+      "provision_ref": "art5bu11",
+      "section": "5b",
+      "title": "Art. 5b ust. 11",
+      "content": "Środki wykorzystane niezgodnie z przeznaczeniem podlegają zwrotowi do budżetu państwa."
+    },
+    {
+      "provision_ref": "art5bu12",
+      "section": "5b",
+      "title": "Art. 5b ust. 12",
+      "content": "Rozliczenie przyznanych środków następuje w terminie do 30 dni od dnia zakończenia realizacji programu restrukturyzacyjnego."
+    },
+    {
+      "provision_ref": "art5bu13",
+      "section": "5b",
+      "title": "Art. 5b ust. 13",
+      "content": "W odniesieniu do przedsiębiorstw państwowych oraz spółek powstałych w wyniku ich komercjalizacji, o których mowa w art. 2 ust. 1 pkt 2, uprawnienia ministra właściwego do spraw gospodarki, o których mowa w ust. 2, 4 i 5, wykonuje Minister Obrony Narodowej."
+    },
+    {
+      "provision_ref": "art5bu14",
+      "section": "5b",
+      "title": "Art. 5b ust. 14",
+      "content": "Minister właściwy do spraw gospodarki, w porozumieniu z Ministrem Obrony Narodowej, ministrem właściwym do spraw pracy oraz ministrem właściwym do spraw finansów publicznych, w drodze rozporządzenia, określi szczegółowe warunki, tryb przyznawania, ustalania wysokości oraz rozliczania środków przeznaczonych na wspieranie działań, o których mowa w art. 5 pkt 1 lit. a-c oraz lit. e-g, a także wzór wniosku o udzielenie wsparcia, mając na uwadze zapewnienie racjonalności i terminowości wykorzystania środków finansowych przeznaczonych na wsparcie."
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Art. 6",
-      "content": "Minister właściwy do spraw finansów publicznych, w porozumieniu z ministrem właściwym do spraw gospodarki, określi, w drodze rozporządzenia: wysokość dopłat, o których mowa w art. 5 pkt 1 lit. d), szczegółowe zasady i tryb ich udzielania, wysokość należnej prowizji Banku Gospodarstwa Krajowego za czynności związane z obsługą bankową dopłat."
+      "content": "Minister właściwy do spraw finansów publicznych, w porozumieniu z ministrem właściwym do spraw gospodarki, określi, w drodze rozporządzenia: wysokość dopłat, o których mowa w art. 5 pkt 1 lit. d, szczegółowe zasady i tryb ich udzielania; wysokość należnej prowizji Banku Gospodarstwa Krajowego za czynności związane z obsługą bankową dopłat."
     },
     {
       "provision_ref": "art6p1",
       "section": "6",
       "title": "Art. 6 pkt 1",
-      "content": "Minister właściwy do spraw finansów publicznych, w porozumieniu z ministrem właściwym do spraw gospodarki, określi, w drodze rozporządzenia: wysokość dopłat, o których mowa w art. 5 pkt 1 lit. d), szczegółowe zasady i tryb ich udzielania,"
+      "content": "Minister właściwy do spraw finansów publicznych, w porozumieniu z ministrem właściwym do spraw gospodarki, określi, w drodze rozporządzenia: wysokość dopłat, o których mowa w art. 5 pkt 1 lit. d, szczegółowe zasady i tryb ich udzielania;"
     },
     {
       "provision_ref": "art6p2",
@@ -187,127 +451,109 @@
       "provision_ref": "art7",
       "section": "7",
       "title": "Art. 7",
-      "content": "Wspieranie procesu modernizacji technicznej Sił Zbrojnych Rzeczypospolitej Polskiej polega na przeznaczaniu pozostałej części przychodów z prywatyzacji spółek przemysłowego potencjału obronnego na zakupy nowoczesnego uzbrojenia lub sprzętu wojskowego produkowanego w spółkach przemysłowego potencjału obronnego."
+      "content": "Wspieranie procesu modernizacji technicznej Sił Zbrojnych Rzeczypospolitej Polskiej polega na przeznaczaniu pozostałej części przychodów z prywatyzacji spółek przemysłowego potencjału obronnego na: zakupy nowoczesnego uzbrojenia lub sprzętu wojskowego produkowanego w spółkach przemysłowego potencjału obronnego; unowocześnienie zaplecza remontowego Sił Zbrojnych Rzeczypospolitej Polskiej przez restrukturyzację podmiotów, o których mowa w art. 2 ust. 1 pkt 2."
+    },
+    {
+      "provision_ref": "art7p1",
+      "section": "7",
+      "title": "Art. 7 pkt 1",
+      "content": "Wspieranie procesu modernizacji technicznej Sił Zbrojnych Rzeczypospolitej Polskiej polega na przeznaczaniu pozostałej części przychodów z prywatyzacji spółek przemysłowego potencjału obronnego na: zakupy nowoczesnego uzbrojenia lub sprzętu wojskowego produkowanego w spółkach przemysłowego potencjału obronnego;"
+    },
+    {
+      "provision_ref": "art7p2",
+      "section": "7",
+      "title": "Art. 7 pkt 2",
+      "content": "Wspieranie procesu modernizacji technicznej Sił Zbrojnych Rzeczypospolitej Polskiej polega na przeznaczaniu pozostałej części przychodów z prywatyzacji spółek przemysłowego potencjału obronnego na: unowocześnienie zaplecza remontowego Sił Zbrojnych Rzeczypospolitej Polskiej przez restrukturyzację podmiotów, o których mowa w art. 2 ust. 1 pkt 2."
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Art. 8",
-      "content": "Ustawa budżetowa corocznie określa przewidywaną kwotę przychodów z prywatyzacji spółek przemysłowego potencjału obronnego z przeznaczeniem na działania, o których mowa w art. 5 i 7. Przychody z prywatyzacji, o której mowa w ust. 1, w pierwszej kolejności przeznaczone są na wsparcie restrukturyzacji przemysłowego potencjału obronnego. Dotyczy to również przychodów z prywatyzacji przekraczających kwoty przewidziane w ustawie budżetowej."
+      "content": "Ustawa budżetowa corocznie określa przewidywaną kwotę przychodów uzyskiwanych w zamian za zbycie akcji lub udziałów spółek przemysłowego potencjału obronnego z przeznaczeniem na działania, o których mowa w art. 5, art. 5a i art. 7. Przychody, o których mowa w ust. 1, w pierwszej kolejności przeznaczone są na wsparcie restrukturyzacji przemysłowego potencjału obronnego. Dotyczy to również przychodów ze zbycia akcji lub udziałów spółek przemysłowego potencjału obronnego, przekraczających kwoty przewidziane w ustawie budżetowej."
     },
     {
       "provision_ref": "art8u1",
       "section": "8",
       "title": "Art. 8 ust. 1",
-      "content": "Ustawa budżetowa corocznie określa przewidywaną kwotę przychodów z prywatyzacji spółek przemysłowego potencjału obronnego z przeznaczeniem na działania, o których mowa w art. 5 i 7."
+      "content": "Ustawa budżetowa corocznie określa przewidywaną kwotę przychodów uzyskiwanych w zamian za zbycie akcji lub udziałów spółek przemysłowego potencjału obronnego z przeznaczeniem na działania, o których mowa w art. 5, art. 5a i art. 7."
     },
     {
       "provision_ref": "art8u2",
       "section": "8",
       "title": "Art. 8 ust. 2",
-      "content": "Przychody z prywatyzacji, o której mowa w ust. 1, w pierwszej kolejności przeznaczone są na wsparcie restrukturyzacji przemysłowego potencjału obronnego. Dotyczy to również przychodów z prywatyzacji przekraczających kwoty przewidziane w ustawie budżetowej."
+      "content": "Przychody, o których mowa w ust. 1, w pierwszej kolejności przeznaczone są na wsparcie restrukturyzacji przemysłowego potencjału obronnego. Dotyczy to również przychodów ze zbycia akcji lub udziałów spółek przemysłowego potencjału obronnego, przekraczających kwoty przewidziane w ustawie budżetowej."
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Art. 9",
-      "content": "Od dnia wejścia w życie ustawy, w odniesieniu do spółek przemysłowego potencjału obronnego wyszczególnionych w wykazie stanowiącym załącznik nr 1 do rozporządzenia Rady Ministrów, o którym mowa w art. 2 ust. 2, kompetencje ministra właściwego do spraw Skarbu Państwa, określone w art. 2 pkt 5 oraz art. 18 ust. 1 ustawy z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa , zwanej dalej „ustawą o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa”, wykonuje minister właściwy do spraw gospodarki. Od dnia wejścia w życie ustawy, w odniesieniu do spółek powstałych w wyniku komercjalizacji przedsiębiorstw państwowych, a wyszczególnionych w wykazie stanowiącym załącznik nr 2 do rozporządzenia Rady Ministrów, o którym mowa w art. 2 ust. 2, kompetencje ministra właściwego do spraw Skarbu Państwa, określone w art. 2 pkt 5 oraz art. 18 ust. 1 ustawy o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa, wykonuje Minister Obrony Narodowej w uzgodnieniu z ministrem właściwym do spraw gospodarki. Prywatyzacji spółek przemysłowego potencjału obronnego dokonuje minister właściwy do spraw Skarbu Państwa po zasięgnięciu opinii ministra właściwego do spraw gospodarki. Przepisy ust. 1 stosuje się odpowiednio do spółek realizujących obrót specjalny w rozumieniu odrębnych przepisów. Rada Ministrów określi, w drodze rozporządzenia, wykaz spółek, o których mowa w ust. 4. Do spółek powstałych w wyniku komercjalizacji przedsiębiorstw państwowych, o których mowa w art. 2 ust. 1 pkt 2, stosuje się odpowiednio przepisy ust. 1 i 2."
-    },
-    {
-      "provision_ref": "art9u1",
-      "section": "9",
-      "title": "Art. 9 ust. 1",
-      "content": "Od dnia wejścia w życie ustawy, w odniesieniu do spółek przemysłowego potencjału obronnego wyszczególnionych w wykazie stanowiącym załącznik nr 1 do rozporządzenia Rady Ministrów, o którym mowa w art. 2 ust. 2, kompetencje ministra właściwego do spraw Skarbu Państwa, określone w art. 2 pkt 5 oraz art. 18 ust. 1 ustawy z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa , zwanej dalej „ustawą o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa”, wykonuje minister właściwy do spraw gospodarki."
-    },
-    {
-      "provision_ref": "art9u2",
-      "section": "9",
-      "title": "Art. 9 ust. 2",
-      "content": "Od dnia wejścia w życie ustawy, w odniesieniu do spółek powstałych w wyniku komercjalizacji przedsiębiorstw państwowych, a wyszczególnionych w wykazie stanowiącym załącznik nr 2 do rozporządzenia Rady Ministrów, o którym mowa w art. 2 ust. 2, kompetencje ministra właściwego do spraw Skarbu Państwa, określone w art. 2 pkt 5 oraz art. 18 ust. 1 ustawy o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa, wykonuje Minister Obrony Narodowej w uzgodnieniu z ministrem właściwym do spraw gospodarki."
-    },
-    {
-      "provision_ref": "art9u3",
-      "section": "9",
-      "title": "Art. 9 ust. 3",
-      "content": "Prywatyzacji spółek przemysłowego potencjału obronnego dokonuje minister właściwy do spraw Skarbu Państwa po zasięgnięciu opinii ministra właściwego do spraw gospodarki."
-    },
-    {
-      "provision_ref": "art9u4",
-      "section": "9",
-      "title": "Art. 9 ust. 4",
-      "content": "Przepisy ust. 1 stosuje się odpowiednio do spółek realizujących obrót specjalny w rozumieniu odrębnych przepisów."
-    },
-    {
-      "provision_ref": "art9u5",
-      "section": "9",
-      "title": "Art. 9 ust. 5",
-      "content": "Rada Ministrów określi, w drodze rozporządzenia, wykaz spółek, o których mowa w ust. 4."
-    },
-    {
-      "provision_ref": "art9u6",
-      "section": "9",
-      "title": "Art. 9 ust. 6",
-      "content": "Do spółek powstałych w wyniku komercjalizacji przedsiębiorstw państwowych, o których mowa w art. 2 ust. 1 pkt 2, stosuje się odpowiednio przepisy ust. 1 i 2."
+      "content": "(uchylony)"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Art. 10",
-      "content": "Restrukturyzacji finansowej, na zasadach określonych w ustawie, podlegają zobowiązania według stanu na dzień 30 czerwca 1999 r. wobec: budżetu państwa - z wyłączeniem zobowiązań dotyczących kwot głównych należnych z tytułu podatku dochodowego od osób fizycznych, Funduszu Ubezpieczeń Społecznych, Funduszu Pracy i Funduszu Gwarantowanych Świadczeń Pracowniczych - z tytułu należnych składek oraz odsetek za zwłokę, Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych - z tytułu należnych wpłat wraz z odsetkami za zwłokę, Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej - z tytułu należnych opłat i kar. Restrukturyzacja, o której mowa w ust. 1, polega w szczególności na: umorzeniu zobowiązań, odroczeniu terminu spłaty zobowiązań na czas określony, rozłożeniu spłaty zobowiązań na raty, zaniechaniu naliczania odsetek z tytułu odroczenia terminu spłaty i opłat prolongacyjnych w rozumieniu ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa , zwanej dalej „Ordynacją podatkową”, zamianie podlegających spłacie zobowiązań na udziały lub akcje spółek przemysłowego potencjału obronnego, zwolnieniu od obowiązku uiszczania bieżących opłat i kar. W czasie trwania postępowania, o którym mowa w art. 13 ust. 1, nie nalicza się odsetek od zobowiązań, o których mowa w ust. 1. Spółki zależne mogą korzystać z umorzenia zobowiązań, o których mowa w ust. 1, proporcjonalnie do ilości udziałów lub akcji, które spółka przemysłowego potencjału obronnego posiada w tych spółkach."
+      "content": "Restrukturyzacji finansowej, na zasadach określonych w ustawie, podlegają zobowiązania według stanu na dzień 30 czerwca 1999 r. wobec: budżetu państwa - z wyłączeniem zobowiązań dotyczących kwot głównych należnych z tytułu podatku dochodowego od osób fizycznych; Funduszu Ubezpieczeń Społecznych - z tytułu należnych składek oraz odsetek za zwłokę; Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych - z tytułu należnych wpłat wraz z odsetkami za zwłokę; Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej - z tytułu należnych opłat i kar; Funduszu Pracy i Funduszu Gwarantowanych Świadczeń Pracowniczych - z tytułu należnych składek oraz odsetek za zwłokę. Restrukturyzacja, o której mowa w ust. 1, polega w szczególności na: umorzeniu zobowiązań; odroczeniu terminu spłaty zobowiązań na czas określony; rozłożeniu spłaty zobowiązań na raty; zaniechaniu naliczania odsetek z tytułu odroczenia terminu spłaty i opłat prolongacyjnych w rozumieniu ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa , zwanej dalej „Ordynacją podatkową”; zamianie podlegających spłacie zobowiązań na udziały lub akcje spółek przemysłowego potencjału obronnego; zwolnieniu od obowiązku uiszczania bieżących opłat i kar. W czasie trwania postępowania, o którym mowa w art. 13 ust. 1, nie nalicza się odsetek od zobowiązań, o których mowa w ust. 1. Spółki zależne mogą korzystać z umorzenia zobowiązań, o których mowa w ust. 1, proporcjonalnie do ilości udziałów lub akcji, które spółka przemysłowego potencjału obronnego posiada w tych spółkach."
     },
     {
       "provision_ref": "art10u1p1",
       "section": "10",
       "title": "Art. 10 ust. 1 pkt 1",
-      "content": "Restrukturyzacji finansowej, na zasadach określonych w ustawie, podlegają zobowiązania według stanu na dzień 30 czerwca 1999 r. wobec: budżetu państwa - z wyłączeniem zobowiązań dotyczących kwot głównych należnych z tytułu podatku dochodowego od osób fizycznych,"
+      "content": "Restrukturyzacji finansowej, na zasadach określonych w ustawie, podlegają zobowiązania według stanu na dzień 30 czerwca 1999 r. wobec: budżetu państwa - z wyłączeniem zobowiązań dotyczących kwot głównych należnych z tytułu podatku dochodowego od osób fizycznych;"
     },
     {
       "provision_ref": "art10u1p2",
       "section": "10",
       "title": "Art. 10 ust. 1 pkt 2",
-      "content": "Restrukturyzacji finansowej, na zasadach określonych w ustawie, podlegają zobowiązania według stanu na dzień 30 czerwca 1999 r. wobec: Funduszu Ubezpieczeń Społecznych, Funduszu Pracy i Funduszu Gwarantowanych Świadczeń Pracowniczych - z tytułu należnych składek oraz odsetek za zwłokę,"
+      "content": "Restrukturyzacji finansowej, na zasadach określonych w ustawie, podlegają zobowiązania według stanu na dzień 30 czerwca 1999 r. wobec: Funduszu Ubezpieczeń Społecznych - z tytułu należnych składek oraz odsetek za zwłokę;"
     },
     {
       "provision_ref": "art10u1p3",
       "section": "10",
       "title": "Art. 10 ust. 1 pkt 3",
-      "content": "Restrukturyzacji finansowej, na zasadach określonych w ustawie, podlegają zobowiązania według stanu na dzień 30 czerwca 1999 r. wobec: Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych - z tytułu należnych wpłat wraz z odsetkami za zwłokę,"
+      "content": "Restrukturyzacji finansowej, na zasadach określonych w ustawie, podlegają zobowiązania według stanu na dzień 30 czerwca 1999 r. wobec: Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych - z tytułu należnych wpłat wraz z odsetkami za zwłokę;"
     },
     {
       "provision_ref": "art10u1p4",
       "section": "10",
       "title": "Art. 10 ust. 1 pkt 4",
-      "content": "Restrukturyzacji finansowej, na zasadach określonych w ustawie, podlegają zobowiązania według stanu na dzień 30 czerwca 1999 r. wobec: Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej - z tytułu należnych opłat i kar."
+      "content": "Restrukturyzacji finansowej, na zasadach określonych w ustawie, podlegają zobowiązania według stanu na dzień 30 czerwca 1999 r. wobec: Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej - z tytułu należnych opłat i kar;"
+    },
+    {
+      "provision_ref": "art10u1p5",
+      "section": "10",
+      "title": "Art. 10 ust. 1 pkt 5",
+      "content": "Restrukturyzacji finansowej, na zasadach określonych w ustawie, podlegają zobowiązania według stanu na dzień 30 czerwca 1999 r. wobec: Funduszu Pracy i Funduszu Gwarantowanych Świadczeń Pracowniczych - z tytułu należnych składek oraz odsetek za zwłokę."
     },
     {
       "provision_ref": "art10u2p1",
       "section": "10",
       "title": "Art. 10 ust. 2 pkt 1",
-      "content": "Restrukturyzacja, o której mowa w ust. 1, polega w szczególności na: umorzeniu zobowiązań,"
+      "content": "Restrukturyzacja, o której mowa w ust. 1, polega w szczególności na: umorzeniu zobowiązań;"
     },
     {
       "provision_ref": "art10u2p2",
       "section": "10",
       "title": "Art. 10 ust. 2 pkt 2",
-      "content": "Restrukturyzacja, o której mowa w ust. 1, polega w szczególności na: odroczeniu terminu spłaty zobowiązań na czas określony,"
+      "content": "Restrukturyzacja, o której mowa w ust. 1, polega w szczególności na: odroczeniu terminu spłaty zobowiązań na czas określony;"
     },
     {
       "provision_ref": "art10u2p3",
       "section": "10",
       "title": "Art. 10 ust. 2 pkt 3",
-      "content": "Restrukturyzacja, o której mowa w ust. 1, polega w szczególności na: rozłożeniu spłaty zobowiązań na raty,"
+      "content": "Restrukturyzacja, o której mowa w ust. 1, polega w szczególności na: rozłożeniu spłaty zobowiązań na raty;"
     },
     {
       "provision_ref": "art10u2p4",
       "section": "10",
       "title": "Art. 10 ust. 2 pkt 4",
-      "content": "Restrukturyzacja, o której mowa w ust. 1, polega w szczególności na: zaniechaniu naliczania odsetek z tytułu odroczenia terminu spłaty i opłat prolongacyjnych w rozumieniu ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa , zwanej dalej „Ordynacją podatkową”,"
+      "content": "Restrukturyzacja, o której mowa w ust. 1, polega w szczególności na: zaniechaniu naliczania odsetek z tytułu odroczenia terminu spłaty i opłat prolongacyjnych w rozumieniu ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa , zwanej dalej „Ordynacją podatkową”;"
     },
     {
       "provision_ref": "art10u2p5",
       "section": "10",
       "title": "Art. 10 ust. 2 pkt 5",
-      "content": "Restrukturyzacja, o której mowa w ust. 1, polega w szczególności na: zamianie podlegających spłacie zobowiązań na udziały lub akcje spółek przemysłowego potencjału obronnego,"
+      "content": "Restrukturyzacja, o której mowa w ust. 1, polega w szczególności na: zamianie podlegających spłacie zobowiązań na udziały lub akcje spółek przemysłowego potencjału obronnego;"
     },
     {
       "provision_ref": "art10u2p6",
@@ -331,25 +577,31 @@
       "provision_ref": "art11",
       "section": "11",
       "title": "Art. 11",
-      "content": "Zobowiązania, o których mowa w art. 10 ust. 1, podlegają - po spełnieniu warunków określonych w art. 15 ust. 2 - restrukturyzacji finansowej na następujących zasadach: termin spłaty tych zobowiązań odracza się do dnia 31 grudnia 2001 r., od dnia 1 stycznia 2002 r. zobowiązania te mogą podlegać umorzeniu. Zobowiązania z tytułu podatku od towarów i usług podlegają restrukturyzacji finansowej na następujących zasadach: do dnia 31 grudnia 2001 r. termin spłaty tych zobowiązań odracza się, po spełnieniu warunków określonych w art. 15 ust. 2, od dnia 1 stycznia 2002 r. następuje spłata tych zobowiązań, w okresie nie dłuższym niż pięć lat, w sposób określony w umowie zawartej pomiędzy spółką przemysłowego potencjału obronnego bądź spółką zależną, a jej wierzycielem, o której mowa w art. 15 ust. 1."
+      "content": "Zobowiązania, o których mowa w art. 10 ust. 1 pkt 1 i 3-5, podlegają - po spełnieniu warunków określonych w art. 15 ust. 2 - restrukturyzacji finansowej na następujących zasadach: termin spłaty tych zobowiązań odracza się do dnia 31 grudnia 2001 r.; od dnia 1 stycznia 2002 r. zobowiązania te mogą podlegać umorzeniu. Zobowiązania, o których mowa w art. 10 ust. 1 pkt 2, po spełnieniu warunków określonych w art. 15 ust. 2, podlegają umorzeniu za okres do dnia 31 grudnia 1998 r. - w całości. Zobowiązania z tytułu podatku od towarów i usług podlegają restrukturyzacji finansowej na następujących zasadach: do dnia 31 grudnia 2001 r. termin spłaty tych zobowiązań odracza się, po spełnieniu warunków określonych w art. 15 ust. 2; od dnia 1 stycznia 2002 r. następuje spłata tych zobowiązań, w okresie nie dłuższym niż pięć lat, w sposób określony w umowie zawartej pomiędzy spółką przemysłowego potencjału obronnego bądź spółką zależną, a jej wierzycielem, o której mowa w art. 15 ust. 1."
     },
     {
       "provision_ref": "art11u1p1",
       "section": "11",
       "title": "Art. 11 ust. 1 pkt 1",
-      "content": "Zobowiązania, o których mowa w art. 10 ust. 1, podlegają - po spełnieniu warunków określonych w art. 15 ust. 2 - restrukturyzacji finansowej na następujących zasadach: termin spłaty tych zobowiązań odracza się do dnia 31 grudnia 2001 r.,"
+      "content": "Zobowiązania, o których mowa w art. 10 ust. 1 pkt 1 i 3-5, podlegają - po spełnieniu warunków określonych w art. 15 ust. 2 - restrukturyzacji finansowej na następujących zasadach: termin spłaty tych zobowiązań odracza się do dnia 31 grudnia 2001 r.;"
     },
     {
       "provision_ref": "art11u1p2",
       "section": "11",
       "title": "Art. 11 ust. 1 pkt 2",
-      "content": "Zobowiązania, o których mowa w art. 10 ust. 1, podlegają - po spełnieniu warunków określonych w art. 15 ust. 2 - restrukturyzacji finansowej na następujących zasadach: od dnia 1 stycznia 2002 r. zobowiązania te mogą podlegać umorzeniu."
+      "content": "Zobowiązania, o których mowa w art. 10 ust. 1 pkt 1 i 3-5, podlegają - po spełnieniu warunków określonych w art. 15 ust. 2 - restrukturyzacji finansowej na następujących zasadach: od dnia 1 stycznia 2002 r. zobowiązania te mogą podlegać umorzeniu."
+    },
+    {
+      "provision_ref": "art11u1a",
+      "section": "11",
+      "title": "Art. 11 ust. 1a",
+      "content": "Zobowiązania, o których mowa w art. 10 ust. 1 pkt 2, po spełnieniu warunków określonych w art. 15 ust. 2, podlegają umorzeniu za okres do dnia 31 grudnia 1998 r. - w całości."
     },
     {
       "provision_ref": "art11u2p1",
       "section": "11",
       "title": "Art. 11 ust. 2 pkt 1",
-      "content": "Zobowiązania z tytułu podatku od towarów i usług podlegają restrukturyzacji finansowej na następujących zasadach: do dnia 31 grudnia 2001 r. termin spłaty tych zobowiązań odracza się, po spełnieniu warunków określonych w art. 15 ust. 2,"
+      "content": "Zobowiązania z tytułu podatku od towarów i usług podlegają restrukturyzacji finansowej na następujących zasadach: do dnia 31 grudnia 2001 r. termin spłaty tych zobowiązań odracza się, po spełnieniu warunków określonych w art. 15 ust. 2;"
     },
     {
       "provision_ref": "art11u2p2",
@@ -409,7 +661,7 @@
       "provision_ref": "art14",
       "section": "14",
       "title": "Art. 14",
-      "content": "Postępowanie oddłużeniowe wszczyna się na wniosek spółki przemysłowego potencjału obronnego lub spółki zależnej, złożony wierzycielowi nie później niż w terminie sześciu miesięcy od dnia wejścia w życie ustawy. Warunkiem wszczęcia postępowania oddłużeniowego jest przedłożenie pozytywnie zaopiniowanego programu naprawczego, określającego: sposoby i środki działania, które mają zapewnić spółce przemysłowego potencjału obronnego osiągnięcie dodatniego wyniku finansowego na działalności operacyjnej, najpóźniej do dnia 31 grudnia 2001 r., propozycję restrukturyzacji finansowej spółki przemysłowego potencjału obronnego wraz z harmonogramem jej realizacji, zadania spółki przemysłowego potencjału obronnego w zakresie ochrony środowiska wraz z harmonogramem realizacji tych zobowiązań, analizę stanu i perspektyw rozwoju spółki przemysłowego potencjału obronnego na okres kolejnych trzech lat, licząc od ostatniego dnia kwartału poprzedzającego złożenie wniosku, o którym mowa w ust. 1. We wniosku, o którym mowa w ust. 1, uwzględnia się sposoby restrukturyzacji, o których mowa w art. 10 ust. 2. Do wniosku, o którym mowa w ust. 1, spółka przemysłowego potencjału obronnego dołącza, sporządzone według stanu na ostatni dzień kwartału poprzedzającego dzień złożenia wniosku, następujące dokumenty: odpis z rejestru handlowego o wpisie spółki przemysłowego potencjału obronnego do tego rejestru, bilans z rachunkiem zysków i strat na ostatni dzień roku za ostatni rok obrotowy, spis wierzycieli zawierający: oznaczenie wierzyciela, wysokość wierzytelności, datę ich powstania, terminy płatności tych wierzytelności oraz zabezpieczenie ich spłat, wykaz udzielonych przez spółkę przemysłowego potencjału obronnego poręczeń i gwarancji oraz hipotek ustanowionych na jej majątku, wykaz niewykonanych tytułów egzekucyjnych wystawionych przeciwko spółce przemysłowego potencjału obronnego, wykaz dłużników z podaniem wysokości należności i terminów ich płatności oraz zabezpieczenie ich spłat. Program naprawczy, o którym mowa w ust. 2, opiniuje minister właściwy do spraw gospodarki w porozumieniu z ministrami właściwymi do spraw finansów publicznych, pracy, Skarbu Państwa, środowiska oraz z Ministrem Obrony Narodowej, po uzyskaniu opinii: Prezesa Zakładu Ubezpieczeń Społecznych - w odniesieniu do zobowiązań wobec Funduszu Ubezpieczeń Społecznych, Prezesa Krajowego Urzędu Pracy - w odniesieniu do zobowiązań wobec Funduszu Pracy, Prezesa Krajowego Urzędu Pracy - w odniesieniu do zobowiązań wobec Funduszu Gwarantowanych Świadczeń Pracowniczych, Zarządu Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej - w odniesieniu do zobowiązań wobec tego Funduszu, Zarządu Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych - w odniesieniu do zobowiązań wobec tego Funduszu. Nieprzedstawienie stanowiska przez osoby wymienione w ust. 5 pkt 1-5 w terminie 14 dni od zwrócenia się o opinię przez ministra właściwego do spraw gospodarki oznacza akceptację programu. Wydanie opinii przez ministra właściwego do spraw gospodarki, po porozumieniu z ministrami właściwymi do spraw finansów publicznych, pracy, Skarbu Państwa, środowiska oraz Ministrem Obrony Narodowej, następuje w terminie 30 dni od dnia złożenia ministrowi właściwemu do spraw gospodarki programu naprawczego, o którym mowa w ust. 2."
+      "content": "Postępowanie oddłużeniowe wszczyna się na wniosek spółki przemysłowego potencjału obronnego lub spółki zależnej, złożony wierzycielowi nie później niż w terminie sześciu miesięcy od dnia wejścia w życie ustawy. Warunkiem wszczęcia postępowania oddłużeniowego jest przedłożenie pozytywnie zaopiniowanego programu naprawczego, określającego: sposoby i środki działania, które mają zapewnić spółce przemysłowego potencjału obronnego osiągnięcie dodatniego wyniku finansowego na działalności operacyjne, najpóźniej do dnia 31 grudnia 2001 r.; propozycję restrukturyzacji finansowej spółki przemysłowego potencjału obronnego wraz z harmonogramem jej realizacji; zadania spółki przemysłowego potencjału obronnego w zakresie ochrony środowiska wraz z harmonogramem realizacji tych zobowiązań; analizę stanu i perspektyw rozwoju spółki przemysłowego potencjału obronnego na okres kolejnych trzech lat, licząc od ostatniego dnia kwartału poprzedzającego złożenie wniosku, o którym mowa w ust. 1. We wniosku, o którym mowa w ust. 1, uwzględnia się sposoby restrukturyzacji, o których mowa w art. 10 ust. 2. Do wniosku, o którym mowa w ust. 1, spółka przemysłowego potencjału obronnego dołącza, sporządzone według stanu na ostatni dzień kwartału poprzedzającego dzień złożenia wniosku, następujące dokumenty: odpis z rejestru handlowego o wpisie spółki przemysłowego potencjału obronnego do tego rejestru; bilans z rachunkiem zysków i strat na ostatni dzień roku za ostatni rok obrotowy; spis wierzycieli zawierający: oznaczenie wierzyciela, wysokość wierzytelności, datę ich powstania, terminy płatności tych wierzytelności oraz zabezpieczenie ich spłat; wykaz udzielonych przez spółkę przemysłowego potencjału obronnego poręczeń i gwarancji oraz hipotek ustanowionych na jej majątku; wykaz niewykonanych tytułów egzekucyjnych wystawionych przeciwko spółce przemysłowego potencjału obronnego; wykaz dłużników z podaniem wysokości należności i terminów ich płatności oraz zabezpieczenie ich spłat. Program naprawczy, o którym mowa w ust. 2, opiniuje minister właściwy do spraw gospodarki w porozumieniu z ministrami właściwymi do spraw finansów publicznych, pracy, klimatu oraz z Ministrem Obrony Narodowej, po uzyskaniu opinii: 2) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 19 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284), która weszła w życie z dniem 29 lutego 2020 r. Prezesa Zakładu Ubezpieczeń Społecznych - w odniesieniu do zobowiązań wobec Funduszu Ubezpieczeń Społecznych; Prezesa Krajowego Urzędu Pracy 3) Obecnie ministra właściwego do spraw pracy na podstawie art. 63 pkt 2 ustawy z dnia 1 marca 2002 r. o zmianach w organizacji i funkcjonowaniu centralnych organów administracji rządowej i jednostek im podporządkowanych oraz o zmianie niektórych ustaw (Dz. U. poz. 253), która weszła w życie z dniem 1 kwietnia 2002 r. - w odniesieniu do zobowiązań wobec Funduszu Pracy; Prezesa Krajowego Urzędu Pracy 3) Obecnie ministra właściwego do spraw pracy na podstawie art. 63 pkt 2 ustawy z dnia 1 marca 2002 r. o zmianach w organizacji i funkcjonowaniu centralnych organów administracji rządowej i jednostek im podporządkowanych oraz o zmianie niektórych ustaw (Dz. U. poz. 253), która weszła w życie z dniem 1 kwietnia 2002 r. - w odniesieniu do zobowiązań wobec Funduszu Gwarantowanych Świadczeń Pracowniczych; Zarządu Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej - w odniesieniu do zobowiązań wobec tego Funduszu; Zarządu Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych - w odniesieniu do zobowiązań wobec tego Funduszu. Nieprzedstawienie stanowiska przez osoby wymienione w ust. 5 pkt 1-5 w terminie 14 dni od zwrócenia się o opinię przez ministra właściwego do spraw gospodarki oznacza akceptację programu. Wydanie opinii przez ministra właściwego do spraw gospodarki, po porozumieniu z ministrami właściwymi do spraw finansów publicznych, pracy, klimatu oraz Ministrem Obrony Narodowej, następuje w terminie 30 dni od dnia złożenia ministrowi właściwemu do spraw gospodarki programu naprawczego, o którym mowa w ust. 2."
     },
     {
       "provision_ref": "art14u1",
@@ -421,19 +673,19 @@
       "provision_ref": "art14u2p1",
       "section": "14",
       "title": "Art. 14 ust. 2 pkt 1",
-      "content": "Warunkiem wszczęcia postępowania oddłużeniowego jest przedłożenie pozytywnie zaopiniowanego programu naprawczego, określającego: sposoby i środki działania, które mają zapewnić spółce przemysłowego potencjału obronnego osiągnięcie dodatniego wyniku finansowego na działalności operacyjnej, najpóźniej do dnia 31 grudnia 2001 r.,"
+      "content": "Warunkiem wszczęcia postępowania oddłużeniowego jest przedłożenie pozytywnie zaopiniowanego programu naprawczego, określającego: sposoby i środki działania, które mają zapewnić spółce przemysłowego potencjału obronnego osiągnięcie dodatniego wyniku finansowego na działalności operacyjne, najpóźniej do dnia 31 grudnia 2001 r.;"
     },
     {
       "provision_ref": "art14u2p2",
       "section": "14",
       "title": "Art. 14 ust. 2 pkt 2",
-      "content": "Warunkiem wszczęcia postępowania oddłużeniowego jest przedłożenie pozytywnie zaopiniowanego programu naprawczego, określającego: propozycję restrukturyzacji finansowej spółki przemysłowego potencjału obronnego wraz z harmonogramem jej realizacji,"
+      "content": "Warunkiem wszczęcia postępowania oddłużeniowego jest przedłożenie pozytywnie zaopiniowanego programu naprawczego, określającego: propozycję restrukturyzacji finansowej spółki przemysłowego potencjału obronnego wraz z harmonogramem jej realizacji;"
     },
     {
       "provision_ref": "art14u2p3",
       "section": "14",
       "title": "Art. 14 ust. 2 pkt 3",
-      "content": "Warunkiem wszczęcia postępowania oddłużeniowego jest przedłożenie pozytywnie zaopiniowanego programu naprawczego, określającego: zadania spółki przemysłowego potencjału obronnego w zakresie ochrony środowiska wraz z harmonogramem realizacji tych zobowiązań,"
+      "content": "Warunkiem wszczęcia postępowania oddłużeniowego jest przedłożenie pozytywnie zaopiniowanego programu naprawczego, określającego: zadania spółki przemysłowego potencjału obronnego w zakresie ochrony środowiska wraz z harmonogramem realizacji tych zobowiązań;"
     },
     {
       "provision_ref": "art14u2p4",
@@ -451,31 +703,31 @@
       "provision_ref": "art14u4p1",
       "section": "14",
       "title": "Art. 14 ust. 4 pkt 1",
-      "content": "Do wniosku, o którym mowa w ust. 1, spółka przemysłowego potencjału obronnego dołącza, sporządzone według stanu na ostatni dzień kwartału poprzedzającego dzień złożenia wniosku, następujące dokumenty: odpis z rejestru handlowego o wpisie spółki przemysłowego potencjału obronnego do tego rejestru,"
+      "content": "Do wniosku, o którym mowa w ust. 1, spółka przemysłowego potencjału obronnego dołącza, sporządzone według stanu na ostatni dzień kwartału poprzedzającego dzień złożenia wniosku, następujące dokumenty: odpis z rejestru handlowego o wpisie spółki przemysłowego potencjału obronnego do tego rejestru;"
     },
     {
       "provision_ref": "art14u4p2",
       "section": "14",
       "title": "Art. 14 ust. 4 pkt 2",
-      "content": "Do wniosku, o którym mowa w ust. 1, spółka przemysłowego potencjału obronnego dołącza, sporządzone według stanu na ostatni dzień kwartału poprzedzającego dzień złożenia wniosku, następujące dokumenty: bilans z rachunkiem zysków i strat na ostatni dzień roku za ostatni rok obrotowy,"
+      "content": "Do wniosku, o którym mowa w ust. 1, spółka przemysłowego potencjału obronnego dołącza, sporządzone według stanu na ostatni dzień kwartału poprzedzającego dzień złożenia wniosku, następujące dokumenty: bilans z rachunkiem zysków i strat na ostatni dzień roku za ostatni rok obrotowy;"
     },
     {
       "provision_ref": "art14u4p3",
       "section": "14",
       "title": "Art. 14 ust. 4 pkt 3",
-      "content": "Do wniosku, o którym mowa w ust. 1, spółka przemysłowego potencjału obronnego dołącza, sporządzone według stanu na ostatni dzień kwartału poprzedzającego dzień złożenia wniosku, następujące dokumenty: spis wierzycieli zawierający: oznaczenie wierzyciela, wysokość wierzytelności, datę ich powstania, terminy płatności tych wierzytelności oraz zabezpieczenie ich spłat,"
+      "content": "Do wniosku, o którym mowa w ust. 1, spółka przemysłowego potencjału obronnego dołącza, sporządzone według stanu na ostatni dzień kwartału poprzedzającego dzień złożenia wniosku, następujące dokumenty: spis wierzycieli zawierający: oznaczenie wierzyciela, wysokość wierzytelności, datę ich powstania, terminy płatności tych wierzytelności oraz zabezpieczenie ich spłat;"
     },
     {
       "provision_ref": "art14u4p4",
       "section": "14",
       "title": "Art. 14 ust. 4 pkt 4",
-      "content": "Do wniosku, o którym mowa w ust. 1, spółka przemysłowego potencjału obronnego dołącza, sporządzone według stanu na ostatni dzień kwartału poprzedzającego dzień złożenia wniosku, następujące dokumenty: wykaz udzielonych przez spółkę przemysłowego potencjału obronnego poręczeń i gwarancji oraz hipotek ustanowionych na jej majątku,"
+      "content": "Do wniosku, o którym mowa w ust. 1, spółka przemysłowego potencjału obronnego dołącza, sporządzone według stanu na ostatni dzień kwartału poprzedzającego dzień złożenia wniosku, następujące dokumenty: wykaz udzielonych przez spółkę przemysłowego potencjału obronnego poręczeń i gwarancji oraz hipotek ustanowionych na jej majątku;"
     },
     {
       "provision_ref": "art14u4p5",
       "section": "14",
       "title": "Art. 14 ust. 4 pkt 5",
-      "content": "Do wniosku, o którym mowa w ust. 1, spółka przemysłowego potencjału obronnego dołącza, sporządzone według stanu na ostatni dzień kwartału poprzedzającego dzień złożenia wniosku, następujące dokumenty: wykaz niewykonanych tytułów egzekucyjnych wystawionych przeciwko spółce przemysłowego potencjału obronnego,"
+      "content": "Do wniosku, o którym mowa w ust. 1, spółka przemysłowego potencjału obronnego dołącza, sporządzone według stanu na ostatni dzień kwartału poprzedzającego dzień złożenia wniosku, następujące dokumenty: wykaz niewykonanych tytułów egzekucyjnych wystawionych przeciwko spółce przemysłowego potencjału obronnego;"
     },
     {
       "provision_ref": "art14u4p6",
@@ -487,31 +739,31 @@
       "provision_ref": "art14u5p1",
       "section": "14",
       "title": "Art. 14 ust. 5 pkt 1",
-      "content": "Program naprawczy, o którym mowa w ust. 2, opiniuje minister właściwy do spraw gospodarki w porozumieniu z ministrami właściwymi do spraw finansów publicznych, pracy, Skarbu Państwa, środowiska oraz z Ministrem Obrony Narodowej, po uzyskaniu opinii: Prezesa Zakładu Ubezpieczeń Społecznych - w odniesieniu do zobowiązań wobec Funduszu Ubezpieczeń Społecznych,"
+      "content": "Program naprawczy, o którym mowa w ust. 2, opiniuje minister właściwy do spraw gospodarki w porozumieniu z ministrami właściwymi do spraw finansów publicznych, pracy, klimatu oraz z Ministrem Obrony Narodowej, po uzyskaniu opinii: 2) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 19 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284), która weszła w życie z dniem 29 lutego 2020 r. Prezesa Zakładu Ubezpieczeń Społecznych - w odniesieniu do zobowiązań wobec Funduszu Ubezpieczeń Społecznych;"
     },
     {
       "provision_ref": "art14u5p2",
       "section": "14",
       "title": "Art. 14 ust. 5 pkt 2",
-      "content": "Program naprawczy, o którym mowa w ust. 2, opiniuje minister właściwy do spraw gospodarki w porozumieniu z ministrami właściwymi do spraw finansów publicznych, pracy, Skarbu Państwa, środowiska oraz z Ministrem Obrony Narodowej, po uzyskaniu opinii: Prezesa Krajowego Urzędu Pracy - w odniesieniu do zobowiązań wobec Funduszu Pracy,"
+      "content": "Program naprawczy, o którym mowa w ust. 2, opiniuje minister właściwy do spraw gospodarki w porozumieniu z ministrami właściwymi do spraw finansów publicznych, pracy, klimatu oraz z Ministrem Obrony Narodowej, po uzyskaniu opinii: 2) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 19 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284), która weszła w życie z dniem 29 lutego 2020 r. Prezesa Krajowego Urzędu Pracy 3) Obecnie ministra właściwego do spraw pracy na podstawie art. 63 pkt 2 ustawy z dnia 1 marca 2002 r. o zmianach w organizacji i funkcjonowaniu centralnych organów administracji rządowej i jednostek im podporządkowanych oraz o zmianie niektórych ustaw (Dz. U. poz. 253), która weszła w życie z dniem 1 kwietnia 2002 r. - w odniesieniu do zobowiązań wobec Funduszu Pracy;"
     },
     {
       "provision_ref": "art14u5p3",
       "section": "14",
       "title": "Art. 14 ust. 5 pkt 3",
-      "content": "Program naprawczy, o którym mowa w ust. 2, opiniuje minister właściwy do spraw gospodarki w porozumieniu z ministrami właściwymi do spraw finansów publicznych, pracy, Skarbu Państwa, środowiska oraz z Ministrem Obrony Narodowej, po uzyskaniu opinii: Prezesa Krajowego Urzędu Pracy - w odniesieniu do zobowiązań wobec Funduszu Gwarantowanych Świadczeń Pracowniczych,"
+      "content": "Program naprawczy, o którym mowa w ust. 2, opiniuje minister właściwy do spraw gospodarki w porozumieniu z ministrami właściwymi do spraw finansów publicznych, pracy, klimatu oraz z Ministrem Obrony Narodowej, po uzyskaniu opinii: 2) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 19 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284), która weszła w życie z dniem 29 lutego 2020 r. Prezesa Krajowego Urzędu Pracy 3) Obecnie ministra właściwego do spraw pracy na podstawie art. 63 pkt 2 ustawy z dnia 1 marca 2002 r. o zmianach w organizacji i funkcjonowaniu centralnych organów administracji rządowej i jednostek im podporządkowanych oraz o zmianie niektórych ustaw (Dz. U. poz. 253), która weszła w życie z dniem 1 kwietnia 2002 r. - w odniesieniu do zobowiązań wobec Funduszu Gwarantowanych Świadczeń Pracowniczych;"
     },
     {
       "provision_ref": "art14u5p4",
       "section": "14",
       "title": "Art. 14 ust. 5 pkt 4",
-      "content": "Program naprawczy, o którym mowa w ust. 2, opiniuje minister właściwy do spraw gospodarki w porozumieniu z ministrami właściwymi do spraw finansów publicznych, pracy, Skarbu Państwa, środowiska oraz z Ministrem Obrony Narodowej, po uzyskaniu opinii: Zarządu Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej - w odniesieniu do zobowiązań wobec tego Funduszu,"
+      "content": "Program naprawczy, o którym mowa w ust. 2, opiniuje minister właściwy do spraw gospodarki w porozumieniu z ministrami właściwymi do spraw finansów publicznych, pracy, klimatu oraz z Ministrem Obrony Narodowej, po uzyskaniu opinii: 2) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 19 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284), która weszła w życie z dniem 29 lutego 2020 r. Zarządu Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej - w odniesieniu do zobowiązań wobec tego Funduszu;"
     },
     {
       "provision_ref": "art14u5p5",
       "section": "14",
       "title": "Art. 14 ust. 5 pkt 5",
-      "content": "Program naprawczy, o którym mowa w ust. 2, opiniuje minister właściwy do spraw gospodarki w porozumieniu z ministrami właściwymi do spraw finansów publicznych, pracy, Skarbu Państwa, środowiska oraz z Ministrem Obrony Narodowej, po uzyskaniu opinii: Zarządu Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych - w odniesieniu do zobowiązań wobec tego Funduszu."
+      "content": "Program naprawczy, o którym mowa w ust. 2, opiniuje minister właściwy do spraw gospodarki w porozumieniu z ministrami właściwymi do spraw finansów publicznych, pracy, klimatu oraz z Ministrem Obrony Narodowej, po uzyskaniu opinii: 2) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 19 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284), która weszła w życie z dniem 29 lutego 2020 r. Zarządu Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych - w odniesieniu do zobowiązań wobec tego Funduszu."
     },
     {
       "provision_ref": "art14u6",
@@ -523,13 +775,13 @@
       "provision_ref": "art14u7",
       "section": "14",
       "title": "Art. 14 ust. 7",
-      "content": "Wydanie opinii przez ministra właściwego do spraw gospodarki, po porozumieniu z ministrami właściwymi do spraw finansów publicznych, pracy, Skarbu Państwa, środowiska oraz Ministrem Obrony Narodowej, następuje w terminie 30 dni od dnia złożenia ministrowi właściwemu do spraw gospodarki programu naprawczego, o którym mowa w ust. 2."
+      "content": "Wydanie opinii przez ministra właściwego do spraw gospodarki, po porozumieniu z ministrami właściwymi do spraw finansów publicznych, pracy, klimatu oraz Ministrem Obrony Narodowej, następuje w terminie 30 dni od dnia złożenia ministrowi właściwemu do spraw gospodarki programu naprawczego, o którym mowa w ust. 2."
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Art. 15",
-      "content": "Postępowanie oddłużeniowe prowadzi się na podstawie umowy zawartej przez spółkę przemysłowego potencjału obronnego z wierzycielem, sporządzonej zgodnie z ustawą. Umowa określa sposób restrukturyzacji finansowej. Przesłanką postępowania oddłużeniowego jest spełnienie przez spółkę przemysłowego potencjału obronnego, w okresie od dnia wejścia w życie ustawy do dnia 31 grudnia 2001 r., następujących warunków: nieprzekroczenia przyrostu przeciętnego miesięcznego wynagrodzenia, ustalonego przez Komisję Trójstronną na podstawie ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw , niedokonywania darowizn, chyba że dotyczy to nieodpłatnego przekazania obiektów majątku nieprodukcyjnego przynoszącego straty lub darowizn z Zakładowego Funduszu Świadczeń Socjalnych, nieudzielania poręczeń i gwarancji z wyjątkiem weksli i poręczeń związanych z obrotem towarowym z zagranicą, wystawionych zgodnie z obowiązującymi przepisami prawa celnego , realizowania pozytywnie zaopiniowanego programu naprawczego, o którym mowa w art. 14 ust. 2 i 5, terminowego regulowania bieżących zobowiązań z tytułu: podatku od towarów i usług, podatku dochodowego od osób fizycznych, ubezpieczeń społecznych, składki na Fundusz Pracy i Fundusz Gwarantowanych Świadczeń Pracowniczych oraz wpłat na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych, a także z tytułu opłat i kar należnych Narodowemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej. Z dniem zawarcia umowy, o której mowa w ust. 1, wstrzymuje się wykonywanie zawartych wcześniej i niewykonanych umów, porozumień oraz decyzji dotyczących zobowiązań, o których mowa w art. 10 ust. 1, a postępowania egzekucyjne zawiesza się do dnia zakończenia postępowania oddłużeniowego. W okresie prowadzenia postępowania oddłużeniowego nie stosuje się przepisów art. 5 rozporządzenia Prezydenta Rzeczypospolitej z dnia 24 października 1934 r. - Prawo upadłościowe . W przypadku gdy spółka przemysłowego potencjału obronnego przez trzy kolejne miesiące nie wykona zobowiązań wynikających z umowy, o której mowa w ust. 1, postępowanie oddłużeniowe umarza się, a objęte umową zobowiązania stają się wymagalne. O umorzeniu postępowania oddłużeniowego decyduje minister właściwy do spraw gospodarki, działając w uzgodnieniu z ministrami właściwymi do spraw Skarbu Państwa, finansów publicznych i środowiska."
+      "content": "Postępowanie oddłużeniowe prowadzi się na podstawie umowy zawartej przez spółkę przemysłowego potencjału obronnego z wierzycielem, sporządzonej zgodnie z ustawą. Umowa określa sposób restrukturyzacji finansowej. Przesłanką postępowania oddłużeniowego jest spełnienie przez spółkę przemysłowego potencjału obronnego, w okresie od dnia wejścia w życie ustawy do dnia 31 grudnia 2001 r., następujących warunków: nieprzekroczenia przyrostu przeciętnego miesięcznego wynagrodzenia, ustalonego przez Radę Dialogu Społecznego na podstawie ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw ) 6) Ustawa uchylona z dniem 1 stycznia 2010 r. na podstawie art. 1 ustawy z dnia 19 listopada 2009 r. o uchyleniu ustawy o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw (Dz. U. poz. 1707), która weszła w życie z dniem 1 stycznia 2010 r. ; niedokonywania darowizn, chyba że dotyczy to nieodpłatnego przekazania obiektów majątku nieprodukcyjnego przynoszącego straty lub darowizn z Zakładowego Funduszu Świadczeń Socjalnych; nieudzielania poręczeń i gwarancji z wyjątkiem weksli i poręczeń związanych z obrotem towarowym z zagranicą, wystawionych zgodnie z obowiązującymi przepisami prawa celnego ; realizowania pozytywnie zaopiniowanego programu naprawczego, o którym mowa w art. 14 ust. 2 i 5; regulowania, w uzgodnionych z wierzycielami terminach, bieżących zobowiązań z tytułu: podatku od towarów i usług, podatku dochodowego od osób fizycznych, ubezpieczeń społecznych, składki na Fundusz Pracy i Fundusz Gwarantowanych Świadczeń Pracowniczych oraz wpłat na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych, a także z tytułu opłat i kar należnych Narodowemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej. Z dniem zawarcia umowy, o której mowa w ust. 1, wstrzymuje się wykonywanie zawartych wcześniej i niewykonanych umów, porozumień oraz decyzji dotyczących zobowiązań, o których mowa w art. 10 ust. 1, a postępowania egzekucyjne zawiesza się do dnia zakończenia postępowania oddłużeniowego. W okresie prowadzenia postępowania oddłużeniowego nie stosuje się przepisów art. 5 rozporządzenia Prezydenta Rzeczypospolitej z dnia 24 października 1934 r. - Prawo upadłościowe ) 8) Rozporządzenie utraciło moc z dniem 1 października 2003 r. na podstawie art. 545 pkt 1 ustawy z dnia 28 lutego 2003 r. - Prawo upadłościowe i naprawcze (Dz. U. poz. 535), która weszła w życie z dniem 1 października 2003 r. . W przypadku gdy spółka przemysłowego potencjału obronnego przez trzy kolejne miesiące nie wykona zobowiązań wynikających z umowy, o której mowa w ust. 1, postępowanie oddłużeniowe umarza się, a objęte umową zobowiązania stają się wymagalne. O umorzeniu postępowania oddłużeniowego decyduje minister właściwy do spraw gospodarki, działając w uzgodnieniu z ministrami właściwymi do spraw finansów publicznych i klimatu."
     },
     {
       "provision_ref": "art15u1",
@@ -541,31 +793,31 @@
       "provision_ref": "art15u2p1",
       "section": "15",
       "title": "Art. 15 ust. 2 pkt 1",
-      "content": "Przesłanką postępowania oddłużeniowego jest spełnienie przez spółkę przemysłowego potencjału obronnego, w okresie od dnia wejścia w życie ustawy do dnia 31 grudnia 2001 r., następujących warunków: nieprzekroczenia przyrostu przeciętnego miesięcznego wynagrodzenia, ustalonego przez Komisję Trójstronną na podstawie ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw ,"
+      "content": "Przesłanką postępowania oddłużeniowego jest spełnienie przez spółkę przemysłowego potencjału obronnego, w okresie od dnia wejścia w życie ustawy do dnia 31 grudnia 2001 r., następujących warunków: nieprzekroczenia przyrostu przeciętnego miesięcznego wynagrodzenia, ustalonego przez Radę Dialogu Społecznego na podstawie ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw ) 6) Ustawa uchylona z dniem 1 stycznia 2010 r. na podstawie art. 1 ustawy z dnia 19 listopada 2009 r. o uchyleniu ustawy o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw (Dz. U. poz. 1707), która weszła w życie z dniem 1 stycznia 2010 r. ;"
     },
     {
       "provision_ref": "art15u2p2",
       "section": "15",
       "title": "Art. 15 ust. 2 pkt 2",
-      "content": "Przesłanką postępowania oddłużeniowego jest spełnienie przez spółkę przemysłowego potencjału obronnego, w okresie od dnia wejścia w życie ustawy do dnia 31 grudnia 2001 r., następujących warunków: niedokonywania darowizn, chyba że dotyczy to nieodpłatnego przekazania obiektów majątku nieprodukcyjnego przynoszącego straty lub darowizn z Zakładowego Funduszu Świadczeń Socjalnych,"
+      "content": "Przesłanką postępowania oddłużeniowego jest spełnienie przez spółkę przemysłowego potencjału obronnego, w okresie od dnia wejścia w życie ustawy do dnia 31 grudnia 2001 r., następujących warunków: niedokonywania darowizn, chyba że dotyczy to nieodpłatnego przekazania obiektów majątku nieprodukcyjnego przynoszącego straty lub darowizn z Zakładowego Funduszu Świadczeń Socjalnych;"
     },
     {
       "provision_ref": "art15u2p3",
       "section": "15",
       "title": "Art. 15 ust. 2 pkt 3",
-      "content": "Przesłanką postępowania oddłużeniowego jest spełnienie przez spółkę przemysłowego potencjału obronnego, w okresie od dnia wejścia w życie ustawy do dnia 31 grudnia 2001 r., następujących warunków: nieudzielania poręczeń i gwarancji z wyjątkiem weksli i poręczeń związanych z obrotem towarowym z zagranicą, wystawionych zgodnie z obowiązującymi przepisami prawa celnego ,"
+      "content": "Przesłanką postępowania oddłużeniowego jest spełnienie przez spółkę przemysłowego potencjału obronnego, w okresie od dnia wejścia w życie ustawy do dnia 31 grudnia 2001 r., następujących warunków: nieudzielania poręczeń i gwarancji z wyjątkiem weksli i poręczeń związanych z obrotem towarowym z zagranicą, wystawionych zgodnie z obowiązującymi przepisami prawa celnego ;"
     },
     {
       "provision_ref": "art15u2p4",
       "section": "15",
       "title": "Art. 15 ust. 2 pkt 4",
-      "content": "Przesłanką postępowania oddłużeniowego jest spełnienie przez spółkę przemysłowego potencjału obronnego, w okresie od dnia wejścia w życie ustawy do dnia 31 grudnia 2001 r., następujących warunków: realizowania pozytywnie zaopiniowanego programu naprawczego, o którym mowa w art. 14 ust. 2 i 5,"
+      "content": "Przesłanką postępowania oddłużeniowego jest spełnienie przez spółkę przemysłowego potencjału obronnego, w okresie od dnia wejścia w życie ustawy do dnia 31 grudnia 2001 r., następujących warunków: realizowania pozytywnie zaopiniowanego programu naprawczego, o którym mowa w art. 14 ust. 2 i 5;"
     },
     {
       "provision_ref": "art15u2p5",
       "section": "15",
       "title": "Art. 15 ust. 2 pkt 5",
-      "content": "Przesłanką postępowania oddłużeniowego jest spełnienie przez spółkę przemysłowego potencjału obronnego, w okresie od dnia wejścia w życie ustawy do dnia 31 grudnia 2001 r., następujących warunków: terminowego regulowania bieżących zobowiązań z tytułu: podatku od towarów i usług, podatku dochodowego od osób fizycznych, ubezpieczeń społecznych, składki na Fundusz Pracy i Fundusz Gwarantowanych Świadczeń Pracowniczych oraz wpłat na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych, a także z tytułu opłat i kar należnych Narodowemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej."
+      "content": "Przesłanką postępowania oddłużeniowego jest spełnienie przez spółkę przemysłowego potencjału obronnego, w okresie od dnia wejścia w życie ustawy do dnia 31 grudnia 2001 r., następujących warunków: regulowania, w uzgodnionych z wierzycielami terminach, bieżących zobowiązań z tytułu: podatku od towarów i usług, podatku dochodowego od osób fizycznych, ubezpieczeń społecznych, składki na Fundusz Pracy i Fundusz Gwarantowanych Świadczeń Pracowniczych oraz wpłat na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych, a także z tytułu opłat i kar należnych Narodowemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej."
     },
     {
       "provision_ref": "art15u3",
@@ -577,7 +829,7 @@
       "provision_ref": "art15u4",
       "section": "15",
       "title": "Art. 15 ust. 4",
-      "content": "W okresie prowadzenia postępowania oddłużeniowego nie stosuje się przepisów art. 5 rozporządzenia Prezydenta Rzeczypospolitej z dnia 24 października 1934 r. - Prawo upadłościowe ."
+      "content": "W okresie prowadzenia postępowania oddłużeniowego nie stosuje się przepisów art. 5 rozporządzenia Prezydenta Rzeczypospolitej z dnia 24 października 1934 r. - Prawo upadłościowe ) 8) Rozporządzenie utraciło moc z dniem 1 października 2003 r. na podstawie art. 545 pkt 1 ustawy z dnia 28 lutego 2003 r. - Prawo upadłościowe i naprawcze (Dz. U. poz. 535), która weszła w życie z dniem 1 października 2003 r. ."
     },
     {
       "provision_ref": "art15u5",
@@ -589,369 +841,115 @@
       "provision_ref": "art15u6",
       "section": "15",
       "title": "Art. 15 ust. 6",
-      "content": "O umorzeniu postępowania oddłużeniowego decyduje minister właściwy do spraw gospodarki, działając w uzgodnieniu z ministrami właściwymi do spraw Skarbu Państwa, finansów publicznych i środowiska."
+      "content": "O umorzeniu postępowania oddłużeniowego decyduje minister właściwy do spraw gospodarki, działając w uzgodnieniu z ministrami właściwymi do spraw finansów publicznych i klimatu."
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Art. 16",
-      "content": "Do spółek przemysłowego potencjału obronnego nie stosuje się: przepisów art. 1a ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji przedsiębiorstw państwowych , przepisów ustawy z dnia 30 maja 1996 r. o gospodarowaniu niektórymi składnikami mienia Skarbu Państwa oraz o Agencji Mienia Wojskowego , art. 86e ust. 1 pkt 2 ustawy z dnia 31 stycznia 1980 r. o ochronie i kształtowaniu środowiska , przepisu art. 19 ust. 1 pkt 3 ustawy z dnia 10 czerwca 1994 r. o zamówieniach publicznych ."
+      "content": "Do spółek przemysłowego potencjału obronnego nie stosuje się: (uchylony) przepisów ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego ; (uchylony) przepisu art. 24 ust. 1 pkt 3 ustawy z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych . przepisu art. 108 ust. 1 pkt 3 ustawy z dnia 11 września 2019 r. - Prawo zamówień publicznych ."
     },
     {
       "provision_ref": "art16p1",
       "section": "16",
       "title": "Art. 16 pkt 1",
-      "content": "Do spółek przemysłowego potencjału obronnego nie stosuje się: przepisów art. 1a ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji przedsiębiorstw państwowych ,"
+      "content": "Do spółek przemysłowego potencjału obronnego nie stosuje się: (uchylony)"
     },
     {
       "provision_ref": "art16p2",
       "section": "16",
       "title": "Art. 16 pkt 2",
-      "content": "Do spółek przemysłowego potencjału obronnego nie stosuje się: przepisów ustawy z dnia 30 maja 1996 r. o gospodarowaniu niektórymi składnikami mienia Skarbu Państwa oraz o Agencji Mienia Wojskowego ,"
+      "content": "Do spółek przemysłowego potencjału obronnego nie stosuje się: przepisów ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego ;"
     },
     {
       "provision_ref": "art16p3",
       "section": "16",
       "title": "Art. 16 pkt 3",
-      "content": "Do spółek przemysłowego potencjału obronnego nie stosuje się: art. 86e ust. 1 pkt 2 ustawy z dnia 31 stycznia 1980 r. o ochronie i kształtowaniu środowiska ,"
+      "content": "Do spółek przemysłowego potencjału obronnego nie stosuje się: (uchylony)"
     },
     {
-      "provision_ref": "art16p4",
+      "provision_ref": "art16p9",
       "section": "16",
-      "title": "Art. 16 pkt 4",
-      "content": "Do spółek przemysłowego potencjału obronnego nie stosuje się: przepisu art. 19 ust. 1 pkt 3 ustawy z dnia 10 czerwca 1994 r. o zamówieniach publicznych ."
+      "title": "Art. 16 pkt 9",
+      "content": "Do spółek przemysłowego potencjału obronnego nie stosuje się: przepisu art. 24 ust. 1 pkt 3 ustawy z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych ."
+    },
+    {
+      "provision_ref": "art16p10",
+      "section": "16",
+      "title": "Art. 16 pkt 10",
+      "content": "Do spółek przemysłowego potencjału obronnego nie stosuje się: przepisu art. 108 ust. 1 pkt 3 ustawy z dnia 11 września 2019 r. - Prawo zamówień publicznych ."
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Art. 17",
-      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia 11) Ustawa została ogłoszona w dniu 15 października 1999 r. ."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-1993-598",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1996-496",
+      "target_document_id": "pl-du-2017-2011",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1997-554",
+      "target_document_id": "pl-du-2019-2020",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1997-1026",
+      "target_document_id": "pl-du-2020-284",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1999-775",
+      "target_document_id": "pl-du-2020-509",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1992-16",
+      "target_document_id": "pl-du-2018-1969",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1992-174",
+      "target_document_id": "pl-du-2017-2042",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1992-254",
+      "target_document_id": "pl-du-2019-1541",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1994-165",
+      "target_document_id": "pl-du-2020-374",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1996-44",
+      "target_document_id": "pl-du-2020-815",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1996-56",
+      "target_document_id": "pl-du-2013-716",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1997-31",
+      "target_document_id": "pl-du-2020-1325",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1997-153",
+      "target_document_id": "pl-du-2020-1423",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1997-495",
+      "target_document_id": "pl-du-2020-1406",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1997-770",
+      "target_document_id": "pl-du-2020-1492",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1997-944",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1998-961",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1998-1114",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1998-1126",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1999-500",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1994-1",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1995-435",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1996-34",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1997-776",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1998-668",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1998-887",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1990-19",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1990-59",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1990-298",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1991-372",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1991-457",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1991-491",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1992-84",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1996-110",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1996-493",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1996-775",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1997-673",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1997-741",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1997-943",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1998-1014",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1997-926",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1997-1083",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1999-95",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1993-482",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1993-646",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1994-2",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1994-163",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1994-368",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1994-406",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1994-419",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1994-547",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1994-602",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1994-627",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1995-25",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1995-433",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1995-478",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1995-654",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1995-704",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1996-113",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1996-146",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1996-405",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1996-639",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1996-686",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1997-44",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1997-484",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1997-592",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1997-685",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1997-754",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1997-777",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1997-932",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1997-933",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1997-939",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1997-945",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1998-383",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1998-685",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1998-756",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1998-931",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1998-1112",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1998-1121",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1999-484",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1999-689",
+      "target_document_id": "pl-du-2020-1565",
       "ref_type": "references"
     },
     {
@@ -959,87 +957,31 @@
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1995-221",
-      "ref_type": "references"
-    },
-    {
       "target_document_id": "pl-du-1991-512",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1995-426",
+      "target_document_id": "pl-du-2020-231",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1996-43",
+      "target_document_id": "pl-du-2019-1843",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1996-189",
+      "target_document_id": "pl-du-2020-1086",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1996-703",
+      "target_document_id": "pl-du-2019-2019",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1997-349",
+      "target_document_id": "pl-du-2020-288",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1997-751",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1997-940",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1996-561",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1997-184",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1997-603",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1999-400",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1997-509",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1994-196",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1995-446",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1996-622",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1997-296",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1997-885",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1998-773",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1999-437",
+      "target_document_id": "pl-du-2020-1517",
       "ref_type": "references"
     }
   ]

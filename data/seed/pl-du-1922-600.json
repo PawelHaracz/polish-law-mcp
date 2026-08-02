@@ -10,384 +10,161 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/1922/600",
   "provisions": [
     {
-      "provision_ref": "art1",
-      "section": "1",
-      "title": "Art. 1",
-      "content": "Dla orzekania o legalności zarządzeń i orzeczeń, wchodzących w zakres administracji tak rządowej, jak i samorządowej, tworzy się Najwyższy trybunał Administracyjny. Aż do ustanowienia sądów administracyjnych niższego Stopnia z udziałem czynnika obywatelskiego najwyższy Trybunał Administracyjny, jako jedyna instancja sądowa, rozpoznawać będzie skargi na zarządzenia i orzeczenia, wydane w ostatniej instancji przez administracyjna władze rządowe lub samorządowe, o ile ustawa niniejsza prawa skargi nie wyłącza. Trybunał nie ma prawa badać ważności ustaw, należycie ogłoszonych."
-    },
-    {
-      "provision_ref": "art2",
-      "section": "2",
-      "title": "Art. 2",
-      "content": "Trybunał czuwa z urzędu nad swoją właściwością. Przy rozpoznawaniu spraw i wyrokowaniu jest niezawisły od wszelkich organów władzy państwowej i podlega tylko ustawom. Wyroki Najwyższego Trybunału Administracyjnego są ostateczne."
-    },
-    {
-      "provision_ref": "art3",
-      "section": "3",
-      "title": "Art. 3",
-      "content": "Z pod orzecznictwa Trybunału wyłącza się: sprawy, należące do właściwości sądów zwyczajnych lub sądów szczególnych, sprawy, w których władze administracyjne uprawnione są do rozstrzygania według swobodnego uznania, w granicach, pozostawionych temu uznaniu, sprawy mianowania na publiczne urzędy i stanowiska, o ile nie chodzi o pogwałcenie zastrzeżonego w ustawie prawa ich obsadzania lub przedstawiania kandydatów, sprawy, dotyczące reprezentacji Państwa i obywateli wobec państw i władz obcych, oraz sprawy, bezpośrednio z powyższemi związane, sprawy, dotyczące działań wojennych, ustroju siły zbrojnej i mobilizacji, z wyjątkiem spraw zaopatrzenia i uzupełnienia armji, sprawy dyscyplinarne."
-    },
-    {
-      "provision_ref": "art3la",
-      "section": "3",
-      "title": "Art. 3 lit. a",
-      "content": "Z pod orzecznictwa Trybunału wyłącza się: sprawy, należące do właściwości sądów zwyczajnych lub sądów szczególnych,"
-    },
-    {
-      "provision_ref": "art3lb",
-      "section": "3",
-      "title": "Art. 3 lit. b",
-      "content": "Z pod orzecznictwa Trybunału wyłącza się: sprawy, w których władze administracyjne uprawnione są do rozstrzygania według swobodnego uznania, w granicach, pozostawionych temu uznaniu,"
-    },
-    {
-      "provision_ref": "art3lc",
-      "section": "3",
-      "title": "Art. 3 lit. c",
-      "content": "Z pod orzecznictwa Trybunału wyłącza się: sprawy mianowania na publiczne urzędy i stanowiska, o ile nie chodzi o pogwałcenie zastrzeżonego w ustawie prawa ich obsadzania lub przedstawiania kandydatów,"
-    },
-    {
-      "provision_ref": "art3ld",
-      "section": "3",
-      "title": "Art. 3 lit. d",
-      "content": "Z pod orzecznictwa Trybunału wyłącza się: sprawy, dotyczące reprezentacji Państwa i obywateli wobec państw i władz obcych, oraz sprawy, bezpośrednio z powyższemi związane,"
-    },
-    {
-      "provision_ref": "art3le",
-      "section": "3",
-      "title": "Art. 3 lit. e",
-      "content": "Z pod orzecznictwa Trybunału wyłącza się: sprawy, dotyczące działań wojennych, ustroju siły zbrojnej i mobilizacji, z wyjątkiem spraw zaopatrzenia i uzupełnienia armji,"
-    },
-    {
-      "provision_ref": "art3lf",
-      "section": "3",
-      "title": "Art. 3 lit. f",
-      "content": "Z pod orzecznictwa Trybunału wyłącza się: sprawy dyscyplinarne."
-    },
-    {
-      "provision_ref": "art4",
-      "section": "4",
-      "title": "Art. 4",
-      "content": "Skarga do Trybunału nie wstrzymuje same przez się wykonania zaskarżonego zarządzenia lub orzeczenia; skarżący może jednak zwrócić się go władzy administracyjnej o wstrzymanie wykonania. a władza administracyjna winna żądaniu temu zadość uczynić, jeżeli względy publiczne nie stoją na przeszkodzie, a skarżący mógłby w razie wykonania ponieść szkodę niepowetowaną. Wstrzymanie wykonania zarządza na wniosek interesowanego ostatnia instancja administracyjna. W razie przewlekania załatwiania tego wniosku lub w razie odmownego załatwienia jest Najwyższy Trybunał Administracyjny władny na wniosek strony sam zarządzić wstrzymanie wykonania zarządzenia lub orzeczenia."
-    },
-    {
-      "provision_ref": "art5",
-      "section": "5",
-      "title": "Art. 5",
-      "content": "Władze, której zarządzenie lub orzeczenie zostało uchylone przez Trybunał, obowiązaną jest wydać niezwłocznie nowe zarządzenie lub orzeczenie w tej sprawie. W zarządzeniu tem, względnie orzeczeniu, władza jest związana zapatrywaniami prawnemi, wyłuszczonemi w wyroku Trybunału."
-    },
-    {
-      "provision_ref": "art6",
-      "section": "6",
-      "title": "Art. 6",
-      "content": "Najwyższy Trybunał Administracyjny składa się z pierwszego prezesa oraz z potrzebnej ilości prezesów i sędziów. Pierwszemu prezesowi, prezesom i sędziom przysługują pełne prawa sędziowskie, zastrzeżone w postanowieniach rozdziału IV ustawy konstytucyjnej; pod względem uposażenia są zrównani oni z pierwszym prezesem, prezesami i sędziami Sądu Najwyższego. Prezydent Rzeczypospolitej mianuje na wniosek Bady Ministrów: pierwszego prezesa i prezesów z pośród osób, które conajmniej przez przeciąg 2 lat sprawowały urząd sędziego trybunału, sędziów zaś z pośród kandydatów, wybranych każdorazowo w liczbie potrójnej przez Zgromadzenie prezesów i sędziów Najwyższego Trybunału Administracyjnego (Ogólne Zgromadzenie Trybunału); przed mianowaniem prezesów Rada Ministrów zasięga opinji pierwszego prezesa. Pierwszym prezesem, prezesami i sędziami Trybunału mogą być tylko osoby, posiadające wykształcenie prawnicze. Połowę liczby sędziów winna posiadać kwalifikacje na urząd sędziowski,"
-    },
-    {
-      "provision_ref": "art7",
-      "section": "7",
-      "title": "Art. 7",
-      "content": "Przy najwyższym Trybunale Administracyjnym istnieje sekretarjat oraz kericelarja. Członkami sekretarjatu mogą być tylko osoby, posiadające wykształcenie prawnicze, Pierwszy prezes Trybunału mianuje i zwalnia członków sekretarjatu, pracowników kancelarji i służbę niższą oraz sprawuje nad nimi nadzór służbowy,"
-    },
-    {
-      "provision_ref": "art8",
-      "section": "8",
-      "title": "Art. 8",
-      "content": "Nadzór ogólny nad Najwyższym Trybunałem Administracyjnym sprawuje pierwszy prezes, który sprawy, dotyczące prezesów i sędziów, wnosi na Ogólna Zgromadzenie Trybunału."
-    },
-    {
-      "provision_ref": "art9",
-      "section": "9",
-      "title": "Art. 9",
-      "content": "Do zaskarżenia zarządzenia lub orzeczenia administracyjnego przed Najwyższy Trybunał Administracyjny jest uprawniony każdy, kto twierdzi, że naruszono jego prawa lub że 90 obciążono obowiązkiem bez podstawy prawnej."
-    },
-    {
-      "provision_ref": "art10",
-      "section": "10",
-      "title": "Art. 10",
-      "content": "Skargą na zarządzenia lub orzeczenia administracyjne należy wnieść bezpośrednio do Trybunału w terminie dwumiesięcznym, licząc od dnia doręczenia zaskarżonego zarządzenia lub orzeczenia skarżącemu."
-    },
-    {
-      "provision_ref": "art11",
-      "section": "11",
-      "title": "Art. 11",
-      "content": "Skarżący może przypozwać do sprawy osobę trzecią, na której niekorzyść żąda uchylenia orzeczenia lub zarządzenia władzy administracyjnej. Osoba trzecia może również i bez przypozwania domagać się dopuszczenia jej do uczestniczenia w sprawie i do obrony swych praw. Nawet jeżeli skarga nie jest zwrócona wyraźnie przeciw osobom trzecim, winien Trybunał baczyć, by w postępowaniu, które ma być przed nim przeprzeprowadzone, mogły być wysłuchane wszystkie osoby, których praw dotykać może wyrok i by dana im była sposobność obrony tych praw."
-    },
-    {
-      "provision_ref": "art12",
-      "section": "12",
-      "title": "Art. 12",
-      "content": "Skarga winna zawierać: imię., nazwisko i dokładne miejsce zamieszkania skarżącego i pełnomocnika, oznaczenie zaskarżonego orzeczenia lub zarządzenia z podaniem dnia doręczenia tegoż. dokładne oznaczenia powodów zaskarżenia."
-    },
-    {
-      "provision_ref": "art12p1",
-      "section": "12",
-      "title": "Art. 12 pkt 1",
-      "content": "Skarga winna zawierać: imię., nazwisko i dokładne miejsce zamieszkania skarżącego i pełnomocnika,"
-    },
-    {
-      "provision_ref": "art12p2",
-      "section": "12",
-      "title": "Art. 12 pkt 2",
-      "content": "Skarga winna zawierać: oznaczenie zaskarżonego orzeczenia lub zarządzenia z podaniem dnia doręczenia tegoż."
-    },
-    {
-      "provision_ref": "art12p3",
-      "section": "12",
-      "title": "Art. 12 pkt 3",
-      "content": "Skarga winna zawierać: dokładne oznaczenia powodów zaskarżenia."
-    },
-    {
-      "provision_ref": "art13",
-      "section": "13",
-      "title": "Art. 13",
-      "content": "Do skargi należy dołączyć: pełnomocnictwo, o ile skarżącemu nie przysługuje prawo występowania bez zastępcy prawnego, odpisy skargi i załączników w tylu egzemplarzach, ile jest stron pozwanych i przypozwanych w sprawie, opłaty w przepisanej wysokości, Trybunał może zwolnić skarżącego od przedstawienia odpisów."
-    },
-    {
-      "provision_ref": "art13p1",
-      "section": "13",
-      "title": "Art. 13 pkt 1",
-      "content": "Do skargi należy dołączyć: pełnomocnictwo, o ile skarżącemu nie przysługuje prawo występowania bez zastępcy prawnego,"
-    },
-    {
-      "provision_ref": "art13p2",
-      "section": "13",
-      "title": "Art. 13 pkt 2",
-      "content": "Do skargi należy dołączyć: odpisy skargi i załączników w tylu egzemplarzach, ile jest stron pozwanych i przypozwanych w sprawie,"
-    },
-    {
-      "provision_ref": "art13p3",
-      "section": "13",
-      "title": "Art. 13 pkt 3",
-      "content": "Do skargi należy dołączyć: opłaty w przepisanej wysokości,"
-    },
-    {
-      "provision_ref": "art14",
-      "section": "14",
-      "title": "Art. 14",
-      "content": "Skargi, które nie nadają się do postępowania z powodu oczywistej niewłaściwości Trybunału, z powodu zaniedbania ustawowego terminu, lub z powodu niewyczerpanie administracyjnego toku instancji, również skargi, przeciwko którym istnieje oczywisty zarzut rzeczy osądzonej lub braku legitymacji do wniesienia skargi - Trybunał pozostawia bez rozpoznania. Te samo stosuje się do skarg, które nie odpowiadają formalnym wymogom ustawowym (art. 12 i 13); w ostatnim wypadku może Trybunał wyznaczyć skarżącemu stosowny termin dla usunięcia braków; o ile braki te w ciągu oznaczonego terminu nie będą usunięte, Trybunał pozostawi skargę bez rozpoznania. O pozostawieniu skargi baz rozpoznania Trybunał zawiadamia skarżącego, zaś władzę administracyjną, przeciw której zarządzeniu lub orzeczeniu skargę wniesiono, o ile wykonanie zaskarżonego zarządzenia lub orzeczenia zostało wstrzymane."
-    },
-    {
-      "provision_ref": "art15",
-      "section": "15",
-      "title": "Art. 15",
-      "content": "Trybunał zarządza doręczenie odpisów przyjętej skargi z załącznikami pozwanym dla przedstawienia odpowiedzi z dołączeniem odpisu, wyznaczając w tym celu termin, nie przekraczający 2 miesięcy. Pozwana władza administracyjna obowiązana jest udzielić Trybunałowi aktów swych, dotyczących przedmiotu skargi w terminie, przez Trybunał wyznaczonym."
-    },
-    {
-      "provision_ref": "art16",
-      "section": "16",
-      "title": "Art. 16",
-      "content": "Odpisy odpowiedzi, składanych w sprawie, winny być doręczone stronie przeciwnej. W razie niezłożenia tych odpisów stosowany będzie analogicznie przepis art. 14."
-    },
-    {
-      "provision_ref": "art17",
-      "section": "17",
-      "title": "Art. 17",
-      "content": "Strony mogą przeglądać akta sprawy w Trybunale z wyjątkiem trzech oni ostatnich przed rozprawą. Poszczególne części aktów mogą być ze względów publicznych przez trybunał wyłączone z pod przeglądu, a władza administracyjna wskaże te akta, których wyłączenia sobie życzy."
-    },
-    {
-      "provision_ref": "art18",
-      "section": "18",
-      "title": "Art. 18",
-      "content": "Posiedzenia Trybunału są jawne i niejawne. Rozprawa główna odbywa się z reguły jawnie w składzie 5 sędziów, włączając w tę liczbę i przewodniczącego. Komplet orzekający może jednak w razie potrzeby przekazać rozstrzygnięcie kwestii prawnej bądź kompletowi wzmocnionemu do liczby sędziów, łącznie z przewodniczącym, bądź też Ogólnemu Zgromadzeniu Trybunału. Posiedzenia wzmocnionego kompletu i Ogólne Zgromadzenia Trybunału są niejawne. W sprawach, wymienionych w art. 14, 19, 27, 30 i 31, Trybunał orzeka na posiedzeniu niejawnem. W tymże trybie mogą być rozpatrywane i inne sprawy, o ile strony się na to zgodzą. W miarę jednak uznania może Trybunał i w tych wszystkich sprawach zarządzić rozprawę główną. Posiedzenia niejawne mogą się odbywać także w zmniejszonym komplecie trzech sędziów, łącznie z przewodniczącym. Do ważności uchwał Ogólnego Zgromadzenia Trybunału wymagana jest obecność 3/4 liczby członków, Narady i głosowanie Trybunału są tajne, rozstrzygnięcia Trybunału zapadają większością głosów."
-    },
-    {
-      "provision_ref": "art19",
-      "section": "19",
-      "title": "Art. 19",
-      "content": "Jeżeli Trybynał uzna, że stan faktyczny sprawy wymaga uzupełnienia, albo że pozwana władza przyjęła ten stan sprzecznie z aktami. albo że ze szkodą skarżącego naruszono formy postępowania administracyjnego, natenczas, nie zarządzając rozprawy głównej, uchyli wyrokiem zaskarżone zarządzenie lub orzeczeni zpowodu, wadliwego, postępowania, i odeśle sprawę napowrót do władzy administracyjnej, która ma wady usunąć i wydać nowe zarządzenie lub orzeczenie."
-    },
-    {
-      "provision_ref": "art20",
-      "section": "20",
-      "title": "Art. 20",
-      "content": "W rozprawie głównej mogą uczsetniczyś strony i ich zastępcy. Zastępcami stron, biorących udział w sprawię, mogą być jedynie ądwokaci; władze mogą być zastąpione przez swoich urzędników, wzajemnie przez urzędników władz nadzorczych oraz, o ile chodzi o gminy, przez osoby, wydelegowane zgrona członków ich zarządów, rad gminnych lub urzędników. Uprawnienie do zastępstwa należy wykazać Trybunałowi przed rozprawą. Skarżącemu, lub też przypozwanemu w razie ich udowodnionego ubóstwa może być przydany zastępca z urzędu, jak również przyznane całkowicie lub częściowe zwolnienie od opłat. Uczestniczący w rozprawie sekretarz sporządza protokuł rozprawy, który podpisują przewodniczący i sekretarz."
-    },
-    {
-      "provision_ref": "art21",
-      "section": "21",
-      "title": "Art. 21",
-      "content": "Jeżeli z powodu przedmiotu sprawy jawność posiedzenia mogłaby narazić bezpieczeństwo publiczne lub interes państwowy na szkodę, Trybunał z urzędu lub na wniosek strony może postanowić, aby posiedzenie odbyło się z wykluczeniem jawności przy udziale jedynie stron oraz ich pełnomocników. Uchwałę w tym przedmiocie, a następnie wyrok Trybunał ogłasza publicznie."
-    },
-    {
-      "provision_ref": "art22",
-      "section": "22",
-      "title": "Art. 22",
-      "content": "Rozprawa główna rozpoczyna się od wywołania sprawy i przedstawienia jej stanu przez jednego z sędziów Trybunału, jako referenta, poczerń następują wyjaśnienia stron, o ile Trybunał uzna je za potrzebne, wreszcie przemówienia zastępców stron, którzy mają prawo zabierać głos jednakową ilość razy. Niestawiennictwo stron lub ich zastępców nie wstrzymuje wprowadzenia sprawy i wydania wyroku. Trybunał na wniosek stron lub z urzędu może odroczyć wyznaczoną lub nawet rozpoczętą rozprawę na inny termin."
-    },
-    {
-      "provision_ref": "art23",
-      "section": "23",
-      "title": "Art. 23",
-      "content": "Rozprawą główną kieruje przewodniczący, którego rzeczą jest również utrzymywać należyty spokój. Przewodniczący może osoby, zakłócające porządek, o ile nie są posłuszne jego upomnieniom, wydalić z sali rozpraw, a w razie cięższego wykroczenia skazać nadto na karę pieniężną do wysokości 10.000 marek. Przeciwko postanowieniom przewodniczącego służy prawo odwołania się do Trybunału, który orzeka ostatecznie. Odwołanie zgłosić należy przed zamknięciem rozprawy."
-    },
-    {
-      "provision_ref": "art24",
-      "section": "24",
-      "title": "Art. 24",
-      "content": "Trybunał orzeka na podstawie stanu faktycznego, jaki okazuje się z aktów, któremi rozporządzała ostatnia instancja administracyjna przy wydaniu zaskarżonego zarządzenia lub orzeczenia, a w razie nie przedstawienia przez nią aktów (art. 15 ustęp 2) na podstawie stanu faktycznego, przedstawionego w skardze lub na rozprawie. Okoliczności faktycznych i środków dowodowych, nie przytoczonych przed wydaniem zaskarżonego zarządzenia lub orzeczenia, tudzież aktów, wyłączonych z pod przeglądu, o ile treść tychże nie zosrała na rozprawie podana do wiadomości, Trybunał nie uwzględni."
-    },
-    {
-      "provision_ref": "art25",
-      "section": "25",
-      "title": "Art. 25",
-      "content": "Trybunał wydaje wyroki w imieniu Rzeczypospolitej Polskiej. Wyrok wraz z uzasadnieniem, podpisany przez wszystkich członków wyrokujących, przewodniczący ogłasza publicznie na tem samem posiedzeniu, na którem odbyła się rozprawa główna. Gdy z jakichbądź przyczyn ogłoszenie wyroku nie może nastąpić na tem samem posiedzeniu, można je odroczyć do innego posiedzenia, co przewodniczący publicznie ogłosi, oznaczając dzień ogłoszenia wyroku. Wyrok na piśmie doręcza się stronom."
-    },
-    {
       "provision_ref": "art26",
       "section": "26",
       "title": "Art. 26",
-      "content": "Jeżeli Trybunał uzna skargę za uzasadnioną, uchyla zaskarżone zarządzenie lub orzeczenie, a władza administracyjna postąpi w myśl art. 5."
+      "content": "Jeżeli Trybunał uzna skargę za uzasadnioną, · uc~yH zaskarżone orzeczenie lub zarządzenie, oraz · orzeknie o opłacie w myśl art. 19 ust. 2. W razie oddalenia skargi Trybunał może podwyższyć opłatę nie wyżej jednak niż do kwoty 300 · złotych. Podwyższoną opłatę,.w razie nieuiszczenia jej l do dni czternastu od dnia doręczen i a odno'śnej decyzji, ściąga się w drodze administracyjnej."
+    },
+    {
+      "provision_ref": "art26u2",
+      "section": "26",
+      "title": "Art. 26 ust. 2",
+      "content": "W razie oddalenia skargi Trybunał może podwyższyć opłatę nie wyżej jednak niż do kwoty 300 · złotych. Podwyższoną opłatę,.w razie nieuiszczenia jej l do dni czternastu od dnia doręczen i a odno'śnej decyzji, ściąga się w drodze administracyjnej."
     },
     {
       "provision_ref": "art27",
       "section": "27",
       "title": "Art. 27",
-      "content": "Trybunał umorzy postępowanie w razie cofnięcia skargi przez skarżącego. Sprawa raz umorzona nie może być ponownie przez Trybunał rozpatrywana."
+      "content": "Trybunał umorzy postępowanie w razie cofnię, cia skargi przez skarżącego przed zamknięciem rozprawy, lub przed rozstrzygnięciem sprawy . na posiedzeniuniejawnem. Jeżeli władza pozwana przed rozstrzygnięciem ;>prawy cofnie zaskarżone orz'eczenie lub zarządzenie i zawiadomi o tem Trybunał, należy zaządać od skarżącego oświadq:enia w wyznaczonym terminie, czy skargę swą cofa. Brak odpowiedzi w terminie oznaczonym powoduje umorzenie postępowania. W razie śmierci skarżącego, względnie zgaśnięcia skarżącej osoby prawnej, Trybunał zawie3za postępowanie do czasu zgłoszenia się prawnych następców strony skarżącej. Niezgłoszenie się prawnych następców strony skarżącej w ciągu 3 lat pociąga za sobą umorzenie postępowania z urzędu. O ile w sprawie zawieszonej zarządzone było wstrzymanie wykonania zaskarżonego orzeczenia, Trybunał, zawieszając postępowanie, poweźmie decyżję co do dalszego trwania wstrzymania. W wypadkach umorzenia postępowania Trybunał orzeknie o opłacie w myśl art. 19 ustęp 2, . jeżeli umorzenie nastąpiło na zasadzie ustępu 2 niniejszego artykułu. W razie cofnięcia skargi może Najwyższy Trybunał Administracyjny zarządzić zwrot części opłaty w kwocie, nie przenoszącej 15 złotych. Sprawa, raz umorzona, nie może być ponownie przez Trybuna! rozpatrywana. Brt. 28. Podania, wnoszone do Najwyższego Trybunału Rdministracyjnego, z wyjątkiem skargi, jej odpisów i rej uzupełnienia w terminie przepisanym, oraz z wyjątkiem tych podań. które strona skarżąca wnosi na skutek zarządzenia Trybunału, lub które dotyczą cofnięcia skargi, a wreszciE! podań o przyznanie prawa ubogich (art. 20 ust. 3 ustawy o Najwyższym Trybunałe Rdministracyjnym) podlegają opłatom stemplowym obowiązującym dla podań, wnoszonych do Sądu Naj wyższego poza postępowaniem sądowem. Takież same opłaty należą się od załączników, jak również od świadectw i odpisów, wydawanych przez Najwyższy Trybunał f\\dministracyjny poza , postępo· waniem."
     },
     {
-      "provision_ref": "art28",
-      "section": "28",
-      "title": "Art. 28",
-      "content": "Kary, wymierzane na mocy art. 23, ściąga się w drodze administracyjnej na rzecz Skarbu Państwa."
+      "provision_ref": "art27u28",
+      "section": "27",
+      "title": "Art. 27 ust. 28",
+      "content": "Podania, wnoszone do Najwyższego Trybunału Rdministracyjnego, z wyjątkiem skargi, jej odpisów i rej uzupełnienia w terminie przepisanym, oraz z wyjątkiem tych podań. które strona skarżąca wnosi na skutek zarządzenia Trybunału, lub które dotyczą cofnięcia skargi, a wreszciE! podań o przyznanie prawa ubogich (art. 20 ust. 3 ustawy o Najwyższym Trybunałe Rdministracyjnym) podlegają opłatom stemplowym obowiązującym dla podań, wnoszonych do Sądu Naj wyższego poza postępowaniem sądowem. Takież same opłaty należą się od załączników, jak również od świadectw i odpisów, wydawanych przez Najwyższy Trybunał f\\dministracyjny poza , postępo· waniem."
     },
     {
       "provision_ref": "art29",
       "section": "29",
       "title": "Art. 29",
-      "content": "Termin, liczony na miesiące, upływa w odpowiednim dniu ostatniego miesiąca. Jeżeli koniec terminu, liczonego na miesiące, przypada na taki miesiąc, który odpowiedniej daty nie posiada, to termin ten kończy się w ostatnim dniu tego miesiąca. Przy liczeniu na dni nie bierze się w rachubę dnia wykonania tej czynności, od której termin biec zaczyna, ostatni zaś z wyznaczonej liczby dni uważa się za koniec terminu. Terminu nie uważa się za zaniedbany, jeżeli przed jego upływem skargę lub podanie wystano pocztą listem poleconym. Jeżeli ostatni dzień terminu przypada na niedzielę lub święto, to termin upływa w najbliższym dniu powszednim."
+      "content": "Termin, liczony na miesiące, upływa w odpowiednim dniu ostatniego miesiąca. Jeżeli koniec ter- , minu, liczonego na miesiące, przypada na taki miesiąc, który odpowiedniej daty nie posiada, to term;n ten kończy się w ostatnim dniu tego miesiąca. Przy liczeniu na dni nie bierze się w rachubę dnia wykonania tej czynności, od której termin biec zaczy~a, ostatni zaś z wyznaczonej liczby dni uważa się· Za koniec terminu. Termin nie uważa się za zaniedbany, jeżeli przed jego upływem skargę lub podanie wysłano pocztą listem poleconym. Jeżeli ostatni dzień terminu przypada na· nie~ dzielę lub święto, to termin upływa w najbliższym dniu powszednim. . Rrt. ~O. PrzywrÓcenie terminu na podanie skargi (art. 10) jest nie dopuszczalne, przywrócenie innych terminóW zależy od uznania Trybunału, który rozstrzyga o tern w trybie, wskazanym w ustępie ' 5 art. 18. .' ; \" ,Rrt. 3l. Każda ze stron (skarżący, władza administracyjna, przypozwany) może żądać wyłączenia sędziego~ 1) w sprawie, . w której on sam jest stroną, po~ zostaje do jednej ze stron w stosunku współuprawnionego lub współobowiązanego, albo ma względem niej obowiązek regresu, 2) w sprawie żony sędziego, j,ęgo krewnych i powinowatych w linji prostej, krewnych w linji bocznej - do trzeciego stopnia, lub powinowatychdo drugiego, . . 3) w sprawie rodziców · przybranych, albo wychowawców sędziego, · jego dzieci przybr~nych lub wychowańców, pupilów i 'o ddanych jego pIeczy, . 4) w sprawie, w której sędzia był albo jest pełnomocnikiem jednej ze stron, 5) w sprawie, w której sędzia brał jaki bądź udział . w wydaniu zaskarżonego zarządzenia l!Jb orzeczenia, . . 6) gdy zachodzi uzasadniona pr:z;yczyna do ppwątpiewania o jego bezstronności. . Sędzie, względem którego zachodzi jedna z przyczyn, wsbzanych powyżej (1 do 5), obowiązanyjes.t sam zażądać swego wyłączenia. Trybunał rozstrzyga o wyłączeniu sędziego.· pp wysłuchaniu . go, uchwala bez poprzednieL ustne.j .rozprawy."
     },
     {
-      "provision_ref": "art30",
-      "section": "30",
-      "title": "Art. 30",
-      "content": "Przywrócenie terminu na podanie skargi (art. 10) jest niedopuszczalne, przywrócenie innych terminów zależy od uznania Trybunału, który rozstrzyga o tem w trybie, wskazanym w ustępie 4 art. 13."
+      "provision_ref": "art29u3lp1",
+      "section": "29",
+      "title": "Art. 29 ust. 3l pkt 1",
+      "content": "w sprawie, . w której on sam jest stroną, po~ zostaje do jednej ze stron w stosunku współuprawnionego lub współobowiązanego, albo ma względem niej obowiązek regresu,"
     },
     {
-      "provision_ref": "art31",
-      "section": "31",
-      "title": "Art. 31",
-      "content": "Każda ze stron (skarżący, władza administracyjna, przypozwany) może żądać wyłączenia sędziego: w sprawie, której on sam jest stroną, pozostaje do jednej ze stron w stosunku współ- uprawnionego lub współobowiązanego, albo ma względem niej obowiązek regresu, w sprawie żony sędziego, jego krewnych i powinowatych w linji prostej, krewnych w linjj bocznej - do trzeciego stopnia, lub powinowatych - do drugiego, w sprawie rodziców przybranych, albo wychowawców sędziego, jego dzieci przybranych lub wychowańców, pupilów i oddanych jego pieczy, w sprawie, w której sędzia był albo jest pełnomocnikiem jednej ze stron, w sprawie, w której sędzia brał jakibądź udział w wydaniu zaskarżonego zarządzenia lub orzeczenia, gdy zachodzi uzasadniona przyczyna do powątpiewania o jego bezstronności. Sędzia, względem którego zachodzi jedna z przyczyn, wskazanych powyżej (1 do 5), obowiąwiązany jest sam zażądać swego wyłączenia. Trybunał rozstrzyga o wyłączeniu sędziego, po wysłuchaniu go, uchwałą bez poprzedniej ustnej rozprawy."
+      "provision_ref": "art29u3lp2",
+      "section": "29",
+      "title": "Art. 29 ust. 3l pkt 2",
+      "content": "w sprawie żony sędziego, j,ęgo krewnych i powinowatych w linji prostej, krewnych w linji bocznej - do trzeciego stopnia, lub powinowatychdo drugiego, . ."
     },
     {
-      "provision_ref": "art31p1",
-      "section": "31",
-      "title": "Art. 31 pkt 1",
-      "content": "Każda ze stron (skarżący, władza administracyjna, przypozwany) może żądać wyłączenia sędziego: w sprawie, której on sam jest stroną, pozostaje do jednej ze stron w stosunku współ- uprawnionego lub współobowiązanego, albo ma względem niej obowiązek regresu,"
+      "provision_ref": "art29u3lp3",
+      "section": "29",
+      "title": "Art. 29 ust. 3l pkt 3",
+      "content": "w sprawie rodziców · przybranych, albo wychowawców sędziego, · jego dzieci przybr~nych lub wychowańców, pupilów i 'o ddanych jego pIeczy, ."
     },
     {
-      "provision_ref": "art31p2",
-      "section": "31",
-      "title": "Art. 31 pkt 2",
-      "content": "Każda ze stron (skarżący, władza administracyjna, przypozwany) może żądać wyłączenia sędziego: w sprawie żony sędziego, jego krewnych i powinowatych w linji prostej, krewnych w linjj bocznej - do trzeciego stopnia, lub powinowatych - do drugiego,"
+      "provision_ref": "art29u3lp4",
+      "section": "29",
+      "title": "Art. 29 ust. 3l pkt 4",
+      "content": "w sprawie, w której sędzia był albo jest pełnomocnikiem jednej ze stron,"
     },
     {
-      "provision_ref": "art31p3",
-      "section": "31",
-      "title": "Art. 31 pkt 3",
-      "content": "Każda ze stron (skarżący, władza administracyjna, przypozwany) może żądać wyłączenia sędziego: w sprawie rodziców przybranych, albo wychowawców sędziego, jego dzieci przybranych lub wychowańców, pupilów i oddanych jego pieczy,"
+      "provision_ref": "art29u3lp5",
+      "section": "29",
+      "title": "Art. 29 ust. 3l pkt 5",
+      "content": "w sprawie, w której sędzia brał jaki bądź udział . w wydaniu zaskarżonego zarządzenia l!Jb orzeczenia, . ."
     },
     {
-      "provision_ref": "art31p4",
-      "section": "31",
-      "title": "Art. 31 pkt 4",
-      "content": "Każda ze stron (skarżący, władza administracyjna, przypozwany) może żądać wyłączenia sędziego: w sprawie, w której sędzia był albo jest pełnomocnikiem jednej ze stron,"
-    },
-    {
-      "provision_ref": "art31p5",
-      "section": "31",
-      "title": "Art. 31 pkt 5",
-      "content": "Każda ze stron (skarżący, władza administracyjna, przypozwany) może żądać wyłączenia sędziego: w sprawie, w której sędzia brał jakibądź udział w wydaniu zaskarżonego zarządzenia lub orzeczenia,"
-    },
-    {
-      "provision_ref": "art31p6",
-      "section": "31",
-      "title": "Art. 31 pkt 6",
-      "content": "Każda ze stron (skarżący, władza administracyjna, przypozwany) może żądać wyłączenia sędziego: gdy zachodzi uzasadniona przyczyna do powątpiewania o jego bezstronności."
+      "provision_ref": "art29u3lp6",
+      "section": "29",
+      "title": "Art. 29 ust. 3l pkt 6",
+      "content": "gdy zachodzi uzasadniona pr:z;yczyna do ppwątpiewania o jego bezstronności. . Sędzie, względem którego zachodzi jedna z przyczyn, wsbzanych powyżej (1 do 5), obowiązanyjes.t sam zażądać swego wyłączenia. Trybunał rozstrzyga o wyłączeniu sędziego.· pp wysłuchaniu . go, uchwala bez poprzednieL ustne.j .rozprawy."
     },
     {
       "provision_ref": "art32",
       "section": "32",
       "title": "Art. 32",
-      "content": "Szczegółowe przepisy o wewnętrznej organizacji i sposobie urzędowania zawierać będzie regulamin, który uchwali Trybunał na Ogólnem Zgromadzeniu, a wyda Prezydent Rzeczypospolitej na wniosek Rady Ministrów."
-    },
-    {
-      "provision_ref": "art33",
-      "section": "33",
-      "title": "Art. 33",
-      "content": "Trybunał rozpoczyna swe czynności w dwa miesiące po ogłoszeniu niniejszej ustawy."
+      "content": "A Szczegółowe przepisy o wewnętrznej organizacji i sposobie. urzędowania zawierać będzie regulamin, który uchwali Trybunał na Ogólnem Zgromadzeniu, a wyda Prezydent Rzeczypospolitej na wniosel5. Rady Ministrów. IV. Przepisy przechodnie. Rrt. .33. Trybunał rozpoczyna swe czynności w dwa miesiące po ogłoszeni u ustawy z dnia 3 sierpnia 1922 r,. o Najwyższym Trybunąle Rdministracyjnym (Dz. U.R. J'{!ł 67 poz. 600). . P. ... Dziennik Ustaw~ POl. 400."
     },
     {
       "provision_ref": "art34",
       "section": "34",
       "title": "Art. 34",
-      "content": "Przepis, zawarty w ustępie 2 art. 6, o ile dotyczy pierwszego prezesa i prezesów, stosowany będzie dopiero po upływie dwóch lat, licząc od dnia ogłoszenia niniejszej ustawy. Jednak i w tym okresie przejściowym pierwszym prezesem i prezesami mogą być mianowani tylko czynni sędziowie Sądu Najwyższego, albo Najwyższego Trybunału Administracyjnego lub Senatu Administracyjnego Sądu Apelacyjnego w Poznaniu. Mianowanie pierwszego składu Najwyższego Trybunału Administracyjnego nastąpi na wniosek pierwszego prezesa, przedstawiony Radzie Ministrów."
+      "content": "Przepis, za.wa.rty w ustępie 2 art,. 6, o ile doprezesa i . prezes:ó~, stosowa~y będzie dopiero po upływie dwoch lat, licząc od dnl~ ogloszenia ustawy z . dnia 3 sierpnia 1922 r; o Naj\" wyższym Trybunale Administracyjnym. Jednak. iw tym okresie przejściowym pierwszym prez.ęsem I prezesami mogą być mianowani tylko czynni s~dziowie Sz!du :' Najwyższego', albo Najwyższego Trybunafu Rdministracyjnego lub Sen~tu Rdministracyjnego SądLi 'Rpelacyjnego w' Poznaniu. Mianowanie 'p~etwszegoskładu . Najwyższego Trybunału Administracyjnego nastąpi na wniosek pierwszego prezesa, przedstawiony Radzie Ministrów. tycźy . pierwszego o ,· .:- f\\rt. 35. F\\ż do utworzenia sądownictwa administracyjnego nii:stego stopnia oa całym obszarze Rżeczypospolitej Polskiej, istnieJącE; w b. dzielnicy pru~kiej sądowilictwo administracyjne (orzecznictwo w postępowaniu sporno-administracyjnem) pozostawia się nienaruszone z tą zmianą, że kompetencje ' Senatu I\\dministracyjnego Sądu Rpelacyjnego ~ Pozn~niu prze<;:hodzą na Najwyższy Trybunał f\\dmmlstracy)ny. tła Trybunał przechodzą równieź kompetencje Krajowego Urzędu Wodnego, ustanowiOnego usta.wą wodn!!ł z dnia 7 kwietnia 1913 r. (Zb. Ust. pruskIch strona 53) i rozporządzeniem królewskiem o krajowym urzędzie wodnym z dnia 18 marca 191~ r. (Zb. Us~. pruskich strona 55). Tryb posh~powan.Ia . ~ powyzszych sprawach w Trybunale zachowuJe- Się we?le dotychczasowych ustaw, obowiązujących w b. dZIelniw pruskiej. . \\ Do spraw, nieobjętych właściwościąistni.ejąceg? W b. dzielnicy pruskiej sądownictwa admimstracYJ\" nego; stosują się przepisy nj~iejSzej. ~stawy,.. o Ile sprawy nie są załatwiane w pierwszej InstanCjI przez orgąny kolegjalne Zarząd.u ogólnego poz~ post~powaniem uchwałowem (ustawa z dnia 30llpca 1883 r. Zb. Ust. pruskich str. 591). . . Sprawy, przekazane Trybunałowi Rzeszy dla spraw' finansowych ustąwą z dnia 26 lipca 1918 r. (Dz. Ust. Rzeszy str. 959), przechodzą d9 właściwości Najwyższego Trybunału f\\dm inistracyjnego. W sprawach . tych obowiązuj~ również przepisy ustawy niniejszej. . . . .. Art. 13 ust. 3 ustawy o uproszczeOJU admmlstracjiz dnia 13 maja 1918 r. (Zb. Ust. prusklch' str. 153) uchyla _się. F\\rt. 36. , Sprawy, które wedle ustaw obowi&zujących do dnia wejścia w życie ustawy z 3 sierpnia 1922 r. o Najwyższym Trybunale f\\dministracyjnym należały do właściwości Sądu Najwyższego, a w myśl postanowień tejże ustawy należą do właściwości Trybunału -:- przekaluje się temuż TrybunałoWi., . . . <O ile sprawy takle są w toku . w S~dzle NaJwy·ższym lub U innej władzy - mają być odstąpione Trybunałowi."
     },
     {
-      "provision_ref": "art35",
-      "section": "35",
-      "title": "Art. 35",
-      "content": "Aż do utworzenia sądownictwa administracyjnego niższego stopnia na całym obszarze Rzeczypospolitej Polskiej istniejące w b. dzielnicy pruskiej sądownictwo administracyjne (orzecznictwo w postępowaniu sporno - administracyjnem) pozostawia się nienaruszone z tą zmianą, że kompetencje Senatu Administracyjnego Sądu Apelacyjnego w Poznaniu przechodzą na Najwyższy Trybunał Administracyjny. Na Trybunał przechodzą również kompetencje Krajowego Urzędu Wodnego, ustanowionego ustawą wodną z dnia 7 kwietnia 1913 r. (Zb. Ust. pruskich strona 53) i rozporządzeniem królewskiem o Krajowym Urzędzie Wodnym z dnia 18 marca 1914 r. (Zb. Ust. pruskich strona 55). Tryb postępowania w powyższych sprawach w Trybunale zachowuje się wedle dotychczasowych ustaw, obowiązujących w b. dzielnicy pruskiej. Do spraw, nieobjętych właściwością istniejącego w b. dzielnicy pruskiej sądownictwa administracyjnego, stosują się przepisy niniejszej ustawy, o ile sprawy nie są załatwiane w pierwszej instancji przez organy kolegjalne Zarządu ogólnego poza postępowaniem uchwałowem (ustawa z dnia 30 lipca 1883 r. Zb. Ust. pruskich str. 591). Sprawy, przekazane Trybunałowi Rzeszy dla spraw finansowych ustawą z dnia 26 lipca 1918 r. (Dz. Ust. Rzeszy str. 959), przechodzą do właściwości Najwyższego Trybunału Administracyjnego. W sprawach tych obowiązują również przepisy ustawy niniejszej. Art. 13 ust. 3 ustawy o uproszczeniu administracji z dnia 13 maja 1918 r. (Zb. Ust. pruskich str. 153) uchyla się."
+      "provision_ref": "art34u35p53",
+      "section": "34",
+      "title": "Art. 34 ust. 35 pkt 53",
+      "content": "i rozporządzeniem królewskiem o krajowym urzędzie wodnym z dnia 18 marca 191~ r. (Zb. Us~. pruskich strona 55). Tryb posh~powan.Ia . ~ powyzszych sprawach w Trybunale zachowuJe- Się we?le dotychczasowych ustaw, obowiązujących w b. dZIelniw pruskiej. . \\ Do spraw, nieobjętych właściwościąistni.ejąceg? W b. dzielnicy pruskiej sądownictwa admimstracYJ\" nego; stosują się przepisy nj~iejSzej. ~stawy,.. o Ile sprawy nie są załatwiane w pierwszej InstanCjI przez orgąny kolegjalne Zarząd.u ogólnego poz~ post~powaniem uchwałowem (ustawa z dnia 30llpca 1883 r. Zb. Ust. pruskich str. 591). . . Sprawy, przekazane Trybunałowi Rzeszy dla spraw' finansowych ustąwą z dnia 26 lipca 1918 r. (Dz. Ust. Rzeszy str. 959), przechodzą d9 właściwości Najwyższego Trybunału f\\dm inistracyjnego. W sprawach . tych obowiązuj~ również przepisy ustawy niniejszej. . . . .. Art. 13 ust. 3 ustawy o uproszczeOJU admmlstracjiz dnia 13 maja 1918 r. (Zb. Ust. prusklch' str."
     },
     {
-      "provision_ref": "art36",
-      "section": "36",
-      "title": "Art. 36",
-      "content": "Sprawy, które wedle dotychczas obowiązujących ustaw należały do właściwości Sądu Najwyższego, a w myśl postanowień niniejszej ustawy należą do właściwości Trybunału - przekazuje się temuż Trybunałowi. O ile sprawy takie są już w toku w Sądzie Najwyższym lub u innej władzy - mają być odstąpione Trybunałowi."
+      "provision_ref": "art34u35p153",
+      "section": "34",
+      "title": "Art. 34 ust. 35 pkt 153",
+      "content": "uchyla _się. F\\rt. 36. , Sprawy, które wedle ustaw obowi&zujących do dnia wejścia w życie ustawy z 3 sierpnia 1922 r. o Najwyższym Trybunale f\\dministracyjnym należały do właściwości Sądu Najwyższego, a w myśl postanowień tejże ustawy należą do właściwości Trybunału -:- przekaluje się temuż TrybunałoWi., . . . <O ile sprawy takle są w toku . w S~dzle NaJwy·ższym lub U innej władzy - mają być odstąpione Trybunałowi."
     },
     {
       "provision_ref": "art37",
       "section": "37",
       "title": "Art. 37",
-      "content": "Wyłącza się z pod orzecznictwa Najwyższego Trybunału Administracyjnego: sprawy wymiarów podatków bezpośrednich, opartych na ustawodawstwach okupacyjnych: w b. okupacji niemieckiej - na: rozporządzeniu z dnia 15 sierpnia 1917 r. poz. 367 Dz. Rozp. № 86, dotyczącem podatku od majątku (przepis wykonawczy z dnia 22. VIII. 1917 r. poz. 368 Dz. Rozp. № 86), rozporządzeniu z dnia 5. VII. 1917 r., dotyczącem poboru podatku od handlu i przemysłu poz. 109 Dz. Rozp. № 38 (przepis wykonawczy z dnia 7. VIII. 1916 r. poz. 125 Dz. Rozp. № 40), rozporządzeniu z dnia 19.IV. 1916 r., dotyczącem poboru podatku hipotecznego poz. 81 Dz. Rozp. № 31 (przepis wykonawczy z dnia 26.VI. 1916 r. poz. 106 Dz. Rozp. № 37), rozporządzeniu z dnia 19.IV. 1916 r., dotyczącem poboru podatku dochodowego od kapitałów poz. 82 Dz. Rozp. № 31 (przepis wykonawczy z dnia 5.VII. 1916 r. Dz. Rozp. № 38 str. 21), rozporządzeniu z dnia 19.IV. 1916 r., dotyczącem poboru podatku mieszkaniowego poz. 83 Dz. Rozp. № 31 (przepis wykonawczy z dnia 29.V. 1916 r. poz. 94 Dz. Rozp. № 35); w b. okupacji austrjackiej - na: rozporządzeniu z dnia 27.VIII. 1918 r., dotyczącem ustanowienia państwowych podatków, innych opłat i kar w walucie koronowej Dz. Rozp. c. i k. Zarz. Wojsk w Polsce № 53 z dnia 31.VIII. 1918 r. (przepis wykonawczy z dnia 10.IX. 1918 r. F. A. № 309303/18), rozporządzeniu z dnia 3.III. 1918 r. F. A № 300014/18 o podatku repartycyjnym; sprawy, oparte na dekretach: w przedmicie poboru jednorazowej państwowej daniny od nieruchomości i majątku w kapitale (dekret z dnia 29.I. 1919 roku Dz. P. P. P. № 11 z dnia 4.II. 1919 r. poz. 128) (rozporządzenie wykonawcze z dnia 13.V. 1919 r. Dz. Urz. M. Sk. № 12 1919 r. poz. 180), w przedmiocie podatku majątkowego z dnia 5.II. 1919 r. Dz. P. P. P. № 12 z dnia 6.II. 1919 r. poz. 135 (rozporządzenie wykonawcę z dnia 26.V. 1919 r. Dz. Urz. M. Sk. № 17 z dnia 15.VII. 1919 r. poz. 237), w przedmiocie wprowadzenia podatków od zysków wojennych z dnia 5.II. 1919 r. (Dz. P. P. P. № 12 z dnia 6.II. 1919 r. poz. 136) (rozporządzenie wykonawcze z dnia 12.V. 1919 r. Dz. Urz. M. Sk. № 15 z dnia 3. VII. 1919 r. poz. 215); sprawy wymiaru podatków bezpośrednich za lata, poprzedzające rok podatkowy 1921, o ile chodzi o b. zabór rosyjski."
+      "content": "Wyłącza się z .· pod orzecznictw.a Najwyższego Trybunałtił\\dministracyjnego: 1) sprawy wymiarów podatków bezpośrednkh, opartych na ustawodawstwach okupacyjnych: F\\) w b. okupacjińiemieckiej ~na: . a) rozporządzeniu z dnia 15 sierpnia ' 1917 r. poz. 367 Dz. Rozp. N2 86, dotyczącem P9~ datku od majątku (przepis wykonawc;zy z dnia 22.VIlI.1917 r. poz. 368 Dz. Rozp.N2 86), h) rozporządzeniu z dnia 5.V11.1917 r . .: dot~czącem poboru podatku od handlu I prze_~ mysłu poz. 109 Dz. Rozp. N2 38 (przepis wykonawczy z dnia 7~ VIII.1916 r. poz. 1?S Dz. Rozp. N2 40), . / c) rozporządzeniu z dnia 19.1V.1916 'r.~ dotyczą cem poboru podatku hipotecznego poz; 81 Dz. Rozp. M2 31 (przepis wykonawczy z dnia 26.V1.1916 r., poz. 105 Dz. Rozp. N237); d) rozporządzeniu z dnia 19.1V.1916 r., dotyczą'cempoboru podatku dochodoweg«> od ka\" pit<~ł6w poz. 82 Dz. Rozp. N! 31 .. (przepis wykonawczy z ' dnia 5.VII.1916 r. Dz. Rozp. N2 38 str. 21), e) rozporządzeniu z dnii'!! 19.1V.1916 r., dotyczącem poboru podatku mieszkaniowego poz. . 83 Dz. Rozp . .·M! 31 (przepis wykonawczy . z dnia 29~V.1916r. · poz. 94 Dz. Rozp. H!35-r, B) VI b. okupacji austrjackiej - na: . a) rozporządzeniu z ' dnia 27.YIH.1918 r., doty~ CUlcem ustanowienia państwowych podatków, innych opłat i kar w walucie koronowej Dz. Rozp. c. i k. Zarz. Wojsk. w Polsce NI! 53 z dnia 31.V1I1.1918 r. (przepis wykonawczy z dni~ 10.l~~9~8r. 17\". ł\\, N2 309303/18), b) rozporządzeOlu z dma 3.111.1918 ·r. F. t\\. N2300014/B o podatku repartycyjnym; 2) sprawy, oparte . na dekretach: a) w przedmiocie poboru jednorazowej państwowej daniny od nieruchomOści i majątku w kapitale. (dekret ;z dnia 29.J.l919 roku Dz. P. P. P. NI! 11 z dnia 4.11.1919 r. poz. l~) (rozporządzenie wykonawcze z dnif!l13. V.1919r. Dz. Urz. M. Sk. N2 12 1919 r. poz. 180). . b) w przedmiocie podatku majątko~ego z :dnia 5JI.1919 r. Dz. P. P. Pd'-.'212 z dnia 6./1.1919 t. poz. 135 (rozporządzenie wykonaw<;ze z dnia 26. V.1919 r. Dz. ' Urz. M. Sk. N2 17 zd nia. 15.V11.1919 r. poz. 237), e) w przedmiocie wprowadzenia podatków od zysków wojennych z dnia 5.11.1919 f. (Dz. P. P.P. N2 12 z dnia 6.11.1919 r. poz. 1:36) (rozporządzenie wykonawcze z dn. 12.V.1919r. Dz. Urz. M. Sk. N2 15 z dnia 3.VII.1919 r' poz. 215); ' . . 3) sprawy . wymiaru podatk6wbezpośrednicn za lata, poprzedzające rok podatkowy 1921 • . o iłechodzi ob. zabór rosyjski. :"
     },
     {
-      "provision_ref": "art37p1la",
+      "provision_ref": "art37u26",
       "section": "37",
-      "title": "Art. 37 pkt 1 lit. a",
-      "content": "Wyłącza się z pod orzecznictwa Najwyższego Trybunału Administracyjnego: sprawy wymiarów podatków bezpośrednich, opartych na ustawodawstwach okupacyjnych: w b. okupacji niemieckiej - na: rozporządzeniu z dnia 15 sierpnia 1917 r. poz. 367 Dz. Rozp. № 86, dotyczącem podatku od majątku (przepis wykonawczy z dnia 22. VIII. 1917 r. poz. 368 Dz. Rozp. № 86), rozporządzeniu z dnia 5. VII. 1917 r., dotyczącem poboru podatku od handlu i przemysłu poz. 109 Dz. Rozp. № 38 (przepis wykonawczy z dnia 7. VIII. 1916 r. poz. 125 Dz. Rozp. № 40), rozporządzeniu z dnia 19.IV. 1916 r., dotyczącem poboru podatku hipotecznego poz. 81 Dz. Rozp. № 31 (przepis wykonawczy z dnia 26.VI. 1916 r. poz. 106 Dz. Rozp. № 37), rozporządzeniu z dnia 19.IV. 1916 r., dotyczącem poboru podatku dochodowego od kapitałów poz. 82 Dz. Rozp. № 31 (przepis wykonawczy z dnia 5.VII. 1916 r. Dz. Rozp. № 38 str. 21), rozporządzeniu z dnia 19.IV. 1916 r., dotyczącem poboru podatku mieszkaniowego poz. 83 Dz. Rozp. № 31 (przepis wykonawczy z dnia 29.V. 1916 r. poz. 94 Dz. Rozp. № 35);"
-    },
-    {
-      "provision_ref": "art37p1lb",
-      "section": "37",
-      "title": "Art. 37 pkt 1 lit. b",
-      "content": "Wyłącza się z pod orzecznictwa Najwyższego Trybunału Administracyjnego: sprawy wymiarów podatków bezpośrednich, opartych na ustawodawstwach okupacyjnych: w b. okupacji austrjackiej - na: rozporządzeniu z dnia 27.VIII. 1918 r., dotyczącem ustanowienia państwowych podatków, innych opłat i kar w walucie koronowej Dz. Rozp. c. i k. Zarz. Wojsk w Polsce № 53 z dnia 31.VIII. 1918 r. (przepis wykonawczy z dnia 10.IX. 1918 r. F. A. № 309303/18), rozporządzeniu z dnia 3.III. 1918 r. F. A № 300014/18 o podatku repartycyjnym;"
-    },
-    {
-      "provision_ref": "art37p2la",
-      "section": "37",
-      "title": "Art. 37 pkt 2 lit. a",
-      "content": "Wyłącza się z pod orzecznictwa Najwyższego Trybunału Administracyjnego: sprawy, oparte na dekretach: w przedmicie poboru jednorazowej państwowej daniny od nieruchomości i majątku w kapitale (dekret z dnia 29.I. 1919 roku Dz. P. P. P. № 11 z dnia 4.II. 1919 r. poz. 128) (rozporządzenie wykonawcze z dnia 13.V. 1919 r. Dz. Urz. M. Sk. № 12 1919 r. poz. 180),"
-    },
-    {
-      "provision_ref": "art37p2lb",
-      "section": "37",
-      "title": "Art. 37 pkt 2 lit. b",
-      "content": "Wyłącza się z pod orzecznictwa Najwyższego Trybunału Administracyjnego: sprawy, oparte na dekretach: w przedmiocie podatku majątkowego z dnia 5.II. 1919 r. Dz. P. P. P. № 12 z dnia 6.II. 1919 r. poz. 135 (rozporządzenie wykonawcę z dnia 26.V. 1919 r. Dz. Urz. M. Sk. № 17 z dnia 15.VII. 1919 r. poz. 237),"
-    },
-    {
-      "provision_ref": "art37p2lc",
-      "section": "37",
-      "title": "Art. 37 pkt 2 lit. c",
-      "content": "Wyłącza się z pod orzecznictwa Najwyższego Trybunału Administracyjnego: sprawy, oparte na dekretach: w przedmiocie wprowadzenia podatków od zysków wojennych z dnia 5.II. 1919 r. (Dz. P. P. P. № 12 z dnia 6.II. 1919 r. poz. 136) (rozporządzenie wykonawcze z dnia 12.V. 1919 r. Dz. Urz. M. Sk. № 15 z dnia 3. VII. 1919 r. poz. 215);"
-    },
-    {
-      "provision_ref": "art37p3",
-      "section": "37",
-      "title": "Art. 37 pkt 3",
-      "content": "Wyłącza się z pod orzecznictwa Najwyższego Trybunału Administracyjnego: sprawy wymiaru podatków bezpośrednich za lata, poprzedzające rok podatkowy 1921, o ile chodzi o b. zabór rosyjski."
+      "title": "Art. 37 ust. 26",
+      "content": "V.1919 r. Dz. ' Urz. M. Sk. N2 17 zd nia. 15.V11.1919 r. poz. 237), e) w przedmiocie wprowadzenia podatków od zysków wojennych z dnia 5.11.1919 f. (Dz. P. P.P. N2 12 z dnia 6.11.1919 r. poz. 1:36) (rozporządzenie wykonawcze z dn. 12.V.1919r. Dz. Urz. M. Sk. N2 15 z dnia 3.VII.1919 r' poz. 215); ' . . 3) sprawy . wymiaru podatk6wbezpośrednicn za lata, poprzedzające rok podatkowy 1921 • . o iłechodzi ob. zabór rosyjski. :"
     },
     {
       "provision_ref": "art38",
       "section": "38",
       "title": "Art. 38",
-      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia i ma także zastosowanie do tych wypadków, w których od dnia doręczenia orzeczenia ostatniej instancji, zapadłego przed wejściem w życie niniejszej ustawy, termin 2 miesięczny, zakreślony w art. 10, jeszcze nie upłynął. Równocześnie z ogłoszeniem niniejszej ustawy tracą moc dotychczas obowiązujące ustawy i przepisy, wydane w przedmiotach, unormowanych tą ustawą."
+      "content": "Ustawa z dnia 3 sierpnia '1922 r; o Najwyższym· Trybunale Administracyjnym (Dz. U. R. P. N267 . poz. 6OD) wchodzi w życie z · dniem ogłoszenia i ma także zastosowanie do tych wypadków, w: których ' od dnia dorE:czenia orzeczenia :\"óstatriiejinstancjV za~ padłego przed jej wejśdem VI życie, termin 2 miesi<tczny; zakreślony Wart. lOt jeszcze nie upłynął. i DziennIk Ustaw. Poz. 400 i 401. N.!··68. -~~~~-~ ., . . Równocześni~ z ogłoszeniem powołanej w poprzednim ustępie ustawy tracą moc obowiązujZlce przed jej ogłoszeniem ustawy i przepisy, wydane w przedmiotach, uOdrmowanych tą ustawą. Ustawa z dnia 25 marca 1926' r.o zmianie niektÓryc.h przepisów ustawy z dnia 3 sierpnia 1922 f. o ; Najwyżslym Trybunalef\\dministracyjnym (Dz. U. R, P, NI! 37, poz. 237) uzyskuje moc obowiązującą ć.:zŁerrt~stego dnia po ogłQszeniu ~ tem, że wprowadzone w niej nowe posbnowienia o opłatach nie stosują si~ do skarg, wniesionych prtedjej wejściem w żyde, o ile do skargi dołączono opłaty W przepisanej dotychczas wysokości, w którym to przypadku maj\" z.ąstosowanie dotychczasowe przepisy. Z chwilą wejścia w życie wymienionej w poprzednim ustępie ustawy\" z dnia 25 marca 1926 r. traci moc obowiąiującą ustawa z dnia . 22 września 1922 r. o kosztach postępowania przed Najwyższym Trybunałem f\\dministracyjnym (Dz. U.R. P. N2 89, poz.SOO). z zastrzeżeniem, zawartem w ustępie poprzednim. f\\rt. 39~ Wykonanie niniejszej ustawy powierza si~ ' PreRady Ministrów, a o ile chodzi o postanowienia o opIatach i karach pieniężnych - w porozwnienu 2 Ministrem Skarbu. z, e~owi 401. Rozporządzenie , Cena sprzedażna specyfików farmaceutycznych , winna być ustal3nn przez wytwórcę, stosownie do ilości preparatu, zawartego w op'a kowaniu, przezna· czónemdo sprzedaży, przyjmując za podstaw~ obliczenia należność, jakaby przypadła za 50 proszków, 100 tabletek, 60 pigułek, . 30 kapsułek żelatynowych lUb 12 ampułek do injekcji\" o ile specyfik został w jednej z tych postaci przyrządzony. , § 3. Ceny za materjały. naczynia i Ipracę przy recepturze, określone w taksie aptekarskiej, są maksymalne; ceny niższe pobierać . można zarówno za lekarstwa, sporządzone na podstawie recept, jak i · wydawane w odręcznej sprzedaży. . . W razie pobrania za lekarstwo, sporządzone na podstawie recepty, ceny niższej od określonej w taksie aptekarskiej, należy na recepcie, zwracanej odbiorcy względnie na wydawanej sygnaturze, ()znaczyć cen~ podług tej taksy oraz cenę faktycznie pobran2ł. . Wszelkiego rodzaju reklamy o pobieraniu cen niższych od cen, oznaczonych w taksie aptekarskie}, wzglt::dnie ustalonych zgodnie z przepisami niniej': szego rozporządz 7 nia. są wzbronione. .. § 4. Przy odręcznej sprzedaży do ceny materjału i< naczynia można doliczać tylko opłat~, ptzewl~ . dzianą w punktach b i d pOl. 12 taksy za prac~ przy tecepturze. § 5. Najniższa cena każdej jednostki ciężaro~ wej, ustalonej zgodnie z przepisami § 6 ust. 1 i § 1:3 niniejszego rozporządzenia, wynosi .3 grosze, o ile w taksie nie jest oznaczOna cena niższa. Taksa uwzględnia nast~pllj\"ce JednosŁki 0,01, 0,1, 1,0, 10,0 i 100 gramów. Jeżeli w taksie oznaczona jest cena tylko dla niiszej Jedz dnia 30 czerwca 1926 r. nostki, to dla uzyskania ceny wyższeJ jednostki cenę W ,prawie wydawania ~aptek środków leczni- grama, dekagrama lub hektograma należy pomnoźy,ć pr,lez 8, cent:: centigrama i declgrama przez 10; czych i określania ich ceny. dla uzyskania ceny niższej jednostki cenę hektograma . .. Namoc:y arl 2 p. 13 i art. 10 zasadniczej względnie dekagrama należy rozdzielić przez 8, cenę ustawy sanitarnej z dnia 19 lipca 1919 r. (Dz P. grama względnie decigrama~przez 10. Dla, ustalenia ceny grama, wydawanego ponad P. P.N! 63 poz. 371). ustawy .Z dnia 28 listopada 1923 r. w przedmiocie znlesjeni~ Mini$terstwa Zdrowia 10 gramów, należy cenę dekagrama podzielić przez Publicznego (Dz. U. R. P. Ne 131 poz. 1060), § 1 10, dla ustalenia ceny dekagrama, wydawanego ponad 100 gramów, naJeży cenę hektograma podzielić rozporządzenia Prezydenta Rzeczypospolitej z dnia 18 stycznia 1924 r. (Dz. U. R. P. N2 9, poz. 86), § 7 przez 10. dla ustillenia ceny grama, wydawanego ~,ll,Strjackiej ustawy aptekarskiej z dnia 18 grudnia ' ponad 100 gramów, należy cenę hektograma padzie· . 1906 r. (Dz. Ust. P. z 19CY7 1'1'2 5), art. 380 rosyjskiej Iić przez 100. Cenę 250 gramów i ilości ponad 250 gramów ustawy lekarskiej (ros. zbiór praw z 1905 r. t. Xlii). art. 78 j 80 niemieckiej ustawy przemysłowej, zarzą­ oblicza się w stosunku do ceny za jeden kilogram. dza się co następuje: § 7. Cena. pobierana za kilka gramów, nie , § 1. Właściciele, dzierżClwcy lub odpowiedziałni może przewyis,za~ ceny, oznaczonej dla dekagrama, kierownicy ' aptek publicznych i domowych z prawem to samo stosujesl~ i do innych jednostek ci~ż~' sprzeda;\", lekarstw, winni ściśle stosować się do rowych. taksy aptekarskiej, wydawanej w drodze osobnych § 8. Za środki lekarskie, zaordynowane w' pewrozporządzeń I posiadać jeden jej egzemplarz. nej i1ościki'opli.liczy si~ na 1 gra!TI 20kroplf olej- Ministra Spraw Wewnętrznych § 6. ciElżarowe: Cena lekarstwa, sporządzonego podług r.e<:epty, oblicza się przez dodanIe cen: za wydllny materjał, z~ naczynie, stosownie do jego objętości l· za przygotowa1}ie le,karstwa, stos0wnie dO'~aksy 221, pJace przy Teceptur~e.\" Taksam0 nalęży . obliczaĆ w razie sporz~dzel'll.Jal<.o.rstw8 W imnięjśtonej lub ków tłustych. nalewek. kwasów mineralnych ro~deń· ' czonych fwogóle płynów wodnistych orat CIężkIch olejkóweterycznyćhi 25 kropli Innych olejkóW ete~. rycznych, eterU octowego, wyskoku eterowego i chloroformu,a 50 kropli czystego eteru. § 9. Z~ sproszkowanie substancyj, które dają lWI~kizonej ileś,I• . śl~ łatwo ptoszkowac Vi moźdżierżu pbrtehmowym; § 2."
     },
     {
-      "provision_ref": "art39",
-      "section": "39",
-      "title": "Art. 39",
-      "content": "Wykonanie ustawy niniejszej porucza się Prezesowi Rady Ministrów."
+      "provision_ref": "art38par3",
+      "section": "38",
+      "title": "Art. 38 § 3",
+      "content": "Ceny za materjały. naczynia i Ipracę przy recepturze, określone w taksie aptekarskiej, są maksymalne; ceny niższe pobierać . można zarówno za lekarstwa, sporządzone na podstawie recept, jak i · wydawane w odręcznej sprzedaży. . . W razie pobrania za lekarstwo, sporządzone na podstawie recepty, ceny niższej od określonej w taksie aptekarskiej, należy na recepcie, zwracanej odbiorcy względnie na wydawanej sygnaturze, ()znaczyć cen~ podług tej taksy oraz cenę faktycznie pobran2ł. . Wszelkiego rodzaju reklamy o pobieraniu cen niższych od cen, oznaczonych w taksie aptekarskie}, wzglt::dnie ustalonych zgodnie z przepisami niniej': szego rozporządz 7 nia. są wzbronione. .."
+    },
+    {
+      "provision_ref": "art38par4",
+      "section": "38",
+      "title": "Art. 38 § 4",
+      "content": "Przy odręcznej sprzedaży do ceny materjału i< naczynia można doliczać tylko opłat~, ptzewl~ . dzianą w punktach b i d pOl. 12 taksy za prac~ przy tecepturze."
+    },
+    {
+      "provision_ref": "art38par5",
+      "section": "38",
+      "title": "Art. 38 § 5",
+      "content": "Najniższa cena każdej jednostki ciężaro~ wej, ustalonej zgodnie z przepisami § 6 ust. 1 i § 1:3 niniejszego rozporządzenia, wynosi .3 grosze, o ile w taksie nie jest oznaczOna cena niższa. Taksa uwzględnia nast~pllj\"ce JednosŁki 0,01, 0,1, 1,0, 10,0 i 100 gramów. Jeżeli w taksie oznaczona jest cena tylko dla niiszej Jedz dnia 30 czerwca 1926 r. nostki, to dla uzyskania ceny wyższeJ jednostki cenę W ,prawie wydawania ~aptek środków leczni- grama, dekagrama lub hektograma należy pomnoźy,ć pr,lez 8, cent:: centigrama i declgrama przez 10; czych i określania ich ceny. dla uzyskania ceny niższej jednostki cenę hektograma . .. Namoc:y arl 2 p. 13 i art. 10 zasadniczej względnie dekagrama należy rozdzielić przez 8, cenę ustawy sanitarnej z dnia 19 lipca 1919 r. (Dz P. grama względnie decigrama~przez 10. Dla, ustalenia ceny grama, wydawanego ponad P. P.N! 63 poz. 371). ustawy .Z dnia 28 listopada 1923 r. w przedmiocie znlesjeni~ Mini$terstwa Zdrowia 10 gramów, należy cenę dekagrama podzielić przez Publicznego (Dz. U. R. P. Ne 131 poz. 1060), § 1 10, dla ustalenia ceny dekagrama, wydawanego ponad 100 gramów, naJeży cenę hektograma podzielić rozporządzenia Prezydenta Rzeczypospolitej z dnia 18 stycznia 1924 r. (Dz. U. R. P. N2 9, poz. 86), § 7 przez 10. dla ustillenia ceny grama, wydawanego ~,ll,Strjackiej ustawy aptekarskiej z dnia 18 grudnia ' ponad 100 gramów, należy cenę hektograma padzie· . 1906 r. (Dz. Ust. P. z 19CY7 1'1'2 5), art. 380 rosyjskiej Iić przez 100. Cenę 250 gramów i ilości ponad 250 gramów ustawy lekarskiej (ros. zbiór praw z 1905 r. t. Xlii). art. 78 j 80 niemieckiej ustawy przemysłowej, zarzą­ oblicza się w stosunku do ceny za jeden kilogram. dza się co następuje:"
+    },
+    {
+      "provision_ref": "art38par7",
+      "section": "38",
+      "title": "Art. 38 § 7",
+      "content": "Cena. pobierana za kilka gramów, nie ,"
+    },
+    {
+      "provision_ref": "art38par1",
+      "section": "38",
+      "title": "Art. 38 § 1",
+      "content": "Właściciele, dzierżClwcy lub odpowiedziałni może przewyis,za~ ceny, oznaczonej dla dekagrama, kierownicy ' aptek publicznych i domowych z prawem to samo stosujesl~ i do innych jednostek ci~ż~' sprzeda;\", lekarstw, winni ściśle stosować się do rowych. taksy aptekarskiej, wydawanej w drodze osobnych"
+    },
+    {
+      "provision_ref": "art38par8",
+      "section": "38",
+      "title": "Art. 38 § 8",
+      "content": "Za środki lekarskie, zaordynowane w' pewrozporządzeń I posiadać jeden jej egzemplarz. nej i1ościki'opli.liczy si~ na 1 gra!TI 20kroplf olej- Ministra Spraw Wewnętrznych"
+    },
+    {
+      "provision_ref": "art38par6",
+      "section": "38",
+      "title": "Art. 38 § 6",
+      "content": "ciElżarowe: Cena lekarstwa, sporządzonego podług r.e<:epty, oblicza się przez dodanIe cen: za wydllny materjał, z~ naczynie, stosownie do jego objętości l· za przygotowa1}ie le,karstwa, stos0wnie dO'~aksy 221, pJace przy Teceptur~e.\" Taksam0 nalęży . obliczaĆ w razie sporz~dzel'll.Jal<.o.rstw8 W imnięjśtonej lub ków tłustych. nalewek. kwasów mineralnych ro~deń· ' czonych fwogóle płynów wodnistych orat CIężkIch olejkóweterycznyćhi 25 kropli Innych olejkóW ete~. rycznych, eterU octowego, wyskoku eterowego i chloroformu,a 50 kropli czystego eteru."
+    },
+    {
+      "provision_ref": "art38par9",
+      "section": "38",
+      "title": "Art. 38 § 9",
+      "content": "Z~ sproszkowanie substancyj, które dają lWI~kizonej ileś,I• . śl~ łatwo ptoszkowac Vi moźdżierżu pbrtehmowym; § 2."
     }
   ],
-  "definitions": [],
-  "references": []
+  "definitions": []
 }

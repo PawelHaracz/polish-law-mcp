@@ -10,10 +10,28 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/1989/10",
   "provisions": [
     {
+      "provision_ref": "art824",
+      "section": "824",
+      "title": "Art. 824",
+      "content": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem: art. 288 ust. 2 i art. 777 ust. 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia; art. 439 ust. 1 pkt 4, który wchodzi w życie z dniem 1 stycznia 2023 r."
+    },
+    {
+      "provision_ref": "art824p1",
+      "section": "824",
+      "title": "Art. 824 pkt 1",
+      "content": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem: art. 288 ust. 2 i art. 777 ust. 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia;"
+    },
+    {
+      "provision_ref": "art824p2",
+      "section": "824",
+      "title": "Art. 824 pkt 2",
+      "content": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem: art. 439 ust. 1 pkt 4, który wchodzi w życie z dniem 1 stycznia 2023 r."
+    },
+    {
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "Ustawa określa zasady gospodarki finansowej przedsiębiorstw państwowych, zwanych dalej „przedsiębiorstwami”."
+      "content": "Ustawa określa zasady gospodarki finansowej przedsiębiorstw państwowych działających na podstawie przepisów ustawy z dnia 25 września 1981 r. o przedsiębiorstwach państwowych oraz na podstawie innych ustaw, zwanych dalej „przedsiębiorstwami”."
     },
     {
       "provision_ref": "art2",
@@ -25,19 +43,25 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "Wartość majątku przedsiębiorstwa odzwierciedlają: fundusz założycielski przedsiębiorstwa, fundusz przedsiębiorstwa. Fundusz założycielski przedsiębiorstwa odzwierciedla wartość wydzielonej przedsiębiorstwu części mienia ogólnonarodowego. Fundusz przedsiębiorstwa odzwierciedla wartość majątku przedsiębiorstwa po odliczeniu funduszu założycielskiego. Wielkość funduszu założycielskiego przedsiębiorstwa podlega wpisowi do rejestru przedsiębiorstw państwowych."
+      "content": "Wartość majątku przedsiębiorstwa odzwierciedlają: fundusz założycielski przedsiębiorstwa; fundusz przedsiębiorstwa; fundusz z aktualizacji wyceny, określony odrębnymi przepisami. Fundusz założycielski przedsiębiorstwa odzwierciedla wartość wydzielonej przedsiębiorstwu części mienia ogólnonarodowego. Fundusz przedsiębiorstwa odzwierciedla wartość majątku przedsiębiorstwa po odliczeniu funduszu założycielskiego. Wielkość funduszu założycielskiego przedsiębiorstwa podlega wpisowi do rejestru przedsiębiorstw państwowych 1) Obecnie Krajowy Rejestr Sądowy na podstawie art. 86 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2021 r. poz. 112, z 2020 r. poz. 2320, z 2021 r. poz. 1598, 1641 i 2106 oraz z 2022 r. poz. 807 i 984), która weszła w życie z dniem 1 stycznia 2001 r. ."
     },
     {
       "provision_ref": "art3u1p1",
       "section": "3",
       "title": "Art. 3 ust. 1 pkt 1",
-      "content": "Wartość majątku przedsiębiorstwa odzwierciedlają: fundusz założycielski przedsiębiorstwa,"
+      "content": "Wartość majątku przedsiębiorstwa odzwierciedlają: fundusz założycielski przedsiębiorstwa;"
     },
     {
       "provision_ref": "art3u1p2",
       "section": "3",
       "title": "Art. 3 ust. 1 pkt 2",
-      "content": "Wartość majątku przedsiębiorstwa odzwierciedlają: fundusz przedsiębiorstwa."
+      "content": "Wartość majątku przedsiębiorstwa odzwierciedlają: fundusz przedsiębiorstwa;"
+    },
+    {
+      "provision_ref": "art3u1p3",
+      "section": "3",
+      "title": "Art. 3 ust. 1 pkt 3",
+      "content": "Wartość majątku przedsiębiorstwa odzwierciedlają: fundusz z aktualizacji wyceny, określony odrębnymi przepisami."
     },
     {
       "provision_ref": "art3u2",
@@ -55,503 +79,435 @@
       "provision_ref": "art3u4",
       "section": "3",
       "title": "Art. 3 ust. 4",
-      "content": "Wielkość funduszu założycielskiego przedsiębiorstwa podlega wpisowi do rejestru przedsiębiorstw państwowych."
+      "content": "Wielkość funduszu założycielskiego przedsiębiorstwa podlega wpisowi do rejestru przedsiębiorstw państwowych 1) Obecnie Krajowy Rejestr Sądowy na podstawie art. 86 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2021 r. poz. 112, z 2020 r. poz. 2320, z 2021 r. poz. 1598, 1641 i 2106 oraz z 2022 r. poz. 807 i 984), która weszła w życie z dniem 1 stycznia 2001 r. ."
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "Fundusz założycielski zwiększają przekazane z budżetu państwa dotacje na finansowanie rozwoju przedsiębiorstwa oraz pozostawiona w przedsiębiorstwie dywidenda obligatoryjna, zwana dalej „dywidendą”, a także inne środki przekazane przez organ założycielski lub przez Skarb Państwa przedsiębiorstwu. Fundusz założycielski zwiększa się lub zmniejsza o kwotę zmiany wartości majątku trwałego i obrotowego przedsiębiorstwa, będącą skutkiem ustawowego przeszacowania tego majątku. Kwotę tę ustala się zachowując wzajemne proporcje funduszu założycielskiego i funduszu przedsiębiorstwa bezpośrednio przed dokonaniem ustawowego przeszacowania. Fundusz założycielski przedsiębiorstw gospodarki mieszkaniowej zmniejsza się o kwotę umorzenia wartości domów mieszkalnych."
+      "content": "Fundusz założycielski zwiększają przekazane z budżetu państwa dotacje na finansowanie rozwoju przedsiębiorstwa, a także inne środki przekazane przez organ założycielski lub przez Skarb Państwa przedsiębiorstwu. (uchylony) Jeżeli przedsiębiorstwo w wykonaniu prawomocnych decyzji i orzeczeń wydanych przez właściwe organy na podstawie odrębnych ustaw nieodpłatnie przekazało osobom prawnym lub osobom fizycznym część swego mienia w postaci środków trwałych, dokonuje zmniejszenia funduszu założycielskiego, z zastrzeżeniem ust. 6 i 7. Jeżeli nieodpłatne przekazanie, w wypadkach przewidzianych w ust. 3, następuje na rzecz przedsiębiorstwa państwowego, dokonuje ono zwiększenia swego funduszu założycielskiego o wartość równą kwocie zmniejszenia funduszu założycielskiego dokonanego przez przedsiębiorstwo przekazujące. Przedsiębiorstwo otrzymujące środki trwałe w wypadku, o którym mowa w ust. 9, powiększa swój fundusz założycielski o wartość równą kwocie zmniejszenia funduszu założycielskiego dokonanego przez przedsiębiorstwo przekazujące. Fundusz założycielski ulega zmniejszeniu o kwoty zapłacone z tytułu nabytych na podstawie ustawy z dnia 29 kwietnia 1985 r. o gospodarce gruntami i wywłaszczaniu nieruchomości ) 3) Ustawa utraciła moc z dniem 1 stycznia 1998 r. na podstawie art. 241 pkt 1 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2021 r. poz. 1899), która weszła w życie z dniem 1 stycznia 1998 r. budynków i lokali, z zastrzeżeniem ust. 6 i 7. Zmniejszenie funduszu założycielskiego w wypadkach przewidzianych w ust. 3, 5, 9 i 10 następuje wyłącznie w sytuacji, gdy przekazane mienie w postaci środków trwałych lub nabyte budynki i lokale stanowiły podstawę ustalenia tego funduszu. Kwotę zmniejszenia funduszu założycielskiego w wypadkach przewidzianych w ust. 3, 5, 9 i 10 ustala się mnożąc wartość przekazanych środków trwałych lub nabytych budynków i lokali przez współczynnik udziału funduszu założycielskiego w łącznej wartości funduszu założycielskiego i funduszu przedsiębiorstwa, według stanu na dzień 1 stycznia (po przeszacowaniu) roku, w którym mienie to zostało nieodpłatnie przekazane lub nabyte. Fundusz założycielski przedsiębiorstw gospodarki mieszkaniowej zmniejsza się o kwotę umorzenia wartości domów mieszkalnych. Fundusz założycielski ulega zmniejszeniu w wypadku dokonania darowizny, zgodnie z art. 46a ustawy z dnia 25 września 1981 r. o przedsiębiorstwach państwowych , posiadanych budynków i budowli oraz infrastruktury technicznej w zakresie urządzeń, obiektów i sieci: energetycznych (elektrycznych i gazowych), wodno-kanalizacyjnych, ciepłowniczych oraz telekomunikacyjnych, innemu przedsiębiorstwu państwowemu, pod warunkiem przejęcia przez to przedsiębiorstwo odpowiedniej części funduszu założycielskiego ustalonej zgodnie z zasadami określonymi w ust. 6 i 7. Jeżeli przedsiębiorstwo dokonuje darowizny, zgodnie z art. 46a ustawy o przedsiębiorstwach państwowych , na rzecz jednostek budżetowych lub gmin (związków gmin) budynków i budowli, w których funkcjonują szkoły, szpital i przychodnie przyzakładowe, hotele robotnicze oraz infrastruktury technicznej w zakresie urządzeń, obiektów i sieci: energetycznych (elektrycznych i gazowych), wodno-kanalizacyjnych, ciepłowniczych oraz telekomunikacyjnych, to może pomniejszyć fundusz założycielski zgodnie z zasadami określonymi w ust. 6 i 7."
     },
     {
       "provision_ref": "art4u1",
       "section": "4",
       "title": "Art. 4 ust. 1",
-      "content": "Fundusz założycielski zwiększają przekazane z budżetu państwa dotacje na finansowanie rozwoju przedsiębiorstwa oraz pozostawiona w przedsiębiorstwie dywidenda obligatoryjna, zwana dalej „dywidendą”, a także inne środki przekazane przez organ założycielski lub przez Skarb Państwa przedsiębiorstwu."
+      "content": "Fundusz założycielski zwiększają przekazane z budżetu państwa dotacje na finansowanie rozwoju przedsiębiorstwa, a także inne środki przekazane przez organ założycielski lub przez Skarb Państwa przedsiębiorstwu."
     },
     {
       "provision_ref": "art4u2",
       "section": "4",
       "title": "Art. 4 ust. 2",
-      "content": "Fundusz założycielski zwiększa się lub zmniejsza o kwotę zmiany wartości majątku trwałego i obrotowego przedsiębiorstwa, będącą skutkiem ustawowego przeszacowania tego majątku. Kwotę tę ustala się zachowując wzajemne proporcje funduszu założycielskiego i funduszu przedsiębiorstwa bezpośrednio przed dokonaniem ustawowego przeszacowania."
+      "content": "(uchylony)"
     },
     {
       "provision_ref": "art4u3",
       "section": "4",
       "title": "Art. 4 ust. 3",
+      "content": "Jeżeli przedsiębiorstwo w wykonaniu prawomocnych decyzji i orzeczeń wydanych przez właściwe organy na podstawie odrębnych ustaw nieodpłatnie przekazało osobom prawnym lub osobom fizycznym część swego mienia w postaci środków trwałych, dokonuje zmniejszenia funduszu założycielskiego, z zastrzeżeniem ust. 6 i 7."
+    },
+    {
+      "provision_ref": "art4u4",
+      "section": "4",
+      "title": "Art. 4 ust. 4",
+      "content": "Jeżeli nieodpłatne przekazanie, w wypadkach przewidzianych w ust. 3, następuje na rzecz przedsiębiorstwa państwowego, dokonuje ono zwiększenia swego funduszu założycielskiego o wartość równą kwocie zmniejszenia funduszu założycielskiego dokonanego przez przedsiębiorstwo przekazujące."
+    },
+    {
+      "provision_ref": "art4u4a",
+      "section": "4",
+      "title": "Art. 4 ust. 4a",
+      "content": "Przedsiębiorstwo otrzymujące środki trwałe w wypadku, o którym mowa w ust. 9, powiększa swój fundusz założycielski o wartość równą kwocie zmniejszenia funduszu założycielskiego dokonanego przez przedsiębiorstwo przekazujące."
+    },
+    {
+      "provision_ref": "art4u5",
+      "section": "4",
+      "title": "Art. 4 ust. 5",
+      "content": "Fundusz założycielski ulega zmniejszeniu o kwoty zapłacone z tytułu nabytych na podstawie ustawy z dnia 29 kwietnia 1985 r. o gospodarce gruntami i wywłaszczaniu nieruchomości ) 3) Ustawa utraciła moc z dniem 1 stycznia 1998 r. na podstawie art. 241 pkt 1 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2021 r. poz. 1899), która weszła w życie z dniem 1 stycznia 1998 r. budynków i lokali, z zastrzeżeniem ust. 6 i 7."
+    },
+    {
+      "provision_ref": "art4u6",
+      "section": "4",
+      "title": "Art. 4 ust. 6",
+      "content": "Zmniejszenie funduszu założycielskiego w wypadkach przewidzianych w ust. 3, 5, 9 i 10 następuje wyłącznie w sytuacji, gdy przekazane mienie w postaci środków trwałych lub nabyte budynki i lokale stanowiły podstawę ustalenia tego funduszu."
+    },
+    {
+      "provision_ref": "art4u7",
+      "section": "4",
+      "title": "Art. 4 ust. 7",
+      "content": "Kwotę zmniejszenia funduszu założycielskiego w wypadkach przewidzianych w ust. 3, 5, 9 i 10 ustala się mnożąc wartość przekazanych środków trwałych lub nabytych budynków i lokali przez współczynnik udziału funduszu założycielskiego w łącznej wartości funduszu założycielskiego i funduszu przedsiębiorstwa, według stanu na dzień 1 stycznia (po przeszacowaniu) roku, w którym mienie to zostało nieodpłatnie przekazane lub nabyte."
+    },
+    {
+      "provision_ref": "art4u8",
+      "section": "4",
+      "title": "Art. 4 ust. 8",
       "content": "Fundusz założycielski przedsiębiorstw gospodarki mieszkaniowej zmniejsza się o kwotę umorzenia wartości domów mieszkalnych."
+    },
+    {
+      "provision_ref": "art4u9",
+      "section": "4",
+      "title": "Art. 4 ust. 9",
+      "content": "Fundusz założycielski ulega zmniejszeniu w wypadku dokonania darowizny, zgodnie z art. 46a ustawy z dnia 25 września 1981 r. o przedsiębiorstwach państwowych , posiadanych budynków i budowli oraz infrastruktury technicznej w zakresie urządzeń, obiektów i sieci: energetycznych (elektrycznych i gazowych), wodno-kanalizacyjnych, ciepłowniczych oraz telekomunikacyjnych, innemu przedsiębiorstwu państwowemu, pod warunkiem przejęcia przez to przedsiębiorstwo odpowiedniej części funduszu założycielskiego ustalonej zgodnie z zasadami określonymi w ust. 6 i 7."
+    },
+    {
+      "provision_ref": "art4u10",
+      "section": "4",
+      "title": "Art. 4 ust. 10",
+      "content": "Jeżeli przedsiębiorstwo dokonuje darowizny, zgodnie z art. 46a ustawy o przedsiębiorstwach państwowych , na rzecz jednostek budżetowych lub gmin (związków gmin) budynków i budowli, w których funkcjonują szkoły, szpital i przychodnie przyzakładowe, hotele robotnicze oraz infrastruktury technicznej w zakresie urządzeń, obiektów i sieci: energetycznych (elektrycznych i gazowych), wodno-kanalizacyjnych, ciepłowniczych oraz telekomunikacyjnych, to może pomniejszyć fundusz założycielski zgodnie z zasadami określonymi w ust. 6 i 7."
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Art. 5",
-      "content": "Fundusz przedsiębiorstwa zwiększa się o: zysk pozostający w dyspozycji przedsiębiorstwa, amortyzację majątku trwałego, kwoty zwiększenia wartości majątku trwałego i obrotowego przedsiębiorstwa, będącego skutkiem ustawowego przeszacowania tego majątku, ustalone przy uwzględnieniu wzajemnych proporcji funduszu przedsiębiorstwa i funduszu założycielskiego bezpośrednio przed dokonaniem ustawowego przeszacowania, środki z innych źródeł. Fundusz przedsiębiorstwa zmniejsza się o: straty bilansowe, umorzenia majątku trwałego, kwoty zmniejszenia wartości majątku trwałego i obrotowego przedsiębiorstwa, będącego skutkiem ustawowego przeszacowania tego majątku, ustalone przy uwzględnieniu wzajemnych proporcji udziału funduszu przedsiębiorstwa i funduszu założycielskiego bezpośrednio przed dokonaniem ustawowego przeszacowania, dywidendy, gdy nie mogą być wypłacone z osiągniętego zysku po jego opodatkowaniu."
+      "content": "W wypadku połączenia się przedsiębiorstw fundusz założycielski połączonego przedsiębiorstwa ustala się jako sumę całości lub części funduszy założycielskich przedsiębiorstw połączonych. W wypadku podziału przedsiębiorstwa fundusz założycielski nowo powstałych przedsiębiorstw ustala się przez podzielenie funduszu założycielskiego przedsiębiorstwa ulegającego podziałowi."
     },
     {
-      "provision_ref": "art5u1p1",
+      "provision_ref": "art5u1",
       "section": "5",
-      "title": "Art. 5 ust. 1 pkt 1",
-      "content": "Fundusz przedsiębiorstwa zwiększa się o: zysk pozostający w dyspozycji przedsiębiorstwa,"
+      "title": "Art. 5 ust. 1",
+      "content": "W wypadku połączenia się przedsiębiorstw fundusz założycielski połączonego przedsiębiorstwa ustala się jako sumę całości lub części funduszy założycielskich przedsiębiorstw połączonych."
     },
     {
-      "provision_ref": "art5u1p2",
+      "provision_ref": "art5u2",
       "section": "5",
-      "title": "Art. 5 ust. 1 pkt 2",
-      "content": "Fundusz przedsiębiorstwa zwiększa się o: amortyzację majątku trwałego,"
-    },
-    {
-      "provision_ref": "art5u1p3",
-      "section": "5",
-      "title": "Art. 5 ust. 1 pkt 3",
-      "content": "Fundusz przedsiębiorstwa zwiększa się o: kwoty zwiększenia wartości majątku trwałego i obrotowego przedsiębiorstwa, będącego skutkiem ustawowego przeszacowania tego majątku, ustalone przy uwzględnieniu wzajemnych proporcji funduszu przedsiębiorstwa i funduszu założycielskiego bezpośrednio przed dokonaniem ustawowego przeszacowania,"
-    },
-    {
-      "provision_ref": "art5u1p4",
-      "section": "5",
-      "title": "Art. 5 ust. 1 pkt 4",
-      "content": "Fundusz przedsiębiorstwa zwiększa się o: środki z innych źródeł."
-    },
-    {
-      "provision_ref": "art5u2p1",
-      "section": "5",
-      "title": "Art. 5 ust. 2 pkt 1",
-      "content": "Fundusz przedsiębiorstwa zmniejsza się o: straty bilansowe,"
-    },
-    {
-      "provision_ref": "art5u2p2",
-      "section": "5",
-      "title": "Art. 5 ust. 2 pkt 2",
-      "content": "Fundusz przedsiębiorstwa zmniejsza się o: umorzenia majątku trwałego,"
-    },
-    {
-      "provision_ref": "art5u2p3",
-      "section": "5",
-      "title": "Art. 5 ust. 2 pkt 3",
-      "content": "Fundusz przedsiębiorstwa zmniejsza się o: kwoty zmniejszenia wartości majątku trwałego i obrotowego przedsiębiorstwa, będącego skutkiem ustawowego przeszacowania tego majątku, ustalone przy uwzględnieniu wzajemnych proporcji udziału funduszu przedsiębiorstwa i funduszu założycielskiego bezpośrednio przed dokonaniem ustawowego przeszacowania,"
-    },
-    {
-      "provision_ref": "art5u2p4",
-      "section": "5",
-      "title": "Art. 5 ust. 2 pkt 4",
-      "content": "Fundusz przedsiębiorstwa zmniejsza się o: dywidendy, gdy nie mogą być wypłacone z osiągniętego zysku po jego opodatkowaniu."
+      "title": "Art. 5 ust. 2",
+      "content": "W wypadku podziału przedsiębiorstwa fundusz założycielski nowo powstałych przedsiębiorstw ustala się przez podzielenie funduszu założycielskiego przedsiębiorstwa ulegającego podziałowi."
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Art. 6",
-      "content": "Przedsiębiorstwa wydobywające minerały metodą odkrywkową oraz inne przedsiębiorstwa prowadzące działalność gospodarczą, której towarzyszy powstawanie hałd lub degradacja terenu, mogą tworzyć fundusz rekultywacji z narzutów na koszty działalności. Środki funduszu przeznacza się na finansowanie przedsięwzięć pozainwestycyjnych mających na celu zagospodarowanie terenów poeksploatacyjnych i hałd."
+      "content": "Fundusz przedsiębiorstwa zwiększa się o: zysk pozostający w dyspozycji przedsiębiorstwa; amortyzację majątku trwałego; (uchylony) środki z innych źródeł. Fundusz przedsiębiorstwa zmniejsza się o: straty bilansowe; umorzenie majątku trwałego; (uchylony) (uchylony) kwotę zmniejszenia wartości mienia w postaci środków trwałych nieodpłatnie przekazanego osobom prawnym lub fizycznym w wykonaniu prawomocnych decyzji i orzeczeń wydanych przez upoważnione organy na podstawie odrębnych ustaw oraz kwotę nabytych budynków i lokali, która nie została uwzględniona przy zmniejszaniu funduszu założycielskiego, o którym mowa w art. 4 ust. 3 i 5; kwotę zmniejszenia wartości mienia w postaci zakładowych domów mieszkalnych, żłobków, przedszkoli oraz budynków służących zakładowej działalności socjalnej, w związku z dokonaniem darowizny tych środków trwałych na rzecz innych osób prawnych."
+    },
+    {
+      "provision_ref": "art6u1p1",
+      "section": "6",
+      "title": "Art. 6 ust. 1 pkt 1",
+      "content": "Fundusz przedsiębiorstwa zwiększa się o: zysk pozostający w dyspozycji przedsiębiorstwa;"
+    },
+    {
+      "provision_ref": "art6u1p2",
+      "section": "6",
+      "title": "Art. 6 ust. 1 pkt 2",
+      "content": "Fundusz przedsiębiorstwa zwiększa się o: amortyzację majątku trwałego;"
+    },
+    {
+      "provision_ref": "art6u1p3",
+      "section": "6",
+      "title": "Art. 6 ust. 1 pkt 3",
+      "content": "Fundusz przedsiębiorstwa zwiększa się o: (uchylony)"
+    },
+    {
+      "provision_ref": "art6u1p4",
+      "section": "6",
+      "title": "Art. 6 ust. 1 pkt 4",
+      "content": "Fundusz przedsiębiorstwa zwiększa się o: środki z innych źródeł."
+    },
+    {
+      "provision_ref": "art6u2p1",
+      "section": "6",
+      "title": "Art. 6 ust. 2 pkt 1",
+      "content": "Fundusz przedsiębiorstwa zmniejsza się o: straty bilansowe;"
+    },
+    {
+      "provision_ref": "art6u2p2",
+      "section": "6",
+      "title": "Art. 6 ust. 2 pkt 2",
+      "content": "Fundusz przedsiębiorstwa zmniejsza się o: umorzenie majątku trwałego;"
+    },
+    {
+      "provision_ref": "art6u2p3",
+      "section": "6",
+      "title": "Art. 6 ust. 2 pkt 3",
+      "content": "Fundusz przedsiębiorstwa zmniejsza się o: (uchylony)"
+    },
+    {
+      "provision_ref": "art6u2p4",
+      "section": "6",
+      "title": "Art. 6 ust. 2 pkt 4",
+      "content": "Fundusz przedsiębiorstwa zmniejsza się o: (uchylony)"
+    },
+    {
+      "provision_ref": "art6u2p5",
+      "section": "6",
+      "title": "Art. 6 ust. 2 pkt 5",
+      "content": "Fundusz przedsiębiorstwa zmniejsza się o: kwotę zmniejszenia wartości mienia w postaci środków trwałych nieodpłatnie przekazanego osobom prawnym lub fizycznym w wykonaniu prawomocnych decyzji i orzeczeń wydanych przez upoważnione organy na podstawie odrębnych ustaw oraz kwotę nabytych budynków i lokali, która nie została uwzględniona przy zmniejszaniu funduszu założycielskiego, o którym mowa w art. 4 ust. 3 i 5;"
+    },
+    {
+      "provision_ref": "art6u2p6",
+      "section": "6",
+      "title": "Art. 6 ust. 2 pkt 6",
+      "content": "Fundusz przedsiębiorstwa zmniejsza się o: kwotę zmniejszenia wartości mienia w postaci zakładowych domów mieszkalnych, żłobków, przedszkoli oraz budynków służących zakładowej działalności socjalnej, w związku z dokonaniem darowizny tych środków trwałych na rzecz innych osób prawnych."
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Art. 7",
-      "content": "Wydatki związane z realizacją zadań przedsiębiorstw państwowych w zakresie obronności kraju, wynikających z przepisów ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Polskiej Rzeczypospolitej Ludowej oraz z innych przepisów ustawowych, z wyjątkiem wydatków ponoszonych na podstawie odrębnych przepisów wydawanych przez Radę Ministrów i Komitet Obrony Kraju z funduszu zadań wyodrębnionych, tworzonego ze środków budżetowych - obciążają koszty działalności przedsiębiorstw państwowych."
+      "content": "W wypadku połączenia się przedsiębiorstw fundusz przedsiębiorstwa połączonego ustala się jako sumę całości lub części funduszy przedsiębiorstw połączonych. W wypadku podziału przedsiębiorstwa fundusz przedsiębiorstw nowo powstałych ustala się przez podzielenie funduszu przedsiębiorstwa ulegającego podziałowi."
+    },
+    {
+      "provision_ref": "art7u1",
+      "section": "7",
+      "title": "Art. 7 ust. 1",
+      "content": "W wypadku połączenia się przedsiębiorstw fundusz przedsiębiorstwa połączonego ustala się jako sumę całości lub części funduszy przedsiębiorstw połączonych."
+    },
+    {
+      "provision_ref": "art7u2",
+      "section": "7",
+      "title": "Art. 7 ust. 2",
+      "content": "W wypadku podziału przedsiębiorstwa fundusz przedsiębiorstw nowo powstałych ustala się przez podzielenie funduszu przedsiębiorstwa ulegającego podziałowi."
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Art. 8",
-      "content": "Przedsiębiorstwo może tworzyć inne fundusze z zysku po jego opodatkowaniu i po odliczeniu dywidendy."
+      "content": "Podstawą ustalenia wysokości funduszy założycielskiego i przedsiębiorstwa w wypadkach, o których mowa w art. 5 i 7, są bilanse zamknięcia łączonych lub dzielonych przedsiębiorstw."
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Art. 9",
-      "content": "Przedsiębiorstwo przekazuje Skarbowi Państwa dywidendę na zasadach określonych w ustawie. Podstawę naliczania dywidendy stanowi kwota funduszu założycielskiego przedsiębiorstwa. Dywidenda jest wypłacana z zysku po opodatkowaniu."
-    },
-    {
-      "provision_ref": "art9u1",
-      "section": "9",
-      "title": "Art. 9 ust. 1",
-      "content": "Przedsiębiorstwo przekazuje Skarbowi Państwa dywidendę na zasadach określonych w ustawie."
-    },
-    {
-      "provision_ref": "art9u2",
-      "section": "9",
-      "title": "Art. 9 ust. 2",
-      "content": "Podstawę naliczania dywidendy stanowi kwota funduszu założycielskiego przedsiębiorstwa."
-    },
-    {
-      "provision_ref": "art9u3",
-      "section": "9",
-      "title": "Art. 9 ust. 3",
-      "content": "Dywidenda jest wypłacana z zysku po opodatkowaniu."
+      "content": "Przedsiębiorstwa wydobywające minerały metodą odkrywkową oraz inne przedsiębiorstwa prowadzące działalność gospodarczą, której towarzyszy powstawanie hałd lub degradacja terenu, mogą tworzyć fundusz rekultywacji z narzutów na koszty działalności. Środki funduszu przeznacza się na finansowanie przedsięwzięć pozainwestycyjnych mających na celu zagospodarowanie terenów poeksploatacyjnych i hałd."
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Art. 10",
-      "content": "W zakresie ustalonym w ustawie interesy Skarbu Państwa wobec przedsiębiorstw reprezentują: Minister Finansów, z zastrzeżeniem pkt 2, terenowe organy administracji państwowej o właściwości ogólnej w stosunku do przedsiębiorstw podległych radom narodowym. Minister Finansów oraz terenowe organy, o których mowa w ust. 1: prowadzą ewidencję funduszy założycielskich przedsiębiorstw oraz ich zmian, pobierają dywidendy odpowiednio na dochód budżetu centralnego lub terenowego."
-    },
-    {
-      "provision_ref": "art10u1p1",
-      "section": "10",
-      "title": "Art. 10 ust. 1 pkt 1",
-      "content": "W zakresie ustalonym w ustawie interesy Skarbu Państwa wobec przedsiębiorstw reprezentują: Minister Finansów, z zastrzeżeniem pkt 2,"
-    },
-    {
-      "provision_ref": "art10u1p2",
-      "section": "10",
-      "title": "Art. 10 ust. 1 pkt 2",
-      "content": "W zakresie ustalonym w ustawie interesy Skarbu Państwa wobec przedsiębiorstw reprezentują: terenowe organy administracji państwowej o właściwości ogólnej w stosunku do przedsiębiorstw podległych radom narodowym."
-    },
-    {
-      "provision_ref": "art10u2p1",
-      "section": "10",
-      "title": "Art. 10 ust. 2 pkt 1",
-      "content": "Minister Finansów oraz terenowe organy, o których mowa w ust. 1: prowadzą ewidencję funduszy założycielskich przedsiębiorstw oraz ich zmian,"
-    },
-    {
-      "provision_ref": "art10u2p2",
-      "section": "10",
-      "title": "Art. 10 ust. 2 pkt 2",
-      "content": "Minister Finansów oraz terenowe organy, o których mowa w ust. 1: pobierają dywidendy odpowiednio na dochód budżetu centralnego lub terenowego."
+      "content": "Wydatki związane z realizacją zadań przedsiębiorstw państwowych w zakresie obronności kraju, wynikających z przepisów ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny oraz z innych przepisów ustawowych, z wyjątkiem wydatków ponoszonych na podstawie odrębnych przepisów wydawanych przez Radę Ministrów z funduszu zadań wyodrębnionych, tworzonego ze środków budżetowych - obciążają koszty działalności przedsiębiorstw państwowych."
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Art. 11",
-      "content": "Wysokość stopy procentowej dla naliczania dywidendy za rok podatkowy ustala się w ustawie budżetowej, z uwzględnieniem przewidywanej stopy zysku w gospodarce narodowej oraz podstawowej stopy oprocentowania kredytu udzielanego bankom przez Narodowy Bank Polski, z zastrzeżeniem art. 21."
+      "content": "Zysk po opodatkowaniu podatkiem dochodowym i po odliczeniu wpłat z zysku na rzecz budżetu państwa, o których mowa w art. 12 ust. 1, może być przeznaczony na tworzenie funduszy własnych, funduszu nagród dla pracowników oraz na dofinansowanie zakładowego funduszu świadczeń socjalnych. Do funduszy własnych przedsiębiorstwa zalicza się fundusz założycielski, fundusz przedsiębiorstwa, fundusz z aktualizacji wyceny oraz niepodzielony wynik finansowy."
+    },
+    {
+      "provision_ref": "art11u1",
+      "section": "11",
+      "title": "Art. 11 ust. 1",
+      "content": "Zysk po opodatkowaniu podatkiem dochodowym i po odliczeniu wpłat z zysku na rzecz budżetu państwa, o których mowa w art. 12 ust. 1, może być przeznaczony na tworzenie funduszy własnych, funduszu nagród dla pracowników oraz na dofinansowanie zakładowego funduszu świadczeń socjalnych."
+    },
+    {
+      "provision_ref": "art11u2",
+      "section": "11",
+      "title": "Art. 11 ust. 2",
+      "content": "Do funduszy własnych przedsiębiorstwa zalicza się fundusz założycielski, fundusz przedsiębiorstwa, fundusz z aktualizacji wyceny oraz niepodzielony wynik finansowy."
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Art. 12",
-      "content": "Dywidendy od przedsiębiorstw gospodarki rolnej, przedsiębiorstw lasów państwowych oraz przedsiębiorstw rybołówstwa morskiego ustala się w wysokości 1/4 dywidendy, o której mowa w art. 11; dywidenda ta zwiększa fundusz założycielski przedsiębiorstw. Przepis ust. 1 stosuje się również do przedsiębiorstw użyteczności publicznej, z wyjątkiem przedsiębiorstw wymienionych w art. 13 pkt 1, z tym że dywidenda podlega wpłaceniu odpowiednio na dochód budżetu centralnego lub terenowego. Rada Ministrów określa podstawę i sposób naliczania dywidendy od przedsiębiorstw wykonujących w całości lub w części zadania dla potrzeb obronności i bezpieczeństwa państwa."
+      "content": "Przedsiębiorstwa są obowiązane do dokonywania wpłat z zysku po opodatkowaniu podatkiem dochodowym na rzecz budżetu państwa. Z wpłat, o których mowa w ust. 1, zwolnione są przedsiębiorstwa działające przy zakładach karnych i aresztach śledczych podległe Ministrowi Sprawiedliwości. Z wpłat, o których mowa w ust. 1, zwolniony jest także w okresie opodatkowania podatkiem tonażowym przedsiębiorca żeglugowy w zakresie przychodów z działalności opodatkowanej podatkiem tonażowym. Z wpłat, o których mowa w ust. 1, zwolnione są także przedsiębiorstwa za okres roku obrotowego, w którym wystąpił stan zagrożenia epidemicznego lub stan epidemii, oraz za okres roku obrotowego poprzedzającego rok obrotowy, w którym wystąpił którykolwiek z wyżej wymienionych stanów. Rada Ministrów, w drodze rozporządzenia, może na wniosek organu założycielskiego zwolnić przedsiębiorstwa wykonujące w całości lub w części zadania na potrzeby obronności i bezpieczeństwa państwa z obowiązku dokonywania wpłat z zysku lub przyznać tym przedsiębiorstwom ulgi we wpłatach z zysku."
     },
     {
       "provision_ref": "art12u1",
       "section": "12",
       "title": "Art. 12 ust. 1",
-      "content": "Dywidendy od przedsiębiorstw gospodarki rolnej, przedsiębiorstw lasów państwowych oraz przedsiębiorstw rybołówstwa morskiego ustala się w wysokości 1/4 dywidendy, o której mowa w art. 11; dywidenda ta zwiększa fundusz założycielski przedsiębiorstw."
+      "content": "Przedsiębiorstwa są obowiązane do dokonywania wpłat z zysku po opodatkowaniu podatkiem dochodowym na rzecz budżetu państwa."
     },
     {
       "provision_ref": "art12u2",
       "section": "12",
       "title": "Art. 12 ust. 2",
-      "content": "Przepis ust. 1 stosuje się również do przedsiębiorstw użyteczności publicznej, z wyjątkiem przedsiębiorstw wymienionych w art. 13 pkt 1, z tym że dywidenda podlega wpłaceniu odpowiednio na dochód budżetu centralnego lub terenowego."
+      "content": "Z wpłat, o których mowa w ust. 1, zwolnione są przedsiębiorstwa działające przy zakładach karnych i aresztach śledczych podległe Ministrowi Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art12u2a",
+      "section": "12",
+      "title": "Art. 12 ust. 2a",
+      "content": "Z wpłat, o których mowa w ust. 1, zwolniony jest także w okresie opodatkowania podatkiem tonażowym przedsiębiorca żeglugowy w zakresie przychodów z działalności opodatkowanej podatkiem tonażowym."
+    },
+    {
+      "provision_ref": "art12u2b",
+      "section": "12",
+      "title": "Art. 12 ust. 2b",
+      "content": "Z wpłat, o których mowa w ust. 1, zwolnione są także przedsiębiorstwa za okres roku obrotowego, w którym wystąpił stan zagrożenia epidemicznego lub stan epidemii, oraz za okres roku obrotowego poprzedzającego rok obrotowy, w którym wystąpił którykolwiek z wyżej wymienionych stanów."
     },
     {
       "provision_ref": "art12u3",
       "section": "12",
       "title": "Art. 12 ust. 3",
-      "content": "Rada Ministrów określa podstawę i sposób naliczania dywidendy od przedsiębiorstw wykonujących w całości lub w części zadania dla potrzeb obronności i bezpieczeństwa państwa."
+      "content": "Rada Ministrów, w drodze rozporządzenia, może na wniosek organu założycielskiego zwolnić przedsiębiorstwa wykonujące w całości lub w części zadania na potrzeby obronności i bezpieczeństwa państwa z obowiązku dokonywania wpłat z zysku lub przyznać tym przedsiębiorstwom ulgi we wpłatach z zysku."
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Art. 13",
-      "content": "Zwalnia się z obowiązku wpłacenia dywidendy: przedsiębiorstwa gospodarki komunalnej, mieszkaniowej i komunikacji miejskiej, Przedsiębiorstwo Państwowe „Polskie Koleje Państwowe”, Przedsiębiorstwo Państwowe „Porty Lotnicze”, państwową jednostkę organizacyjną „Polska Poczta, Telegraf i Telefon”, przedsiębiorstwo wykonujące statutowe zadania służby ratownictwa morskiego, przedsiębiorstwa podległe Ministrowi Obrony Narodowej i Ministrowi Spraw Wewnętrznych oraz przedsiębiorstwa działające przy zakładach karnych i aresztach śledczych, podległe Ministrowi Sprawiedliwości."
+      "content": "Izby administracji skarbowej prowadzą ewidencję funduszy założycielskich przedsiębiorstw oraz ich zmian. Wpłatę z zysku, o której mowa w art. 12 ust. 1, pobierają właściwe urzędy skarbowe. Wpłaty z zysku dokonywane są w formie zaliczek miesięcznych lub kwartalnych. Wyboru okresu, za jaki będzie dokonywana wpłata zaliczki, dokonuje przedsiębiorstwo. Podstawą ustalenia wysokości zaliczki jest zysk osiągnięty w danym okresie, liczony w rachunku narastającym. Wysokość zaliczki wynosi 15% zysku po opodatkowaniu podatkiem dochodowym."
     },
     {
-      "provision_ref": "art13p1",
+      "provision_ref": "art13u1",
       "section": "13",
-      "title": "Art. 13 pkt 1",
-      "content": "Zwalnia się z obowiązku wpłacenia dywidendy: przedsiębiorstwa gospodarki komunalnej, mieszkaniowej i komunikacji miejskiej,"
+      "title": "Art. 13 ust. 1",
+      "content": "Izby administracji skarbowej prowadzą ewidencję funduszy założycielskich przedsiębiorstw oraz ich zmian."
     },
     {
-      "provision_ref": "art13p2",
+      "provision_ref": "art13u2",
       "section": "13",
-      "title": "Art. 13 pkt 2",
-      "content": "Zwalnia się z obowiązku wpłacenia dywidendy: Przedsiębiorstwo Państwowe „Polskie Koleje Państwowe”,"
+      "title": "Art. 13 ust. 2",
+      "content": "Wpłatę z zysku, o której mowa w art. 12 ust. 1, pobierają właściwe urzędy skarbowe."
     },
     {
-      "provision_ref": "art13p3",
+      "provision_ref": "art13u3",
       "section": "13",
-      "title": "Art. 13 pkt 3",
-      "content": "Zwalnia się z obowiązku wpłacenia dywidendy: Przedsiębiorstwo Państwowe „Porty Lotnicze”,"
+      "title": "Art. 13 ust. 3",
+      "content": "Wpłaty z zysku dokonywane są w formie zaliczek miesięcznych lub kwartalnych."
     },
     {
-      "provision_ref": "art13p4",
+      "provision_ref": "art13u4",
       "section": "13",
-      "title": "Art. 13 pkt 4",
-      "content": "Zwalnia się z obowiązku wpłacenia dywidendy: państwową jednostkę organizacyjną „Polska Poczta, Telegraf i Telefon”,"
+      "title": "Art. 13 ust. 4",
+      "content": "Wyboru okresu, za jaki będzie dokonywana wpłata zaliczki, dokonuje przedsiębiorstwo."
     },
     {
-      "provision_ref": "art13p5",
+      "provision_ref": "art13u5",
       "section": "13",
-      "title": "Art. 13 pkt 5",
-      "content": "Zwalnia się z obowiązku wpłacenia dywidendy: przedsiębiorstwo wykonujące statutowe zadania służby ratownictwa morskiego,"
+      "title": "Art. 13 ust. 5",
+      "content": "Podstawą ustalenia wysokości zaliczki jest zysk osiągnięty w danym okresie, liczony w rachunku narastającym."
     },
     {
-      "provision_ref": "art13p6",
+      "provision_ref": "art13u6",
       "section": "13",
-      "title": "Art. 13 pkt 6",
-      "content": "Zwalnia się z obowiązku wpłacenia dywidendy: przedsiębiorstwa podległe Ministrowi Obrony Narodowej i Ministrowi Spraw Wewnętrznych oraz przedsiębiorstwa działające przy zakładach karnych i aresztach śledczych, podległe Ministrowi Sprawiedliwości."
+      "title": "Art. 13 ust. 6",
+      "content": "Wysokość zaliczki wynosi 15% zysku po opodatkowaniu podatkiem dochodowym."
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Art. 14",
-      "content": "Dywidenda może być przeznaczona na powiększenie funduszu założycielskiego, gdy przedsiębiorstwo wykonuje inwestycje mające na celu restrukturyzację działalności gospodarczej. Decyzje o przeznaczeniu należnych dywidend lub ich części na fundusz założycielski podejmują, na umotywowany wniosek zainteresowanego przedsiębiorstwa, organy reprezentujące Skarb Państwa, o których mowa w art. 10."
-    },
-    {
-      "provision_ref": "art14u1",
-      "section": "14",
-      "title": "Art. 14 ust. 1",
-      "content": "Dywidenda może być przeznaczona na powiększenie funduszu założycielskiego, gdy przedsiębiorstwo wykonuje inwestycje mające na celu restrukturyzację działalności gospodarczej."
-    },
-    {
-      "provision_ref": "art14u2",
-      "section": "14",
-      "title": "Art. 14 ust. 2",
-      "content": "Decyzje o przeznaczeniu należnych dywidend lub ich części na fundusz założycielski podejmują, na umotywowany wniosek zainteresowanego przedsiębiorstwa, organy reprezentujące Skarb Państwa, o których mowa w art. 10."
+      "content": "Wysokość stopy procentowej do naliczania wpłat z zysku wynosi 15% zysku po opodatkowaniu podatkiem dochodowym."
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Art. 15",
-      "content": "Do poboru dywidendy stosuje się przepisy o zobowiązaniach podatkowych. Minister Finansów określa tryb i terminy wpłacania dywidendy."
+      "content": "Do wpłat z zysku stosuje się przepisy o zobowiązaniach podatkowych 5) Obecnie przepisy działu III ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa (Dz. U. z 2021 r. poz. 1540, 1598, 2076, 2105, 2262 i 2328 oraz z 2022 r. poz. 835, 974 i 1265), która weszła w życie z dniem 1 stycznia 1998 r., zgodnie z art. 341 tej ustawy. , z zastrzeżeniem art. 12 ust. 3. Minister Finansów, w drodze rozporządzenia, określa terminy i tryb wpłat z zysku oraz terminy składania deklaracji i wzory tych deklaracji."
     },
     {
       "provision_ref": "art15u1",
       "section": "15",
       "title": "Art. 15 ust. 1",
-      "content": "Do poboru dywidendy stosuje się przepisy o zobowiązaniach podatkowych."
+      "content": "Do wpłat z zysku stosuje się przepisy o zobowiązaniach podatkowych 5) Obecnie przepisy działu III ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa (Dz. U. z 2021 r. poz. 1540, 1598, 2076, 2105, 2262 i 2328 oraz z 2022 r. poz. 835, 974 i 1265), która weszła w życie z dniem 1 stycznia 1998 r., zgodnie z art. 341 tej ustawy. , z zastrzeżeniem art. 12 ust. 3."
     },
     {
       "provision_ref": "art15u2",
       "section": "15",
       "title": "Art. 15 ust. 2",
-      "content": "Minister Finansów określa tryb i terminy wpłacania dywidendy."
+      "content": "Minister Finansów, w drodze rozporządzenia, określa terminy i tryb wpłat z zysku oraz terminy składania deklaracji i wzory tych deklaracji."
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Art. 16",
-      "content": "Jeżeli osiągnięty zysk, po jego opodatkowaniu, nie wystarcza na wypłatę dywidendy, przedsiębiorstwo wpłaca należną dywidendę z funduszu przedsiębiorstwa, zawiadamiając o tym właściwy organ reprezentujący Skarb Państwa. W sytuacji określonej w ust. 1 wszczyna się postępowanie wewnętrzne w trybie i na zasadach określonych w ustawie z dnia 29 czerwca 1983 r. o poprawie gospodarki przedsiębiorstwa państwowego oraz o jego upadłości , z tym że program uzdrowienia gospodarki przedsiębiorstwa podlega zatwierdzeniu również przez organ reprezentujący Skarb Państwa. W razie odmowy zatwierdzenia przez organ reprezentujący Skarb Państwa programu uzdrowienia, organ założycielski wydaje decyzję o likwidacji przedsiębiorstwa."
-    },
-    {
-      "provision_ref": "art16u1",
-      "section": "16",
-      "title": "Art. 16 ust. 1",
-      "content": "Jeżeli osiągnięty zysk, po jego opodatkowaniu, nie wystarcza na wypłatę dywidendy, przedsiębiorstwo wpłaca należną dywidendę z funduszu przedsiębiorstwa, zawiadamiając o tym właściwy organ reprezentujący Skarb Państwa."
-    },
-    {
-      "provision_ref": "art16u2",
-      "section": "16",
-      "title": "Art. 16 ust. 2",
-      "content": "W sytuacji określonej w ust. 1 wszczyna się postępowanie wewnętrzne w trybie i na zasadach określonych w ustawie z dnia 29 czerwca 1983 r. o poprawie gospodarki przedsiębiorstwa państwowego oraz o jego upadłości , z tym że program uzdrowienia gospodarki przedsiębiorstwa podlega zatwierdzeniu również przez organ reprezentujący Skarb Państwa."
-    },
-    {
-      "provision_ref": "art16u3",
-      "section": "16",
-      "title": "Art. 16 ust. 3",
-      "content": "W razie odmowy zatwierdzenia przez organ reprezentujący Skarb Państwa programu uzdrowienia, organ założycielski wydaje decyzję o likwidacji przedsiębiorstwa."
+      "content": "(uchylony)"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Art. 17",
-      "content": "Przedsiębiorstwo jest zobowiązane do prowadzenia prawidłowej, rzetelnej i bieżącej rachunkowości, dostosowanej do przedmiotu jego działalności. Minister Finansów, w drodze rozporządzenia, określa obowiązujące przedsiębiorstwo zasady prowadzenia rachunkowości."
-    },
-    {
-      "provision_ref": "art17u1",
-      "section": "17",
-      "title": "Art. 17 ust. 1",
-      "content": "Przedsiębiorstwo jest zobowiązane do prowadzenia prawidłowej, rzetelnej i bieżącej rachunkowości, dostosowanej do przedmiotu jego działalności."
-    },
-    {
-      "provision_ref": "art17u2",
-      "section": "17",
-      "title": "Art. 17 ust. 2",
-      "content": "Minister Finansów, w drodze rozporządzenia, określa obowiązujące przedsiębiorstwo zasady prowadzenia rachunkowości."
+      "content": "(uchylony)"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Art. 18",
-      "content": "Roczny bilans i wykazany w nim wynik finansowy przedsiębiorstwa podlegają weryfikacji w celu ustalenia podstaw do: podziału zysku i rozliczeń z budżetem państwa, wydzielenia dywidendy, oceny działalności przedsiębiorstwa. Właściwe organy Ministra Finansów dokonują odpłatnie weryfikacji, o której mowa w ust. 1. Minister Finansów może upoważnić inne jednostki do dokonania weryfikacji rocznego bilansu. Rada Ministrów, w drodze rozporządzenia, określa sposób i tryb weryfikacji rocznego bilansu przedsiębiorstwa i wykazanego w nim wyniku finansowego oraz prawa i obowiązki dyplomowanych biegłych księgowych, upoważnionych do udziału w weryfikacji."
-    },
-    {
-      "provision_ref": "art18u1p1",
-      "section": "18",
-      "title": "Art. 18 ust. 1 pkt 1",
-      "content": "Roczny bilans i wykazany w nim wynik finansowy przedsiębiorstwa podlegają weryfikacji w celu ustalenia podstaw do: podziału zysku i rozliczeń z budżetem państwa,"
-    },
-    {
-      "provision_ref": "art18u1p2",
-      "section": "18",
-      "title": "Art. 18 ust. 1 pkt 2",
-      "content": "Roczny bilans i wykazany w nim wynik finansowy przedsiębiorstwa podlegają weryfikacji w celu ustalenia podstaw do: wydzielenia dywidendy,"
-    },
-    {
-      "provision_ref": "art18u1p3",
-      "section": "18",
-      "title": "Art. 18 ust. 1 pkt 3",
-      "content": "Roczny bilans i wykazany w nim wynik finansowy przedsiębiorstwa podlegają weryfikacji w celu ustalenia podstaw do: oceny działalności przedsiębiorstwa."
-    },
-    {
-      "provision_ref": "art18u2",
-      "section": "18",
-      "title": "Art. 18 ust. 2",
-      "content": "Właściwe organy Ministra Finansów dokonują odpłatnie weryfikacji, o której mowa w ust. 1. Minister Finansów może upoważnić inne jednostki do dokonania weryfikacji rocznego bilansu."
-    },
-    {
-      "provision_ref": "art18u3",
-      "section": "18",
-      "title": "Art. 18 ust. 3",
-      "content": "Rada Ministrów, w drodze rozporządzenia, określa sposób i tryb weryfikacji rocznego bilansu przedsiębiorstwa i wykazanego w nim wyniku finansowego oraz prawa i obowiązki dyplomowanych biegłych księgowych, upoważnionych do udziału w weryfikacji."
+      "content": "(uchylony)"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Art. 19",
-      "content": "W przedsiębiorstwach istniejących w dniu wejścia w życie ustawy fundusz założycielski ustala się w wysokości sumy: funduszu statutowego w środkach trwałych, według stanu na dzień 31 grudnia 1983 r., pomniejszonego o wartość netto zakładowych domów mieszkalnych, żłobków i przedszkoli oraz majątku trwałego służącego zakładowej działalności socjalnej, a także obronie cywilnej, a powiększonego o wykorzystane dotacje budżetowe na inwestycje według stanu na dzień 1 stycznia 1989 r., funduszu statutowego w środkach obrotowych według stanu na dzień 31 grudnia 1983 r. do wysokości 25% stanu zapasów (łącznie z kosztami przyszłych okresów) na ten sam dzień. Przepis ust. 1 stosuje się odpowiednio do przedsiębiorstw utworzonych (przekształconych) po dniu 31 grudnia 1983 r., z tym że fundusz założycielski ustala się w wysokości sumy funduszy statutowych według stanu podanego w bilansie otwarcia."
-    },
-    {
-      "provision_ref": "art19u1p1",
-      "section": "19",
-      "title": "Art. 19 ust. 1 pkt 1",
-      "content": "W przedsiębiorstwach istniejących w dniu wejścia w życie ustawy fundusz założycielski ustala się w wysokości sumy: funduszu statutowego w środkach trwałych, według stanu na dzień 31 grudnia 1983 r., pomniejszonego o wartość netto zakładowych domów mieszkalnych, żłobków i przedszkoli oraz majątku trwałego służącego zakładowej działalności socjalnej, a także obronie cywilnej, a powiększonego o wykorzystane dotacje budżetowe na inwestycje według stanu na dzień 1 stycznia 1989 r.,"
-    },
-    {
-      "provision_ref": "art19u1p2",
-      "section": "19",
-      "title": "Art. 19 ust. 1 pkt 2",
-      "content": "W przedsiębiorstwach istniejących w dniu wejścia w życie ustawy fundusz założycielski ustala się w wysokości sumy: funduszu statutowego w środkach obrotowych według stanu na dzień 31 grudnia 1983 r. do wysokości 25% stanu zapasów (łącznie z kosztami przyszłych okresów) na ten sam dzień."
-    },
-    {
-      "provision_ref": "art19u2",
-      "section": "19",
-      "title": "Art. 19 ust. 2",
-      "content": "Przepis ust. 1 stosuje się odpowiednio do przedsiębiorstw utworzonych (przekształconych) po dniu 31 grudnia 1983 r., z tym że fundusz założycielski ustala się w wysokości sumy funduszy statutowych według stanu podanego w bilansie otwarcia."
+      "content": "(uchylony)"
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Art. 20",
-      "content": "W przedsiębiorstwach istniejących w dniu wejścia w życie ustawy fundusz przedsiębiorstwa ustala się w kwocie stanowiącej sumę odpowiadającą tej części funduszu statutowego, która zgodnie z przepisami art. 19 nie podlega przekazaniu na fundusz założycielski, a także sumę funduszu rozwoju, funduszu rezerwowego, funduszu postępu techniczno-ekonomicznego oraz innych funduszy utworzonych przez obciążenie kosztów działalności i z zysku przedsiębiorstwa, według stanu na dzień 1 stycznia 1989 r."
+      "content": "Przedsiębiorstwo jest zobowiązane do prowadzenia prawidłowej, rzetelnej i bieżącej rachunkowości, dostosowanej do przedmiotu jego działalności. (utracił moc)"
+    },
+    {
+      "provision_ref": "art20u1",
+      "section": "20",
+      "title": "Art. 20 ust. 1",
+      "content": "Przedsiębiorstwo jest zobowiązane do prowadzenia prawidłowej, rzetelnej i bieżącej rachunkowości, dostosowanej do przedmiotu jego działalności."
+    },
+    {
+      "provision_ref": "art20u2",
+      "section": "20",
+      "title": "Art. 20 ust. 2",
+      "content": "(utracił moc)"
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Art. 21",
-      "content": "Jeżeli dywidenda naliczona zgodnie z art. 11 przekracza w latach 1989 i 1990 - 25%, a w 1991 r. - 30% zysku bilansowego, wypłacie na dochód budżetu państwa podlega kwota odpowiadająca w latach 1989 i 1990 - 25%, a w 1991 r. - 30% tego zysku."
+      "content": "(utracił moc)"
     },
     {
       "provision_ref": "art22",
       "section": "22",
       "title": "Art. 22",
-      "content": "Zweryfikowany zysk osiągnięty przez Polski Monopol Loteryjny po opodatkowaniu i wypłaceniu dywidendy przeznacza się na cele społeczne i rozwój gospodarki narodowej, po uwzględnieniu własnych potrzeb tego przedsiębiorstwa. Minister Finansów, na wniosek dyrektora Polskiego Monopolu Loteryjnego, określa część zysku przeznaczoną na cele społeczne i rozwój gospodarki narodowej."
-    },
-    {
-      "provision_ref": "art22u1",
-      "section": "22",
-      "title": "Art. 22 ust. 1",
-      "content": "Zweryfikowany zysk osiągnięty przez Polski Monopol Loteryjny po opodatkowaniu i wypłaceniu dywidendy przeznacza się na cele społeczne i rozwój gospodarki narodowej, po uwzględnieniu własnych potrzeb tego przedsiębiorstwa."
-    },
-    {
-      "provision_ref": "art22u2",
-      "section": "22",
-      "title": "Art. 22 ust. 2",
-      "content": "Minister Finansów, na wniosek dyrektora Polskiego Monopolu Loteryjnego, określa część zysku przeznaczoną na cele społeczne i rozwój gospodarki narodowej."
+      "content": "(utracił moc)"
     },
     {
       "provision_ref": "art23",
       "section": "23",
       "title": "Art. 23",
-      "content": "W przedsiębiorstwach państwowych prowadzących terenowe gry liczbowe terenowy organ administracji państwowej o właściwości ogólnej stopnia wojewódzkiego określa część zysku osiągniętego przez te przedsiębiorstwa, która ma być przeznaczona na cele społeczne i rozwój gospodarki narodowej, po opodatkowaniu zweryfikowanego zysku i odliczeniu dywidendy oraz uwzględnieniu własnych potrzeb przedsiębiorstwa."
+      "content": "(utracił moc)"
     },
     {
       "provision_ref": "art24",
       "section": "24",
       "title": "Art. 24",
-      "content": "W Państwowym Przedsiębiorstwie „Totalizator Sportowy” wprowadza się obligatoryjne obciążenie na rzecz Centralnego Funduszu Rozwoju Kultury Fizycznej, wynoszące 26% kwoty osiągniętego przychodu z zawartych zakładów."
+      "content": "(utracił moc)"
     },
     {
       "provision_ref": "art25",
       "section": "25",
       "title": "Art. 25",
-      "content": "Znosi się stosowanie rachunku wyrównawczego cen wewnętrznych na wyroby jednorodne, z wyjątkiem węgla kamiennego i energii elektrycznej. Istniejące saldo rachunku, o którym mowa w ust. 1, należy rozliczyć z funduszem przedsiębiorstwa, które ten rachunek prowadziło. Takiemu samemu rozliczeniu podlega saldo rachunku w przypadku prowadzenia go w zrzeszeniach, z tym że przeznacza się je na fundusze przedsiębiorstw."
-    },
-    {
-      "provision_ref": "art25u1",
-      "section": "25",
-      "title": "Art. 25 ust. 1",
-      "content": "Znosi się stosowanie rachunku wyrównawczego cen wewnętrznych na wyroby jednorodne, z wyjątkiem węgla kamiennego i energii elektrycznej."
-    },
-    {
-      "provision_ref": "art25u2",
-      "section": "25",
-      "title": "Art. 25 ust. 2",
-      "content": "Istniejące saldo rachunku, o którym mowa w ust. 1, należy rozliczyć z funduszem przedsiębiorstwa, które ten rachunek prowadziło. Takiemu samemu rozliczeniu podlega saldo rachunku w przypadku prowadzenia go w zrzeszeniach, z tym że przeznacza się je na fundusze przedsiębiorstw."
+      "content": "W przedsiębiorstwach państwowych prowadzących terenowe gry liczbowe wojewoda określa część zysku osiągniętego przez te przedsiębiorstwa, która ma być przeznaczona na cele społeczne i rozwój gospodarki narodowej, po opodatkowaniu zweryfikowanego zysku i odliczeniu dywidendy oraz uwzględnieniu własnych potrzeb przedsiębiorstwa."
     },
     {
       "provision_ref": "art26",
       "section": "26",
       "title": "Art. 26",
-      "content": "W ustawie z dnia 29 czerwca 1983 r. o poprawie gospodarki przedsiębiorstwa państwowego oraz o jego upadłości wprowadza się następujące zmiany: w art. 9 dodaje się ust. 5 w brzmieniu: „ Projekt programu, o którym mowa w ust. 1, podlega zatwierdzeniu również przez organ reprezentujący Skarb Państwa, gdy zysk po jego opodatkowaniu nie wystarcza na uiszczenie dywidendy w rozumieniu przepisów ustawy o gospodarce finansowej przedsiębiorstw państwowych. ” , w art. 25 wyrazy „część funduszu statutowego przedsiębiorstwa finansującego jego środki trwałe” zastępuje się wyrazami „fundusz założycielski” ."
+      "content": "Znosi się stosowanie rachunku wyrównawczego cen wewnętrznych na wyroby jednorodne, z wyjątkiem węgla kamiennego i energii elektrycznej. Istniejące saldo rachunku, o którym mowa w ust. 1, należy rozliczyć z funduszem przedsiębiorstwa, które ten rachunek prowadziło. Takiemu samemu rozliczeniu podlega saldo rachunku w przypadku prowadzenia go w zrzeszeniach, z tym że przeznacza się je na fundusze przedsiębiorstw."
     },
     {
-      "provision_ref": "art26p1u5",
+      "provision_ref": "art26u1",
       "section": "26",
-      "title": "Art. 26 pkt 1 ust. 5",
-      "content": "W ustawie z dnia 29 czerwca 1983 r. o poprawie gospodarki przedsiębiorstwa państwowego oraz o jego upadłości wprowadza się następujące zmiany: w art. 9 dodaje się ust. 5 w brzmieniu: „ Projekt programu, o którym mowa w ust. 1, podlega zatwierdzeniu również przez organ reprezentujący Skarb Państwa, gdy zysk po jego opodatkowaniu nie wystarcza na uiszczenie dywidendy w rozumieniu przepisów ustawy o gospodarce finansowej przedsiębiorstw państwowych."
+      "title": "Art. 26 ust. 1",
+      "content": "Znosi się stosowanie rachunku wyrównawczego cen wewnętrznych na wyroby jednorodne, z wyjątkiem węgla kamiennego i energii elektrycznej."
     },
     {
-      "provision_ref": "art26p2",
+      "provision_ref": "art26u2",
       "section": "26",
-      "title": "Art. 26 pkt 2",
-      "content": "W ustawie z dnia 29 czerwca 1983 r. o poprawie gospodarki przedsiębiorstwa państwowego oraz o jego upadłości wprowadza się następujące zmiany: w art. 25 wyrazy „część funduszu statutowego przedsiębiorstwa finansującego jego środki trwałe” zastępuje się wyrazami „fundusz założycielski” ."
-    },
-    {
-      "provision_ref": "art27",
-      "section": "27",
-      "title": "Art. 27",
-      "content": "Traci moc ustawa z dnia 26 lutego 1982 r. o gospodarce finansowej przedsiębiorstw państwowych . Utrzymuje się w mocy przepisy wydane na postawie art. 4 ust. 3 i art. 41 ust. 3 ustawy wymienionej w ust. 1 do czasu wydania nowych na podstawie niniejszej ustawy, nie dłużej jednak niż do dnia 31 grudnia 1989 r., oraz na podstawie art. 30 ust. 4 i art. 34 ustawy wymienionej w ust. 1 do czasu odmiennego uregulowania."
-    },
-    {
-      "provision_ref": "art27u1",
-      "section": "27",
-      "title": "Art. 27 ust. 1",
-      "content": "Traci moc ustawa z dnia 26 lutego 1982 r. o gospodarce finansowej przedsiębiorstw państwowych ."
-    },
-    {
-      "provision_ref": "art27u2",
-      "section": "27",
-      "title": "Art. 27 ust. 2",
-      "content": "Utrzymuje się w mocy przepisy wydane na postawie art. 4 ust. 3 i art. 41 ust. 3 ustawy wymienionej w ust. 1 do czasu wydania nowych na podstawie niniejszej ustawy, nie dłużej jednak niż do dnia 31 grudnia 1989 r., oraz na podstawie art. 30 ust. 4 i art. 34 ustawy wymienionej w ust. 1 do czasu odmiennego uregulowania."
-    },
-    {
-      "provision_ref": "art28",
-      "section": "28",
-      "title": "Art. 28",
-      "content": "Ustawa wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 stycznia 1989 r."
+      "title": "Art. 26 ust. 2",
+      "content": "Istniejące saldo rachunku, o którym mowa w ust. 1, należy rozliczyć z funduszem przedsiębiorstwa, które ten rachunek prowadziło. Takiemu samemu rozliczeniu podlega saldo rachunku w przypadku prowadzenia go w zrzeszeniach, z tym że przeznacza się je na fundusze przedsiębiorstw."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-1988-207",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1986-46",
+      "target_document_id": "pl-du-2020-1998",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1986-44",
+      "target_document_id": "pl-du-2022-655",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1986-192",
+      "target_document_id": "pl-du-2021-1317",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1986-226",
+      "target_document_id": "pl-du-1991-127",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1987-181",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1988-167",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1988-254",
+      "target_document_id": "pl-du-2022-974",
       "ref_type": "references"
     }
   ]

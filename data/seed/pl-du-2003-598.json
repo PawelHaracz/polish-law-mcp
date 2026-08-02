@@ -10,16 +10,28 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2003/598",
   "provisions": [
     {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 1 pkt 66 i 67, które wchodzą w życie po upływie 30 dni od dnia ogłoszenia."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "Ilekroć w ustawie jest mowa o: „Konwencji” - rozumie się przez to Konwencję o udzielaniu patentów europejskich (Konwencję o patencie europejskim) z dnia 5 października 1973 r. zmienioną Aktami Rewizyjnymi z dnia 17 grudnia 1991 r. i z dnia 29 listopada 2000 r. oraz decyzjami Rady Administracyjnej Europejskiej Organizacji Patentowej z dnia 21 grudnia 1978 r., z dnia 13 grudnia 1994 r., z dnia 20 października 1995 r., z dnia 5 grudnia 1996 r. i z dnia 10 grudnia 1998 r.; „europejskim zgłoszeniu patentowym” - rozumie się przez to zgłoszenie w celu uzyskania patentu europejskiego dokonane na podstawie Konwencji; „patencie europejskim” - rozumie się przez to patent udzielony przez Europejski Urząd Patentowy na podstawie Konwencji; „Prawie własności przemysłowej” - rozumie się przez to ustawę z dnia 30 czerwca 2000 r. - Prawo własności przemysłowej ; „Urzędzie Patentowym” - rozumie się przez to Urząd Patentowy Rzeczypospolitej Polskiej; „tłumaczeniu patentu europejskiego” - rozumie się przez to tłumaczenie opisu patentowego w rozumieniu art. 54 ust. 2 Prawa własności przemysłowej."
+      "content": "Ilekroć w ustawie jest mowa o: „Konwencji” - rozumie się przez to Konwencję o udzielaniu patentów europejskich (Konwencję o patencie europejskim) z dnia 5 października 1973 r. zmienioną Aktami Rewizyjnymi z dnia 17 grudnia 1991 r. i z dnia 29 listopada 2000 r. oraz aaadecyzjami Rady Administracyjnej Europejskiej Organizacji Patentowej z dnia 21 grudnia 1978 r., z dnia 13 grudnia 1994 r., z dnia 20 października 1995 r., z dnia 5 grudnia 1996 r. i z dnia 10 grudnia 1998 r.; „europejskim zgłoszeniu patentowym” - rozumie się przez to zgłoszenie w celu uzyskania patentu europejskiego dokonane na podstawie Konwencji; „patencie europejskim” - rozumie się przez to patent udzielony przez Europejski Urząd Patentowy na podstawie Konwencji; „Prawie własności przemysłowej” - rozumie się przez to ustawę z dnia 30 czerwca 2000 r. - Prawo własności przemysłowej ) ; „Urzędzie Patentowym” - rozumie się przez to Urząd Patentowy Rzeczypospolitej Polskiej; „tłumaczeniu patentu europejskiego” - rozumie się przez to tłumaczenie opisu patentowego w rozumieniu art. 54 ust. 2 Prawa własności przemysłowej."
     },
     {
       "provision_ref": "art1p1",
       "section": "1",
       "title": "Art. 1 pkt 1",
-      "content": "Ilekroć w ustawie jest mowa o: „Konwencji” - rozumie się przez to Konwencję o udzielaniu patentów europejskich (Konwencję o patencie europejskim) z dnia 5 października 1973 r. zmienioną Aktami Rewizyjnymi z dnia 17 grudnia 1991 r. i z dnia 29 listopada 2000 r. oraz decyzjami Rady Administracyjnej Europejskiej Organizacji Patentowej z dnia 21 grudnia 1978 r., z dnia 13 grudnia 1994 r., z dnia 20 października 1995 r., z dnia 5 grudnia 1996 r. i z dnia 10 grudnia 1998 r.;"
+      "content": "Ilekroć w ustawie jest mowa o: „Konwencji” - rozumie się przez to Konwencję o udzielaniu patentów europejskich (Konwencję o patencie europejskim) z dnia 5 października 1973 r. zmienioną Aktami Rewizyjnymi z dnia 17 grudnia 1991 r. i z dnia 29 listopada 2000 r. oraz aaadecyzjami Rady Administracyjnej Europejskiej Organizacji Patentowej z dnia 21 grudnia 1978 r., z dnia 13 grudnia 1994 r., z dnia 20 października 1995 r., z dnia 5 grudnia 1996 r. i z dnia 10 grudnia 1998 r.;"
     },
     {
       "provision_ref": "art1p2",
@@ -37,7 +49,7 @@
       "provision_ref": "art1p4",
       "section": "1",
       "title": "Art. 1 pkt 4",
-      "content": "Ilekroć w ustawie jest mowa o: „Prawie własności przemysłowej” - rozumie się przez to ustawę z dnia 30 czerwca 2000 r. - Prawo własności przemysłowej ;"
+      "content": "Ilekroć w ustawie jest mowa o: „Prawie własności przemysłowej” - rozumie się przez to ustawę z dnia 30 czerwca 2000 r. - Prawo własności przemysłowej ) ;"
     },
     {
       "provision_ref": "art1p5",
@@ -61,7 +73,7 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "Europejskie zgłoszenie patentowe, z wyjątkiem europejskich zgłoszeń wydzielonych, może być dokonane w Urzędzie Patentowym. Obywatel polski lub osoba prawna mająca odpowiednio miejsce zamieszkania lub siedzibę na terytorium Rzeczypospolitej Polskiej zobowiązany jest do dokonania europejskiego zgłoszenia patentowego w Urzędzie Patentowym i dołączenia jego tłumaczenia na język polski. W tym przypadku przepisu art. 40 Prawa własności przemysłowej nie stosuje się."
+      "content": "Europejskie zgłoszenie patentowe, z wyjątkiem europejskich zgłoszeń wydzielonych, może być dokonane w Urzędzie Patentowym. Europejskie zgłoszenie patentowe złożone za pośrednictwem Urzędu Patentowego przez osoby wymienione w art. 40 Prawa własności przemysłowej sporządza się w języku polskim albo dołącza się do niego tłumaczenie na język polski."
     },
     {
       "provision_ref": "art3u1",
@@ -73,7 +85,7 @@
       "provision_ref": "art3u2",
       "section": "3",
       "title": "Art. 3 ust. 2",
-      "content": "Obywatel polski lub osoba prawna mająca odpowiednio miejsce zamieszkania lub siedzibę na terytorium Rzeczypospolitej Polskiej zobowiązany jest do dokonania europejskiego zgłoszenia patentowego w Urzędzie Patentowym i dołączenia jego tłumaczenia na język polski. W tym przypadku przepisu art. 40 Prawa własności przemysłowej nie stosuje się."
+      "content": "Europejskie zgłoszenie patentowe złożone za pośrednictwem Urzędu Patentowego przez osoby wymienione w art. 40 Prawa własności przemysłowej sporządza się w języku polskim albo dołącza się do niego tłumaczenie na język polski."
     },
     {
       "provision_ref": "art4",
@@ -133,7 +145,7 @@
       "provision_ref": "art6",
       "section": "6",
       "title": "Art. 6",
-      "content": "Przez uzyskanie patentu europejskiego, w którym Rzeczpospolita Polska została wyznaczona jako kraj ochrony, nabywa się, z zastrzeżeniem ust. 2 i 3, takie same prawa, jakie przyznaje patent udzielony na podstawie Prawa własności przemysłowej. Uprawniony z patentu europejskiego jest obowiązany złożyć w Urzędzie Patentowym tłumaczenie patentu europejskiego na język polski w terminie trzech miesięcy od daty opublikowania przez Europejski Urząd Patentowy informacji o jego udzieleniu. Przepis ust. 2 stosuje się odpowiednio, jeżeli w wyniku rozpatrzenia sprzeciwu przez Europejski Urząd Patentowy patent europejski zostanie zmieniony. W przypadku niespełnienia wymogów, o których mowa w ust. 2 i 3, Urząd Patentowy wydaje decyzję stwierdzającą nieważność patentu europejskiego na terytorium Rzeczypospolitej Polskiej od daty jego udzielenia."
+      "content": "Przez uzyskanie patentu europejskiego, w którym Rzeczpospolita Polska została wyznaczona jako kraj ochrony, nabywa się, z zastrzeżeniem ust. 2 i 3, takie same prawa, jakie przyznaje patent udzielony na podstawie Prawa własności przemysłowej. Uprawniony z patentu europejskiego jest obowiązany złożyć w Urzędzie Patentowym tłumaczenie patentu europejskiego na język polski w terminie trzech miesięcy od daty opublikowania przez Europejski Urząd Patentowy informacji o jego udzieleniu. Termin ten nie podlega przywróceniu. Przepis ust. 2 stosuje się odpowiednio, jeżeli w wyniku rozpatrzenia sprzeciwu przez Europejski Urząd Patentowy patent europejski zostanie zmieniony lub, na wniosek uprawnionego, zostanie ograniczony. W przypadku niespełnienia wymogów, o których mowa w ust. 2 lub 3, patent europejski jest nieważny na terytorium Rzeczypospolitej Polskiej od daty jego udzielenia."
     },
     {
       "provision_ref": "art6u1",
@@ -145,19 +157,19 @@
       "provision_ref": "art6u2",
       "section": "6",
       "title": "Art. 6 ust. 2",
-      "content": "Uprawniony z patentu europejskiego jest obowiązany złożyć w Urzędzie Patentowym tłumaczenie patentu europejskiego na język polski w terminie trzech miesięcy od daty opublikowania przez Europejski Urząd Patentowy informacji o jego udzieleniu."
+      "content": "Uprawniony z patentu europejskiego jest obowiązany złożyć w Urzędzie Patentowym tłumaczenie patentu europejskiego na język polski w terminie trzech miesięcy od daty opublikowania przez Europejski Urząd Patentowy informacji o jego udzieleniu. Termin ten nie podlega przywróceniu."
     },
     {
       "provision_ref": "art6u3",
       "section": "6",
       "title": "Art. 6 ust. 3",
-      "content": "Przepis ust. 2 stosuje się odpowiednio, jeżeli w wyniku rozpatrzenia sprzeciwu przez Europejski Urząd Patentowy patent europejski zostanie zmieniony."
+      "content": "Przepis ust. 2 stosuje się odpowiednio, jeżeli w wyniku rozpatrzenia sprzeciwu przez Europejski Urząd Patentowy patent europejski zostanie zmieniony lub, na wniosek uprawnionego, zostanie ograniczony."
     },
     {
       "provision_ref": "art6u4",
       "section": "6",
       "title": "Art. 6 ust. 4",
-      "content": "W przypadku niespełnienia wymogów, o których mowa w ust. 2 i 3, Urząd Patentowy wydaje decyzję stwierdzającą nieważność patentu europejskiego na terytorium Rzeczypospolitej Polskiej od daty jego udzielenia."
+      "content": "W przypadku niespełnienia wymogów, o których mowa w ust. 2 lub 3, patent europejski jest nieważny na terytorium Rzeczypospolitej Polskiej od daty jego udzielenia."
     },
     {
       "provision_ref": "art7",
@@ -229,13 +241,13 @@
       "provision_ref": "art9",
       "section": "9",
       "title": "Art. 9",
-      "content": "Ustawa wchodzi w życie z dniem związania Rzeczypospolitej Polskiej Konwencją."
+      "content": "Ustawa wchodzi w życie z dniem związania Rzeczypospolitej Polskiej Konwencją 6) W stosunku do Rzeczypospolitej Polskiej Konwencja, o której mowa w art. 1 pkt 1 niniejszej ustawy, weszła w życie z dniem 1 marca 2004 r., zgodnie z art. 169 ust. 2 Konwencji. ."
     }
   ],
   "definitions": [
     {
       "term": "Konwencji",
-      "definition": "rozumie się przez to Konwencję o udzielaniu patentów europejskich (Konwencję o patencie europejskim) z dnia 5 października 1973 r. zmienioną Aktami Rewizyjnymi z dnia 17 grudnia 1991 r. i z dnia 29 listopada 2000 r. oraz decyzjami Rady Administracyjnej Europejskiej Organizacji Patentowej z dnia 21 grudnia 1978 r., z dnia 13 grudnia 1994 r., z dnia 20 października 1995 r., z dnia 5 grudnia 1996 r. i z dnia 10 grudnia 1998 r",
+      "definition": "rozumie się przez to Konwencję o udzielaniu patentów europejskich (Konwencję o patencie europejskim) z dnia 5 października 1973 r. zmienioną Aktami Rewizyjnymi z dnia 17 grudnia 1991 r. i z dnia 29 listopada 2000 r. oraz aaadecyzjami Rady Administracyjnej Europejskiej Organizacji Patentowej z dnia 21 grudnia 1978 r., z dnia 13 grudnia 1994 r., z dnia 20 października 1995 r., z dnia 5 grudnia 1996 r. i z dnia 10 grudnia 1998 r",
       "source_provision": "art1"
     },
     {
@@ -250,7 +262,7 @@
     },
     {
       "term": "Prawie własności przemysłowej",
-      "definition": "rozumie się przez to ustawę z dnia 30 czerwca 2000 r. - Prawo własności przemysłowej",
+      "definition": "rozumie się przez to ustawę z dnia 30 czerwca 2000 r. - Prawo własności przemysłowej )",
       "source_provision": "art1"
     },
     {
@@ -265,7 +277,7 @@
     },
     {
       "term": "Konwencji",
-      "definition": "rozumie się przez to Konwencję o udzielaniu patentów europejskich (Konwencję o patencie europejskim) z dnia 5 października 1973 r. zmienioną Aktami Rewizyjnymi z dnia 17 grudnia 1991 r. i z dnia 29 listopada 2000 r. oraz decyzjami Rady Administracyjnej Europejskiej Organizacji Patentowej z dnia 21 grudnia 1978 r., z dnia 13 grudnia 1994 r., z dnia 20 października 1995 r., z dnia 5 grudnia 1996 r. i z dnia 10 grudnia 1998 r",
+      "definition": "rozumie się przez to Konwencję o udzielaniu patentów europejskich (Konwencję o patencie europejskim) z dnia 5 października 1973 r. zmienioną Aktami Rewizyjnymi z dnia 17 grudnia 1991 r. i z dnia 29 listopada 2000 r. oraz aaadecyzjami Rady Administracyjnej Europejskiej Organizacji Patentowej z dnia 21 grudnia 1978 r., z dnia 13 grudnia 1994 r., z dnia 20 października 1995 r., z dnia 5 grudnia 1996 r. i z dnia 10 grudnia 1998 r",
       "source_provision": "art1p1"
     },
     {
@@ -280,7 +292,7 @@
     },
     {
       "term": "Prawie własności przemysłowej",
-      "definition": "rozumie się przez to ustawę z dnia 30 czerwca 2000 r. - Prawo własności przemysłowej",
+      "definition": "rozumie się przez to ustawę z dnia 30 czerwca 2000 r. - Prawo własności przemysłowej )",
       "source_provision": "art1p4"
     },
     {
@@ -296,23 +308,23 @@
   ],
   "references": [
     {
-      "target_document_id": "pl-du-2001-508",
+      "target_document_id": "pl-du-2015-1484",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2002-676",
+      "target_document_id": "pl-du-2015-1890",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2002-945",
+      "target_document_id": "pl-du-2007-958",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2002-983",
+      "target_document_id": "pl-du-2015-1266",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2002-1271",
+      "target_document_id": "pl-du-2013-1410",
       "ref_type": "references"
     }
   ]

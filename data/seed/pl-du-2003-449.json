@@ -10,6 +10,42 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2003/449",
   "provisions": [
     {
+      "provision_ref": "art76",
+      "section": "76",
+      "title": "Art. 76",
+      "content": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem: art. 23 pkt 14 i 15, które wchodzą w życie z dniem 31 grudnia 2023 r.; art. 1 pkt 15 lit. d i e, pkt 16 lit. a tiret pierwsze i drugie, pkt 30 lit. c, pkt 82 lit. c, pkt 99 lit. d, pkt 118 lit. b oraz pkt 121 lit. a i d, art. 3, art. 6 pkt 2, art. 7, art. 8, art. 21 pkt 4 oraz art. 23 pkt 1-13 i 16, które wchodzą w życie z dniem 1 stycznia 2024 r."
+    },
+    {
+      "provision_ref": "art76p1",
+      "section": "76",
+      "title": "Art. 76 pkt 1",
+      "content": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem: art. 23 pkt 14 i 15, które wchodzą w życie z dniem 31 grudnia 2023 r.;"
+    },
+    {
+      "provision_ref": "art76p2",
+      "section": "76",
+      "title": "Art. 76 pkt 2",
+      "content": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem: art. 1 pkt 15 lit. d i e, pkt 16 lit. a tiret pierwsze i drugie, pkt 30 lit. c, pkt 82 lit. c, pkt 99 lit. d, pkt 118 lit. b oraz pkt 121 lit. a i d, art. 3, art. 6 pkt 2, art. 7, art. 8, art. 21 pkt 4 oraz art. 23 pkt 1-13 i 16, które wchodzą w życie z dniem 1 stycznia 2024 r."
+    },
+    {
+      "provision_ref": "art84",
+      "section": "84",
+      "title": "Art. 84",
+      "content": "Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia, z wyjątkiem: art. 65 ust. 2 i art. 73 ust. 2, które wchodzą w życie z dniem ogłoszenia; art. 47 i art. 82, które wchodzą w życie z dniem następującym po dniu ogłoszenia."
+    },
+    {
+      "provision_ref": "art84p1",
+      "section": "84",
+      "title": "Art. 84 pkt 1",
+      "content": "Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia, z wyjątkiem: art. 65 ust. 2 i art. 73 ust. 2, które wchodzą w życie z dniem ogłoszenia;"
+    },
+    {
+      "provision_ref": "art84p2",
+      "section": "84",
+      "title": "Art. 84 pkt 2",
+      "content": "Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia, z wyjątkiem: art. 47 i art. 82, które wchodzą w życie z dniem następującym po dniu ogłoszenia."
+    },
+    {
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
@@ -151,7 +187,7 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "Stopnie generalnego dyrektora górniczego i dyrektora górniczego mogą być nadawane osobom posiadającym wyższe wykształcenie. Stopnie inżyniera górniczego mogą być nadawane osobom posiadającym wyższe wykształcenie. Stopnie technika górniczego mogą być nadawane osobom posiadającym średnie wykształcenie. Stopnie górnika mogą być nadawane osobom posiadającym kwalifikacje górnicze."
+      "content": "Stopnie generalnego dyrektora górniczego i dyrektora górniczego mogą być nadawane osobom posiadającym wyższe wykształcenie. Stopnie inżyniera górniczego mogą być nadawane osobom posiadającym wyższe wykształcenie. Stopnie technika górniczego mogą być nadawane osobom posiadającym wykształcenie średnie lub średnie branżowe. Stopnie górnika mogą być nadawane osobom posiadającym kwalifikacje górnicze."
     },
     {
       "provision_ref": "art4u1",
@@ -169,7 +205,7 @@
       "provision_ref": "art4u3",
       "section": "4",
       "title": "Art. 4 ust. 3",
-      "content": "Stopnie technika górniczego mogą być nadawane osobom posiadającym średnie wykształcenie."
+      "content": "Stopnie technika górniczego mogą być nadawane osobom posiadającym wykształcenie średnie lub średnie branżowe."
     },
     {
       "provision_ref": "art4u4",
@@ -211,43 +247,79 @@
       "provision_ref": "art6",
       "section": "6",
       "title": "Art. 6",
-      "content": "Stopień generalnego dyrektora górnictwa przysługuje ministrowi właściwemu do spraw gospodarki oraz sekretarzowi stanu w ministerstwie właściwym do spraw gospodarki odpowiedzialnemu za sprawy górnictwa i jest nadawany przez Prezesa Rady Ministrów. Stopień generalnego dyrektora górnictwa przysługuje Prezesowi Wyższego Urzędu Górniczego, Głównemu Geologowi Kraju oraz podsekretarzom stanu w ministerstwach zajmujących się bezpośrednio problematyką górnictwa. Stopień ten jest nadawany, na wniosek ministra właściwego do spraw gospodarki, przez Prezesa Rady Ministrów."
+      "content": "Stopień generalnego dyrektora górnictwa przysługuje: ministrowi właściwemu do spraw gospodarki surowcami energetycznymi; ministrowi właściwemu do spraw środowiska; sekretarzowi stanu w urzędzie obsługującym ministra właściwego do spraw gospodarki surowcami energetycznymi odpowiedzialnemu za sprawy górnictwa; Prezesowi Wyższego Urzędu Górniczego; Głównemu Geologowi Kraju; podsekretarzom stanu w urzędach obsługujących organy administracji rządowej odpowiedzialnym za sprawy górnictwa. Stopień generalnego dyrektora górnictwa jest nadawany przez Prezesa Rady Ministrów. W przypadku osób, o których mowa w ust. 1 pkt 5, Prezes Rady Ministrów nadaje stopień generalnego dyrektora górnictwa na wniosek ministra właściwego do spraw gospodarki surowcami energetycznymi lub ministra właściwego do spraw środowiska."
     },
     {
-      "provision_ref": "art6u1",
+      "provision_ref": "art6u1p1",
       "section": "6",
-      "title": "Art. 6 ust. 1",
-      "content": "Stopień generalnego dyrektora górnictwa przysługuje ministrowi właściwemu do spraw gospodarki oraz sekretarzowi stanu w ministerstwie właściwym do spraw gospodarki odpowiedzialnemu za sprawy górnictwa i jest nadawany przez Prezesa Rady Ministrów."
+      "title": "Art. 6 ust. 1 pkt 1",
+      "content": "Stopień generalnego dyrektora górnictwa przysługuje: ministrowi właściwemu do spraw gospodarki surowcami energetycznymi;"
+    },
+    {
+      "provision_ref": "art6u1p2",
+      "section": "6",
+      "title": "Art. 6 ust. 1 pkt 2",
+      "content": "Stopień generalnego dyrektora górnictwa przysługuje: ministrowi właściwemu do spraw środowiska;"
+    },
+    {
+      "provision_ref": "art6u1p1",
+      "section": "6",
+      "title": "Art. 6 ust. 1 pkt 1",
+      "content": "Stopień generalnego dyrektora górnictwa przysługuje: sekretarzowi stanu w urzędzie obsługującym ministra właściwego do spraw gospodarki surowcami energetycznymi odpowiedzialnemu za sprawy górnictwa;"
+    },
+    {
+      "provision_ref": "art6u1p3",
+      "section": "6",
+      "title": "Art. 6 ust. 1 pkt 3",
+      "content": "Stopień generalnego dyrektora górnictwa przysługuje: Prezesowi Wyższego Urzędu Górniczego;"
+    },
+    {
+      "provision_ref": "art6u1p4",
+      "section": "6",
+      "title": "Art. 6 ust. 1 pkt 4",
+      "content": "Stopień generalnego dyrektora górnictwa przysługuje: Głównemu Geologowi Kraju;"
+    },
+    {
+      "provision_ref": "art6u1p5",
+      "section": "6",
+      "title": "Art. 6 ust. 1 pkt 5",
+      "content": "Stopień generalnego dyrektora górnictwa przysługuje: podsekretarzom stanu w urzędach obsługujących organy administracji rządowej odpowiedzialnym za sprawy górnictwa."
     },
     {
       "provision_ref": "art6u2",
       "section": "6",
       "title": "Art. 6 ust. 2",
-      "content": "Stopień generalnego dyrektora górnictwa przysługuje Prezesowi Wyższego Urzędu Górniczego, Głównemu Geologowi Kraju oraz podsekretarzom stanu w ministerstwach zajmujących się bezpośrednio problematyką górnictwa. Stopień ten jest nadawany, na wniosek ministra właściwego do spraw gospodarki, przez Prezesa Rady Ministrów."
+      "content": "Stopień generalnego dyrektora górnictwa jest nadawany przez Prezesa Rady Ministrów."
+    },
+    {
+      "provision_ref": "art6u3",
+      "section": "6",
+      "title": "Art. 6 ust. 3",
+      "content": "W przypadku osób, o których mowa w ust. 1 pkt 5, Prezes Rady Ministrów nadaje stopień generalnego dyrektora górnictwa na wniosek ministra właściwego do spraw gospodarki surowcami energetycznymi lub ministra właściwego do spraw środowiska."
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Art. 7",
-      "content": "Minister właściwy do spraw gospodarki, na wniosek kierownika jednostki organizacyjnej działającej w dziedzinie górnictwa, nadaje następujące stopnie górnicze: generalnego dyrektora górnictwa; generalnego honorowego dyrektora górniczego; dyrektora górniczego. Kierownik jednostki organizacyjnej w dziedzinie górnictwa nadaje pozostałe stopnie górnicze. Wniosek o nadanie stopnia górniczego, o którym mowa w ust. 1 i 2, powinien zawierać: informacje o osobie, w stosunku do której występuje się z wnioskiem o nadanie tego stopnia, określające: imię i nazwisko, datę i miejsce urodzenia, wykształcenie, aktualne miejsce zatrudnienia i zajmowane stanowisko, przebieg pracy w górnictwie, posiadany stopień górniczy i datę jego nadania; uzasadnienie."
+      "content": "Minister właściwy do spraw gospodarki surowcami energetycznymi, na wniosek kierownika jednostki organizacyjnej działającej w dziedzinie górnictwa, nadaje następujące stopnie górnicze: 4) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 14 pkt 1 ustawy, o której mowa w odnośniku 1. generalnego dyrektora górniczego; generalnego honorowego dyrektora górniczego; dyrektora górniczego. Kierownik jednostki organizacyjnej w dziedzinie górnictwa nadaje pozostałe stopnie górnicze. Wniosek o nadanie stopnia górniczego, o którym mowa w ust. 1 i 2, powinien zawierać: informacje o osobie, w stosunku do której występuje się z wnioskiem o nadanie tego stopnia, określające: imię i nazwisko, datę i miejsce urodzenia, wykształcenie, aktualne miejsce zatrudnienia i zajmowane stanowisko, przebieg pracy w górnictwie, posiadany stopień górniczy i datę jego nadania; uzasadnienie."
     },
     {
-      "provision_ref": "art7u1p1",
+      "provision_ref": "art7u1p5",
       "section": "7",
-      "title": "Art. 7 ust. 1 pkt 1",
-      "content": "Minister właściwy do spraw gospodarki, na wniosek kierownika jednostki organizacyjnej działającej w dziedzinie górnictwa, nadaje następujące stopnie górnicze: generalnego dyrektora górnictwa;"
+      "title": "Art. 7 ust. 1 pkt 5",
+      "content": "Minister właściwy do spraw gospodarki surowcami energetycznymi, na wniosek kierownika jednostki organizacyjnej działającej w dziedzinie górnictwa, nadaje następujące stopnie górnicze: 4) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 14 pkt 1 ustawy, o której mowa w odnośniku 1. generalnego dyrektora górniczego;"
     },
     {
       "provision_ref": "art7u1p2",
       "section": "7",
       "title": "Art. 7 ust. 1 pkt 2",
-      "content": "Minister właściwy do spraw gospodarki, na wniosek kierownika jednostki organizacyjnej działającej w dziedzinie górnictwa, nadaje następujące stopnie górnicze: generalnego honorowego dyrektora górniczego;"
+      "content": "Minister właściwy do spraw gospodarki surowcami energetycznymi, na wniosek kierownika jednostki organizacyjnej działającej w dziedzinie górnictwa, nadaje następujące stopnie górnicze: 4) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 14 pkt 1 ustawy, o której mowa w odnośniku 1. generalnego honorowego dyrektora górniczego;"
     },
     {
       "provision_ref": "art7u1p3",
       "section": "7",
       "title": "Art. 7 ust. 1 pkt 3",
-      "content": "Minister właściwy do spraw gospodarki, na wniosek kierownika jednostki organizacyjnej działającej w dziedzinie górnictwa, nadaje następujące stopnie górnicze: dyrektora górniczego."
+      "content": "Minister właściwy do spraw gospodarki surowcami energetycznymi, na wniosek kierownika jednostki organizacyjnej działającej w dziedzinie górnictwa, nadaje następujące stopnie górnicze: 4) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 14 pkt 1 ustawy, o której mowa w odnośniku 1. dyrektora górniczego."
     },
     {
       "provision_ref": "art7u2",
@@ -427,31 +499,31 @@
       "provision_ref": "art15",
       "section": "15",
       "title": "Art. 15",
-      "content": "Minister właściwy do spraw gospodarki, w drodze rozporządzenia, określi: wzór wniosku, o którym mowa w art. 7; wykaz stanowisk służbowych oraz związanych z nimi stopni górniczych; wzór dyplomu, o którym mowa w art. 8; wzory mundurów górniczych i czaka wraz z wzorami odznak stopni górniczych, wzór płaszcza oraz wzór honorowej szpady górniczej, a także sposób ich noszenia."
+      "content": "Minister właściwy do spraw gospodarki surowcami energetycznymi, w drodze rozporządzenia, określi: 4) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 14 pkt 1 ustawy, o której mowa w odnośniku 1. wzór wniosku, o którym mowa w art. 7; wykaz stanowisk służbowych oraz związanych z nimi stopni górniczych; wzór dyplomu, o którym mowa w art. 8; wzory mundurów górniczych i czaka wraz z wzorami odznak stopni górniczych, wzór płaszcza oraz wzór honorowej szpady górniczej, a także sposób ich noszenia."
     },
     {
       "provision_ref": "art15p1",
       "section": "15",
       "title": "Art. 15 pkt 1",
-      "content": "Minister właściwy do spraw gospodarki, w drodze rozporządzenia, określi: wzór wniosku, o którym mowa w art. 7;"
+      "content": "Minister właściwy do spraw gospodarki surowcami energetycznymi, w drodze rozporządzenia, określi: 4) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 14 pkt 1 ustawy, o której mowa w odnośniku 1. wzór wniosku, o którym mowa w art. 7;"
     },
     {
       "provision_ref": "art15p2",
       "section": "15",
       "title": "Art. 15 pkt 2",
-      "content": "Minister właściwy do spraw gospodarki, w drodze rozporządzenia, określi: wykaz stanowisk służbowych oraz związanych z nimi stopni górniczych;"
+      "content": "Minister właściwy do spraw gospodarki surowcami energetycznymi, w drodze rozporządzenia, określi: 4) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 14 pkt 1 ustawy, o której mowa w odnośniku 1. wykaz stanowisk służbowych oraz związanych z nimi stopni górniczych;"
     },
     {
       "provision_ref": "art15p3",
       "section": "15",
       "title": "Art. 15 pkt 3",
-      "content": "Minister właściwy do spraw gospodarki, w drodze rozporządzenia, określi: wzór dyplomu, o którym mowa w art. 8;"
+      "content": "Minister właściwy do spraw gospodarki surowcami energetycznymi, w drodze rozporządzenia, określi: 4) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 14 pkt 1 ustawy, o której mowa w odnośniku 1. wzór dyplomu, o którym mowa w art. 8;"
     },
     {
       "provision_ref": "art15p4",
       "section": "15",
       "title": "Art. 15 pkt 4",
-      "content": "Minister właściwy do spraw gospodarki, w drodze rozporządzenia, określi: wzory mundurów górniczych i czaka wraz z wzorami odznak stopni górniczych, wzór płaszcza oraz wzór honorowej szpady górniczej, a także sposób ich noszenia."
+      "content": "Minister właściwy do spraw gospodarki surowcami energetycznymi, w drodze rozporządzenia, określi: 4) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 14 pkt 1 ustawy, o której mowa w odnośniku 1. wzory mundurów górniczych i czaka wraz z wzorami odznak stopni górniczych, wzór płaszcza oraz wzór honorowej szpady górniczej, a także sposób ich noszenia."
     },
     {
       "provision_ref": "art16",
@@ -463,9 +535,26 @@
       "provision_ref": "art17",
       "section": "17",
       "title": "Art. 17",
-      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia 6) Ustawa została ogłoszona w dniu 28 marca 2003 r. ."
     }
   ],
   "definitions": [],
-  "references": []
+  "references": [
+    {
+      "target_document_id": "pl-du-2019-1461",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-1362",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-2029",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2024-834",
+      "ref_type": "references"
+    }
+  ]
 }

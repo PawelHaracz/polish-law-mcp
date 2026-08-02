@@ -10,6 +10,24 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2001/967",
   "provisions": [
     {
+      "provision_ref": "art169",
+      "section": "169",
+      "title": "Art. 169",
+      "content": "Sprawy wszczęte, lecz niezakończone ostateczną decyzją przed dniem 1 lipca 2004 r., prowadzi się nadal według przepisów dotychczasowych."
+    },
+    {
+      "provision_ref": "art190",
+      "section": "190",
+      "title": "Art. 190",
+      "content": "Ustawa wchodzi w życie z dniem 1 lipca 2004 r., z wyjątkiem art. 4 ust. 4-6, art. 78 ust. 4, art. 170 ust. 3, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Art. 28",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2017 r."
+    },
+    {
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
@@ -31,19 +49,19 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Ilekroć w ustawie jest mowa o: żołnierzu - należy przez to rozumieć żołnierza w czynnej służbie wojskowej, o którym mowa w ustawie z dnia 30 czerwca 1970 r. o służbie wojskowej żołnierzy zawodowych oraz w ustawie z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej , uposażeniu przysługującym żołnierzowi - należy przez to rozumieć uposażenie zasadnicze wraz z dodatkami o charakterze stałym należne żołnierzowi w dniu wyrządzenia szkody, o którym mowa w ustawie z dnia 17 grudnia 1974 r. o uposażeniu żołnierzy , po odliczeniu składki na obowiązkowe ubezpieczenia emerytalne i rentowe, określonej w przepisach o systemie ubezpieczeń społecznych, jeśli żołnierz podlega temu ubezpieczeniu, właściwym organie jednostki organizacyjnej - należy przez to rozumieć dowódcę (szefa, komendanta, dyrektora, kierownika, rektora) jednostki organizacyjnej, spełniającej funkcję organu zaopatrującego w mienie."
+      "content": "Ilekroć w ustawie jest mowa o: żołnierzu - należy przez to rozumieć żołnierza w czynnej służbie wojskowej, o którym mowa w ustawie z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych i w ustawie z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej , z wyjątkiem żołnierza pełniącego terytorialną służbę wojskową dyspozycyjnie; uposażeniu przysługującym żołnierzowi - należy przez to rozumieć uposażenie zasadnicze, wraz z dodatkami o charakterze stałym, należne żołnierzowi w dniu wyrządzenia szkody, o którym mowa odpowiednio w ustawie z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych i w ustawie z dnia 17 grudnia 1974 r. o uposażeniu żołnierzy niezawodowych ; właściwym organie jednostki organizacyjnej - należy przez to rozumieć dowódcę (szefa, komendanta, dyrektora, kierownika, rektora) jednostki organizacyjnej, spełniającej funkcję organu zaopatrującego w mienie."
     },
     {
       "provision_ref": "art2p1",
       "section": "2",
       "title": "Art. 2 pkt 1",
-      "content": "Ilekroć w ustawie jest mowa o: żołnierzu - należy przez to rozumieć żołnierza w czynnej służbie wojskowej, o którym mowa w ustawie z dnia 30 czerwca 1970 r. o służbie wojskowej żołnierzy zawodowych oraz w ustawie z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej ,"
+      "content": "Ilekroć w ustawie jest mowa o: żołnierzu - należy przez to rozumieć żołnierza w czynnej służbie wojskowej, o którym mowa w ustawie z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych i w ustawie z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej , z wyjątkiem żołnierza pełniącego terytorialną służbę wojskową dyspozycyjnie;"
     },
     {
       "provision_ref": "art2p2",
       "section": "2",
       "title": "Art. 2 pkt 2",
-      "content": "Ilekroć w ustawie jest mowa o: uposażeniu przysługującym żołnierzowi - należy przez to rozumieć uposażenie zasadnicze wraz z dodatkami o charakterze stałym należne żołnierzowi w dniu wyrządzenia szkody, o którym mowa w ustawie z dnia 17 grudnia 1974 r. o uposażeniu żołnierzy , po odliczeniu składki na obowiązkowe ubezpieczenia emerytalne i rentowe, określonej w przepisach o systemie ubezpieczeń społecznych, jeśli żołnierz podlega temu ubezpieczeniu,"
+      "content": "Ilekroć w ustawie jest mowa o: uposażeniu przysługującym żołnierzowi - należy przez to rozumieć uposażenie zasadnicze, wraz z dodatkami o charakterze stałym, należne żołnierzowi w dniu wyrządzenia szkody, o którym mowa odpowiednio w ustawie z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych i w ustawie z dnia 17 grudnia 1974 r. o uposażeniu żołnierzy niezawodowych ;"
     },
     {
       "provision_ref": "art2p3",
@@ -67,13 +85,13 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Art. 5",
-      "content": "Żołnierz nie ponosi odpowiedzialności majątkowej za szkodę: w takim zakresie, w jakim jednostka organizacyjna albo inna osoba przyczyniła się do powstania szkody lub jej zwiększenia, wynikłą w związku z działaniem w granicach dopuszczalnego ryzyka."
+      "content": "Żołnierz nie ponosi odpowiedzialności majątkowej za szkodę: w takim zakresie, w jakim jednostka organizacyjna albo inna osoba przyczyniła się do powstania szkody lub jej zwiększenia; wynikłą w związku z działaniem w granicach dopuszczalnego ryzyka."
     },
     {
       "provision_ref": "art5p1",
       "section": "5",
       "title": "Art. 5 pkt 1",
-      "content": "Żołnierz nie ponosi odpowiedzialności majątkowej za szkodę: w takim zakresie, w jakim jednostka organizacyjna albo inna osoba przyczyniła się do powstania szkody lub jej zwiększenia,"
+      "content": "Żołnierz nie ponosi odpowiedzialności majątkowej za szkodę: w takim zakresie, w jakim jednostka organizacyjna albo inna osoba przyczyniła się do powstania szkody lub jej zwiększenia;"
     },
     {
       "provision_ref": "art5p2",
@@ -193,7 +211,7 @@
       "provision_ref": "art15",
       "section": "15",
       "title": "Art. 15",
-      "content": "Właściwy organ jednostki organizacyjnej, po stwierdzeniu szkody i ustaleniu jej wysokości, wzywa żołnierza do dobrowolnej zapłaty odszkodowania w określonym terminie lub złożenia pisemnego zobowiązania do zapłaty odszkodowania. Jeżeli sprawcą szkody jest dowódca (szef, komendant, dyrektor, kierownik, rektor) jednostki organizacyjnej, czynności, o których mowa w ust. 1, wykonuje jego bezpośredni przełożony. Minister Obrony Narodowej określi, w drodze rozporządzenia: sposób i tryb stwierdzania szkody i ustalania jej wysokości, wzór pisemnego zobowiązania żołnierza do zapłaty odszkodowania. Rozporządzenie to powinno w szczególności określać sposób przeprowadzania postępowania wyjaśniającego powstanie szkody oraz okoliczności uwzględniane przy ustalaniu jej wysokości; wzór zobowiązania żołnierza powinien wskazywać rodzaj szkody i wysokość odszkodowania, termin jego zapłaty oraz zawierać uprzedzenie o skutkach niedotrzymania zobowiązania."
+      "content": "Właściwy organ jednostki organizacyjnej, po stwierdzeniu szkody i ustaleniu jej wysokości, wzywa żołnierza do dobrowolnej zapłaty odszkodowania w określonym terminie lub złożenia pisemnego zobowiązania do zapłaty odszkodowania. Jeżeli sprawcą szkody jest dowódca (szef, komendant, dyrektor, kierownik, rektor) jednostki organizacyjnej, czynności, o których mowa w ust. 1, wykonuje jego bezpośredni przełożony. Minister Obrony Narodowej określi, w drodze rozporządzenia: sposób i tryb stwierdzania szkody i ustalania jej wysokości; wzór pisemnego zobowiązania żołnierza do zapłaty odszkodowania. Rozporządzenie to powinno w szczególności określać sposób przeprowadzania postępowania wyjaśniającego powstanie szkody oraz okoliczności uwzględniane przy ustalaniu jej wysokości; wzór zobowiązania żołnierza powinien wskazywać rodzaj szkody i wysokość odszkodowania, termin jego zapłaty oraz zawierać uprzedzenie o skutkach niedotrzymania zobowiązania."
     },
     {
       "provision_ref": "art15u1",
@@ -211,7 +229,7 @@
       "provision_ref": "art15u3p1",
       "section": "15",
       "title": "Art. 15 ust. 3 pkt 1",
-      "content": "Minister Obrony Narodowej określi, w drodze rozporządzenia: sposób i tryb stwierdzania szkody i ustalania jej wysokości,"
+      "content": "Minister Obrony Narodowej określi, w drodze rozporządzenia: sposób i tryb stwierdzania szkody i ustalania jej wysokości;"
     },
     {
       "provision_ref": "art15u3p2",
@@ -295,149 +313,41 @@
       "provision_ref": "art21",
       "section": "21",
       "title": "Art. 21",
-      "content": "Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia."
+      "content": "Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia 3) Ustawa została ogłoszona w dniu 28 sierpnia 2001 r. ."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-1997-55",
+      "target_document_id": "pl-du-2017-1523",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1997-678",
+      "target_document_id": "pl-du-2003-1750",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1997-688",
+      "target_document_id": "pl-du-2016-2138",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1997-753",
+      "target_document_id": "pl-du-2016-1726",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1997-770",
+      "target_document_id": "pl-du-2017-60",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1997-944",
+      "target_document_id": "pl-du-2017-1430",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1998-1117",
+      "target_document_id": "pl-du-2017-2217",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1999-7",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-2001-925",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-2001-961",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1992-16",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1992-174",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1992-254",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1994-165",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1996-44",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1996-56",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1996-496",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1997-31",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1997-153",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1997-495",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1997-554",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1998-961",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1998-1114",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1999-500",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-2000-136",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-2000-1156",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-2001-506",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-2001-877",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1992-18",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1995-17",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1995-163",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1996-647",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1997-496",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1997-943",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1999-1255",
+      "target_document_id": "pl-du-2017-2146",
       "ref_type": "references"
     },
     {

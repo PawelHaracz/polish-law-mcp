@@ -10,10 +10,70 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/1990/223",
   "provisions": [
     {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Agencja przejmie od Głównego Zarządu Rezerw Państwowych rezerwy państwowe produktów rolnych oraz półproduktów i artykułów żywnościowych, a także środki finansowe przeznaczone na ten cel w ustawie budżetowej. Minister Rynku Wewnętrznego, w porozumieniu z Ministrami Finansów oraz Rolnictwa i Gospodarki Żywnościowej, określi szczegółowe zasady, zakres i tryb przekazania rezerw państwowych i środków finansowych, o których mowa w ust. 1."
+    },
+    {
+      "provision_ref": "art5u1",
+      "section": "5",
+      "title": "Art. 5 ust. 1",
+      "content": "Agencja przejmie od Głównego Zarządu Rezerw Państwowych rezerwy państwowe produktów rolnych oraz półproduktów i artykułów żywnościowych, a także środki finansowe przeznaczone na ten cel w ustawie budżetowej."
+    },
+    {
+      "provision_ref": "art5u2",
+      "section": "5",
+      "title": "Art. 5 ust. 2",
+      "content": "Minister Rynku Wewnętrznego, w porozumieniu z Ministrami Finansów oraz Rolnictwa i Gospodarki Żywnościowej, określi szczegółowe zasady, zakres i tryb przekazania rezerw państwowych i środków finansowych, o których mowa w ust. 1."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Przedsiębiorstwa przemysłu zbożowo-młynarskiego «PZZ», które w drodze darowizny przekazały nieodpłatnie Agencji magazyny zbożowe, dokonają zmniejszenia funduszu założycielskiego na podstawie art. 4 ust. 3 ustawy z dnia 31 stycznia 1989 r. o gospodarce finansowej przedsiębiorstw państwowych . Wygasają zobowiązania przedsiębiorstw przemysłu zbożowo-młynarskiego «PZZ» lub następców prawnych tych przedsiębiorstw wobec Skarbu Państwa z tytułu spłat kredytów inwestycyjnych dokonanych ze środków budżetu państwa na podstawie poręczenia Ministra Finansów, jeżeli magazyny zbożowe tych przedsiębiorstw zostały przejęte przez Agencję Rynku Rolnego."
+    },
+    {
+      "provision_ref": "art2u1",
+      "section": "2",
+      "title": "Art. 2 ust. 1",
+      "content": "Przedsiębiorstwa przemysłu zbożowo-młynarskiego «PZZ», które w drodze darowizny przekazały nieodpłatnie Agencji magazyny zbożowe, dokonają zmniejszenia funduszu założycielskiego na podstawie art. 4 ust. 3 ustawy z dnia 31 stycznia 1989 r. o gospodarce finansowej przedsiębiorstw państwowych ."
+    },
+    {
+      "provision_ref": "art2u2",
+      "section": "2",
+      "title": "Art. 2 ust. 2",
+      "content": "Wygasają zobowiązania przedsiębiorstw przemysłu zbożowo-młynarskiego «PZZ» lub następców prawnych tych przedsiębiorstw wobec Skarbu Państwa z tytułu spłat kredytów inwestycyjnych dokonanych ze środków budżetu państwa na podstawie poręczenia Ministra Finansów, jeżeli magazyny zbożowe tych przedsiębiorstw zostały przejęte przez Agencję Rynku Rolnego."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Do czasu wydania rozporządzenia, o którym mowa w art. 1 pkt 6 niniejszej ustawy, obowiązują, nie dłużej niż przez 3 miesiące, dotychczasowe przepisy wydane na podstawie art. 8 ustawy z dnia 7 czerwca 1990 r. o utworzeniu Agencji Rynku Rolnego ."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
+      "provision_ref": "art99",
+      "section": "99",
+      "title": "Art. 99",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2001 r., z tym że przepisy art. 12-98 wchodzą w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "Tworzy się państwową jednostkę organizacyjną pod nazwą „Agencja Rynku Rolnego”, zwaną dalej „Agencją”. Agencja podlega Prezesowi Rady Ministrów."
+      "content": "Tworzy się państwową jednostkę organizacyjną pod nazwą „Agencja Rynku Rolnego”, zwaną dalej „Agencją”. Agencja podlega Prezesowi Rady Ministrów. Agencja może tworzyć oddziały terenowe."
     },
     {
       "provision_ref": "art1u1",
@@ -26,6 +86,12 @@
       "section": "1",
       "title": "Art. 1 ust. 2",
       "content": "Agencja podlega Prezesowi Rady Ministrów."
+    },
+    {
+      "provision_ref": "art1u3",
+      "section": "1",
+      "title": "Art. 1 ust. 3",
+      "content": "Agencja może tworzyć oddziały terenowe."
     },
     {
       "provision_ref": "art2",
@@ -61,67 +127,109 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "Agencja służy realizacji interwencyjnej polityki rolnej Państwa, mającej na celu stabilizację rynku produktów rolnych oraz ochronę dochodów uzyskiwanych z rolnictwa. Zadanie to Agencja realizuje głównie przez: interwencyjny skup produktów rolnych oraz w szczególnie uzasadnionych przypadkach import produktów, półproduktów rolnych i artykułów żywnościowych, interwencyjną sprzedaż produktów rolnych oraz ich przetworów na rynku krajowym i rynkach zagranicznych, gromadzenie rezerw produktów rolnych oraz ich przetworów. Do zakresu działania Agencji należy także: analiza rynku rolnego i żywnościowego, ustalanie tendencji rozwoju produkcji rolniczej, jej uwarunkowań ze strony rynku oraz organizowanie systemu szybkiej informacji w tym zakresie, w przypadkach uzasadnionych sytuacją rolnictwa i rynku rolnego formułowanie dla rządu propozycji organizacyjno-prawnych dotyczących rynku rolnego, interwencyjnych cen produktów rolnych, regulacji w zakresie handlu zagranicznego, a także innych środków interwencji kształtowania podaży lub popytu. Propozycje te powinny odnosić się do tych rynków rolnych, które są przedmiotem działania Agencji, możliwość udzielania poręczeń kredytowych."
+      "content": "Agencja realizuje interwencyjną politykę rolną państwa w celu stabilizacji rynku produktów rolnych i żywnościowych oraz ochrony dochodów uzyskiwanych z rolnictwa. Zadanie, o którym mowa w ust. 1, Agencja wykonuje w szczególności przez: interwencyjny zakup i sprzedaż produktów rolnych oraz ich przetworów na rynku krajowym i rynkach zagranicznych, gromadzenie i gospodarowanie państwowymi rezerwami produktów rolnych oraz produktów i półproduktów żywnościowych w ramach określonych zadań oraz przeznaczonych na ten cel środków finansowych, udzielanie poręczeń kredytów, z wyjątkiem kredytów inwestycyjnych, przedsiębiorcom realizującym zadania zlecone przez Agencję. Do zadań Agencji należą także: analizowanie rynku produktów rolnych i żywnościowych, przedstawianie Radzie Ministrów: propozycji regulacji organizacyjno-prawnych w zakresie funkcjonowania rynku podstawowych produktów rolnych i żywnościowych, w porozumieniu z Ministrem Gospodarki 4) Stosownie do art. 2 ust. 1 pkt 3 i ust. 3 pkt 2 oraz art. 8 pkt 2 ustawy z dnia 8 sierpnia 1996 r. - Przepisy wprowadzające ustawy reformujące funkcjonowanie gospodarki i administracji publicznej (Dz. U. Nr 106, poz. 497), która weszła w życie z dniem 1 stycznia 1997 r. propozycji dotyczących regulacji handlu zagranicznego w zakresie produktów będących przedmiotem działalności interwencyjnej Agencji, inicjowanie i udział w działaniach organizacyjnych mających na celu rozwój rynku produktów rolnych i żywnościowych. Prezes Agencji przedstawia Radzie Ministrów do zatwierdzenia zaopiniowany przez Ministrów Rolnictwa i Gospodarki Żywnościowej, Finansów oraz Radę Agencji roczny program działań interwencyjnych, który obejmuje: listę podstawowych produktów rolnych oraz produktów i półproduktów żywnościowych będących przedmiotem oddziaływania Agencji, prognozę poziomu cen, według których Agencja będzie prowadzić działalność interwencyjną i gospodarkę rezerwami państwowymi, środki niezbędne na działania interwencyjne."
     },
     {
       "provision_ref": "art4u1",
       "section": "4",
       "title": "Art. 4 ust. 1",
-      "content": "Agencja służy realizacji interwencyjnej polityki rolnej Państwa, mającej na celu stabilizację rynku produktów rolnych oraz ochronę dochodów uzyskiwanych z rolnictwa."
+      "content": "Agencja realizuje interwencyjną politykę rolną państwa w celu stabilizacji rynku produktów rolnych i żywnościowych oraz ochrony dochodów uzyskiwanych z rolnictwa."
     },
     {
       "provision_ref": "art4u2p1",
       "section": "4",
       "title": "Art. 4 ust. 2 pkt 1",
-      "content": "Zadanie to Agencja realizuje głównie przez: interwencyjny skup produktów rolnych oraz w szczególnie uzasadnionych przypadkach import produktów, półproduktów rolnych i artykułów żywnościowych,"
+      "content": "Zadanie, o którym mowa w ust. 1, Agencja wykonuje w szczególności przez: interwencyjny zakup i sprzedaż produktów rolnych oraz ich przetworów na rynku krajowym i rynkach zagranicznych,"
     },
     {
       "provision_ref": "art4u2p2",
       "section": "4",
       "title": "Art. 4 ust. 2 pkt 2",
-      "content": "Zadanie to Agencja realizuje głównie przez: interwencyjną sprzedaż produktów rolnych oraz ich przetworów na rynku krajowym i rynkach zagranicznych,"
+      "content": "Zadanie, o którym mowa w ust. 1, Agencja wykonuje w szczególności przez: gromadzenie i gospodarowanie państwowymi rezerwami produktów rolnych oraz produktów i półproduktów żywnościowych w ramach określonych zadań oraz przeznaczonych na ten cel środków finansowych,"
     },
     {
       "provision_ref": "art4u2p3",
       "section": "4",
       "title": "Art. 4 ust. 2 pkt 3",
-      "content": "Zadanie to Agencja realizuje głównie przez: gromadzenie rezerw produktów rolnych oraz ich przetworów."
+      "content": "Zadanie, o którym mowa w ust. 1, Agencja wykonuje w szczególności przez: udzielanie poręczeń kredytów, z wyjątkiem kredytów inwestycyjnych, przedsiębiorcom realizującym zadania zlecone przez Agencję."
     },
     {
       "provision_ref": "art4u3p1",
       "section": "4",
       "title": "Art. 4 ust. 3 pkt 1",
-      "content": "Do zakresu działania Agencji należy także: analiza rynku rolnego i żywnościowego, ustalanie tendencji rozwoju produkcji rolniczej, jej uwarunkowań ze strony rynku oraz organizowanie systemu szybkiej informacji w tym zakresie,"
+      "content": "Do zadań Agencji należą także: analizowanie rynku produktów rolnych i żywnościowych,"
     },
     {
-      "provision_ref": "art4u3p2",
+      "provision_ref": "art4u3p2la",
       "section": "4",
-      "title": "Art. 4 ust. 3 pkt 2",
-      "content": "Do zakresu działania Agencji należy także: w przypadkach uzasadnionych sytuacją rolnictwa i rynku rolnego formułowanie dla rządu propozycji organizacyjno-prawnych dotyczących rynku rolnego, interwencyjnych cen produktów rolnych, regulacji w zakresie handlu zagranicznego, a także innych środków interwencji kształtowania podaży lub popytu. Propozycje te powinny odnosić się do tych rynków rolnych, które są przedmiotem działania Agencji,"
+      "title": "Art. 4 ust. 3 pkt 2 lit. a",
+      "content": "Do zadań Agencji należą także: przedstawianie Radzie Ministrów: propozycji regulacji organizacyjno-prawnych w zakresie funkcjonowania rynku podstawowych produktów rolnych i żywnościowych,"
+    },
+    {
+      "provision_ref": "art4u3p2lb",
+      "section": "4",
+      "title": "Art. 4 ust. 3 pkt 2 lit. b",
+      "content": "Do zadań Agencji należą także: przedstawianie Radzie Ministrów: w porozumieniu z Ministrem Gospodarki 4) Stosownie do art. 2 ust. 1 pkt 3 i ust. 3 pkt 2 oraz art. 8 pkt 2 ustawy z dnia 8 sierpnia 1996 r. - Przepisy wprowadzające ustawy reformujące funkcjonowanie gospodarki i administracji publicznej (Dz. U. Nr 106, poz. 497), która weszła w życie z dniem 1 stycznia 1997 r. propozycji dotyczących regulacji handlu zagranicznego w zakresie produktów będących przedmiotem działalności interwencyjnej Agencji,"
     },
     {
       "provision_ref": "art4u3p3",
       "section": "4",
       "title": "Art. 4 ust. 3 pkt 3",
-      "content": "Do zakresu działania Agencji należy także: możliwość udzielania poręczeń kredytowych."
+      "content": "Do zadań Agencji należą także: inicjowanie i udział w działaniach organizacyjnych mających na celu rozwój rynku produktów rolnych i żywnościowych."
+    },
+    {
+      "provision_ref": "art4u4p1",
+      "section": "4",
+      "title": "Art. 4 ust. 4 pkt 1",
+      "content": "Prezes Agencji przedstawia Radzie Ministrów do zatwierdzenia zaopiniowany przez Ministrów Rolnictwa i Gospodarki Żywnościowej, Finansów oraz Radę Agencji roczny program działań interwencyjnych, który obejmuje: listę podstawowych produktów rolnych oraz produktów i półproduktów żywnościowych będących przedmiotem oddziaływania Agencji,"
+    },
+    {
+      "provision_ref": "art4u4p2",
+      "section": "4",
+      "title": "Art. 4 ust. 4 pkt 2",
+      "content": "Prezes Agencji przedstawia Radzie Ministrów do zatwierdzenia zaopiniowany przez Ministrów Rolnictwa i Gospodarki Żywnościowej, Finansów oraz Radę Agencji roczny program działań interwencyjnych, który obejmuje: prognozę poziomu cen, według których Agencja będzie prowadzić działalność interwencyjną i gospodarkę rezerwami państwowymi,"
+    },
+    {
+      "provision_ref": "art4u4p3",
+      "section": "4",
+      "title": "Art. 4 ust. 4 pkt 3",
+      "content": "Prezes Agencji przedstawia Radzie Ministrów do zatwierdzenia zaopiniowany przez Ministrów Rolnictwa i Gospodarki Żywnościowej, Finansów oraz Radę Agencji roczny program działań interwencyjnych, który obejmuje: środki niezbędne na działania interwencyjne."
+    },
+    {
+      "provision_ref": "art4a",
+      "section": "4a",
+      "title": "Art. 4a",
+      "content": "Rada Ministrów może powierzyć Agencji realizację innych zadań niż określone w art. 4, związanych z organizowaniem i funkcjonowaniem rynku produktów rolnych i żywnościowych. Rada Ministrów powierzając zadania, o których mowa w ust. 1, zapewni Agencji na ten cel odpowiednie środki finansowe."
+    },
+    {
+      "provision_ref": "art4au1",
+      "section": "4a",
+      "title": "Art. 4a ust. 1",
+      "content": "Rada Ministrów może powierzyć Agencji realizację innych zadań niż określone w art. 4, związanych z organizowaniem i funkcjonowaniem rynku produktów rolnych i żywnościowych."
+    },
+    {
+      "provision_ref": "art4au2",
+      "section": "4a",
+      "title": "Art. 4a ust. 2",
+      "content": "Rada Ministrów powierzając zadania, o których mowa w ust. 1, zapewni Agencji na ten cel odpowiednie środki finansowe."
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Art. 5",
-      "content": "Agencja przejmie od Głównego Zarządu Rezerw Państwowych rezerwy państwowe produktów rolnych oraz półproduktów i artykułów żywnościowych, a także środki finansowe przeznaczone na ten cel w ustawie budżetowej. Minister Rynku Wewnętrznego, w porozumieniu z Ministrami Finansów oraz Rolnictwa i Gospodarki Żywnościowej, określi szczegółowe zasady, zakres i tryb przekazania rezerw państwowych i środków finansowych, o których mowa w ust. 1. Agencja przejmie nieodpłatnie magazyny zbożowe o łącznej pojemności 1 mln ton, znajdujące się w zarządzie przedsiębiorstw przemysłu zbożowo-młynarskiego „PZZ”. Minister Rolnictwa i Gospodarki Żywnościowej, w porozumieniu z zainteresowanymi organami założycielskimi przedsiębiorstw przemysłu zbożowo-młynarskiego „PZZ”, określi tryb i zasady przekazania magazynów zbożowych, o których mowa w ust. 3."
+      "content": "(pominięty). 6) Zamieszczony w obwieszczeniu. (pominięty). 6) Zamieszczony w obwieszczeniu. Agencja przejmie nieodpłatnie magazyny zbożowe o łącznej pojemności 1 mln ton, znajdujące się w zarządzie przedsiębiorstw przemysłu zbożowo-młynarskiego „PZZ”. (skreślony). 7) Przez art. 11 ustawy z dnia 19 marca 1997 r. o zmianie niektórych upoważnień do wydawania aktów wykonawczych (Dz. U. Nr 43, poz. 272), która weszła w życie z dniem 15 maja 1997 r."
     },
     {
       "provision_ref": "art5u1",
       "section": "5",
       "title": "Art. 5 ust. 1",
-      "content": "Agencja przejmie od Głównego Zarządu Rezerw Państwowych rezerwy państwowe produktów rolnych oraz półproduktów i artykułów żywnościowych, a także środki finansowe przeznaczone na ten cel w ustawie budżetowej."
+      "content": "(pominięty). 6) Zamieszczony w obwieszczeniu."
     },
     {
       "provision_ref": "art5u2",
       "section": "5",
       "title": "Art. 5 ust. 2",
-      "content": "Minister Rynku Wewnętrznego, w porozumieniu z Ministrami Finansów oraz Rolnictwa i Gospodarki Żywnościowej, określi szczegółowe zasady, zakres i tryb przekazania rezerw państwowych i środków finansowych, o których mowa w ust. 1."
+      "content": "(pominięty). 6) Zamieszczony w obwieszczeniu."
     },
     {
       "provision_ref": "art5u3",
@@ -133,19 +241,19 @@
       "provision_ref": "art5u4",
       "section": "5",
       "title": "Art. 5 ust. 4",
-      "content": "Minister Rolnictwa i Gospodarki Żywnościowej, w porozumieniu z zainteresowanymi organami założycielskimi przedsiębiorstw przemysłu zbożowo-młynarskiego „PZZ”, określi tryb i zasady przekazania magazynów zbożowych, o których mowa w ust. 3."
+      "content": "(skreślony). 7) Przez art. 11 ustawy z dnia 19 marca 1997 r. o zmianie niektórych upoważnień do wydawania aktów wykonawczych (Dz. U. Nr 43, poz. 272), która weszła w życie z dniem 15 maja 1997 r."
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Art. 6",
-      "content": "Agencją kieruje Prezes, powoływany i odwoływany przez Prezesa Rady Ministrów. Prezes Agencji jest organem wykonawczym i zarządzającym Agencji. Do zadań Prezesa Agencji należy w szczególności: organizowanie realizacji zadań Agencji, o których mowa w art. 4, reprezentowanie Agencji na zewnątrz, podejmowanie działań w celu zapewnienia rozwoju i efektywnego wykorzystania działalności Agencji, przedstawianie Radzie Ministrów do zatwierdzania propozycji Rady Agencji o wysokości cen, według których będzie realizowany obrót interwencyjny. Prezes Agencji składa co kwartał sprawozdanie z działalności Agencji Prezesowi Rady Ministrów, Ministrowi Rolnictwa i Gospodarki Żywnościowej, a także sejmowej Komisji Rolnictwa i Gospodarki Żywnościowej."
+      "content": "Prezes Agencji jest powoływany i odwoływany przez Prezesa Rady Ministrów na wniosek Ministra Rolnictwa i Gospodarki Żywnościowej w porozumieniu z Ministrem Finansów. Prezes Agencji jest organem wykonawczym i zarządzającym Agencji. (skreślony). 9) Przez art. 1 pkt 4 lit. b) ustawy powołanej w przypisie 1. Prezes Agencji składa półroczne i roczne sprawozdania z działalności Agencji Prezesowi Rady Ministrów, Ministrowi Rolnictwa i Gospodarki Żywnościowej, Ministrowi Finansów, a także Sejmowej i Senackiej Komisji Rolnictwa i Gospodarki Żywnościowej. 11) Obecnie Komisji Rolnictwa i Rozwoju Wsi - stosownie do art. 1 pkt 7 lit. a) uchwały Sejmu Rzeczypospolitej Polskiej z dnia 28 października 1997 r. w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej (Monitor Polski Nr 80, poz. 779), która weszła w życie z dniem 28 października 1997 r., oraz do art. 1 pkt 5 uchwały Senatu Rzeczypospolitej Polskiej z dnia 6 listopada 1997 r. w sprawie zmiany Regulaminu Senatu Rzeczypospolitej Polskiej (Monitor Polski Nr 82, poz. 794), która weszła w życie z dniem 6 listopada 1997 r."
     },
     {
       "provision_ref": "art6u1",
       "section": "6",
       "title": "Art. 6 ust. 1",
-      "content": "Agencją kieruje Prezes, powoływany i odwoływany przez Prezesa Rady Ministrów."
+      "content": "Prezes Agencji jest powoływany i odwoływany przez Prezesa Rady Ministrów na wniosek Ministra Rolnictwa i Gospodarki Żywnościowej w porozumieniu z Ministrem Finansów."
     },
     {
       "provision_ref": "art6u2",
@@ -154,46 +262,28 @@
       "content": "Prezes Agencji jest organem wykonawczym i zarządzającym Agencji."
     },
     {
-      "provision_ref": "art6u3p1",
+      "provision_ref": "art6u3",
       "section": "6",
-      "title": "Art. 6 ust. 3 pkt 1",
-      "content": "Do zadań Prezesa Agencji należy w szczególności: organizowanie realizacji zadań Agencji, o których mowa w art. 4,"
-    },
-    {
-      "provision_ref": "art6u3p2",
-      "section": "6",
-      "title": "Art. 6 ust. 3 pkt 2",
-      "content": "Do zadań Prezesa Agencji należy w szczególności: reprezentowanie Agencji na zewnątrz,"
-    },
-    {
-      "provision_ref": "art6u3p3",
-      "section": "6",
-      "title": "Art. 6 ust. 3 pkt 3",
-      "content": "Do zadań Prezesa Agencji należy w szczególności: podejmowanie działań w celu zapewnienia rozwoju i efektywnego wykorzystania działalności Agencji,"
-    },
-    {
-      "provision_ref": "art6u3p4",
-      "section": "6",
-      "title": "Art. 6 ust. 3 pkt 4",
-      "content": "Do zadań Prezesa Agencji należy w szczególności: przedstawianie Radzie Ministrów do zatwierdzania propozycji Rady Agencji o wysokości cen, według których będzie realizowany obrót interwencyjny."
+      "title": "Art. 6 ust. 3",
+      "content": "(skreślony). 9) Przez art. 1 pkt 4 lit. b) ustawy powołanej w przypisie 1."
     },
     {
       "provision_ref": "art6u4",
       "section": "6",
       "title": "Art. 6 ust. 4",
-      "content": "Prezes Agencji składa co kwartał sprawozdanie z działalności Agencji Prezesowi Rady Ministrów, Ministrowi Rolnictwa i Gospodarki Żywnościowej, a także sejmowej Komisji Rolnictwa i Gospodarki Żywnościowej."
+      "content": "Prezes Agencji składa półroczne i roczne sprawozdania z działalności Agencji Prezesowi Rady Ministrów, Ministrowi Rolnictwa i Gospodarki Żywnościowej, Ministrowi Finansów, a także Sejmowej i Senackiej Komisji Rolnictwa i Gospodarki Żywnościowej. 11) Obecnie Komisji Rolnictwa i Rozwoju Wsi - stosownie do art. 1 pkt 7 lit. a) uchwały Sejmu Rzeczypospolitej Polskiej z dnia 28 października 1997 r. w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej (Monitor Polski Nr 80, poz. 779), która weszła w życie z dniem 28 października 1997 r., oraz do art. 1 pkt 5 uchwały Senatu Rzeczypospolitej Polskiej z dnia 6 listopada 1997 r. w sprawie zmiany Regulaminu Senatu Rzeczypospolitej Polskiej (Monitor Polski Nr 82, poz. 794), która weszła w życie z dniem 6 listopada 1997 r."
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Art. 7",
-      "content": "Organem opiniodawczym i doradczym Prezesa Agencji jest Rada Agencji, w skład której wchodzą przewodniczący i 20 członków. Przewodniczącego Rady wybiera i odwołuje Rada Agencji. Członków Rady będących przedstawicielami organizacji producentów rolnych w liczbie 8 osób, producentów związanych z przetwórstwem rolno-spożywczym, handlu oraz konsumentów powołuje i odwołuje Prezes Rady Ministrów, na wniosek właściwych organów zainteresowanych organizacji. Członków Rady będących przedstawicielami administracji państwowej, w tym dwóch przedstawicieli Ministra Rolnictwa i Gospodarki Żywnościowej oraz po jednym przedstawicielu Ministrów: Finansów, Rynku Wewnętrznego i Współpracy Gospodarczej z Zagranicą, powołuje i odwołuje Prezes Rady Ministrów, na wniosek zainteresowanych ministrów."
+      "content": "Organem opiniodawczym i doradczym Prezesa Agencji jest Rada Agencji, w skład której wchodzą przewodniczący i 20 członków, powoływani na okres 3 lat. Przewodniczącego Rady wybiera i odwołuje Rada Agencji. Członków Rady będących przedstawicielami organizacji producentów rolnych w liczbie 8 osób, producentów związanych z przetwórstwem rolno-spożywczym, handlu oraz konsumentów powołuje i odwołuje Prezes Rady Ministrów, na wniosek właściwych organów zainteresowanych organizacji. Członków Rady będących przedstawicielami administracji państwowej, po jednym przedstawicielu Ministra Finansów, Ministra Rolnictwa i Gospodarki Żywnościowej oraz Ministra Gospodarki 4) Stosownie do art. 2 ust. 1 pkt 3 i ust. 3 pkt 2 oraz art. 8 pkt 2 ustawy z dnia 8 sierpnia 1996 r. - Przepisy wprowadzające ustawy reformujące funkcjonowanie gospodarki i administracji publicznej (Dz. U. Nr 106, poz. 497), która weszła w życie z dniem 1 stycznia 1997 r. , powołuje i odwołuje Prezes Rady Ministrów na wniosek zainteresowanych ministrów."
     },
     {
       "provision_ref": "art7u1",
       "section": "7",
       "title": "Art. 7 ust. 1",
-      "content": "Organem opiniodawczym i doradczym Prezesa Agencji jest Rada Agencji, w skład której wchodzą przewodniczący i 20 członków."
+      "content": "Organem opiniodawczym i doradczym Prezesa Agencji jest Rada Agencji, w skład której wchodzą przewodniczący i 20 członków, powoływani na okres 3 lat."
     },
     {
       "provision_ref": "art7u2",
@@ -211,63 +301,181 @@
       "provision_ref": "art7u4",
       "section": "7",
       "title": "Art. 7 ust. 4",
-      "content": "Członków Rady będących przedstawicielami administracji państwowej, w tym dwóch przedstawicieli Ministra Rolnictwa i Gospodarki Żywnościowej oraz po jednym przedstawicielu Ministrów: Finansów, Rynku Wewnętrznego i Współpracy Gospodarczej z Zagranicą, powołuje i odwołuje Prezes Rady Ministrów, na wniosek zainteresowanych ministrów."
+      "content": "Członków Rady będących przedstawicielami administracji państwowej, po jednym przedstawicielu Ministra Finansów, Ministra Rolnictwa i Gospodarki Żywnościowej oraz Ministra Gospodarki 4) Stosownie do art. 2 ust. 1 pkt 3 i ust. 3 pkt 2 oraz art. 8 pkt 2 ustawy z dnia 8 sierpnia 1996 r. - Przepisy wprowadzające ustawy reformujące funkcjonowanie gospodarki i administracji publicznej (Dz. U. Nr 106, poz. 497), która weszła w życie z dniem 1 stycznia 1997 r. , powołuje i odwołuje Prezes Rady Ministrów na wniosek zainteresowanych ministrów."
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Art. 8",
-      "content": "Szczegółową organizację Agencji określa statut nadany przez Prezesa Rady Ministrów na wniosek Prezesa Agencji, po uprzednim zaopiniowaniu przez sejmową Komisję Rolnictwa i Gospodarki Żywnościowej. Zakres przedmiotowy jej działalności określi Rada Ministrów."
+      "content": "Agencja działa na podstawie niniejszej ustawy oraz statutu nadanego, w drodze rozporządzenia, przez Prezesa Rady Ministrów. Statut Agencji reguluje w szczególności: strukturę organizacyjną Agencji, zasady tworzenia oddziałów terenowych, zadania oraz zasady działania Rady Agencji, zasady udzielania pełnomocnictw, szczegółowe zasady gospodarki finansowej, system kontroli wewnętrznej, procedury działalności interwencyjnej, procedury ustalania ceny minimalnej, zasady udziału Agencji w spółkach prawa handlowego."
+    },
+    {
+      "provision_ref": "art8u1",
+      "section": "8",
+      "title": "Art. 8 ust. 1",
+      "content": "Agencja działa na podstawie niniejszej ustawy oraz statutu nadanego, w drodze rozporządzenia, przez Prezesa Rady Ministrów."
+    },
+    {
+      "provision_ref": "art8u2p1",
+      "section": "8",
+      "title": "Art. 8 ust. 2 pkt 1",
+      "content": "Statut Agencji reguluje w szczególności: strukturę organizacyjną Agencji,"
+    },
+    {
+      "provision_ref": "art8u2p2",
+      "section": "8",
+      "title": "Art. 8 ust. 2 pkt 2",
+      "content": "Statut Agencji reguluje w szczególności: zasady tworzenia oddziałów terenowych,"
+    },
+    {
+      "provision_ref": "art8u2p3",
+      "section": "8",
+      "title": "Art. 8 ust. 2 pkt 3",
+      "content": "Statut Agencji reguluje w szczególności: zadania oraz zasady działania Rady Agencji,"
+    },
+    {
+      "provision_ref": "art8u2p4",
+      "section": "8",
+      "title": "Art. 8 ust. 2 pkt 4",
+      "content": "Statut Agencji reguluje w szczególności: zasady udzielania pełnomocnictw,"
+    },
+    {
+      "provision_ref": "art8u2p5",
+      "section": "8",
+      "title": "Art. 8 ust. 2 pkt 5",
+      "content": "Statut Agencji reguluje w szczególności: szczegółowe zasady gospodarki finansowej,"
+    },
+    {
+      "provision_ref": "art8u2p6",
+      "section": "8",
+      "title": "Art. 8 ust. 2 pkt 6",
+      "content": "Statut Agencji reguluje w szczególności: system kontroli wewnętrznej,"
+    },
+    {
+      "provision_ref": "art8u2p7",
+      "section": "8",
+      "title": "Art. 8 ust. 2 pkt 7",
+      "content": "Statut Agencji reguluje w szczególności: procedury działalności interwencyjnej,"
+    },
+    {
+      "provision_ref": "art8u2p8",
+      "section": "8",
+      "title": "Art. 8 ust. 2 pkt 8",
+      "content": "Statut Agencji reguluje w szczególności: procedury ustalania ceny minimalnej,"
+    },
+    {
+      "provision_ref": "art8u2p9",
+      "section": "8",
+      "title": "Art. 8 ust. 2 pkt 9",
+      "content": "Statut Agencji reguluje w szczególności: zasady udziału Agencji w spółkach prawa handlowego."
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Art. 9",
-      "content": "Przychodami Agencji są dotacje budżetowe ustalane corocznie w ustawie budżetowej, wpływy z działalności gospodarczej, obrotu papierami wartościowymi oraz inne wpływy."
+      "content": "Agencja prowadzi samodzielną gospodarkę finansową i ewidencję księgową, dotyczącą gospodarowania rezerwami państwowymi oraz działalności interwencyjnej na rynku produktów rolnych, zgodnie z przepisami obowiązującymi osoby prawne i niniejszą ustawą. Agencja działa zgodnie z planem finansowym obejmującym rok obrachunkowy pokrywający się z rokiem kalendarzowym. Roczny plan finansowy Agencji ustala jej Prezes w porozumieniu z Ministrami Rolnictwa i Gospodarki Żywnościowej oraz Finansów. Przychodami Agencji są dotacje budżetowe ustalane corocznie w ustawie budżetowej, wpływy z działalności gospodarczej, z kapitałów pieniężnych, darowizn oraz inne wpływy. Przychody określone w ust. 3 Agencja przeznacza na realizację zadań określonych w art. 4 oraz na funkcjonowanie Agencji. Zasady wynagradzania pracowników określa Prezes Agencji Rynku Rolnego w zakładowym regulaminie wynagradzania."
+    },
+    {
+      "provision_ref": "art9u1",
+      "section": "9",
+      "title": "Art. 9 ust. 1",
+      "content": "Agencja prowadzi samodzielną gospodarkę finansową i ewidencję księgową, dotyczącą gospodarowania rezerwami państwowymi oraz działalności interwencyjnej na rynku produktów rolnych, zgodnie z przepisami obowiązującymi osoby prawne i niniejszą ustawą."
+    },
+    {
+      "provision_ref": "art9u2",
+      "section": "9",
+      "title": "Art. 9 ust. 2",
+      "content": "Agencja działa zgodnie z planem finansowym obejmującym rok obrachunkowy pokrywający się z rokiem kalendarzowym. Roczny plan finansowy Agencji ustala jej Prezes w porozumieniu z Ministrami Rolnictwa i Gospodarki Żywnościowej oraz Finansów."
+    },
+    {
+      "provision_ref": "art9u3",
+      "section": "9",
+      "title": "Art. 9 ust. 3",
+      "content": "Przychodami Agencji są dotacje budżetowe ustalane corocznie w ustawie budżetowej, wpływy z działalności gospodarczej, z kapitałów pieniężnych, darowizn oraz inne wpływy."
+    },
+    {
+      "provision_ref": "art9u4",
+      "section": "9",
+      "title": "Art. 9 ust. 4",
+      "content": "Przychody określone w ust. 3 Agencja przeznacza na realizację zadań określonych w art. 4 oraz na funkcjonowanie Agencji."
+    },
+    {
+      "provision_ref": "art9u5",
+      "section": "9",
+      "title": "Art. 9 ust. 5",
+      "content": "Zasady wynagradzania pracowników określa Prezes Agencji Rynku Rolnego w zakładowym regulaminie wynagradzania."
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Art. 10",
-      "content": "Agencja prowadzi gospodarkę finansową na zasadach określonych w Prawie budżetowym dla zakładów budżetowych. Rada Ministrów, uwzględniając szczególny rodzaj działania Agencji, dostosuje zasady, o których mowa w ust. 1, do warunków działania Agencji, a w szczególności zasady otrzymywania dotacji z budżetu. Agencja zatrzymuje całość nadwyżki środków finansowych na cele, o których mowa w art. 4 ust. 1."
-    },
-    {
-      "provision_ref": "art10u1",
-      "section": "10",
-      "title": "Art. 10 ust. 1",
-      "content": "Agencja prowadzi gospodarkę finansową na zasadach określonych w Prawie budżetowym dla zakładów budżetowych."
-    },
-    {
-      "provision_ref": "art10u2",
-      "section": "10",
-      "title": "Art. 10 ust. 2",
-      "content": "Rada Ministrów, uwzględniając szczególny rodzaj działania Agencji, dostosuje zasady, o których mowa w ust. 1, do warunków działania Agencji, a w szczególności zasady otrzymywania dotacji z budżetu."
-    },
-    {
-      "provision_ref": "art10u3",
-      "section": "10",
-      "title": "Art. 10 ust. 3",
-      "content": "Agencja zatrzymuje całość nadwyżki środków finansowych na cele, o których mowa w art. 4 ust. 1."
+      "content": "(skreślony). 16) Przez art. 1 pkt 8 ustawy powołanej w przypisie 1."
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Art. 11",
-      "content": "System wynagradzania pracowników Agencji określi Rada Ministrów w drodze rozporządzenia."
+      "content": "(skreślony). 16) Przez art. 1 pkt 8 ustawy powołanej w przypisie 1."
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Art. 12",
-      "content": "Techniczno-organizacyjną obsługę Prezesa Agencji sprawuje Biuro Agencji."
+      "content": "Techniczno-organizacyjną obsługę Prezesa Agencji sprawuje biuro Agencji, zwane „Centralą”."
+    },
+    {
+      "provision_ref": "art12a",
+      "section": "12a",
+      "title": "Art. 12a",
+      "content": "Nie pobiera się opłaty skarbowej od czynności cywilnoprawnych, których stroną jest Agencja Rynku Rolnego."
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Art. 13",
-      "content": "Ustawa wchodzi w życie z dniem ogłoszenia."
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. 19) Ustawa została ogłoszona dnia 21 czerwca 1990 r."
     }
   ],
-  "definitions": [],
-  "references": []
+  "definitions": [
+    {
+      "term": "Stosownie do art. 2 ust. 1 pkt 3 i ust. 3 pkt 2 oraz art. 8 pkt 2 ustawy z dnia 8 sierpnia 1996 r.",
+      "definition": "Przepisy wprowadzające ustawy reformujące funkcjonowanie gospodarki i administracji publicznej (Dz. U. Nr 106, poz. 497), która weszła w życie z dniem 1 stycznia 1997 r. propozycji dotyczących regulacji handlu zagranicznego w zakresie produktów będących przedmiotem działalności interwencyjnej Agencji, inicjowanie i udział w działaniach organizacyjnych mających na celu rozwój rynku produktów rolnych i żywnościowych. Prezes Agencji przedstawia Radzie Ministrów do zatwierdzenia zaopiniowany przez Ministrów Rolnictwa i Gospodarki Żywnościowej, Finansów oraz Radę Agencji roczny program działań interwencyjnych, który obejmuje: listę podstawowych produktów rolnych oraz produktów i półproduktów żywnościowych będących przedmiotem oddziaływania Agencji, prognozę poziomu cen, według których Agencja będzie prowadzić działalność interwencyjną i gospodarkę rezerwami państwowymi, środki niezbędne na działania interwencyjne.",
+      "source_provision": "art4"
+    },
+    {
+      "term": "Stosownie do art. 2 ust. 1 pkt 3 i ust. 3 pkt 2 oraz art. 8 pkt 2 ustawy z dnia 8 sierpnia 1996 r.",
+      "definition": "Przepisy wprowadzające ustawy reformujące funkcjonowanie gospodarki i administracji publicznej (Dz. U. Nr 106, poz. 497), która weszła w życie z dniem 1 stycznia 1997 r. propozycji dotyczących regulacji handlu zagranicznego w zakresie produktów będących przedmiotem działalności interwencyjnej Agencji,",
+      "source_provision": "art4u3p2lb"
+    }
+  ],
+  "references": [
+    {
+      "target_document_id": "pl-du-1996-146",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1997-272",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1997-770",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1992-27",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1993-82",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1994-591",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1995-791",
+      "ref_type": "references"
+    }
+  ]
 }

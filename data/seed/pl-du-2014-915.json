@@ -10,6 +10,18 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2014/915",
   "provisions": [
     {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Do postępowań w sprawie nałożenia kar, o których mowa w art. 6 ustawy zmienianej w art. 6, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2023 r."
+    },
+    {
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
@@ -25,7 +37,7 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "Użyte w ustawie określenia oznaczają: cena - wartość wyrażoną w jednostkach pieniężnych, którą kupujący jest obowiązany zapłacić przedsiębiorcy za towar lub usługę; cena jednostkowa towaru (usługi) - cenę ustaloną za jednostkę określonego towaru (usługi), którego ilość lub liczba jest wyrażona w jednostkach miar w rozumieniu przepisów o miarach; przedsiębiorca - podmiot, o którym mowa w art. 4 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej ) ; towar - rzecz, również energię oraz prawa majątkowe zbywalne; usługa - czynność świadczoną odpłatnie, wymienioną w klasyfikacjach wydanych na podstawie przepisów o statystyce publicznej. W cenie uwzględnia się podatek od towarów i usług oraz podatek akcyzowy, jeżeli na podstawie odrębnych przepisów sprzedaż towaru (usługi) podlega obciążeniu podatkiem od towarów i usług lub podatkiem akcyzowym. Przez cenę rozumie się również stawkę taryfową."
+      "content": "Użyte w ustawie określenia oznaczają: cena - wartość wyrażoną w jednostkach pieniężnych, którą kupujący jest obowiązany zapłacić przedsiębiorcy za towar lub usługę; cena jednostkowa towaru lub usługi - cenę ustaloną za jednostkę określonego towaru lub określonej usługi, których ilość lub liczba są wyrażone w jednostkach miar w rozumieniu przepisów o miarach; przedsiębiorca - podmiot, o którym mowa w art. 4 ust. 1 lub 2 ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców ; towar - rzecz, również energię oraz prawa majątkowe zbywalne; usługa - czynność świadczoną odpłatnie, wymienioną w klasyfikacjach wydanych na podstawie przepisów o statystyce publicznej. W cenie uwzględnia się podatek od towarów i usług oraz podatek akcyzowy, jeżeli na podstawie odrębnych przepisów sprzedaż towaru lub usługi podlega obciążeniu podatkiem od towarów i usług lub podatkiem akcyzowym. Przez cenę rozumie się również stawkę taryfową."
     },
     {
       "provision_ref": "art3u1p1",
@@ -37,13 +49,13 @@
       "provision_ref": "art3u1p2",
       "section": "3",
       "title": "Art. 3 ust. 1 pkt 2",
-      "content": "Użyte w ustawie określenia oznaczają: cena jednostkowa towaru (usługi) - cenę ustaloną za jednostkę określonego towaru (usługi), którego ilość lub liczba jest wyrażona w jednostkach miar w rozumieniu przepisów o miarach;"
+      "content": "Użyte w ustawie określenia oznaczają: cena jednostkowa towaru lub usługi - cenę ustaloną za jednostkę określonego towaru lub określonej usługi, których ilość lub liczba są wyrażone w jednostkach miar w rozumieniu przepisów o miarach;"
     },
     {
       "provision_ref": "art3u1p3",
       "section": "3",
       "title": "Art. 3 ust. 1 pkt 3",
-      "content": "Użyte w ustawie określenia oznaczają: przedsiębiorca - podmiot, o którym mowa w art. 4 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej ) ;"
+      "content": "Użyte w ustawie określenia oznaczają: przedsiębiorca - podmiot, o którym mowa w art. 4 ust. 1 lub 2 ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców ;"
     },
     {
       "provision_ref": "art3u1p4",
@@ -61,31 +73,55 @@
       "provision_ref": "art3u2",
       "section": "3",
       "title": "Art. 3 ust. 2",
-      "content": "W cenie uwzględnia się podatek od towarów i usług oraz podatek akcyzowy, jeżeli na podstawie odrębnych przepisów sprzedaż towaru (usługi) podlega obciążeniu podatkiem od towarów i usług lub podatkiem akcyzowym. Przez cenę rozumie się również stawkę taryfową."
+      "content": "W cenie uwzględnia się podatek od towarów i usług oraz podatek akcyzowy, jeżeli na podstawie odrębnych przepisów sprzedaż towaru lub usługi podlega obciążeniu podatkiem od towarów i usług lub podatkiem akcyzowym. Przez cenę rozumie się również stawkę taryfową."
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "W miejscu sprzedaży detalicznej i świadczenia usług uwidacznia się cenę oraz cenę jednostkową towaru (usługi) w sposób jednoznaczny, niebudzący wątpliwości oraz umożliwiający porównanie cen. W przypadku obniżki ceny uwidacznia się także informację o przyczynie wprowadzenia obniżki. Minister właściwy do spraw gospodarki, po zasięgnięciu opinii Prezesa Urzędu Ochrony Konkurencji i Konsumentów, określi, w drodze rozporządzenia: sposób uwidaczniania cen towarów i usług, w tym cen jednostkowych towarów (usług), wykaz towarów, w przypadku których nie jest wymagane uwidocznienie ceny jednostkowej towarów (usług) - mając na uwadze potrzebę zapewnienia dostępności informacji o cenie, a także uwzględniając przypadki, gdy uwidocznienie ceny jednostkowej towaru (usługi) nie byłoby przydatne ze względu na rodzaj lub przeznaczenie towaru (usługi)."
+      "content": "W miejscu sprzedaży detalicznej i świadczenia usług uwidacznia się cenę oraz cenę jednostkową towaru lub usługi w sposób jednoznaczny, niebudzący wątpliwości oraz umożliwiający porównanie cen. W każdym przypadku informowania o obniżeniu ceny towaru lub usługi obok informacji o obniżonej cenie uwidacznia się również informację o najniższej cenie tego towaru lub tej usługi, która obowiązywała w okresie 30 dni przed wprowadzeniem obniżki. Jeżeli dany towar lub dana usługa są oferowane do sprzedaży w okresie krótszym niż 30 dni, obok informacji o obniżonej cenie uwidacznia się również informację o najniższej cenie tego towaru lub tej usługi, która obowiązywała w okresie od dnia rozpoczęcia oferowania tego towaru lub tej usługi do sprzedaży do dnia wprowadzenia obniżki. W przypadku towarów, które ulegają szybkiemu zepsuciu lub mają krótki termin przydatności, obok informacji o obniżonej cenie uwidacznia się informację o cenie sprzed pierwszego zastosowania obniżki, z zastrzeżeniem że terminy, o których mowa w ust. 2 i 3, nie mają zastosowania. Do reklamy towaru lub usługi wraz z ceną przepisy ust. 1-4 stosuje się odpowiednio. Minister właściwy do spraw gospodarki, po zasięgnięciu opinii Prezesa Urzędu Ochrony Konkurencji i Konsumentów, określi, w drodze rozporządzenia: sposób uwidaczniania cen towarów i usług, w tym cen jednostkowych towarów lub usług, oraz informacji o obniżonej cenie, wykaz towarów, w przypadku których nie jest wymagane uwidocznienie ceny jednostkowej towarów lub usług - mając na uwadze potrzebę zapewnienia dostępności informacji o cenie, a także uwzględniając przypadki, gdy uwidocznienie ceny jednostkowej towaru lub usługi nie byłoby przydatne ze względu na rodzaj lub przeznaczenie towaru lub usługi."
     },
     {
       "provision_ref": "art4u1",
       "section": "4",
       "title": "Art. 4 ust. 1",
-      "content": "W miejscu sprzedaży detalicznej i świadczenia usług uwidacznia się cenę oraz cenę jednostkową towaru (usługi) w sposób jednoznaczny, niebudzący wątpliwości oraz umożliwiający porównanie cen. W przypadku obniżki ceny uwidacznia się także informację o przyczynie wprowadzenia obniżki."
+      "content": "W miejscu sprzedaży detalicznej i świadczenia usług uwidacznia się cenę oraz cenę jednostkową towaru lub usługi w sposób jednoznaczny, niebudzący wątpliwości oraz umożliwiający porównanie cen."
     },
     {
-      "provision_ref": "art4u2p1",
+      "provision_ref": "art4u2",
       "section": "4",
-      "title": "Art. 4 ust. 2 pkt 1",
-      "content": "Minister właściwy do spraw gospodarki, po zasięgnięciu opinii Prezesa Urzędu Ochrony Konkurencji i Konsumentów, określi, w drodze rozporządzenia: sposób uwidaczniania cen towarów i usług, w tym cen jednostkowych towarów (usług),"
+      "title": "Art. 4 ust. 2",
+      "content": "W każdym przypadku informowania o obniżeniu ceny towaru lub usługi obok informacji o obniżonej cenie uwidacznia się również informację o najniższej cenie tego towaru lub tej usługi, która obowiązywała w okresie 30 dni przed wprowadzeniem obniżki."
     },
     {
-      "provision_ref": "art4u2p2",
+      "provision_ref": "art4u3",
       "section": "4",
-      "title": "Art. 4 ust. 2 pkt 2",
-      "content": "Minister właściwy do spraw gospodarki, po zasięgnięciu opinii Prezesa Urzędu Ochrony Konkurencji i Konsumentów, określi, w drodze rozporządzenia: wykaz towarów, w przypadku których nie jest wymagane uwidocznienie ceny jednostkowej towarów (usług)"
+      "title": "Art. 4 ust. 3",
+      "content": "Jeżeli dany towar lub dana usługa są oferowane do sprzedaży w okresie krótszym niż 30 dni, obok informacji o obniżonej cenie uwidacznia się również informację o najniższej cenie tego towaru lub tej usługi, która obowiązywała w okresie od dnia rozpoczęcia oferowania tego towaru lub tej usługi do sprzedaży do dnia wprowadzenia obniżki."
+    },
+    {
+      "provision_ref": "art4u4",
+      "section": "4",
+      "title": "Art. 4 ust. 4",
+      "content": "W przypadku towarów, które ulegają szybkiemu zepsuciu lub mają krótki termin przydatności, obok informacji o obniżonej cenie uwidacznia się informację o cenie sprzed pierwszego zastosowania obniżki, z zastrzeżeniem że terminy, o których mowa w ust. 2 i 3, nie mają zastosowania."
+    },
+    {
+      "provision_ref": "art4u5",
+      "section": "4",
+      "title": "Art. 4 ust. 5",
+      "content": "Do reklamy towaru lub usługi wraz z ceną przepisy ust. 1-4 stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "art4u6p1",
+      "section": "4",
+      "title": "Art. 4 ust. 6 pkt 1",
+      "content": "Minister właściwy do spraw gospodarki, po zasięgnięciu opinii Prezesa Urzędu Ochrony Konkurencji i Konsumentów, określi, w drodze rozporządzenia: sposób uwidaczniania cen towarów i usług, w tym cen jednostkowych towarów lub usług, oraz informacji o obniżonej cenie,"
+    },
+    {
+      "provision_ref": "art4u6p2",
+      "section": "4",
+      "title": "Art. 4 ust. 6 pkt 2",
+      "content": "Minister właściwy do spraw gospodarki, po zasięgnięciu opinii Prezesa Urzędu Ochrony Konkurencji i Konsumentów, określi, w drodze rozporządzenia: wykaz towarów, w przypadku których nie jest wymagane uwidocznienie ceny jednostkowej towarów lub usług"
     },
     {
       "provision_ref": "art5",
@@ -97,31 +133,49 @@
       "provision_ref": "art6",
       "section": "6",
       "title": "Art. 6",
-      "content": "Jeżeli przedsiębiorca nie wykonuje obowiązków, o których mowa w art. 4, wojewódzki inspektor Inspekcji Handlowej nakłada na niego, w drodze decyzji, karę pieniężną do wysokości 20 000 zł. Jeżeli przedsiębiorca nie wykonał obowiązków, o których mowa w art. 4, co najmniej trzykrotnie w okresie 12 miesięcy licząc od dnia, w którym stwierdzono naruszenie tych obowiązków po raz pierwszy, wojewódzki inspektor Inspekcji Handlowej nakłada na niego, w drodze decyzji, karę pieniężną do wysokości 40 000 zł. Przy ustalaniu wysokości kary pieniężnej uwzględnia się stopień naruszenia obowiązków oraz dotychczasową działalność przedsiębiorcy, a także wielkość jego obrotów i przychodu."
+      "content": "Jeżeli przedsiębiorca nie wykonuje obowiązków, o których mowa w art. 4 ust. 1-5, wojewódzki inspektor Inspekcji Handlowej nakłada na niego, w drodze decyzji, karę pieniężną do wysokości 20 000 zł. Jeżeli przedsiębiorca nie wykonał obowiązków, o których mowa w art. 4 ust. 1-5, co najmniej trzykrotnie w okresie 12 miesięcy, licząc od dnia, w którym stwierdzono naruszenie tych obowiązków po raz pierwszy, wojewódzki inspektor Inspekcji Handlowej nakłada na niego, w drodze decyzji, karę pieniężną do wysokości 40 000 zł. Przy ustalaniu wysokości kary pieniężnej wojewódzki inspektor Inspekcji Handlowej uwzględnia: stopień naruszenia obowiązków, o których mowa w art. 4 ust. 1-5, w tym charakter, wagę, skalę i czas trwania naruszenia tych obowiązków; dotychczasową działalność przedsiębiorcy, w tym podjęte przez niego działania w celu złagodzenia lub naprawienia szkody poniesionej przez konsumentów, wcześniejsze naruszenia obowiązków, o których mowa w art. 4 ust. 1-5, przez tego przedsiębiorcę oraz uzyskane przez przedsiębiorcę korzyści majątkowe lub straty w związku z naruszeniem tych obowiązków; wielkość obrotów i przychodu przedsiębiorcy; sankcje nałożone na przedsiębiorcę za to samo naruszenie w innych państwach członkowskich Unii Europejskiej w sprawach transgranicznych, jeżeli informacje o takich sankcjach są dostępne w ramach mechanizmu ustanowionego rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2017/2394 z dnia 12 grudnia 2017 r. w sprawie współpracy między organami krajowymi odpowiedzialnymi za egzekwowanie przepisów prawa w zakresie ochrony konsumentów i uchylającym rozporządzenie (WE) nr 2006/2004 6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 60 z 02.03.2018, str. 1 oraz Dz. Urz. UE L 136 z 22.05.2019, str. 1 i 28. ."
     },
     {
       "provision_ref": "art6u1",
       "section": "6",
       "title": "Art. 6 ust. 1",
-      "content": "Jeżeli przedsiębiorca nie wykonuje obowiązków, o których mowa w art. 4, wojewódzki inspektor Inspekcji Handlowej nakłada na niego, w drodze decyzji, karę pieniężną do wysokości 20 000 zł."
+      "content": "Jeżeli przedsiębiorca nie wykonuje obowiązków, o których mowa w art. 4 ust. 1-5, wojewódzki inspektor Inspekcji Handlowej nakłada na niego, w drodze decyzji, karę pieniężną do wysokości 20 000 zł."
     },
     {
       "provision_ref": "art6u2",
       "section": "6",
       "title": "Art. 6 ust. 2",
-      "content": "Jeżeli przedsiębiorca nie wykonał obowiązków, o których mowa w art. 4, co najmniej trzykrotnie w okresie 12 miesięcy licząc od dnia, w którym stwierdzono naruszenie tych obowiązków po raz pierwszy, wojewódzki inspektor Inspekcji Handlowej nakłada na niego, w drodze decyzji, karę pieniężną do wysokości 40 000 zł."
+      "content": "Jeżeli przedsiębiorca nie wykonał obowiązków, o których mowa w art. 4 ust. 1-5, co najmniej trzykrotnie w okresie 12 miesięcy, licząc od dnia, w którym stwierdzono naruszenie tych obowiązków po raz pierwszy, wojewódzki inspektor Inspekcji Handlowej nakłada na niego, w drodze decyzji, karę pieniężną do wysokości 40 000 zł."
     },
     {
-      "provision_ref": "art6u3",
+      "provision_ref": "art6u3p1",
       "section": "6",
-      "title": "Art. 6 ust. 3",
-      "content": "Przy ustalaniu wysokości kary pieniężnej uwzględnia się stopień naruszenia obowiązków oraz dotychczasową działalność przedsiębiorcy, a także wielkość jego obrotów i przychodu."
+      "title": "Art. 6 ust. 3 pkt 1",
+      "content": "Przy ustalaniu wysokości kary pieniężnej wojewódzki inspektor Inspekcji Handlowej uwzględnia: stopień naruszenia obowiązków, o których mowa w art. 4 ust. 1-5, w tym charakter, wagę, skalę i czas trwania naruszenia tych obowiązków;"
+    },
+    {
+      "provision_ref": "art6u3p2",
+      "section": "6",
+      "title": "Art. 6 ust. 3 pkt 2",
+      "content": "Przy ustalaniu wysokości kary pieniężnej wojewódzki inspektor Inspekcji Handlowej uwzględnia: dotychczasową działalność przedsiębiorcy, w tym podjęte przez niego działania w celu złagodzenia lub naprawienia szkody poniesionej przez konsumentów, wcześniejsze naruszenia obowiązków, o których mowa w art. 4 ust. 1-5, przez tego przedsiębiorcę oraz uzyskane przez przedsiębiorcę korzyści majątkowe lub straty w związku z naruszeniem tych obowiązków;"
+    },
+    {
+      "provision_ref": "art6u3p3",
+      "section": "6",
+      "title": "Art. 6 ust. 3 pkt 3",
+      "content": "Przy ustalaniu wysokości kary pieniężnej wojewódzki inspektor Inspekcji Handlowej uwzględnia: wielkość obrotów i przychodu przedsiębiorcy;"
+    },
+    {
+      "provision_ref": "art6u3p4",
+      "section": "6",
+      "title": "Art. 6 ust. 3 pkt 4",
+      "content": "Przy ustalaniu wysokości kary pieniężnej wojewódzki inspektor Inspekcji Handlowej uwzględnia: sankcje nałożone na przedsiębiorcę za to samo naruszenie w innych państwach członkowskich Unii Europejskiej w sprawach transgranicznych, jeżeli informacje o takich sankcjach są dostępne w ramach mechanizmu ustanowionego rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2017/2394 z dnia 12 grudnia 2017 r. w sprawie współpracy między organami krajowymi odpowiedzialnymi za egzekwowanie przepisów prawa w zakresie ochrony konsumentów i uchylającym rozporządzenie (WE) nr 2006/2004 6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 60 z 02.03.2018, str. 1 oraz Dz. Urz. UE L 136 z 22.05.2019, str. 1 i 28. ."
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Art. 7",
-      "content": "Przedsiębiorca uiszcza karę pieniężną na rachunek bankowy wojewódzkiego inspektoratu Inspekcji Handlowej, wskazany przez wojewódzkiego inspektora Inspekcji Handlowej, w terminie 7 dni od dnia, w którym decyzja o nałożeniu kary pieniężnej stała się ostateczna. Nie wydaje się decyzji, jeżeli od dnia stwierdzenia niewykonania obowiązku, o którym mowa w art. 4, upłynęły 3 lata, licząc od końca roku, w którym stwierdzono naruszenie tego obowiązku. Kary pieniężne stanowią dochód budżetu państwa."
+      "content": "Przedsiębiorca uiszcza karę pieniężną na rachunek bankowy wojewódzkiego inspektoratu Inspekcji Handlowej, wskazany przez wojewódzkiego inspektora Inspekcji Handlowej, w terminie 7 dni od dnia, w którym decyzja o nałożeniu kary pieniężnej stała się ostateczna. Nie wydaje się decyzji, jeżeli od dnia stwierdzenia niewykonania obowiązku, o którym mowa w art. 4 ust. 1-5, upłynęły 3 lata, licząc od końca roku, w którym stwierdzono naruszenie tego obowiązku. Kary pieniężne stanowią dochód budżetu państwa."
     },
     {
       "provision_ref": "art7u1",
@@ -133,7 +187,7 @@
       "provision_ref": "art7u2",
       "section": "7",
       "title": "Art. 7 ust. 2",
-      "content": "Nie wydaje się decyzji, jeżeli od dnia stwierdzenia niewykonania obowiązku, o którym mowa w art. 4, upłynęły 3 lata, licząc od końca roku, w którym stwierdzono naruszenie tego obowiązku."
+      "content": "Nie wydaje się decyzji, jeżeli od dnia stwierdzenia niewykonania obowiązku, o którym mowa w art. 4 ust. 1-5, upłynęły 3 lata, licząc od końca roku, w którym stwierdzono naruszenie tego obowiązku."
     },
     {
       "provision_ref": "art7u3",
@@ -145,13 +199,13 @@
       "provision_ref": "art8",
       "section": "8",
       "title": "Art. 8",
-      "content": "Do kar pieniężnych, w zakresie nieuregulowanym w ustawie, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa ) . Kary pieniężne podlegają egzekucji w trybie przepisów o postępowaniu egzekucyjnym w administracji w zakresie egzekucji obowiązków o charakterze pieniężnym."
+      "content": "Do kar pieniężnych, w zakresie nieuregulowanym w ustawie, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa . Kary pieniężne podlegają egzekucji w trybie przepisów o postępowaniu egzekucyjnym w administracji w zakresie egzekucji obowiązków o charakterze pieniężnym."
     },
     {
       "provision_ref": "art8u1",
       "section": "8",
       "title": "Art. 8 ust. 1",
-      "content": "Do kar pieniężnych, w zakresie nieuregulowanym w ustawie, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa ) ."
+      "content": "Do kar pieniężnych, w zakresie nieuregulowanym w ustawie, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa ."
     },
     {
       "provision_ref": "art8u2",
@@ -163,181 +217,7 @@
       "provision_ref": "art9",
       "section": "9",
       "title": "Art. 9",
-      "content": "W ustawie z dnia 20 maja 1971 r. - Kodeks wykroczeń ) w art. 137 uchyla się § 1."
-    },
-    {
-      "provision_ref": "art10",
-      "section": "10",
-      "title": "Art. 10",
-      "content": "W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych ) w art. 23 w ust. 1 uchyla się pkt 25."
-    },
-    {
-      "provision_ref": "art11",
-      "section": "11",
-      "title": "Art. 11",
-      "content": "W ustawie z dnia 28 września 1991 r. o kontroli skarbowej ) w art. 2 w ust. 1 uchyla się pkt 14a."
-    },
-    {
-      "provision_ref": "art12",
-      "section": "12",
-      "title": "Art. 12",
-      "content": "W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych w art. 16 w ust. 1 uchyla się pkt 32."
-    },
-    {
-      "provision_ref": "art13",
-      "section": "13",
-      "title": "Art. 13",
-      "content": "W ustawie z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa ) w art. 2 § 4 otrzymuje brzmienie: „ Przepisów ustawy nie stosuje się do świadczeń pieniężnych wynikających ze stosunków cywilnoprawnych. ” ."
-    },
-    {
-      "provision_ref": "art13par4",
-      "section": "13",
-      "title": "Art. 13 § 4",
-      "content": "W ustawie z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa ) w art. 2 § 4 otrzymuje brzmienie: „ Przepisów ustawy nie stosuje się do świadczeń pieniężnych wynikających ze stosunków cywilnoprawnych."
-    },
-    {
-      "provision_ref": "art14",
-      "section": "14",
-      "title": "Art. 14",
-      "content": "W ustawie z dnia 4 września 1997 r. o działach administracji rządowej ) w art. 8 w ust. 2 uchyla się pkt 11."
-    },
-    {
-      "provision_ref": "art15",
-      "section": "15",
-      "title": "Art. 15",
-      "content": "W ustawie z dnia 6 września 2001 r. o transporcie drogowym po art. 11a dodaje się art. 11b i art. 11c w brzmieniu: „ Rada gminy może ustalać ceny za przewozy taksówkami na terenie gminy. W mieście stołecznym Warszawie uprawnienia te przysługują Radzie Warszawy. Rada gminy określa strefy cen (stawki taryfowe) obowiązujące przy przewozie osób i ładunków taksówkami. Ceny i stawki taryfowe, o których mowa w art. 11b, mają charakter cen i stawek taryfowych maksymalnych. ” ."
-    },
-    {
-      "provision_ref": "art15u1",
-      "section": "15",
-      "title": "Art. 15 ust. 1",
-      "content": "W ustawie z dnia 6 września 2001 r. o transporcie drogowym po art. 11a dodaje się art. 11b i art. 11c w brzmieniu: „ Rada gminy może ustalać ceny za przewozy taksówkami na terenie gminy. W mieście stołecznym Warszawie uprawnienia te przysługują Radzie Warszawy."
-    },
-    {
-      "provision_ref": "art15u2",
-      "section": "15",
-      "title": "Art. 15 ust. 2",
-      "content": "W ustawie z dnia 6 września 2001 r. o transporcie drogowym po art. 11a dodaje się art. 11b i art. 11c w brzmieniu: „ Rada gminy określa strefy cen (stawki taryfowe) obowiązujące przy przewozie osób i ładunków taksówkami."
-    },
-    {
-      "provision_ref": "art16",
-      "section": "16",
-      "title": "Art. 16",
-      "content": "W ustawie z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej wprowadza się następujące zmiany: w art. 21 w ust. 1 po pkt 4 dodaje się pkt 4a i 4b w brzmieniu: „ zakazie okresowego podwyższania cen na towary lub usługi określonego rodzaju; nakazie stosowania cen ustalonych na towary lub usługi mające podstawowe znaczenie dla kosztów utrzymania konsumentów; ” ; w art. 27 w ust. 1 po pkt 5 dodaje się pkt 5a i 5b w brzmieniu: „ wbrew zakazowi określonemu w art. 21 ust. 1 pkt 4a podwyższa ceny na towary lub usługi, wbrew nakazowi określonemu w art. 21 ust. 1 pkt 4b stosuje ceny inne niż ustalone na towary lub usługi, ” ."
-    },
-    {
-      "provision_ref": "art16p1p4a",
-      "section": "16",
-      "title": "Art. 16 pkt 1 pkt 4a",
-      "content": "W ustawie z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej wprowadza się następujące zmiany: w art. 21 w ust. 1 po pkt 4 dodaje się pkt 4a i 4b w brzmieniu: „ zakazie okresowego podwyższania cen na towary lub usługi określonego rodzaju;"
-    },
-    {
-      "provision_ref": "art16p1p4b",
-      "section": "16",
-      "title": "Art. 16 pkt 1 pkt 4b",
-      "content": "W ustawie z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej wprowadza się następujące zmiany: w art. 21 w ust. 1 po pkt 4 dodaje się pkt 4a i 4b w brzmieniu: „ nakazie stosowania cen ustalonych na towary lub usługi mające podstawowe znaczenie dla kosztów utrzymania konsumentów;"
-    },
-    {
-      "provision_ref": "art16p2p5a",
-      "section": "16",
-      "title": "Art. 16 pkt 2 pkt 5a",
-      "content": "W ustawie z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej wprowadza się następujące zmiany: w art. 27 w ust. 1 po pkt 5 dodaje się pkt 5a i 5b w brzmieniu: „ wbrew zakazowi określonemu w art. 21 ust. 1 pkt 4a podwyższa ceny na towary lub usługi,"
-    },
-    {
-      "provision_ref": "art16p2p5b",
-      "section": "16",
-      "title": "Art. 16 pkt 2 pkt 5b",
-      "content": "W ustawie z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej wprowadza się następujące zmiany: w art. 27 w ust. 1 po pkt 5 dodaje się pkt 5a i 5b w brzmieniu: „ wbrew nakazowi określonemu w art. 21 ust. 1 pkt 4b stosuje ceny inne niż ustalone na towary lub usługi,"
-    },
-    {
-      "provision_ref": "art17",
-      "section": "17",
-      "title": "Art. 17",
-      "content": "W ustawie z dnia 21 czerwca 2002 r. o stanie wyjątkowym ) wprowadza się następujące zmiany: w art. 21 po pkt 1 dodaje się pkt 1a w brzmieniu: „ swobody uzgadniania cen przez strony umowy, poprzez zakazanie okresowego podwyższania cen na towary lub usługi określonego rodzaju albo nakazanie stosowania cen ustalonych na towary lub usługi mające podstawowe znaczenie dla kosztów utrzymania konsumentów, ” ; w art. 22 w ust. 3 pkt 6 otrzymuje brzmienie: „ właściwego wojewodę - w przypadku stosowania ograniczenia określonego w art. 21 pkt 3 do szkół, z wyłączeniem szkół wyższych, oraz stosowania ograniczeń określonych w art. 21 pkt 1, 1a, 2 i 5, jeżeli stan wyjątkowy wprowadzono na obszarze jednego województwa lub jego części. ” ; w art. 23 w ust. 1 po pkt 11 dodaje się pkt 11a w brzmieniu: „ wbrew zakazowi określonemu w art. 21 pkt 1a podwyższa ceny na towary lub usługi określonego rodzaju albo nie stosuje się do nakazu stosowania cen w wysokości ustalonej na towary lub usługi określonego rodzaju, ” ."
-    },
-    {
-      "provision_ref": "art17p1p1a",
-      "section": "17",
-      "title": "Art. 17 pkt 1 pkt 1a",
-      "content": "W ustawie z dnia 21 czerwca 2002 r. o stanie wyjątkowym ) wprowadza się następujące zmiany: w art. 21 po pkt 1 dodaje się pkt 1a w brzmieniu: „ swobody uzgadniania cen przez strony umowy, poprzez zakazanie okresowego podwyższania cen na towary lub usługi określonego rodzaju albo nakazanie stosowania cen ustalonych na towary lub usługi mające podstawowe znaczenie dla kosztów utrzymania konsumentów,"
-    },
-    {
-      "provision_ref": "art17p2p6",
-      "section": "17",
-      "title": "Art. 17 pkt 2 pkt 6",
-      "content": "W ustawie z dnia 21 czerwca 2002 r. o stanie wyjątkowym ) wprowadza się następujące zmiany: w art. 22 w ust. 3 pkt 6 otrzymuje brzmienie: „ właściwego wojewodę - w przypadku stosowania ograniczenia określonego w art. 21 pkt 3 do szkół, z wyłączeniem szkół wyższych, oraz stosowania ograniczeń określonych w art. 21 pkt 1, 1a, 2 i 5, jeżeli stan wyjątkowy wprowadzono na obszarze jednego województwa lub jego części."
-    },
-    {
-      "provision_ref": "art17p3p11a",
-      "section": "17",
-      "title": "Art. 17 pkt 3 pkt 11a",
-      "content": "W ustawie z dnia 21 czerwca 2002 r. o stanie wyjątkowym ) wprowadza się następujące zmiany: w art. 23 w ust. 1 po pkt 11 dodaje się pkt 11a w brzmieniu: „ wbrew zakazowi określonemu w art. 21 pkt 1a podwyższa ceny na towary lub usługi określonego rodzaju albo nie stosuje się do nakazu stosowania cen w wysokości ustalonej na towary lub usługi określonego rodzaju,"
-    },
-    {
-      "provision_ref": "art18",
-      "section": "18",
-      "title": "Art. 18",
-      "content": "W ustawie z dnia 29 sierpnia 2002 r. o stanie wojennym oraz o kompetencjach Naczelnego Dowódcy Sił Zbrojnych i zasadach jego podległości konstytucyjnym organom Rzeczypospolitej Polskiej ) wprowadza się następujące zmiany: w art. 24: w ust. 1 po pkt 1 dodaje się pkt 1a w brzmieniu: „ swobody uzgadniania cen przez strony umowy, poprzez zakazanie okresowego podwyższania cen na towary lub usługi określonego rodzaju albo nakazanie stosowania cen ustalonych na towary lub usługi mające podstawowe znaczenie dla kosztów utrzymania konsumentów, ” , w ust. 2 pkt 1 otrzymuje brzmienie: „ Radę Ministrów - w przypadku ograniczeń określonych w ust. 1 pkt 1, 1a, 2 i 7, ” ; w art. 33 w ust. 1 po pkt 8 dodaje się pkt 8a w brzmieniu: „ wbrew zakazowi określonemu w art. 24 ust. 1 pkt 1a podwyższa ceny na towary lub usługi określonego rodzaju albo nie stosuje się do nakazu stosowania cen w wysokości ustalonej na towary lub usługi określonego rodzaju, ” ."
-    },
-    {
-      "provision_ref": "art18p1lap1a",
-      "section": "18",
-      "title": "Art. 18 pkt 1 lit. ap",
-      "content": "W ustawie z dnia 29 sierpnia 2002 r. o stanie wojennym oraz o kompetencjach Naczelnego Dowódcy Sił Zbrojnych i zasadach jego podległości konstytucyjnym organom Rzeczypospolitej Polskiej ) wprowadza się następujące zmiany: w art. 24: w ust. 1 po pkt 1 dodaje się pkt 1a w brzmieniu: „ swobody uzgadniania cen przez strony umowy, poprzez zakazanie okresowego podwyższania cen na towary lub usługi określonego rodzaju albo nakazanie stosowania cen ustalonych na towary lub usługi mające podstawowe znaczenie dla kosztów utrzymania konsumentów,"
-    },
-    {
-      "provision_ref": "art18p1lbp1",
-      "section": "18",
-      "title": "Art. 18 pkt 1 lit. bp",
-      "content": "W ustawie z dnia 29 sierpnia 2002 r. o stanie wojennym oraz o kompetencjach Naczelnego Dowódcy Sił Zbrojnych i zasadach jego podległości konstytucyjnym organom Rzeczypospolitej Polskiej ) wprowadza się następujące zmiany: w art. 24: w ust. 2 pkt 1 otrzymuje brzmienie: „ Radę Ministrów - w przypadku ograniczeń określonych w ust. 1 pkt 1, 1a, 2 i 7,"
-    },
-    {
-      "provision_ref": "art18p2p8a",
-      "section": "18",
-      "title": "Art. 18 pkt 2 pkt 8a",
-      "content": "W ustawie z dnia 29 sierpnia 2002 r. o stanie wojennym oraz o kompetencjach Naczelnego Dowódcy Sił Zbrojnych i zasadach jego podległości konstytucyjnym organom Rzeczypospolitej Polskiej ) wprowadza się następujące zmiany: w art. 33 w ust. 1 po pkt 8 dodaje się pkt 8a w brzmieniu: „ wbrew zakazowi określonemu w art. 24 ust. 1 pkt 1a podwyższa ceny na towary lub usługi określonego rodzaju albo nie stosuje się do nakazu stosowania cen w wysokości ustalonej na towary lub usługi określonego rodzaju,"
-    },
-    {
-      "provision_ref": "art19",
-      "section": "19",
-      "title": "Art. 19",
-      "content": "W ustawie z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych ) w art. 2 pkt 1 otrzymuje brzmienie: „ cenie - należy przez to rozumieć cenę w rozumieniu art. 3 ust. 1 pkt 1 i ust. 2 ustawy z dnia 9 maja 2014 r. o informowaniu o cenach towarów i usług ; ” ."
-    },
-    {
-      "provision_ref": "art19p1",
-      "section": "19",
-      "title": "Art. 19 pkt 1",
-      "content": "W ustawie z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych ) w art. 2 pkt 1 otrzymuje brzmienie: „ cenie - należy przez to rozumieć cenę w rozumieniu art. 3 ust. 1 pkt 1 i ust. 2 ustawy z dnia 9 maja 2014 r. o informowaniu o cenach towarów i usług ;"
-    },
-    {
-      "provision_ref": "art20",
-      "section": "20",
-      "title": "Art. 20",
-      "content": "W ustawie z dnia 10 lipca 2007 r. o nawozach i nawożeniu ) w art. 37 uchyla się ust. 6."
-    },
-    {
-      "provision_ref": "art21",
-      "section": "21",
-      "title": "Art. 21",
-      "content": "W ustawie z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym po art. 50 dodaje się art. 50a i art. 50b w brzmieniu: „ Rada gminy może ustalać ceny za usługi przewozowe w publicznym transporcie zbiorowym w zakresie zadania o charakterze użyteczności publicznej w gminnych przewozach pasażerskich. W mieście stołecznym Warszawie uprawnienia te przysługują Radzie Warszawy. Rada powiatu może ustalać ceny za usługi przewozowe w publicznym transporcie zbiorowym w zakresie zadania o charakterze użyteczności publicznej w powiatowych przewozach pasażerskich. Sejmik województwa może ustalać ceny za usługi przewozowe w publicznym transporcie zbiorowym w zakresie zadania o charakterze użyteczności publicznej w wojewódzkich przewozach pasażerskich. Ceny, o których mowa w art. 50a, mają charakter cen maksymalnych. ” ."
-    },
-    {
-      "provision_ref": "art21u1",
-      "section": "21",
-      "title": "Art. 21 ust. 1",
-      "content": "W ustawie z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym po art. 50 dodaje się art. 50a i art. 50b w brzmieniu: „ Rada gminy może ustalać ceny za usługi przewozowe w publicznym transporcie zbiorowym w zakresie zadania o charakterze użyteczności publicznej w gminnych przewozach pasażerskich. W mieście stołecznym Warszawie uprawnienia te przysługują Radzie Warszawy."
-    },
-    {
-      "provision_ref": "art21u2",
-      "section": "21",
-      "title": "Art. 21 ust. 2",
-      "content": "W ustawie z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym po art. 50 dodaje się art. 50a i art. 50b w brzmieniu: „ Rada powiatu może ustalać ceny za usługi przewozowe w publicznym transporcie zbiorowym w zakresie zadania o charakterze użyteczności publicznej w powiatowych przewozach pasażerskich."
-    },
-    {
-      "provision_ref": "art21u3",
-      "section": "21",
-      "title": "Art. 21 ust. 3",
-      "content": "W ustawie z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym po art. 50 dodaje się art. 50a i art. 50b w brzmieniu: „ Sejmik województwa może ustalać ceny za usługi przewozowe w publicznym transporcie zbiorowym w zakresie zadania o charakterze użyteczności publicznej w wojewódzkich przewozach pasażerskich."
+      "content": "(pominięte)"
     },
     {
       "provision_ref": "art22",
@@ -379,7 +259,7 @@
       "provision_ref": "art24",
       "section": "24",
       "title": "Art. 24",
-      "content": "Przepisy prawa miejscowego wydane na podstawie art. 8 ustawy wymienionej w art. 26 zachowują moc do dnia wejścia w życie przepisów wydanych odpowiednio na podstawie art. 11b ustawy wymienionej w art. 15 oraz na podstawie art. 50a ustawy wymienionej w art. 21."
+      "content": "Przepisy prawa miejscowego wydane na podstawie art. 8 ustawy wymienionej w art. 26 zachowują moc do dnia wejścia w życie przepisów wydanych odpowiednio na podstawie art. 11b ustawy wymienionej w art. 15 8) Artykuł 15 zawiera zmiany do ustawy z dnia 6 września 2001 r. o transporcie drogowym. oraz na podstawie art. 50a ustawy wymienionej w art. 21 9) Artykuł 21 zawiera zmiany do ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym. ."
     },
     {
       "provision_ref": "art25",
@@ -397,81 +277,49 @@
       "provision_ref": "art27",
       "section": "27",
       "title": "Art. 27",
-      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia 10) Ustawa została ogłoszona w dniu 10 lipca 2014 r. ."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2013-672",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2012-749",
+      "target_document_id": "pl-du-2019-178",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2013-482",
+      "target_document_id": "pl-du-2022-2581",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2012-361",
+      "target_document_id": "pl-du-2021-162",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2011-214",
+      "target_document_id": "pl-du-2021-2105",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2014-851",
+      "target_document_id": "pl-du-2022-24",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2013-743",
+      "target_document_id": "pl-du-2022-974",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2013-1414",
+      "target_document_id": "pl-du-2022-1570",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2014-486",
+      "target_document_id": "pl-du-2022-2651",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2014-805",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-2014-333",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-2002-985",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-2002-1301",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-2013-907",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-2007-1033",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-2011-13",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-2011-1368",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-2014-423",
+      "target_document_id": "pl-du-2022-2707",
       "ref_type": "references"
     },
     {

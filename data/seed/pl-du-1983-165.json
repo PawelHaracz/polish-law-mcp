@@ -10,6 +10,24 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/1983/165",
   "provisions": [
     {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Art. 45",
+      "content": "W ustawie z dnia 25 września 1981 r. o przedsiębiorstwach państwowych art. 50 ust. 3 skreśla się."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Art. 47",
+      "content": "Ustawa wchodzi w życie z dniem 1 października 1983 r."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 1986 r."
+    },
+    {
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
@@ -19,7 +37,7 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "Przepisy niniejszej ustawy stosuje się do przedsiębiorstw państwowych objętych przepisami ustawy z dnia 25 września 1981 r. o przedsiębiorstwach państwowych , zwanej dalej „ustawą o przedsiębiorstwach państwowych”. Rada Ministrów, w drodze rozporządzenia, może określić zakres stosowania niniejszej ustawy do przedsiębiorstw państwowych, o których mowa w art. 5 ustawy wymienionej w ust. 1."
+      "content": "Przepisy niniejszej ustawy stosuje się do przedsiębiorstw państwowych objętych przepisami ustawy z dnia 25 września 1981 r. o przedsiębiorstwach państwowych , zwanej dalej „ustawą o przedsiębiorstwach państwowych”. Rada Ministrów, w drodze rozporządzenia, może określić zakres stosowania niniejszej ustawy do przedsiębiorstw państwowych o których mowa w art. 5 ustawy wymienionej w ust. 1."
     },
     {
       "provision_ref": "art2u1",
@@ -31,25 +49,49 @@
       "provision_ref": "art2u2",
       "section": "2",
       "title": "Art. 2 ust. 2",
-      "content": "Rada Ministrów, w drodze rozporządzenia, może określić zakres stosowania niniejszej ustawy do przedsiębiorstw państwowych, o których mowa w art. 5 ustawy wymienionej w ust. 1."
+      "content": "Rada Ministrów, w drodze rozporządzenia, może określić zakres stosowania niniejszej ustawy do przedsiębiorstw państwowych o których mowa w art. 5 ustawy wymienionej w ust. 1."
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "Przedsiębiorstwa użyteczności publicznej podlegają niniejszej ustawie, z tym że nie mogą być one postawione w stan upadłości, jeżeli ich dalsze istnienie jest uzasadnione celami, do których realizacji zostały utworzone."
+      "content": "Przedsiębiorstwa użyteczności publicznej polegają niniejszej ustawie, z tym że nie mogą być one postawione w stan upadłości, jeżeli ich dalsze istnienie jest uzasadnione celami, do których realizacji zostały utworzone."
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "Postępowanie wewnętrzne mające na celu poprawę gospodarki przedsiębiorstwa wszczyna się, gdy wyniki działalności przedsiębiorstwa grożą zamknięciem jego działalności stratą w rozumieniu ustawy z dnia 26 lutego 1982 r. o gospodarce finansowej przedsiębiorstw państwowych ."
+      "content": "Postępowanie wewnętrzne mające na celu poprawę gospodarki przedsiębiorstwa wszczyna się, gdy: występuje zagrożenie, że płatne z zysku zobowiązania przedsiębiorstwa wobec budżetu przewyższą zysk bilansowy przedsiębiorstwa, lub zagrożona jest zdolność przedsiębiorstwa do sfinansowania ze środków funduszu rozwoju lub innych funduszów o podobnym charakterze co najmniej: spłaty kredytów bankowych wraz z należnymi odsetkami w wysokości i terminach ustalonych w umowach kredytowych, terminowego pokrywania płatności związanych z przygotowywanymi lub realizowanymi inwestycjami finansowanymi ze środków funduszu rozwoju lub innych funduszów o podobnym charakterze, a także z ich udziałem, terminowej spłaty innych zobowiązań zaciągniętych przez przedsiębiorstwo, obciążających fundusz rozwoju lub fundusze o podobnym charakterze."
+    },
+    {
+      "provision_ref": "art4p1",
+      "section": "4",
+      "title": "Art. 4 pkt 1",
+      "content": "Postępowanie wewnętrzne mające na celu poprawę gospodarki przedsiębiorstwa wszczyna się, gdy: występuje zagrożenie, że płatne z zysku zobowiązania przedsiębiorstwa wobec budżetu przewyższą zysk bilansowy przedsiębiorstwa, lub"
+    },
+    {
+      "provision_ref": "art4p2la",
+      "section": "4",
+      "title": "Art. 4 pkt 2 lit. a",
+      "content": "Postępowanie wewnętrzne mające na celu poprawę gospodarki przedsiębiorstwa wszczyna się, gdy: zagrożona jest zdolność przedsiębiorstwa do sfinansowania ze środków funduszu rozwoju lub innych funduszów o podobnym charakterze co najmniej: spłaty kredytów bankowych wraz z należnymi odsetkami w wysokości i terminach ustalonych w umowach kredytowych,"
+    },
+    {
+      "provision_ref": "art4p2lb",
+      "section": "4",
+      "title": "Art. 4 pkt 2 lit. b",
+      "content": "Postępowanie wewnętrzne mające na celu poprawę gospodarki przedsiębiorstwa wszczyna się, gdy: zagrożona jest zdolność przedsiębiorstwa do sfinansowania ze środków funduszu rozwoju lub innych funduszów o podobnym charakterze co najmniej: terminowego pokrywania płatności związanych z przygotowywanymi lub realizowanymi inwestycjami finansowanymi ze środków funduszu rozwoju lub innych funduszów o podobnym charakterze, a także z ich udziałem,"
+    },
+    {
+      "provision_ref": "art4p2lc",
+      "section": "4",
+      "title": "Art. 4 pkt 2 lit. c",
+      "content": "Postępowanie wewnętrzne mające na celu poprawę gospodarki przedsiębiorstwa wszczyna się, gdy: zagrożona jest zdolność przedsiębiorstwa do sfinansowania ze środków funduszu rozwoju lub innych funduszów o podobnym charakterze co najmniej: terminowej spłaty innych zobowiązań zaciągniętych przez przedsiębiorstwo, obciążających fundusz rozwoju lub fundusze o podobnym charakterze."
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Art. 5",
-      "content": "Dyrektor przedsiębiorstwa państwowego jest obowiązany do niezwłocznego pisemnego zawiadomienia rady pracowniczej przedsiębiorstwa, jego organu założycielskiego, banku finansującego działalność przedsiębiorstwa oraz właściwej terenowo izby skarbowej o prowadzeniu działalności gospodarczej przedsiębiorstwa z wynikami uzasadniającymi wszczęcie postępowania wewnętrznego. Bank finansujący działalność przedsiębiorstwa oraz organy kontroli państwowej zawiadamiają organy przedsiębiorstwa oraz organ założycielski o wystąpieniu przesłanek wszczęcia postępowania wewnętrznego, jeżeli zostały one ujawnione w toku prowadzonych przez nie czynności. Jeżeli zawiadomienia dokonał inny organ niż dyrektor przedsiębiorstwa i zachodzą przesłanki określone w art. 4, organ założycielski przedsiębiorstwa wzywa niezwłocznie dyrektora przedsiębiorstwa do dokonania czynności, o których mowa w art. 6, zawiadamiając o tym radę pracowniczą przedsiębiorstwa."
+      "content": "Dyrektor przedsiębiorstwa państwowego jest obowiązany do niezwłocznego pisemnego zawiadomienia rady pracowniczej przedsiębiorstwa, jego organu założycielskiego, banku finansującego działalność przedsiębiorstwa oraz właściwej terenowo izby skarbowej o prowadzeniu działalności gospodarczej przedsiębiorstwa z wynikami uzasadniającymi wszczęcie postępowania wewnętrznego. Bank finansujący działalność przedsiębiorstwa oraz organy kontroli państwowej zawiadamiają organy przedsiębiorstwa oraz organ założycielski o wystąpieniu przesłanek wszczęcia postępowania wewnętrznego, jeżeli zostały one ujawnione w toku prowadzonych przez nie czynności. Jeżeli zawiadomienia dokonał inny organ niż dyrektor przedsiębiorstwa i zachodzą przesłanki określone w art. 4, organ założycielski przedsiębiorstwa wzywa niezwłocznie dyrektora przedsiębiorstwa do dokonania czynności, o których mowa w art. 6, zawiadamiając o tym radą pracowniczą przedsiębiorstwa."
     },
     {
       "provision_ref": "art5u1",
@@ -67,7 +109,7 @@
       "provision_ref": "art5u3",
       "section": "5",
       "title": "Art. 5 ust. 3",
-      "content": "Jeżeli zawiadomienia dokonał inny organ niż dyrektor przedsiębiorstwa i zachodzą przesłanki określone w art. 4, organ założycielski przedsiębiorstwa wzywa niezwłocznie dyrektora przedsiębiorstwa do dokonania czynności, o których mowa w art. 6, zawiadamiając o tym radę pracowniczą przedsiębiorstwa."
+      "content": "Jeżeli zawiadomienia dokonał inny organ niż dyrektor przedsiębiorstwa i zachodzą przesłanki określone w art. 4, organ założycielski przedsiębiorstwa wzywa niezwłocznie dyrektora przedsiębiorstwa do dokonania czynności, o których mowa w art. 6, zawiadamiając o tym radą pracowniczą przedsiębiorstwa."
     },
     {
       "provision_ref": "art6",
@@ -97,13 +139,13 @@
       "provision_ref": "art7",
       "section": "7",
       "title": "Art. 7",
-      "content": "Projekt programu uzdrowienia gospodarki przedsiębiorstwa powinien w szczególności określać: przedsięwzięcia zmierzające do osiągnięcia dodatniego wyniku finansowego, w szczególności poprzez podniesienie efektywności działalności gospodarczej przedsiębiorstwa, okres realizacji programu."
+      "content": "Projekt programu uzdrowienia gospodarki przedsiębiorstwa powinien w szczególności określać: przedsięwzięcia zmierzające do likwidacji zagrożeń, o których mowa w art. 4, oraz do osiągnięcia wyniku finansowego zapewniającego możliwości rozwoju przedsiębiorstwa, okres realizacji programu."
     },
     {
       "provision_ref": "art7p1",
       "section": "7",
       "title": "Art. 7 pkt 1",
-      "content": "Projekt programu uzdrowienia gospodarki przedsiębiorstwa powinien w szczególności określać: przedsięwzięcia zmierzające do osiągnięcia dodatniego wyniku finansowego, w szczególności poprzez podniesienie efektywności działalności gospodarczej przedsiębiorstwa,"
+      "content": "Projekt programu uzdrowienia gospodarki przedsiębiorstwa powinien w szczególności określać: przedsięwzięcia zmierzające do likwidacji zagrożeń, o których mowa w art. 4, oraz do osiągnięcia wyniku finansowego zapewniającego możliwości rozwoju przedsiębiorstwa,"
     },
     {
       "provision_ref": "art7p2",
@@ -115,7 +157,7 @@
       "provision_ref": "art8",
       "section": "8",
       "title": "Art. 8",
-      "content": "W terminie 14 dni od przedstawienia przez dyrektora materiałów, o których mowa w art. 6 ust. 1 i art. 7, rada pracownicza przedsiębiorstwa podejmuje uchwałę w sprawie programu uzdrowienia gospodarki przedsiębiorstwa. Jeżeli projekt programu uzdrowienia gospodarki przedsiębiorstwa przewiduje ubieganie się o kredyt bankowy, dotacje lub zwolnienie podatkowe, rada pracownicza przed podjęciem uchwały, o której mowa w ust. 1, zasięga odpowiednio opinii banku finansującego działalność przedsiębiorstwa lub właściwej terenowo izby skarbowej. W razie odmowy udzielenia pomocy kredytowej na realizację programu uzdrowienia gospodarki przedsiębiorstwa, bank może udzielać przedsiębiorstwu kredytu jedynie na wypłatę wynagrodzeń, przez okres nie dłuższy niż 4 miesiące. Kredyt podlega spłacie z najbliższych wpływów na rachunek bankowy przedsiębiorstwa."
+      "content": "W terminie 14 dni od przedstawienia przez dyrektora materiałów, o których mowa w art. 6 ust. 1 i art. 7, rada pracownicza przedsiębiorstwa podejmuje uchwałę w sprawie programu uzdrowienia gospodarki przedsiębiorstwa. Jeżeli projekt programu uzdrowienia gospodarki przedsiębiorstwa przewiduje ubieganie się o kredyt bankowy, dotacje lub zwolnienie podatkowe, rada pracownicza przed podjęciem uchwały, o której mowa w ust. 1, zasięga odpowiednio opinii banku finansującego działalność przedsiębiorstwa lub właściwej terenowo izby skarbowej. W razie odmowy udzielenia pomocy kredytowej na realizacje programu uzdrowienia gospodarki przedsiębiorstwa, bank może udzielać przedsiębiorstwu kredytu jedynie na wypłatę wynagrodzeń, przez okres nie dłuższy niż 4 miesiące. Kredyt podlega spłacie z najbliższych wpływów na rachunek bankowy przedsiębiorstwa."
     },
     {
       "provision_ref": "art8u1",
@@ -133,7 +175,7 @@
       "provision_ref": "art8u3",
       "section": "8",
       "title": "Art. 8 ust. 3",
-      "content": "W razie odmowy udzielenia pomocy kredytowej na realizację programu uzdrowienia gospodarki przedsiębiorstwa, bank może udzielać przedsiębiorstwu kredytu jedynie na wypłatę wynagrodzeń, przez okres nie dłuższy niż 4 miesiące. Kredyt podlega spłacie z najbliższych wpływów na rachunek bankowy przedsiębiorstwa."
+      "content": "W razie odmowy udzielenia pomocy kredytowej na realizacje programu uzdrowienia gospodarki przedsiębiorstwa, bank może udzielać przedsiębiorstwu kredytu jedynie na wypłatę wynagrodzeń, przez okres nie dłuższy niż 4 miesiące. Kredyt podlega spłacie z najbliższych wpływów na rachunek bankowy przedsiębiorstwa."
     },
     {
       "provision_ref": "art9",
@@ -175,13 +217,13 @@
       "provision_ref": "art11",
       "section": "11",
       "title": "Art. 11",
-      "content": "Jeżeli wszczęcie postępowania wewnętrznego nie jest celowe albo wszczęte postępowanie nie rokuje poprawy gospodarki przedsiębiorstwa, może nastąpić jego likwidacja w trybie określonym w ustawie o przedsiębiorstwach państwowych, ze zmianami wynikającymi z przepisów ust. 2-4. Z wnioskiem o likwidację przedsiębiorstwa może wystąpić dyrektor lub rada pracownicza. Wniosek dyrektora o likwidację wymaga zaopiniowania przez radę pracowniczą w terminie 14 dni. Organ założycielski może nie uwzględnić wniosku o likwidację przedsiębiorstwa i ustanowić nad nim zarząd komisaryczny."
+      "content": "Jeżeli wszczęcie postępowania wewnętrznego nie jest celowe albo wszczęte postępowanie nie rokuje poprawy gospodarki przedsiębiorstwa, może nastąpić jego likwidacja w trybie określonym w ustawie o przedsiębiorstwach państwowych ze zmianami wynikającymi z przepisów ust. 2-4. Z wnioskiem o likwidację przedsiębiorstwa może wystąpić dyrektor lub rada pracownicza. Wniosek dyrektora o likwidację wymaga zaopiniowania przez radę pracowniczą w terminie 14 dni. Organ założycielski może nie uwzględnić wniosku o likwidację przedsiębiorstwa i ustanowić nad nim zarząd komisaryczny."
     },
     {
       "provision_ref": "art11u1",
       "section": "11",
       "title": "Art. 11 ust. 1",
-      "content": "Jeżeli wszczęcie postępowania wewnętrznego nie jest celowe albo wszczęte postępowanie nie rokuje poprawy gospodarki przedsiębiorstwa, może nastąpić jego likwidacja w trybie określonym w ustawie o przedsiębiorstwach państwowych, ze zmianami wynikającymi z przepisów ust. 2-4."
+      "content": "Jeżeli wszczęcie postępowania wewnętrznego nie jest celowe albo wszczęte postępowanie nie rokuje poprawy gospodarki przedsiębiorstwa, może nastąpić jego likwidacja w trybie określonym w ustawie o przedsiębiorstwach państwowych ze zmianami wynikającymi z przepisów ust. 2-4."
     },
     {
       "provision_ref": "art11u2",
@@ -205,7 +247,7 @@
       "provision_ref": "art12",
       "section": "12",
       "title": "Art. 12",
-      "content": "Po otrzymaniu zawiadomienia, że wyniki działalności przedsiębiorstwa grożą stratą, organ założycielski może powołać, a jeżeli przedsiębiorstwo działa ze stratą - powołuje komisję przewidzianą w art. 50 ustawy o przedsiębiorstwach państwowych."
+      "content": "Po otrzymaniu zawiadomienia, że wyniki działalności przedsiębiorstwa wskazują na konieczność podjęcia postępowania wewnętrznego, o którym mowa w art. 4, organ założycielski może powołać komisję przewidzianą w art. 50 ustawy o przedsiębiorstwach państwowych."
     },
     {
       "provision_ref": "art13",
@@ -259,25 +301,31 @@
       "provision_ref": "art16",
       "section": "16",
       "title": "Art. 16",
-      "content": "Jeżeli uprzednio wszczęto postępowanie wewnętrzne, organ założycielski może, gdy ważny interes społeczny wymaga dalszego prowadzenia działalności przedsiębiorstwa, ustanowić nad nim zarząd komisaryczny w razie: nieuwzględnienia wniosku dyrektora lub rady pracowniczej przedsiębiorstwa o likwidację przedsiębiorstwa z powodu prowadzenia działalności ze stratą, braku istotnej poprawy stanu gospodarki przedsiębiorstwa w okresie ustalonym w programie uzdrowienia gospodarki przedsiębiorstwa, niepodjęcia, w terminie określonym w art. 13, uchwały w sprawie zatwierdzenia projektu programu uzdrowienia gospodarki przedsiębiorstwa."
+      "content": "Jeżeli uprzednio wszczęto postępowanie wewnętrzne, organ założycielski może, gdy ważny interes społeczny wymaga dalszego prowadzenia działalności przedsiębiorstwa, ustanowić nad nim zarząd komisaryczny w razie: nieuwzględnienia wniosku dyrektora lub rady pracowniczej przedsiębiorstwa o likwidację przedsiębiorstwa z powodu prowadzenia działalności ze stratą, braku istotnej poprawy stanu gospodarki przedsiębiorstwa w okresie ustalonym w programie uzdrowienia gospodarki przedsiębiorstwa, niepodjęcia, w terminie określonym w art. 13, uchwały w sprawie zatwierdzenia projektu programu uzdrowienia gospodarki przedsiębiorstwa. Organ założycielski może także ustanowić zarząd komisaryczny, jeżeli organy przedsiębiorstwa mimo wezwaniu, o którym mowa w art. 5 ust. 3, nie wszczęły postępowania wewnętrznego, a komisja, o której mowa w art. 12, uznała takie postępowanie za niezbędne."
     },
     {
-      "provision_ref": "art16p1",
+      "provision_ref": "art16u1p1",
       "section": "16",
-      "title": "Art. 16 pkt 1",
+      "title": "Art. 16 ust. 1 pkt 1",
       "content": "Jeżeli uprzednio wszczęto postępowanie wewnętrzne, organ założycielski może, gdy ważny interes społeczny wymaga dalszego prowadzenia działalności przedsiębiorstwa, ustanowić nad nim zarząd komisaryczny w razie: nieuwzględnienia wniosku dyrektora lub rady pracowniczej przedsiębiorstwa o likwidację przedsiębiorstwa z powodu prowadzenia działalności ze stratą,"
     },
     {
-      "provision_ref": "art16p2",
+      "provision_ref": "art16u1p2",
       "section": "16",
-      "title": "Art. 16 pkt 2",
+      "title": "Art. 16 ust. 1 pkt 2",
       "content": "Jeżeli uprzednio wszczęto postępowanie wewnętrzne, organ założycielski może, gdy ważny interes społeczny wymaga dalszego prowadzenia działalności przedsiębiorstwa, ustanowić nad nim zarząd komisaryczny w razie: braku istotnej poprawy stanu gospodarki przedsiębiorstwa w okresie ustalonym w programie uzdrowienia gospodarki przedsiębiorstwa,"
     },
     {
-      "provision_ref": "art16p3",
+      "provision_ref": "art16u1p3",
       "section": "16",
-      "title": "Art. 16 pkt 3",
+      "title": "Art. 16 ust. 1 pkt 3",
       "content": "Jeżeli uprzednio wszczęto postępowanie wewnętrzne, organ założycielski może, gdy ważny interes społeczny wymaga dalszego prowadzenia działalności przedsiębiorstwa, ustanowić nad nim zarząd komisaryczny w razie: niepodjęcia, w terminie określonym w art. 13, uchwały w sprawie zatwierdzenia projektu programu uzdrowienia gospodarki przedsiębiorstwa."
+    },
+    {
+      "provision_ref": "art16u2",
+      "section": "16",
+      "title": "Art. 16 ust. 2",
+      "content": "Organ założycielski może także ustanowić zarząd komisaryczny, jeżeli organy przedsiębiorstwa mimo wezwaniu, o którym mowa w art. 5 ust. 3, nie wszczęły postępowania wewnętrznego, a komisja, o której mowa w art. 12, uznała takie postępowanie za niezbędne."
     },
     {
       "provision_ref": "art17",
@@ -301,7 +349,7 @@
       "provision_ref": "art20",
       "section": "20",
       "title": "Art. 20",
-      "content": "Zarząd komisaryczny ustanawia się na czas oznaczony, nie dłuższy jednak niż dwa lata. Jeżeli, w terminie określonym zgodnie z ust. 1, nie nastąpi uzdrowienie gospodarki przedsiębiorstwa, powinno ono ulec likwidacji, chyba że w wyjątkowych wypadkach ważne względy społeczne wymagają przedłużenia okresu zarządu komisarycznego. Okres tego zarządu nie może trwać jednak dłużej niż dalsze dwa lata."
+      "content": "Zarząd komisaryczny ustanawia się na czas oznaczony, nie dłuższy jednak niż dwa lata. Jeżeli w terminie określonym zgodnie z ust. 1 nie nastąpi uzdrowienie gospodarki przedsiębiorstwa, powinno ono ulec likwidacji, chyba że w wyjątkowych wypadkach ważne względy społeczne wymagają przedłużenia okresu zarządu komisarycznego. Okres tego zarządu nie może trwać jednak dłużej niż dalsze dwa lata."
     },
     {
       "provision_ref": "art20u1",
@@ -313,7 +361,7 @@
       "provision_ref": "art20u2",
       "section": "20",
       "title": "Art. 20 ust. 2",
-      "content": "Jeżeli, w terminie określonym zgodnie z ust. 1, nie nastąpi uzdrowienie gospodarki przedsiębiorstwa, powinno ono ulec likwidacji, chyba że w wyjątkowych wypadkach ważne względy społeczne wymagają przedłużenia okresu zarządu komisarycznego. Okres tego zarządu nie może trwać jednak dłużej niż dalsze dwa lata."
+      "content": "Jeżeli w terminie określonym zgodnie z ust. 1 nie nastąpi uzdrowienie gospodarki przedsiębiorstwa, powinno ono ulec likwidacji, chyba że w wyjątkowych wypadkach ważne względy społeczne wymagają przedłużenia okresu zarządu komisarycznego. Okres tego zarządu nie może trwać jednak dłużej niż dalsze dwa lata."
     },
     {
       "provision_ref": "art21",
@@ -337,7 +385,7 @@
       "provision_ref": "art22",
       "section": "22",
       "title": "Art. 22",
-      "content": "Pełnienie zarządu komisarycznego powierza się osobie powoływanej przez organ założycielski w porozumieniu z Ministrem Finansów. Z chwilą ustanowienia zarządu komisarycznego przechodzą na niego z mocą prawa kompetencje organów przedsiębiorstwa. Z chwilą ustanowienia zarządu komisarycznego organy samorządu załogi przedsiębiorstwa ulegają z mocy prawa rozwiązaniu. Jeżeli ustanowienie zarządu komisarycznego było poprzedzone postępowaniem wewnętrznym, a zarząd komisaryczny został ustanowiony z innych przyczyn niż wymienione w art. 16 pkt 3, organy samorządu nie ulegają rozwiązaniu, jednakże nie mogą one podejmować uchwał w sprawach wymienionych w art. 10 i 24 ustawy z dnia 25 września 1981 r. o samorządzie załogi przedsiębiorstwa państwowego ."
+      "content": "Pełnienie zarządu komisarycznego powierza się osobie powoływanej przez organ założycielski w porozumieniu z Ministrem Finansów. Z chwilą ustanowienia zarządu komisarycznego przechodzą na niego z mocy prawa kompetencje organów przedsiębiorstwa. Z chwilą ustanowienia zarządu komisarycznego organy samorządu załogi przedsiębiorstwa ulegają z mocy prawa rozwiązaniu. Jeżeli ustanowienie zarządu komisarycznego było poprzedzone postępowaniem wewnętrznym, a zarząd komisaryczny został ustanowiony z innych przyczyn niż wymienione w art. 16 ust. 1 pkt 3, organy samorządu nie ulegają rozwiązaniu, jednakże nie mogą one podejmować uchwał w sprawach wymienionych w art. 10 i 24 ustawy z dnia 25 września 1981 r. o samorządzie załogi przedsiębiorstwa państwowego ."
     },
     {
       "provision_ref": "art22u1",
@@ -349,7 +397,7 @@
       "provision_ref": "art22u2",
       "section": "22",
       "title": "Art. 22 ust. 2",
-      "content": "Z chwilą ustanowienia zarządu komisarycznego przechodzą na niego z mocą prawa kompetencje organów przedsiębiorstwa."
+      "content": "Z chwilą ustanowienia zarządu komisarycznego przechodzą na niego z mocy prawa kompetencje organów przedsiębiorstwa."
     },
     {
       "provision_ref": "art22u3",
@@ -361,7 +409,7 @@
       "provision_ref": "art22u4",
       "section": "22",
       "title": "Art. 22 ust. 4",
-      "content": "Jeżeli ustanowienie zarządu komisarycznego było poprzedzone postępowaniem wewnętrznym, a zarząd komisaryczny został ustanowiony z innych przyczyn niż wymienione w art. 16 pkt 3, organy samorządu nie ulegają rozwiązaniu, jednakże nie mogą one podejmować uchwał w sprawach wymienionych w art. 10 i 24 ustawy z dnia 25 września 1981 r. o samorządzie załogi przedsiębiorstwa państwowego ."
+      "content": "Jeżeli ustanowienie zarządu komisarycznego było poprzedzone postępowaniem wewnętrznym, a zarząd komisaryczny został ustanowiony z innych przyczyn niż wymienione w art. 16 ust. 1 pkt 3, organy samorządu nie ulegają rozwiązaniu, jednakże nie mogą one podejmować uchwał w sprawach wymienionych w art. 10 i 24 ustawy z dnia 25 września 1981 r. o samorządzie załogi przedsiębiorstwa państwowego ."
     },
     {
       "provision_ref": "art23",
@@ -403,7 +451,7 @@
       "provision_ref": "art25",
       "section": "25",
       "title": "Art. 25",
-      "content": "Podstawą ogłoszenia upadłości jest stan niewypłacalności przedsiębiorstwa, wyrażający się w tym, iż według bilansu jego majątek nie wystarcza na pokrycie zobowiązań, przy czym jako zobowiązanie wobec Skarbu Państwa traktuje się część funduszu statutowego przedsiębiorstwa finansującego jego środki trwałe. Zobowiązanie to jest zaspokajane w ostatniej kolejności."
+      "content": "Podstawą ogłoszenia upadłości jest stan niewypłacalności przedsiębiorstwa, wyrażający się w tym, iż według bilansu jego majątek nie wystarcza na pokrycie zobowiązań, przy czym jako zobowiązanie wobec Skarbu Państwa traktuje się część funduszu statutowego przedsiębiorstwa finansującego jego środki trwało. Zobowiązanie to jest zaspokajane w ostatniej kolejności."
     },
     {
       "provision_ref": "art26",
@@ -475,7 +523,7 @@
       "provision_ref": "art30",
       "section": "30",
       "title": "Art. 30",
-      "content": "Z chwilą ogłoszenia upadłości syndyk jest obowiązany rozwiązać z pracownikami przedsiębiorstwa umowy o pracę z zachowaniem obowiązujących terminów wypowiedzenia. Przepis ust. 1 stosuje się również do umów o pracę zawartych na czas określony lub na czas wykonania określonej pracy. W celu zapewnienia wykonania zadań związanych z realizacją postępowania upadłościowego, syndyk może odstąpić od rozwiązania umowy o pracę z pracownikami niezbędnymi do wykonania tych zadań. Przy wypowiadaniu umów o pracę nie stosuje się przepisów zakazujących lub ograniczających dopuszczalność wypowiadania lub rozwiązywania takich umów. Należności pracowników podlegają zaspokojeniu w trybie określonym w art. 1025 Kodeksu postępowania cywilnego ."
+      "content": "Z chwilą ogłoszenia upadłości syndyk jest obowiązany rozwiązać z pracownikami przedsiębiorstwa umowy o pracę z zachowaniem obowiązujących terminów wypowiedzenia. Przepis ust. 1 stosuje się również do umów o pracę zawartych na czas określony lub na czas wykonania określonej pracy. W celu zapewnienia wykonania zadań związanych z realizacją postępowania upadłościowego syndyk może odstąpić od rozwiązania umowy o pracę z pracownikami niezbędnymi do wykonania tych zadań. Przy wypowiadaniu umów o pracę nie stosuje się przepisów zakazujących lub ograniczających dopuszczalność wypowiadania lub rozwiązywania takich umów. Należności pracowników podlegają zaspokojeniu w trybie określonym w art. 1025 Kodeksu postępowania cywilnego ."
     },
     {
       "provision_ref": "art30u1",
@@ -493,7 +541,7 @@
       "provision_ref": "art30u3",
       "section": "30",
       "title": "Art. 30 ust. 3",
-      "content": "W celu zapewnienia wykonania zadań związanych z realizacją postępowania upadłościowego, syndyk może odstąpić od rozwiązania umowy o pracę z pracownikami niezbędnymi do wykonania tych zadań."
+      "content": "W celu zapewnienia wykonania zadań związanych z realizacją postępowania upadłościowego syndyk może odstąpić od rozwiązania umowy o pracę z pracownikami niezbędnymi do wykonania tych zadań."
     },
     {
       "provision_ref": "art30u4",
@@ -571,7 +619,7 @@
       "provision_ref": "art36",
       "section": "36",
       "title": "Art. 36",
-      "content": "Jeżeli nie dojdzie do układu z wierzycielami, sędzia-komisarz wyznaczy termin, w ciągu którego jednostki gospodarki uspołecznionej mogą zgłaszać oferty nabycia przedsiębiorstwa. Informacje o warunkach nabycia przedsiębiorstwa i terminie składania ofert ogłasza się w sposób zapewniający dotarcie ich do możliwie szerokiego kręgu zainteresowanych. W razie zgłoszenia większej liczby ofert, syndyk wyznacza rozprawę w celu przeprowadzenia ustnego przetargu. Pierwszeństwo nabycia przysługuje jednostce, która zgłosiła najwyższą cenę nabycia. Przy równych cenach pierwszeństwo nabycia przysługuje przedsiębiorstwom państwowym. Prawo nabycia przyznaje sędzia-komisarz. Nabycie przedsiębiorstwa następuje w stanie wolnym od wszelkich obciążeń, z wyjątkiem służebności gruntowych. W razie uzyskania za przedsiębiorstwo ceny wyższej od sumy długów przedsiębiorstwa, nadwyżka podlega przekazaniu organowi założycielskiemu. Sędzia-komisarz zgłasza nabycie przedsiębiorstwa do rejestru przedsiębiorstw państwowych. Wykreślenie z rejestru wywiera skutek od dnia uprawomocnienia się postanowienia sędziego-komisarza o przyznaniu prawa nabycia upadłego przedsiębiorstwa."
+      "content": "Jeżeli nie dojdzie do układu z wierzycielami, sędzia-komisarz wyznaczy termin, w ciągu którego jednostki gospodarki uspołecznionej mogą zgłaszać oferty nabycia przedsiębiorstwa. Informacje o warunkach nabycia przedsiębiorstwa i terminie składania ofert ogłasza się w sposób zapewniający dotarcie ich do możliwie szerokiego kręgu zainteresowanych. W razie zgłoszenia większej liczby ofert, syndyk wyznacza rozprawę w celu przeprowadzenia ustnego przetargu. Pierwszeństwo nabycia przysługuje jednostce, która zgłosiła najwyższą cenę nabycia. Przy równych cenach pierwszeństwo nabycia przysługuje przedsiębiorstwom państwowym. Prawo nabycia przyznaje sędzia-komisarz. Nabycie przedsiębiorstwa następuje w stanie wolnym od wszelkich obciążeń, z wyjątkiem służebności gruntowych. W razie uzyskania za przedsiębiorstwa ceny wyższej od sumy długów przedsiębiorstwa, nadwyżka podlega przekazaniu organowi założycielskiemu. Sędzia-komisarz zgłasza nabycie przedsiębiorstwa do rejestru przedsiębiorstw państwowych. Wykreślenie z rejestru wywiera skutek od dnia uprawomocnienia się postanowienia sędziego-komisarza o przyznaniu prawa nabycia upadłego przedsiębiorstwa."
     },
     {
       "provision_ref": "art36u1",
@@ -607,7 +655,7 @@
       "provision_ref": "art36u6",
       "section": "36",
       "title": "Art. 36 ust. 6",
-      "content": "W razie uzyskania za przedsiębiorstwo ceny wyższej od sumy długów przedsiębiorstwa, nadwyżka podlega przekazaniu organowi założycielskiemu."
+      "content": "W razie uzyskania za przedsiębiorstwa ceny wyższej od sumy długów przedsiębiorstwa, nadwyżka podlega przekazaniu organowi założycielskiemu."
     },
     {
       "provision_ref": "art36u7",
@@ -655,7 +703,7 @@
       "provision_ref": "art41",
       "section": "41",
       "title": "Art. 41",
-      "content": "Dyrektor przedsiębiorstwa, który wskutek niewykonania lub nienależytego wykonania obowiązków wynikających z niniejszej ustawy dopuścił przez to do powstania szkody w przedsiębiorstwie, ponosi odpowiedzialność materialną na zasadach określonych w przepisach Kodeksu pracy , z tym jednak że wysokość odszkodowania w razie wyrządzenia szkody z winy nieumyślnej nie może przekraczać kwoty sześciomiesięcznego wynagrodzenia. Dyrektor przedsiębiorstwa, likwidator oraz osoba sprawująca zarząd komisaryczny ponoszą odpowiedzialność wobec wierzycieli przedsiębiorstwa, jeżeli w wyniku niezgłoszenia lub spóźnionego zgłoszenia przez te osoby wniosku o ogłoszenie upadłości przedsiębiorstwa wierzyciele ponieśli z tego powodu szkodę. Odszkodowanie z tytułu tej odpowiedzialności jest ograniczone do wysokości sześciomiesięcznego wynagrodzenia."
+      "content": "Dyrektor przedsiębiorstwa, który wskutek niewykonania lub nienależytego wykonania obowiązków wynikających z niniejszej ustawy dopuścił przez to do powstania szkody w przedsiębiorstwie, ponosi odpowiedzialność materialną na zasadach określonych w przepisach Kodeksu pracy , z tym jednak że wysokość odszkodowania w razie wyrządzenia szkody z winy nieumyślnej nie może przekraczać kwoty sześciomiesięcznego wynagrodzenia. Dyrektor przedsiębiorstwa, likwidator oraz osoba sprawująca zarząd komisaryczny ponoszą odpowiedzialność wobec wierzycieli przedsiębiorstwa, jeżeli w wyniku niezgłoszenia lub spóźnionego zgłoszenia przez te osoby wniosku o ogłoszenie upadłości przedsiębiorstwa wierzyciele ponieśli z tego powodu szkodą. Odszkodowanie z tytułu tej odpowiedzialności jest ograniczone do wysokości sześciomiesięcznego wynagrodzenia."
     },
     {
       "provision_ref": "art41u1",
@@ -667,7 +715,7 @@
       "provision_ref": "art41u2",
       "section": "41",
       "title": "Art. 41 ust. 2",
-      "content": "Dyrektor przedsiębiorstwa, likwidator oraz osoba sprawująca zarząd komisaryczny ponoszą odpowiedzialność wobec wierzycieli przedsiębiorstwa, jeżeli w wyniku niezgłoszenia lub spóźnionego zgłoszenia przez te osoby wniosku o ogłoszenie upadłości przedsiębiorstwa wierzyciele ponieśli z tego powodu szkodę. Odszkodowanie z tytułu tej odpowiedzialności jest ograniczone do wysokości sześciomiesięcznego wynagrodzenia."
+      "content": "Dyrektor przedsiębiorstwa, likwidator oraz osoba sprawująca zarząd komisaryczny ponoszą odpowiedzialność wobec wierzycieli przedsiębiorstwa, jeżeli w wyniku niezgłoszenia lub spóźnionego zgłoszenia przez te osoby wniosku o ogłoszenie upadłości przedsiębiorstwa wierzyciele ponieśli z tego powodu szkodą. Odszkodowanie z tytułu tej odpowiedzialności jest ograniczone do wysokości sześciomiesięcznego wynagrodzenia."
     },
     {
       "provision_ref": "art42",
@@ -709,23 +757,15 @@
       "provision_ref": "art45",
       "section": "45",
       "title": "Art. 45",
-      "content": "W ustawie z dnia 25 września 1981 r. o przedsiębiorstwach państwowych art. 50 ust. 3 skreśla się."
-    },
-    {
-      "provision_ref": "art46",
-      "section": "46",
-      "title": "Art. 46",
       "content": "Rada Ministrów, w drodze rozporządzenia, określi rodzaje gwarantowanych przez Skarb Państwa roszczeń pracowniczych, utrzymujących się lub powstających po dniu likwidacji albo ogłoszenia upadłości przedsiębiorstwa państwowego, oraz zasady ich zaspokajania."
-    },
-    {
-      "provision_ref": "art47",
-      "section": "47",
-      "title": "Art. 47",
-      "content": "Ustawa wchodzi w życie z dniem 1 października 1983 r."
     }
   ],
   "definitions": [],
   "references": [
+    {
+      "target_document_id": "pl-du-1985-174",
+      "ref_type": "references"
+    },
     {
       "target_document_id": "pl-du-1981-122",
       "ref_type": "references"
@@ -735,11 +775,15 @@
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1982-54",
+      "target_document_id": "pl-du-1983-176",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1982-288",
+      "target_document_id": "pl-du-1984-242",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1984-275",
       "ref_type": "references"
     },
     {

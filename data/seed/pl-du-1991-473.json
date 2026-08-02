@@ -10,6 +10,54 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/1991/473",
   "provisions": [
     {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Art. 44",
+      "content": "W ustawie z dnia 8 marca 1990 r. o samorządzie terytorialnym wprowadza się następujące zmiany: w art. 12 w ust. 1 wyraz «lokalnego» zastępuje się wyrazem «gminnego», w art. 13 ust. 1 i 3 otrzymują brzmienie: « Referendum przeprowadza się z inicjatywy rady lub na wniosek co najmniej 1/10 mieszkańców uprawnionych do głosowania. » « Referendum w sprawie odwołania rady gminy przed upływem kadencji przeprowadza się na zasadach określonych w ust. 1 i 2. »” ;"
+    },
+    {
+      "provision_ref": "art44p1",
+      "section": "44",
+      "title": "Art. 44 pkt 1",
+      "content": "W ustawie z dnia 8 marca 1990 r. o samorządzie terytorialnym wprowadza się następujące zmiany: w art. 12 w ust. 1 wyraz «lokalnego» zastępuje się wyrazem «gminnego»,"
+    },
+    {
+      "provision_ref": "art44p2u1",
+      "section": "44",
+      "title": "Art. 44 pkt 2 ust. 1",
+      "content": "W ustawie z dnia 8 marca 1990 r. o samorządzie terytorialnym wprowadza się następujące zmiany: w art. 13 ust. 1 i 3 otrzymują brzmienie: « Referendum przeprowadza się z inicjatywy rady lub na wniosek co najmniej 1/10 mieszkańców uprawnionych do głosowania."
+    },
+    {
+      "provision_ref": "art44p2u3",
+      "section": "44",
+      "title": "Art. 44 pkt 2 ust. 3",
+      "content": "W ustawie z dnia 8 marca 1990 r. o samorządzie terytorialnym wprowadza się następujące zmiany: w art. 13 ust. 1 i 3 otrzymują brzmienie: « Referendum w sprawie odwołania rady gminy przed upływem kadencji przeprowadza się na zasadach określonych w ust. 1 i 2."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "Do postępowania w sprawie referendum gminnego wszczętego z inicjatywy rady gminy lub na wniosek mieszkańców przed dniem wejścia w życie ustawy stosuje się przepisy dotychczasowe."
+    },
+    {
+      "provision_ref": "art13u2",
+      "section": "13",
+      "title": "Art. 13 ust. 2",
+      "content": "Do postępowania w sprawie referendum gminnego wszczętego z inicjatywy rady gminy lub na wniosek mieszkańców przed dniem wejścia w życie ustawy stosuje się przepisy dotychczasowe."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem przepisu art. 37b ustawy wymienionej w art. 1, który wchodzi w życie z dniem 1 stycznia 1996 r."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
@@ -61,7 +109,7 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Art. 5",
-      "content": "Rada gminy podejmuje uchwałę o przeprowadzeniu referendum w sprawie samoopodatkowania mieszkańców na cele publiczne lub w innej sprawie ważnej dla gminy bezwzględną większością głosów w obecności co najmniej połowy ustawowej liczby radnych. Uchwała, o której mowa w ust. 1, powinna zawierać: pytanie lub pytania referendum w liczbie nie przewyższającej pięciu albo warianty decyzji zaproponowane mieszkańcom gminy do wyboru, w przypadku gdy przedmiotem referendum jest samoopodatkowanie mieszkańców na cele publiczne - wskazanie konkretnego celu (celów) i zasad samoopodatkowania, termin przeprowadzenia referendum, wzór karty do głosowania."
+      "content": "Rada gminy podejmuje uchwałę o przeprowadzeniu referendum w sprawie samoopodatkowania mieszkańców na cele publiczne lub w innej sprawie ważnej dla gminy bezwzględną większością głosów w obecności co najmniej połowy ustawowej liczby radnych. Uchwała, o której mowa w ust. 1, powinna zawierać: pytanie lub pytania referendum w liczbie nie przewyższającej pięciu albo warianty decyzji zaproponowane mieszkańcom gminy do wyboru, w przypadku gdy przedmiotem referendum jest samoopodatkowanie mieszkańców na cele publiczne - wskazanie konkretnego celu (celów) i zasad samoopodatkowania, termin przeprowadzenia referendum, wzór karty do głosowania, kalendarz czynności związanych z przeprowadzeniem referendum."
     },
     {
       "provision_ref": "art5u1",
@@ -91,7 +139,13 @@
       "provision_ref": "art5u2p4",
       "section": "5",
       "title": "Art. 5 ust. 2 pkt 4",
-      "content": "Uchwała, o której mowa w ust. 1, powinna zawierać: wzór karty do głosowania."
+      "content": "Uchwała, o której mowa w ust. 1, powinna zawierać: wzór karty do głosowania,"
+    },
+    {
+      "provision_ref": "art5u2p1",
+      "section": "5",
+      "title": "Art. 5 ust. 2 pkt 1",
+      "content": "Uchwała, o której mowa w ust. 1, powinna zawierać: kalendarz czynności związanych z przeprowadzeniem referendum."
     },
     {
       "provision_ref": "art6",
@@ -115,19 +169,19 @@
       "provision_ref": "art7",
       "section": "7",
       "title": "Art. 7",
-      "content": "Z inicjatywą przeprowadzenia referendum na wniosek meszkańców gminy wystąpić może: obywatel lub grupa obywateli, którym przysługuje prawo wybierania do rady danej gminy, struktura terenowa partii politycznej lub organizacji społecznej działająca w danej gminie. Podmioty, o których mowa w ust. 1, zwane są dalej inicjatorami referendum."
+      "content": "Z inicjatywą przeprowadzenia referendum na wniosek mieszkańców gminy wystąpić może: obywatel lub grupa obywateli, którym przysługuje prawo wybierania do rady danej gminy, struktura terenowa partii politycznej lub organizacji społecznej działająca w danej gminie. Podmioty, o których mowa w ust. 1, zwane są dalej inicjatorami referendum."
     },
     {
       "provision_ref": "art7u1p1",
       "section": "7",
       "title": "Art. 7 ust. 1 pkt 1",
-      "content": "Z inicjatywą przeprowadzenia referendum na wniosek meszkańców gminy wystąpić może: obywatel lub grupa obywateli, którym przysługuje prawo wybierania do rady danej gminy,"
+      "content": "Z inicjatywą przeprowadzenia referendum na wniosek mieszkańców gminy wystąpić może: obywatel lub grupa obywateli, którym przysługuje prawo wybierania do rady danej gminy,"
     },
     {
       "provision_ref": "art7u1p2",
       "section": "7",
       "title": "Art. 7 ust. 1 pkt 2",
-      "content": "Z inicjatywą przeprowadzenia referendum na wniosek meszkańców gminy wystąpić może: struktura terenowa partii politycznej lub organizacji społecznej działająca w danej gminie."
+      "content": "Z inicjatywą przeprowadzenia referendum na wniosek mieszkańców gminy wystąpić może: struktura terenowa partii politycznej lub organizacji społecznej działająca w danej gminie."
     },
     {
       "provision_ref": "art7u2",
@@ -139,7 +193,7 @@
       "provision_ref": "art8",
       "section": "8",
       "title": "Art. 8",
-      "content": "Inicjator referendum powiadamia na piśmie wójta lub burmistrza (prezydenta miasta) o zamiarze wystąpienia z inicjatywą przeprowadzenia referendum. Powiadomienie, o którym mowa w ust. 1, zawierać powinno: jeżeli inicjatorem referendum jest obywatel - jego nazwisko, imię, datę urodzenia, adres i numer dowodu osobistego, jeżeli inicjatorem referendum jest grupa obywateli - nazwiska, imiona, daty urodzenia, adresy i numery dowodów osobistych wszystkich członków grupy oraz wskazanie osoby będącej jej pełnomocnikiem, jeżeli inicjatorem referendum jest partia polityczna lub organizacja społeczna - jej nazwę, adres siedziby na terenie gminy oraz nazwisko, imię, datę urodzenia, adres i numer dowodu osobistego osoby będącej jej pełnomocnikiem, określenie sprawy, w której ma zostać przeprowadzone referendum. Wójt lub burmistrz (prezydent miasta) niezwłocznie potwierdza na piśmie otrzymanie powiadomienia. Pełnomocnikiem inicjatora referendum może być jedynie osoba, której przysługuje prawo wybierania do rady danej gminy. Na pisemny wniosek inicjatora referendum, wójt lub burmistrz (prezydent miasta), w ciągu 7 dni od otrzymania wniosku, powiadamia w formie pisemnej inicjatora referendum lub jego pełnomocnika o liczbie mieszkańców gminy uprawnionych do głosowania. Liczba ta stanowi podstawę obliczeń, o których mowa w art. 13 ustawy o samorządzie terytorialnym. Inicjator referendum w sprawie odwołania rady gminy przed upływem kadencji powiadamia o zamiarze wystąpienia z taką inicjatywą również wojewódzkiego komisarza wyborczego; do tego powiadomienia stosuje się przepisy ust. 1 i 3."
+      "content": "Inicjator referendum powiadamia na piśmie wójta lub burmistrza (prezydenta miasta) o zamiarze wystąpienia z inicjatywą przeprowadzenia referendum. Powiadomienie, o którym mowa w ust. 1, zawierać powinno: jeżeli inicjatorem referendum jest obywatel - jego nazwisko, imię, datę urodzenia, adres i numer dowodu osobistego, jeżeli inicjatorem referendum jest grupa obywateli - nazwiska, imiona, daty urodzenia, adresy i numery dowodów osobistych wszystkich członków grupy oraz wskazanie osoby będącej jej pełnomocnikiem, jeżeli inicjatorem referendum jest partia polityczna lub organizacja społeczna - jej nazwę, adres siedziby na terenie gminy oraz nazwisko, imię, datę urodzenia, adres i numer dowodu osobistego osoby będącej jej pełnomocnikiem, określenie sprawy, w której ma zostać przeprowadzone referendum. Wójt lub burmistrz (prezydent miasta) niezwłocznie potwierdza na piśmie otrzymanie powiadomienia. Pełnomocnikiem inicjatora referendum może być jedynie osoba, której przysługuje prawo wybierania do rady danej gminy. Na pisemny wniosek inicjatora referendum wójt lub burmistrz (prezydent miasta), w ciągu 7 dni od otrzymania wniosku, powiadamia w formie pisemnej inicjatora referendum lub jego pełnomocnika oraz wojewódzkiego komisarza wyborczego o liczbie mieszkańców gminy uprawnionych do głosowania. Liczba ta, ustalona według stanu w rejestrze wyborców na koniec miesiąca poprzedzającego złożenie wniosku, stanowi podstawę obliczeń, o których mowa w art. 13 ust. 1 ustawy o samorządzie terytorialnym. Inicjator referendum w sprawie odwołania rady gminy przed upływem kadencji powiadamia o zamiarze wystąpienia z taką inicjatywą również wojewódzkiego komisarza wyborczego; do tego powiadomienia stosuje się przepisy ust. 1 i 3."
     },
     {
       "provision_ref": "art8u1",
@@ -187,7 +241,7 @@
       "provision_ref": "art8u5",
       "section": "8",
       "title": "Art. 8 ust. 5",
-      "content": "Na pisemny wniosek inicjatora referendum, wójt lub burmistrz (prezydent miasta), w ciągu 7 dni od otrzymania wniosku, powiadamia w formie pisemnej inicjatora referendum lub jego pełnomocnika o liczbie mieszkańców gminy uprawnionych do głosowania. Liczba ta stanowi podstawę obliczeń, o których mowa w art. 13 ustawy o samorządzie terytorialnym."
+      "content": "Na pisemny wniosek inicjatora referendum wójt lub burmistrz (prezydent miasta), w ciągu 7 dni od otrzymania wniosku, powiadamia w formie pisemnej inicjatora referendum lub jego pełnomocnika oraz wojewódzkiego komisarza wyborczego o liczbie mieszkańców gminy uprawnionych do głosowania. Liczba ta, ustalona według stanu w rejestrze wyborców na koniec miesiąca poprzedzającego złożenie wniosku, stanowi podstawę obliczeń, o których mowa w art. 13 ust. 1 ustawy o samorządzie terytorialnym."
     },
     {
       "provision_ref": "art8u6",
@@ -223,7 +277,7 @@
       "provision_ref": "art10",
       "section": "10",
       "title": "Art. 10",
-      "content": "W terminie 60 dni od dnia powiadomienia wójta lub burmistrza (prezydenta miasta) o zamiarze wystąpienia z inicjatywą przeprowadzenia referendum jego inicjator zbiera podpisy mieszkańców uprawnionych do wybierania rady danej gminy i pragnących poprzeć inicjatywę w tej sprawie. Podpisy zbiera się na kartach, z których każda zawiera informacje o przedmiocie zamierzonego referendum oraz o jego inicjatorze. Mieszkaniec gminy popierający wniosek o przeprowadzenie referendum podaje na karcie nazwisko, imię, datę urodzenia, adres i numer dowodu osobistego. Dane te potwierdza własnoręcznym podpisem."
+      "content": "W terminie 60 dni od dnia powiadomienia wójta lub burmistrza (prezydenta miasta) o zamiarze wystąpienia z inicjatywą przeprowadzenia referendum jego inicjator zbiera podpisy mieszkańców uprawnionych do wybierania rady danej gminy i pragnących poprzeć inicjatywę w tej sprawie. Podpisy zbiera się na kartach, z których każda zawiera informacje o przedmiocie zamierzonego referendum oraz o jego inicjatorze. Mieszkaniec gminy popierający wniosek o przeprowadzenie referendum podaje na karcie nazwisko, imię, datę urodzenia, adres i numer dowodu osobistego. Dane te potwierdza własnoręcznym podpisem. Wycofanie udzielonego poparcia jest nieskuteczne."
     },
     {
       "provision_ref": "art10u1",
@@ -241,19 +295,19 @@
       "provision_ref": "art10u3",
       "section": "10",
       "title": "Art. 10 ust. 3",
-      "content": "Mieszkaniec gminy popierający wniosek o przeprowadzenie referendum podaje na karcie nazwisko, imię, datę urodzenia, adres i numer dowodu osobistego. Dane te potwierdza własnoręcznym podpisem."
+      "content": "Mieszkaniec gminy popierający wniosek o przeprowadzenie referendum podaje na karcie nazwisko, imię, datę urodzenia, adres i numer dowodu osobistego. Dane te potwierdza własnoręcznym podpisem. Wycofanie udzielonego poparcia jest nieskuteczne."
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Art. 11",
-      "content": "Inicjator referendum przekazuje pisemny wniosek o przeprowadzenie referendum wójtowi lub burmistrzowi (prezydentowi miasta) i może żądać od niego pisemnego potwierdzenia. Wniosek o przeprowadzenie referendum musi spełniać warunki, o których mowa w art. 5 ust. 2 pkt 1 i 2. Do wniosku dołącza się karty, o których mowa w art. 10 ust. 2."
+      "content": "Inicjator referendum przekazuje w terminie określonym w art. 10 ust. 1 pisemny wniosek o przeprowadzenie referendum wójtowi lub burmistrzowi (prezydentowi miasta) i może żądać od niego pisemnego potwierdzenia. Wniosek o przeprowadzenie referendum musi spełniać warunki, o których mowa w art. 5 ust. 2 pkt 1 i 2. Do wniosku dołącza się karty, o których mowa w art. 10 ust. 2."
     },
     {
       "provision_ref": "art11u1",
       "section": "11",
       "title": "Art. 11 ust. 1",
-      "content": "Inicjator referendum przekazuje pisemny wniosek o przeprowadzenie referendum wójtowi lub burmistrzowi (prezydentowi miasta) i może żądać od niego pisemnego potwierdzenia."
+      "content": "Inicjator referendum przekazuje w terminie określonym w art. 10 ust. 1 pisemny wniosek o przeprowadzenie referendum wójtowi lub burmistrzowi (prezydentowi miasta) i może żądać od niego pisemnego potwierdzenia."
     },
     {
       "provision_ref": "art11u2",
@@ -373,13 +427,13 @@
       "provision_ref": "art18",
       "section": "18",
       "title": "Art. 18",
-      "content": "Inicjator referendum w sprawie odwołania rady gminy przekazuje wniosek mieszkańców wojewódzkiemu komisarzowi wyborczemu i może żądać od niego pisemnego potwierdzenia otrzymania wniosku. Do wniosku dołącza się karty, o których mowa w art. 10 ust. 2. Wojewódzki komisarz wyborczy zwraca inicjatorowi lub jego pełnomocnikowi wniosek zawierający usterki i wyznacza 14-dniowy termin do ich usunięcia. Wojewódzki komisarz wyborczy odrzuca wniosek o przeprowadzenie referendum, w którym stwierdził nie dające się usunąć uchybienia. Postanowienie o odrzuceniu wniosku przekazuje się niezwłocznie inicjatorowi referendum lub jego pełnomocnikowi. Przepisy ust. 3 i 4 odnoszą się również do uchybień w wykazie mieszkańców gminy popierających ten wniosek. Inicjator referendum lub jego pełnomocnik może, w razie potrzeby, składać wojewódzkiemu komisarzowi wyborczemu dodatkowe wyjaśnienia i przedstawiać dowody. Wojewódzki komisarz wyborczy może także żądać od inicjatora referendum lub jego pełnomocnika takich wyjaśnień lub dowodów."
+      "content": "Inicjator referendum w sprawie odwołania rady gminy przekazuje w terminie określonym w art. 10 ust. 1, na piśmie wniosek mieszkańców wojewódzkiemu komisarzowi wyborczemu i może żądać od niego pisemnego potwierdzenia otrzymania wniosku. Do wniosku dołącza się karty, o których mowa w art. 10 ust. 2. Wojewódzki komisarz wyborczy zwraca inicjatorowi lub jego pełnomocnikowi wniosek zawierający usterki i wyznacza 14-dniowy termin do ich usunięcia. Wojewódzki komisarz wyborczy odrzuca wniosek o przeprowadzenie referendum, w którym stwierdził nie dające się usunąć uchybienia. Postanowienie o odrzuceniu wniosku przekazuje się niezwłocznie inicjatorowi referendum lub jego pełnomocnikowi. Przepisy ust. 3 i 4 odnoszą się również do uchybień w wykazie mieszkańców gminy popierających ten wniosek. Inicjator referendum lub jego pełnomocnik może, w razie potrzeby, składać wojewódzkiemu komisarzowi wyborczemu dodatkowe wyjaśnienia i przedstawiać dowody. Wojewódzki komisarz wyborczy może także żądać od inicjatora referendum lub jego pełnomocnika takich wyjaśnień lub dowodów."
     },
     {
       "provision_ref": "art18u1",
       "section": "18",
       "title": "Art. 18 ust. 1",
-      "content": "Inicjator referendum w sprawie odwołania rady gminy przekazuje wniosek mieszkańców wojewódzkiemu komisarzowi wyborczemu i może żądać od niego pisemnego potwierdzenia otrzymania wniosku."
+      "content": "Inicjator referendum w sprawie odwołania rady gminy przekazuje w terminie określonym w art. 10 ust. 1, na piśmie wniosek mieszkańców wojewódzkiemu komisarzowi wyborczemu i może żądać od niego pisemnego potwierdzenia otrzymania wniosku."
     },
     {
       "provision_ref": "art18u2",
@@ -439,7 +493,31 @@
       "provision_ref": "art21",
       "section": "21",
       "title": "Art. 21",
-      "content": "Postanowienie wojewódzkiego komisarza wyborczego o przeprowadzeniu referendum podlega opublikowaniu zgodnie z art. 6 ust. 1."
+      "content": "Postanowienie wojewódzkiego komisarza wyborczego o przeprowadzeniu referendum powinno zawierać: termin przeprowadzenia referendum, wzór i treść karty do głosowania, kalendarz czynności związanych z przeprowadzeniem referendum. Postanowienie, o którym mowa w ust. 1, podlega opublikowaniu zgodnie z art. 6 ust. 1."
+    },
+    {
+      "provision_ref": "art21u1p1",
+      "section": "21",
+      "title": "Art. 21 ust. 1 pkt 1",
+      "content": "Postanowienie wojewódzkiego komisarza wyborczego o przeprowadzeniu referendum powinno zawierać: termin przeprowadzenia referendum,"
+    },
+    {
+      "provision_ref": "art21u1p2",
+      "section": "21",
+      "title": "Art. 21 ust. 1 pkt 2",
+      "content": "Postanowienie wojewódzkiego komisarza wyborczego o przeprowadzeniu referendum powinno zawierać: wzór i treść karty do głosowania,"
+    },
+    {
+      "provision_ref": "art21u1p3",
+      "section": "21",
+      "title": "Art. 21 ust. 1 pkt 3",
+      "content": "Postanowienie wojewódzkiego komisarza wyborczego o przeprowadzeniu referendum powinno zawierać: kalendarz czynności związanych z przeprowadzeniem referendum."
+    },
+    {
+      "provision_ref": "art21u2",
+      "section": "21",
+      "title": "Art. 21 ust. 2",
+      "content": "Postanowienie, o którym mowa w ust. 1, podlega opublikowaniu zgodnie z art. 6 ust. 1."
     },
     {
       "provision_ref": "art22",
@@ -475,13 +553,13 @@
       "provision_ref": "art23",
       "section": "23",
       "title": "Art. 23",
-      "content": "Referendum, o którym mowa w art. 18 ust. 1, przeprowadza się między 45 a 50 dniem od opublikowania na terenie gminy postanowienia w tej sprawie wojewódzkiego komisarza wyborczego albo od dnia ogłoszenia przez Naczelny Sąd Administracyjny postanowienia, o którym mowa w art. 22 ust. 3."
+      "content": "Referendum, o którym mowa w art. 18 ust. 1, przeprowadza się między 30 a 35 dniem od opublikowania na terenie gminy postanowienia w tej sprawie wojewódzkiego komisarza wyborczego albo od dnia ogłoszenia przez Naczelny Sąd Administracyjny postanowienia, o którym mowa w art. 22 ust. 3."
     },
     {
       "provision_ref": "art24",
       "section": "24",
       "title": "Art. 24",
-      "content": "Referendum przeprowadzają i ustalają jego wynik powołane w tym celu komisje terytorialne i obwodowe. Terytorialną komisję powołuje: rada gminy - w sprawie dotyczącej samoopodatkowania mieszkańców na cele publiczne lub w innej sprawie ważnej dla gminy, wojewódzki komisarz wyborczy - w sprawie odwołania rady gminy przed upływem kadencji. Obwodowe komisje powołuje komisja terytorialna. Komisja terytorialna ustala wzory formularzy protokołów sporządzanych przez komisję. Komisje posługują się odpowiednio pieczęcią terytorialnej i obwodowej komisji wyborczej, ustanowioną dla tych komisji w wyborach do rad gmin."
+      "content": "Referendum przeprowadzają i ustalają jego wynik powołane w tym celu komisje terytorialne i obwodowe. Terytorialną komisję powołuje: rada gminy - w sprawie dotyczącej samoopodatkowania mieszkańców na cele publiczne lub w innej sprawie ważnej dla gminy, wojewódzki komisarz wyborczy - w sprawie odwołania rady gminy przed upływem kadencji. Obwodowe komisje powołuje: komisja terytorialna - w sprawie dotyczącej samoopodatkowania mieszkańców na cele publiczne lub w innej sprawie ważnej dla gminy, wojewódzki komisarz wyborczy - w sprawie odwołania rady gminy przed upływem kadencji. Komisja terytorialna ustala wzory formularzy protokołów sporządzanych przez komisję. Komisje posługują się odpowiednio pieczęcią terytorialnej i obwodowej komisji wyborczej, ustanowioną dla tych komisji w wyborach do rad gmin."
     },
     {
       "provision_ref": "art24u1",
@@ -502,10 +580,16 @@
       "content": "Terytorialną komisję powołuje: wojewódzki komisarz wyborczy - w sprawie odwołania rady gminy przed upływem kadencji."
     },
     {
-      "provision_ref": "art24u3",
+      "provision_ref": "art24u3p1",
       "section": "24",
-      "title": "Art. 24 ust. 3",
-      "content": "Obwodowe komisje powołuje komisja terytorialna."
+      "title": "Art. 24 ust. 3 pkt 1",
+      "content": "Obwodowe komisje powołuje: komisja terytorialna - w sprawie dotyczącej samoopodatkowania mieszkańców na cele publiczne lub w innej sprawie ważnej dla gminy,"
+    },
+    {
+      "provision_ref": "art24u3p2",
+      "section": "24",
+      "title": "Art. 24 ust. 3 pkt 2",
+      "content": "Obwodowe komisje powołuje: wojewódzki komisarz wyborczy - w sprawie odwołania rady gminy przed upływem kadencji."
     },
     {
       "provision_ref": "art24u4",
@@ -520,16 +604,58 @@
       "content": "Komisje posługują się odpowiednio pieczęcią terytorialnej i obwodowej komisji wyborczej, ustanowioną dla tych komisji w wyborach do rad gmin."
     },
     {
+      "provision_ref": "art24a",
+      "section": "24a",
+      "title": "Art. 24a",
+      "content": "Wojewódzki komisarz wyborczy powołuje w skład terytorialnej i obwodowych komisji dla przeprowadzenia referendum w sprawie odwołania rady gminy, w równej liczbie, osoby pisemnie wskazane przez zarząd gminy i inicjatora referendum, o którym mowa w art. 7 ust. 1. W skład komisji nie mogą wchodzić radni danej rady gminy, osoby wchodzące w skład zarządu gminy, a także inicjator referendum oraz jego pełnomocnik. W skład terytorialnej komisji wchodzi od 6 do 16 osób; w skład obwodowej komisji wchodzi od 6 do 10 osób. Komisje, o których mowa w ust. 1, na swoich pierwszych posiedzeniach wybierają spośród siebie przewodniczącego i jego zastępcę. Składy komisji podaje się niezwłocznie do publicznej wiadomości w sposób zwyczajowo przyjęty w gminie. Zmiany i uzupełnienia w składach komisji następują w szczególnie uzasadnionych sytuacjach, a zwłaszcza na skutek zrzeczenia się członkostwa lub śmierci, na zasadach i w trybie przepisów o ich powołaniu."
+    },
+    {
+      "provision_ref": "art24au1",
+      "section": "24a",
+      "title": "Art. 24a ust. 1",
+      "content": "Wojewódzki komisarz wyborczy powołuje w skład terytorialnej i obwodowych komisji dla przeprowadzenia referendum w sprawie odwołania rady gminy, w równej liczbie, osoby pisemnie wskazane przez zarząd gminy i inicjatora referendum, o którym mowa w art. 7 ust. 1. W skład komisji nie mogą wchodzić radni danej rady gminy, osoby wchodzące w skład zarządu gminy, a także inicjator referendum oraz jego pełnomocnik."
+    },
+    {
+      "provision_ref": "art24au2",
+      "section": "24a",
+      "title": "Art. 24a ust. 2",
+      "content": "W skład terytorialnej komisji wchodzi od 6 do 16 osób; w skład obwodowej komisji wchodzi od 6 do 10 osób."
+    },
+    {
+      "provision_ref": "art24au3",
+      "section": "24a",
+      "title": "Art. 24a ust. 3",
+      "content": "Komisje, o których mowa w ust. 1, na swoich pierwszych posiedzeniach wybierają spośród siebie przewodniczącego i jego zastępcę. Składy komisji podaje się niezwłocznie do publicznej wiadomości w sposób zwyczajowo przyjęty w gminie."
+    },
+    {
+      "provision_ref": "art24au4",
+      "section": "24a",
+      "title": "Art. 24a ust. 4",
+      "content": "Zmiany i uzupełnienia w składach komisji następują w szczególnie uzasadnionych sytuacjach, a zwłaszcza na skutek zrzeczenia się członkostwa lub śmierci, na zasadach i w trybie przepisów o ich powołaniu."
+    },
+    {
       "provision_ref": "art25",
       "section": "25",
       "title": "Art. 25",
-      "content": "Komisja terytorialna dla przeprowadzenia referendum zarządza wydrukowanie potrzebnej liczby kart do głosowania i zapewnia dostarczenie ich do obwodów głosowania."
+      "content": "Komisja terytorialna dla przeprowadzenia referendum zarządza wydrukowanie potrzebnej liczby kart do głosowania i zapewnia dostarczenie ich do obwodowych komisji dla przeprowadzenia referendum, z zastrzeżeniem ust. 2. W referendum w sprawie odwołania rady gminy wojewódzki komisarz wyborczy zarządza druk kart do głosowania oraz określa sposób dostarczenia ich do obwodowych komisji dla przeprowadzenia referendum."
+    },
+    {
+      "provision_ref": "art25u1",
+      "section": "25",
+      "title": "Art. 25 ust. 1",
+      "content": "Komisja terytorialna dla przeprowadzenia referendum zarządza wydrukowanie potrzebnej liczby kart do głosowania i zapewnia dostarczenie ich do obwodowych komisji dla przeprowadzenia referendum, z zastrzeżeniem ust. 2."
+    },
+    {
+      "provision_ref": "art25u2",
+      "section": "25",
+      "title": "Art. 25 ust. 2",
+      "content": "W referendum w sprawie odwołania rady gminy wojewódzki komisarz wyborczy zarządza druk kart do głosowania oraz określa sposób dostarczenia ich do obwodowych komisji dla przeprowadzenia referendum."
     },
     {
       "provision_ref": "art26",
       "section": "26",
       "title": "Art. 26",
-      "content": "Karta do głosowania obejmuje: oznaczenie referendum (organu, który postanowił o przeprowadzeniu referendum, datę referendum), pytanie albo warianty rozwiązania sprawy będącej przedmiotem referendum; jeżeli referendum polega na udzieleniu odpowiedzi na postawione pytanie, na karcie do głosowania zamieszcza się również wyrazy: „tak” i „nie”, a gdy referendum polega na dokonaniu wyboru pomiędzy zaproponowanymi wariantami, przy każdym z wariantów umieszcza się po lewej stronie numer wariantu, pouczenie o sposobie głosowania. W razie poddania pod referendum więcej niż jednej sprawy, na karcie do głosowania zamieszcza się kolejno wszystkie postawione pytania lub warianty, z zachowaniem wymagań określonych w ust. 1 pkt 2. Karta do głosowania może być zadrukowana tylko po jednej stronie. Karta do głosowania powinna być opatrzona pieczęcią rady gminy, która postanowiła o przeprowadzeniu tego referendum."
+      "content": "Karta do głosowania obejmuje: oznaczenie referendum (organu, który postanowił o przeprowadzeniu referendum, datę referendum), pytanie albo warianty rozwiązania sprawy będącej przedmiotem referendum; jeżeli referendum polega na udzieleniu odpowiedzi na postawione pytanie, na karcie do głosowania zamieszcza się również wyrazy „tak” i „nie”, a gdy referendum polega na dokonaniu wyboru pomiędzy zaproponowanymi wariantami, przy każdym z wariantów umieszcza się po lewej stronie numer wariantu, pouczenie o sposobie głosowania. W razie poddania pod referendum więcej niż jednej sprawy, na karcie do głosowania zamieszcza się kolejno wszystkie postawione pytania lub warianty, z zachowaniem wymagań określonych w ust. 1 pkt 2. Karta do głosowania może być zadrukowana tylko po jednej stronie. Kartę do głosowania opatruje się pieczęcią: rady gminy - w referendum w sprawie samoopodatkowania mieszkańców na cele publiczne lub w innej sprawie ważnej dla gminy, wojewódzkiego komisarza wyborczego - w referendum w sprawie odwołania rady gminy przed upływem kadencji."
     },
     {
       "provision_ref": "art26u1p1",
@@ -541,7 +667,7 @@
       "provision_ref": "art26u1p2",
       "section": "26",
       "title": "Art. 26 ust. 1 pkt 2",
-      "content": "Karta do głosowania obejmuje: pytanie albo warianty rozwiązania sprawy będącej przedmiotem referendum; jeżeli referendum polega na udzieleniu odpowiedzi na postawione pytanie, na karcie do głosowania zamieszcza się również wyrazy: „tak” i „nie”, a gdy referendum polega na dokonaniu wyboru pomiędzy zaproponowanymi wariantami, przy każdym z wariantów umieszcza się po lewej stronie numer wariantu,"
+      "content": "Karta do głosowania obejmuje: pytanie albo warianty rozwiązania sprawy będącej przedmiotem referendum; jeżeli referendum polega na udzieleniu odpowiedzi na postawione pytanie, na karcie do głosowania zamieszcza się również wyrazy „tak” i „nie”, a gdy referendum polega na dokonaniu wyboru pomiędzy zaproponowanymi wariantami, przy każdym z wariantów umieszcza się po lewej stronie numer wariantu,"
     },
     {
       "provision_ref": "art26u1p3",
@@ -562,10 +688,16 @@
       "content": "Karta do głosowania może być zadrukowana tylko po jednej stronie."
     },
     {
-      "provision_ref": "art26u4",
+      "provision_ref": "art26u4p1",
       "section": "26",
-      "title": "Art. 26 ust. 4",
-      "content": "Karta do głosowania powinna być opatrzona pieczęcią rady gminy, która postanowiła o przeprowadzeniu tego referendum."
+      "title": "Art. 26 ust. 4 pkt 1",
+      "content": "Kartę do głosowania opatruje się pieczęcią: rady gminy - w referendum w sprawie samoopodatkowania mieszkańców na cele publiczne lub w innej sprawie ważnej dla gminy,"
+    },
+    {
+      "provision_ref": "art26u4p2",
+      "section": "26",
+      "title": "Art. 26 ust. 4 pkt 2",
+      "content": "Kartę do głosowania opatruje się pieczęcią: wojewódzkiego komisarza wyborczego - w referendum w sprawie odwołania rady gminy przed upływem kadencji."
     },
     {
       "provision_ref": "art27",
@@ -577,7 +709,7 @@
       "provision_ref": "art28",
       "section": "28",
       "title": "Art. 28",
-      "content": "Kalendarz czynności związanych z przeprowadzeniem referendum ustala rada gminy lub wojewódzki komisarz wyborczy postanawiający o przeprowadzeniu referendum w sprawie odwołania rady. Kalendarz czynności podlega ogłoszeniu w wojewódzkim dzienniku urzędowym oraz podaniu do publicznej wiadomości w sposób zwyczajowo w niej przyjęty."
+      "content": "(skreślony 12) Przez art. 4 pkt 11 ustawy wymienionej w przypisie 1. )."
     },
     {
       "provision_ref": "art29",
@@ -589,7 +721,7 @@
       "provision_ref": "art30",
       "section": "30",
       "title": "Art. 30",
-      "content": "Wynik referendum jest rozstrzygający, jeżeli za jednym z rozwiązań w sprawie poddanej referendum oddano więcej niż połowę ważnych głosów. Wynik referendum w sprawie samooopodatkowania się mieszkańców na cele publiczne jest rozstrzygający, jeżeli za samoopodatkowaniem padło co najmniej 2/3 ważnie oddanych głosów."
+      "content": "Wynik referendum jest rozstrzygający, jeżeli za jednym z rozwiązań w sprawie poddanej referendum oddano więcej niż połowę ważnych głosów. Wynik referendum w sprawie samoopodatkowania się mieszkańców na cele publiczne jest rozstrzygający, jeżeli za samoopodatkowaniem padło co najmniej 2/3 ważnie oddanych głosów."
     },
     {
       "provision_ref": "art30u1",
@@ -601,13 +733,13 @@
       "provision_ref": "art30u2",
       "section": "30",
       "title": "Art. 30 ust. 2",
-      "content": "Wynik referendum w sprawie samooopodatkowania się mieszkańców na cele publiczne jest rozstrzygający, jeżeli za samoopodatkowaniem padło co najmniej 2/3 ważnie oddanych głosów."
+      "content": "Wynik referendum w sprawie samoopodatkowania się mieszkańców na cele publiczne jest rozstrzygający, jeżeli za samoopodatkowaniem padło co najmniej 2/3 ważnie oddanych głosów."
     },
     {
       "provision_ref": "art31",
       "section": "31",
       "title": "Art. 31",
-      "content": "Głos jest nieważny, jeżeli: na karcie do głosowania nie zaznaczono żadnej odpowiedzi, na karcie do głosowania zaznaczono więcej niż jedną odpowiedź na dane pytanie, karta została przekreślona."
+      "content": "Głos jest nieważny, jeżeli: na karcie do głosowania nie zaznaczono żadnej odpowiedzi, na karcie do głosowania zaznaczono więcej niż jedną odpowiedź na dane pytanie, (skreślony 13) Przez art. 4 pkt 12 ustawy wymienionej w przypisie 1. )."
     },
     {
       "provision_ref": "art31p1",
@@ -625,25 +757,19 @@
       "provision_ref": "art31p3",
       "section": "31",
       "title": "Art. 31 pkt 3",
-      "content": "Głos jest nieważny, jeżeli: karta została przekreślona."
+      "content": "Głos jest nieważny, jeżeli: (skreślony 13) Przez art. 4 pkt 12 ustawy wymienionej w przypisie 1. )."
     },
     {
       "provision_ref": "art32",
       "section": "32",
       "title": "Art. 32",
-      "content": "Nieważne są karty do głosowania: inne niż urzędowo ustalone bądź nie opatrzone właściwą pieczęcią, podarte całkowicie na dwie lub więcej części. Poczynienie na karcie do głosowania dodatkowych uwag lub innych dopisków nie pociąga za sobą skutków prawnych, a w szczególności nie wpływa na ważność karty."
+      "content": "Nieważne są karty do głosowania inne niż urzędowo ustalone lub nie opatrzone właściwą pieczęcią. Poczynienie na karcie do głosowania dodatkowych uwag lub innych dopisków nie pociąga za sobą skutków prawnych, a w szczególności nie wpływa na ważność karty."
     },
     {
-      "provision_ref": "art32u1p1",
+      "provision_ref": "art32u1",
       "section": "32",
-      "title": "Art. 32 ust. 1 pkt 1",
-      "content": "Nieważne są karty do głosowania: inne niż urzędowo ustalone bądź nie opatrzone właściwą pieczęcią,"
-    },
-    {
-      "provision_ref": "art32u1p2",
-      "section": "32",
-      "title": "Art. 32 ust. 1 pkt 2",
-      "content": "Nieważne są karty do głosowania: podarte całkowicie na dwie lub więcej części."
+      "title": "Art. 32 ust. 1",
+      "content": "Nieważne są karty do głosowania inne niż urzędowo ustalone lub nie opatrzone właściwą pieczęcią."
     },
     {
       "provision_ref": "art32u2",
@@ -727,7 +853,19 @@
       "provision_ref": "art36",
       "section": "36",
       "title": "Art. 36",
-      "content": "Niezwłocznie po sporządzeniu protokołu wyników referendum terytorialna komisja podaje je do wiadomości publicznej w lokalach głosowania, siedzibie urzędu gminy i prasie lokalnej."
+      "content": "Niezwłocznie po sporządzeniu protokołu wyników referendum, terytorialna komisja podaje wyniki, w formie obwieszczenia, w lokalach głosowania i siedzibie urzędu gminy. Obwieszczenie podlega ogłoszeniu w wojewódzkim dzienniku urzędowym. Jeżeli referendum dotyczyło odwołania rady gminy przed upływem kadencji, terytorialna komisja przesyła niezwłocznie wojewodzie i wojewódzkiemu komisarzowi wyborczemu wyniki referendum."
+    },
+    {
+      "provision_ref": "art36u1",
+      "section": "36",
+      "title": "Art. 36 ust. 1",
+      "content": "Niezwłocznie po sporządzeniu protokołu wyników referendum, terytorialna komisja podaje wyniki, w formie obwieszczenia, w lokalach głosowania i siedzibie urzędu gminy. Obwieszczenie podlega ogłoszeniu w wojewódzkim dzienniku urzędowym."
+    },
+    {
+      "provision_ref": "art36u2",
+      "section": "36",
+      "title": "Art. 36 ust. 2",
+      "content": "Jeżeli referendum dotyczyło odwołania rady gminy przed upływem kadencji, terytorialna komisja przesyła niezwłocznie wojewodzie i wojewódzkiemu komisarzowi wyborczemu wyniki referendum."
     },
     {
       "provision_ref": "art37",
@@ -739,13 +877,13 @@
       "provision_ref": "art38",
       "section": "38",
       "title": "Art. 38",
-      "content": "W terminie 7 dni od dnia ogłoszenia wyników referendum każdy uprawniony do wzięcia w nim udziału mieszkaniec gminy może wnieść protest, jeżeli dopuszczono się naruszenia przepisów niniejszej ustawy, a naruszenie to mogło wywrzeć istotny wpływ na wynik referendum. Protest wnosi się na piśmie do właściwego sądu wojewódzkiego. Wnoszący protest formułuje w nim zarzuty, podaje dowody i uzasadnia go. Jeżeli protest nie spełnia warunków, o których mowa w ust. 2, sąd wojewódzki pozostawia go bez dalszego biegu. Sąd wojewódzki rozpatruje protesty w ciągu 14 dni w trybie postępowania nieprocesowego w składzie 3 sędziów z udziałem wnoszącego protest i przedstawiciela komisji. Na postanowienie sądu nie przysługują środki odwoławcze. W przypadku uwzględnienia protestu stosuje się odpowiednio art. 107 i 108 ustawy z dnia 8 marca 1990 r. - Ordynacja wyborcza do rad gmin ."
+      "content": "W terminie 7 dni od dnia podania wyników referendum do wiadomości publicznej w sposób, o którym mowa w art. 36 ust. 1 każdy uprawniony do wzięcia w nim udziału mieszkaniec gminy może wnieść protest, jeżeli dopuszczono się naruszenia przepisów niniejszej ustawy, a naruszenie to mogło wywrzeć istotny wpływ na wynik referendum. Protest wnosi się na piśmie do właściwego sądu wojewódzkiego. Wnoszący protest formułuje w nim zarzuty, podaje dowody i uzasadnia go. Jeżeli protest nie spełnia warunków, o których mowa w ust. 2, sąd wojewódzki pozostawia go bez dalszego biegu. Sąd wojewódzki rozpatruje protesty w ciągu 14 dni w trybie postępowania nieprocesowego w składzie 3 sędziów, z udziałem wnoszącego protest i przedstawiciela komisji, a jeżeli protest dotyczy referendum w sprawie odwołania rady gminy - również z udziałem wojewódzkiego komisarza wyborczego. Od orzeczenia sądu, wnoszącemu protest, przedstawicielowi komisji oraz wojewódzkiemu komisarzowi wyborczemu przysługuje środek odwoławczy wnoszony w terminie 7 dni do właściwego sądu apelacyjnego, który rozpoznaje sprawę w ciągu 14 dni. Przepis ust. 4 stosuje się odpowiednio. W przypadku uwzględnienia protestu stosuje się odpowiednio art. 107 i 108 ustawy z dnia 8 marca 1990 r. - Ordynacja wyborcza do rad gmin ."
     },
     {
       "provision_ref": "art38u1",
       "section": "38",
       "title": "Art. 38 ust. 1",
-      "content": "W terminie 7 dni od dnia ogłoszenia wyników referendum każdy uprawniony do wzięcia w nim udziału mieszkaniec gminy może wnieść protest, jeżeli dopuszczono się naruszenia przepisów niniejszej ustawy, a naruszenie to mogło wywrzeć istotny wpływ na wynik referendum."
+      "content": "W terminie 7 dni od dnia podania wyników referendum do wiadomości publicznej w sposób, o którym mowa w art. 36 ust. 1 każdy uprawniony do wzięcia w nim udziału mieszkaniec gminy może wnieść protest, jeżeli dopuszczono się naruszenia przepisów niniejszej ustawy, a naruszenie to mogło wywrzeć istotny wpływ na wynik referendum."
     },
     {
       "provision_ref": "art38u2",
@@ -763,7 +901,13 @@
       "provision_ref": "art38u4",
       "section": "38",
       "title": "Art. 38 ust. 4",
-      "content": "Sąd wojewódzki rozpatruje protesty w ciągu 14 dni w trybie postępowania nieprocesowego w składzie 3 sędziów z udziałem wnoszącego protest i przedstawiciela komisji. Na postanowienie sądu nie przysługują środki odwoławcze."
+      "content": "Sąd wojewódzki rozpatruje protesty w ciągu 14 dni w trybie postępowania nieprocesowego w składzie 3 sędziów, z udziałem wnoszącego protest i przedstawiciela komisji, a jeżeli protest dotyczy referendum w sprawie odwołania rady gminy - również z udziałem wojewódzkiego komisarza wyborczego."
+    },
+    {
+      "provision_ref": "art38u4a",
+      "section": "38",
+      "title": "Art. 38 ust. 4a",
+      "content": "Od orzeczenia sądu, wnoszącemu protest, przedstawicielowi komisji oraz wojewódzkiemu komisarzowi wyborczemu przysługuje środek odwoławczy wnoszony w terminie 7 dni do właściwego sądu apelacyjnego, który rozpoznaje sprawę w ciągu 14 dni. Przepis ust. 4 stosuje się odpowiednio."
     },
     {
       "provision_ref": "art38u5",
@@ -781,25 +925,25 @@
       "provision_ref": "art40",
       "section": "40",
       "title": "Art. 40",
-      "content": "Z zastrzeżeniem art. 38 ogłoszenie wyników referendum rozstrzygających o odwołaniu rady gminy przed upływem kadencji oznacza zakończenie działalności tej rady. Nowe wybory do rady gminy przeprowadza się zgodnie z ustawą z dnia 8 marca 1990 r. - Ordynacja wyborcza do rad gmin . Odwołanie rady gminy jest równoznaczne z rozwiązaniem zarządu gminy. Prezes Rady Ministrów wyznacza wówczas osobę, która do czasu wyboru nowych organów gminy pełni funkcję tych organów."
+      "content": "Podanie do wiadomości publicznej, w trybie art. 36 ust. 1, wyników referendum rozstrzygających o odwołaniu rady gminy przed upływem kadencji oznacza zakończenie działalności rady i - z mocy prawa - zarządu gminy. W przypadku określonym w ust. 1 Prezes Rady Ministrów niezwłocznie wyznacza osobę, która pełni funkcję organów gminy do czasu wyboru nowych organów gminy, oraz zarządza, z zastrzeżeniem ust. 3, wybory przedterminowe do rady gminy. W razie wniesienia protestu przeciwko ważności referendum w sprawie odwołania rady gminy przed upływem kadencji, do czasu rozstrzygnięcia sprawy w trybie art. 38, nie zarządza się wyborów przedterminowych."
     },
     {
       "provision_ref": "art40u1",
       "section": "40",
       "title": "Art. 40 ust. 1",
-      "content": "Z zastrzeżeniem art. 38 ogłoszenie wyników referendum rozstrzygających o odwołaniu rady gminy przed upływem kadencji oznacza zakończenie działalności tej rady."
+      "content": "Podanie do wiadomości publicznej, w trybie art. 36 ust. 1, wyników referendum rozstrzygających o odwołaniu rady gminy przed upływem kadencji oznacza zakończenie działalności rady i - z mocy prawa - zarządu gminy."
     },
     {
       "provision_ref": "art40u2",
       "section": "40",
       "title": "Art. 40 ust. 2",
-      "content": "Nowe wybory do rady gminy przeprowadza się zgodnie z ustawą z dnia 8 marca 1990 r. - Ordynacja wyborcza do rad gmin ."
+      "content": "W przypadku określonym w ust. 1 Prezes Rady Ministrów niezwłocznie wyznacza osobę, która pełni funkcję organów gminy do czasu wyboru nowych organów gminy, oraz zarządza, z zastrzeżeniem ust. 3, wybory przedterminowe do rady gminy."
     },
     {
       "provision_ref": "art40u3",
       "section": "40",
       "title": "Art. 40 ust. 3",
-      "content": "Odwołanie rady gminy jest równoznaczne z rozwiązaniem zarządu gminy. Prezes Rady Ministrów wyznacza wówczas osobę, która do czasu wyboru nowych organów gminy pełni funkcję tych organów."
+      "content": "W razie wniesienia protestu przeciwko ważności referendum w sprawie odwołania rady gminy przed upływem kadencji, do czasu rozstrzygnięcia sprawy w trybie art. 38, nie zarządza się wyborów przedterminowych."
     },
     {
       "provision_ref": "art41",
@@ -811,53 +955,71 @@
       "provision_ref": "art42",
       "section": "42",
       "title": "Art. 42",
-      "content": "W sprawach nie uregulowanych niniejszą ustawą stosuje się odpowiednio przepisy ustawy z dnia 8 marca 1990 r. - Ordynacja wyborcza do rad gmin ."
+      "content": "W sprawach nie uregulowanych niniejszą ustawą stosuje się odpowiednio przepisy ustawy - Ordynacja wyborcza do rad gmin. W referendum w sprawie odwołania rady gminy: zarząd gminy oraz inicjator referendum (pełnomocnik inicjatora referendum) mogą wyznaczyć po jednym mężu zaufania do terytorialnej komisji i każdej obwodowej komisji, którzy mają prawo być obecni przy wszystkich czynnościach wykonywanych przez te komisje oraz wnosić do protokołów wyników głosowania i wyników referendum uwagi z wymienieniem konkretnych zarzutów, do terytorialnej komisji przekazywane są w opieczętowanych pakietach dokumenty z głosowania w obwodzie: oddane karty do głosowania, spisy uprawnionych do udziału w referendum, drugi egzemplarz protokołu wyników głosowania i nie wykorzystane karty do głosowania oraz pieczęć obwodowej komisji, protokół terytorialnej komisji o wynikach referendum wraz z protokołami obwodowych komisji przekazywany jest niezwłocznie wojewódzkiemu komisarzowi wyborczemu, tryb przekazywania oraz sposób przechowywania dokumentów z referendum, o których mowa w pkt 2 i 3, określa Państwowa Komisja Wyborcza. Przepisy ust. 2 stosuje się odpowiednio w referendum w sprawie samoopodatkowania mieszkańców na cele publiczne i w innych ważnych sprawach."
+    },
+    {
+      "provision_ref": "art42u1",
+      "section": "42",
+      "title": "Art. 42 ust. 1",
+      "content": "W sprawach nie uregulowanych niniejszą ustawą stosuje się odpowiednio przepisy ustawy - Ordynacja wyborcza do rad gmin."
+    },
+    {
+      "provision_ref": "art42u2p1",
+      "section": "42",
+      "title": "Art. 42 ust. 2 pkt 1",
+      "content": "W referendum w sprawie odwołania rady gminy: zarząd gminy oraz inicjator referendum (pełnomocnik inicjatora referendum) mogą wyznaczyć po jednym mężu zaufania do terytorialnej komisji i każdej obwodowej komisji, którzy mają prawo być obecni przy wszystkich czynnościach wykonywanych przez te komisje oraz wnosić do protokołów wyników głosowania i wyników referendum uwagi z wymienieniem konkretnych zarzutów,"
+    },
+    {
+      "provision_ref": "art42u2p2",
+      "section": "42",
+      "title": "Art. 42 ust. 2 pkt 2",
+      "content": "W referendum w sprawie odwołania rady gminy: do terytorialnej komisji przekazywane są w opieczętowanych pakietach dokumenty z głosowania w obwodzie: oddane karty do głosowania, spisy uprawnionych do udziału w referendum, drugi egzemplarz protokołu wyników głosowania i nie wykorzystane karty do głosowania oraz pieczęć obwodowej komisji,"
+    },
+    {
+      "provision_ref": "art42u2p3",
+      "section": "42",
+      "title": "Art. 42 ust. 2 pkt 3",
+      "content": "W referendum w sprawie odwołania rady gminy: protokół terytorialnej komisji o wynikach referendum wraz z protokołami obwodowych komisji przekazywany jest niezwłocznie wojewódzkiemu komisarzowi wyborczemu,"
+    },
+    {
+      "provision_ref": "art42u2p4",
+      "section": "42",
+      "title": "Art. 42 ust. 2 pkt 4",
+      "content": "W referendum w sprawie odwołania rady gminy: tryb przekazywania oraz sposób przechowywania dokumentów z referendum, o których mowa w pkt 2 i 3, określa Państwowa Komisja Wyborcza."
+    },
+    {
+      "provision_ref": "art42u3",
+      "section": "42",
+      "title": "Art. 42 ust. 3",
+      "content": "Przepisy ust. 2 stosuje się odpowiednio w referendum w sprawie samoopodatkowania mieszkańców na cele publiczne i w innych ważnych sprawach."
     },
     {
       "provision_ref": "art43",
       "section": "43",
       "title": "Art. 43",
-      "content": "W sprawach uregulowanych niniejszą ustawą nie stosuje się przepisów ustawy z dnia 6 maja 1987 r. o konsultacjach społecznych i referendum ."
+      "content": "W sprawach uregulowanych niniejszą ustawą nie stosuje się przepisów ustawy z dnia 6 maja 1987 r. o konsultacjach społecznych i referendum 22) Ustawa z dnia 6 maja 1987 r. o konsultacjach społecznych i referendum (Dz. U. Nr 14, poz. 83) została uchylona przez art. 45 ustawy z dnia 29 czerwca 1995 r. o referendum (Dz. U. Nr 99, poz. 487). ."
     },
     {
       "provision_ref": "art44",
       "section": "44",
       "title": "Art. 44",
-      "content": "W ustawie z dnia 8 marca 1990 r. o samorządzie terytorialnym wprowadza się następujące zmiany: w art. 12 w ust. 1 wyraz „lokalnego” zastępuje się wyrazem „gminnego” , w art. 13 ust. 1 i 3 otrzymują brzmienie: „ Referendum przeprowadza się z inicjatywy rady lub na wniosek co najmniej 1/10 mieszkańców uprawnionych do głosowania. ” „ Referendum w sprawie odwołania rady gminy przed upływem kadencji przeprowadza się na zasadach określonych w ust. 1 i 2. ” ."
-    },
-    {
-      "provision_ref": "art44p1",
-      "section": "44",
-      "title": "Art. 44 pkt 1",
-      "content": "W ustawie z dnia 8 marca 1990 r. o samorządzie terytorialnym wprowadza się następujące zmiany: w art. 12 w ust. 1 wyraz „lokalnego” zastępuje się wyrazem „gminnego” ,"
-    },
-    {
-      "provision_ref": "art44p2u1",
-      "section": "44",
-      "title": "Art. 44 pkt 2 ust. 1",
-      "content": "W ustawie z dnia 8 marca 1990 r. o samorządzie terytorialnym wprowadza się następujące zmiany: w art. 13 ust. 1 i 3 otrzymują brzmienie: „ Referendum przeprowadza się z inicjatywy rady lub na wniosek co najmniej 1/10 mieszkańców uprawnionych do głosowania."
-    },
-    {
-      "provision_ref": "art44p2u3",
-      "section": "44",
-      "title": "Art. 44 pkt 2 ust. 3",
-      "content": "W ustawie z dnia 8 marca 1990 r. o samorządzie terytorialnym wprowadza się następujące zmiany: w art. 13 ust. 1 i 3 otrzymują brzmienie: „ Referendum w sprawie odwołania rady gminy przed upływem kadencji przeprowadza się na zasadach określonych w ust. 1 i 2."
+      "content": "(pominięty 23) Zamieszczony w obwieszczeniu. )."
     },
     {
       "provision_ref": "art45",
       "section": "45",
       "title": "Art. 45",
-      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 24) Ustawa została ogłoszona w dniu 29 listopada 1991 r."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-1990-96",
+      "target_document_id": "pl-du-1995-601",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1991-227",
+      "target_document_id": "pl-du-1996-159",
       "ref_type": "references"
     },
     {
@@ -882,6 +1044,18 @@
     },
     {
       "target_document_id": "pl-du-1991-18",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1996-387",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1996-74",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1996-261",
       "ref_type": "references"
     },
     {

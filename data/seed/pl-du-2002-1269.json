@@ -10,6 +10,24 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2002/1269",
   "provisions": [
     {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem: art. 1 pkt 1-3 i art. 3 pkt 10, które wchodzą w życie po upływie miesiąca od dnia ogłoszenia; art. 4 i art. 9, które wchodzą w życie po upływie 12 miesięcy od dnia ogłoszenia."
+    },
+    {
+      "provision_ref": "art14p1",
+      "section": "14",
+      "title": "Art. 14 pkt 1",
+      "content": "Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem: art. 1 pkt 1-3 i art. 3 pkt 10, które wchodzą w życie po upływie miesiąca od dnia ogłoszenia;"
+    },
+    {
+      "provision_ref": "art14p2",
+      "section": "14",
+      "title": "Art. 14 pkt 2",
+      "content": "Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem: art. 4 i art. 9, które wchodzą w życie po upływie 12 miesięcy od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
@@ -55,19 +73,37 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "Sędziowie sądów administracyjnych w sprawowaniu swojego urzędu są niezawiśli i podlegają tylko Konstytucji oraz ustawom."
+      "content": "Sędziowie sądów administracyjnych i asesorzy sądowi w sprawowaniu swojego urzędu są niezawiśli i podlegają tylko Konstytucji oraz ustawom."
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Art. 5",
-      "content": "Sędziów sądów administracyjnych do pełnienia urzędu na stanowisku sędziowskim powołuje Prezydent Rzeczypospolitej Polskiej, na wniosek Krajowej Rady Sądownictwa. Sędziowie sądów administracyjnych są powoływani na stanowisko sędziego wojewódzkiego sądu administracyjnego, z wyznaczeniem miejsca służbowego (siedziby) sędziego, albo na stanowisko sędziego Naczelnego Sądu Administracyjnego."
+      "content": "Sędzią sądu administracyjnego jest osoba powołana na to stanowisko przez Prezydenta Rzeczypospolitej Polskiej, która złożyła ślubowanie wobec Prezydenta Rzeczypospolitej Polskiej. W ramach działalności sądu administracyjnego lub jego organów niedopuszczalne jest kwestionowanie umocowania sądów i trybunałów, konstytucyjnych organów państwowych oraz organów kontroli i ochrony prawa. Niedopuszczalne jest ustalanie lub ocena przez sąd administracyjny lub inny organ władzy zgodności z prawem powołania sędziego lub wynikającego z tego powołania uprawnienia do wykonywania zadań z zakresu wymiaru sprawiedliwości. Okoliczności towarzyszące powołaniu sędziego sądu administracyjnego nie mogą stanowić wyłącznej podstawy do podważenia orzeczenia wydanego z udziałem tego sędziego lub kwestionowania jego niezawisłości i bezstronności. Sędziowie sądów administracyjnych są powoływani na stanowisko sędziego wojewódzkiego sądu administracyjnego, z wyznaczeniem miejsca służbowego (siedziby) sędziego, albo na stanowisko sędziego Naczelnego Sądu Administracyjnego. Asesorów sądowych do pełnienia urzędu na stanowisku asesora sądowego powołuje Prezydent Rzeczypospolitej Polskiej, na wniosek Krajowej Rady Sądownictwa. Asesorzy sądowi są powoływani na pięć lat, z wyznaczeniem miejsca służbowego (siedziby) asesora sądowego w wojewódzkim sądzie administracyjnym."
     },
     {
       "provision_ref": "art5par1",
       "section": "5",
       "title": "Art. 5 § 1",
-      "content": "Sędziów sądów administracyjnych do pełnienia urzędu na stanowisku sędziowskim powołuje Prezydent Rzeczypospolitej Polskiej, na wniosek Krajowej Rady Sądownictwa."
+      "content": "Sędzią sądu administracyjnego jest osoba powołana na to stanowisko przez Prezydenta Rzeczypospolitej Polskiej, która złożyła ślubowanie wobec Prezydenta Rzeczypospolitej Polskiej."
+    },
+    {
+      "provision_ref": "art5par1a",
+      "section": "5",
+      "title": "Art. 5 § 1a",
+      "content": "W ramach działalności sądu administracyjnego lub jego organów niedopuszczalne jest kwestionowanie umocowania sądów i trybunałów, konstytucyjnych organów państwowych oraz organów kontroli i ochrony prawa."
+    },
+    {
+      "provision_ref": "art5par1b",
+      "section": "5",
+      "title": "Art. 5 § 1b",
+      "content": "Niedopuszczalne jest ustalanie lub ocena przez sąd administracyjny lub inny organ władzy zgodności z prawem powołania sędziego lub wynikającego z tego powołania uprawnienia do wykonywania zadań z zakresu wymiaru sprawiedliwości."
+    },
+    {
+      "provision_ref": "art5par1c",
+      "section": "5",
+      "title": "Art. 5 § 1c",
+      "content": "Okoliczności towarzyszące powołaniu sędziego sądu administracyjnego nie mogą stanowić wyłącznej podstawy do podważenia orzeczenia wydanego z udziałem tego sędziego lub kwestionowania jego niezawisłości i bezstronności."
     },
     {
       "provision_ref": "art5par2",
@@ -76,52 +112,190 @@
       "content": "Sędziowie sądów administracyjnych są powoływani na stanowisko sędziego wojewódzkiego sądu administracyjnego, z wyznaczeniem miejsca służbowego (siedziby) sędziego, albo na stanowisko sędziego Naczelnego Sądu Administracyjnego."
     },
     {
+      "provision_ref": "art5par3",
+      "section": "5",
+      "title": "Art. 5 § 3",
+      "content": "Asesorów sądowych do pełnienia urzędu na stanowisku asesora sądowego powołuje Prezydent Rzeczypospolitej Polskiej, na wniosek Krajowej Rady Sądownictwa."
+    },
+    {
+      "provision_ref": "art5par4",
+      "section": "5",
+      "title": "Art. 5 § 4",
+      "content": "Asesorzy sądowi są powoływani na pięć lat, z wyznaczeniem miejsca służbowego (siedziby) asesora sądowego w wojewódzkim sądzie administracyjnym."
+    },
+    {
+      "provision_ref": "art5a",
+      "section": "5a",
+      "title": "Art. 5a",
+      "content": "Dopuszczalne jest badanie spełnienia przez sędziego sądu administracyjnego lub sędziego delegowanego do pełnienia obowiązków sędziego w sądzie administracyjnym wymogów niezawisłości i bezstronności z uwzględnieniem okoliczności towarzyszących jego powołaniu i jego postępowania po powołaniu, na wniosek uprawnionego, o którym mowa w § 3, jeżeli w okolicznościach danej sprawy może to doprowadzić do naruszenia standardu niezawisłości lub bezstronności, mającego wpływ na wynik sprawy z uwzględnieniem okoliczności dotyczących uprawnionego oraz charakteru sprawy. Wniosek o stwierdzenie przesłanek, o których mowa w § 1, może być złożony wobec sędziego sądu administracyjnego lub sędziego delegowanego do pełnienia obowiązków sędziego w sądzie administracyjnym wyznaczonego do składu sądu rozpoznającego sprawę co do istoty lub skargę kasacyjną. Uprawnionym do złożenia wniosku jest skarżący oraz uczestnik postępowania na prawach strony w postępowaniu sądowoadministracyjnym w sprawach, o których mowa w § 2, a w postępowaniu dyscyplinarnym - obwiniony. Wniosek składa się w terminie tygodnia od dnia zawiadomienia uprawnionego do złożenia wniosku o składzie rozpoznającym sprawę. Po upływie terminu, o którym mowa w zdaniu pierwszym, prawo do wniesienia wniosku wygasa. Sąd przy doręczeniu pierwszego pisma w sprawie zawiadamia uprawnionego do złożenia wniosku o składzie rozpoznającym sprawę, a przy każdym kolejnym - jeżeli skład rozpoznający sprawę uległ zmianie. Do wniosku rozpoznawanego przez Naczelny Sąd Administracyjny przepis art. 175 ustawy z dnia 30 sierpnia 2002 r. - Prawo o postępowaniu przed sądami administracyjnymi stosuje się. Wniosek powinien czynić zadość wymaganiom przewidzianym dla pisma procesowego, a ponadto zawierać: żądanie stwierdzenia, że w danej sprawie zachodzą przesłanki, o których mowa w § 1; przytoczenie okoliczności uzasadniających żądanie wraz z dowodami na ich poparcie. Wniosek niespełniający wymagań, o których mowa w § 5, podlega odrzuceniu bez wezwania do usunięcia braków formalnych. Odrzuceniu podlega również wniosek złożony po upływie terminu albo z innych przyczyn niedopuszczalny. O odrzuceniu wniosku niespełniającego wymagań, o których mowa w § 5, Naczelny Sąd Administracyjny zawiadamia właściwy organ samorządu zawodowego, do którego należy pełnomocnik. Do czasu rozpoznania wniosku sędzia, którego wniosek dotyczy, nie może podejmować dalszych czynności, chyba że dotyczy to czynności niecierpiącej zwłoki. Jeżeli uprawniony do złożenia wniosku złożył wnioski wobec więcej niż jednego sędziego wyznaczonego do składu rozpoznającego sprawę lub wnioski zostały złożone w tej samej sprawie przez kilku uprawnionych do złożenia wniosku, sąd administracyjny może zarządzić połączenie wniosków w celu ich łącznego rozpoznania. W przypadku łącznego rozpoznania wniosków, wnioski rozpoznaje skład sądu administracyjnego wyznaczony do rozpoznania wniosku, który został złożony jako pierwszy. Wniosek rozpoznaje sąd administracyjny, przed którym toczy się postępowanie w sprawie w składzie 3 sędziów losowanych spośród całego składu tego sądu. Naczelny Sąd Administracyjny rozpoznaje wniosek w składzie 5 sędziów losowanych spośród całego składu Naczelnego Sądu Administracyjnego. Sędzia, którego wniosek dotyczy, jest wyłączony z losowania. W razie gdy sąd administracyjny, o którym mowa w zdaniu pierwszym, nie może rozpoznać wniosku z powodu braku dostatecznej liczby sędziów, Naczelny Sąd Administracyjny wyznacza inny sąd do rozpoznania wniosku. Sąd rozpoznaje wniosek na posiedzeniu niejawnym w terminie 2 tygodni od dnia jego złożenia po wysłuchaniu sędziego, którego wniosek dotyczy, chyba że jest to niemożliwe albo bardzo utrudnione. Wysłuchanie może nastąpić na piśmie. Sąd oddala wniosek, jeżeli jest on bezzasadny. Uwzględniając wniosek sąd wyłącza sędziego od rozpoznania sprawy. Wyłączenie sędziego od udziału w danej sprawie nie może stanowić podstawy do wyłączenia tego sędziego w innych sprawach rozpoznawanych z jego udziałem. Sąd z urzędu sporządza w terminie 3 dni uzasadnienie postanowienia wydanego na skutek rozpoznania wniosku. Odpis postanowienia wydanego na skutek rozpoznania wniosku wraz z uzasadnieniem doręcza się składającemu wniosek oraz sędziemu, którego orzeczenie dotyczy. Od postanowienia wydanego na skutek rozpoznania wniosku podmiotowi, który złożył wniosek i sędziemu, którego orzeczenie dotyczy, przysługuje zażalenie do Naczelnego Sądu Administracyjnego. Termin do wniesienia zażalenia wynosi tydzień i biegnie dla każdego uprawnionego do wniesienia zażalenia od dnia doręczenia postanowienia wraz z uzasadnieniem. Przepis art. 175 ustawy z dnia 30 sierpnia 2002 r. - Prawo o postępowaniu przed sądami administracyjnymi stosuje się. Naczelny Sąd Administracyjny rozpoznaje zażalenie na posiedzeniu niejawnym w składzie 7 sędziów losowanych spośród całego składu Naczelnego Sądu Administracyjnego w terminie 2 tygodni od dnia wniesienia zażalenia. Sędzia, którego orzeczenie dotyczy oraz sędzia, który brał udział w wydaniu zaskarżonego postanowienia są wyłączeni z losowania. W sprawach nieuregulowanych w ustawie do postępowania toczącego się na skutek wniosku stosuje się odpowiednio przepisy o zażaleniu. Od prawomocnego postanowienia wydanego na skutek rozpoznania wniosku nie przysługuje skarga o wznowienie postępowania."
+    },
+    {
+      "provision_ref": "art5apar1",
+      "section": "5a",
+      "title": "Art. 5a § 1",
+      "content": "Dopuszczalne jest badanie spełnienia przez sędziego sądu administracyjnego lub sędziego delegowanego do pełnienia obowiązków sędziego w sądzie administracyjnym wymogów niezawisłości i bezstronności z uwzględnieniem okoliczności towarzyszących jego powołaniu i jego postępowania po powołaniu, na wniosek uprawnionego, o którym mowa w § 3, jeżeli w okolicznościach danej sprawy może to doprowadzić do naruszenia standardu niezawisłości lub bezstronności, mającego wpływ na wynik sprawy z uwzględnieniem okoliczności dotyczących uprawnionego oraz charakteru sprawy."
+    },
+    {
+      "provision_ref": "art5apar2",
+      "section": "5a",
+      "title": "Art. 5a § 2",
+      "content": "Wniosek o stwierdzenie przesłanek, o których mowa w § 1, może być złożony wobec sędziego sądu administracyjnego lub sędziego delegowanego do pełnienia obowiązków sędziego w sądzie administracyjnym wyznaczonego do składu sądu rozpoznającego sprawę co do istoty lub skargę kasacyjną."
+    },
+    {
+      "provision_ref": "art5apar3",
+      "section": "5a",
+      "title": "Art. 5a § 3",
+      "content": "Uprawnionym do złożenia wniosku jest skarżący oraz uczestnik postępowania na prawach strony w postępowaniu sądowoadministracyjnym w sprawach, o których mowa w § 2, a w postępowaniu dyscyplinarnym - obwiniony."
+    },
+    {
+      "provision_ref": "art5apar4",
+      "section": "5a",
+      "title": "Art. 5a § 4",
+      "content": "Wniosek składa się w terminie tygodnia od dnia zawiadomienia uprawnionego do złożenia wniosku o składzie rozpoznającym sprawę. Po upływie terminu, o którym mowa w zdaniu pierwszym, prawo do wniesienia wniosku wygasa. Sąd przy doręczeniu pierwszego pisma w sprawie zawiadamia uprawnionego do złożenia wniosku o składzie rozpoznającym sprawę, a przy każdym kolejnym - jeżeli skład rozpoznający sprawę uległ zmianie. Do wniosku rozpoznawanego przez Naczelny Sąd Administracyjny przepis art. 175 ustawy z dnia 30 sierpnia 2002 r. - Prawo o postępowaniu przed sądami administracyjnymi stosuje się."
+    },
+    {
+      "provision_ref": "art5apar5p1",
+      "section": "5a",
+      "title": "Art. 5a § 5 pkt 1",
+      "content": "Wniosek powinien czynić zadość wymaganiom przewidzianym dla pisma procesowego, a ponadto zawierać: żądanie stwierdzenia, że w danej sprawie zachodzą przesłanki, o których mowa w § 1;"
+    },
+    {
+      "provision_ref": "art5apar5p2",
+      "section": "5a",
+      "title": "Art. 5a § 5 pkt 2",
+      "content": "Wniosek powinien czynić zadość wymaganiom przewidzianym dla pisma procesowego, a ponadto zawierać: przytoczenie okoliczności uzasadniających żądanie wraz z dowodami na ich poparcie."
+    },
+    {
+      "provision_ref": "art5apar6",
+      "section": "5a",
+      "title": "Art. 5a § 6",
+      "content": "Wniosek niespełniający wymagań, o których mowa w § 5, podlega odrzuceniu bez wezwania do usunięcia braków formalnych. Odrzuceniu podlega również wniosek złożony po upływie terminu albo z innych przyczyn niedopuszczalny."
+    },
+    {
+      "provision_ref": "art5apar7",
+      "section": "5a",
+      "title": "Art. 5a § 7",
+      "content": "O odrzuceniu wniosku niespełniającego wymagań, o których mowa w § 5, Naczelny Sąd Administracyjny zawiadamia właściwy organ samorządu zawodowego, do którego należy pełnomocnik."
+    },
+    {
+      "provision_ref": "art5apar8",
+      "section": "5a",
+      "title": "Art. 5a § 8",
+      "content": "Do czasu rozpoznania wniosku sędzia, którego wniosek dotyczy, nie może podejmować dalszych czynności, chyba że dotyczy to czynności niecierpiącej zwłoki."
+    },
+    {
+      "provision_ref": "art5apar9",
+      "section": "5a",
+      "title": "Art. 5a § 9",
+      "content": "Jeżeli uprawniony do złożenia wniosku złożył wnioski wobec więcej niż jednego sędziego wyznaczonego do składu rozpoznającego sprawę lub wnioski zostały złożone w tej samej sprawie przez kilku uprawnionych do złożenia wniosku, sąd administracyjny może zarządzić połączenie wniosków w celu ich łącznego rozpoznania. W przypadku łącznego rozpoznania wniosków, wnioski rozpoznaje skład sądu administracyjnego wyznaczony do rozpoznania wniosku, który został złożony jako pierwszy."
+    },
+    {
+      "provision_ref": "art5apar10",
+      "section": "5a",
+      "title": "Art. 5a § 10",
+      "content": "Wniosek rozpoznaje sąd administracyjny, przed którym toczy się postępowanie w sprawie w składzie 3 sędziów losowanych spośród całego składu tego sądu. Naczelny Sąd Administracyjny rozpoznaje wniosek w składzie 5 sędziów losowanych spośród całego składu Naczelnego Sądu Administracyjnego. Sędzia, którego wniosek dotyczy, jest wyłączony z losowania. W razie gdy sąd administracyjny, o którym mowa w zdaniu pierwszym, nie może rozpoznać wniosku z powodu braku dostatecznej liczby sędziów, Naczelny Sąd Administracyjny wyznacza inny sąd do rozpoznania wniosku."
+    },
+    {
+      "provision_ref": "art5apar11",
+      "section": "5a",
+      "title": "Art. 5a § 11",
+      "content": "Sąd rozpoznaje wniosek na posiedzeniu niejawnym w terminie 2 tygodni od dnia jego złożenia po wysłuchaniu sędziego, którego wniosek dotyczy, chyba że jest to niemożliwe albo bardzo utrudnione. Wysłuchanie może nastąpić na piśmie."
+    },
+    {
+      "provision_ref": "art5apar12",
+      "section": "5a",
+      "title": "Art. 5a § 12",
+      "content": "Sąd oddala wniosek, jeżeli jest on bezzasadny."
+    },
+    {
+      "provision_ref": "art5apar13",
+      "section": "5a",
+      "title": "Art. 5a § 13",
+      "content": "Uwzględniając wniosek sąd wyłącza sędziego od rozpoznania sprawy. Wyłączenie sędziego od udziału w danej sprawie nie może stanowić podstawy do wyłączenia tego sędziego w innych sprawach rozpoznawanych z jego udziałem."
+    },
+    {
+      "provision_ref": "art5apar14",
+      "section": "5a",
+      "title": "Art. 5a § 14",
+      "content": "Sąd z urzędu sporządza w terminie 3 dni uzasadnienie postanowienia wydanego na skutek rozpoznania wniosku."
+    },
+    {
+      "provision_ref": "art5apar15",
+      "section": "5a",
+      "title": "Art. 5a § 15",
+      "content": "Odpis postanowienia wydanego na skutek rozpoznania wniosku wraz z uzasadnieniem doręcza się składającemu wniosek oraz sędziemu, którego orzeczenie dotyczy."
+    },
+    {
+      "provision_ref": "art5apar16",
+      "section": "5a",
+      "title": "Art. 5a § 16",
+      "content": "Od postanowienia wydanego na skutek rozpoznania wniosku podmiotowi, który złożył wniosek i sędziemu, którego orzeczenie dotyczy, przysługuje zażalenie do Naczelnego Sądu Administracyjnego. Termin do wniesienia zażalenia wynosi tydzień i biegnie dla każdego uprawnionego do wniesienia zażalenia od dnia doręczenia postanowienia wraz z uzasadnieniem. Przepis art. 175 ustawy z dnia 30 sierpnia 2002 r. - Prawo o postępowaniu przed sądami administracyjnymi stosuje się."
+    },
+    {
+      "provision_ref": "art5apar17",
+      "section": "5a",
+      "title": "Art. 5a § 17",
+      "content": "Naczelny Sąd Administracyjny rozpoznaje zażalenie na posiedzeniu niejawnym w składzie 7 sędziów losowanych spośród całego składu Naczelnego Sądu Administracyjnego w terminie 2 tygodni od dnia wniesienia zażalenia. Sędzia, którego orzeczenie dotyczy oraz sędzia, który brał udział w wydaniu zaskarżonego postanowienia są wyłączeni z losowania."
+    },
+    {
+      "provision_ref": "art5apar18",
+      "section": "5a",
+      "title": "Art. 5a § 18",
+      "content": "W sprawach nieuregulowanych w ustawie do postępowania toczącego się na skutek wniosku stosuje się odpowiednio przepisy o zażaleniu."
+    },
+    {
+      "provision_ref": "art5apar19",
+      "section": "5a",
+      "title": "Art. 5a § 19",
+      "content": "Od prawomocnego postanowienia wydanego na skutek rozpoznania wniosku nie przysługuje skarga o wznowienie postępowania."
+    },
+    {
       "provision_ref": "art6",
       "section": "6",
       "title": "Art. 6",
-      "content": "Do pełnienia urzędu na stanowisku sędziego wojewódzkiego sądu administracyjnego może być powołany ten, kto: ma obywatelstwo polskie i korzysta z pełni praw cywilnych i obywatelskich, jest nieskazitelnego charakteru, ukończył wyższe studia prawnicze w Polsce i uzyskał tytuł magistra lub zagraniczne uznane w Polsce, jest zdolny, ze względu na stan zdrowia, do pełnienia obowiązków sędziego, ukończył 35 lat życia, wyróżnia się wysokim poziomem wiedzy w dziedzinie administracji publicznej oraz prawa administracyjnego i innych dziedzin prawa związanych z działaniem organów administracji publicznej, pozostawał co najmniej osiem lat na stanowisku sędziego lub prokuratora albo przynajmniej przez osiem lat wykonywał zawód adwokata, radcy prawnego lub notariusza albo przez dziesięć lat pozostawał w instytucjach publicznych na stanowiskach związanych ze stosowaniem lub tworzeniem prawa administracyjnego lub pracował w charakterze asesora sądowego w wojewódzkim sądzie administracyjnym co najmniej dwa lata. Wymagania, o których mowa w § 1 pkt 7, nie dotyczą osób z tytułem naukowym profesora lub ze stopniem naukowym doktora habilitowanego nauk prawnych. W wyjątkowych przypadkach Prezydent Rzeczypospolitej Polskiej, na wniosek Krajowej Rady Sądownictwa, może powołać kandydata na stanowisko sędziego mimo krótszych, niż określone w § 1 pkt 7, okresów pozostawania na stanowiskach wymienionych w tym punkcie lub wykonywania zawodu adwokata, radcy prawnego lub notariusza. Osoby, o których mowa w § 2, mogą być zatrudnione na stanowisku sędziego również w niepełnym wymiarze czasu pracy."
+      "content": "Do pełnienia urzędu na stanowisku sędziego wojewódzkiego sądu administracyjnego może być powołany ten, kto: ma obywatelstwo polskie i korzysta z pełni praw cywilnych i obywatelskich; jest nieskazitelnego charakteru; ukończył wyższe studia prawnicze w Polsce i uzyskał tytuł magistra lub zagraniczne uznane w Polsce; jest zdolny, ze względu na stan zdrowia, do pełnienia obowiązków sędziego; ukończył 35 lat życia; wyróżnia się wysokim poziomem wiedzy w dziedzinie administracji publicznej oraz prawa administracyjnego i innych dziedzin prawa związanych z działaniem organów administracji publicznej; pozostawał co najmniej osiem lat na stanowisku sędziego, prokuratora, prezesa, wiceprezesa, lub radcy Prokuratorii Generalnej Rzeczypospolitej Polskiej albo przynajmniej przez osiem lat wykonywał zawód adwokata, radcy prawnego lub notariusza albo przez dziesięć lat pozostawał w instytucjach publicznych na stanowiskach związanych ze stosowaniem lub tworzeniem prawa administracyjnego lub pracował w charakterze asesora sądowego w wojewódzkim sądzie administracyjnym co najmniej dwa lata. Wymagania, o których mowa w § 1 pkt 7, nie dotyczą osób z tytułem naukowym profesora lub ze stopniem naukowym doktora habilitowanego nauk prawnych. W wyjątkowych przypadkach Prezydent Rzeczypospolitej Polskiej, na wniosek Krajowej Rady Sądownictwa, może powołać kandydata na stanowisko sędziego mimo krótszych, niż określone w § 1 pkt 7, okresów pozostawania na stanowiskach wymienionych w tym punkcie lub wykonywania zawodu adwokata, radcy prawnego lub notariusza. Osoby, o których mowa w § 2, mogą być zatrudnione na stanowisku sędziego również w niepełnym wymiarze czasu pracy."
     },
     {
       "provision_ref": "art6par1p1",
       "section": "6",
       "title": "Art. 6 § 1 pkt 1",
-      "content": "Do pełnienia urzędu na stanowisku sędziego wojewódzkiego sądu administracyjnego może być powołany ten, kto: ma obywatelstwo polskie i korzysta z pełni praw cywilnych i obywatelskich,"
+      "content": "Do pełnienia urzędu na stanowisku sędziego wojewódzkiego sądu administracyjnego może być powołany ten, kto: ma obywatelstwo polskie i korzysta z pełni praw cywilnych i obywatelskich;"
     },
     {
       "provision_ref": "art6par1p2",
       "section": "6",
       "title": "Art. 6 § 1 pkt 2",
-      "content": "Do pełnienia urzędu na stanowisku sędziego wojewódzkiego sądu administracyjnego może być powołany ten, kto: jest nieskazitelnego charakteru,"
+      "content": "Do pełnienia urzędu na stanowisku sędziego wojewódzkiego sądu administracyjnego może być powołany ten, kto: jest nieskazitelnego charakteru;"
     },
     {
       "provision_ref": "art6par1p3",
       "section": "6",
       "title": "Art. 6 § 1 pkt 3",
-      "content": "Do pełnienia urzędu na stanowisku sędziego wojewódzkiego sądu administracyjnego może być powołany ten, kto: ukończył wyższe studia prawnicze w Polsce i uzyskał tytuł magistra lub zagraniczne uznane w Polsce,"
+      "content": "Do pełnienia urzędu na stanowisku sędziego wojewódzkiego sądu administracyjnego może być powołany ten, kto: ukończył wyższe studia prawnicze w Polsce i uzyskał tytuł magistra lub zagraniczne uznane w Polsce;"
     },
     {
       "provision_ref": "art6par1p4",
       "section": "6",
       "title": "Art. 6 § 1 pkt 4",
-      "content": "Do pełnienia urzędu na stanowisku sędziego wojewódzkiego sądu administracyjnego może być powołany ten, kto: jest zdolny, ze względu na stan zdrowia, do pełnienia obowiązków sędziego,"
+      "content": "Do pełnienia urzędu na stanowisku sędziego wojewódzkiego sądu administracyjnego może być powołany ten, kto: jest zdolny, ze względu na stan zdrowia, do pełnienia obowiązków sędziego;"
     },
     {
       "provision_ref": "art6par1p5",
       "section": "6",
       "title": "Art. 6 § 1 pkt 5",
-      "content": "Do pełnienia urzędu na stanowisku sędziego wojewódzkiego sądu administracyjnego może być powołany ten, kto: ukończył 35 lat życia,"
+      "content": "Do pełnienia urzędu na stanowisku sędziego wojewódzkiego sądu administracyjnego może być powołany ten, kto: ukończył 35 lat życia;"
     },
     {
       "provision_ref": "art6par1p6",
       "section": "6",
       "title": "Art. 6 § 1 pkt 6",
-      "content": "Do pełnienia urzędu na stanowisku sędziego wojewódzkiego sądu administracyjnego może być powołany ten, kto: wyróżnia się wysokim poziomem wiedzy w dziedzinie administracji publicznej oraz prawa administracyjnego i innych dziedzin prawa związanych z działaniem organów administracji publicznej,"
+      "content": "Do pełnienia urzędu na stanowisku sędziego wojewódzkiego sądu administracyjnego może być powołany ten, kto: wyróżnia się wysokim poziomem wiedzy w dziedzinie administracji publicznej oraz prawa administracyjnego i innych dziedzin prawa związanych z działaniem organów administracji publicznej;"
     },
     {
       "provision_ref": "art6par1p7",
       "section": "6",
       "title": "Art. 6 § 1 pkt 7",
-      "content": "Do pełnienia urzędu na stanowisku sędziego wojewódzkiego sądu administracyjnego może być powołany ten, kto: pozostawał co najmniej osiem lat na stanowisku sędziego lub prokuratora albo przynajmniej przez osiem lat wykonywał zawód adwokata, radcy prawnego lub notariusza albo przez dziesięć lat pozostawał w instytucjach publicznych na stanowiskach związanych ze stosowaniem lub tworzeniem prawa administracyjnego lub pracował w charakterze asesora sądowego w wojewódzkim sądzie administracyjnym co najmniej dwa lata."
+      "content": "Do pełnienia urzędu na stanowisku sędziego wojewódzkiego sądu administracyjnego może być powołany ten, kto: pozostawał co najmniej osiem lat na stanowisku sędziego, prokuratora, prezesa, wiceprezesa, lub radcy Prokuratorii Generalnej Rzeczypospolitej Polskiej albo przynajmniej przez osiem lat wykonywał zawód adwokata, radcy prawnego lub notariusza albo przez dziesięć lat pozostawał w instytucjach publicznych na stanowiskach związanych ze stosowaniem lub tworzeniem prawa administracyjnego lub pracował w charakterze asesora sądowego w wojewódzkim sądzie administracyjnym co najmniej dwa lata."
     },
     {
       "provision_ref": "art6par2",
@@ -142,16 +316,64 @@
       "content": "Osoby, o których mowa w § 2, mogą być zatrudnione na stanowisku sędziego również w niepełnym wymiarze czasu pracy."
     },
     {
+      "provision_ref": "art6a",
+      "section": "6a",
+      "title": "Art. 6a",
+      "content": "Do pełnienia urzędu na stanowisku asesora sądowego może być powołany ten, kto ukończył 30 lat i spełnia wymagania: o których mowa w art. 6 § 1 pkt 1-4 i 6; przez co najmniej cztery lata pozostawał na stanowisku sędziego, prokuratora lub prezesa, wiceprezesa, lub radcy Prokuratorii Generalnej Rzeczypospolitej Polskiej albo co najmniej przez cztery lata wykonywał zawód adwokata, radcy prawnego lub notariusza albo przez sześć lat pozostawał w instytucjach publicznych na stanowiskach związanych ze stosowaniem lub tworzeniem prawa administracyjnego. Wymagania, o których mowa w § 1 pkt 2, nie dotyczą osób z tytułem naukowym profesora lub ze stopniem naukowym doktora habilitowanego nauk prawnych. O wolnych stanowiskach asesorskich Prezes Naczelnego Sądu Administracyjnego obwieszcza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”. Kandydaturę na stanowisko asesora sądowego zgłasza się prezesowi właściwego wojewódzkiego sądu administracyjnego. Prezes właściwego wojewódzkiego sądu administracyjnego, po stwierdzeniu spełnienia przez kandydata warunków i wymogów, o których mowa w § 1 i 2, przekazuje zgłoszenie Prezesowi Naczelnego Sądu Administracyjnego. Prezes Naczelnego Sądu Administracyjnego, po zasięgnięciu opinii kolegium sądu, przedstawia Krajowej Radzie Sądownictwa kandydaturę na stanowisko asesora sądowego wraz z oceną kwalifikacji."
+    },
+    {
+      "provision_ref": "art6apar1p1",
+      "section": "6a",
+      "title": "Art. 6a § 1 pkt 1",
+      "content": "Do pełnienia urzędu na stanowisku asesora sądowego może być powołany ten, kto ukończył 30 lat i spełnia wymagania: o których mowa w art. 6 § 1 pkt 1-4 i 6;"
+    },
+    {
+      "provision_ref": "art6apar1p2",
+      "section": "6a",
+      "title": "Art. 6a § 1 pkt 2",
+      "content": "Do pełnienia urzędu na stanowisku asesora sądowego może być powołany ten, kto ukończył 30 lat i spełnia wymagania: przez co najmniej cztery lata pozostawał na stanowisku sędziego, prokuratora lub prezesa, wiceprezesa, lub radcy Prokuratorii Generalnej Rzeczypospolitej Polskiej albo co najmniej przez cztery lata wykonywał zawód adwokata, radcy prawnego lub notariusza albo przez sześć lat pozostawał w instytucjach publicznych na stanowiskach związanych ze stosowaniem lub tworzeniem prawa administracyjnego."
+    },
+    {
+      "provision_ref": "art6apar2",
+      "section": "6a",
+      "title": "Art. 6a § 2",
+      "content": "Wymagania, o których mowa w § 1 pkt 2, nie dotyczą osób z tytułem naukowym profesora lub ze stopniem naukowym doktora habilitowanego nauk prawnych."
+    },
+    {
+      "provision_ref": "art6apar2a",
+      "section": "6a",
+      "title": "Art. 6a § 2a",
+      "content": "O wolnych stanowiskach asesorskich Prezes Naczelnego Sądu Administracyjnego obwieszcza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”."
+    },
+    {
+      "provision_ref": "art6apar3",
+      "section": "6a",
+      "title": "Art. 6a § 3",
+      "content": "Kandydaturę na stanowisko asesora sądowego zgłasza się prezesowi właściwego wojewódzkiego sądu administracyjnego."
+    },
+    {
+      "provision_ref": "art6apar4",
+      "section": "6a",
+      "title": "Art. 6a § 4",
+      "content": "Prezes właściwego wojewódzkiego sądu administracyjnego, po stwierdzeniu spełnienia przez kandydata warunków i wymogów, o których mowa w § 1 i 2, przekazuje zgłoszenie Prezesowi Naczelnego Sądu Administracyjnego."
+    },
+    {
+      "provision_ref": "art6apar5",
+      "section": "6a",
+      "title": "Art. 6a § 5",
+      "content": "Prezes Naczelnego Sądu Administracyjnego, po zasięgnięciu opinii kolegium sądu, przedstawia Krajowej Radzie Sądownictwa kandydaturę na stanowisko asesora sądowego wraz z oceną kwalifikacji."
+    },
+    {
       "provision_ref": "art7",
       "section": "7",
       "title": "Art. 7",
-      "content": "Do pełnienia urzędu na stanowisku sędziego Naczelnego Sądu Administracyjnego może być powołany ten, kto spełnia wymagania określone w art. 6 § 1 pkt 1-4 i 6, jeżeli ukończył 40 lat oraz pozostawał co najmniej dziesięć lat na stanowisku sędziego lub prokuratora albo przynajmniej przez dziesięć lat wykonywał zawód adwokata, radcy prawnego lub notariusza. Wymaganie ukończenia 40 lat nie dotyczy sędziego, który co najmniej przez trzy lata pozostawał na stanowisku sędziego wojewódzkiego sądu administracyjnego. Do powołania na stanowisko sędziego Naczelnego Sądu Administracyjnego stosuje się także przepisy art. 6 § 2-4."
+      "content": "Do pełnienia urzędu na stanowisku sędziego Naczelnego Sądu Administracyjnego może być powołany ten, kto spełnia wymagania określone w art. 6 § 1 pkt 1-4 i 6, jeżeli ukończył 40 lat oraz pozostawał co najmniej dziesięć lat na stanowisku sędziego, prokuratora, prezesa, wiceprezesa, lub radcy Prokuratorii Generalnej Rzeczypospolitej Polskiej albo przynajmniej przez dziesięć lat wykonywał zawód adwokata, radcy prawnego lub notariusza. Wymaganie ukończenia 40 lat nie dotyczy sędziego, który co najmniej przez trzy lata pozostawał na stanowisku sędziego wojewódzkiego sądu administracyjnego. Do powołania na stanowisko sędziego Naczelnego Sądu Administracyjnego stosuje się także przepisy art. 6 § 2-4."
     },
     {
       "provision_ref": "art7par1",
       "section": "7",
       "title": "Art. 7 § 1",
-      "content": "Do pełnienia urzędu na stanowisku sędziego Naczelnego Sądu Administracyjnego może być powołany ten, kto spełnia wymagania określone w art. 6 § 1 pkt 1-4 i 6, jeżeli ukończył 40 lat oraz pozostawał co najmniej dziesięć lat na stanowisku sędziego lub prokuratora albo przynajmniej przez dziesięć lat wykonywał zawód adwokata, radcy prawnego lub notariusza. Wymaganie ukończenia 40 lat nie dotyczy sędziego, który co najmniej przez trzy lata pozostawał na stanowisku sędziego wojewódzkiego sądu administracyjnego."
+      "content": "Do pełnienia urzędu na stanowisku sędziego Naczelnego Sądu Administracyjnego może być powołany ten, kto spełnia wymagania określone w art. 6 § 1 pkt 1-4 i 6, jeżeli ukończył 40 lat oraz pozostawał co najmniej dziesięć lat na stanowisku sędziego, prokuratora, prezesa, wiceprezesa, lub radcy Prokuratorii Generalnej Rzeczypospolitej Polskiej albo przynajmniej przez dziesięć lat wykonywał zawód adwokata, radcy prawnego lub notariusza. Wymaganie ukończenia 40 lat nie dotyczy sędziego, który co najmniej przez trzy lata pozostawał na stanowisku sędziego wojewódzkiego sądu administracyjnego."
     },
     {
       "provision_ref": "art7par2",
@@ -163,19 +385,31 @@
       "provision_ref": "art8",
       "section": "8",
       "title": "Art. 8",
+      "content": "Oświadczenie o stanie majątkowym, o którym mowa w art. 87 ustawy z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych , sędziowie wojewódzkiego sądu administracyjnego składają właściwemu prezesowi wojewódzkiego sądu administracyjnego, a prezes wojewódzkiego sądu administracyjnego i sędziowie Naczelnego Sądu Administracyjnego - Prezesowi Naczelnego Sądu Administracyjnego. Analizy danych zawartych w oświadczeniu o stanie majątkowym dokonuje kolegium właściwego sądu administracyjnego. Oświadczenie, o którym mowa w art. 88a ustawy z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych , sędziowie wojewódzkiego sądu administracyjnego składają właściwemu prezesowi wojewódzkiego sądu administracyjnego, a prezes wojewódzkiego sądu administracyjnego i sędziowie Naczelnego Sądu Administracyjnego - Prezesowi Naczelnego Sądu Administracyjnego, zaś Prezes Naczelnego Sądu Administracyjnego - Krajowej Radzie Sądownictwa."
+    },
+    {
+      "provision_ref": "art8par1",
+      "section": "8",
+      "title": "Art. 8 § 1",
       "content": "Oświadczenie o stanie majątkowym, o którym mowa w art. 87 ustawy z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych , sędziowie wojewódzkiego sądu administracyjnego składają właściwemu prezesowi wojewódzkiego sądu administracyjnego, a prezes wojewódzkiego sądu administracyjnego i sędziowie Naczelnego Sądu Administracyjnego - Prezesowi Naczelnego Sądu Administracyjnego. Analizy danych zawartych w oświadczeniu o stanie majątkowym dokonuje kolegium właściwego sądu administracyjnego."
+    },
+    {
+      "provision_ref": "art8par2",
+      "section": "8",
+      "title": "Art. 8 § 2",
+      "content": "Oświadczenie, o którym mowa w art. 88a ustawy z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych , sędziowie wojewódzkiego sądu administracyjnego składają właściwemu prezesowi wojewódzkiego sądu administracyjnego, a prezes wojewódzkiego sądu administracyjnego i sędziowie Naczelnego Sądu Administracyjnego - Prezesowi Naczelnego Sądu Administracyjnego, zaś Prezes Naczelnego Sądu Administracyjnego - Krajowej Radzie Sądownictwa."
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Art. 9",
-      "content": "Sądem dyscyplinarnym w sprawach dyscyplinarnych sędziów sądów administracyjnych jest Naczelny Sąd Administracyjny. Rzecznikiem dyscyplinarnym w tych sprawach jest Rzecznik Dyscyplinarny Naczelnego Sądu Administracyjnego."
+      "content": "Sądem dyscyplinarnym w sprawach dyscyplinarnych sędziów sądów administracyjnych i asesorów sądowych jest Naczelny Sąd Administracyjny. Rzecznikiem dyscyplinarnym w tych sprawach jest Rzecznik Dyscyplinarny Naczelnego Sądu Administracyjnego."
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Art. 10",
-      "content": "W sądach administracyjnych są zatrudnieni asesorzy sądowi, referendarze sądowi, asystenci sędziów oraz urzędnicy i inni pracownicy sądowi."
+      "content": "W sądach administracyjnych są zatrudnieni starsi referendarze sądowi, referendarze sądowi, starsi asystenci sędziów, asystenci sędziów oraz urzędnicy i inni pracownicy sądowi."
     },
     {
       "provision_ref": "art11",
@@ -190,10 +424,58 @@
       "content": "Zwierzchni nadzór nad działalnością administracyjną sądów administracyjnych sprawuje Prezes Naczelnego Sądu Administracyjnego."
     },
     {
+      "provision_ref": "art12a",
+      "section": "12a",
+      "title": "Art. 12a",
+      "content": "Sądy administracyjne są administratorami danych osobowych przetwarzanych w postępowaniach sądowych. Do przetwarzania danych osobowych w postępowaniach sądowych przepisów art. 15, art. 16 - w zakresie, w jakim przepisy szczególne przewidują odrębny tryb sprostowania, oraz art. 18 i art. 19 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) 1) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 127 z 23.05.2018, str. 2. , zwanego dalej „rozporządzeniem 2016/679”, nie stosuje się. W związku z przetwarzaniem danych osobowych w postępowaniach sądowych wykonanie obowiązków, o których mowa w art. 13 rozporządzenia 2016/679, następuje przez umieszczenie informacji określonych w art. 13 ust. 2 rozporządzenia 2016/679 w Biuletynie Informacji Publicznej na stronie podmiotowej oraz w widocznym miejscu w budynku sądu."
+    },
+    {
+      "provision_ref": "art12apar1",
+      "section": "12a",
+      "title": "Art. 12a § 1",
+      "content": "Sądy administracyjne są administratorami danych osobowych przetwarzanych w postępowaniach sądowych."
+    },
+    {
+      "provision_ref": "art12apar2",
+      "section": "12a",
+      "title": "Art. 12a § 2",
+      "content": "Do przetwarzania danych osobowych w postępowaniach sądowych przepisów art. 15, art. 16 - w zakresie, w jakim przepisy szczególne przewidują odrębny tryb sprostowania, oraz art. 18 i art. 19 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) 1) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 127 z 23.05.2018, str. 2. , zwanego dalej „rozporządzeniem 2016/679”, nie stosuje się."
+    },
+    {
+      "provision_ref": "art12apar3",
+      "section": "12a",
+      "title": "Art. 12a § 3",
+      "content": "W związku z przetwarzaniem danych osobowych w postępowaniach sądowych wykonanie obowiązków, o których mowa w art. 13 rozporządzenia 2016/679, następuje przez umieszczenie informacji określonych w art. 13 ust. 2 rozporządzenia 2016/679 w Biuletynie Informacji Publicznej na stronie podmiotowej oraz w widocznym miejscu w budynku sądu."
+    },
+    {
+      "provision_ref": "art12b",
+      "section": "12b",
+      "title": "Art. 12b",
+      "content": "Nadzór nad przetwarzaniem danych osobowych przez wojewódzkie sądy administracyjne w postępowaniach sądowych sprawuje Prezes Naczelnego Sądu Administracyjnego. Nadzór nad przetwarzaniem danych osobowych przez Naczelny Sąd Administracyjny w postępowaniach sądowych sprawuje Krajowa Rada Sądownictwa. Do nadzoru, o którym mowa w § 1 i 2, przepisy art. 175dd § 2 i 3 oraz działu I rozdziału 5a ustawy z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "art12bpar1",
+      "section": "12b",
+      "title": "Art. 12b § 1",
+      "content": "Nadzór nad przetwarzaniem danych osobowych przez wojewódzkie sądy administracyjne w postępowaniach sądowych sprawuje Prezes Naczelnego Sądu Administracyjnego."
+    },
+    {
+      "provision_ref": "art12bpar2",
+      "section": "12b",
+      "title": "Art. 12b § 2",
+      "content": "Nadzór nad przetwarzaniem danych osobowych przez Naczelny Sąd Administracyjny w postępowaniach sądowych sprawuje Krajowa Rada Sądownictwa."
+    },
+    {
+      "provision_ref": "art12bpar3",
+      "section": "12b",
+      "title": "Art. 12b § 3",
+      "content": "Do nadzoru, o którym mowa w § 1 i 2, przepisy art. 175dd § 2 i 3 oraz działu I rozdziału 5a ustawy z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych stosuje się odpowiednio."
+    },
+    {
       "provision_ref": "art13",
       "section": "13",
       "title": "Art. 13",
-      "content": "Prezes Naczelnego Sądu Administracyjnego może delegować, na czas określony, sędziego wojewódzkiego sądu administracyjnego, za jego zgodą, do pełnienia obowiązków sędziego w Naczelnym Sądzie Administracyjnym. Minister Sprawiedliwości, na wniosek Prezesa Naczelnego Sądu Administracyjnego, może delegować, na czas określony, sędziego sądu apelacyjnego lub sędziego sądu okręgowego, za jego zgodą, do pełnienia obowiązków sędziego w sądzie administracyjnym."
+      "content": "Prezes Naczelnego Sądu Administracyjnego może delegować, na czas określony, sędziego wojewódzkiego sądu administracyjnego, za jego zgodą, do pełnienia obowiązków sędziego w Naczelnym Sądzie Administracyjnym. Minister Sprawiedliwości, na wniosek Prezesa Naczelnego Sądu Administracyjnego, może delegować, na czas określony, sędziego sądu powszechnego, za jego zgodą, do pełnienia obowiązków sędziego w sądzie administracyjnym."
     },
     {
       "provision_ref": "art13par1",
@@ -205,7 +487,7 @@
       "provision_ref": "art13par2",
       "section": "13",
       "title": "Art. 13 § 2",
-      "content": "Minister Sprawiedliwości, na wniosek Prezesa Naczelnego Sądu Administracyjnego, może delegować, na czas określony, sędziego sądu apelacyjnego lub sędziego sądu okręgowego, za jego zgodą, do pełnienia obowiązków sędziego w sądzie administracyjnym."
+      "content": "Minister Sprawiedliwości, na wniosek Prezesa Naczelnego Sądu Administracyjnego, może delegować, na czas określony, sędziego sądu powszechnego, za jego zgodą, do pełnienia obowiązków sędziego w sądzie administracyjnym."
     },
     {
       "provision_ref": "art14",
@@ -283,19 +565,19 @@
       "provision_ref": "art18",
       "section": "18",
       "title": "Art. 18",
-      "content": "W skład wojewódzkiego sądu administracyjnego wchodzą: prezes sądu, wiceprezes sądu lub wiceprezesi sądu oraz sędziowie. Liczbę sędziów i wiceprezesów sądu w wojewódzkim sądzie administracyjnym określa Prezes Naczelnego Sądu Administracyjnego."
+      "content": "W skład wojewódzkiego sądu administracyjnego wchodzą: prezes sądu, wiceprezes sądu lub wiceprezesi sądu, sędziowie i asesorzy sądowi. Liczbę sędziów, wiceprezesów sądu i asesorów sądowych w wojewódzkim sądzie administracyjnym określa Prezes Naczelnego Sądu Administracyjnego."
     },
     {
       "provision_ref": "art18par1",
       "section": "18",
       "title": "Art. 18 § 1",
-      "content": "W skład wojewódzkiego sądu administracyjnego wchodzą: prezes sądu, wiceprezes sądu lub wiceprezesi sądu oraz sędziowie."
+      "content": "W skład wojewódzkiego sądu administracyjnego wchodzą: prezes sądu, wiceprezes sądu lub wiceprezesi sądu, sędziowie i asesorzy sądowi."
     },
     {
       "provision_ref": "art18par2",
       "section": "18",
       "title": "Art. 18 § 2",
-      "content": "Liczbę sędziów i wiceprezesów sądu w wojewódzkim sądzie administracyjnym określa Prezes Naczelnego Sądu Administracyjnego."
+      "content": "Liczbę sędziów, wiceprezesów sądu i asesorów sądowych w wojewódzkim sądzie administracyjnym określa Prezes Naczelnego Sądu Administracyjnego."
     },
     {
       "provision_ref": "art19",
@@ -331,13 +613,19 @@
       "provision_ref": "art21",
       "section": "21",
       "title": "Art. 21",
-      "content": "Prezesa sądu i wiceprezesa sądu w wojewódzkim sądzie administracyjnym powołuje i odwołuje spośród sędziów wojewódzkiego sądu administracyjnego lub Naczelnego Sądu Administracyjnego Prezes Naczelnego Sądu Administracyjnego, po zasięgnięciu opinii zgromadzenia ogólnego tego sądu i Kolegium Naczelnego Sądu Administracyjnego. Jeżeli opinia nie zostanie wydana w terminie dwóch miesięcy od przedstawienia kandydata właściwemu zgromadzeniu ogólnemu, Prezes Naczelnego Sądu Administracyjnego może powołać prezesa wojewódzkiego sądu administracyjnego bez opinii. W przypadku wydania przez zgromadzenie ogólne negatywnej opinii o kandydacie, Prezes Naczelnego Sądu Administracyjnego może go powołać po uzyskaniu pozytywnej opinii Kolegium Naczelnego Sądu Administracyjnego. Negatywna opinia Kolegium Naczelnego Sądu Administracyjnego jest dla Prezesa Naczelnego Sądu Administracyjnego wiążąca. Jeżeli Kolegium Naczelnego Sądu Administracyjnego w terminie trzydziestu dni od przedstawienia przez Prezesa Naczelnego Sądu Administracyjnego zamiaru powołania prezesa sądu mimo negatywnej opinii zgromadzenia ogólnego tego sądu nie wyda opinii, uważa się, że opinia jest pozytywna."
+      "content": "Prezesa i wiceprezesa sądu w wojewódzkim sądzie administracyjnym powołuje Prezes Naczelnego Sądu Administracyjnego spośród sędziów wojewódzkiego sądu administracyjnego lub Naczelnego Sądu Administracyjnego, po zasięgnięciu opinii zgromadzenia ogólnego tego sądu. Prezes i wiceprezes sądu w wojewódzkim sądzie administracyjnym są powoływani na okres pięciu lat, najwyżej na dwie kolejne kadencje. Jeżeli opinia nie zostanie wydana w terminie dwóch miesięcy od przedstawienia kandydata właściwemu zgromadzeniu ogólnemu, Prezes Naczelnego Sądu Administracyjnego może powołać prezesa wojewódzkiego sądu administracyjnego bez opinii. W przypadku wydania przez zgromadzenie ogólne negatywnej opinii o kandydacie, Prezes Naczelnego Sądu Administracyjnego może go powołać po uzyskaniu pozytywnej opinii Krajowej Rady Sądownictwa. Negatywna opinia Krajowej Rady Sądownictwa jest dla Prezesa Naczelnego Sądu Administracyjnego wiążąca. Jeżeli Krajowa Rada Sądownictwa w terminie trzydziestu dni od dnia przedstawienia przez Prezesa Naczelnego Sądu Administracyjnego zamiaru powołania sędziego na stanowisko prezesa sądu, mimo negatywnej opinii zgromadzenia ogólnego tego sądu, nie wyda opinii, uważa się, że opinia jest pozytywna."
     },
     {
       "provision_ref": "art21par1",
       "section": "21",
       "title": "Art. 21 § 1",
-      "content": "Prezesa sądu i wiceprezesa sądu w wojewódzkim sądzie administracyjnym powołuje i odwołuje spośród sędziów wojewódzkiego sądu administracyjnego lub Naczelnego Sądu Administracyjnego Prezes Naczelnego Sądu Administracyjnego, po zasięgnięciu opinii zgromadzenia ogólnego tego sądu i Kolegium Naczelnego Sądu Administracyjnego."
+      "content": "Prezesa i wiceprezesa sądu w wojewódzkim sądzie administracyjnym powołuje Prezes Naczelnego Sądu Administracyjnego spośród sędziów wojewódzkiego sądu administracyjnego lub Naczelnego Sądu Administracyjnego, po zasięgnięciu opinii zgromadzenia ogólnego tego sądu."
+    },
+    {
+      "provision_ref": "art21par1a",
+      "section": "21",
+      "title": "Art. 21 § 1a",
+      "content": "Prezes i wiceprezes sądu w wojewódzkim sądzie administracyjnym są powoływani na okres pięciu lat, najwyżej na dwie kolejne kadencje."
     },
     {
       "provision_ref": "art21par2",
@@ -349,19 +637,49 @@
       "provision_ref": "art21par3",
       "section": "21",
       "title": "Art. 21 § 3",
-      "content": "W przypadku wydania przez zgromadzenie ogólne negatywnej opinii o kandydacie, Prezes Naczelnego Sądu Administracyjnego może go powołać po uzyskaniu pozytywnej opinii Kolegium Naczelnego Sądu Administracyjnego. Negatywna opinia Kolegium Naczelnego Sądu Administracyjnego jest dla Prezesa Naczelnego Sądu Administracyjnego wiążąca."
+      "content": "W przypadku wydania przez zgromadzenie ogólne negatywnej opinii o kandydacie, Prezes Naczelnego Sądu Administracyjnego może go powołać po uzyskaniu pozytywnej opinii Krajowej Rady Sądownictwa. Negatywna opinia Krajowej Rady Sądownictwa jest dla Prezesa Naczelnego Sądu Administracyjnego wiążąca."
     },
     {
       "provision_ref": "art21par4",
       "section": "21",
       "title": "Art. 21 § 4",
-      "content": "Jeżeli Kolegium Naczelnego Sądu Administracyjnego w terminie trzydziestu dni od przedstawienia przez Prezesa Naczelnego Sądu Administracyjnego zamiaru powołania prezesa sądu mimo negatywnej opinii zgromadzenia ogólnego tego sądu nie wyda opinii, uważa się, że opinia jest pozytywna."
+      "content": "Jeżeli Krajowa Rada Sądownictwa w terminie trzydziestu dni od dnia przedstawienia przez Prezesa Naczelnego Sądu Administracyjnego zamiaru powołania sędziego na stanowisko prezesa sądu, mimo negatywnej opinii zgromadzenia ogólnego tego sądu, nie wyda opinii, uważa się, że opinia jest pozytywna."
+    },
+    {
+      "provision_ref": "art21a",
+      "section": "21a",
+      "title": "Art. 21a",
+      "content": "Prezes i wiceprezes sądu w wojewódzkim sądzie administracyjnym mogą być odwołani przez Prezesa Naczelnego Sądu Administracyjnego w toku kadencji w przypadku: rażącego niewywiązywania się z obowiązków służbowych; gdy dalszego pełnienia funkcji z innych powodów nie da się pogodzić z dobrem wymiaru sprawiedliwości. Odwołanie prezesa i wiceprezesa sądu w wojewódzkim sądzie administracyjnym następuje po zasięgnięciu opinii zgromadzenia ogólnego tego sądu i Krajowej Rady Sądownictwa. W przypadku niewydania opinii w terminie miesiąca od przedstawienia zamiaru odwołania prezesa albo wiceprezesa sądu, uważa się, że opinia jest pozytywna. W przypadku złożenia w toku kadencji przez prezesa albo wiceprezesa sądu w wojewódzkim sądzie administracyjnym rezygnacji z pełnionej funkcji, Prezes Naczelnego Sądu Administracyjnego odwołuje go bez zasięgania opinii, o której mowa w § 2."
+    },
+    {
+      "provision_ref": "art21apar1p1",
+      "section": "21a",
+      "title": "Art. 21a § 1 pkt 1",
+      "content": "Prezes i wiceprezes sądu w wojewódzkim sądzie administracyjnym mogą być odwołani przez Prezesa Naczelnego Sądu Administracyjnego w toku kadencji w przypadku: rażącego niewywiązywania się z obowiązków służbowych;"
+    },
+    {
+      "provision_ref": "art21apar1p2",
+      "section": "21a",
+      "title": "Art. 21a § 1 pkt 2",
+      "content": "Prezes i wiceprezes sądu w wojewódzkim sądzie administracyjnym mogą być odwołani przez Prezesa Naczelnego Sądu Administracyjnego w toku kadencji w przypadku: gdy dalszego pełnienia funkcji z innych powodów nie da się pogodzić z dobrem wymiaru sprawiedliwości."
+    },
+    {
+      "provision_ref": "art21apar2",
+      "section": "21a",
+      "title": "Art. 21a § 2",
+      "content": "Odwołanie prezesa i wiceprezesa sądu w wojewódzkim sądzie administracyjnym następuje po zasięgnięciu opinii zgromadzenia ogólnego tego sądu i Krajowej Rady Sądownictwa. W przypadku niewydania opinii w terminie miesiąca od przedstawienia zamiaru odwołania prezesa albo wiceprezesa sądu, uważa się, że opinia jest pozytywna."
+    },
+    {
+      "provision_ref": "art21apar3",
+      "section": "21a",
+      "title": "Art. 21a § 3",
+      "content": "W przypadku złożenia w toku kadencji przez prezesa albo wiceprezesa sądu w wojewódzkim sądzie administracyjnym rezygnacji z pełnionej funkcji, Prezes Naczelnego Sądu Administracyjnego odwołuje go bez zasięgania opinii, o której mowa w § 2."
     },
     {
       "provision_ref": "art22",
       "section": "22",
       "title": "Art. 22",
-      "content": "Prezes Naczelnego Sądu Administracyjnego, prezes wojewódzkiego sądu administracyjnego oraz inne osoby powołane do kierowania i nadzoru nad działalnością administracyjną mają prawo wglądu w czynności właściwego wojewódzkiego sądu administracyjnego, mogą być obecni na rozprawie toczącej się z wyłączeniem jawności, mogą żądać wyjaśnień oraz usunięcia uchybień. Prezes Naczelnego Sądu Administracyjnego oraz prezes wojewódzkiego sądu administracyjnego mogą uchylać zarządzenia administracyjne niezgodne z prawem. W ramach czynności nadzoru nad działalnością administracyjną wojewódzkich sądów administracyjnych, Prezes Naczelnego Sądu Administracyjnego może zarządzić przeprowadzenie wizytacji sądu lub lustracji w sądzie. W przypadku stwierdzenia uchybienia w zakresie sprawności postępowania sądowego, Prezes Naczelnego Sądu Administracyjnego oraz prezes wojewódzkiego sądu administracyjnego mogą zwrócić na nie uwagę i żądać usunięcia skutków uchybienia. Czynności, o których mowa w § 1 i 2, nie mogą wkraczać w dziedzinę, w której sędziowie są niezawiśli. Prezydent Rzeczypospolitej Polskiej określi, w drodze rozporządzenia, szczegółowy tryb wykonywania nadzoru nad działalnością administracyjną wojewódzkich sądów administracyjnych przez organy i osoby do tego wyznaczone. Określając szczegółowy tryb wykonywania nadzoru należy uwzględnić, że nadzór ma służyć sprawnemu i rzetelnemu wykonywaniu zadań powierzonych sądowi."
+      "content": "Prezes Naczelnego Sądu Administracyjnego, prezes wojewódzkiego sądu administracyjnego oraz inne osoby powołane do kierowania i nadzoru nad działalnością administracyjną mają prawo wglądu w czynności właściwego wojewódzkiego sądu administracyjnego, mogą być obecni na rozprawie toczącej się z wyłączeniem jawności, mogą żądać wyjaśnień oraz usunięcia uchybień. Prezes Naczelnego Sądu Administracyjnego oraz prezes wojewódzkiego sądu administracyjnego mogą uchylać zarządzenia administracyjne niezgodne z prawem. W ramach czynności nadzoru nad działalnością administracyjną wojewódzkich sądów administracyjnych, Prezes Naczelnego Sądu Administracyjnego może zarządzić przeprowadzenie wizytacji sądu lub lustracji w sądzie. W przypadku stwierdzenia uchybienia w zakresie sprawności postępowania sądowego, Prezes Naczelnego Sądu Administracyjnego oraz prezes wojewódzkiego sądu administracyjnego mogą zwrócić na nie uwagę i żądać usunięcia skutków uchybienia. Czynności, o których mowa w § 1 i 2, nie mogą wkraczać w dziedzinę, w której sędziowie i asesorzy sądowi są niezawiśli. Prezydent Rzeczypospolitej Polskiej określi, w drodze rozporządzenia, szczegółowy tryb wykonywania nadzoru nad działalnością administracyjną wojewódzkich sądów administracyjnych przez organy i osoby do tego wyznaczone. Określając szczegółowy tryb wykonywania nadzoru należy uwzględnić, że nadzór ma służyć sprawnemu i rzetelnemu wykonywaniu zadań powierzonych sądowi."
     },
     {
       "provision_ref": "art22par1",
@@ -385,7 +703,7 @@
       "provision_ref": "art22par4",
       "section": "22",
       "title": "Art. 22 § 4",
-      "content": "Czynności, o których mowa w § 1 i 2, nie mogą wkraczać w dziedzinę, w której sędziowie są niezawiśli."
+      "content": "Czynności, o których mowa w § 1 i 2, nie mogą wkraczać w dziedzinę, w której sędziowie i asesorzy sądowi są niezawiśli."
     },
     {
       "provision_ref": "art22par5",
@@ -397,7 +715,7 @@
       "provision_ref": "art23",
       "section": "23",
       "title": "Art. 23",
-      "content": "Prezydent Rzeczypospolitej Polskiej ustala, w drodze rozporządzenia, regulamin określający szczegółowo tryb wewnętrznego urzędowania wojewódzkich sądów administracyjnych. W regulaminie, o którym mowa w § 1, określa się w szczególności: wewnętrzną organizację sądów, porządek funkcjonowania sądów, tryb czynności sądowych zapewniających sprawne i szybkie ich wykonywanie, tryb wyznaczania składów orzekających w dostosowaniu do specjalizacji orzeczniczej sędziów i wpływu spraw, przypadki wyznaczania składów orzekających w drodze losowania z ustaleniem zasad losowania."
+      "content": "Prezydent Rzeczypospolitej Polskiej ustala, w drodze rozporządzenia, regulamin określający szczegółowo tryb wewnętrznego urzędowania wojewódzkich sądów administracyjnych. W regulaminie, o którym mowa w § 1, określa się w szczególności: wewnętrzną organizację sądów; porządek funkcjonowania sądów; tryb czynności sądowych zapewniających sprawne i szybkie ich wykonywanie; tryb wyznaczania składów orzekających w dostosowaniu do specjalizacji orzeczniczej sędziów i wpływu spraw; przypadki wyznaczania składów orzekających w drodze losowania z ustaleniem zasad losowania."
     },
     {
       "provision_ref": "art23par1",
@@ -409,25 +727,25 @@
       "provision_ref": "art23par2p1",
       "section": "23",
       "title": "Art. 23 § 2 pkt 1",
-      "content": "W regulaminie, o którym mowa w § 1, określa się w szczególności: wewnętrzną organizację sądów,"
+      "content": "W regulaminie, o którym mowa w § 1, określa się w szczególności: wewnętrzną organizację sądów;"
     },
     {
       "provision_ref": "art23par2p2",
       "section": "23",
       "title": "Art. 23 § 2 pkt 2",
-      "content": "W regulaminie, o którym mowa w § 1, określa się w szczególności: porządek funkcjonowania sądów,"
+      "content": "W regulaminie, o którym mowa w § 1, określa się w szczególności: porządek funkcjonowania sądów;"
     },
     {
       "provision_ref": "art23par2p3",
       "section": "23",
       "title": "Art. 23 § 2 pkt 3",
-      "content": "W regulaminie, o którym mowa w § 1, określa się w szczególności: tryb czynności sądowych zapewniających sprawne i szybkie ich wykonywanie,"
+      "content": "W regulaminie, o którym mowa w § 1, określa się w szczególności: tryb czynności sądowych zapewniających sprawne i szybkie ich wykonywanie;"
     },
     {
       "provision_ref": "art23par2p4",
       "section": "23",
       "title": "Art. 23 § 2 pkt 4",
-      "content": "W regulaminie, o którym mowa w § 1, określa się w szczególności: tryb wyznaczania składów orzekających w dostosowaniu do specjalizacji orzeczniczej sędziów i wpływu spraw,"
+      "content": "W regulaminie, o którym mowa w § 1, określa się w szczególności: tryb wyznaczania składów orzekających w dostosowaniu do specjalizacji orzeczniczej sędziów i wpływu spraw;"
     },
     {
       "provision_ref": "art23par2p5",
@@ -439,13 +757,19 @@
       "provision_ref": "art24",
       "section": "24",
       "title": "Art. 24",
-      "content": "Zgromadzenie ogólne składa się z sędziów wojewódzkiego sądu administracyjnego. Przewodniczącym zgromadzenia ogólnego jest prezes wojewódzkiego sądu administracyjnego, który zwołuje zgromadzenie ogólne co najmniej raz w roku. Do podjęcia uchwał zgromadzenia ogólnego wymagana jest obecność przynajmniej połowy liczby jego członków. Uchwały zapadają bezwzględną większością głosów. Zgromadzenie ogólne: rozpatruje informację prezesa wojewódzkiego sądu administracyjnego o rocznej działalności sądu, przedstawia Krajowej Radzie Sądownictwa kandydatów na stanowiska sędziów wojewódzkiego sądu administracyjnego, wyraża opinię w sprawie powołania lub odwołania prezesa wojewódzkiego sądu administracyjnego oraz opinię w sprawie powołania lub odwołania wiceprezesa wojewódzkiego sądu administracyjnego, ustala skład liczbowy kolegium sądu oraz wybiera jego członków i dokonuje zmian w jego składzie, wybiera spośród członków zgromadzenia ogólnego dwóch przedstawicieli, którzy uczestniczą w Zgromadzeniu Ogólnym Sędziów Naczelnego Sądu Administracyjnego wybierającym członków Krajowej Rady Sądownictwa, zgłasza kandydatów na członków Krajowej Rady Sądownictwa, rozpatruje i opiniuje inne sprawy przedłożone przez prezesa wojewódzkiego sądu administracyjnego lub zgłoszone przez członków zgromadzenia ogólnego."
+      "content": "Zgromadzenie ogólne składa się z sędziów wojewódzkiego sądu administracyjnego. W zgromadzeniu ogólnym mogą uczestniczyć asesorzy sądowi, bez prawa udziału w głosowaniu. Przewodniczącym zgromadzenia ogólnego jest prezes wojewódzkiego sądu administracyjnego, który zwołuje zgromadzenie ogólne co najmniej raz w roku. Do podjęcia uchwał zgromadzenia ogólnego wymagana jest obecność przynajmniej połowy liczby jego członków. Uchwały zapadają bezwzględną większością głosów. Zgromadzenie ogólne: rozpatruje informację prezesa wojewódzkiego sądu administracyjnego o rocznej działalności sądu; (uchylony) wyraża opinię w sprawie powołania lub odwołania prezesa wojewódzkiego sądu administracyjnego oraz opinię w sprawie powołania lub odwołania wiceprezesa wojewódzkiego sądu administracyjnego; ustala skład liczbowy kolegium sądu oraz wybiera jego członków i dokonuje zmian w jego składzie; (uchylony) (uchylony) rozpatruje i opiniuje inne sprawy przedłożone przez prezesa wojewódzkiego sądu administracyjnego lub zgłoszone przez członków zgromadzenia ogólnego."
     },
     {
       "provision_ref": "art24par1",
       "section": "24",
       "title": "Art. 24 § 1",
       "content": "Zgromadzenie ogólne składa się z sędziów wojewódzkiego sądu administracyjnego."
+    },
+    {
+      "provision_ref": "art24par1a",
+      "section": "24",
+      "title": "Art. 24 § 1a",
+      "content": "W zgromadzeniu ogólnym mogą uczestniczyć asesorzy sądowi, bez prawa udziału w głosowaniu."
     },
     {
       "provision_ref": "art24par2",
@@ -463,37 +787,37 @@
       "provision_ref": "art24par4p1",
       "section": "24",
       "title": "Art. 24 § 4 pkt 1",
-      "content": "Zgromadzenie ogólne: rozpatruje informację prezesa wojewódzkiego sądu administracyjnego o rocznej działalności sądu,"
+      "content": "Zgromadzenie ogólne: rozpatruje informację prezesa wojewódzkiego sądu administracyjnego o rocznej działalności sądu;"
     },
     {
       "provision_ref": "art24par4p2",
       "section": "24",
       "title": "Art. 24 § 4 pkt 2",
-      "content": "Zgromadzenie ogólne: przedstawia Krajowej Radzie Sądownictwa kandydatów na stanowiska sędziów wojewódzkiego sądu administracyjnego,"
+      "content": "Zgromadzenie ogólne: (uchylony)"
     },
     {
       "provision_ref": "art24par4p3",
       "section": "24",
       "title": "Art. 24 § 4 pkt 3",
-      "content": "Zgromadzenie ogólne: wyraża opinię w sprawie powołania lub odwołania prezesa wojewódzkiego sądu administracyjnego oraz opinię w sprawie powołania lub odwołania wiceprezesa wojewódzkiego sądu administracyjnego,"
+      "content": "Zgromadzenie ogólne: wyraża opinię w sprawie powołania lub odwołania prezesa wojewódzkiego sądu administracyjnego oraz opinię w sprawie powołania lub odwołania wiceprezesa wojewódzkiego sądu administracyjnego;"
     },
     {
       "provision_ref": "art24par4p4",
       "section": "24",
       "title": "Art. 24 § 4 pkt 4",
-      "content": "Zgromadzenie ogólne: ustala skład liczbowy kolegium sądu oraz wybiera jego członków i dokonuje zmian w jego składzie,"
+      "content": "Zgromadzenie ogólne: ustala skład liczbowy kolegium sądu oraz wybiera jego członków i dokonuje zmian w jego składzie;"
     },
     {
       "provision_ref": "art24par4p5",
       "section": "24",
       "title": "Art. 24 § 4 pkt 5",
-      "content": "Zgromadzenie ogólne: wybiera spośród członków zgromadzenia ogólnego dwóch przedstawicieli, którzy uczestniczą w Zgromadzeniu Ogólnym Sędziów Naczelnego Sądu Administracyjnego wybierającym członków Krajowej Rady Sądownictwa,"
+      "content": "Zgromadzenie ogólne: (uchylony)"
     },
     {
       "provision_ref": "art24par4p6",
       "section": "24",
       "title": "Art. 24 § 4 pkt 6",
-      "content": "Zgromadzenie ogólne: zgłasza kandydatów na członków Krajowej Rady Sądownictwa,"
+      "content": "Zgromadzenie ogólne: (uchylony)"
     },
     {
       "provision_ref": "art24par4p7",
@@ -505,25 +829,25 @@
       "provision_ref": "art25",
       "section": "25",
       "title": "Art. 25",
-      "content": "Kolegium sądu: ustala podział czynności w sądzie i określa szczegółowe zasady przydziału spraw poszczególnym sędziom, przedstawia zgromadzeniu ogólnemu opinię o kandydatach na stanowiska sędziów, rozpatruje sprawy przedstawiane zgromadzeniu ogólnemu, rozpatruje inne sprawy przedstawione przez prezesa sądu lub z własnej inicjatywy. Kadencja kolegium sądu trwa trzy lata. Przewodniczącym kolegium sądu jest prezes sądu. Do podejmowania uchwał przez kolegium sądu stosuje się art. 24 § 3."
+      "content": "Kolegium sądu: ustala podział czynności w sądzie i określa szczegółowe zasady przydziału spraw poszczególnym sędziom i asesorom sądowym oraz referendarzom sądowym i starszym referendarzom sądowym; (uchylony) rozpatruje sprawy przedstawiane zgromadzeniu ogólnemu; rozpatruje inne sprawy przedstawione przez prezesa sądu lub z własnej inicjatywy. Kadencja kolegium sądu trwa trzy lata. Przewodniczącym kolegium sądu jest prezes sądu. Do podejmowania uchwał przez kolegium sądu stosuje się art. 24 § 3."
     },
     {
       "provision_ref": "art25par1p1",
       "section": "25",
       "title": "Art. 25 § 1 pkt 1",
-      "content": "Kolegium sądu: ustala podział czynności w sądzie i określa szczegółowe zasady przydziału spraw poszczególnym sędziom,"
+      "content": "Kolegium sądu: ustala podział czynności w sądzie i określa szczegółowe zasady przydziału spraw poszczególnym sędziom i asesorom sądowym oraz referendarzom sądowym i starszym referendarzom sądowym;"
     },
     {
       "provision_ref": "art25par1p2",
       "section": "25",
       "title": "Art. 25 § 1 pkt 2",
-      "content": "Kolegium sądu: przedstawia zgromadzeniu ogólnemu opinię o kandydatach na stanowiska sędziów,"
+      "content": "Kolegium sądu: (uchylony)"
     },
     {
       "provision_ref": "art25par1p3",
       "section": "25",
       "title": "Art. 25 § 1 pkt 3",
-      "content": "Kolegium sądu: rozpatruje sprawy przedstawiane zgromadzeniu ogólnemu,"
+      "content": "Kolegium sądu: rozpatruje sprawy przedstawiane zgromadzeniu ogólnemu;"
     },
     {
       "provision_ref": "art25par1p4",
@@ -553,49 +877,97 @@
       "provision_ref": "art26",
       "section": "26",
       "title": "Art. 26",
-      "content": "Prezes Naczelnego Sądu Administracyjnego może mianować asesorem sądowym osobę, która: spełnia wymagania, o których mowa w art. 6 § 1 pkt 1-4 i 6, ukończyła 30 lat, przez co najmniej cztery lata pozostawała na stanowisku sędziego lub prokuratora albo przynajmniej przez cztery lata wykonywała zawód adwokata, radcy prawnego lub notariusza albo przez sześć lat pozostawała w instytucjach publicznych na stanowiskach związanych ze stosowaniem lub tworzeniem prawa administracyjnego. Prezes Naczelnego Sądu Administracyjnego może, za zgodą kolegium sądu, powierzyć asesorowi sądowemu pełnienie czynności sędziowskich w tym sądzie na czas określony, nieprzekraczający pięciu lat."
-    },
-    {
-      "provision_ref": "art26par1p1",
-      "section": "26",
-      "title": "Art. 26 § 1 pkt 1",
-      "content": "Prezes Naczelnego Sądu Administracyjnego może mianować asesorem sądowym osobę, która: spełnia wymagania, o których mowa w art. 6 § 1 pkt 1-4 i 6,"
-    },
-    {
-      "provision_ref": "art26par1p2",
-      "section": "26",
-      "title": "Art. 26 § 1 pkt 2",
-      "content": "Prezes Naczelnego Sądu Administracyjnego może mianować asesorem sądowym osobę, która: ukończyła 30 lat,"
-    },
-    {
-      "provision_ref": "art26par1p3",
-      "section": "26",
-      "title": "Art. 26 § 1 pkt 3",
-      "content": "Prezes Naczelnego Sądu Administracyjnego może mianować asesorem sądowym osobę, która: przez co najmniej cztery lata pozostawała na stanowisku sędziego lub prokuratora albo przynajmniej przez cztery lata wykonywała zawód adwokata, radcy prawnego lub notariusza albo przez sześć lat pozostawała w instytucjach publicznych na stanowiskach związanych ze stosowaniem lub tworzeniem prawa administracyjnego."
-    },
-    {
-      "provision_ref": "art26par2",
-      "section": "26",
-      "title": "Art. 26 § 2",
-      "content": "Prezes Naczelnego Sądu Administracyjnego może, za zgodą kolegium sądu, powierzyć asesorowi sądowemu pełnienie czynności sędziowskich w tym sądzie na czas określony, nieprzekraczający pięciu lat."
+      "content": "(uchylony)"
     },
     {
       "provision_ref": "art27",
       "section": "27",
       "title": "Art. 27",
+      "content": "Na stanowisko referendarza sądowego, do wykonywania czynności w postępowaniu mediacyjnym oraz innych czynności sędziowskich określonych w ustawach, może być mianowany ten, kto spełnia wymagania określone w art. 6 § 1 pkt 1-3 oraz pozostawał co najmniej trzy lata na stanowiskach związanych ze stosowaniem lub tworzeniem prawa administracyjnego. Na stanowisko starszego referendarza sądowego może być mianowany referendarz sądowy, który zajmował stanowisko referendarza sądowego przez co najmniej dziesięć lat, nie był karany za przewinienia dyscyplinarne, a także uzyskiwał pozytywne okresowe oceny kwalifikacyjne."
+    },
+    {
+      "provision_ref": "art27par1",
+      "section": "27",
+      "title": "Art. 27 § 1",
       "content": "Na stanowisko referendarza sądowego, do wykonywania czynności w postępowaniu mediacyjnym oraz innych czynności sędziowskich określonych w ustawach, może być mianowany ten, kto spełnia wymagania określone w art. 6 § 1 pkt 1-3 oraz pozostawał co najmniej trzy lata na stanowiskach związanych ze stosowaniem lub tworzeniem prawa administracyjnego."
+    },
+    {
+      "provision_ref": "art27par2",
+      "section": "27",
+      "title": "Art. 27 § 2",
+      "content": "Na stanowisko starszego referendarza sądowego może być mianowany referendarz sądowy, który zajmował stanowisko referendarza sądowego przez co najmniej dziesięć lat, nie był karany za przewinienia dyscyplinarne, a także uzyskiwał pozytywne okresowe oceny kwalifikacyjne."
+    },
+    {
+      "provision_ref": "art27a",
+      "section": "27a",
+      "title": "Art. 27a",
+      "content": "Na stanowisku asystenta sędziego, do samodzielnego wykonywania czynności administracji sądowej oraz czynności przygotowania spraw sądowych do ich rozpoznania, może być zatrudniony ten, kto spełnia wymagania określone w art. 6 § 1 pkt 1-3. Na stanowisku starszego asystenta sędziego może być zatrudniony asystent sędziego, który zajmował stanowisko asystenta sędziego przez co najmniej pięć lat i uzyskiwał pozytywne okresowe oceny kwalifikacyjne."
+    },
+    {
+      "provision_ref": "art27apar1",
+      "section": "27a",
+      "title": "Art. 27a § 1",
+      "content": "Na stanowisku asystenta sędziego, do samodzielnego wykonywania czynności administracji sądowej oraz czynności przygotowania spraw sądowych do ich rozpoznania, może być zatrudniony ten, kto spełnia wymagania określone w art. 6 § 1 pkt 1-3."
+    },
+    {
+      "provision_ref": "art27apar2",
+      "section": "27a",
+      "title": "Art. 27a § 2",
+      "content": "Na stanowisku starszego asystenta sędziego może być zatrudniony asystent sędziego, który zajmował stanowisko asystenta sędziego przez co najmniej pięć lat i uzyskiwał pozytywne okresowe oceny kwalifikacyjne."
     },
     {
       "provision_ref": "art28",
       "section": "28",
       "title": "Art. 28",
-      "content": "Prezydent Rzeczypospolitej Polskiej określa, w drodze rozporządzenia, stanowiska i wymagane kwalifikacje urzędników sądowych oraz pracowników sądowych, a także szczegółowe zasady wynagradzania i tabele wynagrodzenia zasadniczego oraz wysokość dodatku z tytułu zajmowanego stanowiska lub pełnionej funkcji referendarzy sądowych, innych urzędników oraz pracowników sądowych w wojewódzkich sądach administracyjnych. Środki na wynagrodzenia zasadnicze ustala się przeciętnie w wysokości pięćdziesięciu procent wynagrodzenia zasadniczego sędziego wojewódzkiego sądu administracyjnego, z tym że środki te podwyższa się o wartość składki na ubezpieczenia emerytalne i rentowe."
+      "content": "Prezydent Rzeczypospolitej Polskiej określa, w drodze rozporządzenia, stanowiska i wymagane kwalifikacje urzędników sądowych oraz pracowników wojewódzkich sądów administracyjnych, a także szczegółowe zasady wynagradzania i tabele wynagrodzenia zasadniczego oraz wysokość dodatku z tytułu zajmowanego stanowiska lub pełnionej funkcji referendarzy sądowych, starszych referendarzy sądowych, asystentów sędziów, starszych asystentów sędziów, urzędników oraz innych pracowników tych sądów, uwzględniając zasadę różnicowania wynagrodzenia w zależności od stanowiska i wymaganych kwalifikacji, potrzebę zapewnienia prawidłowej organizacji działalności administracyjnej, właściwego poziomu funkcjonowania sekretariatów sądowych oraz wysokiego poziomu kultury pracy, sprawności, racjonalności, szybkości i profesjonalizmu przy wykonywaniu czynności niezbędnych do sprawnego przebiegu postępowania."
     },
     {
       "provision_ref": "art29",
       "section": "29",
       "title": "Art. 29",
-      "content": "W sprawach nieuregulowanych w ustawie do wojewódzkich sądów administracyjnych oraz sędziów, asesorów sądowych, urzędników i pracowników tych sądów stosuje się odpowiednio przepisy o ustroju sądów powszechnych, z tym że do wynagrodzeń sędziów stosuje się przepisy dotyczące sędziów sądu apelacyjnego, a do wynagrodzeń asesorów sądowych - przepisy dotyczące sędziów sądu okręgowego. Określone w tych przepisach uprawnienia Ministra Sprawiedliwości przysługują Prezesowi Naczelnego Sądu Administracyjnego."
+      "content": "W sprawach nieuregulowanych w ustawie do wojewódzkich sądów administracyjnych oraz sędziów, asesorów sądowych, starszych referendarzy sądowych, referendarzy sądowych, starszych asystentów sędziów, asystentów sędziów stosuje się odpowiednio przepisy o ustroju sądów powszechnych, z tym że: przepisów dotyczących systemu teleinformatycznego obsługującego postępowanie w sprawie powołania do pełnienia urzędu na stanowisku sędziego sądu powszechnego albo asesora sądowego nie stosuje się; do wynagrodzeń sędziów stosuje się odpowiednio przepisy dotyczące wynagrodzeń sędziów sądu apelacyjnego; wynagrodzenie zasadnicze asesora sądowego odpowiada wynagrodzeniu zasadniczemu sędziego sądu okręgowego według stawki czwartej, powiększonemu o należną składkę z tytułu ubezpieczenia społecznego; do postępowania w przedmiocie powołania do pełnienia urzędu na stanowisku asesora sądowego stosuje się odpowiednio przepisy o postępowaniu w przedmiocie powołania do pełnienia urzędu na stanowisku sędziego sądu powszechnego; do zgłaszania kandydatur na wolne stanowisko sędziego przewidziane do objęcia w wojewódzkim sądzie administracyjnym stosuje się odpowiednio art. 31 ustawy z dnia 8 grudnia 2017 r. o Sądzie Najwyższym , z tym że o wolnych stanowiskach sędziowskich obwieszcza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” Prezes Naczelnego Sądu Administracyjnego. W sprawach nieuregulowanych w ustawie do urzędników i innych pracowników wojewódzkich sądów administracyjnych stosuje się przepisy ustawy z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury . Określone w przepisach, o których mowa w § 1 i 2, uprawnienia Ministra Sprawiedliwości przysługują Prezesowi Naczelnego Sądu Administracyjnego."
+    },
+    {
+      "provision_ref": "art29par1p1",
+      "section": "29",
+      "title": "Art. 29 § 1 pkt 1",
+      "content": "W sprawach nieuregulowanych w ustawie do wojewódzkich sądów administracyjnych oraz sędziów, asesorów sądowych, starszych referendarzy sądowych, referendarzy sądowych, starszych asystentów sędziów, asystentów sędziów stosuje się odpowiednio przepisy o ustroju sądów powszechnych, z tym że: przepisów dotyczących systemu teleinformatycznego obsługującego postępowanie w sprawie powołania do pełnienia urzędu na stanowisku sędziego sądu powszechnego albo asesora sądowego nie stosuje się;"
+    },
+    {
+      "provision_ref": "art29par1p2",
+      "section": "29",
+      "title": "Art. 29 § 1 pkt 2",
+      "content": "W sprawach nieuregulowanych w ustawie do wojewódzkich sądów administracyjnych oraz sędziów, asesorów sądowych, starszych referendarzy sądowych, referendarzy sądowych, starszych asystentów sędziów, asystentów sędziów stosuje się odpowiednio przepisy o ustroju sądów powszechnych, z tym że: do wynagrodzeń sędziów stosuje się odpowiednio przepisy dotyczące wynagrodzeń sędziów sądu apelacyjnego;"
+    },
+    {
+      "provision_ref": "art29par1p3",
+      "section": "29",
+      "title": "Art. 29 § 1 pkt 3",
+      "content": "W sprawach nieuregulowanych w ustawie do wojewódzkich sądów administracyjnych oraz sędziów, asesorów sądowych, starszych referendarzy sądowych, referendarzy sądowych, starszych asystentów sędziów, asystentów sędziów stosuje się odpowiednio przepisy o ustroju sądów powszechnych, z tym że: wynagrodzenie zasadnicze asesora sądowego odpowiada wynagrodzeniu zasadniczemu sędziego sądu okręgowego według stawki czwartej, powiększonemu o należną składkę z tytułu ubezpieczenia społecznego;"
+    },
+    {
+      "provision_ref": "art29par1p4",
+      "section": "29",
+      "title": "Art. 29 § 1 pkt 4",
+      "content": "W sprawach nieuregulowanych w ustawie do wojewódzkich sądów administracyjnych oraz sędziów, asesorów sądowych, starszych referendarzy sądowych, referendarzy sądowych, starszych asystentów sędziów, asystentów sędziów stosuje się odpowiednio przepisy o ustroju sądów powszechnych, z tym że: do postępowania w przedmiocie powołania do pełnienia urzędu na stanowisku asesora sądowego stosuje się odpowiednio przepisy o postępowaniu w przedmiocie powołania do pełnienia urzędu na stanowisku sędziego sądu powszechnego;"
+    },
+    {
+      "provision_ref": "art29par1p5",
+      "section": "29",
+      "title": "Art. 29 § 1 pkt 5",
+      "content": "W sprawach nieuregulowanych w ustawie do wojewódzkich sądów administracyjnych oraz sędziów, asesorów sądowych, starszych referendarzy sądowych, referendarzy sądowych, starszych asystentów sędziów, asystentów sędziów stosuje się odpowiednio przepisy o ustroju sądów powszechnych, z tym że: do zgłaszania kandydatur na wolne stanowisko sędziego przewidziane do objęcia w wojewódzkim sądzie administracyjnym stosuje się odpowiednio art. 31 ustawy z dnia 8 grudnia 2017 r. o Sądzie Najwyższym , z tym że o wolnych stanowiskach sędziowskich obwieszcza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” Prezes Naczelnego Sądu Administracyjnego."
+    },
+    {
+      "provision_ref": "art29par2",
+      "section": "29",
+      "title": "Art. 29 § 2",
+      "content": "W sprawach nieuregulowanych w ustawie do urzędników i innych pracowników wojewódzkich sądów administracyjnych stosuje się przepisy ustawy z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury ."
+    },
+    {
+      "provision_ref": "art29par3",
+      "section": "29",
+      "title": "Art. 29 § 3",
+      "content": "Określone w przepisach, o których mowa w § 1 i 2, uprawnienia Ministra Sprawiedliwości przysługują Prezesowi Naczelnego Sądu Administracyjnego."
     },
     {
       "provision_ref": "art30",
@@ -619,7 +991,7 @@
       "provision_ref": "art33",
       "section": "33",
       "title": "Art. 33",
-      "content": "Prezydent Rzeczypospolitej Polskiej, na wniosek Zgromadzenia Ogólnego Sędziów Naczelnego Sądu Administracyjnego, ustala, w drodze rozporządzenia, liczbę stanowisk sędziowskich w Naczelnym Sądzie Administracyjnym, w tym liczbę wiceprezesów tego Sądu."
+      "content": "(uchylony)"
     },
     {
       "provision_ref": "art34",
@@ -727,7 +1099,7 @@
       "provision_ref": "art40",
       "section": "40",
       "title": "Art. 40",
-      "content": "W Naczelnym Sądzie Administracyjnym działa Kancelaria Prezesa Naczelnego Sądu Administracyjnego oraz Biuro Orzecznictwa. Do zakresu działania Kancelarii Prezesa Naczelnego Sądu Administracyjnego należy wykonywanie zadań związanych z pełnieniem przez Prezesa Naczelnego Sądu Administracyjnego czynności w zakresie tworzenia warunków do sprawnego funkcjonowania sądów administracyjnych, w szczególności w sprawach finansowych, kadrowych i administracyjno-gospodarczych. Kancelarią Prezesa Naczelnego Sądu Administracyjnego kieruje Szef Kancelarii Prezesa Naczelnego Sądu Administracyjnego. Do zakresu działania Biura Orzecznictwa należy wykonywanie zadań związanych z pełnieniem przez Prezesa Naczelnego Sądu Administracyjnego czynności w zakresie sprawności postępowania sądowego oraz orzecznictwa sądów administracyjnych. Biurem Orzecznictwa kieruje dyrektor, którym jest wiceprezes lub sędzia. Szczegółowy zakres zadań Kancelarii Prezesa Naczelnego Sądu Administracyjnego oraz Biura Orzecznictwa określa regulamin wewnętrznego urzędowania, o którym mowa w art. 43."
+      "content": "W Naczelnym Sądzie Administracyjnym działa Kancelaria Prezesa Naczelnego Sądu Administracyjnego oraz Biuro Orzecznictwa. Do zakresu działania Kancelarii Prezesa Naczelnego Sądu Administracyjnego należy wykonywanie zadań związanych z pełnieniem przez Prezesa Naczelnego Sądu Administracyjnego czynności w zakresie tworzenia warunków do sprawnego funkcjonowania sądów administracyjnych, w szczególności w sprawach finansowych, kadrowych i administracyjno-gospodarczych. Kancelarią Prezesa Naczelnego Sądu Administracyjnego kieruje Szef Kancelarii Prezesa Naczelnego Sądu Administracyjnego. Do zakresu działania Biura Orzecznictwa należy wykonywanie zadań związanych z pełnieniem przez Prezesa Naczelnego Sądu Administracyjnego czynności w zakresie sprawności postępowania sądowego oraz orzecznictwa sądów administracyjnych. Biurem Orzecznictwa kieruje dyrektor, którym jest wiceprezes lub sędzia. Szczegółowy zakres zadań Kancelarii Prezesa Naczelnego Sądu Administracyjnego oraz Biura Orzecznictwa określa regulamin, o którym mowa w art. 43."
     },
     {
       "provision_ref": "art40par1",
@@ -751,7 +1123,7 @@
       "provision_ref": "art40par4",
       "section": "40",
       "title": "Art. 40 § 4",
-      "content": "Szczegółowy zakres zadań Kancelarii Prezesa Naczelnego Sądu Administracyjnego oraz Biura Orzecznictwa określa regulamin wewnętrznego urzędowania, o którym mowa w art. 43."
+      "content": "Szczegółowy zakres zadań Kancelarii Prezesa Naczelnego Sądu Administracyjnego oraz Biura Orzecznictwa określa regulamin, o którym mowa w art. 43."
     },
     {
       "provision_ref": "art41",
@@ -781,7 +1153,7 @@
       "provision_ref": "art43",
       "section": "43",
       "title": "Art. 43",
-      "content": "Regulamin wewnętrznego urzędowania Naczelnego Sądu Administracyjnego uchwala Zgromadzenie Ogólne Sędziów Naczelnego Sądu Administracyjnego. Regulamin podlega ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”."
+      "content": "Prezydent Rzeczypospolitej Polskiej, po zasięgnięciu opinii Kolegium Naczelnego Sądu Administracyjnego, określi, w drodze rozporządzenia, regulamin Naczelnego Sądu Administracyjnego, w którym ustali liczbę stanowisk sędziowskich w Naczelnym Sądzie Administracyjnym nie mniejszą niż 120, w tym liczbę wiceprezesów tego Sądu oraz liczbę sędziów w poszczególnych izbach, wewnętrzną organizację Naczelnego Sądu Administracyjnego oraz zasady wewnętrznego postępowania, biorąc pod uwagę konieczność zapewnienia sprawnego funkcjonowania Naczelnego Sądu Administracyjnego, jego izb i organów, specyfikę postępowań prowadzonych przed Naczelnym Sądem oraz liczbę i rodzaj rozpoznawanych spraw."
     },
     {
       "provision_ref": "art44",
@@ -811,13 +1183,43 @@
       "provision_ref": "art45",
       "section": "45",
       "title": "Art. 45",
-      "content": "Wiceprezesa Naczelnego Sądu Administracyjnego powołuje i odwołuje Prezydent Rzeczypospolitej Polskiej, na wniosek Prezesa Naczelnego Sądu Administracyjnego, złożony za zgodą Zgromadzenia Ogólnego Sędziów Naczelnego Sądu Administracyjnego."
+      "content": "Wiceprezesa Naczelnego Sądu Administracyjnego powołuje na pięcioletnią kadencję Prezydent Rzeczypospolitej Polskiej, na wniosek Prezesa Naczelnego Sądu Administracyjnego, złożony za zgodą Zgromadzenia Ogólnego Sędziów Naczelnego Sądu Administracyjnego. Wiceprezes Naczelnego Sądu Administracyjnego może być odwołany przez Prezydenta Rzeczypospolitej Polskiej na wniosek Prezesa Naczelnego Sądu Administracyjnego w toku kadencji w przypadku: rażącego niewywiązywania się z obowiązków służbowych; gdy dalszego pełnienia funkcji z innych powodów nie da się pogodzić z dobrem wymiaru sprawiedliwości. Wystąpienie z wnioskiem o odwołanie wiceprezesa Naczelnego Sądu Administracyjnego następuje po uzyskaniu zgody Zgromadzenia Ogólnego Sędziów Naczelnego Sądu Administracyjnego. W przypadku złożenia w toku kadencji przez wiceprezesa Naczelnego Sądu Administracyjnego rezygnacji z pełnionej funkcji, Prezes Naczelnego Sądu Administracyjnego występuje z wnioskiem o odwołanie go bez uzyskania zgody, o której mowa w § 3."
+    },
+    {
+      "provision_ref": "art45par1",
+      "section": "45",
+      "title": "Art. 45 § 1",
+      "content": "Wiceprezesa Naczelnego Sądu Administracyjnego powołuje na pięcioletnią kadencję Prezydent Rzeczypospolitej Polskiej, na wniosek Prezesa Naczelnego Sądu Administracyjnego, złożony za zgodą Zgromadzenia Ogólnego Sędziów Naczelnego Sądu Administracyjnego."
+    },
+    {
+      "provision_ref": "art45par2p1",
+      "section": "45",
+      "title": "Art. 45 § 2 pkt 1",
+      "content": "Wiceprezes Naczelnego Sądu Administracyjnego może być odwołany przez Prezydenta Rzeczypospolitej Polskiej na wniosek Prezesa Naczelnego Sądu Administracyjnego w toku kadencji w przypadku: rażącego niewywiązywania się z obowiązków służbowych;"
+    },
+    {
+      "provision_ref": "art45par2p2",
+      "section": "45",
+      "title": "Art. 45 § 2 pkt 2",
+      "content": "Wiceprezes Naczelnego Sądu Administracyjnego może być odwołany przez Prezydenta Rzeczypospolitej Polskiej na wniosek Prezesa Naczelnego Sądu Administracyjnego w toku kadencji w przypadku: gdy dalszego pełnienia funkcji z innych powodów nie da się pogodzić z dobrem wymiaru sprawiedliwości."
+    },
+    {
+      "provision_ref": "art45par3",
+      "section": "45",
+      "title": "Art. 45 § 3",
+      "content": "Wystąpienie z wnioskiem o odwołanie wiceprezesa Naczelnego Sądu Administracyjnego następuje po uzyskaniu zgody Zgromadzenia Ogólnego Sędziów Naczelnego Sądu Administracyjnego."
+    },
+    {
+      "provision_ref": "art45par4",
+      "section": "45",
+      "title": "Art. 45 § 4",
+      "content": "W przypadku złożenia w toku kadencji przez wiceprezesa Naczelnego Sądu Administracyjnego rezygnacji z pełnionej funkcji, Prezes Naczelnego Sądu Administracyjnego występuje z wnioskiem o odwołanie go bez uzyskania zgody, o której mowa w § 3."
     },
     {
       "provision_ref": "art46",
       "section": "46",
       "title": "Art. 46",
-      "content": "Zgromadzenie Ogólne Sędziów Naczelnego Sądu Administracyjnego tworzą sędziowie Naczelnego Sądu Administracyjnego. Przewodniczącym Zgromadzenia Ogólnego jest Prezes Naczelnego Sądu Administracyjnego. Zgromadzenie Ogólne Sędziów Naczelnego Sądu Administracyjnego: rozpatruje informację Prezesa Naczelnego Sądu Administracyjnego o rocznej działalności Naczelnego Sądu Administracyjnego, przedstawia Krajowej Radzie Sądownictwa kandydatów na stanowiska sędziów, wybiera kandydatów na stanowisko Prezesa Naczelnego Sądu Administracyjnego, wyraża zgodę w sprawie powołania i odwołania wiceprezesów Naczelnego Sądu Administracyjnego, ustala skład liczbowy Kolegium Naczelnego Sądu Administracyjnego oraz wybiera jego członków i dokonuje zmian w jego składzie, rozpatruje i opiniuje inne sprawy przedłożone przez Prezesa Naczelnego Sądu Administracyjnego lub zgłoszone przez członków Zgromadzenia Ogólnego Sędziów Naczelnego Sądu Administracyjnego. Zgromadzenie Ogólne Sędziów Naczelnego Sądu Administracyjnego wspólnie z przedstawicielami zgromadzeń ogólnych wybiera, spośród kandydatów zgłoszonych przez zgromadzenia ogólne i sędziów Naczelnego Sądu Administracyjnego, dwóch członków Krajowej Rady Sądownictwa. Zgromadzenie Ogólne Sędziów Naczelnego Sądu Administracyjnego zwołuje Prezes Naczelnego Sądu Administracyjnego co najmniej raz w roku. Do podjęcia uchwał Zgromadzenia Ogólnego Sędziów Naczelnego Sądu Administracyjnego wymagana jest obecność co najmniej połowy liczby jego członków. Uchwały zapadają bezwzględną większością głosów."
+      "content": "Zgromadzenie Ogólne Sędziów Naczelnego Sądu Administracyjnego tworzą sędziowie Naczelnego Sądu Administracyjnego. Przewodniczącym Zgromadzenia Ogólnego jest Prezes Naczelnego Sądu Administracyjnego. Zgromadzenie Ogólne Sędziów Naczelnego Sądu Administracyjnego: rozpatruje informację Prezesa Naczelnego Sądu Administracyjnego o rocznej działalności Naczelnego Sądu Administracyjnego; (uchylony) wybiera kandydatów na stanowisko Prezesa Naczelnego Sądu Administracyjnego; wyraża zgodę w sprawie powołania i odwołania wiceprezesów Naczelnego Sądu Administracyjnego; ustala skład liczbowy Kolegium Naczelnego Sądu Administracyjnego oraz wybiera jego członków i dokonuje zmian w jego składzie; rozpatruje i opiniuje inne sprawy przedłożone przez Prezesa Naczelnego Sądu Administracyjnego lub zgłoszone przez członków Zgromadzenia Ogólnego Sędziów Naczelnego Sądu Administracyjnego. (uchylony) Zgromadzenie Ogólne Sędziów Naczelnego Sądu Administracyjnego zwołuje Prezes Naczelnego Sądu Administracyjnego co najmniej raz w roku. Do podjęcia uchwał Zgromadzenia Ogólnego Sędziów Naczelnego Sądu Administracyjnego wymagana jest obecność co najmniej połowy liczby jego członków. Uchwały zapadają bezwzględną większością głosów."
     },
     {
       "provision_ref": "art46par1",
@@ -829,31 +1231,31 @@
       "provision_ref": "art46par2p1",
       "section": "46",
       "title": "Art. 46 § 2 pkt 1",
-      "content": "Zgromadzenie Ogólne Sędziów Naczelnego Sądu Administracyjnego: rozpatruje informację Prezesa Naczelnego Sądu Administracyjnego o rocznej działalności Naczelnego Sądu Administracyjnego,"
+      "content": "Zgromadzenie Ogólne Sędziów Naczelnego Sądu Administracyjnego: rozpatruje informację Prezesa Naczelnego Sądu Administracyjnego o rocznej działalności Naczelnego Sądu Administracyjnego;"
     },
     {
       "provision_ref": "art46par2p2",
       "section": "46",
       "title": "Art. 46 § 2 pkt 2",
-      "content": "Zgromadzenie Ogólne Sędziów Naczelnego Sądu Administracyjnego: przedstawia Krajowej Radzie Sądownictwa kandydatów na stanowiska sędziów,"
+      "content": "Zgromadzenie Ogólne Sędziów Naczelnego Sądu Administracyjnego: (uchylony)"
     },
     {
       "provision_ref": "art46par2p3",
       "section": "46",
       "title": "Art. 46 § 2 pkt 3",
-      "content": "Zgromadzenie Ogólne Sędziów Naczelnego Sądu Administracyjnego: wybiera kandydatów na stanowisko Prezesa Naczelnego Sądu Administracyjnego,"
+      "content": "Zgromadzenie Ogólne Sędziów Naczelnego Sądu Administracyjnego: wybiera kandydatów na stanowisko Prezesa Naczelnego Sądu Administracyjnego;"
     },
     {
       "provision_ref": "art46par2p4",
       "section": "46",
       "title": "Art. 46 § 2 pkt 4",
-      "content": "Zgromadzenie Ogólne Sędziów Naczelnego Sądu Administracyjnego: wyraża zgodę w sprawie powołania i odwołania wiceprezesów Naczelnego Sądu Administracyjnego,"
+      "content": "Zgromadzenie Ogólne Sędziów Naczelnego Sądu Administracyjnego: wyraża zgodę w sprawie powołania i odwołania wiceprezesów Naczelnego Sądu Administracyjnego;"
     },
     {
       "provision_ref": "art46par2p5",
       "section": "46",
       "title": "Art. 46 § 2 pkt 5",
-      "content": "Zgromadzenie Ogólne Sędziów Naczelnego Sądu Administracyjnego: ustala skład liczbowy Kolegium Naczelnego Sądu Administracyjnego oraz wybiera jego członków i dokonuje zmian w jego składzie,"
+      "content": "Zgromadzenie Ogólne Sędziów Naczelnego Sądu Administracyjnego: ustala skład liczbowy Kolegium Naczelnego Sądu Administracyjnego oraz wybiera jego członków i dokonuje zmian w jego składzie;"
     },
     {
       "provision_ref": "art46par2p6",
@@ -865,7 +1267,7 @@
       "provision_ref": "art46par3",
       "section": "46",
       "title": "Art. 46 § 3",
-      "content": "Zgromadzenie Ogólne Sędziów Naczelnego Sądu Administracyjnego wspólnie z przedstawicielami zgromadzeń ogólnych wybiera, spośród kandydatów zgłoszonych przez zgromadzenia ogólne i sędziów Naczelnego Sądu Administracyjnego, dwóch członków Krajowej Rady Sądownictwa."
+      "content": "(uchylony)"
     },
     {
       "provision_ref": "art46par4",
@@ -883,31 +1285,31 @@
       "provision_ref": "art47",
       "section": "47",
       "title": "Art. 47",
-      "content": "Kolegium Naczelnego Sądu Administracyjnego: ustala podział czynności w Naczelnym Sądzie Administracyjnym i określa szczegółowe zasady przydziału spraw poszczególnym sędziom, przedstawia Zgromadzeniu Ogólnemu Sędziów Naczelnego Sądu Administracyjnego opinię o kandydatach na stanowiska sędziów, wyraża zgodę w sprawie tworzenia i znoszenia wydziałów oraz powołania i odwołania przewodniczących wydziałów, Szefa Kancelarii Prezesa Naczelnego Sądu Administracyjnego i dyrektora Biura Orzecznictwa, rozpatruje sprawy przedstawiane Zgromadzeniu Ogólnemu Sędziów Naczelnego Sądu Administracyjnego, rozpatruje i opiniuje inne sprawy przedłożone przez Prezesa Naczelnego Sądu Administracyjnego lub z własnej inicjatywy. Kadencja Kolegium Naczelnego Sądu Administracyjnego trwa trzy lata. Przewodniczącym Kolegium Naczelnego Sądu Administracyjnego jest Prezes Naczelnego Sądu Administracyjnego. Do podejmowania uchwał przez Kolegium Naczelnego Sądu Administracyjnego stosuje się art. 46 § 5."
+      "content": "Kolegium Naczelnego Sądu Administracyjnego: ustala podział czynności w Naczelnym Sądzie Administracyjnym i określa szczegółowe zasady przydziału spraw poszczególnym sędziom; (uchylony) wyraża zgodę w sprawie tworzenia i znoszenia wydziałów oraz powołania i odwołania przewodniczących wydziałów, Szefa Kancelarii Prezesa Naczelnego Sądu Administracyjnego i dyrektora Biura Orzecznictwa; rozpatruje sprawy przedstawiane Zgromadzeniu Ogólnemu Sędziów Naczelnego Sądu Administracyjnego; rozpatruje i opiniuje inne sprawy przedłożone przez Prezesa Naczelnego Sądu Administracyjnego lub z własnej inicjatywy. Kadencja Kolegium Naczelnego Sądu Administracyjnego trwa trzy lata. Przewodniczącym Kolegium Naczelnego Sądu Administracyjnego jest Prezes Naczelnego Sądu Administracyjnego. Do podejmowania uchwał przez Kolegium Naczelnego Sądu Administracyjnego stosuje się art. 46 § 5."
     },
     {
       "provision_ref": "art47par1p1",
       "section": "47",
       "title": "Art. 47 § 1 pkt 1",
-      "content": "Kolegium Naczelnego Sądu Administracyjnego: ustala podział czynności w Naczelnym Sądzie Administracyjnym i określa szczegółowe zasady przydziału spraw poszczególnym sędziom,"
+      "content": "Kolegium Naczelnego Sądu Administracyjnego: ustala podział czynności w Naczelnym Sądzie Administracyjnym i określa szczegółowe zasady przydziału spraw poszczególnym sędziom;"
     },
     {
       "provision_ref": "art47par1p2",
       "section": "47",
       "title": "Art. 47 § 1 pkt 2",
-      "content": "Kolegium Naczelnego Sądu Administracyjnego: przedstawia Zgromadzeniu Ogólnemu Sędziów Naczelnego Sądu Administracyjnego opinię o kandydatach na stanowiska sędziów,"
+      "content": "Kolegium Naczelnego Sądu Administracyjnego: (uchylony)"
     },
     {
       "provision_ref": "art47par1p3",
       "section": "47",
       "title": "Art. 47 § 1 pkt 3",
-      "content": "Kolegium Naczelnego Sądu Administracyjnego: wyraża zgodę w sprawie tworzenia i znoszenia wydziałów oraz powołania i odwołania przewodniczących wydziałów, Szefa Kancelarii Prezesa Naczelnego Sądu Administracyjnego i dyrektora Biura Orzecznictwa,"
+      "content": "Kolegium Naczelnego Sądu Administracyjnego: wyraża zgodę w sprawie tworzenia i znoszenia wydziałów oraz powołania i odwołania przewodniczących wydziałów, Szefa Kancelarii Prezesa Naczelnego Sądu Administracyjnego i dyrektora Biura Orzecznictwa;"
     },
     {
       "provision_ref": "art47par1p4",
       "section": "47",
       "title": "Art. 47 § 1 pkt 4",
-      "content": "Kolegium Naczelnego Sądu Administracyjnego: rozpatruje sprawy przedstawiane Zgromadzeniu Ogólnemu Sędziów Naczelnego Sądu Administracyjnego,"
+      "content": "Kolegium Naczelnego Sądu Administracyjnego: rozpatruje sprawy przedstawiane Zgromadzeniu Ogólnemu Sędziów Naczelnego Sądu Administracyjnego;"
     },
     {
       "provision_ref": "art47par1p5",
@@ -937,19 +1339,19 @@
       "provision_ref": "art48",
       "section": "48",
       "title": "Art. 48",
-      "content": "Naczelny Sąd Administracyjny rozpoznaje sprawy dyscyplinarne sędziów sądów administracyjnych: w pierwszej instancji - w składzie trzech sędziów, w drugiej instancji - w składzie siedmiu sędziów. Do orzekania w sprawach dyscyplinarnych uprawnieni są wszyscy sędziowie Naczelnego Sądu Administracyjnego z wyjątkiem Prezesa Naczelnego Sądu Administracyjnego, wiceprezesów Naczelnego Sądu Administracyjnego oraz Rzecznika Dyscyplinarnego Naczelnego Sądu Administracyjnego i jego zastępcy. Skład sądu dyscyplinarnego wyznacza Kolegium Naczelnego Sądu Administracyjnego w drodze losowania, z listy sędziów Naczelnego Sądu Administracyjnego. Składowi orzekającemu przewodniczy sędzia najstarszy służbą na stanowisku sędziego Naczelnego Sądu Administracyjnego. Rzecznika Dyscyplinarnego Naczelnego Sądu Administracyjnego i jego zastępcę wybiera Kolegium Naczelnego Sądu Administracyjnego na okres czterech lat."
+      "content": "Naczelny Sąd Administracyjny rozpoznaje sprawy dyscyplinarne sędziów sądów administracyjnych i asesorów sądowych: w pierwszej instancji - w składzie trzech sędziów; w drugiej instancji - w składzie siedmiu sędziów. Do orzekania w sprawach dyscyplinarnych uprawnieni są wszyscy sędziowie Naczelnego Sądu Administracyjnego z wyjątkiem Prezesa Naczelnego Sądu Administracyjnego, wiceprezesów Naczelnego Sądu Administracyjnego oraz Rzecznika Dyscyplinarnego Naczelnego Sądu Administracyjnego i jego zastępcy. Skład sądu dyscyplinarnego wyznacza Kolegium Naczelnego Sądu Administracyjnego w drodze losowania, z listy sędziów Naczelnego Sądu Administracyjnego. Składowi orzekającemu przewodniczy sędzia najstarszy służbą na stanowisku sędziego Naczelnego Sądu Administracyjnego. Rzecznika Dyscyplinarnego Naczelnego Sądu Administracyjnego i jego zastępcę wybiera Kolegium Naczelnego Sądu Administracyjnego na okres czterech lat. Prezydent Rzeczypospolitej Polskiej może wyznaczyć z grona sędziów sądów administracyjnych Nadzwyczajnego Rzecznika Dyscyplinarnego do prowadzenia określonej sprawy dyscyplinarnej sędziego sądu administracyjnego lub asesora sądowego. Wyznaczenie Nadzwyczajnego Rzecznika Dyscyplinarnego jest równoznaczne z żądaniem podjęcia czynności wyjaśniających. Nadzwyczajny Rzecznik Dyscyplinarny może wszcząć postępowanie dyscyplinarne albo wstąpić do toczącego się postępowania. Wyznaczenie Nadzwyczajnego Rzecznika Dyscyplinarnego wyłącza Rzecznika Dyscyplinarnego Naczelnego Sądu Administracyjnego lub jego zastępcę od podejmowania czynności w sprawie. W uzasadnionych przypadkach, w szczególności śmierci lub przedłużającej się przeszkody w pełnieniu funkcji Nadzwyczajnego Rzecznika Dyscyplinarnego, Prezydent Rzeczypospolitej Polskiej wyznacza w miejsce tej osoby innego sędziego sądu administracyjnego. Do czynności podejmowanych przez Nadzwyczajnego Rzecznika Dyscyplinarnego stosuje się odpowiednio przepisy dotyczące czynności podejmowanych przez Rzecznika Dyscyplinarnego Naczelnego Sądu Administracyjnego lub jego zastępcę. Funkcja Nadzwyczajnego Rzecznika Dyscyplinarnego wygasa z chwilą uprawomocnienia się orzeczenia o odmowie wszczęcia postępowania dyscyplinarnego, umorzeniu postępowania dyscyplinarnego albo uprawomocnieniu się orzeczenia kończącego postępowanie dyscyplinarne. Nie stanowi przewinienia dyscyplinarnego: okoliczność, że orzeczenie sądowe wydane z udziałem danego sędziego obarczone jest błędem w zakresie wykładni i stosowania przepisów prawa krajowego lub prawa Unii Europejskiej lub w zakresie ustalenia stanu faktycznego lub oceny dowodów; wystąpienie do Trybunału Sprawiedliwości Unii Europejskiej z wnioskiem o rozpatrzenie pytania prejudycjalnego, o którym mowa w art. 267 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. U. z 2004 r. poz. 864, z późn. zm.); badanie spełniania wymogów niezawisłości i bezstronności w przypadku, o którym mowa w art. 5a § 1."
     },
     {
       "provision_ref": "art48par1p1",
       "section": "48",
       "title": "Art. 48 § 1 pkt 1",
-      "content": "Naczelny Sąd Administracyjny rozpoznaje sprawy dyscyplinarne sędziów sądów administracyjnych: w pierwszej instancji - w składzie trzech sędziów,"
+      "content": "Naczelny Sąd Administracyjny rozpoznaje sprawy dyscyplinarne sędziów sądów administracyjnych i asesorów sądowych: w pierwszej instancji - w składzie trzech sędziów;"
     },
     {
       "provision_ref": "art48par1p2",
       "section": "48",
       "title": "Art. 48 § 1 pkt 2",
-      "content": "Naczelny Sąd Administracyjny rozpoznaje sprawy dyscyplinarne sędziów sądów administracyjnych: w drugiej instancji - w składzie siedmiu sędziów."
+      "content": "Naczelny Sąd Administracyjny rozpoznaje sprawy dyscyplinarne sędziów sądów administracyjnych i asesorów sądowych: w drugiej instancji - w składzie siedmiu sędziów."
     },
     {
       "provision_ref": "art48par2",
@@ -970,26 +1372,82 @@
       "content": "Rzecznika Dyscyplinarnego Naczelnego Sądu Administracyjnego i jego zastępcę wybiera Kolegium Naczelnego Sądu Administracyjnego na okres czterech lat."
     },
     {
+      "provision_ref": "art48par5",
+      "section": "48",
+      "title": "Art. 48 § 5",
+      "content": "Prezydent Rzeczypospolitej Polskiej może wyznaczyć z grona sędziów sądów administracyjnych Nadzwyczajnego Rzecznika Dyscyplinarnego do prowadzenia określonej sprawy dyscyplinarnej sędziego sądu administracyjnego lub asesora sądowego. Wyznaczenie Nadzwyczajnego Rzecznika Dyscyplinarnego jest równoznaczne z żądaniem podjęcia czynności wyjaśniających. Nadzwyczajny Rzecznik Dyscyplinarny może wszcząć postępowanie dyscyplinarne albo wstąpić do toczącego się postępowania. Wyznaczenie Nadzwyczajnego Rzecznika Dyscyplinarnego wyłącza Rzecznika Dyscyplinarnego Naczelnego Sądu Administracyjnego lub jego zastępcę od podejmowania czynności w sprawie. W uzasadnionych przypadkach, w szczególności śmierci lub przedłużającej się przeszkody w pełnieniu funkcji Nadzwyczajnego Rzecznika Dyscyplinarnego, Prezydent Rzeczypospolitej Polskiej wyznacza w miejsce tej osoby innego sędziego sądu administracyjnego. Do czynności podejmowanych przez Nadzwyczajnego Rzecznika Dyscyplinarnego stosuje się odpowiednio przepisy dotyczące czynności podejmowanych przez Rzecznika Dyscyplinarnego Naczelnego Sądu Administracyjnego lub jego zastępcę. Funkcja Nadzwyczajnego Rzecznika Dyscyplinarnego wygasa z chwilą uprawomocnienia się orzeczenia o odmowie wszczęcia postępowania dyscyplinarnego, umorzeniu postępowania dyscyplinarnego albo uprawomocnieniu się orzeczenia kończącego postępowanie dyscyplinarne."
+    },
+    {
+      "provision_ref": "art48par6p1",
+      "section": "48",
+      "title": "Art. 48 § 6 pkt 1",
+      "content": "Nie stanowi przewinienia dyscyplinarnego: okoliczność, że orzeczenie sądowe wydane z udziałem danego sędziego obarczone jest błędem w zakresie wykładni i stosowania przepisów prawa krajowego lub prawa Unii Europejskiej lub w zakresie ustalenia stanu faktycznego lub oceny dowodów;"
+    },
+    {
+      "provision_ref": "art48par6p2",
+      "section": "48",
+      "title": "Art. 48 § 6 pkt 2",
+      "content": "Nie stanowi przewinienia dyscyplinarnego: wystąpienie do Trybunału Sprawiedliwości Unii Europejskiej z wnioskiem o rozpatrzenie pytania prejudycjalnego, o którym mowa w art. 267 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. U. z 2004 r. poz. 864, z późn. zm.);"
+    },
+    {
+      "provision_ref": "art48par6p3",
+      "section": "48",
+      "title": "Art. 48 § 6 pkt 3",
+      "content": "Nie stanowi przewinienia dyscyplinarnego: badanie spełniania wymogów niezawisłości i bezstronności w przypadku, o którym mowa w art. 5a § 1."
+    },
+    {
       "provision_ref": "art49",
       "section": "49",
       "title": "Art. 49",
-      "content": "W sprawach nieuregulowanych w ustawie, do Naczelnego Sądu Administracyjnego oraz do sędziów, urzędników i pracowników tego Sądu, stosuje się odpowiednio przepisy dotyczące Sądu Najwyższego. Określone w tych przepisach uprawnienia Pierwszego Prezesa Sądu Najwyższego przysługują Prezesowi Naczelnego Sądu Administracyjnego."
+      "content": "W sprawach nieuregulowanych w ustawie, do Naczelnego Sądu Administracyjnego oraz do sędziów, urzędników i pracowników tego Sądu, stosuje się odpowiednio przepisy dotyczące Sądu Najwyższego, a w zakresie w nich nieuregulowanym - przepisy ustawy z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych . Określone w tych przepisach uprawnienia Pierwszego Prezesa Sądu Najwyższego przysługują Prezesowi Naczelnego Sądu Administracyjnego. Do zgłaszania kandydatur na wolne stanowisko sędziego przewidziane do objęcia w Naczelnym Sądzie Administracyjnym stosuje się odpowiednio art. 31 ustawy z dnia 8 grudnia 2017 r. o Sądzie Najwyższym ."
+    },
+    {
+      "provision_ref": "art49par1",
+      "section": "49",
+      "title": "Art. 49 § 1",
+      "content": "W sprawach nieuregulowanych w ustawie, do Naczelnego Sądu Administracyjnego oraz do sędziów, urzędników i pracowników tego Sądu, stosuje się odpowiednio przepisy dotyczące Sądu Najwyższego, a w zakresie w nich nieuregulowanym - przepisy ustawy z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych . Określone w tych przepisach uprawnienia Pierwszego Prezesa Sądu Najwyższego przysługują Prezesowi Naczelnego Sądu Administracyjnego."
+    },
+    {
+      "provision_ref": "art49par2",
+      "section": "49",
+      "title": "Art. 49 § 2",
+      "content": "Do zgłaszania kandydatur na wolne stanowisko sędziego przewidziane do objęcia w Naczelnym Sądzie Administracyjnym stosuje się odpowiednio art. 31 ustawy z dnia 8 grudnia 2017 r. o Sądzie Najwyższym ."
     },
     {
       "provision_ref": "art50",
       "section": "50",
       "title": "Art. 50",
-      "content": "Ustawa wchodzi w życie w terminie i na zasadach określonych ustawą z dnia 30 sierpnia 2002 r. - Przepisy wprowadzające ustawę - Prawo ustroju sądów administracyjnych i ustawę - Prawo o postępowaniu przed sądami administracyjnymi ."
+      "content": "Ustawa wchodzi w życie w terminie 3) Ustawa weszła w życie z dniem 1 stycznia 2004 r. na podstawie art. 1 ustawy z dnia 30 sierpnia 2002 r. - Przepisy wprowadzające ustawę - Prawo o ustroju sądów administracyjnych i ustawę - Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. poz. 1271), która weszła w życie z dniem 1 stycznia 2004 r. i na zasadach określonych ustawą z dnia 30 sierpnia 2002 r. - Przepisy wprowadzające ustawę - Prawo o ustroju sądów administracyjnych i ustawę - Prawo o postępowaniu przed sądami administracyjnymi ) ."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2001-1070",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2001-1787",
+      "target_document_id": "pl-du-2022-2492",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1615",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2024-935",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2024-334",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2024-622",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-577",
       "ref_type": "references"
     },
     {

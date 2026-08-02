@@ -10,6 +10,30 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/1936/283",
   "provisions": [
     {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "Ustawa wchodzi w życie z dniem 1 września 1998 r."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 6, który wchodzi w życie z dniem ogłoszenia."
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "Art. 56",
+      "content": "Do odsetek należnych za okres kończący się przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe."
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "Art. 57",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2016 r., z wyjątkiem art. 50, art. 51 i art. 54, które wchodzą w życie z dniem następującym po dniu ogłoszenia."
+    },
+    {
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
@@ -235,7 +259,7 @@
       "provision_ref": "art29",
       "section": "29",
       "title": "Art. 29",
-      "content": "Czek, wystawiony i płatny w tym samym kraju, powinien być przedstawiony do zapłaty w ciągu dni dziesięciu. Czek wystawiony w innym kraju niż ten, w którym jest płatny, powinien być przedstawiony w ciągu bądź to dwudziestu, bądź to siedemdziesięciu dni, zależnie od tego, czy miejsce wystawienia i miejsce płatności znajdują się w tej samej, czy w różnych częściach świata. W tym względzie czeki, wystawione w jednym z krajów europejskich, a płatne w kraju, położonym nad Morzem Śródziemnem, i naodwrót, uważa się za wystawione i płatne w tej samej części świata. Dniem początkowym oznaczonych wyżej terminów jest dzień, wskazany w czeku, jako data wystawienia."
+      "content": "Czek, wystawiony i płatny w tym samym kraju, powinien być przedstawiony do zapłaty w ciągu dni dziesięciu. Czek, wystawiony w innym kraju niż ten, w którym jest płatny, powinien być przedstawiony w ciągu bądź to dwudziestu, bądź to siedemdziesięciu dni, zależnie od tego, czy miejsce wystawienia i miejsce płatności znajdują się w tej samej, czy w różnych częściach świata. W tym względzie czeki, wystawione w jednym z krajów europejskich, a płatne w kraju, położonym nad Morzem Śródziemnem, i naodwrót, uważa się za wystawione i płatne w tej samej części świata. Dniem początkowym oznaczonych wyżej terminów jest dzień, wskazany w czeku, jako data wystawienia."
     },
     {
       "provision_ref": "art30",
@@ -349,7 +373,7 @@
       "provision_ref": "art45",
       "section": "45",
       "title": "Art. 45",
-      "content": "Posiadacz czeku może żądać od zobowiązanego zwrotnie: niezapłaconej sumy czekowej; odsetek w wysokości sześć od sta, a przy czekach, wystawionych i płatnych w Polsce, odsetek ustawowych od dnia przedstawienia; kosztów protestu lub równoznacznego stwierdzenia, dokonanych zawiadomień, tudzież innych kosztów; prowizji komisowej, która w braku umowy wynosi jedną szóstą od sta od sumy czekowej i nie może przekroczyć tej stopy."
+      "content": "Posiadacz czeku może żądać od zobowiązanego zwrotnie: niezapłaconej sumy czekowej; odsetek w wysokości sześć od sta, a przy czekach, wystawionych i płatnych w Polsce, odsetek ustawowych za opóźnienie od dnia przedstawienia; kosztów protestu lub równoznacznego stwierdzenia, dokonanych zawiadomień, tudzież innych kosztów; prowizji komisowej, która w braku umowy wynosi jedną szóstą od sta od sumy czekowej i nie może przekroczyć tej stopy."
     },
     {
       "provision_ref": "art45p1",
@@ -358,10 +382,10 @@
       "content": "Posiadacz czeku może żądać od zobowiązanego zwrotnie: niezapłaconej sumy czekowej;"
     },
     {
-      "provision_ref": "art45p2",
+      "provision_ref": "art45p1",
       "section": "45",
-      "title": "Art. 45 pkt 2",
-      "content": "Posiadacz czeku może żądać od zobowiązanego zwrotnie: odsetek w wysokości sześć od sta, a przy czekach, wystawionych i płatnych w Polsce, odsetek ustawowych od dnia przedstawienia;"
+      "title": "Art. 45 pkt 1",
+      "content": "Posiadacz czeku może żądać od zobowiązanego zwrotnie: odsetek w wysokości sześć od sta, a przy czekach, wystawionych i płatnych w Polsce, odsetek ustawowych za opóźnienie od dnia przedstawienia;"
     },
     {
       "provision_ref": "art45p3",
@@ -379,7 +403,7 @@
       "provision_ref": "art46",
       "section": "46",
       "title": "Art. 46",
-      "content": "Kto czek wykupił, może żądać od swoich poprzedników: całkowitej sumy zapłaconej; odsetek w wysokości sześć od sta, a przy czekach, wystawionych i płatnych w Polsce, odsetek ustawowych od powyższej sumy, licząc od dnia wykupienia czeku; własnych kosztów; prowizji komisowej od sumy czekowej, obliczonej według art. 45 pkt 4)."
+      "content": "Kto czek wykupił, może żądać od swoich poprzedników: całkowitej sumy zapłaconej; odsetek w wysokości sześć od sta, a przy czekach, wystawionych i płatnych w Polsce, odsetek ustawowych za opóźnienie od powyższej sumy, licząc od dnia wykupienia czeku; własnych kosztów; prowizji komisowej od sumy czekowej, obliczonej według art. 45 pkt 4)."
     },
     {
       "provision_ref": "art46p1",
@@ -391,7 +415,7 @@
       "provision_ref": "art46p2",
       "section": "46",
       "title": "Art. 46 pkt 2",
-      "content": "Kto czek wykupił, może żądać od swoich poprzedników: odsetek w wysokości sześć od sta, a przy czekach, wystawionych i płatnych w Polsce, odsetek ustawowych od powyższej sumy, licząc od dnia wykupienia czeku;"
+      "content": "Kto czek wykupił, może żądać od swoich poprzedników: odsetek w wysokości sześć od sta, a przy czekach, wystawionych i płatnych w Polsce, odsetek ustawowych za opóźnienie od powyższej sumy, licząc od dnia wykupienia czeku;"
     },
     {
       "provision_ref": "art46p3",
@@ -505,7 +529,7 @@
       "provision_ref": "art61",
       "section": "61",
       "title": "Art. 61",
-      "content": "Kto wystawia czek, nie mając u trasata potrzebnego funduszu do rozporządzenia, lub po wystawieniu czeku rozporządza pokryciem, jeżeli skutkiem tego zapłata czeku nie nastąpiła, podlega karze więzienia do 2 lat i grzywny lub aresztu do 2 lat i grzywny. Jeżeli sprawca działa nieumyślnie, podlega karze aresztu do 3 miesięcy lub grzywny do 5.000 złotych."
+      "content": "Kto wystawia czek, nie mając u trasata potrzebnego funduszu do rozporządzenia, lub po wystawieniu czeku rozporządza pokryciem, jeżeli skutkiem tego zapłata czeku nie nastąpiła, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2. Jeżeli sprawca działa nieumyślnie, podlega grzywnie albo karze ograniczenia wolności."
     },
     {
       "provision_ref": "art62",
@@ -601,7 +625,7 @@
       "provision_ref": "art68",
       "section": "68",
       "title": "Art. 68",
-      "content": "Formę i terminy protestu, tudzież formę innych czynności, potrzebnych do wykonania lub do zachowania praw czekowych, ocenia się podług ustaw kraju, w którym protest ma być dokonany lub czynność przedsięwzięta."
+      "content": "Formę i terminy protestu, tudzież formę innych czynności, potrzebnych do wykonania lub do zachowania praw czekowych , ocenia się podług ustaw kraju, w którym protest ma być dokonany lub czynność przedsięwzięta."
     },
     {
       "provision_ref": "art69",
@@ -649,13 +673,13 @@
       "provision_ref": "art71",
       "section": "71",
       "title": "Art. 71",
-      "content": "Przedstawienia czeku, wezwania do wydania egzemplarza, tudzież wszystkich innych czynności zachowawczych należy - w braku odmiennego wskazania w czeku - dokonać w lokalu przedsiębiorstwa. W innem miejscu, np. „na giełdzie”, można tych czynności dokonać jedynie za zgodą stron interesowanych. Notariusz obowiązany jest dokonać poszukiwania lokalu przedsiębiorstwa i odpowiada za szkodę, spowodowaną brakiem należytej staranności. Jednakże zaniedbanie lub niedokładność poszukiwań nigdy nie mogą stanowić przyczyny nieważności protestu."
+      "content": "Przedstawienia czeku, wezwania do wydania egzemplarza, tudzież wszystkich innych czynności zachowawczych należy - w braku odmiennego wskazania w czeku - dokonać w lokalu przedsiębiorstwa. W innym miejscu, np. „na giełdzie”, można tych czynności dokonać jedynie za zgodą stron interesowanych. Notarjusz obowiązany jest dokonać poszukiwania lokalu przedsiębiorstwa i odpowiada za szkodę, spowodowaną brakiem należytej staranności. Jednakże zaniedbanie lub niedokładność poszukiwań nigdy nie mogą stanowić przyczyny nieważności protestu."
     },
     {
       "provision_ref": "art72",
       "section": "72",
       "title": "Art. 72",
-      "content": "Protest należy napisać na odwrotnej stronie czeku albo na osobnej karcie, połączonej z czekiem. Jeżeli na odwrotnej stronie niema żadnych oświadczeń, należy pisanie protestu zacząć od brzegu, w przeciwnym zaś razie bezpośrednio po ostatniem oświadczeniu. Jeżeli protest ma być napisany w całości lub w części na osobnej karcie dodatkowej, należy tę kartę połączyć z czekiem w ten sposób, aby nie było wolnych miejsc na odwrotnej stronie czeku; połączenie czeku z kartą dodatkową powinno być przypieczętowane pieczęcią urzędową lub przepisane treścią aktu protestowego."
+      "content": "Protest należy napisać na odwrotnej stronie czeku albo na osobnej karcie, połączonej z czekiem. Jeżeli na odwrotnej stronie niema żadnych oświadczeń, należy pisanie protestu zacząć od brzegu, w przeciwnym zaś razie bezpośrednio po ostatnim oświadczeniu. Jeżeli protest ma być napisany w całości lub w części na osobnej karcie dodatkowej, należy tę kartę połączyć z czekiem w ten sposób, aby nie było wolnych miejsc na odwrotnej stronie czeku; połączenie czeku z kartą dodatkową powinno być przypieczętowane pieczęcią urzędową lub przepisane treścią aktu protestowego."
     },
     {
       "provision_ref": "art73",
@@ -673,7 +697,7 @@
       "provision_ref": "art75",
       "section": "75",
       "title": "Art. 75",
-      "content": "Jeżeli notariusz nie zastanie osoby, do której wezwanie ma być skierowane, w lokalu jej przedsiębiorstwa, powinien zostawić tam zawiadomienie o dokonaniu protestu, zawierające nazwisko i miejsce zamieszkania posiadacza czeku, nazwisko wystawcy, sumę czekową oraz nazwisko i lokal urzędowy notarjusza."
+      "content": "Jeżeli notarjusz nie zastanie osoby, do której wezwanie ma być skierowane, w lokalu jej przedsiębiorstwa, powinien zostawić tam zawiadomienie o dokonaniu protestu, zawierające nazwisko i miejsce zamieszkania posiadacza czeku, nazwisko wystawcy, sumę czekową oraz nazwisko i lokal urzędowy notarjusza."
     },
     {
       "provision_ref": "art76",
@@ -691,7 +715,7 @@
       "provision_ref": "art78",
       "section": "78",
       "title": "Art. 78",
-      "content": "Ten, komu czek zaginął, może żądać od sądu grodzkiego miejsca płatności czeku uznania go za umorzony. We wniosku należy podać istotną treść czeku oraz uprawdopodobnić jego utratę, jak również interes prawny, który uzasadnia żądanie umorzenia. Sąd przez ogłoszenie w Monitorze Polskim wezwie posiadacza zaginionego czeku do zgłoszenia się w ciągu sześćdziesięciu dni i do okazania czeku sądowi. Termin ten biegnie od dnia ogłoszenia. Końcowy dzień terminu powinien być oznaczony w ogłoszeniu według daty kalendarza. Jeżeli w ciągu terminu, oznaczonego w wezwaniu, nikt nie zgłosi się z czekiem, sąd wyda orzeczenie, uznające czek za umorzony. Jeżeli natomiast posiadacz czeku zgłosi się przed wydaniem orzeczenia, sąd umorzy dalsze postępowanie po przesłuchaniu interesowanych i po okazaniu czeku żądającemu umorzenia. Zarówno o wszczęciu postępowania, jako też o jego wyniku sąd zawiadomi trasata i wszystkich dłużników czekowych, wskazanych przez żądającego umorzenia czeku."
+      "content": "Ten, komu czek zaginął, może żądać od sądu rejonowego 4) Ze zmianą wprowadzoną przez art. 3 pkt 1 ustawy z dnia 10 marca 2006 r. o zmianie ustawy o wydawaniu Monitora Sądowego i Gospodarczego oraz o zmianie niektórych innych ustaw (Dz. U. poz. 501), która weszła w życie z dniem 13 maja 2006 r. miejsca płatności czeku uznania go za umorzony. We wniosku należy podać istotną treść czeku oraz uprawdopodobnić jego utratę, jak również interes prawny, który uzasadnia żądanie umorzenia. Sąd przez ogłoszenie w Monitorze Sądowym i Gospodarczym 5) Ze zmianą wprowadzoną przez art. 3 pkt 2 ustawy, o której mowa w odnośniku 4. wezwie posiadacza zaginionego czeku do zgłoszenia się w ciągu sześćdziesięciu dni i do okazania czeku sądowi. Termin ten biegnie od dnia ogłoszenia. Końcowy dzień terminu powinien być oznaczony w ogłoszeniu według daty kalendarza. Jeżeli w ciągu terminu, oznaczonego w wezwaniu, nikt nie zgłosi się z czekiem, sąd wyda orzeczenie, uznające czek za umorzony. Jeżeli natomiast posiadacz czeku zgłosi się przed wydaniem orzeczenia, sąd umorzy dalsze postępowanie po przesłuchaniu interesowanych i po okazaniu czeku żądającemu umorzenia. Zarówno o wszczęciu postępowania, jako też o jego wyniku sąd zawiadomi trasata i wszystkich dłużników czekowych, wskazanych przez żądającego umorzenia czeku."
     },
     {
       "provision_ref": "art79",
@@ -721,7 +745,7 @@
       "provision_ref": "art83",
       "section": "83",
       "title": "Art. 83",
-      "content": "Ilekroć przepisy prawne powołują się na dotychczasowe prawo czekowe, stosuje się odpowiednio przepisy prawa niniejszego."
+      "content": "Ilekroć przepisy prawne powołują się na dotychczasowe prawo czekowe , stosuje się odpowiednio przepisy prawa niniejszego."
     },
     {
       "provision_ref": "art84",
@@ -756,6 +780,26 @@
   ],
   "definitions": [],
   "references": [
+    {
+      "target_document_id": "pl-du-2016-296",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1997-554",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-1997-1083",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2006-501",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2015-1830",
+      "ref_type": "references"
+    },
     {
       "target_document_id": "pl-du-1924-927",
       "ref_type": "references"

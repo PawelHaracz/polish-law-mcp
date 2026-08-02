@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/1997/687",
   "provisions": [
     {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
@@ -61,7 +67,7 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "Przychodami Spółki są wpływy z opłat za serwisy informacyjne przekazywane odbiorcom oraz wpływy pochodzące z innych źródeł. Spółka może prowadzić inną działalność gospodarczą, jeżeli nie pozostaje ona w sprzeczności z zadaniami określonymi w ustawie. Do dnia udostępnienia akcji osobom trzecim przychodami Spółki są także dotacje z budżetu państwa."
+      "content": "Przychodami Spółki są wpływy z opłat za serwisy informacyjne przekazywane odbiorcom oraz wpływy pochodzące z innych źródeł. Spółka może prowadzić inną działalność gospodarczą, jeżeli nie pozostaje ona w sprzeczności z zadaniami określonymi w ustawie. Przychodami Spółki są także dotacje podmiotowe z budżetu państwa na dofinansowanie działalności bieżącej Spółki, związanej z realizacją celów, o których mowa w art. 1. Spółka składa do ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego wniosek o udzielenie dotacji, wskazując szczegółowo zadania służące realizacji celów, o których mowa w art. 1, kwotę dotacji, o jaką wnosi Spółka, oraz szczegółowe uzasadnienie. Dotacja nie może przewyższać różnicy pomiędzy koniecznymi, rzeczywistymi kosztami poniesionymi przez Spółkę na realizację celów, o których mowa w art. 1, a przychodami z tego tytułu. Spółka jest obowiązana do: prowadzenia odrębnej ewidencji dla działalności związanej z realizacją celów określonych w art. 1 oraz dla pozostałej działalności gospodarczej, w tym do prawidłowego przypisywania przychodów i kosztów na podstawie konsekwentnie stosowanych i mających obiektywne uzasadnienie metod oraz jasnego określenia w dokumentacji, o której mowa w art. 10 ustawy z dnia 29 września 1994 r. o rachunkowości , zasad prowadzenia odrębnej ewidencji oraz metod przypisywania kosztów i przychodów, o których mowa w pkt 1, oraz składania sprawozdań kwartalnych i rocznych z realizacji zadań objętych dotacją i wykorzystania dotacji. Spółka przedstawia ministrowi właściwemu do spraw kultury i ochrony dziedzictwa narodowego rozliczenie z otrzymanej dotacji. Sprawozdania, o których mowa w ust. 6 pkt 3, i rozliczenie, o którym mowa w ust. 7, udostępnia się także Radzie Mediów Narodowych. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowy tryb przyznawania i rozliczania dotacji, uwzględniając w szczególności rzeczywiste koszty ponoszone przez Spółkę na cele określone w art. 1 i zakres danych, które powinny być zawarte we wniosku o udzielenie dotacji."
     },
     {
       "provision_ref": "art4u1",
@@ -79,91 +85,145 @@
       "provision_ref": "art4u3",
       "section": "4",
       "title": "Art. 4 ust. 3",
-      "content": "Do dnia udostępnienia akcji osobom trzecim przychodami Spółki są także dotacje z budżetu państwa."
+      "content": "Przychodami Spółki są także dotacje podmiotowe z budżetu państwa na dofinansowanie działalności bieżącej Spółki, związanej z realizacją celów, o których mowa w art. 1."
+    },
+    {
+      "provision_ref": "art4u4",
+      "section": "4",
+      "title": "Art. 4 ust. 4",
+      "content": "Spółka składa do ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego wniosek o udzielenie dotacji, wskazując szczegółowo zadania służące realizacji celów, o których mowa w art. 1, kwotę dotacji, o jaką wnosi Spółka, oraz szczegółowe uzasadnienie."
+    },
+    {
+      "provision_ref": "art4u5",
+      "section": "4",
+      "title": "Art. 4 ust. 5",
+      "content": "Dotacja nie może przewyższać różnicy pomiędzy koniecznymi, rzeczywistymi kosztami poniesionymi przez Spółkę na realizację celów, o których mowa w art. 1, a przychodami z tego tytułu."
+    },
+    {
+      "provision_ref": "art4u6p1",
+      "section": "4",
+      "title": "Art. 4 ust. 6 pkt 1",
+      "content": "Spółka jest obowiązana do: prowadzenia odrębnej ewidencji dla działalności związanej z realizacją celów określonych w art. 1 oraz dla pozostałej działalności gospodarczej, w tym do prawidłowego przypisywania przychodów i kosztów na podstawie konsekwentnie stosowanych i mających obiektywne uzasadnienie metod oraz"
+    },
+    {
+      "provision_ref": "art4u6p2",
+      "section": "4",
+      "title": "Art. 4 ust. 6 pkt 2",
+      "content": "Spółka jest obowiązana do: jasnego określenia w dokumentacji, o której mowa w art. 10 ustawy z dnia 29 września 1994 r. o rachunkowości , zasad prowadzenia odrębnej ewidencji oraz metod przypisywania kosztów i przychodów, o których mowa w pkt 1, oraz"
+    },
+    {
+      "provision_ref": "art4u6p3",
+      "section": "4",
+      "title": "Art. 4 ust. 6 pkt 3",
+      "content": "Spółka jest obowiązana do: składania sprawozdań kwartalnych i rocznych z realizacji zadań objętych dotacją i wykorzystania dotacji."
+    },
+    {
+      "provision_ref": "art4u7",
+      "section": "4",
+      "title": "Art. 4 ust. 7",
+      "content": "Spółka przedstawia ministrowi właściwemu do spraw kultury i ochrony dziedzictwa narodowego rozliczenie z otrzymanej dotacji."
+    },
+    {
+      "provision_ref": "art4u7a",
+      "section": "4",
+      "title": "Art. 4 ust. 7a",
+      "content": "Sprawozdania, o których mowa w ust. 6 pkt 3, i rozliczenie, o którym mowa w ust. 7, udostępnia się także Radzie Mediów Narodowych."
+    },
+    {
+      "provision_ref": "art4u8",
+      "section": "4",
+      "title": "Art. 4 ust. 8",
+      "content": "Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowy tryb przyznawania i rozliczania dotacji, uwzględniając w szczególności rzeczywiste koszty ponoszone przez Spółkę na cele określone w art. 1 i zakres danych, które powinny być zawarte we wniosku o udzielenie dotacji."
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Art. 5",
-      "content": "Do Spółki stosuje się przepisy Kodeksu handlowego , chyba że ustawa stanowi inaczej."
+      "content": "Do Spółki stosuje się przepisy ustawy z dnia 15 września 2000 r. - Kodeks spółek handlowych , chyba że ustawa stanowi inaczej."
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Art. 6",
-      "content": "Minister Skarbu Państwa ustala, w imieniu Skarbu Państwa, treść statutu Spółki. Statut Spółki określa część kapitału własnego tworzącego kapitał akcyjny oraz część kapitału własnego tworzącego kapitał zapasowy. Do Spółki nie stosuje się art. 312 i 313 Kodeksu handlowego . Czynności podejmowane w związku z utworzeniem Spółki są wolne od opłat sądowych i skarbowych. Do opłat za czynności notarialne związane z utworzeniem Spółki stosuje się odpowiednio przepisy o przekształcaniu przedsiębiorstwa państwowego w spółkę."
+      "content": "Zmiana statutu Spółki następuje na wniosek lub za zgodą Rady Mediów Narodowych. Statut Spółki określa część kapitału własnego tworzącego kapitał zakładowy oraz część kapitału własnego tworzącego kapitał zapasowy."
     },
     {
       "provision_ref": "art6u1",
       "section": "6",
       "title": "Art. 6 ust. 1",
-      "content": "Minister Skarbu Państwa ustala, w imieniu Skarbu Państwa, treść statutu Spółki."
+      "content": "Zmiana statutu Spółki następuje na wniosek lub za zgodą Rady Mediów Narodowych."
     },
     {
       "provision_ref": "art6u2",
       "section": "6",
       "title": "Art. 6 ust. 2",
-      "content": "Statut Spółki określa część kapitału własnego tworzącego kapitał akcyjny oraz część kapitału własnego tworzącego kapitał zapasowy."
-    },
-    {
-      "provision_ref": "art6u3",
-      "section": "6",
-      "title": "Art. 6 ust. 3",
-      "content": "Do Spółki nie stosuje się art. 312 i 313 Kodeksu handlowego ."
-    },
-    {
-      "provision_ref": "art6u4",
-      "section": "6",
-      "title": "Art. 6 ust. 4",
-      "content": "Czynności podejmowane w związku z utworzeniem Spółki są wolne od opłat sądowych i skarbowych. Do opłat za czynności notarialne związane z utworzeniem Spółki stosuje się odpowiednio przepisy o przekształcaniu przedsiębiorstwa państwowego w spółkę."
+      "content": "Statut Spółki określa część kapitału własnego tworzącego kapitał zakładowy oraz część kapitału własnego tworzącego kapitał zapasowy."
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Art. 7",
-      "content": "Do czasu udostępnienia akcji osobom trzecim Spółka pozostaje jednoosobową spółką Skarbu Państwa. Udostępnienie akcji Skarbu Państwa nie może nastąpić przed upływem 2 lat od dnia wejścia w życie ustawy. Przed udostępnieniem akcji Minister Skarbu Państwa zarządzi przeprowadzenie analizy ekonomiczno-finansowej i prawnej Spółki, stosując odpowiednio przepis art. 32 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji przedsiębiorstw państwowych . Akcje Spółki są imienne. W Walnym Zgromadzeniu Minister Skarbu Państwa reprezentuje Skarb Państwa i wykonuje wszelkie prawa z akcji Spółki w taki sposób, aby nie zagrażało to zdolności Spółki do wykonywania zadań określonych w art. 1. Osobom trzecim nie można udostępnić więcej niż 49% akcji, które nie mogą dawać więcej niż 49% głosów na Walnym Zgromadzeniu. Rada Ministrów określi, w drodze rozporządzenia, termin przeprowadzenia prywatyzacji i szczegółowe zasady udostępnienia akcji osobom trzecim."
+      "content": "Skarb Państwa zachowuje wszystkie akcje w Spółce. (uchylony) (uchylony) Na Walnym Zgromadzeniu wszelkie prawa z akcji Spółki są wykonywane w taki sposób, aby nie zagrażało to zdolności Spółki do wykonywania zadań określonych w art. 1. W Walnym Zgromadzeniu mają prawo uczestniczyć także członkowie Rady Mediów Narodowych. (uchylony) W przypadku przeniesienia całego majątku spółki powstałej w wyniku komercjalizacji, zwanej dalej „spółką przejmowaną”, na Spółkę osoby uprawnione do nieodpłatnego nabycia od Skarbu Państwa udziałów albo akcji spółki przejmowanej, w miejsce prawa do nieodpłatnego nabycia udziałów albo akcji spółki przejmowanej, mogą skorzystać z prawa do nieodpłatnego nabycia akcji objętych przez Skarb Państwa w wyniku przejęcia. Do nieodpłatnego nabycia akcji, o którym mowa w ust. 7, stosuje się odpowiednio przepisy działu IV ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników . Osobą uprawnioną do nieodpłatnego nabycia akcji, o którym mowa w ust. 7, jest pracownik spółki przejmowanej, który spełnia warunki określone w art. 2 pkt 5 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników i złożył oświadczenie o zamiarze nabycia akcji na podstawie art. 38 ust. 1 tej ustawy, albo jego spadkobierca, który złożył oświadczenie na podstawie art. 38c ust. 2 albo 3 tej ustawy."
     },
     {
       "provision_ref": "art7u1",
       "section": "7",
       "title": "Art. 7 ust. 1",
-      "content": "Do czasu udostępnienia akcji osobom trzecim Spółka pozostaje jednoosobową spółką Skarbu Państwa. Udostępnienie akcji Skarbu Państwa nie może nastąpić przed upływem 2 lat od dnia wejścia w życie ustawy."
+      "content": "Skarb Państwa zachowuje wszystkie akcje w Spółce."
     },
     {
       "provision_ref": "art7u2",
       "section": "7",
       "title": "Art. 7 ust. 2",
-      "content": "Przed udostępnieniem akcji Minister Skarbu Państwa zarządzi przeprowadzenie analizy ekonomiczno-finansowej i prawnej Spółki, stosując odpowiednio przepis art. 32 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji przedsiębiorstw państwowych ."
+      "content": "(uchylony)"
     },
     {
       "provision_ref": "art7u3",
       "section": "7",
       "title": "Art. 7 ust. 3",
-      "content": "Akcje Spółki są imienne."
+      "content": "(uchylony)"
     },
     {
       "provision_ref": "art7u4",
       "section": "7",
       "title": "Art. 7 ust. 4",
-      "content": "W Walnym Zgromadzeniu Minister Skarbu Państwa reprezentuje Skarb Państwa i wykonuje wszelkie prawa z akcji Spółki w taki sposób, aby nie zagrażało to zdolności Spółki do wykonywania zadań określonych w art. 1."
+      "content": "Na Walnym Zgromadzeniu wszelkie prawa z akcji Spółki są wykonywane w taki sposób, aby nie zagrażało to zdolności Spółki do wykonywania zadań określonych w art. 1."
     },
     {
       "provision_ref": "art7u5",
       "section": "7",
       "title": "Art. 7 ust. 5",
-      "content": "Osobom trzecim nie można udostępnić więcej niż 49% akcji, które nie mogą dawać więcej niż 49% głosów na Walnym Zgromadzeniu."
+      "content": "W Walnym Zgromadzeniu mają prawo uczestniczyć także członkowie Rady Mediów Narodowych."
     },
     {
       "provision_ref": "art7u6",
       "section": "7",
       "title": "Art. 7 ust. 6",
-      "content": "Rada Ministrów określi, w drodze rozporządzenia, termin przeprowadzenia prywatyzacji i szczegółowe zasady udostępnienia akcji osobom trzecim."
+      "content": "(uchylony)"
+    },
+    {
+      "provision_ref": "art7u7",
+      "section": "7",
+      "title": "Art. 7 ust. 7",
+      "content": "W przypadku przeniesienia całego majątku spółki powstałej w wyniku komercjalizacji, zwanej dalej „spółką przejmowaną”, na Spółkę osoby uprawnione do nieodpłatnego nabycia od Skarbu Państwa udziałów albo akcji spółki przejmowanej, w miejsce prawa do nieodpłatnego nabycia udziałów albo akcji spółki przejmowanej, mogą skorzystać z prawa do nieodpłatnego nabycia akcji objętych przez Skarb Państwa w wyniku przejęcia."
+    },
+    {
+      "provision_ref": "art7u8",
+      "section": "7",
+      "title": "Art. 7 ust. 8",
+      "content": "Do nieodpłatnego nabycia akcji, o którym mowa w ust. 7, stosuje się odpowiednio przepisy działu IV ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników ."
+    },
+    {
+      "provision_ref": "art7u9",
+      "section": "7",
+      "title": "Art. 7 ust. 9",
+      "content": "Osobą uprawnioną do nieodpłatnego nabycia akcji, o którym mowa w ust. 7, jest pracownik spółki przejmowanej, który spełnia warunki określone w art. 2 pkt 5 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników i złożył oświadczenie o zamiarze nabycia akcji na podstawie art. 38 ust. 1 tej ustawy, albo jego spadkobierca, który złożył oświadczenie na podstawie art. 38c ust. 2 albo 3 tej ustawy."
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Art. 8",
-      "content": "Zarząd Spółki liczy od 1 do 3 członków. Członków Zarządu, w tym Prezesa Zarządu, powołuje i odwołuje Rada Nadzorcza większością głosów oddanych w obecności co najmniej 2/3 jej członków. W przypadku udostępnienia akcji Spółki osobom trzecim, Rada Nadzorcza może dokonać zmian w składzie Zarządu przed upływem jego kadencji."
+      "content": "Zarząd Spółki liczy od 1 do 3 członków. Członków Zarządu, w tym Prezesa Zarządu, powołuje i odwołuje Rada Mediów Narodowych. (uchylony)"
     },
     {
       "provision_ref": "art8u1",
@@ -175,25 +235,31 @@
       "provision_ref": "art8u2",
       "section": "8",
       "title": "Art. 8 ust. 2",
-      "content": "Członków Zarządu, w tym Prezesa Zarządu, powołuje i odwołuje Rada Nadzorcza większością głosów oddanych w obecności co najmniej 2/3 jej członków."
+      "content": "Członków Zarządu, w tym Prezesa Zarządu, powołuje i odwołuje Rada Mediów Narodowych."
     },
     {
       "provision_ref": "art8u3",
       "section": "8",
       "title": "Art. 8 ust. 3",
-      "content": "W przypadku udostępnienia akcji Spółki osobom trzecim, Rada Nadzorcza może dokonać zmian w składzie Zarządu przed upływem jego kadencji."
+      "content": "(uchylony)"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Art. 9",
-      "content": "Rada Nadzorcza, powoływana przez Walne Zgromadzenie, liczy od 5 do 7 członków. Rada Nadzorcza wybiera ze swojego grona Przewodniczącego Rady. W przypadku udostępnienia akcji Spółki osobom trzecim, Walne Zgromadzenie może dokonać zmian w składzie Rady Nadzorczej przed upływem jej kadencji."
+      "content": "Rada Nadzorcza, powoływana przez Radę Mediów Narodowych, liczy 3 członków. (uchylony) Rada Nadzorcza wybiera ze swojego grona Przewodniczącego Rady. (uchylony)"
     },
     {
       "provision_ref": "art9u1",
       "section": "9",
       "title": "Art. 9 ust. 1",
-      "content": "Rada Nadzorcza, powoływana przez Walne Zgromadzenie, liczy od 5 do 7 członków."
+      "content": "Rada Nadzorcza, powoływana przez Radę Mediów Narodowych, liczy 3 członków."
+    },
+    {
+      "provision_ref": "art9u1a",
+      "section": "9",
+      "title": "Art. 9 ust. 1a",
+      "content": "(uchylony)"
     },
     {
       "provision_ref": "art9u2",
@@ -205,25 +271,25 @@
       "provision_ref": "art9u3",
       "section": "9",
       "title": "Art. 9 ust. 3",
-      "content": "W przypadku udostępnienia akcji Spółki osobom trzecim, Walne Zgromadzenie może dokonać zmian w składzie Rady Nadzorczej przed upływem jej kadencji."
+      "content": "(uchylony)"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Art. 10",
-      "content": "W Spółce działa Rada Programowa Polskiej Agencji Prasowej S.A. jako jej organ opiniodawczo-doradczy. Rada Programowa Polskiej Agencji Prasowej S.A., na wniosek władz Spółki lub z własnej inicjatywy, zajmuje stanowiska oraz wyraża opinie w sprawach realizacji zadań przez Spółkę i jej władze. Stanowiska i opinie, o których mowa w ust. 2, są przedmiotem obrad Zarządu Spółki. Szczegółowe zasady powoływania i odwoływania członków Rady Programowej Polskiej Agencji Prasowej S.A., liczbę jej członków oraz sposób i tryb realizacji zadań, o których mowa w ust. 2, określa statut Spółki."
+      "content": "W Spółce działa Rada Programowa Polskiej Agencji Prasowej S.A. jako jej organ opiniodawczo-doradczy. Członków Rady Programowej powołuje i odwołuje Rada Mediów Narodowych. Rada Programowa Polskiej Agencji Prasowej S.A., na wniosek organów Spółki lub z własnej inicjatywy, zajmuje stanowiska oraz wyraża opinie w sprawach realizacji zadań przez Spółkę i jej organy. Stanowiska i opinie, o których mowa w ust. 2, są przedmiotem obrad Zarządu Spółki. Szczegółowe zasady powoływania i odwoływania członków Rady Programowej Polskiej Agencji Prasowej S.A., liczbę jej członków oraz sposób i tryb realizacji zadań, o których mowa w ust. 2, określa statut Spółki."
     },
     {
       "provision_ref": "art10u1",
       "section": "10",
       "title": "Art. 10 ust. 1",
-      "content": "W Spółce działa Rada Programowa Polskiej Agencji Prasowej S.A. jako jej organ opiniodawczo-doradczy."
+      "content": "W Spółce działa Rada Programowa Polskiej Agencji Prasowej S.A. jako jej organ opiniodawczo-doradczy. Członków Rady Programowej powołuje i odwołuje Rada Mediów Narodowych."
     },
     {
       "provision_ref": "art10u2",
       "section": "10",
       "title": "Art. 10 ust. 2",
-      "content": "Rada Programowa Polskiej Agencji Prasowej S.A., na wniosek władz Spółki lub z własnej inicjatywy, zajmuje stanowiska oraz wyraża opinie w sprawach realizacji zadań przez Spółkę i jej władze."
+      "content": "Rada Programowa Polskiej Agencji Prasowej S.A., na wniosek organów Spółki lub z własnej inicjatywy, zajmuje stanowiska oraz wyraża opinie w sprawach realizacji zadań przez Spółkę i jej organy."
     },
     {
       "provision_ref": "art10u3",
@@ -271,13 +337,13 @@
       "provision_ref": "art13",
       "section": "13",
       "title": "Art. 13",
-      "content": "Minister Skarbu Państwa wniesie do Spółki wszelkie składniki majątkowe będące w zarządzie Polskiej Agencji Prasowej, utworzonej ustawą z dnia 28 lipca 1983 r. o Polskiej Agencji Prasowej , po zakończeniu jej działalności na podstawie bilansu zamknięcia. Minister Skarbu Państwa przekształci Polską Agencję Prasową w Spółkę w terminie 4 miesięcy od dnia wejścia w życie ustawy."
+      "content": "Minister Skarbu Państwa wniesie do Spółki wszelkie składniki majątkowe będące w zarządzie Polskiej Agencji Prasowej, utworzonej ustawą z dnia 28 lipca 1983 r. o Polskiej Agencji Prasowej , po zakończeniu jej działalności, na podstawie bilansu zamknięcia. Minister Skarbu Państwa przekształci Polską Agencję Prasową w Spółkę w terminie 4 miesięcy od dnia wejścia w życie ustawy."
     },
     {
       "provision_ref": "art13u1",
       "section": "13",
       "title": "Art. 13 ust. 1",
-      "content": "Minister Skarbu Państwa wniesie do Spółki wszelkie składniki majątkowe będące w zarządzie Polskiej Agencji Prasowej, utworzonej ustawą z dnia 28 lipca 1983 r. o Polskiej Agencji Prasowej , po zakończeniu jej działalności na podstawie bilansu zamknięcia."
+      "content": "Minister Skarbu Państwa wniesie do Spółki wszelkie składniki majątkowe będące w zarządzie Polskiej Agencji Prasowej, utworzonej ustawą z dnia 28 lipca 1983 r. o Polskiej Agencji Prasowej , po zakończeniu jej działalności, na podstawie bilansu zamknięcia."
     },
     {
       "provision_ref": "art13u2",
@@ -343,29 +409,37 @@
       "provision_ref": "art17",
       "section": "17",
       "title": "Art. 17",
-      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia 2) Ustawa została ogłoszona w dniu 15 września 1997 r. ."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-1996-561",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1996-775",
+      "target_document_id": "pl-du-2017-643",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1997-184",
+      "target_document_id": "pl-du-2018-2265",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1997-603",
+      "target_document_id": "pl-du-2019-351",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1997-673",
+      "target_document_id": "pl-du-2019-505",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-2170",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-492",
       "ref_type": "references"
     },
     {

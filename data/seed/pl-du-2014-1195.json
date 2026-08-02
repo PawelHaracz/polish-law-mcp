@@ -10,6 +10,30 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2014/1195",
   "provisions": [
     {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "Przepisy ustaw, o których mowa w art. 1, art. 2, art. 3, w brzmieniu nadanym niniejszą ustawą, przepisy art. 383 § 2a, art. 383a, art. 384 § 1, art. 492 § 2a, art. 492a, art. 493 § 1 ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą, oraz przepisy ustawy, o której mowa w art. 6, w brzmieniu nadanym niniejszą ustawą stosuje się do kadencji organów jednostek samorządu terytorialnego następujących po kadencji, w czasie której niniejsza ustawa weszła w życie."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: art. 5 pkt 5 w zakresie § 2, 4, 9 i 11-14, pkt 7, 8, 12, pkt 68 lit. a tiret drugie w zakresie pkt 3b i 3d, pkt 99, 109, 110, 129, 130, 134 i 135, które wchodzą w życie z dniem 1 stycznia 2019 r.; art. 5 pkt 59 oraz pkt 60 lit. a, b i d, które wchodzą w życie z pierwszym dniem kadencji Sejmu następującej po kadencji, w czasie której niniejsza ustawa weszła w życie."
+    },
+    {
+      "provision_ref": "art19p1",
+      "section": "19",
+      "title": "Art. 19 pkt 1",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: art. 5 pkt 5 w zakresie § 2, 4, 9 i 11-14, pkt 7, 8, 12, pkt 68 lit. a tiret drugie w zakresie pkt 3b i 3d, pkt 99, 109, 110, 129, 130, 134 i 135, które wchodzą w życie z dniem 1 stycznia 2019 r.;"
+    },
+    {
+      "provision_ref": "art19p2",
+      "section": "19",
+      "title": "Art. 19 pkt 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: art. 5 pkt 59 oraz pkt 60 lit. a, b i d, które wchodzą w życie z pierwszym dniem kadencji Sejmu następującej po kadencji, w czasie której niniejsza ustawa weszła w życie."
+    },
+    {
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
@@ -61,7 +85,7 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "Petycję składa się w formie pisemnej albo za pomocą środków komunikacji elektronicznej. Petycja powinna zawierać: oznaczenie podmiotu wnoszącego petycję; jeżeli podmiotem wnoszącym petycję jest grupa podmiotów, w petycji należy wskazać oznaczenie każdego z tych podmiotów oraz osobę reprezentującą podmiot wnoszący petycję; wskazanie miejsca zamieszkania albo siedziby podmiotu wnoszącego petycję oraz adresu do korespondencji; jeżeli podmiotem wnoszącym petycję jest grupa podmiotów, w petycji należy wskazać miejsce zamieszkania lub siedzibę każdego z tych podmiotów; oznaczenie adresata petycji; wskazanie przedmiotu petycji. Petycja może zawierać zgodę na ujawnienie na stronie internetowej podmiotu rozpatrującego petycję lub urzędu go obsługującego danych osobowych podmiotu wnoszącego petycję lub podmiotu, o którym mowa w art. 5 ust. 1. Petycja składana w formie pisemnej powinna być podpisana przez podmiot wnoszący petycję, a jeżeli podmiotem wnoszącym petycję nie jest osoba fizyczna lub gdy petycję wnosi grupa podmiotów - przez osobę reprezentującą podmiot wnoszący petycję. Petycja składana za pomocą środków komunikacji elektronicznej może być opatrzona bezpiecznym podpisem elektronicznym weryfikowanym przy pomocy ważnego kwalifikowanego certyfikatu oraz powinna zawierać także adres poczty elektronicznej podmiotu wnoszącego petycję."
+      "content": "Petycję składa się w formie pisemnej albo za pomocą środków komunikacji elektronicznej. Petycja powinna zawierać: oznaczenie podmiotu wnoszącego petycję; jeżeli podmiotem wnoszącym petycję jest grupa podmiotów, w petycji należy wskazać oznaczenie każdego z tych podmiotów oraz osobę reprezentującą podmiot wnoszący petycję; wskazanie miejsca zamieszkania albo siedziby podmiotu wnoszącego petycję oraz adresu do korespondencji; jeżeli podmiotem wnoszącym petycję jest grupa podmiotów, w petycji należy wskazać miejsce zamieszkania lub siedzibę każdego z tych podmiotów; oznaczenie adresata petycji; wskazanie przedmiotu petycji. Petycja może zawierać zgodę na ujawnienie na stronie internetowej podmiotu rozpatrującego petycję lub urzędu go obsługującego danych osobowych podmiotu wnoszącego petycję lub podmiotu, o którym mowa w art. 5 ust. 1. Petycja składana w formie pisemnej powinna być podpisana przez podmiot wnoszący petycję, a jeżeli podmiotem wnoszącym petycję nie jest osoba fizyczna lub gdy petycję wnosi grupa podmiotów - przez osobę reprezentującą podmiot wnoszący petycję. Petycja składana za pomocą środków komunikacji elektronicznej może być opatrzona kwalifikowanym podpisem elektronicznym oraz powinna zawierać także adres poczty elektronicznej podmiotu wnoszącego petycję."
     },
     {
       "provision_ref": "art4u1",
@@ -109,7 +133,7 @@
       "provision_ref": "art4u5",
       "section": "4",
       "title": "Art. 4 ust. 5",
-      "content": "Petycja składana za pomocą środków komunikacji elektronicznej może być opatrzona bezpiecznym podpisem elektronicznym weryfikowanym przy pomocy ważnego kwalifikowanego certyfikatu oraz powinna zawierać także adres poczty elektronicznej podmiotu wnoszącego petycję."
+      "content": "Petycja składana za pomocą środków komunikacji elektronicznej może być opatrzona kwalifikowanym podpisem elektronicznym oraz powinna zawierać także adres poczty elektronicznej podmiotu wnoszącego petycję."
     },
     {
       "provision_ref": "art5",
@@ -193,7 +217,7 @@
       "provision_ref": "art9",
       "section": "9",
       "title": "Art. 9",
-      "content": "Petycja złożona do Sejmu lub Senatu jest rozpatrywana przez te organy, chyba że w Regulaminie Sejmu lub Regulaminie Senatu zostanie wskazany organ wewnętrzny właściwy w tym zakresie. Petycja złożona do organu stanowiącego jednostki samorządu terytorialnego jest rozpatrywana przez ten organ, chyba że w statucie tej jednostki zostanie wskazany organ wewnętrzny tego organu stanowiącego właściwy w tym zakresie."
+      "content": "Petycja złożona do Sejmu lub Senatu jest rozpatrywana przez te organy, chyba że w Regulaminie Sejmu lub Regulaminie Senatu zostanie wskazany organ wewnętrzny właściwy w tym zakresie. Petycja złożona do organu stanowiącego jednostki samorządu terytorialnego jest rozpatrywana przez ten organ."
     },
     {
       "provision_ref": "art9u1",
@@ -205,7 +229,7 @@
       "provision_ref": "art9u2",
       "section": "9",
       "title": "Art. 9 ust. 2",
-      "content": "Petycja złożona do organu stanowiącego jednostki samorządu terytorialnego jest rozpatrywana przez ten organ, chyba że w statucie tej jednostki zostanie wskazany organ wewnętrzny tego organu stanowiącego właściwy w tym zakresie."
+      "content": "Petycja złożona do organu stanowiącego jednostki samorządu terytorialnego jest rozpatrywana przez ten organ."
     },
     {
       "provision_ref": "art10",
@@ -313,41 +337,39 @@
       "provision_ref": "art16",
       "section": "16",
       "title": "Art. 16",
-      "content": "W ustawie z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego art. 221 otrzymuje brzmienie: „ Zagwarantowane każdemu w Konstytucji Rzeczypospolitej Polskiej prawo składania skarg i wniosków do organów państwowych, organów jednostek samorządu terytorialnego, organów samorządowych jednostek organizacyjnych oraz do organizacji i instytucji społecznych realizowane jest na zasadach określonych przepisami niniejszego działu. Skargi i wnioski mogą być składane do organizacji i instytucji społecznych w związku z wykonywanymi przez nie zadaniami zleconymi z zakresu administracji publicznej. Skargi i wnioski można składać w interesie publicznym, własnym lub innej osoby za jej zgodą. ” ."
-    },
-    {
-      "provision_ref": "art16par1",
-      "section": "16",
-      "title": "Art. 16 § 1",
-      "content": "W ustawie z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego art. 221 otrzymuje brzmienie: „ Zagwarantowane każdemu w Konstytucji Rzeczypospolitej Polskiej prawo składania skarg i wniosków do organów państwowych, organów jednostek samorządu terytorialnego, organów samorządowych jednostek organizacyjnych oraz do organizacji i instytucji społecznych realizowane jest na zasadach określonych przepisami niniejszego działu."
-    },
-    {
-      "provision_ref": "art16par2",
-      "section": "16",
-      "title": "Art. 16 § 2",
-      "content": "W ustawie z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego art. 221 otrzymuje brzmienie: „ Skargi i wnioski mogą być składane do organizacji i instytucji społecznych w związku z wykonywanymi przez nie zadaniami zleconymi z zakresu administracji publicznej."
-    },
-    {
-      "provision_ref": "art16par3",
-      "section": "16",
-      "title": "Art. 16 § 3",
-      "content": "W ustawie z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego art. 221 otrzymuje brzmienie: „ Skargi i wnioski można składać w interesie publicznym, własnym lub innej osoby za jej zgodą."
+      "content": "(pominięty)"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Art. 17",
-      "content": "Ustawa wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia."
+      "content": "Ustawa wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia 2) Ustawa została ogłoszona w dniu 5 września 2014 r. ."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2013-267",
+      "target_document_id": "pl-du-2017-1523",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2014-183",
+      "target_document_id": "pl-du-2017-1123",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-130",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2017-1257",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-149",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-650",
       "ref_type": "references"
     }
   ]

@@ -10,16 +10,52 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/1994/593",
   "provisions": [
     {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "W terminie 2 lat od dnia wejścia w życie niniejszej ustawy ministrowie kierujący działami administracji rządowej dokonają, w zakresie swojej właściwości, przeglądu aktów prawnych regulujących postępowania administracyjne w zakresie dwuinstancyjności postępowań i przepisów szczególnych wobec art. 127 § 1 ustawy zmienianej w art. 1. Ministrowie, o których mowa w ust. 1, przedłożą ministrowi właściwemu do spraw gospodarki oraz ministrowi właściwemu do spraw administracji publicznej, w terminie, o którym mowa w ust. 1, zestawienia wraz z uzasadnieniem, obejmujące postępowania administracyjne, w których: zachodzi konieczność zachowania dwuinstancyjności postępowań; zasadne jest odstąpienie od dwuinstancyjności postępowań. Minister właściwy do spraw gospodarki w porozumieniu z ministrem właściwym do spraw administracji publicznej przedłoży Radzie Ministrów, w terminie 6 miesięcy od dnia wykonania obowiązku, o którym mowa w ust. 2, zbiorczy raport dotyczący dwuinstancyjności postępowań administracyjnych."
+    },
+    {
+      "provision_ref": "art15u1",
+      "section": "15",
+      "title": "Art. 15 ust. 1",
+      "content": "W terminie 2 lat od dnia wejścia w życie niniejszej ustawy ministrowie kierujący działami administracji rządowej dokonają, w zakresie swojej właściwości, przeglądu aktów prawnych regulujących postępowania administracyjne w zakresie dwuinstancyjności postępowań i przepisów szczególnych wobec art. 127 § 1 ustawy zmienianej w art. 1."
+    },
+    {
+      "provision_ref": "art15u2p1",
+      "section": "15",
+      "title": "Art. 15 ust. 2 pkt 1",
+      "content": "Ministrowie, o których mowa w ust. 1, przedłożą ministrowi właściwemu do spraw gospodarki oraz ministrowi właściwemu do spraw administracji publicznej, w terminie, o którym mowa w ust. 1, zestawienia wraz z uzasadnieniem, obejmujące postępowania administracyjne, w których: zachodzi konieczność zachowania dwuinstancyjności postępowań;"
+    },
+    {
+      "provision_ref": "art15u2p2",
+      "section": "15",
+      "title": "Art. 15 ust. 2 pkt 2",
+      "content": "Ministrowie, o których mowa w ust. 1, przedłożą ministrowi właściwemu do spraw gospodarki oraz ministrowi właściwemu do spraw administracji publicznej, w terminie, o którym mowa w ust. 1, zestawienia wraz z uzasadnieniem, obejmujące postępowania administracyjne, w których: zasadne jest odstąpienie od dwuinstancyjności postępowań."
+    },
+    {
+      "provision_ref": "art15u3",
+      "section": "15",
+      "title": "Art. 15 ust. 3",
+      "content": "Minister właściwy do spraw gospodarki w porozumieniu z ministrem właściwym do spraw administracji publicznej przedłoży Radzie Ministrów, w terminie 6 miesięcy od dnia wykonania obowiązku, o którym mowa w ust. 2, zbiorczy raport dotyczący dwuinstancyjności postępowań administracyjnych."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "Ustawa wchodzi w życie z dniem 1 czerwca 2017 r."
+    },
+    {
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "Samorządowe kolegia odwoławcze, zwane dalej „kolegiami”, są organami wyższego stopnia, w rozumieniu przepisów Kodeksu postępowania administracyjnego , w indywidualnych sprawach administracyjnych załatwianych przez organy gminy, z wyłączeniem spraw prowadzonych przez gminy w związku z art. 8 ustawy o samorządzie terytorialnym. Na zasadach określonych w odrębnych ustawach kolegia orzekają w innych sprawach niż wymienione w ust. 1."
+      "content": "Samorządowe kolegia odwoławcze, zwane dalej „kolegiami”, są organami wyższego stopnia, w rozumieniu przepisów Kodeksu postępowania administracyjnego i ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa ) , w indywidualnych sprawach z zakresu administracji publicznej należących do właściwości jednostek samorządu terytorialnego, jeżeli przepisy szczególne nie stanowią inaczej. Na zasadach określonych w odrębnych ustawach kolegia orzekają w innych sprawach niż wymienione w ust. 1."
     },
     {
       "provision_ref": "art1u1",
       "section": "1",
       "title": "Art. 1 ust. 1",
-      "content": "Samorządowe kolegia odwoławcze, zwane dalej „kolegiami”, są organami wyższego stopnia, w rozumieniu przepisów Kodeksu postępowania administracyjnego , w indywidualnych sprawach administracyjnych załatwianych przez organy gminy, z wyłączeniem spraw prowadzonych przez gminy w związku z art. 8 ustawy o samorządzie terytorialnym."
+      "content": "Samorządowe kolegia odwoławcze, zwane dalej „kolegiami”, są organami wyższego stopnia, w rozumieniu przepisów Kodeksu postępowania administracyjnego i ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa ) , w indywidualnych sprawach z zakresu administracji publicznej należących do właściwości jednostek samorządu terytorialnego, jeżeli przepisy szczególne nie stanowią inaczej."
     },
     {
       "provision_ref": "art1u2",
@@ -31,7 +67,25 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Art. 2",
-      "content": "W sprawach, o których mowa w art. 1 ust. 1, kolegia są organami właściwymi w szczególności do rozpatrywania odwołań od decyzji, zażaleń na postanowienia, żądań wznowienia postępowania lub stwierdzenia nieważności decyzji oraz skarg i wniosków, w trybie uregulowanym przez przepisy Kodeksu postępowania administracyjnego ."
+      "content": "W sprawach, o których mowa w art. 1 ust. 1, kolegia są organami właściwymi w szczególności do rozpatrywania odwołań od decyzji, zażaleń na postanowienia, ponagleń, żądań wznowienia postępowania lub stwierdzania nieważności decyzji."
+    },
+    {
+      "provision_ref": "art2a",
+      "section": "2a",
+      "title": "Art. 2a",
+      "content": "Obszar właściwości miejscowej kolegium określa, w drodze rozporządzenia, Prezes Rady Ministrów, na wniosek Krajowej Reprezentacji Samorządowych Kolegiów Odwoławczych. Organem wyższego stopnia w stosunku do organów samorządu województwa jest kolegium mające siedzibę w mieście będącym siedzibą władz samorządu województwa."
+    },
+    {
+      "provision_ref": "art2au1",
+      "section": "2a",
+      "title": "Art. 2a ust. 1",
+      "content": "Obszar właściwości miejscowej kolegium określa, w drodze rozporządzenia, Prezes Rady Ministrów, na wniosek Krajowej Reprezentacji Samorządowych Kolegiów Odwoławczych."
+    },
+    {
+      "provision_ref": "art2au2",
+      "section": "2a",
+      "title": "Art. 2a ust. 2",
+      "content": "Organem wyższego stopnia w stosunku do organów samorządu województwa jest kolegium mające siedzibę w mieście będącym siedzibą władz samorządu województwa."
     },
     {
       "provision_ref": "art3",
@@ -40,28 +94,112 @@
       "content": "Kolegia są państwowymi jednostkami budżetowymi."
     },
     {
+      "provision_ref": "art3a",
+      "section": "3a",
+      "title": "Art. 3a",
+      "content": "Nadzór nad działalnością administracyjną kolegiów sprawuje Prezes Rady Ministrów. Prezes Rady Ministrów może powierzyć wykonywanie nadzoru, o którym mowa w ust. 1, ministrowi właściwemu do spraw administracji publicznej. (uchylony) Sprawowanie nadzoru nad działalnością administracyjną kolegiów polega w szczególności na: przeprowadzaniu kontroli organizacji i warunków pracy kolegiów, w tym na badaniu: prawidłowości stosowania przepisów regulaminu organizacyjnego, terminowości załatwiania spraw oraz stanu zaległości, ze szczególnym uwzględnieniem spraw, w których postępowanie administracyjne trwa dłużej niż 6 miesięcy, prowadzenia ksiąg i innych urządzeń ewidencyjnych oraz rzetelności sporządzania informacji o działalności kolegium; analizie rocznych informacji o działalności kolegium; rozpatrywaniu skarg na pozaorzeczniczą działalność kolegiów; badaniu zachowania trybu i wymogów wyłaniania kandydatów na prezesa kolegium; badaniu zachowania trybu i wymogów wyłaniania kandydatów na członków kolegium; badaniu prawidłowości przeprowadzonego postępowania wyjaśniającego w celu ustalenia okoliczności faktycznych i prawnych uzasadniających odwołanie prezesa kolegium; badaniu prawidłowości przeprowadzonego postępowania wyjaśniającego i postępowania dyscyplinarnego w celu ustalenia okoliczności faktycznych i prawnych uzasadniających ukaranie członka kolegium. Organ nadzoru sprawuje nadzór nad kolegiami przy pomocy komórki organizacyjnej właściwej do spraw nadzoru lub właściwej do spraw kontroli."
+    },
+    {
+      "provision_ref": "art3au1",
+      "section": "3a",
+      "title": "Art. 3a ust. 1",
+      "content": "Nadzór nad działalnością administracyjną kolegiów sprawuje Prezes Rady Ministrów."
+    },
+    {
+      "provision_ref": "art3au2",
+      "section": "3a",
+      "title": "Art. 3a ust. 2",
+      "content": "Prezes Rady Ministrów może powierzyć wykonywanie nadzoru, o którym mowa w ust. 1, ministrowi właściwemu do spraw administracji publicznej."
+    },
+    {
+      "provision_ref": "art3au3",
+      "section": "3a",
+      "title": "Art. 3a ust. 3",
+      "content": "(uchylony)"
+    },
+    {
+      "provision_ref": "art3au4p1la",
+      "section": "3a",
+      "title": "Art. 3a ust. 4 pkt 1 lit. a",
+      "content": "Sprawowanie nadzoru nad działalnością administracyjną kolegiów polega w szczególności na: przeprowadzaniu kontroli organizacji i warunków pracy kolegiów, w tym na badaniu: prawidłowości stosowania przepisów regulaminu organizacyjnego,"
+    },
+    {
+      "provision_ref": "art3au4p1lb",
+      "section": "3a",
+      "title": "Art. 3a ust. 4 pkt 1 lit. b",
+      "content": "Sprawowanie nadzoru nad działalnością administracyjną kolegiów polega w szczególności na: przeprowadzaniu kontroli organizacji i warunków pracy kolegiów, w tym na badaniu: terminowości załatwiania spraw oraz stanu zaległości, ze szczególnym uwzględnieniem spraw, w których postępowanie administracyjne trwa dłużej niż 6 miesięcy,"
+    },
+    {
+      "provision_ref": "art3au4p1lc",
+      "section": "3a",
+      "title": "Art. 3a ust. 4 pkt 1 lit. c",
+      "content": "Sprawowanie nadzoru nad działalnością administracyjną kolegiów polega w szczególności na: przeprowadzaniu kontroli organizacji i warunków pracy kolegiów, w tym na badaniu: prowadzenia ksiąg i innych urządzeń ewidencyjnych oraz rzetelności sporządzania informacji o działalności kolegium;"
+    },
+    {
+      "provision_ref": "art3au4p2",
+      "section": "3a",
+      "title": "Art. 3a ust. 4 pkt 2",
+      "content": "Sprawowanie nadzoru nad działalnością administracyjną kolegiów polega w szczególności na: analizie rocznych informacji o działalności kolegium;"
+    },
+    {
+      "provision_ref": "art3au4p3",
+      "section": "3a",
+      "title": "Art. 3a ust. 4 pkt 3",
+      "content": "Sprawowanie nadzoru nad działalnością administracyjną kolegiów polega w szczególności na: rozpatrywaniu skarg na pozaorzeczniczą działalność kolegiów;"
+    },
+    {
+      "provision_ref": "art3au4p4",
+      "section": "3a",
+      "title": "Art. 3a ust. 4 pkt 4",
+      "content": "Sprawowanie nadzoru nad działalnością administracyjną kolegiów polega w szczególności na: badaniu zachowania trybu i wymogów wyłaniania kandydatów na prezesa kolegium;"
+    },
+    {
+      "provision_ref": "art3au4p5",
+      "section": "3a",
+      "title": "Art. 3a ust. 4 pkt 5",
+      "content": "Sprawowanie nadzoru nad działalnością administracyjną kolegiów polega w szczególności na: badaniu zachowania trybu i wymogów wyłaniania kandydatów na członków kolegium;"
+    },
+    {
+      "provision_ref": "art3au4p6",
+      "section": "3a",
+      "title": "Art. 3a ust. 4 pkt 6",
+      "content": "Sprawowanie nadzoru nad działalnością administracyjną kolegiów polega w szczególności na: badaniu prawidłowości przeprowadzonego postępowania wyjaśniającego w celu ustalenia okoliczności faktycznych i prawnych uzasadniających odwołanie prezesa kolegium;"
+    },
+    {
+      "provision_ref": "art3au4p7",
+      "section": "3a",
+      "title": "Art. 3a ust. 4 pkt 7",
+      "content": "Sprawowanie nadzoru nad działalnością administracyjną kolegiów polega w szczególności na: badaniu prawidłowości przeprowadzonego postępowania wyjaśniającego i postępowania dyscyplinarnego w celu ustalenia okoliczności faktycznych i prawnych uzasadniających ukaranie członka kolegium."
+    },
+    {
+      "provision_ref": "art3au5",
+      "section": "3a",
+      "title": "Art. 3a ust. 5",
+      "content": "Organ nadzoru sprawuje nadzór nad kolegiami przy pomocy komórki organizacyjnej właściwej do spraw nadzoru lub właściwej do spraw kontroli."
+    },
+    {
       "provision_ref": "art4",
       "section": "4",
       "title": "Art. 4",
-      "content": "Organami kolegium są: zgromadzenie ogólne kolegium, przewodniczący kolegium. W skład kolegium wchodzą: przewodniczący, zastępca przewodniczącego oraz pozostali członkowie. Członkostwo w kolegium ma charakter etatowy lub pozaetatowy. Liczbę członków kolegium określa sejmik samorządowy na wniosek przewodniczącego kolegium. Prezes Rady Ministrów określi, w drodze rozporządzenia, maksymalną liczbę etatowych członków kolegium, przy uwzględnieniu liczby mieszkańców w województwie."
+      "content": "Organami kolegium są: zgromadzenie ogólne kolegium; prezes kolegium. W skład kolegium wchodzą: prezes, wiceprezes oraz pozostali członkowie. Członkostwo w kolegium ma charakter etatowy lub pozaetatowy. Liczbę członków kolegium określa zgromadzenie ogólne kolegium na wniosek prezesa kolegium. Prezes Rady Ministrów, po zasięgnięciu opinii Krajowej Reprezentacji Samorządowych Kolegiów Odwoławczych, określi, w drodze rozporządzenia, maksymalną liczbę etatowych członków kolegium."
     },
     {
       "provision_ref": "art4u1p1",
       "section": "4",
       "title": "Art. 4 ust. 1 pkt 1",
-      "content": "Organami kolegium są: zgromadzenie ogólne kolegium,"
+      "content": "Organami kolegium są: zgromadzenie ogólne kolegium;"
     },
     {
       "provision_ref": "art4u1p2",
       "section": "4",
       "title": "Art. 4 ust. 1 pkt 2",
-      "content": "Organami kolegium są: przewodniczący kolegium."
+      "content": "Organami kolegium są: prezes kolegium."
     },
     {
       "provision_ref": "art4u2",
       "section": "4",
       "title": "Art. 4 ust. 2",
-      "content": "W skład kolegium wchodzą: przewodniczący, zastępca przewodniczącego oraz pozostali członkowie."
+      "content": "W skład kolegium wchodzą: prezes, wiceprezes oraz pozostali członkowie."
     },
     {
       "provision_ref": "art4u3",
@@ -73,163 +211,199 @@
       "provision_ref": "art4u4",
       "section": "4",
       "title": "Art. 4 ust. 4",
-      "content": "Liczbę członków kolegium określa sejmik samorządowy na wniosek przewodniczącego kolegium."
+      "content": "Liczbę członków kolegium określa zgromadzenie ogólne kolegium na wniosek prezesa kolegium."
     },
     {
       "provision_ref": "art4u5",
       "section": "4",
       "title": "Art. 4 ust. 5",
-      "content": "Prezes Rady Ministrów określi, w drodze rozporządzenia, maksymalną liczbę etatowych członków kolegium, przy uwzględnieniu liczby mieszkańców w województwie."
+      "content": "Prezes Rady Ministrów, po zasięgnięciu opinii Krajowej Reprezentacji Samorządowych Kolegiów Odwoławczych, określi, w drodze rozporządzenia, maksymalną liczbę etatowych członków kolegium."
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Art. 5",
-      "content": "Na funkcję przewodniczącego kolegium może zostać wybrana osoba, która: posiada obywatelstwo polskie i korzysta w pełni z praw publicznych, ukończyła wyższe studia prawnicze lub administracyjne, wykazuje się wysokim poziomem wiedzy prawniczej w zakresie administracji publicznej oraz doświadczeniem zawodowym, nie była skazana prawomocnym wyrokiem sądu, orzeczonym za przestępstwo popełnione z winy umyślnej. Sejmik samorządowy wybiera przewodniczącego kolegium spośród wszystkich zgłoszonych kandydatur, w głosowaniu tajnym, większością głosów, w obecności co najmniej połowy swojego ustawowego składu. Kadencja przewodniczącego kolegium trwa 6 lat. Prezes Rady Ministrów podaje do publicznej wiadomości informacje o trybie i terminie zgłaszania do sejmiku samorządowego kandydatur na funkcję przewodniczącego kolegium. Wybór przewodniczącego kolegium odbywa się w terminie 30 dni, licząc od dnia upływu terminu zgłaszania kandydatur."
+      "content": "Prezes Rady Ministrów na wniosek zgromadzenia ogólnego kolegium powołuje prezesa kolegium spośród dwóch kandydatów będących etatowymi członkami kolegium. Zgromadzenie ogólne kolegium dokonuje wyboru kandydatów na prezesa kolegium w głosowaniu tajnym, bezwzględną większością głosów, w obecności co najmniej 3/5 swojego składu. W przypadku uzyskania wymaganej większości głosów przez więcej niż dwóch kandydatów, wnioskiem zostają objęci dwaj kandydaci, którzy uzyskali kolejno najwyższą liczbę głosów. W przypadku uzyskania wymaganej większości głosów przez jednego kandydata lub nieuzyskania wymaganej większości przez żadnego kandydata, zarządza się ponownie głosowanie w celu wyłonienia odpowiednio jednego lub dwóch kandydatów. Kandydatem lub kandydatami zostają te osoby, które uzyskały kolejno największą liczbę głosów. Kadencja prezesa kolegium trwa 6 lat licząc od dnia powołania. Po upływie kadencji dotychczasowy prezes pełni swoje obowiązki do czasu powołania nowego prezesa kolegium. Zgromadzenie ogólne kolegium w sprawie, o której mowa w ust. 2, zwołuje się w terminie przypadającym w ciągu 30 dni od dnia upływu kadencji prezesa kolegium. O terminie zwołania zgromadzenia prezes lub wiceprezes kolegium zawiadamia przewodniczącego Krajowej Reprezentacji Samorządowych Kolegiów Odwoławczych. Przewodniczący Krajowej Reprezentacji Samorządowych Kolegiów Odwoławczych ogłasza, w siedzibach samorządowych kolegiów odwoławczych, informację o terminie zwołania zgromadzenia ogólnego kolegium w sprawie wyboru kandydatów na prezesa kolegium oraz o przewidzianym w regulaminie organizacyjnym trybie zgłaszania kandydatów na to stanowisko."
     },
     {
-      "provision_ref": "art5u1p1",
+      "provision_ref": "art5u1",
       "section": "5",
-      "title": "Art. 5 ust. 1 pkt 1",
-      "content": "Na funkcję przewodniczącego kolegium może zostać wybrana osoba, która: posiada obywatelstwo polskie i korzysta w pełni z praw publicznych,"
-    },
-    {
-      "provision_ref": "art5u1p2",
-      "section": "5",
-      "title": "Art. 5 ust. 1 pkt 2",
-      "content": "Na funkcję przewodniczącego kolegium może zostać wybrana osoba, która: ukończyła wyższe studia prawnicze lub administracyjne,"
-    },
-    {
-      "provision_ref": "art5u1p3",
-      "section": "5",
-      "title": "Art. 5 ust. 1 pkt 3",
-      "content": "Na funkcję przewodniczącego kolegium może zostać wybrana osoba, która: wykazuje się wysokim poziomem wiedzy prawniczej w zakresie administracji publicznej oraz doświadczeniem zawodowym,"
-    },
-    {
-      "provision_ref": "art5u1p4",
-      "section": "5",
-      "title": "Art. 5 ust. 1 pkt 4",
-      "content": "Na funkcję przewodniczącego kolegium może zostać wybrana osoba, która: nie była skazana prawomocnym wyrokiem sądu, orzeczonym za przestępstwo popełnione z winy umyślnej."
+      "title": "Art. 5 ust. 1",
+      "content": "Prezes Rady Ministrów na wniosek zgromadzenia ogólnego kolegium powołuje prezesa kolegium spośród dwóch kandydatów będących etatowymi członkami kolegium."
     },
     {
       "provision_ref": "art5u2",
       "section": "5",
       "title": "Art. 5 ust. 2",
-      "content": "Sejmik samorządowy wybiera przewodniczącego kolegium spośród wszystkich zgłoszonych kandydatur, w głosowaniu tajnym, większością głosów, w obecności co najmniej połowy swojego ustawowego składu."
+      "content": "Zgromadzenie ogólne kolegium dokonuje wyboru kandydatów na prezesa kolegium w głosowaniu tajnym, bezwzględną większością głosów, w obecności co najmniej 3/5 swojego składu. W przypadku uzyskania wymaganej większości głosów przez więcej niż dwóch kandydatów, wnioskiem zostają objęci dwaj kandydaci, którzy uzyskali kolejno najwyższą liczbę głosów. W przypadku uzyskania wymaganej większości głosów przez jednego kandydata lub nieuzyskania wymaganej większości przez żadnego kandydata, zarządza się ponownie głosowanie w celu wyłonienia odpowiednio jednego lub dwóch kandydatów. Kandydatem lub kandydatami zostają te osoby, które uzyskały kolejno największą liczbę głosów."
     },
     {
       "provision_ref": "art5u3",
       "section": "5",
       "title": "Art. 5 ust. 3",
-      "content": "Kadencja przewodniczącego kolegium trwa 6 lat."
+      "content": "Kadencja prezesa kolegium trwa 6 lat licząc od dnia powołania."
     },
     {
       "provision_ref": "art5u4",
       "section": "5",
       "title": "Art. 5 ust. 4",
-      "content": "Prezes Rady Ministrów podaje do publicznej wiadomości informacje o trybie i terminie zgłaszania do sejmiku samorządowego kandydatur na funkcję przewodniczącego kolegium."
+      "content": "Po upływie kadencji dotychczasowy prezes pełni swoje obowiązki do czasu powołania nowego prezesa kolegium."
     },
     {
       "provision_ref": "art5u5",
       "section": "5",
       "title": "Art. 5 ust. 5",
-      "content": "Wybór przewodniczącego kolegium odbywa się w terminie 30 dni, licząc od dnia upływu terminu zgłaszania kandydatur."
+      "content": "Zgromadzenie ogólne kolegium w sprawie, o której mowa w ust. 2, zwołuje się w terminie przypadającym w ciągu 30 dni od dnia upływu kadencji prezesa kolegium. O terminie zwołania zgromadzenia prezes lub wiceprezes kolegium zawiadamia przewodniczącego Krajowej Reprezentacji Samorządowych Kolegiów Odwoławczych."
+    },
+    {
+      "provision_ref": "art5u6",
+      "section": "5",
+      "title": "Art. 5 ust. 6",
+      "content": "Przewodniczący Krajowej Reprezentacji Samorządowych Kolegiów Odwoławczych ogłasza, w siedzibach samorządowych kolegiów odwoławczych, informację o terminie zwołania zgromadzenia ogólnego kolegium w sprawie wyboru kandydatów na prezesa kolegium oraz o przewidzianym w regulaminie organizacyjnym trybie zgłaszania kandydatów na to stanowisko."
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Art. 6",
-      "content": "Odwołanie z funkcji przewodniczącego kolegium następuje w przypadku: skazania prawomocnym wyrokiem sądu, orzeczonym za przestępstwo popełnione z winy umyślnej, utraty warunków określonych w art. 5 ust. 1 pkt 1, stwierdzenia powtarzającego się uchylania od wykonywania swoich obowiązków lub nienależytego ich wykonywania. Sejmik samorządowy odwołuje przewodniczącego kolegium większością głosów, w głosowaniu tajnym, w obecności co najmniej połowy swojego ustawowego składu. O terminie posiedzenia sejmiku zawiadamia się zainteresowanego. Uchwała sejmiku w tej sprawie jest równoznaczna z odwołaniem z funkcji przewodniczącego kolegium. Odwołanie przewodniczącego kolegium z przyczyn wymienionych w ust. 1 pkt 2 i 3 następuje, w drodze uchwały sejmiku samorządowego, po przeprowadzeniu przez jego prezydium, z udziałem zainteresowanego i po zasięgnięciu opinii zgromadzenia ogólnego kolegium, postępowania wyjaśniającego, w którym zostaną ustalone okoliczności wymienione w tym przepisie. Uchwała sejmiku samorządowego w sprawie, o której mowa w ust. 3, podpisana przez przewodniczącego sejmiku, wraz z uzasadnieniem, doręczana jest zainteresowanemu w terminie 7 dni od dnia jej podjęcia. Zainteresowanemu przysługuje prawo wniesienia skargi do sądu administracyjnego. Wniesienie skargi wstrzymuje wykonanie uchwały. Do postępowania w sprawach tych skarg stosuje się odpowiednio przepisy o zaskarżaniu do sądu administracyjnego decyzji administracyjnych. W przypadku oddalenia skargi przez sąd administracyjny, uchwała sejmiku samorządowego w sprawie określonej w ust. 3 podlega wykonaniu. Oświadczenie przewodniczącego kolegium w sprawie złożenia przez niego rezygnacji z pełnionej funkcji powoduje wygaśnięcie mandatu przewodniczącego. Na jego wniosek, złożony w terminie nie przekraczającym 7 dni od dnia wygaśnięcia mandatu przewodniczącego, nawiązuje się z nim stosunek pracy etatowego członka kolegium - na podstawie powołania."
+      "content": "Odwołanie prezesa kolegium następuje w przypadku: złożenia rezygnacji ze stanowiska; skazania prawomocnym wyrokiem, orzeczonym za przestępstwo popełnione z winy umyślnej; gdy przestał spełniać warunki określone w art. 7 ust. 1 pkt 1. (uchylony) Prezes Rady Ministrów może odwołać prezesa kolegium w przypadku stwierdzenia przez ministra właściwego do spraw administracji publicznej powtarzającego się naruszania prawa podczas wykonywania obowiązków lub uchylania się od ich wykonywania. Prezesa kolegium odwołuje Prezes Rady Ministrów. Odwołanie prezesa kolegium z przyczyny, o której mowa w ust. 1a, następuje na wniosek ministra właściwego do spraw administracji publicznej po przeprowadzeniu, z udziałem zainteresowanego i po zasięgnięciu opinii zgromadzenia ogólnego kolegium, postępowania wyjaśniającego, w którym ustala się występowanie okoliczności wymienionych w tym przepisie. Decyzję o odwołaniu, wraz z uzasadnieniem, doręcza się zainteresowanemu. Na decyzję o odwołaniu zainteresowanemu służy prawo wniesienia skargi do sądu administracyjnego w terminie 14 dni od dnia jej doręczenia. Wniesienie skargi wstrzymuje odwołanie ze stanowiska. Sąd administracyjny wyznacza rozprawę w tej sprawie w terminie przypadającym w ciągu 30 dni od dnia przekazania odpowiedzi na skargę. Do postępowania w sprawach, o których mowa w ust. 4, stosuje się odpowiednio przepisy o zaskarżaniu do sądu decyzji administracyjnych. Przepisów art. 52 ustawy z dnia 30 sierpnia 2002 r. - Prawo o postępowaniu przed sądami administracyjnymi nie stosuje się. W razie prawomocnego odwołania prezesa kolegium, wiceprezes kolegium zwołuje niezwłocznie zgromadzenie ogólne kolegium w sprawie, o której mowa w art. 5 ust. 2. Przepisy art. 5 ust. 5 i 6 stosuje się odpowiednio. Po upływie kadencji prezesa kolegium albo odwołaniu prezesa kolegium w związku ze złożoną rezygnacją jego dotychczasowy stosunek pracy przekształca się - na jego wniosek - w stosunek pracy etatowego członka kolegium, w którym pełnił funkcję albo w którym był zatrudniony przed objęciem stanowiska prezesa. W przypadku gdy przekształcenie stosunku pracy prezesa kolegium powodowałoby przekroczenie liczby członków kolegium, o której mowa w art. 4 ust. 5, albo wynikającej z budżetu państwa liczby etatów kalkulacyjnych i limitu środków na wynagrodzenia, liczby te zwiększa się o jeden, a uzupełnienie środków na wynagrodzenia następuje z rezerwy budżetu państwa przeznaczonej na sfinansowanie nieprzewidzianych zmian organizacyjnych."
     },
     {
       "provision_ref": "art6u1p1",
       "section": "6",
       "title": "Art. 6 ust. 1 pkt 1",
-      "content": "Odwołanie z funkcji przewodniczącego kolegium następuje w przypadku: skazania prawomocnym wyrokiem sądu, orzeczonym za przestępstwo popełnione z winy umyślnej,"
+      "content": "Odwołanie prezesa kolegium następuje w przypadku: złożenia rezygnacji ze stanowiska;"
     },
     {
       "provision_ref": "art6u1p2",
       "section": "6",
       "title": "Art. 6 ust. 1 pkt 2",
-      "content": "Odwołanie z funkcji przewodniczącego kolegium następuje w przypadku: utraty warunków określonych w art. 5 ust. 1 pkt 1,"
+      "content": "Odwołanie prezesa kolegium następuje w przypadku: skazania prawomocnym wyrokiem, orzeczonym za przestępstwo popełnione z winy umyślnej;"
     },
     {
       "provision_ref": "art6u1p3",
       "section": "6",
       "title": "Art. 6 ust. 1 pkt 3",
-      "content": "Odwołanie z funkcji przewodniczącego kolegium następuje w przypadku: stwierdzenia powtarzającego się uchylania od wykonywania swoich obowiązków lub nienależytego ich wykonywania."
+      "content": "Odwołanie prezesa kolegium następuje w przypadku: gdy przestał spełniać warunki określone w art. 7 ust. 1 pkt 1."
+    },
+    {
+      "provision_ref": "art6u1p4",
+      "section": "6",
+      "title": "Art. 6 ust. 1 pkt 4",
+      "content": "Odwołanie prezesa kolegium następuje w przypadku: (uchylony)"
+    },
+    {
+      "provision_ref": "art6u1a",
+      "section": "6",
+      "title": "Art. 6 ust. 1a",
+      "content": "Prezes Rady Ministrów może odwołać prezesa kolegium w przypadku stwierdzenia przez ministra właściwego do spraw administracji publicznej powtarzającego się naruszania prawa podczas wykonywania obowiązków lub uchylania się od ich wykonywania."
     },
     {
       "provision_ref": "art6u2",
       "section": "6",
       "title": "Art. 6 ust. 2",
-      "content": "Sejmik samorządowy odwołuje przewodniczącego kolegium większością głosów, w głosowaniu tajnym, w obecności co najmniej połowy swojego ustawowego składu. O terminie posiedzenia sejmiku zawiadamia się zainteresowanego. Uchwała sejmiku w tej sprawie jest równoznaczna z odwołaniem z funkcji przewodniczącego kolegium."
+      "content": "Prezesa kolegium odwołuje Prezes Rady Ministrów."
     },
     {
       "provision_ref": "art6u3",
       "section": "6",
       "title": "Art. 6 ust. 3",
-      "content": "Odwołanie przewodniczącego kolegium z przyczyn wymienionych w ust. 1 pkt 2 i 3 następuje, w drodze uchwały sejmiku samorządowego, po przeprowadzeniu przez jego prezydium, z udziałem zainteresowanego i po zasięgnięciu opinii zgromadzenia ogólnego kolegium, postępowania wyjaśniającego, w którym zostaną ustalone okoliczności wymienione w tym przepisie."
+      "content": "Odwołanie prezesa kolegium z przyczyny, o której mowa w ust. 1a, następuje na wniosek ministra właściwego do spraw administracji publicznej po przeprowadzeniu, z udziałem zainteresowanego i po zasięgnięciu opinii zgromadzenia ogólnego kolegium, postępowania wyjaśniającego, w którym ustala się występowanie okoliczności wymienionych w tym przepisie."
     },
     {
       "provision_ref": "art6u4",
       "section": "6",
       "title": "Art. 6 ust. 4",
-      "content": "Uchwała sejmiku samorządowego w sprawie, o której mowa w ust. 3, podpisana przez przewodniczącego sejmiku, wraz z uzasadnieniem, doręczana jest zainteresowanemu w terminie 7 dni od dnia jej podjęcia. Zainteresowanemu przysługuje prawo wniesienia skargi do sądu administracyjnego. Wniesienie skargi wstrzymuje wykonanie uchwały. Do postępowania w sprawach tych skarg stosuje się odpowiednio przepisy o zaskarżaniu do sądu administracyjnego decyzji administracyjnych."
+      "content": "Decyzję o odwołaniu, wraz z uzasadnieniem, doręcza się zainteresowanemu. Na decyzję o odwołaniu zainteresowanemu służy prawo wniesienia skargi do sądu administracyjnego w terminie 14 dni od dnia jej doręczenia. Wniesienie skargi wstrzymuje odwołanie ze stanowiska. Sąd administracyjny wyznacza rozprawę w tej sprawie w terminie przypadającym w ciągu 30 dni od dnia przekazania odpowiedzi na skargę."
     },
     {
       "provision_ref": "art6u5",
       "section": "6",
       "title": "Art. 6 ust. 5",
-      "content": "W przypadku oddalenia skargi przez sąd administracyjny, uchwała sejmiku samorządowego w sprawie określonej w ust. 3 podlega wykonaniu."
+      "content": "Do postępowania w sprawach, o których mowa w ust. 4, stosuje się odpowiednio przepisy o zaskarżaniu do sądu decyzji administracyjnych. Przepisów art. 52 ustawy z dnia 30 sierpnia 2002 r. - Prawo o postępowaniu przed sądami administracyjnymi nie stosuje się."
     },
     {
       "provision_ref": "art6u6",
       "section": "6",
       "title": "Art. 6 ust. 6",
-      "content": "Oświadczenie przewodniczącego kolegium w sprawie złożenia przez niego rezygnacji z pełnionej funkcji powoduje wygaśnięcie mandatu przewodniczącego. Na jego wniosek, złożony w terminie nie przekraczającym 7 dni od dnia wygaśnięcia mandatu przewodniczącego, nawiązuje się z nim stosunek pracy etatowego członka kolegium - na podstawie powołania."
+      "content": "W razie prawomocnego odwołania prezesa kolegium, wiceprezes kolegium zwołuje niezwłocznie zgromadzenie ogólne kolegium w sprawie, o której mowa w art. 5 ust. 2. Przepisy art. 5 ust. 5 i 6 stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "art6u7",
+      "section": "6",
+      "title": "Art. 6 ust. 7",
+      "content": "Po upływie kadencji prezesa kolegium albo odwołaniu prezesa kolegium w związku ze złożoną rezygnacją jego dotychczasowy stosunek pracy przekształca się - na jego wniosek - w stosunek pracy etatowego członka kolegium, w którym pełnił funkcję albo w którym był zatrudniony przed objęciem stanowiska prezesa."
+    },
+    {
+      "provision_ref": "art6u8",
+      "section": "6",
+      "title": "Art. 6 ust. 8",
+      "content": "W przypadku gdy przekształcenie stosunku pracy prezesa kolegium powodowałoby przekroczenie liczby członków kolegium, o której mowa w art. 4 ust. 5, albo wynikającej z budżetu państwa liczby etatów kalkulacyjnych i limitu środków na wynagrodzenia, liczby te zwiększa się o jeden, a uzupełnienie środków na wynagrodzenia następuje z rezerwy budżetu państwa przeznaczonej na sfinansowanie nieprzewidzianych zmian organizacyjnych."
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Art. 7",
-      "content": "Etatowym członkiem kolegium może zostać osoba spełniająca wymagania określone w art. 5 ust. 1. Pozaetatowym członkiem kolegium może zostać osoba spełniąca wymagania określone w art. 5 ust. 1 pkt 1, 3 i 4, jeżeli posiada wyższe wykształcenie. Członków kolegium powołuje, w głosowaniu tajnym, sejmik samorządowy większością głosów, w obecności co najmniej połowy swojego ustawowego składu. Kandydatów na członków kolegium przedstawia jego przewodniczący. Powołanie etatowych członków kolegium następuje na czas nie określony. Zastępcę przewodniczącego powołuje sejmik samorządowy spośród członków kolegium, na wniosek przewodniczącego kolegium. Odwołanie zastępcy przewodniczącego oraz pozostałych członków kolegium następuje na wniosek przewodniczącego, z powodów i na zasadach określonych w art. 6. Pozaetatowi członkowie kolegium wybierani są na okres 6 lat, z tym że co 3 lata następuje wybór połowy ich składu."
+      "content": "Etatowym członkiem kolegium może być osoba, która: ma obywatelstwo polskie i korzysta z pełni praw publicznych; ukończyła magisterskie studia prawnicze lub administracyjne; wykazuje się wysokim poziomem wiedzy prawniczej w zakresie administracji publicznej oraz ma doświadczenie zawodowe; nie była skazana prawomocnym wyrokiem, orzeczonym za przestępstwo popełnione z winy umyślnej. Pozaetatowym członkiem kolegium może być osoba spełniająca wymagania określone w ust. 1 pkt 1, 3 i 4, jeżeli ma wyższe wykształcenie. Członka kolegium powołuje Prezes Rady Ministrów, na wniosek prezesa kolegium, zgłoszony po uzyskaniu opinii zgromadzenia ogólnego kolegium, przyjętej w głosowaniu tajnym, większością głosów, w obecności co najmniej połowy jego składu. Kandydatów na członków kolegium przedstawia jego prezes. Powołanie etatowych członków kolegium następuje na czas nieokreślony. Wiceprezesa powołuje, spośród etatowych członków kolegium, i odwołuje Prezes Rady Ministrów na wniosek prezesa kolegium. Odwołanie członka kolegium następuje na wniosek prezesa kolegium w przypadkach określonych w art. 6 ust. 1 pkt 1-3 i w razie prawomocnego orzeczenia kary wykluczenia ze składu kolegium przez właściwą komisję dyscyplinarną. Pozaetatowi członkowie kolegium wybierani są na okres 6 lat, z tym że co 3 lata następuje wybór połowy ich składu. Prezes kolegium oraz etatowi członkowie kolegium nie mogą należeć do partii politycznej ani prowadzić działalności politycznej."
     },
     {
-      "provision_ref": "art7u1",
+      "provision_ref": "art7u1p1",
       "section": "7",
-      "title": "Art. 7 ust. 1",
-      "content": "Etatowym członkiem kolegium może zostać osoba spełniająca wymagania określone w art. 5 ust. 1. Pozaetatowym członkiem kolegium może zostać osoba spełniąca wymagania określone w art. 5 ust. 1 pkt 1, 3 i 4, jeżeli posiada wyższe wykształcenie."
+      "title": "Art. 7 ust. 1 pkt 1",
+      "content": "Etatowym członkiem kolegium może być osoba, która: ma obywatelstwo polskie i korzysta z pełni praw publicznych;"
+    },
+    {
+      "provision_ref": "art7u1p2",
+      "section": "7",
+      "title": "Art. 7 ust. 1 pkt 2",
+      "content": "Etatowym członkiem kolegium może być osoba, która: ukończyła magisterskie studia prawnicze lub administracyjne;"
+    },
+    {
+      "provision_ref": "art7u1p3",
+      "section": "7",
+      "title": "Art. 7 ust. 1 pkt 3",
+      "content": "Etatowym członkiem kolegium może być osoba, która: wykazuje się wysokim poziomem wiedzy prawniczej w zakresie administracji publicznej oraz ma doświadczenie zawodowe;"
+    },
+    {
+      "provision_ref": "art7u1p4",
+      "section": "7",
+      "title": "Art. 7 ust. 1 pkt 4",
+      "content": "Etatowym członkiem kolegium może być osoba, która: nie była skazana prawomocnym wyrokiem, orzeczonym za przestępstwo popełnione z winy umyślnej."
+    },
+    {
+      "provision_ref": "art7u1a",
+      "section": "7",
+      "title": "Art. 7 ust. 1a",
+      "content": "Pozaetatowym członkiem kolegium może być osoba spełniająca wymagania określone w ust. 1 pkt 1, 3 i 4, jeżeli ma wyższe wykształcenie."
     },
     {
       "provision_ref": "art7u2",
       "section": "7",
       "title": "Art. 7 ust. 2",
-      "content": "Członków kolegium powołuje, w głosowaniu tajnym, sejmik samorządowy większością głosów, w obecności co najmniej połowy swojego ustawowego składu."
+      "content": "Członka kolegium powołuje Prezes Rady Ministrów, na wniosek prezesa kolegium, zgłoszony po uzyskaniu opinii zgromadzenia ogólnego kolegium, przyjętej w głosowaniu tajnym, większością głosów, w obecności co najmniej połowy jego składu."
     },
     {
       "provision_ref": "art7u3",
       "section": "7",
       "title": "Art. 7 ust. 3",
-      "content": "Kandydatów na członków kolegium przedstawia jego przewodniczący."
+      "content": "Kandydatów na członków kolegium przedstawia jego prezes."
     },
     {
       "provision_ref": "art7u4",
       "section": "7",
       "title": "Art. 7 ust. 4",
-      "content": "Powołanie etatowych członków kolegium następuje na czas nie określony."
+      "content": "Powołanie etatowych członków kolegium następuje na czas nieokreślony."
     },
     {
       "provision_ref": "art7u5",
       "section": "7",
       "title": "Art. 7 ust. 5",
-      "content": "Zastępcę przewodniczącego powołuje sejmik samorządowy spośród członków kolegium, na wniosek przewodniczącego kolegium."
+      "content": "Wiceprezesa powołuje, spośród etatowych członków kolegium, i odwołuje Prezes Rady Ministrów na wniosek prezesa kolegium."
     },
     {
       "provision_ref": "art7u6",
       "section": "7",
       "title": "Art. 7 ust. 6",
-      "content": "Odwołanie zastępcy przewodniczącego oraz pozostałych członków kolegium następuje na wniosek przewodniczącego, z powodów i na zasadach określonych w art. 6."
+      "content": "Odwołanie członka kolegium następuje na wniosek prezesa kolegium w przypadkach określonych w art. 6 ust. 1 pkt 1-3 i w razie prawomocnego orzeczenia kary wykluczenia ze składu kolegium przez właściwą komisję dyscyplinarną."
     },
     {
       "provision_ref": "art7u7",
@@ -238,28 +412,34 @@
       "content": "Pozaetatowi członkowie kolegium wybierani są na okres 6 lat, z tym że co 3 lata następuje wybór połowy ich składu."
     },
     {
+      "provision_ref": "art7u8",
+      "section": "7",
+      "title": "Art. 7 ust. 8",
+      "content": "Prezes kolegium oraz etatowi członkowie kolegium nie mogą należeć do partii politycznej ani prowadzić działalności politycznej."
+    },
+    {
       "provision_ref": "art8",
       "section": "8",
       "title": "Art. 8",
-      "content": "Kandydatów na członków kolegium wyłania się w drodze konkursu, z zastrzeżeniem art. 5 ust. 2. Konkurs ogłasza przewodniczący kolegium, który przewodniczy pracom komisji konkursowej. W skład komisji konkursowej, oprócz przewodniczącego kolegium, wchodzi dwóch członków delegowanych przez sejmik samorządowy oraz dwóch członków delegowanych przez zgromadzenie ogólne kolegium. W miarę potrzeby, konkurs przeprowadza się również w związku z koniecznością uzupełnienia składu kolegium, w szczególności gdy został on zmniejszony z powodów, o których mowa w art. 6 ust. 1. Nowi pozaetatowi członkowie są wybierani na okres do końca kadencji ustalonej zgodnie z art. 7 ust. 7. Prezes Rady Ministrów określi, w drodze rozporządzenia, tryb przeprowadzania konkursu na członków kolegium."
+      "content": "Kandydatów na członków kolegium wyłania się w drodze konkursu. Konkurs ogłasza prezes kolegium, który przewodniczy pracom komisji konkursowej. W skład komisji konkursowej oprócz prezesa kolegium wchodzi dwóch członków wybranych przez zgromadzenie ogólne kolegium. W miarę potrzeby, konkurs przeprowadza się również w związku z koniecznością uzupełnienia składu kolegium, w szczególności gdy został on zmniejszony z powodów, o których mowa w art. 6 ust. 1. Nowi pozaetatowi członkowie są wybierani na okres do końca kadencji ustalonej zgodnie z art. 7 ust. 7. Prezes Rady Ministrów, po zasięgnięciu opinii Krajowej Reprezentacji Samorządowych Kolegiów Odwoławczych, określi, w drodze rozporządzenia, tryb przeprowadzania konkursu na członków kolegium."
     },
     {
       "provision_ref": "art8u1",
       "section": "8",
       "title": "Art. 8 ust. 1",
-      "content": "Kandydatów na członków kolegium wyłania się w drodze konkursu, z zastrzeżeniem art. 5 ust. 2."
+      "content": "Kandydatów na członków kolegium wyłania się w drodze konkursu."
     },
     {
       "provision_ref": "art8u2",
       "section": "8",
       "title": "Art. 8 ust. 2",
-      "content": "Konkurs ogłasza przewodniczący kolegium, który przewodniczy pracom komisji konkursowej."
+      "content": "Konkurs ogłasza prezes kolegium, który przewodniczy pracom komisji konkursowej."
     },
     {
       "provision_ref": "art8u3",
       "section": "8",
       "title": "Art. 8 ust. 3",
-      "content": "W skład komisji konkursowej, oprócz przewodniczącego kolegium, wchodzi dwóch członków delegowanych przez sejmik samorządowy oraz dwóch członków delegowanych przez zgromadzenie ogólne kolegium."
+      "content": "W skład komisji konkursowej oprócz prezesa kolegium wchodzi dwóch członków wybranych przez zgromadzenie ogólne kolegium."
     },
     {
       "provision_ref": "art8u4",
@@ -271,43 +451,55 @@
       "provision_ref": "art8u5",
       "section": "8",
       "title": "Art. 8 ust. 5",
-      "content": "Prezes Rady Ministrów określi, w drodze rozporządzenia, tryb przeprowadzania konkursu na członków kolegium."
+      "content": "Prezes Rady Ministrów, po zasięgnięciu opinii Krajowej Reprezentacji Samorządowych Kolegiów Odwoławczych, określi, w drodze rozporządzenia, tryb przeprowadzania konkursu na członków kolegium."
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Art. 9",
-      "content": "Członkostwa kolegium nie można łączyć, w tym samym województwie, z: mandatem radnego lub funkcją członka organu wykonawczego samorządu terytorialnego, zatrudnieniem w urzędzie gminy, członkostwem w kolegium regionalnej izby obrachunkowej. Etatowego członkostwa kolegium nie można łączyć również z zatrudnieniem na stanowisku sędziego i prokuratora oraz zatrudnieniem w tym samym województwie w administracji państwowej."
+      "content": "Członkostwa w kolegium nie można łączyć z: mandatem posła lub senatora; mandatem radnego lub członkostwem w organie wykonawczym jednostki samorządu terytorialnego; zatrudnieniem w urzędzie gminy, starostwie lub urzędzie marszałkowskim; członkostwem w kolegium regionalnej izby obrachunkowej. Etatowego członkostwa kolegium nie można łączyć również z zatrudnieniem na stanowisku sędziego, asesora sądowego i prokuratora oraz zatrudnieniem w tym samym województwie w administracji państwowej. Członek kolegium może być, na jego wniosek lub za jego zgodą, przeniesiony do innego kolegium. Przeniesienie następuje na podstawie decyzji prezesa kolegium, do którego członek ten ma być przyjęty, podjętej w porozumieniu z prezesem tego kolegium, którego był członkiem."
     },
     {
       "provision_ref": "art9u1p1",
       "section": "9",
       "title": "Art. 9 ust. 1 pkt 1",
-      "content": "Członkostwa kolegium nie można łączyć, w tym samym województwie, z: mandatem radnego lub funkcją członka organu wykonawczego samorządu terytorialnego,"
+      "content": "Członkostwa w kolegium nie można łączyć z: mandatem posła lub senatora;"
     },
     {
       "provision_ref": "art9u1p2",
       "section": "9",
       "title": "Art. 9 ust. 1 pkt 2",
-      "content": "Członkostwa kolegium nie można łączyć, w tym samym województwie, z: zatrudnieniem w urzędzie gminy,"
+      "content": "Członkostwa w kolegium nie można łączyć z: mandatem radnego lub członkostwem w organie wykonawczym jednostki samorządu terytorialnego;"
     },
     {
       "provision_ref": "art9u1p3",
       "section": "9",
       "title": "Art. 9 ust. 1 pkt 3",
-      "content": "Członkostwa kolegium nie można łączyć, w tym samym województwie, z: członkostwem w kolegium regionalnej izby obrachunkowej."
+      "content": "Członkostwa w kolegium nie można łączyć z: zatrudnieniem w urzędzie gminy, starostwie lub urzędzie marszałkowskim;"
+    },
+    {
+      "provision_ref": "art9u1p4",
+      "section": "9",
+      "title": "Art. 9 ust. 1 pkt 4",
+      "content": "Członkostwa w kolegium nie można łączyć z: członkostwem w kolegium regionalnej izby obrachunkowej."
     },
     {
       "provision_ref": "art9u2",
       "section": "9",
       "title": "Art. 9 ust. 2",
-      "content": "Etatowego członkostwa kolegium nie można łączyć również z zatrudnieniem na stanowisku sędziego i prokuratora oraz zatrudnieniem w tym samym województwie w administracji państwowej."
+      "content": "Etatowego członkostwa kolegium nie można łączyć również z zatrudnieniem na stanowisku sędziego, asesora sądowego i prokuratora oraz zatrudnieniem w tym samym województwie w administracji państwowej."
+    },
+    {
+      "provision_ref": "art9u3",
+      "section": "9",
+      "title": "Art. 9 ust. 3",
+      "content": "Członek kolegium może być, na jego wniosek lub za jego zgodą, przeniesiony do innego kolegium. Przeniesienie następuje na podstawie decyzji prezesa kolegium, do którego członek ten ma być przyjęty, podjętej w porozumieniu z prezesem tego kolegium, którego był członkiem."
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Art. 10",
-      "content": "Członkowie kolegium w zakresie wykonywania czynności określonych ustawą korzystają z ochrony prawnej przysługującej funkcjonariuszom publicznym. Pozaetatowym członkom kolegium, którzy ulegli wypadkowi w czasie wykonywania czynności określonych ustawą, przysługuje: renta inwalidzka - w razie zaliczenia do jednej z grup inwalidów, jednorazowe odszkodowanie - w razie zaliczenia do I lub II grupy inwalidów. Członkom rodziny osób, które zmarły wskutek wypadków przy pracy określonych w ust. 2, przysługuje renta rodzinna oraz jednorazowe odszkodowanie. Świadczenia wymienione w ust. 2 i 3 wypłaca Zakład Ubezpieczeń Społecznych z Funduszu Ubezpieczeń Społecznych."
+      "content": "Członkowie kolegium w zakresie wykonywania czynności określonych ustawą korzystają z ochrony prawnej przysługującej funkcjonariuszom publicznym. Pozaetatowym członkom kolegium, którzy ulegli wypadkowi w czasie wykonywania czynności określonych ustawą, przysługuje: renta inwalidzka 3) Obecnie renta z tytułu niezdolności do pracy, na podstawie art. 10 ust. 3 ustawy z dnia 28 czerwca 1996 r. o zmianie niektórych ustaw o zaopatrzeniu emerytalnym i o ubezpieczeniu społecznym (Dz. U. poz. 461), która weszła w życie z dniem 1 września 1997 r. - w razie zaliczenia do jednej z grup inwalidów 4) Obecnie niezdolność do pracy, na podstawie art. 10 ust. 2 pkt 4 ustawy, o której mowa w odnośniku 3. ; jednorazowe odszkodowanie - w razie zaliczenia do I 5) Obecnie całkowita niezdolność do pracy oraz niezdolność do samodzielnej egzystencji, na podstawie art. 10 ust. 2 pkt 1 ustawy, o której mowa w odnośniku 3. lub II grupy inwalidów 6) Obecnie całkowita niezdolność do pracy, na podstawie art. 10 ust. 2 pkt 2 ustawy, o której mowa w odnośniku 3. . Członkom rodziny osób, które zmarły wskutek wypadków przy pracy określonych w ust. 2, przysługuje renta rodzinna oraz jednorazowe odszkodowanie. Świadczenia wymienione w ust. 2 i 3 wypłaca Zakład Ubezpieczeń Społecznych z Funduszu Ubezpieczeń Społecznych."
     },
     {
       "provision_ref": "art10u1",
@@ -319,13 +511,13 @@
       "provision_ref": "art10u2p1",
       "section": "10",
       "title": "Art. 10 ust. 2 pkt 1",
-      "content": "Pozaetatowym członkom kolegium, którzy ulegli wypadkowi w czasie wykonywania czynności określonych ustawą, przysługuje: renta inwalidzka - w razie zaliczenia do jednej z grup inwalidów,"
+      "content": "Pozaetatowym członkom kolegium, którzy ulegli wypadkowi w czasie wykonywania czynności określonych ustawą, przysługuje: renta inwalidzka 3) Obecnie renta z tytułu niezdolności do pracy, na podstawie art. 10 ust. 3 ustawy z dnia 28 czerwca 1996 r. o zmianie niektórych ustaw o zaopatrzeniu emerytalnym i o ubezpieczeniu społecznym (Dz. U. poz. 461), która weszła w życie z dniem 1 września 1997 r. - w razie zaliczenia do jednej z grup inwalidów 4) Obecnie niezdolność do pracy, na podstawie art. 10 ust. 2 pkt 4 ustawy, o której mowa w odnośniku 3. ;"
     },
     {
       "provision_ref": "art10u2p2",
       "section": "10",
       "title": "Art. 10 ust. 2 pkt 2",
-      "content": "Pozaetatowym członkom kolegium, którzy ulegli wypadkowi w czasie wykonywania czynności określonych ustawą, przysługuje: jednorazowe odszkodowanie - w razie zaliczenia do I lub II grupy inwalidów."
+      "content": "Pozaetatowym członkom kolegium, którzy ulegli wypadkowi w czasie wykonywania czynności określonych ustawą, przysługuje: jednorazowe odszkodowanie - w razie zaliczenia do I 5) Obecnie całkowita niezdolność do pracy oraz niezdolność do samodzielnej egzystencji, na podstawie art. 10 ust. 2 pkt 1 ustawy, o której mowa w odnośniku 3. lub II grupy inwalidów 6) Obecnie całkowita niezdolność do pracy, na podstawie art. 10 ust. 2 pkt 2 ustawy, o której mowa w odnośniku 3. ."
     },
     {
       "provision_ref": "art10u3",
@@ -340,88 +532,118 @@
       "content": "Świadczenia wymienione w ust. 2 i 3 wypłaca Zakład Ubezpieczeń Społecznych z Funduszu Ubezpieczeń Społecznych."
     },
     {
+      "provision_ref": "art10a",
+      "section": "10a",
+      "title": "Art. 10a",
+      "content": "Członkostwo w kolegium ustaje z powodu: śmierci; odwołania; przeniesienia do innego kolegium; trwałej utraty zdolności fizycznej lub psychicznej do pracy na zajmowanym stanowisku, stwierdzonej orzeczeniem lekarza orzecznika Zakładu Ubezpieczeń Społecznych."
+    },
+    {
+      "provision_ref": "art10ap1",
+      "section": "10a",
+      "title": "Art. 10a pkt 1",
+      "content": "Członkostwo w kolegium ustaje z powodu: śmierci;"
+    },
+    {
+      "provision_ref": "art10ap2",
+      "section": "10a",
+      "title": "Art. 10a pkt 2",
+      "content": "Członkostwo w kolegium ustaje z powodu: odwołania;"
+    },
+    {
+      "provision_ref": "art10ap3",
+      "section": "10a",
+      "title": "Art. 10a pkt 3",
+      "content": "Członkostwo w kolegium ustaje z powodu: przeniesienia do innego kolegium;"
+    },
+    {
+      "provision_ref": "art10ap4",
+      "section": "10a",
+      "title": "Art. 10a pkt 4",
+      "content": "Członkostwo w kolegium ustaje z powodu: trwałej utraty zdolności fizycznej lub psychicznej do pracy na zajmowanym stanowisku, stwierdzonej orzeczeniem lekarza orzecznika Zakładu Ubezpieczeń Społecznych."
+    },
+    {
       "provision_ref": "art11",
       "section": "11",
       "title": "Art. 11",
-      "content": "Przewodniczący kolegium kieruje pracami kolegium, a w szczególności: reprezentuje kolegium na zewnątrz, przedkłada zgromadzeniu ogólnemu kolegium, Prezesowi Rady Ministrów oraz właściwemu sejmikowi samorządowemu roczną informację o działalności kolegium, opracowuje projekt regulaminu organizacyjnego kolegium, zgłasza wniosek o ustalenie liczby członków kolegium, ogłasza konkurs na członków kolegium, przewodniczy pracom komisji konkursowej, przedstawia kandydatów na członków kolegium wyłonionych w drodze konkursu, występuje z wnioskiem o powołanie i odwołanie zastępcy przewodniczącego kolegium oraz o odwołanie członka kolegium, czuwa nad jednolitością orzecznictwa oraz sprawnością pracy kolegium, wyznacza przewodniczących składów orzekających. Przewodniczący kolegium wykonuje również czynności przewidziane przepisami prawa dla organów administracji państwowej, nie zastrzeżone dla składu orzekającego."
+      "content": "Prezes kolegium kieruje pracami kolegium, a w szczególności: reprezentuje kolegium na zewnątrz; przedkłada, po przyjęciu przez zgromadzenie ogólne kolegium, Prezesowi Rady Ministrów, ministrowi właściwemu do spraw administracji publicznej i sejmikowi województwa roczną informację o działalności kolegium w terminie do końca I kwartału roku następującego po roku objętym informacją; opracowuje projekt regulaminu organizacyjnego kolegium; zgłasza wniosek o ustalenie liczby członków kolegium; ogłasza konkurs na członków kolegium; przewodniczy pracom komisji konkursowej; przedstawia kandydatów na członków kolegium wyłonionych w drodze konkursu; występuje z wnioskami o powołanie i o odwołanie wiceprezesa kolegium oraz członka kolegium; czuwa nad jednolitością orzecznictwa oraz sprawnością pracy kolegium; wyznacza przewodniczących składów orzekających. Prezes kolegium wykonuje również czynności przewidziane przepisami prawa dla organów administracji publicznej, niezastrzeżone dla składu orzekającego."
     },
     {
       "provision_ref": "art11u1p1",
       "section": "11",
       "title": "Art. 11 ust. 1 pkt 1",
-      "content": "Przewodniczący kolegium kieruje pracami kolegium, a w szczególności: reprezentuje kolegium na zewnątrz,"
+      "content": "Prezes kolegium kieruje pracami kolegium, a w szczególności: reprezentuje kolegium na zewnątrz;"
     },
     {
       "provision_ref": "art11u1p2",
       "section": "11",
       "title": "Art. 11 ust. 1 pkt 2",
-      "content": "Przewodniczący kolegium kieruje pracami kolegium, a w szczególności: przedkłada zgromadzeniu ogólnemu kolegium, Prezesowi Rady Ministrów oraz właściwemu sejmikowi samorządowemu roczną informację o działalności kolegium,"
+      "content": "Prezes kolegium kieruje pracami kolegium, a w szczególności: przedkłada, po przyjęciu przez zgromadzenie ogólne kolegium, Prezesowi Rady Ministrów, ministrowi właściwemu do spraw administracji publicznej i sejmikowi województwa roczną informację o działalności kolegium w terminie do końca I kwartału roku następującego po roku objętym informacją;"
     },
     {
       "provision_ref": "art11u1p3",
       "section": "11",
       "title": "Art. 11 ust. 1 pkt 3",
-      "content": "Przewodniczący kolegium kieruje pracami kolegium, a w szczególności: opracowuje projekt regulaminu organizacyjnego kolegium,"
+      "content": "Prezes kolegium kieruje pracami kolegium, a w szczególności: opracowuje projekt regulaminu organizacyjnego kolegium;"
     },
     {
       "provision_ref": "art11u1p4",
       "section": "11",
       "title": "Art. 11 ust. 1 pkt 4",
-      "content": "Przewodniczący kolegium kieruje pracami kolegium, a w szczególności: zgłasza wniosek o ustalenie liczby członków kolegium,"
+      "content": "Prezes kolegium kieruje pracami kolegium, a w szczególności: zgłasza wniosek o ustalenie liczby członków kolegium;"
     },
     {
       "provision_ref": "art11u1p5",
       "section": "11",
       "title": "Art. 11 ust. 1 pkt 5",
-      "content": "Przewodniczący kolegium kieruje pracami kolegium, a w szczególności: ogłasza konkurs na członków kolegium,"
+      "content": "Prezes kolegium kieruje pracami kolegium, a w szczególności: ogłasza konkurs na członków kolegium;"
     },
     {
       "provision_ref": "art11u1p6",
       "section": "11",
       "title": "Art. 11 ust. 1 pkt 6",
-      "content": "Przewodniczący kolegium kieruje pracami kolegium, a w szczególności: przewodniczy pracom komisji konkursowej,"
+      "content": "Prezes kolegium kieruje pracami kolegium, a w szczególności: przewodniczy pracom komisji konkursowej;"
     },
     {
       "provision_ref": "art11u1p7",
       "section": "11",
       "title": "Art. 11 ust. 1 pkt 7",
-      "content": "Przewodniczący kolegium kieruje pracami kolegium, a w szczególności: przedstawia kandydatów na członków kolegium wyłonionych w drodze konkursu,"
+      "content": "Prezes kolegium kieruje pracami kolegium, a w szczególności: przedstawia kandydatów na członków kolegium wyłonionych w drodze konkursu;"
     },
     {
       "provision_ref": "art11u1p8",
       "section": "11",
       "title": "Art. 11 ust. 1 pkt 8",
-      "content": "Przewodniczący kolegium kieruje pracami kolegium, a w szczególności: występuje z wnioskiem o powołanie i odwołanie zastępcy przewodniczącego kolegium oraz o odwołanie członka kolegium,"
+      "content": "Prezes kolegium kieruje pracami kolegium, a w szczególności: występuje z wnioskami o powołanie i o odwołanie wiceprezesa kolegium oraz członka kolegium;"
     },
     {
       "provision_ref": "art11u1p9",
       "section": "11",
       "title": "Art. 11 ust. 1 pkt 9",
-      "content": "Przewodniczący kolegium kieruje pracami kolegium, a w szczególności: czuwa nad jednolitością orzecznictwa oraz sprawnością pracy kolegium,"
+      "content": "Prezes kolegium kieruje pracami kolegium, a w szczególności: czuwa nad jednolitością orzecznictwa oraz sprawnością pracy kolegium;"
     },
     {
       "provision_ref": "art11u1p10",
       "section": "11",
       "title": "Art. 11 ust. 1 pkt 10",
-      "content": "Przewodniczący kolegium kieruje pracami kolegium, a w szczególności: wyznacza przewodniczących składów orzekających."
+      "content": "Prezes kolegium kieruje pracami kolegium, a w szczególności: wyznacza przewodniczących składów orzekających."
     },
     {
       "provision_ref": "art11u2",
       "section": "11",
       "title": "Art. 11 ust. 2",
-      "content": "Przewodniczący kolegium wykonuje również czynności przewidziane przepisami prawa dla organów administracji państwowej, nie zastrzeżone dla składu orzekającego."
+      "content": "Prezes kolegium wykonuje również czynności przewidziane przepisami prawa dla organów administracji publicznej, niezastrzeżone dla składu orzekającego."
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Art. 12",
-      "content": "Zgromadzenie ogólne kolegium zwołuje co najmniej 2 razy w roku i przewodniczy mu przewodniczący kolegium. W skład zgromadzenia ogólnego kolegium wchodzą osoby, o których mowa w art. 4 ust. 2. Do właściwości zgromadzenia ogólnego kolegium należy: uchwalanie regulaminu organizacyjnego kolegium, wybór członków komisji konkursowej zgodnie z art. 8 ust. 3, przyjmowanie rocznej informacji o działalności kolegium, podejmowanie uchwał w innych sprawach przewidzianych przepisami prawa lub przedstawionych przez przewodniczącego kolegium. Z zastrzeżeniem art. 22 ust. 4, uchwały zgromadzenia zapadają większością głosów, w obecności co najmniej połowy składu kolegium. W przypadku równej liczby głosów rozstrzyga głos przewodniczącego kolegium."
+      "content": "Zgromadzenie ogólne kolegium zwołuje prezes kolegium co najmniej dwa razy w roku. Zgromadzenie zwołuje się także na pisemny wniosek co najmniej połowy członków kolegium w terminie 14 dni od dnia jego złożenia. Zgromadzeniu ogólnemu kolegium przewodniczy prezes kolegium. W skład zgromadzenia ogólnego kolegium wchodzą osoby, o których mowa w art. 4 ust. 2. Do właściwości zgromadzenia ogólnego kolegium należy: uchwalanie regulaminu organizacyjnego kolegium; wybór członków komisji konkursowej zgodnie z art. 8 ust. 3; przyjmowanie rocznej informacji o działalności kolegium; wybór kandydatów na prezesa kolegium; podejmowanie uchwał w innych sprawach przewidzianych przepisami prawa lub przedstawionych przez prezesa kolegium. Z zastrzeżeniem przepisu art. 5 ust. 2, uchwały zgromadzenia ogólnego kolegium zapadają większością głosów, w obecności co najmniej połowy składu kolegium. W przypadku równej liczby głosów rozstrzyga głos prezesa kolegium."
     },
     {
       "provision_ref": "art12u1",
       "section": "12",
       "title": "Art. 12 ust. 1",
-      "content": "Zgromadzenie ogólne kolegium zwołuje co najmniej 2 razy w roku i przewodniczy mu przewodniczący kolegium."
+      "content": "Zgromadzenie ogólne kolegium zwołuje prezes kolegium co najmniej dwa razy w roku. Zgromadzenie zwołuje się także na pisemny wniosek co najmniej połowy członków kolegium w terminie 14 dni od dnia jego złożenia. Zgromadzeniu ogólnemu kolegium przewodniczy prezes kolegium."
     },
     {
       "provision_ref": "art12u2",
@@ -433,31 +655,37 @@
       "provision_ref": "art12u3p1",
       "section": "12",
       "title": "Art. 12 ust. 3 pkt 1",
-      "content": "Do właściwości zgromadzenia ogólnego kolegium należy: uchwalanie regulaminu organizacyjnego kolegium,"
+      "content": "Do właściwości zgromadzenia ogólnego kolegium należy: uchwalanie regulaminu organizacyjnego kolegium;"
     },
     {
       "provision_ref": "art12u3p2",
       "section": "12",
       "title": "Art. 12 ust. 3 pkt 2",
-      "content": "Do właściwości zgromadzenia ogólnego kolegium należy: wybór członków komisji konkursowej zgodnie z art. 8 ust. 3,"
+      "content": "Do właściwości zgromadzenia ogólnego kolegium należy: wybór członków komisji konkursowej zgodnie z art. 8 ust. 3;"
     },
     {
       "provision_ref": "art12u3p3",
       "section": "12",
       "title": "Art. 12 ust. 3 pkt 3",
-      "content": "Do właściwości zgromadzenia ogólnego kolegium należy: przyjmowanie rocznej informacji o działalności kolegium,"
+      "content": "Do właściwości zgromadzenia ogólnego kolegium należy: przyjmowanie rocznej informacji o działalności kolegium;"
+    },
+    {
+      "provision_ref": "art12u3p3a",
+      "section": "12",
+      "title": "Art. 12 ust. 3 pkt 3a",
+      "content": "Do właściwości zgromadzenia ogólnego kolegium należy: wybór kandydatów na prezesa kolegium;"
     },
     {
       "provision_ref": "art12u3p4",
       "section": "12",
       "title": "Art. 12 ust. 3 pkt 4",
-      "content": "Do właściwości zgromadzenia ogólnego kolegium należy: podejmowanie uchwał w innych sprawach przewidzianych przepisami prawa lub przedstawionych przez przewodniczącego kolegium."
+      "content": "Do właściwości zgromadzenia ogólnego kolegium należy: podejmowanie uchwał w innych sprawach przewidzianych przepisami prawa lub przedstawionych przez prezesa kolegium."
     },
     {
       "provision_ref": "art12u4",
       "section": "12",
       "title": "Art. 12 ust. 4",
-      "content": "Z zastrzeżeniem art. 22 ust. 4, uchwały zgromadzenia zapadają większością głosów, w obecności co najmniej połowy składu kolegium. W przypadku równej liczby głosów rozstrzyga głos przewodniczącego kolegium."
+      "content": "Z zastrzeżeniem przepisu art. 5 ust. 2, uchwały zgromadzenia ogólnego kolegium zapadają większością głosów, w obecności co najmniej połowy składu kolegium. W przypadku równej liczby głosów rozstrzyga głos prezesa kolegium."
     },
     {
       "provision_ref": "art13",
@@ -469,37 +697,37 @@
       "provision_ref": "art14",
       "section": "14",
       "title": "Art. 14",
-      "content": "Wojewoda zapewnia kolegium możliwość korzystania z niezbędnych lokali, za odpłatnością nie przekraczającą kosztów ponoszonych faktycznie na ich utrzymanie."
+      "content": "Wojewoda zapewnia kolegium możliwość korzystania z niezbędnych lokali, za odpłatnością nieprzekraczającą kosztów ponoszonych faktycznie na ich utrzymanie."
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Art. 15",
-      "content": "Stosunek pracy z wyboru z przewodniczącym kolegium nawiązuje przewodniczący sejmiku samorządowego. Przewodniczący kolegium nawiązuje i rozwiązuje stosunek pracy: na podstawie powołania - z etatowymi członkami kolegium, na podstawie umowy o pracę - z pracownikami biura kolegium. Podstawą rozwiązania stosunku pracy etatowego członka kolegium jest odwołanie, o którym mowa w art. 7 ust. 6. Pozaetatowi członkowie kolegium otrzymują wynagrodzenie za udział w posiedzeniach oraz zwrot kosztów podróży. Prezes Rady Ministrów określi, w drodze rozporządzenia, szczegółowe zasady wynagradzania przewodniczącego, jego zastępcy i pozostałych członków kolegium, uwzględniając odpowiednio zasady i wysokość wynagradzania pracowników regionalnych izb obrachunkowych. W rozporządzeniu tym Prezes Rady Ministrów określi również szczegółowe zasady wynagradzania pracowników biura kolegium."
+      "content": "(uchylony) Prezes kolegium nawiązuje i rozwiązuje stosunek pracy: na podstawie powołania - z etatowymi członkami kolegium; na podstawie umowy o pracę - z pracownikami biura kolegium. Podstawą rozwiązania stosunku pracy etatowego członka kolegium jest ustanie członkostwa wskutek odwołania. Pozaetatowi członkowie kolegium otrzymują wynagrodzenie za udział w posiedzeniach oraz zwrot kosztów podróży. Prezes Rady Ministrów określi, w drodze rozporządzenia, szczegółowe zasady wynagradzania prezesa, wiceprezesa i pozostałych członków kolegium oraz szczegółowe zasady wynagradzania pracowników biura kolegium. Wynagrodzenie zasadnicze prezesa, wiceprezesa i etatowych członków kolegium stanowi wielokrotność kwoty bazowej, której wysokość ustaloną według odrębnych zasad określa ustawa budżetowa. Wysokość wynagrodzenia jest różnicowana ze względu na staż pracy i pełnioną funkcję. Prezes Rady Ministrów określi, w drodze rozporządzenia, wielokrotność kwoty bazowej, o której mowa w ust. 6. Wielokrotność ta nie może być mniejsza niż 3,0."
     },
     {
       "provision_ref": "art15u1",
       "section": "15",
       "title": "Art. 15 ust. 1",
-      "content": "Stosunek pracy z wyboru z przewodniczącym kolegium nawiązuje przewodniczący sejmiku samorządowego."
+      "content": "(uchylony)"
     },
     {
       "provision_ref": "art15u2p1",
       "section": "15",
       "title": "Art. 15 ust. 2 pkt 1",
-      "content": "Przewodniczący kolegium nawiązuje i rozwiązuje stosunek pracy: na podstawie powołania - z etatowymi członkami kolegium,"
+      "content": "Prezes kolegium nawiązuje i rozwiązuje stosunek pracy: na podstawie powołania - z etatowymi członkami kolegium;"
     },
     {
       "provision_ref": "art15u2p2",
       "section": "15",
       "title": "Art. 15 ust. 2 pkt 2",
-      "content": "Przewodniczący kolegium nawiązuje i rozwiązuje stosunek pracy: na podstawie umowy o pracę - z pracownikami biura kolegium."
+      "content": "Prezes kolegium nawiązuje i rozwiązuje stosunek pracy: na podstawie umowy o pracę - z pracownikami biura kolegium."
     },
     {
       "provision_ref": "art15u3",
       "section": "15",
       "title": "Art. 15 ust. 3",
-      "content": "Podstawą rozwiązania stosunku pracy etatowego członka kolegium jest odwołanie, o którym mowa w art. 7 ust. 6."
+      "content": "Podstawą rozwiązania stosunku pracy etatowego członka kolegium jest ustanie członkostwa wskutek odwołania."
     },
     {
       "provision_ref": "art15u4",
@@ -511,37 +739,211 @@
       "provision_ref": "art15u5",
       "section": "15",
       "title": "Art. 15 ust. 5",
-      "content": "Prezes Rady Ministrów określi, w drodze rozporządzenia, szczegółowe zasady wynagradzania przewodniczącego, jego zastępcy i pozostałych członków kolegium, uwzględniając odpowiednio zasady i wysokość wynagradzania pracowników regionalnych izb obrachunkowych. W rozporządzeniu tym Prezes Rady Ministrów określi również szczegółowe zasady wynagradzania pracowników biura kolegium."
+      "content": "Prezes Rady Ministrów określi, w drodze rozporządzenia, szczegółowe zasady wynagradzania prezesa, wiceprezesa i pozostałych członków kolegium oraz szczegółowe zasady wynagradzania pracowników biura kolegium."
+    },
+    {
+      "provision_ref": "art15u6",
+      "section": "15",
+      "title": "Art. 15 ust. 6",
+      "content": "Wynagrodzenie zasadnicze prezesa, wiceprezesa i etatowych członków kolegium stanowi wielokrotność kwoty bazowej, której wysokość ustaloną według odrębnych zasad określa ustawa budżetowa. Wysokość wynagrodzenia jest różnicowana ze względu na staż pracy i pełnioną funkcję."
+    },
+    {
+      "provision_ref": "art15u7",
+      "section": "15",
+      "title": "Art. 15 ust. 7",
+      "content": "Prezes Rady Ministrów określi, w drodze rozporządzenia, wielokrotność kwoty bazowej, o której mowa w ust. 6. Wielokrotność ta nie może być mniejsza niż 3,0."
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Art. 16",
-      "content": "Przewodniczący kolegium dokonuje, w imieniu kolegium, czynności z zakresu prawa pracy wobec etatowych członków kolegium i pracowników biura kolegium. W sprawach nie uregulowanych w ustawie, dotyczących stosunku pracy etatowych członków kolegium i pracowników biura kolegium, mają odpowiednie zastosowanie przepisy o pracownikach samorządowych."
+      "content": "Prezes kolegium dokonuje, w imieniu kolegium, czynności z zakresu prawa pracy wobec etatowych członków kolegium i pracowników biura kolegium. W sprawach nieuregulowanych w ustawie, dotyczących stosunku pracy etatowych członków kolegium i pracowników biura kolegium, mają odpowiednie zastosowanie przepisy o pracownikach samorządowych."
     },
     {
       "provision_ref": "art16u1",
       "section": "16",
       "title": "Art. 16 ust. 1",
-      "content": "Przewodniczący kolegium dokonuje, w imieniu kolegium, czynności z zakresu prawa pracy wobec etatowych członków kolegium i pracowników biura kolegium."
+      "content": "Prezes kolegium dokonuje, w imieniu kolegium, czynności z zakresu prawa pracy wobec etatowych członków kolegium i pracowników biura kolegium."
     },
     {
       "provision_ref": "art16u2",
       "section": "16",
       "title": "Art. 16 ust. 2",
-      "content": "W sprawach nie uregulowanych w ustawie, dotyczących stosunku pracy etatowych członków kolegium i pracowników biura kolegium, mają odpowiednie zastosowanie przepisy o pracownikach samorządowych."
+      "content": "W sprawach nieuregulowanych w ustawie, dotyczących stosunku pracy etatowych członków kolegium i pracowników biura kolegium, mają odpowiednie zastosowanie przepisy o pracownikach samorządowych."
+    },
+    {
+      "provision_ref": "art16a",
+      "section": "16a",
+      "title": "Art. 16a",
+      "content": "Członek kolegium podlega odpowiedzialności dyscyplinarnej w związku z postępowaniem uchybiającym jego obowiązkom lub godności zawodowej."
+    },
+    {
+      "provision_ref": "art16b",
+      "section": "16b",
+      "title": "Art. 16b",
+      "content": "Karami dyscyplinarnymi są: upomnienie; nagana; nagana z ostrzeżeniem; wykluczenie ze składu kolegium. Odpis orzeczenia kary dyscyplinarnej wraz z uzasadnieniem włącza się do akt osobowych członka kolegium."
+    },
+    {
+      "provision_ref": "art16bu1p1",
+      "section": "16b",
+      "title": "Art. 16b ust. 1 pkt 1",
+      "content": "Karami dyscyplinarnymi są: upomnienie;"
+    },
+    {
+      "provision_ref": "art16bu1p2",
+      "section": "16b",
+      "title": "Art. 16b ust. 1 pkt 2",
+      "content": "Karami dyscyplinarnymi są: nagana;"
+    },
+    {
+      "provision_ref": "art16bu1p3",
+      "section": "16b",
+      "title": "Art. 16b ust. 1 pkt 3",
+      "content": "Karami dyscyplinarnymi są: nagana z ostrzeżeniem;"
+    },
+    {
+      "provision_ref": "art16bu1p4",
+      "section": "16b",
+      "title": "Art. 16b ust. 1 pkt 4",
+      "content": "Karami dyscyplinarnymi są: wykluczenie ze składu kolegium."
+    },
+    {
+      "provision_ref": "art16bu2",
+      "section": "16b",
+      "title": "Art. 16b ust. 2",
+      "content": "Odpis orzeczenia kary dyscyplinarnej wraz z uzasadnieniem włącza się do akt osobowych członka kolegium."
+    },
+    {
+      "provision_ref": "art16c",
+      "section": "16c",
+      "title": "Art. 16c",
+      "content": "W sprawach dyscyplinarnych członków kolegiów orzekają: w pierwszej instancji - komisja dyscyplinarna kolegium; w drugiej instancji - komisja dyscyplinarna przy Krajowej Reprezentacji Samorządowych Kolegiów Odwoławczych. Komisje dyscyplinarne składają się z trzech etatowych członków kolegiów. Tryb wyboru etatowych członków kolegiów do komisji dyscyplinarnych określi regulamin uchwalony przez Krajową Reprezentację Samorządowych Kolegiów Odwoławczych. Komisje dyscyplinarne są niezawisłe w zakresie orzecznictwa dyscyplinarnego i nie są związane rozstrzygnięciami innych organów stosujących prawo, z wyjątkiem prawomocnego skazującego wyroku sądu, oraz samodzielnie rozstrzygają wszelkie zagadnienia faktyczne i prawne."
+    },
+    {
+      "provision_ref": "art16cu1p1",
+      "section": "16c",
+      "title": "Art. 16c ust. 1 pkt 1",
+      "content": "W sprawach dyscyplinarnych członków kolegiów orzekają: w pierwszej instancji - komisja dyscyplinarna kolegium;"
+    },
+    {
+      "provision_ref": "art16cu1p2",
+      "section": "16c",
+      "title": "Art. 16c ust. 1 pkt 2",
+      "content": "W sprawach dyscyplinarnych członków kolegiów orzekają: w drugiej instancji - komisja dyscyplinarna przy Krajowej Reprezentacji Samorządowych Kolegiów Odwoławczych."
+    },
+    {
+      "provision_ref": "art16cu2",
+      "section": "16c",
+      "title": "Art. 16c ust. 2",
+      "content": "Komisje dyscyplinarne składają się z trzech etatowych członków kolegiów."
+    },
+    {
+      "provision_ref": "art16cu3",
+      "section": "16c",
+      "title": "Art. 16c ust. 3",
+      "content": "Tryb wyboru etatowych członków kolegiów do komisji dyscyplinarnych określi regulamin uchwalony przez Krajową Reprezentację Samorządowych Kolegiów Odwoławczych."
+    },
+    {
+      "provision_ref": "art16cu4",
+      "section": "16c",
+      "title": "Art. 16c ust. 4",
+      "content": "Komisje dyscyplinarne są niezawisłe w zakresie orzecznictwa dyscyplinarnego i nie są związane rozstrzygnięciami innych organów stosujących prawo, z wyjątkiem prawomocnego skazującego wyroku sądu, oraz samodzielnie rozstrzygają wszelkie zagadnienia faktyczne i prawne."
+    },
+    {
+      "provision_ref": "art16d",
+      "section": "16d",
+      "title": "Art. 16d",
+      "content": "Postępowanie dyscyplinarne wszczyna komisja dyscyplinarna pierwszej instancji na wniosek prezesa kolegium. Prezes kolegium oraz Krajowa Reprezentacja Samorządowych Kolegiów Odwoławczych mogą powoływać, spośród etatowych członków kolegiów, rzeczników dyscyplinarnych, do których należy prowadzenie w ich imieniu postępowania wyjaśniającego oraz popieranie przed komisją dyscyplinarną wniosku o ukaranie. Wymierzenie za ten sam czyn kary w postępowaniu karnym lub w postępowaniu w sprawach o wykroczenia nie stanowi przeszkody do wszczęcia postępowania przed komisją dyscyplinarną. Komisja dyscyplinarna wydaje orzeczenie po przeprowadzeniu rozprawy oraz po wysłuchaniu uczestników postępowania. Obwiniony członek etatowy kolegium ma prawo do korzystania z pomocy wybranego przez siebie obrońcy. W przypadku obwinionych członków pozaetatowych kolegium, jeżeli nie wybiorą sobie obrońcy, przewodniczący składu orzekającego wyznacza obrońcę z urzędu spośród członków etatowych kolegium. Od orzeczenia komisji dyscyplinarnej kolegium każda ze stron może odwołać się do komisji dyscyplinarnej przy Krajowej Reprezentacji Samorządowych Kolegiów Odwoławczych w ciągu 14 dni od dnia doręczenia orzeczenia. Od orzeczeń komisji dyscyplinarnej przy Krajowej Reprezentacji Samorządowych Kolegiów Odwoławczych stronom służy odwołanie do właściwego ze względu na miejsce zamieszkania obwinionego sądu apelacyjnego - sądu pracy i ubezpieczeń społecznych. Do rozpatrzenia odwołania stosuje się przepisy Kodeksu postępowania cywilnego o apelacji. Od orzeczenia sądu apelacyjnego skarga kasacyjna nie przysługuje."
+    },
+    {
+      "provision_ref": "art16du1",
+      "section": "16d",
+      "title": "Art. 16d ust. 1",
+      "content": "Postępowanie dyscyplinarne wszczyna komisja dyscyplinarna pierwszej instancji na wniosek prezesa kolegium."
+    },
+    {
+      "provision_ref": "art16du2",
+      "section": "16d",
+      "title": "Art. 16d ust. 2",
+      "content": "Prezes kolegium oraz Krajowa Reprezentacja Samorządowych Kolegiów Odwoławczych mogą powoływać, spośród etatowych członków kolegiów, rzeczników dyscyplinarnych, do których należy prowadzenie w ich imieniu postępowania wyjaśniającego oraz popieranie przed komisją dyscyplinarną wniosku o ukaranie."
+    },
+    {
+      "provision_ref": "art16du3",
+      "section": "16d",
+      "title": "Art. 16d ust. 3",
+      "content": "Wymierzenie za ten sam czyn kary w postępowaniu karnym lub w postępowaniu w sprawach o wykroczenia nie stanowi przeszkody do wszczęcia postępowania przed komisją dyscyplinarną."
+    },
+    {
+      "provision_ref": "art16du4",
+      "section": "16d",
+      "title": "Art. 16d ust. 4",
+      "content": "Komisja dyscyplinarna wydaje orzeczenie po przeprowadzeniu rozprawy oraz po wysłuchaniu uczestników postępowania."
+    },
+    {
+      "provision_ref": "art16du5",
+      "section": "16d",
+      "title": "Art. 16d ust. 5",
+      "content": "Obwiniony członek etatowy kolegium ma prawo do korzystania z pomocy wybranego przez siebie obrońcy. W przypadku obwinionych członków pozaetatowych kolegium, jeżeli nie wybiorą sobie obrońcy, przewodniczący składu orzekającego wyznacza obrońcę z urzędu spośród członków etatowych kolegium."
+    },
+    {
+      "provision_ref": "art16du6",
+      "section": "16d",
+      "title": "Art. 16d ust. 6",
+      "content": "Od orzeczenia komisji dyscyplinarnej kolegium każda ze stron może odwołać się do komisji dyscyplinarnej przy Krajowej Reprezentacji Samorządowych Kolegiów Odwoławczych w ciągu 14 dni od dnia doręczenia orzeczenia."
+    },
+    {
+      "provision_ref": "art16du7",
+      "section": "16d",
+      "title": "Art. 16d ust. 7",
+      "content": "Od orzeczeń komisji dyscyplinarnej przy Krajowej Reprezentacji Samorządowych Kolegiów Odwoławczych stronom służy odwołanie do właściwego ze względu na miejsce zamieszkania obwinionego sądu apelacyjnego - sądu pracy i ubezpieczeń społecznych."
+    },
+    {
+      "provision_ref": "art16du8",
+      "section": "16d",
+      "title": "Art. 16d ust. 8",
+      "content": "Do rozpatrzenia odwołania stosuje się przepisy Kodeksu postępowania cywilnego o apelacji. Od orzeczenia sądu apelacyjnego skarga kasacyjna nie przysługuje."
+    },
+    {
+      "provision_ref": "art16e",
+      "section": "16e",
+      "title": "Art. 16e",
+      "content": "Postępowanie dyscyplinarne nie może być wszczęte po upływie 4 miesięcy od dnia powzięcia przez właściwy organ wiadomości o popełnieniu czynu uzasadniającego nałożenie kary i po upływie 3 lat od dnia popełnienia tego czynu. Jeżeli czyn stanowi przestępstwo, okres ten nie może być krótszy od okresu przedawnienia ścigania tego przestępstwa. Kary dyscyplinarne ulegają zatarciu po upływie 3 lat od dnia doręczenia ukaranemu prawomocnego orzeczenia o ukaraniu, jeżeli w tym okresie nie został on ponownie ukarany dyscyplinarnie lub sądownie. Do wzywania i przesłuchiwania obwinionego, świadków i biegłych oraz przeprowadzania innych dowodów w postępowaniu wyjaśniającym i dyscyplinarnym stosuje się odpowiednio przepisy Kodeksu postępowania karnego . Prezes Rady Ministrów określi, w drodze rozporządzenia, szczegółowe zasady i tryb postępowania wyjaśniającego i postępowania dyscyplinarnego oraz wykonywania kar dyscyplinarnych i ich zatarcia."
+    },
+    {
+      "provision_ref": "art16eu1",
+      "section": "16e",
+      "title": "Art. 16e ust. 1",
+      "content": "Postępowanie dyscyplinarne nie może być wszczęte po upływie 4 miesięcy od dnia powzięcia przez właściwy organ wiadomości o popełnieniu czynu uzasadniającego nałożenie kary i po upływie 3 lat od dnia popełnienia tego czynu. Jeżeli czyn stanowi przestępstwo, okres ten nie może być krótszy od okresu przedawnienia ścigania tego przestępstwa."
+    },
+    {
+      "provision_ref": "art16eu2",
+      "section": "16e",
+      "title": "Art. 16e ust. 2",
+      "content": "Kary dyscyplinarne ulegają zatarciu po upływie 3 lat od dnia doręczenia ukaranemu prawomocnego orzeczenia o ukaraniu, jeżeli w tym okresie nie został on ponownie ukarany dyscyplinarnie lub sądownie."
+    },
+    {
+      "provision_ref": "art16eu3",
+      "section": "16e",
+      "title": "Art. 16e ust. 3",
+      "content": "Do wzywania i przesłuchiwania obwinionego, świadków i biegłych oraz przeprowadzania innych dowodów w postępowaniu wyjaśniającym i dyscyplinarnym stosuje się odpowiednio przepisy Kodeksu postępowania karnego ."
+    },
+    {
+      "provision_ref": "art16eu4",
+      "section": "16e",
+      "title": "Art. 16e ust. 4",
+      "content": "Prezes Rady Ministrów określi, w drodze rozporządzenia, szczegółowe zasady i tryb postępowania wyjaśniającego i postępowania dyscyplinarnego oraz wykonywania kar dyscyplinarnych i ich zatarcia."
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Art. 17",
-      "content": "Orzeczenia kolegium zapadają po przeprowadzeniu rozprawy lub na posiedzeniu niejawnym. Orzeczenia kolegium wydawane są w formie decyzji lub postanowień. Kolegium wydaje orzeczenia po odbyciu niejawnej narady składu orzekającego, obejmującej dyskusję oraz głosowanie nad orzeczeniem i zasadniczymi motywami rozstrzygnięcia. Sprawę przedstawia członek kolegium wyznaczony jako jej sprawozdawca. Orzeczenia zapadają większością głosów. Członek składu orzekającego nie może wstrzymać się od głosu. Członek składu orzekającego, który został przegłosowany, ma prawo zgłosić przy podpisywaniu orzeczenia zdanie odrębne, uzasadniając je na piśmie w terminie 7 dni od dnia odbycia narady. Orzeczenia kolegium podpisują wszyscy członkowie składu nie wyłączając przegłosowanego."
+      "content": "Orzeczenia kolegium zapadają po przeprowadzeniu rozprawy lub na posiedzeniu niejawnym. Orzeczenia kolegium, z zastrzeżeniem art. 79 ust. 5, 6 i 9, art. 80 ust. 1 i 3 oraz art. 81 ust. 1 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami , wydawane są w formie decyzji albo postanowień. Kolegium wydaje orzeczenia po odbyciu niejawnej narady składu orzekającego, obejmującej dyskusję oraz głosowanie nad orzeczeniem i zasadniczymi motywami rozstrzygnięcia. Sprawę przedstawia członek kolegium wyznaczony jako jej sprawozdawca. Orzeczenia zapadają większością głosów. Członek składu orzekającego nie może wstrzymać się od głosu. Członek składu orzekającego, który został przegłosowany, ma prawo zgłosić przy podpisywaniu orzeczenia zdanie odrębne, uzasadniając je na piśmie w terminie 7 dni od dnia odbycia narady. Orzeczenia kolegium podpisują wszyscy członkowie składu nie wyłączając przegłosowanego."
     },
     {
       "provision_ref": "art17u1",
       "section": "17",
       "title": "Art. 17 ust. 1",
-      "content": "Orzeczenia kolegium zapadają po przeprowadzeniu rozprawy lub na posiedzeniu niejawnym. Orzeczenia kolegium wydawane są w formie decyzji lub postanowień."
+      "content": "Orzeczenia kolegium zapadają po przeprowadzeniu rozprawy lub na posiedzeniu niejawnym. Orzeczenia kolegium, z zastrzeżeniem art. 79 ust. 5, 6 i 9, art. 80 ust. 1 i 3 oraz art. 81 ust. 1 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami , wydawane są w formie decyzji albo postanowień."
     },
     {
       "provision_ref": "art17u2",
@@ -571,13 +973,13 @@
       "provision_ref": "art18",
       "section": "18",
       "title": "Art. 18",
-      "content": "Kolegium orzeka w składzie trzyosobowym, chyba że przepisy szczególne stanowią inaczej. Składowi orzekającemu przewodniczy przewodniczący lub etatowy członek kolegium. Zasady wyznaczania składów orzekających określa regulamin, o którym mowa w art. 12 ust. 3 pkt 1. Członkowie kolegium nie posiadający wykształcenia prawniczego lub administracyjnego są wyznaczani do składów orzekających z uwzględnieniem ich kwalifikacji zawodowych."
+      "content": "Kolegium orzeka w składzie trzyosobowym, chyba że przepisy szczególne stanowią inaczej. Składowi orzekającemu przewodniczy prezes lub etatowy członek kolegium. Zasady wyznaczania składów orzekających określa regulamin, o którym mowa w art. 12 ust. 3 pkt 1. Członkowie kolegium nieposiadający wykształcenia prawniczego lub administracyjnego są wyznaczani do składów orzekających z uwzględnieniem ich kwalifikacji zawodowych."
     },
     {
       "provision_ref": "art18u1",
       "section": "18",
       "title": "Art. 18 ust. 1",
-      "content": "Kolegium orzeka w składzie trzyosobowym, chyba że przepisy szczególne stanowią inaczej. Składowi orzekającemu przewodniczy przewodniczący lub etatowy członek kolegium."
+      "content": "Kolegium orzeka w składzie trzyosobowym, chyba że przepisy szczególne stanowią inaczej. Składowi orzekającemu przewodniczy prezes lub etatowy członek kolegium."
     },
     {
       "provision_ref": "art18u2",
@@ -589,25 +991,49 @@
       "provision_ref": "art18u3",
       "section": "18",
       "title": "Art. 18 ust. 3",
-      "content": "Członkowie kolegium nie posiadający wykształcenia prawniczego lub administracyjnego są wyznaczani do składów orzekających z uwzględnieniem ich kwalifikacji zawodowych."
+      "content": "Członkowie kolegium nieposiadający wykształcenia prawniczego lub administracyjnego są wyznaczani do składów orzekających z uwzględnieniem ich kwalifikacji zawodowych."
+    },
+    {
+      "provision_ref": "art18a",
+      "section": "18a",
+      "title": "Art. 18a",
+      "content": "W postępowaniu przed kolegium nie może reprezentować strony: adwokat wykonujący zawód w kancelarii adwokackiej, zespole adwokackim oraz w spółce jawnej lub cywilnej z wyłącznym udziałem adwokatów lub adwokatów i radców prawnych albo w spółce komandytowej, w której komplementariuszami są wyłącznie adwokaci lub adwokaci i radcowie prawni, przy czym wyłącznym przedmiotem działalności takich spółek jest świadczenie pomocy prawnej, radca prawny wykonujący zawód w kancelarii radcy prawnego oraz w spółce jawnej lub cywilnej z wyłącznym udziałem radców prawnych lub radców prawnych i adwokatów albo w spółce komandytowej, w której komplementariuszami są wyłącznie radcowie prawni lub radcowie prawni i adwokaci, przy czym wyłącznym przedmiotem działalności takich spółek jest świadczenie pomocy prawnej, doradca podatkowy wykonujący zawód w spółce niemającej osobowości prawnej z wyłącznym udziałem doradców podatkowych - w których członkiem, wspólnikiem, udziałowcem lub komplementariuszem jest etatowy członek kolegium."
+    },
+    {
+      "provision_ref": "art18ap1",
+      "section": "18a",
+      "title": "Art. 18a pkt 1",
+      "content": "W postępowaniu przed kolegium nie może reprezentować strony: adwokat wykonujący zawód w kancelarii adwokackiej, zespole adwokackim oraz w spółce jawnej lub cywilnej z wyłącznym udziałem adwokatów lub adwokatów i radców prawnych albo w spółce komandytowej, w której komplementariuszami są wyłącznie adwokaci lub adwokaci i radcowie prawni, przy czym wyłącznym przedmiotem działalności takich spółek jest świadczenie pomocy prawnej,"
+    },
+    {
+      "provision_ref": "art18ap2",
+      "section": "18a",
+      "title": "Art. 18a pkt 2",
+      "content": "W postępowaniu przed kolegium nie może reprezentować strony: radca prawny wykonujący zawód w kancelarii radcy prawnego oraz w spółce jawnej lub cywilnej z wyłącznym udziałem radców prawnych lub radców prawnych i adwokatów albo w spółce komandytowej, w której komplementariuszami są wyłącznie radcowie prawni lub radcowie prawni i adwokaci, przy czym wyłącznym przedmiotem działalności takich spółek jest świadczenie pomocy prawnej,"
+    },
+    {
+      "provision_ref": "art18ap3",
+      "section": "18a",
+      "title": "Art. 18a pkt 3",
+      "content": "W postępowaniu przed kolegium nie może reprezentować strony: doradca podatkowy wykonujący zawód w spółce niemającej osobowości prawnej z wyłącznym udziałem doradców podatkowych"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Art. 19",
-      "content": "Do wykonywania przez kolegium zadań, o których mowa w art. 1 i 2, stosuje się przepisy Kodeksu postępowania administracyjnego , z uwzględnieniem przepisów niniejszej ustawy. W szczególności kolegium jest uprawnione do: żądania niezbędnych informacji i dokumentów dotyczących działalności organów gmin, wglądu w dokumentację związaną z załatwieniem spraw, o których mowa w art. 1 i 2. Żądając wglądu w dokumentację związaną z załatwieniem sprawy, członek kolegium przedkłada właściwemu organowi imienne upoważnienie podpisane przez przewodniczącego składu orzekającego. Upoważnienie załącza się do akt sprawy."
+      "content": "Do wykonywania przez kolegium zadań, o których mowa w art. 1 i 2, stosuje się przepisy Kodeksu postępowania administracyjnego oraz Ordynacji podatkowej, z uwzględnieniem przepisów niniejszej ustawy. W szczególności kolegium jest uprawnione do: żądania niezbędnych dla wydania orzeczenia informacji i dokumentów dotyczących działalności organów jednostek samorządu terytorialnego; wglądu w dokumentację związaną z załatwieniem spraw, o których mowa w art. 1 i 2. Żądając wglądu w dokumentację związaną z załatwieniem sprawy, członek kolegium przedkłada właściwemu organowi imienne upoważnienie podpisane przez prezesa kolegium. Upoważnienie załącza się do akt sprawy."
     },
     {
       "provision_ref": "art19u1",
       "section": "19",
       "title": "Art. 19 ust. 1",
-      "content": "Do wykonywania przez kolegium zadań, o których mowa w art. 1 i 2, stosuje się przepisy Kodeksu postępowania administracyjnego , z uwzględnieniem przepisów niniejszej ustawy."
+      "content": "Do wykonywania przez kolegium zadań, o których mowa w art. 1 i 2, stosuje się przepisy Kodeksu postępowania administracyjnego oraz Ordynacji podatkowej, z uwzględnieniem przepisów niniejszej ustawy."
     },
     {
       "provision_ref": "art19u2p1",
       "section": "19",
       "title": "Art. 19 ust. 2 pkt 1",
-      "content": "W szczególności kolegium jest uprawnione do: żądania niezbędnych informacji i dokumentów dotyczących działalności organów gmin,"
+      "content": "W szczególności kolegium jest uprawnione do: żądania niezbędnych dla wydania orzeczenia informacji i dokumentów dotyczących działalności organów jednostek samorządu terytorialnego;"
     },
     {
       "provision_ref": "art19u2p2",
@@ -619,25 +1045,25 @@
       "provision_ref": "art19u3",
       "section": "19",
       "title": "Art. 19 ust. 3",
-      "content": "Żądając wglądu w dokumentację związaną z załatwieniem sprawy, członek kolegium przedkłada właściwemu organowi imienne upoważnienie podpisane przez przewodniczącego składu orzekającego. Upoważnienie załącza się do akt sprawy."
+      "content": "Żądając wglądu w dokumentację związaną z załatwieniem sprawy, członek kolegium przedkłada właściwemu organowi imienne upoważnienie podpisane przez prezesa kolegium. Upoważnienie załącza się do akt sprawy."
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Art. 20",
-      "content": "W przypadku stwierdzenia istotnych uchybień w pracy organu gminy, przewodniczący kolegium wydaje postanowienie sygnalizacyjne, którego odpisy przekazuje się gminie i, odrębnie, komisji rewizyjnej rady gminy oraz właściwemu wojewodzie. Postanowienie, o którym mowa w ust. 1, stanowi podstawę do wszczęcia postępowania dyscyplinarnego w stosunku do pracowników samorządowych, jeżeli ich działanie lub zaniechanie jest przyczyną powstania uchybień w pracy organu gminy. Właściwe organy powiadamiają kolegium w terminie 30 dni o zajętym stanowisku."
+      "content": "W przypadku stwierdzenia istotnych uchybień w pracy organu jednostki samorządu terytorialnego, prezes kolegium wydaje postanowienie sygnalizacyjne, którego odpisy przekazuje organowi jednostki samorządu terytorialnego i, odrębnie, komisji rewizyjnej odpowiednio rady gminy, powiatu albo sejmiku województwa oraz właściwemu wojewodzie. Postanowienie, o którym mowa w ust. 1, stanowi podstawę do wszczęcia postępowania dyscyplinarnego w stosunku do pracowników samorządowych, jeżeli ich działanie lub zaniechanie jest przyczyną powstania uchybień w pracy organu jednostki samorządu terytorialnego. Właściwe organy powiadamiają kolegium w terminie 30 dni o zajętym stanowisku."
     },
     {
       "provision_ref": "art20u1",
       "section": "20",
       "title": "Art. 20 ust. 1",
-      "content": "W przypadku stwierdzenia istotnych uchybień w pracy organu gminy, przewodniczący kolegium wydaje postanowienie sygnalizacyjne, którego odpisy przekazuje się gminie i, odrębnie, komisji rewizyjnej rady gminy oraz właściwemu wojewodzie."
+      "content": "W przypadku stwierdzenia istotnych uchybień w pracy organu jednostki samorządu terytorialnego, prezes kolegium wydaje postanowienie sygnalizacyjne, którego odpisy przekazuje organowi jednostki samorządu terytorialnego i, odrębnie, komisji rewizyjnej odpowiednio rady gminy, powiatu albo sejmiku województwa oraz właściwemu wojewodzie."
     },
     {
       "provision_ref": "art20u2",
       "section": "20",
       "title": "Art. 20 ust. 2",
-      "content": "Postanowienie, o którym mowa w ust. 1, stanowi podstawę do wszczęcia postępowania dyscyplinarnego w stosunku do pracowników samorządowych, jeżeli ich działanie lub zaniechanie jest przyczyną powstania uchybień w pracy organu gminy."
+      "content": "Postanowienie, o którym mowa w ust. 1, stanowi podstawę do wszczęcia postępowania dyscyplinarnego w stosunku do pracowników samorządowych, jeżeli ich działanie lub zaniechanie jest przyczyną powstania uchybień w pracy organu jednostki samorządu terytorialnego."
     },
     {
       "provision_ref": "art20u3",
@@ -649,79 +1075,49 @@
       "provision_ref": "art21",
       "section": "21",
       "title": "Art. 21",
-      "content": "Przy orzekaniu członkowie składów orzekających kolegium są związani wyłącznie przepisami prawa. Kontrolę kolegiów w zakresie orzecznictwa sprawuje sąd administracyjny na zasadach i w trybie określonych przepisami o postępowaniu administracyjnym."
+      "content": "Przy orzekaniu członkowie składów orzekających kolegium są związani wyłącznie przepisami powszechnie obowiązującego prawa. Kontrolę orzecznictwa kolegiów sprawuje sąd administracyjny."
     },
     {
       "provision_ref": "art21u1",
       "section": "21",
       "title": "Art. 21 ust. 1",
-      "content": "Przy orzekaniu członkowie składów orzekających kolegium są związani wyłącznie przepisami prawa."
+      "content": "Przy orzekaniu członkowie składów orzekających kolegium są związani wyłącznie przepisami powszechnie obowiązującego prawa."
     },
     {
       "provision_ref": "art21u2",
       "section": "21",
       "title": "Art. 21 ust. 2",
-      "content": "Kontrolę kolegiów w zakresie orzecznictwa sprawuje sąd administracyjny na zasadach i w trybie określonych przepisami o postępowaniu administracyjnym."
+      "content": "Kontrolę orzecznictwa kolegiów sprawuje sąd administracyjny."
     },
     {
       "provision_ref": "art22",
       "section": "22",
       "title": "Art. 22",
-      "content": "Kolegium w pełnym składzie może, na zasadach określonych ustawami, wystąpić do Naczelnego Sądu Administracyjnego lub Trybunału Konstytucyjnego z pytaniem prawnym, od odpowiedzi na które zależy rozstrzygnięcie rozpoznawanej sprawy. Kolegium w pełnym składzie może również występować z wnioskami, o których mowa w art. 22 ust. 1 ustawy z dnia 29 kwietnia 1985 r. o Trybunale Konstytucyjnym , na zasadach i w trybie określonych w tej ustawie. Wniesienie pytania, o którym mowa w ust. 1, powoduje z mocy prawa zawieszenie postępowania w sprawie, w związku z którą zostało wniesione. W sprawach, o których mowa w ust. 1 i 2, uchwały podejmowane są na wniosek składu orzekającego. Do podjęcia uchwały przez pełny skład kolegium wymagana jest obecność co najmniej 3/5 składu kolegium. Uchwały podejmowane są w głosowaniu jawnym, bezwzględną większością głosów. W razie równości głosów przeważa głos przewodniczącego kolegium. Przepis art. 21 ust. 1 stosuje się odpowiednio."
-    },
-    {
-      "provision_ref": "art22u1",
-      "section": "22",
-      "title": "Art. 22 ust. 1",
-      "content": "Kolegium w pełnym składzie może, na zasadach określonych ustawami, wystąpić do Naczelnego Sądu Administracyjnego lub Trybunału Konstytucyjnego z pytaniem prawnym, od odpowiedzi na które zależy rozstrzygnięcie rozpoznawanej sprawy."
-    },
-    {
-      "provision_ref": "art22u2",
-      "section": "22",
-      "title": "Art. 22 ust. 2",
-      "content": "Kolegium w pełnym składzie może również występować z wnioskami, o których mowa w art. 22 ust. 1 ustawy z dnia 29 kwietnia 1985 r. o Trybunale Konstytucyjnym , na zasadach i w trybie określonych w tej ustawie."
-    },
-    {
-      "provision_ref": "art22u3",
-      "section": "22",
-      "title": "Art. 22 ust. 3",
-      "content": "Wniesienie pytania, o którym mowa w ust. 1, powoduje z mocy prawa zawieszenie postępowania w sprawie, w związku z którą zostało wniesione."
-    },
-    {
-      "provision_ref": "art22u4",
-      "section": "22",
-      "title": "Art. 22 ust. 4",
-      "content": "W sprawach, o których mowa w ust. 1 i 2, uchwały podejmowane są na wniosek składu orzekającego. Do podjęcia uchwały przez pełny skład kolegium wymagana jest obecność co najmniej 3/5 składu kolegium. Uchwały podejmowane są w głosowaniu jawnym, bezwzględną większością głosów. W razie równości głosów przeważa głos przewodniczącego kolegium."
-    },
-    {
-      "provision_ref": "art22u5",
-      "section": "22",
-      "title": "Art. 22 ust. 5",
-      "content": "Przepis art. 21 ust. 1 stosuje się odpowiednio."
+      "content": "(uchylony)"
     },
     {
       "provision_ref": "art23",
       "section": "23",
       "title": "Art. 23",
-      "content": "Zgromadzeni na wspólnym posiedzeniu przewodniczący kolegiów tworzą, z mocy prawa, krajową reprezentację samorządowych kolegiów odwoławczych."
+      "content": "Zgromadzeni na wspólnym posiedzeniu prezesi kolegiów tworzą, z mocy prawa, Krajową Reprezentację Samorządowych Kolegiów Odwoławczych."
     },
     {
       "provision_ref": "art24",
       "section": "24",
       "title": "Art. 24",
-      "content": "Do zadań zgromadzenia, o którym mowa w art. 23, należy: wymiana doświadczeń w zakresie organizacji i funkcjonowania kolegiów, a także ich działalności orzeczniczej, opiniowanie projektów aktów prawnych w szczególności dotyczących kolegiów i postępowania administracyjnego, określenie zasad organizacji prac zgromadzenia oraz podejmowanie uchwał w innych istotnych sprawach dotyczących kolegiów. Obsługę zgromadzenia zapewnia, każdorazowo, biuro kolegium, w którego siedzibie odbywa się posiedzenie zgromadzenia."
+      "content": "Do zadań zgromadzenia, o którym mowa w art. 23, należy: wymiana doświadczeń w zakresie organizacji i funkcjonowania kolegiów, a także ich działalności orzeczniczej; opiniowanie projektów aktów prawnych w szczególności dotyczących kolegiów i postępowania administracyjnego; określenie zasad organizacji prac zgromadzenia oraz podejmowanie uchwał w innych istotnych sprawach dotyczących kolegiów. Obsługę zgromadzenia zapewnia, każdorazowo, biuro kolegium, w którego siedzibie odbywa się posiedzenie zgromadzenia."
     },
     {
       "provision_ref": "art24u1p1",
       "section": "24",
       "title": "Art. 24 ust. 1 pkt 1",
-      "content": "Do zadań zgromadzenia, o którym mowa w art. 23, należy: wymiana doświadczeń w zakresie organizacji i funkcjonowania kolegiów, a także ich działalności orzeczniczej,"
+      "content": "Do zadań zgromadzenia, o którym mowa w art. 23, należy: wymiana doświadczeń w zakresie organizacji i funkcjonowania kolegiów, a także ich działalności orzeczniczej;"
     },
     {
       "provision_ref": "art24u1p2",
       "section": "24",
       "title": "Art. 24 ust. 1 pkt 2",
-      "content": "Do zadań zgromadzenia, o którym mowa w art. 23, należy: opiniowanie projektów aktów prawnych w szczególności dotyczących kolegiów i postępowania administracyjnego,"
+      "content": "Do zadań zgromadzenia, o którym mowa w art. 23, należy: opiniowanie projektów aktów prawnych w szczególności dotyczących kolegiów i postępowania administracyjnego;"
     },
     {
       "provision_ref": "art24u1p3",
@@ -739,127 +1135,13 @@
       "provision_ref": "art25",
       "section": "25",
       "title": "Art. 25",
-      "content": "W ustawie z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego wprowadza się następujące zmiany: użyte w art. 5 § 2 pkt 6, art. 22 § 1 pkt 1 i 2, art. 27 § 3, art. 127 § 4, art. 150 § 3, art. 152 § 2 w różnych przypadkach i liczbie wyrazy „kolegium odwoławcze przy sejmiku” zastępuje się użytymi w odpowiednich przypadkach i liczbie wyrazami „samorządowe kolegia odwoławcze”; w art. 17 pkt 1 otrzymuje brzmienie: „ w stosunku do organów gmin w sprawach należących do zadań zleconych z zakresu administracji rządowej - wojewodowie, a w pozostałych sprawach - samorządowe kolegia odwoławcze, ” ; art. 27a skreśla się; w art. 145 w § 1 pkt 3 otrzymuje brzmienie: „ decyzja wydana została przez pracownika lub organ administracji państwowej, który podlega wyłączeniu stosownie do art. 24, 25 i 27 ” ; w art. 157 w § 1 po wyrazach „naczelny organ administracji państwowej” dodaje się wyrazy „lub samorządowe kolegium odwoławcze” oraz skreśla zdanie drugie."
-    },
-    {
-      "provision_ref": "art25p1",
-      "section": "25",
-      "title": "Art. 25 pkt 1",
-      "content": "W ustawie z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego wprowadza się następujące zmiany: użyte w art. 5 § 2 pkt 6, art. 22 § 1 pkt 1 i 2, art. 27 § 3, art. 127 § 4, art. 150 § 3, art. 152 § 2 w różnych przypadkach i liczbie wyrazy „kolegium odwoławcze przy sejmiku” zastępuje się użytymi w odpowiednich przypadkach i liczbie wyrazami „samorządowe kolegia odwoławcze”;"
-    },
-    {
-      "provision_ref": "art25p2p1",
-      "section": "25",
-      "title": "Art. 25 pkt 2 pkt 1",
-      "content": "W ustawie z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego wprowadza się następujące zmiany: w art. 17 pkt 1 otrzymuje brzmienie: „ w stosunku do organów gmin w sprawach należących do zadań zleconych z zakresu administracji rządowej - wojewodowie, a w pozostałych sprawach - samorządowe kolegia odwoławcze,"
-    },
-    {
-      "provision_ref": "art25p3",
-      "section": "25",
-      "title": "Art. 25 pkt 3",
-      "content": "W ustawie z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego wprowadza się następujące zmiany: art. 27a skreśla się;"
-    },
-    {
-      "provision_ref": "art25p4p3",
-      "section": "25",
-      "title": "Art. 25 pkt 4 pkt 3",
-      "content": "W ustawie z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego wprowadza się następujące zmiany: w art. 145 w § 1 pkt 3 otrzymuje brzmienie: „ decyzja wydana została przez pracownika lub organ administracji państwowej, który podlega wyłączeniu stosownie do art. 24, 25 i 27"
-    },
-    {
-      "provision_ref": "art25p5",
-      "section": "25",
-      "title": "Art. 25 pkt 5",
-      "content": "W ustawie z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego wprowadza się następujące zmiany: w art. 157 w § 1 po wyrazach „naczelny organ administracji państwowej” dodaje się wyrazy „lub samorządowe kolegium odwoławcze” oraz skreśla zdanie drugie."
-    },
-    {
-      "provision_ref": "art26",
-      "section": "26",
-      "title": "Art. 26",
-      "content": "W ustawie z dnia 31 stycznia 1980 r. o Naczelnym Sądzie Administracyjnym oraz o zmianie ustawy - Kodeks postępowania administracyjnego dodaje się art. 2a w brzmieniu: „ Naczelny Sąd Administracyjny podejmuje uchwały zawierające rozstrzygnięcia zagadnień prawnych w kwestiach budzących poważne wątpliwości w konkretnej sprawie, przedstawionych w formie pytań prawnych przez samorządowe kolegia odwoławcze. Uchwała sądu, o której mowa w ust. 1, zapada w składzie 5 sędziów i wiąże w danej sprawie. ”"
-    },
-    {
-      "provision_ref": "art26u1",
-      "section": "26",
-      "title": "Art. 26 ust. 1",
-      "content": "W ustawie z dnia 31 stycznia 1980 r. o Naczelnym Sądzie Administracyjnym oraz o zmianie ustawy - Kodeks postępowania administracyjnego dodaje się art. 2a w brzmieniu: „ Naczelny Sąd Administracyjny podejmuje uchwały zawierające rozstrzygnięcia zagadnień prawnych w kwestiach budzących poważne wątpliwości w konkretnej sprawie, przedstawionych w formie pytań prawnych przez samorządowe kolegia odwoławcze."
-    },
-    {
-      "provision_ref": "art26u2",
-      "section": "26",
-      "title": "Art. 26 ust. 2",
-      "content": "W ustawie z dnia 31 stycznia 1980 r. o Naczelnym Sądzie Administracyjnym oraz o zmianie ustawy - Kodeks postępowania administracyjnego dodaje się art. 2a w brzmieniu: „ Uchwała sądu, o której mowa w ust. 1, zapada w składzie 5 sędziów i wiąże w danej sprawie."
-    },
-    {
-      "provision_ref": "art27",
-      "section": "27",
-      "title": "Art. 27",
-      "content": "W ustawie z dnia 29 kwietnia 1985 r. o Trybunale Konstytucyjnym wprowadza się następujące zmiany: w art. 23 w ust. 1 po wyrazach „rada gminy lub sejmik samorządowy” dodaje się wyrazy „a także samorządowe kolegium odwoławcze” ; w art. 25 w ust. 1 po wyrazach „administracji państwowej” dodaje się wyrazy „a także samorządowe kolegia odwoławcze” ."
-    },
-    {
-      "provision_ref": "art27p1",
-      "section": "27",
-      "title": "Art. 27 pkt 1",
-      "content": "W ustawie z dnia 29 kwietnia 1985 r. o Trybunale Konstytucyjnym wprowadza się następujące zmiany: w art. 23 w ust. 1 po wyrazach „rada gminy lub sejmik samorządowy” dodaje się wyrazy „a także samorządowe kolegium odwoławcze” ;"
-    },
-    {
-      "provision_ref": "art27p2",
-      "section": "27",
-      "title": "Art. 27 pkt 2",
-      "content": "W ustawie z dnia 29 kwietnia 1985 r. o Trybunale Konstytucyjnym wprowadza się następujące zmiany: w art. 25 w ust. 1 po wyrazach „administracji państwowej” dodaje się wyrazy „a także samorządowe kolegia odwoławcze” ."
-    },
-    {
-      "provision_ref": "art28",
-      "section": "28",
-      "title": "Art. 28",
-      "content": "W ustawie z dnia 8 marca 1990 r. o samorządzie terytorialnym wprowadza się następujące zmiany: w art. 39: ust. 4 otrzymuje brzmienie: „ Z zastrzeżeniem ust. 5, od decyzji administracyjnych wydawanych przez organy gminy służy odwołanie do samorządowego kolegium odwoławczego. ” , dodaje się ust. 5 w brzmieniu: „ Od decyzji administracyjnych wydawanych przez organy gminy w sprawach zleconych z zakresu administracji rządowej służy odwołanie do wojewody. ” ; w art. 77 w ust. 1 pkt 11 otrzymuje brzmienie: „ wybór przewodniczącego oraz powoływanie jego zastępcy i pozostałych członków samorządowego kolegium odwoławczego, o którym mowa w art. 39 ust. 4, a także ich odwoływanie - na zasadach określonych odrębną ustawą, ” ; art. 81 otrzymuje brzmienie: „ Ustrój oraz zasady działania samorządowego kolegium odwoławczego określa odrębna ustawa. ” ; po art. 101 dodaje się art. 101a w brzmieniu: „ Przepisy art. 101 stosuje się odpowiednio, gdy organ gminy nie wykonuje czynności nakazanych prawem albo przez podejmowane czynności prawne lub faktyczne narusza prawa osób trzecich. W przypadkach, o których mowa w ust. 1, sąd administracyjny może nakazać organowi nadzoru wykonanie niezbędnych czynności na rzecz skarżącego, na koszt i ryzyko gminy. ” ; w art. 102 wyrazy „kolegia odwoławcze przy sejmikach” zastępuje się wyrazami „samorządowe kolegia odwoławcze” ."
-    },
-    {
-      "provision_ref": "art28p1lau4",
-      "section": "28",
-      "title": "Art. 28 pkt 1 lit. au",
-      "content": "W ustawie z dnia 8 marca 1990 r. o samorządzie terytorialnym wprowadza się następujące zmiany: w art. 39: ust. 4 otrzymuje brzmienie: „ Z zastrzeżeniem ust. 5, od decyzji administracyjnych wydawanych przez organy gminy służy odwołanie do samorządowego kolegium odwoławczego."
-    },
-    {
-      "provision_ref": "art28p1lbu5",
-      "section": "28",
-      "title": "Art. 28 pkt 1 lit. bu",
-      "content": "W ustawie z dnia 8 marca 1990 r. o samorządzie terytorialnym wprowadza się następujące zmiany: w art. 39: dodaje się ust. 5 w brzmieniu: „ Od decyzji administracyjnych wydawanych przez organy gminy w sprawach zleconych z zakresu administracji rządowej służy odwołanie do wojewody."
-    },
-    {
-      "provision_ref": "art28p2p11",
-      "section": "28",
-      "title": "Art. 28 pkt 2 pkt 11",
-      "content": "W ustawie z dnia 8 marca 1990 r. o samorządzie terytorialnym wprowadza się następujące zmiany: w art. 77 w ust. 1 pkt 11 otrzymuje brzmienie: „ wybór przewodniczącego oraz powoływanie jego zastępcy i pozostałych członków samorządowego kolegium odwoławczego, o którym mowa w art. 39 ust. 4, a także ich odwoływanie - na zasadach określonych odrębną ustawą,"
-    },
-    {
-      "provision_ref": "art28p3",
-      "section": "28",
-      "title": "Art. 28 pkt 3",
-      "content": "W ustawie z dnia 8 marca 1990 r. o samorządzie terytorialnym wprowadza się następujące zmiany: art. 81 otrzymuje brzmienie: „ Ustrój oraz zasady działania samorządowego kolegium odwoławczego określa odrębna ustawa. ” ;"
-    },
-    {
-      "provision_ref": "art28p4u1",
-      "section": "28",
-      "title": "Art. 28 pkt 4 ust. 1",
-      "content": "W ustawie z dnia 8 marca 1990 r. o samorządzie terytorialnym wprowadza się następujące zmiany: po art. 101 dodaje się art. 101a w brzmieniu: „ Przepisy art. 101 stosuje się odpowiednio, gdy organ gminy nie wykonuje czynności nakazanych prawem albo przez podejmowane czynności prawne lub faktyczne narusza prawa osób trzecich."
-    },
-    {
-      "provision_ref": "art28p4u2",
-      "section": "28",
-      "title": "Art. 28 pkt 4 ust. 2",
-      "content": "W ustawie z dnia 8 marca 1990 r. o samorządzie terytorialnym wprowadza się następujące zmiany: po art. 101 dodaje się art. 101a w brzmieniu: „ W przypadkach, o których mowa w ust. 1, sąd administracyjny może nakazać organowi nadzoru wykonanie niezbędnych czynności na rzecz skarżącego, na koszt i ryzyko gminy."
-    },
-    {
-      "provision_ref": "art28p5",
-      "section": "28",
-      "title": "Art. 28 pkt 5",
-      "content": "W ustawie z dnia 8 marca 1990 r. o samorządzie terytorialnym wprowadza się następujące zmiany: w art. 102 wyrazy „kolegia odwoławcze przy sejmikach” zastępuje się wyrazami „samorządowe kolegia odwoławcze” ."
+      "content": "(pominięte)"
     },
     {
       "provision_ref": "art29",
       "section": "29",
       "title": "Art. 29",
-      "content": "Kolegia odwoławcze przy sejmikach samorządowych, działające na podstawie dotychczasowych przepisów, stają się, z dniem wejścia w życie ustawy, samorządowymi kolegiami odwoławczymi. Do dnia 31 grudnia 1994 r. samorządowe kolegia odwoławcze finansowane są według dotychczasowych zasad. Sprawy, w których postępowanie nie zostało zakończone przed kolegiami odwoławczymi przy sejmikach samorządowych, z dniem wejścia ustawy w życie przejmują do załatwienia samorządowe kolegia odwoławcze."
+      "content": "Kolegia odwoławcze przy sejmikach samorządowych, działające na podstawie dotychczasowych przepisów, stają się, z dniem wejścia w życie ustawy, samorządowymi kolegiami odwoławczymi. (pominięty) (pominięty)"
     },
     {
       "provision_ref": "art29u1",
@@ -871,19 +1153,19 @@
       "provision_ref": "art29u2",
       "section": "29",
       "title": "Art. 29 ust. 2",
-      "content": "Do dnia 31 grudnia 1994 r. samorządowe kolegia odwoławcze finansowane są według dotychczasowych zasad."
+      "content": "(pominięty)"
     },
     {
       "provision_ref": "art29u3",
       "section": "29",
       "title": "Art. 29 ust. 3",
-      "content": "Sprawy, w których postępowanie nie zostało zakończone przed kolegiami odwoławczymi przy sejmikach samorządowych, z dniem wejścia ustawy w życie przejmują do załatwienia samorządowe kolegia odwoławcze."
+      "content": "(pominięty)"
     },
     {
       "provision_ref": "art30",
       "section": "30",
       "title": "Art. 30",
-      "content": "Członkowie dotychczasowych kolegiów odwoławczych przy sejmikach samorządowych, wykonujący tę funkcję w ramach stosunku pracy, stają się, z dniem wejścia w życie ustawy, etatowymi członkami terytorialnie odpowiedniego kolegium, chyba że nie spełniają warunków, o których mowa w art. 5 ust. 1. Do czasu wyboru pozaetatowych członków kolegiów w trybie art. 32 ust. 2 członkowie kolegiów odwoławczych przy sejmikach samorządowych, o których mowa w ust. 1, nie spełniający warunków określonych w art. 5 ust. 1, stają się, z dniem wejścia w życie ustawy, pozaetatowymi członkami kolegiów. Przepis ust. 2 stosuje się odpowiednio do członków kolegiów odwoławczych przy sejmikach samorządowych, którzy do czasu wejścia w życie ustawy pozaetatowo wykonywali tę funkcję. Stosunek pracy z członkami kolegiów, o których mowa w ust. 1, przekształca się, z dniem wejścia w życie ustawy, w stosunek pracy na podstawie powołania. Stosunek pracy z członkami kolegiów odwoławczych przy sejmikach samorządowych, o których mowa w ust. 2, z dniem wejścia w życie ustawy wygasa. Członkom tym przysługuje od właściwego sejmiku samorządowego odszkodowanie w wysokości równej wynagrodzeniu za okres wypowiedzenia."
+      "content": "Członkowie dotychczasowych kolegiów odwoławczych przy sejmikach samorządowych, wykonujący tę funkcję w ramach stosunku pracy, stają się, z dniem wejścia w życie ustawy, etatowymi członkami terytorialnie odpowiedniego kolegium, chyba że nie spełniają warunków, o których mowa w art. 5 ust. 1. Do czasu wyboru pozaetatowych członków kolegiów w trybie art. 32 ust. 2 członkowie kolegiów odwoławczych przy sejmikach samorządowych, o których mowa w ust. 1, niespełniający warunków określonych w art. 5 ust. 1, stają się, z dniem wejścia w życie ustawy, pozaetatowymi członkami kolegiów. Przepis ust. 2 stosuje się odpowiednio do członków kolegiów odwoławczych przy sejmikach samorządowych, którzy do czasu wejścia w życie ustawy pozaetatowo wykonywali tę funkcję. Stosunek pracy z członkami kolegiów, o których mowa w ust. 1, przekształca się, z dniem wejścia w życie ustawy, w stosunek pracy na podstawie powołania. Stosunek pracy z członkami kolegiów odwoławczych przy sejmikach samorządowych, o których mowa w ust. 2, z dniem wejścia w życie ustawy wygasa. Członkom tym przysługuje od właściwego sejmiku samorządowego odszkodowanie w wysokości równej wynagrodzeniu za okres wypowiedzenia."
     },
     {
       "provision_ref": "art30u1",
@@ -895,7 +1177,7 @@
       "provision_ref": "art30u2",
       "section": "30",
       "title": "Art. 30 ust. 2",
-      "content": "Do czasu wyboru pozaetatowych członków kolegiów w trybie art. 32 ust. 2 członkowie kolegiów odwoławczych przy sejmikach samorządowych, o których mowa w ust. 1, nie spełniający warunków określonych w art. 5 ust. 1, stają się, z dniem wejścia w życie ustawy, pozaetatowymi członkami kolegiów."
+      "content": "Do czasu wyboru pozaetatowych członków kolegiów w trybie art. 32 ust. 2 członkowie kolegiów odwoławczych przy sejmikach samorządowych, o których mowa w ust. 1, niespełniający warunków określonych w art. 5 ust. 1, stają się, z dniem wejścia w życie ustawy, pozaetatowymi członkami kolegiów."
     },
     {
       "provision_ref": "art30u3",
@@ -937,25 +1219,7 @@
       "provision_ref": "art32",
       "section": "32",
       "title": "Art. 32",
-      "content": "Wybór pierwszego przewodniczącego kolegium następuje nie później niż w terminie 4 miesięcy od dnia wejścia w życie ustawy. Do tego czasu funkcje przewodniczącego kolegium pełni przewodniczący kolegium odwoławczego przy sejmiku samorządowym. Do pierwszego składu kolegium sejmik wybiera połowę pozaetatowych członków kolegium na okres 3 lat, połowę zaś na okres 6 lat. Pierwsze składy kolegiów powołanych na podstawie niniejszej ustawy rozpoczynają działalność nie wcześniej niż 1 stycznia 1995 r."
-    },
-    {
-      "provision_ref": "art32u1",
-      "section": "32",
-      "title": "Art. 32 ust. 1",
-      "content": "Wybór pierwszego przewodniczącego kolegium następuje nie później niż w terminie 4 miesięcy od dnia wejścia w życie ustawy. Do tego czasu funkcje przewodniczącego kolegium pełni przewodniczący kolegium odwoławczego przy sejmiku samorządowym."
-    },
-    {
-      "provision_ref": "art32u2",
-      "section": "32",
-      "title": "Art. 32 ust. 2",
-      "content": "Do pierwszego składu kolegium sejmik wybiera połowę pozaetatowych członków kolegium na okres 3 lat, połowę zaś na okres 6 lat."
-    },
-    {
-      "provision_ref": "art32u3",
-      "section": "32",
-      "title": "Art. 32 ust. 3",
-      "content": "Pierwsze składy kolegiów powołanych na podstawie niniejszej ustawy rozpoczynają działalność nie wcześniej niż 1 stycznia 1995 r."
+      "content": "(pominięty)"
     },
     {
       "provision_ref": "art33",
@@ -973,125 +1237,45 @@
       "provision_ref": "art35",
       "section": "35",
       "title": "Art. 35",
-      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia 7) Ustawa została ogłoszona w dniu 21 listopada 1994 r. ."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-1991-470",
+      "target_document_id": "pl-du-2017-1523",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1993-213",
+      "target_document_id": "pl-du-2015-1659",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1980-26",
+      "target_document_id": "pl-du-2017-935",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1980-111",
+      "target_document_id": "pl-du-2017-201",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1982-55",
+      "target_document_id": "pl-du-2017-1369",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1982-289",
+      "target_document_id": "pl-du-2017-1370",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1983-185",
+      "target_document_id": "pl-du-2017-2451",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1984-183",
+      "target_document_id": "pl-du-2018-121",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1986-228",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1987-123",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1987-186",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1989-107",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1990-201",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1991-442",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1991-513",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1980-8",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1980-68",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1989-436",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1990-306",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1990-95",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1990-191",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1990-199",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1990-253",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1990-518",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1991-18",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1991-473",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1992-428",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1992-499",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1993-78",
+      "target_document_id": "pl-du-2018-50",
       "ref_type": "references"
     },
     {

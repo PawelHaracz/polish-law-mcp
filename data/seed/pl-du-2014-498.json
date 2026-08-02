@@ -10,16 +10,58 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2014/498",
   "provisions": [
     {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem: art. 1 pkt 3, który wchodzi w życie z dniem 1 stycznia 2022 r., w zakresie dotyczącym rejestrów publicznych innych niż rejestr danych kontaktowych osób fizycznych; art. 5 i art. 9, które wchodzą w życie z dniem wejścia w życie ustawy z dnia 16 kwietnia 2020 r. o szczególnych instrumentach wsparcia w związku z rozprzestrzenianiem się wirusa SARS-CoV-2 ; art. 6 pkt 1, który wchodzi w życie z dniem 12 stycznia 2020 r.; art. 7: pkt 4, który wchodzi w życie z dniem 28 kwietnia 2020 r., pkt 1-3 i 5-7, które wchodzą w życie z dniem 28 maja 2020 r.; art. 11, który wchodzi w życie z dniem 1 stycznia 2020 r."
+    },
+    {
+      "provision_ref": "art15p1",
+      "section": "15",
+      "title": "Art. 15 pkt 1",
+      "content": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem: art. 1 pkt 3, który wchodzi w życie z dniem 1 stycznia 2022 r., w zakresie dotyczącym rejestrów publicznych innych niż rejestr danych kontaktowych osób fizycznych;"
+    },
+    {
+      "provision_ref": "art15p2",
+      "section": "15",
+      "title": "Art. 15 pkt 2",
+      "content": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem: art. 5 i art. 9, które wchodzą w życie z dniem wejścia w życie ustawy z dnia 16 kwietnia 2020 r. o szczególnych instrumentach wsparcia w związku z rozprzestrzenianiem się wirusa SARS-CoV-2 ;"
+    },
+    {
+      "provision_ref": "art15p3",
+      "section": "15",
+      "title": "Art. 15 pkt 3",
+      "content": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem: art. 6 pkt 1, który wchodzi w życie z dniem 12 stycznia 2020 r.;"
+    },
+    {
+      "provision_ref": "art15p4la",
+      "section": "15",
+      "title": "Art. 15 pkt 4 lit. a",
+      "content": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem: art. 7: pkt 4, który wchodzi w życie z dniem 28 kwietnia 2020 r.,"
+    },
+    {
+      "provision_ref": "art15p4lb",
+      "section": "15",
+      "title": "Art. 15 pkt 4 lit. b",
+      "content": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem: art. 7: pkt 1-3 i 5-7, które wchodzą w życie z dniem 28 maja 2020 r.;"
+    },
+    {
+      "provision_ref": "art15p5",
+      "section": "15",
+      "title": "Art. 15 pkt 5",
+      "content": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem: art. 11, który wchodzi w życie z dniem 1 stycznia 2020 r."
+    },
+    {
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
-      "content": "Zbiórką publiczną jest zbieranie ofiar w gotówce lub w naturze w miejscu publicznym na określony, zgodny z prawem cel pozostający w sferze zadań publicznych, o których mowa w art. 4 ust. 1 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie ) , oraz na cele religijne. Miejsca publiczne to miejsca ogólnodostępne, a w szczególności ulice, place, parki i cmentarze."
+      "content": "Zbiórką publiczną jest zbieranie ofiar w gotówce lub w naturze w miejscu publicznym na określony, zgodny z prawem cel pozostający w sferze zadań publicznych, o których mowa w art. 4 ust. 1 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie , oraz na cele religijne. Miejsca publiczne to miejsca ogólnodostępne, a w szczególności ulice, place, parki i cmentarze."
     },
     {
       "provision_ref": "art1u1",
       "section": "1",
       "title": "Art. 1 ust. 1",
-      "content": "Zbiórką publiczną jest zbieranie ofiar w gotówce lub w naturze w miejscu publicznym na określony, zgodny z prawem cel pozostający w sferze zadań publicznych, o których mowa w art. 4 ust. 1 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie ) , oraz na cele religijne."
+      "content": "Zbiórką publiczną jest zbieranie ofiar w gotówce lub w naturze w miejscu publicznym na określony, zgodny z prawem cel pozostający w sferze zadań publicznych, o których mowa w art. 4 ust. 1 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie , oraz na cele religijne."
     },
     {
       "provision_ref": "art1u2",
@@ -205,7 +247,7 @@
       "provision_ref": "art9",
       "section": "9",
       "title": "Art. 9",
-      "content": "Zgłoszenie zbiórki publicznej zawiera w szczególności: cel zbiórki publicznej; dane organizatora zbiórki: nazwę podmiotu, oznaczenie siedziby oraz numer wpisu do Krajowego Rejestru Sądowego, numer identyfikacji podatkowej (NIP) lub numer identyfikacyjny REGON - w przypadku organizatora, o którym mowa w art. 3 pkt 1 i 2, imiona i nazwiska członków komitetu społecznego, ich adresy zamieszkania, numery PESEL, a w przypadku gdy członek komitetu nie ma numeru PESEL, serię i numer dokumentu potwierdzającego jego tożsamość - w przypadku organizatora, o którym mowa w art. 3 pkt 3; dane, w zakresie określonym w pkt 2 lit. b, osoby uprawnionej do reprezentowania organizatora zbiórki; sposób prowadzenia zbiórki publicznej; miejsce prowadzenia zbiórki publicznej; termin rozpoczęcia i termin zakończenia zbiórki publicznej; przewidywane koszty niezbędne do zorganizowania i przeprowadzenia zbiórki, które zostaną pokryte z zebranych ofiar. Zgłoszenie zbiórki publicznej dokonywane w postaci elektronicznej osoba uprawniona do reprezentowania organizatora zbiórki opatruje bezpiecznym podpisem elektronicznym weryfikowanym przy pomocy ważnego kwalifikowanego certyfikatu lub podpisem potwierdzonym profilem zaufanym ePUAP. Wzór zgłoszenia zbiórki publicznej udostępnia się nieodpłatnie na portalu zbiórek publicznych. W przypadku gdy organizator zbiórki jest reprezentowany przez pełnomocnika, do zgłoszenia zbiórki publicznej dołącza się oryginał albo kopię pełnomocnictwa."
+      "content": "Zgłoszenie zbiórki publicznej zawiera w szczególności: cel zbiórki publicznej; dane organizatora zbiórki: nazwę podmiotu, oznaczenie siedziby oraz numer wpisu do Krajowego Rejestru Sądowego, numer identyfikacji podatkowej (NIP) lub numer identyfikacyjny REGON - w przypadku organizatora, o którym mowa w art. 3 pkt 1 i 2, imiona i nazwiska członków komitetu społecznego, ich adresy zamieszkania, numery PESEL, a w przypadku gdy członek komitetu nie ma numeru PESEL, serię i numer dokumentu potwierdzającego jego tożsamość - w przypadku organizatora, o którym mowa w art. 3 pkt 3; dane, w zakresie określonym w pkt 2 lit. b, osoby uprawnionej do reprezentowania organizatora zbiórki; sposób prowadzenia zbiórki publicznej; miejsce prowadzenia zbiórki publicznej; termin rozpoczęcia i termin zakończenia zbiórki publicznej; przewidywane koszty niezbędne do zorganizowania i przeprowadzenia zbiórki, które zostaną pokryte z zebranych ofiar. Zgłoszenie zbiórki publicznej dokonywane w postaci elektronicznej osoba uprawniona do reprezentowania organizatora zbiórki opatruje kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. Wzór zgłoszenia zbiórki publicznej udostępnia się nieodpłatnie na portalu zbiórek publicznych. W przypadku gdy organizator zbiórki jest reprezentowany przez pełnomocnika, do zgłoszenia zbiórki publicznej dołącza się oryginał albo kopię pełnomocnictwa."
     },
     {
       "provision_ref": "art9u1p1",
@@ -259,7 +301,7 @@
       "provision_ref": "art9u2",
       "section": "9",
       "title": "Art. 9 ust. 2",
-      "content": "Zgłoszenie zbiórki publicznej dokonywane w postaci elektronicznej osoba uprawniona do reprezentowania organizatora zbiórki opatruje bezpiecznym podpisem elektronicznym weryfikowanym przy pomocy ważnego kwalifikowanego certyfikatu lub podpisem potwierdzonym profilem zaufanym ePUAP."
+      "content": "Zgłoszenie zbiórki publicznej dokonywane w postaci elektronicznej osoba uprawniona do reprezentowania organizatora zbiórki opatruje kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym."
     },
     {
       "provision_ref": "art9u3",
@@ -349,7 +391,7 @@
       "provision_ref": "art11",
       "section": "11",
       "title": "Art. 11",
-      "content": "W przypadku zbiórki publicznej organizowanej przez komitet społeczny, członkowie komitetu dołączają do zgłoszenia zbiórki publicznej akt założycielski sporządzony: z wykorzystaniem formularza elektronicznego udostępnionego nieodpłatnie na portalu zbiórek publicznych przez ministra właściwego do spraw administracji publicznej, w przypadku zgłoszenia dokonywanego w postaci elektronicznej, albo według wzoru udostępnionego nieodpłatnie na portalu zbiórek publicznych przez ministra właściwego do spraw administracji publicznej, w przypadku zgłoszenia dokonywanego w postaci papierowej. Akt założycielski sporządzony w postaci elektronicznej członkowie komitetu społecznego opatrują bezpiecznymi podpisami elektronicznymi weryfikowanymi przy pomocy ważnych kwalifikowanych certyfikatów lub podpisami potwierdzonymi profilami zaufanymi ePUAP. Akt założycielski sporządzony w postaci papierowej członkowie komitetu społecznego opatrują własnoręcznymi podpisami."
+      "content": "W przypadku zbiórki publicznej organizowanej przez komitet społeczny, członkowie komitetu dołączają do zgłoszenia zbiórki publicznej akt założycielski sporządzony: z wykorzystaniem formularza elektronicznego udostępnionego nieodpłatnie na portalu zbiórek publicznych przez ministra właściwego do spraw administracji publicznej, w przypadku zgłoszenia dokonywanego w postaci elektronicznej, albo według wzoru udostępnionego nieodpłatnie na portalu zbiórek publicznych przez ministra właściwego do spraw administracji publicznej, w przypadku zgłoszenia dokonywanego w postaci papierowej. Akt założycielski sporządzony w postaci elektronicznej członkowie komitetu społecznego opatrują kwalifikowanymi podpisami elektronicznymi, podpisami zaufanymi lub podpisami osobistymi. Akt założycielski sporządzony w postaci papierowej członkowie komitetu społecznego opatrują własnoręcznymi podpisami."
     },
     {
       "provision_ref": "art11u1p1",
@@ -367,7 +409,7 @@
       "provision_ref": "art11u2",
       "section": "11",
       "title": "Art. 11 ust. 2",
-      "content": "Akt założycielski sporządzony w postaci elektronicznej członkowie komitetu społecznego opatrują bezpiecznymi podpisami elektronicznymi weryfikowanymi przy pomocy ważnych kwalifikowanych certyfikatów lub podpisami potwierdzonymi profilami zaufanymi ePUAP."
+      "content": "Akt założycielski sporządzony w postaci elektronicznej członkowie komitetu społecznego opatrują kwalifikowanymi podpisami elektronicznymi, podpisami zaufanymi lub podpisami osobistymi."
     },
     {
       "provision_ref": "art11u3",
@@ -517,7 +559,7 @@
       "provision_ref": "art18",
       "section": "18",
       "title": "Art. 18",
-      "content": "Sprawozdania, o których mowa w art. 16, są zamieszczane na portalu zbiórek publicznych w postaci dokumentu elektronicznego, z wykorzystaniem formularza elektronicznego udostępnionego nieodpłatnie przez ministra właściwego do spraw administracji publicznej. Dopuszcza się również możliwość przesłania sprawozdania w postaci papierowej. Sprawozdania sporządzone w postaci elektronicznej osoba uprawniona do reprezentowania organizatora zbiórki opatruje bezpiecznym podpisem elektronicznym weryfikowanym przy pomocy ważnego kwalifikowanego certyfikatu lub podpisem potwierdzonym profilem zaufanym ePUAP. Sprawozdania sporządzone w postaci papierowej opatruje własnoręcznym podpisem osoba uprawniona do reprezentowania organizatora zbiórki."
+      "content": "Sprawozdania, o których mowa w art. 16, są zamieszczane na portalu zbiórek publicznych w postaci dokumentu elektronicznego, z wykorzystaniem formularza elektronicznego udostępnionego nieodpłatnie przez ministra właściwego do spraw administracji publicznej. Dopuszcza się również możliwość przesłania sprawozdania w postaci papierowej. Sprawozdania sporządzone w postaci elektronicznej osoba uprawniona do reprezentowania organizatora zbiórki opatruje kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. Sprawozdania sporządzone w postaci papierowej opatruje własnoręcznym podpisem osoba uprawniona do reprezentowania organizatora zbiórki."
     },
     {
       "provision_ref": "art18u1",
@@ -535,7 +577,7 @@
       "provision_ref": "art18u3",
       "section": "18",
       "title": "Art. 18 ust. 3",
-      "content": "Sprawozdania sporządzone w postaci elektronicznej osoba uprawniona do reprezentowania organizatora zbiórki opatruje bezpiecznym podpisem elektronicznym weryfikowanym przy pomocy ważnego kwalifikowanego certyfikatu lub podpisem potwierdzonym profilem zaufanym ePUAP."
+      "content": "Sprawozdania sporządzone w postaci elektronicznej osoba uprawniona do reprezentowania organizatora zbiórki opatruje kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym."
     },
     {
       "provision_ref": "art18u4",
@@ -589,235 +631,7 @@
       "provision_ref": "art23",
       "section": "23",
       "title": "Art. 23",
-      "content": "W ustawie z dnia 20 maja 1971 r. - Kodeks wykroczeń ) art. 56 otrzymuje brzmienie: „ Kto bez wymaganego zgłoszenia zbiórki publicznej lub niezgodnie ze zgłoszeniem zbiórki publicznej organizuje lub przeprowadza publiczną zbiórkę ofiar, podlega karze grzywny. Podżeganie i pomocnictwo są karalne. Można orzec przepadek przedmiotów uzyskanych ze zbiórki publicznej przeprowadzonej niezgodnie ze zgłoszeniem, orzeka się zaś ich przepadek, gdy zbiórkę publiczną przeprowadzono bez zgłoszenia. Można orzec przepadek przedmiotów uzyskanych z czynu określonego w § 1 także wtedy, gdy zostały one przekazane przez sprawcę innej osobie lub instytucji, jak i przepadek pieniędzy uzyskanych za zebrane ofiary w naturze i rzeczy nabytych za uzyskane ze zbiórki publicznej pieniądze. Przedmioty, co do których orzeczono przepadek, należy przekazać instytucji pomocy społecznej lub instytucji kultury. ” ."
-    },
-    {
-      "provision_ref": "art23par1",
-      "section": "23",
-      "title": "Art. 23 § 1",
-      "content": "W ustawie z dnia 20 maja 1971 r. - Kodeks wykroczeń ) art. 56 otrzymuje brzmienie: „ Kto bez wymaganego zgłoszenia zbiórki publicznej lub niezgodnie ze zgłoszeniem zbiórki publicznej organizuje lub przeprowadza publiczną zbiórkę ofiar, podlega karze grzywny."
-    },
-    {
-      "provision_ref": "art23par2",
-      "section": "23",
-      "title": "Art. 23 § 2",
-      "content": "W ustawie z dnia 20 maja 1971 r. - Kodeks wykroczeń ) art. 56 otrzymuje brzmienie: „ Podżeganie i pomocnictwo są karalne."
-    },
-    {
-      "provision_ref": "art23par3",
-      "section": "23",
-      "title": "Art. 23 § 3",
-      "content": "W ustawie z dnia 20 maja 1971 r. - Kodeks wykroczeń ) art. 56 otrzymuje brzmienie: „ Można orzec przepadek przedmiotów uzyskanych ze zbiórki publicznej przeprowadzonej niezgodnie ze zgłoszeniem, orzeka się zaś ich przepadek, gdy zbiórkę publiczną przeprowadzono bez zgłoszenia."
-    },
-    {
-      "provision_ref": "art23par4",
-      "section": "23",
-      "title": "Art. 23 § 4",
-      "content": "W ustawie z dnia 20 maja 1971 r. - Kodeks wykroczeń ) art. 56 otrzymuje brzmienie: „ Można orzec przepadek przedmiotów uzyskanych z czynu określonego w § 1 także wtedy, gdy zostały one przekazane przez sprawcę innej osobie lub instytucji, jak i przepadek pieniędzy uzyskanych za zebrane ofiary w naturze i rzeczy nabytych za uzyskane ze zbiórki publicznej pieniądze."
-    },
-    {
-      "provision_ref": "art23par5",
-      "section": "23",
-      "title": "Art. 23 § 5",
-      "content": "W ustawie z dnia 20 maja 1971 r. - Kodeks wykroczeń ) art. 56 otrzymuje brzmienie: „ Przedmioty, co do których orzeczono przepadek, należy przekazać instytucji pomocy społecznej lub instytucji kultury."
-    },
-    {
-      "provision_ref": "art24",
-      "section": "24",
-      "title": "Art. 24",
-      "content": "W ustawie z dnia 17 maja 1989 r. o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej w art. 57 ust. 2 otrzymuje brzmienie: „ Zbiórki wymienione w ust. 1 nie wymagają zgłoszenia, jeżeli odbywają się w obrębie terenów kościelnych, kaplic oraz w miejscach i okolicznościach zwyczajowo przyjętych w danej okolicy i w sposób tradycyjnie ustalony. ” ."
-    },
-    {
-      "provision_ref": "art24u2",
-      "section": "24",
-      "title": "Art. 24 ust. 2",
-      "content": "W ustawie z dnia 17 maja 1989 r. o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej w art. 57 ust. 2 otrzymuje brzmienie: „ Zbiórki wymienione w ust. 1 nie wymagają zgłoszenia, jeżeli odbywają się w obrębie terenów kościelnych, kaplic oraz w miejscach i okolicznościach zwyczajowo przyjętych w danej okolicy i w sposób tradycyjnie ustalony."
-    },
-    {
-      "provision_ref": "art25",
-      "section": "25",
-      "title": "Art. 25",
-      "content": "W ustawie z dnia 4 lipca 1991 r. o stosunku Państwa do Polskiego Autokefalicznego Kościoła Prawosławnego ) w art. 42 ust. 2 otrzymuje brzmienie: „ Zbiórki wymienione w ust. 1 nie wymagają zgłoszenia, jeżeli odbywają się w obrębie terenów kościelnych, kaplic oraz w miejscach i okolicznościach zwyczajowo przyjętych w danej okolicy i w sposób tradycyjnie ustalony. ” ."
-    },
-    {
-      "provision_ref": "art25u2",
-      "section": "25",
-      "title": "Art. 25 ust. 2",
-      "content": "W ustawie z dnia 4 lipca 1991 r. o stosunku Państwa do Polskiego Autokefalicznego Kościoła Prawosławnego ) w art. 42 ust. 2 otrzymuje brzmienie: „ Zbiórki wymienione w ust. 1 nie wymagają zgłoszenia, jeżeli odbywają się w obrębie terenów kościelnych, kaplic oraz w miejscach i okolicznościach zwyczajowo przyjętych w danej okolicy i w sposób tradycyjnie ustalony."
-    },
-    {
-      "provision_ref": "art26",
-      "section": "26",
-      "title": "Art. 26",
-      "content": "W ustawie z dnia 13 maja 1994 r. o stosunku Państwa do Kościoła Ewangelicko-Augsburskiego w Rzeczypospolitej Polskiej ) w art. 36 ust. 2 otrzymuje brzmienie: „ Zbiórki wymienione w ust. 1 nie wymagają zgłoszenia, jeżeli odbywają się w obrębie terenów kościelnych, kaplic oraz w miejscach i okolicznościach zwyczajowo przyjętych w danej okolicy i w sposób tradycyjnie ustalony. ” ."
-    },
-    {
-      "provision_ref": "art26u2",
-      "section": "26",
-      "title": "Art. 26 ust. 2",
-      "content": "W ustawie z dnia 13 maja 1994 r. o stosunku Państwa do Kościoła Ewangelicko-Augsburskiego w Rzeczypospolitej Polskiej ) w art. 36 ust. 2 otrzymuje brzmienie: „ Zbiórki wymienione w ust. 1 nie wymagają zgłoszenia, jeżeli odbywają się w obrębie terenów kościelnych, kaplic oraz w miejscach i okolicznościach zwyczajowo przyjętych w danej okolicy i w sposób tradycyjnie ustalony."
-    },
-    {
-      "provision_ref": "art27",
-      "section": "27",
-      "title": "Art. 27",
-      "content": "W ustawie z dnia 13 maja 1994 r. o stosunku Państwa do Kościoła Ewangelicko-Reformowanego w Rzeczypospolitej Polskiej ) w art. 21 ust. 2 otrzymuje brzmienie: „ Zbiórki wymienione w ust. 1 nie wymagają zgłoszenia, jeżeli odbywają się w obrębie terenów kościelnych, kaplic oraz miejsc zwyczajowo przyjętych w danej okolicy i w sposób tradycyjnie ustalony. ” ."
-    },
-    {
-      "provision_ref": "art27u2",
-      "section": "27",
-      "title": "Art. 27 ust. 2",
-      "content": "W ustawie z dnia 13 maja 1994 r. o stosunku Państwa do Kościoła Ewangelicko-Reformowanego w Rzeczypospolitej Polskiej ) w art. 21 ust. 2 otrzymuje brzmienie: „ Zbiórki wymienione w ust. 1 nie wymagają zgłoszenia, jeżeli odbywają się w obrębie terenów kościelnych, kaplic oraz miejsc zwyczajowo przyjętych w danej okolicy i w sposób tradycyjnie ustalony."
-    },
-    {
-      "provision_ref": "art28",
-      "section": "28",
-      "title": "Art. 28",
-      "content": "W ustawie z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Ewangelicko-Metodystycznego w Rzeczypospolitej Polskiej ) w art. 31 ust. 2 otrzymuje brzmienie: „ Zbiórki wymienione w ust. 1 nie wymagają zgłoszenia, jeżeli odbywają się w obrębie terenów kościelnych, kaplic oraz w miejscach i okolicznościach zwyczajowo przyjętych w danej okolicy i w sposób tradycyjnie ustalony. ” ."
-    },
-    {
-      "provision_ref": "art28u2",
-      "section": "28",
-      "title": "Art. 28 ust. 2",
-      "content": "W ustawie z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Ewangelicko-Metodystycznego w Rzeczypospolitej Polskiej ) w art. 31 ust. 2 otrzymuje brzmienie: „ Zbiórki wymienione w ust. 1 nie wymagają zgłoszenia, jeżeli odbywają się w obrębie terenów kościelnych, kaplic oraz w miejscach i okolicznościach zwyczajowo przyjętych w danej okolicy i w sposób tradycyjnie ustalony."
-    },
-    {
-      "provision_ref": "art29",
-      "section": "29",
-      "title": "Art. 29",
-      "content": "W ustawie z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Chrześcijan Baptystów w Rzeczypospolitej Polskiej ) w art. 35 ust. 2 otrzymuje brzmienie: „ Zbiórki wymienione w ust. 1 nie wymagają zgłoszenia, jeżeli odbywają się w obrębie terenów kościelnych, kaplic oraz w miejscach i okolicznościach zwyczajowo przyjętych w danej okolicy i w sposób tradycyjnie ustalony. ” ."
-    },
-    {
-      "provision_ref": "art29u2",
-      "section": "29",
-      "title": "Art. 29 ust. 2",
-      "content": "W ustawie z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Chrześcijan Baptystów w Rzeczypospolitej Polskiej ) w art. 35 ust. 2 otrzymuje brzmienie: „ Zbiórki wymienione w ust. 1 nie wymagają zgłoszenia, jeżeli odbywają się w obrębie terenów kościelnych, kaplic oraz w miejscach i okolicznościach zwyczajowo przyjętych w danej okolicy i w sposób tradycyjnie ustalony."
-    },
-    {
-      "provision_ref": "art30",
-      "section": "30",
-      "title": "Art. 30",
-      "content": "W ustawie z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Adwentystów Dnia Siódmego w Rzeczypospolitej Polskiej ) w art. 30 ust. 2 otrzymuje brzmienie: „ Zbiórki wymienione w ust. 1 nie wymagają zgłoszenia, jeżeli odbywają się w obrębie terenów kościelnych, kaplic oraz w miejscach i okolicznościach zwyczajowo przyjętych w danej okolicy i w sposób tradycyjnie ustalony. ” ."
-    },
-    {
-      "provision_ref": "art30u2",
-      "section": "30",
-      "title": "Art. 30 ust. 2",
-      "content": "W ustawie z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Adwentystów Dnia Siódmego w Rzeczypospolitej Polskiej ) w art. 30 ust. 2 otrzymuje brzmienie: „ Zbiórki wymienione w ust. 1 nie wymagają zgłoszenia, jeżeli odbywają się w obrębie terenów kościelnych, kaplic oraz w miejscach i okolicznościach zwyczajowo przyjętych w danej okolicy i w sposób tradycyjnie ustalony."
-    },
-    {
-      "provision_ref": "art31",
-      "section": "31",
-      "title": "Art. 31",
-      "content": "W ustawie z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Polskokatolickiego w Rzeczypospolitej Polskiej ) w art. 29 ust. 2 otrzymuje brzmienie: „ Zbiórki wymienione w ust. 1 nie wymagają zgłoszenia, jeżeli odbywają się w obrębie terenów kościelnych, kaplic oraz w miejscach i okolicznościach zwyczajowo przyjętych w danej okolicy i w sposób tradycyjnie ustalony. ” ."
-    },
-    {
-      "provision_ref": "art31u2",
-      "section": "31",
-      "title": "Art. 31 ust. 2",
-      "content": "W ustawie z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Polskokatolickiego w Rzeczypospolitej Polskiej ) w art. 29 ust. 2 otrzymuje brzmienie: „ Zbiórki wymienione w ust. 1 nie wymagają zgłoszenia, jeżeli odbywają się w obrębie terenów kościelnych, kaplic oraz w miejscach i okolicznościach zwyczajowo przyjętych w danej okolicy i w sposób tradycyjnie ustalony."
-    },
-    {
-      "provision_ref": "art32",
-      "section": "32",
-      "title": "Art. 32",
-      "content": "W ustawie z dnia 20 lutego 1997 r. o stosunku Państwa do gmin wyznaniowych żydowskich w Rzeczypospolitej Polskiej ) w art. 27 ust. 2 otrzymuje brzmienie: „ Zbiórki, o których mowa w ust. 1, nie wymagają zgłoszenia, jeżeli odbywają się w obiektach kultu religijnego oraz w miejscach i okolicznościach zwyczajowo przyjętych i w sposób tradycyjnie ustalony. ” ."
-    },
-    {
-      "provision_ref": "art32u2",
-      "section": "32",
-      "title": "Art. 32 ust. 2",
-      "content": "W ustawie z dnia 20 lutego 1997 r. o stosunku Państwa do gmin wyznaniowych żydowskich w Rzeczypospolitej Polskiej ) w art. 27 ust. 2 otrzymuje brzmienie: „ Zbiórki, o których mowa w ust. 1, nie wymagają zgłoszenia, jeżeli odbywają się w obiektach kultu religijnego oraz w miejscach i okolicznościach zwyczajowo przyjętych i w sposób tradycyjnie ustalony."
-    },
-    {
-      "provision_ref": "art33",
-      "section": "33",
-      "title": "Art. 33",
-      "content": "W ustawie z dnia 20 lutego 1997 r. o stosunku Państwa do Kościoła Katolickiego Mariawitów w Rzeczypospolitej Polskiej ) w art. 26 ust. 2 otrzymuje brzmienie: „ Zbiórki wymienione w ust. 1 nie wymagają zgłoszenia, jeżeli odbywają się w obrębie terenów kościelnych, kaplic oraz w miejscach i okolicznościach zwyczajowo przyjętych, w sposób tradycyjnie ustalony. ” ."
-    },
-    {
-      "provision_ref": "art33u2",
-      "section": "33",
-      "title": "Art. 33 ust. 2",
-      "content": "W ustawie z dnia 20 lutego 1997 r. o stosunku Państwa do Kościoła Katolickiego Mariawitów w Rzeczypospolitej Polskiej ) w art. 26 ust. 2 otrzymuje brzmienie: „ Zbiórki wymienione w ust. 1 nie wymagają zgłoszenia, jeżeli odbywają się w obrębie terenów kościelnych, kaplic oraz w miejscach i okolicznościach zwyczajowo przyjętych, w sposób tradycyjnie ustalony."
-    },
-    {
-      "provision_ref": "art34",
-      "section": "34",
-      "title": "Art. 34",
-      "content": "W ustawie z dnia 20 lutego 1997 r. o stosunku Państwa do Kościoła Starokatolickiego Mariawitów w Rzeczypospolitej Polskiej ) w art. 28 ust. 2 otrzymuje brzmienie: „ Zbiórki wymienione w ust. 1 nie wymagają zgłoszenia, jeżeli odbywają się w obrębie terenów kościelnych, kaplic oraz w miejscach i okolicznościach zwyczajowo przyjętych, w sposób tradycyjnie ustalony. ” ."
-    },
-    {
-      "provision_ref": "art34u2",
-      "section": "34",
-      "title": "Art. 34 ust. 2",
-      "content": "W ustawie z dnia 20 lutego 1997 r. o stosunku Państwa do Kościoła Starokatolickiego Mariawitów w Rzeczypospolitej Polskiej ) w art. 28 ust. 2 otrzymuje brzmienie: „ Zbiórki wymienione w ust. 1 nie wymagają zgłoszenia, jeżeli odbywają się w obrębie terenów kościelnych, kaplic oraz w miejscach i okolicznościach zwyczajowo przyjętych, w sposób tradycyjnie ustalony."
-    },
-    {
-      "provision_ref": "art35",
-      "section": "35",
-      "title": "Art. 35",
-      "content": "W ustawie z dnia 20 lutego 1997 r. o stosunku Państwa do Kościoła Zielonoświątkowego w Rzeczypospolitej Polskiej ) w art. 31 ust. 2 otrzymuje brzmienie: „ Zbiórki wymienione w ust. 1 nie wymagają zgłoszenia, jeżeli odbywają się w obrębie terenów kościelnych, kaplic oraz w miejscach i okolicznościach zwyczajowo przyjętych, w sposób tradycyjnie ustalony. ” ."
-    },
-    {
-      "provision_ref": "art35u2",
-      "section": "35",
-      "title": "Art. 35 ust. 2",
-      "content": "W ustawie z dnia 20 lutego 1997 r. o stosunku Państwa do Kościoła Zielonoświątkowego w Rzeczypospolitej Polskiej ) w art. 31 ust. 2 otrzymuje brzmienie: „ Zbiórki wymienione w ust. 1 nie wymagają zgłoszenia, jeżeli odbywają się w obrębie terenów kościelnych, kaplic oraz w miejscach i okolicznościach zwyczajowo przyjętych, w sposób tradycyjnie ustalony."
-    },
-    {
-      "provision_ref": "art36",
-      "section": "36",
-      "title": "Art. 36",
-      "content": "W ustawie z dnia 24 czerwca 1999 r. o wykonywaniu inicjatywy ustawodawczej przez obywateli art. 15 otrzymuje brzmienie: „ Wydatki związane z wykonywaniem inicjatywy ustawodawczej przez obywateli pokrywa komitet. Komitet może organizować zbiórki publiczne środków finansowych na cele związane z wykonywaniem inicjatywy ustawodawczej, na zasadach i w trybie określonych w ustawie z dnia 14 marca 2014 r. o zasadach prowadzenia zbiórek publicznych (Dz. U. poz. 498). ” ."
-    },
-    {
-      "provision_ref": "art36u1",
-      "section": "36",
-      "title": "Art. 36 ust. 1",
-      "content": "W ustawie z dnia 24 czerwca 1999 r. o wykonywaniu inicjatywy ustawodawczej przez obywateli art. 15 otrzymuje brzmienie: „ Wydatki związane z wykonywaniem inicjatywy ustawodawczej przez obywateli pokrywa komitet."
-    },
-    {
-      "provision_ref": "art36u2",
-      "section": "36",
-      "title": "Art. 36 ust. 2",
-      "content": "W ustawie z dnia 24 czerwca 1999 r. o wykonywaniu inicjatywy ustawodawczej przez obywateli art. 15 otrzymuje brzmienie: „ Komitet może organizować zbiórki publiczne środków finansowych na cele związane z wykonywaniem inicjatywy ustawodawczej, na zasadach i w trybie określonych w ustawie z dnia 14 marca 2014 r. o zasadach prowadzenia zbiórek publicznych (Dz. U. poz. 498)."
-    },
-    {
-      "provision_ref": "art37",
-      "section": "37",
-      "title": "Art. 37",
-      "content": "W ustawie z dnia 21 czerwca 2002 r. o stanie wyjątkowym ) w art. 16 ust. 3 otrzymuje brzmienie: „ Informacja o zgłoszeniu zbiórki publicznej, która ma być przeprowadzona na obszarze, na którym wprowadzono stan wyjątkowy, może zostać zamieszczona na ogólnopolskim elektronicznym portalu zbiórek publicznych, tylko wówczas, gdy w ocenie ministra właściwego do spraw administracji publicznej, przeprowadzenie zbiórki nie utrudni realizacji celów wprowadzenia stanu wyjątkowego. ” ."
-    },
-    {
-      "provision_ref": "art37u3",
-      "section": "37",
-      "title": "Art. 37 ust. 3",
-      "content": "W ustawie z dnia 21 czerwca 2002 r. o stanie wyjątkowym ) w art. 16 ust. 3 otrzymuje brzmienie: „ Informacja o zgłoszeniu zbiórki publicznej, która ma być przeprowadzona na obszarze, na którym wprowadzono stan wyjątkowy, może zostać zamieszczona na ogólnopolskim elektronicznym portalu zbiórek publicznych, tylko wówczas, gdy w ocenie ministra właściwego do spraw administracji publicznej, przeprowadzenie zbiórki nie utrudni realizacji celów wprowadzenia stanu wyjątkowego."
-    },
-    {
-      "provision_ref": "art38",
-      "section": "38",
-      "title": "Art. 38",
-      "content": "W ustawie z dnia 29 sierpnia 2002 r. o stanie wojennym oraz o kompetencjach Naczelnego Dowódcy Sił Zbrojnych i zasadach jego podległości konstytucyjnym organom Rzeczypospolitej Polskiej ) w art. 22 ust. 3 otrzymuje brzmienie: „ Informacja o zgłoszeniu zbiórki publicznej, która ma być przeprowadzona na obszarze, na którym wprowadzono stan wojenny, może zostać zamieszczona na ogólnopolskim elektronicznym portalu zbiórek publicznych, tylko wówczas, gdy w ocenie ministra właściwego do spraw administracji publicznej, przeprowadzenie zbiórki nie utrudni realizacji celów wprowadzenia stanu wojennego. ” ."
-    },
-    {
-      "provision_ref": "art38u3",
-      "section": "38",
-      "title": "Art. 38 ust. 3",
-      "content": "W ustawie z dnia 29 sierpnia 2002 r. o stanie wojennym oraz o kompetencjach Naczelnego Dowódcy Sił Zbrojnych i zasadach jego podległości konstytucyjnym organom Rzeczypospolitej Polskiej ) w art. 22 ust. 3 otrzymuje brzmienie: „ Informacja o zgłoszeniu zbiórki publicznej, która ma być przeprowadzona na obszarze, na którym wprowadzono stan wojenny, może zostać zamieszczona na ogólnopolskim elektronicznym portalu zbiórek publicznych, tylko wówczas, gdy w ocenie ministra właściwego do spraw administracji publicznej, przeprowadzenie zbiórki nie utrudni realizacji celów wprowadzenia stanu wojennego."
-    },
-    {
-      "provision_ref": "art39",
-      "section": "39",
-      "title": "Art. 39",
-      "content": "W ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie ) w art. 33a w ust. 2 pkt 1 otrzymuje brzmienie: „ prowadzenia zbiórki publicznej bez wymaganego zgłoszenia lub nienadesłania do ministra właściwego do spraw administracji publicznej sprawozdania z przeprowadzonej zbiórki publicznej lub sprawozdania ze sposobu rozdysponowania zebranych ofiar; ” ."
-    },
-    {
-      "provision_ref": "art39p1",
-      "section": "39",
-      "title": "Art. 39 pkt 1",
-      "content": "W ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie ) w art. 33a w ust. 2 pkt 1 otrzymuje brzmienie: „ prowadzenia zbiórki publicznej bez wymaganego zgłoszenia lub nienadesłania do ministra właściwego do spraw administracji publicznej sprawozdania z przeprowadzonej zbiórki publicznej lub sprawozdania ze sposobu rozdysponowania zebranych ofiar;"
+      "content": "(pominięte)"
     },
     {
       "provision_ref": "art40",
@@ -841,7 +655,7 @@
       "provision_ref": "art41",
       "section": "41",
       "title": "Art. 41",
-      "content": "W latach 2014-2023 maksymalny limit wydatków budżetu państwa, będący skutkiem finansowym wejścia w życie niniejszej ustawy, wynosi w: 2014 r. - 290 tys. zł; 2015 r. - 40 tys. zł; 2016 r. - 40 tys. zł; 2017 r. - 40 tys. zł; 2018 r. - 40 tys. zł; 2019 r. - 40 tys. zł; 2020 r. - 40 tys. zł; 2021 r. - 40 tys. zł; 2022 r. - 40 tys. zł; 2023 r. - 40 tys. zł. W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków wprowadza się mechanizmy korygujące polegające na: ograniczeniu kosztów utrzymania portalu zbiórek publicznych, w szczególności przez wykorzystanie nowoczesnych technologii informatycznych, przesunięciu w czasie rozbudowy portalu zbiórek publicznych - przy jednoczesnym zapewnieniu prawidłowego i niezakłóconego funkcjonowania portalu zbiórek publicznych. Organem właściwym do monitorowania wykorzystania limitów wydatków, o których mowa w ust. 1, oraz wdrożenia mechanizmu korygującego, o którym mowa w ust. 2, jest minister właściwy do spraw administracji publicznej."
+      "content": "W latach 2014-2023 maksymalny limit wydatków budżetu państwa, będący skutkiem finansowym wejścia w życie niniejszej ustawy, wynosi w: 2014 r. - 290 tys. zł; 2015 r. - 40 tys. zł; 2016 r. - 40 tys. zł; 2017 r. - 40 tys. zł; 2018 r. - 40 tys. zł; 2019 r. - 40 tys. zł; 2020 r. - 250 tys. zł; 2021 r. - 260 tys. zł; 2022 r. - 270 tys. zł; 2023 r. - 280 tys. zł. W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków wprowadza się mechanizmy korygujące polegające na: ograniczeniu kosztów utrzymania portalu zbiórek publicznych, w szczególności przez wykorzystanie nowoczesnych technologii informatycznych, przesunięciu w czasie rozbudowy portalu zbiórek publicznych - przy jednoczesnym zapewnieniu prawidłowego i niezakłóconego funkcjonowania portalu zbiórek publicznych. Organem właściwym do monitorowania wykorzystania limitów wydatków, o których mowa w ust. 1, oraz wdrożenia mechanizmu korygującego, o którym mowa w ust. 2, jest minister właściwy do spraw administracji publicznej."
     },
     {
       "provision_ref": "art41u1p1",
@@ -880,28 +694,28 @@
       "content": "W latach 2014-2023 maksymalny limit wydatków budżetu państwa, będący skutkiem finansowym wejścia w życie niniejszej ustawy, wynosi w: 2019 r. - 40 tys. zł;"
     },
     {
-      "provision_ref": "art41u1p7",
+      "provision_ref": "art41u1p1",
       "section": "41",
-      "title": "Art. 41 ust. 1 pkt 7",
-      "content": "W latach 2014-2023 maksymalny limit wydatków budżetu państwa, będący skutkiem finansowym wejścia w życie niniejszej ustawy, wynosi w: 2020 r. - 40 tys. zł;"
+      "title": "Art. 41 ust. 1 pkt 1",
+      "content": "W latach 2014-2023 maksymalny limit wydatków budżetu państwa, będący skutkiem finansowym wejścia w życie niniejszej ustawy, wynosi w: 2020 r. - 250 tys. zł;"
     },
     {
-      "provision_ref": "art41u1p8",
+      "provision_ref": "art41u1p1",
       "section": "41",
-      "title": "Art. 41 ust. 1 pkt 8",
-      "content": "W latach 2014-2023 maksymalny limit wydatków budżetu państwa, będący skutkiem finansowym wejścia w życie niniejszej ustawy, wynosi w: 2021 r. - 40 tys. zł;"
+      "title": "Art. 41 ust. 1 pkt 1",
+      "content": "W latach 2014-2023 maksymalny limit wydatków budżetu państwa, będący skutkiem finansowym wejścia w życie niniejszej ustawy, wynosi w: 2021 r. - 260 tys. zł;"
     },
     {
-      "provision_ref": "art41u1p9",
+      "provision_ref": "art41u1p1",
       "section": "41",
-      "title": "Art. 41 ust. 1 pkt 9",
-      "content": "W latach 2014-2023 maksymalny limit wydatków budżetu państwa, będący skutkiem finansowym wejścia w życie niniejszej ustawy, wynosi w: 2022 r. - 40 tys. zł;"
+      "title": "Art. 41 ust. 1 pkt 1",
+      "content": "W latach 2014-2023 maksymalny limit wydatków budżetu państwa, będący skutkiem finansowym wejścia w życie niniejszej ustawy, wynosi w: 2022 r. - 270 tys. zł;"
     },
     {
-      "provision_ref": "art41u1p10",
+      "provision_ref": "art41u1p1",
       "section": "41",
-      "title": "Art. 41 ust. 1 pkt 10",
-      "content": "W latach 2014-2023 maksymalny limit wydatków budżetu państwa, będący skutkiem finansowym wejścia w życie niniejszej ustawy, wynosi w: 2023 r. - 40 tys. zł."
+      "title": "Art. 41 ust. 1 pkt 1",
+      "content": "W latach 2014-2023 maksymalny limit wydatków budżetu państwa, będący skutkiem finansowym wejścia w życie niniejszej ustawy, wynosi w: 2023 r. - 280 tys. zł."
     },
     {
       "provision_ref": "art41u2p1",
@@ -931,85 +745,37 @@
       "provision_ref": "art43",
       "section": "43",
       "title": "Art. 43",
-      "content": "Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia."
+      "content": "Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia 2) Ustawa została ogłoszona w dniu 17 kwietnia 2014 r. ."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2010-1536",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2013-267",
+      "target_document_id": "pl-du-2019-756",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2014-183",
+      "target_document_id": "pl-du-2019-2294",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2013-482",
+      "target_document_id": "pl-du-2020-695",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2013-1169",
+      "target_document_id": "pl-du-2020-1057",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1991-287",
+      "target_document_id": "pl-du-2020-256",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1994-323",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1994-324",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1995-479",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1995-480",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1995-481",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1995-482",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1997-251",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1997-252",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1997-253",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1997-254",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-1999-688",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-2002-985",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-2002-1301",
+      "target_document_id": "pl-du-2020-1298",
       "ref_type": "references"
     },
     {

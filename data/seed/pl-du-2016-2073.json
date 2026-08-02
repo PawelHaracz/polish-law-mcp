@@ -10,6 +10,24 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2016/2073",
   "provisions": [
     {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Przepisy art. 18a i art. 37 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się do zdarzeń powstałych od dnia wejścia w życie ustawy zmienianej w art. 1."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Do sędziów Trybunału Konstytucyjnego, którzy przeszli w stan spoczynku od dnia wejścia w życie ustawy zmienianej w art. 1, stosuje się odpowiednio przepis art. 48 ustawy z dnia 23 listopada 2002 r. o Sądzie Najwyższym ."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
@@ -61,7 +79,7 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "Sędzią Trybunału może zostać osoba, która wyróżnia się wiedzą prawniczą oraz spełnia wymagania niezbędne do pełnienia urzędu na stanowisku sędziego Sądu Najwyższego."
+      "content": "Sędzią Trybunału może zostać osoba, która wyróżnia się wiedzą prawniczą oraz spełnia wymagania niezbędne do pełnienia urzędu na stanowisku sędziego Sądu Najwyższego lub sędziego Naczelnego Sądu Administracyjnego."
     },
     {
       "provision_ref": "art4",
@@ -388,10 +406,16 @@
       "content": "Prezes Trybunału przekazuje niezwłocznie Marszałkowi Sejmu postanowienie lub uchwałę stwierdzające wygaśnięcie mandatu sędziego Trybunału."
     },
     {
+      "provision_ref": "art18a",
+      "section": "18a",
+      "title": "Art. 18a",
+      "content": "W razie śmierci sędziego Trybunału stosuje się odpowiednio przepisy dotyczące świadczeń, o których mowa w art. 101 i art. 102 ustawy z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych ) , oraz przepisy wydane na podstawie art. 103 tej ustawy."
+    },
+    {
       "provision_ref": "art19",
       "section": "19",
       "title": "Art. 19",
-      "content": "Wzakresie nieuregulowanym w niniejszej ustawie do praw i obowiązków sędziów Trybunału stosuje się odpowiednio przepisy art. 43-45 ustawy z dnia 23 listopada 2002 r. o Sądzie Najwyższym ."
+      "content": "W zakresie nieuregulowanym w niniejszej ustawie do praw i obowiązków sędziów Trybunału stosuje się odpowiednio przepisy dotyczące praw i obowiązków sędziów Sądu Najwyższego."
     },
     {
       "provision_ref": "art20",
@@ -631,7 +655,7 @@
       "provision_ref": "art30",
       "section": "30",
       "title": "Art. 30",
-      "content": "W sprawach nieuregulowanych w niniejszej ustawie do postępowania dyscyplinarnego stosuje się odpowiednio przepisy ustawy z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych ) oraz ustawy z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego ."
+      "content": "W sprawach nieuregulowanych w niniejszej ustawie do postępowania dyscyplinarnego stosuje się odpowiednio przepisy ustawy z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych oraz ustawy z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego ) ."
     },
     {
       "provision_ref": "art31",
@@ -787,7 +811,7 @@
       "provision_ref": "art37",
       "section": "37",
       "title": "Art. 37",
-      "content": "Do sędziego Trybunału w stanie spoczynku przepisy art. 11 ust. 1 i 2, art. 12 oraz art. 20-23 stosuje się odpowiednio."
+      "content": "Do sędziego Trybunału w stanie spoczynku przepisy art. 11 ust. 1 i 2, art. 12, art. 18a oraz art. 20-23 stosuje się odpowiednio."
     },
     {
       "provision_ref": "art38",
@@ -811,25 +835,69 @@
       "provision_ref": "art39",
       "section": "39",
       "title": "Art. 39",
-      "content": "Ustawa wchodzi w życie w terminie określonym w ustawie - Przepisy wprowadzające ustawę o organizacji i trybie postępowania przed Trybunałem Konstytucyjnym oraz ustawę o statusie sędziów Trybunału Konstytucyjnego."
+      "content": "Ustawa wchodzi w życie w terminie 7) Ustawa weszła w życie z dniem 3 stycznia 2017 r., z wyjątkiem art. 1-6, art. 16, art. 17, art. 19, art. 31 i art. 35, które weszły w życie z dniem 20 grudnia 2016 r. na podstawie art. 2 ustawy z dnia 13 grudnia 2016 r. - Przepisy wprowadzające ustawę o organizacji i trybie postępowania przed Trybunałem Konstytucyjnym oraz ustawę o statusie sędziów Trybunału Konstytucyjnego (Dz. U. poz. 2074), która weszła w życie z dniem 3 stycznia 2017 r., z wyjątkiem: - art. 1-3, art. 12 oraz art. 16-22, które weszły w życie z dniem 20 grudnia 2016 r.; - art. 4, art. 5 i art. 8, które weszły w życie z dniem 1 stycznia 2018 r. określonym w ustawie - Przepisy wprowadzające ustawę o organizacji i trybie postępowania przed Trybunałem Konstytucyjnym oraz ustawę o statusie sędziów Trybunału Konstytucyjnego ."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2016-887",
+      "target_document_id": "pl-du-2017-1523",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2016-1511",
+      "target_document_id": "pl-du-2017-1947",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2015-133",
+      "target_document_id": "pl-du-2016-1254",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2016-1749",
+      "target_document_id": "pl-du-2016-2103",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2016-2261",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2017-38",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2017-1452",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-1270",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2017-2142",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2017-2203",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-106",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-650",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-1000",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-23",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2017-1904",
       "ref_type": "references"
     }
   ]

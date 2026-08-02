@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2017/993",
   "provisions": [
     {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "art1",
       "section": "1",
       "title": "Art. 1",
@@ -211,7 +217,7 @@
       "provision_ref": "art9",
       "section": "9",
       "title": "Art. 9",
-      "content": "Pora nocna na statku żeglugi śródlądowej obejmuje 7 godzin między godzinami 23 00 a 6 00 . Czas pracy w porze nocnej na statku żeglugi śródlądowej nie może przekraczać: 7 godzin w każdym okresie 24-godzinnym oraz 42 godzin w każdym okresie 7-dniowym. Pracowników wykonujących pracę w porze nocnej, którzy zostali uznani za niezdolnych do wykonywania pracy w porze nocnej na podstawie świadectwa zdrowia, o którym mowa w przepisach wydanych na podstawie art. 37 ust. 2 ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej , przenosi się do wykonywania pracy zgodnej z zajmowanym stanowiskiem, poza porę nocną."
+      "content": "Pora nocna na statku żeglugi śródlądowej obejmuje 7 godzin między godzinami 23 00 a 6 00 . Czas pracy w porze nocnej na statku żeglugi śródlądowej nie może przekraczać: 7 godzin w każdym okresie 24-godzinnym oraz 42 godzin w każdym okresie 7-dniowym. Pracowników wykonujących pracę w porze nocnej, którzy zostali uznani za niezdolnych do wykonywania pracy w porze nocnej na podstawie świadectwa zdrowia, o którym mowa w art. 36b ust. 2 ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej , przenosi się do wykonywania pracy zgodnej z zajmowanym stanowiskiem poza porę nocną."
     },
     {
       "provision_ref": "art9u1",
@@ -235,7 +241,7 @@
       "provision_ref": "art9u3",
       "section": "9",
       "title": "Art. 9 ust. 3",
-      "content": "Pracowników wykonujących pracę w porze nocnej, którzy zostali uznani za niezdolnych do wykonywania pracy w porze nocnej na podstawie świadectwa zdrowia, o którym mowa w przepisach wydanych na podstawie art. 37 ust. 2 ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej , przenosi się do wykonywania pracy zgodnej z zajmowanym stanowiskiem, poza porę nocną."
+      "content": "Pracowników wykonujących pracę w porze nocnej, którzy zostali uznani za niezdolnych do wykonywania pracy w porze nocnej na podstawie świadectwa zdrowia, o którym mowa w art. 36b ust. 2 ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej , przenosi się do wykonywania pracy zgodnej z zajmowanym stanowiskiem poza porę nocną."
     },
     {
       "provision_ref": "art10",
@@ -337,45 +343,33 @@
       "provision_ref": "art13",
       "section": "13",
       "title": "Art. 13",
-      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia 3) Ustawa została ogłoszona w dniu 22 maja 2017 r. ."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2013-1458",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2015-1690",
+      "target_document_id": "pl-du-2023-1588",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2015-1960",
+      "target_document_id": "pl-du-2022-1097",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2016-1954",
+      "target_document_id": "pl-du-2022-2642",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2016-1666",
+      "target_document_id": "pl-du-2023-2029",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2016-2138",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-2016-2255",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-2017-60",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-2017-962",
+      "target_document_id": "pl-du-2023-1465",
       "ref_type": "references"
     }
   ]
