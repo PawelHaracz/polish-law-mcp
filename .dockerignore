@@ -1,0 +1,18 @@
+node_modules
+dist
+.git
+.github
+tests
+fixtures
+coverage
+
+# Raw ingest inputs — only data/database.db is copied into the image.
+data/seed
+data/source
+data/source-pdf
+data/census.json
+
+*.md
+!README.md
+.claude
+scratchpad

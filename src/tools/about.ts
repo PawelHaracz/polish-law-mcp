@@ -3,6 +3,7 @@
  */
 
 import type Database from '@ansvar/mcp-sqlite';
+import { describeCoverage, getCoverageStats } from '../utils/coverage.js';
 
 export interface AboutContext {
   version: string;
@@ -22,6 +23,7 @@ function safeCount(db: InstanceType<typeof Database>, sql: string): number {
 export function getAbout(db: InstanceType<typeof Database>, context: AboutContext) {
 
   const euRefs = safeCount(db, 'SELECT COUNT(*) as count FROM eu_references');
+  const coverage = getCoverageStats(db);
 
   const stats: Record<string, number> = {
     documents: safeCount(db, 'SELECT COUNT(*) as count FROM legal_documents'),
@@ -47,8 +49,15 @@ export function getAbout(db: InstanceType<typeof Database>, context: AboutContex
         authority: 'Sejm of the Republic of Poland',
       },
     ],
+    coverage: {
+      summary: describeCoverage(db),
+      ...coverage,
+    },
     freshness: {
       database_built: context.dbBuilt,
+      // Latest act actually present, not a hardcoded cut-off date.
+      latest_act_issued: coverage.latest_issued,
+      latest_in_force_date: coverage.latest_in_force,
     },
     disclaimer:
       'This is a research tool, not legal advice. Verify critical citations against official sources.',
