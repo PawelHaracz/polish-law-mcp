@@ -1,26 +1,18 @@
 # stdio transport image for Docker MCP Gateway.
-# Builds the SQLite DB from data/seed/ inside the image (reproducible),
-# then ships only dist/ + the compiled database.db on a non-root user.
+# Ships the prebuilt data/database.db (see `npm run build:db` to regenerate it
+# from data/seed/ on the host) plus dist/, on a non-root user.
 
-# ── Stage 1: Build (deps, tsc, DB) ──────────────────────────────────────
+# ── Stage 1: Build (deps, tsc) ──────────────────────────────────────────
 FROM node:20-alpine AS builder
 WORKDIR /app
 
-# Toolchain for better-sqlite3 native build (used only by the DB builder).
-RUN apk add --no-cache python3 make g++
-
 COPY package*.json ./
-# Full install incl. devDeps; run scripts so better-sqlite3 compiles.
-RUN npm ci
+RUN npm ci --ignore-scripts
 
 COPY tsconfig.json ./
 COPY src ./src
 COPY scripts ./scripts
 RUN npm run build
-
-# Build the SQLite DB from seed JSON (writes data/database.db).
-COPY data/seed ./data/seed
-RUN npm run build:db
 
 # ── Stage 2: Production ─────────────────────────────────────────────────
 FROM node:20-alpine AS production
@@ -30,7 +22,8 @@ COPY package*.json ./
 RUN npm ci --omit=dev --ignore-scripts
 
 COPY --from=builder /app/dist ./dist
-COPY --from=builder /app/data/database.db ./data/database.db
+# Prebuilt on the host — data/seed is excluded by .dockerignore.
+COPY data/database.db ./data/database.db
 
 # Security: non-root user. /tmp must be writable for ensure-readable-db.
 RUN addgroup -S nodejs && adduser -S nodejs -G nodejs \

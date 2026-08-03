@@ -5,6 +5,7 @@
 import type Database from '@ansvar/mcp-sqlite';
 import { readDbMetadata } from '../capabilities.js';
 import { generateResponseMetadata, type ToolResponse } from '../utils/metadata.js';
+import { describeCoverage, getCoverageStats, type CoverageStats } from '../utils/coverage.js';
 
 export interface SourceInfo {
   name: string;
@@ -23,6 +24,7 @@ export interface ListSourcesResult {
     built_at?: string;
     document_count: number;
     provision_count: number;
+    coverage: CoverageStats;
   };
 }
 
@@ -39,20 +41,21 @@ export async function listSources(
   db: InstanceType<typeof Database>,
 ): Promise<ToolResponse<ListSourcesResult>> {
   const meta = readDbMetadata(db);
+  const coverage = getCoverageStats(db);
 
   return {
     results: {
       sources: [
         {
-          name: 'Federal Register of Legislation',
-          authority: 'Polish Government, Office of Parliamentary Counsel',
-          url: 'https://www.legislation.gov.au',
-          license: 'Creative Commons Attribution 4.0 International (CC BY 4.0)',
-          coverage:
-            'All Commonwealth (federal) Acts and legislative instruments, ' +
-            'including privacy, cybersecurity, critical infrastructure, ' +
-            'corporations, consumer, telecommunications, and criminal law',
-          languages: ['en'],
+          name: 'Internetowy System Aktów Prawnych (ISAP)',
+          authority: 'Sejm Rzeczypospolitej Polskiej (Sejm of the Republic of Poland)',
+          url: 'https://isap.sejm.gov.pl',
+          license:
+            'Public domain under art. 4 of the Polish Copyright Act ' +
+            '(ustawa o prawie autorskim i prawach pokrewnych) — normative acts ' +
+            'and their official drafts are not subject to copyright',
+          coverage: describeCoverage(db),
+          languages: ['pl'],
         },
       ],
       database: {
@@ -61,6 +64,7 @@ export async function listSources(
         built_at: meta.built_at,
         document_count: safeCount(db, 'SELECT COUNT(*) as count FROM legal_documents'),
         provision_count: safeCount(db, 'SELECT COUNT(*) as count FROM legal_provisions'),
+        coverage,
       },
     },
     _metadata: generateResponseMetadata(db),
