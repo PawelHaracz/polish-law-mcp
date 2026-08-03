@@ -1,7 +1,10 @@
 name: polish-law-mcp
-# Built locally via `docker build -f Dockerfile.stdio -t polish-law-mcp:local .`
-# The gateway runs with --pull never, so this tag must exist on the host.
-image: polish-law-mcp:local
+# The gateway runs with --pull never, so this tag must exist on the host:
+#   docker build -f Dockerfile.stdio -t polish-law-mcp:stdio .
+# Or pull the published image and retag it:
+#   docker pull ghcr.io/pawelharacz/polish-law-mcp:stdio
+#   docker tag ghcr.io/pawelharacz/polish-law-mcp:stdio polish-law-mcp:stdio
+image: polish-law-mcp:stdio
 type: server
 title: Polish Law
 description: >-
