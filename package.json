@@ -41,6 +41,7 @@
   "scripts": {
     "build": "tsc",
     "build:db": "node --import tsx scripts/build-db.ts",
+    "migrate:fts": "node --import tsx scripts/migrate-fts.ts",
     "dev": "node --import tsx src/index.ts",
     "start": "node dist/src/index.js",
     "test": "vitest run",
