@@ -112,8 +112,16 @@ CREATE INDEX idx_provisions_chapter ON legal_provisions(document_id, chapter);
 
 -- FTS5 for provision search.
 --
--- Standalone (NOT external-content) so we can store ł-folded text for matching
--- while the raw legal_provisions.content stays intact for display/snippets.
+-- Contentless (content='') — the index stores terms only, never a copy of the
+-- text. A standalone FTS5 table would keep its own copy of every provision
+-- body: 934 MB on top of the 811 MB already in legal_provisions, for text no
+-- query reads. Callers take display text from legal_provisions.content
+-- (substr), and use FTS purely as an index: MATCH + bm25 + rowid.
+--
+-- NOT external-content (content='legal_provisions'), because the index covers
+-- doc_title, which lives in legal_documents rather than legal_provisions —
+-- external content requires every column to be recoverable from one table.
+--
 -- Columns:
 --   content   — ł-folded provision body (unicode61 strips the other diacritics)
 --   doc_title — ł-folded parent document title, so "kodeks karny" finds the
@@ -121,6 +129,7 @@ CREATE INDEX idx_provisions_chapter ON legal_provisions(document_id, chapter);
 -- bm25 weights are applied at query time (see search-legislation.ts).
 CREATE VIRTUAL TABLE provisions_fts USING fts5(
   content, doc_title,
+  content='',
   tokenize='unicode61'
 );
 

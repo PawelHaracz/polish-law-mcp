@@ -90,7 +90,15 @@ function validSessionId(raw: string | undefined): string | undefined {
   return raw;
 }
 
+// Sessions without a TTL would stay in memory forever for a client that
+// disappears without DELETE (killed process, dropped network) — onclose only
+// fires when the transport itself detects closure. Hence a last-seen stamp
+// and periodic sweeping.
+const SESSION_IDLE_MS = 30 * 60 * 1000;
+const SESSION_SWEEP_MS = 5 * 60 * 1000;
+
 const sessions = new Map<string, StreamableHTTPServerTransport>();
+const sessionLastSeen = new Map<string, number>();
 
 // ---------------------------------------------------------------------------
 // Main
@@ -183,6 +191,7 @@ async function main() {
 
         // Existing session — delegate
         if (sessionId && sessions.has(sessionId)) {
+          sessionLastSeen.set(sessionId, Date.now());
           await sessions.get(sessionId)!.handleRequest(req, res);
           return;
         }
@@ -205,14 +214,25 @@ async function main() {
           });
 
           sessions.set(newSessionId, transport);
+          sessionLastSeen.set(newSessionId, Date.now());
 
           transport.onclose = () => {
             sessions.delete(newSessionId);
+            sessionLastSeen.delete(newSessionId);
           };
 
-          const server = createMCPServer();
-          await server.connect(transport);
-          await transport.handleRequest(req, res);
+          try {
+            const server = createMCPServer();
+            await server.connect(transport);
+            await transport.handleRequest(req, res);
+          } catch (error) {
+            // Initialization failed, so onclose never fires — the entry
+            // would stay in the map forever. Clean up ourselves and hand
+            // the error to the outer handler.
+            sessions.delete(newSessionId);
+            sessionLastSeen.delete(newSessionId);
+            throw error;
+          }
           return;
         }
 
@@ -249,14 +269,29 @@ async function main() {
     console.error(`${SERVER_NAME} v${SERVER_VERSION} HTTP server listening on port ${PORT}`);
   });
 
+  const sweeper = setInterval(() => {
+    const cutoff = Date.now() - SESSION_IDLE_MS;
+    for (const [id, lastSeen] of sessionLastSeen) {
+      if (lastSeen < cutoff) {
+        sessions.get(id)?.close().catch(() => {});
+        sessions.delete(id);
+        sessionLastSeen.delete(id);
+      }
+    }
+  }, SESSION_SWEEP_MS);
+  // Don't keep the process alive on the sweeper alone.
+  sweeper.unref();
+
   // -------------------------------------------------------------------------
   // Graceful shutdown
   // -------------------------------------------------------------------------
 
   const shutdown = (signal: string) => {
     console.error(`[${SERVER_NAME}] Shutting down (${signal})...`);
+    clearInterval(sweeper);
     for (const [, t] of sessions) t.close().catch(() => {});
     sessions.clear();
+    sessionLastSeen.clear();
     try { db.close(); } catch { /* ignore */ }
     httpServer.close(() => process.exit(0));
     setTimeout(() => process.exit(1), 5000);
