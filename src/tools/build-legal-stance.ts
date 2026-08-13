@@ -61,7 +61,11 @@ export async function buildLegalStance(
         lp.provision_ref,
         lp.section,
         lp.title,
-        snippet(provisions_fts, 0, '>>>', '<<<', '...', 48) as snippet,
+        -- provisions_fts jest contentless, więc nie oddaje tekstu.
+        -- Tekst bierzemy z legal_provisions — tak samo jak search-legislation.ts.
+        -- Efekt uboczny na plus: zachowana polska pisownia (snippet() zwracał
+        -- wersję ł-foldowaną z indeksu). Tracimy znaczniki >>> <<< wokół trafienia.
+        substr(lp.content, 1, 240) as snippet,
         bm25(provisions_fts) as relevance
       FROM provisions_fts
       JOIN legal_provisions lp ON lp.id = provisions_fts.rowid
