@@ -100,6 +100,11 @@ jobs:
             fi
           done
 
+      # Rejestruje handlery binfmt — bez nich buildx na runnerze amd64 nie
+      # zbuduje warstwy arm64 i build wywali się przy pierwszym RUN.
+      - name: Set up QEMU
+        uses: docker/setup-qemu-action@v3
+
       - name: Set up Docker Buildx
         uses: docker/setup-buildx-action@v3
 
