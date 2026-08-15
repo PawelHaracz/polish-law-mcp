@@ -18,6 +18,7 @@ interface DocRow {
   id: string;
   title: string;
   short_name: string | null;
+  status: string | null;
 }
 
 // ---------------------------------------------------------------------------
@@ -84,7 +85,10 @@ function normalizePunctuation(s: string): string {
 function getAllDocs(db: Db): DocRow[] {
   if (!allDocsCache) {
     allDocsCache = db.prepare(
-      'SELECT id, title, short_name FROM legal_documents',
+      // status is needed by every fuzzy step below: several codes share a
+      // title across decades and the repealed one often has the SHORTER
+      // title, so "shortest match wins" silently preferred it.
+      'SELECT id, title, short_name, status FROM legal_documents',
     ).all() as DocRow[];
   }
   return allDocsCache;
@@ -129,6 +133,27 @@ function getChapterLookup(db: Db): Map<string, string> {
  * 8. Punctuation-normalized full scan (shortest match)
  * 9. Return null
  */
+/**
+ * Picks the best candidate: an act in force always beats a repealed one,
+ * and only then does the shorter title win.
+ *
+ * Before this, "shortest title wins" alone returned the 1969 Kodeks karny
+ * (repealed in 1998) over the 1997 one, because the older title is shorter.
+ * For a legal-research tool that is the worst possible failure: quoting a
+ * repealed code as current law, with check_currency verifying the wrong act.
+ *
+ * Repealed acts stay reachable — they only lose a tie against an act in force.
+ */
+function pickPreferred(rows: DocRow[]): string {
+  const sorted = [...rows].sort((a, b) => {
+    const aForce = a.status === 'in_force' ? 0 : 1;
+    const bForce = b.status === 'in_force' ? 0 : 1;
+    if (aForce !== bForce) return aForce - bForce;
+    return a.title.length - b.title.length;
+  });
+  return sorted[0]!.id;
+}
+
 export function resolveDocumentId(
   db: Db,
   input: string,
@@ -166,8 +191,20 @@ export function resolveDocumentId(
   const normalized = normalizeActTitle(trimmed);
 
   // 4a: exact match on normalised input
+  //
+  // ORDER BY matters: several acts share a title across decades — "Kodeks
+  // karny" exists as both pl-du-1969-94 (repealed 1998) and pl-du-1997-553
+  // (in force). Without ordering SQLite returned whichever row came first,
+  // which was the older, repealed one. A legal-research tool quoting a code
+  // repealed in 1998 as current law is the worst failure mode this server
+  // has, and check_currency won't catch it — it would verify the wrong act.
+  //
+  // Repealed acts are still reachable: they only lose when an in-force act
+  // shares the exact same title.
   const exactTitle = db.prepare(
-    'SELECT id FROM legal_documents WHERE LOWER(title) = LOWER(?)',
+    `SELECT id FROM legal_documents
+     WHERE LOWER(title) = LOWER(?)
+     ORDER BY CASE WHEN status = 'in_force' THEN 0 ELSE 1 END, id DESC`,
   ).get(normalized) as { id: string } | undefined;
   if (exactTitle) return exactTitle.id;
 
@@ -175,19 +212,16 @@ export function resolveDocumentId(
   //     e.g. input "Data Protection Act" should match "Data Protection Act, 2019"
   const docs = getAllDocs(db);
   const lowerNormalized = normalized.toLowerCase();
-  for (const doc of docs) {
-    const storedBase = doc.title.replace(/,?\s*\d{4}\s*$/, '').toLowerCase();
-    if (storedBase === lowerNormalized) return doc.id;
-  }
+  const baseMatches = docs.filter(
+    doc => doc.title.replace(/,?\s*\d{4}\s*$/, '').toLowerCase() === lowerNormalized,
+  );
+  if (baseMatches.length > 0) return pickPreferred(baseMatches);
 
   // -----------------------------------------------------------------------
   // Step 5 — Shortest LIKE match (case-sensitive on title)
   // -----------------------------------------------------------------------
   const likeMatches = docs.filter(d => d.title.includes(normalized));
-  if (likeMatches.length > 0) {
-    likeMatches.sort((a, b) => a.title.length - b.title.length);
-    return likeMatches[0]!.id;
-  }
+  if (likeMatches.length > 0) return pickPreferred(likeMatches);
 
   // -----------------------------------------------------------------------
   // Step 6 — Case-insensitive shortest LIKE on title
@@ -195,10 +229,7 @@ export function resolveDocumentId(
   const lowerLikeMatches = docs.filter(
     d => d.title.toLowerCase().includes(lowerNormalized),
   );
-  if (lowerLikeMatches.length > 0) {
-    lowerLikeMatches.sort((a, b) => a.title.length - b.title.length);
-    return lowerLikeMatches[0]!.id;
-  }
+  if (lowerLikeMatches.length > 0) return pickPreferred(lowerLikeMatches);
 
   // -----------------------------------------------------------------------
   // Step 7 — Short-name LIKE (case-insensitive)
