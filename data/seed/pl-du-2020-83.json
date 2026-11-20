@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/83",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -298,6 +304,12 @@
       "content": "Dane i identyfikatory, o których mowa w § 4, są przekazywane do rejestru przez: Narodowy Fundusz Zdrowia w zakresie, o którym mowa w § 4 pkt 1 lit. d, g-i, o oraz p (w przypadku zgonów szpitalnych), pkt 2 lit. f oraz g oraz pkt 3 i 4, do systemu, o którym mowa w pkt 1, w terminie do 120 dni po przekazaniu danych przez usługodawcę."
     },
     {
+      "provision_ref": "par5a",
+      "section": "5a",
+      "title": "§ 5a",
+      "content": "Dane i identyfikatory, o których mowa w § 4, obejmujące okres od dnia 1 stycznia 2010 r. do dnia wejścia w życie rozporządzenia, zostaną przekazane do rejestru przez Uniwersyteckie Centrum Kliniczne w Gdańsku nie później niż do dnia 31 grudnia 2022 r."
+    },
+    {
       "provision_ref": "par6",
       "section": "6",
       "title": "§ 6",
@@ -307,25 +319,25 @@
       "provision_ref": "par7",
       "section": "7",
       "title": "§ 7",
-      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia 4) Rozporządzenie zostało ogłoszone w dniu 17 stycznia 2020 r. ."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2019-408",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2019-730",
+      "target_document_id": "pl-du-2020-1627",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2019-1590",
+      "target_document_id": "pl-du-2021-666",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2019-1905",
+      "target_document_id": "pl-du-2021-1292",
       "ref_type": "references"
     }
   ]

@@ -1,0 +1,206 @@
+{
+  "id": "pl-du-2026-1470",
+  "type": "statute",
+  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 5 listopada 2026 r. w sprawie centralnego punktu systemu powiadamiania ratunkowego",
+  "title_en": "",
+  "short_name": "pl-du-2026-1470",
+  "status": "in_force",
+  "issued_date": "2026-11-05",
+  "in_force_date": "2026-11-06",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2026/1470",
+  "provisions": [
+    {
+      "provision_ref": "par1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Rozporządzenie określa organizację i funkcjonowanie oraz wymagania techniczne dla centralnego punktu systemu powiadamiania ratunkowego."
+    },
+    {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: 1) Platformie Lokalizacyjno-Informacyjnej z Centralną Bazą Danych, zwanej dalej „PLI CBD” – należy przez to rozumieć system gromadzący i udostępniający informacje i dane dotyczące połączeń i lokalizacji zakończenia sieci lub urządzenia końcowego, z którego wykonano połączenie do numeru alarmowego; 2) certyfikacie – należy przez to rozumieć elektroniczne poświadczenie będące elementem infrastruktury klucza publicznego, wykorzystywane w mechanizmach uwierzytelniania oraz zabezpieczania komunikacji, wydawane przez podmiot odpowiedzialny za tę infrastrukturę; 3) Centralnym Punkcie Systemu Powiadamiania Ratunkowego, zwanym dalej „CP SPR” – należy przez to rozumieć zespół urządzeń i oprogramowania umożliwiający bezpieczną komunikację między zapewnianą przez ministra właściwego do spraw wewnętrznych siecią teleinformatyczną na potrzeby obsługi numerów alarmowych a innymi sieciami teleinformatycznymi, z którymi się łączy."
+    },
+    {
+      "provision_ref": "par2p1",
+      "section": "2",
+      "title": "§ 2 pkt 1",
+      "content": "Platformie Lokalizacyjno-Informacyjnej z Centralną Bazą Danych, zwanej dalej „PLI CBD” – należy przez to rozumieć system gromadzący i udostępniający informacje i dane dotyczące połączeń i lokalizacji zakończenia sieci lub urządzenia końcowego, z którego wykonano połączenie do numeru alarmowego;"
+    },
+    {
+      "provision_ref": "par2p2",
+      "section": "2",
+      "title": "§ 2 pkt 2",
+      "content": "certyfikacie – należy przez to rozumieć elektroniczne poświadczenie będące elementem infrastruktury klucza publicznego, wykorzystywane w mechanizmach uwierzytelniania oraz zabezpieczania komunikacji, wydawane przez podmiot odpowiedzialny za tę infrastrukturę;"
+    },
+    {
+      "provision_ref": "par2p3",
+      "section": "2",
+      "title": "§ 2 pkt 3",
+      "content": "Centralnym Punkcie Systemu Powiadamiania Ratunkowego, zwanym dalej „CP SPR” – należy przez to rozumieć zespół urządzeń i oprogramowania umożliwiający bezpieczną komunikację między zapewnianą przez ministra właściwego do spraw wewnętrznych siecią teleinformatyczną na potrzeby obsługi numerów alarmowych a innymi sieciami teleinformatycznymi, z którymi się łączy."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "1. CP SPR zapewnia: 1) obsługę przekazania do PLI CBD zapytań o informacje o lokalizacji i dane z systemu teleinformatycznego centrów powiadamiania ratunkowego i systemów teleinformatycznych podmiotów ratowniczych i pomocniczych; 2) obsługę przekazania z PLI CBD odpowiedzi zawierających informacje o lokalizacji i dane do systemu teleinformatycznego centrów powiadamiania ratunkowego i systemów teleinformatycznych podmiotów ratowniczych i pomocniczych; 3) obsługę przekazania do PLI CBD zapytań podmiotów ratowniczych i pomocniczych o informacje o lokalizacji i dane, a także przekazania tym podmiotom odpowiedzi z PLI CBD, za pomocą właściwych protokołów komunikacyjnych, w tym HTTPS z wykorzystaniem protokołu TLS, zapewniających poufność, integralność oraz uwierzytelnianie komunikacji przez cały czas trwania sesji komunikacyjnej między klientem a serwerem w przypadku awarii któregokolwiek z systemów, o których mowa w pkt 1, lub w przypadku gdy podmioty ratownicze i pomocnicze nie posiadają własnego systemu teleinformatycznego; 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – administracja publiczna, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 25 lipca 2025 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 999). 4) Poz. 1470 gromadzenie i przetwarzanie danych o połączeniach, w tym: a) rejestrację faktu przekazania zapytania o informacje o lokalizacji i dane z centrów powiadamiania ratunkowego i podmiotów ratowniczych i pomocniczych do CP SPR, wraz ze wskazaniem czasu tej rejestracji, b) rejestrację faktu przekazania zapytania o informacje o lokalizacji i dane z CP SPR do PLI CBD wraz ze wskazaniem czasu tej rejestracji, c) rejestrację faktu przekazania odpowiedzi zawierających informacje o lokalizacji i dane z PLI CBD do CP SPR wraz ze wskazaniem czasu tej rejestracji, d) rejestrację faktu przekazania odpowiedzi zawierających informacje o lokalizacji i dane z CP SPR do centrów powiadamiania ratunkowego i podmiotów ratowniczych i pomocniczych wraz ze wskazaniem czasu tej rejestracji; 5) zabezpieczony dostęp do sieci Internet dla wydzielonej infrastruktury systemu teleinformatycznego centrów powiadamiania ratunkowego. 2. Dane o połączeniach, o których mowa w ust. 1 pkt 4, gromadzi się i przechowuje przez 12 miesięcy od ostatniego dnia miesiąca, w którym nastąpiło połączenie w celu zapewnienia kontroli obiegu informacji i danych, statystyki oraz diagnostyki. 3. Minimalny zakres przechowywanych danych, o których mowa w ust. 2, obejmuje co najmniej wykaz transakcji oraz status przekazania. 4. Dane o połączeniach, o których mowa w ust. 1 pkt 4, nie zawierają informacji ani danych przesyłanych w ramach zapytań i odpowiedzi, o których mowa w ust. 1 pkt 1–3. 5. Zapytania i odpowiedzi, o których mowa w ust. 1 pkt 1 i 2, mają formę komunikatów zgodnych ze specyfikacją techniczną ETSI TS 102 164."
+    },
+    {
+      "provision_ref": "par3u1p1",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 1",
+      "content": "obsługę przekazania do PLI CBD zapytań o informacje o lokalizacji i dane z systemu teleinformatycznego centrów powiadamiania ratunkowego i systemów teleinformatycznych podmiotów ratowniczych i pomocniczych;"
+    },
+    {
+      "provision_ref": "par3u1p2",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 2",
+      "content": "obsługę przekazania z PLI CBD odpowiedzi zawierających informacje o lokalizacji i dane do systemu teleinformatycznego centrów powiadamiania ratunkowego i systemów teleinformatycznych podmiotów ratowniczych i pomocniczych;"
+    },
+    {
+      "provision_ref": "par3u1p3",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 3",
+      "content": "obsługę przekazania do PLI CBD zapytań podmiotów ratowniczych i pomocniczych o informacje o lokalizacji i dane, a także przekazania tym podmiotom odpowiedzi z PLI CBD, za pomocą właściwych protokołów komunikacyjnych, w tym HTTPS z wykorzystaniem protokołu TLS, zapewniających poufność, integralność oraz uwierzytelnianie komunikacji przez cały czas trwania sesji komunikacyjnej między klientem a serwerem w przypadku awarii któregokolwiek z systemów, o których mowa w pkt 1, lub w przypadku gdy podmioty ratownicze i pomocnicze nie posiadają własnego systemu teleinformatycznego;"
+    },
+    {
+      "provision_ref": "par3u1p1",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 1",
+      "content": "Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – administracja publiczna, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 25 lipca 2025 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 999)."
+    },
+    {
+      "provision_ref": "par3u1p4",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 4",
+      "content": "Poz. 1470 gromadzenie i przetwarzanie danych o połączeniach, w tym: a) rejestrację faktu przekazania zapytania o informacje o lokalizacji i dane z centrów powiadamiania ratunkowego i podmiotów ratowniczych i pomocniczych do CP SPR, wraz ze wskazaniem czasu tej rejestracji, b) rejestrację faktu przekazania zapytania o informacje o lokalizacji i dane z CP SPR do PLI CBD wraz ze wskazaniem czasu tej rejestracji, c) rejestrację faktu przekazania odpowiedzi zawierających informacje o lokalizacji i dane z PLI CBD do CP SPR wraz ze wskazaniem czasu tej rejestracji, d) rejestrację faktu przekazania odpowiedzi zawierających informacje o lokalizacji i dane z CP SPR do centrów powiadamiania ratunkowego i podmiotów ratowniczych i pomocniczych wraz ze wskazaniem czasu tej rejestracji;"
+    },
+    {
+      "provision_ref": "par3u1p5",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 5",
+      "content": "zabezpieczony dostęp do sieci Internet dla wydzielonej infrastruktury systemu teleinformatycznego centrów powiadamiania ratunkowego."
+    },
+    {
+      "provision_ref": "par3u2",
+      "section": "3",
+      "title": "§ 3 ust. 2",
+      "content": "Dane o połączeniach, o których mowa w ust. 1 pkt 4, gromadzi się i przechowuje przez 12 miesięcy od ostatniego dnia miesiąca, w którym nastąpiło połączenie w celu zapewnienia kontroli obiegu informacji i danych, statystyki oraz diagnostyki."
+    },
+    {
+      "provision_ref": "par3u3",
+      "section": "3",
+      "title": "§ 3 ust. 3",
+      "content": "Minimalny zakres przechowywanych danych, o których mowa w ust. 2, obejmuje co najmniej wykaz transakcji oraz status przekazania."
+    },
+    {
+      "provision_ref": "par3u4",
+      "section": "3",
+      "title": "§ 3 ust. 4",
+      "content": "Dane o połączeniach, o których mowa w ust. 1 pkt 4, nie zawierają informacji ani danych przesyłanych w ramach zapytań i odpowiedzi, o których mowa w ust. 1 pkt 1–3."
+    },
+    {
+      "provision_ref": "par3u5",
+      "section": "3",
+      "title": "§ 3 ust. 5",
+      "content": "Zapytania i odpowiedzi, o których mowa w ust. 1 pkt 1 i 2, mają formę komunikatów zgodnych ze specyfikacją techniczną ETSI TS 102 164."
+    },
+    {
+      "provision_ref": "par4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Połączenia między CP SPR a centrami powiadamiania ratunkowego oraz podmiotami ratowniczymi i pomocniczymi są realizowane przez zapewnianą przez ministra właściwego do spraw wewnętrznych sieć teleinformatyczną na potrzeby obsługi numerów alarmowych, której operatorem jest Komendant Główny Policji, w trybie bezpiecznego połączenia z wykorzystaniem szyfrowanej komunikacji i wzajemnego uwierzytelniania stron przy użyciu certyfikatów."
+    },
+    {
+      "provision_ref": "par5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "1. Operator, o którym mowa w § 4, odpowiada za obsługę, administrowanie oraz serwis techniczny sieci teleinformatycznej, o której mowa w § 4, oraz za obsługę, administrowanie oraz serwis techniczny CP SPR. 2. Operator, o którym mowa w § 4: 1) po upływie okresu przechowywania danych, o którym mowa w § 3 ust. 2, niezwłocznie, trwale usuwa te dane ze wszystkich struktur bazodanowych oraz nośników kopii zapasowych; 2) informuje użytkowników CP SPR o wszelkich awariach uniemożliwiających przekazywanie przez CP SPR informacji i danych oraz uniemożliwiających zapewnienie gromadzenia i przechowywania danych o połączeniach realizowanych przez CP SPR; 3) informuje użytkowników CP SPR o incydentach bezpieczeństwa, zdarzeniach mogących wpływać na bezpieczeństwo lub ciągłość działania CP SPR, przypadkach kompromitacji certyfikatów lub kluczy oraz zdarzeniach wpływających na poufność, integralność lub dostępność przekazywanych danych; 4) uzgadnia z użytkownikami CP SPR szczegółowe standardy techniczne przekazywania informacji i danych przez CP SPR, w tym ich format z wykorzystaniem wersjonowanego dokumentu interfejsu wymiany danych między systemami; 5) na wniosek użytkowników CP SPR udostępnia dane o połączeniach dotyczących własnego systemu, o których mowa w pkt 1."
+    },
+    {
+      "provision_ref": "par5u1",
+      "section": "5",
+      "title": "§ 5 ust. 1",
+      "content": "Operator, o którym mowa w § 4, odpowiada za obsługę, administrowanie oraz serwis techniczny sieci teleinformatycznej, o której mowa w § 4, oraz za obsługę, administrowanie oraz serwis techniczny CP SPR."
+    },
+    {
+      "provision_ref": "par5u2p1",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 1",
+      "content": "po upływie okresu przechowywania danych, o którym mowa w § 3 ust. 2, niezwłocznie, trwale usuwa te dane ze wszystkich struktur bazodanowych oraz nośników kopii zapasowych;"
+    },
+    {
+      "provision_ref": "par5u2p2",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 2",
+      "content": "informuje użytkowników CP SPR o wszelkich awariach uniemożliwiających przekazywanie przez CP SPR informacji i danych oraz uniemożliwiających zapewnienie gromadzenia i przechowywania danych o połączeniach realizowanych przez CP SPR;"
+    },
+    {
+      "provision_ref": "par5u2p3",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 3",
+      "content": "informuje użytkowników CP SPR o incydentach bezpieczeństwa, zdarzeniach mogących wpływać na bezpieczeństwo lub ciągłość działania CP SPR, przypadkach kompromitacji certyfikatów lub kluczy oraz zdarzeniach wpływających na poufność, integralność lub dostępność przekazywanych danych;"
+    },
+    {
+      "provision_ref": "par5u2p4",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 4",
+      "content": "uzgadnia z użytkownikami CP SPR szczegółowe standardy techniczne przekazywania informacji i danych przez CP SPR, w tym ich format z wykorzystaniem wersjonowanego dokumentu interfejsu wymiany danych między systemami;"
+    },
+    {
+      "provision_ref": "par5u2p5",
+      "section": "5",
+      "title": "§ 5 ust. 2 pkt 5",
+      "content": "na wniosek użytkowników CP SPR udostępnia dane o połączeniach dotyczących własnego systemu, o których mowa w pkt 1."
+    },
+    {
+      "provision_ref": "par6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "1. Pomieszczenia CP SPR wyposażone są w sygnalizację włamania i napadu, kontrolę dostępu, sygnalizację pożarową, system gaszenia gazem, klimatyzację, ochronę przepięciową i rezerwowe zasilanie. 2. Pomieszczenia, o których mowa w ust. 1, spełniają warunki techniczne i lokalizacyjne zapewniające ciągłość działania CP SPR w przypadku braku zasilania w energię elektryczną, pożaru lub przerwania łączności. 3. CP SPR jest wyposażony w rozwiązania architektoniczne i teleinformatyczne, które zapewniają: 1) zachowanie ciągłości funkcjonowania CP SPR, w tym podczas prowadzenia prac serwisowych przez zapewnienie redundancji komponentów krytycznych, niezależnych łączy telekomunikacyjnych, lokalizacji zapasowej lub równoważnego rozwiązania, kopii zapasowych, procedur awaryjnych oraz okresowych testów odtworzeniowych; 2) zabezpieczenie przed nieuprawnionym dostępem do jakiejkolwiek części CP SPR; Poz. 1470 3) zabezpieczenie przed możliwymi atakami, przeprowadzanymi również przez sieć teleinformatyczną; 4) odporność na uszkodzenia w pojedynczym punkcie, przez co należy rozumieć stworzenie takich warunków technicznych, aby pomimo awarii jednego elementu CP SPR była zapewniona jego funkcjonalność."
+    },
+    {
+      "provision_ref": "par6u1",
+      "section": "6",
+      "title": "§ 6 ust. 1",
+      "content": "Pomieszczenia CP SPR wyposażone są w sygnalizację włamania i napadu, kontrolę dostępu, sygnalizację pożarową, system gaszenia gazem, klimatyzację, ochronę przepięciową i rezerwowe zasilanie."
+    },
+    {
+      "provision_ref": "par6u2",
+      "section": "6",
+      "title": "§ 6 ust. 2",
+      "content": "Pomieszczenia, o których mowa w ust. 1, spełniają warunki techniczne i lokalizacyjne zapewniające ciągłość działania CP SPR w przypadku braku zasilania w energię elektryczną, pożaru lub przerwania łączności."
+    },
+    {
+      "provision_ref": "par6u3p1",
+      "section": "6",
+      "title": "§ 6 ust. 3 pkt 1",
+      "content": "zachowanie ciągłości funkcjonowania CP SPR, w tym podczas prowadzenia prac serwisowych przez zapewnienie redundancji komponentów krytycznych, niezależnych łączy telekomunikacyjnych, lokalizacji zapasowej lub równoważnego rozwiązania, kopii zapasowych, procedur awaryjnych oraz okresowych testów odtworzeniowych;"
+    },
+    {
+      "provision_ref": "par6u3p2",
+      "section": "6",
+      "title": "§ 6 ust. 3 pkt 2",
+      "content": "zabezpieczenie przed nieuprawnionym dostępem do jakiejkolwiek części CP SPR; Poz. 1470"
+    },
+    {
+      "provision_ref": "par6u3p3",
+      "section": "6",
+      "title": "§ 6 ust. 3 pkt 3",
+      "content": "zabezpieczenie przed możliwymi atakami, przeprowadzanymi również przez sieć teleinformatyczną;"
+    },
+    {
+      "provision_ref": "par6u3p4",
+      "section": "6",
+      "title": "§ 6 ust. 3 pkt 4",
+      "content": "odporność na uszkodzenia w pojedynczym punkcie, przez co należy rozumieć stworzenie takich warunków technicznych, aby pomimo awarii jednego elementu CP SPR była zapewniona jego funkcjonalność."
+    },
+    {
+      "provision_ref": "par7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 3 ust. 1 pkt 5, który wchodzi w życie z dniem 30 czerwca 2027 r.2) Minister Spraw Wewnętrznych i Administracji: wz. W. Leśniakiewicz 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 29 grudnia 2015 r. w sprawie centralnego punktu systemu powiadamiania ratunkowego oraz punktów centralnych służb (Dz. U. poz. 2356), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 104 pkt 5 lit. b ustawy z dnia 12 lipca 2024 r. – Przepisy wprowadzające ustawę – Prawo komunikacji elektronicznej (Dz. U. poz. 1222 oraz z 2026 r. poz. 252)."
+    }
+  ],
+  "definitions": []
+}

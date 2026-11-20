@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2023/33",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -37,7 +43,7 @@
       "provision_ref": "par3",
       "section": "3",
       "title": "§ 3",
-      "content": "Obszar, o którym mowa w § 1, wyznacza się w celu: trwałej ochrony: siedlisk przyrodniczych, populacji zagrożonych wyginięciem gatunków roślin, populacji zagrożonych wyginięciem gatunków zwierząt innych niż ptaki lub odtworzenia właściwego stanu ochrony siedlisk przyrodniczych lub właściwego stanu ochrony gatunków, o których mowa w pkt 1 lit. b lub c - w stosunku do przedmiotów ochrony."
+      "content": "Obszar, o którym mowa w § 1, wyznacza się w celu: trwałej ochrony: siedlisk przyrodniczych, populacji zagrożonych wyginięciem gatunków roślin lub (uchylona) 4) Przez § 1 pkt 1 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 3. odtworzenia właściwego stanu ochrony siedlisk przyrodniczych lub właściwego stanu ochrony gatunków, o których mowa w pkt 1 lit. b - w stosunku do przedmiotów ochrony."
     },
     {
       "provision_ref": "par3p1la",
@@ -46,28 +52,22 @@
       "content": "Obszar, o którym mowa w § 1, wyznacza się w celu: trwałej ochrony: siedlisk przyrodniczych,"
     },
     {
-      "provision_ref": "par3p1lb",
-      "section": "3",
-      "title": "§ 3 pkt 1 lit. b",
-      "content": "Obszar, o którym mowa w § 1, wyznacza się w celu: trwałej ochrony: populacji zagrożonych wyginięciem gatunków roślin,"
-    },
-    {
       "provision_ref": "par3p1lc",
       "section": "3",
       "title": "§ 3 pkt 1 lit. c",
-      "content": "Obszar, o którym mowa w § 1, wyznacza się w celu: trwałej ochrony: populacji zagrożonych wyginięciem gatunków zwierząt innych niż ptaki lub"
+      "content": "Obszar, o którym mowa w § 1, wyznacza się w celu: trwałej ochrony: (uchylona) 4) Przez § 1 pkt 1 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 3."
     },
     {
-      "provision_ref": "par3p2",
+      "provision_ref": "par3p5",
       "section": "3",
-      "title": "§ 3 pkt 2",
-      "content": "Obszar, o którym mowa w § 1, wyznacza się w celu: odtworzenia właściwego stanu ochrony siedlisk przyrodniczych lub właściwego stanu ochrony gatunków, o których mowa w pkt 1 lit. b lub c"
+      "title": "§ 3 pkt 5",
+      "content": "Obszar, o którym mowa w § 1, wyznacza się w celu: odtworzenia właściwego stanu ochrony siedlisk przyrodniczych lub właściwego stanu ochrony gatunków, o których mowa w pkt 1 lit. b"
     },
     {
       "provision_ref": "par4",
       "section": "4",
       "title": "§ 4",
-      "content": "Przedmiotem ochrony na obszarze, o którym mowa w § 1, są: siedliska przyrodnicze określone w załączniku nr 3 do rozporządzenia; gatunki roślin, określone w załączniku nr 4 do rozporządzenia, oraz ich siedliska; gatunki zwierząt innych niż ptaki, określone w załączniku nr 5 do rozporządzenia, oraz ich siedliska."
+      "content": "Przedmiotem ochrony na obszarze, o którym mowa w § 1, są: siedliska przyrodnicze określone w załączniku nr 3 do rozporządzenia; gatunki roślin, określone w załączniku nr 4 do rozporządzenia, oraz ich siedliska; (uchylony). 6) Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3."
     },
     {
       "provision_ref": "par4p1",
@@ -85,27 +85,35 @@
       "provision_ref": "par4p3",
       "section": "4",
       "title": "§ 4 pkt 3",
-      "content": "Przedmiotem ochrony na obszarze, o którym mowa w § 1, są: gatunki zwierząt innych niż ptaki, określone w załączniku nr 5 do rozporządzenia, oraz ich siedliska."
+      "content": "Przedmiotem ochrony na obszarze, o którym mowa w § 1, są: (uchylony). 6) Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3."
     },
     {
       "provision_ref": "par5",
       "section": "5",
       "title": "§ 5",
-      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia 7) Rozporządzenie zostało ogłoszone w dniu 5 stycznia 2023 r. ."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2022-916",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2022-1726",
+      "target_document_id": "pl-du-2023-1975",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2022-2185",
+      "target_document_id": "pl-du-2023-1336",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1688",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1890",
       "ref_type": "references"
     }
   ]

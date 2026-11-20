@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2018/2488",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -43,19 +49,25 @@
       "provision_ref": "par2",
       "section": "2",
       "title": "§ 2",
-      "content": "Podmiotem oddelegowania jest urząd zapewniający obsługę organu administracji publicznej, reprezentowany przez: dyrektora generalnego urzędu; kierownika urzędu − w urzędach, w których nie tworzy się stanowiska dyrektora generalnego."
+      "content": "Podmiotem oddelegowania jest: urząd zapewniający obsługę organu administracji publicznej, reprezentowany przez: dyrektora generalnego urzędu, kierownika urzędu - w urzędach, w których nie tworzy się stanowiska dyrektora generalnego; państwowa jednostka budżetowa podległa ministrowi właściwemu do spraw budżetu, finansów publicznych i instytucji finansowych lub przez niego nadzorowana, reprezentowana przez kierownika tej jednostki."
     },
     {
-      "provision_ref": "par2p1",
+      "provision_ref": "par2p1la",
       "section": "2",
-      "title": "§ 2 pkt 1",
-      "content": "Podmiotem oddelegowania jest urząd zapewniający obsługę organu administracji publicznej, reprezentowany przez: dyrektora generalnego urzędu;"
+      "title": "§ 2 pkt 1 lit. a",
+      "content": "Podmiotem oddelegowania jest: urząd zapewniający obsługę organu administracji publicznej, reprezentowany przez: dyrektora generalnego urzędu,"
+    },
+    {
+      "provision_ref": "par2p1lb",
+      "section": "2",
+      "title": "§ 2 pkt 1 lit. b",
+      "content": "Podmiotem oddelegowania jest: urząd zapewniający obsługę organu administracji publicznej, reprezentowany przez: kierownika urzędu - w urzędach, w których nie tworzy się stanowiska dyrektora generalnego;"
     },
     {
       "provision_ref": "par2p2",
       "section": "2",
       "title": "§ 2 pkt 2",
-      "content": "Podmiotem oddelegowania jest urząd zapewniający obsługę organu administracji publicznej, reprezentowany przez: kierownika urzędu − w urzędach, w których nie tworzy się stanowiska dyrektora generalnego."
+      "content": "Podmiotem oddelegowania jest: państwowa jednostka budżetowa podległa ministrowi właściwemu do spraw budżetu, finansów publicznych i instytucji finansowych lub przez niego nadzorowana, reprezentowana przez kierownika tej jednostki."
     },
     {
       "provision_ref": "par3",
@@ -301,7 +313,7 @@
       "provision_ref": "par12",
       "section": "12",
       "title": "§ 12",
-      "content": "Kierownik jednostki organizacyjnej może odwołać funkcjonariusza z oddelegowania: z urzędu, w przypadku: zwolnienia funkcjonariusza ze służby, gdy jest to uzasadnione potrzebami Krajowej Administracji Skarbowej; na uzasadniony wniosek: podmiotu oddelegowania, oddelegowanego funkcjonariusza. Kierownik jednostki organizacyjnej odwołuje funkcjonariusza z oddelegowania w przypadku wniosku podmiotu oddelegowania o zmianę warunków oddelegowania, jeżeli: odmówi uwzględnienia wniosku o zmianę warunków oddelegowania lub oddelegowany funkcjonariusz odmówi wyrażenia zgody na zmianę warunków oddelegowania. Odwołanie funkcjonariusza z oddelegowania następuje w formie pisemnej w postaci papierowej albo elektronicznej. Odwołanie funkcjonariusza z oddelegowania następuje: nie później niż w dniu zwolnienia ze służby określonym w decyzji o zwolnieniu ze służby − w przypadku, o którym mowa w ust. 1 pkt 1 lit. a; nie wcześniej niż z upływem 30 dni od dnia doręczenia oddelegowanemu funkcjonariuszowi odwołania - w przypadkach, o których mowa w ust. 1 pkt 1 lit. b i pkt 2 oraz ust. 2. Kierownik jednostki organizacyjnej zawiadamia podmiot oddelegowania o odwołaniu funkcjonariusza z oddelegowania nie później niż 7 dni przed dniem, w którym następuje odwołanie z oddelegowania."
+      "content": "Kierownik jednostki organizacyjnej może odwołać funkcjonariusza z oddelegowania: z urzędu, w przypadku: zwolnienia funkcjonariusza ze służby, gdy jest to uzasadnione potrzebami Krajowej Administracji Skarbowej; na uzasadniony wniosek: podmiotu oddelegowania, oddelegowanego funkcjonariusza. Kierownik jednostki organizacyjnej odwołuje funkcjonariusza z oddelegowania w przypadku wniosku podmiotu oddelegowania o zmianę warunków oddelegowania, jeżeli: odmówi uwzględnienia wniosku o zmianę warunków oddelegowania lub oddelegowany funkcjonariusz odmówi wyrażenia zgody na zmianę warunków oddelegowania. Odwołanie funkcjonariusza z oddelegowania następuje w formie pisemnej w postaci papierowej albo elektronicznej. Odwołanie funkcjonariusza z oddelegowania następuje: nie później niż w dniu zwolnienia ze służby określonym w decyzji o zwolnieniu ze służby - w przypadku, o którym mowa w ust. 1 pkt 1 lit. a; nie wcześniej niż z upływem 30 dni od dnia doręczenia oddelegowanemu funkcjonariuszowi odwołania - w przypadkach, o których mowa w ust. 1 pkt 1 lit. b i pkt 2 oraz ust. 2. Kierownik jednostki organizacyjnej zawiadamia podmiot oddelegowania o odwołaniu funkcjonariusza z oddelegowania nie później niż 7 dni przed dniem, w którym następuje odwołanie z oddelegowania."
     },
     {
       "provision_ref": "par12u1p1la",
@@ -349,7 +361,7 @@
       "provision_ref": "par12u4p1",
       "section": "12",
       "title": "§ 12 ust. 4 pkt 1",
-      "content": "Odwołanie funkcjonariusza z oddelegowania następuje: nie później niż w dniu zwolnienia ze służby określonym w decyzji o zwolnieniu ze służby − w przypadku, o którym mowa w ust. 1 pkt 1 lit. a;"
+      "content": "Odwołanie funkcjonariusza z oddelegowania następuje: nie później niż w dniu zwolnienia ze służby określonym w decyzji o zwolnieniu ze służby - w przypadku, o którym mowa w ust. 1 pkt 1 lit. a;"
     },
     {
       "provision_ref": "par12u4p2",
@@ -391,13 +403,37 @@
       "provision_ref": "par15",
       "section": "15",
       "title": "§ 15",
-      "content": "Rozporządzenie wchodzi w życie z dniem 2 stycznia 2019 r. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 27 lutego 2018 r. w sprawie oddelegowania funkcjonariusza Służby Celno-Skarbowej do wykonywania pracy lub wykonywania zadań służbowych poza Służbą Celno-Skarbową (Dz. U. poz. 451), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 2354)."
+      "content": "Rozporządzenie wchodzi w życie z dniem 2 stycznia 2019 r. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 27 lutego 2018 r. w sprawie oddelegowania funkcjonariusza Służby Celno-Skarbowej do wykonywania pracy lub wykonywania zadań służbowych poza Służbą Celno-Skarbową (Dz. U. poz. 451), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 2354)."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2018-508",
+      "target_document_id": "pl-du-2019-1461",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-2295",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-422",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-464",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-694",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-802",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-815",
       "ref_type": "references"
     }
   ]

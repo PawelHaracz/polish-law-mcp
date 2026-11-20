@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2016/1322",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -67,13 +73,29 @@
       "provision_ref": "par3",
       "section": "3",
       "title": "§ 3",
-      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 11 marca 2011 r. w sprawie gospodarowania lokalami mieszkalnymi przez Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych (Dz. U. z 2015 r. poz. 2039), które w zakresie określonym w niniejszym rozporządzeniu traci moc z dniem wejścia w życie tego rozporządzenia na podstawie art. 136 ust. 2 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. z 2016 r. poz. 614 i 1202)."
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia 2) Rozporządzenie zostało ogłoszone w dniu 23 sierpnia 2016 r. . 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 11 marca 2011 r. w sprawie gospodarowania lokalami mieszkalnymi przez Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych (Dz. U. z 2015 r. poz. 2039), które w zakresie określonym w niniejszym rozporządzeniu utraciło moc z dniem wejścia w życie tego rozporządzenia na podstawie art. 136 ust. 2 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. z 2016 r. poz. 614 i 1202)."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2016-207",
+      "target_document_id": "pl-du-2017-1523",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2017-1337",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-133",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-138",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-756",
       "ref_type": "references"
     }
   ]

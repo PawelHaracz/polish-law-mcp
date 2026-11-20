@@ -10,6 +10,18 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2017/1724",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Osoby zatrudnione w dniu wejścia w życie rozporządzenia w jednostkach organizacyjnych publicznej służby krwi, o których mowa w art. 4 ust. 3 pkt 2-4 ustawy z dnia 22 sierpnia 1997 r. o publicznej służbie krwi , na stanowiskach pracy wymienionych w załączniku nr 1 do rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, niespełniające wymaganych kwalifikacji zawodowych określonych w tym załączniku, mogą być zatrudnione na tych stanowiskach do czasu uzupełnienia kwalifikacji, jednak nie dłużej niż przez okres 7 lat od dnia wejścia w życie niniejszego rozporządzenia."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -61,13 +73,25 @@
       "provision_ref": "par4",
       "section": "4",
       "title": "§ 4",
-      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 4 listopada 2004 r. w sprawie określenia kwalifikacji wymaganych od osób zatrudnionych w jednostkach organizacyjnych publicznej służby krwi (Dz. U. poz. 2482), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 15 ust. 1 ustawy z dnia 20 maja 2016 r. o zmianie ustawy o publicznej służbie krwi oraz niektórych innych ustaw (Dz. U. poz. 823 oraz z 2017 r. poz. 1524)."
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia 3) Rozporządzenie zostało ogłoszone w dniu 9 września 2017 r. . 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 4 listopada 2004 r. w sprawie określenia kwalifikacji wymaganych od osób zatrudnionych w jednostkach organizacyjnych publicznej służby krwi (Dz. U. poz. 2482), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 15 ust. 1 ustawy z dnia 20 maja 2016 r. o zmianie ustawy o publicznej służbie krwi oraz niektórych innych ustaw (Dz. U. poz. 823 oraz z 2017 r. poz. 1524)."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2017-1371",
+      "target_document_id": "pl-du-2019-1461",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2477",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-318",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-650",
       "ref_type": "references"
     }
   ]

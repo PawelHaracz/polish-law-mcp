@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2015/1257",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -115,13 +121,21 @@
       "provision_ref": "par5",
       "section": "5",
       "title": "§ 5",
-      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 16 grudnia 2003 r. w sprawie określenia wzoru i sposobu udostępnienia urzędowego formularza wniosku o przyznanie prawa pomocy w postępowaniu przed sądami administracyjnymi oraz sposobu dokumentowania stanu majątkowego, dochodów lub stanu rodzinnego wnioskodawcy (Dz. U. Nr 227, poz. 2245), które utraciło moc z dniem 15 sierpnia 2015 r. na podstawie ustawy z dnia 9 kwietnia 2015 r. o zmianie ustawy - Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. poz. 658)."
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia 1) Rozporządzenie zostało ogłoszone w dniu 28 sierpnia 2015 r. . 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 16 grudnia 2003 r. w sprawie określenia wzoru i sposobu udostępnienia urzędowego formularza wniosku o przyznanie prawa pomocy w postępowaniu przed sądami administracyjnymi oraz sposobu dokumentowania stanu majątkowego, dochodów lub stanu rodzinnego wnioskodawcy (Dz. U. poz. 2245), które utraciło moc z dniem 15 sierpnia 2015 r. na podstawie ustawy z dnia 9 kwietnia 2015 r. o zmianie ustawy - Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. poz. 658)."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2012-270",
+      "target_document_id": "pl-du-2019-1461",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2016-142",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2024-935",
       "ref_type": "references"
     }
   ]

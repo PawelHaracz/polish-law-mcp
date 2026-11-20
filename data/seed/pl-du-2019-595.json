@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/595",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -67,13 +73,31 @@
       "provision_ref": "par3",
       "section": "3",
       "title": "§ 3",
-      "content": "Pomieszczenia i urządzenia szpitala odpowiadają, odpowiednio do zakresu udzielanych świadczeń zdrowotnych, szczegółowym wymaganiom określonym w załączniku nr 1 do rozporządzenia. Przepis ust. 1 stosuje się odpowiednio do innego niż szpital zakładu leczniczego, w którym są udzielane stacjonarne i całodobowe świadczenia zdrowotne. Wymagania określone dla oddziału stosuje się także do jednostki organizacyjnej szpitala stanowiącej wyodrębnioną część struktury bezoddziałowej, w której są udzielane świadczenia zdrowotne o jednolitym profilu. Szpitalny oddział ratunkowy, o którym mowa w art. 3 pkt 9 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym ) , w zakresie nieuregulowanym w przepisach wydanych na podstawie art. 34 tej ustawy, spełnia także wymagania określone w ust. 1."
+      "content": "Pomieszczenia i urządzenia szpitala odpowiadają, odpowiednio do zakresu udzielanych świadczeń zdrowotnych, szczegółowym wymaganiom określonym w załączniku nr 1 do rozporządzenia. Pomieszczenia i urządzenia szpitala zlokalizowanego w miejscu nieprzeznaczonym dotychczas do udzielania świadczeń zdrowotnych, w którym są udzielane świadczenia zdrowotne pacjentom zakażonym wirusem SARS-CoV-2, odpowiadają, odpowiednio do zakresu udzielanych świadczeń zdrowotnych, szczegółowym wymaganiom określonym w załączniku nr 1 w części I, VI ust. 3 oraz XI. Szpital, o którym mowa w ust. 1a: wyposaża się w urządzenia umożliwiające kontakt pacjenta z odwiedzającym lub umożliwiające kontakt pacjenta za pośrednictwem własnych środków łączności z osobami przebywającymi poza podmiotem leczniczym; spełnia wymagania określone w § 18, § 19, § 25-31 i § 33. Przepis ust. 1 stosuje się odpowiednio do innego niż szpital zakładu leczniczego, w którym są udzielane stacjonarne i całodobowe świadczenia zdrowotne. Wymagania określone dla oddziału stosuje się także do jednostki organizacyjnej szpitala stanowiącej wyodrębnioną część struktury bezoddziałowej, w której są udzielane świadczenia zdrowotne o jednolitym profilu. Szpitalny oddział ratunkowy, o którym mowa w art. 3 pkt 9 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym , w zakresie nieuregulowanym w przepisach wydanych na podstawie art. 34 tej ustawy, spełnia także wymagania określone w ust. 1."
     },
     {
       "provision_ref": "par3u1",
       "section": "3",
       "title": "§ 3 ust. 1",
       "content": "Pomieszczenia i urządzenia szpitala odpowiadają, odpowiednio do zakresu udzielanych świadczeń zdrowotnych, szczegółowym wymaganiom określonym w załączniku nr 1 do rozporządzenia."
+    },
+    {
+      "provision_ref": "par3u1a",
+      "section": "3",
+      "title": "§ 3 ust. 1a",
+      "content": "Pomieszczenia i urządzenia szpitala zlokalizowanego w miejscu nieprzeznaczonym dotychczas do udzielania świadczeń zdrowotnych, w którym są udzielane świadczenia zdrowotne pacjentom zakażonym wirusem SARS-CoV-2, odpowiadają, odpowiednio do zakresu udzielanych świadczeń zdrowotnych, szczegółowym wymaganiom określonym w załączniku nr 1 w części I, VI ust. 3 oraz XI."
+    },
+    {
+      "provision_ref": "par3u1bp1",
+      "section": "3",
+      "title": "§ 3 ust. 1b pkt 1",
+      "content": "Szpital, o którym mowa w ust. 1a: wyposaża się w urządzenia umożliwiające kontakt pacjenta z odwiedzającym lub umożliwiające kontakt pacjenta za pośrednictwem własnych środków łączności z osobami przebywającymi poza podmiotem leczniczym;"
+    },
+    {
+      "provision_ref": "par3u1bp2",
+      "section": "3",
+      "title": "§ 3 ust. 1b pkt 2",
+      "content": "Szpital, o którym mowa w ust. 1a: spełnia wymagania określone w § 18, § 19, § 25-31 i § 33."
     },
     {
       "provision_ref": "par3u2",
@@ -91,7 +115,7 @@
       "provision_ref": "par3u4",
       "section": "3",
       "title": "§ 3 ust. 4",
-      "content": "Szpitalny oddział ratunkowy, o którym mowa w art. 3 pkt 9 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym ) , w zakresie nieuregulowanym w przepisach wydanych na podstawie art. 34 tej ustawy, spełnia także wymagania określone w ust. 1."
+      "content": "Szpitalny oddział ratunkowy, o którym mowa w art. 3 pkt 9 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym , w zakresie nieuregulowanym w przepisach wydanych na podstawie art. 34 tej ustawy, spełnia także wymagania określone w ust. 1."
     },
     {
       "provision_ref": "par4",
@@ -691,65 +715,57 @@
       "provision_ref": "par43",
       "section": "43",
       "title": "§ 43",
-      "content": "Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2019 r. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 26 czerwca 2012 r. w sprawie szczegółowych wymagań, jakim powinny odpowiadać pomieszczenia i urządzenia podmiotu wykonującego działalność leczniczą (Dz. U. poz. 739), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 8 ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o działalności leczniczej oraz niektórych innych ustaw (Dz. U. poz. 2219)."
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2019 r. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 26 czerwca 2012 r. w sprawie szczegółowych wymagań, jakim powinny odpowiadać pomieszczenia i urządzenia podmiotu wykonującego działalność leczniczą (Dz. U. poz. 739), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 8 ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o działalności leczniczej oraz niektórych innych ustaw (Dz. U. poz. 2219)."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2018-2190",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2018-2219",
+      "target_document_id": "pl-du-2020-1943",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2019-492",
+      "target_document_id": "pl-du-2021-711",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2017-2195",
+      "target_document_id": "pl-du-2021-1773",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2016-2245",
+      "target_document_id": "pl-du-2021-2120",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2017-1524",
+      "target_document_id": "pl-du-2021-2053",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2018-650",
+      "target_document_id": "pl-du-2021-2459",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2018-1544",
+      "target_document_id": "pl-du-2022-134",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2018-1669",
+      "target_document_id": "pl-du-2020-2050",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2019-60",
+      "target_document_id": "pl-du-2021-2469",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2018-1030",
+      "target_document_id": "pl-du-2021-1301",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2018-1490",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-2017-1056",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-2018-1510",
+      "target_document_id": "pl-du-2021-1285",
       "ref_type": "references"
     }
   ]

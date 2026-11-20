@@ -10,6 +10,36 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2013/1248",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+    },
+    {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 lipca 2022 r."
+    },
+    {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 lipca 2022 r."
+    },
+    {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 października 2022 r."
+    },
+    {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -31,7 +61,7 @@
       "provision_ref": "par2",
       "section": "2",
       "title": "§ 2",
-      "content": "Świadczenia gwarantowane obejmują: świadczenia lekarza podstawowej opieki zdrowotnej; świadczenia pielęgniarki podstawowej opieki zdrowotnej; świadczenia położnej podstawowej opieki zdrowotnej; świadczenia pielęgniarki lub higienistki szkolnej udzielane w środowisku nauczania i wychowania; świadczenia nocnej i świątecznej opieki zdrowotnej; transport sanitarny."
+      "content": "Świadczenia gwarantowane obejmują: świadczenia lekarza podstawowej opieki zdrowotnej; świadczenia pielęgniarki podstawowej opieki zdrowotnej; świadczenia położnej podstawowej opieki zdrowotnej; świadczenia pielęgniarki lub higienistki szkolnej udzielane w środowisku nauczania i wychowania; świadczenia nocnej i świątecznej opieki zdrowotnej; transport sanitarny; opiekę koordynowaną."
     },
     {
       "provision_ref": "par2p1",
@@ -67,13 +97,19 @@
       "provision_ref": "par2p6",
       "section": "2",
       "title": "§ 2 pkt 6",
-      "content": "Świadczenia gwarantowane obejmują: transport sanitarny."
+      "content": "Świadczenia gwarantowane obejmują: transport sanitarny;"
+    },
+    {
+      "provision_ref": "par2p3",
+      "section": "2",
+      "title": "§ 2 pkt 3",
+      "content": "Świadczenia gwarantowane obejmują: opiekę koordynowaną."
     },
     {
       "provision_ref": "par3",
       "section": "3",
       "title": "§ 3",
-      "content": "Wykaz świadczeń gwarantowanych, o których mowa w: § 2 pkt 1, oraz warunki ich realizacji są określone w załączniku nr 1 do rozporządzenia; § 2 pkt 2, oraz warunki ich realizacji są określone w załączniku nr 2 do rozporządzenia; § 2 pkt 3, oraz warunki ich realizacji są określone w załączniku nr 3 do rozporządzenia; § 2 pkt 4, oraz warunki ich realizacji są określone w załączniku nr 4 do rozporządzenia; § 2 pkt 5, oraz warunki ich realizacji są określone w załączniku nr 5 do rozporządzenia. Świadczenia gwarantowane są udzielane zgodnie ze wskazaniami aktualnej wiedzy medycznej, z wykorzystaniem metod diagnostyczno-terapeutycznych innych niż stosowane w medycynie niekonwencjonalnej, ludowej lub orientalnej."
+      "content": "Wykaz świadczeń gwarantowanych, o których mowa w: § 2 pkt 1, oraz warunki ich realizacji są określone w załączniku nr 1 do rozporządzenia; § 2 pkt 2, oraz warunki ich realizacji są określone w załączniku nr 2 do rozporządzenia; § 2 pkt 3, oraz warunki ich realizacji są określone w załączniku nr 3 do rozporządzenia; § 2 pkt 4, oraz warunki ich realizacji są określone w załączniku nr 4 do rozporządzenia; § 2 pkt 5, oraz warunki ich realizacji są określone w załączniku nr 5 do rozporządzenia; § 2 pkt 7, oraz warunki ich realizacji są określone w załączniku nr 6 do rozporządzenia. Świadczenia gwarantowane są udzielane zgodnie ze wskazaniami aktualnej wiedzy medycznej, z wykorzystaniem metod diagnostyczno-terapeutycznych innych niż stosowane w medycynie niekonwencjonalnej, ludowej lub orientalnej."
     },
     {
       "provision_ref": "par3u1p1",
@@ -103,7 +139,13 @@
       "provision_ref": "par3u1p5",
       "section": "3",
       "title": "§ 3 ust. 1 pkt 5",
-      "content": "Wykaz świadczeń gwarantowanych, o których mowa w: § 2 pkt 5, oraz warunki ich realizacji są określone w załączniku nr 5 do rozporządzenia."
+      "content": "Wykaz świadczeń gwarantowanych, o których mowa w: § 2 pkt 5, oraz warunki ich realizacji są określone w załączniku nr 5 do rozporządzenia;"
+    },
+    {
+      "provision_ref": "par3u1p4",
+      "section": "3",
+      "title": "§ 3 ust. 1 pkt 4",
+      "content": "Wykaz świadczeń gwarantowanych, o których mowa w: § 2 pkt 7, oraz warunki ich realizacji są określone w załączniku nr 6 do rozporządzenia."
     },
     {
       "provision_ref": "par3u2",
@@ -115,19 +157,25 @@
       "provision_ref": "par4",
       "section": "4",
       "title": "§ 4",
-      "content": "W zakresie koniecznym do wykonania świadczeń gwarantowanych świadczeniodawca zapewnia świadczeniobiorcy nieodpłatnie: badania diagnostyczne, określone w części IV załącznika nr 1 do rozporządzenia; leki i wyroby medyczne oraz środki pomocnicze. Przejazd środkami transportu sanitarnego w przypadkach niewymienionych w art. 41 ust. 1 i 2 ustawy jest finansowany w 40% ze środków publicznych w przypadku: chorób krwi i narządów krwiotwórczych, chorób nowotworowych, chorób oczu, chorób przemiany materii, chorób psychicznych i zaburzeń zachowania, chorób skóry i tkanki podskórnej, chorób układu krążenia, chorób układu moczowo-płciowego, chorób układu nerwowego, chorób układu oddechowego, chorób układu ruchu, chorób układu trawiennego, chorób układu wydzielania wewnętrznego, chorób zakaźnych i pasożytniczych, urazów i zatruć, wad rozwojowych wrodzonych, zniekształceń i aberracji chromosomowych - gdy ze zlecenia lekarza ubezpieczenia zdrowotnego lub felczera ubezpieczenia zdrowotnego wynika, że świadczeniobiorca jest zdolny do samodzielnego poruszania się bez stałej pomocy innej osoby, ale wymaga przy korzystaniu ze środków transportu publicznego pomocy innej osoby lub środka transportu publicznego dostosowanego do potrzeb osób niepełnosprawnych."
+      "content": "W zakresie koniecznym do wykonania świadczeń gwarantowanych świadczeniodawca zapewnia świadczeniobiorcy nieodpłatnie: badania diagnostyczne, określone w części IV i IVa załącznika nr 1 oraz w załączniku nr 6 do rozporządzenia; leki i wyroby medyczne oraz środki pomocnicze; konsultacje: lekarza specjalisty, dietetyczne oraz porady edukacyjne, w przypadku świadczeń gwarantowanych, o których mowa w § 2 pkt 7. Przejazd środkami transportu sanitarnego w przypadkach niewymienionych w art. 41 ust. 1 i 2 ustawy jest finansowany w 40% ze środków publicznych w przypadku: chorób krwi i narządów krwiotwórczych, chorób nowotworowych, chorób oczu, chorób przemiany materii, chorób psychicznych i zaburzeń zachowania, chorób skóry i tkanki podskórnej, chorób układu krążenia, chorób układu moczowo-płciowego, chorób układu nerwowego, chorób układu oddechowego, chorób układu ruchu, chorób układu trawiennego, chorób układu wydzielania wewnętrznego, chorób zakaźnych i pasożytniczych, urazów i zatruć, wad rozwojowych wrodzonych, zniekształceń i aberracji chromosomowych - gdy ze zlecenia lekarza ubezpieczenia zdrowotnego lub felczera ubezpieczenia zdrowotnego wynika, że świadczeniobiorca jest zdolny do samodzielnego poruszania się bez stałej pomocy innej osoby, ale wymaga przy korzystaniu ze środków transportu publicznego pomocy innej osoby lub środka transportu publicznego dostosowanego do potrzeb osób niepełnosprawnych."
     },
     {
       "provision_ref": "par4u1p1",
       "section": "4",
       "title": "§ 4 ust. 1 pkt 1",
-      "content": "W zakresie koniecznym do wykonania świadczeń gwarantowanych świadczeniodawca zapewnia świadczeniobiorcy nieodpłatnie: badania diagnostyczne, określone w części IV załącznika nr 1 do rozporządzenia;"
+      "content": "W zakresie koniecznym do wykonania świadczeń gwarantowanych świadczeniodawca zapewnia świadczeniobiorcy nieodpłatnie: badania diagnostyczne, określone w części IV i IVa załącznika nr 1 oraz w załączniku nr 6 do rozporządzenia;"
     },
     {
       "provision_ref": "par4u1p2",
       "section": "4",
       "title": "§ 4 ust. 1 pkt 2",
-      "content": "W zakresie koniecznym do wykonania świadczeń gwarantowanych świadczeniodawca zapewnia świadczeniobiorcy nieodpłatnie: leki i wyroby medyczne oraz środki pomocnicze."
+      "content": "W zakresie koniecznym do wykonania świadczeń gwarantowanych świadczeniodawca zapewnia świadczeniobiorcy nieodpłatnie: leki i wyroby medyczne oraz środki pomocnicze;"
+    },
+    {
+      "provision_ref": "par4u1p3",
+      "section": "4",
+      "title": "§ 4 ust. 1 pkt 3",
+      "content": "W zakresie koniecznym do wykonania świadczeń gwarantowanych świadczeniodawca zapewnia świadczeniobiorcy nieodpłatnie: konsultacje: lekarza specjalisty, dietetyczne oraz porady edukacyjne, w przypadku świadczeń gwarantowanych, o których mowa w § 2 pkt 7."
     },
     {
       "provision_ref": "par4u2p1",
@@ -247,13 +295,41 @@
       "provision_ref": "par6",
       "section": "6",
       "title": "§ 6",
-      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 29 sierpnia 2009 r. w sprawie świadczeń gwarantowanych z zakresu podstawowej opieki zdrowotnej (Dz. U. Nr 139, poz. 1139 i Nr 211, poz. 1642 oraz z 2010 r. Nr 208, poz. 1376), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 85 ust. 1 pkt 2 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. Nr 122, poz. 696, z 2012 r. poz. 95 i 742 oraz z 2013 r. poz. 766)."
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia 6) Rozporządzenie zostało ogłoszone w dniu 28 października 2013 r. . 7) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 29 sierpnia 2009 r. w sprawie świadczeń gwarantowanych z zakresu podstawowej opieki zdrowotnej (Dz. U. poz. 1139 i 1642 oraz z 2010 r. poz. 1376), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 85 ust. 1 pkt 2 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. poz. 696, z 2012 r. poz. 95 i 742 oraz z 2013 r. poz. 766)."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2008-1027",
+      "target_document_id": "pl-du-2019-1461",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-540",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-834",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-1293",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-1355",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-1965",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-38",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2561",
       "ref_type": "references"
     }
   ]

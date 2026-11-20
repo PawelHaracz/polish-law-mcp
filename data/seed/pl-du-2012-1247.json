@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2012/1247",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem 31 grudnia 2019 r."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -271,7 +277,7 @@
       "provision_ref": "par15",
       "section": "15",
       "title": "§ 15",
-      "content": "Państwowy system odniesień przestrzennych stosuje się w pracach geodezyjnych i kartograficznych oraz przy tworzeniu zbiorów danych przestrzennych przez organy władzy publicznej, przy czym: układ współrzędnych PL-LAEA stosuje się na potrzeby analiz przestrzennych i sprawozdawczości na poziomie ogólnoeuropejskim; układ współrzędnych PL-LCC stosuje się na potrzeby wydawania map w skali 1:500 000 i w mniejszych skalach; układ współrzędnych PL-UTM stosuje się na potrzeby wydawania standardowych opracowań kartograficznych w skalach od 1:10 000 do 1:250 000, wydawania map morskich oraz wydawania innych map przeznaczonych na potrzeby bezpieczeństwa i obronności państwa; układ współrzędnych PL-2000 stosuje się na potrzeby wykonywania map w skalach większych od 1:10 000 - w szczególności mapy ewidencyjnej i mapy zasadniczej. W pracach geodezyjnych i kartograficznych innych niż wymienione w ust. 1 pkt 1-4 stosuje się układ współrzędnych PL-UTM lub układ współrzędnych PL-1992. W pracach geodezyjnych i kartograficznych, pracach hydrograficznych na akwenach morskich, a także przy tworzeniu zbiorów danych przestrzennych, będących przedmiotem umów międzynarodowych, których Polska jest sygnatariuszem, mogą być stosowane inne niż określone w § 3 układy odniesienia, układy wysokościowe lub układy współrzędnych. W przypadku gdy prace, o których mowa w ust. 3, dotyczą obiektów przestrzennych znajdujących się w bazach danych, o których mowa w art. 4 ust. 1a i 1b ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne , do określenia położenia tych obiektów oprócz układów odniesienia, układów wysokościowych lub układów współrzędnych określonych w umowie stosuje się także państwowy system odniesień przestrzennych. W pracach, w których wymagana dokładność określenia współrzędnych nie przekracza 1 m, a wykorzystuje się geocentryczne systemy odniesienia i powiązane z figurą Ziemi układy współrzędnych zgodne z konwencją Międzynarodowej Służby Ruchu Obrotowego Ziemi (IERS) z 1996 r., w szczególności: Światowy System Geodezyjny 1984 (WGS84), Międzynarodowy Ziemski System Odniesienia (ITRS), Europejski Ziemski System Odniesienia 1989 (ETRS89) - nie stosuje się transformacji współrzędnych między tymi systemami a układami odniesienia, o których mowa w § 3 ust. 1 pkt 1."
+      "content": "Państwowy system odniesień przestrzennych stosuje się w pracach geodezyjnych i kartograficznych oraz przy tworzeniu zbiorów danych przestrzennych przez organy władzy publicznej, przy czym: układ współrzędnych PL-LAEA stosuje się na potrzeby analiz przestrzennych i sprawozdawczości na poziomie ogólnoeuropejskim; układ współrzędnych PL-LCC stosuje się na potrzeby wydawania map w skali 1:500 000 i w mniejszych skalach; układ współrzędnych PL-UTM stosuje się na potrzeby wydawania standardowych opracowań kartograficznych w skalach od 1:10 000 do 1:250 000, wydawania map morskich oraz wydawania innych map przeznaczonych na potrzeby bezpieczeństwa i obronności państwa; układ współrzędnych PL-2000 stosuje się na potrzeby wykonywania map w skalach większych od 1:10 000 - w szczególności mapy ewidencyjnej i mapy zasadniczej. W pracach geodezyjnych i kartograficznych innych niż wymienione w ust. 1 pkt 1-4 stosuje się układ współrzędnych PL-UTM lub układ współrzędnych PL-1992. W pracach geodezyjnych i kartograficznych, pracach hydrograficznych na akwenach morskich, a także przy tworzeniu zbiorów danych przestrzennych, będących przedmiotem umów międzynarodowych, których Polska jest sygnatariuszem, mogą być stosowane inne niż określone w § 3 układy odniesienia, układy wysokościowe lub układy współrzędnych. W przypadku gdy prace, o których mowa w ust. 3, dotyczą obiektów przestrzennych znajdujących się w bazach danych, o których mowa w art. 4 ust. 1a i 1b 1) Uchylony przez art. 1 pkt 2 lit. b ustawy z dnia 16 kwietnia 2020 r. o zmianie ustawy - Prawo geodezyjne i kartograficzne oraz niektórych innych ustaw (Dz. U. poz. 782), która weszła w życie z dniem 31 lipca 2020 r. ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne , do określenia położenia tych obiektów oprócz układów odniesienia, układów wysokościowych lub układów współrzędnych określonych w umowie stosuje się także państwowy system odniesień przestrzennych. W pracach, w których wymagana dokładność określenia współrzędnych nie przekracza 1 m, a wykorzystuje się geocentryczne systemy odniesienia i powiązane z figurą Ziemi układy współrzędnych zgodne z konwencją Międzynarodowej Służby Ruchu Obrotowego Ziemi (IERS) z 1996 r., w szczególności: Światowy System Geodezyjny 1984 (WGS84), Międzynarodowy Ziemski System Odniesienia (ITRS), Europejski Ziemski System Odniesienia 1989 (ETRS89) - nie stosuje się transformacji współrzędnych między tymi systemami a układami odniesienia, o których mowa w § 3 ust. 1 pkt 1."
     },
     {
       "provision_ref": "par15u1p1",
@@ -313,7 +319,7 @@
       "provision_ref": "par15u4",
       "section": "15",
       "title": "§ 15 ust. 4",
-      "content": "W przypadku gdy prace, o których mowa w ust. 3, dotyczą obiektów przestrzennych znajdujących się w bazach danych, o których mowa w art. 4 ust. 1a i 1b ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne , do określenia położenia tych obiektów oprócz układów odniesienia, układów wysokościowych lub układów współrzędnych określonych w umowie stosuje się także państwowy system odniesień przestrzennych."
+      "content": "W przypadku gdy prace, o których mowa w ust. 3, dotyczą obiektów przestrzennych znajdujących się w bazach danych, o których mowa w art. 4 ust. 1a i 1b 1) Uchylony przez art. 1 pkt 2 lit. b ustawy z dnia 16 kwietnia 2020 r. o zmianie ustawy - Prawo geodezyjne i kartograficzne oraz niektórych innych ustaw (Dz. U. poz. 782), która weszła w życie z dniem 31 lipca 2020 r. ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne , do określenia położenia tych obiektów oprócz układów odniesienia, układów wysokościowych lub układów współrzędnych określonych w umowie stosuje się także państwowy system odniesień przestrzennych."
     },
     {
       "provision_ref": "par15u5p1",
@@ -355,7 +361,7 @@
       "provision_ref": "par16u1p2lb",
       "section": "16",
       "title": "§ 16 ust. 1 pkt 2 lit. b",
-      "content": "Położenie obiektów przestrzennych w geodezyjnych układach odniesienia, o których mowa w § 3 ust. 1 pkt 1, określa się za pomocą układów współrzędnych: układu współrzędnych geocentrycznych geodezyjnych GRS80h, którego osie są oznaczane literami: długość geodezyjna - literą λ"
+      "content": "Położenie obiektów przestrzennych w geodezyjnych układach odniesienia, o których mowa w § 3 ust. 1 pkt 1, określa się za pomocą układów współrzędnych: układu współrzędnych geocentrycznych geodezyjnych GRS80h, którego osie są oznaczane literami: długość geodezyjna - literą λ - wartości tych współrzędnych są podawane w stopniach [º], minutach [’] i sekundach [’’], przy czym za wartością współrzędnej φ dodaje się literę N (North), a za wartością współrzędnej λ dodaje się literę E (East),"
     },
     {
       "provision_ref": "par16u1p2lc",
@@ -583,13 +589,13 @@
       "provision_ref": "par24",
       "section": "24",
       "title": "§ 24",
-      "content": "Układ wysokościowy PL-KRON86-NH stosuje się do czasu wdrożenia układu wysokościowego PL-EVRF2007-NH na obszarze całego kraju, nie dłużej jednak niż do dnia 31 grudnia 2019 r. Parametry techniczne geodezyjnych układów odniesienia, układów wysokościowych i układów współrzędnych płaskich prostokątnych obowiązujących na mocy dotychczasowych przepisów, w przypadku wycofania tych układów, archiwizuje się w sposób zapewniający w razie potrzeby wykonanie przeliczeń lub transformacji współrzędnych i wysokości określonych w tych układach do układów tworzących państwowy system odniesień przestrzennych, o których mowa w § 3 ust. 1."
+      "content": "Układ wysokościowy PL-KRON86-NH stosuje się do czasu wdrożenia układu wysokościowego PL-EVRF2007-NH na obszarze całego kraju, nie dłużej jednak niż do dnia 31 grudnia 2023 r. Parametry techniczne geodezyjnych układów odniesienia, układów wysokościowych i układów współrzędnych płaskich prostokątnych obowiązujących na mocy dotychczasowych przepisów, w przypadku wycofania tych układów, archiwizuje się w sposób zapewniający w razie potrzeby wykonanie przeliczeń lub transformacji współrzędnych i wysokości określonych w tych układach do układów tworzących państwowy system odniesień przestrzennych, o których mowa w § 3 ust. 1."
     },
     {
       "provision_ref": "par24u1",
       "section": "24",
       "title": "§ 24 ust. 1",
-      "content": "Układ wysokościowy PL-KRON86-NH stosuje się do czasu wdrożenia układu wysokościowego PL-EVRF2007-NH na obszarze całego kraju, nie dłużej jednak niż do dnia 31 grudnia 2019 r."
+      "content": "Układ wysokościowy PL-KRON86-NH stosuje się do czasu wdrożenia układu wysokościowego PL-EVRF2007-NH na obszarze całego kraju, nie dłużej jednak niż do dnia 31 grudnia 2023 r."
     },
     {
       "provision_ref": "par24u2",
@@ -607,21 +613,37 @@
       "provision_ref": "par26",
       "section": "26",
       "title": "§ 26",
-      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia 3) Rozporządzenie zostało ogłoszone w dniu 14 listopada 2012 r. ."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2010-1287",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2010-489",
+      "target_document_id": "pl-du-2019-2494",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2012-951",
+      "target_document_id": "pl-du-2023-1752",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1615",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1688",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1762",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-214",
       "ref_type": "references"
     },
     {

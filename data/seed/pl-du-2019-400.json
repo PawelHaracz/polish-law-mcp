@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/400",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem określonym w komunikacie wydanym na podstawie art. 3a ustawy z dnia 14 kwietnia 2021 r. o zmianie ustawy o dowodach osobistych oraz niektórych innych ustaw ."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -55,19 +61,19 @@
       "provision_ref": "par2",
       "section": "2",
       "title": "§ 2",
-      "content": "Warstwa elektroniczna dowodu osobistego: obsługuje kody o długości od 4 do 8 cyfr, w tym kody z funkcją kodu początkowego dla każdego z kodów, w którego miejsce posiadacz dowodu osobistego ustala własne kody, o których mowa w art. 12b ust. 1 ustawy z dnia 6 sierpnia 2010 r. o dowodach osobistych , zwanej dalej „ustawą”: dla certyfikatu identyfikacji i uwierzytelnienia, zwany dalej „kodem PIN1”, oraz dla certyfikatu podpisu osobistego, zwany dalej „kodem PIN2”; umożliwia zmianę kodu PIN1 i kodu PIN2 za pomocą dotychczasowego kodu PIN1 albo odpowiednio kodu PIN2, albo kodu odblokowującego, o którym mowa w art. 12b ust. 4 ustawy, zwanego dalej „kodem PUK”; umożliwia odblokowanie kodu PIN1 i kodu PIN2 za pomocą kodu PUK; zawiera licznik błędnych prób wprowadzenia kodu PIN1 i kodu PIN2 z możliwością ustawienia parametru liczby błędnych prób powodujących zablokowanie tych kodów; w przypadku podania poprawnego kodu PIN1 albo kodu PIN2 zeruje mechanizm licznika, o którym mowa w pkt 4; zapewnia komunikację z użyciem interfejsu bezstykowego pozwalającego na bezpieczne, szyfrowane połączenie; uniemożliwia odblokowanie kodu PIN1 albo kodu PIN2 po zablokowaniu kodu PUK; uniemożliwia odblokowanie kodu PUK; spełnia zalecenia Organizacji Międzynarodowego Lotnictwa Cywilnego, zwanej dalej „ICAO”, określone w dokumencie - Doc 9303 Machine Readable Travel Documents (wersja siódma z 2015 r. lub późniejsza); zawiera aplikację ICAO umożliwiającą automatyczną odprawę przy przekraczaniu granic państw. W warstwie elektronicznej dowodu osobistego wydzielone są cztery, niezależnie zarządzane części, które zawierają dane wymienione w art. 12a ust. 1 ustawy. Wymagania techniczne dla warstwy elektronicznej dowodu osobistego określa załącznik nr 1 do rozporządzenia."
+      "content": "Warstwa elektroniczna dowodu osobistego: obsługuje kody o długości minimalnej 4 cyfr, w tym kody z funkcją kodu początkowego dla każdego z kodów, w którego miejsce posiadacz dowodu osobistego ustala własne kody, o których mowa w art. 12b ust. 1 ustawy z dnia 6 sierpnia 2010 r. o dowodach osobistych , zwanej dalej „ustawą”: dla certyfikatu identyfikacji i uwierzytelnienia, zwany dalej „kodem PIN1”, oraz dla certyfikatu podpisu osobistego, zwany dalej „kodem PIN2”; umożliwia zmianę kodu PIN1 i kodu PIN2 za pomocą dotychczasowego kodu PIN1 albo odpowiednio kodu PIN2, albo kodu odblokowującego, o którym mowa w art. 12b ust. 4 ustawy, zwanego dalej „kodem PUK”; umożliwia odblokowanie kodu PIN1 i kodu PIN2 za pomocą kodu PUK; zawiera licznik błędnych prób wprowadzenia kodu PIN1 i kodu PIN2 z możliwością ustawienia parametru liczby błędnych prób powodujących zablokowanie tych kodów; w przypadku podania poprawnego kodu PIN1 albo kodu PIN2 zeruje mechanizm licznika, o którym mowa w pkt 4; zapewnia komunikację z użyciem interfejsu bezstykowego pozwalającego na bezpieczne, szyfrowane połączenie; uniemożliwia odblokowanie kodu PIN1 albo kodu PIN2 po zablokowaniu kodu PUK; uniemożliwia odblokowanie kodu PUK; spełnia zalecenia Organizacji Międzynarodowego Lotnictwa Cywilnego, zwanej dalej „ICAO”, określone w dokumencie - Doc 9303 Machine Readable Travel Documents część 10, 11 i 12 (wersja siódma z 2015 r.); zawiera aplikację zgodną z wymaganiami ICAO umożliwiającą automatyczną odprawę przy przekraczaniu granic państw. W warstwie elektronicznej dowodu osobistego są wydzielone, niezależnie zarządzane, logiczne części zawierające dane, o których mowa w art. 12a ust. 1 ustawy. Wymagania techniczne dla warstwy elektronicznej dowodu osobistego określa załącznik nr 1 do rozporządzenia."
     },
     {
-      "provision_ref": "par2u1p1la",
+      "provision_ref": "par2u1p3la",
       "section": "2",
-      "title": "§ 2 ust. 1 pkt 1 lit. a",
-      "content": "Warstwa elektroniczna dowodu osobistego: obsługuje kody o długości od 4 do 8 cyfr, w tym kody z funkcją kodu początkowego dla każdego z kodów, w którego miejsce posiadacz dowodu osobistego ustala własne kody, o których mowa w art. 12b ust. 1 ustawy z dnia 6 sierpnia 2010 r. o dowodach osobistych , zwanej dalej „ustawą”: dla certyfikatu identyfikacji i uwierzytelnienia, zwany dalej „kodem PIN1”, oraz"
+      "title": "§ 2 ust. 1 pkt 3 lit. a",
+      "content": "Warstwa elektroniczna dowodu osobistego: obsługuje kody o długości minimalnej 4 cyfr, w tym kody z funkcją kodu początkowego dla każdego z kodów, w którego miejsce posiadacz dowodu osobistego ustala własne kody, o których mowa w art. 12b ust. 1 ustawy z dnia 6 sierpnia 2010 r. o dowodach osobistych , zwanej dalej „ustawą”: dla certyfikatu identyfikacji i uwierzytelnienia, zwany dalej „kodem PIN1”, oraz"
     },
     {
-      "provision_ref": "par2u1p1lb",
+      "provision_ref": "par2u1p3lb",
       "section": "2",
-      "title": "§ 2 ust. 1 pkt 1 lit. b",
-      "content": "Warstwa elektroniczna dowodu osobistego: obsługuje kody o długości od 4 do 8 cyfr, w tym kody z funkcją kodu początkowego dla każdego z kodów, w którego miejsce posiadacz dowodu osobistego ustala własne kody, o których mowa w art. 12b ust. 1 ustawy z dnia 6 sierpnia 2010 r. o dowodach osobistych , zwanej dalej „ustawą”: dla certyfikatu podpisu osobistego, zwany dalej „kodem PIN2”;"
+      "title": "§ 2 ust. 1 pkt 3 lit. b",
+      "content": "Warstwa elektroniczna dowodu osobistego: obsługuje kody o długości minimalnej 4 cyfr, w tym kody z funkcją kodu początkowego dla każdego z kodów, w którego miejsce posiadacz dowodu osobistego ustala własne kody, o których mowa w art. 12b ust. 1 ustawy z dnia 6 sierpnia 2010 r. o dowodach osobistych , zwanej dalej „ustawą”: dla certyfikatu podpisu osobistego, zwany dalej „kodem PIN2”;"
     },
     {
       "provision_ref": "par2u1p2",
@@ -112,22 +118,22 @@
       "content": "Warstwa elektroniczna dowodu osobistego: uniemożliwia odblokowanie kodu PUK;"
     },
     {
-      "provision_ref": "par2u1p9",
+      "provision_ref": "par2u1p4",
       "section": "2",
-      "title": "§ 2 ust. 1 pkt 9",
-      "content": "Warstwa elektroniczna dowodu osobistego: spełnia zalecenia Organizacji Międzynarodowego Lotnictwa Cywilnego, zwanej dalej „ICAO”, określone w dokumencie - Doc 9303 Machine Readable Travel Documents (wersja siódma z 2015 r. lub późniejsza);"
+      "title": "§ 2 ust. 1 pkt 4",
+      "content": "Warstwa elektroniczna dowodu osobistego: spełnia zalecenia Organizacji Międzynarodowego Lotnictwa Cywilnego, zwanej dalej „ICAO”, określone w dokumencie - Doc 9303 Machine Readable Travel Documents część 10, 11 i 12 (wersja siódma z 2015 r.);"
     },
     {
-      "provision_ref": "par2u1p10",
+      "provision_ref": "par2u1p5",
       "section": "2",
-      "title": "§ 2 ust. 1 pkt 10",
-      "content": "Warstwa elektroniczna dowodu osobistego: zawiera aplikację ICAO umożliwiającą automatyczną odprawę przy przekraczaniu granic państw."
+      "title": "§ 2 ust. 1 pkt 5",
+      "content": "Warstwa elektroniczna dowodu osobistego: zawiera aplikację zgodną z wymaganiami ICAO umożliwiającą automatyczną odprawę przy przekraczaniu granic państw."
     },
     {
       "provision_ref": "par2u2",
       "section": "2",
       "title": "§ 2 ust. 2",
-      "content": "W warstwie elektronicznej dowodu osobistego wydzielone są cztery, niezależnie zarządzane części, które zawierają dane wymienione w art. 12a ust. 1 ustawy."
+      "content": "W warstwie elektronicznej dowodu osobistego są wydzielone, niezależnie zarządzane, logiczne części zawierające dane, o których mowa w art. 12a ust. 1 ustawy."
     },
     {
       "provision_ref": "par2u3",
@@ -139,7 +145,7 @@
       "provision_ref": "par3",
       "section": "3",
       "title": "§ 3",
-      "content": "Nawiązanie połączenia pomiędzy warstwą elektroniczną dowodu osobistego a urządzeniem lub systemem teleinformatycznym za pośrednictwem czytnika kart wymaga podania numeru CAN."
+      "content": "Nawiązanie połączenia między warstwą elektroniczną dowodu osobistego a urządzeniem lub systemem teleinformatycznym za pośrednictwem czytnika kart wymaga podania numeru dostępowego zamieszczonego na blankiecie dowodu osobistego, zwanego dalej „numerem CAN”."
     },
     {
       "provision_ref": "par4",
@@ -259,7 +265,7 @@
       "provision_ref": "par15",
       "section": "15",
       "title": "§ 15",
-      "content": "Do zgłoszenia zawieszenia lub cofnięcia zawieszenia certyfikatów zamieszczonych w warstwie elektronicznej dowodu osobistego, dokonanego w trybie określonym w art. 32b ust. 1 pkt 1 ustawy przez pełnomocnika lub opiekuna prawnego lub kuratora, dołącza się sporządzone w formie dokumentu elektronicznego pełnomocnictwo szczególne do dokonania takiej czynności lub dokument pozwalający na ustalenie stosunku prawnego istniejącego między wnoszącym zgłoszenie a osobą, w której imieniu zgłoszenie jest wnoszone, a w razie niemożności ich uzyskania - odwzorowanie cyfrowe odpowiednio tego pełnomocnictwa lub dokumentu opatrzone przez osobę dokonującą zgłoszenia za pomocą kwalifikowanego podpisu elektronicznego, podpisu zaufanego albo podpisu osobistego."
+      "content": "Do zgłoszenia zawieszenia lub cofnięcia zawieszenia certyfikatów zamieszczonych w warstwie elektronicznej dowodu osobistego, dokonanego w trybie określonym w art. 32b ust. 1 pkt 1 ustawy przez pełnomocnika lub opiekuna lub kuratora, dołącza się sporządzone w formie dokumentu elektronicznego pełnomocnictwo szczególne do dokonania takiej czynności lub dokument pozwalający na ustalenie stosunku prawnego istniejącego między wnoszącym zgłoszenie a osobą, w której imieniu zgłoszenie jest wnoszone, a w razie niemożności ich uzyskania - odwzorowanie cyfrowe odpowiednio tego pełnomocnictwa lub dokumentu opatrzone przez osobę dokonującą zgłoszenia za pomocą kwalifikowanego podpisu elektronicznego, podpisu zaufanego albo podpisu osobistego."
     },
     {
       "provision_ref": "par16",
@@ -361,19 +367,27 @@
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2017-1464",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2018-730",
+      "target_document_id": "pl-du-2021-1831",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2019-53",
+      "target_document_id": "pl-du-2021-1000",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2019-60",
+      "target_document_id": "pl-du-2021-1393",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-671",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-1233",
       "ref_type": "references"
     }
   ]

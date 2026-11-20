@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2013/1686",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -172,6 +178,30 @@
       "content": "Do manometru wzorcowego, o którym mowa w ust. 1 pkt 1 lit. a, stosuje się przepisy § 2 ust. 2 i 3."
     },
     {
+      "provision_ref": "par3a",
+      "section": "3a",
+      "title": "§ 3a",
+      "content": "Do prowadzenia badań sprawności technicznej urządzeń przeznaczonych do zaprawiania nasion, innych niż przemysłowe, zwanych dalej „zaprawiarkami do nasion”, oraz samobieżnego lub ciągnikowego sprzętu przeznaczonego do stosowania środków ochrony roślin w formie granulatu podmiot przeprowadzający badania tego sprzętu zapewnia wyposażenie techniczne, o którym mowa w § 3 ust. 1 pkt 1 i 2."
+    },
+    {
+      "provision_ref": "par3b",
+      "section": "3b",
+      "title": "§ 3b",
+      "content": "Do prowadzenia badań sprawności technicznej: instalacji przeznaczonych do stosowania środków ochrony roślin w formie oprysku lub zamgławiania w szklarniach lub tunelach foliowych, zwanych dalej „opryskiwaczami szklarniowymi”, sprzętu przeznaczonego do stosowania środków ochrony roślin w formie oprysku, niewymienionego w pkt 1, § 2 ust. 1, § 3 ust. 1, § 3a oraz w § 4, innego niż opryskiwacze ręczne i plecakowe, którego pojemność zbiornika przekracza 30 litrów, zwanego dalej „pozostałym sprzętem do stosowania środków ochrony roślin” - podmiot przeprowadzający badania tego sprzętu zapewnia wyposażenie techniczne oraz sprzęt diagnostyczny, o których mowa w § 3."
+    },
+    {
+      "provision_ref": "par3bp1",
+      "section": "3b",
+      "title": "§ 3b pkt 1",
+      "content": "Do prowadzenia badań sprawności technicznej: instalacji przeznaczonych do stosowania środków ochrony roślin w formie oprysku lub zamgławiania w szklarniach lub tunelach foliowych, zwanych dalej „opryskiwaczami szklarniowymi”,"
+    },
+    {
+      "provision_ref": "par3bp2",
+      "section": "3b",
+      "title": "§ 3b pkt 2",
+      "content": "Do prowadzenia badań sprawności technicznej: sprzętu przeznaczonego do stosowania środków ochrony roślin w formie oprysku, niewymienionego w pkt 1, § 2 ust. 1, § 3 ust. 1, § 3a oraz w § 4, innego niż opryskiwacze ręczne i plecakowe, którego pojemność zbiornika przekracza 30 litrów, zwanego dalej „pozostałym sprzętem do stosowania środków ochrony roślin”"
+    },
+    {
       "provision_ref": "par4",
       "section": "4",
       "title": "§ 4",
@@ -187,7 +217,7 @@
       "provision_ref": "par6",
       "section": "6",
       "title": "§ 6",
-      "content": "Sprzęt przeznaczony do stosowania środków ochrony roślin udostępnia do badań sprawności technicznej jego posiadacz, w sposób i w miejscu umożliwiającym przeprowadzenie tych badań. Opryskiwacze ciągnikowe i samobieżne polowe lub sadownicze udostępnione do badań sprawności technicznej powinny być umyte z zewnątrz i od wewnątrz, a ich zbiorniki powinny być wypełnione do połowy czystą wodą. W przypadku przeprowadzania badania sprawności technicznej: opryskiwaczy wyposażonych w belkę opryskową montowanych na pojazdach kolejowych, innego sprzętu kolejowego, sprzętu agrolotniczego - części i urządzenia tego sprzętu objęte badaniem powinny być umyte z zewnątrz i od wewnątrz."
+      "content": "Sprzęt przeznaczony do stosowania środków ochrony roślin udostępnia do badań sprawności technicznej jego posiadacz, w sposób i w miejscu umożliwiającym przeprowadzenie tych badań. Opryskiwacze ciągnikowe i samobieżne polowe lub sadownicze udostępnione do badań sprawności technicznej powinny być umyte z zewnątrz i od wewnątrz, a ich zbiorniki powinny być wypełnione do połowy czystą wodą. W przypadku przeprowadzania badania sprawności technicznej: opryskiwaczy wyposażonych w belkę opryskową montowanych na pojazdach kolejowych, innego sprzętu kolejowego, sprzętu agrolotniczego, zaprawiarek do nasion, opryskiwaczy szklarniowych, samobieżnego lub ciągnikowego sprzętu przeznaczonego do stosowania środków ochrony roślin w formie granulatu, pozostałego sprzętu do stosowania środków ochrony roślin - części i urządzenia tego sprzętu objęte badaniem powinny być umyte z zewnątrz i od wewnątrz."
     },
     {
       "provision_ref": "par6u1",
@@ -217,19 +247,43 @@
       "provision_ref": "par6u3p3",
       "section": "6",
       "title": "§ 6 ust. 3 pkt 3",
-      "content": "W przypadku przeprowadzania badania sprawności technicznej: sprzętu agrolotniczego"
+      "content": "W przypadku przeprowadzania badania sprawności technicznej: sprzętu agrolotniczego,"
+    },
+    {
+      "provision_ref": "par6u3p4",
+      "section": "6",
+      "title": "§ 6 ust. 3 pkt 4",
+      "content": "W przypadku przeprowadzania badania sprawności technicznej: zaprawiarek do nasion,"
+    },
+    {
+      "provision_ref": "par6u3p5",
+      "section": "6",
+      "title": "§ 6 ust. 3 pkt 5",
+      "content": "W przypadku przeprowadzania badania sprawności technicznej: opryskiwaczy szklarniowych,"
+    },
+    {
+      "provision_ref": "par6u3p6",
+      "section": "6",
+      "title": "§ 6 ust. 3 pkt 6",
+      "content": "W przypadku przeprowadzania badania sprawności technicznej: samobieżnego lub ciągnikowego sprzętu przeznaczonego do stosowania środków ochrony roślin w formie granulatu,"
+    },
+    {
+      "provision_ref": "par6u3p7",
+      "section": "6",
+      "title": "§ 6 ust. 3 pkt 7",
+      "content": "W przypadku przeprowadzania badania sprawności technicznej: pozostałego sprzętu do stosowania środków ochrony roślin"
     },
     {
       "provision_ref": "par7",
       "section": "7",
       "title": "§ 7",
-      "content": "Dopuszcza się przeprowadzanie badań sprawności technicznej: sprzętu agrolotniczego, opryskiwaczy wyposażonych w belkę opryskową montowanych na pojazdach kolejowych oraz innego sprzętu kolejowego na otwartej przestrzeni, przy dodatniej temperaturze powietrza oraz przy braku opadów atmosferycznych; opryskiwaczy ciągnikowych i samobieżnych: polowych - w miejscach osłoniętych od wiatru, przy dodatniej temperaturze powietrza oraz - w przypadku miejsc niezadaszonych - przy braku opadów atmosferycznych, sadowniczych - na otwartej przestrzeni, przy dodatniej temperaturze powietrza oraz przy braku opadów atmosferycznych, polowych lub sadowniczych - w gospodarstwie posiadacza opryskiwacza, przy zachowaniu warunków, o których mowa odpowiednio w lit. a lub b."
+      "content": "Dopuszcza się przeprowadzanie badań sprawności technicznej: sprzętu agrolotniczego, opryskiwaczy wyposażonych w belkę opryskową montowanych na pojazdach kolejowych, innego sprzętu kolejowego przeznaczonego do stosowania środków ochrony roślin, zaprawiarek do nasion oraz samobieżnego lub ciągnikowego sprzętu przeznaczonego do stosowania środków ochrony roślin w formie granulatu, na otwartej przestrzeni, przy dodatniej temperaturze powietrza oraz przy braku opadów atmosferycznych; opryskiwaczy ciągnikowych i samobieżnych: polowych - w miejscach osłoniętych od wiatru, przy dodatniej temperaturze powietrza oraz - w przypadku miejsc niezadaszonych - przy braku opadów atmosferycznych, sadowniczych - na otwartej przestrzeni, przy dodatniej temperaturze powietrza oraz przy braku opadów atmosferycznych, polowych lub sadowniczych - w gospodarstwie posiadacza opryskiwacza, przy zachowaniu warunków, o których mowa odpowiednio w lit. a lub b; opryskiwaczy szklarniowych oraz pozostałego sprzętu do stosowania środków ochrony roślin: w miejscach osłoniętych od wiatru, przy dodatniej temperaturze powietrza oraz - w przypadku miejsc niezadaszonych - przy braku opadów atmosferycznych, w gospodarstwie posiadacza tego sprzętu przy zachowaniu warunków, o których mowa w lit. a."
     },
     {
       "provision_ref": "par7p1",
       "section": "7",
       "title": "§ 7 pkt 1",
-      "content": "Dopuszcza się przeprowadzanie badań sprawności technicznej: sprzętu agrolotniczego, opryskiwaczy wyposażonych w belkę opryskową montowanych na pojazdach kolejowych oraz innego sprzętu kolejowego na otwartej przestrzeni, przy dodatniej temperaturze powietrza oraz przy braku opadów atmosferycznych;"
+      "content": "Dopuszcza się przeprowadzanie badań sprawności technicznej: sprzętu agrolotniczego, opryskiwaczy wyposażonych w belkę opryskową montowanych na pojazdach kolejowych, innego sprzętu kolejowego przeznaczonego do stosowania środków ochrony roślin, zaprawiarek do nasion oraz samobieżnego lub ciągnikowego sprzętu przeznaczonego do stosowania środków ochrony roślin w formie granulatu, na otwartej przestrzeni, przy dodatniej temperaturze powietrza oraz przy braku opadów atmosferycznych;"
     },
     {
       "provision_ref": "par7p2la",
@@ -247,13 +301,25 @@
       "provision_ref": "par7p2lc",
       "section": "7",
       "title": "§ 7 pkt 2 lit. c",
-      "content": "Dopuszcza się przeprowadzanie badań sprawności technicznej: opryskiwaczy ciągnikowych i samobieżnych: polowych lub sadowniczych - w gospodarstwie posiadacza opryskiwacza, przy zachowaniu warunków, o których mowa odpowiednio w lit. a lub b."
+      "content": "Dopuszcza się przeprowadzanie badań sprawności technicznej: opryskiwaczy ciągnikowych i samobieżnych: polowych lub sadowniczych - w gospodarstwie posiadacza opryskiwacza, przy zachowaniu warunków, o których mowa odpowiednio w lit. a lub b;"
+    },
+    {
+      "provision_ref": "par7p3la",
+      "section": "7",
+      "title": "§ 7 pkt 3 lit. a",
+      "content": "Dopuszcza się przeprowadzanie badań sprawności technicznej: opryskiwaczy szklarniowych oraz pozostałego sprzętu do stosowania środków ochrony roślin: w miejscach osłoniętych od wiatru, przy dodatniej temperaturze powietrza oraz - w przypadku miejsc niezadaszonych - przy braku opadów atmosferycznych,"
+    },
+    {
+      "provision_ref": "par7p3lb",
+      "section": "7",
+      "title": "§ 7 pkt 3 lit. b",
+      "content": "Dopuszcza się przeprowadzanie badań sprawności technicznej: opryskiwaczy szklarniowych oraz pozostałego sprzętu do stosowania środków ochrony roślin: w gospodarstwie posiadacza tego sprzętu przy zachowaniu warunków, o których mowa w lit. a."
     },
     {
       "provision_ref": "par8",
       "section": "8",
       "title": "§ 8",
-      "content": "Metodyka badania sprawności technicznej sprzętu przeznaczonego do stosowania środków ochrony roślin obejmuje badanie ogólne i badanie stanu technicznego poszczególnych części i urządzeń tego sprzętu. Jeżeli wynik badania ogólnego sprzętu przeznaczonego do stosowania środków ochrony roślin jest negatywny, podmiot przeprowadzający badania tego sprzętu nie musi przeprowadzać badania stanu technicznego poszczególnych części i urządzeń tego sprzętu. Metodyka badania sprawności technicznej: opryskiwaczy ciągnikowych lub samobieżnych polowych lub sadowniczych jest określona w załączniku nr 3 do rozporządzenia; opryskiwaczy wyposażonych w belkę opryskową montowanych na pojazdach kolejowych jest określona w załączniku nr 4 do rozporządzenia; innego sprzętu kolejowego jest określona w załączniku nr 5 do rozporządzenia; sprzętu agrolotniczego jest określona w załączniku nr 6 do rozporządzenia."
+      "content": "Metodyka badania sprawności technicznej sprzętu przeznaczonego do stosowania środków ochrony roślin obejmuje badanie ogólne i badanie stanu technicznego poszczególnych części i urządzeń tego sprzętu. Jeżeli wynik badania ogólnego sprzętu przeznaczonego do stosowania środków ochrony roślin jest negatywny, podmiot przeprowadzający badania tego sprzętu nie musi przeprowadzać badania stanu technicznego poszczególnych części i urządzeń tego sprzętu. Metodyka badania sprawności technicznej: opryskiwaczy ciągnikowych lub samobieżnych polowych lub sadowniczych jest określona w załączniku nr 3 do rozporządzenia; opryskiwaczy wyposażonych w belkę opryskową montowanych na pojazdach kolejowych jest określona w załączniku nr 4 do rozporządzenia; innego sprzętu kolejowego jest określona w załączniku nr 5 do rozporządzenia; zaprawiarek do nasion jest określona w załączniku nr 5a do rozporządzenia; opryskiwaczy szklarniowych jest określona w załączniku nr 5b do rozporządzenia; samobieżnego lub ciągnikowego sprzętu przeznaczonego do stosowania środków ochrony roślin w formie granulatu jest określona w załączniku nr 5c do rozporządzenia; pozostałego sprzętu do stosowania środków ochrony roślin jest określona w załączniku nr 5d do rozporządzenia; sprzętu agrolotniczego jest określona w załączniku nr 6 do rozporządzenia."
     },
     {
       "provision_ref": "par8u1",
@@ -286,6 +352,30 @@
       "content": "Metodyka badania sprawności technicznej: innego sprzętu kolejowego jest określona w załączniku nr 5 do rozporządzenia;"
     },
     {
+      "provision_ref": "par8u3p3a",
+      "section": "8",
+      "title": "§ 8 ust. 3 pkt 3a",
+      "content": "Metodyka badania sprawności technicznej: zaprawiarek do nasion jest określona w załączniku nr 5a do rozporządzenia;"
+    },
+    {
+      "provision_ref": "par8u3p3b",
+      "section": "8",
+      "title": "§ 8 ust. 3 pkt 3b",
+      "content": "Metodyka badania sprawności technicznej: opryskiwaczy szklarniowych jest określona w załączniku nr 5b do rozporządzenia;"
+    },
+    {
+      "provision_ref": "par8u3p3c",
+      "section": "8",
+      "title": "§ 8 ust. 3 pkt 3c",
+      "content": "Metodyka badania sprawności technicznej: samobieżnego lub ciągnikowego sprzętu przeznaczonego do stosowania środków ochrony roślin w formie granulatu jest określona w załączniku nr 5c do rozporządzenia;"
+    },
+    {
+      "provision_ref": "par8u3p3d",
+      "section": "8",
+      "title": "§ 8 ust. 3 pkt 3d",
+      "content": "Metodyka badania sprawności technicznej: pozostałego sprzętu do stosowania środków ochrony roślin jest określona w załączniku nr 5d do rozporządzenia;"
+    },
+    {
       "provision_ref": "par8u3p4",
       "section": "8",
       "title": "§ 8 ust. 3 pkt 4",
@@ -295,7 +385,7 @@
       "provision_ref": "par9",
       "section": "9",
       "title": "§ 9",
-      "content": "Badanie sprawności technicznej sprzętu przeznaczonego do stosowania środków ochrony roślin dokumentuje się w protokole badania technicznego, który zawiera: numer protokołu badania technicznego; imię, nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres podmiotu przeprowadzającego badania; numer wpisu do rejestru, o którym mowa w art. 49 ust. 1 albo w art. 52 ust. 1 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin ; imię, nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres posiadacza sprzętu; numer PESEL, jeżeli posiadaczem sprzętu jest osoba fizyczna, albo nazwę i numer dokumentu potwierdzającego tożsamość, w przypadku gdy posiadacz sprzętu nie posiada obywatelstwa polskiego, albo numer identyfikacji podatkowej (NIP) w przypadku posiadacza sprzętu niebędącego osobą fizyczną; określenie typu, rodzaju i nazwy sprzętu; wskazanie szerokości belki polowej opryskiwacza - w przypadku opryskiwacza ciągnikowego i samobieżnego polowego; numer seryjny lub ewidencyjny sprzętu; nazwę producenta sprzętu; rok produkcji sprzętu; datę przeprowadzenia badania; wyszczególnienie części i urządzeń objętych badaniem; wynik badania; jeżeli wynik badania jest pozytywny - numer, o którym mowa w § 10 ust. 1 pkt 2, oraz termin ważności przeprowadzonego badania; podpis osoby przeprowadzającej badanie i pieczęć podmiotu przeprowadzającego badania. Protokół badania technicznego, o którym mowa w ust. 1, jest dokumentem potwierdzającym przeprowadzenie badania sprawności technicznej sprzętu przeznaczonego do stosowania środków ochrony roślin i jest sporządzany w 2 egzemplarzach, z których jeden wydaje się posiadaczowi sprzętu."
+      "content": "Badanie sprawności technicznej sprzętu przeznaczonego do stosowania środków ochrony roślin dokumentuje się w protokole badania technicznego, który zawiera: numer protokołu badania technicznego; imię, nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres podmiotu przeprowadzającego badania; numer wpisu do rejestru, o którym mowa w art. 49 ust. 1 albo w art. 52 ust. 1 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin ; imię, nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres posiadacza sprzętu; numer PESEL, jeżeli posiadaczem sprzętu jest osoba fizyczna, albo nazwę i numer dokumentu potwierdzającego tożsamość, w przypadku gdy posiadacz sprzętu nie posiada obywatelstwa polskiego, albo numer identyfikacji podatkowej (NIP) w przypadku posiadacza sprzętu niebędącego osobą fizyczną; określenie typu, rodzaju i nazwy sprzętu; wskazanie szerokości belki polowej opryskiwacza - w przypadku opryskiwacza ciągnikowego i samobieżnego polowego; numer seryjny lub ewidencyjny sprzętu; nazwę producenta sprzętu; rok produkcji sprzętu; datę przeprowadzenia badania; wyszczególnienie części i urządzeń objętych badaniem; wynik badania; jeżeli wynik badania jest pozytywny ‒ numer, o którym mowa w § 10 ust. 1 pkt 2, oraz termin ważności przeprowadzonego badania; podpis osoby przeprowadzającej badanie. Protokół badania technicznego, o którym mowa w ust. 1, jest dokumentem potwierdzającym przeprowadzenie badania sprawności technicznej sprzętu przeznaczonego do stosowania środków ochrony roślin i jest sporządzany w 2 egzemplarzach, z których jeden wydaje się posiadaczowi sprzętu."
     },
     {
       "provision_ref": "par9u1p1",
@@ -373,13 +463,13 @@
       "provision_ref": "par9u1p13",
       "section": "9",
       "title": "§ 9 ust. 1 pkt 13",
-      "content": "Badanie sprawności technicznej sprzętu przeznaczonego do stosowania środków ochrony roślin dokumentuje się w protokole badania technicznego, który zawiera: wynik badania; jeżeli wynik badania jest pozytywny - numer, o którym mowa w § 10 ust. 1 pkt 2, oraz termin ważności przeprowadzonego badania;"
+      "content": "Badanie sprawności technicznej sprzętu przeznaczonego do stosowania środków ochrony roślin dokumentuje się w protokole badania technicznego, który zawiera: wynik badania; jeżeli wynik badania jest pozytywny ‒ numer, o którym mowa w § 10 ust. 1 pkt 2, oraz termin ważności przeprowadzonego badania;"
     },
     {
-      "provision_ref": "par9u1p14",
+      "provision_ref": "par9u1p4",
       "section": "9",
-      "title": "§ 9 ust. 1 pkt 14",
-      "content": "Badanie sprawności technicznej sprzętu przeznaczonego do stosowania środków ochrony roślin dokumentuje się w protokole badania technicznego, który zawiera: podpis osoby przeprowadzającej badanie i pieczęć podmiotu przeprowadzającego badania."
+      "title": "§ 9 ust. 1 pkt 4",
+      "content": "Badanie sprawności technicznej sprzętu przeznaczonego do stosowania środków ochrony roślin dokumentuje się w protokole badania technicznego, który zawiera: podpis osoby przeprowadzającej badanie."
     },
     {
       "provision_ref": "par9u2",
@@ -481,7 +571,7 @@
       "provision_ref": "par13",
       "section": "13",
       "title": "§ 13",
-      "content": "Do dnia 31 grudnia 2020 r. do sprawdzania rozkładu poprzecznego cieczy mogą być stosowane ręczne lub elektroniczne stoły rowkowe niespełniające wymagań określonych w załączniku nr 2 do rozporządzenia, z tym że w przypadku: ręcznych stołów rowkowych: ich szerokość powinna wynosić 3000 mm, długość profili probierczych powinna wynosić co najmniej 500 mm, szerokość profili probierczych powinna wynosić 50 mm, na naczyniach zbierających ciecz z poszczególnych profili probierczych wyznacza się linie wskazujące: - średnią objętość cieczy zbieranej podczas pomiaru, - odchylenia objętości cieczy od wartości średniej wynoszące 20%; elektronicznych stołów rowkowych: długość profili probierczych powinna wynosić co najmniej 500 mm, szerokość profili probierczych powinna wynosić 50 mm."
+      "content": "Do dnia 31 grudnia 2020 r. do sprawdzania rozkładu poprzecznego cieczy mogą być stosowane ręczne lub elektroniczne stoły rowkowe niespełniające wymagań określonych w załączniku nr 2 do rozporządzenia, z tym że w przypadku: ręcznych stołów rowkowych: ich szerokość powinna wynosić 3000 mm, długość profili probierczych powinna wynosić co najmniej 500 mm, szerokość profili probierczych powinna wynosić 50 mm, na naczyniach zbierających ciecz z poszczególnych profili probierczych wyznacza się linie wskazujące: - średnią objętość cieczy zbieranej podczas pomiaru, - odchylenia objętości cieczy od wartości średniej wynoszące 15%; elektronicznych stołów rowkowych: długość profili probierczych powinna wynosić co najmniej 500 mm, szerokość profili probierczych powinna wynosić 50 mm."
     },
     {
       "provision_ref": "par13p1la",
@@ -505,7 +595,7 @@
       "provision_ref": "par13p1ld",
       "section": "13",
       "title": "§ 13 pkt 1 lit. d",
-      "content": "Do dnia 31 grudnia 2020 r. do sprawdzania rozkładu poprzecznego cieczy mogą być stosowane ręczne lub elektroniczne stoły rowkowe niespełniające wymagań określonych w załączniku nr 2 do rozporządzenia, z tym że w przypadku: ręcznych stołów rowkowych: na naczyniach zbierających ciecz z poszczególnych profili probierczych wyznacza się linie wskazujące: - średnią objętość cieczy zbieranej podczas pomiaru, - odchylenia objętości cieczy od wartości średniej wynoszące 20%;"
+      "content": "Do dnia 31 grudnia 2020 r. do sprawdzania rozkładu poprzecznego cieczy mogą być stosowane ręczne lub elektroniczne stoły rowkowe niespełniające wymagań określonych w załączniku nr 2 do rozporządzenia, z tym że w przypadku: ręcznych stołów rowkowych: na naczyniach zbierających ciecz z poszczególnych profili probierczych wyznacza się linie wskazujące: - średnią objętość cieczy zbieranej podczas pomiaru, - odchylenia objętości cieczy od wartości średniej wynoszące 15%;"
     },
     {
       "provision_ref": "par13p2la",
@@ -529,21 +619,33 @@
       "provision_ref": "par15",
       "section": "15",
       "title": "§ 15",
-      "content": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 7 marca 2013 r. w sprawie badania sprawności technicznej opryskiwaczy (Dz. U. poz. 416), które na podstawie art. 108 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin (Dz. U. poz. 455) traci moc z dniem wejścia w życie niniejszego rozporządzenia."
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 7 marca 2013 r. w sprawie badania sprawności technicznej opryskiwaczy (Dz. U. poz. 416), które na podstawie art. 108 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin (Dz. U. poz. 455) utraciło moc z dniem wejścia w życie niniejszego rozporządzenia."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2013-455",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2012-591",
+      "target_document_id": "pl-du-2016-924",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2013-2",
+      "target_document_id": "pl-du-2019-215",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-2097",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-443",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-1486",
       "ref_type": "references"
     }
   ]

@@ -10,10 +10,22 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2014/937",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Orzeczenia psychologiczne wydane przed dniem wejścia w życie niniejszego rozporządzenia zachowują ważność przez okres, na jaki zostały wydane."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
-      "content": "Rozporządzenie określa: szczegółowe warunki, tryb, zakres i sposób przeprowadzania badań psychologicznych w zakresie psychologii transportu i wydawania orzeczeń psychologicznych; metodykę przeprowadzania badań psychologicznych, o której mowa w art. 85 ust. 2 pkt 1 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami , zwanej dalej „ustawą”; sposób postępowania z dokumentacją związaną z badaniami psychologicznymi w zakresie psychologii transportu, zwaną dalej „dokumentacją badania psychologicznego”, oraz wzory stosowanych dokumentów; wzór zaświadczenia o wpisie do ewidencji uprawnionych psychologów; wzór zaświadczenia o wpisie do rejestru przedsiębiorców prowadzących pracownię psychologiczną; szczegółowe warunki, jakie musi spełniać pracownia psychologiczna; wysokość opłat za: badanie psychologiczne w zakresie psychologii transportu, wpis do rejestru przedsiębiorców, wpis do ewidencji uprawnionych psychologów."
+      "content": "Rozporządzenie określa: szczegółowe warunki, tryb, zakres i sposób przeprowadzania badań psychologicznych w zakresie psychologii transportu i wydawania orzeczeń psychologicznych; metodykę przeprowadzania badań psychologicznych, o której mowa w art. 85 ust. 2 pkt 1 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami , zwanej dalej „ustawą”; sposób postępowania z dokumentacją związaną z badaniami psychologicznymi w zakresie psychologii transportu, zwanej dalej „dokumentacją badania psychologicznego”, oraz wzory stosowanych dokumentów; wzór zaświadczenia o wpisie do ewidencji uprawnionych psychologów; wzór zaświadczenia o wpisie do rejestru przedsiębiorców prowadzących pracownię psychologiczną; szczegółowe warunki, jakie musi spełniać pracownia psychologiczna; wysokość opłat za: badanie psychologiczne w zakresie psychologii transportu, wpis do rejestru przedsiębiorców, wpis do ewidencji uprawnionych psychologów."
     },
     {
       "provision_ref": "par1p1",
@@ -31,7 +43,7 @@
       "provision_ref": "par1p3",
       "section": "1",
       "title": "§ 1 pkt 3",
-      "content": "Rozporządzenie określa: sposób postępowania z dokumentacją związaną z badaniami psychologicznymi w zakresie psychologii transportu, zwaną dalej „dokumentacją badania psychologicznego”, oraz wzory stosowanych dokumentów;"
+      "content": "Rozporządzenie określa: sposób postępowania z dokumentacją związaną z badaniami psychologicznymi w zakresie psychologii transportu, zwanej dalej „dokumentacją badania psychologicznego”, oraz wzory stosowanych dokumentów;"
     },
     {
       "provision_ref": "par1p4",
@@ -283,19 +295,19 @@
       "provision_ref": "par10",
       "section": "10",
       "title": "§ 10",
-      "content": "Pracownia psychologiczna posiada: pomieszczenie przeznaczone do badań zbiorowych i pomieszczenie przeznaczone do badań indywidualnych, każde o powierzchni nie mniejszej niż 12 m˛; pomieszczenie o powierzchni nie mniejszej niż 10 m˛ dla uprawnionego psychologa; zestaw narzędzi diagnostycznych. Dopuszcza się, aby jedno z pomieszczeń, o których mowa w ust. 1 pkt 1, było jednocześnie pomieszczeniem dla uprawnionego psychologa."
+      "content": "Pracownia psychologiczna posiada: pomieszczenie przeznaczone do badań zbiorowych i pomieszczenie przeznaczone do badań indywidualnych, każde o powierzchni nie mniejszej niż 12 m 2 ; pomieszczenie o powierzchni nie mniejszej niż 10 m 2 dla uprawnionego psychologa; zestaw narzędzi diagnostycznych. Dopuszcza się, aby jedno z pomieszczeń, o których mowa w ust. 1 pkt 1, było jednocześnie pomieszczeniem dla uprawnionego psychologa."
     },
     {
       "provision_ref": "par10u1p1",
       "section": "10",
       "title": "§ 10 ust. 1 pkt 1",
-      "content": "Pracownia psychologiczna posiada: pomieszczenie przeznaczone do badań zbiorowych i pomieszczenie przeznaczone do badań indywidualnych, każde o powierzchni nie mniejszej niż 12 m˛;"
+      "content": "Pracownia psychologiczna posiada: pomieszczenie przeznaczone do badań zbiorowych i pomieszczenie przeznaczone do badań indywidualnych, każde o powierzchni nie mniejszej niż 12 m 2 ;"
     },
     {
       "provision_ref": "par10u1p2",
       "section": "10",
       "title": "§ 10 ust. 1 pkt 2",
-      "content": "Pracownia psychologiczna posiada: pomieszczenie o powierzchni nie mniejszej niż 10 m˛ dla uprawnionego psychologa;"
+      "content": "Pracownia psychologiczna posiada: pomieszczenie o powierzchni nie mniejszej niż 10 m 2 dla uprawnionego psychologa;"
     },
     {
       "provision_ref": "par10u1p3",
@@ -379,13 +391,37 @@
       "provision_ref": "par16",
       "section": "16",
       "title": "§ 16",
-      "content": "Rozporządzenie wchodzi w życie z dniem 20 lipca 2014 r. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 1 kwietnia 2005 r. w sprawie badań psychologicznych kierowców i osób ubiegających się o uprawnienia do kierowania pojazdami oraz wykonujących pracę na stanowisku kierowcy (Dz. U. Nr 69, poz. 622 oraz z 2007 r. Nr 178, poz. 1264), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 137 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2014 r. poz. 600)."
+      "content": "Rozporządzenie wchodzi w życie z dniem 20 lipca 2014 r. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 1 kwietnia 2005 r. w sprawie badań psychologicznych kierowców i osób ubiegających się o uprawnienia do kierowania pojazdami oraz wykonujących pracę na stanowisku kierowcy (Dz. U. poz. 622 oraz z 2007 r. poz. 1264), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 137 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2014 r. poz. 600)."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2014-600",
+      "target_document_id": "pl-du-2019-1461",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-1294",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1212",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1997",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-2269",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-2328",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-2490",
       "ref_type": "references"
     }
   ]

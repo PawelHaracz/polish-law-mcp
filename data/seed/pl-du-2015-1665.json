@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2015/1665",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -79,19 +85,19 @@
       "provision_ref": "par3",
       "section": "3",
       "title": "§ 3",
-      "content": "Zawartość siarki w oleju żeglugowym typu diesel (Marine Diesel Oil - MDO) oznaczającym paliwo żeglugowe, którego lepkość i gęstość mieszczą się w zakresach lepkości oraz gęstości zdefiniowanych dla klas DMB w tabeli I PN-ISO 8217 „Przetwory naftowe - Paliwa (klasa F) - Specyfikacje paliw żeglugowych”, wprowadzanym do obrotu na obszarze Rzeczypospolitej Polskiej nie może przekraczać 1,50% m/m. Zawartość siarki w oleju napędowym żeglugowym (Marine Gas Oil - MGO) oznaczającym paliwo żeglugowe, którego lepkość i gęstość mieszczą się w zakresach lepkości oraz gęstości zdefiniowanych dla klas DMX, DMA i DMZ w tabeli I PN-ISO 8217 „Przetwory naftowe - Paliwa (klasa F) - Specyfikacje paliw żeglugowych”, używanym lub wprowadzanym do obrotu na obszarze Rzeczypospolitej Polskiej nie może przekraczać 0,10% m/m."
+      "content": "Zawartość siarki w oleju żeglugowym typu diesel (Marine Diesel Oil - MDO) oznaczającym paliwo żeglugowe zdefiniowane dla klas DMB w tabeli I PN-ISO 8217 „Przetwory naftowe - Paliwa (klasa F) - Specyfikacje paliw żeglugowych”, wprowadzanym do obrotu na obszarze Rzeczypospolitej Polskiej, nie może przekraczać 1,50% m/m. Zawartość siarki w oleju napędowym żeglugowym (Marine Gas Oil - MGO) oznaczającym paliwo żeglugowe zdefiniowane dla klas DMX, DMA i DMZ w tabeli I PN-ISO 8217 „Przetwory naftowe - Paliwa (klasa F) - Specyfikacje paliw żeglugowych”, używanym lub wprowadzanym do obrotu na obszarze Rzeczypospolitej Polskiej, nie może przekraczać 0,10% m/m."
     },
     {
       "provision_ref": "par3u1",
       "section": "3",
       "title": "§ 3 ust. 1",
-      "content": "Zawartość siarki w oleju żeglugowym typu diesel (Marine Diesel Oil - MDO) oznaczającym paliwo żeglugowe, którego lepkość i gęstość mieszczą się w zakresach lepkości oraz gęstości zdefiniowanych dla klas DMB w tabeli I PN-ISO 8217 „Przetwory naftowe - Paliwa (klasa F) - Specyfikacje paliw żeglugowych”, wprowadzanym do obrotu na obszarze Rzeczypospolitej Polskiej nie może przekraczać 1,50% m/m."
+      "content": "Zawartość siarki w oleju żeglugowym typu diesel (Marine Diesel Oil - MDO) oznaczającym paliwo żeglugowe zdefiniowane dla klas DMB w tabeli I PN-ISO 8217 „Przetwory naftowe - Paliwa (klasa F) - Specyfikacje paliw żeglugowych”, wprowadzanym do obrotu na obszarze Rzeczypospolitej Polskiej, nie może przekraczać 1,50% m/m."
     },
     {
       "provision_ref": "par3u2",
       "section": "3",
       "title": "§ 3 ust. 2",
-      "content": "Zawartość siarki w oleju napędowym żeglugowym (Marine Gas Oil - MGO) oznaczającym paliwo żeglugowe, którego lepkość i gęstość mieszczą się w zakresach lepkości oraz gęstości zdefiniowanych dla klas DMX, DMA i DMZ w tabeli I PN-ISO 8217 „Przetwory naftowe - Paliwa (klasa F) - Specyfikacje paliw żeglugowych”, używanym lub wprowadzanym do obrotu na obszarze Rzeczypospolitej Polskiej nie może przekraczać 0,10% m/m."
+      "content": "Zawartość siarki w oleju napędowym żeglugowym (Marine Gas Oil - MGO) oznaczającym paliwo żeglugowe zdefiniowane dla klas DMX, DMA i DMZ w tabeli I PN-ISO 8217 „Przetwory naftowe - Paliwa (klasa F) - Specyfikacje paliw żeglugowych”, używanym lub wprowadzanym do obrotu na obszarze Rzeczypospolitej Polskiej, nie może przekraczać 0,10% m/m."
     },
     {
       "provision_ref": "par4",
@@ -157,17 +163,21 @@
       "provision_ref": "par8",
       "section": "8",
       "title": "§ 8",
-      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia 4) Rozporządzenie zostało ogłoszone w dniu 22 października 2015 r. ."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2015-434",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2015-881",
+      "target_document_id": "pl-du-2019-478",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1072",
       "ref_type": "references"
     },
     {

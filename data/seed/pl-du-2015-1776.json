@@ -19,86 +19,98 @@
       "provision_ref": "par2",
       "section": "2",
       "title": "§ 2",
-      "content": "Ilekroć w rozporządzeniu jest mowa o: użytkowniku - rozumie się przez to osobę fizyczną, która założyła konto w systemie teleinformatycznym obsługującym postępowanie sądowe; koncie - rozumie się przez to zbiór danych określających użytkownika wraz z zasobami systemu teleinformatycznego obsługującego postępowanie sądowe, przyporządkowanymi do tego użytkownika; uwierzytelnieniu - rozumie się przez to identyfikację użytkownika na potrzeby uzyskania przez niego dostępu do konta w zakresie posiadanych uprawnień; odbiorze pisma - rozumie się przez to pierwsze uwierzytelnienie użytkownika na koncie po umieszczeniu doręczanego pisma w systemie teleinformatycznym obsługującym postępowanie sądowe, chyba że zapoznanie się z treścią pisma nie było możliwe z przyczyn związanych bezpośrednio z funkcjonowaniem tego systemu; piśmie - rozumie się przez to dane z systemu teleinformatycznego obsługującego postępowanie sądowe obejmujące treść pisma procesowego lub sądowego oraz orzeczenia."
-    },
-    {
-      "provision_ref": "par2p1",
-      "section": "2",
-      "title": "§ 2 pkt 1",
-      "content": "Ilekroć w rozporządzeniu jest mowa o: użytkowniku - rozumie się przez to osobę fizyczną, która założyła konto w systemie teleinformatycznym obsługującym postępowanie sądowe;"
-    },
-    {
-      "provision_ref": "par2p2",
-      "section": "2",
-      "title": "§ 2 pkt 2",
-      "content": "Ilekroć w rozporządzeniu jest mowa o: koncie - rozumie się przez to zbiór danych określających użytkownika wraz z zasobami systemu teleinformatycznego obsługującego postępowanie sądowe, przyporządkowanymi do tego użytkownika;"
-    },
-    {
-      "provision_ref": "par2p3",
-      "section": "2",
-      "title": "§ 2 pkt 3",
-      "content": "Ilekroć w rozporządzeniu jest mowa o: uwierzytelnieniu - rozumie się przez to identyfikację użytkownika na potrzeby uzyskania przez niego dostępu do konta w zakresie posiadanych uprawnień;"
-    },
-    {
-      "provision_ref": "par2p4",
-      "section": "2",
-      "title": "§ 2 pkt 4",
-      "content": "Ilekroć w rozporządzeniu jest mowa o: odbiorze pisma - rozumie się przez to pierwsze uwierzytelnienie użytkownika na koncie po umieszczeniu doręczanego pisma w systemie teleinformatycznym obsługującym postępowanie sądowe, chyba że zapoznanie się z treścią pisma nie było możliwe z przyczyn związanych bezpośrednio z funkcjonowaniem tego systemu;"
-    },
-    {
-      "provision_ref": "par2p5",
-      "section": "2",
-      "title": "§ 2 pkt 5",
-      "content": "Ilekroć w rozporządzeniu jest mowa o: piśmie - rozumie się przez to dane z systemu teleinformatycznego obsługującego postępowanie sądowe obejmujące treść pisma procesowego lub sądowego oraz orzeczenia."
+      "content": "Ilekroć w rozporządzeniu jest mowa o: 1)1) użytkowniku konta – rozumie się przez to użytkownika konta, o którym mowa w § 2 ust. 1 pkt 3 rozporządzenia Ministra Sprawiedliwości z dnia 30 listopada 2021 r. w sprawie konta w systemie teleinformatycznym obsługującym postępowanie sądowe (Dz. U. z 2026 r. poz. 1425), zwanego dalej „rozporządzeniem w sprawie konta”; 2)1) koncie – rozumie się przez to konto, o którym mowa w § 2 ust. 1 pkt 2 rozporządzenia w sprawie konta; 3)1) uwierzytelnieniu – rozumie się przez to uwierzytelnienie, o którym mowa w § 2 ust. 1 pkt 8 rozporządzenia w sprawie konta; 4)1) odbiorze pisma – rozumie się przez to pierwsze uwierzytelnienie pozwalające użytkownikowi na dostęp do konta po umieszczeniu doręczanego pisma w systemie teleinformatycznym obsługującym postępowanie sądowe, a w postępowaniu rejestrowym – oznaczenie przez uprawnionego użytkownika odebrania pisma po jego uwierzytelnieniu pozwalającym na dostęp do konta; 5) piśmie – rozumie się przez to dane z systemu teleinformatycznego obsługującego postępowanie sądowe obejmujące treść pisma procesowego lub sądowego oraz orzeczenia; 6)2) uprawnionym użytkowniku – rozumie się przez to uprawnionego użytkownika, o którym mowa w § 2 ust. 1 pkt 7 rozporządzenia w sprawie konta."
     },
     {
       "provision_ref": "par3",
       "section": "3",
       "title": "§ 3",
-      "content": "Doręczenie pisma za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe, zwanego dalej „systemem teleinformatycznym”, następuje przez umieszczenie tego pisma w systemie teleinformatycznym w sposób umożliwiający użytkownikowi zapoznanie się z jego treścią za pośrednictwem konta."
+      "content": "Pismo doręcza się za pośrednictwem systemu teleinformatycznego, który obsługuje postępowanie sądowe, zwanego dalej „systemem teleinformatycznym”, w taki sposób, że umieszcza się je na koncie, z którego adresat wniósł pierwsze pismo w sprawie, chyba że przepis szczególny stanowi inaczej."
     },
     {
       "provision_ref": "par4",
       "section": "4",
       "title": "§ 4",
-      "content": "Po odebraniu pisma, a w przypadku nieodebrania pisma - po upływie 14 dni od daty umieszczenia pisma w systemie teleinformatycznym, na koncie użytkownika jest umieszczane automatycznie elektroniczne potwierdzenie odbioru korespondencji. Elektroniczne potwierdzenie odbioru korespondencji zawiera: oznaczenie doręczonego pisma, chwilę jego odbioru i użytkownika, któremu doręczono pismo, albo - w przypadku nieodebrania pisma - informację, że pismo uznano za doręczone w trybie art. 131 1 § 2 zdanie trzecie ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego oraz chwilę umieszczenia pisma w systemie teleinformatycznym z oznaczeniem doręczonego pisma."
+      "content": "1. Po odbiorze pisma, na koncie, na którym umieszczono pismo, jest prezentowana data odbioru, a w przypadku nieodebrania pisma w terminie 14 dni od daty umieszczenia pisma na koncie – data, w której upłynął 14-dniowy termin, o którym mowa w art. 131[1] § 2 zdanie trzecie ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego. 1a. Elektroniczne potwierdzenie odbioru korespondencji jest przekazywane do sądu automatycznie, za pośrednictwem systemu teleinformatycznego. 2.3) Elektroniczne potwierdzenie odbioru korespondencji, w przypadku dokonania odbioru pisma, zawiera: 1) oznaczenie doręczonego pisma; 2) informację o czasie odbioru pisma; 1) 2) 3) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Sprawiedliwości z dnia 7 sierpnia 2025 r. zmieniającego rozporządzenie w sprawie trybu i sposobu dokonywania doręczeń elektronicznych (Dz. U. poz. 1091), które weszło w życie z dniem 11 sierpnia 2025 r. Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 1. W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 1. 3) Poz. 1456 informacje o koncie adresata pisma, które obejmują: a) w przypadku konta osoby fizycznej – imię i nazwisko adresata, b) w przypadku konta podmiotu – nazwę lub firmę adresata oraz imię i nazwisko uprawnionego użytkownika, który dokonał odbioru pisma; 4) informację o czasie umieszczenia pisma w systemie teleinformatycznym wraz z oznaczeniem doręczonego pisma. 3.4) W przypadku uznania pisma za doręczone w trybie art. 131[1] § 2 zdanie trzecie ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego elektroniczne potwierdzenie odbioru korespondencji zawiera informacje, o których mowa w ust. 2 pkt 1, 3 i 4."
     },
     {
       "provision_ref": "par4u1",
       "section": "4",
       "title": "§ 4 ust. 1",
-      "content": "Po odebraniu pisma, a w przypadku nieodebrania pisma - po upływie 14 dni od daty umieszczenia pisma w systemie teleinformatycznym, na koncie użytkownika jest umieszczane automatycznie elektroniczne potwierdzenie odbioru korespondencji."
+      "content": "Po odbiorze pisma, na koncie, na którym umieszczono pismo, jest prezentowana data odbioru, a w przypadku nieodebrania pisma w terminie 14 dni od daty umieszczenia pisma na koncie – data, w której upłynął 14-dniowy termin, o którym mowa w art. 131[1] § 2 zdanie trzecie ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego."
     },
     {
-      "provision_ref": "par4u2",
+      "provision_ref": "par4u1ap1",
       "section": "4",
-      "title": "§ 4 ust. 2",
-      "content": "Elektroniczne potwierdzenie odbioru korespondencji zawiera: oznaczenie doręczonego pisma, chwilę jego odbioru i użytkownika, któremu doręczono pismo, albo - w przypadku nieodebrania pisma - informację, że pismo uznano za doręczone w trybie art. 131 1 § 2 zdanie trzecie ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego oraz chwilę umieszczenia pisma w systemie teleinformatycznym z oznaczeniem doręczonego pisma."
+      "title": "§ 4 ust. 1a pkt 1",
+      "content": "oznaczenie doręczonego pisma;"
+    },
+    {
+      "provision_ref": "par4u1ap2",
+      "section": "4",
+      "title": "§ 4 ust. 1a pkt 2",
+      "content": "informację o czasie odbioru pisma;"
+    },
+    {
+      "provision_ref": "par4u1ap1",
+      "section": "4",
+      "title": "§ 4 ust. 1a pkt 1",
+      "content": "2)"
+    },
+    {
+      "provision_ref": "par4u1ap3",
+      "section": "4",
+      "title": "§ 4 ust. 1a pkt 3",
+      "content": "W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Sprawiedliwości z dnia 7 sierpnia 2025 r. zmieniającego rozporządzenie w sprawie trybu i sposobu dokonywania doręczeń elektronicznych (Dz. U. poz. 1091), które weszło w życie z dniem 11 sierpnia 2025 r. Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku"
+    },
+    {
+      "provision_ref": "par4u1p3",
+      "section": "4",
+      "title": "§ 4 ust. 1 pkt 3",
+      "content": "Poz. 1456 informacje o koncie adresata pisma, które obejmują: a) w przypadku konta osoby fizycznej – imię i nazwisko adresata, b) w przypadku konta podmiotu – nazwę lub firmę adresata oraz imię i nazwisko uprawnionego użytkownika, który dokonał odbioru pisma;"
+    },
+    {
+      "provision_ref": "par4u1p4",
+      "section": "4",
+      "title": "§ 4 ust. 1 pkt 4",
+      "content": "informację o czasie umieszczenia pisma w systemie teleinformatycznym wraz z oznaczeniem doręczonego pisma. 3.4) W przypadku uznania pisma za doręczone w trybie art. 131[1] § 2 zdanie trzecie ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego elektroniczne potwierdzenie odbioru korespondencji zawiera informacje, o których mowa w ust. 2 pkt 1, 3 i 4."
     },
     {
       "provision_ref": "par5",
       "section": "5",
       "title": "§ 5",
-      "content": "Przed uwierzytelnieniem użytkownika na koncie poucza się użytkownika o sposobie i skutkach dokonywania doręczeń elektronicznych."
+      "content": "Przed uwierzytelnieniem użytkownika konta informuje się o sposobie i skutkach dokonywania doręczeń elektronicznych."
     },
     {
       "provision_ref": "par6",
       "section": "6",
       "title": "§ 6",
-      "content": "W elektronicznym postępowaniu upominawczym pismo przeznaczone dla użytkownika może być doręczone użytkownikowi uprawnionemu do odbioru pism, który został wskazany przez użytkownika za pośrednictwem systemu teleinformatycznego."
+      "content": "W elektronicznym postępowaniu upominawczym pismo przeznaczone dla użytkownika konta może być doręczone użytkownikowi uprawnionemu do odbioru pism, który został wskazany przez użytkownika konta za pośrednictwem systemu teleinformatycznego."
+    },
+    {
+      "provision_ref": "par6a",
+      "section": "6a",
+      "title": "§ 6a",
+      "content": "5) W postępowaniu rejestrowym pismo adresowane do podmiotu, dla którego założono konto, umieszcza się na tym koncie, chyba że przepis szczególny stanowi inaczej."
     },
     {
       "provision_ref": "par7",
       "section": "7",
       "title": "§ 7",
-      "content": "Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2016 r. 2) Niniejsze rozporządzenie w zakresie trybu doręczeń elektronicznych w elektronicznym postępowaniu upominawczym było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 28 grudnia 2009 r. w sprawie trybu doręczeń elektronicznych w elektronicznym postępowaniu upominawczym (Dz. U. Nr 226, poz. 1831)."
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 lipca 2016 r.6) 4) 5) 6) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 1. W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1. Niniejsze rozporządzenie w zakresie trybu doręczeń elektronicznych w elektronicznym postępowaniu upominawczym było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 28 grudnia 2009 r. w sprawie trybu doręczeń elektronicznych w elektronicznym postępowaniu upominawczym (Dz. U. poz. 1831)."
+    },
+    {
+      "provision_ref": "par7u1",
+      "section": "7",
+      "title": "§ 7 ust. 1",
+      "content": "W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku"
+    },
+    {
+      "provision_ref": "par7u1",
+      "section": "7",
+      "title": "§ 7 ust. 1",
+      "content": "Niniejsze rozporządzenie w zakresie trybu doręczeń elektronicznych w elektronicznym postępowaniu upominawczym było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 28 grudnia 2009 r. w sprawie trybu doręczeń elektronicznych w elektronicznym postępowaniu upominawczym (Dz. U. poz. 1831)."
     }
   ],
-  "definitions": [],
-  "references": [
-    {
-      "target_document_id": "pl-du-2014-101",
-      "ref_type": "references"
-    }
-  ]
+  "definitions": []
 }

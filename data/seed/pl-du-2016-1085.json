@@ -10,39 +10,51 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2016/1085",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Do zapotrzebowań, o których mowa w § 6 rozporządzenia zmienianego w § 1, sporządzonych do dnia wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
       "content": "Rozporządzenie określa: szczegółowe warunki i tryb wydawania oraz cofania zezwoleń na obrót hurtowy środkami odurzającymi lub substancjami psychotropowymi; wymagania kwalifikacyjne, jakim powinna odpowiadać osoba odpowiedzialna za nadzór nad obrotem środkami odurzającymi, substancjami psychotropowymi lub prekursorami kategorii 1; wzory wniosków o udzielenie zezwolenia na obrót środkiem odurzającym, substancją psychotropową lub prekursorami kategorii 1; warunki i sposób wydawania środków odurzających, substancji psychotropowych lub prekursorów kategorii 1; warunki i sposób ewidencjonowania obrotu środkami odurzającymi, substancjami psychotropowymi lub prekursorami kategorii 1."
     },
     {
-      "provision_ref": "par1p1",
+      "provision_ref": "par1u1p1",
       "section": "1",
-      "title": "§ 1 pkt 1",
+      "title": "§ 1 ust. 1 pkt 1",
       "content": "Rozporządzenie określa: szczegółowe warunki i tryb wydawania oraz cofania zezwoleń na obrót hurtowy środkami odurzającymi lub substancjami psychotropowymi;"
     },
     {
-      "provision_ref": "par1p2",
+      "provision_ref": "par1u1p2",
       "section": "1",
-      "title": "§ 1 pkt 2",
+      "title": "§ 1 ust. 1 pkt 2",
       "content": "Rozporządzenie określa: wymagania kwalifikacyjne, jakim powinna odpowiadać osoba odpowiedzialna za nadzór nad obrotem środkami odurzającymi, substancjami psychotropowymi lub prekursorami kategorii 1;"
     },
     {
-      "provision_ref": "par1p3",
+      "provision_ref": "par1u1p3",
       "section": "1",
-      "title": "§ 1 pkt 3",
+      "title": "§ 1 ust. 1 pkt 3",
       "content": "Rozporządzenie określa: wzory wniosków o udzielenie zezwolenia na obrót środkiem odurzającym, substancją psychotropową lub prekursorami kategorii 1;"
     },
     {
-      "provision_ref": "par1p4",
+      "provision_ref": "par1u1p4",
       "section": "1",
-      "title": "§ 1 pkt 4",
+      "title": "§ 1 ust. 1 pkt 4",
       "content": "Rozporządzenie określa: warunki i sposób wydawania środków odurzających, substancji psychotropowych lub prekursorów kategorii 1;"
     },
     {
-      "provision_ref": "par1p5",
+      "provision_ref": "par1u1p5",
       "section": "1",
-      "title": "§ 1 pkt 5",
+      "title": "§ 1 ust. 1 pkt 5",
       "content": "Rozporządzenie określa: warunki i sposób ewidencjonowania obrotu środkami odurzającymi, substancjami psychotropowymi lub prekursorami kategorii 1."
     },
     {
@@ -145,7 +157,7 @@
       "provision_ref": "par6",
       "section": "6",
       "title": "§ 6",
-      "content": "Wydawanie środków odurzających lub substancji psychotropowych odbywa się na podstawie zapotrzebowania, złożonego pisemnie przez podmiot zamawiający, zawierającego następujące informacje: nazwę i adres siedziby albo miejsca zamieszkania podmiotu zamawiającego; określenie prowadzonej działalności przez podmiot zamawiający oraz numer i datę wydania zezwolenia na jej prowadzenie; numer REGON podmiotu zamawiającego; międzynarodową nazwę zalecaną, nazwę handlową lub nazwę skróconą, która w jednoznaczny sposób pozwala określić środek odurzający lub substancję psychotropową; zamawianą ilość środków odurzających lub substancji psychotropowych, a w przypadku produktów leczniczych - postać farmaceutyczną i dawkę środka odurzającego lub substancji psychotropowej; imię i nazwisko osoby uprawnionej do odbioru środków odurzających lub substancji psychotropowych; datę sporządzenia zapotrzebowania oraz podpis i pieczątkę imienną osoby upoważnionej do reprezentowania podmiotu zamawiającego."
+      "content": "Wydawanie środków odurzających lub substancji psychotropowych odbywa się na podstawie zapotrzebowania, złożonego pisemnie przez podmiot zamawiający, zawierającego następujące informacje: nazwę i adres siedziby albo miejsca zamieszkania podmiotu zamawiającego; określenie prowadzonej działalności przez podmiot zamawiający oraz numer i datę wydania zezwolenia na jej prowadzenie; numer REGON podmiotu zamawiającego; międzynarodową nazwę zalecaną, nazwę handlową lub nazwę skróconą, która w jednoznaczny sposób pozwala określić środek odurzający lub substancję psychotropową; zamawianą ilość środków odurzających lub substancji psychotropowych, a w przypadku produktów leczniczych - postać farmaceutyczną i dawkę środka odurzającego lub substancji psychotropowej; imię i nazwisko osoby uprawnionej do odbioru środków odurzających lub substancji psychotropowych; datę sporządzenia zapotrzebowania, imię, nazwisko oraz podpis osoby upoważnionej do reprezentowania podmiotu zamawiającego."
     },
     {
       "provision_ref": "par6p1",
@@ -184,22 +196,22 @@
       "content": "Wydawanie środków odurzających lub substancji psychotropowych odbywa się na podstawie zapotrzebowania, złożonego pisemnie przez podmiot zamawiający, zawierającego następujące informacje: imię i nazwisko osoby uprawnionej do odbioru środków odurzających lub substancji psychotropowych;"
     },
     {
-      "provision_ref": "par6p7",
+      "provision_ref": "par6p3",
       "section": "6",
-      "title": "§ 6 pkt 7",
-      "content": "Wydawanie środków odurzających lub substancji psychotropowych odbywa się na podstawie zapotrzebowania, złożonego pisemnie przez podmiot zamawiający, zawierającego następujące informacje: datę sporządzenia zapotrzebowania oraz podpis i pieczątkę imienną osoby upoważnionej do reprezentowania podmiotu zamawiającego."
+      "title": "§ 6 pkt 3",
+      "content": "Wydawanie środków odurzających lub substancji psychotropowych odbywa się na podstawie zapotrzebowania, złożonego pisemnie przez podmiot zamawiający, zawierającego następujące informacje: datę sporządzenia zapotrzebowania, imię, nazwisko oraz podpis osoby upoważnionej do reprezentowania podmiotu zamawiającego."
     },
     {
       "provision_ref": "par7",
       "section": "7",
       "title": "§ 7",
-      "content": "Wydawanie prekursorów kategorii 1 odbywa się na podstawie: deklaracji klienta, o której mowa w art. 4 rozporządzenia (WE) nr 273/2004 Parlamentu Europejskiego i Rady z dnia 11 lutego 2004 r. w sprawie prekursorów narkotykowych , zwanego dalej „rozporządzeniem nr 273/2004”; zezwolenia na wywóz, o którym mowa w art. 12 rozporządzenia Rady (WE) nr 111/2005 z dnia 22 grudnia 2004 r. określającego zasady nadzorowania handlu prekursorami narkotyków pomiędzy Unią a państwami trzecimi , zwanego dalej „rozporządzeniem nr 111/2005”; zezwolenia na przywóz, o którym mowa w art. 20 rozporządzenia nr 111/2005."
+      "content": "Wydawanie prekursorów kategorii 1 odbywa się na podstawie: deklaracji klienta, o której mowa w art. 4 rozporządzenia (WE) nr 273/2004 Parlamentu Europejskiego i Rady z dnia 11 lutego 2004 r. w sprawie prekursorów narkotykowych (Dz. Urz. UE L 47 z 18.02.2004, str. 1, z późn. zm. - Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 46), zwanego dalej „rozporządzeniem nr 273/2004”; zezwolenia na wywóz, o którym mowa w art. 12 rozporządzenia Rady (WE) nr 111/2005 z dnia 22 grudnia 2004 r. określającego zasady nadzorowania handlu prekursorami narkotyków pomiędzy Unią a państwami trzecimi , zwanego dalej „rozporządzeniem nr 111/2005”; zezwolenia na przywóz, o którym mowa w art. 20 rozporządzenia nr 111/2005."
     },
     {
       "provision_ref": "par7p1",
       "section": "7",
       "title": "§ 7 pkt 1",
-      "content": "Wydawanie prekursorów kategorii 1 odbywa się na podstawie: deklaracji klienta, o której mowa w art. 4 rozporządzenia (WE) nr 273/2004 Parlamentu Europejskiego i Rady z dnia 11 lutego 2004 r. w sprawie prekursorów narkotykowych , zwanego dalej „rozporządzeniem nr 273/2004”;"
+      "content": "Wydawanie prekursorów kategorii 1 odbywa się na podstawie: deklaracji klienta, o której mowa w art. 4 rozporządzenia (WE) nr 273/2004 Parlamentu Europejskiego i Rady z dnia 11 lutego 2004 r. w sprawie prekursorów narkotykowych (Dz. Urz. UE L 47 z 18.02.2004, str. 1, z późn. zm. - Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 46), zwanego dalej „rozporządzeniem nr 273/2004”;"
     },
     {
       "provision_ref": "par7p2",
@@ -505,17 +517,21 @@
       "provision_ref": "par14",
       "section": "14",
       "title": "§ 14",
-      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 20 grudnia 2011 r. w sprawie szczegółowych warunków i trybu wydawania oraz cofania zezwoleń na obrót hurtowy środkami odurzającymi lub substancjami psychotropowymi (Dz. U. Nr 288, poz. 1698) oraz rozporządzeniem Ministra Zdrowia z dnia 6 lutego 2012 r. w sprawie obowiązków przedsiębiorców posiadających zezwolenia na obrót hurtowy prekursorami kategorii 1, a także warunków, jakie podmiot musi spełniać celem przechowywania środków objętych zezwoleniem w komorach przeładunkowych (Dz. U. poz. 156), które tracą moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 9 pkt 1 ustawy z dnia 24 kwietnia 2015 r. o zmianie ustawy o przeciwdziałaniu narkomanii oraz niektórych innych ustaw (Dz. U. poz. 875 i 1830)."
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia 4) Rozporządzenie zostało ogłoszone w dniu 22 lipca 2016 r. . 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 20 grudnia 2011 r. w sprawie szczegółowych warunków i trybu wydawania oraz cofania zezwoleń na obrót hurtowy środkami odurzającymi lub substancjami psychotropowymi (Dz. U. poz. 1698) oraz rozporządzeniem Ministra Zdrowia z dnia 6 lutego 2012 r. w sprawie obowiązków przedsiębiorców posiadających zezwolenia na obrót hurtowy prekursorami kategorii 1, a także warunków, jakie podmiot musi spełniać celem przechowywania środków objętych zezwoleniem w komorach przeładunkowych (Dz. U. poz. 156), które utraciły moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 9 pkt 1 ustawy z dnia 24 kwietnia 2015 r. o zmianie ustawy o przeciwdziałaniu narkomanii oraz niektórych innych ustaw (Dz. U. poz. 875 i 1830)."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2016-224",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2016-437",
+      "target_document_id": "pl-du-2019-1987",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-2050",
       "ref_type": "references"
     }
   ]

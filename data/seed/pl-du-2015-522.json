@@ -10,6 +10,18 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2015/522",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Badania rozpoczęte przed dniem wejścia w życie niniejszego rozporządzenia przeprowadza się zgodnie z dotychczasowymi przepisami."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -37,7 +49,7 @@
       "provision_ref": "par2",
       "section": "2",
       "title": "§ 2",
-      "content": "Użyte w rozporządzeniu określenia oznaczają: ustawa - ustawę z dnia 28 marca 2003 r. o transporcie kolejowym ; podmiot uprawniony - podmiot uprawniony do przeprowadzania badań lekarskich i psychologicznych oraz orzekania w celu sprawdzenia spełnienia wymagań zdrowotnych, fizycznych i psychicznych, niezbędnych do uzyskania licencji oraz świadectwa maszynisty, a także zachowania ich ważności, o którym mowa w art. 22a ust. 1 pkt 3 ustawy; lekarz uprawniony - lekarz, o którym mowa w § 7 ust. 5 rozporządzenia Ministra Zdrowia i Opieki Społecznej z dnia 30 maja 1996 r. w sprawie przeprowadzania badań lekarskich pracowników, zakresu profilaktycznej opieki zdrowotnej nad pracownikami oraz orzeczeń lekarskich wydawanych do celów przewidzianych w Kodeksie pracy ) ."
+      "content": "Użyte w rozporządzeniu określenia oznaczają: ustawa - ustawę z dnia 28 marca 2003 r. o transporcie kolejowym ; podmiot uprawniony - podmiot uprawniony do przeprowadzania badań lekarskich i psychologicznych oraz orzekania w celu sprawdzenia spełnienia wymagań zdrowotnych, fizycznych i psychicznych, niezbędnych do uzyskania licencji oraz świadectwa maszynisty, a także zachowania ich ważności, o którym mowa w art. 22a ust. 1 pkt 3 ustawy; lekarz uprawniony - lekarz, o którym mowa w § 7 ust. 5 rozporządzenia Ministra Zdrowia i Opieki Społecznej z dnia 30 maja 1996 r. w sprawie przeprowadzania badań lekarskich pracowników, zakresu profilaktycznej opieki zdrowotnej nad pracownikami oraz orzeczeń lekarskich wydawanych do celów przewidzianych w Kodeksie pracy ."
     },
     {
       "provision_ref": "par2p1",
@@ -55,7 +67,7 @@
       "provision_ref": "par2p3",
       "section": "2",
       "title": "§ 2 pkt 3",
-      "content": "Użyte w rozporządzeniu określenia oznaczają: lekarz uprawniony - lekarz, o którym mowa w § 7 ust. 5 rozporządzenia Ministra Zdrowia i Opieki Społecznej z dnia 30 maja 1996 r. w sprawie przeprowadzania badań lekarskich pracowników, zakresu profilaktycznej opieki zdrowotnej nad pracownikami oraz orzeczeń lekarskich wydawanych do celów przewidzianych w Kodeksie pracy ) ."
+      "content": "Użyte w rozporządzeniu określenia oznaczają: lekarz uprawniony - lekarz, o którym mowa w § 7 ust. 5 rozporządzenia Ministra Zdrowia i Opieki Społecznej z dnia 30 maja 1996 r. w sprawie przeprowadzania badań lekarskich pracowników, zakresu profilaktycznej opieki zdrowotnej nad pracownikami oraz orzeczeń lekarskich wydawanych do celów przewidzianych w Kodeksie pracy ."
     },
     {
       "provision_ref": "par3",
@@ -295,17 +307,29 @@
       "provision_ref": "par10",
       "section": "10",
       "title": "§ 10",
-      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 15 marca 2011 r. w sprawie badań niezbędnych do otrzymania świadectwa maszynisty oraz zachowania jego ważności (Dz. U. Nr 66, poz. 349)."
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia 4) Rozporządzenie zostało ogłoszone w dniu 14 kwietnia 2015 r. . 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 15 marca 2011 r. w sprawie badań niezbędnych do otrzymania świadectwa maszynisty oraz zachowania jego ważności (Dz. U. poz. 349)."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2013-1594",
+      "target_document_id": "pl-du-2017-1523",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1996-332",
+      "target_document_id": "pl-du-2018-2243",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2015-1349",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2017-2117",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2016-2067",
       "ref_type": "references"
     }
   ]

@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2012/551",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -73,13 +79,13 @@
       "provision_ref": "par5",
       "section": "5",
       "title": "§ 5",
-      "content": "Wniosek, o którym mowa w § 4, składa się w terminie do dnia 31 maja 2012 r., a w przypadku gdy świadczenie pielęgnacyjne przyznano po tym dniu, w terminie 7 dni od dnia, w którym decyzja o przyznaniu prawa do świadczenia pielęgnacyjnego stała się ostateczna. Wniosek, o którym mowa w § 4, złożony po terminie określonym w ust. 1, pozostawia się bez rozpoznania."
+      "content": "Wniosek, o którym mowa w § 4, składa się w terminie do dnia 30 czerwca 2012 r., a w przypadku gdy świadczenie pielęgnacyjne przyznano po tym dniu, w terminie 7 dni od dnia, w którym decyzja o przyznaniu prawa do świadczenia pielęgnacyjnego stała się ostateczna. Wniosek, o którym mowa w § 4, złożony po terminie określonym w ust. 1, pozostawia się bez rozpoznania."
     },
     {
       "provision_ref": "par5u1",
       "section": "5",
       "title": "§ 5 ust. 1",
-      "content": "Wniosek, o którym mowa w § 4, składa się w terminie do dnia 31 maja 2012 r., a w przypadku gdy świadczenie pielęgnacyjne przyznano po tym dniu, w terminie 7 dni od dnia, w którym decyzja o przyznaniu prawa do świadczenia pielęgnacyjnego stała się ostateczna."
+      "content": "Wniosek, o którym mowa w § 4, składa się w terminie do dnia 30 czerwca 2012 r., a w przypadku gdy świadczenie pielęgnacyjne przyznano po tym dniu, w terminie 7 dni od dnia, w którym decyzja o przyznaniu prawa do świadczenia pielęgnacyjnego stała się ostateczna."
     },
     {
       "provision_ref": "par5u2",
@@ -115,13 +121,25 @@
       "provision_ref": "par7",
       "section": "7",
       "title": "§ 7",
-      "content": "Rozporządzenie wchodzi w życie z dniem ogłoszenia, z mocą od dnia 1 kwietnia 2012 r."
+      "content": "Rozporządzenie wchodzi w życie z dniem ogłoszenia 4) Rozporządzenie zostało ogłoszone w dniu 18 maja 2012 r. , z mocą od dnia 1 kwietnia 2012 r."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2009-1362",
+      "target_document_id": "pl-du-2011-1172",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2011-1378",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2012-641",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2013-182",
       "ref_type": "references"
     },
     {

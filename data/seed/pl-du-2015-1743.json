@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2015/1743",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -655,7 +661,7 @@
       "provision_ref": "par14",
       "section": "14",
       "title": "§ 14",
-      "content": "Archiwum Główne Akt Dawnych jest właściwe w zakresie przejmowania akt stanu cywilnego z obszaru, który na mocy umowy z dnia 4 lutego 1946 r. między Rzecząpospolitą Polską i Związkiem Socjalistycznych Republik Radzieckich o polsko-radzieckiej granicy państwowej pozostał w granicach Związku Socjalistycznych Republik Radzieckich."
+      "content": "Archiwum Główne Akt Dawnych jest właściwe w zakresie przejmowania akt stanu cywilnego z obszaru, który na mocy umowy z dnia 16 sierpnia 1945 r. między Rzecząpospolitą Polską i Związkiem Socjalistycznych Republik Radzieckich o polsko-radzieckiej granicy państwowej (Dz. U. z 1947 r. poz. 167) pozostał w granicach Związku Socjalistycznych Republik Radzieckich."
     },
     {
       "provision_ref": "par15",
@@ -679,11 +685,35 @@
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2015-1446",
+      "target_document_id": "pl-du-2017-1523",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1947-167",
+      "target_document_id": "pl-du-2018-2243",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2017-1973",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-217",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-357",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-398",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-650",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-55",
       "ref_type": "references"
     }
   ]

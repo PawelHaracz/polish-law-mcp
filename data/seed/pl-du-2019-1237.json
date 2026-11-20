@@ -10,6 +10,18 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/1237",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Do aplikacji administracyjnej rozpoczętej przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy w brzmieniu dotychczasowym."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Rozporządzenie wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -163,13 +175,13 @@
       "provision_ref": "par10",
       "section": "10",
       "title": "§ 10",
-      "content": "Kierownikiem aplikacji może być pracownik Biura posiadający co najmniej dziesięcioletni staż pracy, w tym pięcioletni staż pracy w Biurze. Kierownik aplikacji nie może pełnić funkcji opiekuna. Sposób i zakres obsługi organizacyjnej kierownika aplikacji ustala Dyrektor Biura."
+      "content": "Kierownikiem aplikacji może być pracownik Biura posiadający co najmniej siedmioletni staż pracy, w tym trzyletni staż pracy w Biurze. Kierownik aplikacji nie może pełnić funkcji opiekuna. Sposób i zakres obsługi organizacyjnej kierownika aplikacji ustala Dyrektor Biura."
     },
     {
       "provision_ref": "par10u1",
       "section": "10",
       "title": "§ 10 ust. 1",
-      "content": "Kierownikiem aplikacji może być pracownik Biura posiadający co najmniej dziesięcioletni staż pracy, w tym pięcioletni staż pracy w Biurze."
+      "content": "Kierownikiem aplikacji może być pracownik Biura posiadający co najmniej siedmioletni staż pracy, w tym trzyletni staż pracy w Biurze."
     },
     {
       "provision_ref": "par10u2",
@@ -187,7 +199,7 @@
       "provision_ref": "par11",
       "section": "11",
       "title": "§ 11",
-      "content": "Przewodniczący wyznacza opiekuna, na wniosek kierującego komórką organizacyjną, w której pracownik świadczy pracę. Opiekunem może być pracownik Biura posiadający co najmniej pięcioletni staż pracy, w tym trzyletni staż pracy w Biurze, i niepozostający z aplikantem w bliskich stosunkach rodzinnych lub osobistych. Opiekun może sprawować opiekę nad nie więcej niż dwoma aplikantami równocześnie."
+      "content": "Przewodniczący wyznacza opiekuna, na wniosek kierującego komórką organizacyjną, w której pracownik świadczy pracę. Opiekunem może być pracownik Biura posiadający co najmniej pięcioletni staż pracy, w tym dwuletni staż pracy w Biurze, i niepozostający z aplikantem w bliskich stosunkach rodzinnych lub osobistych. Opiekun może sprawować opiekę nad nie więcej niż dwoma aplikantami równocześnie."
     },
     {
       "provision_ref": "par11u1",
@@ -199,7 +211,7 @@
       "provision_ref": "par11u2",
       "section": "11",
       "title": "§ 11 ust. 2",
-      "content": "Opiekunem może być pracownik Biura posiadający co najmniej pięcioletni staż pracy, w tym trzyletni staż pracy w Biurze, i niepozostający z aplikantem w bliskich stosunkach rodzinnych lub osobistych."
+      "content": "Opiekunem może być pracownik Biura posiadający co najmniej pięcioletni staż pracy, w tym dwuletni staż pracy w Biurze, i niepozostający z aplikantem w bliskich stosunkach rodzinnych lub osobistych."
     },
     {
       "provision_ref": "par11u3",
@@ -655,17 +667,21 @@
       "provision_ref": "par26",
       "section": "26",
       "title": "§ 26",
-      "content": "Rozporządzenie wchodzi w życie z dniem 7 lipca 2019 r. 1) Niniejsze rozporządzenie było poprzedzone zarządzeniem Prezydenta Rzeczypospolitej Polskiej z dnia 10 maja 1995 r. w sprawie określenia zasad i trybu odbywania aplikacji administracyjnej, wykazu stanowisk objętych aplikacją oraz ocen kwalifikacyjnych mianowanych urzędników Biura Krajowej Rady Radiofonii i Telewizji (M. P. poz. 285), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 3 ustawy z dnia 16 maja 2019 r. o zmianie ustawy - Kodeks pracy oraz niektórych innych ustaw (Dz. U. poz. 1043)."
+      "content": "Rozporządzenie wchodzi w życie z dniem 7 lipca 2019 r. 3) Niniejsze rozporządzenie było poprzedzone zarządzeniem Prezydenta Rzeczypospolitej Polskiej z dnia 10 maja 1995 r. w sprawie określenia zasad i trybu odbywania aplikacji administracyjnej, wykazu stanowisk objętych aplikacją oraz ocen kwalifikacyjnych mianowanych urzędników Biura Krajowej Rady Radiofonii i Telewizji (M. P. poz. 285), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 3 ustawy z dnia 16 maja 2019 r. o zmianie ustawy - Kodeks pracy oraz niektórych innych ustaw (Dz. U. poz. 1043)."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2018-1915",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2019-1043",
+      "target_document_id": "pl-du-2023-2612",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1917",
       "ref_type": "references"
     }
   ]

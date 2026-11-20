@@ -10,10 +10,22 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2017/537",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Do dzienników praktyki zawodowej prowadzonych w dniu wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
-      "content": "Rozporządzenie określa ramowy program praktyki zawodowej realizowanej w ramach kształcenia fizjoterapeutów, sposób jej odbywania, skrócenia, dokumentowania i zaliczania oraz wzór dziennika praktyki zawodowej."
+      "content": "Rozporządzenie określa ramowy program praktyki zawodowej realizowanej w ramach kształcenia fizjoterapeutów, sposób jej odbywania, skrócenia, dokumentowania i zaliczania, oraz wzór dziennika praktyki zawodowej."
     },
     {
       "provision_ref": "par2",
@@ -229,25 +241,41 @@
       "provision_ref": "par12",
       "section": "12",
       "title": "§ 12",
-      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia 2) Rozporządzenie zostało ogłoszone w dniu 14 marca 2017 r. ."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2015-1994",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2016-1638",
+      "target_document_id": "pl-du-2018-2135",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2016-1948",
+      "target_document_id": "pl-du-2019-2074",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2016-2260",
+      "target_document_id": "pl-du-2022-168",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-633",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-655",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-974",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-1079",
       "ref_type": "references"
     }
   ]

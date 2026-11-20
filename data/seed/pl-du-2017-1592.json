@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2017/1592",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -49,7 +55,7 @@
       "provision_ref": "par3",
       "section": "3",
       "title": "§ 3",
-      "content": "Uzbrojenie dla Szefa SKW przyznaje się na podstawie decyzji o powołaniu na stanowisko. Przepisów § 5 ust. 2 oraz § 6 ust. 1 pkt 1 i ust. 2 pkt 1 nie stosuje się. Uzbrojenie niezbędne do wykonywania zadań służbowych przyznaje się na wniosek funkcjonariusza o przyznanie uzbrojenia. Organami właściwymi do przyznawania uzbrojenia są: Szef Służby Kontrwywiadu Wojskowego - zastępcom Szefa Służby Kontrwywiadu Wojskowego oraz kierownikom jednostek organizacyjnych Służby Kontrwywiadu Wojskowego; kierownicy jednostek organizacyjnych Służby Kontrwywiadu Wojskowego - podległym funkcjonariuszom."
+      "content": "Uzbrojenie dla Szefa SKW przyznaje się na podstawie decyzji o powołaniu na stanowisko. Przepisów § 5 ust. 2 oraz § 6 ust. 1 pkt 1 i ust. 2 pkt 1 nie stosuje się. Uzbrojenie niezbędne do wykonywania czynności służbowych przyznaje się na wniosek funkcjonariusza o przyznanie uzbrojenia albo z urzędu przez organy, o których mowa w ust. 3. Organami właściwymi do przyznawania uzbrojenia są: Szef Służby Kontrwywiadu Wojskowego - swoim zastępcom, kierownikom jednostek organizacyjnych Służby Kontrwywiadu Wojskowego oraz bezpośrednio podległym funkcjonariuszom; kierownicy jednostek organizacyjnych Służby Kontrwywiadu Wojskowego - podległym funkcjonariuszom; kierownik jednostki organizacyjnej Służby Kontrwywiadu Wojskowego właściwej w sprawach bezpieczeństwa jednostek wojskowych, innych niż Siły Zbrojne Rzeczypospolitej Polskiej jednostek organizacyjnych podległych lub nadzorowanych przez Ministra Obrony Narodowej oraz żołnierzy wykonujących zadania służbowe poza granicami państwa - funkcjonariuszom kierowanym do realizacji tych zadań."
     },
     {
       "provision_ref": "par3u1",
@@ -61,25 +67,31 @@
       "provision_ref": "par3u2",
       "section": "3",
       "title": "§ 3 ust. 2",
-      "content": "Uzbrojenie niezbędne do wykonywania zadań służbowych przyznaje się na wniosek funkcjonariusza o przyznanie uzbrojenia."
-    },
-    {
-      "provision_ref": "par3u3p1",
-      "section": "3",
-      "title": "§ 3 ust. 3 pkt 1",
-      "content": "Organami właściwymi do przyznawania uzbrojenia są: Szef Służby Kontrwywiadu Wojskowego - zastępcom Szefa Służby Kontrwywiadu Wojskowego oraz kierownikom jednostek organizacyjnych Służby Kontrwywiadu Wojskowego;"
+      "content": "Uzbrojenie niezbędne do wykonywania czynności służbowych przyznaje się na wniosek funkcjonariusza o przyznanie uzbrojenia albo z urzędu przez organy, o których mowa w ust. 3."
     },
     {
       "provision_ref": "par3u3p2",
       "section": "3",
       "title": "§ 3 ust. 3 pkt 2",
-      "content": "Organami właściwymi do przyznawania uzbrojenia są: kierownicy jednostek organizacyjnych Służby Kontrwywiadu Wojskowego - podległym funkcjonariuszom."
+      "content": "Organami właściwymi do przyznawania uzbrojenia są: Szef Służby Kontrwywiadu Wojskowego - swoim zastępcom, kierownikom jednostek organizacyjnych Służby Kontrwywiadu Wojskowego oraz bezpośrednio podległym funkcjonariuszom;"
+    },
+    {
+      "provision_ref": "par3u3p2",
+      "section": "3",
+      "title": "§ 3 ust. 3 pkt 2",
+      "content": "Organami właściwymi do przyznawania uzbrojenia są: kierownicy jednostek organizacyjnych Służby Kontrwywiadu Wojskowego - podległym funkcjonariuszom;"
+    },
+    {
+      "provision_ref": "par3u3p3",
+      "section": "3",
+      "title": "§ 3 ust. 3 pkt 3",
+      "content": "Organami właściwymi do przyznawania uzbrojenia są: kierownik jednostki organizacyjnej Służby Kontrwywiadu Wojskowego właściwej w sprawach bezpieczeństwa jednostek wojskowych, innych niż Siły Zbrojne Rzeczypospolitej Polskiej jednostek organizacyjnych podległych lub nadzorowanych przez Ministra Obrony Narodowej oraz żołnierzy wykonujących zadania służbowe poza granicami państwa - funkcjonariuszom kierowanym do realizacji tych zadań."
     },
     {
       "provision_ref": "par4",
       "section": "4",
       "title": "§ 4",
-      "content": "Warunkiem przyznania uzbrojenia jest uzyskanie pozytywnej oceny z egzaminu przeprowadzonego przez komisję złożoną z przedstawicieli komórki Służby Kontrwywiadu Wojskowego właściwej do spraw uzbrojenia. Egzamin składa się z części teoretycznej i praktycznej. Zakres przedmiotowy teoretycznej części egzaminu obejmuje sprawdzenie znajomości: przepisów ustawy z dnia 6 czerwca 1997 r. - Kodeks karny ) dotyczących przestępstw odnoszących się do uzbrojenia; przepisów regulujących zasady użycia i wykorzystania broni palnej przez funkcjonariuszy oraz postępowania w przypadku jej użycia, wykorzystania lub utraty; zasad bezpieczeństwa podczas posługiwania się bronią palną; zasad noszenia oraz przechowywania broni palnej; budowy i zasad działania broni palnej. Praktyczna część egzaminu obejmuje sprawdzenie umiejętności rozkładania, składania, ładowania i rozładowywania broni palnej oraz przestrzegania zasad bezpiecznego posługiwania się bronią palną. W przypadku przyznania broni palnej innego rodzaju niż dotychczas przyznana funkcjonariusz zdaje wyłącznie egzamin z części praktycznej."
+      "content": "Warunkiem przyznania uzbrojenia jest uzyskanie pozytywnej oceny z egzaminu przeprowadzonego przez komisję złożoną z przedstawicieli komórki Służby Kontrwywiadu Wojskowego właściwej do spraw uzbrojenia. Egzamin składa się z części teoretycznej i praktycznej. Zakres przedmiotowy teoretycznej części egzaminu obejmuje sprawdzenie znajomości: przepisów ustawy z dnia 6 czerwca 1997 r. - Kodeks karny dotyczących przestępstw odnoszących się do uzbrojenia; przepisów regulujących zasady użycia i wykorzystania broni palnej przez funkcjonariuszy oraz postępowania w przypadku jej użycia, wykorzystania lub utraty; zasad bezpieczeństwa podczas posługiwania się bronią palną; zasad noszenia oraz przechowywania broni palnej; budowy i zasad działania broni palnej. Praktyczna część egzaminu obejmuje sprawdzenie umiejętności rozkładania, składania, ładowania i rozładowywania broni palnej oraz przestrzegania zasad bezpiecznego posługiwania się bronią palną. W przypadku przyznania broni palnej innego rodzaju niż dotychczas przyznana funkcjonariusz zdaje wyłącznie egzamin z części praktycznej."
     },
     {
       "provision_ref": "par4u1",
@@ -97,7 +109,7 @@
       "provision_ref": "par4u3p1",
       "section": "4",
       "title": "§ 4 ust. 3 pkt 1",
-      "content": "Zakres przedmiotowy teoretycznej części egzaminu obejmuje sprawdzenie znajomości: przepisów ustawy z dnia 6 czerwca 1997 r. - Kodeks karny ) dotyczących przestępstw odnoszących się do uzbrojenia;"
+      "content": "Zakres przedmiotowy teoretycznej części egzaminu obejmuje sprawdzenie znajomości: przepisów ustawy z dnia 6 czerwca 1997 r. - Kodeks karny dotyczących przestępstw odnoszących się do uzbrojenia;"
     },
     {
       "provision_ref": "par4u3p2",
@@ -139,13 +151,13 @@
       "provision_ref": "par5",
       "section": "5",
       "title": "§ 5",
-      "content": "Dostęp do uzbrojenia przechowywanego w magazynach uzbrojenia, magazynach broni palnej, pomieszczeniach służbowych oraz w miejscu zamieszkania posiadają wyłącznie upoważnieni funkcjonariusze. Przechowywanie broni palnej oraz amunicji w pomieszczeniu służbowym lub miejscu zamieszkania jest dopuszczalne na podstawie odrębnego zezwolenia, wydanego przez organ właściwy do przyznawania uzbrojenia, o którym mowa w § 3 ust. 3, po uprzednim komisyjnym sprawdzeniu spełniania warunków do ich przechowywania. Funkcjonariusz oddaje uzbrojenie do depozytu w przypadku nieobecności w miejscu, o którym mowa w ust. 2, trwającej dłużej niż 30 dni."
+      "content": "Dostęp do uzbrojenia przechowywanego w magazynach uzbrojenia, magazynach broni palnej, pomieszczeniach służbowych, depozycie oraz w miejscu zamieszkania posiadają wyłącznie upoważnieni funkcjonariusze. Przechowywanie broni palnej oraz amunicji w pomieszczeniu służbowym lub miejscu zamieszkania jest dopuszczalne na podstawie odrębnego zezwolenia, wydanego przez organ właściwy do przyznawania uzbrojenia, o którym mowa w § 3 ust. 3, po uprzednim komisyjnym sprawdzeniu spełniania warunków do ich przechowywania. Funkcjonariusz oddaje uzbrojenie do depozytu w przypadku nieobecności w miejscu, o którym mowa w ust. 2, trwającej dłużej niż 30 dni."
     },
     {
       "provision_ref": "par5u1",
       "section": "5",
       "title": "§ 5 ust. 1",
-      "content": "Dostęp do uzbrojenia przechowywanego w magazynach uzbrojenia, magazynach broni palnej, pomieszczeniach służbowych oraz w miejscu zamieszkania posiadają wyłącznie upoważnieni funkcjonariusze."
+      "content": "Dostęp do uzbrojenia przechowywanego w magazynach uzbrojenia, magazynach broni palnej, pomieszczeniach służbowych, depozycie oraz w miejscu zamieszkania posiadają wyłącznie upoważnieni funkcjonariusze."
     },
     {
       "provision_ref": "par5u2",
@@ -247,21 +259,33 @@
       "provision_ref": "par11",
       "section": "11",
       "title": "§ 11",
-      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia 5) Rozporządzenie zostało ogłoszone w dniu 25 sierpnia 2017 r. ."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2017-861",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2017-1321",
+      "target_document_id": "pl-du-2020-69",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2016-1137",
+      "target_document_id": "pl-du-2019-1529",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-1726",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-1950",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-2128",
       "ref_type": "references"
     },
     {

@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2022/264",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -229,7 +235,7 @@
       "provision_ref": "par6",
       "section": "6",
       "title": "§ 6",
-      "content": "Należną w danym roku dla danej jednostki produkcyjnej wysokość dopłaty ustala się z uwzględnieniem przychodów ze sprzedaży węgla skorygowanych do poziomu ceny referencyjnej. Ceną referencyjną jest średnioważona miesięczna jednostkowa cena węgla energetycznego importowanego z państw trzecich obejmujących terytoria inne niż terytorium Unii Europejskiej. Cena ta uwzględnia wartość opałową importowanego węgla i jest wyrażona w zł/GJ. Cena referencyjna jest ustalana w cyklach miesięcznych przez Agencję Rozwoju Przemysłu S.A., w ramach programu badań statystycznych statystyki publicznej na dany rok, na podstawie sprawozdań dotyczących importu i przywozu węgla kamiennego do Polski. W przypadku gdy wysokość przychodów ze sprzedaży węgla zrealizowanych przez jednostkę produkcyjną jest niższa od tych przychodów skorygowanych do poziomu ceny referencyjnej, do ustalenia kwoty dopłaty przyjmuje się kwotę przychodów skorygowanych do poziomu ceny referencyjnej. W przypadku gdy wysokość przychodów ze sprzedaży węgla zrealizowanych przez jednostkę produkcyjną jest wyższa od tych przychodów skorygowanych do poziomu ceny referencyjnej, do ustalenia kwoty dopłaty przyjmuje się kwotę przychodów ze sprzedaży węgla zrealizowanych przez jednostkę produkcyjną. W przypadku wystąpienia w jednostce produkcyjnej nadwyżki przychodów kwalifikowanych nad kosztami kwalifikowanymi skutkującej brakiem wnioskowania o przyznanie dopłaty wykazana nadwyżka jest uwzględniana przez przedsiębiorstwo górnicze do pomniejszenia łącznej kwoty dopłaty na pozostałe jednostki produkcyjne."
+      "content": "Należną w danym roku dla danej jednostki produkcyjnej wysokość dopłaty ustala się z uwzględnieniem przychodów ze sprzedaży węgla skorygowanych do poziomu ceny referencyjnej. Ceną referencyjną jest średnioważona jednostkowa cena węgla energetycznego importowanego z państw trzecich obejmujących terytoria inne niż terytorium Unii Europejskiej, ustalana dla każdego miesiąca i narastająco w danym roku. Cena ta uwzględnia wartość opałową importowanego węgla i jest wyrażona w zł/GJ. Cena referencyjna jest ustalana przez Agencję Rozwoju Przemysłu S.A., w ramach programu badań statystycznych statystyki publicznej na dany rok, na podstawie sprawozdań dotyczących importu i przywozu węgla kamiennego do Polski. W przypadku gdy wysokość przychodów ze sprzedaży węgla zrealizowanych przez jednostkę produkcyjną jest niższa od tych przychodów skorygowanych do poziomu ceny referencyjnej, do ustalenia kwoty dopłaty przyjmuje się kwotę przychodów skorygowanych do poziomu ceny referencyjnej. W przypadku gdy wysokość przychodów ze sprzedaży węgla zrealizowanych przez jednostkę produkcyjną jest wyższa od tych przychodów skorygowanych do poziomu ceny referencyjnej, do ustalenia kwoty dopłaty przyjmuje się kwotę przychodów ze sprzedaży węgla zrealizowanych przez jednostkę produkcyjną. W przypadku wystąpienia w jednostce produkcyjnej nadwyżki przychodów kwalifikowanych nad kosztami kwalifikowanymi skutkującej brakiem wnioskowania o przyznanie dopłaty wykazana nadwyżka jest uwzględniana przez przedsiębiorstwo górnicze do pomniejszenia łącznej kwoty dopłaty na pozostałe jednostki produkcyjne."
     },
     {
       "provision_ref": "par6u1",
@@ -241,13 +247,13 @@
       "provision_ref": "par6u2",
       "section": "6",
       "title": "§ 6 ust. 2",
-      "content": "Ceną referencyjną jest średnioważona miesięczna jednostkowa cena węgla energetycznego importowanego z państw trzecich obejmujących terytoria inne niż terytorium Unii Europejskiej. Cena ta uwzględnia wartość opałową importowanego węgla i jest wyrażona w zł/GJ."
+      "content": "Ceną referencyjną jest średnioważona jednostkowa cena węgla energetycznego importowanego z państw trzecich obejmujących terytoria inne niż terytorium Unii Europejskiej, ustalana dla każdego miesiąca i narastająco w danym roku. Cena ta uwzględnia wartość opałową importowanego węgla i jest wyrażona w zł/GJ."
     },
     {
       "provision_ref": "par6u3",
       "section": "6",
       "title": "§ 6 ust. 3",
-      "content": "Cena referencyjna jest ustalana w cyklach miesięcznych przez Agencję Rozwoju Przemysłu S.A., w ramach programu badań statystycznych statystyki publicznej na dany rok, na podstawie sprawozdań dotyczących importu i przywozu węgla kamiennego do Polski."
+      "content": "Cena referencyjna jest ustalana przez Agencję Rozwoju Przemysłu S.A., w ramach programu badań statystycznych statystyki publicznej na dany rok, na podstawie sprawozdań dotyczących importu i przywozu węgla kamiennego do Polski."
     },
     {
       "provision_ref": "par6u4",
@@ -445,7 +451,7 @@
       "provision_ref": "par11",
       "section": "11",
       "title": "§ 11",
-      "content": "Przedsiębiorstwo górnicze składa ministrowi rozliczenie miesięczne z wykorzystania transzy dotacji, w podziale na jednostki produkcyjne, za dany miesiąc i narastająco, które zawiera: wysokość kosztów kwalifikowanych oraz przychodów kwalifikowanych za dany miesiąc oraz wysokość należnej dopłaty, bez korekty do poziomu ceny referencyjnej; kwotę otrzymanej transzy dotacji oraz wydatkowanych środków. Po ustaleniu ceny referencyjnej za dany miesiąc przedsiębiorstwo górnicze składa ministrowi rozliczenie miesięczne uwzględniające korektę przychodów kwalifikowanych do poziomu ceny referencyjnej, w podziale na jednostki produkcyjne, za dany miesiąc. Rozliczenie miesięczne jest składane do 25. dnia miesiąca za miesiąc poprzedni. Rozliczenie miesięczne skorygowane zgodnie z ust. 2 jest składane w terminach: do 25. dnia miesiąca następującego po miesiącu, w którym złożono rozliczenie, o którym mowa w ust. 1 - za miesiące od stycznia do października rozliczanego roku; do dnia 25 stycznia roku następującego po rozliczanym roku - za listopad; do dnia 25 lutego roku następującego po rozliczanym roku - za grudzień. Jeżeli termin złożenia wniosku miesięcznego i informacji miesięcznej przypada na dzień uznany ustawowo za wolny od pracy lub na sobotę, termin upływa pierwszego dnia roboczego po tym terminie."
+      "content": "Przedsiębiorstwo górnicze składa ministrowi rozliczenie miesięczne z wykorzystania transzy dotacji, w podziale na jednostki produkcyjne, za dany miesiąc i narastająco, które zawiera: wysokość kosztów kwalifikowanych oraz przychodów kwalifikowanych za dany miesiąc oraz wysokość należnej dopłaty, bez korekty do poziomu ceny referencyjnej; kwotę otrzymanej transzy dotacji oraz wydatkowanych środków. Po ustaleniu ceny referencyjnej za dany miesiąc przedsiębiorstwo górnicze składa ministrowi rozliczenie miesięczne uwzględniające korektę przychodów kwalifikowanych do poziomu ceny referencyjnej, w podziale na jednostki produkcyjne, za dany miesiąc. Rozliczenie miesięczne jest składane do 25. dnia miesiąca za miesiąc poprzedni. Rozliczenie miesięczne skorygowane zgodnie z ust. 2 jest składane w terminach: do 25. dnia miesiąca następującego po miesiącu, w którym złożono rozliczenie, o którym mowa w ust. 1 - za miesiące od stycznia do października rozliczanego roku; do dnia 25 stycznia roku następującego po rozliczanym roku - za listopad; do dnia 25 lutego roku następującego po rozliczanym roku - za grudzień. Jeżeli termin złożenia rozliczenia miesięcznego przypada na dzień uznany ustawowo za wolny od pracy lub na sobotę, termin upływa pierwszego dnia roboczego po tym terminie."
     },
     {
       "provision_ref": "par11u1p1",
@@ -493,13 +499,13 @@
       "provision_ref": "par11u5",
       "section": "11",
       "title": "§ 11 ust. 5",
-      "content": "Jeżeli termin złożenia wniosku miesięcznego i informacji miesięcznej przypada na dzień uznany ustawowo za wolny od pracy lub na sobotę, termin upływa pierwszego dnia roboczego po tym terminie."
+      "content": "Jeżeli termin złożenia rozliczenia miesięcznego przypada na dzień uznany ustawowo za wolny od pracy lub na sobotę, termin upływa pierwszego dnia roboczego po tym terminie."
     },
     {
       "provision_ref": "par12",
       "section": "12",
       "title": "§ 12",
-      "content": "Przedsiębiorstwo górnicze składa ministrowi informację roczną oraz rozliczenie roczne. Informacja roczna zawiera kwotę przekazanych i wydatkowanych środków dotacji, stan środków dotacji na koniec roku budżetowego oraz kwoty zwrotów dotacji. Rozliczenie roczne zawiera wysokość kosztów kwalifikowanych oraz przychodów kwalifikowanych, wysokość należnej dopłaty z uwzględnieniem kwoty przekazanej i wykorzystanej dotacji oraz skarbowych papierów wartościowych, w podziale na jednostki produkcyjne. W terminie do dnia 5 lutego roku następującego po rozliczanym roku przedsiębiorstwo górnicze składa informację roczną. W terminie do dnia 25 lutego roku następującego po rozliczanym roku przedsiębiorstwo górnicze składa rozliczenie roczne. Jeżeli termin złożenia informacji rocznej i rozliczenia rocznego przypada na dzień uznany ustawowo za wolny od pracy lub na sobotę, termin upływa pierwszego dnia roboczego po tym terminie."
+      "content": "Przedsiębiorstwo górnicze składa ministrowi informację roczną oraz rozliczenie roczne. Informacja roczna zawiera kwotę przekazanych i wydatkowanych środków dotacji, stan środków dotacji na koniec roku budżetowego oraz kwoty zwrotów dotacji. Rozliczenie roczne zawiera wysokość kosztów kwalifikowanych oraz przychodów kwalifikowanych uwzględniających korektę do poziomu ceny referencyjnej, wysokość należnej dopłaty z uwzględnieniem kwoty przekazanej i wykorzystanej dotacji oraz skarbowych papierów wartościowych, w podziale na jednostki produkcyjne. W terminie do dnia 5 lutego roku następującego po rozliczanym roku przedsiębiorstwo górnicze składa informację roczną. W terminie do dnia 25 lutego roku następującego po rozliczanym roku przedsiębiorstwo górnicze składa rozliczenie roczne. Jeżeli termin złożenia informacji rocznej i rozliczenia rocznego przypada na dzień uznany ustawowo za wolny od pracy lub na sobotę, termin upływa pierwszego dnia roboczego po tym terminie."
     },
     {
       "provision_ref": "par12u1",
@@ -517,7 +523,7 @@
       "provision_ref": "par12u3",
       "section": "12",
       "title": "§ 12 ust. 3",
-      "content": "Rozliczenie roczne zawiera wysokość kosztów kwalifikowanych oraz przychodów kwalifikowanych, wysokość należnej dopłaty z uwzględnieniem kwoty przekazanej i wykorzystanej dotacji oraz skarbowych papierów wartościowych, w podziale na jednostki produkcyjne."
+      "content": "Rozliczenie roczne zawiera wysokość kosztów kwalifikowanych oraz przychodów kwalifikowanych uwzględniających korektę do poziomu ceny referencyjnej, wysokość należnej dopłaty z uwzględnieniem kwoty przekazanej i wykorzystanej dotacji oraz skarbowych papierów wartościowych, w podziale na jednostki produkcyjne."
     },
     {
       "provision_ref": "par12u4",
@@ -536,6 +542,30 @@
       "section": "12",
       "title": "§ 12 ust. 6",
       "content": "Jeżeli termin złożenia informacji rocznej i rozliczenia rocznego przypada na dzień uznany ustawowo za wolny od pracy lub na sobotę, termin upływa pierwszego dnia roboczego po tym terminie."
+    },
+    {
+      "provision_ref": "par12a",
+      "section": "12a",
+      "title": "§ 12a",
+      "content": "W przypadku gdy rozliczenie roczne wykaże nadmiernie udzieloną pomoc publiczną w formie dotacji, przedsiębiorstwo górnicze zwraca nadwyżkę wraz z odsetkami. W przypadku gdy rozliczenie roczne wykaże nadmiernie udzieloną pomoc publiczną w formie podwyższenia kapitału zakładowego przedsiębiorstwa górniczego skarbowymi papierami wartościowymi, przedsiębiorstwo górnicze nie zwraca nadwyżki do budżetu państwa. Kwota nadwyżki pomniejsza wysokość dopłaty w następnym roku budżetowym. Do zwrotu nadmiernie udzielonej pomocy publicznej w formie dotacji stosuje się przepisy art. 169 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych ) ."
+    },
+    {
+      "provision_ref": "par12au1",
+      "section": "12a",
+      "title": "§ 12a ust. 1",
+      "content": "W przypadku gdy rozliczenie roczne wykaże nadmiernie udzieloną pomoc publiczną w formie dotacji, przedsiębiorstwo górnicze zwraca nadwyżkę wraz z odsetkami."
+    },
+    {
+      "provision_ref": "par12au2",
+      "section": "12a",
+      "title": "§ 12a ust. 2",
+      "content": "W przypadku gdy rozliczenie roczne wykaże nadmiernie udzieloną pomoc publiczną w formie podwyższenia kapitału zakładowego przedsiębiorstwa górniczego skarbowymi papierami wartościowymi, przedsiębiorstwo górnicze nie zwraca nadwyżki do budżetu państwa. Kwota nadwyżki pomniejsza wysokość dopłaty w następnym roku budżetowym."
+    },
+    {
+      "provision_ref": "par12au3",
+      "section": "12a",
+      "title": "§ 12a ust. 3",
+      "content": "Do zwrotu nadmiernie udzielonej pomocy publicznej w formie dotacji stosuje się przepisy art. 169 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych ) ."
     },
     {
       "provision_ref": "par13",
@@ -565,7 +595,7 @@
       "provision_ref": "par15",
       "section": "15",
       "title": "§ 15",
-      "content": "W przypadku dopłaty w formie podwyższenia kapitału zakładowego przedsiębiorstwa górniczego skarbowymi papierami wartościowymi podstawą udzielenia pomocy publicznej jest umowa o podwyższeniu kapitału zakładowego zawarta między ministrem a przedsiębiorstwem górniczym. Umowa o podwyższeniu kapitału zakładowego określa w szczególności: szczegółowe przeznaczenie przyznanych skarbowych papierów wartościowych; wartość przekazanych skarbowych papierów wartościowych; termin i sposób rozliczenia skarbowych papierów wartościowych; monitoring i tryb kontroli wykorzystania skarbowych papierów wartościowych."
+      "content": "W przypadku dopłaty w formie podwyższenia kapitału zakładowego przedsiębiorstwa górniczego skarbowymi papierami wartościowymi podstawą udzielenia pomocy publicznej jest umowa o podwyższeniu kapitału zakładowego zawarta między ministrem a przedsiębiorstwem górniczym. Umowa o podwyższeniu kapitału zakładowego określa w szczególności: szczegółowe przeznaczenie przyznanych skarbowych papierów wartościowych; wartość przekazanych skarbowych papierów wartościowych; termin i sposób rozliczenia skarbowych papierów wartościowych; monitoring i tryb kontroli wykorzystania skarbowych papierów wartościowych. Do rozliczeń z wydatkowania dopłaty w formie podwyższenia kapitału zakładowego przedsiębiorstwa górniczego skarbowymi papierami wartościowymi przepisy § 11 i § 12 stosuje się odpowiednio."
     },
     {
       "provision_ref": "par15u1",
@@ -596,6 +626,12 @@
       "section": "15",
       "title": "§ 15 ust. 2 pkt 4",
       "content": "Umowa o podwyższeniu kapitału zakładowego określa w szczególności: monitoring i tryb kontroli wykorzystania skarbowych papierów wartościowych."
+    },
+    {
+      "provision_ref": "par15u3",
+      "section": "15",
+      "title": "§ 15 ust. 3",
+      "content": "Do rozliczeń z wydatkowania dopłaty w formie podwyższenia kapitału zakładowego przedsiębiorstwa górniczego skarbowymi papierami wartościowymi przepisy § 11 i § 12 stosuje się odpowiednio."
     },
     {
       "provision_ref": "par16",
@@ -676,36 +712,60 @@
       "content": "Koszty kwalifikowane, o których mowa w § 3 ust. 3, obejmują zobowiązania powstałe przed dniem 3 lutego 2022 r."
     },
     {
+      "provision_ref": "par18a",
+      "section": "18a",
+      "title": "§ 18a",
+      "content": "Ceną referencyjną w 2022 r. jest faktycznie zrealizowana cena sprzedaży węgla przez jednostkę produkcyjną."
+    },
+    {
+      "provision_ref": "par18b",
+      "section": "18b",
+      "title": "§ 18b",
+      "content": "Kwota dopłaty dla przedsiębiorstwa górniczego w 2022 r. nie może przekroczyć całkowitego poziomu dopłat dla przedsiębiorstwa górniczego, jaki został wskazany za 2022 r. we wniosku notyfikacyjnym złożonym Komisji Europejskiej zgodnie z art. 26e ustawy z dnia 7 września 2007 r. o funkcjonowaniu górnictwa węgla kamiennego ."
+    },
+    {
+      "provision_ref": "par18c",
+      "section": "18c",
+      "title": "§ 18c",
+      "content": "Do rozliczeń miesięcznych za poszczególne miesiące przypadające w 2022 r. nie stosuje się § 11 ust. 2."
+    },
+    {
+      "provision_ref": "par18d",
+      "section": "18d",
+      "title": "§ 18d",
+      "content": "W 2022 r. nie przeprowadza się weryfikacji nadzwyczajnej, o której mowa w § 16 ust. 3."
+    },
+    {
       "provision_ref": "par19",
       "section": "19",
       "title": "§ 19",
-      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia 9) Rozporządzenie zostało ogłoszone w dniu 3 lutego 2022 r. ."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2019-1821",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2021-2071",
+      "target_document_id": "pl-du-2022-2239",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2022-241",
+      "target_document_id": "pl-du-2022-1309",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2021-217",
+      "target_document_id": "pl-du-2023-120",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2021-2105",
+      "target_document_id": "pl-du-2023-295",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2021-2106",
+      "target_document_id": "pl-du-2022-1634",
       "ref_type": "references"
     }
   ]

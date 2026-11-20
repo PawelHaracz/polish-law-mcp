@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2012/378",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -133,19 +139,35 @@
       "provision_ref": "par6",
       "section": "6",
       "title": "§ 6",
-      "content": "Rejestr wydanych zaświadczeń, o których mowa w § 1 pkt 1, oraz legitymacji prowadzi komórka Ministerstwa Spraw Wewnętrznych właściwa do spraw kadr."
+      "content": "Rejestr wydanych zaświadczeń, o których mowa w § 1 pkt 1, oraz legitymacji prowadzi komórka właściwa w sprawach osobowych urzędu obsługującego ministra właściwego do spraw wewnętrznych."
     },
     {
       "provision_ref": "par7",
       "section": "7",
       "title": "§ 7",
-      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia 3) Rozporządzenie zostało ogłoszone w dniu 5 kwietnia 2012 r. ."
     }
   ],
   "definitions": [],
   "references": [
     {
+      "target_document_id": "pl-du-2017-1523",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2013-1470",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2016-581",
+      "ref_type": "references"
+    },
+    {
       "target_document_id": "pl-du-2011-1203",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2017-60",
       "ref_type": "references"
     }
   ]

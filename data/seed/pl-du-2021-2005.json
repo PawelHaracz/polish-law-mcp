@@ -10,6 +10,18 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2021/2005",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem stosuje się do egzekucji z nieruchomości wszczętej i niezakończonej przed dniem wejścia w życie niniejszego rozporządzenia, o ile w jej toku nie doszło do wyznaczenia pierwszego terminu licytacji, a jeżeli licytacja w pierwszym terminie nie doszła do skutku - w przypadku gdy nie doszło jeszcze do wyznaczenia drugiego terminu licytacji."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -31,7 +43,7 @@
       "provision_ref": "par2",
       "section": "2",
       "title": "§ 2",
-      "content": "Ilekroć w rozporządzeniu jest mowa o: systemie teleinformatycznym - rozumie się przez to system teleinformatyczny obsługujący licytację elektroniczną; użytkowniku - rozumie się przez to osobę fizyczną posiadającą konto w systemie teleinformatycznym; operatorze - rozumie się przez to Krajową Radę Komorniczą; komorniku - rozumie się przez to komornika sądowego lub asesora komorniczego działającego w zastępstwie komornika; aktach sprawy - rozumie się przez to zbiór dokumentów dotyczących licytacji elektronicznej utrwalonych wyłącznie w systemie teleinformatycznym; loginie - rozumie się przez to niepowtarzalne i przyporządkowane do użytkownika dane wykorzystywane przez niego do uwierzytelnienia w systemie teleinformatycznym; haśle - rozumie się przez to poufne dane wykorzystywane przez użytkownika do uwierzytelnienia w systemie teleinformatycznym; uwierzytelnieniu - rozumie się przez to proces elektroniczny, który umożliwia identyfikację elektroniczną użytkownika w systemie teleinformatycznym; koncie - rozumie się przez to zbiór danych określających użytkownika wraz z zasobami systemu teleinformatycznego przyporządkowanymi do tego użytkownika."
+      "content": "Ilekroć w rozporządzeniu jest mowa o: systemie teleinformatycznym - rozumie się przez to system teleinformatyczny obsługujący licytację elektroniczną; użytkowniku - rozumie się przez to osobę fizyczną posiadającą konto w systemie teleinformatycznym; operatorze - rozumie się przez to Krajową Radę Komorniczą; komorniku - rozumie się przez to komornika sądowego lub asesora komorniczego działającego w zastępstwie komornika; aktach sprawy - rozumie się przez to zbiór dokumentów dotyczących licytacji elektronicznej utrwalonych wyłącznie w systemie teleinformatycznym; loginie - rozumie się przez to niepowtarzalne i przyporządkowane do użytkownika dane wykorzystywane przez niego do uwierzytelnienia w systemie teleinformatycznym; haśle - rozumie się przez to poufne dane wykorzystywane przez użytkownika do uwierzytelnienia w systemie teleinformatycznym; uwierzytelnieniu - rozumie się przez to proces elektroniczny, który umożliwia identyfikację elektroniczną użytkownika w systemie teleinformatycznym, przy czym proces ten może nastąpić także przy wykorzystaniu węzła krajowego, o którym mowa w art. 21a ust. 2 ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej ; koncie - rozumie się przez to zbiór danych określających użytkownika wraz z zasobami systemu teleinformatycznego przyporządkowanymi do tego użytkownika."
     },
     {
       "provision_ref": "par2p1",
@@ -76,10 +88,10 @@
       "content": "Ilekroć w rozporządzeniu jest mowa o: haśle - rozumie się przez to poufne dane wykorzystywane przez użytkownika do uwierzytelnienia w systemie teleinformatycznym;"
     },
     {
-      "provision_ref": "par2p8",
+      "provision_ref": "par2p2",
       "section": "2",
-      "title": "§ 2 pkt 8",
-      "content": "Ilekroć w rozporządzeniu jest mowa o: uwierzytelnieniu - rozumie się przez to proces elektroniczny, który umożliwia identyfikację elektroniczną użytkownika w systemie teleinformatycznym;"
+      "title": "§ 2 pkt 2",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: uwierzytelnieniu - rozumie się przez to proces elektroniczny, który umożliwia identyfikację elektroniczną użytkownika w systemie teleinformatycznym, przy czym proces ten może nastąpić także przy wykorzystaniu węzła krajowego, o którym mowa w art. 21a ust. 2 ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej ;"
     },
     {
       "provision_ref": "par2p9",
@@ -115,7 +127,7 @@
       "provision_ref": "par4",
       "section": "4",
       "title": "§ 4",
-      "content": "Konto zakłada się w systemie teleinformatycznym po złożeniu wniosku o założenie konta użytkownika. Wniosek ten zawiera: imiona i nazwisko wnioskodawcy, numer PESEL, o ile został mu nadany, a w przypadku osoby nieposiadającej numeru PESEL - serię, numer i nazwę dokumentu potwierdzającego tożsamość oraz nazwę państwa, w którym wydano ten dokument; adres poczty elektronicznej oraz adres do korespondencji; wskazanie hasła umożliwiającego uwierzytelnienie; wskazanie adresu poczty elektronicznej lub numeru telefonu komórkowego, na które mają być wysyłane powiadomienia o zamieszczeniu pisma, o ile wnioskodawca chce otrzymywać takie powiadomienia; oświadczenie wnioskodawcy, że dane, o których mowa w pkt 1 i 2, są prawdziwe oraz że zapoznał się z pouczeniem co do sposobu i skutków doręczeń dokonywanych zgodnie z art. 131 1 ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego , zwanej dalej „Kodeksem postępowania cywilnegoˮ. Wniosek o założenie konta użytkownika składa się za pośrednictwem systemu teleinformatycznego. Osoba nieposiadająca numeru PESEL składa wniosek za pośrednictwem wybranego komornika sądowego. Warunki dotyczące hasła, o którym mowa w ust. 1 pkt 3, w szczególności liczba, rodzaj i wielkość znaków, są udostępniane przed złożeniem wniosku o założenie konta użytkownika za pośrednictwem systemu teleinformatycznego. Imiona, nazwisko oraz numer PESEL podlegają weryfikacji w rejestrze PESEL. W razie niezgodności przekazanych danych z danymi zawartymi w rejestrze PESEL zawiadamia się osobę składającą wniosek o odmowie założenia konta. W zawiadomieniu podaje się przyczynę tej odmowy i poucza o możliwości złożenia ponownego wniosku za pośrednictwem wybranego komornika sądowego. W przypadkach, o których mowa w ust. 3 i 6, komornik zakłada osobie składającej wniosek konto w systemie teleinformatycznym po przeprowadzeniu weryfikacji jej tożsamości. Osobę składającą wniosek zawiadamia się o założeniu konta w systemie teleinformatycznym; w zawiadomieniu podaje się login. Zawiadomienia, o których mowa w ust. 6 i 8, doręcza się wnioskodawcy na podany we wniosku adres poczty elektronicznej lub numer telefonu komórkowego wnioskodawcy. Użytkownik ma obowiązek niezwłocznie aktualizować dane, o których mowa w ust. 1 pkt 1, o czym należy pouczyć użytkownika w zawiadomieniu o założeniu konta. Użytkownik jest uprawniony do zmiany hasła za pośrednictwem systemu teleinformatycznego."
+      "content": "Konto zakłada się w systemie teleinformatycznym po złożeniu wniosku o założenie konta użytkownika. Wniosek ten zawiera: imiona i nazwisko wnioskodawcy, numer PESEL, o ile został mu nadany, a w przypadku osoby nieposiadającej numeru PESEL - serię, numer i nazwę dokumentu potwierdzającego tożsamość oraz nazwę państwa, w którym wydano ten dokument; adres poczty elektronicznej oraz adres do korespondencji; wskazanie hasła umożliwiającego uwierzytelnienie; wskazanie adresu poczty elektronicznej lub numeru telefonu komórkowego, na które mają być wysyłane powiadomienia o zamieszczeniu pisma, o ile wnioskodawca chce otrzymywać takie powiadomienia; oświadczenie wnioskodawcy, że dane, o których mowa w pkt 1 i 2, są prawdziwe oraz że zapoznał się z pouczeniem co do sposobu i skutków doręczeń dokonywanych zgodnie z § 9a. Wniosek o założenie konta użytkownika składa się za pośrednictwem systemu teleinformatycznego. Osoba nieposiadająca numeru PESEL składa wniosek za pośrednictwem wybranego komornika sądowego. Warunki dotyczące hasła, o którym mowa w ust. 1 pkt 3, w szczególności liczba, rodzaj i wielkość znaków, są udostępniane przed złożeniem wniosku o założenie konta użytkownika za pośrednictwem systemu teleinformatycznego. Imiona, nazwisko oraz numer PESEL podlegają automatycznej weryfikacji w rejestrze PESEL. W razie niezgodności przekazanych danych z danymi zawartymi w rejestrze PESEL zawiadamia się osobę składającą wniosek o odmowie założenia konta. W zawiadomieniu podaje się przyczynę tej odmowy i poucza o możliwości złożenia ponownego wniosku za pośrednictwem wybranego komornika sądowego. W przypadkach, o których mowa w ust. 3 i 6, komornik zakłada osobie składającej wniosek konto w systemie teleinformatycznym po przeprowadzeniu weryfikacji jej tożsamości. Osobę składającą wniosek zawiadamia się o założeniu konta w systemie teleinformatycznym; w zawiadomieniu podaje się login. Zawiadomienia, o których mowa w ust. 6 i 8, doręcza się wnioskodawcy na podany we wniosku adres poczty elektronicznej lub numer telefonu komórkowego wnioskodawcy. Użytkownik ma obowiązek niezwłocznie aktualizować dane, o których mowa w ust. 1 pkt 1, o czym należy pouczyć użytkownika w zawiadomieniu o założeniu konta. Użytkownik jest uprawniony do zmiany hasła za pośrednictwem systemu teleinformatycznego."
     },
     {
       "provision_ref": "par4u1p1",
@@ -142,10 +154,10 @@
       "content": "Konto zakłada się w systemie teleinformatycznym po złożeniu wniosku o założenie konta użytkownika. Wniosek ten zawiera: wskazanie adresu poczty elektronicznej lub numeru telefonu komórkowego, na które mają być wysyłane powiadomienia o zamieszczeniu pisma, o ile wnioskodawca chce otrzymywać takie powiadomienia;"
     },
     {
-      "provision_ref": "par4u1p5",
+      "provision_ref": "par4u1p3",
       "section": "4",
-      "title": "§ 4 ust. 1 pkt 5",
-      "content": "Konto zakłada się w systemie teleinformatycznym po złożeniu wniosku o założenie konta użytkownika. Wniosek ten zawiera: oświadczenie wnioskodawcy, że dane, o których mowa w pkt 1 i 2, są prawdziwe oraz że zapoznał się z pouczeniem co do sposobu i skutków doręczeń dokonywanych zgodnie z art. 131 1 ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego , zwanej dalej „Kodeksem postępowania cywilnegoˮ."
+      "title": "§ 4 ust. 1 pkt 3",
+      "content": "Konto zakłada się w systemie teleinformatycznym po złożeniu wniosku o założenie konta użytkownika. Wniosek ten zawiera: oświadczenie wnioskodawcy, że dane, o których mowa w pkt 1 i 2, są prawdziwe oraz że zapoznał się z pouczeniem co do sposobu i skutków doręczeń dokonywanych zgodnie z § 9a."
     },
     {
       "provision_ref": "par4u2",
@@ -169,7 +181,7 @@
       "provision_ref": "par4u5",
       "section": "4",
       "title": "§ 4 ust. 5",
-      "content": "Imiona, nazwisko oraz numer PESEL podlegają weryfikacji w rejestrze PESEL."
+      "content": "Imiona, nazwisko oraz numer PESEL podlegają automatycznej weryfikacji w rejestrze PESEL."
     },
     {
       "provision_ref": "par4u6",
@@ -253,13 +265,13 @@
       "provision_ref": "par8",
       "section": "8",
       "title": "§ 8",
-      "content": "Wraz ze zgłoszeniem przystąpienia do przetargu użytkownik składa oświadczenie, że nie zachodzą wobec niego podstawy do wyłączenia od udziału w przetargu wskazane w art. 976 § 1 Kodeksu postępowania cywilnego . Użytkownik, który może nabyć nieruchomość tylko za zezwoleniem organu władzy publicznej, wraz ze zgłoszeniem przystąpienia do przetargu przedkłada za pośrednictwem systemu teleinformatycznego utrwalone w postaci elektronicznej kopie wymaganych dokumentów."
+      "content": "Wraz ze zgłoszeniem przystąpienia do przetargu użytkownik składa oświadczenie, że nie zachodzą wobec niego podstawy do wyłączenia od udziału w przetargu wskazane w art. 976 § 1 ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego . Użytkownik, który może nabyć nieruchomość tylko za zezwoleniem organu władzy publicznej, wraz ze zgłoszeniem przystąpienia do przetargu przedkłada za pośrednictwem systemu teleinformatycznego utrwalone w postaci elektronicznej kopie wymaganych dokumentów."
     },
     {
       "provision_ref": "par8u1",
       "section": "8",
       "title": "§ 8 ust. 1",
-      "content": "Wraz ze zgłoszeniem przystąpienia do przetargu użytkownik składa oświadczenie, że nie zachodzą wobec niego podstawy do wyłączenia od udziału w przetargu wskazane w art. 976 § 1 Kodeksu postępowania cywilnego ."
+      "content": "Wraz ze zgłoszeniem przystąpienia do przetargu użytkownik składa oświadczenie, że nie zachodzą wobec niego podstawy do wyłączenia od udziału w przetargu wskazane w art. 976 § 1 ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego ."
     },
     {
       "provision_ref": "par8u2",
@@ -284,6 +296,12 @@
       "section": "9",
       "title": "§ 9 ust. 2",
       "content": "Oświadczenie, o którym mowa w ust. 1, składa się za pośrednictwem systemu teleinformatycznego. Do oświadczenia załącza się w systemie teleinformatycznym utrwalone w postaci elektronicznej kopie dokumentów potwierdzających uprawnienie do występowania w imieniu osoby trzeciej."
+    },
+    {
+      "provision_ref": "par9a",
+      "section": "9a",
+      "title": "§ 9a",
+      "content": "Wezwanie do uzupełnienia danych, złożenia rękojmi lub przedłożenia dokumentów oraz zawiadomienie o odmowie dopuszczenia do przetargu uważa się za doręczone z dniem zamieszczenia ich w systemie teleinformatycznym. Powiadomienie o zamieszczeniu wezwania lub zawiadomienia doręcza się wnioskodawcy na podany przez niego adres poczty elektronicznej lub numer telefonu komórkowego, o których mowa w § 4 ust. 1 pkt 4."
     },
     {
       "provision_ref": "par10",
@@ -325,13 +343,13 @@
       "provision_ref": "par11",
       "section": "11",
       "title": "§ 11",
-      "content": "Zakończenie przetargu następuje automatycznie w chwili wskazanej w obwieszczeniu o licytacji. Z chwilą zakończenia przetargu następuje automatyczne ustalenie licytanta, który zaoferował najwyższą cenę."
+      "content": "Zakończenie licytacji elektronicznej następuje automatycznie w chwili wskazanej w obwieszczeniu o licytacji, a jeżeli doszło do jej automatycznego odroczenia, z momentem wskazanym w art. 986 7 § 3 1 ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego . Z chwilą zakończenia przetargu następuje automatyczne ustalenie licytanta, który zaoferował najwyższą cenę."
     },
     {
       "provision_ref": "par11u1",
       "section": "11",
       "title": "§ 11 ust. 1",
-      "content": "Zakończenie przetargu następuje automatycznie w chwili wskazanej w obwieszczeniu o licytacji."
+      "content": "Zakończenie licytacji elektronicznej następuje automatycznie w chwili wskazanej w obwieszczeniu o licytacji, a jeżeli doszło do jej automatycznego odroczenia, z momentem wskazanym w art. 986 7 § 3 1 ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego ."
     },
     {
       "provision_ref": "par11u2",
@@ -343,17 +361,25 @@
       "provision_ref": "par12",
       "section": "12",
       "title": "§ 12",
-      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia 8) Rozporządzenie zostało ogłoszone w dniu 5 listopada 2021 r. ."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2021-1805",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2021-1981",
+      "target_document_id": "pl-du-2023-1492",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1550",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2024-422",
       "ref_type": "references"
     }
   ]

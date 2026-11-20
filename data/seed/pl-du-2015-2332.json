@@ -10,6 +10,18 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2015/2332",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Do próbki pobranej do badań przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -73,7 +85,7 @@
       "provision_ref": "par3",
       "section": "3",
       "title": "§ 3",
-      "content": "Z pobrania próbki sporządza się protokół pobrania próbki. Protokół pobrania próbki sporządza się w trzech egzemplarzach, z których jeden przekazuje się za pokwitowaniem podmiotowi, u którego pobrano próbkę lub osobie upoważnionej do jego reprezentowania, drugi pozostawia się w aktach sprawy, a trzeci przekazuje się laboratorium. Za zgodą podmiotu, u którego pobierana jest próbka, protokół pobrania próbki może być sporządzony w postaci elektronicznej. Protokół pobrania próbki stanowi potwierdzenie pobrania próbki. Wzór protokołu pobrania próbki określa załącznik nr 1 do rozporządzenia."
+      "content": "Z pobrania próbki sporządza się protokół pobrania próbki. Protokół pobrania próbki sporządza się w trzech egzemplarzach. Jeden przekazuje się za pokwitowaniem podmiotowi, u którego pobrano próbkę, lub osobie upoważnionej do jego reprezentowania, drugi pozostawia się w aktach sprawy, trzeci przekazuje się laboratorium wraz z dostarczaną próbką wyrobu budowlanego. W przypadku pobrania próbki kontrolnej sporządza się czwarty egzemplarz protokołu i przekazuje się laboratorium wraz z dostarczaną do badań próbką kontrolną wyrobu budowlanego. Protokół pobrania próbki może być sporządzony w postaci elektronicznej, za zgodą podmiotu, u którego pobierana jest próbka. Wzór protokołu pobrania próbki określa załącznik nr 1 do rozporządzenia."
     },
     {
       "provision_ref": "par3u1",
@@ -85,18 +97,24 @@
       "provision_ref": "par3u2",
       "section": "3",
       "title": "§ 3 ust. 2",
-      "content": "Protokół pobrania próbki sporządza się w trzech egzemplarzach, z których jeden przekazuje się za pokwitowaniem podmiotowi, u którego pobrano próbkę lub osobie upoważnionej do jego reprezentowania, drugi pozostawia się w aktach sprawy, a trzeci przekazuje się laboratorium. Za zgodą podmiotu, u którego pobierana jest próbka, protokół pobrania próbki może być sporządzony w postaci elektronicznej."
+      "content": "Protokół pobrania próbki sporządza się w trzech egzemplarzach. Jeden przekazuje się za pokwitowaniem podmiotowi, u którego pobrano próbkę, lub osobie upoważnionej do jego reprezentowania, drugi pozostawia się w aktach sprawy, trzeci przekazuje się laboratorium wraz z dostarczaną próbką wyrobu budowlanego."
     },
     {
       "provision_ref": "par3u3",
       "section": "3",
       "title": "§ 3 ust. 3",
-      "content": "Protokół pobrania próbki stanowi potwierdzenie pobrania próbki."
+      "content": "W przypadku pobrania próbki kontrolnej sporządza się czwarty egzemplarz protokołu i przekazuje się laboratorium wraz z dostarczaną do badań próbką kontrolną wyrobu budowlanego."
     },
     {
       "provision_ref": "par3u4",
       "section": "3",
       "title": "§ 3 ust. 4",
+      "content": "Protokół pobrania próbki może być sporządzony w postaci elektronicznej, za zgodą podmiotu, u którego pobierana jest próbka."
+    },
+    {
+      "provision_ref": "par3u5",
+      "section": "3",
+      "title": "§ 3 ust. 5",
       "content": "Wzór protokołu pobrania próbki określa załącznik nr 1 do rozporządzenia."
     },
     {
@@ -235,17 +253,25 @@
       "provision_ref": "par11",
       "section": "11",
       "title": "§ 11",
-      "content": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury i Rozwoju z dnia 25 stycznia 2011 r. w sprawie próbek wyrobów budowlanych wprowadzonych do obrotu (Dz. U. Nr 23, poz. 122), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 8 ust. 1 ustawy z dnia 25 czerwca 2015 r. o zmianie ustawy o wyrobach budowlanych, ustawy - Prawo budowlane oraz ustawy o zmianie ustawy o wyrobach budowlanych oraz ustawy o systemie oceny zgodności (Dz. U. poz. 1165)."
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury i Rozwoju z dnia 25 stycznia 2011 r. w sprawie próbek wyrobów budowlanych wprowadzonych do obrotu (Dz. U. poz. 122), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 8 ust. 1 ustawy z dnia 25 czerwca 2015 r. o zmianie ustawy o wyrobach budowlanych, ustawy - Prawo budowlane oraz ustawy o zmianie ustawy o wyrobach budowlanych oraz ustawy o systemie oceny zgodności (Dz. U. poz. 1165)."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2014-883",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2015-1165",
+      "target_document_id": "pl-du-2019-1337",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-215",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-471",
       "ref_type": "references"
     }
   ]

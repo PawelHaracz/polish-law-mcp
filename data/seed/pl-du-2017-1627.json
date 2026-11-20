@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2017/1627",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 września 2022 r."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -283,7 +289,7 @@
       "provision_ref": "par8",
       "section": "8",
       "title": "§ 8",
-      "content": "Jeżeli z powodu zbyt małej liczby zgłoszonych dzieci lub uczniów, o której mowa w § 7 ust. 2 i 3, albo braku nauczyciela nie ma możliwości zorganizowania nauczania języka mniejszości lub języka regionalnego w sposób określony w § 3 ust. 1 lub § 4 ust. 1, organ prowadzący przedszkole lub szkołę organizuje międzyprzedszkolne lub międzyszkolne zespoły nauczania. Dyrektor przedszkola lub szkoły przekazuje organowi prowadzącemu, w terminie do dnia 30 września danego roku szkolnego, listę dzieci lub uczniów zgłoszonych na naukę języka mniejszości lub języka regionalnego. W międzyprzedszkolnym zespole nauczania nauka języka mniejszości lub języka regionalnego jest prowadzona w formie dodatkowej nauki języka mniejszości lub języka regionalnego, o której mowa w § 3 ust. 1 pkt 1, w wymiarze określonym w § 3 ust. 2. W międzyszkolnym zespole nauczania nauka języka mniejszości lub języka regionalnego jest prowadzona w formie dodatkowej nauki języka mniejszości lub języka regionalnego, o której mowa w § 4 ust. 1 pkt 1, dla uczniów szkół tego samego typu w wymiarze 3 godzin tygodniowo. W międzyszkolnym zespole nauczania nauka własnej historii i kultury jest prowadzona w wymiarze zgodnym z wymiarem określonym dla uczniów poszczególnych klas w załączniku nr 3 do rozporządzenia. Liczba uczniów w międzyprzedszkolnym lub międzyszkolnym zespole nauczania nie może być mniejsza niż 3 i większa niż 16 uczniów."
+      "content": "Jeżeli z powodu zbyt małej liczby zgłoszonych dzieci lub uczniów, o której mowa w § 7 ust. 2 i 3, albo braku nauczyciela nie ma możliwości zorganizowania nauczania języka mniejszości lub języka regionalnego w sposób określony w § 3 ust. 1 lub § 4 ust. 1, organ prowadzący przedszkole lub szkołę organizuje międzyprzedszkolne lub międzyszkolne zespoły nauczania. Dyrektor przedszkola lub szkoły przekazuje organowi prowadzącemu, w terminie do dnia 30 września danego roku szkolnego, listę dzieci lub uczniów zgłoszonych na naukę języka mniejszości lub języka regionalnego. W międzyprzedszkolnym zespole nauczania nauka języka mniejszości lub języka regionalnego jest prowadzona w formie dodatkowej nauki języka mniejszości lub języka regionalnego, o której mowa w § 3 ust. 1 pkt 1, w wymiarze określonym w § 3 ust. 2. W międzyszkolnym zespole nauczania nauka języka mniejszości lub języka regionalnego jest prowadzona w formie dodatkowej nauki języka mniejszości lub języka regionalnego, o której mowa w § 4 ust. 1 pkt 1, dla uczniów szkół tego samego typu w wymiarze 3 godzin tygodniowo, a w przypadku uczniów należących do mniejszości niemieckiej - w wymiarze 1 godziny tygodniowo. W międzyszkolnym zespole nauczania nauka własnej historii i kultury jest prowadzona w wymiarze zgodnym z wymiarem określonym dla uczniów poszczególnych klas w załączniku nr 3 do rozporządzenia. Liczba uczniów w międzyprzedszkolnym lub międzyszkolnym zespole nauczania nie może być mniejsza niż 3 i większa niż 16 uczniów."
     },
     {
       "provision_ref": "par8u1",
@@ -301,7 +307,7 @@
       "provision_ref": "par8u3",
       "section": "8",
       "title": "§ 8 ust. 3",
-      "content": "W międzyszkolnym zespole nauczania nauka języka mniejszości lub języka regionalnego jest prowadzona w formie dodatkowej nauki języka mniejszości lub języka regionalnego, o której mowa w § 4 ust. 1 pkt 1, dla uczniów szkół tego samego typu w wymiarze 3 godzin tygodniowo."
+      "content": "W międzyszkolnym zespole nauczania nauka języka mniejszości lub języka regionalnego jest prowadzona w formie dodatkowej nauki języka mniejszości lub języka regionalnego, o której mowa w § 4 ust. 1 pkt 1, dla uczniów szkół tego samego typu w wymiarze 3 godzin tygodniowo, a w przypadku uczniów należących do mniejszości niemieckiej - w wymiarze 1 godziny tygodniowo."
     },
     {
       "provision_ref": "par8u4",
@@ -397,7 +403,23 @@
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2016-1943",
+      "target_document_id": "pl-du-2019-1461",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-276",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2230",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1234",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-2005",
       "ref_type": "references"
     },
     {
@@ -405,11 +427,15 @@
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2017-59",
+      "target_document_id": "pl-du-2023-900",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2017-949",
+      "target_document_id": "pl-du-2023-1672",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1718",
       "ref_type": "references"
     },
     {

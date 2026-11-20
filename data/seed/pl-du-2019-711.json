@@ -10,6 +10,18 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/711",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Do dnia 30 czerwca 2023 r. skierowania na leczenie uzdrowiskowe albo rehabilitację uzdrowiskową, o których mowa w art. 33 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych , mogą być wystawiane na dotychczasowych zasadach."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -19,13 +31,13 @@
       "provision_ref": "par2",
       "section": "2",
       "title": "§ 2",
-      "content": "Skierowania, o których mowa w § 1, są wystawiane na: ambulatoryjne świadczenia specjalistyczne finansowane ze środków publicznych, o których mowa w art. 57 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych ; badania: echokardiograficzne płodu finansowane ze środków publicznych, endoskopowe przewodu pokarmowego finansowane ze środków publicznych, medycyny nuklearnej finansowane ze środków publicznych oraz ze środków innych niż środki publiczne, rezonansu magnetycznego finansowane ze środków publicznych, tomografii komputerowej finansowane ze środków publicznych oraz ze środków innych niż środki publiczne; leczenie szpitalne w szpitalu, który zawarł umowę o udzielanie świadczeń opieki zdrowotnej, o którym mowa w art. 58 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych ."
+      "content": "Skierowania, o których mowa w § 1, są wystawiane na: ambulatoryjne świadczenia specjalistyczne finansowane ze środków publicznych, o których mowa w art. 57 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych , z wyłączeniem porady specjalistycznej - logopedia, o której mowa w przepisach wydanych na podstawie art. 31d tej ustawy; badania: echokardiograficzne płodu finansowane ze środków publicznych, endoskopowe przewodu pokarmowego finansowane ze środków publicznych, medycyny nuklearnej finansowane ze środków publicznych oraz ze środków innych niż środki publiczne, rezonansu magnetycznego finansowane ze środków publicznych, tomografii komputerowej finansowane ze środków publicznych oraz ze środków innych niż środki publiczne; leczenie szpitalne w szpitalu, który zawarł umowę o udzielanie świadczeń opieki zdrowotnej, o którym mowa w art. 58 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych ; rehabilitację leczniczą u świadczeniodawcy, który zawarł umowę o udzielanie świadczeń opieki zdrowotnej, o której mowa w art. 59 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych ; leczenie uzdrowiskowe albo rehabilitację uzdrowiskową, o których mowa w art. 33 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych , z wyłączeniem przypadku, gdy świadczenie ma być zrealizowane przez podmioty udzielające świadczeń zdrowotnych z zakresu lecznictwa uzdrowiskowego poza granicami kraju."
     },
     {
       "provision_ref": "par2p1",
       "section": "2",
       "title": "§ 2 pkt 1",
-      "content": "Skierowania, o których mowa w § 1, są wystawiane na: ambulatoryjne świadczenia specjalistyczne finansowane ze środków publicznych, o których mowa w art. 57 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych ;"
+      "content": "Skierowania, o których mowa w § 1, są wystawiane na: ambulatoryjne świadczenia specjalistyczne finansowane ze środków publicznych, o których mowa w art. 57 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych , z wyłączeniem porady specjalistycznej - logopedia, o której mowa w przepisach wydanych na podstawie art. 31d tej ustawy;"
     },
     {
       "provision_ref": "par2p2la",
@@ -61,23 +73,47 @@
       "provision_ref": "par2p3",
       "section": "2",
       "title": "§ 2 pkt 3",
-      "content": "Skierowania, o których mowa w § 1, są wystawiane na: leczenie szpitalne w szpitalu, który zawarł umowę o udzielanie świadczeń opieki zdrowotnej, o którym mowa w art. 58 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych ."
+      "content": "Skierowania, o których mowa w § 1, są wystawiane na: leczenie szpitalne w szpitalu, który zawarł umowę o udzielanie świadczeń opieki zdrowotnej, o którym mowa w art. 58 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych ;"
+    },
+    {
+      "provision_ref": "par2p4",
+      "section": "2",
+      "title": "§ 2 pkt 4",
+      "content": "Skierowania, o których mowa w § 1, są wystawiane na: rehabilitację leczniczą u świadczeniodawcy, który zawarł umowę o udzielanie świadczeń opieki zdrowotnej, o której mowa w art. 59 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych ;"
+    },
+    {
+      "provision_ref": "par2p3",
+      "section": "2",
+      "title": "§ 2 pkt 3",
+      "content": "Skierowania, o których mowa w § 1, są wystawiane na: leczenie uzdrowiskowe albo rehabilitację uzdrowiskową, o których mowa w art. 33 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych , z wyłączeniem przypadku, gdy świadczenie ma być zrealizowane przez podmioty udzielające świadczeń zdrowotnych z zakresu lecznictwa uzdrowiskowego poza granicami kraju."
     },
     {
       "provision_ref": "par3",
       "section": "3",
       "title": "§ 3",
-      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia 4) Rozporządzenie zostało ogłoszone w dniu 17 kwietnia 2019 r. ."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2018-1510",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2019-408",
+      "target_document_id": "pl-du-2022-1417",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-398",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2561",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-2465",
       "ref_type": "references"
     }
   ]

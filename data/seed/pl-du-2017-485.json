@@ -10,6 +10,24 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2017/485",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 1 pkt 1, który wchodzi w życie z dniem 1 stycznia 2023 r."
+    },
+    {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Kwoty wynagrodzenia zasadniczego określone w tabeli A załącznika nr 3 do rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się do wynagrodzenia zasadniczego przysługującego urzędnikom i innym pracownikom sądów i prokuratury od dnia 1 stycznia 2023 r."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -73,13 +91,13 @@
       "provision_ref": "par3",
       "section": "3",
       "title": "§ 3",
-      "content": "Tabela wynagrodzenia zasadniczego przysługującego urzędnikom i innym pracownikom sądów i prokuratury jest określona w załączniku nr 3 do rozporządzenia. Godzinową stawkę wynagrodzenia zasadniczego określonego stawką miesięczną oblicza się, dzieląc miesięczną stawkę wynagrodzenia przez liczbę godzin pracy przypadających do przepracowania w danym miesiącu."
+      "content": "Tabele wynagrodzenia zasadniczego przysługującego urzędnikom i innym pracownikom sądów i prokuratury są określone w załączniku nr 3 do rozporządzenia. Godzinową stawkę wynagrodzenia zasadniczego określonego stawką miesięczną oblicza się, dzieląc miesięczną stawkę wynagrodzenia przez liczbę godzin pracy przypadających do przepracowania w danym miesiącu."
     },
     {
       "provision_ref": "par3u1",
       "section": "3",
       "title": "§ 3 ust. 1",
-      "content": "Tabela wynagrodzenia zasadniczego przysługującego urzędnikom i innym pracownikom sądów i prokuratury jest określona w załączniku nr 3 do rozporządzenia."
+      "content": "Tabele wynagrodzenia zasadniczego przysługującego urzędnikom i innym pracownikom sądów i prokuratury są określone w załączniku nr 3 do rozporządzenia."
     },
     {
       "provision_ref": "par3u2",
@@ -121,7 +139,7 @@
       "provision_ref": "par5",
       "section": "5",
       "title": "§ 5",
-      "content": "Urzędnikom i innym pracownikom sądów i prokuratury dyrektor sądu albo właściwy prokurator mogą przyznać dodatek specjalny z tytułu okresowego zwiększenia obowiązków służbowych lub powierzenia dodatkowych zadań, w szczególności zadań o wysokim stopniu złożoności lub odpowiedzialności. Dodatek specjalny przyznaje się na czas określony w kwocie nieprzekraczającej 40% wynagrodzenia zasadniczego i dodatku z tytułu zajmowanego stanowiska lub pełnionej funkcji łącznie."
+      "content": "Urzędnikom i innym pracownikom sądów i prokuratury dyrektor sądu albo właściwy prokurator mogą przyznać dodatek specjalny z tytułu okresowego zwiększenia obowiązków służbowych lub powierzenia dodatkowych zadań, w szczególności zadań o wysokim stopniu złożoności lub odpowiedzialności. Dodatek specjalny przyznaje się na czas określony w kwocie nieprzekraczającej 40% wynagrodzenia zasadniczego i dodatku z tytułu zajmowanego stanowiska lub pełnionej funkcji łącznie. Urzędnikowi zatrudnionemu w sądzie lub w powszechnej jednostce organizacyjnej prokuratury, których siedziba znajduje się na obszarze m.st. Warszawy, świadczącemu pracę na obszarze m.st. Warszawy, może, w ramach posiadanych środków na wynagrodzenia, zostać przyznany na czas określony również stołeczny dodatek specjalny w wysokości do 25% wynagrodzenia zasadniczego i dodatku z tytułu zajmowanego stanowiska lub pełnionej funkcji łącznie."
     },
     {
       "provision_ref": "par5u1",
@@ -134,6 +152,12 @@
       "section": "5",
       "title": "§ 5 ust. 2",
       "content": "Dodatek specjalny przyznaje się na czas określony w kwocie nieprzekraczającej 40% wynagrodzenia zasadniczego i dodatku z tytułu zajmowanego stanowiska lub pełnionej funkcji łącznie."
+    },
+    {
+      "provision_ref": "par5u3",
+      "section": "5",
+      "title": "§ 5 ust. 3",
+      "content": "Urzędnikowi zatrudnionemu w sądzie lub w powszechnej jednostce organizacyjnej prokuratury, których siedziba znajduje się na obszarze m.st. Warszawy, świadczącemu pracę na obszarze m.st. Warszawy, może, w ramach posiadanych środków na wynagrodzenia, zostać przyznany na czas określony również stołeczny dodatek specjalny w wysokości do 25% wynagrodzenia zasadniczego i dodatku z tytułu zajmowanego stanowiska lub pełnionej funkcji łącznie."
     },
     {
       "provision_ref": "par6",
@@ -466,16 +490,38 @@
       "content": "Po zakończeniu stażu dyrektor sądu albo właściwy prokurator sporządzają ocenę końcową stażu, w której uwzględniają wynik egzaminu oraz opinie sporządzone przez kierownika stażu. O treści oceny informuje się stażystę."
     },
     {
+      "provision_ref": "par16a",
+      "section": "16a",
+      "title": "§ 16a",
+      "content": "Urzędnik lub inny pracownik zatrudnieni w sądzie albo w prokuraturze, którzy nie spełniają wymagań kwalifikacyjnych przewidzianych w niniejszym rozporządzeniu dla stanowiska zajmowanego przez nich w dniu wejścia w życie rozporządzenia, mogą być nadal zatrudnieni na tym stanowisku."
+    },
+    {
       "provision_ref": "par17",
       "section": "17",
       "title": "§ 17",
-      "content": "Rozporządzenie wchodzi w życie z dniem ogłoszenia. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 8 grudnia 2014 r. w sprawie stanowisk i szczegółowych zasad wynagradzania urzędników i innych pracowników sądów i prokuratury oraz odbywania stażu urzędniczego (Dz. U. z 2015 r. poz. 54 i 2322 oraz z 2016 r. poz. 2266), które na podstawie art. 73 pkt 2 ustawy z dnia 28 stycznia 2016 r. - Przepisy wprowadzające ustawę - Prawo o prokuraturze (Dz. U. poz. 178 i 2103) utraciło moc."
+      "content": "Rozporządzenie wchodzi w życie z dniem ogłoszenia 3) Rozporządzenie zostało ogłoszone w dniu 6 marca 2017 r. . 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 8 grudnia 2014 r. w sprawie stanowisk i szczegółowych zasad wynagradzania urzędników i innych pracowników sądów i prokuratury oraz odbywania stażu urzędniczego (Dz. U. z 2015 r. poz. 54 i 2322 oraz z 2016 r. poz. 2266), które na podstawie art. 73 pkt 2 ustawy z dnia 28 stycznia 2016 r. - Przepisy wprowadzające ustawę - Prawo o prokuraturze (Dz. U. poz. 178 i 2103) utraciło moc."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2017-246",
+      "target_document_id": "pl-du-2019-1461",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2425",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2718",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-620",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-577",
       "ref_type": "references"
     }
   ]

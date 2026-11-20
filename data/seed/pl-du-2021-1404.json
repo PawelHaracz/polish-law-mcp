@@ -10,6 +10,42 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2021/1404",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Wzór formularza: NIP-2 określony w rozporządzeniu zmienianym w § 1, w brzmieniu dotychczasowym, może być stosowany przez osoby prawne lub jednostki organizacyjne niemające osobowości prawnej, będące podatnikami lub płatnikami, z wyjątkiem grup VAT, NIP-8 określony w rozporządzeniu zmienianym w § 1, w brzmieniu dotychczasowym, może być stosowany - do dnia 30 czerwca 2023 r."
+    },
+    {
+      "provision_ref": "par2p1",
+      "section": "2",
+      "title": "§ 2 pkt 1",
+      "content": "Wzór formularza: NIP-2 określony w rozporządzeniu zmienianym w § 1, w brzmieniu dotychczasowym, może być stosowany przez osoby prawne lub jednostki organizacyjne niemające osobowości prawnej, będące podatnikami lub płatnikami, z wyjątkiem grup VAT,"
+    },
+    {
+      "provision_ref": "par2p2",
+      "section": "2",
+      "title": "§ 2 pkt 2",
+      "content": "Wzór formularza: NIP-8 określony w rozporządzeniu zmienianym w § 1, w brzmieniu dotychczasowym, może być stosowany"
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r."
+    },
+    {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Wzór formularza NIP-2 określony w załączniku nr 1 do rozporządzenia zmienianego w § 1, w brzmieniu dotychczasowym, może być stosowany przez osoby prawne inne niż fundacje rodzinne lub jednostki organizacyjne niemające osobowości prawnej, będące podatnikami lub płatnikami, do dnia 30 września 2023 r."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Rozporządzenie wchodzi w życie z dniem 22 maja 2023 r."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -49,21 +85,25 @@
       "provision_ref": "par3",
       "section": "3",
       "title": "§ 3",
-      "content": "Rozporządzenie wchodzi w życie z dniem 1 września 2021 r. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 27 grudnia 2018 r. w sprawie wzorów formularzy zgłoszeń identyfikacyjnych i zgłoszeń aktualizacyjnych oraz zgłoszeń w zakresie danych uzupełniających (Dz. U. poz. 2496), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 13 ustawy z dnia 12 kwietnia 2019 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (Dz. U. poz. 1018, 1520 i 1751)."
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 września 2021 r. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 27 grudnia 2018 r. w sprawie wzorów formularzy zgłoszeń identyfikacyjnych i zgłoszeń aktualizacyjnych oraz zgłoszeń w zakresie danych uzupełniających (Dz. U. poz. 2496), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 13 ustawy z dnia 12 kwietnia 2019 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (Dz. U. poz. 1018, 1520 i 1751)."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2020-170",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2021-802",
+      "target_document_id": "pl-du-2022-2785",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2021-1163",
+      "target_document_id": "pl-du-2023-962",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2024-375",
       "ref_type": "references"
     },
     {

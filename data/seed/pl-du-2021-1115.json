@@ -10,6 +10,18 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2021/1115",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 września 2022 r."
+    },
+    {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -25,7 +37,7 @@
       "provision_ref": "par3",
       "section": "3",
       "title": "§ 3",
-      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia 2) Rozporządzenie zostało ogłoszone w dniu 22 czerwca 2021 r. ."
     },
     {
       "provision_ref": "par1",
@@ -43,7 +55,7 @@
       "provision_ref": "par3",
       "section": "3",
       "title": "§ 3",
-      "content": "W skład Głównego Inspektoratu wchodzą: Biuro Głównego Inspektora Farmaceutycznego; Biuro Dyrektora Generalnego; Departament Nadzoru; Departament Inspekcji do Spraw Wytwarzania; Departament Prawny."
+      "content": "W skład Głównego Inspektoratu wchodzą: Biuro Głównego Inspektora Farmaceutycznego; Biuro Dyrektora Generalnego; Departament Nadzoru Farmaceutycznego; Departament Inspekcji; Departament Prawny; Departament Kontroli Wewnętrznej i Zarządzania Zgodnością."
     },
     {
       "provision_ref": "par3p1",
@@ -61,29 +73,51 @@
       "provision_ref": "par3p3",
       "section": "3",
       "title": "§ 3 pkt 3",
-      "content": "W skład Głównego Inspektoratu wchodzą: Departament Nadzoru;"
+      "content": "W skład Głównego Inspektoratu wchodzą: Departament Nadzoru Farmaceutycznego;"
     },
     {
-      "provision_ref": "par3p4",
+      "provision_ref": "par3p3",
       "section": "3",
-      "title": "§ 3 pkt 4",
-      "content": "W skład Głównego Inspektoratu wchodzą: Departament Inspekcji do Spraw Wytwarzania;"
+      "title": "§ 3 pkt 3",
+      "content": "W skład Głównego Inspektoratu wchodzą: Departament Inspekcji;"
     },
     {
       "provision_ref": "par3p5",
       "section": "3",
       "title": "§ 3 pkt 5",
-      "content": "W skład Głównego Inspektoratu wchodzą: Departament Prawny."
+      "content": "W skład Głównego Inspektoratu wchodzą: Departament Prawny;"
+    },
+    {
+      "provision_ref": "par3p4",
+      "section": "3",
+      "title": "§ 3 pkt 4",
+      "content": "W skład Głównego Inspektoratu wchodzą: Departament Kontroli Wewnętrznej i Zarządzania Zgodnością."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2021-974",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2021-981",
+      "target_document_id": "pl-du-2022-1795",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1499",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2301",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-605",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-650",
       "ref_type": "references"
     },
     {

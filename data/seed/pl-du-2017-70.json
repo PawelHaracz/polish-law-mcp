@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2017/70",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2018 r."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -25,25 +31,21 @@
       "provision_ref": "par3",
       "section": "3",
       "title": "§ 3",
-      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia 2) Rozporządzenie zostało ogłoszone w dniu 12 stycznia 2017 r. ."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2014-1539",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2015-266",
+      "target_document_id": "pl-du-2018-557",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2015-470",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-2016-1605",
+      "target_document_id": "pl-du-2018-1967",
       "ref_type": "references"
     }
   ]

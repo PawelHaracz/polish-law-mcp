@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2015/359",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -301,7 +307,7 @@
       "provision_ref": "par10",
       "section": "10",
       "title": "§ 10",
-      "content": "Po zakończeniu posiedzenia jawnego, którego przebieg utrwalono za pomocą urządzenia rejestrującego dźwięk albo obraz i dźwięk, protokolant podpisuje zapis bezpiecznym podpisem elektronicznym."
+      "content": "Po zakończeniu posiedzenia jawnego, którego przebieg utrwalono za pomocą urządzenia rejestrującego dźwięk albo obraz i dźwięk, protokolant podpisuje zapis zaawansowanym podpisem elektronicznym."
     },
     {
       "provision_ref": "par11",
@@ -313,7 +319,7 @@
       "provision_ref": "par12",
       "section": "12",
       "title": "§ 12",
-      "content": "Dozwolone jest wyłącznie dokonywanie takich zmian zapisu, które są konieczne dla jego prawidłowego odtworzenia, przechowywania lub udostępniania, w szczególności za pomocą urządzeń korygujących lub wzmacniających utrwalony dźwięk lub obraz. Zmiany dokonuje się na zarządzenie przewodniczącego. Zmiany utrwala się w kolejnej wersji zapisu. Pierwotnie utrwaloną wersję zapisu zachowuje się niezmienioną. Przewodniczący odnotowuje w aktach sprawy sporządzenie kolejnej wersji zapisu. Zmiana nie może wpływać na treść utrwalonych czynności procesowych dokonanych podczas posiedzenia jawnego. Pracownik sądu podpisuje każdą wersję zapisu bezpiecznym podpisem elektronicznym. Do zapisów będących wynikiem zmiany zapisu przebiegu posiedzenia jawnego stosuje się przepisy § 4. Zapisom tym przyporządkowuje się adnotacje."
+      "content": "Dozwolone jest wyłącznie dokonywanie takich zmian zapisu, które są konieczne dla jego prawidłowego odtworzenia, przechowywania lub udostępniania, w szczególności za pomocą urządzeń korygujących lub wzmacniających utrwalony dźwięk lub obraz. Zmiany dokonuje się na zarządzenie przewodniczącego. Zmiany utrwala się w kolejnej wersji zapisu. Pierwotnie utrwaloną wersję zapisu zachowuje się niezmienioną. Przewodniczący odnotowuje w aktach sprawy sporządzenie kolejnej wersji zapisu. Zmiana nie może wpływać na treść utrwalonych czynności procesowych dokonanych podczas posiedzenia jawnego. Pracownik sądu podpisuje każdą wersję zapisu zaawansowanym podpisem elektronicznym. Do zapisów będących wynikiem zmiany zapisu przebiegu posiedzenia jawnego stosuje się przepisy § 4. Zapisom tym przyporządkowuje się adnotacje."
     },
     {
       "provision_ref": "par12u1",
@@ -337,7 +343,7 @@
       "provision_ref": "par12u4",
       "section": "12",
       "title": "§ 12 ust. 4",
-      "content": "Pracownik sądu podpisuje każdą wersję zapisu bezpiecznym podpisem elektronicznym."
+      "content": "Pracownik sądu podpisuje każdą wersję zapisu zaawansowanym podpisem elektronicznym."
     },
     {
       "provision_ref": "par12u5",
@@ -367,13 +373,21 @@
       "provision_ref": "par14",
       "section": "14",
       "title": "§ 14",
-      "content": "Rozporządzenie wchodzi w życie z dniem 27 marca 2015 r. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 10 sierpnia 2011 r. w sprawie zapisu dźwięku albo obrazu i dźwięku z przebiegu posiedzenia jawnego (Dz. U. Nr 175, poz. 1046), które traci moc na podstawie art. 4 w związku z art. 1 pkt 2 lit. e ustawy z dnia 29 sierpnia 2014 r. o zmianie ustawy - Kodeks postępowania cywilnego oraz ustawy o kosztach sądowych w sprawach cywilnych (Dz. U. poz. 1296)."
+      "content": "Rozporządzenie wchodzi w życie z dniem 27 marca 2015 r. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 10 sierpnia 2011 r. w sprawie zapisu dźwięku albo obrazu i dźwięku z przebiegu posiedzenia jawnego (Dz. U. poz. 1046), które utraciło moc na podstawie art. 4 w związku z art. 1 pkt 2 lit. e ustawy z dnia 29 sierpnia 2014 r. o zmianie ustawy - Kodeks postępowania cywilnego oraz ustawy o kosztach sądowych w sprawach cywilnych (Dz. U. poz. 1296)."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2014-101",
+      "target_document_id": "pl-du-2019-1461",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2016-1697",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1805",
       "ref_type": "references"
     }
   ]

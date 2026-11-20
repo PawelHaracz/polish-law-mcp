@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2017/735",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 lipca 2022 r."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -43,7 +49,7 @@
       "provision_ref": "par2",
       "section": "2",
       "title": "§ 2",
-      "content": "W skład rezerwy wchodzą szczepionki przeciwko: inwazyjnym zakażeniom Neisseria meningitidis - nie mniej niż 15 000 dawek; durowi brzusznemu (Ty) - nie mniej niż 60 opakowań wielodawkowych; durowi i tężcowi (TyT) - nie mniej niż 70 opakowań wielodawkowych; błonicy: szczepionka stosowana u dzieci (D) - nie mniej niż 357 opakowań wielodawkowych, szczepionka stosowana u dorosłych (d) - nie mniej niż 50 dawek; szczepionki przeciw chorobom, które są objęte obowiązkiem szczepienia w ramach Programu Szczepień Ochronnych, o którym mowa w art. 17 ust. 11 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi - nie mniej niż 10% zapotrzebowania na szczepionki do realizacji tego programu."
+      "content": "W skład rezerwy wchodzą szczepionki przeciwko: inwazyjnym zakażeniom Neisseria meningitidis - nie mniej niż 15 000 dawek; durowi brzusznemu (Ty) - nie mniej niż 60 opakowań wielodawkowych; durowi i tężcowi (TyT) - nie mniej niż 70 opakowań wielodawkowych; błonicy: szczepionka stosowana u dzieci (D) - nie mniej niż 50 opakowań wielodawkowych, szczepionka stosowana u dorosłych (d) - nie mniej niż 357 dawek; szczepionki przeciw chorobom, które są objęte obowiązkiem szczepienia w ramach Programu Szczepień Ochronnych, o którym mowa w art. 17 ust. 11 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi - nie mniej niż 10% zapotrzebowania na szczepionki do realizacji tego programu; COVID-19 wywoływanej przez wirus SARS-CoV-2 - nie mniej niż 10% zapotrzebowania na szczepionki do realizacji programu, o którym mowa w uchwale Rady Ministrów nr 187/2020 z dnia 15 grudnia 2020 r. w sprawie przyjęcia Narodowego Programu Szczepień przeciw COVID-19; wirusowemu zapaleniu wątroby typu A - nie mniej niż 1000 dawek."
     },
     {
       "provision_ref": "par2p1",
@@ -67,25 +73,91 @@
       "provision_ref": "par2p4la",
       "section": "2",
       "title": "§ 2 pkt 4 lit. a",
-      "content": "W skład rezerwy wchodzą szczepionki przeciwko: błonicy: szczepionka stosowana u dzieci (D) - nie mniej niż 357 opakowań wielodawkowych,"
+      "content": "W skład rezerwy wchodzą szczepionki przeciwko: błonicy: szczepionka stosowana u dzieci (D) - nie mniej niż 50 opakowań wielodawkowych,"
     },
     {
       "provision_ref": "par2p4lb",
       "section": "2",
       "title": "§ 2 pkt 4 lit. b",
-      "content": "W skład rezerwy wchodzą szczepionki przeciwko: błonicy: szczepionka stosowana u dorosłych (d) - nie mniej niż 50 dawek;"
+      "content": "W skład rezerwy wchodzą szczepionki przeciwko: błonicy: szczepionka stosowana u dorosłych (d) - nie mniej niż 357 dawek;"
     },
     {
       "provision_ref": "par2p5",
       "section": "2",
       "title": "§ 2 pkt 5",
-      "content": "W skład rezerwy wchodzą szczepionki przeciwko: szczepionki przeciw chorobom, które są objęte obowiązkiem szczepienia w ramach Programu Szczepień Ochronnych, o którym mowa w art. 17 ust. 11 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi - nie mniej niż 10% zapotrzebowania na szczepionki do realizacji tego programu."
+      "content": "W skład rezerwy wchodzą szczepionki przeciwko: szczepionki przeciw chorobom, które są objęte obowiązkiem szczepienia w ramach Programu Szczepień Ochronnych, o którym mowa w art. 17 ust. 11 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi - nie mniej niż 10% zapotrzebowania na szczepionki do realizacji tego programu;"
+    },
+    {
+      "provision_ref": "par2p6",
+      "section": "2",
+      "title": "§ 2 pkt 6",
+      "content": "W skład rezerwy wchodzą szczepionki przeciwko: COVID-19 wywoływanej przez wirus SARS-CoV-2 - nie mniej niż 10% zapotrzebowania na szczepionki do realizacji programu, o którym mowa w uchwale Rady Ministrów nr 187/2020 z dnia 15 grudnia 2020 r. w sprawie przyjęcia Narodowego Programu Szczepień przeciw COVID-19;"
+    },
+    {
+      "provision_ref": "par2p2",
+      "section": "2",
+      "title": "§ 2 pkt 2",
+      "content": "W skład rezerwy wchodzą szczepionki przeciwko: wirusowemu zapaleniu wątroby typu A - nie mniej niż 1000 dawek."
     },
     {
       "provision_ref": "par3",
       "section": "3",
       "title": "§ 3",
+      "content": "Rezerwę przechowuje dystrybutor centralny wyznaczony przez ministra właściwego do spraw zdrowia. W przypadku szczepionki stanowiącej rezerwę, o której mowa w § 2 pkt 6, dystrybutorem centralnym jest podmiot, któremu wydano polecenie w tym zakresie na podstawie przepisów ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych ) . W przypadku gdy takiego polecenia nie wydano albo zostało ono uchylone, stosuje się ust. 1. Dystrybutor centralny zarządza i odpowiada za proces dystrybucji szczepionek. Dystrybutor centralny może zlecić przechowywanie lub transport szczepionek, o których mowa w § 2 pkt 6, przedsiębiorcy prowadzącemu działalność polegającą na prowadzeniu hurtowni farmaceutycznej, o którym mowa w art. 78 ust. 1 ustawy z dnia 6 września 2001 r. - Prawo farmaceutyczne . Za zgodą dystrybutora centralnego przedsiębiorca ten może dokonać dalszego zlecenia transportu tych szczepionek. Dystrybucję szczepionek, o których mowa w § 2 pkt 6, odzwierciedla się w systemie teleinformatycznym prowadzonym przez dystrybutora centralnego w sposób zapewniający możliwość ustalenia łańcucha dystrybucji szczepionek od przyjęcia ich przez dystrybutora do dostarczenia do punktu szczepień, zawierającym następujące dane: nazwę szczepionki i jej serię; ilość szczepionki; wskazanie końcowego odbiorcy szczepionki (punkt szczepień); nazwę zleceniobiorcy wykonującego transport lub magazynującego szczepionkę - jeżeli dotyczy."
+    },
+    {
+      "provision_ref": "par3u1",
+      "section": "3",
+      "title": "§ 3 ust. 1",
       "content": "Rezerwę przechowuje dystrybutor centralny wyznaczony przez ministra właściwego do spraw zdrowia."
+    },
+    {
+      "provision_ref": "par3u2",
+      "section": "3",
+      "title": "§ 3 ust. 2",
+      "content": "W przypadku szczepionki stanowiącej rezerwę, o której mowa w § 2 pkt 6, dystrybutorem centralnym jest podmiot, któremu wydano polecenie w tym zakresie na podstawie przepisów ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych ) . W przypadku gdy takiego polecenia nie wydano albo zostało ono uchylone, stosuje się ust. 1."
+    },
+    {
+      "provision_ref": "par3u3",
+      "section": "3",
+      "title": "§ 3 ust. 3",
+      "content": "Dystrybutor centralny zarządza i odpowiada za proces dystrybucji szczepionek."
+    },
+    {
+      "provision_ref": "par3u4",
+      "section": "3",
+      "title": "§ 3 ust. 4",
+      "content": "Dystrybutor centralny może zlecić przechowywanie lub transport szczepionek, o których mowa w § 2 pkt 6, przedsiębiorcy prowadzącemu działalność polegającą na prowadzeniu hurtowni farmaceutycznej, o którym mowa w art. 78 ust. 1 ustawy z dnia 6 września 2001 r. - Prawo farmaceutyczne . Za zgodą dystrybutora centralnego przedsiębiorca ten może dokonać dalszego zlecenia transportu tych szczepionek."
+    },
+    {
+      "provision_ref": "par3u5p1",
+      "section": "3",
+      "title": "§ 3 ust. 5 pkt 1",
+      "content": "Dystrybucję szczepionek, o których mowa w § 2 pkt 6, odzwierciedla się w systemie teleinformatycznym prowadzonym przez dystrybutora centralnego w sposób zapewniający możliwość ustalenia łańcucha dystrybucji szczepionek od przyjęcia ich przez dystrybutora do dostarczenia do punktu szczepień, zawierającym następujące dane: nazwę szczepionki i jej serię;"
+    },
+    {
+      "provision_ref": "par3u5p2",
+      "section": "3",
+      "title": "§ 3 ust. 5 pkt 2",
+      "content": "Dystrybucję szczepionek, o których mowa w § 2 pkt 6, odzwierciedla się w systemie teleinformatycznym prowadzonym przez dystrybutora centralnego w sposób zapewniający możliwość ustalenia łańcucha dystrybucji szczepionek od przyjęcia ich przez dystrybutora do dostarczenia do punktu szczepień, zawierającym następujące dane: ilość szczepionki;"
+    },
+    {
+      "provision_ref": "par3u5p3",
+      "section": "3",
+      "title": "§ 3 ust. 5 pkt 3",
+      "content": "Dystrybucję szczepionek, o których mowa w § 2 pkt 6, odzwierciedla się w systemie teleinformatycznym prowadzonym przez dystrybutora centralnego w sposób zapewniający możliwość ustalenia łańcucha dystrybucji szczepionek od przyjęcia ich przez dystrybutora do dostarczenia do punktu szczepień, zawierającym następujące dane: wskazanie końcowego odbiorcy szczepionki (punkt szczepień);"
+    },
+    {
+      "provision_ref": "par3u5p4",
+      "section": "3",
+      "title": "§ 3 ust. 5 pkt 4",
+      "content": "Dystrybucję szczepionek, o których mowa w § 2 pkt 6, odzwierciedla się w systemie teleinformatycznym prowadzonym przez dystrybutora centralnego w sposób zapewniający możliwość ustalenia łańcucha dystrybucji szczepionek od przyjęcia ich przez dystrybutora do dostarczenia do punktu szczepień, zawierającym następujące dane: nazwę zleceniobiorcy wykonującego transport lub magazynującego szczepionkę - jeżeli dotyczy."
+    },
+    {
+      "provision_ref": "par3a",
+      "section": "3a",
+      "title": "§ 3a",
+      "content": "Na wniosek Ministra Obrony Narodowej dystrybutor centralny może zlecić przechowywanie lub transport szczepionek przeciw chorobie, o której mowa w § 2 pkt 6, przeznaczonych do realizacji szczepień żołnierzy i pracowników Sił Zbrojnych Rzeczypospolitej Polskiej oraz żołnierzy, funkcjonariuszy i pracowników Służby Wywiadu Wojskowego i Służby Kontrwywiadu Wojskowego, wyznaczonym jednostkom organizacyjnym podległym Ministrowi Obrony Narodowej lub przez niego nadzorowanym."
     },
     {
       "provision_ref": "par4",
@@ -97,7 +169,7 @@
       "provision_ref": "par5",
       "section": "5",
       "title": "§ 5",
-      "content": "Rezerwę minister właściwy do spraw zdrowia uruchamia z własnej inicjatywy lub na wniosek: Głównego Inspektora Sanitarnego; Głównego Inspektora Sanitarnego Ministerstwa Spraw Wewnętrznych i Administracji; Głównego Inspektora Sanitarnego Wojska Polskiego; wojewody; państwowego granicznego inspektora sanitarnego, za pośrednictwem Głównego Inspektora Sanitarnego; państwowego wojewódzkiego inspektora sanitarnego; państwowego powiatowego inspektora sanitarnego, za pośrednictwem państwowego wojewódzkiego inspektora sanitarnego. Wnioski, o których mowa w ust. 1 pkt 2-7, akceptuje Główny Inspektor Sanitarny. Wniosek, o którym mowa w ust. 1, określa co najmniej: nazwę i ilość środka z rezerwy; cel jego wykorzystania; uzasadnienie potrzeby uruchomienia. Uruchamiając rezerwę, minister właściwy do spraw zdrowia wskazuje: nazwę i ilość środka z rezerwy; cel jego wykorzystania; dane podmiotu lub podmiotów, którym środki z rezerwy będą przekazane; miejsce, z którego środki z rezerwy będą przekazane podmiotowi, o którym mowa w pkt 3; podmiot zobowiązany do transportu uruchomionych środków z rezerwy. Przekazanie uruchomionych środków z rezerwy jest dokumentowane w protokole zdawczo-odbiorczym podpisanym przez podmiot, który przekazywał środki, i podmiot, któremu zostały one przekazane. Protokół zdawczo-odbiorczy zawiera wykaz środków, datę przekazania i odbioru oraz podpisy upoważnionych przedstawicieli podmiotów, o których mowa w ust. 5."
+      "content": "Rezerwę minister właściwy do spraw zdrowia uruchamia z własnej inicjatywy lub na wniosek: Głównego Inspektora Sanitarnego; Głównego Inspektora Sanitarnego Ministerstwa Spraw Wewnętrznych i Administracji 4) Państwowa Inspekcja Sanitarna Ministerstwa Spraw Wewnętrznych i Administracji została zlikwidowana z dniem 1 lipca 2020 r. na podstawie art. 17 ust. 1 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o Państwowej Inspekcji Sanitarnej oraz niektórych innych ustaw (Dz. U. poz. 322 i 374), która weszła w życie z dniem 15 marca 2020 r. ; Głównego Inspektora Sanitarnego Wojska Polskiego; wojewody; państwowego granicznego inspektora sanitarnego, za pośrednictwem Głównego Inspektora Sanitarnego; państwowego wojewódzkiego inspektora sanitarnego; państwowego powiatowego inspektora sanitarnego, za pośrednictwem państwowego wojewódzkiego inspektora sanitarnego. Wnioski, o których mowa w ust. 1 pkt 2-7, akceptuje Główny Inspektor Sanitarny. Wniosek, o którym mowa w ust. 1, określa co najmniej: nazwę i ilość środka z rezerwy; cel jego wykorzystania; uzasadnienie potrzeby uruchomienia. Uruchamiając rezerwę, minister właściwy do spraw zdrowia wskazuje: nazwę i ilość środka z rezerwy; cel jego wykorzystania; dane podmiotu lub podmiotów, którym środki z rezerwy będą przekazane; miejsce, z którego środki z rezerwy będą przekazane podmiotowi, o którym mowa w pkt 3; podmiot zobowiązany do transportu uruchomionych środków z rezerwy. Przekazanie uruchomionych środków z rezerwy jest dokumentowane w protokole zdawczo-odbiorczym podpisanym przez podmiot, który przekazywał środki, i podmiot, któremu zostały one przekazane. Protokół zdawczo-odbiorczy zawiera wykaz środków, datę przekazania i odbioru oraz podpisy upoważnionych przedstawicieli podmiotów, o których mowa w ust. 5."
     },
     {
       "provision_ref": "par5u1p1",
@@ -109,7 +181,7 @@
       "provision_ref": "par5u1p2",
       "section": "5",
       "title": "§ 5 ust. 1 pkt 2",
-      "content": "Rezerwę minister właściwy do spraw zdrowia uruchamia z własnej inicjatywy lub na wniosek: Głównego Inspektora Sanitarnego Ministerstwa Spraw Wewnętrznych i Administracji;"
+      "content": "Rezerwę minister właściwy do spraw zdrowia uruchamia z własnej inicjatywy lub na wniosek: Głównego Inspektora Sanitarnego Ministerstwa Spraw Wewnętrznych i Administracji 4) Państwowa Inspekcja Sanitarna Ministerstwa Spraw Wewnętrznych i Administracji została zlikwidowana z dniem 1 lipca 2020 r. na podstawie art. 17 ust. 1 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o Państwowej Inspekcji Sanitarnej oraz niektórych innych ustaw (Dz. U. poz. 322 i 374), która weszła w życie z dniem 15 marca 2020 r. ;"
     },
     {
       "provision_ref": "par5u1p3",
@@ -241,33 +313,73 @@
       "provision_ref": "par7",
       "section": "7",
       "title": "§ 7",
-      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia 5) Rozporządzenie zostało ogłoszone w dniu 7 kwietnia 2017 r. ."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2016-1866",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2016-2003",
+      "target_document_id": "pl-du-2022-964",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2016-2173",
+      "target_document_id": "pl-du-2022-1255",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2016-2142",
+      "target_document_id": "pl-du-2022-1657",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2016-1987",
+      "target_document_id": "pl-du-2022-2280",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2016-1954",
+      "target_document_id": "pl-du-2022-2674",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2705",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2770",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-2095",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2301",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-699",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-1250",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-1726",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2127",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2722",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-295",
       "ref_type": "references"
     }
   ]

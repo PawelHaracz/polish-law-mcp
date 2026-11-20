@@ -10,6 +10,30 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/1658",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Do dnia 31 lipca 2020 r. uwierzytelniania podmiotu odbierającego z podaniem unikatowego, 17-znakowego numeru identyfikacyjnego nadawanego użytkownikowi PUESC nie stosuje się do podmiotów odbierających, jeżeli uzupełniają zgłoszenie o informacje o odbiorze towarów objętych pozycją CN ex 2711 - propan, butan albo mieszaniny propanu-butanu. Uwierzytelnianie od dnia 1 lutego 2020 r. do dnia wejścia w życie niniejszego rozporządzenia podmiotu odbierającego, który uzupełniał zgłoszenie w sposób określony w ust. 1, uznaje się za prawidłowe."
+    },
+    {
+      "provision_ref": "par2u1",
+      "section": "2",
+      "title": "§ 2 ust. 1",
+      "content": "Do dnia 31 lipca 2020 r. uwierzytelniania podmiotu odbierającego z podaniem unikatowego, 17-znakowego numeru identyfikacyjnego nadawanego użytkownikowi PUESC nie stosuje się do podmiotów odbierających, jeżeli uzupełniają zgłoszenie o informacje o odbiorze towarów objętych pozycją CN ex 2711 - propan, butan albo mieszaniny propanu-butanu."
+    },
+    {
+      "provision_ref": "par2u2",
+      "section": "2",
+      "title": "§ 2 ust. 2",
+      "content": "Uwierzytelnianie od dnia 1 lutego 2020 r. do dnia wejścia w życie niniejszego rozporządzenia podmiotu odbierającego, który uzupełniał zgłoszenie w sposób określony w ust. 1, uznaje się za prawidłowe."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -55,7 +79,7 @@
       "provision_ref": "par3",
       "section": "3",
       "title": "§ 3",
-      "content": "Zgłoszenie, uzupełnienie lub aktualizację zgłoszenia przesyła się do rejestru zgłoszeń: przy użyciu formularza elektronicznego udostępnionego na PUESC albo z wykorzystaniem dokumentu elektronicznego, zapisanego w formacie XML, zgodnego ze specyfikacją techniczną tego dokumentu udostępnioną na PUESC, przekazanego przy użyciu: poczty elektronicznej na adres puesc@mf.gov.pl albo usług sieciowych do komunikacji niewizualnej udostępnionych na PUESC, albo funkcji pozwalającej na zaimportowanie tego dokumentu elektronicznego, udostępnionej na PUESC. W przypadku przewozu paliw opałowych uzupełnienie zgłoszenia przez podmiot odbierający o informacje, o których mowa w art. 5 ust. 6 albo art. 6 ust. 5 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi, zwanej dalej „ustawą”, może odbyć się również za pośrednictwem aplikacji mobilnej wspierającej PUESC, z wykorzystaniem kodów transakcyjnych generowanych przez ten podmiot w usłudze udostępnionej na PUESC."
+      "content": "Zgłoszenie, uzupełnienie lub aktualizację zgłoszenia przesyła się do rejestru zgłoszeń: przy użyciu formularza elektronicznego udostępnionego na PUESC albo z wykorzystaniem dokumentu elektronicznego, zapisanego w formacie XML, zgodnego ze specyfikacją techniczną tego dokumentu udostępnioną na PUESC, przekazanego przy użyciu: poczty elektronicznej na adres puesc@mf.gov.pl albo usług sieciowych do komunikacji niewizualnej udostępnionych na PUESC, albo funkcji pozwalającej na zaimportowanie tego dokumentu elektronicznego, udostępnionej na PUESC. W przypadku przewozu paliw opałowych uzupełnienie zgłoszenia przez podmiot odbierający o informacje, o których mowa w art. 5 ust. 6 albo art. 6 ust. 5 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi, zwanej dalej „ustawą”, może odbyć się również z wykorzystaniem kodów transakcyjnych generowanych za pośrednictwem PUESC."
     },
     {
       "provision_ref": "par3u1p1",
@@ -85,7 +109,7 @@
       "provision_ref": "par3u2",
       "section": "3",
       "title": "§ 3 ust. 2",
-      "content": "W przypadku przewozu paliw opałowych uzupełnienie zgłoszenia przez podmiot odbierający o informacje, o których mowa w art. 5 ust. 6 albo art. 6 ust. 5 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi, zwanej dalej „ustawą”, może odbyć się również za pośrednictwem aplikacji mobilnej wspierającej PUESC, z wykorzystaniem kodów transakcyjnych generowanych przez ten podmiot w usłudze udostępnionej na PUESC."
+      "content": "W przypadku przewozu paliw opałowych uzupełnienie zgłoszenia przez podmiot odbierający o informacje, o których mowa w art. 5 ust. 6 albo art. 6 ust. 5 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi, zwanej dalej „ustawą”, może odbyć się również z wykorzystaniem kodów transakcyjnych generowanych za pośrednictwem PUESC."
     },
     {
       "provision_ref": "par4",
@@ -151,7 +175,7 @@
       "provision_ref": "par5",
       "section": "5",
       "title": "§ 5",
-      "content": "Uwierzytelnienie zarejestrowanego użytkownika PUESC w celu przesyłania, uzupełnienia lub aktualizacji zgłoszenia polega na podaniu identyfikatora użytkownika (login) i hasła. Uwierzytelnienie podmiotu wysyłającego, podmiotu odbierającego, podmiotu sprzedającego albo podmiotu nabywającego, w celu przesyłania lub aktualizacji zgłoszenia polega również na podaniu unikatowego, 17-znakowego numeru identyfikacyjnego nadawanego użytkownikowi PUESC. Uwierzytelnienie podmiotu odbierającego albo podmiotu nabywającego w celu uzupełniania zgłoszenia o informację o odbiorze towaru polega również na podaniu unikatowego, 17-znakowego numeru identyfikacyjnego nadawanego użytkownikowi PUESC. Przepisu nie stosuje się do podmiotu odbierającego, o którym mowa w art. 2 pkt 6 lit. b ustawy."
+      "content": "Uwierzytelnienie zarejestrowanego użytkownika PUESC w celu przesyłania, uzupełnienia lub aktualizacji zgłoszenia polega na podaniu identyfikatora użytkownika (login) i hasła. Uwierzytelnienie podmiotu wysyłającego, podmiotu odbierającego, podmiotu sprzedającego albo podmiotu nabywającego, w celu przesyłania lub aktualizacji zgłoszenia polega również na podaniu unikatowego, 17-znakowego numeru identyfikacyjnego nadawanego użytkownikowi PUESC. Uwierzytelnienie podmiotu odbierającego albo podmiotu nabywającego w celu uzupełniania zgłoszenia o informację o odbiorze towaru polega również na podaniu unikatowego, 17-znakowego numeru identyfikacyjnego nadawanego użytkownikowi PUESC. Przepisu ust. 3 nie stosuje się do podmiotu odbierającego będącego: zużywającym podmiotem olejowym nieprowadzącym działalności gospodarczej; osobą fizyczną, osobą prawną lub jednostką organizacyjną nieposiadającą osobowości prawnej, prowadzącą działalność gospodarczą, dokonującą wewnątrzwspólnotowego nabycia towarów, importu towarów lub nabycia towarów w przypadku dostawy towarów w rozumieniu ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług - jeżeli uzupełnienie zgłoszenia, o którym mowa w § 3 ust. 2, o informację o odbiorze towaru odbywa się z wykorzystaniem kodów transakcyjnych generowanych za pośrednictwem PUESC."
     },
     {
       "provision_ref": "par5u1",
@@ -169,7 +193,19 @@
       "provision_ref": "par5u3",
       "section": "5",
       "title": "§ 5 ust. 3",
-      "content": "Uwierzytelnienie podmiotu odbierającego albo podmiotu nabywającego w celu uzupełniania zgłoszenia o informację o odbiorze towaru polega również na podaniu unikatowego, 17-znakowego numeru identyfikacyjnego nadawanego użytkownikowi PUESC. Przepisu nie stosuje się do podmiotu odbierającego, o którym mowa w art. 2 pkt 6 lit. b ustawy."
+      "content": "Uwierzytelnienie podmiotu odbierającego albo podmiotu nabywającego w celu uzupełniania zgłoszenia o informację o odbiorze towaru polega również na podaniu unikatowego, 17-znakowego numeru identyfikacyjnego nadawanego użytkownikowi PUESC."
+    },
+    {
+      "provision_ref": "par5u4p1",
+      "section": "5",
+      "title": "§ 5 ust. 4 pkt 1",
+      "content": "Przepisu ust. 3 nie stosuje się do podmiotu odbierającego będącego: zużywającym podmiotem olejowym nieprowadzącym działalności gospodarczej;"
+    },
+    {
+      "provision_ref": "par5u4p2",
+      "section": "5",
+      "title": "§ 5 ust. 4 pkt 2",
+      "content": "Przepisu ust. 3 nie stosuje się do podmiotu odbierającego będącego: osobą fizyczną, osobą prawną lub jednostką organizacyjną nieposiadającą osobowości prawnej, prowadzącą działalność gospodarczą, dokonującą wewnątrzwspólnotowego nabycia towarów, importu towarów lub nabycia towarów w przypadku dostawy towarów w rozumieniu ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług - jeżeli uzupełnienie zgłoszenia, o którym mowa w § 3 ust. 2, o informację o odbiorze towaru odbywa się z wykorzystaniem kodów transakcyjnych generowanych za pośrednictwem PUESC."
     },
     {
       "provision_ref": "par6",
@@ -181,31 +217,31 @@
       "provision_ref": "par7",
       "section": "7",
       "title": "§ 7",
-      "content": "Podmiot wysyłający, który jest jednocześnie przewoźnikiem albo dokonuje czynności, o której mowa w art. 5 ust. 4 pkt 1 ustawy, w imieniu przewoźnika i dokonuje jednym środkiem transportu, o którym mowa w art. 2 pkt 11 lit. a ustawy, przewozu towarów będących przedmiotem co najmniej dwóch dostaw towarów albo jednej dostawy towarów, w rozumieniu ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług ) , do co najmniej dwóch miejsc dostarczenia towaru, w przypadku przewozu towarów objętych pozycją: CN 2710 załadowanych w składzie podatkowym, CN ex 2711 - propan, butan albo mieszaniny propanu-butanu, załadowanych w składzie podatkowym albo przewożonych bezpośrednio po ich objęciu procedurą celną dopuszczenia do obrotu, paliw opałowych, o których mowa w art. 3 ust. 2 pkt 1a ustawy, załadowanych w składzie podatkowym - może przesłać do rejestru zgłoszeń w sposób zbiorczy zgłoszenia, które zawierają dane, o których mowa w art. 5 ust. 2 i ust. 4 pkt 1 ustawy, dla każdego podmiotu odbierającego i miejsca dostarczenia towaru, oraz łączną ilość, masę brutto lub objętość towaru będącego przedmiotem przewozu. W przypadku zgłoszeń, o których mowa w ust. 1 pkt 1 i 2, związanych z dostawą, o której mowa w art. 7 ust. 8 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług , pierwszy podmiot, który dokonuje dostawy towarów, przesyła te zgłoszenia do rejestru zgłoszeń, a ostatni w kolejności nabywca towaru uzupełnia zgłoszenie o informacje o odbiorze towaru. W przypadku zgłoszeń przesyłanych w sposób zbiorczy, o których mowa w ust. 1, dane dotyczące ilości, masy lub objętości towaru uważa się za prawidłowe, jeżeli stwierdzone rozbieżności w stosunku do łącznej ilości, masy lub objętości towaru wskazanej w zgłoszeniach, wynoszą nie więcej niż 10% tej ilości, masy lub objętości powiększonej o różnicę między ilością, masą lub objętością towaru wskazaną w tych zgłoszeniach dla każdego podmiotu odbierającego a ilością, masą lub objętością towaru odebranego przez podmiot odbierający. Podmiot wysyłający po dokonaniu zgłoszenia w sposób, o którym mowa w ust. 1, otrzymuje wraz z numerem referencyjnym z rejestru zgłoszeń: dwa klucze przeznaczone dla podmiotu wysyłającego, który jest jednocześnie przewoźnikiem; klucze, w liczbie odpowiadającej liczbie dokonanych zgłoszeń, przeznaczone po jednym dla każdego podmiotu odbierającego."
+      "content": "Podmiot wysyłający, który jest jednocześnie przewoźnikiem albo dokonuje czynności, o której mowa w art. 5 ust. 4 pkt 1 ustawy, w imieniu przewoźnika i dokonuje jednym środkiem transportu, o którym mowa w art. 2 pkt 11 lit. a ustawy, przewozu towarów będących przedmiotem co najmniej dwóch dostaw towarów albo jednej dostawy towarów, w rozumieniu ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług , do co najmniej dwóch miejsc dostarczenia towaru, w przypadku przewozu towarów objętych pozycją: CN 2710 załadowanych w składzie podatkowym, CN ex 2711 ‒ propan, butan albo mieszaniny propanu-butanu, załadowanych w składzie podatkowym albo przewożonych bezpośrednio po ich objęciu procedurą celną dopuszczenia do obrotu, paliw opałowych, o których mowa w art. 3 ust. 2 pkt 1a ustawy, załadowanych w składzie podatkowym - może przesłać do rejestru zgłoszeń w sposób zbiorczy zgłoszenia, które zawierają dane, o których mowa w art. 5 ust. 2 i ust. 4 pkt 1 ustawy, dla każdego podmiotu odbierającego i miejsca dostarczenia towaru, oraz łączną ilość, masę brutto lub objętość towaru będącego przedmiotem przewozu. W przypadku zgłoszeń, o których mowa w ust. 1 pkt 1 i 2, związanych z dostawą, o której mowa w art. 7 ust. 8 5) Uchylony z dniem 1 stycznia 2021 r. na podstawie art. 1 pkt 2 lit. b ustawy z dnia 27 listopada 2020 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (Dz. U. poz. 2419), która weszła w życie z dniem 1 stycznia 2021 r. ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, pierwszy podmiot, który dokonuje dostawy towarów, przesyła te zgłoszenia do rejestru zgłoszeń, a ostatni w kolejności nabywca towaru uzupełnia zgłoszenie o informacje o odbiorze towaru. W przypadku zgłoszeń przesyłanych w sposób zbiorczy, o których mowa w ust. 1, dane dotyczące ilości, masy lub objętości towaru uważa się za prawidłowe, jeżeli stwierdzone rozbieżności w stosunku do łącznej ilości, masy lub objętości towaru wskazanej w zgłoszeniach, wynoszą nie więcej niż 10% tej ilości, masy lub objętości powiększonej o różnicę między ilością, masą lub objętością towaru wskazaną w tych zgłoszeniach dla każdego podmiotu odbierającego a ilością, masą lub objętością towaru odebranego przez podmiot odbierający. Podmiot wysyłający po dokonaniu zgłoszenia w sposób, o którym mowa w ust. 1, otrzymuje wraz z numerem referencyjnym z rejestru zgłoszeń: dwa klucze przeznaczone dla podmiotu wysyłającego, który jest jednocześnie przewoźnikiem; klucze, w liczbie odpowiadającej liczbie dokonanych zgłoszeń, przeznaczone po jednym dla każdego podmiotu odbierającego."
     },
     {
       "provision_ref": "par7u1p1",
       "section": "7",
       "title": "§ 7 ust. 1 pkt 1",
-      "content": "Podmiot wysyłający, który jest jednocześnie przewoźnikiem albo dokonuje czynności, o której mowa w art. 5 ust. 4 pkt 1 ustawy, w imieniu przewoźnika i dokonuje jednym środkiem transportu, o którym mowa w art. 2 pkt 11 lit. a ustawy, przewozu towarów będących przedmiotem co najmniej dwóch dostaw towarów albo jednej dostawy towarów, w rozumieniu ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług ) , do co najmniej dwóch miejsc dostarczenia towaru, w przypadku przewozu towarów objętych pozycją: CN 2710 załadowanych w składzie podatkowym,"
+      "content": "Podmiot wysyłający, który jest jednocześnie przewoźnikiem albo dokonuje czynności, o której mowa w art. 5 ust. 4 pkt 1 ustawy, w imieniu przewoźnika i dokonuje jednym środkiem transportu, o którym mowa w art. 2 pkt 11 lit. a ustawy, przewozu towarów będących przedmiotem co najmniej dwóch dostaw towarów albo jednej dostawy towarów, w rozumieniu ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług , do co najmniej dwóch miejsc dostarczenia towaru, w przypadku przewozu towarów objętych pozycją: CN 2710 załadowanych w składzie podatkowym,"
     },
     {
       "provision_ref": "par7u1p2",
       "section": "7",
       "title": "§ 7 ust. 1 pkt 2",
-      "content": "Podmiot wysyłający, który jest jednocześnie przewoźnikiem albo dokonuje czynności, o której mowa w art. 5 ust. 4 pkt 1 ustawy, w imieniu przewoźnika i dokonuje jednym środkiem transportu, o którym mowa w art. 2 pkt 11 lit. a ustawy, przewozu towarów będących przedmiotem co najmniej dwóch dostaw towarów albo jednej dostawy towarów, w rozumieniu ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług ) , do co najmniej dwóch miejsc dostarczenia towaru, w przypadku przewozu towarów objętych pozycją: CN ex 2711 - propan, butan albo mieszaniny propanu-butanu, załadowanych w składzie podatkowym albo przewożonych bezpośrednio po ich objęciu procedurą celną dopuszczenia do obrotu,"
+      "content": "Podmiot wysyłający, który jest jednocześnie przewoźnikiem albo dokonuje czynności, o której mowa w art. 5 ust. 4 pkt 1 ustawy, w imieniu przewoźnika i dokonuje jednym środkiem transportu, o którym mowa w art. 2 pkt 11 lit. a ustawy, przewozu towarów będących przedmiotem co najmniej dwóch dostaw towarów albo jednej dostawy towarów, w rozumieniu ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług , do co najmniej dwóch miejsc dostarczenia towaru, w przypadku przewozu towarów objętych pozycją: CN ex 2711 ‒ propan, butan albo mieszaniny propanu-butanu, załadowanych w składzie podatkowym albo przewożonych bezpośrednio po ich objęciu procedurą celną dopuszczenia do obrotu,"
     },
     {
       "provision_ref": "par7u1p3",
       "section": "7",
       "title": "§ 7 ust. 1 pkt 3",
-      "content": "Podmiot wysyłający, który jest jednocześnie przewoźnikiem albo dokonuje czynności, o której mowa w art. 5 ust. 4 pkt 1 ustawy, w imieniu przewoźnika i dokonuje jednym środkiem transportu, o którym mowa w art. 2 pkt 11 lit. a ustawy, przewozu towarów będących przedmiotem co najmniej dwóch dostaw towarów albo jednej dostawy towarów, w rozumieniu ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług ) , do co najmniej dwóch miejsc dostarczenia towaru, w przypadku przewozu towarów objętych pozycją: paliw opałowych, o których mowa w art. 3 ust. 2 pkt 1a ustawy, załadowanych w składzie podatkowym"
+      "content": "Podmiot wysyłający, który jest jednocześnie przewoźnikiem albo dokonuje czynności, o której mowa w art. 5 ust. 4 pkt 1 ustawy, w imieniu przewoźnika i dokonuje jednym środkiem transportu, o którym mowa w art. 2 pkt 11 lit. a ustawy, przewozu towarów będących przedmiotem co najmniej dwóch dostaw towarów albo jednej dostawy towarów, w rozumieniu ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług , do co najmniej dwóch miejsc dostarczenia towaru, w przypadku przewozu towarów objętych pozycją: paliw opałowych, o których mowa w art. 3 ust. 2 pkt 1a ustawy, załadowanych w składzie podatkowym"
     },
     {
       "provision_ref": "par7u2",
       "section": "7",
       "title": "§ 7 ust. 2",
-      "content": "W przypadku zgłoszeń, o których mowa w ust. 1 pkt 1 i 2, związanych z dostawą, o której mowa w art. 7 ust. 8 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług , pierwszy podmiot, który dokonuje dostawy towarów, przesyła te zgłoszenia do rejestru zgłoszeń, a ostatni w kolejności nabywca towaru uzupełnia zgłoszenie o informacje o odbiorze towaru."
+      "content": "W przypadku zgłoszeń, o których mowa w ust. 1 pkt 1 i 2, związanych z dostawą, o której mowa w art. 7 ust. 8 5) Uchylony z dniem 1 stycznia 2021 r. na podstawie art. 1 pkt 2 lit. b ustawy z dnia 27 listopada 2020 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (Dz. U. poz. 2419), która weszła w życie z dniem 1 stycznia 2021 r. ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, pierwszy podmiot, który dokonuje dostawy towarów, przesyła te zgłoszenia do rejestru zgłoszeń, a ostatni w kolejności nabywca towaru uzupełnia zgłoszenie o informacje o odbiorze towaru."
     },
     {
       "provision_ref": "par7u3",
@@ -349,13 +385,37 @@
       "provision_ref": "par14",
       "section": "14",
       "title": "§ 14",
-      "content": "Rozporządzenie wchodzi w życie z dniem 1 września 2019 r., z wyjątkiem § 5 ust. 3, który wchodzi w życie z dniem 1 lutego 2020 r., i § 7 ust. 1 pkt 2, który wchodzi w życie z dniem 1 grudnia 2019 r. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 19 września 2018 r. w sprawie zgłoszeń przewozu towarów (Dz. U. poz. 1849 oraz z 2019 r. poz. 1418), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 19 lipca 2019 r. o zmianie ustawy o systemie monitorowania drogowego i kolejowego przewozu towarów oraz niektórych innych ustaw (Dz. U. poz. 1556)."
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 września 2019 r., z wyjątkiem § 5 ust. 3, który wchodzi w życie z dniem 1 lutego 2020 r., i § 7 ust. 1 pkt 2, który wchodzi w życie z dniem 1 grudnia 2019 r. 6) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 19 września 2018 r. w sprawie zgłoszeń przewozu towarów (Dz. U. poz. 1849 oraz z 2019 r. poz. 1418), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 19 lipca 2019 r. o zmianie ustawy o systemie monitorowania drogowego i kolejowego przewozu towarów oraz niektórych innych ustaw (Dz. U. poz. 1556)."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2018-2174",
+      "target_document_id": "pl-du-2019-1461",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-626",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-685",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-694",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-802",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1163",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1243",
       "ref_type": "references"
     }
   ]
