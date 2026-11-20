@@ -62,3 +62,79 @@ describe('parsePolishPdf', () => {
     );
   });
 });
+
+/** Rozporządzenia use § as the top-level unit — no "Art." markers at all. */
+const REG_SAMPLE = `ROZPORZĄDZENIE MINISTRA EDUKACJI
+z dnia 4 marca 2026 r.
+w sprawie testowej
+Na podstawie art. 12 ust. 3 ustawy z dnia 1 stycznia 2020 r. zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
+1) warunki przyznawania akredytacji;
+2) tryb odmowy.
+§ 2. 1. Wniosek składa się do kuratora oświaty.
+2. Do wniosku dołącza się dokumenty.
+§ 3. Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2026 r.`;
+
+describe('parsePolishPdf — regulations (§ top-level)', () => {
+  it('splits on top-level § when the act has no articles', () => {
+    const p = parsePolishPdf(REG_SAMPLE, { ...ACT, title: 'Rozporządzenie testowe' });
+    const refs = p.provisions.map(x => x.provision_ref);
+    expect(refs).toEqual(expect.arrayContaining(['par1', 'par1p1', 'par1p2', 'par2', 'par2u1', 'par2u2', 'par3']));
+    expect(refs.some(r => r.startsWith('art'))).toBe(false);
+    const par2 = p.provisions.find(x => x.provision_ref === 'par2')!;
+    expect(par2.title).toBe('§ 2');
+    expect(p.provisions.find(x => x.provision_ref === 'par2u2')!.title).toBe('§ 2 ust. 2');
+  });
+
+  it('keeps Art. mode for statutes that quote § inside articles', () => {
+    const refs = parsePolishPdf(SAMPLE, ACT).provisions.map(x => x.provision_ref);
+    expect(refs.some(r => r.startsWith('par'))).toBe(false);
+  });
+
+  it('does not reject regulations whose annex dwarfs the §§', () => {
+    const annex = '\nZałącznik nr 1\n' + 'Pozycja klasyfikacji wyrobów i usług. '.repeat(2000);
+    const p = parsePolishPdf(REG_SAMPLE + annex, { ...ACT, title: 'Rozporządzenie testowe' });
+    expect(p.provisions.map(x => x.provision_ref)).toContain('par3');
+  });
+
+  it('keeps Art. mode for codes whose §§ start more lines than articles do', () => {
+    const code = `Art. 30. § 1. Umowa o pracę rozwiązuje się:
+1) na mocy porozumienia stron;
+2) przez oświadczenie jednej ze stron.
+§ 2. Umowa o pracę na okres próbny rozwiązuje się z upływem czasu.
+§ 3. Oświadczenie każdej ze stron powinno nastąpić na piśmie.
+§ 4. W oświadczeniu pracodawcy należy wskazać przyczynę.
+Art. 31. § 1. Za pracodawcę czynności dokonuje osoba wyznaczona.
+§ 2. Przepis stosuje się odpowiednio.
+§ 3. Inny przepis.`;
+    const refs = parsePolishPdf(code, ACT).provisions.map(x => x.provision_ref);
+    expect(refs).toEqual(expect.arrayContaining(['art30', 'art30par2', 'art31', 'art31par3']));
+    expect(refs).not.toContain('par2');
+  });
+
+  it('stops at the annex heading instead of gluing the annex onto the last §', () => {
+    const withAnnex = REG_SAMPLE + `
+Minister Edukacji: B. Nowacka
+Załącznik do rozporządzenia Ministra Edukacji z dnia 4 marca 2026 r.
+1. Sekcja A – Produkty rolnictwa.
+2. Sekcja B – Górnictwo.`;
+    const p = parsePolishPdf(withAnnex, { ...ACT, title: 'Rozporządzenie testowe' });
+    const refs = p.provisions.map(x => x.provision_ref);
+    expect(refs.filter(r => r.startsWith('par3'))).toEqual(['par3']);
+    expect(p.provisions.find(x => x.provision_ref === 'par3')!.content).not.toMatch(/Sekcja/);
+    // The annex is kept as its own unsplit row, not dropped.
+    const zal = p.provisions.filter(x => x.provision_ref.startsWith('zal'));
+    expect(zal.map(x => x.provision_ref)).toEqual(['zal1']);
+    expect(zal[0]!.title).toMatch(/^Załącznik do rozporządzenia/);
+    expect(zal[0]!.content).toMatch(/Sekcja A.*Sekcja B/);
+  });
+
+  it('does not stop at the obwieszczenie annex that carries a consolidated text', () => {
+    const tj = `Załącznik do obwieszczenia Marszałka Sejmu Rzeczypospolitej Polskiej
+Art. 1. Ustawa określa zasady.
+Art. 2. 1. Pierwszy ustęp.
+2. Drugi ustęp.`;
+    const refs = parsePolishPdf(tj, ACT).provisions.map(x => x.provision_ref);
+    expect(refs).toEqual(expect.arrayContaining(['art1', 'art2', 'art2u2']));
+  });
+});

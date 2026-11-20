@@ -7,6 +7,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+- Data refresh to Dziennik Ustaw of 2026-11-16: 20,791 acts (9,343 ustawy + 11,448 in-force rozporządzenia), 1,463,410 provisions.
+- Re-ingested acts changed upstream since the previous census (1,180 ustawy, 1,431 rozporządzenia), preferring the newest consolidated text; 376 ustawy whose consolidated text is PDF-only re-ingested from PDF.
+- Pruned 154 rozporządzenia that are no longer in force.
+- 401 rozporządzenia whose newest consolidated text is PDF-only re-ingested from PDF; 44 amending ustawy from 2025–2026 added.
+
+### Added
+- PDF ingestion of rozporządzenia (`ingest:pdf -- --regulations --from YEAR`): since 2025 the Sejm ELI API serves new acts as PDF only. PDF parser handles § as the top-level unit and keeps annexes (załączniki) as separate `zalN` provisions instead of gluing them onto the last unit.
+- `ingest:regulations` resolves consolidated texts and supports `--id-file` and `--prune`.
+
+### Fixed
+- `ingest` no longer overwrites an existing seed with the base act's original wording when the newest consolidated text is PDF-only.
+- `census` keeps manual `not_ingestable` reclassifications across re-runs.
+- PDF quality gate (built for scanned OCR) no longer rejects born-digital acts (post-2000) with large annexes, e.g. the 2026 budget act.
+
 ## [1.0.0] - 2026-XX-XX
 ### Added
 - Initial release of Polish Law MCP

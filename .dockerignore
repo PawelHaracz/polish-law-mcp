@@ -16,3 +16,6 @@ data/census.json
 !README.md
 .claude
 scratchpad
+
+# Local DB backups (database.db.bak, database.db.pre-*) — never in the image.
+data/database.db.*

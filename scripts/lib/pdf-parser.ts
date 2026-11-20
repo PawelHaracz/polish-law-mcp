@@ -85,13 +85,44 @@ export function parsePolishPdf(rawText: string, act: ActIndexEntry): ParsedAct {
     if (!current) return;
     const body = current.buf.join(' ').replace(/\s+/g, ' ').trim();
     if (body.length >= 3) {
-      buildArticleRows(current.num, body, act, provisions);
+      build(current.num, body, act, provisions);
     }
     current = null;
   };
 
+  // Rozporządzenia have no articles: § is their top-level unit (refs par1,
+  // par1u2 … like the HTML parser). Codes (KP, KC …) also start many lines with
+  // "§ N." — usually more than with "Art." — so a simple majority is wrong.
+  // Pick § mode only when Art. markers are absent or a stray handful (a quoted
+  // statute in an annex) next to an order of magnitude more §§.
+  const parStart = /^§\s*(\d+[a-z]*)\.\s*(.*)$/;
+  const artCount = lines.filter(l => artStart.test(l)).length;
+  const parCount = lines.filter(l => parStart.test(l)).length;
+  const paragrafMode = parCount > 0 && artCount * 10 < parCount;
+  const unitStart = paragrafMode ? parStart : artStart;
+  const build = paragrafMode ? buildParagrafRows : buildArticleRows;
+
+  // Annexes (załączniki: tariffs, forms, classifications) follow the last unit;
+  // glued onto it, their numbering became bogus ustęp/punkt leaves (PKWiU
+  // yielded par4u1…u71 and a 780 KB § 4). Once a unit has started, each annex
+  // heading opens its own unsplit row: zal1, zal2 … "do obwieszczenia" is
+  // skipped: in consolidated texts the act itself IS that annex.
+  const annexStart = /^(?:Załącznik|ZAŁĄCZNIK)(?:i|I)?(?:\s+(?:nr|NR)\s+\d+[a-z]*)?(?:\s+do\s+(?!obwieszczenia)|\s*$)/;
+
+  const annexes: Array<{ heading: string; buf: string[] }> = [];
+
   for (const line of lines) {
-    const m = line.match(artStart);
+    if (annexes.length > 0) {
+      if (annexStart.test(line.trim())) annexes.push({ heading: line.trim(), buf: [] });
+      else annexes[annexes.length - 1]!.buf.push(line);
+      continue;
+    }
+    if (current && annexStart.test(line.trim())) {
+      flush();
+      annexes.push({ heading: line.trim(), buf: [] });
+      continue;
+    }
+    const m = line.match(unitStart);
     if (m) {
       flush();
       current = { num: m[1].toLowerCase(), buf: m[2] ? [m[2]] : [] };
@@ -102,13 +133,33 @@ export function parsePolishPdf(rawText: string, act: ActIndexEntry): ParsedAct {
   }
   flush();
 
+  // Consecutive headings (a multi-line "Załącznik nr 1 / do rozporządzenia …")
+  // leave empty chunks; fold them into the next one so numbering stays dense.
+  let zal = 0;
+  let pendingHeading = '';
+  for (const a of annexes) {
+    const body = a.buf.join(' ').replace(/\s+/g, ' ').trim();
+    const heading = (pendingHeading ? `${pendingHeading} ${a.heading}` : a.heading).slice(0, 200);
+    if (body.length < 3) { pendingHeading = heading; continue; }
+    pendingHeading = '';
+    zal++;
+    provisions.push({ provision_ref: `zal${zal}`, section: `zal${zal}`, title: heading, content: body });
+  }
+
   // Quality gate: an act with substantial text but almost no recognised articles
   // is unusable OCR (typical of pre-war scans). Better to skip it than to store a
   // garbage seed in a legal database. Threshold is deliberately lenient — one
   // good article per ~4 KB of text — so clean modern PDFs always pass.
-  const articleRows = provisions.filter(p => /^art\d+[a-z]*$/.test(p.provision_ref)).length;
+  const articleRows = provisions.filter(p => /^(?:art|par)\d+[a-z]*$/.test(p.provision_ref)).length;
   const textKb = rawText.length / 1024;
-  if (articleRows === 0 || (textKb > 8 && articleRows < textKb / 8)) {
+  // The density check targets scanned OCR (always Art.-based). Regulations are
+  // born-digital and often carry huge annexes (PKWiU, forms) after a handful of
+  // §§, so in § mode only an empty parse is rejected.
+  // Post-2000 Dziennik Ustaw PDFs are born-digital too (budget acts, amending
+  // acts with long quoted annexes trip the density check without being OCR).
+  const ocrEra = act.year < 2000;
+  const tooSparse = !paragrafMode && ocrEra && textKb > 8 && articleRows < textKb / 8;
+  if (articleRows === 0 || tooSparse) {
     return {
       id: act.id, type: 'statute', title: act.title, title_en: act.titleEn,
       short_name: act.shortName, status: act.status, issued_date: act.issuedDate,
@@ -173,6 +224,37 @@ function buildArticleRows(
     for (const { n, text } of ustepParts) {
       if (!n) continue; // chapeau handled inside splitNumbered consumers
       emitLeafWithPunkty(`${baseRef}u${n}`, `Art. ${num} ust. ${n}`, num, text, provisions);
+    }
+  }
+}
+
+/**
+ * Regulation counterpart of buildArticleRows: § N is the top-level unit, split
+ * into ustępy ("1.") and punkty ("1)") the same way.
+ */
+function buildParagrafRows(
+  num: string,
+  body: string,
+  _act: ActIndexEntry,
+  provisions: ParsedProvision[],
+): void {
+  const baseRef = `par${num}`;
+  provisions.push({ provision_ref: baseRef, section: num, title: `§ ${num}`, content: body });
+
+  const ustepParts = splitNumbered(body, USTEP_RE);
+  if (ustepParts.some(p => p.n)) {
+    for (const { n, text } of ustepParts) {
+      if (!n) continue;
+      emitLeafWithPunkty(`${baseRef}u${n}`, `§ ${num} ust. ${n}`, num, text, provisions);
+    }
+    return;
+  }
+  // No ustępy: split punkty straight off the § ("§ 1. … określa: 1) … 2) …").
+  const punktParts = splitNumbered(body, /(?:^|\s)(\d+[a-z]*)\)\s+/g);
+  if (punktParts.filter(p => p.n).length > 1) {
+    for (const p of punktParts) {
+      if (!p.n) continue;
+      provisions.push({ provision_ref: `${baseRef}p${p.n}`, section: num, title: `§ ${num} pkt ${p.n}`, content: p.text });
     }
   }
 }
