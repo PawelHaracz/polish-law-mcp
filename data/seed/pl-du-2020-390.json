@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/390",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -74,6 +80,30 @@
       "section": "2",
       "title": "§ 2 pkt 2 lit. d",
       "content": "Określa się następujące formy szkolenia w dziedzinie ochrony radiologicznej pacjenta, o którym mowa w art. 33n ust. 3 pkt 1 ustawy: szkolenie na odległość - w ramach którego przekazywanie wiedzy odbywa się z wykorzystaniem infrastruktury informatycznej i oprogramowania umożliwiających: sprawdzenie wiedzy po zakończeniu każdego bloku tematycznego szkolenia oraz wgląd do wyników takiego sprawdzenia."
+    },
+    {
+      "provision_ref": "par2a",
+      "section": "2a",
+      "title": "§ 2a",
+      "content": "Egzamin wewnętrzny w ramach szkoleń prowadzonych w formach, o których mowa w § 2, jest przeprowadzany w formie stacjonarnej, polegającej na udzielaniu w czasie 60 minut odpowiedzi na pytania zawarte w teście obejmującym od 30 do 40 pytań z zakresu tematycznego tego szkolenia. W uzasadnionych przypadkach, związanych z ogłoszeniem stanu zagrożenia epidemicznego lub stanu epidemii, egzamin wewnętrzny może zostać przeprowadzony na odległość, za pośrednictwem środków komunikacji elektronicznej umożliwiających jednoczesny udział zdającego i egzaminatorów, i polega na: udzielaniu w czasie 60 minut odpowiedzi na pytania zawarte w teście obejmującym od 30 do 40 pytań z zakresu tematycznego tego szkolenia albo udzielaniu odpowiedzi na 10 pytań z zakresu tematycznego szkolenia, kierowanych do uczestnika tego szkolenia przez egzaminatorów."
+    },
+    {
+      "provision_ref": "par2au1",
+      "section": "2a",
+      "title": "§ 2a ust. 1",
+      "content": "Egzamin wewnętrzny w ramach szkoleń prowadzonych w formach, o których mowa w § 2, jest przeprowadzany w formie stacjonarnej, polegającej na udzielaniu w czasie 60 minut odpowiedzi na pytania zawarte w teście obejmującym od 30 do 40 pytań z zakresu tematycznego tego szkolenia."
+    },
+    {
+      "provision_ref": "par2au2p1",
+      "section": "2a",
+      "title": "§ 2a ust. 2 pkt 1",
+      "content": "W uzasadnionych przypadkach, związanych z ogłoszeniem stanu zagrożenia epidemicznego lub stanu epidemii, egzamin wewnętrzny może zostać przeprowadzony na odległość, za pośrednictwem środków komunikacji elektronicznej umożliwiających jednoczesny udział zdającego i egzaminatorów, i polega na: udzielaniu w czasie 60 minut odpowiedzi na pytania zawarte w teście obejmującym od 30 do 40 pytań z zakresu tematycznego tego szkolenia albo"
+    },
+    {
+      "provision_ref": "par2au2p2",
+      "section": "2a",
+      "title": "§ 2a ust. 2 pkt 2",
+      "content": "W uzasadnionych przypadkach, związanych z ogłoszeniem stanu zagrożenia epidemicznego lub stanu epidemii, egzamin wewnętrzny może zostać przeprowadzony na odległość, za pośrednictwem środków komunikacji elektronicznej umożliwiających jednoczesny udział zdającego i egzaminatorów, i polega na: udzielaniu odpowiedzi na 10 pytań z zakresu tematycznego szkolenia, kierowanych do uczestnika tego szkolenia przez egzaminatorów."
     },
     {
       "provision_ref": "par3",
@@ -163,21 +193,21 @@
       "provision_ref": "par7",
       "section": "7",
       "title": "§ 7",
-      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 18 lutego 2011 r. w sprawie warunków bezpiecznego stosowania promieniowania jonizującego dla wszystkich rodzajów ekspozycji medycznej (Dz. U. z 2017 r. poz. 884), które w zakresie regulacji niniejszego rozporządzenia utraciło moc z dniem 23 września 2019 r., w związku z wejściem w życie ustawy z dnia 13 czerwca 2019 r. o zmianie ustawy - Prawo atomowe oraz ustawy o ochronie przeciwpożarowej (Dz. U. poz. 1593 oraz z 2020 r. poz. 284)."
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia 4) Rozporządzenie zostało ogłoszone w dniu 10 marca 2020 r. . 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 18 lutego 2011 r. w sprawie warunków bezpiecznego stosowania promieniowania jonizującego dla wszystkich rodzajów ekspozycji medycznej (Dz. U. z 2017 r. poz. 884), które w zakresie regulacji niniejszego rozporządzenia utraciło moc z dniem 23 września 2019 r., w związku z wejściem w życie ustawy z dnia 13 czerwca 2019 r. o zmianie ustawy - Prawo atomowe oraz ustawy o ochronie przeciwpożarowej (Dz. U. poz. 1593 oraz z 2020 r. poz. 284)."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2019-1792",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2020-284",
+      "target_document_id": "pl-du-2020-2044",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2020-322",
+      "target_document_id": "pl-du-2021-1941",
       "ref_type": "references"
     }
   ]

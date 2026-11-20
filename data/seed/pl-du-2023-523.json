@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2023/523",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -37,13 +43,25 @@
       "provision_ref": "par2",
       "section": "2",
       "title": "§ 2",
-      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia 2) Rozporządzenie zostało ogłoszone w dniu 20 marca 2023 r. ."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2022-1967",
+      "target_document_id": "pl-du-2019-1461",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1099",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1772",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1693",
       "ref_type": "references"
     }
   ]

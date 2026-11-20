@@ -10,10 +10,16 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2015/2011",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
-      "content": "Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przedsiębiorcom, w ramach regionalnych programów operacyjnych na lata 2014-2020, następujących rodzajów pomocy: pomocy inwestycyjnej na infrastrukturę energetyczną, pomocy na badania środowiska - zwanych dalej „pomocą”, do których mają zastosowanie przepisy rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu , zwanego dalej „rozporządzeniem nr 651/2014”, a także podmioty udzielające tej pomocy."
+      "content": "Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przedsiębiorcom, w ramach regionalnych programów operacyjnych na lata 2014-2020, następujących rodzajów pomocy: pomocy inwestycyjnej na infrastrukturę energetyczną, pomocy na badania środowiska ̶ zwanych dalej „pomocą”, do których mają zastosowanie przepisy rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu , zwanego dalej „rozporządzeniem nr 651/2014”, a także podmioty udzielające tej pomocy."
     },
     {
       "provision_ref": "par1p1",
@@ -223,7 +229,7 @@
       "provision_ref": "par16",
       "section": "16",
       "title": "§ 16",
-      "content": "Przedsiębiorca składa wniosek do podmiotu udzielającego pomocy. Wniosek zawiera: informacje wskazane w art. 6 ust. 2 zdanie drugie rozporządzenia nr 651/2014; inne informacje, wskazane przez podmiot udzielający pomocy, niezbędne do dokonania oceny wniosku. Do wniosku przedsiębiorca załącza dokumenty przygotowane zgodnie z przepisami wydanymi na podstawie art. 37 ust. 6 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej ) . Po przeprowadzeniu oceny wniosku pomoc może być udzielona przedsiębiorcy na podstawie umowy albo decyzji o dofinansowaniu projektu w rozumieniu art. 2 pkt 2 ustawy."
+      "content": "Przedsiębiorca składa wniosek do podmiotu udzielającego pomocy. Wniosek zawiera: informacje wskazane w art. 6 ust. 2 zdanie drugie rozporządzenia nr 651/2014; inne informacje, wskazane przez podmiot udzielający pomocy, niezbędne do dokonania oceny wniosku. Do wniosku przedsiębiorca załącza dokumenty przygotowane zgodnie z przepisami wydanymi na podstawie art. 37 ust. 6 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej . Po przeprowadzeniu oceny wniosku pomoc może być udzielona przedsiębiorcy na podstawie umowy albo decyzji o dofinansowaniu projektu w rozumieniu art. 2 pkt 2 ustawy."
     },
     {
       "provision_ref": "par16u1",
@@ -247,7 +253,7 @@
       "provision_ref": "par16u3",
       "section": "16",
       "title": "§ 16 ust. 3",
-      "content": "Do wniosku przedsiębiorca załącza dokumenty przygotowane zgodnie z przepisami wydanymi na podstawie art. 37 ust. 6 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej ) ."
+      "content": "Do wniosku przedsiębiorca załącza dokumenty przygotowane zgodnie z przepisami wydanymi na podstawie art. 37 ust. 6 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej ."
     },
     {
       "provision_ref": "par16u4",
@@ -259,23 +265,31 @@
       "provision_ref": "par17",
       "section": "17",
       "title": "§ 17",
-      "content": "Pomoc jest udzielana do dnia 31 grudnia 2020 r."
+      "content": "Pomoc jest udzielana do końca okresu dostosowawczego, o którym mowa w art. 58 ust. 4 zdanie pierwsze, w związku z art. 59 rozporządzenia nr 651/2014."
     },
     {
       "provision_ref": "par18",
       "section": "18",
       "title": "§ 18",
-      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia 3) Rozporządzenie zostało ogłoszone w dniu 2 grudnia 2015 r. ."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2014-1146",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2007-404",
+      "target_document_id": "pl-du-2020-2197",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-818",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-743",
       "ref_type": "references"
     }
   ]

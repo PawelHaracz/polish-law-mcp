@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2017/1573",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -61,13 +67,21 @@
       "provision_ref": "par7",
       "section": "7",
       "title": "§ 7",
-      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 15 lipca 2015 r. w sprawie szczegółowych wymagań dotyczących wytwarzania i jakości roślin sadowniczych, materiału szkółkarskiego CAC, materiału rozmnożeniowego i materiału nasadzeniowego roślin warzywnych i ozdobnych oraz sadzonek winorośli, a także metod oceny polowej, pobierania prób i oceny laboratoryjnej oraz oceny tożsamości materiału siewnego kategorii elitarny lub kwalifikowany roślin sadowniczych (Dz. U. poz. 1124), które na podstawie art. 10 ustawy z dnia 16 grudnia 2016 r. o zmianie ustawy o nasiennictwie oraz ustawy o ochronie roślin (Dz. U. poz. 2246) traci moc z dniem wejścia w życie niniejszego rozporządzenia."
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia 3) Rozporządzenie zostało ogłoszone w dniu 24 sierpnia 2017 r. . 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 15 lipca 2015 r. w sprawie szczegółowych wymagań dotyczących wytwarzania i jakości roślin sadowniczych, materiału szkółkarskiego CAC, materiału rozmnożeniowego i materiału nasadzeniowego roślin warzywnych i ozdobnych oraz sadzonek winorośli, a także metod oceny polowej, pobierania prób i oceny laboratoryjnej oraz oceny tożsamości materiału siewnego kategorii elitarny lub kwalifikowany roślin sadowniczych (Dz. U. poz. 1124), które na podstawie art. 10 ustawy z dnia 16 grudnia 2016 r. o zmianie ustawy o nasiennictwie oraz ustawy o ochronie roślin (Dz. U. poz. 2246) utraciło moc z dniem wejścia w życie niniejszego rozporządzenia."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2017-633",
+      "target_document_id": "pl-du-2019-1461",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-1659",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-568",
       "ref_type": "references"
     }
   ]

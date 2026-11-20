@@ -10,10 +10,16 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/12",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
-      "content": "Zarządza się zaniechanie poboru podatku dochodowego od osób prawnych od dochodów stanowiących równowartość niezaliczonych do kosztów uzyskania przychodów odpisów amortyzacyjnych od wartości początkowej środków trwałych wniesionych nieodpłatnie przez podmiot tworzący w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej ) do spółki kapitałowej powstałej na podstawie tej ustawy w wyniku przekształcenia samodzielnego publicznego zakładu opieki zdrowotnej."
+      "content": "Zarządza się zaniechanie poboru podatku dochodowego od osób prawnych od dochodów stanowiących równowartość niezaliczonych do kosztów uzyskania przychodów odpisów amortyzacyjnych od wartości początkowej środków trwałych wniesionych nieodpłatnie przez podmiot tworzący w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej do spółki kapitałowej powstałej na podstawie tej ustawy w wyniku przekształcenia samodzielnego publicznego zakładu opieki zdrowotnej."
     },
     {
       "provision_ref": "par2",
@@ -25,23 +31,39 @@
       "provision_ref": "par3",
       "section": "3",
       "title": "§ 3",
-      "content": "Zaniechanie, o którym mowa w § 1, ma zastosowanie do dochodów uzyskanych od dnia 1 stycznia 2020 r. do dnia 31 grudnia 2022 r."
+      "content": "Zaniechanie, o którym mowa w § 1, ma zastosowanie do dochodów uzyskanych od dnia 1 stycznia 2020 r. do dnia 31 grudnia 2025 r."
     },
     {
       "provision_ref": "par4",
       "section": "4",
       "title": "§ 4",
-      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia 3) Rozporządzenie zostało ogłoszone w dniu 7 stycznia 2020 r. ."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2019-900",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2018-2190",
+      "target_document_id": "pl-du-2022-2660",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-2383",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-2760",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2024-879",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2024-799",
       "ref_type": "references"
     }
   ]

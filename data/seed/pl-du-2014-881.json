@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2014/881",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -49,7 +55,7 @@
       "provision_ref": "par3",
       "section": "3",
       "title": "§ 3",
-      "content": "Prezes sądu apelacyjnego wyznacza kierownika stażu, którym jest kierownik szkolenia w sądzie okręgowym lub apelacyjnym."
+      "content": "Prezes sądu apelacyjnego wyznacza kierownika stażu spośród sędziów sądu okręgowego lub apelacyjnego. Wyznaczenie może nastąpić tylko za zgodą sędziego."
     },
     {
       "provision_ref": "par4",
@@ -187,13 +193,21 @@
       "provision_ref": "par9",
       "section": "9",
       "title": "§ 9",
-      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia 2) Rozporządzenie zostało ogłoszone w dniu 1 lipca 2014 r. ."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2013-427",
+      "target_document_id": "pl-du-2019-1461",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-500",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-2072",
       "ref_type": "references"
     }
   ]

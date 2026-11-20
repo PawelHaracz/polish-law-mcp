@@ -10,26 +10,58 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2017/214",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Zobowiązanie gwaranta stanowiące zabezpieczenie generalne w operacjach celnych, innych niż procedura tranzytowa, dokonywanych na terytorium Rzeczypospolitej Polskiej: złożone według wzoru stanowiącego załącznik do rozporządzenia zmienianego w § 1, w brzmieniu dotychczasowym, uznane przez organ właściwy w sprawie złożenia zabezpieczenia - przed dniem wejścia w życie niniejszego rozporządzenia, zachowuje ważność."
+    },
+    {
+      "provision_ref": "par2p1",
+      "section": "2",
+      "title": "§ 2 pkt 1",
+      "content": "Zobowiązanie gwaranta stanowiące zabezpieczenie generalne w operacjach celnych, innych niż procedura tranzytowa, dokonywanych na terytorium Rzeczypospolitej Polskiej: złożone według wzoru stanowiącego załącznik do rozporządzenia zmienianego w § 1, w brzmieniu dotychczasowym,"
+    },
+    {
+      "provision_ref": "par2p2",
+      "section": "2",
+      "title": "§ 2 pkt 2",
+      "content": "Zobowiązanie gwaranta stanowiące zabezpieczenie generalne w operacjach celnych, innych niż procedura tranzytowa, dokonywanych na terytorium Rzeczypospolitej Polskiej: uznane przez organ właściwy w sprawie złożenia zabezpieczenia"
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
-      "content": "Zezwala się, aby zobowiązanie gwaranta stanowiące zabezpieczenie generalne w operacjach celnych, innych niż procedura tranzytowa, dokonywanych na terytorium Rzeczypospolitej Polskiej było składane w formie, której wzór określa załącznik do rozporządzenia."
+      "content": "Zezwala się, aby zobowiązanie gwaranta stanowiące zabezpieczenie generalne w operacjach celnych, innych niż procedura tranzytowa, dokonywanych na terytorium Rzeczypospolitej Polskiej było składane w formie papierowej albo elektronicznej, której wzór określa załącznik do rozporządzenia."
     },
     {
       "provision_ref": "par2",
       "section": "2",
       "title": "§ 2",
-      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia 3) Rozporządzenie zostało ogłoszone w dniu 3 lutego 2017 r. ."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2016-1880",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2016-1948",
+      "target_document_id": "pl-du-2021-600",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1856",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-1301",
       "ref_type": "references"
     }
   ]

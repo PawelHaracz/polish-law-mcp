@@ -10,6 +10,18 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2017/1224",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Zaświadczenia o zdaniu egzaminu ze znajomości języka polskiego niezbędnej do wykonywania zawodu fizjoterapeuty wydane przed dniem wejścia w życie niniejszego rozporządzenia zachowują ważność."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -361,17 +373,21 @@
       "provision_ref": "par12",
       "section": "12",
       "title": "§ 12",
-      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia 2) Rozporządzenie zostało ogłoszone w dniu 26 czerwca 2017 r. ."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2015-1994",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2017-599",
+      "target_document_id": "pl-du-2019-1998",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-168",
       "ref_type": "references"
     }
   ]

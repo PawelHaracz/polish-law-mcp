@@ -10,6 +10,18 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2012/1500",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -19,19 +31,31 @@
       "provision_ref": "par2",
       "section": "2",
       "title": "§ 2",
-      "content": "Świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona, występujący do Funduszu o sporządzenie dokumentu elektronicznego potwierdzającego prawo do świadczeń opieki zdrowotnej, o którym mowa w art. 50 ust. 3 ustawy, zwanego dalej „dokumentem potwierdzającym prawo do świadczeń”, jest obowiązany spełniać następujące warunki: posiadać umowę o udzielanie świadczeń opieki zdrowotnej albo umowę upoważniającą do wystawiania recept refundowanych; posiadać upoważnienie do korzystania z usługi świadczonej przez system teleinformatyczny Funduszu w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne ) , umożliwiającej występowanie o sporządzenie dokumentu potwierdzającego prawo do świadczeń, zwanej dalej „usługą Elektronicznej Weryfikacji Uprawnień Świadczeniobiorców”; powierzyć, osobom uprawnionym zgodnie z § 4, wykonywanie zadań polegających na: występowaniu do Funduszu o sporządzenie dokumentu potwierdzającego prawo do świadczeń przez usługę Elektronicznej Weryfikacji Uprawnień Świadczeniobiorców oraz nadawaniu i odbieraniu uprawnień do występowania do Funduszu o sporządzenie dokumentu potwierdzającego prawo do świadczeń przez usługę Elektronicznej Weryfikacji Uprawnień Świadczeniobiorców osobom upoważnionym przez świadczeniodawcę lub niebędącą świadczeniodawcą osobę uprawnioną do dokonywania tej czynności."
+      "content": "Świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona, występujący do Funduszu o sporządzenie dokumentu elektronicznego potwierdzającego prawo do świadczeń opieki zdrowotnej, o którym mowa w art. 50 ust. 3 ustawy, zwanego dalej „dokumentem potwierdzającym prawo do świadczeń”, jest obowiązany spełniać następujące warunki: w przypadku: świadczeniodawcy - posiadać umowę o udzielanie świadczeń opieki zdrowotnej, apteki realizującej czynności z zakresu zaopatrzenia w wyroby medyczne - posiadać umowę o udzielanie świadczeń opieki zdrowotnej w rodzaju zaopatrzenie w wyroby medyczne, niebędącej świadczeniodawcą osoby uprawnionej - potwierdzić prawo wykonywania zawodu medycznego, które zgodnie z przepisami dotyczącymi wykonywania danego zawodu medycznego uprawnia do wystawiania recept zgodnie z ustawą z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych oraz ustawą z dnia 6 września 2001 r. - Prawo farmaceutyczne oraz zleceń na zaopatrzenie w wyroby medyczne, o których mowa w art. 38 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych - przez przedstawienie kopii dokumentów potwierdzających prawo wykonywania zawodu; posiadać upoważnienie do korzystania z usługi świadczonej przez system teleinformatyczny Funduszu w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne , umożliwiającej występowanie o sporządzenie dokumentu potwierdzającego prawo do świadczeń, zwanej dalej „usługą Elektronicznej Weryfikacji Uprawnień Świadczeniobiorców”; powierzyć, osobom uprawnionym zgodnie z § 4, wykonywanie zadań polegających na: występowaniu do Funduszu o sporządzenie dokumentu potwierdzającego prawo do świadczeń przez usługę Elektronicznej Weryfikacji Uprawnień Świadczeniobiorców oraz nadawaniu i odbieraniu uprawnień do występowania do Funduszu o sporządzenie dokumentu potwierdzającego prawo do świadczeń przez usługę Elektronicznej Weryfikacji Uprawnień Świadczeniobiorców osobom upoważnionym przez świadczeniodawcę lub niebędącą świadczeniodawcą osobę uprawnioną do dokonywania tej czynności."
     },
     {
-      "provision_ref": "par2p1",
+      "provision_ref": "par2p2la",
       "section": "2",
-      "title": "§ 2 pkt 1",
-      "content": "Świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona, występujący do Funduszu o sporządzenie dokumentu elektronicznego potwierdzającego prawo do świadczeń opieki zdrowotnej, o którym mowa w art. 50 ust. 3 ustawy, zwanego dalej „dokumentem potwierdzającym prawo do świadczeń”, jest obowiązany spełniać następujące warunki: posiadać umowę o udzielanie świadczeń opieki zdrowotnej albo umowę upoważniającą do wystawiania recept refundowanych;"
+      "title": "§ 2 pkt 2 lit. a",
+      "content": "Świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona, występujący do Funduszu o sporządzenie dokumentu elektronicznego potwierdzającego prawo do świadczeń opieki zdrowotnej, o którym mowa w art. 50 ust. 3 ustawy, zwanego dalej „dokumentem potwierdzającym prawo do świadczeń”, jest obowiązany spełniać następujące warunki: w przypadku: świadczeniodawcy - posiadać umowę o udzielanie świadczeń opieki zdrowotnej,"
+    },
+    {
+      "provision_ref": "par2p2lb",
+      "section": "2",
+      "title": "§ 2 pkt 2 lit. b",
+      "content": "Świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona, występujący do Funduszu o sporządzenie dokumentu elektronicznego potwierdzającego prawo do świadczeń opieki zdrowotnej, o którym mowa w art. 50 ust. 3 ustawy, zwanego dalej „dokumentem potwierdzającym prawo do świadczeń”, jest obowiązany spełniać następujące warunki: w przypadku: apteki realizującej czynności z zakresu zaopatrzenia w wyroby medyczne - posiadać umowę o udzielanie świadczeń opieki zdrowotnej w rodzaju zaopatrzenie w wyroby medyczne,"
+    },
+    {
+      "provision_ref": "par2p2lc",
+      "section": "2",
+      "title": "§ 2 pkt 2 lit. c",
+      "content": "Świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona, występujący do Funduszu o sporządzenie dokumentu elektronicznego potwierdzającego prawo do świadczeń opieki zdrowotnej, o którym mowa w art. 50 ust. 3 ustawy, zwanego dalej „dokumentem potwierdzającym prawo do świadczeń”, jest obowiązany spełniać następujące warunki: w przypadku: niebędącej świadczeniodawcą osoby uprawnionej - potwierdzić prawo wykonywania zawodu medycznego, które zgodnie z przepisami dotyczącymi wykonywania danego zawodu medycznego uprawnia do wystawiania recept zgodnie z ustawą z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych oraz ustawą z dnia 6 września 2001 r. - Prawo farmaceutyczne oraz zleceń na zaopatrzenie w wyroby medyczne, o których mowa w art. 38 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych - przez przedstawienie kopii dokumentów potwierdzających prawo wykonywania zawodu;"
     },
     {
       "provision_ref": "par2p2",
       "section": "2",
       "title": "§ 2 pkt 2",
-      "content": "Świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona, występujący do Funduszu o sporządzenie dokumentu elektronicznego potwierdzającego prawo do świadczeń opieki zdrowotnej, o którym mowa w art. 50 ust. 3 ustawy, zwanego dalej „dokumentem potwierdzającym prawo do świadczeń”, jest obowiązany spełniać następujące warunki: posiadać upoważnienie do korzystania z usługi świadczonej przez system teleinformatyczny Funduszu w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne ) , umożliwiającej występowanie o sporządzenie dokumentu potwierdzającego prawo do świadczeń, zwanej dalej „usługą Elektronicznej Weryfikacji Uprawnień Świadczeniobiorców”;"
+      "content": "Świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona, występujący do Funduszu o sporządzenie dokumentu elektronicznego potwierdzającego prawo do świadczeń opieki zdrowotnej, o którym mowa w art. 50 ust. 3 ustawy, zwanego dalej „dokumentem potwierdzającym prawo do świadczeń”, jest obowiązany spełniać następujące warunki: posiadać upoważnienie do korzystania z usługi świadczonej przez system teleinformatyczny Funduszu w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne , umożliwiającej występowanie o sporządzenie dokumentu potwierdzającego prawo do świadczeń, zwanej dalej „usługą Elektronicznej Weryfikacji Uprawnień Świadczeniobiorców”;"
     },
     {
       "provision_ref": "par2p3la",
@@ -49,7 +73,7 @@
       "provision_ref": "par3",
       "section": "3",
       "title": "§ 3",
-      "content": "W celu uzyskania upoważnienia do korzystania z usługi Elektronicznej Weryfikacji Uprawnień Świadczeniobiorców, świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona, składa wniosek o wydanie tego upoważnienia. Wniosek o wydanie upoważnienia, o którym mowa w ust. 1, zawiera: dane identyfikujące świadczeniodawcę lub niebędącą świadczeniodawcą osobę uprawnioną: nazwę (firmę) świadczeniodawcy, a w przypadku niebędącej świadczeniodawcą osoby uprawnionej - imię i nazwisko tej osoby, numer identyfikacyjny świadczeniodawcy, określony przez Fundusz, a w przypadku niebędącej świadczeniodawcą osoby uprawnionej - numer PESEL tej osoby; zobowiązanie do: przestrzegania przepisów dotyczących zapewnienia bezpieczeństwa przetwarzania danych, w szczególności przepisów ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych ) , zachowania w tajemnicy i nieujawniania danych, zawierające klauzulę w brzmieniu: „Zobowiązuję się do zachowania w tajemnicy danych, o których mowa w art. 50 ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych , pozyskiwanych ze zbiorów danych przetwarzanych w Narodowym Funduszu Zdrowia, a także do nieprzekazywania tych danych nieuprawnionym osobom trzecim, pod rygorem utraty upoważnienia do korzystania z usługi świadczonej przez system teleinformatyczny Narodowego Funduszu Zdrowia, umożliwiającej występowanie o sporządzenie dokumentu potwierdzającego prawo do świadczeń opieki zdrowotnej.”. Wniosek o wydanie upoważnienia, o którym mowa w ust. 1, składa się w oddziale wojewódzkim Funduszu, z którego dyrektorem świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona zawarła odpowiednio umowę o udzielanie świadczeń opieki zdrowotnej albo umowę upoważniającą do wystawiania recept refundowanych za pośrednictwem udostępnionej przez Fundusz aplikacji dostępnej przez przeglądarkę internetową, umożliwiającej komunikację świadczeniodawców oraz niebędących świadczeniodawcami osób uprawnionych z Funduszem, przy pomocy bezpiecznego kanału wymiany informacji, zwanej dalej „aplikacją dostępową Funduszu”. Po dokonaniu pozytywnej weryfikacji poprawności danych zawartych we wniosku o wydanie upoważnienia, Fundusz wydaje upoważnienie do korzystania z usługi Elektronicznej Weryfikacji Uprawnień Świadczeniobiorców. Upoważnienie, o którym mowa w ust. 1, zawiera: dane identyfikujące świadczeniodawcę lub niebędącą świadczeniodawcą osobę uprawnioną, o których mowa w ust. 2 pkt 1; zakres upoważnienia, obejmujący uprawnienie świadczeniodawcy lub niebędącej świadczeniodawcą osoby uprawnionej do: korzystania z usługi Elektronicznej Weryfikacji Uprawnień Świadczeniobiorców, upoważniania osób, którym powierza wykonywanie zadania w zakresie występowania w jego lub jej imieniu do Funduszu o sporządzenie dokumentu potwierdzającego prawo do świadczeń."
+      "content": "W celu uzyskania upoważnienia do korzystania z usługi Elektronicznej Weryfikacji Uprawnień Świadczeniobiorców, świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona, składa wniosek o wydanie tego upoważnienia. Wniosek o wydanie upoważnienia, o którym mowa w ust. 1, zawiera: dane identyfikujące świadczeniodawcę lub niebędącą świadczeniodawcą osobę uprawnioną: nazwę (firmę) świadczeniodawcy, a w przypadku niebędącej świadczeniodawcą osoby uprawnionej - imię i nazwisko tej osoby, numer identyfikacyjny świadczeniodawcy, określony przez Fundusz, a w przypadku niebędącej świadczeniodawcą osoby uprawnionej - numer PESEL tej osoby; zobowiązanie do: przestrzegania przepisów dotyczących zapewnienia bezpieczeństwa przetwarzania danych, w szczególności przepisów o ochronie danych osobowych, zachowania w tajemnicy i nieujawniania danych, zawierające klauzulę w brzmieniu: „Zobowiązuję się do zachowania w tajemnicy danych, o których mowa w art. 50 ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych , pozyskiwanych ze zbiorów danych przetwarzanych w Narodowym Funduszu Zdrowia, a także do nieprzekazywania tych danych nieuprawnionym osobom trzecim, pod rygorem utraty upoważnienia do korzystania z usługi świadczonej przez system teleinformatyczny Narodowego Funduszu Zdrowia, umożliwiającej występowanie o sporządzenie dokumentu potwierdzającego prawo do świadczeń opieki zdrowotnej. Wniosek o wydanie upoważnienia, o którym mowa w ust. 1, składa się za pośrednictwem udostępnionej przez Fundusz aplikacji dostępnej przez przeglądarkę internetową, w celu korzystania z usług informatycznych i komunikacji z Funduszem świadczeniodawców oraz niebędących świadczeniodawcami osób uprawnionych, przy pomocy bezpiecznego kanału wymiany informacji, zwanej dalej „aplikacją dostępową Funduszu”, w oddziale wojewódzkim Funduszu, z którego dyrektorem świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona zawarła umowę upoważniającą do korzystania z aplikacji dostępowej Funduszu. Po dokonaniu pozytywnej weryfikacji poprawności danych zawartych we wniosku o wydanie upoważnienia, Fundusz wydaje upoważnienie do korzystania z usługi Elektronicznej Weryfikacji Uprawnień Świadczeniobiorców. Upoważnienie, o którym mowa w ust. 1, zawiera: dane identyfikujące świadczeniodawcę lub niebędącą świadczeniodawcą osobę uprawnioną, o których mowa w ust. 2 pkt 1; zakres upoważnienia, obejmujący uprawnienie świadczeniodawcy lub niebędącej świadczeniodawcą osoby uprawnionej do: korzystania z usługi Elektronicznej Weryfikacji Uprawnień Świadczeniobiorców, upoważniania osób, którym powierza wykonywanie zadania w zakresie występowania w jego lub jej imieniu do Funduszu o sporządzenie dokumentu potwierdzającego prawo do świadczeń."
     },
     {
       "provision_ref": "par3u1",
@@ -70,22 +94,16 @@
       "content": "Wniosek o wydanie upoważnienia, o którym mowa w ust. 1, zawiera: dane identyfikujące świadczeniodawcę lub niebędącą świadczeniodawcą osobę uprawnioną: numer identyfikacyjny świadczeniodawcy, określony przez Fundusz, a w przypadku niebędącej świadczeniodawcą osoby uprawnionej - numer PESEL tej osoby;"
     },
     {
-      "provision_ref": "par3u2p2la",
-      "section": "3",
-      "title": "§ 3 ust. 2 pkt 2 lit. a",
-      "content": "Wniosek o wydanie upoważnienia, o którym mowa w ust. 1, zawiera: zobowiązanie do: przestrzegania przepisów dotyczących zapewnienia bezpieczeństwa przetwarzania danych, w szczególności przepisów ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych ) ,"
-    },
-    {
       "provision_ref": "par3u2p2lb",
       "section": "3",
       "title": "§ 3 ust. 2 pkt 2 lit. b",
-      "content": "Wniosek o wydanie upoważnienia, o którym mowa w ust. 1, zawiera: zobowiązanie do: zachowania w tajemnicy i nieujawniania danych, zawierające klauzulę w brzmieniu: „Zobowiązuję się do zachowania w tajemnicy danych, o których mowa w art. 50 ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych , pozyskiwanych ze zbiorów danych przetwarzanych w Narodowym Funduszu Zdrowia, a także do nieprzekazywania tych danych nieuprawnionym osobom trzecim, pod rygorem utraty upoważnienia do korzystania z usługi świadczonej przez system teleinformatyczny Narodowego Funduszu Zdrowia, umożliwiającej występowanie o sporządzenie dokumentu potwierdzającego prawo do świadczeń opieki zdrowotnej.”."
+      "content": "Wniosek o wydanie upoważnienia, o którym mowa w ust. 1, zawiera: zobowiązanie do: zachowania w tajemnicy i nieujawniania danych, zawierające klauzulę w brzmieniu: „Zobowiązuję się do zachowania w tajemnicy danych, o których mowa w art. 50 ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych , pozyskiwanych ze zbiorów danych przetwarzanych w Narodowym Funduszu Zdrowia, a także do nieprzekazywania tych danych nieuprawnionym osobom trzecim, pod rygorem utraty upoważnienia do korzystania z usługi świadczonej przez system teleinformatyczny Narodowego Funduszu Zdrowia, umożliwiającej występowanie o sporządzenie dokumentu potwierdzającego prawo do świadczeń opieki zdrowotnej."
     },
     {
       "provision_ref": "par3u3",
       "section": "3",
       "title": "§ 3 ust. 3",
-      "content": "Wniosek o wydanie upoważnienia, o którym mowa w ust. 1, składa się w oddziale wojewódzkim Funduszu, z którego dyrektorem świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona zawarła odpowiednio umowę o udzielanie świadczeń opieki zdrowotnej albo umowę upoważniającą do wystawiania recept refundowanych za pośrednictwem udostępnionej przez Fundusz aplikacji dostępnej przez przeglądarkę internetową, umożliwiającej komunikację świadczeniodawców oraz niebędących świadczeniodawcami osób uprawnionych z Funduszem, przy pomocy bezpiecznego kanału wymiany informacji, zwanej dalej „aplikacją dostępową Funduszu”."
+      "content": "Wniosek o wydanie upoważnienia, o którym mowa w ust. 1, składa się za pośrednictwem udostępnionej przez Fundusz aplikacji dostępnej przez przeglądarkę internetową, w celu korzystania z usług informatycznych i komunikacji z Funduszem świadczeniodawców oraz niebędących świadczeniodawcami osób uprawnionych, przy pomocy bezpiecznego kanału wymiany informacji, zwanej dalej „aplikacją dostępową Funduszu”, w oddziale wojewódzkim Funduszu, z którego dyrektorem świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona zawarła umowę upoważniającą do korzystania z aplikacji dostępowej Funduszu."
     },
     {
       "provision_ref": "par3u4",
@@ -115,7 +133,7 @@
       "provision_ref": "par4",
       "section": "4",
       "title": "§ 4",
-      "content": "Świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona wyznacza osobę, której mają zostać powierzone zadania, o których mowa w § 2 pkt 3, i występuje do Funduszu z wnioskiem o przyznanie tej osobie uprawnień do wykonywania tych zadań. Wniosek, o którym mowa w ust. 1, zawiera imię i nazwisko oraz numer PESEL wyznaczonej osoby, a w przypadku gdy nie posiada numeru PESEL - serię i numer dowodu osobistego, paszportu albo innego dokumentu potwierdzającego tożsamość. Wniosek, o którym mowa w ust. 1, składa się za pośrednictwem aplikacji dostępowej Funduszu w oddziale wojewódzkim Funduszu, z którego dyrektorem świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona zawarła odpowiednio umowę o udzielanie świadczeń opieki zdrowotnej lub umowę upoważniającą do wystawiania recept refundowanych. Po dokonaniu pozytywnej weryfikacji poprawności danych zawartych we wniosku, o którym mowa w ust. 1, Fundusz nadaje za pośrednictwem aplikacji dostępowej Funduszu, osobie wskazanej we wniosku uprawnienia, o których mowa w ust. 1. Osoba, której Fundusz nadał uprawnienia do wykonywania zadań, o których mowa w § 2 pkt 3, oraz osoba, którą świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona, upoważnił do występowania do Funduszu o sporządzenie dokumentu potwierdzającego prawo do świadczeń przez usługę Elektronicznej Weryfikacji Uprawnień Świadczeniobiorców, przed uzyskaniem dostępu do tej usługi: składa oświadczenie, w którym zobowiązuje się do przestrzegania przepisów dotyczących zapewnienia bezpieczeństwa przetwarzania danych, w szczególności przepisów ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych , a także zasad poufności i tajemnicy danych pozyskanych z Funduszu; uzyskuje od świadczeniodawcy lub niebędącej świadczeniodawcą osoby uprawnionej dokument upoważniający do występowania do Funduszu o sporządzenie dokumentu potwierdzającego prawo do świadczeń, zawierający jej imię i nazwisko oraz numer PESEL, a w przypadku gdy nie posiada numeru PESEL - serię i numer dowodu osobistego, paszportu albo innego dokumentu potwierdzającego tożsamość."
+      "content": "Świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona wyznacza osobę, której mają zostać powierzone zadania, o których mowa w § 2 pkt 3, i występuje do Funduszu z wnioskiem o przyznanie tej osobie uprawnień do wykonywania tych zadań. Wniosek, o którym mowa w ust. 1, zawiera imię i nazwisko oraz numer PESEL wyznaczonej osoby, a w przypadku gdy nie posiada numeru PESEL - serię i numer dowodu osobistego, paszportu albo innego dokumentu potwierdzającego tożsamość. Wniosek, o którym mowa w ust. 1, składa się za pośrednictwem aplikacji dostępowej Funduszu w oddziale wojewódzkim Funduszu, z którego dyrektorem świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona zawarła umowę upoważniającą do korzystania z aplikacji dostępowej Funduszu. Po dokonaniu pozytywnej weryfikacji poprawności danych zawartych we wniosku, o którym mowa w ust. 1, Fundusz nadaje za pośrednictwem aplikacji dostępowej Funduszu, osobie wskazanej we wniosku uprawnienia, o których mowa w ust. 1. Osoba, której Fundusz nadał uprawnienia do wykonywania zadań, o których mowa w § 2 pkt 3, oraz osoba, którą świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona, upoważnił do występowania do Funduszu o sporządzenie dokumentu potwierdzającego prawo do świadczeń przez usługę Elektronicznej Weryfikacji Uprawnień Świadczeniobiorców, przed uzyskaniem dostępu do tej usługi: składa oświadczenie, w którym zobowiązuje się do przestrzegania przepisów dotyczących zapewnienia bezpieczeństwa przetwarzania danych, w szczególności przepisów o ochronie danych osobowych, a także zasad poufności i tajemnicy danych pozyskanych z Funduszu; uzyskuje od świadczeniodawcy lub niebędącej świadczeniodawcą osoby uprawnionej dokument upoważniający do występowania do Funduszu o sporządzenie dokumentu potwierdzającego prawo do świadczeń, zawierający jej imię i nazwisko oraz numer PESEL, a w przypadku gdy nie posiada numeru PESEL - serię i numer dowodu osobistego, paszportu albo innego dokumentu potwierdzającego tożsamość."
     },
     {
       "provision_ref": "par4u1",
@@ -133,7 +151,7 @@
       "provision_ref": "par4u3",
       "section": "4",
       "title": "§ 4 ust. 3",
-      "content": "Wniosek, o którym mowa w ust. 1, składa się za pośrednictwem aplikacji dostępowej Funduszu w oddziale wojewódzkim Funduszu, z którego dyrektorem świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona zawarła odpowiednio umowę o udzielanie świadczeń opieki zdrowotnej lub umowę upoważniającą do wystawiania recept refundowanych."
+      "content": "Wniosek, o którym mowa w ust. 1, składa się za pośrednictwem aplikacji dostępowej Funduszu w oddziale wojewódzkim Funduszu, z którego dyrektorem świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona zawarła umowę upoważniającą do korzystania z aplikacji dostępowej Funduszu."
     },
     {
       "provision_ref": "par4u4",
@@ -142,16 +160,82 @@
       "content": "Po dokonaniu pozytywnej weryfikacji poprawności danych zawartych we wniosku, o którym mowa w ust. 1, Fundusz nadaje za pośrednictwem aplikacji dostępowej Funduszu, osobie wskazanej we wniosku uprawnienia, o których mowa w ust. 1."
     },
     {
-      "provision_ref": "par4u5p1",
+      "provision_ref": "par4u5p6",
       "section": "4",
-      "title": "§ 4 ust. 5 pkt 1",
-      "content": "Osoba, której Fundusz nadał uprawnienia do wykonywania zadań, o których mowa w § 2 pkt 3, oraz osoba, którą świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona, upoważnił do występowania do Funduszu o sporządzenie dokumentu potwierdzającego prawo do świadczeń przez usługę Elektronicznej Weryfikacji Uprawnień Świadczeniobiorców, przed uzyskaniem dostępu do tej usługi: składa oświadczenie, w którym zobowiązuje się do przestrzegania przepisów dotyczących zapewnienia bezpieczeństwa przetwarzania danych, w szczególności przepisów ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych , a także zasad poufności i tajemnicy danych pozyskanych z Funduszu;"
+      "title": "§ 4 ust. 5 pkt 6",
+      "content": "Osoba, której Fundusz nadał uprawnienia do wykonywania zadań, o których mowa w § 2 pkt 3, oraz osoba, którą świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona, upoważnił do występowania do Funduszu o sporządzenie dokumentu potwierdzającego prawo do świadczeń przez usługę Elektronicznej Weryfikacji Uprawnień Świadczeniobiorców, przed uzyskaniem dostępu do tej usługi: składa oświadczenie, w którym zobowiązuje się do przestrzegania przepisów dotyczących zapewnienia bezpieczeństwa przetwarzania danych, w szczególności przepisów o ochronie danych osobowych, a także zasad poufności i tajemnicy danych pozyskanych z Funduszu;"
     },
     {
       "provision_ref": "par4u5p2",
       "section": "4",
       "title": "§ 4 ust. 5 pkt 2",
       "content": "Osoba, której Fundusz nadał uprawnienia do wykonywania zadań, o których mowa w § 2 pkt 3, oraz osoba, którą świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona, upoważnił do występowania do Funduszu o sporządzenie dokumentu potwierdzającego prawo do świadczeń przez usługę Elektronicznej Weryfikacji Uprawnień Świadczeniobiorców, przed uzyskaniem dostępu do tej usługi: uzyskuje od świadczeniodawcy lub niebędącej świadczeniodawcą osoby uprawnionej dokument upoważniający do występowania do Funduszu o sporządzenie dokumentu potwierdzającego prawo do świadczeń, zawierający jej imię i nazwisko oraz numer PESEL, a w przypadku gdy nie posiada numeru PESEL - serię i numer dowodu osobistego, paszportu albo innego dokumentu potwierdzającego tożsamość."
+    },
+    {
+      "provision_ref": "par4a",
+      "section": "4a",
+      "title": "§ 4a",
+      "content": "Świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona może wystąpić do Funduszu o sporządzenie dokumentu potwierdzającego prawo do świadczeń także za pośrednictwem systemu, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia . W przypadku wystąpienia do Funduszu o sporządzenie dokumentu potwierdzającego prawo do świadczeń za pośrednictwem systemu, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia : świadczeniodawca musi spełniać warunki, o których mowa w § 2; niebędąca świadczeniodawcą osoba uprawniona musi potwierdzić, za pośrednictwem Centralnego Wykazu Pracowników Medycznych, o którym mowa w art. 17 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia , prawo wykonywania zawodu medycznego, które zgodnie z przepisami dotyczącymi wykonywania danego zawodu medycznego uprawnia do wystawiania recept zgodnie z przepisami ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych oraz ustawy z dnia 6 września 2001 r. - Prawo farmaceutyczne oraz zleceń na zaopatrzenie w wyroby medyczne, o których mowa w art. 38 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych . W przypadku wystąpienia do Funduszu o sporządzenie dokumentu potwierdzającego prawo do świadczeń za pośrednictwem systemu, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia , świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona udostępnia Funduszowi dane przetwarzane w tym systemie obejmujące: w przypadku świadczeniodawcy: numer identyfikacyjny świadczeniodawcy, określony przez Fundusz, identyfikator oddziału wojewódzkiego Funduszu, o którym mowa w przepisach wydanych na podstawie art. 190 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych , numer PESEL osoby występującej w imieniu świadczeniodawcy do Funduszu o sporządzenie dokumentu potwierdzającego prawo do świadczeń, która została upoważniona w tym zakresie przez świadczeniodawcę zgodnie z § 4; w przypadku niebędącej świadczeniodawcą osoby uprawnionej: numer prawa wykonywania zawodu niebędącej świadczeniodawcą osoby uprawnionej, kod przynależności do danej grupy zawodowej niebędącej świadczeniodawcą osoby uprawnionej, o którym mowa w przepisach wydanych na podstawie art. 190 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych , numer PESEL niebędącej świadczeniodawcą osoby uprawnionej. Do niebędących świadczeniodawcami osób uprawnionych występujących o sporządzenie dokumentu potwierdzającego prawo do świadczeń za pośrednictwem systemu, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia , stosuje się odpowiednio przepisy § 3 ust. 2 pkt 2."
+    },
+    {
+      "provision_ref": "par4au1",
+      "section": "4a",
+      "title": "§ 4a ust. 1",
+      "content": "Świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona może wystąpić do Funduszu o sporządzenie dokumentu potwierdzającego prawo do świadczeń także za pośrednictwem systemu, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia ."
+    },
+    {
+      "provision_ref": "par4au2p1",
+      "section": "4a",
+      "title": "§ 4a ust. 2 pkt 1",
+      "content": "W przypadku wystąpienia do Funduszu o sporządzenie dokumentu potwierdzającego prawo do świadczeń za pośrednictwem systemu, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia : świadczeniodawca musi spełniać warunki, o których mowa w § 2;"
+    },
+    {
+      "provision_ref": "par4au2p2",
+      "section": "4a",
+      "title": "§ 4a ust. 2 pkt 2",
+      "content": "W przypadku wystąpienia do Funduszu o sporządzenie dokumentu potwierdzającego prawo do świadczeń za pośrednictwem systemu, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia : niebędąca świadczeniodawcą osoba uprawniona musi potwierdzić, za pośrednictwem Centralnego Wykazu Pracowników Medycznych, o którym mowa w art. 17 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia , prawo wykonywania zawodu medycznego, które zgodnie z przepisami dotyczącymi wykonywania danego zawodu medycznego uprawnia do wystawiania recept zgodnie z przepisami ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych oraz ustawy z dnia 6 września 2001 r. - Prawo farmaceutyczne oraz zleceń na zaopatrzenie w wyroby medyczne, o których mowa w art. 38 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych ."
+    },
+    {
+      "provision_ref": "par4au3p1la",
+      "section": "4a",
+      "title": "§ 4a ust. 3 pkt 1 lit. a",
+      "content": "W przypadku wystąpienia do Funduszu o sporządzenie dokumentu potwierdzającego prawo do świadczeń za pośrednictwem systemu, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia , świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona udostępnia Funduszowi dane przetwarzane w tym systemie obejmujące: w przypadku świadczeniodawcy: numer identyfikacyjny świadczeniodawcy, określony przez Fundusz,"
+    },
+    {
+      "provision_ref": "par4au3p1lb",
+      "section": "4a",
+      "title": "§ 4a ust. 3 pkt 1 lit. b",
+      "content": "W przypadku wystąpienia do Funduszu o sporządzenie dokumentu potwierdzającego prawo do świadczeń za pośrednictwem systemu, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia , świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona udostępnia Funduszowi dane przetwarzane w tym systemie obejmujące: w przypadku świadczeniodawcy: identyfikator oddziału wojewódzkiego Funduszu, o którym mowa w przepisach wydanych na podstawie art. 190 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych ,"
+    },
+    {
+      "provision_ref": "par4au3p1lc",
+      "section": "4a",
+      "title": "§ 4a ust. 3 pkt 1 lit. c",
+      "content": "W przypadku wystąpienia do Funduszu o sporządzenie dokumentu potwierdzającego prawo do świadczeń za pośrednictwem systemu, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia , świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona udostępnia Funduszowi dane przetwarzane w tym systemie obejmujące: w przypadku świadczeniodawcy: numer PESEL osoby występującej w imieniu świadczeniodawcy do Funduszu o sporządzenie dokumentu potwierdzającego prawo do świadczeń, która została upoważniona w tym zakresie przez świadczeniodawcę zgodnie z § 4;"
+    },
+    {
+      "provision_ref": "par4au3p2la",
+      "section": "4a",
+      "title": "§ 4a ust. 3 pkt 2 lit. a",
+      "content": "W przypadku wystąpienia do Funduszu o sporządzenie dokumentu potwierdzającego prawo do świadczeń za pośrednictwem systemu, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia , świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona udostępnia Funduszowi dane przetwarzane w tym systemie obejmujące: w przypadku niebędącej świadczeniodawcą osoby uprawnionej: numer prawa wykonywania zawodu niebędącej świadczeniodawcą osoby uprawnionej,"
+    },
+    {
+      "provision_ref": "par4au3p2lb",
+      "section": "4a",
+      "title": "§ 4a ust. 3 pkt 2 lit. b",
+      "content": "W przypadku wystąpienia do Funduszu o sporządzenie dokumentu potwierdzającego prawo do świadczeń za pośrednictwem systemu, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia , świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona udostępnia Funduszowi dane przetwarzane w tym systemie obejmujące: w przypadku niebędącej świadczeniodawcą osoby uprawnionej: kod przynależności do danej grupy zawodowej niebędącej świadczeniodawcą osoby uprawnionej, o którym mowa w przepisach wydanych na podstawie art. 190 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych ,"
+    },
+    {
+      "provision_ref": "par4au3p2lc",
+      "section": "4a",
+      "title": "§ 4a ust. 3 pkt 2 lit. c",
+      "content": "W przypadku wystąpienia do Funduszu o sporządzenie dokumentu potwierdzającego prawo do świadczeń za pośrednictwem systemu, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia , świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona udostępnia Funduszowi dane przetwarzane w tym systemie obejmujące: w przypadku niebędącej świadczeniodawcą osoby uprawnionej: numer PESEL niebędącej świadczeniodawcą osoby uprawnionej."
+    },
+    {
+      "provision_ref": "par4au4",
+      "section": "4a",
+      "title": "§ 4a ust. 4",
+      "content": "Do niebędących świadczeniodawcami osób uprawnionych występujących o sporządzenie dokumentu potwierdzającego prawo do świadczeń za pośrednictwem systemu, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia , stosuje się odpowiednio przepisy § 3 ust. 2 pkt 2."
     },
     {
       "provision_ref": "par5",
@@ -169,27 +253,67 @@
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2008-1027",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2011-696",
+      "target_document_id": "pl-du-2019-1621",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2012-95",
+      "target_document_id": "pl-du-2020-1516",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2012-742",
+      "target_document_id": "pl-du-2021-1285",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2005-565",
+      "target_document_id": "pl-du-2021-1292",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2002-926",
+      "target_document_id": "pl-du-2021-1559",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1773",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1834",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1981",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-523",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1977",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-670",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-952",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1005",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1641",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-666",
       "ref_type": "references"
     }
   ]

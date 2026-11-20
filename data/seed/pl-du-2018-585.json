@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2018/585",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -25,7 +31,7 @@
       "provision_ref": "par3",
       "section": "3",
       "title": "§ 3",
-      "content": "Pomoc może być udzielana przedsiębiorstwu górniczemu, którego podstawowym przedmiotem działalności jest prowadzenie likwidacji zakładu górniczego, działań polikwidacyjnych na terenach górniczych albo zabezpieczenie kopalń przed zagrożeniami wodnymi, gazowymi oraz pożarowymi po zakończeniu likwidacji kopalni, o którym mowa w przepisach ustawy z dnia 7 września 2007 r. o funkcjonowaniu górnictwa węgla kamiennego ."
+      "content": "Pomoc może być udzielana przedsiębiorstwu górniczemu, którego podstawowym przedmiotem działalności jest prowadzenie likwidacji kopalni, zabezpieczenie kopalń sąsiednich przed zagrożeniem wodnym, gazowym oraz pożarowym, w trakcie i po zakończeniu likwidacji kopalni, o którym mowa w przepisach ustawy z dnia 7 września 2007 r. o funkcjonowaniu górnictwa węgla kamiennego ."
     },
     {
       "provision_ref": "par4",
@@ -103,13 +109,13 @@
       "provision_ref": "par8",
       "section": "8",
       "title": "§ 8",
-      "content": "Pomoc nie może przekraczać 100% kosztów realizacji celów, o których mowa w § 6 ust. 1. Koszty realizacji celów, o których mowa w § 6 ust. 1, pomniejsza się o dochody przedsiębiorstwa górniczego uzyskane z tytułu odpłatnego rozporządzania terenami, których rekultywacja była finansowana ze środków Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej w formie dotacji, powstałe do dnia udzielenia pomocy. Pomoc podlega sumowaniu z inną pomocą publiczną udzielaną w związku z tymi samymi kosztami, jeżeli pomoc ta została zatwierdzona przez Komisję Europejską. Całkowita wartość zsumowanej pomocy nie może powodować przekroczenia intensywności pomocy określonej w ust. 1."
+      "content": "Pomoc nie może przekraczać 100 % kosztów realizacji celów, o których mowa w § 6 ust. 1. Koszty realizacji celów, o których mowa w § 6 ust. 1, pomniejsza się o dochody przedsiębiorstwa górniczego uzyskane z tytułu odpłatnego rozporządzania terenami, których rekultywacja była finansowana ze środków Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej w formie dotacji, powstałe do dnia udzielenia pomocy. Pomoc podlega sumowaniu z inną pomocą publiczną udzielaną w związku z tymi samymi kosztami, jeżeli pomoc ta została zatwierdzona przez Komisję Europejską. Całkowita wartość zsumowanej pomocy nie może powodować przekroczenia intensywności pomocy określonej w ust. 1."
     },
     {
       "provision_ref": "par8u1",
       "section": "8",
       "title": "§ 8 ust. 1",
-      "content": "Pomoc nie może przekraczać 100% kosztów realizacji celów, o których mowa w § 6 ust. 1."
+      "content": "Pomoc nie może przekraczać 100 % kosztów realizacji celów, o których mowa w § 6 ust. 1."
     },
     {
       "provision_ref": "par8u2",
@@ -133,27 +139,35 @@
       "provision_ref": "par9",
       "section": "9",
       "title": "§ 9",
-      "content": "Rozporządzenie obowiązuje do dnia 31 grudnia 2018 r."
+      "content": "Rozporządzenie obowiązuje do dnia 31 grudnia 2027 r."
     },
     {
       "provision_ref": "par10",
       "section": "10",
       "title": "§ 10",
-      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia 3) Rozporządzenie zostało ogłoszone w dniu 20 marca 2018 r. ."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2017-519",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2017-1327",
+      "target_document_id": "pl-du-2019-1493",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2017-1566",
+      "target_document_id": "pl-du-2023-2410",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2024-54",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2024-415",
       "ref_type": "references"
     }
   ]

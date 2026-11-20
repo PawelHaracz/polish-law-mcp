@@ -10,6 +10,30 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2014/104",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Wnioski złożone zgodnie z dotychczasowym wzorem, a nierozpatrzone przed dniem wejścia w życie niniejszego rozporządzenia, podlegają rozpatrzeniu. Podmiot odpowiedzialny jest obowiązany na wezwanie Prezesa Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych do uzupełnienia treści wniosku w zakresie wskazanym przez Prezesa Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych zgodnie z wymaganiami rozporządzenia."
+    },
+    {
+      "provision_ref": "par2u1",
+      "section": "2",
+      "title": "§ 2 ust. 1",
+      "content": "Wnioski złożone zgodnie z dotychczasowym wzorem, a nierozpatrzone przed dniem wejścia w życie niniejszego rozporządzenia, podlegają rozpatrzeniu."
+    },
+    {
+      "provision_ref": "par2u2",
+      "section": "2",
+      "title": "§ 2 ust. 2",
+      "content": "Podmiot odpowiedzialny jest obowiązany na wezwanie Prezesa Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych do uzupełnienia treści wniosku w zakresie wskazanym przez Prezesa Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych zgodnie z wymaganiami rozporządzenia."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -61,7 +85,7 @@
       "provision_ref": "par3",
       "section": "3",
       "title": "§ 3",
-      "content": "Wniosek, o którym mowa w § 1, składa się w postaci papierowej i elektronicznej w formacie „.odt”."
+      "content": "Wniosek, o którym mowa w § 1, składa się w postaci papierowej lub elektronicznej."
     },
     {
       "provision_ref": "par4",
@@ -73,13 +97,21 @@
       "provision_ref": "par5",
       "section": "5",
       "title": "§ 5",
-      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 10 lutego 2010 r. w sprawie wzoru wniosku o wydanie pozwolenia na dopuszczenie do obrotu produktu leczniczego (Dz. U. Nr 36, poz. 202), które utraciło moc w związku z wejściem w życie ustawy z dnia 27 września 2013 r. o zmianie ustawy - Prawo farmaceutyczne oraz niektórych innych ustaw (Dz. U. poz. 1245)."
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia 3) Rozporządzenie zostało ogłoszone w dniu 22 stycznia 2014 r. . 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 10 lutego 2010 r. w sprawie wzoru wniosku o wydanie pozwolenia na dopuszczenie do obrotu produktu leczniczego (Dz. U. poz. 202), które utraciło moc w związku z wejściem w życie ustawy z dnia 27 września 2013 r. o zmianie ustawy - Prawo farmaceutyczne oraz niektórych innych ustaw (Dz. U. poz. 1245)."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2008-271",
+      "target_document_id": "pl-du-2017-1523",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2016-1699",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2017-2211",
       "ref_type": "references"
     }
   ]

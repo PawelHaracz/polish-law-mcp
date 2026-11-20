@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/689",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -55,11 +61,43 @@
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2020-85",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2020-374",
+      "target_document_id": "pl-du-2021-79",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-478",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-619",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1630",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-2141",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-2232",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-816",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1000",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1978",
       "ref_type": "references"
     }
   ]

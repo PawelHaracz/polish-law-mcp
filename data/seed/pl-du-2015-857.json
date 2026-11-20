@@ -10,6 +10,18 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2015/857",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Informacje z systemu teleinformatycznego ministra właściwego do spraw finansów publicznych, o których mowa w art. 213 § 1a ustawy z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego , uzyskane przed dniem wejścia w życie niniejszego rozporządzenia, według wzorów obowiązujących w dniu ich uzyskania, zachowują ważność."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -67,13 +79,13 @@
       "provision_ref": "par3",
       "section": "3",
       "title": "§ 3",
-      "content": "W toku postępowania karnego podmiot publiczny uzyskuje informację z systemu: za pośrednictwem elektronicznej aplikacji dostępowej udostępnionej przez Ministra Sprawiedliwości albo Prokuratora Generalnego, zwanej dalej „aplikacją dostępową”; za pośrednictwem elektronicznej platformy usług administracji publicznej w rozumieniu ustawy, zwanej dalej „platformą ePUAP”. Uzyskanie informacji z systemu w sposób, o którym mowa w ust. 1 pkt 1, następuje bezpośrednio z systemu przy użyciu aplikacji dostępowej. Uzyskanie informacji z systemu w sposób, o którym mowa w ust. 1 pkt 2, może nastąpić tylko wówczas, gdy podmiot publiczny nie ma dostępu do tego systemu za pośrednictwem aplikacji dostępowej, z zastrzeżeniem § 4 ust. 2 i § 6."
+      "content": "W toku postępowania karnego podmiot publiczny uzyskuje informację z systemu: za pośrednictwem elektronicznej aplikacji dostępowej udostępnionej przez Ministra Sprawiedliwości i Prokuratora Generalnego, zwanej dalej „aplikacją dostępowąˮ; za pośrednictwem elektronicznej platformy usług administracji publicznej w rozumieniu ustawy, zwanej dalej „platformą ePUAP”. Uzyskanie informacji z systemu w sposób, o którym mowa w ust. 1 pkt 1, następuje bezpośrednio z systemu przy użyciu aplikacji dostępowej. Uzyskanie informacji z systemu w sposób, o którym mowa w ust. 1 pkt 2, może nastąpić tylko wówczas, gdy podmiot publiczny nie ma dostępu do tego systemu za pośrednictwem aplikacji dostępowej, z zastrzeżeniem § 4 ust. 2 i § 6."
     },
     {
       "provision_ref": "par3u1p1",
       "section": "3",
       "title": "§ 3 ust. 1 pkt 1",
-      "content": "W toku postępowania karnego podmiot publiczny uzyskuje informację z systemu: za pośrednictwem elektronicznej aplikacji dostępowej udostępnionej przez Ministra Sprawiedliwości albo Prokuratora Generalnego, zwanej dalej „aplikacją dostępową”;"
+      "content": "W toku postępowania karnego podmiot publiczny uzyskuje informację z systemu: za pośrednictwem elektronicznej aplikacji dostępowej udostępnionej przez Ministra Sprawiedliwości i Prokuratora Generalnego, zwanej dalej „aplikacją dostępowąˮ;"
     },
     {
       "provision_ref": "par3u1p2",
@@ -133,19 +145,13 @@
       "provision_ref": "par5",
       "section": "5",
       "title": "§ 5",
-      "content": "Po weryfikacji i przyjęciu żądania pobrania informacji o dochodach na aplikację dostępową z systemu jest przekazywana informacja, która obejmuje następujące pozycje: status odpowiedzi, który stanowi odpowiednią cyfrę zawierającą zakodowaną informację o zidentyfikowaniu osoby i udostępnieniu danych, nieznalezieniu osoby objętej żądaniem, niezgodności sposobu rozliczenia, braku deklaracji podatkowych za podany okres, znalezieniu niezatwierdzonej deklaracji, wydaniu decyzji wymiarowej, nieobsługiwaniu roku objętego żądaniem przez usługę lub złożeniu przez podatnika więcej niż jednej deklaracji tego samego typu w jednym okresie; dane o: dochodzie oskarżonego, w tym dochodzie jego małoletniego dziecka, który oskarżony wykazał w indywidualnym zeznaniu rocznym PIT-36, składkach na ubezpieczenia społeczne, należnym podatku, kodzie formularza. Wzór informacji uzyskiwanej w sposób, o którym mowa w § 3 ust. 1 pkt 1, określa załącznik nr 1 do rozporządzenia. W wypadku nieotrzymania żądanych danych uznaje się, że w uzyskanej informacji stwierdza się brak dostępu w systemie do danych o dochodach oskarżonego. W takim wypadku nie ponawia się żądania i stosuje przepis § 11."
+      "content": "Po weryfikacji i przyjęciu żądania pobrania informacji o dochodach na aplikację dostępową z systemu jest przekazywana informacja, która obejmuje następujące pozycje: status odpowiedzi, który stanowi odpowiednią cyfrę zawierającą zakodowaną informację o zidentyfikowaniu osoby i udostępnieniu danych, nieznalezieniu osoby objętej żądaniem, braku deklaracji podatkowych za podany okres, znalezieniu niezatwierdzonej deklaracji, wydaniu decyzji wymiarowej, nieobsługiwaniu roku objętego żądaniem przez usługę, złożeniu przez podatnika więcej niż jednej deklaracji tego samego typu w jednym okresie lub rozliczaniu się osoby wspólnie z małżonkiem; dane o: dochodzie oskarżonego, w tym dochodzie jego małoletniego dziecka, który oskarżony wykazał w zeznaniu rocznym PIT-36, składkach na ubezpieczenia społeczne, należnym podatku, kodzie formularza. Wzór informacji uzyskiwanej w sposób, o którym mowa w § 3 ust. 1 pkt 1, określa załącznik nr 1 do rozporządzenia. W wypadku nieotrzymania żądanych danych uznaje się, że w uzyskanej informacji stwierdza się brak dostępu w systemie do danych o dochodach oskarżonego. W takim wypadku nie ponawia się żądania i stosuje przepis § 11."
     },
     {
-      "provision_ref": "par5u1p1",
+      "provision_ref": "par5u1p2",
       "section": "5",
-      "title": "§ 5 ust. 1 pkt 1",
-      "content": "Po weryfikacji i przyjęciu żądania pobrania informacji o dochodach na aplikację dostępową z systemu jest przekazywana informacja, która obejmuje następujące pozycje: status odpowiedzi, który stanowi odpowiednią cyfrę zawierającą zakodowaną informację o zidentyfikowaniu osoby i udostępnieniu danych, nieznalezieniu osoby objętej żądaniem, niezgodności sposobu rozliczenia, braku deklaracji podatkowych za podany okres, znalezieniu niezatwierdzonej deklaracji, wydaniu decyzji wymiarowej, nieobsługiwaniu roku objętego żądaniem przez usługę lub złożeniu przez podatnika więcej niż jednej deklaracji tego samego typu w jednym okresie;"
-    },
-    {
-      "provision_ref": "par5u1p2la",
-      "section": "5",
-      "title": "§ 5 ust. 1 pkt 2 lit. a",
-      "content": "Po weryfikacji i przyjęciu żądania pobrania informacji o dochodach na aplikację dostępową z systemu jest przekazywana informacja, która obejmuje następujące pozycje: dane o: dochodzie oskarżonego, w tym dochodzie jego małoletniego dziecka, który oskarżony wykazał w indywidualnym zeznaniu rocznym PIT-36,"
+      "title": "§ 5 ust. 1 pkt 2",
+      "content": "Po weryfikacji i przyjęciu żądania pobrania informacji o dochodach na aplikację dostępową z systemu jest przekazywana informacja, która obejmuje następujące pozycje: status odpowiedzi, który stanowi odpowiednią cyfrę zawierającą zakodowaną informację o zidentyfikowaniu osoby i udostępnieniu danych, nieznalezieniu osoby objętej żądaniem, braku deklaracji podatkowych za podany okres, znalezieniu niezatwierdzonej deklaracji, wydaniu decyzji wymiarowej, nieobsługiwaniu roku objętego żądaniem przez usługę, złożeniu przez podatnika więcej niż jednej deklaracji tego samego typu w jednym okresie lub rozliczaniu się osoby wspólnie z małżonkiem;"
     },
     {
       "provision_ref": "par5u1p2lb",
@@ -367,11 +373,39 @@
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-1997-555",
+      "target_document_id": "pl-du-2017-1523",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2014-1114",
+      "target_document_id": "pl-du-2017-268",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2017-1904",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2017-2405",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-5",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-106",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-138",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-201",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2017-570",
       "ref_type": "references"
     }
   ]

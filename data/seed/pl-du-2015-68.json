@@ -10,10 +10,16 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2015/68",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2016 r."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
-      "content": "Ustala się następujące wzorce dotyczące spółki jawnej udostępnione w systemie teleinformatycznym: wzorzec umowy spółki jawnej, zwany dalej „wzorcem umowy”, stanowiący załącznik nr 1 do rozporządzenia; wzorzec uchwały zmieniającej umowę spółki jawnej, stanowiący załącznik nr 2 do rozporządzenia; wzorzec uchwały o powołaniu pełnomocnika spółki z ograniczoną odpowiedzialnością do zawarcia z członkiem zarządu umowy spółki jawnej przy wykorzystaniu wzorca umowy, stanowiący załącznik nr 3 do rozporządzenia; wzorzec uchwały o powołaniu pełnomocnika spółki akcyjnej do zawarcia z członkiem zarządu umowy spółki jawnej przy wykorzystaniu wzorca umowy, stanowiący załącznik nr 4 do rozporządzenia; wzorzec uchwały o ustanowieniu prokury przez spółkę jawną, stanowiący załącznik nr 5 do rozporządzenia; wzorzec uchwały o rozwiązaniu spółki jawnej, stanowiący załącznik nr 6 do rozporządzenia; wzorzec umowy o przeniesieniu praw i obowiązków w spółce jawnej, stanowiący załącznik nr 7 do rozporządzenia. Ilekroć w rozporządzeniu jest mowa o systemie teleinformatycznym, rozumie się przez to system teleinformatyczny w rozumieniu art. 2 pkt 3 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną służący do obsługi zawiązania i dokonywania innych czynności dotyczących spółki jawnej, której umowę zawarto przy wykorzystaniu wzorca umowy udostępnionego w systemie teleinformatycznym oraz złożenia wniosku o wpis do Krajowego Rejestru Sądowego dotyczący takiej spółki."
+      "content": "Ustala się następujące wzorce dotyczące spółki jawnej udostępnione w systemie teleinformatycznym: wzorzec umowy spółki jawnej, zwany dalej „wzorcem umowy”, stanowiący załącznik nr 1 do rozporządzenia; wzorzec uchwały zmieniającej umowę spółki jawnej, stanowiący załącznik nr 2 do rozporządzenia; wzorzec uchwały o powołaniu pełnomocnika spółki z ograniczoną odpowiedzialnością do zawarcia z członkiem zarządu umowy spółki jawnej przy wykorzystaniu wzorca umowy, stanowiący załącznik nr 3 do rozporządzenia; wzorzec uchwały o powołaniu pełnomocnika spółki akcyjnej do zawarcia z członkiem zarządu umowy spółki jawnej przy wykorzystaniu wzorca umowy, stanowiący załącznik nr 4 do rozporządzenia; wzorzec uchwały o ustanowieniu prokury przez spółkę jawną, stanowiący załącznik nr 5 do rozporządzenia; wzorzec uchwały o rozwiązaniu spółki jawnej, stanowiący załącznik nr 6 do rozporządzenia; wzorzec umowy o przeniesieniu praw i obowiązków w spółce jawnej, stanowiący załącznik nr 7 do rozporządzenia; wzorzec uchwały o zmianie adresu spółki jawnej, stanowiący załącznik nr 8 do rozporządzenia; wzorzec uchwały o zatwierdzeniu sprawozdania finansowego spółki jawnej, stanowiący załącznik nr 9 do rozporządzenia. Ilekroć w rozporządzeniu jest mowa o systemie teleinformatycznym, rozumie się przez to system teleinformatyczny w rozumieniu art. 2 pkt 3 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną służący do obsługi zawiązania i dokonywania innych czynności dotyczących spółki jawnej, której umowę zawarto przy wykorzystaniu wzorca umowy udostępnionego w systemie teleinformatycznym oraz złożenia wniosku o wpis do Krajowego Rejestru Sądowego dotyczący takiej spółki."
     },
     {
       "provision_ref": "par1u1p1",
@@ -55,7 +61,19 @@
       "provision_ref": "par1u1p7",
       "section": "1",
       "title": "§ 1 ust. 1 pkt 7",
-      "content": "Ustala się następujące wzorce dotyczące spółki jawnej udostępnione w systemie teleinformatycznym: wzorzec umowy o przeniesieniu praw i obowiązków w spółce jawnej, stanowiący załącznik nr 7 do rozporządzenia."
+      "content": "Ustala się następujące wzorce dotyczące spółki jawnej udostępnione w systemie teleinformatycznym: wzorzec umowy o przeniesieniu praw i obowiązków w spółce jawnej, stanowiący załącznik nr 7 do rozporządzenia;"
+    },
+    {
+      "provision_ref": "par1u1p1",
+      "section": "1",
+      "title": "§ 1 ust. 1 pkt 1",
+      "content": "Ustala się następujące wzorce dotyczące spółki jawnej udostępnione w systemie teleinformatycznym: wzorzec uchwały o zmianie adresu spółki jawnej, stanowiący załącznik nr 8 do rozporządzenia;"
+    },
+    {
+      "provision_ref": "par1u1p1",
+      "section": "1",
+      "title": "§ 1 ust. 1 pkt 1",
+      "content": "Ustala się następujące wzorce dotyczące spółki jawnej udostępnione w systemie teleinformatycznym: wzorzec uchwały o zatwierdzeniu sprawozdania finansowego spółki jawnej, stanowiący załącznik nr 9 do rozporządzenia."
     },
     {
       "provision_ref": "par1u2",
@@ -97,13 +115,13 @@
       "provision_ref": "par5",
       "section": "5",
       "title": "§ 5",
-      "content": "Określając siedzibę spółki, należy wskazać miejscowość na terytorium Rzeczypospolitej Polskiej w oparciu o dane z systemu teleinformatycznego pobrane z krajowego rejestru urzędowego podziału terytorialnego kraju TERYT."
+      "content": "Określając siedzibę i adres spółki, miejscowość na terytorium Rzeczypospolitej Polskiej należy wskazać w oparciu o dane z systemu teleinformatycznego pobrane z krajowego rejestru urzędowego podziału terytorialnego kraju TERYT."
     },
     {
       "provision_ref": "par6",
       "section": "6",
       "title": "§ 6",
-      "content": "Określając rok obrotowy, należy określić datę końcową pierwszego roku obrotowego zgodnie z art. 3 ust. 1 pkt 9 ustawy z dnia 29 września 1994 r. o rachunkowości ) , przy czym data ta nie może być późniejsza niż 18 miesięcy od dnia zawiązania spółki."
+      "content": "Określając rok obrotowy, należy określić datę końcową pierwszego roku obrotowego zgodnie z art. 3 ust. 1 pkt 9 ustawy z dnia 29 września 1994 r. o rachunkowości , przy czym data ta nie może być późniejsza niż 18 miesięcy od dnia zawiązania spółki."
     },
     {
       "provision_ref": "par7",
@@ -145,21 +163,53 @@
       "provision_ref": "par11",
       "section": "11",
       "title": "§ 11",
-      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 1 ust. 1 pkt 2, 6 i 7 oraz § 9, które wchodzą w życie z dniem 1 kwietnia 2016 r."
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia 3) Rozporządzenie zostało ogłoszone w dniu 14 stycznia 2015 r. , z wyjątkiem § 1 ust. 1 pkt 2, 6 i 7 oraz § 9, które wchodzą w życie z dniem 1 kwietnia 2016 r."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2013-1030",
+      "target_document_id": "pl-du-2016-296",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2013-1422",
+      "target_document_id": "pl-du-2016-1579",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2013-330",
+      "target_document_id": "pl-du-2016-111",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2016-1578",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2016-2255",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2016-2260",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2017-791",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2016-1030",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2016-1047",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2017-61",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2017-245",
       "ref_type": "references"
     }
   ]

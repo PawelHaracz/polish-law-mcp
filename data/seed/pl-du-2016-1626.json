@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2016/1626",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -43,7 +49,7 @@
       "provision_ref": "par2",
       "section": "2",
       "title": "§ 2",
-      "content": "Użyte w rozporządzeniu określenia oznaczają: administrator podmiotu - użytkownika zarejestrowanego zarządzającego zasobami ePUAP posiadanymi przez podmiot; identyfikator podmiotu - unikalny ciąg znaków alfanumerycznych jednoznacznie identyfikujących podmiot; identyfikator użytkownika - unikalny ciąg znaków alfanumerycznych jednoznacznie identyfikujących użytkownika zarejestrowanego; konto - dane opisujące podmiot albo użytkownika zarejestrowanego wraz z zasobami ePUAP przyporządkowanymi do tego podmiotu albo użytkownika; niezaprzeczalność - brak możliwości zanegowania swego uczestnictwa w całości lub w części wymiany danych przez jeden z podmiotów uczestniczących w tej wymianie; rozliczalność działań - funkcję ePUAP umożliwiającą przypisanie w sposób jednoznaczny działania użytkownika lub podmiotu tylko temu użytkownikowi lub podmiotowi; oznaczanie czasem - funkcję ePUAP umożliwiającą dołączanie oznaczenia czasu do danych w postaci elektronicznej logicznie powiązanych z danymi opatrzonymi podpisem lub poświadczeniem elektronicznym w chwili wykonania takiego dołączenia oraz poświadczenia elektronicznego tak powstałych danych przez ePUAP; podmiot - osobę prawną, jednostkę organizacyjną nieposiadającą osobowości prawnej albo podmiot publiczny; usługa - działanie podmiotu publicznego, polegające na wykorzystaniu przez ten podmiot ePUAP do realizacji swoich ustawowych obowiązków; usługodawca - podmiot publiczny, świadczący usługi przy użyciu ePUAP; użytkownik zarejestrowany - użytkownika posiadającego konto."
+      "content": "Użyte w rozporządzeniu określenia oznaczają: administrator podmiotu - użytkownika zarejestrowanego zarządzającego zasobami ePUAP posiadanymi przez podmiot; identyfikator podmiotu - unikalny ciąg znaków alfanumerycznych jednoznacznie identyfikujących podmiot; identyfikator użytkownika - unikalny ciąg znaków alfanumerycznych jednoznacznie identyfikujących użytkownika zarejestrowanego; konto - dane opisujące podmiot albo użytkownika zarejestrowanego wraz z zasobami ePUAP przyporządkowanymi do tego podmiotu albo użytkownika; konto nieużywane - konto użytkownika zarejestrowanego albo konto podmiotu, niewykorzystywane przez jego posiadacza w okresie dłuższym niż 3 lata; niezaprzeczalność - brak możliwości zanegowania swego uczestnictwa w całości lub w części wymiany danych przez jeden z podmiotów uczestniczących w tej wymianie; rozliczalność działań - funkcję ePUAP umożliwiającą przypisanie w sposób jednoznaczny działania użytkownika lub podmiotu tylko temu użytkownikowi lub podmiotowi; oznaczanie czasem - funkcję ePUAP umożliwiającą dołączanie oznaczenia czasu do danych w postaci elektronicznej logicznie powiązanych z danymi opatrzonymi podpisem lub poświadczeniem elektronicznym w chwili wykonania takiego dołączenia oraz poświadczenia elektronicznego tak powstałych danych przez ePUAP; podmiot - osobę prawną, jednostkę organizacyjną nieposiadającą osobowości prawnej albo podmiot publiczny; usługa - działanie podmiotu publicznego, polegające na wykorzystaniu przez ten podmiot ePUAP do realizacji swoich ustawowych obowiązków; usługodawca - podmiot publiczny, świadczący usługi przy użyciu ePUAP; użytkownik zarejestrowany - użytkownika posiadającego konto."
     },
     {
       "provision_ref": "par2p1",
@@ -68,6 +74,12 @@
       "section": "2",
       "title": "§ 2 pkt 4",
       "content": "Użyte w rozporządzeniu określenia oznaczają: konto - dane opisujące podmiot albo użytkownika zarejestrowanego wraz z zasobami ePUAP przyporządkowanymi do tego podmiotu albo użytkownika;"
+    },
+    {
+      "provision_ref": "par2p4a",
+      "section": "2",
+      "title": "§ 2 pkt 4a",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: konto nieużywane - konto użytkownika zarejestrowanego albo konto podmiotu, niewykorzystywane przez jego posiadacza w okresie dłuższym niż 3 lata;"
     },
     {
       "provision_ref": "par2p5",
@@ -121,7 +133,7 @@
       "provision_ref": "par4",
       "section": "4",
       "title": "§ 4",
-      "content": "Utworzenie konta dla użytkownika wymaga podania następujących danych: imienia (imion); nazwiska; numeru PESEL, jeżeli użytkownik posiada; adresu poczty elektronicznej; numeru telefonu komórkowego; identyfikatora użytkownika. W celu identyfikacji i uwierzytelnienia użytkownik zarejestrowany może zastosować: określone przez użytkownika identyfikator użytkownika i hasło; kwalifikowany certyfikat; środek identyfikacji elektronicznej stosowany do uwierzytelniania w systemie teleinformatycznym podmiotu niepublicznego. Stopień złożoności hasła, o którym mowa w ust. 2 pkt 1, kontroluje ePUAP. Komunikaty związane z funkcjonowaniem konta przesyłane są na adres poczty elektronicznej podany przez użytkownika zarejestrowanego. W przypadku zmiany danych, o których mowa w ust. 1 pkt 1-5, użytkownik zarejestrowany jest zobowiązany do niezwłocznego dokonania odpowiednich zmian w koncie. Użytkownik zarejestrowany może usunąć swoje konto. W przypadku utraty identyfikatora użytkownika lub hasła, o których mowa w ust. 2 pkt 1, użytkownik zarejestrowany może wnioskować, za pośrednictwem ePUAP, o przesłanie na adres poczty elektronicznej, o którym mowa w ust. 1 pkt 4, odpowiednio identyfikatora użytkownika albo hasła tymczasowego. Użytkownik zarejestrowany po uwierzytelnieniu się za pomocą hasła tymczasowego określa nowe hasło, którego stopień złożoności kontroluje ePUAP."
+      "content": "Utworzenie konta dla użytkownika wymaga podania następujących danych: imienia (imion); nazwiska; numeru PESEL, jeżeli użytkownik posiada; adresu poczty elektronicznej; numeru telefonu komórkowego; identyfikatora użytkownika. W celu identyfikacji i uwierzytelnienia użytkownik zarejestrowany może zastosować: określone przez użytkownika identyfikator użytkownika i hasło; (uchylony), środek identyfikacji elektronicznej stosowany do uwierzytelniania w systemie teleinformatycznym podmiotu niepublicznego; środek identyfikacji elektronicznej wydany w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej, o którym mowa w art. 21a ust. 1 pkt 2 lit. a ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej ; środek identyfikacji elektronicznej wydany w notyfikowanym systemie identyfikacji elektronicznej; dane weryfikowane za pomocą kwalifikowanego certyfikatu podpisu elektronicznego; certyfikat, o którym mowa w art. 19e ust. 2a 3) Uchylony na podstawie art. 35 pkt 2 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. poz. 1234), która weszła w życie z dniem 14 lipca 2023 r. ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne , zwanej dalej „ustawą”, wydany użytkownikowi publicznej aplikacji mobilnej po uwierzytelnieniu w sposób określony w art. 20a ust. 1 ustawy. Stopień złożoności hasła, o którym mowa w ust. 2 pkt 1, kontroluje ePUAP. Komunikaty związane z funkcjonowaniem konta przesyłane są na adres poczty elektronicznej podany przez użytkownika zarejestrowanego. W przypadku zmiany danych, o których mowa w ust. 1 pkt 1-5, użytkownik zarejestrowany jest zobowiązany do niezwłocznego dokonania odpowiednich zmian w koncie. Użytkownik zarejestrowany może usunąć swoje konto. W przypadku utraty identyfikatora użytkownika lub hasła, o których mowa w ust. 2 pkt 1, użytkownik zarejestrowany może wnioskować, za pośrednictwem ePUAP, o przesłanie na adres poczty elektronicznej, o którym mowa w ust. 1 pkt 4, odpowiednio identyfikatora użytkownika albo hasła tymczasowego. Użytkownik zarejestrowany po uwierzytelnieniu się za pomocą hasła tymczasowego określa nowe hasło, którego stopień złożoności kontroluje ePUAP."
     },
     {
       "provision_ref": "par4u1p1",
@@ -169,13 +181,37 @@
       "provision_ref": "par4u2p2",
       "section": "4",
       "title": "§ 4 ust. 2 pkt 2",
-      "content": "W celu identyfikacji i uwierzytelnienia użytkownik zarejestrowany może zastosować: kwalifikowany certyfikat;"
+      "content": "W celu identyfikacji i uwierzytelnienia użytkownik zarejestrowany może zastosować: (uchylony),"
     },
     {
       "provision_ref": "par4u2p3",
       "section": "4",
       "title": "§ 4 ust. 2 pkt 3",
-      "content": "W celu identyfikacji i uwierzytelnienia użytkownik zarejestrowany może zastosować: środek identyfikacji elektronicznej stosowany do uwierzytelniania w systemie teleinformatycznym podmiotu niepublicznego."
+      "content": "W celu identyfikacji i uwierzytelnienia użytkownik zarejestrowany może zastosować: środek identyfikacji elektronicznej stosowany do uwierzytelniania w systemie teleinformatycznym podmiotu niepublicznego;"
+    },
+    {
+      "provision_ref": "par4u2p4",
+      "section": "4",
+      "title": "§ 4 ust. 2 pkt 4",
+      "content": "W celu identyfikacji i uwierzytelnienia użytkownik zarejestrowany może zastosować: środek identyfikacji elektronicznej wydany w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej, o którym mowa w art. 21a ust. 1 pkt 2 lit. a ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej ;"
+    },
+    {
+      "provision_ref": "par4u2p5",
+      "section": "4",
+      "title": "§ 4 ust. 2 pkt 5",
+      "content": "W celu identyfikacji i uwierzytelnienia użytkownik zarejestrowany może zastosować: środek identyfikacji elektronicznej wydany w notyfikowanym systemie identyfikacji elektronicznej;"
+    },
+    {
+      "provision_ref": "par4u2p6",
+      "section": "4",
+      "title": "§ 4 ust. 2 pkt 6",
+      "content": "W celu identyfikacji i uwierzytelnienia użytkownik zarejestrowany może zastosować: dane weryfikowane za pomocą kwalifikowanego certyfikatu podpisu elektronicznego;"
+    },
+    {
+      "provision_ref": "par4u2p2",
+      "section": "4",
+      "title": "§ 4 ust. 2 pkt 2",
+      "content": "W celu identyfikacji i uwierzytelnienia użytkownik zarejestrowany może zastosować: certyfikat, o którym mowa w art. 19e ust. 2a 3) Uchylony na podstawie art. 35 pkt 2 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. poz. 1234), która weszła w życie z dniem 14 lipca 2023 r. ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne , zwanej dalej „ustawą”, wydany użytkownikowi publicznej aplikacji mobilnej po uwierzytelnieniu w sposób określony w art. 20a ust. 1 ustawy."
     },
     {
       "provision_ref": "par4u3",
@@ -256,16 +292,58 @@
       "content": "Konto podmiotu może usunąć administrator tego podmiotu albo minister właściwy do spraw informatyzacji, zwany dalej „ministrem”, na wniosek podmiotu."
     },
     {
+      "provision_ref": "par5a",
+      "section": "5a",
+      "title": "§ 5a",
+      "content": "Minister co najmniej raz na dwa lata dokonuje sprawdzenia kont w celu ustalenia kont nieużywanych. W przypadku ustalenia konta nieużywanego dokonuje się dwukrotnego powiadomienia użytkownika zarejestrowanego lub podmiotu, na adres poczty elektronicznej powiązany z tym kontem, w odstępie 30 dni, o zamiarze jego usunięcia. Powiadomienie, o którym mowa w ust. 2, zawiera informację dotyczącą oczekiwanych czynności, jakich należy dokonać w celu potwierdzenia woli dalszego korzystania z konta nieużywanego. W przypadku niepodjęcia przez użytkownika zarejestrowanego lub podmiot czynności, o których mowa w ust. 3, w terminie 30 dni od przesłania drugiego powiadomienia, konto nieużywane jest usuwane."
+    },
+    {
+      "provision_ref": "par5au1",
+      "section": "5a",
+      "title": "§ 5a ust. 1",
+      "content": "Minister co najmniej raz na dwa lata dokonuje sprawdzenia kont w celu ustalenia kont nieużywanych."
+    },
+    {
+      "provision_ref": "par5au2",
+      "section": "5a",
+      "title": "§ 5a ust. 2",
+      "content": "W przypadku ustalenia konta nieużywanego dokonuje się dwukrotnego powiadomienia użytkownika zarejestrowanego lub podmiotu, na adres poczty elektronicznej powiązany z tym kontem, w odstępie 30 dni, o zamiarze jego usunięcia."
+    },
+    {
+      "provision_ref": "par5au3",
+      "section": "5a",
+      "title": "§ 5a ust. 3",
+      "content": "Powiadomienie, o którym mowa w ust. 2, zawiera informację dotyczącą oczekiwanych czynności, jakich należy dokonać w celu potwierdzenia woli dalszego korzystania z konta nieużywanego."
+    },
+    {
+      "provision_ref": "par5au4",
+      "section": "5a",
+      "title": "§ 5a ust. 4",
+      "content": "W przypadku niepodjęcia przez użytkownika zarejestrowanego lub podmiot czynności, o których mowa w ust. 3, w terminie 30 dni od przesłania drugiego powiadomienia, konto nieużywane jest usuwane."
+    },
+    {
       "provision_ref": "par6",
       "section": "6",
       "title": "§ 6",
+      "content": "Użytkownik zarejestrowany może działać w imieniu różnych podmiotów. Działania użytkownika zarejestrowanego działającego w imieniu podmiotu publicznego wymagają uwierzytelnienia wykorzystującego co najmniej dwa czynniki uwierzytelnienia należące do co najmniej dwóch różnych kategorii, o których mowa w pkt 1 ppkt 2 załącznika do rozporządzenia wykonawczego Komisji (UE) 2015/1502 z dnia 8 września 2015 r. w sprawie ustanowienia minimalnych specyfikacji technicznych i procedur dotyczących poziomów bezpieczeństwa w zakresie środków identyfikacji elektronicznej na podstawie art. 8 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 345 z 20.12.2016, str. 142 oraz Dz. Urz. UE L 165 z 21.06.2022, str. 40. , zwanego dalej „rozporządzeniem wykonawczym 2015/1502”."
+    },
+    {
+      "provision_ref": "par6u1",
+      "section": "6",
+      "title": "§ 6 ust. 1",
       "content": "Użytkownik zarejestrowany może działać w imieniu różnych podmiotów."
+    },
+    {
+      "provision_ref": "par6u2",
+      "section": "6",
+      "title": "§ 6 ust. 2",
+      "content": "Działania użytkownika zarejestrowanego działającego w imieniu podmiotu publicznego wymagają uwierzytelnienia wykorzystującego co najmniej dwa czynniki uwierzytelnienia należące do co najmniej dwóch różnych kategorii, o których mowa w pkt 1 ppkt 2 załącznika do rozporządzenia wykonawczego Komisji (UE) 2015/1502 z dnia 8 września 2015 r. w sprawie ustanowienia minimalnych specyfikacji technicznych i procedur dotyczących poziomów bezpieczeństwa w zakresie środków identyfikacji elektronicznej na podstawie art. 8 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 345 z 20.12.2016, str. 142 oraz Dz. Urz. UE L 165 z 21.06.2022, str. 40. , zwanego dalej „rozporządzeniem wykonawczym 2015/1502”."
     },
     {
       "provision_ref": "par7",
       "section": "7",
       "title": "§ 7",
-      "content": "Podmiot publiczny występuje do ministra z wnioskiem o nadanie funkcjonalności podmiotu publicznego na ePUAP. Wniosek, o którym mowa w ust. 1, zawiera: oznaczenie podmiotu publicznego; imię i nazwisko osoby upoważnionej do reprezentacji podmiotu publicznego wraz z podaniem funkcji lub stanowiska; dane administratora podmiotu. Funkcjonalność podmiotu publicznego na ePUAP staje się dostępna po pozytywnym rozpatrzeniu wniosku przez ministra. Podmiotowi, o którym mowa w art. 20c ust. 3 pkt 2-4 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne , zwanej dalej „ustawą”, funkcjonalność podmiotu publicznego na ePUAP jest nadawana na podstawie zgody ministra, o której mowa w art. 20c ust. 3 ustawy, w celu potwierdzania profilu zaufanego ePUAP."
+      "content": "Podmiot publiczny występuje do ministra z wnioskiem o nadanie funkcjonalności podmiotu publicznego na ePUAP. Wniosek, o którym mowa w ust. 1, zawiera: oznaczenie podmiotu publicznego; imię i nazwisko osoby upoważnionej do reprezentacji podmiotu publicznego wraz z podaniem funkcji lub stanowiska; dane administratora podmiotu. Funkcjonalność podmiotu publicznego na ePUAP staje się dostępna po pozytywnym rozpatrzeniu wniosku przez ministra. Podmiotowi, o którym mowa w art. 20c ust. 3 pkt 2-5 ustawy, funkcjonalność podmiotu publicznego na ePUAP jest nadawana na podstawie zgody ministra, o której mowa w art. 20c ust. 3 ustawy, w celu potwierdzania profilu zaufanego."
     },
     {
       "provision_ref": "par7u1",
@@ -301,7 +379,7 @@
       "provision_ref": "par7u4",
       "section": "7",
       "title": "§ 7 ust. 4",
-      "content": "Podmiotowi, o którym mowa w art. 20c ust. 3 pkt 2-4 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne , zwanej dalej „ustawą”, funkcjonalność podmiotu publicznego na ePUAP jest nadawana na podstawie zgody ministra, o której mowa w art. 20c ust. 3 ustawy, w celu potwierdzania profilu zaufanego ePUAP."
+      "content": "Podmiotowi, o którym mowa w art. 20c ust. 3 pkt 2-5 ustawy, funkcjonalność podmiotu publicznego na ePUAP jest nadawana na podstawie zgody ministra, o której mowa w art. 20c ust. 3 ustawy, w celu potwierdzania profilu zaufanego."
     },
     {
       "provision_ref": "par8",
@@ -361,7 +439,7 @@
       "provision_ref": "par10",
       "section": "10",
       "title": "§ 10",
-      "content": "Podmioty publiczne mogą wykorzystywać do świadczenia usług w postaci elektronicznej w szczególności następujące funkcje ePUAP: tworzenie i obsługa dokumentów elektronicznych przez osoby fizyczne i podmioty; przesyłanie dokumentów elektronicznych; wymiana danych między ePUAP a innymi systemami teleinformatycznymi; identyfikacja użytkowników i rozliczalność ich działań; weryfikacja podpisu elektronicznego; tworzenie usług podmiotu publicznego lub usług kilku podmiotów publicznych współdziałających ze sobą, zbudowanych na podstawie dwóch lub więcej usług; obsługa płatności elektronicznych; potwierdzanie profilu zaufanego ePUAP; weryfikacja zgodności dokumentu elektronicznego z jego wzorem określonym w centralnym repozytorium wzorów dokumentów elektronicznych; wystawianie: urzędowego poświadczenia odbioru, elektronicznego poświadczenia opłaty, elektronicznego znacznika czasu - z uwzględnieniem funkcjonalności ePUAP gwarantujących niezaprzeczalność tych poświadczeń. Podmioty, o których mowa w art. 20c ust. 3 pkt 2-4 ustawy, w celu potwierdzania profilu zaufanego ePUAP mogą wykorzystywać funkcje ePUAP, o których mowa w ust. 1."
+      "content": "Podmioty publiczne mogą wykorzystywać do świadczenia usług w postaci elektronicznej w szczególności następujące funkcje ePUAP: tworzenie i obsługa dokumentów elektronicznych przez osoby fizyczne i podmioty; przesyłanie dokumentów elektronicznych; wymiana danych między ePUAP a innymi systemami teleinformatycznymi; identyfikacja użytkowników i rozliczalność ich działań; weryfikacja podpisu elektronicznego; tworzenie usług podmiotu publicznego lub usług kilku podmiotów publicznych współdziałających ze sobą, zbudowanych na podstawie dwóch lub więcej usług; obsługa płatności elektronicznych; działania związane z procesem potwierdzania profilu zaufanego; weryfikacja zgodności dokumentu elektronicznego z jego wzorem określonym w centralnym repozytorium wzorów dokumentów elektronicznych; wystawianie: urzędowego poświadczenia odbioru, elektronicznego poświadczenia opłaty, elektronicznego znacznika czasu - z uwzględnieniem funkcjonalności ePUAP gwarantujących niezaprzeczalność tych poświadczeń. Podmioty, o których mowa w art. 20c ust. 3 pkt 2-5 ustawy, w celu potwierdzania profilu zaufanego mogą wykorzystywać funkcje ePUAP, o których mowa w ust. 1."
     },
     {
       "provision_ref": "par10u1p1",
@@ -409,7 +487,7 @@
       "provision_ref": "par10u1p8",
       "section": "10",
       "title": "§ 10 ust. 1 pkt 8",
-      "content": "Podmioty publiczne mogą wykorzystywać do świadczenia usług w postaci elektronicznej w szczególności następujące funkcje ePUAP: potwierdzanie profilu zaufanego ePUAP;"
+      "content": "Podmioty publiczne mogą wykorzystywać do świadczenia usług w postaci elektronicznej w szczególności następujące funkcje ePUAP: działania związane z procesem potwierdzania profilu zaufanego;"
     },
     {
       "provision_ref": "par10u1p9",
@@ -439,7 +517,7 @@
       "provision_ref": "par10u2",
       "section": "10",
       "title": "§ 10 ust. 2",
-      "content": "Podmioty, o których mowa w art. 20c ust. 3 pkt 2-4 ustawy, w celu potwierdzania profilu zaufanego ePUAP mogą wykorzystywać funkcje ePUAP, o których mowa w ust. 1."
+      "content": "Podmioty, o których mowa w art. 20c ust. 3 pkt 2-5 ustawy, w celu potwierdzania profilu zaufanego mogą wykorzystywać funkcje ePUAP, o których mowa w ust. 1."
     },
     {
       "provision_ref": "par11",
@@ -475,13 +553,13 @@
       "provision_ref": "par12",
       "section": "12",
       "title": "§ 12",
-      "content": "Wykorzystanie w ePUAP środków identyfikacji elektronicznej, stosowanych do uwierzytelniania w systemie teleinformatycznym podmiotu niepublicznego, wymaga: wdrożenia przez podmiot niepubliczny zabezpieczeń dotyczących co najmniej średniego poziomu zaufania, wymaganych rozporządzeniem wykonawczym Komisji (UE) 2015/1502 z dnia 8 września 2015 r. w sprawie ustanowienia minimalnych specyfikacji technicznych i procedur dotyczących poziomów zaufania w zakresie środków identyfikacji elektronicznej na podstawie art. 8 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym (Dz. Urz. UE L 235 z 09.09.2015, str. 7), zwanym dalej „rozporządzeniem wykonawczym 2015/1502”; opracowania i ustanawiania, wdrażania i eksploatowania, monitorowania i przeglądania oraz utrzymywania i doskonalenia systemu zarządzania bezpieczeństwem informacji zgodnie z wymogami określonymi w przepisach wydanych na podstawie art. 18 ustawy; poddawania się przez podmiot niepubliczny niezależnemu audytowi, o którym mowa w pkt 2.4.7 załącznika do rozporządzenia wykonawczego 2015/1502, sprawdzającemu spełnianie wymagań, o których mowa w pkt 1 i 2, nie rzadziej niż raz na dwa lata; potwierdzenia przez podmiot niepubliczny tożsamości osoby, której udostępniono środki identyfikacji elektronicznej stosowane do uwierzytelniania w systemie teleinformatycznym podmiotu niepublicznego, na podstawie: okazanego podczas fizycznej obecności dowodu osobistego albo paszportu, który zawiera numer PESEL, albo danych pochodzących z poprawnie przeprowadzonej weryfikacji kwalifikowanego podpisu elektronicznego, przy użyciu którego osoba ta podpisała dokument elektroniczny, w którym oświadczyła, iż świadoma jest warunków i zalecanych zasad korzystania z systemu identyfikacji elektronicznej oraz wyraziła zgodę na nadanie statusu użytkownika tego systemu oraz wykorzystywanie udostępnionych środków identyfikacji elektronicznej w systemie ePUAP; przeprowadzenia testów integracyjnych w zakresie możliwości wykorzystania do identyfikacji i uwierzytelniania w ePUAP środków identyfikacji elektronicznej stosowanych do uwierzytelniania w systemie teleinformatycznym podmiotu niepublicznego, zgodnie z procedurą udostępnioną w Biuletynie Informacji Publicznej na stronie podmiotowej ministra. Wymagania, o których mowa w ust. 1 pkt 1-4, uznaje się za spełnione w przypadku przedstawienia przez podmiot niepubliczny: ważnego akredytowanego certyfikatu, obejmującego w swym zakresie stosowanie środków identyfikacji elektronicznej, systemu zarządzania bezpieczeństwem informacji, albo protokołu pokontrolnego kontroli organu nadzoru, potwierdzającego wdrożenie wymogów określonych w przepisach wydanych na podstawie art. 137 ust. 1 pkt 5 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe ) , w zakresie dotyczącym zarządzania obszarami technologii informacyjnej i bezpieczeństwa środowiska teleinformatycznego w bankach, albo pozytywnego wyniku audytu, o którym mowa w ust. 1 pkt 3, przeprowadzonego nie wcześniej niż 15 miesięcy przed dniem złożenia przez podmiot niepubliczny wniosku do ministra o wyrażenie zgody na nieodpłatne wykorzystywanie w ePUAP środków identyfikacji elektronicznej, stosowanych do uwierzytelniania w systemie teleinformatycznym podmiotu niepublicznego, albo innego dokumentu potwierdzającego spełnianie warunków, o których mowa w ust. 1. Wymaganie, o którym mowa w ust. 1 pkt 5, uznaje się za spełnione w przypadku przedstawienia pozytywnego wyniku testów integracyjnych."
+      "content": "Wykorzystanie w ePUAP środków identyfikacji elektronicznej, stosowanych do uwierzytelniania w systemie teleinformatycznym podmiotu niepublicznego, wymaga: wdrożenia przez podmiot niepubliczny zabezpieczeń dotyczących co najmniej średniego poziomu bezpieczeństwa, wymaganych rozporządzeniem wykonawczym 2015/1502; opracowania i ustanawiania, wdrażania i eksploatowania, monitorowania i przeglądania oraz utrzymywania i doskonalenia systemu zarządzania bezpieczeństwem informacji zgodnie z wymogami określonymi w przepisach wydanych na podstawie art. 18 ustawy; poddawania się przez podmiot niepubliczny niezależnemu audytowi, o którym mowa w pkt 2.4.7 załącznika do rozporządzenia wykonawczego 2015/1502, sprawdzającemu spełnianie wymagań, o których mowa w pkt 1 i 2, nie rzadziej niż raz na dwa lata; potwierdzenia przez podmiot niepubliczny tożsamości osoby, której udostępniono środki identyfikacji elektronicznej stosowane do uwierzytelniania w systemie teleinformatycznym podmiotu niepublicznego, na podstawie: okazanego podczas fizycznej obecności dowodu osobistego albo paszportu, który zawiera numer PESEL, albo danych pochodzących z poprawnie przeprowadzonej weryfikacji kwalifikowanego podpisu elektronicznego, przy użyciu którego osoba ta podpisała dokument elektroniczny, w którym oświadczyła, iż świadoma jest warunków i zalecanych zasad korzystania z systemu identyfikacji elektronicznej oraz wyraziła zgodę na nadanie statusu użytkownika tego systemu oraz wykorzystywanie udostępnionych środków identyfikacji elektronicznej w systemie ePUAP; przeprowadzenia testów integracyjnych w zakresie możliwości wykorzystania do identyfikacji i uwierzytelniania w ePUAP środków identyfikacji elektronicznej stosowanych do uwierzytelniania w systemie teleinformatycznym podmiotu niepublicznego, zgodnie z procedurą udostępnioną w Biuletynie Informacji Publicznej na stronie podmiotowej ministra. Wymagania, o których mowa w ust. 1 pkt 1-4, uznaje się za spełnione w przypadku przedstawienia przez podmiot niepubliczny: ważnego akredytowanego certyfikatu, obejmującego w swym zakresie stosowanie środków identyfikacji elektronicznej, systemu zarządzania bezpieczeństwem informacji, albo protokołu pokontrolnego kontroli organu nadzoru, potwierdzającego wdrożenie wymogów określonych w przepisach wydanych na podstawie art. 137 ust. 1 pkt 5 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe , w zakresie dotyczącym zarządzania obszarami technologii informacyjnej i bezpieczeństwa środowiska teleinformatycznego w bankach, albo pozytywnego wyniku audytu, o którym mowa w ust. 1 pkt 3, przeprowadzonego nie wcześniej niż 15 miesięcy przed dniem złożenia przez podmiot niepubliczny wniosku do ministra o wyrażenie zgody na nieodpłatne wykorzystywanie w ePUAP środków identyfikacji elektronicznej, stosowanych do uwierzytelniania w systemie teleinformatycznym podmiotu niepublicznego, albo innego dokumentu potwierdzającego spełnianie warunków, o których mowa w ust. 1. Wymaganie, o którym mowa w ust. 1 pkt 5, uznaje się za spełnione w przypadku przedstawienia pozytywnego wyniku testów integracyjnych."
     },
     {
       "provision_ref": "par12u1p1",
       "section": "12",
       "title": "§ 12 ust. 1 pkt 1",
-      "content": "Wykorzystanie w ePUAP środków identyfikacji elektronicznej, stosowanych do uwierzytelniania w systemie teleinformatycznym podmiotu niepublicznego, wymaga: wdrożenia przez podmiot niepubliczny zabezpieczeń dotyczących co najmniej średniego poziomu zaufania, wymaganych rozporządzeniem wykonawczym Komisji (UE) 2015/1502 z dnia 8 września 2015 r. w sprawie ustanowienia minimalnych specyfikacji technicznych i procedur dotyczących poziomów zaufania w zakresie środków identyfikacji elektronicznej na podstawie art. 8 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym (Dz. Urz. UE L 235 z 09.09.2015, str. 7), zwanym dalej „rozporządzeniem wykonawczym 2015/1502”;"
+      "content": "Wykorzystanie w ePUAP środków identyfikacji elektronicznej, stosowanych do uwierzytelniania w systemie teleinformatycznym podmiotu niepublicznego, wymaga: wdrożenia przez podmiot niepubliczny zabezpieczeń dotyczących co najmniej średniego poziomu bezpieczeństwa, wymaganych rozporządzeniem wykonawczym 2015/1502;"
     },
     {
       "provision_ref": "par12u1p2",
@@ -523,7 +601,7 @@
       "provision_ref": "par12u2p2",
       "section": "12",
       "title": "§ 12 ust. 2 pkt 2",
-      "content": "Wymagania, o których mowa w ust. 1 pkt 1-4, uznaje się za spełnione w przypadku przedstawienia przez podmiot niepubliczny: protokołu pokontrolnego kontroli organu nadzoru, potwierdzającego wdrożenie wymogów określonych w przepisach wydanych na podstawie art. 137 ust. 1 pkt 5 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe ) , w zakresie dotyczącym zarządzania obszarami technologii informacyjnej i bezpieczeństwa środowiska teleinformatycznego w bankach, albo"
+      "content": "Wymagania, o których mowa w ust. 1 pkt 1-4, uznaje się za spełnione w przypadku przedstawienia przez podmiot niepubliczny: protokołu pokontrolnego kontroli organu nadzoru, potwierdzającego wdrożenie wymogów określonych w przepisach wydanych na podstawie art. 137 ust. 1 pkt 5 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe , w zakresie dotyczącym zarządzania obszarami technologii informacyjnej i bezpieczeństwa środowiska teleinformatycznego w bankach, albo"
     },
     {
       "provision_ref": "par12u2p3",
@@ -565,25 +643,45 @@
       "provision_ref": "par16",
       "section": "16",
       "title": "§ 16",
-      "content": "Rozporządzenie wchodzi w życie z dniem 7 października 2016 r. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Administracji i Cyfryzacji z dnia 6 maja 2014 r. w sprawie zakresu i warunków korzystania z elektronicznej platformy usług administracji publicznej (Dz. U. poz. 584), które traci moc z dniem wejścia w życie ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. poz. 1579), na podstawie art. 142 tej ustawy."
+      "content": "Rozporządzenie wchodzi w życie z dniem 7 października 2016 r. 6) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Administracji i Cyfryzacji z dnia 6 maja 2014 r. w sprawie zakresu i warunków korzystania z elektronicznej platformy usług administracji publicznej (Dz. U. poz. 584), które utraciło moc z dniem wejścia w życie ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. poz. 1579), na podstawie art. 142 tej ustawy."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2014-1114",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2016-352",
+      "target_document_id": "pl-du-2019-1969",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2016-1579",
+      "target_document_id": "pl-du-2022-1541",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2015-128",
+      "target_document_id": "pl-du-2023-57",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1123",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1234",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1703",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1797",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-2488",
       "ref_type": "references"
     }
   ]

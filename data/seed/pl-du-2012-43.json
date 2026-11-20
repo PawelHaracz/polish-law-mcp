@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2012/43",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -19,13 +25,29 @@
       "provision_ref": "par2",
       "section": "2",
       "title": "§ 2",
-      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia 1) Rozporządzenie zostało ogłoszone w dniu 13 stycznia 2012 r. ."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2007-276",
+      "target_document_id": "pl-du-2019-1461",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-1897",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-1792",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-284",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-322",
       "ref_type": "references"
     }
   ]

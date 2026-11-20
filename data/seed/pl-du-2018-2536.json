@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2018/2536",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -241,25 +247,25 @@
       "provision_ref": "par6",
       "section": "6",
       "title": "§ 6",
-      "content": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 28 grudnia 2007 r. w sprawie zakresu rocznego sprawozdania z działalności komornika sądowego (Dz. U. z 2008 r. poz. 19), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 300 ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. poz. 771, 1443, 1669 i 2244)."
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 28 grudnia 2007 r. w sprawie zakresu rocznego sprawozdania z działalności komornika sądowego (Dz. U. z 2008 r. poz. 19), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 300 ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. poz. 771, 1443, 1669 i 2244)."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2018-771",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2018-1443",
+      "target_document_id": "pl-du-2021-1694",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2018-1669",
+      "target_document_id": "pl-du-2022-2224",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2018-2244",
+      "target_document_id": "pl-du-2022-2707",
       "ref_type": "references"
     },
     {
@@ -267,7 +273,11 @@
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2018-1360",
+      "target_document_id": "pl-du-2019-1349",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1805",
       "ref_type": "references"
     }
   ]

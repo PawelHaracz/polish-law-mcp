@@ -10,16 +10,28 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2012/1364",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Wojskowe świadectwa dopuszczenia do przewozu towarów niebezpiecznych zgodne z wzorem określonym na podstawie przepisów dotychczasowych i ich wtórniki, wystawione lub przedłużone przed dniem wejścia w życie niniejszego rozporządzenia, zachowują ważność przez okres, na który zostały wystawione lub przedłużone."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
-      "content": "Rozporządzenie określa: warunki krajowego przewozu towarów niebezpiecznych środkami transportu należącymi do Sił Zbrojnych Rzeczypospolitej Polskiej, zwanych dalej „siłami zbrojnymi”, lub środkami transportu, za które siły zbrojne są odpowiedzialne; szczegółowe wymagania, jakie powinny spełniać pojazdy oraz urządzenia transportowe i opakowania mające zastosowanie w przewozie towarów niebezpiecznych; warunki i tryb wydawania wojskowego świadectwa dopuszczenia do przewozu towarów niebezpiecznych, a także wzór i sposób jego wypełniania."
+      "content": "Rozporządzenie określa: warunki krajowego przewozu towarów niebezpiecznych środkami transportu należącymi do sił zbrojnych lub środkami transportu, za które siły zbrojne są odpowiedzialne; szczegółowe wymagania, jakie powinny spełniać pojazdy oraz urządzenia transportowe i opakowania mające zastosowanie w przewozie towarów niebezpiecznych; warunki i tryb wydawania wojskowego świadectwa dopuszczenia do przewozu towarów niebezpiecznych, a także wzór i sposób jego wypełniania."
     },
     {
       "provision_ref": "par1p1",
       "section": "1",
       "title": "§ 1 pkt 1",
-      "content": "Rozporządzenie określa: warunki krajowego przewozu towarów niebezpiecznych środkami transportu należącymi do Sił Zbrojnych Rzeczypospolitej Polskiej, zwanych dalej „siłami zbrojnymi”, lub środkami transportu, za które siły zbrojne są odpowiedzialne;"
+      "content": "Rozporządzenie określa: warunki krajowego przewozu towarów niebezpiecznych środkami transportu należącymi do sił zbrojnych lub środkami transportu, za które siły zbrojne są odpowiedzialne;"
     },
     {
       "provision_ref": "par1p2",
@@ -37,13 +49,13 @@
       "provision_ref": "par2",
       "section": "2",
       "title": "§ 2",
-      "content": "Przewóz drogowy towarów niebezpiecznych, realizowany przez pojazdy sił zbrojnych lub cywilne środki transportu do przewozów wojskowych, wymagający uzyskania zezwolenia, o którym mowa w art. 18 ust. 1 ustawy, powinien być monitorowany za pomocą teleinformatycznego systemu monitorowania przemieszczania wojsk przez właściwe jednostki organizacyjne. Monitorowanie przewozu towarów niebezpiecznych w siłach zbrojnych prowadzą jednostki wojskowe właściwe w sprawach transportu i ruchu wojsk podległe Szefowi Inspektoratu Wsparcia Sił Zbrojnych Rzeczypospolitej Polskiej."
+      "content": "Przewóz drogowy towarów niebezpiecznych, realizowany przez pojazdy sił zbrojnych lub środkami transportu, za które siły zbrojne są odpowiedzialne, zwanymi dalej „środkami transportu”, wymagający uzyskania zezwolenia, o którym mowa w art. 18 ust. 1 ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych , monitorują właściwe jednostki organizacyjne za pomocą teleinformatycznego systemu monitorowania przemieszczania wojsk. Monitorowanie przewozu towarów niebezpiecznych w siłach zbrojnych prowadzą jednostki wojskowe właściwe w sprawach transportu i ruchu wojsk podległe Szefowi Inspektoratu Wsparcia Sił Zbrojnych Rzeczypospolitej Polskiej."
     },
     {
       "provision_ref": "par2u1",
       "section": "2",
       "title": "§ 2 ust. 1",
-      "content": "Przewóz drogowy towarów niebezpiecznych, realizowany przez pojazdy sił zbrojnych lub cywilne środki transportu do przewozów wojskowych, wymagający uzyskania zezwolenia, o którym mowa w art. 18 ust. 1 ustawy, powinien być monitorowany za pomocą teleinformatycznego systemu monitorowania przemieszczania wojsk przez właściwe jednostki organizacyjne."
+      "content": "Przewóz drogowy towarów niebezpiecznych, realizowany przez pojazdy sił zbrojnych lub środkami transportu, za które siły zbrojne są odpowiedzialne, zwanymi dalej „środkami transportu”, wymagający uzyskania zezwolenia, o którym mowa w art. 18 ust. 1 ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych , monitorują właściwe jednostki organizacyjne za pomocą teleinformatycznego systemu monitorowania przemieszczania wojsk."
     },
     {
       "provision_ref": "par2u2",
@@ -55,7 +67,151 @@
       "provision_ref": "par3",
       "section": "3",
       "title": "§ 3",
-      "content": "Towary niebezpieczne należące do sił zbrojnych, niepodlegające obowiązkowi uzyskania zezwolenia wojskowego na przejazd drogowy, można przewozić, zgodnie z ustawą z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym , pojazdami dopuszczonymi do ruchu drogowego na podstawie aktualnych, dodatkowych badań technicznych potwierdzonych przez okręgową stację kontroli pojazdów lub wojskową okręgową stację kontroli pojazdów."
+      "content": "Przewóz drogowy towarów niebezpiecznych należących do Sił Zbrojnych Rzeczypospolitej Polskiej niepodlegający obowiązkowi uzyskania zezwolenia wojskowego na przejazd drogowy można wykonywać pojazdami dopuszczonymi do ruchu drogowego, zgodnie z ustawą z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym ) , oraz, jeżeli tak stanowi Umowa dotycząca międzynarodowego przewozu drogowego towarów niebezpiecznych (ADR), sporządzona w Genewie dnia 30 września 1957 r. (Dz. U. z 2023 r. poz. 891), zwana dalej „ADR”, na podstawie dodatkowych badań technicznych potwierdzonych przez okręgową stację kontroli pojazdów lub wojskową okręgową stację kontroli pojazdów. Przewóz drogowy towarów niebezpiecznych należących do sił zbrojnych państw obcych można wykonywać pojazdami należącymi do sił zbrojnych państw obcych lub pojazdami, za które te siły są odpowiedzialne, jeżeli pojazdy spełniają warunki techniczne dotyczące przewozu towarów niebezpiecznych wymagane dla tych pojazdów w państwie, w którym pojazd jest zarejestrowany."
+    },
+    {
+      "provision_ref": "par3u1",
+      "section": "3",
+      "title": "§ 3 ust. 1",
+      "content": "Przewóz drogowy towarów niebezpiecznych należących do Sił Zbrojnych Rzeczypospolitej Polskiej niepodlegający obowiązkowi uzyskania zezwolenia wojskowego na przejazd drogowy można wykonywać pojazdami dopuszczonymi do ruchu drogowego, zgodnie z ustawą z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym ) , oraz, jeżeli tak stanowi Umowa dotycząca międzynarodowego przewozu drogowego towarów niebezpiecznych (ADR), sporządzona w Genewie dnia 30 września 1957 r. (Dz. U. z 2023 r. poz. 891), zwana dalej „ADR”, na podstawie dodatkowych badań technicznych potwierdzonych przez okręgową stację kontroli pojazdów lub wojskową okręgową stację kontroli pojazdów."
+    },
+    {
+      "provision_ref": "par3u2",
+      "section": "3",
+      "title": "§ 3 ust. 2",
+      "content": "Przewóz drogowy towarów niebezpiecznych należących do sił zbrojnych państw obcych można wykonywać pojazdami należącymi do sił zbrojnych państw obcych lub pojazdami, za które te siły są odpowiedzialne, jeżeli pojazdy spełniają warunki techniczne dotyczące przewozu towarów niebezpiecznych wymagane dla tych pojazdów w państwie, w którym pojazd jest zarejestrowany."
+    },
+    {
+      "provision_ref": "par3a",
+      "section": "3a",
+      "title": "§ 3a",
+      "content": "W krajowym przewozie towarów niebezpiecznych dopuszcza się stosowanie zbiorników służących do napędu pojazdów oraz zbiorników przenośnych o pojemności większej niż określona w 1.1.3.3 (a) ADR."
+    },
+    {
+      "provision_ref": "par3b",
+      "section": "3b",
+      "title": "§ 3b",
+      "content": "W przypadku przewozu towarów niebezpiecznych środkami transportu należącymi do Sił Zbrojnych Rzeczypospolitej Polskiej lub środkami transportu, za które te Siły są odpowiedzialne w stanie gotowości obronnej państwa czasu kryzysu lub czasu wojny, określonych w przepisach wydanych na podstawie art. 6 ust. 2 pkt 3 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej 2) Ustawa utraciła moc na podstawie art. 823 pkt 2 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248), która weszła w życie z dniem 23 kwietnia 2022 r. : członkowie załogi pojazdu przewożący towary niebezpieczne przechodzą wyłącznie szkolenie stanowiskowe; prowadzi się dokumentację przewozową towarów niebezpiecznych w zakresie dokumentów zdawczo-odbiorczych; dopuszcza się zwiększenie dopuszczalnej masy netto towarów klasy 1 na pojazd, o której mowa w 7.5.5.2.1 ADR, przy czym masa brutto przewożonych towarów niebezpiecznych nie może przekroczyć dopuszczalnej ładowności pojazdu; dopuszcza się przewóz oraz przejazd sprzętu wojskowego wraz z przysługującymi mu normami należności stanowiącymi towary niebezpieczne; nie stosuje się przepisów § 3, § 22, § 23 pkt 4, § 24 i § 25 oraz § 28. Przepis ust. 1 stosuje się do przewozu towarów niebezpiecznych w stanie stałej gotowości obronnej państwa, określonej w przepisach wydanych na podstawie art. 6 ust. 2 pkt 3 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej 2) Ustawa utraciła moc na podstawie art. 823 pkt 2 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248), która weszła w życie z dniem 23 kwietnia 2022 r. , w przypadku: zarządzenia kontroli mającej na celu sprawdzenie gotowości jednostki wojskowej (jednostek wojskowych) do podjęcia działań zgodnie z przeznaczeniem lub przeprowadzenia szkolenia mającego na celu sprawdzenie gotowości jednostki wojskowej (jednostek wojskowych) do podjęcia działań zgodnie z przeznaczeniem - po uzyskaniu przez dowódcę (szefa) jednostki organizacyjnej Sił Zbrojnych Rzeczypospolitej Polskiej zgody Szefa Sztabu Generalnego Wojska Polskiego na przeprowadzenie tej kontroli lub tego szkolenia. Zgoda Szefa Sztabu Generalnego Wojska Polskiego, o której mowa w ust. 2, jest wydawana na wniosek dowódcy (szefa) jednostki organizacyjnej Sił Zbrojnych Rzeczypospolitej Polskiej, który zawiera: nazwę i adres jednostki wojskowej organizującej przewóz towarów niebezpiecznych; termin przewozu; trasę przejazdu; uzasadnienie wykonania przewozu; identyfikację przewożonego towaru niebezpiecznego wraz z określeniem jego masy w kilogramach lub objętości w litrach."
+    },
+    {
+      "provision_ref": "par3bu1p1",
+      "section": "3b",
+      "title": "§ 3b ust. 1 pkt 1",
+      "content": "W przypadku przewozu towarów niebezpiecznych środkami transportu należącymi do Sił Zbrojnych Rzeczypospolitej Polskiej lub środkami transportu, za które te Siły są odpowiedzialne w stanie gotowości obronnej państwa czasu kryzysu lub czasu wojny, określonych w przepisach wydanych na podstawie art. 6 ust. 2 pkt 3 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej 2) Ustawa utraciła moc na podstawie art. 823 pkt 2 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248), która weszła w życie z dniem 23 kwietnia 2022 r. : członkowie załogi pojazdu przewożący towary niebezpieczne przechodzą wyłącznie szkolenie stanowiskowe;"
+    },
+    {
+      "provision_ref": "par3bu1p2",
+      "section": "3b",
+      "title": "§ 3b ust. 1 pkt 2",
+      "content": "W przypadku przewozu towarów niebezpiecznych środkami transportu należącymi do Sił Zbrojnych Rzeczypospolitej Polskiej lub środkami transportu, za które te Siły są odpowiedzialne w stanie gotowości obronnej państwa czasu kryzysu lub czasu wojny, określonych w przepisach wydanych na podstawie art. 6 ust. 2 pkt 3 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej 2) Ustawa utraciła moc na podstawie art. 823 pkt 2 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248), która weszła w życie z dniem 23 kwietnia 2022 r. : prowadzi się dokumentację przewozową towarów niebezpiecznych w zakresie dokumentów zdawczo-odbiorczych;"
+    },
+    {
+      "provision_ref": "par3bu1p3",
+      "section": "3b",
+      "title": "§ 3b ust. 1 pkt 3",
+      "content": "W przypadku przewozu towarów niebezpiecznych środkami transportu należącymi do Sił Zbrojnych Rzeczypospolitej Polskiej lub środkami transportu, za które te Siły są odpowiedzialne w stanie gotowości obronnej państwa czasu kryzysu lub czasu wojny, określonych w przepisach wydanych na podstawie art. 6 ust. 2 pkt 3 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej 2) Ustawa utraciła moc na podstawie art. 823 pkt 2 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248), która weszła w życie z dniem 23 kwietnia 2022 r. : dopuszcza się zwiększenie dopuszczalnej masy netto towarów klasy 1 na pojazd, o której mowa w 7.5.5.2.1 ADR, przy czym masa brutto przewożonych towarów niebezpiecznych nie może przekroczyć dopuszczalnej ładowności pojazdu;"
+    },
+    {
+      "provision_ref": "par3bu1p4",
+      "section": "3b",
+      "title": "§ 3b ust. 1 pkt 4",
+      "content": "W przypadku przewozu towarów niebezpiecznych środkami transportu należącymi do Sił Zbrojnych Rzeczypospolitej Polskiej lub środkami transportu, za które te Siły są odpowiedzialne w stanie gotowości obronnej państwa czasu kryzysu lub czasu wojny, określonych w przepisach wydanych na podstawie art. 6 ust. 2 pkt 3 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej 2) Ustawa utraciła moc na podstawie art. 823 pkt 2 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248), która weszła w życie z dniem 23 kwietnia 2022 r. : dopuszcza się przewóz oraz przejazd sprzętu wojskowego wraz z przysługującymi mu normami należności stanowiącymi towary niebezpieczne;"
+    },
+    {
+      "provision_ref": "par3bu1p5",
+      "section": "3b",
+      "title": "§ 3b ust. 1 pkt 5",
+      "content": "W przypadku przewozu towarów niebezpiecznych środkami transportu należącymi do Sił Zbrojnych Rzeczypospolitej Polskiej lub środkami transportu, za które te Siły są odpowiedzialne w stanie gotowości obronnej państwa czasu kryzysu lub czasu wojny, określonych w przepisach wydanych na podstawie art. 6 ust. 2 pkt 3 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej 2) Ustawa utraciła moc na podstawie art. 823 pkt 2 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248), która weszła w życie z dniem 23 kwietnia 2022 r. : nie stosuje się przepisów § 3, § 22, § 23 pkt 4, § 24 i § 25 oraz § 28."
+    },
+    {
+      "provision_ref": "par3bu2p1",
+      "section": "3b",
+      "title": "§ 3b ust. 2 pkt 1",
+      "content": "Przepis ust. 1 stosuje się do przewozu towarów niebezpiecznych w stanie stałej gotowości obronnej państwa, określonej w przepisach wydanych na podstawie art. 6 ust. 2 pkt 3 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej 2) Ustawa utraciła moc na podstawie art. 823 pkt 2 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248), która weszła w życie z dniem 23 kwietnia 2022 r. , w przypadku: zarządzenia kontroli mającej na celu sprawdzenie gotowości jednostki wojskowej (jednostek wojskowych) do podjęcia działań zgodnie z przeznaczeniem lub"
+    },
+    {
+      "provision_ref": "par3bu2p2",
+      "section": "3b",
+      "title": "§ 3b ust. 2 pkt 2",
+      "content": "Przepis ust. 1 stosuje się do przewozu towarów niebezpiecznych w stanie stałej gotowości obronnej państwa, określonej w przepisach wydanych na podstawie art. 6 ust. 2 pkt 3 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej 2) Ustawa utraciła moc na podstawie art. 823 pkt 2 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248), która weszła w życie z dniem 23 kwietnia 2022 r. , w przypadku: przeprowadzenia szkolenia mającego na celu sprawdzenie gotowości jednostki wojskowej (jednostek wojskowych) do podjęcia działań zgodnie z przeznaczeniem"
+    },
+    {
+      "provision_ref": "par3bu3p1",
+      "section": "3b",
+      "title": "§ 3b ust. 3 pkt 1",
+      "content": "Zgoda Szefa Sztabu Generalnego Wojska Polskiego, o której mowa w ust. 2, jest wydawana na wniosek dowódcy (szefa) jednostki organizacyjnej Sił Zbrojnych Rzeczypospolitej Polskiej, który zawiera: nazwę i adres jednostki wojskowej organizującej przewóz towarów niebezpiecznych;"
+    },
+    {
+      "provision_ref": "par3bu3p2",
+      "section": "3b",
+      "title": "§ 3b ust. 3 pkt 2",
+      "content": "Zgoda Szefa Sztabu Generalnego Wojska Polskiego, o której mowa w ust. 2, jest wydawana na wniosek dowódcy (szefa) jednostki organizacyjnej Sił Zbrojnych Rzeczypospolitej Polskiej, który zawiera: termin przewozu;"
+    },
+    {
+      "provision_ref": "par3bu3p3",
+      "section": "3b",
+      "title": "§ 3b ust. 3 pkt 3",
+      "content": "Zgoda Szefa Sztabu Generalnego Wojska Polskiego, o której mowa w ust. 2, jest wydawana na wniosek dowódcy (szefa) jednostki organizacyjnej Sił Zbrojnych Rzeczypospolitej Polskiej, który zawiera: trasę przejazdu;"
+    },
+    {
+      "provision_ref": "par3bu3p4",
+      "section": "3b",
+      "title": "§ 3b ust. 3 pkt 4",
+      "content": "Zgoda Szefa Sztabu Generalnego Wojska Polskiego, o której mowa w ust. 2, jest wydawana na wniosek dowódcy (szefa) jednostki organizacyjnej Sił Zbrojnych Rzeczypospolitej Polskiej, który zawiera: uzasadnienie wykonania przewozu;"
+    },
+    {
+      "provision_ref": "par3bu3p5",
+      "section": "3b",
+      "title": "§ 3b ust. 3 pkt 5",
+      "content": "Zgoda Szefa Sztabu Generalnego Wojska Polskiego, o której mowa w ust. 2, jest wydawana na wniosek dowódcy (szefa) jednostki organizacyjnej Sił Zbrojnych Rzeczypospolitej Polskiej, który zawiera: identyfikację przewożonego towaru niebezpiecznego wraz z określeniem jego masy w kilogramach lub objętości w litrach."
+    },
+    {
+      "provision_ref": "par3c",
+      "section": "3c",
+      "title": "§ 3c",
+      "content": "W przypadku przewozu towarów niebezpiecznych środkami transportu należącymi do sił zbrojnych państw obcych lub środkami transportu, za które te siły zbrojne są odpowiedzialne: członkowie załogi pojazdu przewożący towary niebezpieczne przechodzą wyłącznie szkolenie stanowiskowe; prowadzi się dokumentację przewozową towarów niebezpiecznych w zakresie umożliwiającym ich identyfikację przez wskazanie: numeru rozpoznawczego towaru niebezpiecznego (UN), zgodnego z ADR, prawidłowej nazwy przewozowej, klasy towaru niebezpiecznego, a w przypadku klasy 1 także kodu klasyfikacyjnego, wzoru nalepek ostrzegawczych; dopuszcza się zwiększenie dopuszczalnej masy netto towarów klasy 1 na pojazd, o której mowa w 7.5.5.2.1 ADR, przy czym masa brutto przewożonych towarów niebezpiecznych nie może przekroczyć dopuszczalnej ładowności pojazdu; dopuszcza się przewóz oraz przejazd sprzętu wojskowego wraz z przysługującymi mu normami należności stanowiącymi towary niebezpieczne."
+    },
+    {
+      "provision_ref": "par3cp1",
+      "section": "3c",
+      "title": "§ 3c pkt 1",
+      "content": "W przypadku przewozu towarów niebezpiecznych środkami transportu należącymi do sił zbrojnych państw obcych lub środkami transportu, za które te siły zbrojne są odpowiedzialne: członkowie załogi pojazdu przewożący towary niebezpieczne przechodzą wyłącznie szkolenie stanowiskowe;"
+    },
+    {
+      "provision_ref": "par3cp2la",
+      "section": "3c",
+      "title": "§ 3c pkt 2 lit. a",
+      "content": "W przypadku przewozu towarów niebezpiecznych środkami transportu należącymi do sił zbrojnych państw obcych lub środkami transportu, za które te siły zbrojne są odpowiedzialne: prowadzi się dokumentację przewozową towarów niebezpiecznych w zakresie umożliwiającym ich identyfikację przez wskazanie: numeru rozpoznawczego towaru niebezpiecznego (UN), zgodnego z ADR,"
+    },
+    {
+      "provision_ref": "par3cp2lb",
+      "section": "3c",
+      "title": "§ 3c pkt 2 lit. b",
+      "content": "W przypadku przewozu towarów niebezpiecznych środkami transportu należącymi do sił zbrojnych państw obcych lub środkami transportu, za które te siły zbrojne są odpowiedzialne: prowadzi się dokumentację przewozową towarów niebezpiecznych w zakresie umożliwiającym ich identyfikację przez wskazanie: prawidłowej nazwy przewozowej,"
+    },
+    {
+      "provision_ref": "par3cp2lc",
+      "section": "3c",
+      "title": "§ 3c pkt 2 lit. c",
+      "content": "W przypadku przewozu towarów niebezpiecznych środkami transportu należącymi do sił zbrojnych państw obcych lub środkami transportu, za które te siły zbrojne są odpowiedzialne: prowadzi się dokumentację przewozową towarów niebezpiecznych w zakresie umożliwiającym ich identyfikację przez wskazanie: klasy towaru niebezpiecznego, a w przypadku klasy 1 także kodu klasyfikacyjnego,"
+    },
+    {
+      "provision_ref": "par3cp2ld",
+      "section": "3c",
+      "title": "§ 3c pkt 2 lit. d",
+      "content": "W przypadku przewozu towarów niebezpiecznych środkami transportu należącymi do sił zbrojnych państw obcych lub środkami transportu, za które te siły zbrojne są odpowiedzialne: prowadzi się dokumentację przewozową towarów niebezpiecznych w zakresie umożliwiającym ich identyfikację przez wskazanie: wzoru nalepek ostrzegawczych;"
+    },
+    {
+      "provision_ref": "par3cp3",
+      "section": "3c",
+      "title": "§ 3c pkt 3",
+      "content": "W przypadku przewozu towarów niebezpiecznych środkami transportu należącymi do sił zbrojnych państw obcych lub środkami transportu, za które te siły zbrojne są odpowiedzialne: dopuszcza się zwiększenie dopuszczalnej masy netto towarów klasy 1 na pojazd, o której mowa w 7.5.5.2.1 ADR, przy czym masa brutto przewożonych towarów niebezpiecznych nie może przekroczyć dopuszczalnej ładowności pojazdu;"
+    },
+    {
+      "provision_ref": "par3cp4",
+      "section": "3c",
+      "title": "§ 3c pkt 4",
+      "content": "W przypadku przewozu towarów niebezpiecznych środkami transportu należącymi do sił zbrojnych państw obcych lub środkami transportu, za które te siły zbrojne są odpowiedzialne: dopuszcza się przewóz oraz przejazd sprzętu wojskowego wraz z przysługującymi mu normami należności stanowiącymi towary niebezpieczne."
     },
     {
       "provision_ref": "par4",
@@ -67,19 +223,19 @@
       "provision_ref": "par5",
       "section": "5",
       "title": "§ 5",
-      "content": "Wojskowy Dozór Techniczny, zwany dalej „WDT”, dokonuje sprawdzenia urządzeń transportowych należących do sił zbrojnych na zasadach określonych w ustawie, w zakresie spełnienia postanowień rozporządzenia, oraz sporządza protokół z przeprowadzonego badania, a w przypadku pozytywnego wyniku badania wydaje decyzję dopuszczającą urządzenie transportowe do eksploatacji."
+      "content": "Wojskowy Dozór Techniczny, zwany dalej „WDT”, dokonuje sprawdzenia, na zasadach określonych w ustawie, urządzeń transportowych należących do Sił Zbrojnych Rzeczypospolitej Polskiej w zakresie spełnienia postanowień rozporządzenia oraz sporządza protokoły przeprowadzonego badania, a w przypadku pozytywnego wyniku badania wydaje decyzję dopuszczającą urządzenie transportowe do eksploatacji."
     },
     {
       "provision_ref": "par6",
       "section": "6",
       "title": "§ 6",
-      "content": "Sprawdzenia w zakresie spełniania dodatkowych wymagań technicznych dokonuje uprawniony diagnosta w dodatkowym badaniu technicznym pojazdu przeznaczonego do przewozu niektórych towarów niebezpiecznych wykonywanego w okręgowej stacji kontroli pojazdów lub stacji kontroli pojazdów, o której mowa w rozporządzeniu Ministra Spraw Wewnętrznych i Administracji, Ministra Finansów oraz Ministra Obrony Narodowej z dnia 11 lipca 2011 r. w sprawie badań technicznych pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej, Policji i innych pojazdów użytkowanych w sposób szczególny ."
+      "content": "Sprawdzenia w zakresie spełniania dodatkowych wymagań technicznych, określonych w ADR, dotyczących wyposażenia lub przystosowania pojazdów do przewozu towarów niebezpiecznych, dokonuje uprawniony diagnosta w dodatkowym badaniu technicznym pojazdu przeznaczonego do przewozu niektórych towarów niebezpiecznych wykonywanym w okręgowej stacji kontroli pojazdów lub stacji kontroli pojazdów, o której mowa w przepisach wydanych na podstawie art. 86 ust. 4 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym ."
     },
     {
       "provision_ref": "par7",
       "section": "7",
       "title": "§ 7",
-      "content": "Podczas wykonywania dodatkowego badania technicznego pojazdu odpowiednio przystosowanego lub wyposażonego do przewozu towarów niebezpiecznych uprawniony diagnosta stacji kontroli pojazdów dokonujący badania technicznego, zgodnie z rozporządzeniem Ministra Infrastruktury z dnia 18 września 2009 r. w sprawie zakresu i sposobu przeprowadzania badań technicznych pojazdów oraz wzorów dokumentów stosowanych przy tych badaniach oraz z rozporządzeniem Ministrów Obrony Narodowej oraz Spraw Wewnętrznych i Administracji z dnia 9 czerwca 2005 r. w sprawie warunków technicznych pojazdów specjalnych i pojazdów używanych do celów specjalnych Sił Zbrojnych Rzeczypospolitej Polskiej z zastrzeżeniem § 28, wystawia zaświadczenie, zgodne ze wzorem stanowiącym załącznik nr 1 do rozporządzenia, o przeprowadzonym dodatkowym badaniu technicznym."
+      "content": "Podczas wykonywania dodatkowego badania technicznego pojazdu odpowiednio przystosowanego lub wyposażonego do przewozu towarów niebezpiecznych uprawniony diagnosta stacji kontroli pojazdów dokonujący badania technicznego, zgodnie z rozporządzeniem Ministra Infrastruktury z dnia 18 września 2009 r. w sprawie zakresu i sposobu przeprowadzania badań technicznych pojazdów oraz wzorów dokumentów stosowanych przy tych badaniach 3) Rozporządzenie utraciło moc na podstawie § 10 rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 26 czerwca 2012 r. w sprawie zakresu i sposobu przeprowadzania badań technicznych pojazdów oraz wzorów dokumentów stosowanych przy tych badaniach (Dz. U. z 2024 r. poz. 141), które weszło w życie z dniem 8 października 2012 r. oraz z rozporządzeniem Ministrów Obrony Narodowej oraz Spraw Wewnętrznych i Administracji z dnia 9 czerwca 2005 r. w sprawie warunków technicznych pojazdów specjalnych i pojazdów używanych do celów specjalnych Sił Zbrojnych Rzeczypospolitej Polskiej z zastrzeżeniem § 28, wystawia zaświadczenie, zgodne ze wzorem stanowiącym załącznik nr 1 do rozporządzenia, o przeprowadzonym dodatkowym badaniu technicznym."
     },
     {
       "provision_ref": "par8",
@@ -91,31 +247,55 @@
       "provision_ref": "par9",
       "section": "9",
       "title": "§ 9",
-      "content": "Badania okresowe należy wykonywać nie rzadziej niż co 6 lat jako: rewizję zewnętrzną, rewizję wewnętrzną, próbę ciśnieniową hydrauliczną i próbę szczelności."
+      "content": "Badania okresowe należy wykonywać nie rzadziej niż co 6 lat w zakresie: rewizji zewnętrznej, rewizji wewnętrznej, próby ciśnieniowej i próby szczelności."
     },
     {
       "provision_ref": "par10",
       "section": "10",
       "title": "§ 10",
+      "content": "Badania pośrednie należy wykonywać jako próbę szczelności i rewizję zewnętrzną, po każdym badaniu okresowym w terminach nie rzadziej niż co 3 lata. Badania pośrednie cystern wyłączonych z użytkowania na okres dłuższy niż 12 miesięcy i poddanych zabiegom konserwacyjnym, potwierdzonym wyciągiem z rozkazu właściwego dowódcy, przeprowadza się w zakresie rewizji zewnętrznej."
+    },
+    {
+      "provision_ref": "par10u1",
+      "section": "10",
+      "title": "§ 10 ust. 1",
       "content": "Badania pośrednie należy wykonywać jako próbę szczelności i rewizję zewnętrzną, po każdym badaniu okresowym w terminach nie rzadziej niż co 3 lata."
+    },
+    {
+      "provision_ref": "par10u2",
+      "section": "10",
+      "title": "§ 10 ust. 2",
+      "content": "Badania pośrednie cystern wyłączonych z użytkowania na okres dłuższy niż 12 miesięcy i poddanych zabiegom konserwacyjnym, potwierdzonym wyciągiem z rozkazu właściwego dowódcy, przeprowadza się w zakresie rewizji zewnętrznej."
     },
     {
       "provision_ref": "par11",
       "section": "11",
       "title": "§ 11",
-      "content": "W przypadku kiedy stan bezpieczeństwa zbiornika lub jego wyposażenia uległ zmianie na skutek uszkodzenia, naprawy lub wymiany wyposażenia eksploatacyjnego, przeprowadza się badanie doraźne (nadzwyczajne) w zakresie określonym w § 9."
+      "content": "W przypadku gdy stan bezpieczeństwa zbiornika lub jego wyposażenia uległ zmianie na skutek uszkodzenia, naprawy lub wymiany wyposażenia eksploatacyjnego, przeprowadza się badanie doraźne (nadzwyczajne) w zakresie określonym przez WDT. Zakres badania doraźnego (nadzwyczajnego) nie powinien wykraczać poza zakres badania okresowego, o którym mowa w § 9."
     },
     {
       "provision_ref": "par12",
       "section": "12",
       "title": "§ 12",
+      "content": "Podczas rewizji zewnętrznej należy wykonać zewnętrzną ocenę wizualną zbiornika cysterny w miejscach dostępnych, sprawdzić działanie jego osprzętu i automatyki zabezpieczającej, protokół z pomiarów rezystancji uziemienia oraz oznakowanie i wyposażenie pojazdu, o którym mowa w § 23. Eksploatujący zapewnia wykonywanie i dokumentowanie pomiarów rezystancji uziemienia przed każdym badaniem, o którym mowa w ust. 1, o ile w instrukcji eksploatacji cysterny nie określono innych terminów."
+    },
+    {
+      "provision_ref": "par12u1",
+      "section": "12",
+      "title": "§ 12 ust. 1",
       "content": "Podczas rewizji zewnętrznej należy wykonać zewnętrzną ocenę wizualną zbiornika cysterny w miejscach dostępnych, sprawdzić działanie jego osprzętu i automatyki zabezpieczającej, protokół z pomiarów rezystancji uziemienia oraz oznakowanie i wyposażenie pojazdu, o którym mowa w § 23."
+    },
+    {
+      "provision_ref": "par12u2",
+      "section": "12",
+      "title": "§ 12 ust. 2",
+      "content": "Eksploatujący zapewnia wykonywanie i dokumentowanie pomiarów rezystancji uziemienia przed każdym badaniem, o którym mowa w ust. 1, o ile w instrukcji eksploatacji cysterny nie określono innych terminów."
     },
     {
       "provision_ref": "par13",
       "section": "13",
       "title": "§ 13",
-      "content": "W trakcie rewizji wewnętrznej należy wykonać wizualną ocenę stanu ścianek zbiornika cysterny, jego połączeń, wzmocnień oraz wyposażenia. Rewizję wewnętrzną wykonuje się po wystawieniu zaświadczenia zezwalającego na wejście do wnętrza zbiornika. Treść zaświadczenia powinna stwierdzać, że zbiornik jest wolny od gazu, par i innych pozostałości przewożonych materiałów niebezpiecznych lub stężenie pozostałości materiałów niebezpiecznych jest mniejsze niż dopuszczalne dla pracy człowieka bez konieczności użycia sprzętu ochronnego, a zawartość tlenu w atmosferze zbiornika umożliwia bezpieczną pracę wewnątrz zbiornika. Zaświadczenie powinien wystawić użytkownik cysterny lub upoważniony przez użytkownika przedsiębiorca na podstawie pomiarów wykonanych przez odpowiednio przeszkoloną osobę wyposażoną w odpowiednie urządzenie kontrolne do określania dopuszczalnych stężeń i innych parametrów koniecznych do określenia atmosfery wewnątrz zbiornika. Urządzenie, którym wykonywane są powyższe pomiary, powinno posiadać stosowne dopuszczenia do ich wykonywania wydane przez odpowiednie organy."
+      "content": "W trakcie rewizji wewnętrznej należy wykonać wizualną ocenę stanu ścianek zbiornika cysterny, jego połączeń, wzmocnień oraz wyposażenia. Rewizję wewnętrzną wykonuje się po wystawieniu zaświadczenia zezwalającego na wejście do wnętrza zbiornika. Treść zaświadczenia powinna stwierdzać, że zbiornik jest wolny od gazu, par i innych pozostałości przewożonych materiałów niebezpiecznych lub stężenie pozostałości materiałów niebezpiecznych jest mniejsze niż dopuszczalne dla pracy człowieka bez konieczności użycia sprzętu ochronnego, a zawartość tlenu w atmosferze zbiornika umożliwia bezpieczną pracę wewnątrz zbiornika. Zaświadczenie wystawia kierownik jednostki organizacyjnej odpowiedzialnej za cysternę lub osoba przez niego upoważniona na podstawie pomiarów wykonanych przez odpowiednio przeszkoloną osobę wyposażoną w odpowiednie urządzenie kontrolne do określania dopuszczalnego stężenia i innych parametrów koniecznych do określenia atmosfery wewnątrz zbiornika. Urządzenie, którym wykonywane są powyższe pomiary, powinno posiadać stosowne dopuszczenia do ich wykonywania wydane przez odpowiednie organy."
     },
     {
       "provision_ref": "par13u1",
@@ -139,7 +319,7 @@
       "provision_ref": "par13u4",
       "section": "13",
       "title": "§ 13 ust. 4",
-      "content": "Zaświadczenie powinien wystawić użytkownik cysterny lub upoważniony przez użytkownika przedsiębiorca na podstawie pomiarów wykonanych przez odpowiednio przeszkoloną osobę wyposażoną w odpowiednie urządzenie kontrolne do określania dopuszczalnych stężeń i innych parametrów koniecznych do określenia atmosfery wewnątrz zbiornika."
+      "content": "Zaświadczenie wystawia kierownik jednostki organizacyjnej odpowiedzialnej za cysternę lub osoba przez niego upoważniona na podstawie pomiarów wykonanych przez odpowiednio przeszkoloną osobę wyposażoną w odpowiednie urządzenie kontrolne do określania dopuszczalnego stężenia i innych parametrów koniecznych do określenia atmosfery wewnątrz zbiornika."
     },
     {
       "provision_ref": "par13u5",
@@ -151,7 +331,7 @@
       "provision_ref": "par14",
       "section": "14",
       "title": "§ 14",
-      "content": "Wartość ciśnienia próbnego podczas przeprowadzania próby ciśnieniowej powinna być zgodna z dokumentacją techniczną zbiornika cysterny lub specyfikacją techniczną i określona na tabliczce fabrycznej. Temperatura czynnika próbnego podczas przeprowadzania próby ciśnieniowej nie powinna być niższa niż 10°C i wyższa niż 50°C, jeżeli w dokumentacji technicznej nie ustalono innej temperatury. Próbę ciśnieniową należy wykonywać jako próbę hydrauliczną. W technicznie uzasadnionych przypadkach, po uzgodnieniu z WDT, próbę hydrauliczną można zastąpić inną próbą lub badaniem innego rodzaju. Podczas próby ciśnieniowej należy równomiernie podnosić ciśnienie, aż do osiągnięcia ciśnienia próbnego. Szybkość wzrostu ciśnienia od dopuszczalnego do próbnego nie powinna przekraczać 1 bar/min, chyba że w dokumentacji technicznej została ustalona inna wartość. Ciśnienie próbne utrzymuje się przez co najmniej 5 minut, obniża do ciśnienia roboczego, ponownie podnosi się do ciśnienia próbnego i utrzymuje przez 5 minut, a następnie obniża do ciśnienia roboczego i dokonuje oględzin urządzenia i osprzętu."
+      "content": "Wartość ciśnienia próbnego podczas przeprowadzania próby ciśnieniowej powinna być zgodna z dokumentacją techniczną zbiornika cysterny lub specyfikacją techniczną i określona na tabliczce fabrycznej. Temperatura czynnika próbnego podczas przeprowadzania próby ciśnieniowej nie powinna być niższa niż 10 °C i wyższa niż 50 °C, jeżeli w dokumentacji technicznej nie ustalono innej temperatury. Próbę ciśnieniową należy wykonywać jako próbę hydrauliczną. W technicznie uzasadnionych przypadkach, na pisemny wniosek kierownika jednostki organizacyjnej odpowiedzialnej za pojazd lub osoby przez niego upoważnionej, za zgodą Szefa WDT, próbę hydrauliczną można zastąpić inną próbą lub badaniem innego rodzaju, jeżeli metodyka przeprowadzenia takiej próby lub takiego badania została uzgodniona z Szefem WDT. Podczas próby ciśnieniowej należy równomiernie podnosić ciśnienie, aż do osiągnięcia ciśnienia próbnego. Szybkość wzrostu ciśnienia od dopuszczalnego do próbnego nie powinna przekraczać 1 bar/min, chyba że w dokumentacji technicznej została ustalona inna wartość. Ciśnienie próbne utrzymuje się przez co najmniej 5 minut, obniża do ciśnienia roboczego, ponownie podnosi się do ciśnienia próbnego i utrzymuje przez 5 minut, a następnie obniża do ciśnienia roboczego i dokonuje oględzin urządzenia i osprzętu. Wynik próby ciśnieniowej uznaje się za pozytywny, jeżeli w czasie próby nie stwierdzono: nieszczelności połączeń i wyposażenia; spadku ciśnienia podczas przeprowadzenia próby; widocznej trwałej deformacji zbiornika lub wyposażenia."
     },
     {
       "provision_ref": "par14u1",
@@ -163,13 +343,13 @@
       "provision_ref": "par14u2",
       "section": "14",
       "title": "§ 14 ust. 2",
-      "content": "Temperatura czynnika próbnego podczas przeprowadzania próby ciśnieniowej nie powinna być niższa niż 10°C i wyższa niż 50°C, jeżeli w dokumentacji technicznej nie ustalono innej temperatury."
+      "content": "Temperatura czynnika próbnego podczas przeprowadzania próby ciśnieniowej nie powinna być niższa niż 10 °C i wyższa niż 50 °C, jeżeli w dokumentacji technicznej nie ustalono innej temperatury."
     },
     {
       "provision_ref": "par14u3",
       "section": "14",
       "title": "§ 14 ust. 3",
-      "content": "Próbę ciśnieniową należy wykonywać jako próbę hydrauliczną. W technicznie uzasadnionych przypadkach, po uzgodnieniu z WDT, próbę hydrauliczną można zastąpić inną próbą lub badaniem innego rodzaju."
+      "content": "Próbę ciśnieniową należy wykonywać jako próbę hydrauliczną. W technicznie uzasadnionych przypadkach, na pisemny wniosek kierownika jednostki organizacyjnej odpowiedzialnej za pojazd lub osoby przez niego upoważnionej, za zgodą Szefa WDT, próbę hydrauliczną można zastąpić inną próbą lub badaniem innego rodzaju, jeżeli metodyka przeprowadzenia takiej próby lub takiego badania została uzgodniona z Szefem WDT."
     },
     {
       "provision_ref": "par14u4",
@@ -178,10 +358,34 @@
       "content": "Podczas próby ciśnieniowej należy równomiernie podnosić ciśnienie, aż do osiągnięcia ciśnienia próbnego. Szybkość wzrostu ciśnienia od dopuszczalnego do próbnego nie powinna przekraczać 1 bar/min, chyba że w dokumentacji technicznej została ustalona inna wartość. Ciśnienie próbne utrzymuje się przez co najmniej 5 minut, obniża do ciśnienia roboczego, ponownie podnosi się do ciśnienia próbnego i utrzymuje przez 5 minut, a następnie obniża do ciśnienia roboczego i dokonuje oględzin urządzenia i osprzętu."
     },
     {
+      "provision_ref": "par14u5p1",
+      "section": "14",
+      "title": "§ 14 ust. 5 pkt 1",
+      "content": "Wynik próby ciśnieniowej uznaje się za pozytywny, jeżeli w czasie próby nie stwierdzono: nieszczelności połączeń i wyposażenia;"
+    },
+    {
+      "provision_ref": "par14u5p2",
+      "section": "14",
+      "title": "§ 14 ust. 5 pkt 2",
+      "content": "Wynik próby ciśnieniowej uznaje się za pozytywny, jeżeli w czasie próby nie stwierdzono: spadku ciśnienia podczas przeprowadzenia próby;"
+    },
+    {
+      "provision_ref": "par14u5p3",
+      "section": "14",
+      "title": "§ 14 ust. 5 pkt 3",
+      "content": "Wynik próby ciśnieniowej uznaje się za pozytywny, jeżeli w czasie próby nie stwierdzono: widocznej trwałej deformacji zbiornika lub wyposażenia."
+    },
+    {
+      "provision_ref": "par14a",
+      "section": "14a",
+      "title": "§ 14a",
+      "content": "Na pisemny wniosek kierownika jednostki organizacyjnej odpowiedzialnej za cysternę badanie, o którym mowa w § 9 albo 10, może być przeprowadzone w okresie do sześciu miesięcy wcześniej przed wyznaczonym terminem, pod warunkiem, że termin badania zostanie uzgodniony z Szefem WDT na co najmniej 14 dni przed nowym terminem badania."
+    },
+    {
       "provision_ref": "par15",
       "section": "15",
       "title": "§ 15",
-      "content": "Podczas próby szczelności należy sprawdzić szczelność ścianek zbiornika cysterny i zamontowanego na nim osprzętu oraz prawidłowość funkcjonowania całego wyposażenia. Próbie szczelności poddaje się zbiornik wraz z wyposażeniem. W przypadku zbiornika wielokomorowego próbę szczelności należy wykonywać dla każdej komory oddzielnie. Próbę szczelności zbiornika należy przeprowadzać, jeżeli nie ma innych wymagań, przy efektywnym ciśnieniu wewnętrznym równym najwyższemu ciśnieniu roboczemu, lecz nie mniejszym niż 0,2 bara ciśnienia manometrycznego. Podczas próby szczelności sprawdza się szczelność zaworów dennych, spustowych i innego wyposażenia. Otwór na urządzenie wentylacyjne powinien być zaślepiony, a działanie urządzeń wentylacyjnych należy sprawdzić na stanowisku próbnym. Próbę szczelności należy przeprowadzać za pomocą czynnika roboczego lub wody albo wody z użyciem farb wskaźnikowych lub luminoforów ultrafioletowych. Ciśnienie powinno być podnoszone jednostajnie do wysokości ciśnienia próby szczelności z prędkością 1 bar/min i utrzymywane przez co najmniej 30 minut. Inny sposób przeprowadzenia próby szczelności może się odbyć za zgodą WDT. Wynik próby szczelności uznaje się za pomyślny, jeżeli w czasie próby nie stwierdzono: nieszczelności połączeń i wyposażenia; spadku ciśnienia podczas przeprowadzenia próby; widocznej trwałej deformacji zbiornika lub wyposażenia. Podczas wykonywania próby szczelności instalacja zasilania urządzenia płynem próbnym powinna być szczelna."
+      "content": "Podczas próby szczelności należy sprawdzić szczelność ścianek zbiornika cysterny i zamontowanego na nim osprzętu oraz prawidłowość funkcjonowania całego wyposażenia. Próbie szczelności poddaje się zbiornik wraz z wyposażeniem. W przypadku zbiornika wielokomorowego próbę szczelności należy wykonywać dla każdej komory oddzielnie. Próbę szczelności zbiornika należy przeprowadzać, jeżeli nie ma innych wymagań, przy efektywnym ciśnieniu wewnętrznym równym najwyższemu ciśnieniu roboczemu, lecz nie mniejszym niż 0,2 bara ciśnienia manometrycznego. Podczas próby szczelności sprawdza się szczelność zaworów dennych, spustowych i innego wyposażenia. Otwór na urządzenie wentylacyjne powinien być zaślepiony, a działanie urządzeń wentylacyjnych należy sprawdzić na stanowisku próbnym. Próbę szczelności należy przeprowadzać za pomocą czynnika roboczego lub wody albo wody z użyciem farb wskaźnikowych lub luminoforów ultrafioletowych. Ciśnienie powinno być podnoszone jednostajnie do wysokości ciśnienia próby szczelności z prędkością 1 bar/min i utrzymywane przez co najmniej 30 minut. W uzasadnionych przypadkach, na pisemny wniosek kierownika jednostki organizacyjnej odpowiedzialnej za pojazd lub osoby przez niego upoważnionej, za zgodą Szefa WDT, próba szczelności może zostać przeprowadzona w inny sposób, jeżeli metodyka przeprowadzania takiej próby została uzgodniona z Szefem WDT. Wynik próby szczelności uznaje się za pomyślny, jeżeli w czasie próby nie stwierdzono: nieszczelności połączeń i wyposażenia; spadku ciśnienia podczas przeprowadzenia próby; widocznej trwałej deformacji zbiornika lub wyposażenia. Podczas wykonywania próby szczelności instalacja zasilania urządzenia płynem próbnym powinna być szczelna."
     },
     {
       "provision_ref": "par15u1",
@@ -211,7 +415,7 @@
       "provision_ref": "par15u5",
       "section": "15",
       "title": "§ 15 ust. 5",
-      "content": "Próbę szczelności należy przeprowadzać za pomocą czynnika roboczego lub wody albo wody z użyciem farb wskaźnikowych lub luminoforów ultrafioletowych. Ciśnienie powinno być podnoszone jednostajnie do wysokości ciśnienia próby szczelności z prędkością 1 bar/min i utrzymywane przez co najmniej 30 minut. Inny sposób przeprowadzenia próby szczelności może się odbyć za zgodą WDT."
+      "content": "Próbę szczelności należy przeprowadzać za pomocą czynnika roboczego lub wody albo wody z użyciem farb wskaźnikowych lub luminoforów ultrafioletowych. Ciśnienie powinno być podnoszone jednostajnie do wysokości ciśnienia próby szczelności z prędkością 1 bar/min i utrzymywane przez co najmniej 30 minut. W uzasadnionych przypadkach, na pisemny wniosek kierownika jednostki organizacyjnej odpowiedzialnej za pojazd lub osoby przez niego upoważnionej, za zgodą Szefa WDT, próba szczelności może zostać przeprowadzona w inny sposób, jeżeli metodyka przeprowadzania takiej próby została uzgodniona z Szefem WDT."
     },
     {
       "provision_ref": "par15u6p1",
@@ -271,19 +475,19 @@
       "provision_ref": "par18",
       "section": "18",
       "title": "§ 18",
-      "content": "Zbiorniki cystern przeznaczone do przewozu towarów niebezpiecznych o prężności par nieprzekraczającej 0,11 MPa ciśnienia absolutnego przy temperaturze 50°C powinny być wyposażone w urządzenie wentylacyjne i w urządzenie zabezpieczające przed wydostaniem się zawartości ze zbiornika w razie jego przewrócenia się. Zbiorniki cystern przeznaczone do przewozu towarów niebezpiecznych o prężności par nieprzekraczającej 0,11 MPa ciśnienia absolutnego przy temperaturze 50°C, niespełniające wymagań określonych w ust. 1, muszą spełniać wymagania określone w § 19 lub § 20. Urządzenia wentylacyjne zbiorników cystern powinny zapewniać właściwą przepustowość powietrza, oparów, przy napełnianiu lub opróżnianiu zbiornika, oraz zabezpieczyć zbiornik przed nadmiernym wzrostem ciśnienia par."
+      "content": "Zbiorniki cystern przeznaczone do przewozu towarów niebezpiecznych o prężności par nieprzekraczającej 0,11 MPa ciśnienia absolutnego przy temperaturze 50 °C powinny być wyposażone w urządzenie wentylacyjne i w urządzenie zabezpieczające przed wydostaniem się zawartości ze zbiornika w razie jego przewrócenia się. Zbiorniki cystern przeznaczone do przewozu towarów niebezpiecznych o prężności par nieprzekraczającej 0,11 MPa ciśnienia absolutnego przy temperaturze 50 °C, niespełniające wymagań określonych w ust. 1, muszą spełniać wymagania określone w § 19 lub § 20. Urządzenia wentylacyjne zbiorników cystern powinny zapewniać właściwą przepustowość powietrza, oparów, przy napełnianiu lub opróżnianiu zbiornika, oraz zabezpieczyć zbiornik przed nadmiernym wzrostem ciśnienia par."
     },
     {
       "provision_ref": "par18u1",
       "section": "18",
       "title": "§ 18 ust. 1",
-      "content": "Zbiorniki cystern przeznaczone do przewozu towarów niebezpiecznych o prężności par nieprzekraczającej 0,11 MPa ciśnienia absolutnego przy temperaturze 50°C powinny być wyposażone w urządzenie wentylacyjne i w urządzenie zabezpieczające przed wydostaniem się zawartości ze zbiornika w razie jego przewrócenia się."
+      "content": "Zbiorniki cystern przeznaczone do przewozu towarów niebezpiecznych o prężności par nieprzekraczającej 0,11 MPa ciśnienia absolutnego przy temperaturze 50 °C powinny być wyposażone w urządzenie wentylacyjne i w urządzenie zabezpieczające przed wydostaniem się zawartości ze zbiornika w razie jego przewrócenia się."
     },
     {
       "provision_ref": "par18u2",
       "section": "18",
       "title": "§ 18 ust. 2",
-      "content": "Zbiorniki cystern przeznaczone do przewozu towarów niebezpiecznych o prężności par nieprzekraczającej 0,11 MPa ciśnienia absolutnego przy temperaturze 50°C, niespełniające wymagań określonych w ust. 1, muszą spełniać wymagania określone w § 19 lub § 20."
+      "content": "Zbiorniki cystern przeznaczone do przewozu towarów niebezpiecznych o prężności par nieprzekraczającej 0,11 MPa ciśnienia absolutnego przy temperaturze 50 °C, niespełniające wymagań określonych w ust. 1, muszą spełniać wymagania określone w § 19 lub § 20."
     },
     {
       "provision_ref": "par18u3",
@@ -295,43 +499,43 @@
       "provision_ref": "par19",
       "section": "19",
       "title": "§ 19",
-      "content": "Zbiorniki cystern przeznaczone do przewozu towarów niebezpiecznych o prężności par wyższej niż 0,11 MPa, nieprzekraczające 0,175 MPa ciśnienia absolutnego przy temperaturze 50°C, powinny być wyposażone w zawór bezpieczeństwa ustawiony na ciśnienie manometryczne co najmniej 0,15 MPa, który powinien całkowicie otwierać się przy ciśnieniu nieprzekraczającym ciśnienia próbnego. Zbiorniki cystern przeznaczone do przewozu towarów niebezpiecznych o prężności par wyższej niż 0,11 MPa, nieprzekraczające 0,175 MPa ciśnienia absolutnego przy temperaturze 50°C, niespełniające wymagań określonych w ust. 1 muszą spełniać wymagania określone w § 20."
+      "content": "Zbiorniki cystern przeznaczone do przewozu towarów niebezpiecznych o prężności par wyższej niż 0,11 MPa, nieprzekraczające 0,175 MPa ciśnienia absolutnego przy temperaturze 50 °C, powinny być wyposażone w zawór bezpieczeństwa ustawiony na ciśnienie manometryczne co najmniej 0,15 MPa, który powinien całkowicie otwierać się przy ciśnieniu nieprzekraczającym ciśnienia próbnego. Zbiorniki cystern przeznaczone do przewozu towarów niebezpiecznych o prężności par wyższej niż 0,11 MPa, nieprzekraczające 0,175 MPa ciśnienia absolutnego przy temperaturze 50 °C, niespełniające wymagań określonych w ust. 1 muszą spełniać wymagania określone w § 20."
     },
     {
       "provision_ref": "par19u1",
       "section": "19",
       "title": "§ 19 ust. 1",
-      "content": "Zbiorniki cystern przeznaczone do przewozu towarów niebezpiecznych o prężności par wyższej niż 0,11 MPa, nieprzekraczające 0,175 MPa ciśnienia absolutnego przy temperaturze 50°C, powinny być wyposażone w zawór bezpieczeństwa ustawiony na ciśnienie manometryczne co najmniej 0,15 MPa, który powinien całkowicie otwierać się przy ciśnieniu nieprzekraczającym ciśnienia próbnego."
+      "content": "Zbiorniki cystern przeznaczone do przewozu towarów niebezpiecznych o prężności par wyższej niż 0,11 MPa, nieprzekraczające 0,175 MPa ciśnienia absolutnego przy temperaturze 50 °C, powinny być wyposażone w zawór bezpieczeństwa ustawiony na ciśnienie manometryczne co najmniej 0,15 MPa, który powinien całkowicie otwierać się przy ciśnieniu nieprzekraczającym ciśnienia próbnego."
     },
     {
       "provision_ref": "par19u2",
       "section": "19",
       "title": "§ 19 ust. 2",
-      "content": "Zbiorniki cystern przeznaczone do przewozu towarów niebezpiecznych o prężności par wyższej niż 0,11 MPa, nieprzekraczające 0,175 MPa ciśnienia absolutnego przy temperaturze 50°C, niespełniające wymagań określonych w ust. 1 muszą spełniać wymagania określone w § 20."
+      "content": "Zbiorniki cystern przeznaczone do przewozu towarów niebezpiecznych o prężności par wyższej niż 0,11 MPa, nieprzekraczające 0,175 MPa ciśnienia absolutnego przy temperaturze 50 °C, niespełniające wymagań określonych w ust. 1 muszą spełniać wymagania określone w § 20."
     },
     {
       "provision_ref": "par20",
       "section": "20",
       "title": "§ 20",
-      "content": "Zbiorniki cystern przeznaczone do przewozu towarów niebezpiecznych o prężności par wyższej niż 0,175 MPa, ale nieprzekraczającej 0,3 MPa ciśnienia absolutnego, przy temperaturze 50°C, powinny być wyposażone w zawór bezpieczeństwa ustawiony na ciśnienie manometryczne co najmniej 0,3 MPa, który powinien całkowicie otwierać się przy ciśnieniu nieprzekraczającym ciśnienia próbnego. Zbiorniki cystern przeznaczone do przewozu towarów niebezpiecznych o prężności par wyższej niż 0,175 MPa, ale nieprzekraczającej 0,3 MPa ciśnienia absolutnego, przy temperaturze 50°C, niespełniające warunków określonych w ust. 1 powinny być hermetycznie zamykane."
+      "content": "Zbiorniki cystern przeznaczone do przewozu towarów niebezpiecznych o prężności par wyższej niż 0,175 MPa, ale nieprzekraczającej 0,3 MPa ciśnienia absolutnego, przy temperaturze 50 °C, powinny być wyposażone w zawór bezpieczeństwa ustawiony na ciśnienie manometryczne co najmniej 0,3 MPa, który powinien całkowicie otwierać się przy ciśnieniu nieprzekraczającym ciśnienia próbnego. Zbiorniki cystern przeznaczone do przewozu towarów niebezpiecznych o prężności par wyższej niż 0,175 MPa, ale nieprzekraczającej 0,3 MPa ciśnienia absolutnego, przy temperaturze 50 °C, niespełniające warunków określonych w ust. 1 powinny być hermetycznie zamykane."
     },
     {
       "provision_ref": "par20u1",
       "section": "20",
       "title": "§ 20 ust. 1",
-      "content": "Zbiorniki cystern przeznaczone do przewozu towarów niebezpiecznych o prężności par wyższej niż 0,175 MPa, ale nieprzekraczającej 0,3 MPa ciśnienia absolutnego, przy temperaturze 50°C, powinny być wyposażone w zawór bezpieczeństwa ustawiony na ciśnienie manometryczne co najmniej 0,3 MPa, który powinien całkowicie otwierać się przy ciśnieniu nieprzekraczającym ciśnienia próbnego."
+      "content": "Zbiorniki cystern przeznaczone do przewozu towarów niebezpiecznych o prężności par wyższej niż 0,175 MPa, ale nieprzekraczającej 0,3 MPa ciśnienia absolutnego, przy temperaturze 50 °C, powinny być wyposażone w zawór bezpieczeństwa ustawiony na ciśnienie manometryczne co najmniej 0,3 MPa, który powinien całkowicie otwierać się przy ciśnieniu nieprzekraczającym ciśnienia próbnego."
     },
     {
       "provision_ref": "par20u2",
       "section": "20",
       "title": "§ 20 ust. 2",
-      "content": "Zbiorniki cystern przeznaczone do przewozu towarów niebezpiecznych o prężności par wyższej niż 0,175 MPa, ale nieprzekraczającej 0,3 MPa ciśnienia absolutnego, przy temperaturze 50°C, niespełniające warunków określonych w ust. 1 powinny być hermetycznie zamykane."
+      "content": "Zbiorniki cystern przeznaczone do przewozu towarów niebezpiecznych o prężności par wyższej niż 0,175 MPa, ale nieprzekraczającej 0,3 MPa ciśnienia absolutnego, przy temperaturze 50 °C, niespełniające warunków określonych w ust. 1 powinny być hermetycznie zamykane."
     },
     {
       "provision_ref": "par21",
       "section": "21",
       "title": "§ 21",
-      "content": "Każda komora zbiornika cysterny opróżnianego z dołu powinna być wyposażona w trzy urządzenia zamykające, umieszczone jedno za drugim, niezależnie od siebie, z których pierwsze powinno stanowić wewnętrzny zawór odcinający, przymocowany bezpośrednio do zbiornika, drugie urządzenie umieszczone na każdym końcu króćca spustowego oraz trzecie w postaci gwintowanego korka, zaślepek kołnierzowych lub innych urządzeń o podobnej skuteczności. Wewnętrzny zawór odcinający komory zbiorników cysterny może być uruchamiany z góry i z dołu, jego położenie otwarcia i zamknięcia powinno być możliwe do sprawdzenia z poziomu ziemi. Urządzenie sterujące zaworem dennym powinno uniemożliwiać niezamierzone, przypadkowe jego otwarcie. W przypadku uszkodzenia zewnętrznego układu sterowania zawór denny musi zachować skuteczność. Zawór denny i jego gniazdo powinny być chronione przed możliwością ich wyrwania pod działaniem zewnętrznych obciążeń lub tak skonstruowane, aby nie powstała taka możliwość. Rozmieszczenie i kierunek zamknięcia zaworów zasuwowych zbiornika cysterny powinny być wyraźnie widoczne. Urządzenia do napełniania i opróżniania komór zbiornika cysterny, włączając kołnierze i gwintowane korki oraz kaptury ochronne, jeśli są, powinny być odpowiednio zabezpieczone przed niezamierzonym otwarciem. Każdy zbiornik cysterny powinien być wyposażony w aparaturę kontrolno-pomiarową dobraną odpowiednio do towaru niebezpiecznego, warunków przeprowadzania odczytu i parametrów zbiornika. Zbiorniki cystern nie powinny być napełniane innymi towarami niebezpiecznymi niż te, które zostały dopuszczone przez WDT. Czynniki robocze, które mogą reagować ze sobą niebezpiecznie, mogą być przewożone w sąsiednich komorach tylko wtedy, gdy komory te są oddzielone przegrodami o grubości ścianek równej lub większej od grubości ścianek zbiornika oraz gdy napełnione komory są przedzielone pustą przestrzenią lub opróżnioną komorą. Podczas napełniania i opróżniania zbiorników komór cysterny powinny być podejmowane odpowiednie środki zapobiegające wydostawaniu się niebezpiecznych ilości towarów niebezpiecznych i ich par. Każdy zbiornik cysterny powinien mieć metalową, odporną na korozję, trwale przymocowaną i czytelną tabliczkę fabryczną zawierającą co najmniej następujące dane: numer dopuszczenia typu, jeżeli występuje; nazwę lub znak wytwórcy; numer fabryczny; rok produkcji; najwyższe ciśnienie robocze - MPa lub bar - lub napis „bezciśnieniowe”; ciśnienie próbne - MPa lub bar; pojemność w m 3 lub dm 3 - dla zbiorników wielokomorowych - pojemność każdej komory; materiał zbiornika i wykładziny ochronnej, jeżeli występuje; datę (miesiąc i rok) odbioru technicznego. Tabliczka powinna być przymocowana do ścianki zbiornika cysterny lub do wspornika przymocowanego do tej ścianki. Tabliczka powinna mieć co najmniej dwa nity o średnicy łba płaskiego nie mniejszej niż 10 mm z oznaczeniem cechy kontroli jakości i inspektora WDT. Na ściance zbiornika cysterny w pobliżu tabliczki fabrycznej powinny być wybite lub, jeżeli może to mieć szkodliwy wpływ na ściankę, naniesione innym sposobem na trwałe następujące dane: nazwę lub znak wytwórcy; numer fabryczny; rok produkcji; znak kontroli jakości. Zbiornik cysterny powinien być oznakowany: nalepkami ostrzegawczymi i oznaczeniami zgodnie z ADR; numerem ewidencyjnym nadanym przez WDT; terminem (miesiąc i rok) następnego badania. Oznakowanie określone w ust. 11 pkt 2 i 3 powinno być naniesione przez eksploatującego białym lub czarnym kolorem na tylnej ściance zbiornika cysterny w jego górnej lewej części. Wysokość liter i cyfr powinna mieścić się w granicach 40-60 mm. W technicznie uzasadnionych przypadkach, za zgodą WDT, dopuszcza się inne miejsca oznakowania zbiornika."
+      "content": "Każda komora zbiornika cysterny opróżnianego z dołu powinna być wyposażona w trzy urządzenia zamykające, umieszczone jedno za drugim, niezależnie od siebie, z których pierwsze powinno stanowić wewnętrzny zawór odcinający, przymocowany bezpośrednio do zbiornika, drugie urządzenie umieszczone na każdym końcu króćca spustowego oraz trzecie w postaci gwintowanego korka, zaślepek kołnierzowych lub innych urządzeń o podobnej skuteczności. Wewnętrzny zawór odcinający komory zbiorników cysterny może być uruchamiany z góry i z dołu, jego położenie otwarcia i zamknięcia powinno być możliwe do sprawdzenia z poziomu ziemi. Urządzenie sterujące zaworem dennym powinno uniemożliwiać niezamierzone, przypadkowe jego otwarcie. W przypadku uszkodzenia zewnętrznego układu sterowania zawór denny musi zachować skuteczność. Zawór denny i jego gniazdo powinny być chronione przed możliwością ich wyrwania pod działaniem zewnętrznych obciążeń lub tak skonstruowane, aby nie powstała taka możliwość. Rozmieszczenie i kierunek zamknięcia zaworów zasuwowych zbiornika cysterny powinny być wyraźnie widoczne. Urządzenia do napełniania i opróżniania komór zbiornika cysterny, włączając kołnierze i gwintowane korki oraz kaptury ochronne, jeśli są, powinny być odpowiednio zabezpieczone przed niezamierzonym otwarciem. Każdy zbiornik cysterny powinien być wyposażony w aparaturę kontrolno-pomiarową dobraną odpowiednio do towaru niebezpiecznego, warunków przeprowadzania odczytu i parametrów zbiornika. Zbiorniki cystern nie powinny być napełniane innymi towarami niebezpiecznymi niż te, które zostały dopuszczone przez WDT. Czynniki robocze, które mogą reagować ze sobą niebezpiecznie, mogą być przewożone w sąsiednich komorach tylko wtedy, gdy komory te są oddzielone przegrodami o grubości ścianek równej lub większej od grubości ścianek zbiornika oraz gdy napełnione komory są przedzielone pustą przestrzenią lub opróżnioną komorą. Podczas napełniania i opróżniania zbiorników komór cysterny powinny być podejmowane odpowiednie środki zapobiegające wydostawaniu się niebezpiecznych ilości towarów niebezpiecznych i ich par. Każdy zbiornik cysterny powinien mieć metalową, odporną na korozję, trwale przymocowaną i czytelną tabliczkę fabryczną zawierającą co najmniej następujące dane: numer dopuszczenia typu, jeżeli występuje; nazwę lub znak wytwórcy; numer fabryczny; rok produkcji; najwyższe ciśnienie robocze - MPa lub bar - lub napis „bezciśnieniowe”; ciśnienie próbne - MPa lub bar; pojemność w m 3 lub dm 3 - dla zbiorników wielokomorowych - pojemność każdej komory, a następnie inne oznaczenia po spełnieniu wymogów określonych w 6.8.2.5.1 ADR; materiał zbiornika i wykładziny ochronnej, jeżeli występuje; datę (miesiąc i rok) odbioru technicznego. Tabliczka powinna być przymocowana do ścianki zbiornika cysterny lub do wspornika przymocowanego do tej ścianki. Tabliczka powinna mieć co najmniej dwa nity o średnicy łba płaskiego nie mniejszej niż 10 mm z oznaczeniem cechy kontroli jakości i inspektora WDT. Na ściance zbiornika cysterny w pobliżu tabliczki fabrycznej powinny być wybite lub, jeżeli może to mieć szkodliwy wpływ na ściankę, naniesione innym sposobem na trwałe następujące dane: nazwę lub znak wytwórcy; numer fabryczny; rok produkcji; znak kontroli jakości. Zbiornik cysterny powinien być oznakowany: nalepkami ostrzegawczymi i oznaczeniami zgodnie z ADR; numerem ewidencyjnym nadanym przez WDT; terminem (miesiąc i rok) następnego badania. Oznakowanie określone w ust. 11 pkt 2 i 3 powinno być naniesione przez eksploatującego białym lub czarnym kolorem na tylnej ściance zbiornika cysterny w jego górnej lewej części. Wysokość liter i cyfr powinna mieścić się w granicach 40-60 mm. W technicznie uzasadnionych przypadkach, za zgodą WDT, dopuszcza się inne miejsca oznakowania zbiornika."
     },
     {
       "provision_ref": "par21u1",
@@ -415,7 +619,7 @@
       "provision_ref": "par21u8p7",
       "section": "21",
       "title": "§ 21 ust. 8 pkt 7",
-      "content": "Każdy zbiornik cysterny powinien mieć metalową, odporną na korozję, trwale przymocowaną i czytelną tabliczkę fabryczną zawierającą co najmniej następujące dane: pojemność w m 3 lub dm 3 - dla zbiorników wielokomorowych - pojemność każdej komory;"
+      "content": "Każdy zbiornik cysterny powinien mieć metalową, odporną na korozję, trwale przymocowaną i czytelną tabliczkę fabryczną zawierającą co najmniej następujące dane: pojemność w m 3 lub dm 3 - dla zbiorników wielokomorowych - pojemność każdej komory, a następnie inne oznaczenia po spełnieniu wymogów określonych w 6.8.2.5.1 ADR;"
     },
     {
       "provision_ref": "par21u8p8",
@@ -523,7 +727,7 @@
       "provision_ref": "par24",
       "section": "24",
       "title": "§ 24",
-      "content": "Pojazdy, dla których wymaga się wystawienia wojskowego świadectwa dopuszczenia do przewozu towarów niebezpiecznych, podlegają sprawdzeniu w zakresie spełnienia dodatkowych wymagań technicznych określonych w rozporządzeniu lub ADR oraz rozporządzeniu Ministrów Obrony Narodowej oraz Spraw Wewnętrznych i Administracji z dnia 9 czerwca 2005 r. w sprawie warunków technicznych pojazdów specjalnych i pojazdów używanych do celów specjalnych Sił Zbrojnych Rzeczypospolitej Polskiej dotyczących wyposażenia lub przystosowania tych pojazdów. Sprawdzenia w zakresie spełniania dodatkowych wymagań technicznych, o których mowa w ust. 1, dokonuje w drodze badania technicznego uprawniona stacja kontroli pojazdów. Sprawdzenia, o którym mowa w ust. 2, dokonuje się po przedstawieniu przez użytkownika pojazdu protokołu zaświadczającego o pozytywnym wyniku badania technicznego urządzenia transportowego, wydanego przez WDT."
+      "content": "Pojazdy, dla których wymaga się wystawienia wojskowego świadectwa dopuszczenia do przewozu towarów niebezpiecznych, podlegają sprawdzeniu w zakresie spełnienia dodatkowych wymagań technicznych określonych w rozporządzeniu lub ADR oraz rozporządzeniu Ministrów Obrony Narodowej oraz Spraw Wewnętrznych i Administracji z dnia 9 czerwca 2005 r. w sprawie warunków technicznych pojazdów specjalnych i pojazdów używanych do celów specjalnych Sił Zbrojnych Rzeczypospolitej Polskiej dotyczących wyposażenia lub przystosowania tych pojazdów. Sprawdzenia w zakresie spełniania dodatkowych wymagań technicznych, o których mowa w ust. 1, dokonuje w drodze badania technicznego uprawniona stacja kontroli pojazdów. Sprawdzenia, o którym mowa w ust. 2, dokonuje się po przedstawieniu przez użytkownika pojazdu aktualnego protokołu wydanego przez WDT, zaświadczającego o pozytywnym wyniku badania urządzenia podlegającego dozorowi technicznemu, zainstalowanego na tym pojeździe."
     },
     {
       "provision_ref": "par24u1",
@@ -541,25 +745,25 @@
       "provision_ref": "par24u3",
       "section": "24",
       "title": "§ 24 ust. 3",
-      "content": "Sprawdzenia, o którym mowa w ust. 2, dokonuje się po przedstawieniu przez użytkownika pojazdu protokołu zaświadczającego o pozytywnym wyniku badania technicznego urządzenia transportowego, wydanego przez WDT."
+      "content": "Sprawdzenia, o którym mowa w ust. 2, dokonuje się po przedstawieniu przez użytkownika pojazdu aktualnego protokołu wydanego przez WDT, zaświadczającego o pozytywnym wyniku badania urządzenia podlegającego dozorowi technicznemu, zainstalowanego na tym pojeździe."
     },
     {
       "provision_ref": "par25",
       "section": "25",
       "title": "§ 25",
-      "content": "Wojskowe świadectwo dopuszczenia do przewozu towarów niebezpiecznych, na wniosek dowódcy jednostki wojskowej odpowiedzialnej za pojazd, wystawia WDT na okres nie dłuższy niż dwanaście miesięcy. Termin ważności świadectwa określa się na podstawie dokumentów wystawionych przez WDT oraz stację kontroli pojazdów. Termin nie może być dłuższy niż termin następnego badania technicznego urządzenia transportowego wydanego przez WDT. Do wniosku, o którym mowa w ust. 1, dowódca jednostki wojskowej odpowiedzialnej za pojazd powinien dołączyć zaświadczenie o pozytywnym wyniku przeprowadzonego badania technicznego pojazdu wydane przez uprawnioną stację kontroli pojazdów. Wojskowe świadectwo dopuszczenia do przewozu towarów niebezpiecznych wypełnia się pismem maszynowym w języku polskim. W przypadku utraty wojskowego świadectwa dopuszczenia do przewozu towarów niebezpiecznych, na wniosek dowódcy jednostki wojskowej, WDT wydaje wtórnik świadectwa. Wzór wojskowego świadectwa dopuszczenia do przewozu towarów niebezpiecznych określa załącznik nr 2 do rozporządzenia."
+      "content": "Wojskowe świadectwo dopuszczenia do przewozu towarów niebezpiecznych wystawia WDT na pisemny wniosek kierownika jednostki organizacyjnej odpowiedzialnej za pojazd lub osoby przez niego upoważnionej złożony w postaci papierowej lub elektronicznej. Do wniosku, o którym mowa w ust. 1, kierownik jednostki organizacyjnej odpowiedzialnej za pojazd lub osoba przez niego upoważniona dołącza zaświadczenie o pozytywnym wyniku przeprowadzonego dodatkowego badania technicznego pojazdu, wydane przez właściwą stację kontroli pojazdów. Wojskowe świadectwo dopuszczenia do przewozu towarów niebezpiecznych wypełnia się pismem maszynowym w języku polskim. Termin ważności wojskowego świadectwa dopuszczenia do przewozu towarów niebezpiecznych określa się na podstawie dokumentów wystawionych przez WDT oraz stację kontroli pojazdów. Termin ważności wojskowego świadectwa dopuszczenia do przewozu towarów niebezpiecznych nie może być dłuższy niż termin następnego badania urządzenia technicznego, określony w protokole badania przeprowadzonego przez WDT oraz następny termin badania pojazdu, określony w zaświadczenia o przeprowadzonym dodatkowym badaniu technicznym pojazdu przeznaczonego do przewozu niektórych towarów niebezpiecznych. W przypadku utraty wojskowego świadectwa dopuszczenia do przewozu towarów niebezpiecznych WDT wydaje wtórnik tego świadectwa na pisemny wniosek kierownika jednostki organizacyjnej odpowiedzialnej za pojazd lub osoby przez niego upoważnionej, złożony w postaci papierowej lub elektronicznej. W przypadku gdy pojazd został wycofany z eksploatacji lub przekazany innemu eksploatującemu, albo po upływie terminu ważności wojskowego świadectwa dopuszczenia do przewozu towarów niebezpiecznych oraz w przypadku zmiany istotnych cech konstrukcyjnych pojazdu, świadectwo lub jego wtórnik zwraca się niezwłocznie jednostce organizacyjnej WDT, która je wystawiła. Wzór wojskowego świadectwa dopuszczenia do przewozu towarów niebezpiecznych określa załącznik nr 2 do rozporządzenia."
     },
     {
       "provision_ref": "par25u1",
       "section": "25",
       "title": "§ 25 ust. 1",
-      "content": "Wojskowe świadectwo dopuszczenia do przewozu towarów niebezpiecznych, na wniosek dowódcy jednostki wojskowej odpowiedzialnej za pojazd, wystawia WDT na okres nie dłuższy niż dwanaście miesięcy. Termin ważności świadectwa określa się na podstawie dokumentów wystawionych przez WDT oraz stację kontroli pojazdów. Termin nie może być dłuższy niż termin następnego badania technicznego urządzenia transportowego wydanego przez WDT."
+      "content": "Wojskowe świadectwo dopuszczenia do przewozu towarów niebezpiecznych wystawia WDT na pisemny wniosek kierownika jednostki organizacyjnej odpowiedzialnej za pojazd lub osoby przez niego upoważnionej złożony w postaci papierowej lub elektronicznej."
     },
     {
       "provision_ref": "par25u2",
       "section": "25",
       "title": "§ 25 ust. 2",
-      "content": "Do wniosku, o którym mowa w ust. 1, dowódca jednostki wojskowej odpowiedzialnej za pojazd powinien dołączyć zaświadczenie o pozytywnym wyniku przeprowadzonego badania technicznego pojazdu wydane przez uprawnioną stację kontroli pojazdów."
+      "content": "Do wniosku, o którym mowa w ust. 1, kierownik jednostki organizacyjnej odpowiedzialnej za pojazd lub osoba przez niego upoważniona dołącza zaświadczenie o pozytywnym wyniku przeprowadzonego dodatkowego badania technicznego pojazdu, wydane przez właściwą stację kontroli pojazdów."
     },
     {
       "provision_ref": "par25u3",
@@ -568,10 +772,22 @@
       "content": "Wojskowe świadectwo dopuszczenia do przewozu towarów niebezpiecznych wypełnia się pismem maszynowym w języku polskim."
     },
     {
+      "provision_ref": "par25u3a",
+      "section": "25",
+      "title": "§ 25 ust. 3a",
+      "content": "Termin ważności wojskowego świadectwa dopuszczenia do przewozu towarów niebezpiecznych określa się na podstawie dokumentów wystawionych przez WDT oraz stację kontroli pojazdów. Termin ważności wojskowego świadectwa dopuszczenia do przewozu towarów niebezpiecznych nie może być dłuższy niż termin następnego badania urządzenia technicznego, określony w protokole badania przeprowadzonego przez WDT oraz następny termin badania pojazdu, określony w zaświadczenia o przeprowadzonym dodatkowym badaniu technicznym pojazdu przeznaczonego do przewozu niektórych towarów niebezpiecznych."
+    },
+    {
       "provision_ref": "par25u4",
       "section": "25",
       "title": "§ 25 ust. 4",
-      "content": "W przypadku utraty wojskowego świadectwa dopuszczenia do przewozu towarów niebezpiecznych, na wniosek dowódcy jednostki wojskowej, WDT wydaje wtórnik świadectwa."
+      "content": "W przypadku utraty wojskowego świadectwa dopuszczenia do przewozu towarów niebezpiecznych WDT wydaje wtórnik tego świadectwa na pisemny wniosek kierownika jednostki organizacyjnej odpowiedzialnej za pojazd lub osoby przez niego upoważnionej, złożony w postaci papierowej lub elektronicznej."
+    },
+    {
+      "provision_ref": "par25u4a",
+      "section": "25",
+      "title": "§ 25 ust. 4a",
+      "content": "W przypadku gdy pojazd został wycofany z eksploatacji lub przekazany innemu eksploatującemu, albo po upływie terminu ważności wojskowego świadectwa dopuszczenia do przewozu towarów niebezpiecznych oraz w przypadku zmiany istotnych cech konstrukcyjnych pojazdu, świadectwo lub jego wtórnik zwraca się niezwłocznie jednostce organizacyjnej WDT, która je wystawiła."
     },
     {
       "provision_ref": "par25u5",
@@ -580,16 +796,22 @@
       "content": "Wzór wojskowego świadectwa dopuszczenia do przewozu towarów niebezpiecznych określa załącznik nr 2 do rozporządzenia."
     },
     {
+      "provision_ref": "par25a",
+      "section": "25a",
+      "title": "§ 25a",
+      "content": "Nie wystawia się świadectwa, o którym mowa w § 25, dla pojazdów wyłączonych z użytkowania na okres dłuższy niż 12 miesięcy i poddanych zabiegom konserwacyjnym."
+    },
+    {
       "provision_ref": "par26",
       "section": "26",
       "title": "§ 26",
-      "content": "Warunkiem przedłużenia ważności wojskowego świadectwa dopuszczenia pojazdów do przewozu towarów niebezpiecznych jest posiadanie aktualnego badania technicznego urządzenia transportowego wydanego przez WDT, przedstawienie aktualnego zaświadczenia o pozytywnym wyniku przeprowadzonego badania technicznego pojazdu wydanego przez stację kontroli pojazdów oraz oryginału wojskowego świadectwa, o przedłużenie ważności którego wnioskodawca występuje. Do przedłużenia wojskowego świadectwa dopuszczenia pojazdów do przewozu towarów niebezpiecznych mają zastosowanie przepisy § 25 ust. 1 rozporządzenia."
+      "content": "Warunkiem przedłużenia ważności wojskowego świadectwa dopuszczenia pojazdu do przewozu towarów niebezpiecznych jest posiadanie aktualnego protokołu przeprowadzonego badania urządzenia technicznego, wydanego przez WDT oraz przedstawienie aktualnego zaświadczenia o pozytywnym wyniku przeprowadzonego dodatkowego badania technicznego pojazdu, wydanego przez stację kontroli pojazdów i oryginału wojskowego świadectwa dopuszczenia do przewozu towarów niebezpiecznych, o którego przedłużenie ważności występuje wnioskodawca. Do przedłużenia wojskowego świadectwa dopuszczenia pojazdów do przewozu towarów niebezpiecznych mają zastosowanie przepisy § 25 ust. 1 rozporządzenia."
     },
     {
       "provision_ref": "par26u1",
       "section": "26",
       "title": "§ 26 ust. 1",
-      "content": "Warunkiem przedłużenia ważności wojskowego świadectwa dopuszczenia pojazdów do przewozu towarów niebezpiecznych jest posiadanie aktualnego badania technicznego urządzenia transportowego wydanego przez WDT, przedstawienie aktualnego zaświadczenia o pozytywnym wyniku przeprowadzonego badania technicznego pojazdu wydanego przez stację kontroli pojazdów oraz oryginału wojskowego świadectwa, o przedłużenie ważności którego wnioskodawca występuje."
+      "content": "Warunkiem przedłużenia ważności wojskowego świadectwa dopuszczenia pojazdu do przewozu towarów niebezpiecznych jest posiadanie aktualnego protokołu przeprowadzonego badania urządzenia technicznego, wydanego przez WDT oraz przedstawienie aktualnego zaświadczenia o pozytywnym wyniku przeprowadzonego dodatkowego badania technicznego pojazdu, wydanego przez stację kontroli pojazdów i oryginału wojskowego świadectwa dopuszczenia do przewozu towarów niebezpiecznych, o którego przedłużenie ważności występuje wnioskodawca."
     },
     {
       "provision_ref": "par26u2",
@@ -601,7 +823,7 @@
       "provision_ref": "par27",
       "section": "27",
       "title": "§ 27",
-      "content": "Statki, dla których przepisy ADN wymagają wystawienia odpowiedniego świadectwa dopuszczenia do przewozu towarów niebezpiecznych, zwanego dalej „świadectwem dopuszczenia statku ADN”, podlegają sprawdzeniu w zakresie spełnienia dodatkowych wymagań technicznych, określonych w ustawie, dotyczących wyposażenia lub przystosowania tych statków. Statki w zakresie sprawdzenia spełnienia dodatkowych wymagań technicznych, o których mowa w ust. 1, wykonuje WDT na zasadach określonych w ustawie i wystawia protokół z przeprowadzenia badania. Statki przeznaczone do przewozu towarów niebezpiecznych podlegają inspekcji w zakresie wyposażenia oraz dokumentów związanych z przewozem towarów niebezpiecznych."
+      "content": "Statki, dla których przepisy ADN wymagają wystawienia odpowiedniego świadectwa dopuszczenia do przewozu towarów niebezpiecznych, zwanego dalej „świadectwem dopuszczenia statku ADN”, podlegają sprawdzeniu w zakresie spełnienia dodatkowych wymagań technicznych, określonych w ustawie, dotyczących wyposażenia lub przystosowania tych statków. Sprawdzenia spełnienia przez statki dodatkowych wymagań technicznych, o których mowa w ust. 1, dokonuje WDT na zasadach określonych w ustawie i wystawia protokół przeprowadzonego badania. Statki przeznaczone do przewozu towarów niebezpiecznych podlegają inspekcji w zakresie wyposażenia oraz dokumentów związanych z przewozem towarów niebezpiecznych."
     },
     {
       "provision_ref": "par27u1",
@@ -613,7 +835,7 @@
       "provision_ref": "par27u2",
       "section": "27",
       "title": "§ 27 ust. 2",
-      "content": "Statki w zakresie sprawdzenia spełnienia dodatkowych wymagań technicznych, o których mowa w ust. 1, wykonuje WDT na zasadach określonych w ustawie i wystawia protokół z przeprowadzenia badania."
+      "content": "Sprawdzenia spełnienia przez statki dodatkowych wymagań technicznych, o których mowa w ust. 1, dokonuje WDT na zasadach określonych w ustawie i wystawia protokół przeprowadzonego badania."
     },
     {
       "provision_ref": "par27u3",
@@ -679,25 +901,41 @@
       "provision_ref": "par35",
       "section": "35",
       "title": "§ 35",
-      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia 4) Rozporządzenie zostało ogłoszone w dniu 5 grudnia 2012 r. ."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2011-1367",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2011-1454",
+      "target_document_id": "pl-du-2021-1775",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2012-1137",
+      "target_document_id": "pl-du-2022-2523",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2011-910",
+      "target_document_id": "pl-du-2022-2147",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1123",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1047",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-372",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1728",
       "ref_type": "references"
     },
     {
@@ -710,6 +948,10 @@
     },
     {
       "target_document_id": "pl-du-2005-974",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2016-1027",
       "ref_type": "references"
     }
   ]

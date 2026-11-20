@@ -10,10 +10,16 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2015/2182",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
-      "content": "Opłata za sporządzenie przez organ podatkowy kopii lub odpisu dokumentu wynosi: 0,60 zł - za jedną stronę w przypadku kopii lub odpisu jednostronnego w formacie A4; 0,80 zł - za dwie strony w przypadku kopii lub odpisu dwustronnego w formacie A4; 0,90 zł - za jedną stronę w przypadku kopii lub odpisu jednostronnego w formacie A3; 1,20 zł - za dwie strony w przypadku kopii lub odpisu dwustronnego w formacie A3."
+      "content": "Opłata za sporządzenie przez organ podatkowy kopii lub odpisu dokumentu wynosi: 0,60 zł - za jedną stronę w przypadku kopii lub odpisu jednostronnego w formacie A4; 0,80 zł - za dwie strony w przypadku kopii lub odpisu dwustronnego w formacie A4; 0,90 zł - za jedną stronę w przypadku kopii lub odpisu jednostronnego w formacie A3; 1,20 zł - za dwie strony w przypadku kopii lub odpisu dwustronnego w formacie A3; 0,40 zł - za jedną stronę zeskanowanego dokumentu papierowego."
     },
     {
       "provision_ref": "par1p1",
@@ -37,7 +43,13 @@
       "provision_ref": "par1p4",
       "section": "1",
       "title": "§ 1 pkt 4",
-      "content": "Opłata za sporządzenie przez organ podatkowy kopii lub odpisu dokumentu wynosi: 1,20 zł - za dwie strony w przypadku kopii lub odpisu dwustronnego w formacie A3."
+      "content": "Opłata za sporządzenie przez organ podatkowy kopii lub odpisu dokumentu wynosi: 1,20 zł - za dwie strony w przypadku kopii lub odpisu dwustronnego w formacie A3;"
+    },
+    {
+      "provision_ref": "par1p3",
+      "section": "1",
+      "title": "§ 1 pkt 3",
+      "content": "Opłata za sporządzenie przez organ podatkowy kopii lub odpisu dokumentu wynosi: 0,40 zł - za jedną stronę zeskanowanego dokumentu papierowego."
     },
     {
       "provision_ref": "par2",
@@ -49,7 +61,15 @@
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2015-613",
+      "target_document_id": "pl-du-2017-1523",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2017-1409",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-800",
       "ref_type": "references"
     }
   ]

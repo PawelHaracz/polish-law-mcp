@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2018/1893",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -19,25 +25,29 @@
       "provision_ref": "par2",
       "section": "2",
       "title": "§ 2",
-      "content": "Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia."
+      "content": "Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia 2) Rozporządzenie zostało ogłoszone w dniu 4 października 2018 r. ."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2018-427",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2018-650",
+      "target_document_id": "pl-du-2019-1258",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2018-1654",
+      "target_document_id": "pl-du-2021-133",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2018-1669",
+      "target_document_id": "pl-du-2021-694",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1093",
       "ref_type": "references"
     }
   ]

@@ -28,6 +28,7 @@ import * as path from 'path';
 import { fileURLToPath } from 'url';
 import { fetchWithRateLimit } from './lib/fetcher.js';
 import { parsePolishHtml, type ActIndexEntry } from './lib/parser.js';
+import { resolveConsolidatedText } from './lib/consolidated.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -41,67 +42,6 @@ const ELI_API_BASE = 'https://api.sejm.gov.pl/eli/acts/DU';
 
 /** Log progress every N acts */
 const LOG_INTERVAL = 10;
-
-/**
- * Newest consolidated text (tekst jednolity) of an act, if one exists.
- *
- * The base act (e.g. DU/1964/93 for the Civil Code) carries its ORIGINAL 1964
- * wording — amendments are published as separate acts and only folded together
- * in a consolidated text. Ingesting the base act therefore yields text that can
- * be decades out of date. Roughly 2% of in-force acts have a consolidated text;
- * for the rest the base act is the correct source and this returns null.
- */
-interface ConsolidatedText {
-  year: number;
-  poz: number;
-  displayAddress: string;
-}
-
-async function resolveConsolidatedText(
-  year: number,
-  poz: number,
-): Promise<ConsolidatedText | null> {
-  let refsResult;
-  try {
-    refsResult = await fetchWithRateLimit(`${ELI_API_BASE}/${year}/${poz}/references`, 2, 30_000);
-  } catch {
-    return null;
-  }
-  if (refsResult.status !== 200) return null;
-
-  let refs: Record<string, Array<{ act?: Record<string, unknown> }>>;
-  try {
-    refs = JSON.parse(refsResult.body);
-  } catch {
-    return null;
-  }
-
-  const entries = refs['Inf. o tekście jednolitym'];
-  if (!Array.isArray(entries) || entries.length === 0) return null;
-
-  const acts = entries
-    .map((e) => e.act)
-    .filter((a): a is Record<string, unknown> => Boolean(a) && typeof a === 'object');
-  if (acts.length === 0) return null;
-
-  // Highest (year, poz) wins — consolidated texts are published in order.
-  acts.sort((a, b) => {
-    const ay = Number(a['year'] ?? 0);
-    const by = Number(b['year'] ?? 0);
-    return ay !== by ? ay - by : Number(a['pos'] ?? 0) - Number(b['pos'] ?? 0);
-  });
-  const newest = acts[acts.length - 1]!;
-
-  const ny = Number(newest['year'] ?? 0);
-  const np = Number(newest['pos'] ?? 0);
-  if (!ny || !np) return null;
-
-  return {
-    year: ny,
-    poz: np,
-    displayAddress: String(newest['displayAddress'] ?? `Dz.U. ${ny} poz. ${np}`),
-  };
-}
 
 interface CensusEntry {
   id: string;
@@ -344,7 +284,17 @@ async function main(): Promise<void> {
           continue;
         }
 
-        if (consolidated && usedLabel === 'base act') {
+        if (consolidated && usedLabel === 'base act' && fs.existsSync(seedFile)) {
+          // Consolidated text is PDF-only and a seed already exists (typically
+          // from ingest:pdf of an earlier consolidation). Overwriting it with the
+          // base act's ORIGINAL wording would be a regression — keep it.
+          console.log(
+            `  [${processed + 1}/${toIngest.length}] ${act.id}: consolidated text ${consolidated.displayAddress} has no HTML — keeping existing seed, STALE (run ingest:pdf)`,
+          );
+          failed++;
+          processed++;
+          continue;
+        } else if (consolidated && usedLabel === 'base act') {
           // Consolidated text exists but has no HTML — the base act text we are
           // about to store is out of date. Surface it loudly; ingest:pdf fixes it.
           console.log(

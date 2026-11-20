@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2012/808",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -55,13 +61,13 @@
       "provision_ref": "par2",
       "section": "2",
       "title": "§ 2",
-      "content": "Użyte w rozporządzeniu określenia oznaczają: brudownik - pomieszczenie służące do opróżniania, dezynfekowania, przechowywania kaczek i basenów lub niszczenia tego rodzaju pojemników jednorazowego użytku oraz składowania brudnej bielizny, wyposażone w umywalkę, płuczkę-dezynfektor lub urządzenie do dekontaminacji oraz utylizacji wkładów jednorazowych wraz z zawartością, które powinno być zainstalowane w sposób eliminujący zagrożenia dla pacjentów - w przypadku stosowania basenów jednorazowych, oraz w wentylację mechaniczną wyciągową; gabinet diagnostyczno-zabiegowy - pomieszczenie służące do wykonywania zabiegów diagnostycznych lub terapeutycznych o charakterze zabiegowym; izolatka - pomieszczenie przeznaczone do odosobnienia pacjenta lub grupy pacjentów chorych na chorobę zakaźną albo osoby lub grupy osób podejrzanych o chorobę zakaźną, w celu uniemożliwienia przeniesienia biologicznego czynnika chorobotwórczego na inne osoby; pomieszczenie higieniczno-sanitarne - pomieszczenie wyposażone co najmniej w miskę ustępową, umywalkę, dozownik z mydłem w płynie, pojemnik z ręcznikami jednorazowego użycia i pojemnik na zużyte ręczniki; pomieszczenie porządkowe - pomieszczenie służące do przechowywania sprzętu stosowanego do utrzymywania czystości, środków czystości oraz preparatów myjąco-dezynfekcyjnych, a także do przygotowywania roztworów roboczych oraz mycia i dezynfekcji sprzętu stosowanego do utrzymywania czystości, wyposażone w zlew z baterią i dozownik ze środkiem dezynfekcyjnym; zakład karny - zakład karny lub areszt śledczy."
+      "content": "Użyte w rozporządzeniu określenia oznaczają: brudownik -- pomieszczenie służące do opróżniania, dezynfekowania, przechowywania kaczek i basenów lub niszczenia tego rodzaju pojemników jednorazowego użytku oraz składowania brudnej bielizny, wyposażone w umywalkę, płuczkę-dezynfektor lub urządzenie do dekontaminacji oraz utylizacji wkładów jednorazowych wraz z zawartością, które powinno być zainstalowane w sposób eliminujący zagrożenia dla pacjentów - w przypadku stosowania basenów jednorazowych, oraz w wentylację mechaniczną wyciągową; gabinet diagnostyczno-zabiegowy - pomieszczenie służące do wykonywania zabiegów diagnostycznych lub terapeutycznych o charakterze zabiegowym; izolatka - pomieszczenie przeznaczone do odosobnienia pacjenta lub grupy pacjentów chorych na chorobę zakaźną albo osoby lub grupy osób podejrzanych o chorobę zakaźną, w celu uniemożliwienia przeniesienia biologicznego czynnika chorobotwórczego na inne osoby; pomieszczenie higieniczno-sanitarne - pomieszczenie wyposażone co najmniej w miskę ustępową, umywalkę, dozownik z mydłem w płynie, pojemnik z ręcznikami jednorazowego użycia i pojemnik na zużyte ręczniki; pomieszczenie porządkowe - pomieszczenie służące do przechowywania sprzętu stosowanego do utrzymywania czystości, środków czystości oraz preparatów myjąco-dezynfekcyjnych, a także do przygotowywania roztworów roboczych oraz mycia i dezynfekcji sprzętu stosowanego do utrzymywania czystości, wyposażone w zlew z baterią i dozownik ze środkiem dezynfekcyjnym; zakład karny - zakład karny lub areszt śledczy."
     },
     {
       "provision_ref": "par2p1",
       "section": "2",
       "title": "§ 2 pkt 1",
-      "content": "Użyte w rozporządzeniu określenia oznaczają: brudownik - pomieszczenie służące do opróżniania, dezynfekowania, przechowywania kaczek i basenów lub niszczenia tego rodzaju pojemników jednorazowego użytku oraz składowania brudnej bielizny, wyposażone w umywalkę, płuczkę-dezynfektor lub urządzenie do dekontaminacji oraz utylizacji wkładów jednorazowych wraz z zawartością, które powinno być zainstalowane w sposób eliminujący zagrożenia dla pacjentów - w przypadku stosowania basenów jednorazowych, oraz w wentylację mechaniczną wyciągową;"
+      "content": "Użyte w rozporządzeniu określenia oznaczają: brudownik -- pomieszczenie służące do opróżniania, dezynfekowania, przechowywania kaczek i basenów lub niszczenia tego rodzaju pojemników jednorazowego użytku oraz składowania brudnej bielizny, wyposażone w umywalkę, płuczkę-dezynfektor lub urządzenie do dekontaminacji oraz utylizacji wkładów jednorazowych wraz z zawartością, które powinno być zainstalowane w sposób eliminujący zagrożenia dla pacjentów - w przypadku stosowania basenów jednorazowych, oraz w wentylację mechaniczną wyciągową;"
     },
     {
       "provision_ref": "par2p2",
@@ -493,7 +499,7 @@
       "provision_ref": "par27",
       "section": "27",
       "title": "§ 27",
-      "content": "W salach operacyjnych oraz innych pomieszczeniach, gdzie podtlenek azotu jest stosowany do znieczulenia, nawiew powietrza odbywa się górą, a wyciąg powietrza w 20% górą i w 80% dołem i zapewnia nadciśnienie w stosunku do korytarza. Rozmieszczenie punktów nawiewu nie może powodować przepływu powietrza od strony głowy pacjenta przez pole operacyjne."
+      "content": "W salach operacyjnych oraz innych pomieszczeniach, gdzie podtlenek azotu jest stosowany do znieczulenia, nawiew powietrza odbywa się górą, a wyciąg powietrza w 20 % górą i w 80 % dołem i zapewnia nadciśnienie w stosunku do korytarza. Rozmieszczenie punktów nawiewu nie może powodować przepływu powietrza od strony głowy pacjenta przez pole operacyjne."
     },
     {
       "provision_ref": "par28",
@@ -517,37 +523,45 @@
       "provision_ref": "par29",
       "section": "29",
       "title": "§ 29",
-      "content": "Źródłem zaopatrzenia w wodę szpitala lub ambulatorium z izbą chorych są sieć wodociągowa i własne ujęcie."
+      "content": "Szpital posiada rezerwowe źródło zaopatrzenia w wodę, zapewniające co najmniej jej 12-godzinny zapas."
     },
     {
       "provision_ref": "par30",
       "section": "30",
       "title": "§ 30",
-      "content": "Szpital posiada rezerwowe źródło zaopatrzenia w energię elektryczną, którym jest agregat prądotwórczy wyposażony w funkcję autostartu, zapewniający co najmniej 30% potrzeb mocy szczytowej, a także urządzenie zapewniające odpowiedni poziom bezprzerwowego podtrzymania zasilania. Przepisu ust. 1 nie stosuje się w sytuacji, gdy zakład karny, na terenie którego funkcjonuje szpital, ma agregat prądotwórczy lub inne rezerwowe źródło zaopatrzenia w energię elektryczną, o ile ich wydolność zapewni szpitalowi co najmniej 30% potrzeb mocy szczytowej, a także urządzenie zapewniające odpowiedni poziom bezprzerwowego podtrzymania zasilania."
+      "content": "Szpital posiada rezerwowe źródło zaopatrzenia w energię elektryczną, którym jest agregat prądotwórczy wyposażony w funkcję autostartu, zapewniający co najmniej 30 % potrzeb mocy szczytowej, a także urządzenie zapewniające odpowiedni poziom bezprzerwowego podtrzymania zasilania. Przepisu ust. 1 nie stosuje się w sytuacji, gdy zakład karny, na terenie którego funkcjonuje szpital, ma agregat prądotwórczy lub inne rezerwowe źródło zaopatrzenia w energię elektryczną, o ile ich wydolność zapewni szpitalowi co najmniej 30 % potrzeb mocy szczytowej, a także urządzenie zapewniające odpowiedni poziom bezprzerwowego podtrzymania zasilania."
     },
     {
       "provision_ref": "par30u1",
       "section": "30",
       "title": "§ 30 ust. 1",
-      "content": "Szpital posiada rezerwowe źródło zaopatrzenia w energię elektryczną, którym jest agregat prądotwórczy wyposażony w funkcję autostartu, zapewniający co najmniej 30% potrzeb mocy szczytowej, a także urządzenie zapewniające odpowiedni poziom bezprzerwowego podtrzymania zasilania."
+      "content": "Szpital posiada rezerwowe źródło zaopatrzenia w energię elektryczną, którym jest agregat prądotwórczy wyposażony w funkcję autostartu, zapewniający co najmniej 30 % potrzeb mocy szczytowej, a także urządzenie zapewniające odpowiedni poziom bezprzerwowego podtrzymania zasilania."
     },
     {
       "provision_ref": "par30u2",
       "section": "30",
       "title": "§ 30 ust. 2",
-      "content": "Przepisu ust. 1 nie stosuje się w sytuacji, gdy zakład karny, na terenie którego funkcjonuje szpital, ma agregat prądotwórczy lub inne rezerwowe źródło zaopatrzenia w energię elektryczną, o ile ich wydolność zapewni szpitalowi co najmniej 30% potrzeb mocy szczytowej, a także urządzenie zapewniające odpowiedni poziom bezprzerwowego podtrzymania zasilania."
+      "content": "Przepisu ust. 1 nie stosuje się w sytuacji, gdy zakład karny, na terenie którego funkcjonuje szpital, ma agregat prądotwórczy lub inne rezerwowe źródło zaopatrzenia w energię elektryczną, o ile ich wydolność zapewni szpitalowi co najmniej 30 % potrzeb mocy szczytowej, a także urządzenie zapewniające odpowiedni poziom bezprzerwowego podtrzymania zasilania."
     },
     {
       "provision_ref": "par31",
       "section": "31",
       "title": "§ 31",
-      "content": "Rozporządzenie wchodzi w życie w dniu następującym po dniu ogłoszenia. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 2 lutego 2011 r. w sprawie wymagań, jakim powinny odpowiadać pod względem fachowym i sanitarnym pomieszczenia i urządzenia zakładu opieki zdrowotnej (Dz. U. Nr 31, poz. 158)."
+      "content": "Rozporządzenie wchodzi w życie w dniu następującym po dniu ogłoszenia 2) Rozporządzenie zostało ogłoszone w dniu 13 lipca 2012 r. . 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 2 lutego 2011 r. w sprawie wymagań, jakim powinny odpowiadać pod względem fachowym i sanitarnym pomieszczenia i urządzenia zakładu opieki zdrowotnej (Dz. U. poz. 158)."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2011-654",
+      "target_document_id": "pl-du-2019-1461",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2017-917",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2024-799",
       "ref_type": "references"
     }
   ]

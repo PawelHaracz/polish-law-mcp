@@ -15,6 +15,9 @@
  *   npm run ingest:pdf -- --id a,b     # only these acts (repealed ones skipped)
  *   npm run ingest:pdf -- --id-file f  # ids from a file
  *   npm run ingest:pdf -- --include-repealed   # keep repealed acts in an --id run
+ *   npm run ingest:pdf -- --regulations --from 2025   # in-force PDF-only rozporządzenia
+ *   npm run ingest:pdf -- --regulations --from 1990 --id-file f   # these regulations from PDF
+ *                                                     # (since 2025 the API serves new acts as PDF only)
  *
  * Requires poppler's `pdftotext` on PATH (build-time only).
  */
@@ -46,18 +49,21 @@ interface TextEntry { fileName: string; type: string }
 function parseArgs() {
   const a = process.argv.slice(2);
   let limit: number | null = null, force = false, includeRepealed = false;
+  let regulations = false, from = 2025;
   let ids: Set<string> | null = null;
   for (let i = 0; i < a.length; i++) {
     if (a[i] === '--limit' && a[i + 1]) { limit = parseInt(a[++i], 10); }
     else if (a[i] === '--force') force = true;
     else if (a[i] === '--include-repealed') includeRepealed = true;
+    else if (a[i] === '--regulations') regulations = true;
+    else if (a[i] === '--from' && a[i + 1]) from = parseInt(a[++i]!, 10);
     else if (a[i] === '--id' && a[i + 1]) {
       ids = new Set(a[++i]!.split(',').map(s => s.trim()).filter(Boolean));
     } else if (a[i] === '--id-file' && a[i + 1]) {
       ids = new Set(fs.readFileSync(a[++i]!, 'utf-8').split(/[\s,]+/).map(s => s.trim()).filter(Boolean));
     }
   }
-  return { limit, force, ids, includeRepealed };
+  return { limit, force, ids, includeRepealed, regulations, from };
 }
 
 /** True when the act is currently binding law, per census/ISAP status. */
@@ -129,11 +135,50 @@ function censusToAct(e: CensusEntry): ActIndexEntry {
   };
 }
 
+/** Same "currently binding" statuses ingest-regulations keeps. */
+const ACTIVE_REG_STATUSES = new Set([
+  'obowiązujący',
+  'akt objęty tekstem jednolitym',
+  'akt posiada tekst jednolity',
+]);
+
+/**
+ * Regulations are not in census.json (it lists Ustawy only). Build census-shaped
+ * entries for in-force, PDF-only rozporządzenia from the ELI year index.
+ */
+async function regulationEntries(from: number, ids: Set<string> | null): Promise<CensusEntry[]> {
+  const out: CensusEntry[] = [];
+  for (let y = from; y <= new Date().getFullYear(); y++) {
+    const d = await fetchJson(`${ELI_API_BASE}/${y}`);
+    for (const it of d.items ?? []) {
+      // With --id-file, HTML acts are allowed too: the target is typically a
+      // regulation whose base act has HTML but whose newest tekst jednolity is
+      // PDF-only (the norm since 2025).
+      if (it.type !== 'Rozporządzenie' || !it.textPDF) continue;
+      if (it.textHTML && !ids) continue;
+      if (!ACTIVE_REG_STATUSES.has(it.status)) continue;
+      const id = `pl-du-${it.year}-${it.pos}`;
+      out.push({
+        id, title: it.title, status: 'in_force', sejm_status: it.status,
+        classification: 'ingestable', skip_reason: PDF_ONLY_REASON, year: it.year, poz: it.pos,
+        url: `${ELI_API_BASE}/${it.year}/${it.pos}`,
+        announcement_date: it.announcementDate ?? '', promulgation_date: it.promulgation ?? '',
+      });
+    }
+  }
+  return out;
+}
+
+const sleep = (ms: number) => new Promise(r => setTimeout(r, ms));
+
 async function main() {
-  const { limit, force, ids, includeRepealed } = parseArgs();
+  const { limit, force, ids, includeRepealed, regulations, from } = parseArgs();
   console.log('Polish Law MCP — PDF ingestion\n' + '='.repeat(40));
 
-  const census: Census = JSON.parse(fs.readFileSync(CENSUS_PATH, 'utf-8'));
+  const census: Census = regulations
+    ? { laws: await regulationEntries(from, ids) }
+    : JSON.parse(fs.readFileSync(CENSUS_PATH, 'utf-8'));
+  if (regulations) console.log(`  Mode: regulations ${from}-${new Date().getFullYear()} (${census.laws.length} in-force candidates)`);
 
   // Default target: acts the API serves only as PDF. With --id the caller picks
   // acts explicitly — typically ones whose CONSOLIDATED text is PDF-only even
@@ -180,6 +225,7 @@ async function main() {
   let ok = 0, failed = 0, totalProv = 0;
   for (let i = 0; i < todo.length; i++) {
     const e = todo[i];
+    if (i > 0) await sleep(500); // be gentle with api.sejm.gov.pl (3 requests per act)
     try {
       // Pull the PDF of the newest consolidated text when one exists; the base
       // act's own PDF still carries the original, pre-amendment wording.

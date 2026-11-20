@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2021/1347",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -49,7 +55,7 @@
       "provision_ref": "par4",
       "section": "4",
       "title": "§ 4",
-      "content": "Dokument elektroniczny TAX FREE zawiera: kolejny numer nadany w ramach jednej lub więcej serii, który w sposób jednoznaczny identyfikuje dokument; unikalny numer systemowy dokumentu nadawany automatycznie przez system TAX FREE; dane sprzedawcy: nazwę, adres, numer identyfikacji podatkowej (NIP) podatnika; adres miejsca prowadzenia działalności, w którym dokonano sprzedaży towaru; dane podróżnego: nazwisko i imię, datę urodzenia, numer paszportu lub innego dokumentu stwierdzającego tożsamość podróżnego, na podstawie którego ustalono miejsce stałego zamieszkania poza terytorium Unii Europejskiej, oraz nazwę kraju, który wydał paszport lub inny dokument stwierdzający tożsamość podróżnego; nazwę sprzedanego towaru, która pozwala na jego jednoznaczną identyfikację, miarę i ilość towaru, cenę jednostkową netto towaru, wartość netto towaru, stawkę i kwotę podatku od towarów i usług, wartość brutto towaru, kwotę podatku od towarów i usług ogółem oraz wartość brutto towarów ogółem; formę dokonania zwrotu podatku od towarów i usług podróżnemu - wypłata gotówkowa lub rozliczenie bezgotówkowe; numer rachunku bankowego, karty płatniczej lub innego środka rozliczenia bezgotówkowego podróżnego - w przypadku zwrotu podatku od towarów i usług w formie rozliczenia bezgotówkowego; numer unikatowy kasy rejestrującej, na której zaewidencjonowano sprzedaż towaru, numer paragonu fiskalnego potwierdzającego dokonanie tej sprzedaży, datę tej sprzedaży; imię i nazwisko oraz unikalny identyfikator ID SISC osoby wystawiającej dokument; datę i godzinę zatwierdzenia dokumentu w systemie TAX FREE."
+      "content": "Dokument elektroniczny TAX FREE zawiera: kolejny numer nadany w ramach jednej lub więcej serii, który w sposób jednoznaczny identyfikuje dokument; unikalny numer systemowy dokumentu nadawany automatycznie przez system TAX FREE; dane sprzedawcy: nazwę, adres, numer identyfikacji podatkowej (NIP) podatnika; adres miejsca prowadzenia działalności, w którym dokonano sprzedaży towaru; dane podróżnego: nazwisko i imię, datę urodzenia, numer paszportu lub innego dokumentu stwierdzającego tożsamość podróżnego, na podstawie którego ustalono miejsce stałego zamieszkania poza terytorium Unii Europejskiej, oraz nazwę kraju, który wydał paszport lub inny dokument stwierdzający tożsamość podróżnego; nazwę sprzedanego towaru, która pozwala na jego jednoznaczną identyfikację, miarę i ilość towaru, cenę jednostkową netto towaru, wartość netto towaru, stawkę i kwotę podatku od towarów i usług, wartość brutto towaru, kwotę podatku od towarów i usług ogółem oraz wartość brutto towarów ogółem; formę dokonania zwrotu podatku od towarów i usług podróżnemu - wypłata gotówkowa lub rozliczenie bezgotówkowe; numer rachunku bankowego, karty płatniczej lub innego środka rozliczenia bezgotówkowego podróżnego - w przypadku zwrotu podatku od towarów i usług w formie rozliczenia bezgotówkowego; numer unikatowy kasy rejestrującej, na której zaewidencjonowano sprzedaż towaru, numer paragonu fiskalnego potwierdzającego dokonanie tej sprzedaży, datę tej sprzedaży; imię i nazwisko osoby wystawiającej dokument; datę i godzinę zatwierdzenia dokumentu w systemie TAX FREE."
     },
     {
       "provision_ref": "par4p1",
@@ -130,10 +136,10 @@
       "content": "Dokument elektroniczny TAX FREE zawiera: numer unikatowy kasy rejestrującej, na której zaewidencjonowano sprzedaż towaru, numer paragonu fiskalnego potwierdzającego dokonanie tej sprzedaży, datę tej sprzedaży;"
     },
     {
-      "provision_ref": "par4p10",
+      "provision_ref": "par4p4",
       "section": "4",
-      "title": "§ 4 pkt 10",
-      "content": "Dokument elektroniczny TAX FREE zawiera: imię i nazwisko oraz unikalny identyfikator ID SISC osoby wystawiającej dokument;"
+      "title": "§ 4 pkt 4",
+      "content": "Dokument elektroniczny TAX FREE zawiera: imię i nazwisko osoby wystawiającej dokument;"
     },
     {
       "provision_ref": "par4p11",
@@ -145,69 +151,61 @@
       "provision_ref": "par5",
       "section": "5",
       "title": "§ 5",
-      "content": "Wydruk dokumentu, o którym mowa w art. 127a ustawy, oprócz danych, o których mowa w § 4, zawiera: oznaczenie „TAX FREE FOR TOURISTS”; kod kreskowy w standardzie GS1-128 unikalnego numeru systemowego dokumentu nadawanego automatycznie przez system TAX FREE; miejsce na potwierdzenie przez organ celny pieczęcią „Polska-Cło” wywozu towarów przez podróżnego poza terytorium Unii Europejskiej; napis: „Zwrot podatku w kwocie.......... zł...... gr otrzymałem(-łam)”, a pod nim miejsce na wstawienie daty otrzymanego zwrotu podatku od towarów i usług oraz własnoręczny czytelny podpis podróżnego - w przypadku zwrotu podatku od towarów i usług dokonanego w formie wypłaty gotówkowej; miejsce na uwagi urzędowe."
+      "content": "Wydruk dokumentu, o którym mowa w art. 127a ustawy, oprócz danych, o których mowa w § 4 pkt 1-7 i 9-11, zawiera: 5) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 4. oznaczenie „TAX FREE FOR TOURISTS”; kod kreskowy w standardzie GS1-128 unikalnego numeru systemowego dokumentu nadawanego automatycznie przez system TAX FREE; miejsce na potwierdzenie przez organ celny pieczęcią wywozu towarów przez podróżnego poza terytorium Unii Europejskiej; napis: „Zwrot podatku w kwocie.......... zł...... gr otrzymałem(-łam)”, a pod nim miejsce na wstawienie daty otrzymanego zwrotu podatku od towarów i usług oraz własnoręczny czytelny podpis podróżnego - w przypadku zwrotu podatku od towarów i usług dokonanego w formie wypłaty gotówkowej; miejsce na uwagi urzędowe."
     },
     {
       "provision_ref": "par5p1",
       "section": "5",
       "title": "§ 5 pkt 1",
-      "content": "Wydruk dokumentu, o którym mowa w art. 127a ustawy, oprócz danych, o których mowa w § 4, zawiera: oznaczenie „TAX FREE FOR TOURISTS”;"
+      "content": "Wydruk dokumentu, o którym mowa w art. 127a ustawy, oprócz danych, o których mowa w § 4 pkt 1-7 i 9-11, zawiera: 5) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 4. oznaczenie „TAX FREE FOR TOURISTS”;"
     },
     {
       "provision_ref": "par5p2",
       "section": "5",
       "title": "§ 5 pkt 2",
-      "content": "Wydruk dokumentu, o którym mowa w art. 127a ustawy, oprócz danych, o których mowa w § 4, zawiera: kod kreskowy w standardzie GS1-128 unikalnego numeru systemowego dokumentu nadawanego automatycznie przez system TAX FREE;"
+      "content": "Wydruk dokumentu, o którym mowa w art. 127a ustawy, oprócz danych, o których mowa w § 4 pkt 1-7 i 9-11, zawiera: 5) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 4. kod kreskowy w standardzie GS1-128 unikalnego numeru systemowego dokumentu nadawanego automatycznie przez system TAX FREE;"
     },
     {
-      "provision_ref": "par5p3",
+      "provision_ref": "par5p6",
       "section": "5",
-      "title": "§ 5 pkt 3",
-      "content": "Wydruk dokumentu, o którym mowa w art. 127a ustawy, oprócz danych, o których mowa w § 4, zawiera: miejsce na potwierdzenie przez organ celny pieczęcią „Polska-Cło” wywozu towarów przez podróżnego poza terytorium Unii Europejskiej;"
+      "title": "§ 5 pkt 6",
+      "content": "Wydruk dokumentu, o którym mowa w art. 127a ustawy, oprócz danych, o których mowa w § 4 pkt 1-7 i 9-11, zawiera: 5) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 4. miejsce na potwierdzenie przez organ celny pieczęcią wywozu towarów przez podróżnego poza terytorium Unii Europejskiej;"
     },
     {
       "provision_ref": "par5p4",
       "section": "5",
       "title": "§ 5 pkt 4",
-      "content": "Wydruk dokumentu, o którym mowa w art. 127a ustawy, oprócz danych, o których mowa w § 4, zawiera: napis: „Zwrot podatku w kwocie.......... zł...... gr otrzymałem(-łam)”, a pod nim miejsce na wstawienie daty otrzymanego zwrotu podatku od towarów i usług oraz własnoręczny czytelny podpis podróżnego - w przypadku zwrotu podatku od towarów i usług dokonanego w formie wypłaty gotówkowej;"
+      "content": "Wydruk dokumentu, o którym mowa w art. 127a ustawy, oprócz danych, o których mowa w § 4 pkt 1-7 i 9-11, zawiera: 5) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 4. napis: „Zwrot podatku w kwocie.......... zł...... gr otrzymałem(-łam)”, a pod nim miejsce na wstawienie daty otrzymanego zwrotu podatku od towarów i usług oraz własnoręczny czytelny podpis podróżnego - w przypadku zwrotu podatku od towarów i usług dokonanego w formie wypłaty gotówkowej;"
     },
     {
       "provision_ref": "par5p5",
       "section": "5",
       "title": "§ 5 pkt 5",
-      "content": "Wydruk dokumentu, o którym mowa w art. 127a ustawy, oprócz danych, o których mowa w § 4, zawiera: miejsce na uwagi urzędowe."
+      "content": "Wydruk dokumentu, o którym mowa w art. 127a ustawy, oprócz danych, o których mowa w § 4 pkt 1-7 i 9-11, zawiera: 5) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 4. miejsce na uwagi urzędowe."
     },
     {
       "provision_ref": "par6",
       "section": "6",
       "title": "§ 6",
-      "content": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r. 3) Zakres spraw uregulowanych w niniejszym rozporządzeniu był poprzednio uregulowany w rozporządzeniu Ministra Finansów z dnia 28 marca 2011 r. w sprawie określenia wzorów: znaku informującego podróżnych o możliwości zakupu w punktach sprzedaży towarów, od których przysługuje zwrot podatku od towarów i usług, oraz stempla potwierdzającego wywóz towarów poza terytorium Unii Europejskiej, a także określenia niezbędnych danych, które powinien zawierać dokument będący podstawą do dokonania zwrotu podatku podróżnym (Dz. U. z 2018 r. poz. 521), które traci moc z dniem 1 stycznia 2022 r. w związku z wejściem w życie ustawy z dnia 27 listopada 2020 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (Dz. U. poz. 2419)."
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r. 7) Zakres spraw uregulowanych w niniejszym rozporządzeniu był poprzednio uregulowany w rozporządzeniu Ministra Finansów z dnia 28 marca 2011 r. w sprawie określenia wzorów: znaku informującego podróżnych o możliwości zakupu w punktach sprzedaży towarów, od których przysługuje zwrot podatku od towarów i usług, oraz stempla potwierdzającego wywóz towarów poza terytorium Unii Europejskiej, a także określenia niezbędnych danych, które powinien zawierać dokument będący podstawą do dokonania zwrotu podatku podróżnym (Dz. U. z 2018 r. poz. 521), które utraciło moc z dniem 1 stycznia 2022 r. w związku z wejściem w życie ustawy z dnia 27 listopada 2020 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (Dz. U. poz. 2419)."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2021-685",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2021-694",
+      "target_document_id": "pl-du-2021-2340",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2021-802",
+      "target_document_id": "pl-du-2022-931",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2021-1163",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-2021-1243",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-2021-422",
+      "target_document_id": "pl-du-2022-813",
       "ref_type": "references"
     }
   ]

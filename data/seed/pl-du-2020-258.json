@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/258",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -43,13 +49,21 @@
       "provision_ref": "par4",
       "section": "4",
       "title": "§ 4",
-      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 30 października 2003 r. w sprawie dopuszczalnych poziomów pól elektromagnetycznych w środowisku oraz sposobów sprawdzania dotrzymania tych poziomów (Dz. U. poz. 1883), które zgodnie z art. 34 pkt 2 ustawy z dnia 30 sierpnia 2019 r. o zmianie ustawy o wspieraniu rozwoju usług i sieci telekomunikacyjnych oraz niektórych innych ustaw (Dz. U. poz. 1815) utraciło moc z dniem 1 stycznia 2020 r."
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia 2) Rozporządzenie zostało ogłoszone w dniu 18 lutego 2020 r. . 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 30 października 2003 r. w sprawie dopuszczalnych poziomów pól elektromagnetycznych w środowisku oraz sposobów sprawdzania dotrzymania tych poziomów (Dz. U. poz. 1883), które zgodnie z art. 34 pkt 2 ustawy z dnia 30 sierpnia 2019 r. o zmianie ustawy o wspieraniu rozwoju usług i sieci telekomunikacyjnych oraz niektórych innych ustaw (Dz. U. poz. 1815) utraciło moc z dniem 1 stycznia 2020 r."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2019-1396",
+      "target_document_id": "pl-du-2019-1461",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-1121",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2556",
       "ref_type": "references"
     },
     {

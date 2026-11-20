@@ -10,6 +10,18 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2013/136",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -31,7 +43,7 @@
       "provision_ref": "par2",
       "section": "2",
       "title": "§ 2",
-      "content": "Przepisów rozporządzenia nie stosuje się do: jednostkowych prototypów wyrobów; wyrobów nabywanych przez kontyngenty Sił Zbrojnych Rzeczypospolitej Polskiej wykonujących zadania poza granicami państwa od dostawców zagranicznych poza granicami państwa; wyrobów, które zostały poddane remontowi lub modernizacji, z wyjątkiem nowych zespołów wchodzących w skład tych wyrobów, które zostały ujęte w szczegółowym wykazie wskazanym w § 4 ust. 1, zwanym dalej „wykazem”."
+      "content": "Przepisów rozporządzenia nie stosuje się do: jednostkowych prototypów wyrobów; wyrobów nabywanych przez kontyngenty Sił Zbrojnych Rzeczypospolitej Polskiej wykonujących zadania poza granicami państwa od dostawców zagranicznych poza granicami państwa; wyrobów, które zostały poddane naprawie lub modernizacji, z wyjątkiem nowych zespołów wchodzących w skład tych wyrobów, które zostały ujęte w wykazie wskazanym w § 4 ust. 1, zwanym dalej „wykazem”."
     },
     {
       "provision_ref": "par2p1",
@@ -49,7 +61,7 @@
       "provision_ref": "par2p3",
       "section": "2",
       "title": "§ 2 pkt 3",
-      "content": "Przepisów rozporządzenia nie stosuje się do: wyrobów, które zostały poddane remontowi lub modernizacji, z wyjątkiem nowych zespołów wchodzących w skład tych wyrobów, które zostały ujęte w szczegółowym wykazie wskazanym w § 4 ust. 1, zwanym dalej „wykazem”."
+      "content": "Przepisów rozporządzenia nie stosuje się do: wyrobów, które zostały poddane naprawie lub modernizacji, z wyjątkiem nowych zespołów wchodzących w skład tych wyrobów, które zostały ujęte w wykazie wskazanym w § 4 ust. 1, zwanym dalej „wykazem”."
     },
     {
       "provision_ref": "par3",
@@ -91,7 +103,7 @@
       "provision_ref": "par4",
       "section": "4",
       "title": "§ 4",
-      "content": "Dla wyrobów podlegających ocenie zgodności, wymienionych w art. 6 ust. 2 ustawy, tryb oceny zgodności jest określony w wykazie stanowiącym załącznik do rozporządzenia. Ocena zgodności prowadzona jest w szczególności zgodnie z procedurami i metodykami określonymi lub przywołanymi w specyfikacji technicznej wyrobu."
+      "content": "Dla wyrobów podlegających ocenie zgodności, wymienionych w art. 6 ust. 2 ustawy, tryb oceny zgodności jest określony w wykazie stanowiącym załącznik do rozporządzenia. Ocena zgodności dla wyrobów, o których mowa w ust. 1, nabywanych z zastosowaniem art. 13 ust. 1 pkt 2 i 7 oraz art. 14 ust. 1 ustawy z dnia 11 września 2019 r. - Prawo zamówień publicznych , prowadzona jest w trybie I. Ocenę zgodności prowadzi się w szczególności na podstawie wyników badań i pomiarów przeprowadzonych według metodyk badań, dotyczących cech technicznych, jakościowych, bezpieczeństwa użytkowania, a także w odniesieniu do nazewnictwa, symboli, znakowania oraz oznaczania wyrobu, określonych lub przywołanych w specyfikacji technicznej."
     },
     {
       "provision_ref": "par4u1",
@@ -100,16 +112,22 @@
       "content": "Dla wyrobów podlegających ocenie zgodności, wymienionych w art. 6 ust. 2 ustawy, tryb oceny zgodności jest określony w wykazie stanowiącym załącznik do rozporządzenia."
     },
     {
+      "provision_ref": "par4u1a",
+      "section": "4",
+      "title": "§ 4 ust. 1a",
+      "content": "Ocena zgodności dla wyrobów, o których mowa w ust. 1, nabywanych z zastosowaniem art. 13 ust. 1 pkt 2 i 7 oraz art. 14 ust. 1 ustawy z dnia 11 września 2019 r. - Prawo zamówień publicznych , prowadzona jest w trybie I."
+    },
+    {
       "provision_ref": "par4u2",
       "section": "4",
       "title": "§ 4 ust. 2",
-      "content": "Ocena zgodności prowadzona jest w szczególności zgodnie z procedurami i metodykami określonymi lub przywołanymi w specyfikacji technicznej wyrobu."
+      "content": "Ocenę zgodności prowadzi się w szczególności na podstawie wyników badań i pomiarów przeprowadzonych według metodyk badań, dotyczących cech technicznych, jakościowych, bezpieczeństwa użytkowania, a także w odniesieniu do nazewnictwa, symboli, znakowania oraz oznaczania wyrobu, określonych lub przywołanych w specyfikacji technicznej."
     },
     {
       "provision_ref": "par5",
       "section": "5",
       "title": "§ 5",
-      "content": "Ocenę zgodności wyrobów z przypisanym w wykazie trybem II lub trybem III można przeprowadzić w trybie I, a ocenę zgodności wyrobów z przypisanym w wykazie trybem III można przeprowadzić w trybie II - w odniesieniu do wyrobów, które podczas eksploatacji w okresie co najmniej trzech ostatnich lat nie spowodowały zagrożeń, o których mowa w art. 2 ust. 1 pkt 3 ustawy, poza zagrożeniem będącym skutkiem użycia wyrobu zgodnie z przeznaczeniem. Za zgodą Ministra Obrony Narodowej, w przypadkach innych niż wymienione w ust. 1, ocenę zgodności można przeprowadzić w trybie innym niż wskazany dla danego wyrobu w wykazie, w szczególności gdy: wyrób jest na wyposażeniu państwa członkowskiego Organizacji Traktatu Północnoatlantyckiego albo wyrób jest pozyskiwany w drodze umowy realizowanej na podstawie programów międzynarodowych lub inicjatyw funkcjonujących w ramach Organizacji Traktatu Północnoatlantyckiego. Minister Obrony Narodowej wyraża zgodę, o której mowa w ust. 2, przez akceptację wniosku w sprawie pozyskania nowego uzbrojenia i sprzętu wojskowego wraz z załączoną specyfikacją techniczną. Ocenę zgodności wyrobów z przypisanym w wykazie trybem I można przeprowadzić w trybie II lub w trybie III, a ocenę zgodności wyrobów z przypisanym w wykazie trybem II można przeprowadzić w trybie III - w odniesieniu do wyrobów, które podczas eksploatacji w okresie co najmniej trzech ostatnich lat spowodowały zagrożenia, o których mowa w art. 2 ust. 1 pkt 3 ustawy, poza zagrożeniem będącym skutkiem użycia wyrobu zgodnie z przeznaczeniem. Czynności dotyczące zmiany trybu oceny zgodności wynikające z ust. 1-3 realizują komórki lub jednostki organizacyjne resortu obrony narodowej opracowujące specyfikacje techniczne."
+      "content": "Ocenę zgodności wyrobów z przypisanym w wykazie trybem II lub trybem III można przeprowadzić w trybie I, a ocenę zgodności wyrobów z przypisanym w wykazie trybem III można przeprowadzić w trybie II - w odniesieniu do wyrobów, które podczas eksploatacji w okresie co najmniej trzech ostatnich lat nie spowodowały zagrożeń, o których mowa w art. 2 ust. 1 pkt 3 ustawy, poza zagrożeniem będącym skutkiem użycia wyrobu zgodnie z przeznaczeniem. W przypadkach innych niż wymienione w ust. 1 ocenę zgodności można przeprowadzić w trybie innym niż wskazany dla danego wyrobu w wykazie, gdy: wyrób jest na wyposażeniu państwa członkowskiego Organizacji Traktatu Północnoatlantyckiego albo wyrób jest pozyskiwany w drodze umowy realizowanej na podstawie programów międzynarodowych lub inicjatyw funkcjonujących w ramach Organizacji Traktatu Północnoatlantyckiego. (uchylony). Ocenę zgodności wyrobów z przypisanym w wykazie trybem I można przeprowadzić w trybie II lub w trybie III, a ocenę zgodności wyrobów z przypisanym w wykazie trybem II można przeprowadzić w trybie III - w odniesieniu do wyrobów, które podczas eksploatacji w okresie co najmniej trzech ostatnich lat spowodowały zagrożenia, o których mowa w art. 2 ust. 1 pkt 3 ustawy, poza zagrożeniem będącym skutkiem użycia wyrobu zgodnie z przeznaczeniem. W przypadku braku jednostki badawczej lub jednostki certyfikującej, która zgodnie z zakresem udzielonej akredytacji OiB posiada możliwość przeprowadzenia oceny zgodności wyrobu będącego przedmiotem tej oceny, zgodnie z wymaganiami określonymi w specyfikacji technicznej, ocenę zgodności można przeprowadzić w trybie I. W przypadku realizacji procedury oceny zgodności wyrobu, o której mowa w ust. 4a, procedura może być kontynuowana do czasu jej zakończenia, pomimo uzyskania przez jednostkę badawczą lub certyfikującą akredytacji OiB, w zakresie umożliwiającym przeprowadzenie tej oceny. (uchylony). 3) Przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2. Decyzję o realizacji oceny zgodności w trybie określonym w ust. 1, 2, 4, 4a i 4b podejmują szefowie (dowódcy) jednostek organizacyjnych podległych Ministrowi Obrony Narodowej, które opracowują specyfikacje techniczne."
     },
     {
       "provision_ref": "par5u1",
@@ -121,19 +139,19 @@
       "provision_ref": "par5u2p1",
       "section": "5",
       "title": "§ 5 ust. 2 pkt 1",
-      "content": "Za zgodą Ministra Obrony Narodowej, w przypadkach innych niż wymienione w ust. 1, ocenę zgodności można przeprowadzić w trybie innym niż wskazany dla danego wyrobu w wykazie, w szczególności gdy: wyrób jest na wyposażeniu państwa członkowskiego Organizacji Traktatu Północnoatlantyckiego albo"
+      "content": "W przypadkach innych niż wymienione w ust. 1 ocenę zgodności można przeprowadzić w trybie innym niż wskazany dla danego wyrobu w wykazie, gdy: wyrób jest na wyposażeniu państwa członkowskiego Organizacji Traktatu Północnoatlantyckiego albo"
     },
     {
       "provision_ref": "par5u2p2",
       "section": "5",
       "title": "§ 5 ust. 2 pkt 2",
-      "content": "Za zgodą Ministra Obrony Narodowej, w przypadkach innych niż wymienione w ust. 1, ocenę zgodności można przeprowadzić w trybie innym niż wskazany dla danego wyrobu w wykazie, w szczególności gdy: wyrób jest pozyskiwany w drodze umowy realizowanej na podstawie programów międzynarodowych lub inicjatyw funkcjonujących w ramach Organizacji Traktatu Północnoatlantyckiego."
+      "content": "W przypadkach innych niż wymienione w ust. 1 ocenę zgodności można przeprowadzić w trybie innym niż wskazany dla danego wyrobu w wykazie, gdy: wyrób jest pozyskiwany w drodze umowy realizowanej na podstawie programów międzynarodowych lub inicjatyw funkcjonujących w ramach Organizacji Traktatu Północnoatlantyckiego."
     },
     {
       "provision_ref": "par5u3",
       "section": "5",
       "title": "§ 5 ust. 3",
-      "content": "Minister Obrony Narodowej wyraża zgodę, o której mowa w ust. 2, przez akceptację wniosku w sprawie pozyskania nowego uzbrojenia i sprzętu wojskowego wraz z załączoną specyfikacją techniczną."
+      "content": "(uchylony)."
     },
     {
       "provision_ref": "par5u4",
@@ -142,16 +160,34 @@
       "content": "Ocenę zgodności wyrobów z przypisanym w wykazie trybem I można przeprowadzić w trybie II lub w trybie III, a ocenę zgodności wyrobów z przypisanym w wykazie trybem II można przeprowadzić w trybie III - w odniesieniu do wyrobów, które podczas eksploatacji w okresie co najmniej trzech ostatnich lat spowodowały zagrożenia, o których mowa w art. 2 ust. 1 pkt 3 ustawy, poza zagrożeniem będącym skutkiem użycia wyrobu zgodnie z przeznaczeniem."
     },
     {
+      "provision_ref": "par5u4a",
+      "section": "5",
+      "title": "§ 5 ust. 4a",
+      "content": "W przypadku braku jednostki badawczej lub jednostki certyfikującej, która zgodnie z zakresem udzielonej akredytacji OiB posiada możliwość przeprowadzenia oceny zgodności wyrobu będącego przedmiotem tej oceny, zgodnie z wymaganiami określonymi w specyfikacji technicznej, ocenę zgodności można przeprowadzić w trybie I."
+    },
+    {
+      "provision_ref": "par5u4b",
+      "section": "5",
+      "title": "§ 5 ust. 4b",
+      "content": "W przypadku realizacji procedury oceny zgodności wyrobu, o której mowa w ust. 4a, procedura może być kontynuowana do czasu jej zakończenia, pomimo uzyskania przez jednostkę badawczą lub certyfikującą akredytacji OiB, w zakresie umożliwiającym przeprowadzenie tej oceny."
+    },
+    {
       "provision_ref": "par5u5",
       "section": "5",
       "title": "§ 5 ust. 5",
-      "content": "Czynności dotyczące zmiany trybu oceny zgodności wynikające z ust. 1-3 realizują komórki lub jednostki organizacyjne resortu obrony narodowej opracowujące specyfikacje techniczne."
+      "content": "(uchylony). 3) Przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2."
+    },
+    {
+      "provision_ref": "par5u6",
+      "section": "5",
+      "title": "§ 5 ust. 6",
+      "content": "Decyzję o realizacji oceny zgodności w trybie określonym w ust. 1, 2, 4, 4a i 4b podejmują szefowie (dowódcy) jednostek organizacyjnych podległych Ministrowi Obrony Narodowej, które opracowują specyfikacje techniczne."
     },
     {
       "provision_ref": "par6",
       "section": "6",
       "title": "§ 6",
-      "content": "W trybie I dostawca dokonuje oceny zgodności poprzez przeprowadzenie co najmniej jednej z niżej wymienionych czynności: kontroli wyrobu w toku produkcji; kontroli i badań końcowych wyrobu; kontroli procesu wytwarzania wyrobu; innych czynności określonych w specyfikacji technicznej, potwierdzających zgodność wyrobu ze specyfikacją techniczną. Jeżeli czynności, o których mowa w ust. 1, potwierdzą zgodność wyrobu ze specyfikacją techniczną, dostawca wystawia deklarację zgodności OiB. W przypadku prowadzenia oceny zgodności w trybie I dostawca, który nie jest producentem wyrobu, może potwierdzić dokonanie oceny zgodności, o której mowa w ust. 1, na podstawie wystawionej przez producenta wyrobu deklaracji zgodności OiB, o której mowa w ust. 2."
+      "content": "W trybie I dostawca dokonuje oceny zgodności poprzez przeprowadzenie co najmniej jednej z niżej wymienionych czynności: kontroli wyrobu w toku produkcji; kontroli i badań końcowych wyrobu; kontroli procesu wytwarzania wyrobu; innych czynności określonych w specyfikacji technicznej, potwierdzających zgodność wyrobu ze specyfikacją techniczną. Jeżeli w wyniku wykonanych czynności, o których mowa w ust. 1, potwierdzono zgodność wyrobu ze specyfikacją techniczną, dostawca wystawia deklarację zgodności OiB. W przypadku prowadzenia oceny zgodności w trybie I dostawca, który nie jest producentem wyrobu, może potwierdzić dokonanie oceny zgodności, o której mowa w ust. 1, na podstawie wystawionej przez producenta wyrobu deklaracji zgodności OiB, o której mowa w ust. 2."
     },
     {
       "provision_ref": "par6u1p1",
@@ -181,7 +217,7 @@
       "provision_ref": "par6u2",
       "section": "6",
       "title": "§ 6 ust. 2",
-      "content": "Jeżeli czynności, o których mowa w ust. 1, potwierdzą zgodność wyrobu ze specyfikacją techniczną, dostawca wystawia deklarację zgodności OiB."
+      "content": "Jeżeli w wyniku wykonanych czynności, o których mowa w ust. 1, potwierdzono zgodność wyrobu ze specyfikacją techniczną, dostawca wystawia deklarację zgodności OiB."
     },
     {
       "provision_ref": "par6u3",
@@ -193,7 +229,7 @@
       "provision_ref": "par7",
       "section": "7",
       "title": "§ 7",
-      "content": "W trybie II jednostka badawcza przeprowadza badania wyrobu zgodnie z metodykami badawczymi określonymi w specyfikacji technicznej i przywołanymi w zakresie akredytacji OiB. Jednostka badawcza, wykorzystując wyniki badań zagranicznego lub krajowego laboratorium badawczego, ustala, czy laboratorium posiada akredytację w zakresie przedstawionych wyników badań."
+      "content": "W trybie II jednostka badawcza przeprowadza badania wyrobu zgodnie z metodykami badawczymi określonymi w specyfikacji technicznej i przywołanymi w zakresie akredytacji OiB. Jednostka badawcza, wykorzystując wyniki badań zagranicznego lub krajowego laboratorium badawczego, ustala, czy laboratorium posiada akredytację w zakresie przedstawionych wyników badań. Wyniki badań uzyskane podczas oceny zgodności wyrobu w trybie II zachowują ważność dla wyrobów wyprodukowanych według niezmienionej specyfikacji technicznej, o ile inaczej w niej nie określono lub o ile inaczej nie określa umowa na dostawę wyrobu zawarta między dostawcą a komórkami lub jednostkami organizacyjnymi podległymi Ministrowi Obrony Narodowej lub przez niego nadzorowanymi."
     },
     {
       "provision_ref": "par7u1",
@@ -206,6 +242,12 @@
       "section": "7",
       "title": "§ 7 ust. 2",
       "content": "Jednostka badawcza, wykorzystując wyniki badań zagranicznego lub krajowego laboratorium badawczego, ustala, czy laboratorium posiada akredytację w zakresie przedstawionych wyników badań."
+    },
+    {
+      "provision_ref": "par7u3",
+      "section": "7",
+      "title": "§ 7 ust. 3",
+      "content": "Wyniki badań uzyskane podczas oceny zgodności wyrobu w trybie II zachowują ważność dla wyrobów wyprodukowanych według niezmienionej specyfikacji technicznej, o ile inaczej w niej nie określono lub o ile inaczej nie określa umowa na dostawę wyrobu zawarta między dostawcą a komórkami lub jednostkami organizacyjnymi podległymi Ministrowi Obrony Narodowej lub przez niego nadzorowanymi."
     },
     {
       "provision_ref": "par8",
@@ -235,13 +277,13 @@
       "provision_ref": "par10",
       "section": "10",
       "title": "§ 10",
-      "content": "Dostawca, odpowiednio do trybu oceny zgodności, powinien posiadać: dokumenty potwierdzające przeprowadzenie czynności, o których mowa w § 6 ust. 1 lub ust. 3; świadectwo lub świadectwa z badań wyrobu, jeżeli mają zastosowanie; certyfikat na wyrób, jeżeli ma zastosowanie."
+      "content": "Dostawca, odpowiednio do trybu oceny zgodności, powinien posiadać: dokumenty potwierdzające przeprowadzenie czynności, o których mowa w § 6; świadectwo lub świadectwa z badań wyrobu, jeżeli mają zastosowanie; certyfikat na wyrób, jeżeli ma zastosowanie."
     },
     {
-      "provision_ref": "par10p1",
+      "provision_ref": "par10p7",
       "section": "10",
-      "title": "§ 10 pkt 1",
-      "content": "Dostawca, odpowiednio do trybu oceny zgodności, powinien posiadać: dokumenty potwierdzające przeprowadzenie czynności, o których mowa w § 6 ust. 1 lub ust. 3;"
+      "title": "§ 10 pkt 7",
+      "content": "Dostawca, odpowiednio do trybu oceny zgodności, powinien posiadać: dokumenty potwierdzające przeprowadzenie czynności, o których mowa w § 6;"
     },
     {
       "provision_ref": "par10p2",
@@ -283,13 +325,13 @@
       "provision_ref": "par13",
       "section": "13",
       "title": "§ 13",
-      "content": "Sposób i tryb oceny zgodności wyrobów objętych zakresem przedmiotowym ustawy, innych niż określone w załączniku, określają komórki lub jednostki organizacyjne podległe Ministrowi Obrony Narodowej, opracowujące specyfikacje techniczne. Przy określaniu sposobu i trybu oceny zgodności uwzględnia się: charakter ryzyka stwarzanego przez wyrób oraz stopień, w jakim jest możliwe zarządzanie tym ryzykiem za pomocą oceny zgodności; potrzebę unikania procedur, których koszty lub efekty byłyby niewspółmierne w stosunku do poziomu zidentyfikowanego ryzyka; potrzebę potwierdzenia osiągnięcia przez wyrób kluczowych parametrów i charakterystyk oraz wymaganego poziomu interoperacyjności określonych w normach, przepisach technicznych lub w dokumentach standaryzacyjnych Organizacji Traktatu Północnoatlantyckiego; wymagania dotyczące systemu zarządzania jakością dostawcy lub producenta w zakresie ich zgodności z wymaganiami określonymi w dokumentach standaryzacyjnych zapewnienia jakości Organizacji Traktatu Północnoatlantyckiego, we właściwej normie międzynarodowej lub im równoważnych."
+      "content": "Sposób i tryb oceny zgodności wyrobów objętych zakresem przedmiotowym ustawy, innych niż określone w załączniku, określają komórki lub jednostki organizacyjne resortu obrony narodowej opracowujące specyfikacje techniczne. Przy określaniu sposobu i trybu oceny zgodności uwzględnia się: charakter ryzyka stwarzanego przez wyrób oraz stopień, w jakim jest możliwe zarządzanie tym ryzykiem za pomocą oceny zgodności; potrzebę unikania procedur, których koszty lub efekty byłyby niewspółmierne w stosunku do poziomu zidentyfikowanego ryzyka; potrzebę potwierdzenia osiągnięcia przez wyrób kluczowych parametrów i charakterystyk oraz wymaganego poziomu interoperacyjności określonych w normach, przepisach technicznych lub w dokumentach standaryzacyjnych Organizacji Traktatu Północnoatlantyckiego; wymagania dotyczące systemu zarządzania jakością dostawcy lub producenta w zakresie ich zgodności z wymaganiami określonymi w dokumentach standaryzacyjnych zapewnienia jakości Organizacji Traktatu Północnoatlantyckiego, we właściwej normie międzynarodowej lub im równoważnych."
     },
     {
       "provision_ref": "par13u1",
       "section": "13",
       "title": "§ 13 ust. 1",
-      "content": "Sposób i tryb oceny zgodności wyrobów objętych zakresem przedmiotowym ustawy, innych niż określone w załączniku, określają komórki lub jednostki organizacyjne podległe Ministrowi Obrony Narodowej, opracowujące specyfikacje techniczne."
+      "content": "Sposób i tryb oceny zgodności wyrobów objętych zakresem przedmiotowym ustawy, innych niż określone w załączniku, określają komórki lub jednostki organizacyjne resortu obrony narodowej opracowujące specyfikacje techniczne."
     },
     {
       "provision_ref": "par13u2p1",
@@ -325,21 +367,37 @@
       "provision_ref": "par15",
       "section": "15",
       "title": "§ 15",
-      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 6 kwietnia 2007 r. w sprawie szczegółowego sposobu prowadzenia oceny zgodności wyrobów przeznaczonych na potrzeby obronności państwa (Dz. U. Nr 78, poz. 528 i Nr 156, poz. 1099 oraz z 2008 r. Nr 147, poz. 936), które utraciło moc z dniem 6 grudnia 2012 r. na podstawie art. 5 ustawy z dnia 25 lutego 2011 r. o zmianie ustawy o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa (Dz. U. Nr 92, poz. 528)."
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia 8) Rozporządzenie zostało ogłoszone w dniu 29 stycznia 2013 r. . 9) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 6 kwietnia 2007 r. w sprawie szczegółowego sposobu prowadzenia oceny zgodności wyrobów przeznaczonych na potrzeby obronności państwa (Dz. U. poz. 528 i 1099 oraz z 2008 r. poz. 936), które utraciło moc z dniem 6 grudnia 2012 r. na podstawie art. 5 ustawy z dnia 25 lutego 2011 r. o zmianie ustawy o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa (Dz. U. poz. 528)."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2006-1700",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2010-1228",
+      "target_document_id": "pl-du-2018-1385",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2011-528",
+      "target_document_id": "pl-du-2020-1186",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-385",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-114",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1129",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1598",
       "ref_type": "references"
     }
   ]

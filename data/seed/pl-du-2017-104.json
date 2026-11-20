@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2017/104",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -49,13 +55,25 @@
       "provision_ref": "par3",
       "section": "3",
       "title": "§ 3",
-      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 stycznia 2017 r."
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia 1) Rozporządzenie zostało ogłoszone w dniu 16 stycznia 2017 r. , z mocą od dnia 1 stycznia 2017 r."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2016-2261",
+      "target_document_id": "pl-du-2019-1461",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-387",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-762",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-2320",
       "ref_type": "references"
     }
   ]

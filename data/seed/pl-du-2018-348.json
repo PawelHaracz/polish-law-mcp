@@ -10,6 +10,24 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2018/348",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Przepisy § 10 ust. 4 pkt 2 i 3 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się do określenia wysokości równoważnika pieniężnego w zamian za wyżywienie przysługującego za okres przypadający od dnia 1 marca 2023 r."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Równoważnik pieniężny w zamian za wyżywienie przysługujący za okres przypadający przed dniem 1 marca 2023 r. i niewypłacony do dnia wejścia w życie niniejszego rozporządzenia jest wypłacany w wysokości określonej zgodnie z przepisami dotychczasowymi."
+    },
+    {
+      "provision_ref": "par4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -97,55 +115,61 @@
       "provision_ref": "par3",
       "section": "3",
       "title": "§ 3",
-      "content": "Wyżywienie według normy Z otrzymuje funkcjonariusz: będący uczestnikiem narad, kursów, warsztatów lub innych form szkolenia organizowanych przez jednostki organizacyjne Krajowej Administracji Skarbowej; w dniach składania egzaminów przeprowadzanych w jednostkach organizacyjnych Krajowej Administracji Skarbowej; skierowany do pełnienia służby w systemie nadzwyczajnym; skierowany do pełnienia służby na jednostce pływającej Krajowej Administracji Skarbowej na czas powyżej 8 godzin; biorący udział w zawodach sportowych; przebywający na obozie kondycyjnym; skierowany do wykonywania czynności służbowych poza miejscem stałego pełnienia służby, jeżeli czynności te trwają powyżej 12 godzin; w czasie konwoju lub strzeżenia towarów, jeżeli czynności te trwają powyżej 8 godzin."
+      "content": "Wyżywienie według normy Z otrzymuje funkcjonariusz: będący uczestnikiem całodniowych narad, kursów, warsztatów lub innych form szkolenia organizowanych przez jednostki organizacyjne Krajowej Administracji Skarbowej; w dniach składania egzaminów przeprowadzanych całodniowo w jednostkach organizacyjnych Krajowej Administracji Skarbowej; skierowany do pełnienia służby w systemie nadzwyczajnym; skierowany do pełnienia służby na jednostce pływającej Krajowej Administracji Skarbowej na czas powyżej 8 godzin; biorący udział w zawodach sportowych; przebywający na obozie kondycyjnym; skierowany do wykonywania czynności służbowych poza miejscem stałego pełnienia służby, jeżeli czynności te trwają powyżej 12 godzin; w czasie konwoju lub strzeżenia towarów, jeżeli czynności te trwają powyżej 8 godzin. Całodniowe narady, kursy, warsztaty lub inne formy szkolenia albo egzaminy przeprowadzane całodniowo, o których mowa w ust. 1, oznaczają narady, kursy, warsztaty lub inne formy szkolenia albo egzaminy trwające w ustalonym dla funkcjonariusza w tym dniu pełnym czasie pełnienia służby."
     },
     {
-      "provision_ref": "par3p1",
+      "provision_ref": "par3u1p1",
       "section": "3",
-      "title": "§ 3 pkt 1",
-      "content": "Wyżywienie według normy Z otrzymuje funkcjonariusz: będący uczestnikiem narad, kursów, warsztatów lub innych form szkolenia organizowanych przez jednostki organizacyjne Krajowej Administracji Skarbowej;"
+      "title": "§ 3 ust. 1 pkt 1",
+      "content": "Wyżywienie według normy Z otrzymuje funkcjonariusz: będący uczestnikiem całodniowych narad, kursów, warsztatów lub innych form szkolenia organizowanych przez jednostki organizacyjne Krajowej Administracji Skarbowej;"
     },
     {
-      "provision_ref": "par3p2",
+      "provision_ref": "par3u1p2",
       "section": "3",
-      "title": "§ 3 pkt 2",
-      "content": "Wyżywienie według normy Z otrzymuje funkcjonariusz: w dniach składania egzaminów przeprowadzanych w jednostkach organizacyjnych Krajowej Administracji Skarbowej;"
+      "title": "§ 3 ust. 1 pkt 2",
+      "content": "Wyżywienie według normy Z otrzymuje funkcjonariusz: w dniach składania egzaminów przeprowadzanych całodniowo w jednostkach organizacyjnych Krajowej Administracji Skarbowej;"
     },
     {
-      "provision_ref": "par3p3",
+      "provision_ref": "par3u1p3",
       "section": "3",
-      "title": "§ 3 pkt 3",
+      "title": "§ 3 ust. 1 pkt 3",
       "content": "Wyżywienie według normy Z otrzymuje funkcjonariusz: skierowany do pełnienia służby w systemie nadzwyczajnym;"
     },
     {
-      "provision_ref": "par3p4",
+      "provision_ref": "par3u1p4",
       "section": "3",
-      "title": "§ 3 pkt 4",
+      "title": "§ 3 ust. 1 pkt 4",
       "content": "Wyżywienie według normy Z otrzymuje funkcjonariusz: skierowany do pełnienia służby na jednostce pływającej Krajowej Administracji Skarbowej na czas powyżej 8 godzin;"
     },
     {
-      "provision_ref": "par3p5",
+      "provision_ref": "par3u1p5",
       "section": "3",
-      "title": "§ 3 pkt 5",
+      "title": "§ 3 ust. 1 pkt 5",
       "content": "Wyżywienie według normy Z otrzymuje funkcjonariusz: biorący udział w zawodach sportowych;"
     },
     {
-      "provision_ref": "par3p6",
+      "provision_ref": "par3u1p6",
       "section": "3",
-      "title": "§ 3 pkt 6",
+      "title": "§ 3 ust. 1 pkt 6",
       "content": "Wyżywienie według normy Z otrzymuje funkcjonariusz: przebywający na obozie kondycyjnym;"
     },
     {
-      "provision_ref": "par3p7",
+      "provision_ref": "par3u1p7",
       "section": "3",
-      "title": "§ 3 pkt 7",
+      "title": "§ 3 ust. 1 pkt 7",
       "content": "Wyżywienie według normy Z otrzymuje funkcjonariusz: skierowany do wykonywania czynności służbowych poza miejscem stałego pełnienia służby, jeżeli czynności te trwają powyżej 12 godzin;"
     },
     {
-      "provision_ref": "par3p8",
+      "provision_ref": "par3u1p8",
       "section": "3",
-      "title": "§ 3 pkt 8",
+      "title": "§ 3 ust. 1 pkt 8",
       "content": "Wyżywienie według normy Z otrzymuje funkcjonariusz: w czasie konwoju lub strzeżenia towarów, jeżeli czynności te trwają powyżej 8 godzin."
+    },
+    {
+      "provision_ref": "par3u2",
+      "section": "3",
+      "title": "§ 3 ust. 2",
+      "content": "Całodniowe narady, kursy, warsztaty lub inne formy szkolenia albo egzaminy przeprowadzane całodniowo, o których mowa w ust. 1, oznaczają narady, kursy, warsztaty lub inne formy szkolenia albo egzaminy trwające w ustalonym dla funkcjonariusza w tym dniu pełnym czasie pełnienia służby."
     },
     {
       "provision_ref": "par4",
@@ -265,13 +289,13 @@
       "provision_ref": "par9",
       "section": "9",
       "title": "§ 9",
-      "content": "Wprzypadku gdy różnym grupom funkcjonariuszy przysługują odmienne normy wyżywienia, a warunki techniczno-organizacyjne nie pozwalają na przyrządzanie posiłków według kilku norm oddzielnie, funkcjonariusze otrzymują wyżywienie według jednej normy wyżywienia, która przysługuje największej grupie funkcjonariuszy uprawnionych do otrzymania wyżywienia w danej jednostce organizacyjnej Krajowej Administracji Skarbowej."
+      "content": "W przypadku gdy różnym grupom funkcjonariuszy przysługują odmienne normy wyżywienia, a warunki techniczno-organizacyjne nie pozwalają na przyrządzanie posiłków według kilku norm oddzielnie, funkcjonariusze otrzymują wyżywienie według jednej normy wyżywienia, która przysługuje największej grupie funkcjonariuszy uprawnionych do otrzymania wyżywienia w danej jednostce organizacyjnej Krajowej Administracji Skarbowej."
     },
     {
       "provision_ref": "par10",
       "section": "10",
       "title": "§ 10",
-      "content": "Funkcjonariusz, któremu rodzaj i warunki pełnienia służby lub względy techniczno-organizacyjne uniemożliwiają korzystanie z przysługującego wyżywienia, otrzymuje równoważnik. Równoważnik jest wypłacany za okres, za który przysługuje wyżywienie. Równoważnik wypłaca kierownik jednostki organizacyjnej, w której funkcjonariusz pełni służbę. Podstawę obliczania równoważnika stanowi wartość pieniężna normy wyżywienia przysługującej funkcjonariuszowi. Wysokość równoważnika wynosi: za normę Z - 13,00 zł; za normę U - 6,00 zł; za normę U w wymiarze 50% - 3,00 zł. Funkcjonariusz nie otrzymuje równoważnika w zamian za napoje."
+      "content": "Funkcjonariusz, któremu rodzaj i warunki pełnienia służby lub względy techniczno-organizacyjne uniemożliwiają korzystanie z przysługującego wyżywienia, otrzymuje równoważnik. Równoważnik jest wypłacany za okres, za który przysługuje wyżywienie. Wypłata równoważnika następuje raz w miesiącu z dołu, nie później jednak niż w ciągu pierwszych 28 dni następnego miesiąca kalendarzowego. Równoważnik wypłaca kierownik jednostki organizacyjnej, w której funkcjonariusz pełni służbę. Podstawę obliczania równoważnika stanowi wartość pieniężna normy wyżywienia przysługującej funkcjonariuszowi. Wysokość równoważnika wynosi: za normę Z - 18,00 zł; za normę U - 10,00 zł; za normę U w wymiarze 50% - 8,00 zł. Funkcjonariusz nie otrzymuje równoważnika w zamian za napoje."
     },
     {
       "provision_ref": "par10u1",
@@ -283,7 +307,7 @@
       "provision_ref": "par10u2",
       "section": "10",
       "title": "§ 10 ust. 2",
-      "content": "Równoważnik jest wypłacany za okres, za który przysługuje wyżywienie. Równoważnik wypłaca kierownik jednostki organizacyjnej, w której funkcjonariusz pełni służbę."
+      "content": "Równoważnik jest wypłacany za okres, za który przysługuje wyżywienie. Wypłata równoważnika następuje raz w miesiącu z dołu, nie później jednak niż w ciągu pierwszych 28 dni następnego miesiąca kalendarzowego. Równoważnik wypłaca kierownik jednostki organizacyjnej, w której funkcjonariusz pełni służbę."
     },
     {
       "provision_ref": "par10u3",
@@ -295,19 +319,19 @@
       "provision_ref": "par10u4p1",
       "section": "10",
       "title": "§ 10 ust. 4 pkt 1",
-      "content": "Wysokość równoważnika wynosi: za normę Z - 13,00 zł;"
-    },
-    {
-      "provision_ref": "par10u4p2",
-      "section": "10",
-      "title": "§ 10 ust. 4 pkt 2",
-      "content": "Wysokość równoważnika wynosi: za normę U - 6,00 zł;"
+      "content": "Wysokość równoważnika wynosi: za normę Z - 18,00 zł;"
     },
     {
       "provision_ref": "par10u4p3",
       "section": "10",
       "title": "§ 10 ust. 4 pkt 3",
-      "content": "Wysokość równoważnika wynosi: za normę U w wymiarze 50% - 3,00 zł."
+      "content": "Wysokość równoważnika wynosi: za normę U - 10,00 zł;"
+    },
+    {
+      "provision_ref": "par10u4p3",
+      "section": "10",
+      "title": "§ 10 ust. 4 pkt 3",
+      "content": "Wysokość równoważnika wynosi: za normę U w wymiarze 50% - 8,00 zł."
     },
     {
       "provision_ref": "par10u5",
@@ -319,19 +343,31 @@
       "provision_ref": "par11",
       "section": "11",
       "title": "§ 11",
-      "content": "Wprzypadku, o którym mowa w § 3 pkt 1, funkcjonariusz otrzymuje równoważnik w wysokości określonej w § 10 ust. 4 pkt 1 powiększony o kwotę do 100% wysokości tego równoważnika, jeżeli nie można zapewnić wyżywienia w naturze albo zlecić wyżywienia w placówkach gastronomicznych. Decyzję w sprawie wysokości powiększonego równoważnika podejmuje kierownik jednostki organizacyjnej, o którym mowa w § 10 ust. 2, na wniosek kierownika jednostki organizacyjnej Krajowej Administracji Skarbowej organizującej kurs lub szkolenie."
+      "content": "W przypadku, o którym mowa w § 3 ust. 1 pkt 1, funkcjonariusz otrzymuje równoważnik w wysokości określonej w § 10 ust. 4 pkt 1 powiększony o kwotę do 100% wysokości tego równoważnika, jeżeli nie można zapewnić wyżywienia w naturze albo zlecić wyżywienia w placówkach gastronomicznych. Decyzję w sprawie wysokości powiększonego równoważnika podejmuje kierownik jednostki organizacyjnej, o którym mowa w § 10 ust. 2, na wniosek kierownika jednostki organizacyjnej Krajowej Administracji Skarbowej organizującej kurs lub szkolenie."
     },
     {
       "provision_ref": "par12",
       "section": "12",
       "title": "§ 12",
-      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 23 października 2009 r. w sprawie otrzymywania przez funkcjonariuszy Służby Celno-Skarbowej wyżywienia lub równoważnika pieniężnego w zamian za wyżywienie (Dz. U. poz. 1406 oraz z 2017 r. poz. 612), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 3 ustawy z dnia 16 listopada 2016 r. - Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379, 1537, 1926 i 2409)."
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia 4) Rozporządzenie zostało ogłoszone w dniu 12 lutego 2018 r. . 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 23 października 2009 r. w sprawie otrzymywania przez funkcjonariuszy Służby Celno-Skarbowej wyżywienia lub równoważnika pieniężnego w zamian za wyżywienie (Dz. U. poz. 1406 oraz z 2017 r. poz. 612), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 3 ustawy z dnia 16 listopada 2016 r. - Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379, 1537, 1926 i 2409)."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2016-1947",
+      "target_document_id": "pl-du-2019-1461",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-410",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-492",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-615",
       "ref_type": "references"
     }
   ]

@@ -10,52 +10,46 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2014/281",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Do prawnej kontroli metrologicznej przyrządów do pomiaru prędkości pojazdów w kontroli ruchu drogowego w sprawach wszczętych i niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
-      "content": "Rozporządzenie określa: wymagania w zakresie konstrukcji, wykonania, materiałów oraz charakterystyk metrologicznych, którym powinny odpowiadać następujące przyrządy do pomiaru prędkości pojazdów w ruchu drogowym: radarowe, laserowe, prędkościomierze kontrolne; wymagania w zakresie warunków właściwego stosowania przyrządów, o których mowa w pkt 1; szczegółowy zakres badań i sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej przyrządów, o których mowa w pkt 1; zakres informacji, jakie powinna zawierać instrukcja obsługi przyrządów, o których mowa w pkt 1. Ilekroć w rozporządzeniu jest mowa o przyrządzie bez bliższego określenia, należy przez to rozumieć każdy z przyrządów, o których mowa w ust. 1 pkt 1."
+      "content": "Rozporządzenie określa: wymagania w zakresie konstrukcji, wykonania, materiałów oraz charakterystyk metrologicznych, którym powinny odpowiadać przyrządy do pomiaru prędkości pojazdów w kontroli ruchu drogowego, zwane dalej „przyrządami”; wymagania w zakresie warunków właściwego stosowania przyrządów; szczegółowy zakres badań i sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej przyrządów; zakres informacji, jakie powinna zawierać instrukcja obsługi przyrządów."
     },
     {
-      "provision_ref": "par1u1p1la",
+      "provision_ref": "par1p1",
       "section": "1",
-      "title": "§ 1 ust. 1 pkt 1 lit. a",
-      "content": "Rozporządzenie określa: wymagania w zakresie konstrukcji, wykonania, materiałów oraz charakterystyk metrologicznych, którym powinny odpowiadać następujące przyrządy do pomiaru prędkości pojazdów w ruchu drogowym: radarowe,"
+      "title": "§ 1 pkt 1",
+      "content": "Rozporządzenie określa: wymagania w zakresie konstrukcji, wykonania, materiałów oraz charakterystyk metrologicznych, którym powinny odpowiadać przyrządy do pomiaru prędkości pojazdów w kontroli ruchu drogowego, zwane dalej „przyrządami”;"
     },
     {
-      "provision_ref": "par1u1p1lb",
+      "provision_ref": "par1p2",
       "section": "1",
-      "title": "§ 1 ust. 1 pkt 1 lit. b",
-      "content": "Rozporządzenie określa: wymagania w zakresie konstrukcji, wykonania, materiałów oraz charakterystyk metrologicznych, którym powinny odpowiadać następujące przyrządy do pomiaru prędkości pojazdów w ruchu drogowym: laserowe,"
+      "title": "§ 1 pkt 2",
+      "content": "Rozporządzenie określa: wymagania w zakresie warunków właściwego stosowania przyrządów;"
     },
     {
-      "provision_ref": "par1u1p1lc",
+      "provision_ref": "par1p3",
       "section": "1",
-      "title": "§ 1 ust. 1 pkt 1 lit. c",
-      "content": "Rozporządzenie określa: wymagania w zakresie konstrukcji, wykonania, materiałów oraz charakterystyk metrologicznych, którym powinny odpowiadać następujące przyrządy do pomiaru prędkości pojazdów w ruchu drogowym: prędkościomierze kontrolne;"
+      "title": "§ 1 pkt 3",
+      "content": "Rozporządzenie określa: szczegółowy zakres badań i sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej przyrządów;"
     },
     {
-      "provision_ref": "par1u1p2",
+      "provision_ref": "par1p4",
       "section": "1",
-      "title": "§ 1 ust. 1 pkt 2",
-      "content": "Rozporządzenie określa: wymagania w zakresie warunków właściwego stosowania przyrządów, o których mowa w pkt 1;"
-    },
-    {
-      "provision_ref": "par1u1p3",
-      "section": "1",
-      "title": "§ 1 ust. 1 pkt 3",
-      "content": "Rozporządzenie określa: szczegółowy zakres badań i sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej przyrządów, o których mowa w pkt 1;"
-    },
-    {
-      "provision_ref": "par1u1p4",
-      "section": "1",
-      "title": "§ 1 ust. 1 pkt 4",
-      "content": "Rozporządzenie określa: zakres informacji, jakie powinna zawierać instrukcja obsługi przyrządów, o których mowa w pkt 1."
-    },
-    {
-      "provision_ref": "par1u2",
-      "section": "1",
-      "title": "§ 1 ust. 2",
-      "content": "Ilekroć w rozporządzeniu jest mowa o przyrządzie bez bliższego określenia, należy przez to rozumieć każdy z przyrządów, o których mowa w ust. 1 pkt 1."
+      "title": "§ 1 pkt 4",
+      "content": "Rozporządzenie określa: zakres informacji, jakie powinna zawierać instrukcja obsługi przyrządów."
     },
     {
       "provision_ref": "par2",
@@ -79,7 +73,7 @@
       "provision_ref": "par3",
       "section": "3",
       "title": "§ 3",
-      "content": "Użyte w rozporządzeniu określenia oznaczają: interfejs - układ elektryczny, elektroniczny lub optyczny umożliwiający łączenie, współpracę i wymianę sygnałów o określonej postaci pomiędzy urządzeniami połączonymi za jego pośrednictwem zgodnie ze specyfikacją techniczną; nominalna suma kontrolna - ciąg liter lub cyfr charakterystyczny dla określonej wersji oprogramowania przyrządu, uzyskany w wyniku przeprowadzenia określonych operacji matematycznych na danych oprogramowania w celu sprawdzenia poprawności tych danych; pojazd kontrolowany - pojazd, którego prędkość jest mierzona; prędkościomierz kontrolny - przyrząd do pomiaru prędkości pojazdów w ruchu drogowym, który wykonuje pomiar prędkości pojazdu kontrolowanego na podstawie: pomiaru prędkości pojazdu, w którym przyrząd ten jest zainstalowany, albo pomiaru czasu przebycia przez pojazd kontrolowany odcinka drogi o określonej długości; przyrząd bezobsługowy - przyrząd, który może wykonywać pomiar prędkości pojazdów w ruchu drogowym bez udziału użytkownika przyrządu; przyrząd laserowy - przyrząd do pomiaru prędkości pojazdów w ruchu drogowym emitujący promieniowanie laserowe, który: na podstawie pomiaru czasu powrotu impulsów odbitych od pojazdu kontrolowanego mierzy odległość do tego pojazdu, a następnie na podstawie serii dokonanych pomiarów odległości i czasu wyznacza prędkość pojazdu kontrolowanego albo wykonuje pomiar prędkości pojazdu kontrolowanego na podstawie zmian częstotliwości fali modulującej promieniowanie laserowe, powstałych wskutek odbicia od ruchomych obiektów (efekt Dopplera); przyrząd radarowy - przyrząd do pomiaru prędkości pojazdów w ruchu drogowym emitujący wiązkę fal elektromagnetycznych o kierunku zbliżonym do równoległego lub o kierunku skośnym do kierunku ruchu pojazdu kontrolowanego, wykonujący pomiar prędkości pojazdu kontrolowanego na podstawie zmian częstotliwości fal elektromagnetycznych powstałych wskutek odbicia od ruchomych obiektów (efekt Dopplera); urządzenie dodatkowe rejestrujące - urządzenie dodatkowe rejestrujące zmierzoną prędkość, datę i czas dokonania pomiaru prędkości oraz inne dane o kontrolowanym pojeździe; warunki znamionowe użytkowania - warunki użytkowania przyrządu, w których charakterystyki metrologiczne przyrządu są zawarte w określonych granicach."
+      "content": "Użyte w rozporządzeniu określenia oznaczają: interfejs - układ elektryczny, elektroniczny lub optyczny umożliwiający łączenie, współpracę i wymianę sygnałów o określonej postaci pomiędzy urządzeniami połączonymi za jego pośrednictwem zgodnie ze specyfikacją techniczną; suma kontrolna - unikalny dla danego pliku danych lub programu ciąg znaków wyznaczony z zawartości pliku lub programu za pomocą algorytmu zgodnego z najnowszym wydaniem normy ISO/IEC 10118-3; pojazd kontrolowany - pojazd, którego prędkość jest mierzona; prędkościomierz kontrolny - przyrząd, który wykonuje pomiar prędkości pojazdu kontrolowanego na podstawie: pomiaru prędkości pojazdu, w którym przyrząd ten jest zainstalowany, albo pomiaru czasu przebycia przez pojazd kontrolowany odcinka drogi o określonej długości; przyrząd bezobsługowy - przyrząd, który może wykonywać pomiar prędkości pojazdu kontrolowanego bez udziału użytkownika przyrządu; przyrząd laserowy - przyrząd emitujący promieniowanie laserowe, który: na podstawie pomiaru czasu powrotu impulsów odbitych od pojazdu kontrolowanego mierzy odległość do tego pojazdu, a następnie na podstawie serii dokonanych pomiarów odległości i czasu wyznacza prędkość pojazdu kontrolowanego albo wykonuje pomiar prędkości pojazdu kontrolowanego na podstawie zmian częstotliwości fali modulującej promieniowanie laserowe, powstałych wskutek odbicia od ruchomych obiektów (efekt Dopplera); przyrząd radarowy - przyrząd emitujący wiązkę fal elektromagnetycznych o kierunku zbliżonym do równoległego lub o kierunku skośnym do kierunku ruchu pojazdu kontrolowanego, wykonujący pomiar prędkości pojazdu kontrolowanego na podstawie zmian częstotliwości fal elektromagnetycznych powstałych wskutek odbicia od ruchomych obiektów (efekt Dopplera); (uchylony); 7) Przez § 1 pkt 3 lit. c rozporządzenia, o którym mowa w odnośniku 2. stała prędkościomierza - wielkość liczbową określającą dopasowanie prędkościomierza do nadajnika sygnału długości drogi; warunki znamionowe użytkowania - warunki użytkowania przyrządu, w których charakterystyki metrologiczne przyrządu są zawarte w określonych granicach."
     },
     {
       "provision_ref": "par3p1",
@@ -88,10 +82,10 @@
       "content": "Użyte w rozporządzeniu określenia oznaczają: interfejs - układ elektryczny, elektroniczny lub optyczny umożliwiający łączenie, współpracę i wymianę sygnałów o określonej postaci pomiędzy urządzeniami połączonymi za jego pośrednictwem zgodnie ze specyfikacją techniczną;"
     },
     {
-      "provision_ref": "par3p2",
+      "provision_ref": "par3p5",
       "section": "3",
-      "title": "§ 3 pkt 2",
-      "content": "Użyte w rozporządzeniu określenia oznaczają: nominalna suma kontrolna - ciąg liter lub cyfr charakterystyczny dla określonej wersji oprogramowania przyrządu, uzyskany w wyniku przeprowadzenia określonych operacji matematycznych na danych oprogramowania w celu sprawdzenia poprawności tych danych;"
+      "title": "§ 3 pkt 5",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: suma kontrolna - unikalny dla danego pliku danych lub programu ciąg znaków wyznaczony z zawartości pliku lub programu za pomocą algorytmu zgodnego z najnowszym wydaniem normy ISO/IEC 10118-3;"
     },
     {
       "provision_ref": "par3p3",
@@ -100,46 +94,52 @@
       "content": "Użyte w rozporządzeniu określenia oznaczają: pojazd kontrolowany - pojazd, którego prędkość jest mierzona;"
     },
     {
-      "provision_ref": "par3p4la",
-      "section": "3",
-      "title": "§ 3 pkt 4 lit. a",
-      "content": "Użyte w rozporządzeniu określenia oznaczają: prędkościomierz kontrolny - przyrząd do pomiaru prędkości pojazdów w ruchu drogowym, który wykonuje pomiar prędkości pojazdu kontrolowanego na podstawie: pomiaru prędkości pojazdu, w którym przyrząd ten jest zainstalowany, albo"
-    },
-    {
-      "provision_ref": "par3p4lb",
-      "section": "3",
-      "title": "§ 3 pkt 4 lit. b",
-      "content": "Użyte w rozporządzeniu określenia oznaczają: prędkościomierz kontrolny - przyrząd do pomiaru prędkości pojazdów w ruchu drogowym, który wykonuje pomiar prędkości pojazdu kontrolowanego na podstawie: pomiaru czasu przebycia przez pojazd kontrolowany odcinka drogi o określonej długości;"
-    },
-    {
-      "provision_ref": "par3p5",
-      "section": "3",
-      "title": "§ 3 pkt 5",
-      "content": "Użyte w rozporządzeniu określenia oznaczają: przyrząd bezobsługowy - przyrząd, który może wykonywać pomiar prędkości pojazdów w ruchu drogowym bez udziału użytkownika przyrządu;"
-    },
-    {
       "provision_ref": "par3p6la",
       "section": "3",
       "title": "§ 3 pkt 6 lit. a",
-      "content": "Użyte w rozporządzeniu określenia oznaczają: przyrząd laserowy - przyrząd do pomiaru prędkości pojazdów w ruchu drogowym emitujący promieniowanie laserowe, który: na podstawie pomiaru czasu powrotu impulsów odbitych od pojazdu kontrolowanego mierzy odległość do tego pojazdu, a następnie na podstawie serii dokonanych pomiarów odległości i czasu wyznacza prędkość pojazdu kontrolowanego albo"
+      "content": "Użyte w rozporządzeniu określenia oznaczają: prędkościomierz kontrolny - przyrząd, który wykonuje pomiar prędkości pojazdu kontrolowanego na podstawie: pomiaru prędkości pojazdu, w którym przyrząd ten jest zainstalowany, albo"
     },
     {
       "provision_ref": "par3p6lb",
       "section": "3",
       "title": "§ 3 pkt 6 lit. b",
-      "content": "Użyte w rozporządzeniu określenia oznaczają: przyrząd laserowy - przyrząd do pomiaru prędkości pojazdów w ruchu drogowym emitujący promieniowanie laserowe, który: wykonuje pomiar prędkości pojazdu kontrolowanego na podstawie zmian częstotliwości fali modulującej promieniowanie laserowe, powstałych wskutek odbicia od ruchomych obiektów (efekt Dopplera);"
+      "content": "Użyte w rozporządzeniu określenia oznaczają: prędkościomierz kontrolny - przyrząd, który wykonuje pomiar prędkości pojazdu kontrolowanego na podstawie: pomiaru czasu przebycia przez pojazd kontrolowany odcinka drogi o określonej długości;"
     },
     {
-      "provision_ref": "par3p7",
+      "provision_ref": "par3p6",
       "section": "3",
-      "title": "§ 3 pkt 7",
-      "content": "Użyte w rozporządzeniu określenia oznaczają: przyrząd radarowy - przyrząd do pomiaru prędkości pojazdów w ruchu drogowym emitujący wiązkę fal elektromagnetycznych o kierunku zbliżonym do równoległego lub o kierunku skośnym do kierunku ruchu pojazdu kontrolowanego, wykonujący pomiar prędkości pojazdu kontrolowanego na podstawie zmian częstotliwości fal elektromagnetycznych powstałych wskutek odbicia od ruchomych obiektów (efekt Dopplera);"
+      "title": "§ 3 pkt 6",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: przyrząd bezobsługowy - przyrząd, który może wykonywać pomiar prędkości pojazdu kontrolowanego bez udziału użytkownika przyrządu;"
+    },
+    {
+      "provision_ref": "par3p6la",
+      "section": "3",
+      "title": "§ 3 pkt 6 lit. a",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: przyrząd laserowy - przyrząd emitujący promieniowanie laserowe, który: na podstawie pomiaru czasu powrotu impulsów odbitych od pojazdu kontrolowanego mierzy odległość do tego pojazdu, a następnie na podstawie serii dokonanych pomiarów odległości i czasu wyznacza prędkość pojazdu kontrolowanego albo"
+    },
+    {
+      "provision_ref": "par3p6lb",
+      "section": "3",
+      "title": "§ 3 pkt 6 lit. b",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: przyrząd laserowy - przyrząd emitujący promieniowanie laserowe, który: wykonuje pomiar prędkości pojazdu kontrolowanego na podstawie zmian częstotliwości fali modulującej promieniowanie laserowe, powstałych wskutek odbicia od ruchomych obiektów (efekt Dopplera);"
+    },
+    {
+      "provision_ref": "par3p6",
+      "section": "3",
+      "title": "§ 3 pkt 6",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: przyrząd radarowy - przyrząd emitujący wiązkę fal elektromagnetycznych o kierunku zbliżonym do równoległego lub o kierunku skośnym do kierunku ruchu pojazdu kontrolowanego, wykonujący pomiar prędkości pojazdu kontrolowanego na podstawie zmian częstotliwości fal elektromagnetycznych powstałych wskutek odbicia od ruchomych obiektów (efekt Dopplera);"
     },
     {
       "provision_ref": "par3p8",
       "section": "3",
       "title": "§ 3 pkt 8",
-      "content": "Użyte w rozporządzeniu określenia oznaczają: urządzenie dodatkowe rejestrujące - urządzenie dodatkowe rejestrujące zmierzoną prędkość, datę i czas dokonania pomiaru prędkości oraz inne dane o kontrolowanym pojeździe;"
+      "content": "Użyte w rozporządzeniu określenia oznaczają: (uchylony); 7) Przez § 1 pkt 3 lit. c rozporządzenia, o którym mowa w odnośniku 2."
+    },
+    {
+      "provision_ref": "par3p8",
+      "section": "3",
+      "title": "§ 3 pkt 8",
+      "content": "Użyte w rozporządzeniu określenia oznaczają: stała prędkościomierza - wielkość liczbową określającą dopasowanie prędkościomierza do nadajnika sygnału długości drogi;"
     },
     {
       "provision_ref": "par3p9",
@@ -181,13 +181,13 @@
       "provision_ref": "par5",
       "section": "5",
       "title": "§ 5",
-      "content": "Konstrukcja i wykonanie przyrządu powinny zapewniać wskazanie pojazdu, którego prędkość została zmierzona. Wymaganie, o którym mowa w ust. 1, powinno być spełnione również w przypadku, gdy wykonuje się pomiar prędkości pojazdu jadącego w grupie pojazdów, lub w przypadku, gdy pojazd ten wymija, omija lub wyprzedza inny pojazd. W przypadku niespełnienia wymagania, o którym mowa w ust. 1, przyrząd nie powinien wskazywać i rejestrować wyniku pomiaru prędkości."
+      "content": "Konstrukcja i wykonanie przyrządu powinny umożliwiać ustalenie pojazdu, którego prędkość została zmierzona. Wymaganie, o którym mowa w ust. 1, powinno być spełnione również w przypadku, gdy wykonuje się pomiar prędkości pojazdu jadącego w grupie pojazdów, lub w przypadku, gdy pojazd ten wymija, omija lub wyprzedza inny pojazd. W przypadku niespełnienia wymagania, o którym mowa w ust. 1, przyrząd nie powinien wskazywać i rejestrować wyniku pomiaru prędkości."
     },
     {
       "provision_ref": "par5u1",
       "section": "5",
       "title": "§ 5 ust. 1",
-      "content": "Konstrukcja i wykonanie przyrządu powinny zapewniać wskazanie pojazdu, którego prędkość została zmierzona."
+      "content": "Konstrukcja i wykonanie przyrządu powinny umożliwiać ustalenie pojazdu, którego prędkość została zmierzona."
     },
     {
       "provision_ref": "par5u2",
@@ -205,7 +205,7 @@
       "provision_ref": "par6",
       "section": "6",
       "title": "§ 6",
-      "content": "Konstrukcja i wykonanie przyrządu powinny zapewniać odróżnianie kierunku ruchu pojazdu, którego prędkość została zmierzona. Wymaganie, o którym mowa w ust. 1, nie dotyczy prędkościomierza kontrolnego przeznaczonego do wykonywania pomiarów prędkości pojazdów poruszających się wyłącznie w jednym kierunku ruchu."
+      "content": "Konstrukcja i wykonanie przyrządu powinny zapewniać odróżnianie kierunku ruchu pojazdu, którego prędkość została zmierzona. Wymaganie, o którym mowa w ust. 1, nie dotyczy przyrządu przeznaczonego do wykonywania pomiarów prędkości pojazdów poruszających się wyłącznie w jednym kierunku ruchu."
     },
     {
       "provision_ref": "par6u1",
@@ -217,7 +217,7 @@
       "provision_ref": "par6u2",
       "section": "6",
       "title": "§ 6 ust. 2",
-      "content": "Wymaganie, o którym mowa w ust. 1, nie dotyczy prędkościomierza kontrolnego przeznaczonego do wykonywania pomiarów prędkości pojazdów poruszających się wyłącznie w jednym kierunku ruchu."
+      "content": "Wymaganie, o którym mowa w ust. 1, nie dotyczy przyrządu przeznaczonego do wykonywania pomiarów prędkości pojazdów poruszających się wyłącznie w jednym kierunku ruchu."
     },
     {
       "provision_ref": "par7",
@@ -244,22 +244,46 @@
       "content": "Wartość działki elementarnej wskazań prędkości przyrządu nie powinna być większa niż 1 km/h."
     },
     {
+      "provision_ref": "par7a",
+      "section": "7a",
+      "title": "§ 7a",
+      "content": "Przyrząd powinien być wyposażony w zegar czasu rzeczywistego. Zegar, o którym mowa w ust. 1, powinien spełniać następujące wymagania: różnica wskazania zegara w stosunku do czasu urzędowego nie może przekraczać 2 minut; dopuszczalna jest zmiana ustawień zegara w zakresie nieprzekraczającym 2 minut na tydzień; zmiana czasu na letni lub zimowy i odwrotnie jest automatyczna."
+    },
+    {
+      "provision_ref": "par7au1",
+      "section": "7a",
+      "title": "§ 7a ust. 1",
+      "content": "Przyrząd powinien być wyposażony w zegar czasu rzeczywistego."
+    },
+    {
+      "provision_ref": "par7au2p1",
+      "section": "7a",
+      "title": "§ 7a ust. 2 pkt 1",
+      "content": "Zegar, o którym mowa w ust. 1, powinien spełniać następujące wymagania: różnica wskazania zegara w stosunku do czasu urzędowego nie może przekraczać 2 minut;"
+    },
+    {
+      "provision_ref": "par7au2p2",
+      "section": "7a",
+      "title": "§ 7a ust. 2 pkt 2",
+      "content": "Zegar, o którym mowa w ust. 1, powinien spełniać następujące wymagania: dopuszczalna jest zmiana ustawień zegara w zakresie nieprzekraczającym 2 minut na tydzień;"
+    },
+    {
+      "provision_ref": "par7au2p3",
+      "section": "7a",
+      "title": "§ 7a ust. 2 pkt 3",
+      "content": "Zegar, o którym mowa w ust. 1, powinien spełniać następujące wymagania: zmiana czasu na letni lub zimowy i odwrotnie jest automatyczna."
+    },
+    {
       "provision_ref": "par8",
       "section": "8",
       "title": "§ 8",
-      "content": "W przyrządzie bez urządzeń dodatkowych rejestrujących: powinien być wyświetlany wynik pomiaru prędkości; powinno być zablokowane wykonanie nowego pomiaru do czasu skasowania przez użytkownika przyrządu wyniku wykonanego pomiaru prędkości, przy czym żadne zdarzenia lub działania, które nastąpiły w tym czasie, nie mogą wpływać na zmianę wyniku ostatniego pomiaru. Wynik pomiaru prędkości powinien być możliwy do odczytania równocześnie przez dwie osoby w warunkach oświetlenia odpowiadających warunkom, w których przyrząd jest stosowany zgodnie z instrukcją obsługi. Przyrząd powinien umożliwiać sprawdzenie działania poszczególnych elementów cyfr i znaków wyświetlanego wyniku pomiaru prędkości."
+      "content": "Przyrząd powinien wyświetlać wynik pomiaru prędkości. Wynik pomiaru prędkości powinien być możliwy do odczytania równocześnie przez dwie osoby w warunkach oświetlenia odpowiadających warunkom, w których przyrząd jest stosowany zgodnie z instrukcją obsługi. Przyrząd powinien umożliwiać sprawdzenie działania poszczególnych elementów cyfr i znaków wyświetlanego wyniku pomiaru prędkości. Wymaganie, o którym mowa w ust. 1, nie dotyczy przyrządu bezobsługowego."
     },
     {
-      "provision_ref": "par8u1p1",
+      "provision_ref": "par8u1",
       "section": "8",
-      "title": "§ 8 ust. 1 pkt 1",
-      "content": "W przyrządzie bez urządzeń dodatkowych rejestrujących: powinien być wyświetlany wynik pomiaru prędkości;"
-    },
-    {
-      "provision_ref": "par8u1p2",
-      "section": "8",
-      "title": "§ 8 ust. 1 pkt 2",
-      "content": "W przyrządzie bez urządzeń dodatkowych rejestrujących: powinno być zablokowane wykonanie nowego pomiaru do czasu skasowania przez użytkownika przyrządu wyniku wykonanego pomiaru prędkości, przy czym żadne zdarzenia lub działania, które nastąpiły w tym czasie, nie mogą wpływać na zmianę wyniku ostatniego pomiaru."
+      "title": "§ 8 ust. 1",
+      "content": "Przyrząd powinien wyświetlać wynik pomiaru prędkości."
     },
     {
       "provision_ref": "par8u2",
@@ -274,28 +298,28 @@
       "content": "Przyrząd powinien umożliwiać sprawdzenie działania poszczególnych elementów cyfr i znaków wyświetlanego wyniku pomiaru prędkości."
     },
     {
+      "provision_ref": "par8u4",
+      "section": "8",
+      "title": "§ 8 ust. 4",
+      "content": "Wymaganie, o którym mowa w ust. 1, nie dotyczy przyrządu bezobsługowego."
+    },
+    {
       "provision_ref": "par9",
       "section": "9",
       "title": "§ 9",
-      "content": "Przyrząd z urządzeniami dodatkowymi rejestrującymi powinien: rejestrować wynik pomiaru prędkości oraz datę i co najmniej godzinę i minutę wykonanego pomiaru; umożliwiać identyfikację pojazdu w sposób określony w instrukcji obsługi. Przyrząd z urządzeniami dodatkowymi rejestrującymi i urządzenia dodatkowe rejestrujące powinny zapewniać zgodność zmierzonych i zarejestrowanych danych. Zarejestrowane dane powinny być zabezpieczone przed dostępem osób nieupoważnionych oraz przed ich zmianą i zniszczeniem. Wymaganie, o którym mowa w ust. 3, powinno być spełnione także podczas transmisji zarejestrowanych danych."
+      "content": "Przyrząd powinien rejestrować zmierzoną prędkość, datę i czas dokonania pomiaru oraz obraz lub sekwencję obrazów kontrolowanego pojazdu z jego numerami rejestracyjnymi. Czas dokonania pomiaru prędkości powinien być rejestrowany z rozdzielczością nie mniejszą niż 1 s. (uchylony). 15) Przez § 1 pkt 8 lit. b rozporządzenia, o którym mowa w odnośniku 2. Zarejestrowane dane powinny być zabezpieczone przed dostępem osób nieupoważnionych oraz przed ich zmianą i zniszczeniem. Wymaganie, o którym mowa w ust. 3, powinno być spełnione także podczas transmisji zarejestrowanych danych. Zarejestrowane dane powinny być połączone w sposób uniemożliwiający ich zmianę. Zarejestrowane dane, jeżeli są transmitowane, powinny zawierać dodatkowo sumy kontrolne lub pieczęcie elektroniczne i mogą zawierać dodatkowo podpisy elektroniczne osób dokonujących pomiaru, umożliwiające potwierdzenie przez przyrząd i przez oprogramowanie zewnętrzne współpracujące z przyrządem niezmienności tych danych po ich transmisji do systemów ogólnodostępnych. Przyrząd powinien zapewniać transmisję danych za pośrednictwem interfejsów do powszechnie dostępnych urządzeń informatycznych w postaci zaszyfrowanej w sposób zapewniający potwierdzenie poprawności transmisji. Zarejestrowane dane mogą być usunięte z przyrządu jedynie po uzyskaniu przez przyrząd potwierdzenia poprawnej ich transmisji do systemów ogólnodostępnych, a ich usunięcie powinno być rejestrowane w postaci dziennika zdarzeń zawierającego datę i czas usunięcia danych, zakres tych danych, datę i czas ich utworzenia oraz imię i nazwisko osoby dokonującej transmisji danych."
     },
     {
-      "provision_ref": "par9u1p1",
+      "provision_ref": "par9u1",
       "section": "9",
-      "title": "§ 9 ust. 1 pkt 1",
-      "content": "Przyrząd z urządzeniami dodatkowymi rejestrującymi powinien: rejestrować wynik pomiaru prędkości oraz datę i co najmniej godzinę i minutę wykonanego pomiaru;"
-    },
-    {
-      "provision_ref": "par9u1p2",
-      "section": "9",
-      "title": "§ 9 ust. 1 pkt 2",
-      "content": "Przyrząd z urządzeniami dodatkowymi rejestrującymi powinien: umożliwiać identyfikację pojazdu w sposób określony w instrukcji obsługi."
+      "title": "§ 9 ust. 1",
+      "content": "Przyrząd powinien rejestrować zmierzoną prędkość, datę i czas dokonania pomiaru oraz obraz lub sekwencję obrazów kontrolowanego pojazdu z jego numerami rejestracyjnymi. Czas dokonania pomiaru prędkości powinien być rejestrowany z rozdzielczością nie mniejszą niż 1 s."
     },
     {
       "provision_ref": "par9u2",
       "section": "9",
       "title": "§ 9 ust. 2",
-      "content": "Przyrząd z urządzeniami dodatkowymi rejestrującymi i urządzenia dodatkowe rejestrujące powinny zapewniać zgodność zmierzonych i zarejestrowanych danych."
+      "content": "(uchylony). 15) Przez § 1 pkt 8 lit. b rozporządzenia, o którym mowa w odnośniku 2."
     },
     {
       "provision_ref": "par9u3",
@@ -308,6 +332,30 @@
       "section": "9",
       "title": "§ 9 ust. 4",
       "content": "Wymaganie, o którym mowa w ust. 3, powinno być spełnione także podczas transmisji zarejestrowanych danych."
+    },
+    {
+      "provision_ref": "par9u5",
+      "section": "9",
+      "title": "§ 9 ust. 5",
+      "content": "Zarejestrowane dane powinny być połączone w sposób uniemożliwiający ich zmianę."
+    },
+    {
+      "provision_ref": "par9u6",
+      "section": "9",
+      "title": "§ 9 ust. 6",
+      "content": "Zarejestrowane dane, jeżeli są transmitowane, powinny zawierać dodatkowo sumy kontrolne lub pieczęcie elektroniczne i mogą zawierać dodatkowo podpisy elektroniczne osób dokonujących pomiaru, umożliwiające potwierdzenie przez przyrząd i przez oprogramowanie zewnętrzne współpracujące z przyrządem niezmienności tych danych po ich transmisji do systemów ogólnodostępnych."
+    },
+    {
+      "provision_ref": "par9u7",
+      "section": "9",
+      "title": "§ 9 ust. 7",
+      "content": "Przyrząd powinien zapewniać transmisję danych za pośrednictwem interfejsów do powszechnie dostępnych urządzeń informatycznych w postaci zaszyfrowanej w sposób zapewniający potwierdzenie poprawności transmisji."
+    },
+    {
+      "provision_ref": "par9u8",
+      "section": "9",
+      "title": "§ 9 ust. 8",
+      "content": "Zarejestrowane dane mogą być usunięte z przyrządu jedynie po uzyskaniu przez przyrząd potwierdzenia poprawnej ich transmisji do systemów ogólnodostępnych, a ich usunięcie powinno być rejestrowane w postaci dziennika zdarzeń zawierającego datę i czas usunięcia danych, zakres tych danych, datę i czas ich utworzenia oraz imię i nazwisko osoby dokonującej transmisji danych."
     },
     {
       "provision_ref": "par10",
@@ -331,7 +379,7 @@
       "provision_ref": "par11",
       "section": "11",
       "title": "§ 11",
-      "content": "Przyrząd powinien być odporny na: zaburzenia wywołane przez pole elektromagnetyczne, wyładowania elektrostatyczne i serie szybkich elektrycznych stanów przejściowych; zmiany temperatury i wilgotności względnej otoczenia przyrządu określone dla warunków znamionowych użytkowania; zmiany napięcia zasilania określone dla warunków znamionowych użytkowania; oddziaływanie wody lub pyłu na te części przyrządu, które są na to narażone; udary mechaniczne spowodowane przewróceniem przyrządu, jego zrzuceniem lub upadkiem. Przyrząd wyłączony powinien być odporny na temperaturę otoczenia przyrządu w zakresie od −25°C do +70°C. Przyrząd przeznaczony do pomiaru prędkości pojazdów z poruszającego się pojazdu powinien być odporny na wibracje o częstotliwościach w zakresie od 20 Hz do 150 Hz i o wartości skutecznej przyśpieszenia (RMS) 20 m/s 2 ."
+      "content": "Przyrząd powinien być odporny na: zaburzenia wywołane przez pole elektromagnetyczne, wyładowania elektrostatyczne i serie szybkich elektrycznych stanów przejściowych; zmiany temperatury i wilgotności względnej otoczenia przyrządu określone dla warunków znamionowych użytkowania; zmiany napięcia zasilania określone dla warunków znamionowych użytkowania; oddziaływanie wody lub pyłu na te części przyrządu, które są na to narażone; udary mechaniczne spowodowane przewróceniem przyrządu, jego zrzuceniem lub upadkiem; zaburzenia elektrycznych przebiegów przejściowych pojawiających się na przewodach zasilających instalacji elektrycznej pojazdu, w przypadku przyrządu zasilanego z instalacji elektrycznej pojazdu. Przyrząd wyłączony powinien być odporny na temperaturę otoczenia przyrządu w zakresie od -25°C do +70°C. Przyrząd przeznaczony do pomiaru prędkości pojazdów z poruszającego się pojazdu powinien być odporny na wibracje losowe o częstotliwości od 10 Hz do 150 Hz, przy poziomie wartości skutecznej przyśpieszenia (RMS) 7 m/s 2 oraz przy poziomie widmowej gęstości przyśpieszenia 1 m 2 /s 3 dla częstotliwości od 10 Hz do 20 Hz i -3 dB/oktawę dla częstotliwości od 20 Hz do 150 Hz."
     },
     {
       "provision_ref": "par11u1p1",
@@ -361,19 +409,25 @@
       "provision_ref": "par11u1p5",
       "section": "11",
       "title": "§ 11 ust. 1 pkt 5",
-      "content": "Przyrząd powinien być odporny na: udary mechaniczne spowodowane przewróceniem przyrządu, jego zrzuceniem lub upadkiem."
+      "content": "Przyrząd powinien być odporny na: udary mechaniczne spowodowane przewróceniem przyrządu, jego zrzuceniem lub upadkiem;"
+    },
+    {
+      "provision_ref": "par11u1p17",
+      "section": "11",
+      "title": "§ 11 ust. 1 pkt 17",
+      "content": "Przyrząd powinien być odporny na: zaburzenia elektrycznych przebiegów przejściowych pojawiających się na przewodach zasilających instalacji elektrycznej pojazdu, w przypadku przyrządu zasilanego z instalacji elektrycznej pojazdu."
     },
     {
       "provision_ref": "par11u2",
       "section": "11",
       "title": "§ 11 ust. 2",
-      "content": "Przyrząd wyłączony powinien być odporny na temperaturę otoczenia przyrządu w zakresie od −25°C do +70°C."
+      "content": "Przyrząd wyłączony powinien być odporny na temperaturę otoczenia przyrządu w zakresie od -25°C do +70°C."
     },
     {
       "provision_ref": "par11u3",
       "section": "11",
       "title": "§ 11 ust. 3",
-      "content": "Przyrząd przeznaczony do pomiaru prędkości pojazdów z poruszającego się pojazdu powinien być odporny na wibracje o częstotliwościach w zakresie od 20 Hz do 150 Hz i o wartości skutecznej przyśpieszenia (RMS) 20 m/s 2 ."
+      "content": "Przyrząd przeznaczony do pomiaru prędkości pojazdów z poruszającego się pojazdu powinien być odporny na wibracje losowe o częstotliwości od 10 Hz do 150 Hz, przy poziomie wartości skutecznej przyśpieszenia (RMS) 7 m/s 2 oraz przy poziomie widmowej gęstości przyśpieszenia 1 m 2 /s 3 dla częstotliwości od 10 Hz do 20 Hz i -3 dB/oktawę dla częstotliwości od 20 Hz do 150 Hz."
     },
     {
       "provision_ref": "par12",
@@ -403,13 +457,13 @@
       "provision_ref": "par13",
       "section": "13",
       "title": "§ 13",
-      "content": "Przyrząd powinien umożliwiać identyfikację wersji i nominalnej sumy kontrolnej oprogramowania istotnego dla prawidłowego funkcjonowania przyrządu i jego charakterystyk metrologicznych. Oprogramowanie przyrządu powinno być zabezpieczone przed jego przypadkową i nieupoważnioną zmianą. Przyrząd powinien mieć zabezpieczenie dostępu do interfejsów."
+      "content": "Przyrząd powinien umożliwiać identyfikację wersji i sum kontrolnych oprogramowania istotnego dla prawidłowego funkcjonowania przyrządu i jego charakterystyk metrologicznych. Oprogramowanie przyrządu powinno być zabezpieczone przed jego przypadkową i nieupoważnioną zmianą. Przyrząd powinien mieć zabezpieczenie dostępu do interfejsów."
     },
     {
       "provision_ref": "par13u1",
       "section": "13",
       "title": "§ 13 ust. 1",
-      "content": "Przyrząd powinien umożliwiać identyfikację wersji i nominalnej sumy kontrolnej oprogramowania istotnego dla prawidłowego funkcjonowania przyrządu i jego charakterystyk metrologicznych."
+      "content": "Przyrząd powinien umożliwiać identyfikację wersji i sum kontrolnych oprogramowania istotnego dla prawidłowego funkcjonowania przyrządu i jego charakterystyk metrologicznych."
     },
     {
       "provision_ref": "par13u2",
@@ -451,13 +505,13 @@
       "provision_ref": "par16",
       "section": "16",
       "title": "§ 16",
-      "content": "Konstrukcja i wykonanie przyrządu radarowego powinny: umożliwiać ustawienie kąta osi wiązki promieniowania elektromagnetycznego o wartości z zakresu od 0° do 30° do kierunku ruchu pojazdów za pomocą urządzenia celowniczego w taki sposób, aby niedokładność jego ustawienia nie powodowała zmiany wartości względnej błędu pomiaru o więcej niż ± 0,5%; ograniczać wpływ na błąd wskazań przyrządu listków bocznych charakterystyki anteny oraz kąta ich odchylenia w stosunku do głównego listka promieniowania anteny, przez tłumienie lub stosowanie specjalnego przetwarzania sygnałów; zapewniać stabilność długoterminową częstotliwości urządzenia nadawczego na poziomie nie niższym niż ± 0,2% wartości nominalnej w okresie 2 lat. Jeżeli przyrząd radarowy przewidziany jest do stosowania pod kątem ustawienia osi wiązki promieniowania elektromagnetycznego nie większym niż 10°, urządzenie celownicze nie jest wymagane."
+      "content": "Konstrukcja i wykonanie przyrządu radarowego powinny: umożliwiać ustawienie kąta osi wiązki promieniowania elektromagnetycznego o wartości z zakresu od 0 ○ do 30 ○ do kierunku ruchu pojazdów za pomocą urządzenia celowniczego w taki sposób, aby niedokładność jego ustawienia nie powodowała zmiany wartości względnej błędu wskazania 20) Ze zmianą wprowadzoną przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2. o więcej niż ± 0,5%; ograniczać wpływ na błąd wskazań przyrządu listków bocznych charakterystyki anteny oraz kąta ich odchylenia w stosunku do głównego listka promieniowania anteny, przez tłumienie lub stosowanie specjalnego przetwarzania sygnałów; zapewniać stabilność długoterminową częstotliwości urządzenia nadawczego na poziomie zapewniającym działanie przyrządu w granicach błędów granicznych dopuszczalnych. Jeżeli przyrząd radarowy przewidziany jest do stosowania pod kątem ustawienia osi wiązki promieniowania elektromagnetycznego nie większym niż 10°, urządzenie celownicze nie jest wymagane."
     },
     {
       "provision_ref": "par16u1p1",
       "section": "16",
       "title": "§ 16 ust. 1 pkt 1",
-      "content": "Konstrukcja i wykonanie przyrządu radarowego powinny: umożliwiać ustawienie kąta osi wiązki promieniowania elektromagnetycznego o wartości z zakresu od 0° do 30° do kierunku ruchu pojazdów za pomocą urządzenia celowniczego w taki sposób, aby niedokładność jego ustawienia nie powodowała zmiany wartości względnej błędu pomiaru o więcej niż ± 0,5%;"
+      "content": "Konstrukcja i wykonanie przyrządu radarowego powinny: umożliwiać ustawienie kąta osi wiązki promieniowania elektromagnetycznego o wartości z zakresu od 0 ○ do 30 ○ do kierunku ruchu pojazdów za pomocą urządzenia celowniczego w taki sposób, aby niedokładność jego ustawienia nie powodowała zmiany wartości względnej błędu wskazania 20) Ze zmianą wprowadzoną przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2. o więcej niż ± 0,5%;"
     },
     {
       "provision_ref": "par16u1p2",
@@ -466,10 +520,10 @@
       "content": "Konstrukcja i wykonanie przyrządu radarowego powinny: ograniczać wpływ na błąd wskazań przyrządu listków bocznych charakterystyki anteny oraz kąta ich odchylenia w stosunku do głównego listka promieniowania anteny, przez tłumienie lub stosowanie specjalnego przetwarzania sygnałów;"
     },
     {
-      "provision_ref": "par16u1p3",
+      "provision_ref": "par16u1p21",
       "section": "16",
-      "title": "§ 16 ust. 1 pkt 3",
-      "content": "Konstrukcja i wykonanie przyrządu radarowego powinny: zapewniać stabilność długoterminową częstotliwości urządzenia nadawczego na poziomie nie niższym niż ± 0,2% wartości nominalnej w okresie 2 lat."
+      "title": "§ 16 ust. 1 pkt 21",
+      "content": "Konstrukcja i wykonanie przyrządu radarowego powinny: zapewniać stabilność długoterminową częstotliwości urządzenia nadawczego na poziomie zapewniającym działanie przyrządu w granicach błędów granicznych dopuszczalnych."
     },
     {
       "provision_ref": "par16u2",
@@ -481,7 +535,7 @@
       "provision_ref": "par17",
       "section": "17",
       "title": "§ 17",
-      "content": "Przyrząd laserowy powinien być wyposażony w urządzenie: celownicze z wizjerem, umożliwiające ustawienie osi optycznej tego urządzenia w stosunku do osi wiązki promieniowania laserowego w taki sposób, aby zapewnione było jednoznaczne namierzenie celu w całym określonym zakresie odległości od pojazdu, którego prędkość może być przez przyrząd zmierzona; sygnalizujące lub wskazujące zachowanie zbieżności osi optycznej wizjera z wiązką promieniowania laserowego. Wymagania, o których mowa w ust. 1, nie dotyczą przyrządu laserowego, w którego skład wchodzi urządzenie zapewniające przypisanie wskazywanej prędkości do pojazdu, którego prędkość jest mierzona, w inny sposób niż za pomocą urządzenia celowniczego z wizjerem. Kąt rozwarcia wiązki promieniowania emitowanego przez przyrząd laserowy powinien być nie większy niż 3 mrad. W przyrządzie z urządzeniem dodatkowym rejestrującym dopuszcza się większy kąt rozwarcia wiązki promieniowania, pod warunkiem że przyrząd w zasięgu działania określonym przez producenta umożliwia identyfikację pojazdu, którego prędkość została zmierzona."
+      "content": "Przyrząd laserowy powinien być wyposażony w urządzenie: celownicze z wizjerem, umożliwiające ustawienie osi optycznej tego urządzenia w stosunku do osi wiązki promieniowania laserowego w taki sposób, aby zapewnione było jednoznaczne namierzenie celu w całym określonym zakresie odległości od pojazdu, którego prędkość może być przez przyrząd zmierzona; sygnalizujące lub wskazujące zachowanie zbieżności osi optycznej wizjera z wiązką promieniowania laserowego. Wymagania, o których mowa w ust. 1, nie dotyczą przyrządu laserowego, w którego skład wchodzi urządzenie zapewniające przypisanie wskazywanej prędkości do pojazdu, którego prędkość jest mierzona, w inny sposób niż za pomocą urządzenia celowniczego z wizjerem. Rozbieżność wiązki promieniowania emitowanego przez przyrząd laserowy nie powinna być większa niż 3 mrad. Dopuszcza się większą rozbieżność wiązki promieniowania, pod warunkiem że przyrząd laserowy w zasięgu działania określonym przez producenta spełnia wymaganie określone w § 5 ust. 1."
     },
     {
       "provision_ref": "par17u1p1",
@@ -505,13 +559,13 @@
       "provision_ref": "par17u3",
       "section": "17",
       "title": "§ 17 ust. 3",
-      "content": "Kąt rozwarcia wiązki promieniowania emitowanego przez przyrząd laserowy powinien być nie większy niż 3 mrad. W przyrządzie z urządzeniem dodatkowym rejestrującym dopuszcza się większy kąt rozwarcia wiązki promieniowania, pod warunkiem że przyrząd w zasięgu działania określonym przez producenta umożliwia identyfikację pojazdu, którego prędkość została zmierzona."
+      "content": "Rozbieżność wiązki promieniowania emitowanego przez przyrząd laserowy nie powinna być większa niż 3 mrad. Dopuszcza się większą rozbieżność wiązki promieniowania, pod warunkiem że przyrząd laserowy w zasięgu działania określonym przez producenta spełnia wymaganie określone w § 5 ust. 1."
     },
     {
       "provision_ref": "par18",
       "section": "18",
       "title": "§ 18",
-      "content": "Na przyrządzie oraz na każdej oddzielnej części przyrządu powinny być zamieszczone w sposób czytelny, trwały i nieusuwalny następujące oznaczenia: nazwa lub znak producenta; numer fabryczny (numer seryjny) i rok produkcji; nadany znak zatwierdzenia typu. Oznaczenia, o których mowa w ust. 1, powinny ulegać zniszczeniu przy próbie ich usunięcia."
+      "content": "Na przyrządzie oraz na każdej oddzielnej części przyrządu powinny być zamieszczone w sposób czytelny, trwały i nieusuwalny następujące oznaczenia: nazwa lub znak producenta; numer fabryczny (numer seryjny) i rok produkcji; nadany znak zatwierdzenia typu. Oznaczenia, o których mowa w ust. 1, powinny ulegać zniszczeniu przy próbie ich usunięcia. Na dodatkowej obudowie przyrządu powinny być zamieszczone: znak fabryczny i numer seryjny dodatkowej obudowy przyrządu oraz dane identyfikujące jej producenta. Na prędkościomierzu kontrolnym, o którym mowa w § 3 pkt 4 lit. a, powinna być zamieszczona wartość stałej prędkościomierza."
     },
     {
       "provision_ref": "par18u1p1",
@@ -538,10 +592,22 @@
       "content": "Oznaczenia, o których mowa w ust. 1, powinny ulegać zniszczeniu przy próbie ich usunięcia."
     },
     {
+      "provision_ref": "par18u3",
+      "section": "18",
+      "title": "§ 18 ust. 3",
+      "content": "Na dodatkowej obudowie przyrządu powinny być zamieszczone: znak fabryczny i numer seryjny dodatkowej obudowy przyrządu oraz dane identyfikujące jej producenta."
+    },
+    {
+      "provision_ref": "par18u4",
+      "section": "18",
+      "title": "§ 18 ust. 4",
+      "content": "Na prędkościomierzu kontrolnym, o którym mowa w § 3 pkt 4 lit. a, powinna być zamieszczona wartość stałej prędkościomierza."
+    },
+    {
       "provision_ref": "par19",
       "section": "19",
       "title": "§ 19",
-      "content": "Błąd pomiaru wykonanego przyrządem w warunkach znamionowych użytkowania nie powinien przekraczać wartości błędów granicznych dopuszczalnych określonych w § 21 pkt 2."
+      "content": "Błąd wskazania przyrządu dla pomiaru wykonanego w warunkach znamionowych użytkowania nie powinien przekraczać wartości błędów granicznych dopuszczalnych określonych w § 21 pkt 2."
     },
     {
       "provision_ref": "par20",
@@ -613,13 +679,13 @@
       "provision_ref": "par22",
       "section": "22",
       "title": "§ 22",
-      "content": "Podczas badania typu przyrządu radarowego poza laboratorium w warunkach znamionowych użytkowania wartość średnia błędów pomiaru prędkości nie powinna przekraczać ± 1 km/h. Wartość średnią, o której mowa w ust. 1, oblicza się na podstawie błędów wszystkich wykonanych i uznanych za prawidłowo wykonane pomiarów prędkości, przy czym żaden pomiar nie może mieć dodatniego błędu większego niż: 3 km/h - dla prędkości do 100 km/h; 3% wartości mierzonej - dla prędkości powyżej 100 km/h. W przypadku przyrządu bezobsługowego wyniki pomiarów prędkości podczas badania w warunkach znamionowych użytkowania powinny potwierdzać odpowiedni poziom ufności."
+      "content": "Podczas badania typu przyrządu poza laboratorium w warunkach znamionowych użytkowania wartość średnia błędów wskazań przyrządu nie powinna przekraczać ± 1 km/h. Wartość średnią, o której mowa w ust. 1, oblicza się na podstawie błędów wszystkich wykonanych i uznanych za prawidłowo wykonane pomiarów prędkości, przy czym żaden pomiar nie może mieć dodatniego błędu większego niż: 3 km/h - dla prędkości do 100 km/h; 3% wartości mierzonej - dla prędkości powyżej 100 km/h. W przypadku przyrządu bezobsługowego wyniki pomiarów prędkości podczas badania w warunkach znamionowych użytkowania powinny potwierdzać odpowiedni poziom ufności."
     },
     {
       "provision_ref": "par22u1",
       "section": "22",
       "title": "§ 22 ust. 1",
-      "content": "Podczas badania typu przyrządu radarowego poza laboratorium w warunkach znamionowych użytkowania wartość średnia błędów pomiaru prędkości nie powinna przekraczać ± 1 km/h."
+      "content": "Podczas badania typu przyrządu poza laboratorium w warunkach znamionowych użytkowania wartość średnia błędów wskazań przyrządu nie powinna przekraczać ± 1 km/h."
     },
     {
       "provision_ref": "par22u2p1",
@@ -667,13 +733,13 @@
       "provision_ref": "par24",
       "section": "24",
       "title": "§ 24",
-      "content": "Do każdego przyrządu powinna być dołączona instrukcja obsługi. Instrukcja obsługi powinna zawierać w szczególności: opis konstrukcji i działania przyrządu; określenie części składowych przyrządu; dane techniczne i charakterystyki metrologiczne, w tym określenie stabilności długoterminowej urządzenia nadawczego dla okresu 2 lat, w przypadku przyrządu radarowego; opis sposobu wykonywania pomiarów przez przyrząd; opis wersji oraz trybów pracy przyrządu; opis sposobu instalacji i ustawienia przyrządu, w szczególności na poboczu drogi, w pojazdach, na masztach lub innych konstrukcjach - w odniesieniu do wszystkich wersji i trybów pracy przyrządu; informacje o możliwych przyczynach wystąpienia błędów w działaniu przyrządu i opis komunikatów o wystąpieniu błędów; opis warunków właściwego stosowania przyrządu; opis sposobu i metody rejestracji zdarzeń w przypadku przyrządu z urządzeniem dodatkowym rejestrującym; opis sposobu identyfikacji pojazdu kontrolowanego; opis urządzeń dodatkowych, które mogą był połączone z przyrządem. W przypadku przyrządu bezobsługowego instrukcja obsługi powinna zawierać dodatkowo: opis warunków, jakie należy brać pod uwagę przy wyznaczaniu miejsca instalacji; opis sposobu zapewnienia odpowiedniego poziomu ufności wskazującego, że błąd każdego wyniku pomiaru zawiera się w granicach błędów granicznych dopuszczalnych."
+      "content": "Do każdego przyrządu wprowadzanego do obrotu lub użytkowania powinna być dołączona instrukcja obsługi w wersji określonej w decyzji zatwierdzenia typu przyrządu. Instrukcja obsługi powinna zawierać w szczególności: opis konstrukcji i działania przyrządu; określenie części składowych przyrządu; dane techniczne i charakterystyki metrologiczne, w tym określenie stabilności długoterminowej urządzenia nadawczego dla okresu 2 lat, w przypadku przyrządu radarowego; opis sposobu wykonywania pomiarów przez przyrząd; opis wersji oraz trybów pracy przyrządu; opis sposobu instalacji i ustawienia przyrządu, w szczególności na poboczu drogi, w pojazdach, na masztach lub innych konstrukcjach - w odniesieniu do wszystkich wersji i trybów pracy przyrządu; informacje o możliwych przyczynach wystąpienia błędów w działaniu przyrządu i opis komunikatów o wystąpieniu błędów; opis warunków właściwego stosowania przyrządu; opis sposobu i metody rejestracji zdarzeń przez przyrząd; opis sposobu identyfikacji pojazdu kontrolowanego; opis urządzeń dodatkowych, które mogą był połączone z przyrządem. W przypadku przyrządu bezobsługowego instrukcja obsługi powinna zawierać dodatkowo: opis warunków, jakie należy brać pod uwagę przy wyznaczaniu miejsca instalacji; opis sposobu zapewnienia odpowiedniego poziomu ufności wskazującego, że błąd każdego wyniku pomiaru zawiera się w granicach błędów granicznych dopuszczalnych."
     },
     {
       "provision_ref": "par24u1",
       "section": "24",
       "title": "§ 24 ust. 1",
-      "content": "Do każdego przyrządu powinna być dołączona instrukcja obsługi."
+      "content": "Do każdego przyrządu wprowadzanego do obrotu lub użytkowania powinna być dołączona instrukcja obsługi w wersji określonej w decyzji zatwierdzenia typu przyrządu."
     },
     {
       "provision_ref": "par24u2p1",
@@ -724,10 +790,10 @@
       "content": "Instrukcja obsługi powinna zawierać w szczególności: opis warunków właściwego stosowania przyrządu;"
     },
     {
-      "provision_ref": "par24u2p9",
+      "provision_ref": "par24u2p27",
       "section": "24",
-      "title": "§ 24 ust. 2 pkt 9",
-      "content": "Instrukcja obsługi powinna zawierać w szczególności: opis sposobu i metody rejestracji zdarzeń w przypadku przyrządu z urządzeniem dodatkowym rejestrującym;"
+      "title": "§ 24 ust. 2 pkt 27",
+      "content": "Instrukcja obsługi powinna zawierać w szczególności: opis sposobu i metody rejestracji zdarzeń przez przyrząd;"
     },
     {
       "provision_ref": "par24u2p10",
@@ -781,7 +847,7 @@
       "provision_ref": "par26",
       "section": "26",
       "title": "§ 26",
-      "content": "Szczegółowy zakres badań wykonywanych podczas zatwierdzenia typu przyrządów obejmuje: analizę złożonych przez wnioskodawcę dokumentów, w tym dokumentacji techniczno-konstrukcyjnej typu przyrządu, w celu sprawdzenia zgodności charakterystyk technicznych i metrologicznych określonych przez producenta z wymaganiami określonymi w § 4-22; analizę instrukcji obsługi w celu sprawdzenia zgodności jej zakresu informacji z zakresem informacji określonym w § 24 ust. 2 i 3; oględziny zewnętrzne przyrządu w celu sprawdzenia jego zgodności z dokumentacją techniczno-konstrukcyjną typu przyrządu; sprawdzenie zgodności wykonania przyrządu z wymaganiami określonymi w § 4, § 7, § 8, § 9 ust. 1 pkt 1 i ust. 2, § 15, § 16 ust. 1 pkt 3, § 17 ust. 3 i § 18; sprawdzenie, czy: przyrząd zapewnia wskazanie pojazdu, którego prędkość została zmierzona, a w przypadku niespełnienia tego wymagania - czy wynik pomiaru prędkości nie jest wskazywany i rejestrowany, przyrząd zapewnia odróżnianie kierunków ruchu pojazdu, którego prędkość została zmierzona, jest wykonywane sprawdzenie prawidłowości działania przyrządu z potwierdzeniem wykonania tego sprawdzenia, przyrząd blokuje wykonywanie pomiarów prędkości w przypadku braku potwierdzenia prawidłowości działania przyrządu, możliwe jest, za pomocą cech zabezpieczających, zabezpieczenie dostępu do części przyrządu istotnych dla charakterystyk metrologicznych lub do części, których naruszenie może spowodować błąd pomiaru prędkości, dane zarejestrowane w przyrządzie są zabezpieczone przed dostępem osób nieupoważnionych oraz przed zmianą i zniszczeniem tych danych, w szczególności podczas ich transmisji, przyrząd umożliwia identyfikację wersji i nominalnej sumy kontrolnej oprogramowania, oprogramowanie przyrządu jest zabezpieczone przed jego przypadkową i nieupoważnioną zmianą, zabezpieczony jest dostęp do interfejsów, przyrząd z urządzeniem dodatkowym rejestrującym umożliwia identyfikację pojazdu, którego prędkość została zmierzona, następuje blokowanie wykonywania pomiaru prędkości albo wyłączenie przyrządu, jeżeli wartość napięcia zasilania przyrządu jest poza zakresem napięcia zasilania określonym dla znamionowych warunków użytkowania, następuje blokowanie wykonywania pomiaru prędkości lub wyłączenie przyrządu bezobsługowego, jeżeli temperatura otoczenia przyrządu jest poza zakresem temperatur określonym dla warunków znamionowych użytkowania; sprawdzenie w laboratorium, czy wartości błędów pomiaru nie przekraczają wartości błędów granicznych dopuszczalnych; sprawdzenie w laboratorium, czy zmiany napięcia zasilania, temperatury otoczenia i wilgotności względnej w zakresach określonych dla warunków znamionowych użytkowania nie powodują, że wartości błędów pomiaru przekraczają wartości błędów granicznych dopuszczalnych; sprawdzenie w laboratorium, czy woda lub pył nie przenikają do wnętrza przyrządu; z badania wyłączone są przyrządy lub części przyrządów, które nie są narażone na działanie wody lub pyłu; sprawdzenie w laboratorium, czy po oddziaływaniu na wyłączony przyrząd temperatury w zakresie od −25°C do +70°C przyrząd nie jest uszkodzony i czy wartości błędów pomiaru nie przekraczają wartości błędów granicznych dopuszczalnych; sprawdzenie w laboratorium, czy po podniesieniu kolejno każdej z krawędzi dolnych przyrządu do wysokości 50 mm od poziomego podłoża, na którym przyrząd się znajduje, i swobodnym upuszczeniu przyrządu na to podłoże przyrząd nie jest uszkodzony i czy wartości błędów pomiaru nie przekraczają wartości błędów granicznych dopuszczalnych; w przypadku braku krawędzi dolnych przyrząd powinien być podnoszony i upuszczany w taki sposób, aby możliwe było sprawdzenie jego wytrzymałości z każdej strony; sprawdzenie w laboratorium, czy podczas poddawania przyrządu przeznaczonego do wykonywania pomiaru prędkości pojazdów z poruszającego się pojazdu wibracjom o częstotliwościach w zakresie od 20 Hz do 150 Hz i o wartości skutecznej przyśpieszenia (RMS) 20 m/s 2 wartości błędów pomiaru nie przekraczają wartości błędów granicznych dopuszczalnych; sprawdzenie w laboratorium, czy podczas oddziaływania na przyrząd pola elektromagnetycznego z falą nośną modulowaną amplitudowo, z głębokością modulacji 80% falą sinusoidalną o częstotliwości 1 kHz i wartościach natężenia: 10 V/m w zakresie częstotliwości od 27 MHz do 1 GHz, 20 V/m w zakresie częstotliwości od 1,4 GHz do 2 GHz - wartości błędów pomiaru nie przekraczają wartości błędów granicznych dopuszczalnych; sprawdzenie w laboratorium, czy podczas oddziaływania na przyrząd wyładowań elektrostatycznych o wartości napięcia probierczego: 6 kV - dla wyładowania bezpośrednio przez kontakt z przyrządem, 8 kV - dla wyładowania przez powietrze, 8 kV - dla wyładowania pośredniego do płyt sprzęgających, poziomej i pionowej - wartości błędów pomiaru nie przekraczają wartości błędów granicznych dopuszczalnych; sprawdzenie w laboratorium, czy podczas oddziaływania na przyrząd serii szybkich elektrycznych stanów przejściowych o polaryzacji dodatniej i ujemnej, czasie trwania impulsu 50 ns i czasie jego narastania 10 ns, o wartości szczytowej napięcia: 1 kV - na przyłączu zasilania i uziemienia lub zerowania ochronnego, 0,5 kV - na przyłączach sygnałowych i sterujących - wartości błędów pomiaru nie przekraczają wartości błędów granicznych dopuszczalnych; sprawdzenie, czy wartości błędów pomiaru wykonywanego przyrządem poza laboratorium w warunkach znamionowych użytkowania nie przekraczają wartości błędów granicznych dopuszczalnych. Badania, o których mowa w ust. 1 pkt 15, wykonuje się po połączeniu z przyrządem wszystkich urządzeń dodatkowych, które zgodnie z instrukcją obsługi mogą być z nim połączone. W przypadku przyrządów zasilanych napięciem stałym wyłącznie z wewnętrznych źródeł zasilania nie wykonuje się sprawdzeń przy parametrach, o których mowa w ust. 1 pkt 13 lit. a i b oraz pkt 14 lit. a. Badanie typu przyrządu radarowego dodatkowo obejmuje: ocenę wpływu parametrów charakterystyk promieniowania anteny przyrządu radarowego na błędy pomiaru, na podstawie analizy tych charakterystyk; sprawdzenie: wartości częstotliwości roboczej urządzenia nadawczego przyrządu radarowego, wpływu niedokładności ustawienia kąta osi wiązki fal promieniowania elektromagnetycznego przyrządu radarowego na wskazania tego przyrządu. Badanie typu przyrządu laserowego dodatkowo obejmuje sprawdzenie: zbieżności osi optycznej wizjera z wiązką promieniowania laserowego, o ile ma to zastosowanie; kąta rozwarcia wiązki promieniowania laserowego."
+      "content": "Szczegółowy zakres badań wykonywanych podczas zatwierdzenia typu przyrządów obejmuje: analizę złożonych przez wnioskodawcę dokumentów, w tym dokumentacji techniczno-konstrukcyjnej typu przyrządu, w celu sprawdzenia zgodności charakterystyk technicznych i metrologicznych określonych przez producenta z wymaganiami określonymi w § 4-22; analizę instrukcji obsługi w celu sprawdzenia zgodności jej zakresu informacji z zakresem informacji określonym w § 24 ust. 2 i 3; oględziny zewnętrzne przyrządu w celu sprawdzenia jego zgodności z dokumentacją techniczno-konstrukcyjną typu przyrządu; sprawdzenie zgodności wykonania przyrządu z wymaganiami określonymi w § 4, § 7-8, § 9 ust. 1 i ust. 5-8, § 15, § 16 ust. 1 pkt 3, § 17 ust. 3 i § 18; sprawdzenie, czy: przyrząd umożliwia ustalenie pojazdu, którego prędkość została zmierzona, przyrząd zapewnia odróżnianie kierunków ruchu pojazdu, którego prędkość została zmierzona, jest wykonywane sprawdzenie prawidłowości działania przyrządu z potwierdzeniem wykonania tego sprawdzenia, przyrząd blokuje wykonywanie pomiarów prędkości w przypadku braku potwierdzenia prawidłowości działania przyrządu, możliwe jest, za pomocą cech zabezpieczających, zabezpieczenie dostępu do części przyrządu istotnych dla charakterystyk metrologicznych lub do części, których naruszenie może spowodować błąd pomiaru prędkości, dane zarejestrowane w przyrządzie są zabezpieczone przed dostępem osób nieupoważnionych oraz przed zmianą i zniszczeniem tych danych, w szczególności podczas ich transmisji, przyrząd umożliwia identyfikację wersji i sum kontrolnych oprogramowania, oprogramowanie przyrządu jest zabezpieczone przed jego przypadkową i nieupoważnioną zmianą, zabezpieczony jest dostęp do interfejsów, (uchylona), 31) Przez § 1 pkt 18 lit. b tiret trzecie rozporządzenia, o którym mowa w odnośniku 2. następuje blokowanie wykonywania pomiaru prędkości albo wyłączenie przyrządu, jeżeli wartość napięcia zasilania przyrządu jest poza zakresem napięcia zasilania określonym dla znamionowych warunków użytkowania, następuje blokowanie wykonywania pomiaru prędkości lub wyłączenie przyrządu bezobsługowego, jeżeli temperatura otoczenia przyrządu jest poza zakresem temperatur określonym dla warunków znamionowych użytkowania; sprawdzenie w laboratorium, czy wartości błędów wskazania 20) Ze zmianą wprowadzoną przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2. nie przekraczają wartości błędów granicznych dopuszczalnych; sprawdzenie w laboratorium, czy zmiany napięcia zasilania, temperatury otoczenia i wilgotności względnej w zakresach określonych dla warunków znamionowych użytkowania nie powodują, że wartości błędów wskazania 20) Ze zmianą wprowadzoną przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2. przekraczają wartości błędów granicznych dopuszczalnych; sprawdzenie w laboratorium, czy woda lub pył nie przenikają do wnętrza przyrządu; z badania wyłączone są przyrządy lub części przyrządów, które nie są narażone na działanie wody lub pyłu; sprawdzenie w laboratorium, czy po oddziaływaniu na wyłączony przyrząd temperatury w zakresie od -25 ○ C do +70 ○ C przyrząd nie jest uszkodzony i czy wartości błędów wskazania 20) Ze zmianą wprowadzoną przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2. nie przekraczają wartości błędów granicznych dopuszczalnych; sprawdzenie w laboratorium, czy po podniesieniu kolejno każdej z krawędzi dolnych przyrządu do wysokości 50 mm od poziomego podłoża, na którym przyrząd się znajduje, i swobodnym upuszczeniu przyrządu na to podłoże przyrząd nie jest uszkodzony i czy wartości błędów wskazania 20) Ze zmianą wprowadzoną przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2. nie przekraczają wartości błędów granicznych dopuszczalnych; w przypadku braku krawędzi dolnych przyrząd powinien być podnoszony i upuszczany w taki sposób, aby możliwe było sprawdzenie jego wytrzymałości z każdej strony; sprawdzenie w laboratorium, czy podczas poddawania przyrządu przeznaczonego do wykonywania pomiaru prędkości pojazdów z poruszającego się pojazdu, wibracjom losowym o częstotliwości od 10 Hz do 150 Hz, przy poziomie wartości skutecznej przyśpieszenia (RMS) 7 m/s 2 oraz przy poziomie widmowej gęstości przyśpieszenia 1 m 2 /s 3 dla częstotliwości od 10 Hz do 20 Hz i -3 dB/oktawę dla częstotliwości od 20 Hz do 150 Hz, wartości błędów wskazania przyrządu nie przekraczają wartości błędów granicznych dopuszczalnych; sprawdzenie w laboratorium: czy podczas oddziaływania na przyrząd promieniowanego pola elektromagnetycznego z falą nośną modulowaną amplitudowo, z głębokością modulacji 80% falą sinusoidalną o częstotliwości 1 kHz dla częstotliwości od 80 MHz do 6 GHz, przy amplitudzie natężenia pola elektrycznego 20 V/m, wartości błędów wskazania przyrządu nie przekraczają wartości błędów granicznych dopuszczalnych, czy podczas oddziaływania na przyrząd zaburzeń przewodzonych, niesymetrycznych, indukowanych przez pole elektromagnetyczne z falą nośną modulowaną amplitudowo, z głębokością modulacji 80% falą sinusoidalną o częstotliwości 1 kHz dla częstotliwości od 150 kHz do 80 MHz, przy amplitudzie napięcia 20 V, na przyłączach: zasilania z sieci 230 V AC i uziemienia lub zerowania ochronnego, sygnałowych i sterujących, wartości błędów wskazania przyrządu nie przekraczają wartości błędów granicznych dopuszczalnych; sprawdzenie w laboratorium, czy podczas oddziaływania na przyrząd wyładowań elektrostatycznych o wartości napięcia probierczego: 6 kV - dla wyładowania kontaktowego, 8 kV - dla wyładowania w powietrzu - wartości błędów wskazania przyrządu nie przekraczają wartości błędów granicznych dopuszczalnych; sprawdzenie w laboratorium, czy podczas oddziaływania na przyrząd serii szybkich elektrycznych stanów przejściowych o polaryzacji dodatniej i ujemnej, czasie trwania impulsu 50 ns i czasie jego narastania 5 ns, o wartości szczytowej napięcia: 1 kV - na przyłączu zasilania z sieci 230 V AC i uziemienia lub zerowania ochronnego, 0,5 kV - na przyłączach sygnałowych i sterujących - wartości błędów wskazania przyrządu nie przekraczają wartości błędów granicznych dopuszczalnych; sprawdzenie w laboratorium, czy podczas oddziaływania na przyłącze zasilania DC przyrządu, zasilanego z instalacji elektrycznej pojazdu, impulsów testowych o wartościach: + 112 V, + 10 V, - 220 V, + 150 V - w przypadku instalacji elektrycznej o napięciu nominalnym 12 V DC, + 112 V, + 20 V, - 300 V, + 300 V - w przypadku instalacji elektrycznej o napięciu nominalnym 24 V DC - wartości błędów wskazania przyrządu nie przekraczają wartości błędów granicznych dopuszczalnych; sprawdzenie, czy wartości błędów wskazania przyrządu dla pomiaru wykonywanego poza laboratorium w warunkach znamionowych użytkowania nie przekraczają wartości błędów granicznych dopuszczalnych. Badania, o których mowa w ust. 1 pkt 15, wykonuje się po połączeniu z przyrządem wszystkich urządzeń dodatkowych, które zgodnie z instrukcją obsługi mogą być z nim połączone. W przypadku przyrządów zasilanych napięciem stałym wyłącznie z wewnętrznych źródeł zasilania nie wykonuje się sprawdzeń przy parametrach, o których mowa w ust. 1 pkt 13 lit. a i b oraz pkt 14 lit. a. Badanie typu przyrządu radarowego dodatkowo obejmuje: ocenę wpływu parametrów charakterystyk promieniowania anteny przyrządu radarowego na błędy pomiaru, na podstawie analizy tych charakterystyk; sprawdzenie: wartości częstotliwości roboczej urządzenia nadawczego przyrządu radarowego, wpływu niedokładności ustawienia kąta osi wiązki fal promieniowania elektromagnetycznego przyrządu radarowego na wskazania tego przyrządu. Badanie typu przyrządu laserowego dodatkowo obejmuje sprawdzenie: zbieżności osi optycznej wizjera z wiązką promieniowania laserowego, o ile ma to zastosowanie; kąta rozwarcia wiązki promieniowania laserowego."
     },
     {
       "provision_ref": "par26u1p1",
@@ -802,16 +868,10 @@
       "content": "Szczegółowy zakres badań wykonywanych podczas zatwierdzenia typu przyrządów obejmuje: oględziny zewnętrzne przyrządu w celu sprawdzenia jego zgodności z dokumentacją techniczno-konstrukcyjną typu przyrządu;"
     },
     {
-      "provision_ref": "par26u1p4",
+      "provision_ref": "par26u1p28",
       "section": "26",
-      "title": "§ 26 ust. 1 pkt 4",
-      "content": "Szczegółowy zakres badań wykonywanych podczas zatwierdzenia typu przyrządów obejmuje: sprawdzenie zgodności wykonania przyrządu z wymaganiami określonymi w § 4, § 7, § 8, § 9 ust. 1 pkt 1 i ust. 2, § 15, § 16 ust. 1 pkt 3, § 17 ust. 3 i § 18;"
-    },
-    {
-      "provision_ref": "par26u1p5la",
-      "section": "26",
-      "title": "§ 26 ust. 1 pkt 5 lit. a",
-      "content": "Szczegółowy zakres badań wykonywanych podczas zatwierdzenia typu przyrządów obejmuje: sprawdzenie, czy: przyrząd zapewnia wskazanie pojazdu, którego prędkość została zmierzona, a w przypadku niespełnienia tego wymagania - czy wynik pomiaru prędkości nie jest wskazywany i rejestrowany,"
+      "title": "§ 26 ust. 1 pkt 28",
+      "content": "Szczegółowy zakres badań wykonywanych podczas zatwierdzenia typu przyrządów obejmuje: sprawdzenie zgodności wykonania przyrządu z wymaganiami określonymi w § 4, § 7-8, § 9 ust. 1 i ust. 5-8, § 15, § 16 ust. 1 pkt 3, § 17 ust. 3 i § 18;"
     },
     {
       "provision_ref": "par26u1p5lb",
@@ -844,12 +904,6 @@
       "content": "Szczegółowy zakres badań wykonywanych podczas zatwierdzenia typu przyrządów obejmuje: sprawdzenie, czy: dane zarejestrowane w przyrządzie są zabezpieczone przed dostępem osób nieupoważnionych oraz przed zmianą i zniszczeniem tych danych, w szczególności podczas ich transmisji,"
     },
     {
-      "provision_ref": "par26u1p5lg",
-      "section": "26",
-      "title": "§ 26 ust. 1 pkt 5 lit. g",
-      "content": "Szczegółowy zakres badań wykonywanych podczas zatwierdzenia typu przyrządów obejmuje: sprawdzenie, czy: przyrząd umożliwia identyfikację wersji i nominalnej sumy kontrolnej oprogramowania,"
-    },
-    {
       "provision_ref": "par26u1p5lh",
       "section": "26",
       "title": "§ 26 ust. 1 pkt 5 lit. h",
@@ -865,7 +919,7 @@
       "provision_ref": "par26u1p5lj",
       "section": "26",
       "title": "§ 26 ust. 1 pkt 5 lit. j",
-      "content": "Szczegółowy zakres badań wykonywanych podczas zatwierdzenia typu przyrządów obejmuje: sprawdzenie, czy: przyrząd z urządzeniem dodatkowym rejestrującym umożliwia identyfikację pojazdu, którego prędkość została zmierzona,"
+      "content": "Szczegółowy zakres badań wykonywanych podczas zatwierdzenia typu przyrządów obejmuje: sprawdzenie, czy: (uchylona), 31) Przez § 1 pkt 18 lit. b tiret trzecie rozporządzenia, o którym mowa w odnośniku 2."
     },
     {
       "provision_ref": "par26u1p5lk",
@@ -883,13 +937,13 @@
       "provision_ref": "par26u1p6",
       "section": "26",
       "title": "§ 26 ust. 1 pkt 6",
-      "content": "Szczegółowy zakres badań wykonywanych podczas zatwierdzenia typu przyrządów obejmuje: sprawdzenie w laboratorium, czy wartości błędów pomiaru nie przekraczają wartości błędów granicznych dopuszczalnych;"
+      "content": "Szczegółowy zakres badań wykonywanych podczas zatwierdzenia typu przyrządów obejmuje: sprawdzenie w laboratorium, czy wartości błędów wskazania 20) Ze zmianą wprowadzoną przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2. nie przekraczają wartości błędów granicznych dopuszczalnych;"
     },
     {
       "provision_ref": "par26u1p7",
       "section": "26",
       "title": "§ 26 ust. 1 pkt 7",
-      "content": "Szczegółowy zakres badań wykonywanych podczas zatwierdzenia typu przyrządów obejmuje: sprawdzenie w laboratorium, czy zmiany napięcia zasilania, temperatury otoczenia i wilgotności względnej w zakresach określonych dla warunków znamionowych użytkowania nie powodują, że wartości błędów pomiaru przekraczają wartości błędów granicznych dopuszczalnych;"
+      "content": "Szczegółowy zakres badań wykonywanych podczas zatwierdzenia typu przyrządów obejmuje: sprawdzenie w laboratorium, czy zmiany napięcia zasilania, temperatury otoczenia i wilgotności względnej w zakresach określonych dla warunków znamionowych użytkowania nie powodują, że wartości błędów wskazania 20) Ze zmianą wprowadzoną przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2. przekraczają wartości błędów granicznych dopuszczalnych;"
     },
     {
       "provision_ref": "par26u1p8",
@@ -901,67 +955,73 @@
       "provision_ref": "par26u1p9",
       "section": "26",
       "title": "§ 26 ust. 1 pkt 9",
-      "content": "Szczegółowy zakres badań wykonywanych podczas zatwierdzenia typu przyrządów obejmuje: sprawdzenie w laboratorium, czy po oddziaływaniu na wyłączony przyrząd temperatury w zakresie od −25°C do +70°C przyrząd nie jest uszkodzony i czy wartości błędów pomiaru nie przekraczają wartości błędów granicznych dopuszczalnych;"
+      "content": "Szczegółowy zakres badań wykonywanych podczas zatwierdzenia typu przyrządów obejmuje: sprawdzenie w laboratorium, czy po oddziaływaniu na wyłączony przyrząd temperatury w zakresie od -25 ○ C do +70 ○ C przyrząd nie jest uszkodzony i czy wartości błędów wskazania 20) Ze zmianą wprowadzoną przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2. nie przekraczają wartości błędów granicznych dopuszczalnych;"
     },
     {
       "provision_ref": "par26u1p10",
       "section": "26",
       "title": "§ 26 ust. 1 pkt 10",
-      "content": "Szczegółowy zakres badań wykonywanych podczas zatwierdzenia typu przyrządów obejmuje: sprawdzenie w laboratorium, czy po podniesieniu kolejno każdej z krawędzi dolnych przyrządu do wysokości 50 mm od poziomego podłoża, na którym przyrząd się znajduje, i swobodnym upuszczeniu przyrządu na to podłoże przyrząd nie jest uszkodzony i czy wartości błędów pomiaru nie przekraczają wartości błędów granicznych dopuszczalnych; w przypadku braku krawędzi dolnych przyrząd powinien być podnoszony i upuszczany w taki sposób, aby możliwe było sprawdzenie jego wytrzymałości z każdej strony;"
+      "content": "Szczegółowy zakres badań wykonywanych podczas zatwierdzenia typu przyrządów obejmuje: sprawdzenie w laboratorium, czy po podniesieniu kolejno każdej z krawędzi dolnych przyrządu do wysokości 50 mm od poziomego podłoża, na którym przyrząd się znajduje, i swobodnym upuszczeniu przyrządu na to podłoże przyrząd nie jest uszkodzony i czy wartości błędów wskazania 20) Ze zmianą wprowadzoną przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2. nie przekraczają wartości błędów granicznych dopuszczalnych; w przypadku braku krawędzi dolnych przyrząd powinien być podnoszony i upuszczany w taki sposób, aby możliwe było sprawdzenie jego wytrzymałości z każdej strony;"
     },
     {
-      "provision_ref": "par26u1p11",
+      "provision_ref": "par26u1p32",
       "section": "26",
-      "title": "§ 26 ust. 1 pkt 11",
-      "content": "Szczegółowy zakres badań wykonywanych podczas zatwierdzenia typu przyrządów obejmuje: sprawdzenie w laboratorium, czy podczas poddawania przyrządu przeznaczonego do wykonywania pomiaru prędkości pojazdów z poruszającego się pojazdu wibracjom o częstotliwościach w zakresie od 20 Hz do 150 Hz i o wartości skutecznej przyśpieszenia (RMS) 20 m/s 2 wartości błędów pomiaru nie przekraczają wartości błędów granicznych dopuszczalnych;"
+      "title": "§ 26 ust. 1 pkt 32",
+      "content": "Szczegółowy zakres badań wykonywanych podczas zatwierdzenia typu przyrządów obejmuje: sprawdzenie w laboratorium, czy podczas poddawania przyrządu przeznaczonego do wykonywania pomiaru prędkości pojazdów z poruszającego się pojazdu, wibracjom losowym o częstotliwości od 10 Hz do 150 Hz, przy poziomie wartości skutecznej przyśpieszenia (RMS) 7 m/s 2 oraz przy poziomie widmowej gęstości przyśpieszenia 1 m 2 /s 3 dla częstotliwości od 10 Hz do 20 Hz i -3 dB/oktawę dla częstotliwości od 20 Hz do 150 Hz, wartości błędów wskazania przyrządu nie przekraczają wartości błędów granicznych dopuszczalnych;"
     },
     {
-      "provision_ref": "par26u1p12la",
+      "provision_ref": "par26u1p32la",
       "section": "26",
-      "title": "§ 26 ust. 1 pkt 12 lit. a",
-      "content": "Szczegółowy zakres badań wykonywanych podczas zatwierdzenia typu przyrządów obejmuje: sprawdzenie w laboratorium, czy podczas oddziaływania na przyrząd pola elektromagnetycznego z falą nośną modulowaną amplitudowo, z głębokością modulacji 80% falą sinusoidalną o częstotliwości 1 kHz i wartościach natężenia: 10 V/m w zakresie częstotliwości od 27 MHz do 1 GHz,"
+      "title": "§ 26 ust. 1 pkt 32 lit. a",
+      "content": "Szczegółowy zakres badań wykonywanych podczas zatwierdzenia typu przyrządów obejmuje: sprawdzenie w laboratorium: czy podczas oddziaływania na przyrząd promieniowanego pola elektromagnetycznego z falą nośną modulowaną amplitudowo, z głębokością modulacji 80% falą sinusoidalną o częstotliwości 1 kHz dla częstotliwości od 80 MHz do 6 GHz, przy amplitudzie natężenia pola elektrycznego 20 V/m, wartości błędów wskazania przyrządu nie przekraczają wartości błędów granicznych dopuszczalnych,"
     },
     {
-      "provision_ref": "par26u1p12lb",
+      "provision_ref": "par26u1p32lb",
       "section": "26",
-      "title": "§ 26 ust. 1 pkt 12 lit. b",
-      "content": "Szczegółowy zakres badań wykonywanych podczas zatwierdzenia typu przyrządów obejmuje: sprawdzenie w laboratorium, czy podczas oddziaływania na przyrząd pola elektromagnetycznego z falą nośną modulowaną amplitudowo, z głębokością modulacji 80% falą sinusoidalną o częstotliwości 1 kHz i wartościach natężenia: 20 V/m w zakresie częstotliwości od 1,4 GHz do 2 GHz"
+      "title": "§ 26 ust. 1 pkt 32 lit. b",
+      "content": "Szczegółowy zakres badań wykonywanych podczas zatwierdzenia typu przyrządów obejmuje: sprawdzenie w laboratorium: czy podczas oddziaływania na przyrząd zaburzeń przewodzonych, niesymetrycznych, indukowanych przez pole elektromagnetyczne z falą nośną modulowaną amplitudowo, z głębokością modulacji 80% falą sinusoidalną o częstotliwości 1 kHz dla częstotliwości od 150 kHz do 80 MHz, przy amplitudzie napięcia 20 V, na przyłączach: zasilania z sieci 230 V AC i uziemienia lub zerowania ochronnego, sygnałowych i sterujących, wartości błędów wskazania przyrządu nie przekraczają wartości błędów granicznych dopuszczalnych;"
     },
     {
-      "provision_ref": "par26u1p13la",
+      "provision_ref": "par26u1p32la",
       "section": "26",
-      "title": "§ 26 ust. 1 pkt 13 lit. a",
-      "content": "Szczegółowy zakres badań wykonywanych podczas zatwierdzenia typu przyrządów obejmuje: sprawdzenie w laboratorium, czy podczas oddziaływania na przyrząd wyładowań elektrostatycznych o wartości napięcia probierczego: 6 kV - dla wyładowania bezpośrednio przez kontakt z przyrządem,"
+      "title": "§ 26 ust. 1 pkt 32 lit. a",
+      "content": "Szczegółowy zakres badań wykonywanych podczas zatwierdzenia typu przyrządów obejmuje: sprawdzenie w laboratorium, czy podczas oddziaływania na przyrząd wyładowań elektrostatycznych o wartości napięcia probierczego: 6 kV - dla wyładowania kontaktowego,"
     },
     {
-      "provision_ref": "par26u1p13lb",
+      "provision_ref": "par26u1p32lb",
       "section": "26",
-      "title": "§ 26 ust. 1 pkt 13 lit. b",
-      "content": "Szczegółowy zakres badań wykonywanych podczas zatwierdzenia typu przyrządów obejmuje: sprawdzenie w laboratorium, czy podczas oddziaływania na przyrząd wyładowań elektrostatycznych o wartości napięcia probierczego: 8 kV - dla wyładowania przez powietrze,"
+      "title": "§ 26 ust. 1 pkt 32 lit. b",
+      "content": "Szczegółowy zakres badań wykonywanych podczas zatwierdzenia typu przyrządów obejmuje: sprawdzenie w laboratorium, czy podczas oddziaływania na przyrząd wyładowań elektrostatycznych o wartości napięcia probierczego: 8 kV - dla wyładowania w powietrzu"
     },
     {
-      "provision_ref": "par26u1p13lc",
+      "provision_ref": "par26u1p32la",
       "section": "26",
-      "title": "§ 26 ust. 1 pkt 13 lit. c",
-      "content": "Szczegółowy zakres badań wykonywanych podczas zatwierdzenia typu przyrządów obejmuje: sprawdzenie w laboratorium, czy podczas oddziaływania na przyrząd wyładowań elektrostatycznych o wartości napięcia probierczego: 8 kV - dla wyładowania pośredniego do płyt sprzęgających, poziomej i pionowej"
+      "title": "§ 26 ust. 1 pkt 32 lit. a",
+      "content": "Szczegółowy zakres badań wykonywanych podczas zatwierdzenia typu przyrządów obejmuje: sprawdzenie w laboratorium, czy podczas oddziaływania na przyrząd serii szybkich elektrycznych stanów przejściowych o polaryzacji dodatniej i ujemnej, czasie trwania impulsu 50 ns i czasie jego narastania 5 ns, o wartości szczytowej napięcia: 1 kV - na przyłączu zasilania z sieci 230 V AC i uziemienia lub zerowania ochronnego,"
     },
     {
-      "provision_ref": "par26u1p14la",
+      "provision_ref": "par26u1p32lb",
       "section": "26",
-      "title": "§ 26 ust. 1 pkt 14 lit. a",
-      "content": "Szczegółowy zakres badań wykonywanych podczas zatwierdzenia typu przyrządów obejmuje: sprawdzenie w laboratorium, czy podczas oddziaływania na przyrząd serii szybkich elektrycznych stanów przejściowych o polaryzacji dodatniej i ujemnej, czasie trwania impulsu 50 ns i czasie jego narastania 10 ns, o wartości szczytowej napięcia: 1 kV - na przyłączu zasilania i uziemienia lub zerowania ochronnego,"
+      "title": "§ 26 ust. 1 pkt 32 lit. b",
+      "content": "Szczegółowy zakres badań wykonywanych podczas zatwierdzenia typu przyrządów obejmuje: sprawdzenie w laboratorium, czy podczas oddziaływania na przyrząd serii szybkich elektrycznych stanów przejściowych o polaryzacji dodatniej i ujemnej, czasie trwania impulsu 50 ns i czasie jego narastania 5 ns, o wartości szczytowej napięcia: 0,5 kV - na przyłączach sygnałowych i sterujących"
     },
     {
-      "provision_ref": "par26u1p14lb",
+      "provision_ref": "par26u1p33la",
       "section": "26",
-      "title": "§ 26 ust. 1 pkt 14 lit. b",
-      "content": "Szczegółowy zakres badań wykonywanych podczas zatwierdzenia typu przyrządów obejmuje: sprawdzenie w laboratorium, czy podczas oddziaływania na przyrząd serii szybkich elektrycznych stanów przejściowych o polaryzacji dodatniej i ujemnej, czasie trwania impulsu 50 ns i czasie jego narastania 10 ns, o wartości szczytowej napięcia: 0,5 kV - na przyłączach sygnałowych i sterujących"
+      "title": "§ 26 ust. 1 pkt 33 lit. a",
+      "content": "Szczegółowy zakres badań wykonywanych podczas zatwierdzenia typu przyrządów obejmuje: sprawdzenie w laboratorium, czy podczas oddziaływania na przyłącze zasilania DC przyrządu, zasilanego z instalacji elektrycznej pojazdu, impulsów testowych o wartościach: + 112 V, + 10 V, - 220 V, + 150 V - w przypadku instalacji elektrycznej o napięciu nominalnym 12 V DC,"
     },
     {
-      "provision_ref": "par26u1p15",
+      "provision_ref": "par26u1p33lb",
       "section": "26",
-      "title": "§ 26 ust. 1 pkt 15",
-      "content": "Szczegółowy zakres badań wykonywanych podczas zatwierdzenia typu przyrządów obejmuje: sprawdzenie, czy wartości błędów pomiaru wykonywanego przyrządem poza laboratorium w warunkach znamionowych użytkowania nie przekraczają wartości błędów granicznych dopuszczalnych."
+      "title": "§ 26 ust. 1 pkt 33 lit. b",
+      "content": "Szczegółowy zakres badań wykonywanych podczas zatwierdzenia typu przyrządów obejmuje: sprawdzenie w laboratorium, czy podczas oddziaływania na przyłącze zasilania DC przyrządu, zasilanego z instalacji elektrycznej pojazdu, impulsów testowych o wartościach: + 112 V, + 20 V, - 300 V, + 300 V - w przypadku instalacji elektrycznej o napięciu nominalnym 24 V DC"
+    },
+    {
+      "provision_ref": "par26u1p34",
+      "section": "26",
+      "title": "§ 26 ust. 1 pkt 34",
+      "content": "Szczegółowy zakres badań wykonywanych podczas zatwierdzenia typu przyrządów obejmuje: sprawdzenie, czy wartości błędów wskazania przyrządu dla pomiaru wykonywanego poza laboratorium w warunkach znamionowych użytkowania nie przekraczają wartości błędów granicznych dopuszczalnych."
     },
     {
       "provision_ref": "par26u2",
@@ -1009,31 +1069,31 @@
       "provision_ref": "par27",
       "section": "27",
       "title": "§ 27",
-      "content": "Podczas badań, o których mowa w § 26 ust. 1 pkt 11-14, za poprawne działanie przyrządu należy uznać także stan, w którym podczas oddziaływania na przyrząd określonych w tych przepisach narażeń przyrząd nie wskazuje wyniku pomiaru. W przypadku stanu, o którym mowa w ust. 1, należy sprawdzić, czy po ustaniu oddziaływania na przyrząd narażeń określonych w § 26 ust. 1 pkt 11-14 przyrząd poprawnie działa i błędy pomiarów nie przekraczają wartości błędów granicznych dopuszczalnych."
+      "content": "Podczas badań, o których mowa w § 26 ust. 1 pkt 11-14a, za poprawne działanie przyrządu należy uznać także stan, w którym podczas oddziaływania na przyrząd określonych w tych przepisach narażeń przyrząd nie wskazuje wyniku pomiaru. W przypadku stanu, o którym mowa w ust. 1, należy sprawdzić, czy po ustaniu oddziaływania na przyrząd narażeń określonych w § 26 ust. 1 pkt 11-14a przyrząd poprawnie działa i błędy wskazania nie przekraczają wartości błędów granicznych dopuszczalnych."
     },
     {
       "provision_ref": "par27u1",
       "section": "27",
       "title": "§ 27 ust. 1",
-      "content": "Podczas badań, o których mowa w § 26 ust. 1 pkt 11-14, za poprawne działanie przyrządu należy uznać także stan, w którym podczas oddziaływania na przyrząd określonych w tych przepisach narażeń przyrząd nie wskazuje wyniku pomiaru."
+      "content": "Podczas badań, o których mowa w § 26 ust. 1 pkt 11-14a, za poprawne działanie przyrządu należy uznać także stan, w którym podczas oddziaływania na przyrząd określonych w tych przepisach narażeń przyrząd nie wskazuje wyniku pomiaru."
     },
     {
       "provision_ref": "par27u2",
       "section": "27",
       "title": "§ 27 ust. 2",
-      "content": "W przypadku stanu, o którym mowa w ust. 1, należy sprawdzić, czy po ustaniu oddziaływania na przyrząd narażeń określonych w § 26 ust. 1 pkt 11-14 przyrząd poprawnie działa i błędy pomiarów nie przekraczają wartości błędów granicznych dopuszczalnych."
+      "content": "W przypadku stanu, o którym mowa w ust. 1, należy sprawdzić, czy po ustaniu oddziaływania na przyrząd narażeń określonych w § 26 ust. 1 pkt 11-14a przyrząd poprawnie działa i błędy wskazania nie przekraczają wartości błędów granicznych dopuszczalnych."
     },
     {
       "provision_ref": "par28",
       "section": "28",
       "title": "§ 28",
-      "content": "Podczas sprawdzenia, czy wartości błędów pomiaru wykonywanego przyrządem radarowym poza laboratorium w warunkach znamionowych użytkowania nie przekraczają wartości błędów granicznych, wykonuje się co najmniej 500 pomiarów prędkości. W uzasadnionych przypadkach może być wykonana mniejsza liczba pomiarów niż określona w ust. 1. W przypadku wykonania mniejszej liczby pomiarów niż określona w ust. 1 pomiary te mogą być uznane za próbkę, której wynik badań ma odpowiadać wymaganiu, o którym mowa w § 22 ust. 1."
+      "content": "Podczas sprawdzenia, czy wartości błędów wskazania przyrządu dla pomiaru wykonywanego poza laboratorium w warunkach znamionowych użytkowania nie przekraczają wartości błędów granicznych, wykonuje się co najmniej 500 pomiarów prędkości. W uzasadnionych przypadkach może być wykonana mniejsza liczba pomiarów niż określona w ust. 1. W przypadku wykonania mniejszej liczby pomiarów niż określona w ust. 1 pomiary te mogą być uznane za próbkę, której wynik badań ma odpowiadać wymaganiu, o którym mowa w § 22 ust. 1."
     },
     {
       "provision_ref": "par28u1",
       "section": "28",
       "title": "§ 28 ust. 1",
-      "content": "Podczas sprawdzenia, czy wartości błędów pomiaru wykonywanego przyrządem radarowym poza laboratorium w warunkach znamionowych użytkowania nie przekraczają wartości błędów granicznych, wykonuje się co najmniej 500 pomiarów prędkości."
+      "content": "Podczas sprawdzenia, czy wartości błędów wskazania przyrządu dla pomiaru wykonywanego poza laboratorium w warunkach znamionowych użytkowania nie przekraczają wartości błędów granicznych, wykonuje się co najmniej 500 pomiarów prędkości."
     },
     {
       "provision_ref": "par28u2",
@@ -1042,10 +1102,16 @@
       "content": "W uzasadnionych przypadkach może być wykonana mniejsza liczba pomiarów niż określona w ust. 1. W przypadku wykonania mniejszej liczby pomiarów niż określona w ust. 1 pomiary te mogą być uznane za próbkę, której wynik badań ma odpowiadać wymaganiu, o którym mowa w § 22 ust. 1."
     },
     {
+      "provision_ref": "par28a",
+      "section": "28a",
+      "title": "§ 28a",
+      "content": "Szczegółowy zakres sprawdzeń wykonywanych podczas legalizacji jednostkowej obejmuje czynności określone w § 26-28."
+    },
+    {
       "provision_ref": "par29",
       "section": "29",
       "title": "§ 29",
-      "content": "Podczas legalizacji pierwotnej przyrządu należy sprawdzić: zgodność konstrukcji i wykonania przyrządu oraz materiałów, z których przyrząd jest wykonany, z zatwierdzonym typem; czy przyrząd: jest kompletny i nieuszkodzony, ma wersję i wartość sumy kontrolnej oprogramowania zgodne z decyzją zatwierdzenia typu, ma wymagane oznaczenia, jest przystosowany do nałożenia cech zabezpieczających, jest przystosowany do właściwej instalacji i właściwego ustawienia w warunkach użytkowania przyrządu; czy wartości błędów pomiarów, wykonanych w warunkach znamionowych użytkowania dla co najmniej 10 pomiarów różnych prędkości w zakresie pomiarowym przyrządu dla każdego mierzonego kierunku ruchu pojazdów, nie przekraczają wartości błędów granicznych dopuszczalnych."
+      "content": "Podczas legalizacji pierwotnej przyrządu należy sprawdzić: zgodność konstrukcji i wykonania przyrządu oraz materiałów, z których przyrząd jest wykonany, z zatwierdzonym typem; czy przyrząd: jest kompletny i nieuszkodzony, ma wersję i wartość sumy kontrolnej oprogramowania zgodne z decyzją zatwierdzenia typu, ma wymagane oznaczenia, jest przystosowany do nałożenia cech zabezpieczających, jest przystosowany do właściwej instalacji i właściwego ustawienia w warunkach użytkowania przyrządu; czy wartości błędów wskazań przyrządu dla pomiaru wykonywanego w warunkach znamionowych użytkowania dla co najmniej 10 pomiarów różnych prędkości w zakresie pomiarowym przyrządu dla każdego mierzonego kierunku ruchu pojazdów nie przekraczają wartości błędów granicznych dopuszczalnych; czy wartości błędów wskazań przyrządu dla pomiaru wykonywanego w laboratorium nie przekraczają wartości błędów granicznych dopuszczalnych."
     },
     {
       "provision_ref": "par29p1",
@@ -1084,16 +1150,22 @@
       "content": "Podczas legalizacji pierwotnej przyrządu należy sprawdzić: czy przyrząd: jest przystosowany do właściwej instalacji i właściwego ustawienia w warunkach użytkowania przyrządu;"
     },
     {
-      "provision_ref": "par29p3",
+      "provision_ref": "par29p38",
       "section": "29",
-      "title": "§ 29 pkt 3",
-      "content": "Podczas legalizacji pierwotnej przyrządu należy sprawdzić: czy wartości błędów pomiarów, wykonanych w warunkach znamionowych użytkowania dla co najmniej 10 pomiarów różnych prędkości w zakresie pomiarowym przyrządu dla każdego mierzonego kierunku ruchu pojazdów, nie przekraczają wartości błędów granicznych dopuszczalnych."
+      "title": "§ 29 pkt 38",
+      "content": "Podczas legalizacji pierwotnej przyrządu należy sprawdzić: czy wartości błędów wskazań przyrządu dla pomiaru wykonywanego w warunkach znamionowych użytkowania dla co najmniej 10 pomiarów różnych prędkości w zakresie pomiarowym przyrządu dla każdego mierzonego kierunku ruchu pojazdów nie przekraczają wartości błędów granicznych dopuszczalnych;"
+    },
+    {
+      "provision_ref": "par29p39",
+      "section": "29",
+      "title": "§ 29 pkt 39",
+      "content": "Podczas legalizacji pierwotnej przyrządu należy sprawdzić: czy wartości błędów wskazań przyrządu dla pomiaru wykonywanego w laboratorium nie przekraczają wartości błędów granicznych dopuszczalnych."
     },
     {
       "provision_ref": "par30",
       "section": "30",
       "title": "§ 30",
-      "content": "Podczas legalizacji ponownej przyrządu należy sprawdzić: czy przyrząd: jest kompletny i nieuszkodzony, ma wersję i wartość sumy kontrolnej oprogramowania zgodne z decyzją zatwierdzenia typu, ma wymagane oznaczenia; czy wartości błędów pomiarów, wykonanych w warunkach znamionowych użytkowania dla co najmniej 10 pomiarów różnych prędkości w zakresie pomiarowym przyrządu dla każdego mierzonego kierunku ruchu pojazdów, nie przekraczają wartości błędów granicznych dopuszczalnych."
+      "content": "Podczas legalizacji ponownej przyrządu należy sprawdzić: czy przyrząd: jest kompletny i nieuszkodzony, ma wersję i wartość sumy kontrolnej oprogramowania zgodne z decyzją zatwierdzenia typu, ma wymagane oznaczenia; czy wartości błędów wskazań przyrządu dla pomiaru wykonywanego w warunkach znamionowych użytkowania dla co najmniej 10 pomiarów różnych prędkości w zakresie pomiarowym przyrządu dla każdego mierzonego kierunku ruchu pojazdów nie przekraczają wartości błędów granicznych dopuszczalnych."
     },
     {
       "provision_ref": "par30p1la",
@@ -1114,40 +1186,46 @@
       "content": "Podczas legalizacji ponownej przyrządu należy sprawdzić: czy przyrząd: ma wymagane oznaczenia;"
     },
     {
-      "provision_ref": "par30p2",
+      "provision_ref": "par30p40",
       "section": "30",
-      "title": "§ 30 pkt 2",
-      "content": "Podczas legalizacji ponownej przyrządu należy sprawdzić: czy wartości błędów pomiarów, wykonanych w warunkach znamionowych użytkowania dla co najmniej 10 pomiarów różnych prędkości w zakresie pomiarowym przyrządu dla każdego mierzonego kierunku ruchu pojazdów, nie przekraczają wartości błędów granicznych dopuszczalnych."
+      "title": "§ 30 pkt 40",
+      "content": "Podczas legalizacji ponownej przyrządu należy sprawdzić: czy wartości błędów wskazań przyrządu dla pomiaru wykonywanego w warunkach znamionowych użytkowania dla co najmniej 10 pomiarów różnych prędkości w zakresie pomiarowym przyrządu dla każdego mierzonego kierunku ruchu pojazdów nie przekraczają wartości błędów granicznych dopuszczalnych."
     },
     {
       "provision_ref": "par31",
       "section": "31",
       "title": "§ 31",
-      "content": "Podczas legalizacji pierwotnej i ponownej sprawdzenie wartości błędów pomiarów w warunkach znamionowych użytkowania przyrządu przeznaczonego do pomiaru prędkości pojazdów z poruszającego się pojazdu wykonuje się w pojeździe. Podczas legalizacji pierwotnej i ponownej sprawdzenie wartości błędów pomiarów w warunkach znamionowych użytkowania prędkościomierza kontrolnego, o którym mowa w § 3 pkt 4 lit. a, wykonuje się w pojeździe, w którym przyrząd ten jest zainstalowany. Podczas legalizacji pierwotnej i ponownej sprawdzenie wartości błędów pomiarów w warunkach znamionowych użytkowania prędkościomierza kontrolnego, o którym mowa w § 3 pkt 4 lit. b, wykonuje się w miejscu jego zainstalowania, w przypadku gdy przyrząd ten lub jego część są zainstalowane na stałe w tym miejscu. Z zastrzeżeniem ust. 1, podczas legalizacji pierwotnej i ponownej sprawdzenie wartości błędów pomiarów w warunkach znamionowych użytkowania przyrządów, o których mowa w § 3 pkt 6 i 7, może być wykonywane w miejscu użytkowania tych przyrządów."
+      "content": "Podczas legalizacji pierwotnej i ponownej sprawdzenie wartości błędów wskazań 20) Ze zmianą wprowadzoną przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2. w warunkach znamionowych użytkowania przyrządu przeznaczonego do pomiaru prędkości pojazdów z poruszającego się pojazdu wykonuje się w pojeździe. Podczas legalizacji pierwotnej i ponownej sprawdzenie wartości błędów wskazań 20) Ze zmianą wprowadzoną przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2. w warunkach znamionowych użytkowania prędkościomierza kontrolnego, o którym mowa w § 3 pkt 4 lit. a, wykonuje się w pojeździe, w którym przyrząd ten jest zainstalowany. Podczas legalizacji pierwotnej i ponownej sprawdzenie wartości błędów wskazań 20) Ze zmianą wprowadzoną przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2. w warunkach znamionowych użytkowania prędkościomierza kontrolnego, o którym mowa w § 3 pkt 4 lit. b, wykonuje się w miejscu jego zainstalowania, w przypadku gdy przyrząd ten lub jego część są zainstalowane na stałe w tym miejscu. Z zastrzeżeniem ust. 1, podczas legalizacji pierwotnej i ponownej sprawdzenie wartości błędów wskazań 20) Ze zmianą wprowadzoną przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2. w warunkach znamionowych użytkowania przyrządów, o których mowa w § 3 pkt 6 i 7, może być wykonywane w miejscu użytkowania tych przyrządów."
     },
     {
       "provision_ref": "par31u1",
       "section": "31",
       "title": "§ 31 ust. 1",
-      "content": "Podczas legalizacji pierwotnej i ponownej sprawdzenie wartości błędów pomiarów w warunkach znamionowych użytkowania przyrządu przeznaczonego do pomiaru prędkości pojazdów z poruszającego się pojazdu wykonuje się w pojeździe."
+      "content": "Podczas legalizacji pierwotnej i ponownej sprawdzenie wartości błędów wskazań 20) Ze zmianą wprowadzoną przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2. w warunkach znamionowych użytkowania przyrządu przeznaczonego do pomiaru prędkości pojazdów z poruszającego się pojazdu wykonuje się w pojeździe."
     },
     {
       "provision_ref": "par31u2",
       "section": "31",
       "title": "§ 31 ust. 2",
-      "content": "Podczas legalizacji pierwotnej i ponownej sprawdzenie wartości błędów pomiarów w warunkach znamionowych użytkowania prędkościomierza kontrolnego, o którym mowa w § 3 pkt 4 lit. a, wykonuje się w pojeździe, w którym przyrząd ten jest zainstalowany."
+      "content": "Podczas legalizacji pierwotnej i ponownej sprawdzenie wartości błędów wskazań 20) Ze zmianą wprowadzoną przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2. w warunkach znamionowych użytkowania prędkościomierza kontrolnego, o którym mowa w § 3 pkt 4 lit. a, wykonuje się w pojeździe, w którym przyrząd ten jest zainstalowany."
     },
     {
       "provision_ref": "par31u3",
       "section": "31",
       "title": "§ 31 ust. 3",
-      "content": "Podczas legalizacji pierwotnej i ponownej sprawdzenie wartości błędów pomiarów w warunkach znamionowych użytkowania prędkościomierza kontrolnego, o którym mowa w § 3 pkt 4 lit. b, wykonuje się w miejscu jego zainstalowania, w przypadku gdy przyrząd ten lub jego część są zainstalowane na stałe w tym miejscu."
+      "content": "Podczas legalizacji pierwotnej i ponownej sprawdzenie wartości błędów wskazań 20) Ze zmianą wprowadzoną przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2. w warunkach znamionowych użytkowania prędkościomierza kontrolnego, o którym mowa w § 3 pkt 4 lit. b, wykonuje się w miejscu jego zainstalowania, w przypadku gdy przyrząd ten lub jego część są zainstalowane na stałe w tym miejscu."
     },
     {
       "provision_ref": "par31u4",
       "section": "31",
       "title": "§ 31 ust. 4",
-      "content": "Z zastrzeżeniem ust. 1, podczas legalizacji pierwotnej i ponownej sprawdzenie wartości błędów pomiarów w warunkach znamionowych użytkowania przyrządów, o których mowa w § 3 pkt 6 i 7, może być wykonywane w miejscu użytkowania tych przyrządów."
+      "content": "Z zastrzeżeniem ust. 1, podczas legalizacji pierwotnej i ponownej sprawdzenie wartości błędów wskazań 20) Ze zmianą wprowadzoną przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 2. w warunkach znamionowych użytkowania przyrządów, o których mowa w § 3 pkt 6 i 7, może być wykonywane w miejscu użytkowania tych przyrządów."
+    },
+    {
+      "provision_ref": "par31a",
+      "section": "31a",
+      "title": "§ 31a",
+      "content": "W przypadku sprawdzania przyrządu w warunkach znamionowych użytkowania w miejscu użytkowania przyrządu, z wykorzystaniem urządzeń symulujących prędkość, wartości błędów wskazań przyrządu nie mogą przekraczać wartości błędów granicznych dopuszczalnych przyrządu określonych dla badań w laboratorium."
     },
     {
       "provision_ref": "par32",
@@ -1165,13 +1243,43 @@
       "provision_ref": "par34",
       "section": "34",
       "title": "§ 34",
-      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia 42) Rozporządzenie zostało ogłoszone w dniu 6 marca 2014 r. ."
     }
   ],
-  "definitions": [],
+  "definitions": [
+    {
+      "term": "Przez § 1 pkt 3 lit. c rozporządzenia, o którym mowa w odnośniku 2. stała prędkościomierza",
+      "definition": "wielkość liczbową określającą dopasowanie prędkościomierza do nadajnika sygnału długości drogi; warunki znamionowe użytkowania - warunki użytkowania przyrządu, w których charakterystyki metrologiczne przyrządu są zawarte w określonych granicach.",
+      "source_provision": "par3"
+    }
+  ],
   "references": [
     {
-      "target_document_id": "pl-du-2013-1069",
+      "target_document_id": "pl-du-2017-1523",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-2243",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-151",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2002-2039",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2004-597",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-541",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-675",
       "ref_type": "references"
     },
     {

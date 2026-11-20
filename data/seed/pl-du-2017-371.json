@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2017/371",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -25,17 +31,21 @@
       "provision_ref": "par3",
       "section": "3",
       "title": "§ 3",
-      "content": "Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 19 marca 2015 r. w sprawie właściwości urzędów celnych i izb celnych w zakresie akcyzy (Dz. U. z 2016 r. poz. 481), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 16 listopada 2016 r. - Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255)."
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 19 marca 2015 r. w sprawie właściwości urzędów celnych i izb celnych w zakresie akcyzy (Dz. U. z 2016 r. poz. 481), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 16 listopada 2016 r. - Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255)."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2017-43",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2017-60",
+      "target_document_id": "pl-du-2021-342",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-143",
       "ref_type": "references"
     }
   ]

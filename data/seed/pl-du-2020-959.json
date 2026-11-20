@@ -10,6 +10,18 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/959",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Do egzaminów kwalifikacyjnych I stopnia oraz egzaminów kwalifikacyjnych II stopnia przeprowadzanych po zakończeniu kursów specjalistycznych rozpoczętych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się § 5 ust. 1 pkt 1 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -91,13 +103,13 @@
       "provision_ref": "par5",
       "section": "5",
       "title": "§ 5",
-      "content": "Egzamin kwalifikacyjny I stopnia oraz egzamin kwalifikacyjny II stopnia przeprowadza komisja egzaminacyjna powołana przez Głównego Inspektora Transportu Drogowego, zwana dalej „komisją”, nie później niż w terminie: 14 dni od dnia zakończenia kursu specjalistycznego albo 6 miesięcy od dnia podjęcia przez Głównego Inspektora Transportu Drogowego decyzji, o której mowa w art. 76a ust. 3 ustawy. Komisja zadania, o których mowa w ust. 1, może wykonywać za pomocą środków komunikacji elektronicznej. W przypadku przeprowadzania egzaminów, o których mowa w ust. 1, w siedzibie pracodawcy z wykorzystaniem technologii informatycznych komisja jest wspierana przez osoby wyznaczone przez pracodawców, w których siedzibie jest przeprowadzany egzamin, do kontroli jego przebiegu, potwierdzenia tożsamości zdających oraz zapewnienia samodzielności pracy zdających."
+      "content": "Egzamin kwalifikacyjny I stopnia oraz egzamin kwalifikacyjny II stopnia przeprowadza komisja egzaminacyjna powołana przez Głównego Inspektora Transportu Drogowego, zwana dalej „komisją”, nie później niż w terminie: 45 dni od dnia zakończenia kursu specjalistycznego albo 6 miesięcy od dnia podjęcia przez Głównego Inspektora Transportu Drogowego decyzji, o której mowa w art. 76a ust. 3 ustawy. Komisja zadania, o których mowa w ust. 1, może wykonywać za pomocą środków komunikacji elektronicznej. W przypadku przeprowadzania egzaminów, o których mowa w ust. 1, w siedzibie pracodawcy z wykorzystaniem technologii informatycznych komisja jest wspierana przez osoby wyznaczone przez pracodawców, w których siedzibie jest przeprowadzany egzamin, do kontroli jego przebiegu, potwierdzenia tożsamości zdających oraz zapewnienia samodzielności pracy zdających."
     },
     {
-      "provision_ref": "par5u1p1",
+      "provision_ref": "par5u1p2",
       "section": "5",
-      "title": "§ 5 ust. 1 pkt 1",
-      "content": "Egzamin kwalifikacyjny I stopnia oraz egzamin kwalifikacyjny II stopnia przeprowadza komisja egzaminacyjna powołana przez Głównego Inspektora Transportu Drogowego, zwana dalej „komisją”, nie później niż w terminie: 14 dni od dnia zakończenia kursu specjalistycznego albo"
+      "title": "§ 5 ust. 1 pkt 2",
+      "content": "Egzamin kwalifikacyjny I stopnia oraz egzamin kwalifikacyjny II stopnia przeprowadza komisja egzaminacyjna powołana przez Głównego Inspektora Transportu Drogowego, zwana dalej „komisją”, nie później niż w terminie: 45 dni od dnia zakończenia kursu specjalistycznego albo"
     },
     {
       "provision_ref": "par5u1p2",
@@ -301,11 +313,15 @@
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2019-2140",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2020-875",
+      "target_document_id": "pl-du-2021-825",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2201",
       "ref_type": "references"
     },
     {
