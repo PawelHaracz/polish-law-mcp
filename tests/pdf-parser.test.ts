@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { parsePolishPdf } from '../scripts/lib/pdf-parser.js';
+import { parsePolishPdf, supify } from '../scripts/lib/pdf-parser.js';
 import type { ActIndexEntry } from '../scripts/lib/parser.js';
 
 const ACT: ActIndexEntry = {
@@ -136,5 +136,75 @@ Art. 2. 1. Pierwszy ustęp.
 2. Drugi ustęp.`;
     const refs = parsePolishPdf(tj, ACT).provisions.map(x => x.provision_ref);
     expect(refs).toEqual(expect.arrayContaining(['art1', 'art2', 'art2u2']));
+  });
+});
+
+/** pdftotext prints superscript unit numbers as brackets: "Art. 11[1]." is art. 11¹. */
+const SUP_SAMPLE = `Poz. 1245
+Art. 11. Nawiązanie stosunku pracy wymaga zgodnego oświadczenia woli.
+Art. 11[1]. Pracodawca jest obowiązany szanować godność pracownika.
+–6–
+Poz. 1245
+Art. 30. § 1. Umowa o pracę rozwiązuje się:
+1) na mocy porozumienia stron;
+2) przez oświadczenie jednej ze stron.
+§ 2. Umowa na okres próbny rozwiązuje się z upływem tego okresu.
+§ 2[1]. Okres wypowiedzenia kończy się w sobotę, zob. art. 11[1].
+§ 3. Oświadczenie powinno nastąpić na piśmie.
+Art. 111. Przepis o innej treści.`;
+
+describe('parsePolishPdf — superscript units and page headers', () => {
+  const p = parsePolishPdf(SUP_SAMPLE, ACT);
+  const byRef = (r: string) => p.provisions.find(x => x.provision_ref === r);
+
+  it('gives Art. 11[1] its own row instead of gluing it onto art. 11', () => {
+    expect(byRef('art11^1')?.title).toBe('Art. 11¹');
+    expect(byRef('art11^1')?.section).toBe('11^1');
+    expect(byRef('art11^1')?.content).toMatch(/^Pracodawca jest obowiązany/);
+    expect(byRef('art11')?.content).not.toMatch(/Pracodawca/);
+  });
+
+  it('keeps the real art. 111 distinct from art. 11¹', () => {
+    expect(byRef('art111')?.content).toBe('Przepis o innej treści.');
+  });
+
+  it('splits § 2[1] inside an article as its own sibling paragraf', () => {
+    const refs = p.provisions.map(x => x.provision_ref).filter(r => r.startsWith('art30'));
+    expect(refs).toEqual(['art30', 'art30par1p1', 'art30par1p2', 'art30par2', 'art30par2^1', 'art30par3']);
+    expect(byRef('art30par2^1')?.title).toBe('Art. 30 § 2¹');
+    expect(byRef('art30par2')?.content).not.toMatch(/sobotę/);
+  });
+
+  it('renders bracketed superscripts in text as real superscripts', () => {
+    expect(byRef('art30par2^1')?.content).toContain('zob. art. 11¹.');
+    expect(byRef('art30')?.content).toContain('§ 2¹. Okres');
+  });
+
+  it('drops the "Poz. N" Dziennik Ustaw page header', () => {
+    for (const pr of p.provisions) expect(pr.content).not.toMatch(/Poz\. 1245/);
+  });
+});
+
+describe('supify', () => {
+  it('converts superscripts after unit numbers', () => {
+    expect(supify('art. 22[1] § 2[1] pkt 3[2a] i 22[1]–22[3]')).toBe('art. 22¹ § 2¹ pkt 3²ᵃ i 22¹–22³');
+  });
+
+  it('leaves standard references and ASN.1 tags alone', () => {
+    for (const s of ['ETSI EN 302 818 V3.5.1:2023-12[5]', 'IEC 62106-2:2021[11]', 'message [1] UTF8String']) {
+      expect(supify(s)).toBe(s);
+    }
+  });
+});
+
+describe('parsePolishPdf — article with punkty but no ustępy', () => {
+  it('emits art2p1… like the HTML parser, and a "Poz. N" header does not fake an ustęp', () => {
+    const text = `Art. 2. W rozumieniu ustawy:
+1) statkiem jest urządzenie latające;
+2) lotniskiem jest obszar, o którym mowa w odnośniku 3.
+Poz. 1407
+3) lądowiskiem jest obszar na lądzie.`;
+    const refs = parsePolishPdf(text, ACT).provisions.map(x => x.provision_ref);
+    expect(refs).toEqual(['art2', 'art2p1', 'art2p2', 'art2p3']);
   });
 });

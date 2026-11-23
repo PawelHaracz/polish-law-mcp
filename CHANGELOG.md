@@ -21,6 +21,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `ingest` no longer overwrites an existing seed with the base act's original wording when the newest consolidated text is PDF-only.
 - `census` keeps manual `not_ingestable` reclassifications across re-runs.
 - PDF quality gate (built for scanned OCR) no longer rejects born-digital acts (post-2000) with large annexes, e.g. the 2026 budget act.
+- PDF parser: superscript units (`Art. 22[1].`, `§ 2[1].`) were glued onto the preceding unit, so ~1,340 articles in 23 PDF-sourced codes and statutes (KPC, KC, KP …) had no row of their own. They are now separate provisions with `^` refs (`art22^1`, `art30par2^1`) and titles such as `Art. 22¹`; bracketed superscripts in text are rendered as `¹²³`.
+- PDF parser: the Dziennik Ustaw page header (`Poz. 1245`) no longer leaks into provision text or fakes ustęp boundaries.
+- PDF parser: an article with punkty but no ustępy is split into `art2p1` … rows like the HTML parser does.
+- `get_provision` accepts `22¹`, `22[1]` and `22^1` and falls back to the flattened HTML form (`art221`) for older acts.
 
 ## [1.0.0] - 2026-XX-XX
 ### Added

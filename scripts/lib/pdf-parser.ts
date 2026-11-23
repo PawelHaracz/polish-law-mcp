@@ -24,7 +24,56 @@ const CHROME_PATTERNS: RegExp[] = [
   /^\d{4}-\d{2}-\d{2}\s*$/,          // revision date stamp
   /^Dziennik Ustaw\s*$/i,
   /^[-–—\s]*\d+[-–—\s]*$/,           // bare page numbers
+  /^Poz\.\s*\d+\s*$/i,               // Dziennik Ustaw page header ("Poz. 1245")
 ];
+
+/**
+ * pdftotext renders superscript unit numbers as brackets: "Art. 22[1]." is
+ * art. 22¹, "§ 2[1]." is § 2¹. SUP is the optional bracket suffix every unit
+ * marker regex must accept, or the unit is glued onto the one before it.
+ */
+const SUP = String.raw`(?:\[\d{1,3}[a-z]{0,2}\])?`;
+
+/** Ref/section form of a unit number: "22[1]" -> "22^1" (never collides with art. 221). */
+function refNum(n: string): string {
+  return n.toLowerCase().replace(/\[(\w+)\]/, '^$1');
+}
+
+const SUPERSCRIPT: Record<string, string> = {
+  '0': '⁰', '1': '¹', '2': '²', '3': '³', '4': '⁴', '5': '⁵', '6': '⁶', '7': '⁷', '8': '⁸', '9': '⁹',
+  a: 'ᵃ', b: 'ᵇ', c: 'ᶜ', d: 'ᵈ', e: 'ᵉ', f: 'ᶠ', g: 'ᵍ', h: 'ʰ', i: 'ⁱ', j: 'ʲ', k: 'ᵏ',
+};
+
+function toSuperscript(s: string): string | null {
+  let out = '';
+  for (const ch of s.toLowerCase()) {
+    const sup = SUPERSCRIPT[ch];
+    if (!sup) return null;
+    out += sup;
+  }
+  return out;
+}
+
+/** Display form of a unit number: "22[1]" -> "22¹". */
+function displayNum(n: string): string {
+  return n.toLowerCase().replace(/\[(\w+)\]/, (whole, k: string) => toSuperscript(k) ?? whole);
+}
+
+/**
+ * Turn bracketed superscripts after unit numbers into real superscripts in
+ * provision text ("art. 22[1] § 2[1]" -> "art. 22¹ § 2¹"). The number must start
+ * a token (space, "(", en dash or line start), so standard references such as
+ * "V3.5.1:2023-12[5]" and ASN.1 tags ("message [1]") stay untouched.
+ */
+export function supify(text: string): string {
+  return text.replace(
+    /(^|[\s(–])(\d{1,4}[a-z]{0,3})\[(\d{1,3}[a-z]{0,2})\]/g,
+    (whole, pre: string, n: string, k: string) => {
+      const sup = toSuperscript(k);
+      return sup ? `${pre}${n}${sup}` : whole;
+    },
+  );
+}
 
 /** True if a line is page chrome that must not enter provision text. */
 function isChrome(line: string): boolean {
@@ -79,7 +128,7 @@ export function parsePolishPdf(rawText: string, act: ActIndexEntry): ParsedAct {
   // below rejects acts whose OCR is too poor to trust, rather than storing garbage.
   // "Art" plus the handful of real OCR confusions seen in pre-war scans
   // (A↔R, A↔fl/ft ligatures). Tight enough to avoid matching ordinary words.
-  const artStart = /^(?:Art|Rrt|flrt|ftrt|Art)\.?\s*(\d+[a-z]*)\.\s*(.*)$/i;
+  const artStart = new RegExp(String.raw`^(?:Art|Rrt|flrt|ftrt)\.?\s*(\d+[a-z]*${SUP})\.\s*(.*)$`, 'i');
   let current: { num: string; buf: string[] } | null = null;
   const flush = () => {
     if (!current) return;
@@ -95,7 +144,7 @@ export function parsePolishPdf(rawText: string, act: ActIndexEntry): ParsedAct {
   // "§ N." — usually more than with "Art." — so a simple majority is wrong.
   // Pick § mode only when Art. markers are absent or a stray handful (a quoted
   // statute in an annex) next to an order of magnitude more §§.
-  const parStart = /^§\s*(\d+[a-z]*)\.\s*(.*)$/;
+  const parStart = new RegExp(String.raw`^§\s*(\d+[a-z]*${SUP})\.\s*(.*)$`);
   const artCount = lines.filter(l => artStart.test(l)).length;
   const parCount = lines.filter(l => parStart.test(l)).length;
   const paragrafMode = parCount > 0 && artCount * 10 < parCount;
@@ -125,7 +174,7 @@ export function parsePolishPdf(rawText: string, act: ActIndexEntry): ParsedAct {
     const m = line.match(unitStart);
     if (m) {
       flush();
-      current = { num: m[1].toLowerCase(), buf: m[2] ? [m[2]] : [] };
+      current = { num: m[1], buf: m[2] ? [m[2]] : [] };
     } else if (current) {
       current.buf.push(line);
     }
@@ -143,14 +192,14 @@ export function parsePolishPdf(rawText: string, act: ActIndexEntry): ParsedAct {
     if (body.length < 3) { pendingHeading = heading; continue; }
     pendingHeading = '';
     zal++;
-    provisions.push({ provision_ref: `zal${zal}`, section: `zal${zal}`, title: heading, content: body });
+    provisions.push({ provision_ref: `zal${zal}`, section: `zal${zal}`, title: supify(heading), content: supify(body) });
   }
 
   // Quality gate: an act with substantial text but almost no recognised articles
   // is unusable OCR (typical of pre-war scans). Better to skip it than to store a
   // garbage seed in a legal database. Threshold is deliberately lenient — one
   // good article per ~4 KB of text — so clean modern PDFs always pass.
-  const articleRows = provisions.filter(p => /^(?:art|par)\d+[a-z]*$/.test(p.provision_ref)).length;
+  const articleRows = provisions.filter(p => /^(?:art|par)\d+[a-z]*(?:\^\w+)?$/.test(p.provision_ref)).length;
   const textKb = rawText.length / 1024;
   // The density check targets scanned OCR (always Art.-based). Regulations are
   // born-digital and often carry huge annexes (PKWiU, forms) after a handful of
@@ -196,23 +245,25 @@ function buildArticleRows(
   act: ActIndexEntry,
   provisions: ParsedProvision[],
 ): void {
-  const baseRef = `art${num}`;
+  const sec = refNum(num);
+  const disp = displayNum(num);
+  const baseRef = `art${sec}`;
   provisions.push({
     provision_ref: baseRef,
-    section: num,
-    title: `Art. ${num}`,
-    content: body,
+    section: sec,
+    title: `Art. ${disp}`,
+    content: supify(body),
   });
 
   // Codes (KC, KK, KSH, KPC …) divide articles into paragrafy — "§ 1." — while
   // ordinary statutes use ustępy ("1."). An article uses one scheme or the other,
   // so try § first and only fall back to ustępy when no § marker is present.
-  const paragrafParts = splitNumbered(body, /(?:^|\s)§\s*(\d+[a-z]*)\.\s+/g);
+  const paragrafParts = splitNumbered(body, new RegExp(String.raw`(?:^|\s)§\s*(\d+[a-z]*${SUP})\.\s+`, 'g'));
   if (paragrafParts.some(p => p.n)) {
     for (const { n, text } of paragrafParts) {
       if (!n) continue;
-      const ref = `${baseRef}par${n}`;
-      emitLeafWithPunkty(ref, `Art. ${num} § ${n}`, num, text, provisions);
+      const ref = `${baseRef}par${refNum(n)}`;
+      emitLeafWithPunkty(ref, `Art. ${disp} § ${displayNum(n)}`, sec, text, provisions);
     }
     return;
   }
@@ -223,7 +274,23 @@ function buildArticleRows(
   if (ustepParts.some(p => p.n)) {
     for (const { n, text } of ustepParts) {
       if (!n) continue; // chapeau handled inside splitNumbered consumers
-      emitLeafWithPunkty(`${baseRef}u${n}`, `Art. ${num} ust. ${n}`, num, text, provisions);
+      emitLeafWithPunkty(`${baseRef}u${refNum(n)}`, `Art. ${disp} ust. ${displayNum(n)}`, sec, text, provisions);
+    }
+    return;
+  }
+
+  // No ustępy: punkty straight off the article ("Art. 2. … oznacza: 1) … 2) …"),
+  // stored as art2p1 like the HTML parser does.
+  const punktParts = splitNumbered(body, PUNKT_RE);
+  if (punktParts.filter(p => p.n).length > 1) {
+    for (const p of punktParts) {
+      if (!p.n) continue;
+      provisions.push({
+        provision_ref: `${baseRef}p${refNum(p.n)}`,
+        section: sec,
+        title: `Art. ${disp} pkt ${displayNum(p.n)}`,
+        content: supify(p.text),
+      });
     }
   }
 }
@@ -238,23 +305,25 @@ function buildParagrafRows(
   _act: ActIndexEntry,
   provisions: ParsedProvision[],
 ): void {
-  const baseRef = `par${num}`;
-  provisions.push({ provision_ref: baseRef, section: num, title: `§ ${num}`, content: body });
+  const sec = refNum(num);
+  const disp = displayNum(num);
+  const baseRef = `par${sec}`;
+  provisions.push({ provision_ref: baseRef, section: sec, title: `§ ${disp}`, content: supify(body) });
 
   const ustepParts = splitNumbered(body, USTEP_RE);
   if (ustepParts.some(p => p.n)) {
     for (const { n, text } of ustepParts) {
       if (!n) continue;
-      emitLeafWithPunkty(`${baseRef}u${n}`, `§ ${num} ust. ${n}`, num, text, provisions);
+      emitLeafWithPunkty(`${baseRef}u${refNum(n)}`, `§ ${disp} ust. ${displayNum(n)}`, sec, text, provisions);
     }
     return;
   }
   // No ustępy: split punkty straight off the § ("§ 1. … określa: 1) … 2) …").
-  const punktParts = splitNumbered(body, /(?:^|\s)(\d+[a-z]*)\)\s+/g);
+  const punktParts = splitNumbered(body, PUNKT_RE);
   if (punktParts.filter(p => p.n).length > 1) {
     for (const p of punktParts) {
       if (!p.n) continue;
-      provisions.push({ provision_ref: `${baseRef}p${p.n}`, section: num, title: `§ ${num} pkt ${p.n}`, content: p.text });
+      provisions.push({ provision_ref: `${baseRef}p${refNum(p.n)}`, section: sec, title: `§ ${disp} pkt ${displayNum(p.n)}`, content: supify(p.text) });
     }
   }
 }
@@ -270,20 +339,20 @@ function emitLeafWithPunkty(
   text: string,
   provisions: ParsedProvision[],
 ): void {
-  const punktParts = splitNumbered(text, /(?:^|\s)(\d+[a-z]*)\)\s+/g);
+  const punktParts = splitNumbered(text, PUNKT_RE);
   if (punktParts.filter(p => p.n).length > 1) {
     for (const p of punktParts) {
       if (!p.n) continue;
       provisions.push({
-        provision_ref: `${ref}p${p.n}`,
+        provision_ref: `${ref}p${refNum(p.n)}`,
         section,
-        title: `${title} pkt ${p.n}`,
-        content: p.text,
+        title: `${title} pkt ${displayNum(p.n)}`,
+        content: supify(p.text),
       });
     }
     return;
   }
-  provisions.push({ provision_ref: ref, section, title, content: text });
+  provisions.push({ provision_ref: ref, section, title, content: supify(text) });
 }
 
 /**
@@ -293,7 +362,10 @@ function emitLeafWithPunkty(
  * refs like art4u31p795. Ustęp numbers are also capped at 3 digits (real ones are
  * small; a 4-digit "number" is a year or a Dz.U. position).
  */
-const USTEP_RE = /(?:^|\s)(\d{1,3}[a-z]*)\.\s+(?=[A-ZŁŚŻŹĆŃÓĄĘ„"])/g;
+const USTEP_RE = new RegExp(String.raw`(?:^|\s)(\d{1,3}[a-z]*${SUP})\.\s+(?=[A-ZŁŚŻŹĆŃÓĄĘ„"])`, 'g');
+
+/** Punkt marker: "N)" or "N[k])" (pkt N^k). */
+const PUNKT_RE = new RegExp(String.raw`(?:^|\s)(\d+[a-z]*${SUP})\)\s+`, 'g');
 
 /** Split text on a numbered-marker regex, returning {n, text} segments. */
 function splitNumbered(text: string, re: RegExp): Array<{ n: string | null; text: string }> {
