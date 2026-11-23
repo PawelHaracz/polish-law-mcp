@@ -10,10 +10,16 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/1152",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2022 r."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
-      "content": "Następującym sądom okręgowym przekazuje się rozpoznawanie spraw własności intelektualnej: Sądowi Okręgowemu w Gdańsku - z obszaru właściwości sądów okręgowych: w Bydgoszczy, Elblągu, Koszalinie, Olsztynie, Słupsku, Toruniu i we Włocławku; Sądowi Okręgowemu w Katowicach - z obszaru właściwości sądów okręgowych w: Bielsku-Białej, Częstochowie, Gliwicach, Krakowie, Nowym Sączu, Opolu, Rybniku i Tarnowie; Sądowi Okręgowemu w Lublinie - z obszaru właściwości sądów okręgowych w: Kielcach, Krośnie, Przemyślu, Radomiu, Rzeszowie, Siedlcach, Tarnobrzegu i Zamościu; Sądowi Okręgowemu w Poznaniu - z obszaru właściwości sądów okręgowych: w Gorzowie Wielkopolskim, Jeleniej Górze, Kaliszu, Koninie, Legnicy, Łodzi, Sieradzu, Szczecinie, Świdnicy, we Wrocławiu i w Zielonej Górze; Sądowi Okręgowemu w Warszawie - z obszaru właściwości sądów okręgowych: w Białymstoku, Łomży, Ostrołęce, Piotrkowie Trybunalskim, Płocku, Suwałkach i Warszawa-Praga w Warszawie."
+      "content": "Następującym sądom okręgowym przekazuje się rozpoznawanie spraw własności intelektualnej: Sądowi Okręgowemu w Gdańsku - z obszaru właściwości sądów okręgowych: w Bydgoszczy, Elblągu, Koszalinie, Olsztynie, Słupsku, Toruniu i we Włocławku; Sądowi Okręgowemu w Katowicach - z obszaru właściwości sądów okręgowych w: Bielsku-Białej, Częstochowie, Gliwicach, Krakowie, Nowym Sączu, Opolu, Rybniku, Sosnowcu i Tarnowie; Sądowi Okręgowemu w Lublinie - z obszaru właściwości sądów okręgowych w: Kielcach, Krośnie, Przemyślu, Radomiu, Rzeszowie, Siedlcach, Tarnobrzegu i Zamościu; Sądowi Okręgowemu w Poznaniu - z obszaru właściwości sądów okręgowych: w Gorzowie Wielkopolskim, Jeleniej Górze, Kaliszu, Koninie, Legnicy, Łodzi, Sieradzu, Szczecinie, Świdnicy, we Wrocławiu i w Zielonej Górze; Sądowi Okręgowemu w Warszawie - z obszaru właściwości sądów okręgowych: w Białymstoku, Łomży, Ostrołęce, Piotrkowie Trybunalskim, Płocku, Suwałkach i Warszawa-Praga w Warszawie."
     },
     {
       "provision_ref": "par1p1",
@@ -22,10 +28,10 @@
       "content": "Następującym sądom okręgowym przekazuje się rozpoznawanie spraw własności intelektualnej: Sądowi Okręgowemu w Gdańsku - z obszaru właściwości sądów okręgowych: w Bydgoszczy, Elblągu, Koszalinie, Olsztynie, Słupsku, Toruniu i we Włocławku;"
     },
     {
-      "provision_ref": "par1p2",
+      "provision_ref": "par1p1",
       "section": "1",
-      "title": "§ 1 pkt 2",
-      "content": "Następującym sądom okręgowym przekazuje się rozpoznawanie spraw własności intelektualnej: Sądowi Okręgowemu w Katowicach - z obszaru właściwości sądów okręgowych w: Bielsku-Białej, Częstochowie, Gliwicach, Krakowie, Nowym Sączu, Opolu, Rybniku i Tarnowie;"
+      "title": "§ 1 pkt 1",
+      "content": "Następującym sądom okręgowym przekazuje się rozpoznawanie spraw własności intelektualnej: Sądowi Okręgowemu w Katowicach - z obszaru właściwości sądów okręgowych w: Bielsku-Białej, Częstochowie, Gliwicach, Krakowie, Nowym Sączu, Opolu, Rybniku, Sosnowcu i Tarnowie;"
     },
     {
       "provision_ref": "par1p3",
@@ -55,19 +61,35 @@
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2020-365",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2020-288",
+      "target_document_id": "pl-du-2021-536",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2020-875",
+      "target_document_id": "pl-du-2021-1543",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2020-1086",
+      "target_document_id": "pl-du-2020-2072",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1080",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1236",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-655",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-1259",
       "ref_type": "references"
     }
   ]

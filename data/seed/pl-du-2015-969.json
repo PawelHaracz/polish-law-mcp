@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2015/969",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -151,7 +157,7 @@
       "provision_ref": "par7",
       "section": "7",
       "title": "§ 7",
-      "content": "Odznakę nosi się na lewej piersi, po orderach i odznaczeniach, a miniaturkę - wpiętą w lewą klapę kołnierza na ubiorze z kołnierzem wykładanym albo na tej samej wysokości. W służbach mundurowych odznakę albo miniaturkę nosi się zgodnie z właściwymi przepisami mundurowymi."
+      "content": "Odznakę nosi się na lewej piersi, po orderach i odznaczeniach, a miniaturkę ‒ wpiętą w lewą klapę kołnierza na ubiorze z kołnierzem wykładanym albo na tej samej wysokości. W służbach mundurowych odznakę albo miniaturkę nosi się zgodnie z właściwymi przepisami mundurowymi."
     },
     {
       "provision_ref": "par8",
@@ -193,13 +199,21 @@
       "provision_ref": "par12",
       "section": "12",
       "title": "§ 12",
-      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia 1) Rozporządzenie zostało ogłoszone w dniu 10 lipca 2015 r. ."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-1978-130",
+      "target_document_id": "pl-du-2019-1461",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2016-984",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2016-38",
       "ref_type": "references"
     }
   ]

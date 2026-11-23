@@ -10,6 +10,18 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/1846",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Przepisy rozporządzenia, o którym mowa w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, mają zastosowanie do miesięcznych stawek wynagrodzenia zasadniczego należnych od dnia 1 stycznia 2023 r."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -37,7 +49,7 @@
       "provision_ref": "par3",
       "section": "3",
       "title": "§ 3",
-      "content": "Dyrektor Generalny Kancelarii Prezesa Rady Ministrów ustala pracownikowi wynagrodzenie w ramach stawek wynagrodzenia zasadniczego przewidzianego dla danego stanowiska, a także awansuje pracownika na stanowisko wyższe od zajmowanego. Dyrektor Generalny Kancelarii Prezesa Rady Ministrów może, w uzasadnionych przypadkach, skrócić pracownikowi okres pracy wymagany do zajmowania danego stanowiska."
+      "content": "Dyrektor Generalny Kancelarii Prezesa Rady Ministrów ustala pracownikowi wynagrodzenie w ramach stawek wynagrodzenia zasadniczego przewidzianego dla danego stanowiska, a także awansuje pracownika na stanowisko wyższe od zajmowanego. Dyrektor Generalny Kancelarii Prezesa Rady Ministrów może, w uzasadnionych przypadkach, skrócić pracownikowi okres doświadczenia zawodowego wymagany do zajmowania danego stanowiska."
     },
     {
       "provision_ref": "par3u1",
@@ -49,13 +61,25 @@
       "provision_ref": "par3u2",
       "section": "3",
       "title": "§ 3 ust. 2",
-      "content": "Dyrektor Generalny Kancelarii Prezesa Rady Ministrów może, w uzasadnionych przypadkach, skrócić pracownikowi okres pracy wymagany do zajmowania danego stanowiska."
+      "content": "Dyrektor Generalny Kancelarii Prezesa Rady Ministrów może, w uzasadnionych przypadkach, skrócić pracownikowi okres doświadczenia zawodowego wymagany do zajmowania danego stanowiska."
     },
     {
       "provision_ref": "par4",
       "section": "4",
       "title": "§ 4",
-      "content": "Dyrektor Generalny Kancelarii Prezesa Rady Ministrów, na wniosek kierownika komórki organizacyjnej, może, w ramach posiadanych środków, przyznać pracownikowi dodatek służbowy w wysokości do 40% wynagrodzenia zasadniczego. Wysokość dodatku służbowego uzależnia się od charakteru, złożoności i efektów pracy."
+      "content": "Dyrektor Generalny Kancelarii Prezesa Rady Ministrów, na wniosek kierownika komórki organizacyjnej, może, w ramach posiadanych środków, przyznać pracownikowi dodatek służbowy w wysokości do 40 % wynagrodzenia zasadniczego. Wysokość dodatku służbowego uzależnia się od charakteru, złożoności i efektów pracy. W szczególnie uzasadnionych przypadkach dodatek służbowy może być przyznany w wysokości wyższej niż określona w ust. 1."
+    },
+    {
+      "provision_ref": "par4u1",
+      "section": "4",
+      "title": "§ 4 ust. 1",
+      "content": "Dyrektor Generalny Kancelarii Prezesa Rady Ministrów, na wniosek kierownika komórki organizacyjnej, może, w ramach posiadanych środków, przyznać pracownikowi dodatek służbowy w wysokości do 40 % wynagrodzenia zasadniczego. Wysokość dodatku służbowego uzależnia się od charakteru, złożoności i efektów pracy."
+    },
+    {
+      "provision_ref": "par4u2",
+      "section": "4",
+      "title": "§ 4 ust. 2",
+      "content": "W szczególnie uzasadnionych przypadkach dodatek służbowy może być przyznany w wysokości wyższej niż określona w ust. 1."
     },
     {
       "provision_ref": "par5",
@@ -67,13 +91,25 @@
       "provision_ref": "par6",
       "section": "6",
       "title": "§ 6",
-      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 6 października 2020 r."
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia 1) Rozporządzenie zostało ogłoszone w dniu 20 października 2020 r. , z mocą od dnia 6 października 2020 r."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2020-537",
+      "target_document_id": "pl-du-2019-1461",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-1924",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-609",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1917",
       "ref_type": "references"
     },
     {

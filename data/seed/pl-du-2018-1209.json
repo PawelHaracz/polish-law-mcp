@@ -10,6 +10,18 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2018/1209",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Do wniosków o zwrot opłaconych składek złożonych i nierozpatrzonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -49,21 +61,29 @@
       "provision_ref": "par5",
       "section": "5",
       "title": "§ 5",
-      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 8 października 2009 r. w sprawie wzoru wniosku spółdzielni socjalnej o zwrot opłaconych składek oraz trybu dokonywania ich zwrotu (Dz. U. poz. 1367), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 9 ust. 1 ustawy z dnia 15 grudnia 2017 r. o zmianie ustawy o spółdzielniach socjalnych oraz niektórych innych ustaw (Dz. U. poz. 2494)."
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia 2) Rozporządzenie zostało ogłoszone w dniu 22 czerwca 2018 r. . 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 8 października 2009 r. w sprawie wzoru wniosku spółdzielni socjalnej o zwrot opłaconych składek oraz trybu dokonywania ich zwrotu (Dz. U. poz. 1367), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 9 ust. 1 ustawy z dnia 15 grudnia 2017 r. o zmianie ustawy o spółdzielniach socjalnych oraz niektórych innych ustaw (Dz. U. poz. 2494)."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2018-1205",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2017-1560",
+      "target_document_id": "pl-du-2023-722",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2017-1596",
+      "target_document_id": "pl-du-2023-802",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-648",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1450",
       "ref_type": "references"
     }
   ]

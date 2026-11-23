@@ -2,6 +2,7 @@ node_modules/
 dist/
 *.db
 *.db.bak
+*.db.pre-*
 *.db-shm
 *.db-wal
 .env

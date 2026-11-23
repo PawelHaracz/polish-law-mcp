@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2012/182",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -145,7 +151,7 @@
       "provision_ref": "par5",
       "section": "5",
       "title": "§ 5",
-      "content": "W skład komisji konkursowej nie może być powołana osoba, która jest małżonkiem lub krewnym albo powinowatym do drugiego stopnia włącznie osoby, której dotyczy postępowanie konkursowe, albo pozostaje wobec niej w takim stosunku prawnym lub faktycznym, że może to budzić uzasadnione wątpliwości co do jej bezstronności. Jeżeli okoliczności, o których mowa w ust. 1, zostaną ujawnione po powołaniu komisji konkursowej, właściwy podmiot dokonuje w jej składzie odpowiedniej zmiany; komisja konkursowa w nowym składzie może uznać za ważne czynności dokonane przez komisję konkursową działającą w składzie poprzednim."
+      "content": "W skład komisji konkursowej nie może być powołana osoba, która jest małżonkiem lub krewnym albo powinowatym do drugiego stopnia włącznie osoby, której dotyczy postępowanie konkursowe, albo pozostaje wobec niej w takim stosunku prawnym lub faktycznym, że może to budzić uzasadnione wątpliwości co do jej bezstronności. W przypadku ujawnienia po powołaniu komisji konkursowej okoliczności, o których mowa w ust. 1, lub w przypadku gdy o stanowisko zastępcy kierownika podmiotu leczniczego lub ordynatora ubiega się kierownik tego podmiotu lub jego zastępca, właściwy podmiot dokonuje w jej składzie odpowiedniej zmiany; komisja konkursowa w nowym składzie może uznać za ważne czynności dokonane przez komisję konkursową działającą w składzie poprzednim."
     },
     {
       "provision_ref": "par5u1",
@@ -157,7 +163,7 @@
       "provision_ref": "par5u2",
       "section": "5",
       "title": "§ 5 ust. 2",
-      "content": "Jeżeli okoliczności, o których mowa w ust. 1, zostaną ujawnione po powołaniu komisji konkursowej, właściwy podmiot dokonuje w jej składzie odpowiedniej zmiany; komisja konkursowa w nowym składzie może uznać za ważne czynności dokonane przez komisję konkursową działającą w składzie poprzednim."
+      "content": "W przypadku ujawnienia po powołaniu komisji konkursowej okoliczności, o których mowa w ust. 1, lub w przypadku gdy o stanowisko zastępcy kierownika podmiotu leczniczego lub ordynatora ubiega się kierownik tego podmiotu lub jego zastępca, właściwy podmiot dokonuje w jej składzie odpowiedniej zmiany; komisja konkursowa w nowym składzie może uznać za ważne czynności dokonane przez komisję konkursową działającą w składzie poprzednim."
     },
     {
       "provision_ref": "par6",
@@ -187,7 +193,7 @@
       "provision_ref": "par7",
       "section": "7",
       "title": "§ 7",
-      "content": "Właściwy podmiot powiadamia pisemnie przewodniczącego komisji konkursowej o składzie osobowym komisji. Przewodniczący komisji konkursowej powiadamia pisemnie członków komisji o posiedzeniu komisji konkursowej co najmniej na 14 dni przed wyznaczonym terminem posiedzenia. Przyjęcie regulaminu konkursu i projektu ogłoszenia o konkursie może odbywać się w drodze korespondencyjnej. Regulamin konkursu i projekt ogłoszenia o konkursie uważa się za przyjęty, jeżeli żaden z członków komisji konkursowej nie zgłosi uwag w terminie wskazanym przez przewodniczącego komisji konkursowej. W przypadku nieprzyjęcia dokumentów, o których mowa w ust. 3, przez komisję konkursową w drodze korespondencyjnej, przewodniczący komisji konkursowej zarządza posiedzenie komisji. Przewodniczący komisji konkursowej przekazuje właściwemu podmiotowi regulamin konkursu oraz projekt ogłoszenia o konkursie."
+      "content": "Właściwy podmiot powiadamia pisemnie przewodniczącego komisji konkursowej o składzie osobowym komisji. Przewodniczący komisji konkursowej powiadamia pisemnie członków komisji o posiedzeniu komisji konkursowej co najmniej na 7 dni przed wyznaczonym terminem posiedzenia. Przyjęcie regulaminu konkursu i projektu ogłoszenia o konkursie może odbywać się w drodze korespondencyjnej. Regulamin konkursu i projekt ogłoszenia o konkursie uważa się za przyjęty, jeżeli żaden z członków komisji konkursowej nie zgłosi uwag w terminie wskazanym przez przewodniczącego komisji konkursowej. W przypadku nieprzyjęcia dokumentów, o których mowa w ust. 3, przez komisję konkursową w drodze korespondencyjnej, przewodniczący komisji konkursowej zarządza posiedzenie komisji. Przewodniczący komisji konkursowej przekazuje właściwemu podmiotowi regulamin konkursu oraz projekt ogłoszenia o konkursie."
     },
     {
       "provision_ref": "par7u1",
@@ -199,7 +205,7 @@
       "provision_ref": "par7u2",
       "section": "7",
       "title": "§ 7 ust. 2",
-      "content": "Przewodniczący komisji konkursowej powiadamia pisemnie członków komisji o posiedzeniu komisji konkursowej co najmniej na 14 dni przed wyznaczonym terminem posiedzenia."
+      "content": "Przewodniczący komisji konkursowej powiadamia pisemnie członków komisji o posiedzeniu komisji konkursowej co najmniej na 7 dni przed wyznaczonym terminem posiedzenia."
     },
     {
       "provision_ref": "par7u3",
@@ -223,7 +229,7 @@
       "provision_ref": "par8",
       "section": "8",
       "title": "§ 8",
-      "content": "Postępowanie konkursowe jest nieważne w przypadku: niezachowania kolejności czynności, o których mowa w § 4 ust. 1; niedokonania jednej lub więcej czynności określonych w § 4 ust. 1; niespełnienia warunków określonych w § 9; rozpatrzenia kandydatury osoby, która nie złożyła jednego lub więcej dokumentów, o których mowa w § 12; ujawnienia, po zakończeniu postępowania konkursowego, że do składu komisji konkursowej powołane zostały osoby, o których mowa w § 5 ust. 1; naruszenia tajności głosowania; niepowiadomienia kandydata lub członka komisji konkursowej o terminie posiedzenia komisji. Wniosek o stwierdzenie nieważności postępowania konkursowego zgłasza się do właściwego podmiotu w terminie 14 dni od dnia wybrania przez komisję konkursową kandydata na stanowisko objęte konkursem. W przypadku stwierdzenia nieważności postępowania konkursowego właściwy podmiot ogłasza konkurs ponownie. Ponowne wszczęcie postępowania konkursowego następuje w terminie 2 miesięcy od dnia stwierdzenia nieważności postępowania konkursowego."
+      "content": "Postępowanie konkursowe jest nieważne w przypadku: niezachowania kolejności czynności, o których mowa w § 4 ust. 1; niedokonania jednej lub więcej czynności określonych w § 4 ust. 1; niespełnienia warunków określonych w § 9; rozpatrzenia kandydatury osoby, która nie złożyła jednego lub więcej dokumentów, o których mowa w § 12; ujawnienia, po zakończeniu postępowania konkursowego, że do składu komisji konkursowej powołane zostały osoby, o których mowa w § 5 ust. 1; naruszenia tajności głosowania; niepowiadomienia kandydata lub członka komisji konkursowej o terminie posiedzenia komisji. Stwierdzenie nieważności postępowania konkursowego następuje wyłącznie na wniosek, który zgłasza się do właściwego podmiotu nie później niż w terminie 14 dni od dnia wybrania przez komisję konkursową kandydata na stanowisko objęte konkursem. W przypadku stwierdzenia nieważności postępowania konkursowego komisja konkursowa ulega rozwiązaniu, a właściwy podmiot powołuje nową komisję konkursową. Ponowne wszczęcie postępowania konkursowego następuje w terminie 2 miesięcy od dnia stwierdzenia nieważności postępowania konkursowego."
     },
     {
       "provision_ref": "par8u1p1",
@@ -271,19 +277,19 @@
       "provision_ref": "par8u2",
       "section": "8",
       "title": "§ 8 ust. 2",
-      "content": "Wniosek o stwierdzenie nieważności postępowania konkursowego zgłasza się do właściwego podmiotu w terminie 14 dni od dnia wybrania przez komisję konkursową kandydata na stanowisko objęte konkursem."
+      "content": "Stwierdzenie nieważności postępowania konkursowego następuje wyłącznie na wniosek, który zgłasza się do właściwego podmiotu nie później niż w terminie 14 dni od dnia wybrania przez komisję konkursową kandydata na stanowisko objęte konkursem."
     },
     {
       "provision_ref": "par8u3",
       "section": "8",
       "title": "§ 8 ust. 3",
-      "content": "W przypadku stwierdzenia nieważności postępowania konkursowego właściwy podmiot ogłasza konkurs ponownie. Ponowne wszczęcie postępowania konkursowego następuje w terminie 2 miesięcy od dnia stwierdzenia nieważności postępowania konkursowego."
+      "content": "W przypadku stwierdzenia nieważności postępowania konkursowego komisja konkursowa ulega rozwiązaniu, a właściwy podmiot powołuje nową komisję konkursową. Ponowne wszczęcie postępowania konkursowego następuje w terminie 2 miesięcy od dnia stwierdzenia nieważności postępowania konkursowego."
     },
     {
       "provision_ref": "par9",
       "section": "9",
       "title": "§ 9",
-      "content": "Ogłoszenie o konkursie zawiera w szczególności: nazwę i adres podmiotu leczniczego; informację o zasadach udostępniania materiałów informacyjnych o stanie prawnym, organizacyjnym i ekonomicznym podmiotu leczniczego; stanowisko objęte konkursem; wymagane kwalifikacje kandydata; miejsce oraz termin złożenia wymaganych od kandydatów dokumentów, nie krótszy niż 30 dni od dnia opublikowania ogłoszenia; przewidywany termin rozpatrzenia zgłoszonych kandydatur. W ogłoszeniu można zamieścić informację o warunkach pracy i warunkach socjalnych, które zapewnia podmiot leczniczy. Ogłoszenie o konkursie należy: zamieścić w prasie codziennej o zasięgu ogólnokrajowym; podać do wiadomości w sposób zwyczajowo przyjęty w siedzibie podmiotu leczniczego."
+      "content": "Ogłoszenie o konkursie zawiera w szczególności: nazwę i adres podmiotu leczniczego; informację o zasadach udostępniania materiałów informacyjnych o stanie prawnym, organizacyjnym i ekonomicznym podmiotu leczniczego; stanowisko objęte konkursem; wymagane kwalifikacje kandydata; miejsce oraz termin złożenia wymaganych od kandydatów dokumentów, nie krótszy niż 10 dni od dnia opublikowania ogłoszenia; przewidywane miejsce oraz termin rozpatrzenia zgłoszonych kandydatur. W ogłoszeniu można zamieścić informację o warunkach pracy i warunkach socjalnych, które zapewnia podmiot leczniczy. Ogłoszenie o konkursie należy: udostępnić na stronie podmiotowej Biuletynu Informacji Publicznej podmiotu tworzącego; podać do wiadomości w sposób zwyczajowo przyjęty w siedzibie podmiotu leczniczego."
     },
     {
       "provision_ref": "par9u1p1",
@@ -313,13 +319,13 @@
       "provision_ref": "par9u1p5",
       "section": "9",
       "title": "§ 9 ust. 1 pkt 5",
-      "content": "Ogłoszenie o konkursie zawiera w szczególności: miejsce oraz termin złożenia wymaganych od kandydatów dokumentów, nie krótszy niż 30 dni od dnia opublikowania ogłoszenia;"
+      "content": "Ogłoszenie o konkursie zawiera w szczególności: miejsce oraz termin złożenia wymaganych od kandydatów dokumentów, nie krótszy niż 10 dni od dnia opublikowania ogłoszenia;"
     },
     {
       "provision_ref": "par9u1p6",
       "section": "9",
       "title": "§ 9 ust. 1 pkt 6",
-      "content": "Ogłoszenie o konkursie zawiera w szczególności: przewidywany termin rozpatrzenia zgłoszonych kandydatur."
+      "content": "Ogłoszenie o konkursie zawiera w szczególności: przewidywane miejsce oraz termin rozpatrzenia zgłoszonych kandydatur."
     },
     {
       "provision_ref": "par9u2",
@@ -331,7 +337,7 @@
       "provision_ref": "par9u3p1",
       "section": "9",
       "title": "§ 9 ust. 3 pkt 1",
-      "content": "Ogłoszenie o konkursie należy: zamieścić w prasie codziennej o zasięgu ogólnokrajowym;"
+      "content": "Ogłoszenie o konkursie należy: udostępnić na stronie podmiotowej Biuletynu Informacji Publicznej podmiotu tworzącego;"
     },
     {
       "provision_ref": "par9u3p2",
@@ -343,13 +349,13 @@
       "provision_ref": "par10",
       "section": "10",
       "title": "§ 10",
-      "content": "W skład komisji konkursowej wchodzą: w przypadku gdy postępowanie konkursowe dotyczy stanowiska kierownika podmiotu leczniczego: od trzech do sześciu przedstawicieli podmiotu tworzącego, w tym przynajmniej jeden lekarz; podmiot tworzący wskazuje spośród przedstawicieli przewodniczącego komisji, przedstawiciel rady społecznej podmiotu leczniczego, przedstawiciel rektora państwowej uczelni medycznej albo państwowej uczelni prowadzącej działalność dydaktyczną i badawczą w dziedzinie nauk medycznych, jeżeli podmiot leczniczy zawarł z nią umowę o udostępnienie go na potrzeby wykonywania zadań dydaktycznych i badawczych w powiązaniu z udzielaniem świadczeń zdrowotnych i promocją zdrowia; w przypadku gdy postępowanie konkursowe dotyczy stanowiska zastępcy kierownika podmiotu leczniczego: od trzech do sześciu przedstawicieli podmiotu tworzącego, w tym przynajmniej jeden lekarz; podmiot tworzący wskazuje spośród przedstawicieli przewodniczącego komisji, przedstawiciel okręgowej rady lekarskiej właściwej ze względu na siedzibę podmiotu leczniczego, a jeżeli postępowanie konkursowe jest realizowane w podmiocie leczniczym, w którym są zatrudnieni członkowie Wojskowej Izby Lekarskiej, również przedstawiciel tej izby; w przypadku gdy postępowanie konkursowe jest realizowane w podmiocie leczniczym utworzonym przez Ministra Obrony Narodowej - przedstawiciel Wojskowej Izby Lekarskiej, przedstawiciel okręgowej rady pielęgniarek i położnych właściwej ze względu na siedzibę podmiotu leczniczego, przedstawiciel zakładowych organizacji związkowych działających w podmiocie leczniczym, przedstawiciel rady społecznej podmiotu leczniczego, przedstawiciel rektora państwowej uczelni medycznej albo państwowej uczelni prowadzącej działalność dydaktyczną i badawczą w dziedzinie nauk medycznych, jeżeli podmiot leczniczy zawarł z nią umowę o udostępnienie go na potrzeby wykonywania zadań dydaktycznych i badawczych w powiązaniu z udzielaniem świadczeń zdrowotnych i promocją zdrowia, i kierownik podmiotu leczniczego - w przypadku gdy postępowanie konkursowe dotyczy zastępcy kierownika podmiotu leczniczego; w przypadku gdy postępowanie konkursowe dotyczy stanowiska ordynatora: przedstawiciel okręgowej rady lekarskiej właściwej ze względu na siedzibę podmiotu leczniczego - lekarz posiadający specjalizację w danej lub pokrewnej dziedzinie medycyny jako przewodniczący komisji, a jeżeli postępowanie konkursowe jest realizowane w podmiocie leczniczym, w którym są zatrudnieni członkowie Wojskowej Izby Lekarskiej, również przedstawiciel tej izby; w przypadku gdy postępowanie konkursowe jest realizowane w podmiocie leczniczym utworzonym przez Ministra Obrony Narodowej - przedstawiciel Wojskowej Izby Lekarskiej jako przewodniczący komisji, od trzech do sześciu przedstawicieli kierownika podmiotu leczniczego, z tym że w przypadku gdy o stanowisko ordynatora ubiega się kierownik podmiotu lub jego zastępca do spraw lecznictwa - od trzech do sześciu przedstawicieli podmiotu tworzącego - w takim przypadku nie powołuje się w skład komisji przedstawiciela podmiotu tworzącego, o którym mowa w lit. e, dwaj lekarze - przedstawiciele okręgowej izby lekarskiej właściwej ze względu na siedzibę podmiotu leczniczego, posiadający specjalizację w danej lub pokrewnej dziedzinie medycyny, przedstawiciel okręgowej rady pielęgniarek i położnych właściwej ze względu na siedzibę podmiotu leczniczego, przedstawiciel podmiotu tworzącego; w przypadku gdy postępowanie konkursowe dotyczy stanowiska naczelnej pielęgniarki lub przełożonej pielęgniarek: przedstawiciel okręgowej rady pielęgniarek i położnych właściwej ze względu na siedzibę podmiotu leczniczego jako przewodniczący komisji, od trzech do sześciu przedstawicieli kierownika podmiotu leczniczego, przedstawiciel okręgowej rady lekarskiej właściwej ze względu na siedzibę podmiotu leczniczego, przedstawiciel zakładowych organizacji związkowych działających w podmiocie leczniczym, z wyjątkiem konkursu na stanowisko przełożonej pielęgniarek, dwaj przedstawiciele okręgowej rady pielęgniarek i położnych właściwej ze względu na siedzibę podmiotu leczniczego, przedstawiciel właściwego towarzystwa naukowego; w przypadku gdy postępowanie konkursowe dotyczy stanowiska pielęgniarki oddziałowej: przedstawiciel okręgowej rady pielęgniarek i położnych właściwej ze względu na siedzibę podmiotu leczniczego jako przewodniczący komisji, od trzech do sześciu przedstawicieli kierownika podmiotu leczniczego, ordynator danego oddziału lub lekarz kierujący danym oddziałem, przełożona pielęgniarek albo naczelna pielęgniarka, przedstawiciel okręgowej rady lekarskiej właściwej ze względu na siedzibę podmiotu leczniczego, a jeżeli postępowanie konkursowe jest realizowane w podmiocie leczniczym, w którym są zatrudnieni członkowie Wojskowej Izby Lekarskiej, również przedstawiciel tej izby; w przypadku gdy postępowanie konkursowe jest realizowane w podmiocie leczniczym utworzonym przez Ministra Obrony Narodowej - przedstawiciel Wojskowej Izby Lekarskiej, dwaj przedstawiciele okręgowej rady pielęgniarek i położnych właściwej ze względu na siedzibę podmiotu leczniczego."
+      "content": "W skład komisji konkursowej wchodzą: w przypadku gdy postępowanie konkursowe dotyczy stanowiska kierownika podmiotu leczniczego: od trzech do sześciu przedstawicieli podmiotu tworzącego, posiadających wykształcenie wyższe, w tym przynajmniej jeden lekarz; podmiot tworzący wskazuje spośród przedstawicieli przewodniczącego komisji, przedstawiciel rady społecznej podmiotu leczniczego, przedstawiciel rektora państwowej uczelni medycznej albo państwowej uczelni prowadzącej działalność dydaktyczną i badawczą w dziedzinie nauk medycznych, jeżeli podmiot leczniczy zawarł z nią umowę o udostępnienie go na potrzeby wykonywania zadań dydaktycznych i badawczych w powiązaniu z udzielaniem świadczeń zdrowotnych i promocją zdrowia; w przypadku gdy postępowanie konkursowe dotyczy stanowiska zastępcy kierownika podmiotu leczniczego: od trzech do sześciu przedstawicieli kierownika podmiotu leczniczego; kierownik podmiotu leczniczego wskazuje spośród przedstawicieli przewodniczącego komisji, a jeżeli o stanowisko zastępcy kierownika ubiega się kierownik tego podmiotu lub jego zastępca - od trzech do sześciu przedstawicieli podmiotu tworzącego, spośród których podmiot tworzący wskazuje przewodniczącego komisji - w takim przypadku nie powołuje się w skład komisji przedstawiciela podmiotu tworzącego, o którym mowa w lit. g; kierownik podmiotu leczniczego oraz podmiot tworzący wskazują swoich przedstawicieli spośród osób posiadających wykształcenie wyższe, a przynajmniej jeden z przedstawicieli musi być lekarzem, przedstawiciel okręgowej rady lekarskiej właściwej ze względu na siedzibę podmiotu leczniczego, a jeżeli postępowanie konkursowe jest realizowane w podmiocie leczniczym, w którym są zatrudnieni członkowie Wojskowej Izby Lekarskiej, również przedstawiciel tej izby; w przypadku gdy postępowanie konkursowe jest realizowane w podmiocie leczniczym utworzonym przez Ministra Obrony Narodowej - przedstawiciel Wojskowej Izby Lekarskiej, przedstawiciel okręgowej rady pielęgniarek i położnych właściwej ze względu na siedzibę podmiotu leczniczego, przedstawiciel zakładowych organizacji związkowych działających w podmiocie leczniczym, przedstawiciel rady społecznej podmiotu leczniczego, przedstawiciel rektora państwowej uczelni medycznej albo państwowej uczelni prowadzącej działalność dydaktyczną i badawczą w dziedzinie nauk medycznych, jeżeli podmiot leczniczy zawarł z nią umowę o udostępnienie go na potrzeby wykonywania zadań dydaktycznych i badawczych w powiązaniu z udzielaniem świadczeń zdrowotnych i promocją zdrowia, i kierownik podmiotu leczniczego - w przypadku gdy postępowanie konkursowe dotyczy zastępcy kierownika podmiotu leczniczego, przedstawiciel podmiotu tworzącego; w przypadku gdy postępowanie konkursowe dotyczy stanowiska ordynatora: przedstawiciel okręgowej rady lekarskiej właściwej ze względu na siedzibę podmiotu leczniczego - lekarz posiadający specjalizację w danej lub pokrewnej dziedzinie medycyny jako przewodniczący komisji, a jeżeli postępowanie konkursowe jest realizowane w podmiocie leczniczym, w którym są zatrudnieni członkowie Wojskowej Izby Lekarskiej, również przedstawiciel tej izby; w przypadku gdy postępowanie konkursowe jest realizowane w podmiocie leczniczym utworzonym przez Ministra Obrony Narodowej - przedstawiciel Wojskowej Izby Lekarskiej jako przewodniczący komisji, od trzech do sześciu przedstawicieli kierownika podmiotu leczniczego, a w przypadku gdy o stanowisko ordynatora ubiega się kierownik tego podmiotu lub jego zastępca do spraw lecznictwa - od trzech do sześciu przedstawicieli podmiotu tworzącego - w takim przypadku nie powołuje się w skład komisji przedstawiciela podmiotu tworzącego, o którym mowa w lit. e; kierownik podmiotu leczniczego oraz podmiot tworzący wskazują swoich przedstawicieli spośród osób posiadających wykształcenie wyższe, a przynajmniej jeden z przedstawicieli musi być lekarzem, dwaj lekarze - przedstawiciele okręgowej izby lekarskiej właściwej ze względu na siedzibę podmiotu leczniczego, posiadający specjalizację w danej lub pokrewnej dziedzinie medycyny, przedstawiciel okręgowej rady pielęgniarek i położnych właściwej ze względu na siedzibę podmiotu leczniczego, przedstawiciel podmiotu tworzącego; w przypadku gdy postępowanie konkursowe dotyczy stanowiska naczelnej pielęgniarki lub przełożonej pielęgniarek: przedstawiciel okręgowej rady pielęgniarek i położnych właściwej ze względu na siedzibę podmiotu leczniczego jako przewodniczący komisji, od trzech do sześciu przedstawicieli kierownika podmiotu leczniczego, posiadających wykształcenie wyższe, w tym przynajmniej jeden lekarz, przedstawiciel okręgowej rady lekarskiej właściwej ze względu na siedzibę podmiotu leczniczego, przedstawiciel zakładowych organizacji związkowych działających w podmiocie leczniczym, z wyjątkiem konkursu na stanowisko przełożonej pielęgniarek, dwaj przedstawiciele okręgowej rady pielęgniarek i położnych właściwej ze względu na siedzibę podmiotu leczniczego, przedstawiciel właściwego towarzystwa naukowego; w przypadku gdy postępowanie konkursowe dotyczy stanowiska pielęgniarki oddziałowej: przedstawiciel okręgowej rady pielęgniarek i położnych właściwej ze względu na siedzibę podmiotu leczniczego jako przewodniczący komisji, od trzech do sześciu przedstawicieli kierownika podmiotu leczniczego, posiadających wykształcenie wyższe, w tym przynajmniej jeden lekarz, ordynator danego oddziału lub lekarz kierujący danym oddziałem, przełożona pielęgniarek albo naczelna pielęgniarka, przedstawiciel okręgowej rady lekarskiej właściwej ze względu na siedzibę podmiotu leczniczego, a jeżeli postępowanie konkursowe jest realizowane w podmiocie leczniczym, w którym są zatrudnieni członkowie Wojskowej Izby Lekarskiej, również przedstawiciel tej izby; w przypadku gdy postępowanie konkursowe jest realizowane w podmiocie leczniczym utworzonym przez Ministra Obrony Narodowej - przedstawiciel Wojskowej Izby Lekarskiej, dwaj przedstawiciele okręgowej rady pielęgniarek i położnych właściwej ze względu na siedzibę podmiotu leczniczego."
     },
     {
       "provision_ref": "par10p1la",
       "section": "10",
       "title": "§ 10 pkt 1 lit. a",
-      "content": "W skład komisji konkursowej wchodzą: w przypadku gdy postępowanie konkursowe dotyczy stanowiska kierownika podmiotu leczniczego: od trzech do sześciu przedstawicieli podmiotu tworzącego, w tym przynajmniej jeden lekarz; podmiot tworzący wskazuje spośród przedstawicieli przewodniczącego komisji,"
+      "content": "W skład komisji konkursowej wchodzą: w przypadku gdy postępowanie konkursowe dotyczy stanowiska kierownika podmiotu leczniczego: od trzech do sześciu przedstawicieli podmiotu tworzącego, posiadających wykształcenie wyższe, w tym przynajmniej jeden lekarz; podmiot tworzący wskazuje spośród przedstawicieli przewodniczącego komisji,"
     },
     {
       "provision_ref": "par10p1lb",
@@ -367,7 +373,7 @@
       "provision_ref": "par10p2la",
       "section": "10",
       "title": "§ 10 pkt 2 lit. a",
-      "content": "W skład komisji konkursowej wchodzą: w przypadku gdy postępowanie konkursowe dotyczy stanowiska zastępcy kierownika podmiotu leczniczego: od trzech do sześciu przedstawicieli podmiotu tworzącego, w tym przynajmniej jeden lekarz; podmiot tworzący wskazuje spośród przedstawicieli przewodniczącego komisji,"
+      "content": "W skład komisji konkursowej wchodzą: w przypadku gdy postępowanie konkursowe dotyczy stanowiska zastępcy kierownika podmiotu leczniczego: od trzech do sześciu przedstawicieli kierownika podmiotu leczniczego; kierownik podmiotu leczniczego wskazuje spośród przedstawicieli przewodniczącego komisji, a jeżeli o stanowisko zastępcy kierownika ubiega się kierownik tego podmiotu lub jego zastępca - od trzech do sześciu przedstawicieli podmiotu tworzącego, spośród których podmiot tworzący wskazuje przewodniczącego komisji - w takim przypadku nie powołuje się w skład komisji przedstawiciela podmiotu tworzącego, o którym mowa w lit. g; kierownik podmiotu leczniczego oraz podmiot tworzący wskazują swoich przedstawicieli spośród osób posiadających wykształcenie wyższe, a przynajmniej jeden z przedstawicieli musi być lekarzem,"
     },
     {
       "provision_ref": "par10p2lb",
@@ -397,7 +403,13 @@
       "provision_ref": "par10p2lf",
       "section": "10",
       "title": "§ 10 pkt 2 lit. f",
-      "content": "W skład komisji konkursowej wchodzą: w przypadku gdy postępowanie konkursowe dotyczy stanowiska zastępcy kierownika podmiotu leczniczego: przedstawiciel rektora państwowej uczelni medycznej albo państwowej uczelni prowadzącej działalność dydaktyczną i badawczą w dziedzinie nauk medycznych, jeżeli podmiot leczniczy zawarł z nią umowę o udostępnienie go na potrzeby wykonywania zadań dydaktycznych i badawczych w powiązaniu z udzielaniem świadczeń zdrowotnych i promocją zdrowia, i kierownik podmiotu leczniczego - w przypadku gdy postępowanie konkursowe dotyczy zastępcy kierownika podmiotu leczniczego;"
+      "content": "W skład komisji konkursowej wchodzą: w przypadku gdy postępowanie konkursowe dotyczy stanowiska zastępcy kierownika podmiotu leczniczego: przedstawiciel rektora państwowej uczelni medycznej albo państwowej uczelni prowadzącej działalność dydaktyczną i badawczą w dziedzinie nauk medycznych, jeżeli podmiot leczniczy zawarł z nią umowę o udostępnienie go na potrzeby wykonywania zadań dydaktycznych i badawczych w powiązaniu z udzielaniem świadczeń zdrowotnych i promocją zdrowia, i kierownik podmiotu leczniczego - w przypadku gdy postępowanie konkursowe dotyczy zastępcy kierownika podmiotu leczniczego,"
+    },
+    {
+      "provision_ref": "par10p2lg",
+      "section": "10",
+      "title": "§ 10 pkt 2 lit. g",
+      "content": "W skład komisji konkursowej wchodzą: w przypadku gdy postępowanie konkursowe dotyczy stanowiska zastępcy kierownika podmiotu leczniczego: przedstawiciel podmiotu tworzącego;"
     },
     {
       "provision_ref": "par10p3la",
@@ -409,7 +421,7 @@
       "provision_ref": "par10p3lb",
       "section": "10",
       "title": "§ 10 pkt 3 lit. b",
-      "content": "W skład komisji konkursowej wchodzą: w przypadku gdy postępowanie konkursowe dotyczy stanowiska ordynatora: od trzech do sześciu przedstawicieli kierownika podmiotu leczniczego, z tym że w przypadku gdy o stanowisko ordynatora ubiega się kierownik podmiotu lub jego zastępca do spraw lecznictwa - od trzech do sześciu przedstawicieli podmiotu tworzącego - w takim przypadku nie powołuje się w skład komisji przedstawiciela podmiotu tworzącego, o którym mowa w lit. e,"
+      "content": "W skład komisji konkursowej wchodzą: w przypadku gdy postępowanie konkursowe dotyczy stanowiska ordynatora: od trzech do sześciu przedstawicieli kierownika podmiotu leczniczego, a w przypadku gdy o stanowisko ordynatora ubiega się kierownik tego podmiotu lub jego zastępca do spraw lecznictwa - od trzech do sześciu przedstawicieli podmiotu tworzącego - w takim przypadku nie powołuje się w skład komisji przedstawiciela podmiotu tworzącego, o którym mowa w lit. e; kierownik podmiotu leczniczego oraz podmiot tworzący wskazują swoich przedstawicieli spośród osób posiadających wykształcenie wyższe, a przynajmniej jeden z przedstawicieli musi być lekarzem,"
     },
     {
       "provision_ref": "par10p3lc",
@@ -439,7 +451,7 @@
       "provision_ref": "par10p4lb",
       "section": "10",
       "title": "§ 10 pkt 4 lit. b",
-      "content": "W skład komisji konkursowej wchodzą: w przypadku gdy postępowanie konkursowe dotyczy stanowiska naczelnej pielęgniarki lub przełożonej pielęgniarek: od trzech do sześciu przedstawicieli kierownika podmiotu leczniczego,"
+      "content": "W skład komisji konkursowej wchodzą: w przypadku gdy postępowanie konkursowe dotyczy stanowiska naczelnej pielęgniarki lub przełożonej pielęgniarek: od trzech do sześciu przedstawicieli kierownika podmiotu leczniczego, posiadających wykształcenie wyższe, w tym przynajmniej jeden lekarz,"
     },
     {
       "provision_ref": "par10p4lc",
@@ -475,7 +487,7 @@
       "provision_ref": "par10p5lb",
       "section": "10",
       "title": "§ 10 pkt 5 lit. b",
-      "content": "W skład komisji konkursowej wchodzą: w przypadku gdy postępowanie konkursowe dotyczy stanowiska pielęgniarki oddziałowej: od trzech do sześciu przedstawicieli kierownika podmiotu leczniczego,"
+      "content": "W skład komisji konkursowej wchodzą: w przypadku gdy postępowanie konkursowe dotyczy stanowiska pielęgniarki oddziałowej: od trzech do sześciu przedstawicieli kierownika podmiotu leczniczego, posiadających wykształcenie wyższe, w tym przynajmniej jeden lekarz,"
     },
     {
       "provision_ref": "par10p5lc",
@@ -511,7 +523,7 @@
       "provision_ref": "par12",
       "section": "12",
       "title": "§ 12",
-      "content": "Kandydaci zgłaszający się do konkursu składają: podanie o przyjęcie na stanowisko objęte konkursem; dokumenty stwierdzające kwalifikacje zawodowe wymagane do zajmowania danego stanowiska, a kandydaci na stanowiska, z którymi wiąże się posiadanie prawa wykonywania zawodu, dokument potwierdzający to prawo; opisany przez kandydata przebieg pracy zawodowej; inne dokumenty, w szczególności potwierdzające dorobek i kwalifikacje zawodowe kandydata; kopie dokumentów, o których mowa w pkt 4, powinny być poświadczone za zgodność z oryginałem; na prośbę właściwego podmiotu lub komisji konkursowej kandydat jest obowiązany przedstawić oryginały dokumentów; zaświadczenie o niekaralności. Dokumenty, o których mowa w ust. 1, kandydaci zgłaszający się do konkursu składają właściwemu podmiotowi; na kopercie kandydat umieszcza swoje imię i nazwisko oraz adres i numer telefonu kontaktowego, a także adnotację o treści: „Konkurs na stanowisko …” (należy podać nazwę stanowiska objętego konkursem). Kandydat zgłaszający się do konkursu składa oświadczenie, że wyraża zgodę na przetwarzanie danych osobowych w celach przeprowadzania postępowania konkursowego na dane stanowisko."
+      "content": "Kandydaci zgłaszający się do konkursu składają: podanie o przyjęcie na stanowisko objęte konkursem; dokumenty stwierdzające kwalifikacje zawodowe wymagane do zajmowania danego stanowiska, a kandydaci na stanowiska, z którymi wiąże się posiadanie prawa wykonywania zawodu, dokument potwierdzający to prawo; opisany przez kandydata przebieg pracy zawodowej; inne dokumenty, w szczególności potwierdzające dorobek i kwalifikacje zawodowe kandydata; kopie dokumentów, o których mowa w pkt 4, powinny być poświadczone za zgodność z oryginałem, przy czym poświadczenie może być dokonane przez kandydata; na prośbę właściwego podmiotu lub komisji konkursowej kandydat jest obowiązany przedstawić oryginały dokumentów; w przypadku postępowania konkursowego na stanowisko kierownika - informację o kandydacie z Krajowego Rejestru Karnego opatrzoną datą nie wcześniejszą niż miesiąc przed dniem zgłoszenia do konkursu; oświadczenie kandydata o braku prawomocnie orzeczonego wobec niego zakazu wykonywania zawodu, zawieszenia prawa wykonywania zawodu, ograniczenia prawa wykonywania zawodu lub zakazu zajmowania określonego stanowiska. Dokumenty, o których mowa w ust. 1, kandydaci zgłaszający się do konkursu składają właściwemu podmiotowi; na kopercie kandydat umieszcza swoje imię i nazwisko oraz adres i numer telefonu kontaktowego, a także adnotację o treści: „Konkurs na stanowisko... „ (należy podać nazwę stanowiska objętego konkursem). Kandydat zgłaszający się do konkursu składa oświadczenie, że wyraża zgodę na przetwarzanie danych osobowych w celach przeprowadzania postępowania konkursowego na dane stanowisko."
     },
     {
       "provision_ref": "par12u1p1",
@@ -541,19 +553,25 @@
       "provision_ref": "par12u1p5",
       "section": "12",
       "title": "§ 12 ust. 1 pkt 5",
-      "content": "Kandydaci zgłaszający się do konkursu składają: kopie dokumentów, o których mowa w pkt 4, powinny być poświadczone za zgodność z oryginałem; na prośbę właściwego podmiotu lub komisji konkursowej kandydat jest obowiązany przedstawić oryginały dokumentów;"
+      "content": "Kandydaci zgłaszający się do konkursu składają: kopie dokumentów, o których mowa w pkt 4, powinny być poświadczone za zgodność z oryginałem, przy czym poświadczenie może być dokonane przez kandydata; na prośbę właściwego podmiotu lub komisji konkursowej kandydat jest obowiązany przedstawić oryginały dokumentów;"
     },
     {
       "provision_ref": "par12u1p6",
       "section": "12",
       "title": "§ 12 ust. 1 pkt 6",
-      "content": "Kandydaci zgłaszający się do konkursu składają: zaświadczenie o niekaralności."
+      "content": "Kandydaci zgłaszający się do konkursu składają: w przypadku postępowania konkursowego na stanowisko kierownika - informację o kandydacie z Krajowego Rejestru Karnego opatrzoną datą nie wcześniejszą niż miesiąc przed dniem zgłoszenia do konkursu;"
+    },
+    {
+      "provision_ref": "par12u1p7",
+      "section": "12",
+      "title": "§ 12 ust. 1 pkt 7",
+      "content": "Kandydaci zgłaszający się do konkursu składają: oświadczenie kandydata o braku prawomocnie orzeczonego wobec niego zakazu wykonywania zawodu, zawieszenia prawa wykonywania zawodu, ograniczenia prawa wykonywania zawodu lub zakazu zajmowania określonego stanowiska."
     },
     {
       "provision_ref": "par12u2",
       "section": "12",
       "title": "§ 12 ust. 2",
-      "content": "Dokumenty, o których mowa w ust. 1, kandydaci zgłaszający się do konkursu składają właściwemu podmiotowi; na kopercie kandydat umieszcza swoje imię i nazwisko oraz adres i numer telefonu kontaktowego, a także adnotację o treści: „Konkurs na stanowisko …” (należy podać nazwę stanowiska objętego konkursem)."
+      "content": "Dokumenty, o których mowa w ust. 1, kandydaci zgłaszający się do konkursu składają właściwemu podmiotowi; na kopercie kandydat umieszcza swoje imię i nazwisko oraz adres i numer telefonu kontaktowego, a także adnotację o treści: „Konkurs na stanowisko... „ (należy podać nazwę stanowiska objętego konkursem)."
     },
     {
       "provision_ref": "par12u3",
@@ -637,7 +655,7 @@
       "provision_ref": "par16",
       "section": "16",
       "title": "§ 16",
-      "content": "Komisja konkursowa ulega rozwiązaniu z dniem nawiązania stosunku pracy albo zawarcia umowy cywilnoprawnej z kandydatem wybranym w drodze konkursu albo z osobą, o której mowa w art. 49 ust. 4 ustawy."
+      "content": "Komisja konkursowa ulega rozwiązaniu z dniem nawiązania stosunku pracy albo zawarcia umowy cywilnoprawnej z kandydatem wybranym w drodze konkursu albo z osobą, o której mowa w art. 49 ust. 4 ustawy, albo z dniem stwierdzenia nieważności postępowania konkursowego, o którym mowa w § 8 ust. 2."
     },
     {
       "provision_ref": "par17",
@@ -649,25 +667,171 @@
       "provision_ref": "par18",
       "section": "18",
       "title": "§ 18",
-      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia i Opieki Społecznej z dnia 19 sierpnia 1998 r. w sprawie szczegółowych zasad przeprowadzania konkursu na niektóre stanowiska kierownicze w publicznych zakładach opieki zdrowotnej, składu komisji konkursowej oraz ramowego regulaminu przeprowadzania konkursu (Dz. U. Nr 115, poz. 749 oraz z 2000 r. Nr 45, poz. 530), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 219 ust. 1 pkt 3 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. Nr 112, poz. 654, Nr 149, poz. 887, Nr 174, poz. 1039 i Nr 185, poz. 1092)."
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia 2) Rozporządzenie zostało ogłoszone w dniu 17 lutego 2012 r. . 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia i Opieki Społecznej z dnia 19 sierpnia 1998 r. w sprawie szczegółowych zasad przeprowadzania konkursu na niektóre stanowiska kierownicze w publicznych zakładach opieki zdrowotnej, składu komisji konkursowej oraz ramowego regulaminu przeprowadzania konkursu (Dz. U. poz. 749 oraz z 2000 r. poz. 530), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 219 ust. 1 pkt 3 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. poz. 654, 887, 1039 i 1092)."
+    },
+    {
+      "provision_ref": "par1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Postępowanie konkursowe na stanowisko................................................. w................................ przeprowadza Komisja w składzie: przewodniczący.............................................................................................................................................................. członkowie...................................................................................................................................................................... ......................................................................................................................................................................................... ........................................................................................................................................................................................ ......................................................................................................................................................................................... Komisja konkursowa podejmuje rozstrzygnięcia w głosowaniu jawnym, z wyłączeniem rozstrzygnięcia dotyczącego wybrania przez komisję konkursową kandydata, które jest dokonywane w głosowaniu tajnym, bezwzględną większością głosów."
+    },
+    {
+      "provision_ref": "par1u1p1",
+      "section": "1",
+      "title": "§ 1 ust. 1 pkt 1",
+      "content": "Postępowanie konkursowe na stanowisko................................................. w................................ przeprowadza Komisja w składzie: przewodniczący.............................................................................................................................................................."
+    },
+    {
+      "provision_ref": "par1u1p2",
+      "section": "1",
+      "title": "§ 1 ust. 1 pkt 2",
+      "content": "Postępowanie konkursowe na stanowisko................................................. w................................ przeprowadza Komisja w składzie: członkowie......................................................................................................................................................................"
+    },
+    {
+      "provision_ref": "par1u1p3",
+      "section": "1",
+      "title": "§ 1 ust. 1 pkt 3",
+      "content": "Postępowanie konkursowe na stanowisko................................................. w................................ przeprowadza Komisja w składzie: ........................................................................................................................................................................................."
+    },
+    {
+      "provision_ref": "par1u1p4",
+      "section": "1",
+      "title": "§ 1 ust. 1 pkt 4",
+      "content": "Postępowanie konkursowe na stanowisko................................................. w................................ przeprowadza Komisja w składzie: ........................................................................................................................................................................................"
+    },
+    {
+      "provision_ref": "par1u1p5",
+      "section": "1",
+      "title": "§ 1 ust. 1 pkt 5",
+      "content": "Postępowanie konkursowe na stanowisko................................................. w................................ przeprowadza Komisja w składzie: ........................................................................................................................................................................................."
+    },
+    {
+      "provision_ref": "par1u2",
+      "section": "1",
+      "title": "§ 1 ust. 2",
+      "content": "Komisja konkursowa podejmuje rozstrzygnięcia w głosowaniu jawnym, z wyłączeniem rozstrzygnięcia dotyczącego wybrania przez komisję konkursową kandydata, które jest dokonywane w głosowaniu tajnym, bezwzględną większością głosów."
+    },
+    {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Komisja konkursowa na posiedzeniu otwiera koperty z dokumentami kandydatów, zapoznaje się z dokumentami złożonymi przez kandydatów i po stwierdzeniu ich kompletności uznaje, czy w postępowaniu konkursowym uczestniczy wymagana liczba kandydatów (co najmniej dwóch). Komisja konkursowa przeprowadza indywidualne rozmowy z kandydatami, polegające w pierwszej kolejności na zadawaniu jednakowych pytań niezbędnych do ustalenia przydatności na stanowisko objęte konkursem, a następnie pytań dodatkowych zadawanych przez członków komisji konkursowej. Po rozmowie z kandydatami komisja konkursowa może odbyć dyskusję we własnym gronie. W posiedzeniach komisji konkursowej poza protokolantem nie mogą uczestniczyć osoby trzecie."
+    },
+    {
+      "provision_ref": "par2u1",
+      "section": "2",
+      "title": "§ 2 ust. 1",
+      "content": "Komisja konkursowa na posiedzeniu otwiera koperty z dokumentami kandydatów, zapoznaje się z dokumentami złożonymi przez kandydatów i po stwierdzeniu ich kompletności uznaje, czy w postępowaniu konkursowym uczestniczy wymagana liczba kandydatów (co najmniej dwóch)."
+    },
+    {
+      "provision_ref": "par2u2",
+      "section": "2",
+      "title": "§ 2 ust. 2",
+      "content": "Komisja konkursowa przeprowadza indywidualne rozmowy z kandydatami, polegające w pierwszej kolejności na zadawaniu jednakowych pytań niezbędnych do ustalenia przydatności na stanowisko objęte konkursem, a następnie pytań dodatkowych zadawanych przez członków komisji konkursowej."
+    },
+    {
+      "provision_ref": "par2u3",
+      "section": "2",
+      "title": "§ 2 ust. 3",
+      "content": "Po rozmowie z kandydatami komisja konkursowa może odbyć dyskusję we własnym gronie."
+    },
+    {
+      "provision_ref": "par2u4",
+      "section": "2",
+      "title": "§ 2 ust. 4",
+      "content": "W posiedzeniach komisji konkursowej poza protokolantem nie mogą uczestniczyć osoby trzecie."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Każdej osobie wchodzącej w skład komisji konkursowej przysługuje jeden głos. Głosowanie w sprawie wyboru kandydata jest dokonywane na jednakowych kartach do głosowania zawierających nazwiska kandydatów w kolejności alfabetycznej, oznaczonych pieczęcią właściwego podmiotu, nadrukiem lub naklejką, zawierającymi nazwę, adres, numer identyfikacji podatkowej (NIP) lub numer identyfikacyjny REGON właściwego podmiotu. Głosowanie jest dokonywane poprzez pozostawienie nazwiska wybranego kandydata i skreślenie nazwisk pozostałych kandydatów. Głos jest nieważny w przypadku: pozostawienia nieskreślonego nazwiska więcej niż jednego kandydata; braku skreśleń. Głosów nieważnych nie bierze się pod uwagę. Karta, na której wszystkie nazwiska zostały skreślone, jest ważna i jest traktowana jako odrzucenie kandydatur wszystkich kandydatów przystępujących do konkursu."
+    },
+    {
+      "provision_ref": "par3u1",
+      "section": "3",
+      "title": "§ 3 ust. 1",
+      "content": "Każdej osobie wchodzącej w skład komisji konkursowej przysługuje jeden głos."
+    },
+    {
+      "provision_ref": "par3u2",
+      "section": "3",
+      "title": "§ 3 ust. 2",
+      "content": "Głosowanie w sprawie wyboru kandydata jest dokonywane na jednakowych kartach do głosowania zawierających nazwiska kandydatów w kolejności alfabetycznej, oznaczonych pieczęcią właściwego podmiotu, nadrukiem lub naklejką, zawierającymi nazwę, adres, numer identyfikacji podatkowej (NIP) lub numer identyfikacyjny REGON właściwego podmiotu."
+    },
+    {
+      "provision_ref": "par3u3",
+      "section": "3",
+      "title": "§ 3 ust. 3",
+      "content": "Głosowanie jest dokonywane poprzez pozostawienie nazwiska wybranego kandydata i skreślenie nazwisk pozostałych kandydatów."
+    },
+    {
+      "provision_ref": "par3u4p1",
+      "section": "3",
+      "title": "§ 3 ust. 4 pkt 1",
+      "content": "Głos jest nieważny w przypadku: pozostawienia nieskreślonego nazwiska więcej niż jednego kandydata;"
+    },
+    {
+      "provision_ref": "par3u4p2",
+      "section": "3",
+      "title": "§ 3 ust. 4 pkt 2",
+      "content": "Głos jest nieważny w przypadku: braku skreśleń."
+    },
+    {
+      "provision_ref": "par3u5",
+      "section": "3",
+      "title": "§ 3 ust. 5",
+      "content": "Głosów nieważnych nie bierze się pod uwagę."
+    },
+    {
+      "provision_ref": "par3u6",
+      "section": "3",
+      "title": "§ 3 ust. 6",
+      "content": "Karta, na której wszystkie nazwiska zostały skreślone, jest ważna i jest traktowana jako odrzucenie kandydatur wszystkich kandydatów przystępujących do konkursu."
+    },
+    {
+      "provision_ref": "par4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "W przypadku odrzucenia przez komisję konkursową wszystkich kandydatur zgłoszonych do konkursu albo w przypadku niewyłonienia kandydata, komisja uznaje, że w wyniku przeprowadzonego konkursu nie wybrano kandydata."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2011-654",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2011-887",
+      "target_document_id": "pl-du-2018-393",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2011-1039",
+      "target_document_id": "pl-du-2019-2024",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2011-1092",
+      "target_document_id": "pl-du-2020-295",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-567",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-1493",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-2112",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-2345",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-2401",
       "ref_type": "references"
     }
   ]

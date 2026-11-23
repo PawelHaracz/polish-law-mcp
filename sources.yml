@@ -11,7 +11,7 @@ sources:
     retrieval_method: "HTML_SCRAPE"
     api_documentation: "https://isap.sejm.gov.pl/isap.nsf/page/api"
     update_frequency: "weekly"
-    last_ingested: "PENDING_FIRST_INGEST"
+    last_ingested: "2026-11-20"
     license_or_terms:
       type: "PL-Statutory-PD"
       ansvar_code: "PL-Statutory-PD"
@@ -28,7 +28,7 @@ sources:
 data_freshness:
   automated_checks: true
   check_frequency: "weekly"
-  last_verified: "PENDING_FIRST_INGEST"
+  last_verified: "2026-11-20"
 
 # Notes:
 # - ISAP (isap.sejm.gov.pl) is the authoritative, free source for all Polish

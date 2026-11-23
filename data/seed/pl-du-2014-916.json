@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2014/916",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -103,11 +109,19 @@
       "provision_ref": "par5",
       "section": "5",
       "title": "§ 5",
-      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 4, który wchodzi w życie z dniem 1 stycznia 2015 r. 2) Rozporządzenie w zakresie trybu zwrotu części wydatków gmin wykonanych w ramach funduszu sołeckiego było poprzedzone rozporządzeniem Ministra Finansów z dnia 25 stycznia 2010 r. w sprawie trybu zwrotu części wydatków gmin wykonanych w ramach funduszu sołeckiego (Dz. U. Nr 21, poz. 106), które na podstawie art. 9 ustawy z dnia 21 lutego 2014 r. o funduszu sołeckim w 2014 r. ma zastosowanie do zwrotu części wydatków wykonanych w ramach funduszu sołeckiego w 2013 r."
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia 2) Rozporządzenie zostało ogłoszone w dniu 10 lipca 2014 r. , z wyjątkiem § 4, który wchodzi w życie z dniem 1 stycznia 2015 r. 3) Rozporządzenie w zakresie trybu zwrotu części wydatków gmin wykonanych w ramach funduszu sołeckiego było poprzedzone rozporządzeniem Ministra Finansów z dnia 25 stycznia 2010 r. w sprawie trybu zwrotu części wydatków gmin wykonanych w ramach funduszu sołeckiego (Dz. U. poz. 106), które na podstawie art. 9 ustawy z dnia 21 lutego 2014 r. o funduszu sołeckim w 2014 r. miało zastosowanie do zwrotu części wydatków wykonanych w ramach funduszu sołeckiego w 2013 r."
     }
   ],
   "definitions": [],
   "references": [
+    {
+      "target_document_id": "pl-du-2019-1461",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2015-1389",
+      "ref_type": "references"
+    },
     {
       "target_document_id": "pl-du-2014-301",
       "ref_type": "references"

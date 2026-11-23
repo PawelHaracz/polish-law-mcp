@@ -10,6 +10,18 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2018/1631",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Do postępowań kwalifikacyjnych wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -235,7 +247,7 @@
       "provision_ref": "par6",
       "section": "6",
       "title": "§ 6",
-      "content": "Podczas rozmowy kwalifikacyjnej: ocenie - w odniesieniu do kompetencji personalnych kandydata - podlega w szczególności: motywacja do podjęcia służby w Służbie Więziennej, w tym racjonalne motywowanie chęci podjęcia służby w Służbie Więziennej, z odwoływaniem się do własnych predyspozycji, umiejętności, doświadczeń i zainteresowań, wskazanie mocnych i słabych stron własnej osobowości w kontekście specyfiki służby w Służbie Więziennej, przedstawienie własnej oceny zagrożeń, obciążeń i wymagań związanych ze służbą w Służbie Więziennej, wykazywanie chęci rozwoju zawodowego oraz podnoszenia kwalifikacji, przedstawienie oczekiwań związanych ze swoją rolą w Służbie Więziennej - w zakresie od 1 do 15 punktów; ocenie - w odniesieniu do kompetencji społecznych kandydata - podlega w szczególności: postawa wobec ludzi, dostrzeganie i uwzględnianie odczuć oraz opinii innych ludzi, deklarowanie chęci współpracy z innymi osobami oraz przejawianie inicjatywy i aktywności w kontaktach międzyludzkich, prezentowanie otwartości na różnorodność kulturową, pochodzenie, płeć, preferencje seksualne oraz przejawianie postawy tolerancyjnej wobec innych ludzi, rozumienie obowiązku poszanowania godności ludzkiej oraz respektowania podstawowych zasad i wartości etycznych oraz norm moralnych - w zakresie od 1 do 15 punktów. Czas trwania rozmowy kwalifikacyjnej nie powinien przekroczyć 30 minut."
+      "content": "Podczas rozmowy kwalifikacyjnej: ocenie - w odniesieniu do kompetencji personalnych kandydata - podlega w szczególności: motywacja do podjęcia służby w Służbie Więziennej, w tym racjonalne motywowanie chęci podjęcia służby w Służbie Więziennej, z odwoływaniem się do własnych predyspozycji, umiejętności, doświadczeń i zainteresowań, wskazanie mocnych i słabych stron własnej osobowości w kontekście specyfiki służby w Służbie Więziennej, przedstawienie własnej oceny zagrożeń, obciążeń i wymagań związanych ze służbą w Służbie Więziennej, wykazywanie chęci rozwoju zawodowego oraz podnoszenia kwalifikacji, przedstawienie oczekiwań związanych ze swoją rolą w Służbie Więziennej - w zakresie od 1 do 15 punktów; ocenie - w odniesieniu do kompetencji społecznych kandydata - podlega w szczególności: postawa wobec ludzi, dostrzeganie i uwzględnianie odczuć oraz opinii innych ludzi, deklarowanie chęci współpracy z innymi osobami oraz przejawianie inicjatywy i aktywności w kontaktach międzyludzkich, prezentowanie otwartości na różnorodność kulturową, pochodzenie, płeć, preferencje seksualne oraz przejawianie postawy tolerancyjnej wobec innych ludzi, rozumienie obowiązku poszanowania godności ludzkiej oraz respektowania podstawowych zasad i wartości etycznych oraz norm moralnych - w zakresie od 1 do 15 punktów. Czas trwania rozmowy kwalifikacyjnej nie powinien przekroczyć 30 minut. Średnia liczba punktów z rozmowy kwalifikacyjnej możliwych do uzyskania wynosi: w zakresie kompetencji personalnych: ocena negatywna - od 1 do 4,9 punktów, ocena dostateczna - od 5 do 8,9 punktów, ocena dobra - od 9 do 12,9 punktów, ocena bardzo dobra - od 13 do 15 punktów; w zakresie kompetencji społecznych: ocena negatywna - od 1 do 4,9 punktów, ocena dostateczna - od 5 do 8,9 punktów, ocena dobra - od 9 do 12,9 punktów, ocena bardzo dobra - od 13 do 15 punktów."
     },
     {
       "provision_ref": "par6u1p1la",
@@ -298,10 +310,58 @@
       "content": "Czas trwania rozmowy kwalifikacyjnej nie powinien przekroczyć 30 minut."
     },
     {
+      "provision_ref": "par6u3p1la",
+      "section": "6",
+      "title": "§ 6 ust. 3 pkt 1 lit. a",
+      "content": "Średnia liczba punktów z rozmowy kwalifikacyjnej możliwych do uzyskania wynosi: w zakresie kompetencji personalnych: ocena negatywna - od 1 do 4,9 punktów,"
+    },
+    {
+      "provision_ref": "par6u3p1lb",
+      "section": "6",
+      "title": "§ 6 ust. 3 pkt 1 lit. b",
+      "content": "Średnia liczba punktów z rozmowy kwalifikacyjnej możliwych do uzyskania wynosi: w zakresie kompetencji personalnych: ocena dostateczna - od 5 do 8,9 punktów,"
+    },
+    {
+      "provision_ref": "par6u3p1lc",
+      "section": "6",
+      "title": "§ 6 ust. 3 pkt 1 lit. c",
+      "content": "Średnia liczba punktów z rozmowy kwalifikacyjnej możliwych do uzyskania wynosi: w zakresie kompetencji personalnych: ocena dobra - od 9 do 12,9 punktów,"
+    },
+    {
+      "provision_ref": "par6u3p1ld",
+      "section": "6",
+      "title": "§ 6 ust. 3 pkt 1 lit. d",
+      "content": "Średnia liczba punktów z rozmowy kwalifikacyjnej możliwych do uzyskania wynosi: w zakresie kompetencji personalnych: ocena bardzo dobra - od 13 do 15 punktów;"
+    },
+    {
+      "provision_ref": "par6u3p2la",
+      "section": "6",
+      "title": "§ 6 ust. 3 pkt 2 lit. a",
+      "content": "Średnia liczba punktów z rozmowy kwalifikacyjnej możliwych do uzyskania wynosi: w zakresie kompetencji społecznych: ocena negatywna - od 1 do 4,9 punktów,"
+    },
+    {
+      "provision_ref": "par6u3p2lb",
+      "section": "6",
+      "title": "§ 6 ust. 3 pkt 2 lit. b",
+      "content": "Średnia liczba punktów z rozmowy kwalifikacyjnej możliwych do uzyskania wynosi: w zakresie kompetencji społecznych: ocena dostateczna - od 5 do 8,9 punktów,"
+    },
+    {
+      "provision_ref": "par6u3p2lc",
+      "section": "6",
+      "title": "§ 6 ust. 3 pkt 2 lit. c",
+      "content": "Średnia liczba punktów z rozmowy kwalifikacyjnej możliwych do uzyskania wynosi: w zakresie kompetencji społecznych: ocena dobra - od 9 do 12,9 punktów,"
+    },
+    {
+      "provision_ref": "par6u3p2ld",
+      "section": "6",
+      "title": "§ 6 ust. 3 pkt 2 lit. d",
+      "content": "Średnia liczba punktów z rozmowy kwalifikacyjnej możliwych do uzyskania wynosi: w zakresie kompetencji społecznych: ocena bardzo dobra - od 13 do 15 punktów."
+    },
+    {
       "provision_ref": "par7",
       "section": "7",
       "title": "§ 7",
-      "content": "Test wiedzy przeprowadza komisja. Test wiedzy składa się z 30 pytań, zwanych dalej „pytaniami testowymi”, i trwa 35 minut. Na pytanie testowe możliwa jest tylko jedna prawidłowa odpowiedź, za którą kandydatowi przyznaje się 1 punkt. W przypadku nieudzielenia odpowiedzi, udzielenia nieprawidłowej odpowiedzi albo udzielenia więcej niż jednej odpowiedzi na pytanie testowe kandydatowi do służby nie przyznaje się punktu."
+      "content": "Test wiedzy przeprowadza komisja. Test wiedzy składa się z 30 pytań, zwanych dalej „pytaniami testowymi”, i trwa 35 minut. Na pytanie testowe możliwa jest tylko jedna prawidłowa odpowiedź, za którą kandydatowi przyznaje się 1 punkt. W przypadku nieudzielenia odpowiedzi, udzielenia nieprawidłowej odpowiedzi albo udzielenia więcej niż jednej odpowiedzi na pytanie testowe kandydatowi do służby nie przyznaje się punktu. Test wiedzy uznaje się za zaliczony, jeżeli kandydat otrzyma minimum 8 punktów."
     },
     {
       "provision_ref": "par7u1",
@@ -320,6 +380,12 @@
       "section": "7",
       "title": "§ 7 ust. 3",
       "content": "Na pytanie testowe możliwa jest tylko jedna prawidłowa odpowiedź, za którą kandydatowi przyznaje się 1 punkt. W przypadku nieudzielenia odpowiedzi, udzielenia nieprawidłowej odpowiedzi albo udzielenia więcej niż jednej odpowiedzi na pytanie testowe kandydatowi do służby nie przyznaje się punktu."
+    },
+    {
+      "provision_ref": "par7u4",
+      "section": "7",
+      "title": "§ 7 ust. 4",
+      "content": "Test wiedzy uznaje się za zaliczony, jeżeli kandydat otrzyma minimum 8 punktów."
     },
     {
       "provision_ref": "par8",
@@ -445,13 +511,37 @@
       "provision_ref": "par12",
       "section": "12",
       "title": "§ 12",
-      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 20 września 2010 r. w sprawie postępowania kwalifikacyjnego do Służby Więziennej (Dz. U. poz. 1247), które utraciło moc na podstawie art. 17 ustawy z dnia 22 marca 2018 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 912)."
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia 3) Rozporządzenie zostało ogłoszone w dniu 24 sierpnia 2018 r. . 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 20 września 2010 r. w sprawie postępowania kwalifikacyjnego do Służby Więziennej (Dz. U. poz. 1247), które utraciło moc na podstawie art. 17 ustawy z dnia 22 marca 2018 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 912)."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2018-1542",
+      "target_document_id": "pl-du-2019-1461",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1451",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1064",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1728",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-2448",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-655",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-1115",
       "ref_type": "references"
     }
   ]

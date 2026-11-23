@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2013/1120",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -31,13 +37,25 @@
       "provision_ref": "par2",
       "section": "2",
       "title": "§ 2",
-      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Polityki Społecznej i Ministra Kultury z dnia 15 czerwca 2004 r. w sprawie wykazu bibliotek i organizacji osób niewidomych lub ociemniałych oraz organizacji, których celem statutowym jest działanie na rzecz osób niewidomych lub ociemniałych (Dz. U. Nr 167, poz. 1753, z 2009 r. Nr 23, poz. 137 oraz z 2010 r. Nr 45, poz. 266), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 190 ust. 1 ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe (Dz. U. poz. 1529)."
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia 3) Rozporządzenie zostało ogłoszone w dniu 23 września 2013 r. . 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Polityki Społecznej i Ministra Kultury z dnia 15 czerwca 2004 r. w sprawie wykazu bibliotek i organizacji osób niewidomych lub ociemniałych oraz organizacji, których celem statutowym jest działanie na rzecz osób niewidomych lub ociemniałych (Dz. U. poz. 1753, z 2009 r. poz. 137 oraz z 2010 r. poz. 266), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 190 ust. 1 ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe (Dz. U. poz. 1529)."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2012-1529",
+      "target_document_id": "pl-du-2019-1461",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-1248",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-1278",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1640",
       "ref_type": "references"
     }
   ]

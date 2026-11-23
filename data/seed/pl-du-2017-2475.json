@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2017/2475",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -115,7 +121,7 @@
       "provision_ref": "par5",
       "section": "5",
       "title": "§ 5",
-      "content": "W przypadku konieczności zwrócenia się przez konsula lub wojewodę do Szefa Agencji Bezpieczeństwa Wewnętrznego, a w razie potrzeby także do innych organów administracji publicznej z wnioskiem o przekazanie informacji zgodnie z art. 19a ust. 1 ustawy z dnia 7 września 2007 r. o Karcie Polaka , wystąpienie z wnioskiem o przekazanie informacji polega na udostępnieniu tym organom danych osoby, której dotyczy zapytanie, w postaci elektronicznej, za pośrednictwem rejestru centralnego, z wykorzystaniem bezpiecznych łączy, zapewniających poufność przesyłanych danych."
+      "content": "W przypadku konieczności zwrócenia się przez konsula lub wojewodę do Szefa Agencji Bezpieczeństwa Wewnętrznego - a w razie potrzeby także do innych organów administracji publicznej - z wnioskiem o przekazanie informacji zgodnie z art. 19a ust. 2 ustawy z dnia 7 września 2007 r. o Karcie Polaka , wniosek o przekazanie informacji, kierowany do tych organów, zawiera dane osoby, której dotyczy zapytanie, pobrane z rejestru centralnego. Wniosek ten jest przekazywany w postaci elektronicznej z wykorzystaniem bezpiecznych łączy, zapewniających poufność i integralność przesyłanych danych."
     },
     {
       "provision_ref": "par6",
@@ -139,17 +145,21 @@
       "provision_ref": "par7",
       "section": "7",
       "title": "§ 7",
-      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 21 marca 2008 r. w sprawie rejestrów Kart Polaka (Dz. U. poz. 314), które na podstawie art. 8 ust. 2 ustawy z dnia 13 maja 2016 r. o zmianie ustawy o Karcie Polaka oraz niektórych innych ustaw (Dz. U. poz. 753) traci moc z dniem wejścia w życie niniejszego rozporządzenia."
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia 3) Rozporządzenie zostało ogłoszone w dniu 29 grudnia 2017 r. . 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 21 marca 2008 r. w sprawie rejestrów Kart Polaka (Dz. U. poz. 314), które na podstawie art. 8 ust. 2 ustawy z dnia 13 maja 2016 r. o zmianie ustawy o Karcie Polaka oraz niektórych innych ustaw (Dz. U. poz. 753) utraciło moc z dniem wejścia w życie niniejszego rozporządzenia."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2017-1459",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2017-2282",
+      "target_document_id": "pl-du-2020-32",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-192",
       "ref_type": "references"
     }
   ]

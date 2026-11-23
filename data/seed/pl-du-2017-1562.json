@@ -10,10 +10,16 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2017/1562",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
-      "content": "Do publicznej lub niepublicznej szkoły podstawowej dla dorosłych można przyjąć osobę, która najpóźniej w dniu rozpoczęcia zajęć dydaktyczno-wychowawczych ukończyła 16 lat, jeżeli osoba ta ma opóźnienie w cyklu kształcenia i nie rokuje ukończenia szkoły podstawowej dla dzieci i młodzieży. Do publicznej lub niepublicznej szkoły ponadpodstawowej dla dorosłych można przyjąć osobę, która najpóźniej w dniu rozpoczęcia zajęć dydaktyczno-wychowawczych ukończyła 16 lat, jeżeli osoba ta ma opóźnienie w cyklu kształcenia związane z sytuacją życiową lub zdrowotną uniemożliwiającą lub znacznie utrudniającą podjęcie lub kontynuowanie nauki w szkole ponadpodstawowej dla młodzieży."
+      "content": "Do publicznej lub niepublicznej szkoły podstawowej dla dorosłych można przyjąć osobę, która najpóźniej w dniu rozpoczęcia zajęć dydaktyczno-wychowawczych ukończyła 16 lat, jeżeli osoba ta ma opóźnienie w cyklu kształcenia i nie rokuje ukończenia szkoły podstawowej dla dzieci i młodzieży. Do publicznego lub niepublicznego liceum ogólnokształcącego dla dorosłych można przyjąć osobę, która najpóźniej w dniu rozpoczęcia zajęć dydaktyczno-wychowawczych ukończyła 16 lat, jeżeli osoba ta ma opóźnienie w cyklu kształcenia związane z sytuacją życiową lub zdrowotną uniemożliwiającą lub znacznie utrudniającą podjęcie lub kontynuowanie nauki w liceum ogólnokształcącym dla młodzieży. Do publicznego lub niepublicznego liceum ogólnokształcącego dla dorosłych można przyjąć również osobę, która ukończyła branżową szkołę I stopnia oraz najpóźniej w dniu rozpoczęcia zajęć dydaktyczno-wychowawczych ukończyła 16 lat."
     },
     {
       "provision_ref": "par1u1",
@@ -25,13 +31,19 @@
       "provision_ref": "par1u2",
       "section": "1",
       "title": "§ 1 ust. 2",
-      "content": "Do publicznej lub niepublicznej szkoły ponadpodstawowej dla dorosłych można przyjąć osobę, która najpóźniej w dniu rozpoczęcia zajęć dydaktyczno-wychowawczych ukończyła 16 lat, jeżeli osoba ta ma opóźnienie w cyklu kształcenia związane z sytuacją życiową lub zdrowotną uniemożliwiającą lub znacznie utrudniającą podjęcie lub kontynuowanie nauki w szkole ponadpodstawowej dla młodzieży."
+      "content": "Do publicznego lub niepublicznego liceum ogólnokształcącego dla dorosłych można przyjąć osobę, która najpóźniej w dniu rozpoczęcia zajęć dydaktyczno-wychowawczych ukończyła 16 lat, jeżeli osoba ta ma opóźnienie w cyklu kształcenia związane z sytuacją życiową lub zdrowotną uniemożliwiającą lub znacznie utrudniającą podjęcie lub kontynuowanie nauki w liceum ogólnokształcącym dla młodzieży."
+    },
+    {
+      "provision_ref": "par1u3",
+      "section": "1",
+      "title": "§ 1 ust. 3",
+      "content": "Do publicznego lub niepublicznego liceum ogólnokształcącego dla dorosłych można przyjąć również osobę, która ukończyła branżową szkołę I stopnia oraz najpóźniej w dniu rozpoczęcia zajęć dydaktyczno-wychowawczych ukończyła 16 lat."
     },
     {
       "provision_ref": "par2",
       "section": "2",
       "title": "§ 2",
-      "content": "Do publicznej lub niepublicznej szkoły podstawowej lub szkoły ponadpodstawowej dla dorosłych można przyjąć osobę, która ukończyła 15 lat, jeżeli osoba ta przebywa w zakładzie karnym lub areszcie śledczym."
+      "content": "Do publicznej lub niepublicznej szkoły dla dorosłych można przyjąć osobę, która ukończyła 15 lat, jeżeli osoba ta przebywa w zakładzie karnym lub areszcie śledczym."
     },
     {
       "provision_ref": "par3",
@@ -43,7 +55,7 @@
       "provision_ref": "par4",
       "section": "4",
       "title": "§ 4",
-      "content": "Osoba, która ukończyła ośmioletnią szkołę podstawową oraz: ma opóźnienie w cyklu kształcenia związane z sytuacją życiową lub zdrowotną uniemożliwiającą lub znacznie utrudniającą podjęcie lub kontynuowanie nauki w szkole ponadpodstawowej dla młodzieży albo uniemożliwiającą lub znacznie utrudniającą realizowanie, zgodnie z przepisami w sprawie przygotowania zawodowego młodocianych i ich wynagradzania, przygotowania zawodowego u pracodawcy lub przebywa w zakładzie karnym, areszcie śledczym, zakładzie poprawczym lub schronisku dla nieletnich - może realizować obowiązek nauki przez uczęszczanie na kwalifikacyjny kurs zawodowy."
+      "content": "Osoba, która ukończyła ośmioletnią szkołę podstawową oraz: ma opóźnienie w cyklu kształcenia związane z sytuacją życiową lub zdrowotną uniemożliwiającą lub znacznie utrudniającą podjęcie lub kontynuowanie nauki w szkole ponadpodstawowej dla młodzieży albo uniemożliwiającą lub znacznie utrudniającą realizowanie, zgodnie z przepisami w sprawie przygotowania zawodowego młodocianych i ich wynagradzania, przygotowania zawodowego u pracodawcy lub przebywa w zakładzie karnym, areszcie śledczym, zakładzie poprawczym, schronisku dla nieletnich lub okręgowym ośrodku wychowawczym - może realizować obowiązek nauki przez uczęszczanie na kwalifikacyjny kurs zawodowy."
     },
     {
       "provision_ref": "par4p1",
@@ -55,7 +67,7 @@
       "provision_ref": "par4p2",
       "section": "4",
       "title": "§ 4 pkt 2",
-      "content": "Osoba, która ukończyła ośmioletnią szkołę podstawową oraz: przebywa w zakładzie karnym, areszcie śledczym, zakładzie poprawczym lub schronisku dla nieletnich"
+      "content": "Osoba, która ukończyła ośmioletnią szkołę podstawową oraz: przebywa w zakładzie karnym, areszcie śledczym, zakładzie poprawczym, schronisku dla nieletnich lub okręgowym ośrodku wychowawczym"
     },
     {
       "provision_ref": "par5",
@@ -73,31 +85,47 @@
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2017-59",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2017-949",
+      "target_document_id": "pl-du-2023-1190",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2017-1065",
+      "target_document_id": "pl-du-2023-2168",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2017-1292",
+      "target_document_id": "pl-du-2023-900",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2017-1321",
+      "target_document_id": "pl-du-2023-1672",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2017-1428",
+      "target_document_id": "pl-du-2023-1718",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2017-1543",
+      "target_document_id": "pl-du-2023-2005",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-735",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1429",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1723",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1737",
       "ref_type": "references"
     }
   ]

@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2014/1293",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -37,7 +43,7 @@
       "provision_ref": "par2",
       "section": "2",
       "title": "§ 2",
-      "content": "Badania lekarskie kandydata obejmują: ogólną ocenę stanu zdrowia, ze szczególnym uwzględnieniem układu nerwowego i stanu psychicznego; badania specjalistyczne, konsultacje lekarzy specjalistów i badania pomocnicze (laboratoryjne, EKG, EEG, RTG i inne), jeżeli lekarz uprawniony uzna je za niezbędne."
+      "content": "Badania lekarskie kandydata obejmują: ogólną ocenę stanu zdrowia, ze szczególnym uwzględnieniem układu nerwowego i stanu psychicznego; badania specjalistyczne, konsultacje lekarzy specjalistów i badania pomocnicze (w szczególności badania laboratoryjne, EKG, EEG, RTG), jeżeli lekarz uprawniony uzna je za niezbędne."
     },
     {
       "provision_ref": "par2p1",
@@ -46,10 +52,10 @@
       "content": "Badania lekarskie kandydata obejmują: ogólną ocenę stanu zdrowia, ze szczególnym uwzględnieniem układu nerwowego i stanu psychicznego;"
     },
     {
-      "provision_ref": "par2p2",
+      "provision_ref": "par2p1",
       "section": "2",
-      "title": "§ 2 pkt 2",
-      "content": "Badania lekarskie kandydata obejmują: badania specjalistyczne, konsultacje lekarzy specjalistów i badania pomocnicze (laboratoryjne, EKG, EEG, RTG i inne), jeżeli lekarz uprawniony uzna je za niezbędne."
+      "title": "§ 2 pkt 1",
+      "content": "Badania lekarskie kandydata obejmują: badania specjalistyczne, konsultacje lekarzy specjalistów i badania pomocnicze (w szczególności badania laboratoryjne, EKG, EEG, RTG), jeżeli lekarz uprawniony uzna je za niezbędne."
     },
     {
       "provision_ref": "par3",
@@ -133,41 +139,69 @@
       "provision_ref": "par7",
       "section": "7",
       "title": "§ 7",
-      "content": "Lekarzem uprawnionym może być lekarz, który jest wpisany do rejestru lekarzy przeprowadzających badania profilaktyczne, prowadzonego na podstawie przepisów wydanych w celu wykonania art. 229 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy ) , i ma prawo wykonywania zawodu oraz co najmniej pięcioletni staż pracy w zawodzie."
+      "content": "Lekarzem uprawnionym jest lekarz, który został wpisany do rejestru lekarzy przeprowadzających badania profilaktyczne, prowadzonego na podstawie przepisów wydanych na podstawie art. 229 § 8 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy , i ma prawo wykonywania zawodu oraz co najmniej pięcioletni staż pracy w zawodzie."
     },
     {
       "provision_ref": "par8",
       "section": "8",
       "title": "§ 8",
-      "content": "Psychologiem uprawnionym może być psycholog, który jest wpisany do rejestru prowadzonego przez komendanta wojewódzkiego Policji na podstawie przepisów wydanych w celu wykonania ustawy z dnia 21 maja 1999 r. o broni i amunicji ."
+      "content": "Psychologiem uprawnionym jest psycholog, który został wpisany do rejestru prowadzonego przez komendanta wojewódzkiego Policji na podstawie art. 15c ust. 2 ustawy z dnia 21 maja 1999 r. o broni i amunicji ."
     },
     {
       "provision_ref": "par9",
       "section": "9",
       "title": "§ 9",
-      "content": "Rozporządzenie wchodzi w życie z dniem 1 października 2014 r. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 8 marca 2002 r. w sprawie badań lekarskich i psychologicznych kandydatów do objęcia urzędu sędziego (Dz. U. Nr 26, poz. 263), które traci moc na podstawie art. 6 ustawy z dnia 14 marca 2014 r. o zmianie ustawy - Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw (Dz. U. poz. 512) z dniem wejścia w życie niniejszego rozporządzenia."
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 października 2014 r. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 8 marca 2002 r. w sprawie badań lekarskich i psychologicznych kandydatów do objęcia urzędu sędziego (Dz. U. poz. 263), które utraciło moc na podstawie art. 6 ustawy z dnia 14 marca 2014 r. o zmianie ustawy - Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw (Dz. U. poz. 512) z dniem wejścia w życie niniejszego rozporządzenia."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2013-427",
+      "target_document_id": "pl-du-2017-1523",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-1998-94",
+      "target_document_id": "pl-du-2016-1522",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2012-576",
+      "target_document_id": "pl-du-2018-23",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2013-829",
+      "target_document_id": "pl-du-2018-3",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2014-295",
+      "target_document_id": "pl-du-2018-5",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-106",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-138",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-108",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-4",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-305",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-357",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2017-1839",
       "ref_type": "references"
     }
   ]

@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2013/1638",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -73,7 +79,7 @@
       "provision_ref": "par4",
       "section": "4",
       "title": "§ 4",
-      "content": "Szkolenie trwa łącznie co najmniej 50 godzin zajęć edukacyjnych, z czego minimalny czas trwania szkolenia z zagadnień, o których mowa w § 2: pkt 1 i 2 - wynosi 15 godzin łącznie; pkt 3 - wynosi 15 godzin; pkt 4 - wynosi 20 godzin. Szkolenie przeprowadza się w formie stacjonarnej."
+      "content": "Szkolenie trwa łącznie co najmniej 50 godzin zajęć edukacyjnych, z czego minimalny czas trwania szkolenia z zagadnień, o których mowa w § 2: pkt 1 i 2 - wynosi 15 godzin łącznie; pkt 3 - wynosi 15 godzin; pkt 4 - wynosi 20 godzin. Szkolenia przeprowadza się w formie stacjonarnej, także z wykorzystywaniem metod i technik kształcenia na odległość. Organizator szkolenia prowadzonego z wykorzystaniem metod i technik kształcenia na odległość zapewnia interaktywny kontakt z uczestnikami szkolenia z wykorzystaniem środków komunikacji elektronicznej. Szkolenie kończy się zaliczeniem sprawdzającym przyswojenie przez uczestnika szkolenia zagadnień, o których mowa w § 2. Zaliczenie kształcenia prowadzonego z wykorzystywaniem metod i technik kształcenia na odległość nie może odbywać się z wykorzystaniem tych metod i technik."
     },
     {
       "provision_ref": "par4u1p1",
@@ -97,31 +103,49 @@
       "provision_ref": "par4u2",
       "section": "4",
       "title": "§ 4 ust. 2",
-      "content": "Szkolenie przeprowadza się w formie stacjonarnej."
+      "content": "Szkolenia przeprowadza się w formie stacjonarnej, także z wykorzystywaniem metod i technik kształcenia na odległość."
+    },
+    {
+      "provision_ref": "par4u3",
+      "section": "4",
+      "title": "§ 4 ust. 3",
+      "content": "Organizator szkolenia prowadzonego z wykorzystaniem metod i technik kształcenia na odległość zapewnia interaktywny kontakt z uczestnikami szkolenia z wykorzystaniem środków komunikacji elektronicznej."
+    },
+    {
+      "provision_ref": "par4u4",
+      "section": "4",
+      "title": "§ 4 ust. 4",
+      "content": "Szkolenie kończy się zaliczeniem sprawdzającym przyswojenie przez uczestnika szkolenia zagadnień, o których mowa w § 2."
+    },
+    {
+      "provision_ref": "par4u5",
+      "section": "4",
+      "title": "§ 4 ust. 5",
+      "content": "Zaliczenie kształcenia prowadzonego z wykorzystywaniem metod i technik kształcenia na odległość nie może odbywać się z wykorzystaniem tych metod i technik."
     },
     {
       "provision_ref": "par5",
       "section": "5",
       "title": "§ 5",
-      "content": "Jednostkami właściwymi do prowadzenia szkolenia są: podmioty, o których mowa w art. 2 pkt 3a ustawy z dnia 7 września 1991 r. o systemie oświaty ) ; podmioty prowadzące działalność oświatową, o której mowa w art. 83a ust. 2 ustawy z dnia 7 września 1991 r. o systemie oświaty ; usługodawcy, o których mowa w art. 2 ust. 1 pkt 2 ustawy z dnia 4 marca 2010 r. o świadczeniu usług na terytorium Rzeczypospolitej Polskiej ) ."
+      "content": "Jednostkami właściwymi do prowadzenia szkolenia są: podmioty, o których mowa w art. 2 pkt 4 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe ) ; podmioty prowadzące działalność oświatową, o której mowa w art. 170 ust. 2 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe ; usługodawcy, o których mowa w art. 3 pkt 10 ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej ."
     },
     {
       "provision_ref": "par5p1",
       "section": "5",
       "title": "§ 5 pkt 1",
-      "content": "Jednostkami właściwymi do prowadzenia szkolenia są: podmioty, o których mowa w art. 2 pkt 3a ustawy z dnia 7 września 1991 r. o systemie oświaty ) ;"
+      "content": "Jednostkami właściwymi do prowadzenia szkolenia są: podmioty, o których mowa w art. 2 pkt 4 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe ) ;"
     },
     {
       "provision_ref": "par5p2",
       "section": "5",
       "title": "§ 5 pkt 2",
-      "content": "Jednostkami właściwymi do prowadzenia szkolenia są: podmioty prowadzące działalność oświatową, o której mowa w art. 83a ust. 2 ustawy z dnia 7 września 1991 r. o systemie oświaty ;"
+      "content": "Jednostkami właściwymi do prowadzenia szkolenia są: podmioty prowadzące działalność oświatową, o której mowa w art. 170 ust. 2 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe ;"
     },
     {
       "provision_ref": "par5p3",
       "section": "5",
       "title": "§ 5 pkt 3",
-      "content": "Jednostkami właściwymi do prowadzenia szkolenia są: usługodawcy, o których mowa w art. 2 ust. 1 pkt 2 ustawy z dnia 4 marca 2010 r. o świadczeniu usług na terytorium Rzeczypospolitej Polskiej ) ."
+      "content": "Jednostkami właściwymi do prowadzenia szkolenia są: usługodawcy, o których mowa w art. 3 pkt 10 ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej ."
     },
     {
       "provision_ref": "par6",
@@ -139,15 +163,23 @@
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2002-110",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2004-2572",
+      "target_document_id": "pl-du-2021-671",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2010-278",
+      "target_document_id": "pl-du-2020-129",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1082",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-470",
       "ref_type": "references"
     }
   ]

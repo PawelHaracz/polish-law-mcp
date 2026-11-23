@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2018/2031",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -49,7 +55,7 @@
       "provision_ref": "par3",
       "section": "3",
       "title": "§ 3",
-      "content": "Mapy zagrożenia powodziowego oraz mapy ryzyka powodziowego opracowuje się w postaci elektronicznej obejmującej bazę danych przestrzennych oraz wersje kartograficzne. Bazę danych przestrzennych map zagrożenia powodziowego i map ryzyka powodziowego opracowuje się w postaci warstw wektorowych. Mapy zagrożenia powodziowego oraz mapy ryzyka powodziowego opracowuje się w układzie współrzędnych płaskich prostokątnych PL-1992, o którym mowa w przepisach wydanych na podstawie art. 3 ust. 5 ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne , zwanym dalej „układem współrzędnych płaskich prostokątnych PL-1992”. Mapy zagrożenia powodziowego oraz mapy ryzyka powodziowego w wersji kartograficznej opracowuje się w podziale arkuszowym map topograficznych w skali 1:10 000 w układzie współrzędnych płaskich prostokątnych PL-1992. Mapy zagrożenia powodziowego oraz mapy ryzyka powodziowego w wersji kartograficznej opracowuje się w postaci plików rastrowych w formacie: PDF, zawierających treść tych map wraz z elementami pozaramkowymi; GEOTIFF, obejmujących główną ramkę danych zawierającą treść tych map. Podkład topograficzny dla map zagrożenia powodziowego oraz map ryzyka powodziowego w wersji kartograficznej stanowią mapy topograficzne w skali 1:10 000 lub ortofotomapy o terenowej wartości piksela nie większej niż 0,5 m."
+      "content": "Mapy zagrożenia powodziowego oraz mapy ryzyka powodziowego opracowuje się w postaci elektronicznej obejmującej bazę danych przestrzennych oraz wersje kartograficzne. Bazę danych przestrzennych map zagrożenia powodziowego i map ryzyka powodziowego opracowuje się w postaci warstw wektorowych. Mapy zagrożenia powodziowego oraz mapy ryzyka powodziowego opracowuje się w układzie współrzędnych płaskich prostokątnych PL-1992, o którym mowa w przepisach wydanych na podstawie art. 3 ust. 5 ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne , zwanym dalej „układem współrzędnych płaskich prostokątnych PL-1992”. Mapy zagrożenia powodziowego oraz mapy ryzyka powodziowego w wersji kartograficznej opracowuje się w podziale arkuszowym map topograficznych w skali 1:10 000 w układzie współrzędnych płaskich prostokątnych PL-1992. Mapy zagrożenia powodziowego oraz mapy ryzyka powodziowego w wersji kartograficznej opracowuje się w postaci plików w formacie PDF, zawierających treść tych map wraz z elementami pozaramkowymi. Podkład topograficzny dla map zagrożenia powodziowego oraz map ryzyka powodziowego w wersji kartograficznej stanowią mapy topograficzne w skali 1:10 000 lub ortofotomapy o terenowej wartości piksela nie większej niż 0,5 m."
     },
     {
       "provision_ref": "par3u1",
@@ -76,16 +82,10 @@
       "content": "Mapy zagrożenia powodziowego oraz mapy ryzyka powodziowego w wersji kartograficznej opracowuje się w podziale arkuszowym map topograficznych w skali 1:10 000 w układzie współrzędnych płaskich prostokątnych PL-1992."
     },
     {
-      "provision_ref": "par3u5p1",
+      "provision_ref": "par3u5",
       "section": "3",
-      "title": "§ 3 ust. 5 pkt 1",
-      "content": "Mapy zagrożenia powodziowego oraz mapy ryzyka powodziowego w wersji kartograficznej opracowuje się w postaci plików rastrowych w formacie: PDF, zawierających treść tych map wraz z elementami pozaramkowymi;"
-    },
-    {
-      "provision_ref": "par3u5p2",
-      "section": "3",
-      "title": "§ 3 ust. 5 pkt 2",
-      "content": "Mapy zagrożenia powodziowego oraz mapy ryzyka powodziowego w wersji kartograficznej opracowuje się w postaci plików rastrowych w formacie: GEOTIFF, obejmujących główną ramkę danych zawierającą treść tych map."
+      "title": "§ 3 ust. 5",
+      "content": "Mapy zagrożenia powodziowego oraz mapy ryzyka powodziowego w wersji kartograficznej opracowuje się w postaci plików w formacie PDF, zawierających treść tych map wraz z elementami pozaramkowymi."
     },
     {
       "provision_ref": "par3u6",
@@ -97,55 +97,55 @@
       "provision_ref": "par4",
       "section": "4",
       "title": "§ 4",
-      "content": "Wizualizacje map zagrożenia powodziowego oraz map ryzyka powodziowego opracowuje się w układzie współrzędnych płaskich prostokątnych PL-1992. Wizualizacje map zagrożenia powodziowego oraz map ryzyka powodziowego opracowuje się oddzielnie dla każdego z obszarów dorzeczy w następujących skalach: 1:3 000 000 oraz 1:1 500 000 - dla obszaru dorzecza Wisły i obszaru dorzecza Odry; 1:250 000 - dla obszarów dorzeczy Dniestru, Banówki i Świeżej; 1:500 000 - dla obszaru dorzecza Dunaju, dla regionów wodnych Czadeczki i Czarnej Orawy; 1:25 000 - dla obszaru dorzecza Dunaju, dla regionu wodnego Morawy; 1:750 000 - dla obszaru dorzecza Łaby; 1:1 000 000 - dla obszarów dorzeczy Niemna i Pregoły. Wizualizacje map zagrożenia powodziowego oraz map ryzyka powodziowego opracowuje się w formacie PDF w rozmiarze arkusza 297 × 210 mm."
+      "content": "Wizualizacje map zagrożenia powodziowego i map ryzyka powodziowego, o których mowa w art. 173 ust. 17 ustawy z dnia 20 lipca 2017 r. - Prawo wodne , opracowuje się w układzie współrzędnych płaskich prostokątnych PL-1992. Wizualizacje map zagrożenia powodziowego i map ryzyka powodziowego, o których mowa w art. 173 ust. 17 ustawy z dnia 20 lipca 2017 r. - Prawo wodne , opracowuje się oddzielnie dla każdego z obszarów dorzeczy w następujących skalach: 1:3 000 000 oraz 1:1 500 000 - dla obszaru dorzecza Wisły i obszaru dorzecza Odry; 1:250 000 - dla obszarów dorzeczy Dniestru, Banówki i Świeżej; 1:500 000 - dla obszaru dorzecza Dunaju, dla regionów wodnych Czadeczki i Czarnej Orawy; 1:25 000 - dla obszaru dorzecza Dunaju, dla regionu wodnego Morawy; 1:750 000 - dla obszaru dorzecza Łaby; 1:1 000 000 - dla obszarów dorzeczy Niemna i Pregoły. Wizualizacje map zagrożenia powodziowego oraz map ryzyka powodziowego, o których mowa w art. 173 ust. 17 ustawy z dnia 20 lipca 2017 r. - Prawo wodne , opracowuje się w formacie PDF w rozmiarze arkusza 297 × 210 mm."
     },
     {
       "provision_ref": "par4u1",
       "section": "4",
       "title": "§ 4 ust. 1",
-      "content": "Wizualizacje map zagrożenia powodziowego oraz map ryzyka powodziowego opracowuje się w układzie współrzędnych płaskich prostokątnych PL-1992."
+      "content": "Wizualizacje map zagrożenia powodziowego i map ryzyka powodziowego, o których mowa w art. 173 ust. 17 ustawy z dnia 20 lipca 2017 r. - Prawo wodne , opracowuje się w układzie współrzędnych płaskich prostokątnych PL-1992."
     },
     {
       "provision_ref": "par4u2p1",
       "section": "4",
       "title": "§ 4 ust. 2 pkt 1",
-      "content": "Wizualizacje map zagrożenia powodziowego oraz map ryzyka powodziowego opracowuje się oddzielnie dla każdego z obszarów dorzeczy w następujących skalach: 1:3 000 000 oraz 1:1 500 000 - dla obszaru dorzecza Wisły i obszaru dorzecza Odry;"
+      "content": "Wizualizacje map zagrożenia powodziowego i map ryzyka powodziowego, o których mowa w art. 173 ust. 17 ustawy z dnia 20 lipca 2017 r. - Prawo wodne , opracowuje się oddzielnie dla każdego z obszarów dorzeczy w następujących skalach: 1:3 000 000 oraz 1:1 500 000 - dla obszaru dorzecza Wisły i obszaru dorzecza Odry;"
     },
     {
       "provision_ref": "par4u2p2",
       "section": "4",
       "title": "§ 4 ust. 2 pkt 2",
-      "content": "Wizualizacje map zagrożenia powodziowego oraz map ryzyka powodziowego opracowuje się oddzielnie dla każdego z obszarów dorzeczy w następujących skalach: 1:250 000 - dla obszarów dorzeczy Dniestru, Banówki i Świeżej;"
+      "content": "Wizualizacje map zagrożenia powodziowego i map ryzyka powodziowego, o których mowa w art. 173 ust. 17 ustawy z dnia 20 lipca 2017 r. - Prawo wodne , opracowuje się oddzielnie dla każdego z obszarów dorzeczy w następujących skalach: 1:250 000 - dla obszarów dorzeczy Dniestru, Banówki i Świeżej;"
     },
     {
       "provision_ref": "par4u2p3",
       "section": "4",
       "title": "§ 4 ust. 2 pkt 3",
-      "content": "Wizualizacje map zagrożenia powodziowego oraz map ryzyka powodziowego opracowuje się oddzielnie dla każdego z obszarów dorzeczy w następujących skalach: 1:500 000 - dla obszaru dorzecza Dunaju, dla regionów wodnych Czadeczki i Czarnej Orawy;"
+      "content": "Wizualizacje map zagrożenia powodziowego i map ryzyka powodziowego, o których mowa w art. 173 ust. 17 ustawy z dnia 20 lipca 2017 r. - Prawo wodne , opracowuje się oddzielnie dla każdego z obszarów dorzeczy w następujących skalach: 1:500 000 - dla obszaru dorzecza Dunaju, dla regionów wodnych Czadeczki i Czarnej Orawy;"
     },
     {
       "provision_ref": "par4u2p4",
       "section": "4",
       "title": "§ 4 ust. 2 pkt 4",
-      "content": "Wizualizacje map zagrożenia powodziowego oraz map ryzyka powodziowego opracowuje się oddzielnie dla każdego z obszarów dorzeczy w następujących skalach: 1:25 000 - dla obszaru dorzecza Dunaju, dla regionu wodnego Morawy;"
+      "content": "Wizualizacje map zagrożenia powodziowego i map ryzyka powodziowego, o których mowa w art. 173 ust. 17 ustawy z dnia 20 lipca 2017 r. - Prawo wodne , opracowuje się oddzielnie dla każdego z obszarów dorzeczy w następujących skalach: 1:25 000 - dla obszaru dorzecza Dunaju, dla regionu wodnego Morawy;"
     },
     {
       "provision_ref": "par4u2p5",
       "section": "4",
       "title": "§ 4 ust. 2 pkt 5",
-      "content": "Wizualizacje map zagrożenia powodziowego oraz map ryzyka powodziowego opracowuje się oddzielnie dla każdego z obszarów dorzeczy w następujących skalach: 1:750 000 - dla obszaru dorzecza Łaby;"
+      "content": "Wizualizacje map zagrożenia powodziowego i map ryzyka powodziowego, o których mowa w art. 173 ust. 17 ustawy z dnia 20 lipca 2017 r. - Prawo wodne , opracowuje się oddzielnie dla każdego z obszarów dorzeczy w następujących skalach: 1:750 000 - dla obszaru dorzecza Łaby;"
     },
     {
       "provision_ref": "par4u2p6",
       "section": "4",
       "title": "§ 4 ust. 2 pkt 6",
-      "content": "Wizualizacje map zagrożenia powodziowego oraz map ryzyka powodziowego opracowuje się oddzielnie dla każdego z obszarów dorzeczy w następujących skalach: 1:1 000 000 - dla obszarów dorzeczy Niemna i Pregoły."
+      "content": "Wizualizacje map zagrożenia powodziowego i map ryzyka powodziowego, o których mowa w art. 173 ust. 17 ustawy z dnia 20 lipca 2017 r. - Prawo wodne , opracowuje się oddzielnie dla każdego z obszarów dorzeczy w następujących skalach: 1:1 000 000 - dla obszarów dorzeczy Niemna i Pregoły."
     },
     {
       "provision_ref": "par4u3",
       "section": "4",
       "title": "§ 4 ust. 3",
-      "content": "Wizualizacje map zagrożenia powodziowego oraz map ryzyka powodziowego opracowuje się w formacie PDF w rozmiarze arkusza 297 × 210 mm."
+      "content": "Wizualizacje map zagrożenia powodziowego oraz map ryzyka powodziowego, o których mowa w art. 173 ust. 17 ustawy z dnia 20 lipca 2017 r. - Prawo wodne , opracowuje się w formacie PDF w rozmiarze arkusza 297 × 210 mm."
     },
     {
       "provision_ref": "par5",
@@ -343,13 +343,13 @@
       "provision_ref": "par10",
       "section": "10",
       "title": "§ 10",
-      "content": "Przy wyznaczaniu obszarów, o których mowa w art. 169 ust. 2 pkt 3 lit. a i b ustawy z dnia 20 lipca 2017 r. - Prawo wodne : przyjmuje się przepływ lub poziom wody o prawdopodobieństwie wystąpienia 1%, czyli raz na 100 lat; uwzględnia się całkowite zniszczenie wału przeciwpowodziowego lub wału przeciwsztormowego."
+      "content": "Przy wyznaczaniu obszarów, o których mowa w art. 169 ust. 2 pkt 3 lit. a i b ustawy z dnia 20 lipca 2017 r. - Prawo wodne : przyjmuje się przepływ lub poziom wody o prawdopodobieństwie wystąpienia 1 %, czyli raz na 100 lat; uwzględnia się całkowite zniszczenie wału przeciwpowodziowego lub wału przeciwsztormowego."
     },
     {
       "provision_ref": "par10p1",
       "section": "10",
       "title": "§ 10 pkt 1",
-      "content": "Przy wyznaczaniu obszarów, o których mowa w art. 169 ust. 2 pkt 3 lit. a i b ustawy z dnia 20 lipca 2017 r. - Prawo wodne : przyjmuje się przepływ lub poziom wody o prawdopodobieństwie wystąpienia 1%, czyli raz na 100 lat;"
+      "content": "Przy wyznaczaniu obszarów, o których mowa w art. 169 ust. 2 pkt 3 lit. a i b ustawy z dnia 20 lipca 2017 r. - Prawo wodne : przyjmuje się przepływ lub poziom wody o prawdopodobieństwie wystąpienia 1 %, czyli raz na 100 lat;"
     },
     {
       "provision_ref": "par10p2",
@@ -451,7 +451,7 @@
       "provision_ref": "par13",
       "section": "13",
       "title": "§ 13",
-      "content": "Przy opracowywaniu map ryzyka powodziowego, o których mowa w § 12 ust. 1 pkt 1, uwzględnia się oznaczenie na tych mapach: szacunkowej liczby mieszkańców, którzy mogą być dotknięci powodzią; budynków mieszkalnych; obiektów o szczególnym znaczeniu społecznym, w tym: szpitali, szkół, przedszkoli, żłobków, hoteli, centrów handlowo-usługowych, jednostek Policji, jednostek ochrony przeciwpożarowej, jednostek Straży Granicznej, domów pomocy społecznej, placówek zapewniających całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub osobom w podeszłym wieku i hospicjów, zakładów karnych, zakładów poprawczych i aresztów śledczych; wartości potencjalnych strat powodziowych; elementów wymienionych w § 6 ust. 1 pkt 2 i 5-9. Przy opracowywaniu map ryzyka powodziowego, o których mowa w § 12 ust. 1 pkt 2, uwzględnia się oznaczenie na tych mapach: następujących klas użytkowania terenu: terenów zabudowy mieszkaniowej, terenów przemysłowych, terenów komunikacyjnych, lasów, terenów rekreacyjno-wypoczynkowych, gruntów ornych i upraw trwałych, użytków zielonych, wód powierzchniowych, pozostałych terenów; ujęć wód powierzchniowych i wód podziemnych; stref ochronnych ujęć wody; kąpielisk; obszarów Natura 2000, parków narodowych oraz rezerwatów przyrody; ogrodów zoologicznych; zabytków nieruchomych, w szczególności objętych formami ochrony zabytków, o których mowa w art. 7 pkt 1 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami ; zabytków wpisanych na Listę dziedzictwa światowego, o której mowa w art. 11 ust. 2 Konwencji w sprawie ochrony światowego dziedzictwa kulturalnego i naturalnego, przyjętej w Paryżu dnia 16 listopada 1972 r. przez Konferencję Generalną Organizacji Narodów Zjednoczonych dla Wychowania, Nauki i Kultury na jej siedemnastej sesji (Dz. U. z 1976 r. poz. 190); pomników zagłady, o których mowa w art. 2 ustawy z dnia 7 maja 1999 r. o ochronie terenów byłych hitlerowskich obozów zagłady ; skansenów i muzeów wpisanych do Państwowego Rejestru Muzeów, o którym mowa w art. 13 ustawy z dnia 21 listopada 1996 r. o muzeach ; bibliotek, których zbiory tworzą narodowy zasób biblioteczny, o którym mowa w art. 6 ust. 1 ustawy z dnia 27 czerwca 1997 r. o bibliotekach ; archiwów, których zbiory tworzą narodowy zasób archiwalny, o którym mowa w art. 2 ust. 1 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach ; instalacji mogących w razie wystąpienia powodzi spowodować znaczne zanieczyszczenie poszczególnych elementów przyrodniczych albo środowiska jako całości, na których prowadzenie jest wymagane uzyskanie pozwolenia zintegrowanego, o którym mowa w art. 181 ust. 1 pkt 1 ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska ) , w następujących kategoriach działalności przemysłowej: przemysł energetyczny, produkcja i obróbka metali, przemysł mineralny, przemysł chemiczny, gospodarka odpadami, inne rodzaje działalności, obejmujące: - produkcję i przetwórstwo papieru oraz drewna, - intensywny chów lub hodowlę drobiu i świń, - produkcję i przetwarzanie surowców roślinnych i zwierzęcych; zakładów przemysłowych, których instalacje nie wymagają uzyskania pozwolenia zintegrowanego, o którym mowa w art. 181 ust. 1 pkt 1 ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska , a które mogą stwarzać zagrożenie, w tym zakładów stwarzających zagrożenie wystąpienia poważnej awarii przemysłowej w rozumieniu art. 3 pkt 48a tej ustawy; potencjalnych ognisk zanieczyszczeń wód, w szczególności: oczyszczalni ścieków, przepompowni ścieków, składowisk odpadów, cmentarzy; elementów wymienionych w § 6 ust. 1 pkt 2 i 5-9."
+      "content": "Przy opracowywaniu map ryzyka powodziowego, o których mowa w § 12 ust. 1 pkt 1, uwzględnia się oznaczenie na tych mapach: szacunkowej liczby mieszkańców, którzy mogą być dotknięci powodzią; budynków mieszkalnych; obiektów o szczególnym znaczeniu społecznym, w tym: szpitali, szkół, przedszkoli, żłobków, hoteli, centrów handlowo-usługowych, jednostek Policji, jednostek ochrony przeciwpożarowej, jednostek Straży Granicznej, domów pomocy społecznej, placówek zapewniających całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub osobom w podeszłym wieku i hospicjów, zakładów karnych, zakładów poprawczych i aresztów śledczych; wartości potencjalnych strat powodziowych; elementów wymienionych w § 6 ust. 1 pkt 2 i 5-9. Przy opracowywaniu map ryzyka powodziowego, o których mowa w § 12 ust. 1 pkt 2, uwzględnia się oznaczenie na tych mapach: następujących klas użytkowania terenu: terenów zabudowy mieszkaniowej, terenów przemysłowych, terenów komunikacyjnych, lasów, terenów rekreacyjno-wypoczynkowych, gruntów ornych i upraw trwałych, użytków zielonych, wód powierzchniowych, pozostałych terenów; ujęć wód powierzchniowych i wód podziemnych; stref ochronnych ujęć wody; kąpielisk; obszarów Natura 2000, parków narodowych oraz rezerwatów przyrody; ogrodów zoologicznych; zabytków nieruchomych, w szczególności objętych formami ochrony zabytków, o których mowa w art. 7 pkt 1 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami ; zabytków wpisanych na Listę dziedzictwa światowego, o której mowa w art. 11 ust. 2 Konwencji w sprawie ochrony światowego dziedzictwa kulturalnego i naturalnego, przyjętej w Paryżu dnia 16 listopada 1972 r. przez Konferencję Generalną Organizacji Narodów Zjednoczonych dla Wychowania, Nauki i Kultury na jej siedemnastej sesji (Dz. U. z 1976 r. poz. 190 i 191); pomników zagłady, o których mowa w art. 2 ustawy z dnia 7 maja 1999 r. o ochronie terenów byłych hitlerowskich obozów zagłady ; skansenów i muzeów wpisanych do Państwowego Rejestru Muzeów, o którym mowa w art. 13 ustawy z dnia 21 listopada 1996 r. o muzeach ; bibliotek, których zbiory tworzą narodowy zasób biblioteczny, o którym mowa w art. 6 ust. 1 ustawy z dnia 27 czerwca 1997 r. o bibliotekach ; archiwów, których zbiory tworzą narodowy zasób archiwalny, o którym mowa w art. 2 ust. 1 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach ; instalacji mogących w razie wystąpienia powodzi spowodować znaczne zanieczyszczenie poszczególnych elementów przyrodniczych albo środowiska jako całości, na których prowadzenie jest wymagane uzyskanie pozwolenia zintegrowanego, o którym mowa w art. 181 ust. 1 pkt 1 ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska , w następujących kategoriach działalności przemysłowej: przemysł energetyczny, produkcja i obróbka metali, przemysł mineralny, przemysł chemiczny, gospodarka odpadami, inne rodzaje działalności, obejmujące: - produkcję i przetwórstwo papieru oraz drewna, - intensywny chów lub hodowlę drobiu i świń, - produkcję i przetwarzanie surowców roślinnych i zwierzęcych; zakładów przemysłowych, których instalacje nie wymagają uzyskania pozwolenia zintegrowanego, o którym mowa w art. 181 ust. 1 pkt 1 ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska , a które mogą stwarzać zagrożenie, w tym zakładów stwarzających zagrożenie wystąpienia poważnej awarii przemysłowej w rozumieniu art. 3 pkt 48a tej ustawy; potencjalnych ognisk zanieczyszczeń wód, w szczególności: oczyszczalni ścieków, przepompowni ścieków, składowisk odpadów, cmentarzy; elementów wymienionych w § 6 ust. 1 pkt 2 i 5-9."
     },
     {
       "provision_ref": "par13u1p1",
@@ -637,7 +637,7 @@
       "provision_ref": "par13u2p8",
       "section": "13",
       "title": "§ 13 ust. 2 pkt 8",
-      "content": "Przy opracowywaniu map ryzyka powodziowego, o których mowa w § 12 ust. 1 pkt 2, uwzględnia się oznaczenie na tych mapach: zabytków wpisanych na Listę dziedzictwa światowego, o której mowa w art. 11 ust. 2 Konwencji w sprawie ochrony światowego dziedzictwa kulturalnego i naturalnego, przyjętej w Paryżu dnia 16 listopada 1972 r. przez Konferencję Generalną Organizacji Narodów Zjednoczonych dla Wychowania, Nauki i Kultury na jej siedemnastej sesji (Dz. U. z 1976 r. poz. 190);"
+      "content": "Przy opracowywaniu map ryzyka powodziowego, o których mowa w § 12 ust. 1 pkt 2, uwzględnia się oznaczenie na tych mapach: zabytków wpisanych na Listę dziedzictwa światowego, o której mowa w art. 11 ust. 2 Konwencji w sprawie ochrony światowego dziedzictwa kulturalnego i naturalnego, przyjętej w Paryżu dnia 16 listopada 1972 r. przez Konferencję Generalną Organizacji Narodów Zjednoczonych dla Wychowania, Nauki i Kultury na jej siedemnastej sesji (Dz. U. z 1976 r. poz. 190 i 191);"
     },
     {
       "provision_ref": "par13u2p9",
@@ -667,37 +667,37 @@
       "provision_ref": "par13u2p13la",
       "section": "13",
       "title": "§ 13 ust. 2 pkt 13 lit. a",
-      "content": "Przy opracowywaniu map ryzyka powodziowego, o których mowa w § 12 ust. 1 pkt 2, uwzględnia się oznaczenie na tych mapach: instalacji mogących w razie wystąpienia powodzi spowodować znaczne zanieczyszczenie poszczególnych elementów przyrodniczych albo środowiska jako całości, na których prowadzenie jest wymagane uzyskanie pozwolenia zintegrowanego, o którym mowa w art. 181 ust. 1 pkt 1 ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska ) , w następujących kategoriach działalności przemysłowej: przemysł energetyczny,"
+      "content": "Przy opracowywaniu map ryzyka powodziowego, o których mowa w § 12 ust. 1 pkt 2, uwzględnia się oznaczenie na tych mapach: instalacji mogących w razie wystąpienia powodzi spowodować znaczne zanieczyszczenie poszczególnych elementów przyrodniczych albo środowiska jako całości, na których prowadzenie jest wymagane uzyskanie pozwolenia zintegrowanego, o którym mowa w art. 181 ust. 1 pkt 1 ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska , w następujących kategoriach działalności przemysłowej: przemysł energetyczny,"
     },
     {
       "provision_ref": "par13u2p13lb",
       "section": "13",
       "title": "§ 13 ust. 2 pkt 13 lit. b",
-      "content": "Przy opracowywaniu map ryzyka powodziowego, o których mowa w § 12 ust. 1 pkt 2, uwzględnia się oznaczenie na tych mapach: instalacji mogących w razie wystąpienia powodzi spowodować znaczne zanieczyszczenie poszczególnych elementów przyrodniczych albo środowiska jako całości, na których prowadzenie jest wymagane uzyskanie pozwolenia zintegrowanego, o którym mowa w art. 181 ust. 1 pkt 1 ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska ) , w następujących kategoriach działalności przemysłowej: produkcja i obróbka metali,"
+      "content": "Przy opracowywaniu map ryzyka powodziowego, o których mowa w § 12 ust. 1 pkt 2, uwzględnia się oznaczenie na tych mapach: instalacji mogących w razie wystąpienia powodzi spowodować znaczne zanieczyszczenie poszczególnych elementów przyrodniczych albo środowiska jako całości, na których prowadzenie jest wymagane uzyskanie pozwolenia zintegrowanego, o którym mowa w art. 181 ust. 1 pkt 1 ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska , w następujących kategoriach działalności przemysłowej: produkcja i obróbka metali,"
     },
     {
       "provision_ref": "par13u2p13lc",
       "section": "13",
       "title": "§ 13 ust. 2 pkt 13 lit. c",
-      "content": "Przy opracowywaniu map ryzyka powodziowego, o których mowa w § 12 ust. 1 pkt 2, uwzględnia się oznaczenie na tych mapach: instalacji mogących w razie wystąpienia powodzi spowodować znaczne zanieczyszczenie poszczególnych elementów przyrodniczych albo środowiska jako całości, na których prowadzenie jest wymagane uzyskanie pozwolenia zintegrowanego, o którym mowa w art. 181 ust. 1 pkt 1 ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska ) , w następujących kategoriach działalności przemysłowej: przemysł mineralny,"
+      "content": "Przy opracowywaniu map ryzyka powodziowego, o których mowa w § 12 ust. 1 pkt 2, uwzględnia się oznaczenie na tych mapach: instalacji mogących w razie wystąpienia powodzi spowodować znaczne zanieczyszczenie poszczególnych elementów przyrodniczych albo środowiska jako całości, na których prowadzenie jest wymagane uzyskanie pozwolenia zintegrowanego, o którym mowa w art. 181 ust. 1 pkt 1 ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska , w następujących kategoriach działalności przemysłowej: przemysł mineralny,"
     },
     {
       "provision_ref": "par13u2p13ld",
       "section": "13",
       "title": "§ 13 ust. 2 pkt 13 lit. d",
-      "content": "Przy opracowywaniu map ryzyka powodziowego, o których mowa w § 12 ust. 1 pkt 2, uwzględnia się oznaczenie na tych mapach: instalacji mogących w razie wystąpienia powodzi spowodować znaczne zanieczyszczenie poszczególnych elementów przyrodniczych albo środowiska jako całości, na których prowadzenie jest wymagane uzyskanie pozwolenia zintegrowanego, o którym mowa w art. 181 ust. 1 pkt 1 ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska ) , w następujących kategoriach działalności przemysłowej: przemysł chemiczny,"
+      "content": "Przy opracowywaniu map ryzyka powodziowego, o których mowa w § 12 ust. 1 pkt 2, uwzględnia się oznaczenie na tych mapach: instalacji mogących w razie wystąpienia powodzi spowodować znaczne zanieczyszczenie poszczególnych elementów przyrodniczych albo środowiska jako całości, na których prowadzenie jest wymagane uzyskanie pozwolenia zintegrowanego, o którym mowa w art. 181 ust. 1 pkt 1 ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska , w następujących kategoriach działalności przemysłowej: przemysł chemiczny,"
     },
     {
       "provision_ref": "par13u2p13le",
       "section": "13",
       "title": "§ 13 ust. 2 pkt 13 lit. e",
-      "content": "Przy opracowywaniu map ryzyka powodziowego, o których mowa w § 12 ust. 1 pkt 2, uwzględnia się oznaczenie na tych mapach: instalacji mogących w razie wystąpienia powodzi spowodować znaczne zanieczyszczenie poszczególnych elementów przyrodniczych albo środowiska jako całości, na których prowadzenie jest wymagane uzyskanie pozwolenia zintegrowanego, o którym mowa w art. 181 ust. 1 pkt 1 ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska ) , w następujących kategoriach działalności przemysłowej: gospodarka odpadami,"
+      "content": "Przy opracowywaniu map ryzyka powodziowego, o których mowa w § 12 ust. 1 pkt 2, uwzględnia się oznaczenie na tych mapach: instalacji mogących w razie wystąpienia powodzi spowodować znaczne zanieczyszczenie poszczególnych elementów przyrodniczych albo środowiska jako całości, na których prowadzenie jest wymagane uzyskanie pozwolenia zintegrowanego, o którym mowa w art. 181 ust. 1 pkt 1 ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska , w następujących kategoriach działalności przemysłowej: gospodarka odpadami,"
     },
     {
       "provision_ref": "par13u2p13lf",
       "section": "13",
       "title": "§ 13 ust. 2 pkt 13 lit. f",
-      "content": "Przy opracowywaniu map ryzyka powodziowego, o których mowa w § 12 ust. 1 pkt 2, uwzględnia się oznaczenie na tych mapach: instalacji mogących w razie wystąpienia powodzi spowodować znaczne zanieczyszczenie poszczególnych elementów przyrodniczych albo środowiska jako całości, na których prowadzenie jest wymagane uzyskanie pozwolenia zintegrowanego, o którym mowa w art. 181 ust. 1 pkt 1 ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska ) , w następujących kategoriach działalności przemysłowej: inne rodzaje działalności, obejmujące: - produkcję i przetwórstwo papieru oraz drewna, - intensywny chów lub hodowlę drobiu i świń, - produkcję i przetwarzanie surowców roślinnych i zwierzęcych;"
+      "content": "Przy opracowywaniu map ryzyka powodziowego, o których mowa w § 12 ust. 1 pkt 2, uwzględnia się oznaczenie na tych mapach: instalacji mogących w razie wystąpienia powodzi spowodować znaczne zanieczyszczenie poszczególnych elementów przyrodniczych albo środowiska jako całości, na których prowadzenie jest wymagane uzyskanie pozwolenia zintegrowanego, o którym mowa w art. 181 ust. 1 pkt 1 ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska , w następujących kategoriach działalności przemysłowej: inne rodzaje działalności, obejmujące: - produkcję i przetwórstwo papieru oraz drewna, - intensywny chów lub hodowlę drobiu i świń, - produkcję i przetwarzanie surowców roślinnych i zwierzęcych;"
     },
     {
       "provision_ref": "par13u2p14",
@@ -1033,33 +1033,61 @@
       "provision_ref": "par19",
       "section": "19",
       "title": "§ 19",
-      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska, Ministra Transportu, Budownictwa i Gospodarki Morskiej, Ministra Administracji i Cyfryzacji oraz Ministra Spraw Wewnętrznych z dnia 21 grudnia 2012 r. w sprawie opracowywania map zagrożenia powodziowego oraz map ryzyka powodziowego (Dz. U. z 2013 r. poz. 104), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 566 ust. 1 ustawy z dnia 20 lipca 2017 r. - Prawo wodne (Dz. U. poz. 1566 i 2180 oraz z 2018 r. poz. 650, 710, 1479, 1669 i 1722)."
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia 4) Rozporządzenie zostało ogłoszone w dniu 23 października 2018 r. . 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska, Ministra Transportu, Budownictwa i Gospodarki Morskiej, Ministra Administracji i Cyfryzacji oraz Ministra Spraw Wewnętrznych z dnia 21 grudnia 2012 r. w sprawie opracowywania map zagrożenia powodziowego oraz map ryzyka powodziowego (Dz. U. z 2013 r. poz. 104), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 566 ust. 1 ustawy z dnia 20 lipca 2017 r. - Prawo wodne (Dz. U. poz. 1566 i 2180 oraz z 2018 r. poz. 650, 710, 1479, 1669 i 1722)."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2017-1566",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2017-2101",
+      "target_document_id": "pl-du-2023-1792",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2018-650",
+      "target_document_id": "pl-du-2023-1478",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2018-1669",
+      "target_document_id": "pl-du-2023-1688",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2017-2187",
+      "target_document_id": "pl-du-2023-1890",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2018-10",
+      "target_document_id": "pl-du-2023-1963",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-2029",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1752",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1615",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1762",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-840",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-951",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1904",
       "ref_type": "references"
     },
     {
@@ -1067,51 +1095,31 @@
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2018-720",
+      "target_document_id": "pl-du-2022-385",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2018-574",
+      "target_document_id": "pl-du-2022-2393",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2018-217",
+      "target_document_id": "pl-du-2020-164",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2018-357",
+      "target_document_id": "pl-du-2024-54",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2018-398",
+      "target_document_id": "pl-du-2023-773",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2018-799",
+      "target_document_id": "pl-du-2023-1336",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2018-997",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-2018-1000",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-2018-1629",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-2018-1614",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-2018-1471",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-2018-1479",
+      "target_document_id": "pl-du-2024-425",
       "ref_type": "references"
     }
   ]

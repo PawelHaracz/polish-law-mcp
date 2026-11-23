@@ -10,6 +10,18 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2018/2459",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Do przymusu bezpośredniego, którego stosowanie rozpoczęto przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -175,13 +187,21 @@
       "provision_ref": "par8",
       "section": "8",
       "title": "§ 8",
-      "content": "Rozporządzenie wchodzi w życie z dniem 31 grudnia 2018 r. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 28 czerwca 2012 r. w sprawie sposobu stosowania i dokumentowania zastosowania przymusu bezpośredniego oraz dokonywania oceny zasadności jego zastosowania (Dz. U. poz. 740), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 10 pkt 1 ustawy z dnia 24 listopada 2017 r. o zmianie ustawy o ochronie zdrowia psychicznego oraz niektórych innych ustaw (Dz. U. poz. 2439)."
+      "content": "Rozporządzenie wchodzi w życie z dniem 31 grudnia 2018 r. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 28 czerwca 2012 r. w sprawie sposobu stosowania i dokumentowania zastosowania przymusu bezpośredniego oraz dokonywania oceny zasadności jego zastosowania (Dz. U. poz. 740), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 10 pkt 1 ustawy z dnia 24 listopada 2017 r. o zmianie ustawy o ochronie zdrowia psychicznego oraz niektórych innych ustaw (Dz. U. poz. 2439)."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2018-1878",
+      "target_document_id": "pl-du-2019-1461",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-1135",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2123",
       "ref_type": "references"
     }
   ]

@@ -98,6 +98,8 @@ interface CensusEntry {
   promulgation_date: string;
   text_html_available: boolean;
   sejm_status: string;
+  not_ingestable_reason?: string;
+  not_ingestable_note?: string;
 }
 
 interface Census {
@@ -122,7 +124,7 @@ interface Census {
 function parseArgs(): { yearFrom: number; yearTo: number; limit: number | null } {
   const args = process.argv.slice(2);
   let yearFrom = 1918;
-  let yearTo = 2026;
+  let yearTo = new Date().getFullYear();
   let limit: number | null = null;
 
   for (let i = 0; i < args.length; i++) {
@@ -201,6 +203,21 @@ async function main(): Promise<void> {
 
   console.log(`Processing ${years.length} years...\n`);
 
+  // Manual reclassifications from the previous census (acts whose text.html is
+  // advertised but comes back empty) are not visible in the year index, so a
+  // fresh census would flip them back to 'ingestable'. Carry them over.
+  const previousOverrides = new Map<string, CensusEntry>();
+  if (fs.existsSync(CENSUS_PATH)) {
+    try {
+      const prev: Census = JSON.parse(fs.readFileSync(CENSUS_PATH, 'utf-8'));
+      for (const e of prev.laws) {
+        if (e.classification === 'not_ingestable' && e.not_ingestable_reason) previousOverrides.set(e.id, e);
+      }
+    } catch {
+      // unreadable previous census: start clean
+    }
+  }
+
   const entries: CensusEntry[] = [];
   let totalUstawy = 0;
   let yearsDone = 0;
@@ -245,9 +262,12 @@ async function main(): Promise<void> {
       let classification: CensusEntry['classification'];
       let skipReason: string | undefined;
 
+      const override = previousOverrides.get(id);
       if (!hasHtml) {
         classification = 'not_ingestable';
         skipReason = 'No HTML text available from API';
+      } else if (override && !ingested) {
+        classification = 'not_ingestable';
       } else {
         classification = 'ingestable';
       }
@@ -270,6 +290,12 @@ async function main(): Promise<void> {
         promulgation_date: act.promulgation,
         text_html_available: hasHtml,
         sejm_status: act.status,
+        ...(classification === 'not_ingestable' && override && hasHtml && !ingested
+          ? {
+              not_ingestable_reason: override.not_ingestable_reason,
+              not_ingestable_note: override.not_ingestable_note,
+            }
+          : {}),
       });
     }
 

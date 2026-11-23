@@ -10,34 +10,62 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2022/2238",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
-      "content": "Ustala się, że ilość paliwa stałego dostępna dla jednego gospodarstwa domowego w ramach zakupu preferencyjnego wynosi: 1500 kg - do dnia 31 grudnia 2022 r.; 1500 kg - od dnia 1 stycznia 2023 r."
+      "content": "Ustala się, że ilość paliwa stałego dostępna dla jednego gospodarstwa domowego w ramach zakupu preferencyjnego wynosi: do dnia 31 grudnia 2022 r. - nie więcej niż 1500 kg; od dnia 1 stycznia 2023 r. - nie więcej niż 1500 kg. W przypadku gdy do dnia 31 grudnia 2022 r. nie dokonano zakupu paliwa stałego w ramach zakupu preferencyjnego albo dokonano takiego zakupu w ilości mniejszej niż 1500 kg, to ilość paliwa stałego niezakupionego w ramach limitu określonego w ust. 1 pkt 1 powiększa limit określony w ust. 1 pkt 2."
     },
     {
-      "provision_ref": "par1p1",
+      "provision_ref": "par1u1p1",
       "section": "1",
-      "title": "§ 1 pkt 1",
-      "content": "Ustala się, że ilość paliwa stałego dostępna dla jednego gospodarstwa domowego w ramach zakupu preferencyjnego wynosi: 1500 kg - do dnia 31 grudnia 2022 r.;"
+      "title": "§ 1 ust. 1 pkt 1",
+      "content": "Ustala się, że ilość paliwa stałego dostępna dla jednego gospodarstwa domowego w ramach zakupu preferencyjnego wynosi: do dnia 31 grudnia 2022 r. - nie więcej niż 1500 kg;"
     },
     {
-      "provision_ref": "par1p2",
+      "provision_ref": "par1u1p2",
       "section": "1",
-      "title": "§ 1 pkt 2",
-      "content": "Ustala się, że ilość paliwa stałego dostępna dla jednego gospodarstwa domowego w ramach zakupu preferencyjnego wynosi: 1500 kg - od dnia 1 stycznia 2023 r."
+      "title": "§ 1 ust. 1 pkt 2",
+      "content": "Ustala się, że ilość paliwa stałego dostępna dla jednego gospodarstwa domowego w ramach zakupu preferencyjnego wynosi: od dnia 1 stycznia 2023 r. - nie więcej niż 1500 kg."
+    },
+    {
+      "provision_ref": "par1u2",
+      "section": "1",
+      "title": "§ 1 ust. 2",
+      "content": "W przypadku gdy do dnia 31 grudnia 2022 r. nie dokonano zakupu paliwa stałego w ramach zakupu preferencyjnego albo dokonano takiego zakupu w ilości mniejszej niż 1500 kg, to ilość paliwa stałego niezakupionego w ramach limitu określonego w ust. 1 pkt 1 powiększa limit określony w ust. 1 pkt 2."
     },
     {
       "provision_ref": "par2",
       "section": "2",
       "title": "§ 2",
-      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia 3) Rozporządzenie zostało ogłoszone w dniu 2 listopada 2022 r. ."
     }
   ],
   "definitions": [],
   "references": [
     {
+      "target_document_id": "pl-du-2019-1461",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2493",
+      "ref_type": "references"
+    },
+    {
       "target_document_id": "pl-du-2022-2236",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-877",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1234",
       "ref_type": "references"
     }
   ]

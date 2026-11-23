@@ -10,6 +10,18 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2016/1838",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Do konkursów ogłoszonych i nierozstrzygniętych przed dniem wejścia w życie rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -367,7 +379,7 @@
       "provision_ref": "par13",
       "section": "13",
       "title": "§ 13",
-      "content": "Prokurator organizujący konkurs umieszcza informację o wynikach konkursu w miejscu powszechnie dostępnym w siedzibie prokuratury oraz udostępnia ją w Biuletynie Informacji Publicznej. Informacja o wynikach konkursu jest dostępna przez okres 3 miesięcy od dnia opublikowania. Informacja o wynikach konkursu zawiera: imiona i nazwiska oraz wyniki kandydatów zakwalifikowanych do zatrudnienia na stanowisku, na które przeprowadzany był konkurs, albo imię i nazwisko oraz wynik kandydata zakwalifikowanego do zatrudnienia na tym stanowisku, albo informację, że żaden z kandydatów nie uzyskał wymaganej liczby punktów; rezerwową listę kandydatów obejmującą ich imiona i nazwiska oraz wyniki kandydatów znajdujących się na tej liście albo informację, że taka lista nie została sporządzona. Kandydatowi udostępnia się do wglądu protokół przebiegu konkursu w części obejmującej jego wyniki."
+      "content": "Prokurator organizujący konkurs umieszcza informację o wynikach konkursu w miejscu powszechnie dostępnym w siedzibie prokuratury oraz udostępnia ją w Biuletynie Informacji Publicznej. Informacja o wynikach konkursu jest dostępna przez okres 3 miesięcy od dnia opublikowania. Informacja o wynikach konkursu zawiera: imiona i nazwiska oraz wyniki kandydatów zakwalifikowanych do zatrudnienia na stanowisku, na które przeprowadzany był konkurs, albo imię i nazwisko oraz wynik kandydata zakwalifikowanego do zatrudnienia na tym stanowisku, albo informację, że żaden z kandydatów nie uzyskał wymaganej liczby punktów; rezerwową listę kandydatów obejmującą ich imiona i nazwiska oraz wyniki kandydatów znajdujących się na tej liście albo informację, że taka lista nie została sporządzona. Kandydatowi, po okazaniu dokumentu tożsamości, udostępnia się do wglądu w siedzibie prokuratury pracę konkursową oraz protokół przebiegu konkursu."
     },
     {
       "provision_ref": "par13u1",
@@ -391,7 +403,7 @@
       "provision_ref": "par13u3",
       "section": "13",
       "title": "§ 13 ust. 3",
-      "content": "Kandydatowi udostępnia się do wglądu protokół przebiegu konkursu w części obejmującej jego wyniki."
+      "content": "Kandydatowi, po okazaniu dokumentu tożsamości, udostępnia się do wglądu w siedzibie prokuratury pracę konkursową oraz protokół przebiegu konkursu."
     },
     {
       "provision_ref": "par14",
@@ -409,17 +421,29 @@
       "provision_ref": "par16",
       "section": "16",
       "title": "§ 16",
-      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 10 września 2015 r. w sprawie szczegółowego sposobu i trybu przeprowadzania konkursów na stanowisko asystenta prokuratora (Dz. U. poz. 1436), które na podstawie art. 73 pkt 1 ustawy z dnia 28 stycznia 2016 r. - Przepisy wprowadzające ustawę - Prawo o prokuraturze (Dz. U. poz. 178) traci moc z dniem wejścia w życie niniejszego rozporządzenia."
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia 2) Rozporządzenie zostało ogłoszone w dniu 14 listopada 2016 r. . 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 10 września 2015 r. w sprawie szczegółowego sposobu i trybu przeprowadzania konkursów na stanowisko asystenta prokuratora (Dz. U. poz. 1436), które na podstawie art. 73 pkt 1 ustawy z dnia 28 stycznia 2016 r. - Przepisy wprowadzające ustawę - Prawo o prokuraturze (Dz. U. poz. 178) utraciło moc z dniem wejścia w życie niniejszego rozporządzenia."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2016-177",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2016-1579",
+      "target_document_id": "pl-du-2023-52",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1360",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1429",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1860",
       "ref_type": "references"
     }
   ]

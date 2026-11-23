@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2017/2354",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -223,7 +229,7 @@
       "provision_ref": "par3",
       "section": "3",
       "title": "§ 3",
-      "content": "Opłaty, o których mowa w § 1 pkt 1 lit. a, wnosi się na rachunek bieżący dochodów wskazany w rachunku wystawionym przez wojewódzkiego inspektora ochrony roślin i nasiennictwa. Opłaty, o których mowa w § 1 pkt 1 lit. b-k, wnosi się na rachunek bieżący dochodów wskazany w rachunku wystawionym przez wojewódzkiego inspektora ochrony roślin i nasiennictwa lub w kasie wojewódzkiego inspektoratu ochrony roślin i nasiennictwa."
+      "content": "Opłaty, o których mowa w § 1 pkt 1 lit. a, wnosi się na rachunek bieżący dochodów wskazany w rachunku wystawionym przez wojewódzkiego inspektora ochrony roślin i nasiennictwa. Opłaty, o których mowa w § 1 pkt 1 lit. b-k, wnosi się na rachunek bieżący dochodów wskazany w rachunku wystawionym przez Głównego Inspektora Ochrony Roślin i Nasiennictwa albo wojewódzkiego inspektora ochrony roślin i nasiennictwa, albo w kasie wojewódzkiego inspektoratu ochrony roślin i nasiennictwa."
     },
     {
       "provision_ref": "par3u1",
@@ -235,7 +241,7 @@
       "provision_ref": "par3u2",
       "section": "3",
       "title": "§ 3 ust. 2",
-      "content": "Opłaty, o których mowa w § 1 pkt 1 lit. b-k, wnosi się na rachunek bieżący dochodów wskazany w rachunku wystawionym przez wojewódzkiego inspektora ochrony roślin i nasiennictwa lub w kasie wojewódzkiego inspektoratu ochrony roślin i nasiennictwa."
+      "content": "Opłaty, o których mowa w § 1 pkt 1 lit. b-k, wnosi się na rachunek bieżący dochodów wskazany w rachunku wystawionym przez Głównego Inspektora Ochrony Roślin i Nasiennictwa albo wojewódzkiego inspektora ochrony roślin i nasiennictwa, albo w kasie wojewódzkiego inspektoratu ochrony roślin i nasiennictwa."
     },
     {
       "provision_ref": "par4",
@@ -307,13 +313,21 @@
       "provision_ref": "par7",
       "section": "7",
       "title": "§ 7",
-      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 29 grudnia 2014 r. w sprawie opłat związanych z oceną materiału siewnego (Dz. U. z 2015 r. poz. 88), które na podstawie art. 11 ustawy z dnia 16 grudnia 2016 r. o zmianie ustawy o nasiennictwie oraz ustawy o ochronie roślin (Dz. U. poz. 2246) traci moc z dniem wejścia w życie niniejszego rozporządzenia."
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia 3) Rozporządzenie zostało ogłoszone w dniu 15 grudnia 2017 r. . 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 29 grudnia 2014 r. w sprawie opłat związanych z oceną materiału siewnego (Dz. U. z 2015 r. poz. 88), które na podstawie art. 11 ustawy z dnia 16 grudnia 2016 r. o zmianie ustawy o nasiennictwie oraz ustawy o ochronie roślin (Dz. U. poz. 2246) utraciło moc z dniem wejścia w życie niniejszego rozporządzenia."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2017-633",
+      "target_document_id": "pl-du-2019-1461",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-1853",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-129",
       "ref_type": "references"
     }
   ]

@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2013/569",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -31,13 +37,25 @@
       "provision_ref": "par4",
       "section": "4",
       "title": "§ 4",
-      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia 2) Rozporządzenie zostało ogłoszone w dniu 16 maja 2013 r. ."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2007-94",
+      "target_document_id": "pl-du-2017-1523",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-2243",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2017-824",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2017-2117",
       "ref_type": "references"
     },
     {

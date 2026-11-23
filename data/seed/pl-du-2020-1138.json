@@ -10,6 +10,18 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/1138",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Załącznik nr 2 do rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się począwszy od rozliczenia za styczeń 2021 r."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 lutego 2021 r."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -49,25 +61,33 @@
       "provision_ref": "par3",
       "section": "3",
       "title": "§ 3",
-      "content": "Rozporządzenie wchodzi w życie z dniem 1 lipca 2020 r. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 27 grudnia 2016 r. w sprawie informacji podsumowującej o dokonanych wewnątrzwspólnotowych transakcjach (Dz. U. poz. 2268), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 20 ustawy z dnia 28 maja 2020 r. o zmianie ustawy o podatku dochodowym od osób prawnych, ustawy o podatku od towarów i usług, ustawy o wymianie informacji podatkowych z innymi państwami oraz niektórych innych ustaw (Dz. U. poz. 1106)."
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 lipca 2020 r. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 27 grudnia 2016 r. w sprawie informacji podsumowującej o dokonanych wewnątrzwspólnotowych transakcjach (Dz. U. poz. 2268), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 20 ustawy z dnia 28 maja 2020 r. o zmianie ustawy o podatku dochodowym od osób prawnych, ustawy o podatku od towarów i usług, ustawy o wymianie informacji podatkowych z innymi państwami oraz niektórych innych ustaw (Dz. U. poz. 1106)."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2020-106",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2020-568",
+      "target_document_id": "pl-du-2021-196",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2020-1065",
+      "target_document_id": "pl-du-2021-685",
       "ref_type": "references"
     },
     {
       "target_document_id": "pl-du-2020-1106",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-2123",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-694",
       "ref_type": "references"
     }
   ]

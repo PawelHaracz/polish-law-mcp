@@ -10,6 +10,18 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2012/594",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Podmioty wykonujące działalność leczniczą dostosują wpisy w księgach rejestrowych do wymagań wynikających z rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, w terminie 9 miesięcy od dnia wejścia w życie niniejszego rozporządzenia."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -19,7 +31,7 @@
       "provision_ref": "par1u2",
       "section": "1",
       "title": "§ 1 ust. 2",
-      "content": "Resortowe kody identyfikacyjne są nadawane na podstawie informacji zawartych we wniosku o wpis do rejestru podmiotów wykonujących działalność leczniczą, o którym mowa w art. 100 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej , albo we wniosku o zmianę wpisu w tym rejestrze. System resortowych kodów identyfikacyjnych, zwany dalej „systemem”, składa się z dziesięciu części."
+      "content": "System resortowych kodów identyfikacyjnych, zwany dalej „systemem”, składa się z dziesięciu części."
     },
     {
       "provision_ref": "par2",
@@ -115,7 +127,7 @@
       "provision_ref": "par5",
       "section": "5",
       "title": "§ 5",
-      "content": "Część IV systemu stanowi 4-znakowy kod określający formę organizacyjno-prawną podmiotu wykonującego działalność leczniczą. Ustala się następujące kody formy organizacyjno-prawnej: 0100 - samodzielny publiczny zakład opieki zdrowotnej; 0200 - jednostka budżetowa; 0300 - instytut badawczy; 0400 - kościół, kościelna osoba prawna lub związek wyznaniowy; 0500 - fundacja, związek zawodowy, samorząd zawodowy, stowarzyszenie; 0600 - spółdzielnia; 0700 - działalność gospodarcza prowadzona przez osobę fizyczną; 0800 - spółka cywilna; 0900 - spółka jawna; 1000 - spółka partnerska; 1100 - spółka komandytowa; 1200 - spółka komandytowo-akcyjna; 1300 - spółka z ograniczoną odpowiedzialnością; 1400 - spółka akcyjna; 1500 - inna. W przypadku spółki akcyjnej albo spółki z ograniczoną odpowiedzialnością z udziałem Skarbu Państwa albo jednostki samorządu terytorialnego w kodzie, o którym mowa w ust. 2, trzeci znak kodu zastępuje się cyfrą 1. W przypadku podmiotu leczniczego, którego działalność statutowa nie ma na celu osiągania zysku, w kodzie, o którym mowa w ust. 2, czwarty znak kodu zastępuje się cyfrą 2."
+      "content": "Część IV systemu stanowi 4-znakowy kod określający formę organizacyjno-prawną podmiotu wykonującego działalność leczniczą. Ustala się następujące kody formy organizacyjno-prawnej: 0100 - samodzielny publiczny zakład opieki zdrowotnej; 0200 - jednostka budżetowa; 0300 - instytut badawczy; 0400 - kościół, kościelna osoba prawna lub związek wyznaniowy; 0500 - fundacja, związek zawodowy, samorząd zawodowy, stowarzyszenie; 0600 - spółdzielnia; 0700 - działalność gospodarcza prowadzona przez osobę fizyczną; 0800 - spółka cywilna; 0900 - spółka jawna; 1000 - spółka partnerska; 1100 - spółka komandytowa; 1200 - spółka komandytowo-akcyjna; 1300 - spółka z ograniczoną odpowiedzialnością; 1400 - spółka akcyjna; 1500 - inna. W przypadku spółki kapitałowej z udziałem: Skarbu Państwa, jednostki samorządu terytorialnego albo uczelni medycznej w kodzie, o którym mowa w ust. 2, trzeci znak kodu zastępuje się cyfrą: 1 - w przypadku spółki kapitałowej, w której Skarb Państwa, jednostka samorządu terytorialnego albo uczelnia medyczna posiadają udziały albo akcje reprezentujące co najmniej 51% kapitału zakładowego; 2 - w przypadku spółki kapitałowej, w której Skarb Państwa albo jednostka samorządu terytorialnego posiadają udziały albo akcje reprezentujące mniej niż 51% kapitału zakładowego. W przypadku podmiotu leczniczego, którego działalność statutowa nie ma na celu osiągania zysku, w kodzie, o którym mowa w ust. 2, czwarty znak kodu zastępuje się cyfrą 2."
     },
     {
       "provision_ref": "par5u1",
@@ -214,10 +226,16 @@
       "content": "Ustala się następujące kody formy organizacyjno-prawnej: 1500 - inna."
     },
     {
-      "provision_ref": "par5u3",
+      "provision_ref": "par5u3p1",
       "section": "5",
-      "title": "§ 5 ust. 3",
-      "content": "W przypadku spółki akcyjnej albo spółki z ograniczoną odpowiedzialnością z udziałem Skarbu Państwa albo jednostki samorządu terytorialnego w kodzie, o którym mowa w ust. 2, trzeci znak kodu zastępuje się cyfrą 1."
+      "title": "§ 5 ust. 3 pkt 1",
+      "content": "W przypadku spółki kapitałowej z udziałem: Skarbu Państwa, jednostki samorządu terytorialnego albo uczelni medycznej w kodzie, o którym mowa w ust. 2, trzeci znak kodu zastępuje się cyfrą: 1 - w przypadku spółki kapitałowej, w której Skarb Państwa, jednostka samorządu terytorialnego albo uczelnia medyczna posiadają udziały albo akcje reprezentujące co najmniej 51% kapitału zakładowego;"
+    },
+    {
+      "provision_ref": "par5u3p2",
+      "section": "5",
+      "title": "§ 5 ust. 3 pkt 2",
+      "content": "W przypadku spółki kapitałowej z udziałem: Skarbu Państwa, jednostki samorządu terytorialnego albo uczelni medycznej w kodzie, o którym mowa w ust. 2, trzeci znak kodu zastępuje się cyfrą: 2 - w przypadku spółki kapitałowej, w której Skarb Państwa albo jednostka samorządu terytorialnego posiadają udziały albo akcje reprezentujące mniej niż 51% kapitału zakładowego."
     },
     {
       "provision_ref": "par5u4",
@@ -229,13 +247,13 @@
       "provision_ref": "par6",
       "section": "6",
       "title": "§ 6",
-      "content": "Część V systemu stanowi 2-znakowy niepowtarzalny kod identyfikujący jednostkę organizacyjną przedsiębiorstwa podmiotu leczniczego w strukturze organizacyjnej tego podmiotu, zawierający się w przedziale od 01 do 99. W przypadku gdy nie jest możliwe nadanie kodu 2-znakowego, nadaje się kod 3-znakowy, zawierający się w przedziale od 100 do 999. Kod, o którym mowa w ust. 1 i 2, pozostaje niezmienny, niezależnie od zmian organizacyjnych w podmiocie leczniczym."
+      "content": "Część V systemu stanowi 2-znakowy niepowtarzalny kod identyfikujący jednostkę organizacyjną zakładu leczniczego w strukturze organizacyjnej podmiotu leczniczego, zawierający się w przedziale od 01 do 99. W przypadku gdy nie jest możliwe nadanie kodu 2-znakowego, nadaje się kod 3-znakowy, zawierający się w przedziale od 100 do 999. Kod, o którym mowa w ust. 1 i 2, pozostaje niezmienny, niezależnie od zmian organizacyjnych w podmiocie leczniczym."
     },
     {
       "provision_ref": "par6u1",
       "section": "6",
       "title": "§ 6 ust. 1",
-      "content": "Część V systemu stanowi 2-znakowy niepowtarzalny kod identyfikujący jednostkę organizacyjną przedsiębiorstwa podmiotu leczniczego w strukturze organizacyjnej tego podmiotu, zawierający się w przedziale od 01 do 99."
+      "content": "Część V systemu stanowi 2-znakowy niepowtarzalny kod identyfikujący jednostkę organizacyjną zakładu leczniczego w strukturze organizacyjnej podmiotu leczniczego, zawierający się w przedziale od 01 do 99."
     },
     {
       "provision_ref": "par6u2",
@@ -253,37 +271,37 @@
       "provision_ref": "par7",
       "section": "7",
       "title": "§ 7",
-      "content": "Część VI systemu stanowi kod rodzaju działalności leczniczej wykonywanej w przedsiębiorstwie podmiotu leczniczego. Każdemu przedsiębiorstwu podmiotu leczniczego nadaje się tylko jeden kod, o którym mowa w ust. 1. Kody rodzaju działalności leczniczej wykonywanej w przedsiębiorstwie podmiotu leczniczego są określone w załączniku nr 1 do rozporządzenia."
+      "content": "Część VI systemu stanowi kod rodzaju działalności leczniczej wykonywanej w zakładzie leczniczym. Każdemu zakładowi leczniczemu podmiotu leczniczego nadaje się tylko jeden kod, o którym mowa w ust. 1. Kody rodzaju działalności leczniczej wykonywanej w zakładzie leczniczym są określone w załączniku nr 1 do rozporządzenia."
     },
     {
       "provision_ref": "par7u1",
       "section": "7",
       "title": "§ 7 ust. 1",
-      "content": "Część VI systemu stanowi kod rodzaju działalności leczniczej wykonywanej w przedsiębiorstwie podmiotu leczniczego."
+      "content": "Część VI systemu stanowi kod rodzaju działalności leczniczej wykonywanej w zakładzie leczniczym."
     },
     {
       "provision_ref": "par7u2",
       "section": "7",
       "title": "§ 7 ust. 2",
-      "content": "Każdemu przedsiębiorstwu podmiotu leczniczego nadaje się tylko jeden kod, o którym mowa w ust. 1."
+      "content": "Każdemu zakładowi leczniczemu podmiotu leczniczego nadaje się tylko jeden kod, o którym mowa w ust. 1."
     },
     {
       "provision_ref": "par7u3",
       "section": "7",
       "title": "§ 7 ust. 3",
-      "content": "Kody rodzaju działalności leczniczej wykonywanej w przedsiębiorstwie podmiotu leczniczego są określone w załączniku nr 1 do rozporządzenia."
+      "content": "Kody rodzaju działalności leczniczej wykonywanej w zakładzie leczniczym są określone w załączniku nr 1 do rozporządzenia."
     },
     {
       "provision_ref": "par8",
       "section": "8",
       "title": "§ 8",
-      "content": "Część VII systemu stanowi 3-znakowy niepowtarzalny kod identyfikujący komórkę organizacyjną przedsiębiorstwa podmiotu leczniczego w strukturze organizacyjnej tego podmiotu, zawierający się w przedziale od 001 do 999. W przypadku gdy nie jest możliwe nadanie kodu 3-znakowego, nadaje się kod 4-znakowy, zawierający się w przedziale od 1000 do 9999. Kod, o którym mowa w ust. 1 i 2, pozostaje niezmienny, niezależnie od zmian organizacyjnych w podmiocie leczniczym."
+      "content": "Część VII systemu stanowi 3-znakowy niepowtarzalny kod identyfikujący komórkę organizacyjną zakładu leczniczego podmiotu leczniczego w strukturze organizacyjnej podmiotu leczniczego, zawierający się w przedziale od 001 do 999. W przypadku gdy nie jest możliwe nadanie kodu 3-znakowego, nadaje się kod 4-znakowy, zawierający się w przedziale od 1000 do 9999. Kod, o którym mowa w ust. 1 i 2, pozostaje niezmienny, niezależnie od zmian organizacyjnych w podmiocie leczniczym."
     },
     {
       "provision_ref": "par8u1",
       "section": "8",
       "title": "§ 8 ust. 1",
-      "content": "Część VII systemu stanowi 3-znakowy niepowtarzalny kod identyfikujący komórkę organizacyjną przedsiębiorstwa podmiotu leczniczego w strukturze organizacyjnej tego podmiotu, zawierający się w przedziale od 001 do 999."
+      "content": "Część VII systemu stanowi 3-znakowy niepowtarzalny kod identyfikujący komórkę organizacyjną zakładu leczniczego podmiotu leczniczego w strukturze organizacyjnej podmiotu leczniczego, zawierający się w przedziale od 001 do 999."
     },
     {
       "provision_ref": "par8u2",
@@ -301,25 +319,31 @@
       "provision_ref": "par9",
       "section": "9",
       "title": "§ 9",
-      "content": "Część VIII systemu stanowi 4-znakowy kod charakteryzujący specjalność komórki organizacyjnej przedsiębiorstwa podmiotu leczniczego. Każdej komórce organizacyjnej przedsiębiorstwa podmiotu leczniczego nadaje się tylko jeden kod, o którym mowa w ust. 1. Kody charakteryzujące specjalność komórki organizacyjnej przedsiębiorstwa podmiotu leczniczego są określone w załączniku nr 2 do rozporządzenia."
+      "content": "Część VIII systemu stanowi 4-znakowy kod charakteryzujący specjalność komórki organizacyjnej zakładu leczniczego podmiotu leczniczego. Każdej komórce organizacyjnej zakładu leczniczego podmiotu leczniczego nadaje się tylko jeden kod, o którym mowa w ust. 1. Kody charakteryzujące specjalność komórki organizacyjnej zakładu leczniczego są określone w załączniku nr 2 do rozporządzenia. Komórkom organizacyjnym danej specjalności udzielającym świadczeń zdrowotnych dzieciom nadaje się kod nieparzysty, o jeden wyższy niż właściwy kod komórki organizacyjnej udzielającej świadczeń zdrowotnych osobom dorosłym."
     },
     {
       "provision_ref": "par9u1",
       "section": "9",
       "title": "§ 9 ust. 1",
-      "content": "Część VIII systemu stanowi 4-znakowy kod charakteryzujący specjalność komórki organizacyjnej przedsiębiorstwa podmiotu leczniczego."
+      "content": "Część VIII systemu stanowi 4-znakowy kod charakteryzujący specjalność komórki organizacyjnej zakładu leczniczego podmiotu leczniczego."
     },
     {
       "provision_ref": "par9u2",
       "section": "9",
       "title": "§ 9 ust. 2",
-      "content": "Każdej komórce organizacyjnej przedsiębiorstwa podmiotu leczniczego nadaje się tylko jeden kod, o którym mowa w ust. 1."
+      "content": "Każdej komórce organizacyjnej zakładu leczniczego podmiotu leczniczego nadaje się tylko jeden kod, o którym mowa w ust. 1."
     },
     {
       "provision_ref": "par9u3",
       "section": "9",
       "title": "§ 9 ust. 3",
-      "content": "Kody charakteryzujące specjalność komórki organizacyjnej przedsiębiorstwa podmiotu leczniczego są określone w załączniku nr 2 do rozporządzenia."
+      "content": "Kody charakteryzujące specjalność komórki organizacyjnej zakładu leczniczego są określone w załączniku nr 2 do rozporządzenia."
+    },
+    {
+      "provision_ref": "par9u4",
+      "section": "9",
+      "title": "§ 9 ust. 4",
+      "content": "Komórkom organizacyjnym danej specjalności udzielającym świadczeń zdrowotnych dzieciom nadaje się kod nieparzysty, o jeden wyższy niż właściwy kod komórki organizacyjnej udzielającej świadczeń zdrowotnych osobom dorosłym."
     },
     {
       "provision_ref": "par10",
@@ -343,31 +367,37 @@
       "provision_ref": "par11",
       "section": "11",
       "title": "§ 11",
-      "content": "Część X systemu stanowi kod charakteryzujący dziedziny medycyny albo pielęgniarstwa, w których są udzielane świadczenia zdrowotne. Kody dziedzin medycyny albo pielęgniarstwa, o których mowa w ust. 1, są określone w załączniku nr 4 do rozporządzenia."
+      "content": "Część X systemu stanowi kod charakteryzujący dziedziny medycyny, pielęgniarstwa albo dziedziny mające zastosowanie w ochronie zdrowia, w których są udzielane świadczenia zdrowotne. Kody dziedzin, o których mowa w ust. 1, są określone w załączniku nr 4 do rozporządzenia. Kod tworzą dwa albo trzy znaki określające: dziedziny medycyny, o których mowa w przepisach wydanych na podstawie art. 16 ust. 10 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty ) , dziedziny pielęgniarstwa, o których mowa w przepisach wydanych na podstawie art. 74 ust. 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej ) , albo dziedziny mające zastosowanie w ochronie zdrowia, o których mowa w przepisach wydanych na podstawie art. 46 ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia ."
     },
     {
       "provision_ref": "par11u1",
       "section": "11",
       "title": "§ 11 ust. 1",
-      "content": "Część X systemu stanowi kod charakteryzujący dziedziny medycyny albo pielęgniarstwa, w których są udzielane świadczenia zdrowotne."
+      "content": "Część X systemu stanowi kod charakteryzujący dziedziny medycyny, pielęgniarstwa albo dziedziny mające zastosowanie w ochronie zdrowia, w których są udzielane świadczenia zdrowotne."
     },
     {
       "provision_ref": "par11u2",
       "section": "11",
       "title": "§ 11 ust. 2",
-      "content": "Kody dziedzin medycyny albo pielęgniarstwa, o których mowa w ust. 1, są określone w załączniku nr 4 do rozporządzenia."
+      "content": "Kody dziedzin, o których mowa w ust. 1, są określone w załączniku nr 4 do rozporządzenia."
+    },
+    {
+      "provision_ref": "par11u3",
+      "section": "11",
+      "title": "§ 11 ust. 3",
+      "content": "Kod tworzą dwa albo trzy znaki określające: dziedziny medycyny, o których mowa w przepisach wydanych na podstawie art. 16 ust. 10 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty ) , dziedziny pielęgniarstwa, o których mowa w przepisach wydanych na podstawie art. 74 ust. 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej ) , albo dziedziny mające zastosowanie w ochronie zdrowia, o których mowa w przepisach wydanych na podstawie art. 46 ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia ."
     },
     {
       "provision_ref": "par12",
       "section": "12",
       "title": "§ 12",
-      "content": "W przypadku podmiotu leczniczego kody stanowiące części IX i X systemu tworzą łącznie profil medyczny i określają zakres świadczeń zdrowotnych wykonywanych w jednostce organizacyjnej lub komórce organizacyjnej przedsiębiorstwa podmiotu leczniczego."
+      "content": "W przypadku podmiotu leczniczego kody stanowiące części IX i X systemu tworzą łącznie profil medyczny i określają zakres świadczeń zdrowotnych wykonywanych w jednostce organizacyjnej lub komórce organizacyjnej zakładu leczniczego."
     },
     {
       "provision_ref": "par13",
       "section": "13",
       "title": "§ 13",
-      "content": "Do identyfikacji podmiotu wykonującego działalność leczniczą służy numer księgi rejestrowej tego podmiotu. Do identyfikacji przedsiębiorstwa podmiotu leczniczego służy 14-znakowy numer REGON tego przedsiębiorstwa. Do identyfikacji jednostki organizacyjnej przedsiębiorstwa podmiotu leczniczego służy numer księgi rejestrowej podmiotu leczniczego oraz kod stanowiący część V systemu, oddzielone myślnikiem. Do identyfikacji komórki organizacyjnej przedsiębiorstwa podmiotu leczniczego służy numer księgi rejestrowej podmiotu leczniczego oraz kod stanowiący część VII systemu, oddzielone myślnikiem."
+      "content": "Do identyfikacji podmiotu wykonującego działalność leczniczą służy numer księgi rejestrowej tego podmiotu. Do identyfikacji zakładu leczniczego służy 14-znakowy numer REGON tego zakładu. Do identyfikacji jednostki organizacyjnej zakładu leczniczego służy numer księgi rejestrowej podmiotu leczniczego oraz kod stanowiący część V systemu, oddzielone myślnikiem. Do identyfikacji komórki organizacyjnej zakładu leczniczego służy numer księgi rejestrowej podmiotu leczniczego oraz kod stanowiący część VII systemu, oddzielone myślnikiem."
     },
     {
       "provision_ref": "par13u1",
@@ -379,25 +409,25 @@
       "provision_ref": "par13u2",
       "section": "13",
       "title": "§ 13 ust. 2",
-      "content": "Do identyfikacji przedsiębiorstwa podmiotu leczniczego służy 14-znakowy numer REGON tego przedsiębiorstwa."
+      "content": "Do identyfikacji zakładu leczniczego służy 14-znakowy numer REGON tego zakładu."
     },
     {
       "provision_ref": "par13u3",
       "section": "13",
       "title": "§ 13 ust. 3",
-      "content": "Do identyfikacji jednostki organizacyjnej przedsiębiorstwa podmiotu leczniczego służy numer księgi rejestrowej podmiotu leczniczego oraz kod stanowiący część V systemu, oddzielone myślnikiem."
+      "content": "Do identyfikacji jednostki organizacyjnej zakładu leczniczego służy numer księgi rejestrowej podmiotu leczniczego oraz kod stanowiący część V systemu, oddzielone myślnikiem."
     },
     {
       "provision_ref": "par13u4",
       "section": "13",
       "title": "§ 13 ust. 4",
-      "content": "Do identyfikacji komórki organizacyjnej przedsiębiorstwa podmiotu leczniczego służy numer księgi rejestrowej podmiotu leczniczego oraz kod stanowiący część VII systemu, oddzielone myślnikiem."
+      "content": "Do identyfikacji komórki organizacyjnej zakładu leczniczego służy numer księgi rejestrowej podmiotu leczniczego oraz kod stanowiący część VII systemu, oddzielone myślnikiem."
     },
     {
       "provision_ref": "par14",
       "section": "14",
       "title": "§ 14",
-      "content": "Kod stanowiący część I systemu nadaje organ prowadzący rejestr podmiotów wykonujących działalność leczniczą. Kod stanowiący część II systemu jest określony w przepisach wydanych na podstawie art. 49 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej . Kody stanowiące części III-X systemu są nadawane na podstawie wniosku o wpis do rejestru podmiotów wykonujących działalność leczniczą."
+      "content": "Kod stanowiący część I systemu nadaje organ prowadzący rejestr podmiotów wykonujących działalność leczniczą. Kod stanowiący część II systemu jest określony w przepisach wydanych na podstawie art. 49 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej . Kody stanowiące części III‒X systemu są nadawane na podstawie wniosku o wpis do rejestru podmiotów wykonujących działalność leczniczą."
     },
     {
       "provision_ref": "par14u1",
@@ -415,7 +445,7 @@
       "provision_ref": "par14u3",
       "section": "14",
       "title": "§ 14 ust. 3",
-      "content": "Kody stanowiące części III-X systemu są nadawane na podstawie wniosku o wpis do rejestru podmiotów wykonujących działalność leczniczą."
+      "content": "Kody stanowiące części III‒X systemu są nadawane na podstawie wniosku o wpis do rejestru podmiotów wykonujących działalność leczniczą."
     },
     {
       "provision_ref": "par15",
@@ -427,29 +457,65 @@
       "provision_ref": "par16",
       "section": "16",
       "title": "§ 16",
-      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 16 lipca 2004 r. w sprawie systemu resortowych kodów identyfikacyjnych dla zakładów opieki zdrowotnej oraz szczegółowych zasad ich nadawania (Dz. U. Nr 170, poz. 1797 i Nr 238, poz. 2402 oraz z 2008 r. Nr 77, poz. 464), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 219 ust. 1 pkt 3 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. Nr 112, poz. 654, Nr 149, poz. 887, Nr 174, poz. 1039 i Nr 185, poz. 1092)."
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia 12) Rozporządzenie zostało ogłoszone w dniu 28 maja 2012 r. . 13) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 16 lipca 2004 r. w sprawie systemu resortowych kodów identyfikacyjnych dla zakładów opieki zdrowotnej oraz szczegółowych zasad ich nadawania (Dz. U. poz. 1797 i 2402 oraz z 2008 r. poz. 464), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 219 ust. 1 pkt 3 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. poz. 654, 887, 1039 i 1092)."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2011-654",
+      "target_document_id": "pl-du-2017-1523",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2011-887",
+      "target_document_id": "pl-du-2018-2243",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2011-1039",
+      "target_document_id": "pl-du-2017-999",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2011-1092",
+      "target_document_id": "pl-du-2018-2190",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2012-591",
+      "target_document_id": "pl-du-2018-2219",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-997",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-1000",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-1629",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-1669",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-617",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-123",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2017-599",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-1544",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-60",
       "ref_type": "references"
     }
   ]

@@ -10,16 +10,22 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2012/685",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
-      "content": "Rozporządzenie określa: warunki i tryb przyznawania pomocy finansowej, o której mowa w art. 27 ust. 1 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa , zwanej dalej „pomocą”, weteranowi poszkodowanemu-funkcjonariuszowi Policji, Straży Granicznej, Biura Ochrony Rządu oraz Państwowej Straży Pożarnej, zwanemu dalej „weteranem poszkodowanym-funkcjonariuszem”; właściwość organów; dokumenty stanowiące podstawę do przyznawania pomocy oraz sposób i terminy jej wypłaty; warunki zawieszania udzielania pomocy i zwrotu kosztów kształcenia."
+      "content": "Rozporządzenie określa: warunki i tryb przyznawania pomocy finansowej, o której mowa w art. 27 ust. 1 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa , zwanej dalej „pomocą”, weteranowi poszkodowanemu-funkcjonariuszowi Policji, Straży Granicznej, Biura Ochrony Rządu, Służby Ochrony Państwa oraz Państwowej Straży Pożarnej, zwanemu dalej „weteranem poszkodowanym-funkcjonariuszem”; właściwość organów; dokumenty stanowiące podstawę do przyznawania pomocy oraz sposób i terminy jej wypłaty; warunki zawieszania udzielania pomocy i zwrotu kosztów kształcenia."
     },
     {
-      "provision_ref": "par1p1",
+      "provision_ref": "par1p2",
       "section": "1",
-      "title": "§ 1 pkt 1",
-      "content": "Rozporządzenie określa: warunki i tryb przyznawania pomocy finansowej, o której mowa w art. 27 ust. 1 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa , zwanej dalej „pomocą”, weteranowi poszkodowanemu-funkcjonariuszowi Policji, Straży Granicznej, Biura Ochrony Rządu oraz Państwowej Straży Pożarnej, zwanemu dalej „weteranem poszkodowanym-funkcjonariuszem”;"
+      "title": "§ 1 pkt 2",
+      "content": "Rozporządzenie określa: warunki i tryb przyznawania pomocy finansowej, o której mowa w art. 27 ust. 1 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa , zwanej dalej „pomocą”, weteranowi poszkodowanemu-funkcjonariuszowi Policji, Straży Granicznej, Biura Ochrony Rządu, Służby Ochrony Państwa oraz Państwowej Straży Pożarnej, zwanemu dalej „weteranem poszkodowanym-funkcjonariuszem”;"
     },
     {
       "provision_ref": "par1p2",
@@ -43,7 +49,7 @@
       "provision_ref": "par2",
       "section": "2",
       "title": "§ 2",
-      "content": "Pomoc przyznawana jest na wniosek złożony przez weterana poszkodowanego-funkcjonariusza. Wniosek składa się do przełożonego właściwego w sprawach osobowych weterana poszkodowanego-funkcjonariusza według jego ostatniego miejsca pełnienia służby albo ostatniego jego pracodawcy odpowiednio w Policji, Straży Granicznej, Biurze Ochrony Rządu albo Państwowej Straży Pożarnej, zwanego dalej „organem”."
+      "content": "Pomoc przyznawana jest na wniosek złożony przez weterana poszkodowanego-funkcjonariusza. Wniosek składa się do przełożonego właściwego w sprawach osobowych weterana poszkodowanego-funkcjonariusza według jego ostatniego miejsca pełnienia służby albo ostatniego jego pracodawcy odpowiednio w Policji, Straży Granicznej, Służbie Ochrony Państwa albo Państwowej Straży Pożarnej, a w przypadku weterana poszkodowanego-funkcjonariusza Biura Ochrony Rządu do Komendanta Służby Ochrony Państwa, zwanego dalej „organem”."
     },
     {
       "provision_ref": "par2u1",
@@ -55,7 +61,7 @@
       "provision_ref": "par2u2",
       "section": "2",
       "title": "§ 2 ust. 2",
-      "content": "Wniosek składa się do przełożonego właściwego w sprawach osobowych weterana poszkodowanego-funkcjonariusza według jego ostatniego miejsca pełnienia służby albo ostatniego jego pracodawcy odpowiednio w Policji, Straży Granicznej, Biurze Ochrony Rządu albo Państwowej Straży Pożarnej, zwanego dalej „organem”."
+      "content": "Wniosek składa się do przełożonego właściwego w sprawach osobowych weterana poszkodowanego-funkcjonariusza według jego ostatniego miejsca pełnienia służby albo ostatniego jego pracodawcy odpowiednio w Policji, Straży Granicznej, Służbie Ochrony Państwa albo Państwowej Straży Pożarnej, a w przypadku weterana poszkodowanego-funkcjonariusza Biura Ochrony Rządu do Komendanta Służby Ochrony Państwa, zwanego dalej „organem”."
     },
     {
       "provision_ref": "par3",
@@ -205,13 +211,25 @@
       "provision_ref": "par7",
       "section": "7",
       "title": "§ 7",
-      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia 4) Rozporządzenie zostało ogłoszone w dniu 20 czerwca 2012 r. ."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2011-1203",
+      "target_document_id": "pl-du-2019-1461",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-1819",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-2055",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-655",
       "ref_type": "references"
     }
   ]

@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2016/2224",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -121,13 +127,21 @@
       "provision_ref": "par7",
       "section": "7",
       "title": "§ 7",
-      "content": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 28 stycznia 2014 r. w sprawie warunków bytowych osób osadzonych w zakładach karnych i aresztach śledczych (Dz. U. poz. 200), które na podstawie art. 27 pkt 1 ustawy z dnia 20 lutego 2015 r. o zmianie ustawy - Kodeks karny oraz niektórych innych ustaw (Dz. U. poz. 396) traci moc z dniem wejścia w życie niniejszego rozporządzenia."
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 28 stycznia 2014 r. w sprawie warunków bytowych osób osadzonych w zakładach karnych i aresztach śledczych (Dz. U. poz. 200), które na podstawie art. 27 pkt 1 ustawy z dnia 20 lutego 2015 r. o zmianie ustawy - Kodeks karny oraz niektórych innych ustaw (Dz. U. poz. 396) utraciło moc z dniem wejścia w życie niniejszego rozporządzenia."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-1997-557",
+      "target_document_id": "pl-du-2019-1461",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1519",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2024-706",
       "ref_type": "references"
     }
   ]

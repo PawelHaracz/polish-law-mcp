@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2016/145",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -43,7 +49,7 @@
       "provision_ref": "par2",
       "section": "2",
       "title": "§ 2",
-      "content": "Centrum urazowe dla dzieci, zwane dalej „centrum”, zapewnia dostęp do sprzętu i aparatury medycznej, umożliwiających całodobowe i niezwłoczne wykonywanie badań diagnostycznych, bez konieczności przewożenia pacjenta urazowego dziecięcego specjalistycznymi środkami transportu sanitarnego: RTG; USG, USG - Doppler; echokardiografii; tomografii komputerowej (spiralnej, wielorzędowej); angiografii i radiologii interwencyjnej; diagnostyki laboratoryjnej, w tym mikrobiologicznej; rezonansu magnetycznego. Centrum posiada sprzęt i aparaturę medyczną niezbędne do wykonywania przyłóżkowej i całodobowej endoskopii diagnostycznej i zabiegowej: gastroskop; kolonoskop; bronchoskop; cystoskop."
+      "content": "Centrum urazowe dla dzieci, zwane dalej „centrum”, zapewnia dostęp do sprzętu i aparatury medycznej, umożliwiających całodobowe i niezwłoczne wykonywanie badań diagnostycznych, bez konieczności przewożenia pacjenta urazowego dziecięcego specjalistycznymi środkami transportu sanitarnego: RTG; USG, USG - Doppler; echokardiografii; tomografii komputerowej (spiralnej, wielorzędowej); (uchylony); diagnostyki laboratoryjnej, w tym mikrobiologicznej; rezonansu magnetycznego. Centrum posiada sprzęt i aparaturę medyczną niezbędne do wykonywania przyłóżkowej i całodobowej endoskopii diagnostycznej i zabiegowej: gastroskop; kolonoskop; bronchoskop; cystoskop."
     },
     {
       "provision_ref": "par2u1p1",
@@ -73,7 +79,7 @@
       "provision_ref": "par2u1p5",
       "section": "2",
       "title": "§ 2 ust. 1 pkt 5",
-      "content": "Centrum urazowe dla dzieci, zwane dalej „centrum”, zapewnia dostęp do sprzętu i aparatury medycznej, umożliwiających całodobowe i niezwłoczne wykonywanie badań diagnostycznych, bez konieczności przewożenia pacjenta urazowego dziecięcego specjalistycznymi środkami transportu sanitarnego: angiografii i radiologii interwencyjnej;"
+      "content": "Centrum urazowe dla dzieci, zwane dalej „centrum”, zapewnia dostęp do sprzętu i aparatury medycznej, umożliwiających całodobowe i niezwłoczne wykonywanie badań diagnostycznych, bez konieczności przewożenia pacjenta urazowego dziecięcego specjalistycznymi środkami transportu sanitarnego: (uchylony);"
     },
     {
       "provision_ref": "par2u1p6",
@@ -115,13 +121,7 @@
       "provision_ref": "par3",
       "section": "3",
       "title": "§ 3",
-      "content": "Centrum dysponuje środkami technicznymi i organizacyjnymi zapewniającymi: łączność telefoniczną realizowaną co najmniej przez jednego operatora telefonii stacjonarnej i jednego operatora telefonii mobilnej z: lekarzem koordynatorem ratownictwa medycznego, dyspozytorami medycznymi, innymi podmiotami leczniczymi, w tym regionalnymi centrami krwiodawstwa i krwiolecznictwa; łączność radiową z: lekarzem koordynatorem ratownictwa medycznego, dyspozytorami medycznymi, zespołami ratownictwa medycznego, w tym lotniczymi zespołami ratownictwa medycznego; bezprzewodowe przywoływanie osób, w szczególności członków zespołu urazowego dziecięcego; dokonywanie bieżących konsultacji za pośrednictwem systemów teleinformatycznych lub systemów łączności między oddziałami szpitala, w którym znajduje się centrum, oraz z innymi podmiotami leczniczymi w sposób gwarantujący zachowanie poufności oraz integralności danych pacjenta, którego konsultacja dotyczy. W przypadku konieczności przesyłania danych identyfikujących pacjenta zachowanie poufności należy zapewnić poprzez system kodowania tych danych uniemożliwiający identyfikację danych osobowych bez znajomości tego kodu. Analogiczna ochrona może być też zapewniona poprzez anonimizację danych osobowych."
-    },
-    {
-      "provision_ref": "par3p1la",
-      "section": "3",
-      "title": "§ 3 pkt 1 lit. a",
-      "content": "Centrum dysponuje środkami technicznymi i organizacyjnymi zapewniającymi: łączność telefoniczną realizowaną co najmniej przez jednego operatora telefonii stacjonarnej i jednego operatora telefonii mobilnej z: lekarzem koordynatorem ratownictwa medycznego,"
+      "content": "Centrum dysponuje środkami technicznymi i organizacyjnymi zapewniającymi: łączność telefoniczną realizowaną co najmniej przez jednego operatora telefonii stacjonarnej i jednego operatora telefonii mobilnej z: wojewódzkim koordynatorem ratownictwa medycznego, dyspozytorami medycznymi, innymi podmiotami leczniczymi, w tym regionalnymi centrami krwiodawstwa i krwiolecznictwa; łączność radiową z: wojewódzkim koordynatorem ratownictwa medycznego, dyspozytorami medycznymi, zespołami ratownictwa medycznego, w tym lotniczymi zespołami ratownictwa medycznego; bezprzewodowe przywoływanie osób, w szczególności członków zespołu urazowego dziecięcego; dokonywanie bieżących konsultacji za pośrednictwem systemów teleinformatycznych lub systemów łączności między oddziałami szpitala, w którym znajduje się centrum, oraz z innymi podmiotami leczniczymi w sposób gwarantujący zachowanie poufności oraz integralności danych pacjenta, którego konsultacja dotyczy. W przypadku konieczności przesyłania danych identyfikujących pacjenta zachowanie poufności należy zapewnić poprzez system kodowania tych danych uniemożliwiający identyfikację danych osobowych bez znajomości tego kodu. Analogiczna ochrona może być też zapewniona poprzez anonimizację danych osobowych."
     },
     {
       "provision_ref": "par3p1lb",
@@ -134,12 +134,6 @@
       "section": "3",
       "title": "§ 3 pkt 1 lit. c",
       "content": "Centrum dysponuje środkami technicznymi i organizacyjnymi zapewniającymi: łączność telefoniczną realizowaną co najmniej przez jednego operatora telefonii stacjonarnej i jednego operatora telefonii mobilnej z: innymi podmiotami leczniczymi, w tym regionalnymi centrami krwiodawstwa i krwiolecznictwa;"
-    },
-    {
-      "provision_ref": "par3p2la",
-      "section": "3",
-      "title": "§ 3 pkt 2 lit. a",
-      "content": "Centrum dysponuje środkami technicznymi i organizacyjnymi zapewniającymi: łączność radiową z: lekarzem koordynatorem ratownictwa medycznego,"
     },
     {
       "provision_ref": "par3p2lb",
@@ -169,25 +163,25 @@
       "provision_ref": "par4",
       "section": "4",
       "title": "§ 4",
-      "content": "W skład zespołu urazowego dziecięcego wchodzą co najmniej: lekarz szpitalnego oddziału ratunkowego będący lekarzem systemu; lekarze posiadający tytuł specjalisty lub specjalizację II stopnia w dziedzinie medycyny mającej zastosowanie w leczeniu pacjenta urazowego dziecięcego, w szczególności chirurgii dziecięcej, ortopedii i traumatologii narządu ruchu oraz neurochirurgii; lekarz posiadający tytuł specjalisty w dziedzinie anestezjologii i intensywnej terapii lub lekarz posiadający specjalizację II stopnia w dziedzinie anestezjologii lub anestezjologii i reanimacji, lub anestezjologii i intensywnej terapii. Pracami zespołu urazowego dziecięcego kieruje kierownik zespołu. Kierownik podmiotu leczniczego, w którym znajduje się centrum: określa skład zespołu urazowego dziecięcego spośród lekarzy posiadających kwalifikacje, o których mowa w ust. 1; wyznacza kierownika zespołu urazowego dziecięcego spośród lekarzy, o których mowa w ust. 1 pkt 1 lub 2; zapewnia udział lekarza posiadającego tytuł specjalisty w dziedzinie chirurgii naczyniowej lub lekarza posiadającego specjalizację II stopnia w dziedzinie chirurgii naczyniowej w składzie zespołu urazowego w czasie nie dłuższym niż 1 godzina od chwili stwierdzenia okoliczności uzasadniających taką obecność. W razie potrzeby, w zależności od rodzaju obrażeń występujących u pacjenta urazowego dziecięcego, w skład zespołu urazowego dziecięcego wchodzą lekarz lub lekarze posiadający tytuł specjalisty lub specjalizację II stopnia w innych dziedzinach medycyny niż wymienione w ust. 1 i ust. 3 pkt 3; decyzję w tym zakresie podejmuje kierownik zespołu urazowego dziecięcego."
+      "content": "W skład zespołu urazowego dziecięcego wchodzi co najmniej trzech lekarzy, w tym: lekarz posiadający tytuł specjalisty lub specjalizację II stopnia w dziedzinie chirurgii dziecięcej; lekarz posiadający tytuł specjalisty w dziedzinie anestezjologii i intensywnej terapii lub lekarz posiadający specjalizację II stopnia w dziedzinie anestezjologii lub anestezjologii i reanimacji, lub anestezjologii i intensywnej terapii; lekarz posiadający tytuł specjalisty w dziedzinie medycyny ratunkowej lub lekarz posiadający tytuł specjalisty lub specjalizację II stopnia w dziedzinie chirurgii dziecięcej, lub lekarz posiadający tytuł specjalisty lub specjalizację II stopnia w dziedzinie ortopedii i traumatologii narządu ruchu, lub lekarz posiadający tytuł specjalisty lub specjalizację II stopnia w dziedzinie neurochirurgii. Pracami zespołu urazowego dziecięcego kieruje kierownik zespołu. Kierownik podmiotu leczniczego, w którym znajduje się centrum: określa skład zespołu urazowego dziecięcego spośród lekarzy posiadających kwalifikacje, o których mowa w ust. 1; wyznacza kierownika zespołu urazowego dziecięcego spośród lekarzy, o których mowa w ust. 1 pkt 1 lub 2; zapewnia całodobową, niezwłoczną gotowość członków zespołu urazowego dziecięcego, o których mowa w ust. 1, do udzielania świadczeń zdrowotnych. W razie potrzeby, w zależności od rodzaju obrażeń występujących u pacjenta urazowego dziecięcego, w skład zespołu urazowego dziecięcego wchodzą lekarz lub lekarze posiadający tytuł specjalisty lub specjalizację II stopnia w odpowiednich dziedzinach medycyny; decyzję w tym zakresie podejmuje kierownik zespołu urazowego dziecięcego."
     },
     {
       "provision_ref": "par4u1p1",
       "section": "4",
       "title": "§ 4 ust. 1 pkt 1",
-      "content": "W skład zespołu urazowego dziecięcego wchodzą co najmniej: lekarz szpitalnego oddziału ratunkowego będący lekarzem systemu;"
+      "content": "W skład zespołu urazowego dziecięcego wchodzi co najmniej trzech lekarzy, w tym: lekarz posiadający tytuł specjalisty lub specjalizację II stopnia w dziedzinie chirurgii dziecięcej;"
     },
     {
       "provision_ref": "par4u1p2",
       "section": "4",
       "title": "§ 4 ust. 1 pkt 2",
-      "content": "W skład zespołu urazowego dziecięcego wchodzą co najmniej: lekarze posiadający tytuł specjalisty lub specjalizację II stopnia w dziedzinie medycyny mającej zastosowanie w leczeniu pacjenta urazowego dziecięcego, w szczególności chirurgii dziecięcej, ortopedii i traumatologii narządu ruchu oraz neurochirurgii;"
+      "content": "W skład zespołu urazowego dziecięcego wchodzi co najmniej trzech lekarzy, w tym: lekarz posiadający tytuł specjalisty w dziedzinie anestezjologii i intensywnej terapii lub lekarz posiadający specjalizację II stopnia w dziedzinie anestezjologii lub anestezjologii i reanimacji, lub anestezjologii i intensywnej terapii;"
     },
     {
       "provision_ref": "par4u1p3",
       "section": "4",
       "title": "§ 4 ust. 1 pkt 3",
-      "content": "W skład zespołu urazowego dziecięcego wchodzą co najmniej: lekarz posiadający tytuł specjalisty w dziedzinie anestezjologii i intensywnej terapii lub lekarz posiadający specjalizację II stopnia w dziedzinie anestezjologii lub anestezjologii i reanimacji, lub anestezjologii i intensywnej terapii."
+      "content": "W skład zespołu urazowego dziecięcego wchodzi co najmniej trzech lekarzy, w tym: lekarz posiadający tytuł specjalisty w dziedzinie medycyny ratunkowej lub lekarz posiadający tytuł specjalisty lub specjalizację II stopnia w dziedzinie chirurgii dziecięcej, lub lekarz posiadający tytuł specjalisty lub specjalizację II stopnia w dziedzinie ortopedii i traumatologii narządu ruchu, lub lekarz posiadający tytuł specjalisty lub specjalizację II stopnia w dziedzinie neurochirurgii."
     },
     {
       "provision_ref": "par4u2",
@@ -208,64 +202,58 @@
       "content": "Kierownik podmiotu leczniczego, w którym znajduje się centrum: wyznacza kierownika zespołu urazowego dziecięcego spośród lekarzy, o których mowa w ust. 1 pkt 1 lub 2;"
     },
     {
-      "provision_ref": "par4u3p3",
+      "provision_ref": "par4u3p5",
       "section": "4",
-      "title": "§ 4 ust. 3 pkt 3",
-      "content": "Kierownik podmiotu leczniczego, w którym znajduje się centrum: zapewnia udział lekarza posiadającego tytuł specjalisty w dziedzinie chirurgii naczyniowej lub lekarza posiadającego specjalizację II stopnia w dziedzinie chirurgii naczyniowej w składzie zespołu urazowego w czasie nie dłuższym niż 1 godzina od chwili stwierdzenia okoliczności uzasadniających taką obecność."
+      "title": "§ 4 ust. 3 pkt 5",
+      "content": "Kierownik podmiotu leczniczego, w którym znajduje się centrum: zapewnia całodobową, niezwłoczną gotowość członków zespołu urazowego dziecięcego, o których mowa w ust. 1, do udzielania świadczeń zdrowotnych."
     },
     {
       "provision_ref": "par4u4",
       "section": "4",
       "title": "§ 4 ust. 4",
-      "content": "W razie potrzeby, w zależności od rodzaju obrażeń występujących u pacjenta urazowego dziecięcego, w skład zespołu urazowego dziecięcego wchodzą lekarz lub lekarze posiadający tytuł specjalisty lub specjalizację II stopnia w innych dziedzinach medycyny niż wymienione w ust. 1 i ust. 3 pkt 3; decyzję w tym zakresie podejmuje kierownik zespołu urazowego dziecięcego."
+      "content": "W razie potrzeby, w zależności od rodzaju obrażeń występujących u pacjenta urazowego dziecięcego, w skład zespołu urazowego dziecięcego wchodzą lekarz lub lekarze posiadający tytuł specjalisty lub specjalizację II stopnia w odpowiednich dziedzinach medycyny; decyzję w tym zakresie podejmuje kierownik zespołu urazowego dziecięcego."
     },
     {
       "provision_ref": "par5",
       "section": "5",
       "title": "§ 5",
-      "content": "Osobę do ukończenia 18. roku życia w stanie nagłego zagrożenia zdrowotnego kwalifikuje się do leczenia w centrum w przypadku, gdy spełnia warunki określone w art. 3 pkt 12a ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym , a ponadto następujące kryteria: występujące co najmniej jedno spośród następujących obrażeń anatomicznych: penetrująca rana głowy lub tułowia lub uraz tępy z objawami uszkodzenia narządów wewnętrznych głowy, klatki piersiowej lub brzucha, amputacja kończyny powyżej nadgarstka lub stawu skokowego, rozległe zmiażdżenia kończyny, uszkodzenie rdzenia kręgowego, niestabilna klatka piersiowa, złamanie kończyny z uszkodzeniem naczyń lub nerwów, złamanie co najmniej dwóch proksymalnych kości długich kończyn lub miednicy; towarzyszące co najmniej dwa spośród następujących zaburzeń parametrów fizjologicznych określonych w załączniku do rozporządzenia: spadek ciśnienia skurczowego krwi poniżej wartości wskazanej w tabeli nr 1 tego załącznika, odchylenie częstości akcji serca poza zakres wskazany w tabeli nr 2 tego załącznika, odchylenie liczby oddechów poza zakres wskazany w tabeli nr 3 tego załącznika, stan świadomości oceniony według kryteriów Skali Śpiączki Glasgow (GCS) lub Dziecięcej Skali Śpiączki (CCS) w odniesieniu do dzieci do 3. roku życia na nie więcej niż 13 punktów, saturacja krwi tętniczej nie więcej niż 90%. Osobę do ukończenia 18. roku życia w stanie nagłego zagrożenia zdrowotnego kwalifikuje się do leczenia w centrum również w przypadku: wystąpienia urazu wielonarządowego lub śmierci innej osoby w tym samym zdarzeniu, wypadnięcia z pojazdu mechanicznego, przygniecenia lub upadku z wysokości powyżej 3 metrów, gdy czas wydobywania tej osoby z pojazdu, zawaliska lub gruzowiska wynosi powyżej 20 minut - pomimo braku widocznych obrażeń anatomicznych oraz istotnych zaburzeń parametrów fizjologicznych obecnych u tej osoby, stwierdzonych na miejscu zdarzenia."
+      "content": "Osobę do ukończenia 18. roku życia w stanie nagłego zagrożenia zdrowotnego kwalifikuje się do leczenia w centrum w przypadku, gdy spełnia warunki określone w art. 3 pkt 12a ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym , a ponadto następujące kryteria: występujące u niej co najmniej jedno spośród następujących obrażeń anatomicznych: 7) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2. penetrująca rana głowy lub tułowia lub uraz tępy z objawami uszkodzenia narządów wewnętrznych głowy, klatki piersiowej lub brzucha, amputacja kończyny powyżej nadgarstka lub stawu skokowego, rozległe zmiażdżenia kończyny, uszkodzenie rdzenia kręgowego, niestabilna klatka piersiowa, złamanie kończyny z uszkodzeniem naczyń lub nerwów, złamanie co najmniej dwóch proksymalnych kości długich kończyn (kość ramienna, kość udowa) lub miednicy; towarzyszące co najmniej dwa spośród następujących zaburzeń parametrów fizjologicznych określonych w załączniku do rozporządzenia: spadek ciśnienia skurczowego krwi poniżej wartości wskazanej w tabeli nr 1 tego załącznika, odchylenie częstości akcji serca poza zakres wskazany w tabeli nr 2 tego załącznika, odchylenie liczby oddechów poza zakres wskazany w tabeli nr 3 tego załącznika, stan świadomości oceniony według kryteriów Skali Śpiączki Glasgow (GCS) lub Dziecięcej Skali Śpiączki (CCS) w odniesieniu do dzieci do 3. roku życia na nie więcej niż 13 punktów, saturacja krwi tętniczej nie więcej niż 90%. Osobę do ukończenia 18. roku życia w stanie nagłego zagrożenia zdrowotnego kwalifikuje się do leczenia w centrum również w przypadku: wystąpienia urazu wielonarządowego lub śmierci innej osoby w tym samym zdarzeniu, wypadnięcia z pojazdu mechanicznego, przygniecenia lub upadku z wysokości powyżej 3 metrów, gdy czas wydobywania tej osoby z pojazdu, zawaliska lub gruzowiska wynosi powyżej 20 minut - pomimo braku widocznych obrażeń anatomicznych oraz istotnych zaburzeń parametrów fizjologicznych obecnych u tej osoby, stwierdzonych na miejscu zdarzenia."
     },
     {
       "provision_ref": "par5u1p1la",
       "section": "5",
       "title": "§ 5 ust. 1 pkt 1 lit. a",
-      "content": "Osobę do ukończenia 18. roku życia w stanie nagłego zagrożenia zdrowotnego kwalifikuje się do leczenia w centrum w przypadku, gdy spełnia warunki określone w art. 3 pkt 12a ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym , a ponadto następujące kryteria: występujące co najmniej jedno spośród następujących obrażeń anatomicznych: penetrująca rana głowy lub tułowia lub uraz tępy z objawami uszkodzenia narządów wewnętrznych głowy, klatki piersiowej lub brzucha,"
+      "content": "Osobę do ukończenia 18. roku życia w stanie nagłego zagrożenia zdrowotnego kwalifikuje się do leczenia w centrum w przypadku, gdy spełnia warunki określone w art. 3 pkt 12a ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym , a ponadto następujące kryteria: występujące u niej co najmniej jedno spośród następujących obrażeń anatomicznych: 7) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2. penetrująca rana głowy lub tułowia lub uraz tępy z objawami uszkodzenia narządów wewnętrznych głowy, klatki piersiowej lub brzucha,"
     },
     {
       "provision_ref": "par5u1p1lb",
       "section": "5",
       "title": "§ 5 ust. 1 pkt 1 lit. b",
-      "content": "Osobę do ukończenia 18. roku życia w stanie nagłego zagrożenia zdrowotnego kwalifikuje się do leczenia w centrum w przypadku, gdy spełnia warunki określone w art. 3 pkt 12a ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym , a ponadto następujące kryteria: występujące co najmniej jedno spośród następujących obrażeń anatomicznych: amputacja kończyny powyżej nadgarstka lub stawu skokowego,"
+      "content": "Osobę do ukończenia 18. roku życia w stanie nagłego zagrożenia zdrowotnego kwalifikuje się do leczenia w centrum w przypadku, gdy spełnia warunki określone w art. 3 pkt 12a ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym , a ponadto następujące kryteria: występujące u niej co najmniej jedno spośród następujących obrażeń anatomicznych: 7) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2. amputacja kończyny powyżej nadgarstka lub stawu skokowego,"
     },
     {
       "provision_ref": "par5u1p1lc",
       "section": "5",
       "title": "§ 5 ust. 1 pkt 1 lit. c",
-      "content": "Osobę do ukończenia 18. roku życia w stanie nagłego zagrożenia zdrowotnego kwalifikuje się do leczenia w centrum w przypadku, gdy spełnia warunki określone w art. 3 pkt 12a ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym , a ponadto następujące kryteria: występujące co najmniej jedno spośród następujących obrażeń anatomicznych: rozległe zmiażdżenia kończyny,"
+      "content": "Osobę do ukończenia 18. roku życia w stanie nagłego zagrożenia zdrowotnego kwalifikuje się do leczenia w centrum w przypadku, gdy spełnia warunki określone w art. 3 pkt 12a ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym , a ponadto następujące kryteria: występujące u niej co najmniej jedno spośród następujących obrażeń anatomicznych: 7) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2. rozległe zmiażdżenia kończyny,"
     },
     {
       "provision_ref": "par5u1p1ld",
       "section": "5",
       "title": "§ 5 ust. 1 pkt 1 lit. d",
-      "content": "Osobę do ukończenia 18. roku życia w stanie nagłego zagrożenia zdrowotnego kwalifikuje się do leczenia w centrum w przypadku, gdy spełnia warunki określone w art. 3 pkt 12a ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym , a ponadto następujące kryteria: występujące co najmniej jedno spośród następujących obrażeń anatomicznych: uszkodzenie rdzenia kręgowego,"
+      "content": "Osobę do ukończenia 18. roku życia w stanie nagłego zagrożenia zdrowotnego kwalifikuje się do leczenia w centrum w przypadku, gdy spełnia warunki określone w art. 3 pkt 12a ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym , a ponadto następujące kryteria: występujące u niej co najmniej jedno spośród następujących obrażeń anatomicznych: 7) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2. uszkodzenie rdzenia kręgowego,"
     },
     {
       "provision_ref": "par5u1p1le",
       "section": "5",
       "title": "§ 5 ust. 1 pkt 1 lit. e",
-      "content": "Osobę do ukończenia 18. roku życia w stanie nagłego zagrożenia zdrowotnego kwalifikuje się do leczenia w centrum w przypadku, gdy spełnia warunki określone w art. 3 pkt 12a ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym , a ponadto następujące kryteria: występujące co najmniej jedno spośród następujących obrażeń anatomicznych: niestabilna klatka piersiowa,"
+      "content": "Osobę do ukończenia 18. roku życia w stanie nagłego zagrożenia zdrowotnego kwalifikuje się do leczenia w centrum w przypadku, gdy spełnia warunki określone w art. 3 pkt 12a ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym , a ponadto następujące kryteria: występujące u niej co najmniej jedno spośród następujących obrażeń anatomicznych: 7) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2. niestabilna klatka piersiowa,"
     },
     {
       "provision_ref": "par5u1p1lf",
       "section": "5",
       "title": "§ 5 ust. 1 pkt 1 lit. f",
-      "content": "Osobę do ukończenia 18. roku życia w stanie nagłego zagrożenia zdrowotnego kwalifikuje się do leczenia w centrum w przypadku, gdy spełnia warunki określone w art. 3 pkt 12a ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym , a ponadto następujące kryteria: występujące co najmniej jedno spośród następujących obrażeń anatomicznych: złamanie kończyny z uszkodzeniem naczyń lub nerwów,"
-    },
-    {
-      "provision_ref": "par5u1p1lg",
-      "section": "5",
-      "title": "§ 5 ust. 1 pkt 1 lit. g",
-      "content": "Osobę do ukończenia 18. roku życia w stanie nagłego zagrożenia zdrowotnego kwalifikuje się do leczenia w centrum w przypadku, gdy spełnia warunki określone w art. 3 pkt 12a ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym , a ponadto następujące kryteria: występujące co najmniej jedno spośród następujących obrażeń anatomicznych: złamanie co najmniej dwóch proksymalnych kości długich kończyn lub miednicy;"
+      "content": "Osobę do ukończenia 18. roku życia w stanie nagłego zagrożenia zdrowotnego kwalifikuje się do leczenia w centrum w przypadku, gdy spełnia warunki określone w art. 3 pkt 12a ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym , a ponadto następujące kryteria: występujące u niej co najmniej jedno spośród następujących obrażeń anatomicznych: 7) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2. złamanie kończyny z uszkodzeniem naczyń lub nerwów,"
     },
     {
       "provision_ref": "par5u1p2la",
@@ -319,31 +307,37 @@
       "provision_ref": "par6",
       "section": "6",
       "title": "§ 6",
-      "content": "Kierownik zespołu ratownictwa medycznego albo wyznaczony przez tego kierownika członek zespołu ratownictwa medycznego zgłasza dyspozytorowi medycznemu stwierdzenie wystąpienia kryteriów, o których mowa w § 5, i pozostaje w kontakcie z lekarzem szpitalnego oddziału ratunkowego szpitala, w którym znajduje się centrum, wskazanego przez dyspozytora medycznego, do czasu przyjęcia pacjenta urazowego dziecięcego do tego oddziału. Przepisu ust. 1 w zakresie obowiązku pozostawania w kontakcie z lekarzem szpitalnego oddziału ratunkowego szpitala, w którym znajduje się centrum, wskazanego przez dyspozytora medycznego nie stosuje się do lotniczego zespołu ratownictwa medycznego. Kierownik podmiotu leczniczego, w którym brak centrum, albo lekarz przez niego wyznaczony, w przypadku stwierdzenia wystąpienia kryteriów, o których mowa w § 5, pozostaje w kontakcie z lekarzem szpitalnego oddziału ratunkowego szpitala, w którym znajduje się centrum, najbliższego pod względem czasu dotarcia."
+      "content": "Kierownik zespołu ratownictwa medycznego albo wyznaczony przez tego kierownika członek zespołu ratownictwa medycznego zgłasza dyspozytorowi medycznemu stwierdzenie wystąpienia kryteriów, o których mowa w § 5, i pozostaje w kontakcie z kierownikiem zespołu urazowego dziecięcego szpitala, w którym znajduje się centrum, wskazanego przez dyspozytora medycznego, do czasu przyjęcia pacjenta urazowego dziecięcego do tego szpitala. Dyspozytor medyczny zgłasza kierownikowi zespołu urazowego dziecięcego transport pacjenta urazowego dziecięcego do tego centrum. Przepisu ust. 1 w zakresie obowiązku pozostawania w kontakcie z kierownikiem zespołu urazowego dziecięcego szpitala, w którym znajduje się centrum, nie stosuje się do lotniczego zespołu ratownictwa medycznego. Kierownik podmiotu leczniczego, w którym brak jest centrum, albo lekarz przez niego wyznaczony, w przypadku stwierdzenia wystąpienia kryteriów, o których mowa w § 5, pozostaje w kontakcie z kierownikiem zespołu urazowego dziecięcego szpitala, w którym znajduje się centrum, najbliższego pod względem czasu dotarcia."
     },
     {
       "provision_ref": "par6u1",
       "section": "6",
       "title": "§ 6 ust. 1",
-      "content": "Kierownik zespołu ratownictwa medycznego albo wyznaczony przez tego kierownika członek zespołu ratownictwa medycznego zgłasza dyspozytorowi medycznemu stwierdzenie wystąpienia kryteriów, o których mowa w § 5, i pozostaje w kontakcie z lekarzem szpitalnego oddziału ratunkowego szpitala, w którym znajduje się centrum, wskazanego przez dyspozytora medycznego, do czasu przyjęcia pacjenta urazowego dziecięcego do tego oddziału."
+      "content": "Kierownik zespołu ratownictwa medycznego albo wyznaczony przez tego kierownika członek zespołu ratownictwa medycznego zgłasza dyspozytorowi medycznemu stwierdzenie wystąpienia kryteriów, o których mowa w § 5, i pozostaje w kontakcie z kierownikiem zespołu urazowego dziecięcego szpitala, w którym znajduje się centrum, wskazanego przez dyspozytora medycznego, do czasu przyjęcia pacjenta urazowego dziecięcego do tego szpitala."
     },
     {
       "provision_ref": "par6u2",
       "section": "6",
       "title": "§ 6 ust. 2",
-      "content": "Przepisu ust. 1 w zakresie obowiązku pozostawania w kontakcie z lekarzem szpitalnego oddziału ratunkowego szpitala, w którym znajduje się centrum, wskazanego przez dyspozytora medycznego nie stosuje się do lotniczego zespołu ratownictwa medycznego."
+      "content": "Dyspozytor medyczny zgłasza kierownikowi zespołu urazowego dziecięcego transport pacjenta urazowego dziecięcego do tego centrum."
     },
     {
       "provision_ref": "par6u3",
       "section": "6",
       "title": "§ 6 ust. 3",
-      "content": "Kierownik podmiotu leczniczego, w którym brak centrum, albo lekarz przez niego wyznaczony, w przypadku stwierdzenia wystąpienia kryteriów, o których mowa w § 5, pozostaje w kontakcie z lekarzem szpitalnego oddziału ratunkowego szpitala, w którym znajduje się centrum, najbliższego pod względem czasu dotarcia."
+      "content": "Przepisu ust. 1 w zakresie obowiązku pozostawania w kontakcie z kierownikiem zespołu urazowego dziecięcego szpitala, w którym znajduje się centrum, nie stosuje się do lotniczego zespołu ratownictwa medycznego."
+    },
+    {
+      "provision_ref": "par6u4",
+      "section": "6",
+      "title": "§ 6 ust. 4",
+      "content": "Kierownik podmiotu leczniczego, w którym brak jest centrum, albo lekarz przez niego wyznaczony, w przypadku stwierdzenia wystąpienia kryteriów, o których mowa w § 5, pozostaje w kontakcie z kierownikiem zespołu urazowego dziecięcego szpitala, w którym znajduje się centrum, najbliższego pod względem czasu dotarcia."
     },
     {
       "provision_ref": "par7",
       "section": "7",
       "title": "§ 7",
-      "content": "W szpitalnym oddziale ratunkowym zlokalizowanym w szpitalu, w którym znajduje się centrum, przeprowadza się wstępną diagnostykę pacjenta urazowego dziecięcego oraz jego leczenie w zakresie niezbędnym dla stabilizacji funkcji życiowych. Decyzję w sprawie kolejności udzielania świadczeń zdrowotnych pacjentowi urazowemu dziecięcemu w przypadku rozbieżności pomiędzy członkami zespołu urazowego dziecięcego podejmuje kierownik tego zespołu. Dalsza diagnostyka i wielospecjalistyczne leczenie pacjenta urazowego dziecięcego w centrum odbywa się w specjalistycznym oddziale zabiegowym wskazanym przez kierownika zespołu urazowego dziecięcego."
+      "content": "W szpitalnym oddziale ratunkowym zlokalizowanym w szpitalu, w którym znajduje się centrum, przeprowadza się wstępną diagnostykę pacjenta urazowego dziecięcego oraz jego leczenie w zakresie niezbędnym dla stabilizacji funkcji życiowych. Decyzję w sprawie kolejności udzielania świadczeń zdrowotnych pacjentowi urazowemu dziecięcemu w przypadku rozbieżności pomiędzy członkami zespołu urazowego dziecięcego podejmuje kierownik tego zespołu. Dalsza diagnostyka i wielospecjalistyczne leczenie pacjenta urazowego dziecięcego w centrum odbywa się w specjalistycznym oddziale zabiegowym lub oddziale anestezjologii i intensywnej terapii wskazanym przez kierownika zespołu urazowego dziecięcego."
     },
     {
       "provision_ref": "par7u1",
@@ -361,19 +355,31 @@
       "provision_ref": "par7u3",
       "section": "7",
       "title": "§ 7 ust. 3",
-      "content": "Dalsza diagnostyka i wielospecjalistyczne leczenie pacjenta urazowego dziecięcego w centrum odbywa się w specjalistycznym oddziale zabiegowym wskazanym przez kierownika zespołu urazowego dziecięcego."
+      "content": "Dalsza diagnostyka i wielospecjalistyczne leczenie pacjenta urazowego dziecięcego w centrum odbywa się w specjalistycznym oddziale zabiegowym lub oddziale anestezjologii i intensywnej terapii wskazanym przez kierownika zespołu urazowego dziecięcego."
     },
     {
       "provision_ref": "par8",
       "section": "8",
       "title": "§ 8",
-      "content": "Rozporządzenie wchodzi w życie z dniem 1 czerwca 2016 r., z wyjątkiem § 2 ust. 1 pkt 5, który wchodzi w życie z dniem 1 stycznia 2019 r."
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 czerwca 2016 r."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2013-757",
+      "target_document_id": "pl-du-2019-1461",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-558",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-2042",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-882",
       "ref_type": "references"
     }
   ]

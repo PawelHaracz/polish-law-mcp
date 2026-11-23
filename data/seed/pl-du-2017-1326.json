@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2017/1326",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -91,33 +97,29 @@
       "provision_ref": "par5",
       "section": "5",
       "title": "§ 5",
-      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia 3) Rozporządzenie zostało ogłoszone w dniu 5 lipca 2017 r. ."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2016-2134",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2016-2249",
+      "target_document_id": "pl-du-2022-2608",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2016-2260",
+      "target_document_id": "pl-du-2023-1336",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2017-60",
+      "target_document_id": "pl-du-2023-1688",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2017-132",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-2017-1074",
+      "target_document_id": "pl-du-2023-1890",
       "ref_type": "references"
     }
   ]

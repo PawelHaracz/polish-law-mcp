@@ -10,6 +10,42 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2013/1471",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Do umów, na podstawie których udzielono pomocy, zawartych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe. Do wniosków złożonych i nierozpatrzonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienionego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem. Wnioski, o których mowa w ust. 2, wymagające uzupełnienia w zakresie wynikającym z niniejszego rozporządzenia, uzupełnia się na wezwanie funduszu rozwoju obszarów miejskich w terminie wyznaczonym przez ten podmiot, nie krótszym niż 14 dni od dnia otrzymania wezwania przez wnioskodawcę."
+    },
+    {
+      "provision_ref": "par2u1",
+      "section": "2",
+      "title": "§ 2 ust. 1",
+      "content": "Do umów, na podstawie których udzielono pomocy, zawartych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe."
+    },
+    {
+      "provision_ref": "par2u2",
+      "section": "2",
+      "title": "§ 2 ust. 2",
+      "content": "Do wniosków złożonych i nierozpatrzonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienionego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem."
+    },
+    {
+      "provision_ref": "par2u3",
+      "section": "2",
+      "title": "§ 2 ust. 3",
+      "content": "Wnioski, o których mowa w ust. 2, wymagające uzupełnienia w zakresie wynikającym z niniejszego rozporządzenia, uzupełnia się na wezwanie funduszu rozwoju obszarów miejskich w terminie wyznaczonym przez ten podmiot, nie krótszym niż 14 dni od dnia otrzymania wezwania przez wnioskodawcę."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+    },
+    {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -19,67 +55,73 @@
       "provision_ref": "par2",
       "section": "2",
       "title": "§ 2",
-      "content": "Przepisów rozporządzenia nie stosuje się do: pożyczki udzielanej przedsiębiorcy niespełniającemu kryteriów przedsiębiorstwa zagrożonego określonych przez Komisję Europejską 3) Kryteria te są określone w pkt 9-11 komunikatu Komisji Wytyczne wspólnotowe dotyczące pomocy państwa w celu ratowania i restrukturyzacji zagrożonych przedsiębiorstw (Dz. Urz. UE C 244 z 01.10.2004, str. 2, z późn. zm.). , oprocentowanej według stopy referencyjnej ustalonej zgodnie z metodą określoną przez Komisję Europejską 4) Metoda ta jest określona w komunikacie Komisji w sprawie zmiany metody ustalania stóp referencyjnych i dyskontowych (Dz. Urz. UE C 14 z 19.01.2008, str. 6). lub stopy wyższej; poręczenia spłaty kredytu lub innego zobowiązania finansowego udzielanego przedsiębiorcy, który nie ma problemów finansowych zgodnie z kryteriami określonymi przez Komisję Europejską 5) Kryteria te są określone w pkt 3.2 lit. a obwieszczenia Komisji w sprawie zastosowania art. 87 i 88 Traktatu WE do pomocy państwa w formie gwarancji (Dz. Urz. UE C 155 z 20.06.2008, str. 10, z późn. zm.). , jeżeli: koszt poręczenia odpowiada cenie rynkowej ustalonej zgodnie ze sposobem określonym przez Komisję Europejską 6) Sposób ten jest określony w pkt 3.2 lit. d obwieszczenia Komisji w sprawie zastosowania art. 87 i 88 Traktatu WE do pomocy państwa w formie gwarancji (Dz. Urz. UE C 155 z 20.06.2008, str. 10, z późn. zm.). lub cenie wyższej, a przy poręczeniu udzielonym mikro-, małemu lub średniemu przedsiębiorcy stosuje się bezpieczną stawkę roczną określoną przez Komisję Europejską 7) Stawka ta jest określona w pkt 3.3 obwieszczenia Komisji w sprawie zastosowania art. 87 i 88 Traktatu WE do pomocy państwa w formie gwarancji (Dz. Urz. UE C 155 z 20.06.2008, str. 10, z późn. zm.). lub stawkę wyższą, poręczenie jest terminowe i udzielane do kwoty z góry oznaczonej, poręczenie nie obejmuje więcej niż 80% niespłaconego kredytu lub innego zobowiązania finansowego."
+      "content": "Przepisów rozporządzenia nie stosuje się do: pożyczki udzielanej przedsiębiorcy, oprocentowanej według stopy referencyjnej ustalonej zgodnie z metodą określoną przez Komisję Europejską 3) Metoda ta jest określona w komunikacie Komisji w sprawie zmiany metody ustalania stóp referencyjnych i dyskontowych (Dz. Urz. UE C 14 z 19.01.2008, str. 6). lub stopy wyższej; poręczenia spłaty kredytu lub innego zobowiązania finansowego udzielanego przedsiębiorcy, który nie ma problemów finansowych zgodnie z kryteriami określonymi przez Komisję Europejską 4) Kryteria te są określone w pkt 3.2 lit. a obwieszczenia Komisji w sprawie zastosowania art. 87 i 88 Traktatu WE do pomocy państwa w formie gwarancji (Dz. Urz. UE C 155 z 20.06.2008, str. 10, z późn. zm.). , jeżeli: koszt poręczenia odpowiada cenie rynkowej ustalonej zgodnie ze sposobem określonym przez Komisję Europejską 5) Sposób ten jest określony w pkt 3.2 lit. d obwieszczenia Komisji w sprawie zastosowania art. 87 i 88 Traktatu WE do pomocy państwa w formie gwarancji (Dz. Urz. UE C 155 z 20.06.2008, str. 10, z późn. zm.). lub cenie wyższej, a przy poręczeniu udzielonym mikro-, małemu lub średniemu przedsiębiorcy stosuje się bezpieczną stawkę roczną określoną przez Komisję Europejską 6) Stawka ta jest określona w pkt 3.3 obwieszczenia Komisji w sprawie zastosowania art. 87 i 88 Traktatu WE do pomocy państwa w formie gwarancji (Dz. Urz. UE C 155 z 20.06.2008, str. 10, z późn. zm.). lub stawkę wyższą, poręczenie jest terminowe i udzielane do kwoty z góry oznaczonej, poręczenie nie obejmuje więcej niż 80% niespłaconego kredytu lub innego zobowiązania finansowego."
     },
     {
-      "provision_ref": "par2p1",
+      "provision_ref": "par2p2",
       "section": "2",
-      "title": "§ 2 pkt 1",
-      "content": "Przepisów rozporządzenia nie stosuje się do: pożyczki udzielanej przedsiębiorcy niespełniającemu kryteriów przedsiębiorstwa zagrożonego określonych przez Komisję Europejską 3) Kryteria te są określone w pkt 9-11 komunikatu Komisji Wytyczne wspólnotowe dotyczące pomocy państwa w celu ratowania i restrukturyzacji zagrożonych przedsiębiorstw (Dz. Urz. UE C 244 z 01.10.2004, str. 2, z późn. zm.). , oprocentowanej według stopy referencyjnej ustalonej zgodnie z metodą określoną przez Komisję Europejską 4) Metoda ta jest określona w komunikacie Komisji w sprawie zmiany metody ustalania stóp referencyjnych i dyskontowych (Dz. Urz. UE C 14 z 19.01.2008, str. 6). lub stopy wyższej;"
+      "title": "§ 2 pkt 2",
+      "content": "Przepisów rozporządzenia nie stosuje się do: pożyczki udzielanej przedsiębiorcy, oprocentowanej według stopy referencyjnej ustalonej zgodnie z metodą określoną przez Komisję Europejską 3) Metoda ta jest określona w komunikacie Komisji w sprawie zmiany metody ustalania stóp referencyjnych i dyskontowych (Dz. Urz. UE C 14 z 19.01.2008, str. 6). lub stopy wyższej;"
     },
     {
       "provision_ref": "par2p2la",
       "section": "2",
       "title": "§ 2 pkt 2 lit. a",
-      "content": "Przepisów rozporządzenia nie stosuje się do: poręczenia spłaty kredytu lub innego zobowiązania finansowego udzielanego przedsiębiorcy, który nie ma problemów finansowych zgodnie z kryteriami określonymi przez Komisję Europejską 5) Kryteria te są określone w pkt 3.2 lit. a obwieszczenia Komisji w sprawie zastosowania art. 87 i 88 Traktatu WE do pomocy państwa w formie gwarancji (Dz. Urz. UE C 155 z 20.06.2008, str. 10, z późn. zm.). , jeżeli: koszt poręczenia odpowiada cenie rynkowej ustalonej zgodnie ze sposobem określonym przez Komisję Europejską 6) Sposób ten jest określony w pkt 3.2 lit. d obwieszczenia Komisji w sprawie zastosowania art. 87 i 88 Traktatu WE do pomocy państwa w formie gwarancji (Dz. Urz. UE C 155 z 20.06.2008, str. 10, z późn. zm.). lub cenie wyższej, a przy poręczeniu udzielonym mikro-, małemu lub średniemu przedsiębiorcy stosuje się bezpieczną stawkę roczną określoną przez Komisję Europejską 7) Stawka ta jest określona w pkt 3.3 obwieszczenia Komisji w sprawie zastosowania art. 87 i 88 Traktatu WE do pomocy państwa w formie gwarancji (Dz. Urz. UE C 155 z 20.06.2008, str. 10, z późn. zm.). lub stawkę wyższą,"
+      "content": "Przepisów rozporządzenia nie stosuje się do: poręczenia spłaty kredytu lub innego zobowiązania finansowego udzielanego przedsiębiorcy, który nie ma problemów finansowych zgodnie z kryteriami określonymi przez Komisję Europejską 4) Kryteria te są określone w pkt 3.2 lit. a obwieszczenia Komisji w sprawie zastosowania art. 87 i 88 Traktatu WE do pomocy państwa w formie gwarancji (Dz. Urz. UE C 155 z 20.06.2008, str. 10, z późn. zm.). , jeżeli: koszt poręczenia odpowiada cenie rynkowej ustalonej zgodnie ze sposobem określonym przez Komisję Europejską 5) Sposób ten jest określony w pkt 3.2 lit. d obwieszczenia Komisji w sprawie zastosowania art. 87 i 88 Traktatu WE do pomocy państwa w formie gwarancji (Dz. Urz. UE C 155 z 20.06.2008, str. 10, z późn. zm.). lub cenie wyższej, a przy poręczeniu udzielonym mikro-, małemu lub średniemu przedsiębiorcy stosuje się bezpieczną stawkę roczną określoną przez Komisję Europejską 6) Stawka ta jest określona w pkt 3.3 obwieszczenia Komisji w sprawie zastosowania art. 87 i 88 Traktatu WE do pomocy państwa w formie gwarancji (Dz. Urz. UE C 155 z 20.06.2008, str. 10, z późn. zm.). lub stawkę wyższą,"
     },
     {
       "provision_ref": "par2p2lb",
       "section": "2",
       "title": "§ 2 pkt 2 lit. b",
-      "content": "Przepisów rozporządzenia nie stosuje się do: poręczenia spłaty kredytu lub innego zobowiązania finansowego udzielanego przedsiębiorcy, który nie ma problemów finansowych zgodnie z kryteriami określonymi przez Komisję Europejską 5) Kryteria te są określone w pkt 3.2 lit. a obwieszczenia Komisji w sprawie zastosowania art. 87 i 88 Traktatu WE do pomocy państwa w formie gwarancji (Dz. Urz. UE C 155 z 20.06.2008, str. 10, z późn. zm.). , jeżeli: poręczenie jest terminowe i udzielane do kwoty z góry oznaczonej,"
+      "content": "Przepisów rozporządzenia nie stosuje się do: poręczenia spłaty kredytu lub innego zobowiązania finansowego udzielanego przedsiębiorcy, który nie ma problemów finansowych zgodnie z kryteriami określonymi przez Komisję Europejską 4) Kryteria te są określone w pkt 3.2 lit. a obwieszczenia Komisji w sprawie zastosowania art. 87 i 88 Traktatu WE do pomocy państwa w formie gwarancji (Dz. Urz. UE C 155 z 20.06.2008, str. 10, z późn. zm.). , jeżeli: poręczenie jest terminowe i udzielane do kwoty z góry oznaczonej,"
     },
     {
       "provision_ref": "par2p2lc",
       "section": "2",
       "title": "§ 2 pkt 2 lit. c",
-      "content": "Przepisów rozporządzenia nie stosuje się do: poręczenia spłaty kredytu lub innego zobowiązania finansowego udzielanego przedsiębiorcy, który nie ma problemów finansowych zgodnie z kryteriami określonymi przez Komisję Europejską 5) Kryteria te są określone w pkt 3.2 lit. a obwieszczenia Komisji w sprawie zastosowania art. 87 i 88 Traktatu WE do pomocy państwa w formie gwarancji (Dz. Urz. UE C 155 z 20.06.2008, str. 10, z późn. zm.). , jeżeli: poręczenie nie obejmuje więcej niż 80% niespłaconego kredytu lub innego zobowiązania finansowego."
+      "content": "Przepisów rozporządzenia nie stosuje się do: poręczenia spłaty kredytu lub innego zobowiązania finansowego udzielanego przedsiębiorcy, który nie ma problemów finansowych zgodnie z kryteriami określonymi przez Komisję Europejską 4) Kryteria te są określone w pkt 3.2 lit. a obwieszczenia Komisji w sprawie zastosowania art. 87 i 88 Traktatu WE do pomocy państwa w formie gwarancji (Dz. Urz. UE C 155 z 20.06.2008, str. 10, z późn. zm.). , jeżeli: poręczenie nie obejmuje więcej niż 80% niespłaconego kredytu lub innego zobowiązania finansowego."
     },
     {
       "provision_ref": "par3",
       "section": "3",
       "title": "§ 3",
-      "content": "Ilekroć w rozporządzeniu jest mowa o: funduszu rozwoju obszarów miejskich - należy przez to rozumieć fundusz na rzecz rozwoju obszarów miejskich, o którym mowa w art. 44 zdanie pierwsze lit. b rozporządzenia Rady (WE) nr 1083/2006 z dnia 11 lipca 2006 r. ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności i uchylającego rozporządzenie (WE) nr 1260/1999 , którego celem jest tworzenie korzystnych warunków do rozwoju obszarów miejskich przez udzielanie pożyczek lub poręczeń; przedsiębiorcy - należy przez to rozumieć przedsiębiorstwo w rozumieniu art. 1 załącznika I do rozporządzenia Komisji (WE) nr 800/2008 z dnia 6 sierpnia 2008 r. uznającego niektóre rodzaje pomocy za zgodne ze wspólnym rynkiem w zastosowaniu art. 87 i 88 Traktatu (ogólne rozporządzenie w sprawie wyłączeń blokowych) ; mikro-, małym lub średnim przedsiębiorcy - należy przez to rozumieć odpowiednio mikroprzedsiębiorstwo, małe lub średnie przedsiębiorstwo spełniające warunki określone w załączniku I do rozporządzenia Komisji (WE) nr 800/2008 z dnia 6 sierpnia 2008 r. uznającego niektóre rodzaje pomocy za zgodne ze wspólnym rynkiem w zastosowaniu art. 87 i 88 Traktatu (ogólne rozporządzenie w sprawie wyłączeń blokowych)."
+      "content": "Ilekroć w rozporządzeniu jest mowa o: funduszu rozwoju obszarów miejskich ‒ należy przez to rozumieć fundusz na rzecz rozwoju obszarów miejskich, o którym mowa w art. 44 zdanie pierwsze lit. b rozporządzenia Rady (WE) nr 1083/2006 z dnia 11 lipca 2006 r. ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności i uchylającego rozporządzenie (WE) nr 1260/1999 7) Uchylone przez art. 153 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320), ze skutkiem od dnia 1 stycznia 2014 r.; odesłania do uchylonego rozporządzenia traktuje się jak odesłania do rozporządzenia uchylającego, zgodnie z tabelą korelacji określoną w załączniku XIV do tego rozporządzenia. , którego celem jest tworzenie korzystnych warunków do rozwoju obszarów miejskich przez udzielanie pożyczek lub poręczeń; przedsiębiorcy ‒ należy przez to rozumieć przedsiębiorstwo w rozumieniu art. 1 załącznika I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu ) ; mikro-, małym lub średnim przedsiębiorcy ‒ należy przez to rozumieć odpowiednio mikroprzedsiębiorstwo, małe lub średnie przedsiębiorstwo spełniające warunki określone w załączniku I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu; jednym przedsiębiorcy - należy przez to rozumieć jedno przedsiębiorstwo, o którym mowa w art. 2 ust. 2 rozporządzenia Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis , zwanego dalej „rozporządzeniem nr 1407/2013”."
     },
     {
       "provision_ref": "par3p1",
       "section": "3",
       "title": "§ 3 pkt 1",
-      "content": "Ilekroć w rozporządzeniu jest mowa o: funduszu rozwoju obszarów miejskich - należy przez to rozumieć fundusz na rzecz rozwoju obszarów miejskich, o którym mowa w art. 44 zdanie pierwsze lit. b rozporządzenia Rady (WE) nr 1083/2006 z dnia 11 lipca 2006 r. ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności i uchylającego rozporządzenie (WE) nr 1260/1999 , którego celem jest tworzenie korzystnych warunków do rozwoju obszarów miejskich przez udzielanie pożyczek lub poręczeń;"
+      "content": "Ilekroć w rozporządzeniu jest mowa o: funduszu rozwoju obszarów miejskich ‒ należy przez to rozumieć fundusz na rzecz rozwoju obszarów miejskich, o którym mowa w art. 44 zdanie pierwsze lit. b rozporządzenia Rady (WE) nr 1083/2006 z dnia 11 lipca 2006 r. ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności i uchylającego rozporządzenie (WE) nr 1260/1999 7) Uchylone przez art. 153 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320), ze skutkiem od dnia 1 stycznia 2014 r.; odesłania do uchylonego rozporządzenia traktuje się jak odesłania do rozporządzenia uchylającego, zgodnie z tabelą korelacji określoną w załączniku XIV do tego rozporządzenia. , którego celem jest tworzenie korzystnych warunków do rozwoju obszarów miejskich przez udzielanie pożyczek lub poręczeń;"
     },
     {
-      "provision_ref": "par3p2",
+      "provision_ref": "par3p8",
       "section": "3",
-      "title": "§ 3 pkt 2",
-      "content": "Ilekroć w rozporządzeniu jest mowa o: przedsiębiorcy - należy przez to rozumieć przedsiębiorstwo w rozumieniu art. 1 załącznika I do rozporządzenia Komisji (WE) nr 800/2008 z dnia 6 sierpnia 2008 r. uznającego niektóre rodzaje pomocy za zgodne ze wspólnym rynkiem w zastosowaniu art. 87 i 88 Traktatu (ogólne rozporządzenie w sprawie wyłączeń blokowych) ;"
+      "title": "§ 3 pkt 8",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: przedsiębiorcy ‒ należy przez to rozumieć przedsiębiorstwo w rozumieniu art. 1 załącznika I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu ) ;"
     },
     {
-      "provision_ref": "par3p3",
+      "provision_ref": "par3p8",
       "section": "3",
-      "title": "§ 3 pkt 3",
-      "content": "Ilekroć w rozporządzeniu jest mowa o: mikro-, małym lub średnim przedsiębiorcy - należy przez to rozumieć odpowiednio mikroprzedsiębiorstwo, małe lub średnie przedsiębiorstwo spełniające warunki określone w załączniku I do rozporządzenia Komisji (WE) nr 800/2008 z dnia 6 sierpnia 2008 r. uznającego niektóre rodzaje pomocy za zgodne ze wspólnym rynkiem w zastosowaniu art. 87 i 88 Traktatu (ogólne rozporządzenie w sprawie wyłączeń blokowych)."
+      "title": "§ 3 pkt 8",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: mikro-, małym lub średnim przedsiębiorcy ‒ należy przez to rozumieć odpowiednio mikroprzedsiębiorstwo, małe lub średnie przedsiębiorstwo spełniające warunki określone w załączniku I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu;"
+    },
+    {
+      "provision_ref": "par3p4",
+      "section": "3",
+      "title": "§ 3 pkt 4",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: jednym przedsiębiorcy - należy przez to rozumieć jedno przedsiębiorstwo, o którym mowa w art. 2 ust. 2 rozporządzenia Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis , zwanego dalej „rozporządzeniem nr 1407/2013”."
     },
     {
       "provision_ref": "par4",
       "section": "4",
       "title": "§ 4",
-      "content": "Pomoc może być udzielana na inwestycje, o których mowa w art. 43 ust. 1 w zakresie, o którym mowa w lit. b rozporządzenia Komisji (WE) nr 1828/2006 z dnia 8 grudnia 2006 r. ustanawiającego szczegółowe zasady wykonania rozporządzenia Rady (WE) nr 1083/2006 ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności oraz rozporządzenia (WE) nr 1080/2006 Parlamentu Europejskiego i Rady w sprawie Europejskiego Funduszu Rozwoju Regionalnego , realizowane przez przedsiębiorców, zwane dalej „inwestycjami”."
+      "content": "Pomoc może być udzielana na inwestycje, o których mowa w art. 43 ust. 1 w zakresie, o którym mowa w lit. b rozporządzenia Komisji (WE) nr 1828/2006 z dnia 8 grudnia 2006 r. ustanawiającego szczegółowe zasady wykonania rozporządzenia Rady (WE) nr 1083/2006 ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności oraz rozporządzenia (WE) nr 1080/2006 Parlamentu Europejskiego i Rady w sprawie Europejskiego Funduszu Rozwoju Regionalnego ) , realizowane przez przedsiębiorców, zwane dalej „inwestycjami”."
     },
     {
       "provision_ref": "par5",
       "section": "5",
       "title": "§ 5",
-      "content": "Pomoc jest udzielana jako pomoc de minimis , do której mają zastosowanie przepisy rozporządzenia Komisji (WE) nr 1998/2006 z dnia 15 grudnia 2006 r. w sprawie stosowania art. 87 i 88 Traktatu do pomocy de minimis , zwanego dalej „rozporządzeniem nr 1998/2006”."
+      "content": "Pomoc jest udzielana jako pomoc de minimis , do której mają zastosowanie przepisy rozporządzenia nr 1407/2013."
     },
     {
       "provision_ref": "par6",
@@ -91,31 +133,25 @@
       "provision_ref": "par7",
       "section": "7",
       "title": "§ 7",
-      "content": "Wartość pomocy udzielanej w formie: pożyczki - stanowi różnicę między zdyskontowaną rynkową wartością odsetek, która byłaby naliczona dla udzielanej pożyczki, a zdyskontowaną wartością odsetek wynikającą z oprocentowania zastosowanego przez fundusz rozwoju obszarów miejskich; poręczenia - jest ustalana z zastosowaniem warunków określonych w art. 2 ust. 4 lit. d rozporządzenia nr 1998/2006. Rynkowa wartość odsetek, o której mowa w ust. 1 pkt 1, jest wyliczana na podstawie stóp referencyjnych ustalonych zgodnie z metodą określoną przez Komisję Europejską 8) Metoda ta jest określona w komunikacie Komisji w sprawie zmiany metody ustalania stóp referencyjnych i dyskontowych (Dz. Urz. UE C 14 z 19.01.2008, str. 6). ."
+      "content": "Wartość pomocy udzielanej w formie pożyczki wyraża się za pomocą ekwiwalentu dotacji brutto, zgodnie z art. 4 ust. 3 lit. b i c rozporządzenia nr 1407/2013. Wartość pomocy udzielanej w formie poręczenia wyraża się za pomocą ekwiwalentu dotacji brutto, zgodnie z art. 4 ust. 6 lit. b-d rozporządzenia nr 1407/2013."
     },
     {
-      "provision_ref": "par7u1p1",
+      "provision_ref": "par7u1",
       "section": "7",
-      "title": "§ 7 ust. 1 pkt 1",
-      "content": "Wartość pomocy udzielanej w formie: pożyczki - stanowi różnicę między zdyskontowaną rynkową wartością odsetek, która byłaby naliczona dla udzielanej pożyczki, a zdyskontowaną wartością odsetek wynikającą z oprocentowania zastosowanego przez fundusz rozwoju obszarów miejskich;"
-    },
-    {
-      "provision_ref": "par7u1p2",
-      "section": "7",
-      "title": "§ 7 ust. 1 pkt 2",
-      "content": "Wartość pomocy udzielanej w formie: poręczenia - jest ustalana z zastosowaniem warunków określonych w art. 2 ust. 4 lit. d rozporządzenia nr 1998/2006."
+      "title": "§ 7 ust. 1",
+      "content": "Wartość pomocy udzielanej w formie pożyczki wyraża się za pomocą ekwiwalentu dotacji brutto, zgodnie z art. 4 ust. 3 lit. b i c rozporządzenia nr 1407/2013."
     },
     {
       "provision_ref": "par7u2",
       "section": "7",
       "title": "§ 7 ust. 2",
-      "content": "Rynkowa wartość odsetek, o której mowa w ust. 1 pkt 1, jest wyliczana na podstawie stóp referencyjnych ustalonych zgodnie z metodą określoną przez Komisję Europejską 8) Metoda ta jest określona w komunikacie Komisji w sprawie zmiany metody ustalania stóp referencyjnych i dyskontowych (Dz. Urz. UE C 14 z 19.01.2008, str. 6). ."
+      "content": "Wartość pomocy udzielanej w formie poręczenia wyraża się za pomocą ekwiwalentu dotacji brutto, zgodnie z art. 4 ust. 6 lit. b-d rozporządzenia nr 1407/2013."
     },
     {
       "provision_ref": "par8",
       "section": "8",
       "title": "§ 8",
-      "content": "Pomoc nie może być udzielana przedsiębiorcom, którzy spełniają kryteria przedsiębiorstwa zagrożonego określone przez Komisję Europejską 9) Kryteria te są określone w pkt 9-11 komunikatu Komisji Wytyczne wspólnotowe dotyczące pomocy państwa w celu ratowania i restrukturyzacji zagrożonych przedsiębiorstw (Dz. Urz. UE C 244 z 01.10.2004, str. 2, z późn. zm.). ."
+      "content": "(uchylony)."
     },
     {
       "provision_ref": "par9",
@@ -139,19 +175,7 @@
       "provision_ref": "par10",
       "section": "10",
       "title": "§ 10",
-      "content": "Maksymalna wartość brutto pomocy łącznie z wartością innej pomocy de minimis otrzymanej przez przedsiębiorcę w okresie bieżącego roku podatkowego i dwóch poprzednich lat podatkowych nie może przekroczyć kwoty stanowiącej równowartość 200 tys. euro. Maksymalna wartość brutto pomocy łącznie z wartością innej pomocy de minimis otrzymanej przez przedsiębiorcę prowadzącego działalność gospodarczą w sektorze transportu drogowego w okresie bieżącego roku podatkowego i dwóch poprzednich lat podatkowych nie może przekroczyć kwoty stanowiącej równowartość 100 tys. euro."
-    },
-    {
-      "provision_ref": "par10u1",
-      "section": "10",
-      "title": "§ 10 ust. 1",
-      "content": "Maksymalna wartość brutto pomocy łącznie z wartością innej pomocy de minimis otrzymanej przez przedsiębiorcę w okresie bieżącego roku podatkowego i dwóch poprzednich lat podatkowych nie może przekroczyć kwoty stanowiącej równowartość 200 tys. euro."
-    },
-    {
-      "provision_ref": "par10u2",
-      "section": "10",
-      "title": "§ 10 ust. 2",
-      "content": "Maksymalna wartość brutto pomocy łącznie z wartością innej pomocy de minimis otrzymanej przez przedsiębiorcę prowadzącego działalność gospodarczą w sektorze transportu drogowego w okresie bieżącego roku podatkowego i dwóch poprzednich lat podatkowych nie może przekroczyć kwoty stanowiącej równowartość 100 tys. euro."
+      "content": "Wartość dopuszczalnej pomocy de minimis udzielonej jednemu przedsiębiorcy określa się na podstawie art. 3 ust. 2-9 rozporządzenia nr 1407/2013."
     },
     {
       "provision_ref": "par11",
@@ -163,13 +187,13 @@
       "provision_ref": "par12",
       "section": "12",
       "title": "§ 12",
-      "content": "W odniesieniu do tych samych wydatków pomoc podlega sumowaniu z każdą inną pomocą publiczną, pomocą de minimis , w tym pomocą z budżetu Unii Europejskiej, udzieloną przedsiębiorcy, niezależnie od ich formy i źródła. Wartość zsumowanej pomocy, o której mowa w ust. 1, nie może przekroczyć maksymalnych intensywności pomocy określonych dla danego przeznaczenia pomocy w przepisach Unii Europejskiej."
+      "content": "Pomoc podlega kumulacji zgodnie z art. 5 rozporządzenia nr 1407/2013. Wartość zsumowanej pomocy, o której mowa w ust. 1, nie może przekroczyć maksymalnych intensywności pomocy określonych dla danego przeznaczenia pomocy w przepisach Unii Europejskiej."
     },
     {
       "provision_ref": "par12u1",
       "section": "12",
       "title": "§ 12 ust. 1",
-      "content": "W odniesieniu do tych samych wydatków pomoc podlega sumowaniu z każdą inną pomocą publiczną, pomocą de minimis , w tym pomocą z budżetu Unii Europejskiej, udzieloną przedsiębiorcy, niezależnie od ich formy i źródła."
+      "content": "Pomoc podlega kumulacji zgodnie z art. 5 rozporządzenia nr 1407/2013."
     },
     {
       "provision_ref": "par12u2",
@@ -181,7 +205,7 @@
       "provision_ref": "par13",
       "section": "13",
       "title": "§ 13",
-      "content": "Przedsiębiorca składa wniosek do funduszu rozwoju obszarów miejskich. Wniosek zawiera: nazwę przedsiębiorcy; nazwę i miejsce realizacji inwestycji; cel realizacji inwestycji; opis inwestycji; opis rezultatów inwestycji; planowane daty rozpoczęcia i zakończenia realizacji inwestycji; wartość inwestycji; wydatki kwalifikujące się do objęcia pomocą; wnioskowaną kwotę pożyczki albo poręczenia; źródła finansowania inwestycji; inne informacje, wskazane przez fundusz rozwoju obszarów miejskich, niezbędne do dokonania oceny wniosku. Do wniosku przedsiębiorca załącza: zaświadczenia albo oświadczenie, o których mowa w art. 37 ust. 1 pkt 1 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej ) , dotyczące bieżącego roku podatkowego i dwóch poprzednich lat podatkowych; informacje, o których mowa w art. 37 ust. 1 pkt 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej . Fundusz rozwoju obszarów miejskich przeprowadza ocenę wniosku w oparciu o warunki odnoszące się do: zakresu inwestycji wynikającego z § 4 i § 6; wydatków kwalifikujących się do objęcia pomocą, o których mowa w § 9; kumulacji i maksymalnych intensywności pomocy, o których mowa w § 12. Pomoc może zostać udzielona, na podstawie umowy, przedsiębiorcy, którego wniosek spełnia warunki, o których mowa w ust. 4."
+      "content": "Przedsiębiorca składa wniosek do funduszu rozwoju obszarów miejskich. Wniosek zawiera: nazwę przedsiębiorcy; nazwę i miejsce realizacji inwestycji; cel realizacji inwestycji; opis inwestycji; opis rezultatów inwestycji; planowane daty rozpoczęcia i zakończenia realizacji inwestycji; wartość inwestycji; wydatki kwalifikujące się do objęcia pomocą; wnioskowaną kwotę pożyczki albo poręczenia; źródła finansowania inwestycji; inne informacje, wskazane przez fundusz rozwoju obszarów miejskich, niezbędne do dokonania oceny wniosku. Do wniosku przedsiębiorca załącza: zaświadczenia albo oświadczenia, o których mowa w art. 37 ust. 1 pkt 1 oraz ust. 2 pkt 1 i 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej , dotyczące bieżącego roku podatkowego i dwóch poprzednich lat podatkowych; informacje, o których mowa w art. 37 ust. 1 pkt 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej . Fundusz rozwoju obszarów miejskich przeprowadza ocenę wniosku w oparciu o warunki odnoszące się do: zakresu inwestycji wynikającego z § 4 i § 6; wydatków kwalifikujących się do objęcia pomocą, o których mowa w § 9; kumulacji i maksymalnych intensywności pomocy, o których mowa w § 12. Pomoc może zostać udzielona, na podstawie umowy, przedsiębiorcy, którego wniosek spełnia warunki, o których mowa w ust. 4."
     },
     {
       "provision_ref": "par13u1",
@@ -256,10 +280,10 @@
       "content": "Wniosek zawiera: inne informacje, wskazane przez fundusz rozwoju obszarów miejskich, niezbędne do dokonania oceny wniosku."
     },
     {
-      "provision_ref": "par13u3p1",
+      "provision_ref": "par13u3p11",
       "section": "13",
-      "title": "§ 13 ust. 3 pkt 1",
-      "content": "Do wniosku przedsiębiorca załącza: zaświadczenia albo oświadczenie, o których mowa w art. 37 ust. 1 pkt 1 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej ) , dotyczące bieżącego roku podatkowego i dwóch poprzednich lat podatkowych;"
+      "title": "§ 13 ust. 3 pkt 11",
+      "content": "Do wniosku przedsiębiorca załącza: zaświadczenia albo oświadczenia, o których mowa w art. 37 ust. 1 pkt 1 oraz ust. 2 pkt 1 i 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej , dotyczące bieżącego roku podatkowego i dwóch poprzednich lat podatkowych;"
     },
     {
       "provision_ref": "par13u3p2",
@@ -295,23 +319,55 @@
       "provision_ref": "par14",
       "section": "14",
       "title": "§ 14",
-      "content": "Pomoc jest udzielana do dnia 30 czerwca 2014 r."
+      "content": "Pomoc jest udzielana do dnia 31 marca 2017 r."
     },
     {
       "provision_ref": "par15",
       "section": "15",
       "title": "§ 15",
-      "content": "Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia."
+      "content": "Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia 13) Rozporządzenie zostało ogłoszone w dniu 9 grudnia 2013 r. ."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2009-712",
+      "target_document_id": "pl-du-2016-296",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2014-1720",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2015-1001",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2015-1981",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2016-383",
       "ref_type": "references"
     },
     {
       "target_document_id": "pl-du-2007-404",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2008-585",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2010-99",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2011-1381",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2015-1830",
       "ref_type": "references"
     }
   ]

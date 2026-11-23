@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2018/126",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -19,7 +25,7 @@
       "provision_ref": "par2",
       "section": "2",
       "title": "§ 2",
-      "content": "Ilekroć w rozporządzeniu jest mowa o: podpisie elektronicznym - należy przez to rozumieć kwalifikowany podpis elektroniczny albo inny podpis elektroniczny oparty na danych identyfikujących podpisującego, zgodny z umową stron, a w przypadku dokumentów wewnętrznych spółdzielczej kasy oszczędnościowo-kredytowej, zwanej dalej „kasą”, zgodny z jej uregulowaniami wewnętrznymi; integralności - należy przez to rozumieć właściwość polegającą na tym, że zawartość dokumentu nie uległa zmianie od chwili jego utworzenia."
+      "content": "Ilekroć w rozporządzeniu jest mowa o: podpisie elektronicznym - należy przez to rozumieć kwalifikowany podpis elektroniczny albo inny podpis elektroniczny oparty na danych identyfikujących podpisującego, zgodny z umową stron, a w przypadku dokumentów wewnętrznych spółdzielczej kasy oszczędnościowo-kredytowej, zwanej dalej „kasą”, zgodny z jej uregulowaniami wewnętrznymi; integralności - należy przez to rozumieć właściwość polegającą na tym, że zawartość dokumentu nie uległa zmianie od chwili jego utworzenia; pieczęci elektronicznej - należy przez to rozumieć kwalifikowaną pieczęć elektroniczną albo inną pieczęć elektroniczną w rozumieniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 z dnia 23 lipca 2014 r. w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym oraz uchylającego dyrektywę 1999/93/WE zgodną z umową stron, a w przypadku dokumentów wewnętrznych kasy zgodną z jej przepisami wewnętrznymi."
     },
     {
       "provision_ref": "par2p1",
@@ -31,13 +37,19 @@
       "provision_ref": "par2p2",
       "section": "2",
       "title": "§ 2 pkt 2",
-      "content": "Ilekroć w rozporządzeniu jest mowa o: integralności - należy przez to rozumieć właściwość polegającą na tym, że zawartość dokumentu nie uległa zmianie od chwili jego utworzenia."
+      "content": "Ilekroć w rozporządzeniu jest mowa o: integralności - należy przez to rozumieć właściwość polegającą na tym, że zawartość dokumentu nie uległa zmianie od chwili jego utworzenia;"
+    },
+    {
+      "provision_ref": "par2p1",
+      "section": "2",
+      "title": "§ 2 pkt 1",
+      "content": "Ilekroć w rozporządzeniu jest mowa o: pieczęci elektronicznej - należy przez to rozumieć kwalifikowaną pieczęć elektroniczną albo inną pieczęć elektroniczną w rozumieniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 z dnia 23 lipca 2014 r. w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym oraz uchylającego dyrektywę 1999/93/WE zgodną z umową stron, a w przypadku dokumentów wewnętrznych kasy zgodną z jej przepisami wewnętrznymi."
     },
     {
       "provision_ref": "par3",
       "section": "3",
       "title": "§ 3",
-      "content": "Utworzenie i utrwalenie następuje przez zapisanie w dokumencie elektronicznym danych związanych z jedną lub wieloma czynnościami kas oraz jego opatrzenie podpisem elektronicznym."
+      "content": "Utworzenie i utrwalenie następuje przez zapisanie w dokumencie elektronicznym danych związanych z jedną czynnością lub wieloma czynnościami kas oraz jego opatrzenie podpisem elektronicznym albo pieczęcią elektroniczną."
     },
     {
       "provision_ref": "par4",
@@ -49,13 +61,19 @@
       "provision_ref": "par5",
       "section": "5",
       "title": "§ 5",
-      "content": "Dokument przechowuje się w sposób gwarantujący nienaruszalność jego integralności, zapewniający możliwość odczytania zawartych w nim informacji przez cały okres jego przechowywania oraz możliwość weryfikacji podpisu elektronicznego, którym ten dokument został opatrzony. Jeżeli okres trwałości zapisu na informatycznym nośniku danych określony przez producenta tego nośnika jest krótszy od wymaganego okresu przechowywania dokumentu, wówczas utrwalony na nośniku dokument należy przenieść na inny informatyczny nośnik danych przed upływem gwarantowanego przez producenta okresu trwałości zapisu. Informatyczny nośnik, z którego przeniesiono zapis, podlega modyfikacji w celu uniemożliwienia odtworzenia dokumentu. Po upływie wymaganego okresu przechowywania dokument zostaje usunięty z informatycznego nośnika danych w sposób nieodwracalny. W przypadku upływu wymaganego okresu przechowywania wszystkich dokumentów utrwalonych na informatycznym nośniku danych, nośnik ten podlega modyfikacji w celu uniemożliwienia odtworzenia tych dokumentów."
+      "content": "Dokument przechowuje się w sposób zapewniający jego integralność przez cały okres przechowywania, gwarantujący przez cały okres jego przechowywania możliwość odczytywania zawartych w nim danych oraz możliwość weryfikacji podpisu elektronicznego lub pieczęci elektronicznej, którymi ten dokument został opatrzony. Dane zapisane w dokumentach mogą być gromadzone w bazie danych prowadzonej w systemie teleinformatycznym, która może mieć formę rozproszoną i zdecentralizowaną. System teleinformatyczny zapewnia bezpieczeństwo i integralność gromadzonych w niej danych. Jeżeli okres trwałości zapisu na informatycznym nośniku danych określony przez producenta tego nośnika jest krótszy od wymaganego okresu przechowywania dokumentu, wówczas utrwalony na nośniku dokument należy przenieść na inny informatyczny nośnik danych przed upływem gwarantowanego przez producenta okresu trwałości zapisu. Informatyczny nośnik, z którego przeniesiono zapis, podlega modyfikacji w celu uniemożliwienia odtworzenia dokumentu. Po upływie wymaganego okresu przechowywania dokument zostaje usunięty z informatycznego nośnika danych w sposób nieodwracalny. W przypadku upływu wymaganego okresu przechowywania wszystkich dokumentów utrwalonych na informatycznym nośniku danych, nośnik ten podlega modyfikacji w celu uniemożliwienia odtworzenia tych dokumentów."
     },
     {
       "provision_ref": "par5u1",
       "section": "5",
       "title": "§ 5 ust. 1",
-      "content": "Dokument przechowuje się w sposób gwarantujący nienaruszalność jego integralności, zapewniający możliwość odczytania zawartych w nim informacji przez cały okres jego przechowywania oraz możliwość weryfikacji podpisu elektronicznego, którym ten dokument został opatrzony."
+      "content": "Dokument przechowuje się w sposób zapewniający jego integralność przez cały okres przechowywania, gwarantujący przez cały okres jego przechowywania możliwość odczytywania zawartych w nim danych oraz możliwość weryfikacji podpisu elektronicznego lub pieczęci elektronicznej, którymi ten dokument został opatrzony."
+    },
+    {
+      "provision_ref": "par5u1a",
+      "section": "5",
+      "title": "§ 5 ust. 1a",
+      "content": "Dane zapisane w dokumentach mogą być gromadzone w bazie danych prowadzonej w systemie teleinformatycznym, która może mieć formę rozproszoną i zdecentralizowaną. System teleinformatyczny zapewnia bezpieczeństwo i integralność gromadzonych w niej danych."
     },
     {
       "provision_ref": "par5u2",
@@ -145,29 +163,37 @@
       "provision_ref": "par8",
       "section": "8",
       "title": "§ 8",
-      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia 5) Rozporządzenie zostało ogłoszone w dniu 16 stycznia 2018 r. ."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2017-2065",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2017-2486",
+      "target_document_id": "pl-du-2022-1037",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2017-2491",
+      "target_document_id": "pl-du-2023-1278",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2018-62",
+      "target_document_id": "pl-du-2023-1394",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2018-106",
+      "target_document_id": "pl-du-2023-1407",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1723",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1843",
       "ref_type": "references"
     }
   ]

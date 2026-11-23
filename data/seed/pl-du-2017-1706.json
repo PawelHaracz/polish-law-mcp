@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2017/1706",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 września 2022 r."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -127,7 +133,25 @@
       "provision_ref": "par7",
       "section": "7",
       "title": "§ 7",
-      "content": "Na terenie zakładów poprawczych i schronisk dla nieletnich używanie wyrobów tytoniowych jest dopuszczone tylko w palarni wyznaczonej przez dyrektora zakładu poprawczego lub schroniska dla nieletnich poza szkołą, pomieszczeniami mieszkalnymi, pomieszczeniami higieniczno-sanitarnymi, izbami przejściowymi, izbami izolacyjnymi oraz terenami i urządzeniami do zajęć rekreacyjnych i sportowych - w czasie wyznaczonym przez dyrektora zakładu poprawczego lub schroniska dla nieletnich."
+      "content": "Na terenie okręgowych ośrodków wychowawczych, zakładów poprawczych oraz schronisk dla nieletnich używanie wyrobów tytoniowych jest dopuszczone w określonym czasie poza szkołą, pomieszczeniami mieszkalnymi, pomieszczeniami higieniczno-sanitarnymi, izbami przejściowymi, izbami izolacyjnymi oraz terenami i urządzeniami do zajęć rekreacyjnych i sportowych - wyłącznie w palarni wyznaczonej przez dyrektora: okręgowego ośrodka wychowawczego; zakładu poprawczego; schroniska dla nieletnich."
+    },
+    {
+      "provision_ref": "par7p1",
+      "section": "7",
+      "title": "§ 7 pkt 1",
+      "content": "Na terenie okręgowych ośrodków wychowawczych, zakładów poprawczych oraz schronisk dla nieletnich używanie wyrobów tytoniowych jest dopuszczone w określonym czasie poza szkołą, pomieszczeniami mieszkalnymi, pomieszczeniami higieniczno-sanitarnymi, izbami przejściowymi, izbami izolacyjnymi oraz terenami i urządzeniami do zajęć rekreacyjnych i sportowych - wyłącznie w palarni wyznaczonej przez dyrektora: okręgowego ośrodka wychowawczego;"
+    },
+    {
+      "provision_ref": "par7p2",
+      "section": "7",
+      "title": "§ 7 pkt 2",
+      "content": "Na terenie okręgowych ośrodków wychowawczych, zakładów poprawczych oraz schronisk dla nieletnich używanie wyrobów tytoniowych jest dopuszczone w określonym czasie poza szkołą, pomieszczeniami mieszkalnymi, pomieszczeniami higieniczno-sanitarnymi, izbami przejściowymi, izbami izolacyjnymi oraz terenami i urządzeniami do zajęć rekreacyjnych i sportowych - wyłącznie w palarni wyznaczonej przez dyrektora: zakładu poprawczego;"
+    },
+    {
+      "provision_ref": "par7p3",
+      "section": "7",
+      "title": "§ 7 pkt 3",
+      "content": "Na terenie okręgowych ośrodków wychowawczych, zakładów poprawczych oraz schronisk dla nieletnich używanie wyrobów tytoniowych jest dopuszczone w określonym czasie poza szkołą, pomieszczeniami mieszkalnymi, pomieszczeniami higieniczno-sanitarnymi, izbami przejściowymi, izbami izolacyjnymi oraz terenami i urządzeniami do zajęć rekreacyjnych i sportowych - wyłącznie w palarni wyznaczonej przez dyrektora: schroniska dla nieletnich."
     },
     {
       "provision_ref": "par8",
@@ -157,29 +181,41 @@
       "provision_ref": "par9",
       "section": "9",
       "title": "§ 9",
-      "content": "Rozporządzenie wchodzi w życie z dniem 8 września 2017 r. 1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 20 czerwca 2011 r. w sprawie szczegółowych warunków używania wyrobów tytoniowych na terenie obiektów podlegających Ministrowi Sprawiedliwości oraz w środkach przewozu osób (Dz. U. poz. 795), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 10 ustawy z dnia 22 lipca 2016 r. o zmianie ustawy o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych (Dz. U. poz. 1331)."
+      "content": "Rozporządzenie wchodzi w życie z dniem 8 września 2017 r. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 20 czerwca 2011 r. w sprawie szczegółowych warunków używania wyrobów tytoniowych na terenie obiektów podlegających Ministrowi Sprawiedliwości oraz w środkach przewozu osób (Dz. U. poz. 795), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 10 ustawy z dnia 22 lipca 2016 r. o zmianie ustawy o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych (Dz. U. poz. 1331)."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2017-957",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2017-665",
+      "target_document_id": "pl-du-2022-1839",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2017-666",
+      "target_document_id": "pl-du-2023-700",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2017-768",
+      "target_document_id": "pl-du-2023-127",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2017-1452",
+      "target_document_id": "pl-du-2022-2600",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-818",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1606",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1860",
       "ref_type": "references"
     }
   ]

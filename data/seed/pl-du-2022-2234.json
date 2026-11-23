@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2022/2234",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 lipca 2023 r."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -19,33 +25,21 @@
       "provision_ref": "par2",
       "section": "2",
       "title": "§ 2",
-      "content": "Rozporządzenie wchodzi w życie z dniem 1 lipca 2023 r."
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 października 2023 r."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2020-2072",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2021-1080",
+      "target_document_id": "pl-du-2023-1188",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2021-1236",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-2022-655",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-2022-1259",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-2022-1933",
+      "target_document_id": "pl-du-2023-217",
       "ref_type": "references"
     }
   ]

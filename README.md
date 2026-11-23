@@ -55,9 +55,9 @@ check the repo root).
 [![CI](https://github.com/Ansvar-Systems/polish-law-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/Ansvar-Systems/polish-law-mcp/actions/workflows/ci.yml)
 [![Daily Data Check](https://github.com/Ansvar-Systems/polish-law-mcp/actions/workflows/check-updates.yml/badge.svg)](https://github.com/Ansvar-Systems/polish-law-mcp/actions/workflows/check-updates.yml)
 [![Database](https://img.shields.io/badge/database-pre--built-green)](docs/EU_INTEGRATION_GUIDE.md)
-[![Provisions](https://img.shields.io/badge/provisions-1%2C417%2C841-blue)](docs/EU_INTEGRATION_GUIDE.md)
+[![Provisions](https://img.shields.io/badge/provisions-1%2C463%2C410-blue)](docs/EU_INTEGRATION_GUIDE.md)
 
-Query **19,159 Polish acts** -- from Ustawa o ochronie danych osobowych (UODO/RODO) and Kodeks karny to Kodeks cywilny, Kodeks spółek handlowych, Kodeks pracy, and more -- directly from Claude, Cursor, or any MCP-compatible client.
+Query **20,791 Polish acts** -- from Ustawa o ochronie danych osobowych (UODO/RODO) and Kodeks karny to Kodeks cywilny, Kodeks spółek handlowych, Kodeks pracy, and more -- directly from Claude, Cursor, or any MCP-compatible client.
 
 If you're building legal tech, compliance tools, or doing Polish legal research, this is your verified reference database.
 
@@ -100,8 +100,8 @@ Once connected, just ask naturally:
 
 | Category | Count | Details |
 |----------|-------|---------|
-| **Acts (ustawy + rozporządzenia)** | 19,159 acts | 9,182 statutes/codes + 9,977 regulations; Dziennik Ustaw 1918-2026 from Sejm ELI API |
-| **Provisions** | 1,417,841 | Article aggregate + ustęp/punkt/litera/§ granularity, full-text searchable with FTS5 |
+| **Acts (ustawy + rozporządzenia)** | 20,791 acts | 9,343 statutes/codes + 11,448 regulations; Dziennik Ustaw 1918-2026 from Sejm ELI API |
+| **Provisions** | 1,463,410 | Article aggregate + ustęp/punkt/litera/§ granularity, full-text searchable with FTS5 |
 | **Case Law** | separate MCP | Polish case law (SN/NSA/TK) is a separate server over SAOS — see `HANDOFF-case-law-mcp.md` |
 | **Preparatory Works** | 43,312 documents | Premium tier -- druki sejmowe, rządowe projekty ustaw |
 | **Agency Guidance** | 10 documents | Premium tier -- UODO guidance |
@@ -169,7 +169,7 @@ Sejm ELI API (api.sejm.gov.pl) --> Parse --> SQLite --> FTS5 snippet() --> MCP r
 
 | Tool | Description |
 |------|-------------|
-| `search_legislation` | FTS5 full-text search across 1,417,841 provisions with BM25 ranking |
+| `search_legislation` | FTS5 full-text search across 1,463,410 provisions with BM25 ranking |
 | `get_provision` | Retrieve specific provision by Dz.U. identifier + article number |
 | `validate_citation` | Validate citation against database (zero-hallucination check) |
 | `build_legal_stance` | Aggregate citations from statutes, case law, preparatory works |
@@ -230,8 +230,8 @@ All content is sourced from authoritative Polish legal databases:
 | **Retrieval method** | Sejm ELI REST API (api.sejm.gov.pl) |
 | **Languages** | Polish (official language of law) |
 | **License** | Public domain (Sejm ELI open data) |
-| **Coverage** | 19,159 acts published in Dziennik Ustaw (1918-2026) |
-| **Last ingested** | 2026-08-02 |
+| **Coverage** | 20,791 acts published in Dziennik Ustaw (1918-2026) |
+| **Last ingested** | 2026-11-20 (Dziennik Ustaw through 2026-11-16) |
 
 > Figures above are a snapshot. The `about` and `list_sources` tools compute
 > coverage from the shipped database at query time, so they always report the
@@ -244,7 +244,7 @@ A [daily GitHub Actions workflow](.github/workflows/check-updates.yml) monitors 
 
 | Source | Check | Method |
 |--------|-------|--------|
-| **Statute amendments** | Sejm ELI API date comparison | All 19,159 acts checked |
+| **Statute amendments** | Sejm ELI API date comparison | All 20,791 acts checked |
 | **New statutes** | Dziennik Ustaw publications (90-day window) | Diffed against database |
 | **Preparatory works** | Sejm druki API (30-day window) | New texts detected |
 | **EU reference staleness** | Git commit timestamps | Flagged if >90 days old |
@@ -334,7 +334,7 @@ npm run census                    # Generate coverage census report
 
 - **Search Speed:** <100ms for most FTS5 queries
 - **Database Size:** ~2.2 GB (statutes + regulations)
-- **Reliability:** 100% ingestion success rate across 19,159 acts
+- **Reliability:** 100% ingestion success rate across 20,791 acts
 
 ---
 
@@ -356,7 +356,7 @@ Priority areas:
 ## Roadmap
 
 - [x] Core statute database with FTS5 search
-- [x] Full corpus ingestion (19,159 acts, 1,417,841 provisions) from Dziennik Ustaw 1918-2026
+- [x] Full corpus ingestion (20,791 acts, 1,463,410 provisions) from Dziennik Ustaw 1918-2026
 - [x] EU law integration tools
 - [x] Vercel Streamable HTTP deployment
 
@@ -380,7 +380,7 @@ If you use this MCP server in academic research:
   title = {Polish Law MCP Server: Production-Grade Legal Research Tool},
   year = {2026},
   url = {https://github.com/Ansvar-Systems/polish-law-mcp},
-  note = {19,159 Polish acts with 1,417,841 provisions from Dziennik Ustaw (1918-2026) and EU law cross-references}
+  note = {20,791 Polish acts with 1,463,410 provisions from Dziennik Ustaw (1918-2026) and EU law cross-references}
 }
 ```
 
@@ -427,7 +427,7 @@ text and the coverage analysis.
 
 We build AI-accelerated compliance and legal research tools for the European market. This MCP server started as our internal reference tool for Polish law -- turns out everyone building for the Polish and EU markets has the same research frustrations.
 
-So we're open-sourcing it. Navigating 19,159 acts in the Dziennik Ustaw shouldn't require a law degree.
+So we're open-sourcing it. Navigating 20,791 acts in the Dziennik Ustaw shouldn't require a law degree.
 
 **[ansvar.eu](https://ansvar.eu)** -- Stockholm, Sweden
 

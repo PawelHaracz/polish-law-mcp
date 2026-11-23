@@ -10,10 +10,16 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/873",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 1 pkt 2, który wchodzi w życie z dniem 1 października 2022 r."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
-      "content": "Rozporządzenie określa limit przyjęć na studia na kierunku „penitencjarystyka” dla funkcjonariuszy Służby Więziennej w służbie kandydackiej."
+      "content": "Rozporządzenie określa limit przyjęć na studia na kierunku „penitencjarystyka” dla funkcjonariuszy Służby Więziennej w służbie kandydackiej oraz na studia na kierunku „bezpieczeństwo wewnętrzne” dla funkcjonariuszy Służby Więziennej w służbie stałej skierowanych na studia przez właściwego przełożonego."
     },
     {
       "provision_ref": "par2",
@@ -22,16 +28,36 @@
       "content": "Ustala się limit przyjęć na studia na kierunku „penitencjarystyka” dla funkcjonariuszy Służby Więziennej w służbie kandydackiej w liczbie 50 miejsc."
     },
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Ustala się limit przyjęć na studia na kierunku „penitencjarystyka” dla funkcjonariuszy Służby Więziennej w służbie kandydackiej w liczbie 60 miejsc."
+    },
+    {
+      "provision_ref": "par2a",
+      "section": "2a",
+      "title": "§ 2a",
+      "content": "Ustala się limit przyjęć na studia na kierunku „bezpieczeństwo wewnętrzne” dla funkcjonariuszy Służby Więziennej w służbie stałej skierowanych na studia przez właściwego przełożonego w liczbie 60 miejsc."
+    },
+    {
       "provision_ref": "par3",
       "section": "3",
       "title": "§ 3",
-      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia 6) Rozporządzenie zostało ogłoszone w dniu 10 maja 2019 r. ."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2018-1668",
+      "target_document_id": "pl-du-2019-1461",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1897",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-574",
       "ref_type": "references"
     }
   ]

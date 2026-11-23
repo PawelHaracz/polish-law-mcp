@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/329",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 listopada 2021 r."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -283,7 +289,7 @@
       "provision_ref": "par6",
       "section": "6",
       "title": "§ 6",
-      "content": "Sprawozdanie z działalności brokerskiej składa się z wykorzystaniem bezpłatnego formularza elektronicznego udostępnionego na stronie internetowej organu nadzoru. Organ nadzoru udostępnia, na swojej stronie internetowej w Biuletynie Informacji Publicznej, adres elektroniczny, pod którym udostępniony jest formularz elektroniczny, o którym mowa w ust. 1. Sprawozdanie z działalności brokerskiej jest przedstawiane przez: brokera albo przez osobę uprawnioną - w przypadku brokera będącego osobą fizyczną; osobę uprawnioną - w przypadku brokera będącego osobą prawną. Broker będący osobą fizyczną może przekazać do organu nadzoru informację o osobach uprawnionych do składania sprawozdania z działalności brokerskiej, obejmującą dane identyfikujące brokera oraz dane osobowe osoby uprawnionej, o których mowa w art. 59 ust. 1 pkt 2 lit. a i b ustawy. Broker będący osobą prawną przekazuje do organu nadzoru informację o osobach uprawnionych do składania sprawozdania z działalności brokerskiej, obejmującą dane identyfikujące brokera oraz dane osobowe osoby uprawnionej, o których mowa w art. 59 ust. 1 pkt 2 lit. a i b ustawy. Złożenie sprawozdania z działalności brokerskiej następuje po uwierzytelnieniu brokera lub osoby uprawnionej za pomocą profilu zaufanego, o którym mowa w ustawie z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne . Broker lub osoba uprawniona, która nie posiada danych wymaganych do uzyskania profilu zaufanego, może złożyć sprawozdanie z działalności brokerskiej w formie pisemnej z wykorzystaniem formularza elektronicznego, o którym mowa w ust. 1, w postaci wydruku."
+      "content": "Sprawozdanie z działalności brokerskiej składa się z wykorzystaniem bezpłatnego formularza elektronicznego udostępnionego na stronie internetowej organu nadzoru. Organ nadzoru udostępnia, na swojej stronie internetowej w Biuletynie Informacji Publicznej, adres elektroniczny, pod którym udostępniony jest formularz elektroniczny, o którym mowa w ust. 1. Sprawozdanie z działalności brokerskiej jest przedstawiane przez: brokera albo przez osobę uprawnioną - w przypadku brokera będącego osobą fizyczną; osobę uprawnioną - w przypadku brokera będącego osobą prawną. Broker będący osobą fizyczną może przekazać do organu nadzoru informację o osobach uprawnionych do składania sprawozdania z działalności brokerskiej, obejmującą dane identyfikujące brokera oraz dane osobowe osoby uprawnionej, o których mowa w art. 59 ust. 1 pkt 2 lit. a i b ustawy. Broker będący osobą prawną przekazuje do organu nadzoru informację o osobach uprawnionych do składania sprawozdania z działalności brokerskiej, obejmującą dane identyfikujące brokera oraz dane osobowe osoby uprawnionej, o których mowa w art. 59 ust. 1 pkt 2 lit. a i b ustawy. Złożenie sprawozdania z działalności brokerskiej następuje po uwierzytelnieniu brokera lub osoby uprawnionej za pomocą środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej, o którym mowa w ustawie z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej . Broker lub osoba uprawniona, która nie posiada danych wymaganych do uzyskania środka identyfikacji elektronicznej, o którym mowa w ust. 6, składa sprawozdanie z działalności brokerskiej w formie pisemnej w postaci wydruku formularza, o którym mowa w ust. 1, opatrzone własnoręcznym podpisem."
     },
     {
       "provision_ref": "par6u1",
@@ -325,13 +331,13 @@
       "provision_ref": "par6u6",
       "section": "6",
       "title": "§ 6 ust. 6",
-      "content": "Złożenie sprawozdania z działalności brokerskiej następuje po uwierzytelnieniu brokera lub osoby uprawnionej za pomocą profilu zaufanego, o którym mowa w ustawie z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne ."
+      "content": "Złożenie sprawozdania z działalności brokerskiej następuje po uwierzytelnieniu brokera lub osoby uprawnionej za pomocą środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej, o którym mowa w ustawie z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej ."
     },
     {
       "provision_ref": "par6u7",
       "section": "6",
       "title": "§ 6 ust. 7",
-      "content": "Broker lub osoba uprawniona, która nie posiada danych wymaganych do uzyskania profilu zaufanego, może złożyć sprawozdanie z działalności brokerskiej w formie pisemnej z wykorzystaniem formularza elektronicznego, o którym mowa w ust. 1, w postaci wydruku."
+      "content": "Broker lub osoba uprawniona, która nie posiada danych wymaganych do uzyskania środka identyfikacji elektronicznej, o którym mowa w ust. 6, składa sprawozdanie z działalności brokerskiej w formie pisemnej w postaci wydruku formularza, o którym mowa w ust. 1, opatrzone własnoręcznym podpisem."
     },
     {
       "provision_ref": "par7",
@@ -343,37 +349,25 @@
       "provision_ref": "par8",
       "section": "8",
       "title": "§ 8",
-      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia 3) Rozporządzenie zostało ogłoszone w dniu 20 lutego 2019 r. ."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2018-2210",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2018-2243",
+      "target_document_id": "pl-du-2021-1963",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2017-570",
+      "target_document_id": "pl-du-2022-905",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2018-1000",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-2018-1544",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-2018-1669",
-      "ref_type": "references"
-    },
-    {
-      "target_document_id": "pl-du-2019-60",
+      "target_document_id": "pl-du-2021-1797",
       "ref_type": "references"
     }
   ]

@@ -10,10 +10,16 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2013/1276",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
-      "content": "Rozporządzenie określa: wyroby akcyzowe, w przypadku których podatnicy mogą stosować okres rozliczeniowy dłuższy niż wymieniony w art. 21 ust. 9 oraz w art. 21a ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym ; termin składania deklaracji dla podatku akcyzowego od wyrobów węglowych; termin wpłaty podatku akcyzowego od wyrobów węglowych."
+      "content": "Rozporządzenie określa: wyroby akcyzowe, w przypadku których podatnicy mogą stosować okres rozliczeniowy dłuższy niż wymieniony w art. 21 ust. 9 oraz w art. 21a ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym ; termin składania deklaracji w sprawie podatku akcyzowego od wyrobów węglowych; termin wpłaty podatku akcyzowego od wyrobów węglowych."
     },
     {
       "provision_ref": "par1p1",
@@ -25,7 +31,7 @@
       "provision_ref": "par1p2",
       "section": "1",
       "title": "§ 1 pkt 2",
-      "content": "Rozporządzenie określa: termin składania deklaracji dla podatku akcyzowego od wyrobów węglowych;"
+      "content": "Rozporządzenie określa: termin składania deklaracji w sprawie podatku akcyzowego od wyrobów węglowych;"
     },
     {
       "provision_ref": "par1p3",
@@ -43,7 +49,7 @@
       "provision_ref": "par3",
       "section": "3",
       "title": "§ 3",
-      "content": "Deklarację dla podatku akcyzowego od wyrobów węglowych „AKC-WW” składa się za kwartalny okres rozliczeniowy w terminie do 25. dnia przypadającego w drugim miesiącu po kwartale, w którym powstał obowiązek podatkowy."
+      "content": "Deklarację w sprawie podatku akcyzowego od wyrobów węglowych (AKC-WW/AKC-WWn) składa się za kwartalny okres rozliczeniowy w terminie do 25. dnia przypadającego w drugim miesiącu po kwartale, w którym powstał obowiązek podatkowy."
     },
     {
       "provision_ref": "par4",
@@ -55,13 +61,29 @@
       "provision_ref": "par5",
       "section": "5",
       "title": "§ 5",
-      "content": "Rozporządzenie wchodzi w życie z dniem 1 listopada 2013 r. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 17 czerwca 2013 r. w sprawie wyrobów akcyzowych, w przypadku których podatnicy mogą stosować kwartalny okres rozliczeniowy (Dz. U. poz. 718), które traci moc z dniem wejścia w życie ustawy z dnia 27 września 2013 r. o zmianie ustawy o podatku akcyzowym (Dz. U. poz. 1231)."
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 listopada 2013 r. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 17 czerwca 2013 r. w sprawie wyrobów akcyzowych, w przypadku których podatnicy mogą stosować kwartalny okres rozliczeniowy (Dz. U. poz. 718), które utraciło moc z dniem wejścia w życie ustawy z dnia 27 września 2013 r. o zmianie ustawy o podatku akcyzowym (Dz. U. poz. 1231)."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2011-626",
+      "target_document_id": "pl-du-2019-1461",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-2792",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1542",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1598",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-1723",
       "ref_type": "references"
     }
   ]

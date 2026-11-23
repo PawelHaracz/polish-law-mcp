@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2012/731",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -181,13 +187,21 @@
       "provision_ref": "par10",
       "section": "10",
       "title": "§ 10",
-      "content": "Rozporządzenie wchodzi w życie z dniem 1 lipca 2012 r. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia i Opieki Społecznej z dnia 30 grudnia 1998 r. w sprawie sposobu i trybu kierowania osób do zakładów opiekuńczo-leczniczych i pielęgnacyjno-opiekuńczych oraz szczegółowych zasad ustalania odpłatności za pobyt w tych zakładach (Dz. U. Nr 166, poz. 1265), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 219 ust. 1 pkt 14 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. Nr 112, poz. 654, Nr 149, poz. 887, Nr 174, poz. 1039 i Nr 185, poz. 1092)."
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 lipca 2012 r. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia i Opieki Społecznej z dnia 30 grudnia 1998 r. w sprawie sposobu i trybu kierowania osób do zakładów opiekuńczo-leczniczych i pielęgnacyjno-opiekuńczych oraz szczegółowych zasad ustalania odpłatności za pobyt w tych zakładach (Dz. U. poz. 1265), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 219 ust. 1 pkt 14 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. poz. 654, 887, 1039 i 1092)."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2008-1027",
+      "target_document_id": "pl-du-2019-1461",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2019-2060",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1285",
       "ref_type": "references"
     },
     {

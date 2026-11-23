@@ -10,6 +10,18 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2017/840",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+    },
+    {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -31,7 +43,7 @@
       "provision_ref": "par2",
       "section": "2",
       "title": "§ 2",
-      "content": "W biurze Krajowego Ośrodka, zwanym dalej „Centralą”, wydziela się piony: innowacji i rozwoju; gospodarowania nieruchomościami; rynków rolnych; nadzoru nad spółkami; finansowo-administracyjny; operacyjny. Działalność pionu koordynuje Dyrektor Generalny lub wskazany przez niego zastępca. W poszczególnych pionach wydziela się departamenty, biura, zespoły lub samodzielne stanowiska pracy. W skład departamentów i biur, o których mowa w ust. 3, wchodzą wydziały i samodzielne stanowiska pracy."
+      "content": "W biurze Krajowego Ośrodka, zwanym dalej „Centralą”, wydziela się piony: innowacji i rozwoju; gospodarowania nieruchomościami; rynków rolnych; nadzoru nad spółkami; finansowo-administracyjny; operacyjny. Działalność pionu koordynuje Dyrektor Generalny lub wskazany przez niego zastępca. W poszczególnych pionach wydziela się departamenty, biura, zespoły lub samodzielne stanowiska pracy oraz biura zagraniczne. W skład departamentów i biur, o których mowa w ust. 3, wchodzą wydziały i samodzielne stanowiska pracy. Biura zagraniczne są komórkami organizacyjnymi Centrali prowadzonymi poza granicami kraju w celu wykonywania zadań ustawowych Krajowego Ośrodka."
     },
     {
       "provision_ref": "par2u1p1",
@@ -79,13 +91,19 @@
       "provision_ref": "par2u3",
       "section": "2",
       "title": "§ 2 ust. 3",
-      "content": "W poszczególnych pionach wydziela się departamenty, biura, zespoły lub samodzielne stanowiska pracy."
+      "content": "W poszczególnych pionach wydziela się departamenty, biura, zespoły lub samodzielne stanowiska pracy oraz biura zagraniczne."
     },
     {
       "provision_ref": "par2u4",
       "section": "2",
       "title": "§ 2 ust. 4",
       "content": "W skład departamentów i biur, o których mowa w ust. 3, wchodzą wydziały i samodzielne stanowiska pracy."
+    },
+    {
+      "provision_ref": "par2u5",
+      "section": "2",
+      "title": "§ 2 ust. 5",
+      "content": "Biura zagraniczne są komórkami organizacyjnymi Centrali prowadzonymi poza granicami kraju w celu wykonywania zadań ustawowych Krajowego Ośrodka."
     },
     {
       "provision_ref": "par3",
@@ -109,7 +127,7 @@
       "provision_ref": "par4",
       "section": "4",
       "title": "§ 4",
-      "content": "Siedzibami oddziałów terenowych Krajowego Ośrodka są: Wrocław - dla województwa dolnośląskiego; Bydgoszcz - dla województwa kujawsko-pomorskiego; Lublin - dla województwa lubelskiego; Gorzów Wielkopolski - dla województwa lubuskiego; Łódź - dla województwa łódzkiego; Kraków - dla województwa małopolskiego; Warszawa - dla województwa mazowieckiego; Opole - dla województwa opolskiego; Rzeszów - dla województwa podkarpackiego; Białystok - dla województwa podlaskiego; Pruszcz Gdański - dla województwa pomorskiego; Mikołów - dla województwa śląskiego; Kielce - dla województwa świętokrzyskiego; Olsztyn - dla województwa warmińsko-mazurskiego; Poznań - dla województwa wielkopolskiego; Koszalin - dla oddziału terenowego, którego zasięg terytorialny obejmuje powiaty: białogardzki, drawski, kołobrzeski, Koszalin - miasto na prawach powiatu, koszaliński, sławieński, szczecinecki i świdwiński w województwie zachodniopomorskim; Szczecin - dla oddziału terenowego, którego zasięg terytorialny obejmuje powiaty: choszczeński, goleniowski, gryficki, gryfiński, kamieński, łobeski, myśliborski, policki, pyrzycki, stargardzki, Szczecin - miasto na prawach powiatu, Świnoujście - miasto na prawach powiatu i wałecki w województwie zachodniopomorskim."
+      "content": "Siedzibami oddziałów terenowych Krajowego Ośrodka są: Wrocław - dla województwa dolnośląskiego; Bydgoszcz - dla województwa kujawsko-pomorskiego; Lublin - dla województwa lubelskiego; Gorzów Wielkopolski - dla województwa lubuskiego; Łódź - dla województwa łódzkiego; Kraków - dla województwa małopolskiego; Warszawa - dla województwa mazowieckiego; Opole - dla województwa opolskiego; Rzeszów - dla województwa podkarpackiego; Białystok - dla województwa podlaskiego; Pruszcz Gdański - dla województwa pomorskiego; Częstochowa - dla województwa śląskiego; Kielce - dla województwa świętokrzyskiego; Olsztyn - dla województwa warmińsko-mazurskiego; Poznań - dla województwa wielkopolskiego; Koszalin - dla oddziału terenowego, którego zasięg terytorialny obejmuje powiaty: białogardzki, drawski, kołobrzeski, Koszalin - miasto na prawach powiatu, koszaliński, sławieński, szczecinecki, świdwiński i wałecki w województwie zachodniopomorskim; Szczecin - dla oddziału terenowego, którego zasięg terytorialny obejmuje powiaty: choszczeński, goleniowski, gryficki, gryfiński, kamieński, łobeski, myśliborski, policki, pyrzycki, stargardzki, Szczecin - miasto na prawach powiatu i Świnoujście - miasto na prawach powiatu w województwie zachodniopomorskim."
     },
     {
       "provision_ref": "par4p1",
@@ -181,7 +199,7 @@
       "provision_ref": "par4p12",
       "section": "4",
       "title": "§ 4 pkt 12",
-      "content": "Siedzibami oddziałów terenowych Krajowego Ośrodka są: Mikołów - dla województwa śląskiego;"
+      "content": "Siedzibami oddziałów terenowych Krajowego Ośrodka są: Częstochowa - dla województwa śląskiego;"
     },
     {
       "provision_ref": "par4p13",
@@ -205,13 +223,13 @@
       "provision_ref": "par4p16",
       "section": "4",
       "title": "§ 4 pkt 16",
-      "content": "Siedzibami oddziałów terenowych Krajowego Ośrodka są: Koszalin - dla oddziału terenowego, którego zasięg terytorialny obejmuje powiaty: białogardzki, drawski, kołobrzeski, Koszalin - miasto na prawach powiatu, koszaliński, sławieński, szczecinecki i świdwiński w województwie zachodniopomorskim;"
+      "content": "Siedzibami oddziałów terenowych Krajowego Ośrodka są: Koszalin - dla oddziału terenowego, którego zasięg terytorialny obejmuje powiaty: białogardzki, drawski, kołobrzeski, Koszalin - miasto na prawach powiatu, koszaliński, sławieński, szczecinecki, świdwiński i wałecki w województwie zachodniopomorskim;"
     },
     {
       "provision_ref": "par4p17",
       "section": "4",
       "title": "§ 4 pkt 17",
-      "content": "Siedzibami oddziałów terenowych Krajowego Ośrodka są: Szczecin - dla oddziału terenowego, którego zasięg terytorialny obejmuje powiaty: choszczeński, goleniowski, gryficki, gryfiński, kamieński, łobeski, myśliborski, policki, pyrzycki, stargardzki, Szczecin - miasto na prawach powiatu, Świnoujście - miasto na prawach powiatu i wałecki w województwie zachodniopomorskim."
+      "content": "Siedzibami oddziałów terenowych Krajowego Ośrodka są: Szczecin - dla oddziału terenowego, którego zasięg terytorialny obejmuje powiaty: choszczeński, goleniowski, gryficki, gryfiński, kamieński, łobeski, myśliborski, policki, pyrzycki, stargardzki, Szczecin - miasto na prawach powiatu i Świnoujście - miasto na prawach powiatu w województwie zachodniopomorskim."
     },
     {
       "provision_ref": "par5",
@@ -277,13 +295,13 @@
       "provision_ref": "par9",
       "section": "9",
       "title": "§ 9",
-      "content": "Mienie wchodzące w skład Zasobu Własności Rolnej Skarbu Państwa, które nie zostało zagospodarowane w formach przewidzianych w ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2016 r. poz. 1491 i 2260 oraz z 2017 r. poz. 624), Krajowy Ośrodek zabezpiecza w taki sposób, aby nie uległo zniszczeniu, uszkodzeniu lub kradzieży. Niezagospodarowane obiekty budowlane mogą być także przeznaczone przez Krajowy Ośrodek na inne potrzeby niż wynikające z ich przeznaczenia, a w szczególnych przypadkach - zwłaszcza gdy przewidywane koszty zabezpieczenia tych obiektów przekraczają ich wartość - mogą być rozebrane. Niezagospodarowane mienie ruchome może być nieodpłatnie przekazane na własność muzeom lub innym jednostkom organizacyjnym na cele działalności dydaktycznej, oświatowo-wychowawczej, opiekuńczej lub charytatywnej albo - jeżeli nie przedstawia wartości użytkowej - zlikwidowane. Przepisy ust. 1-3 nie naruszają, przewidzianego w odrębnych przepisach, obowiązku uzyskania pozwoleń właściwych organów na dokonanie rozbiórki albo zgłoszenia rozbiórki właściwemu organowi oraz obowiązku uzyskania zezwoleń lub pozwoleń na likwidację w inny sposób poszczególnych składników mienia Zasobu Własności Rolnej Skarbu Państwa."
+      "content": "Mienie wchodzące w skład Zasobu Własności Rolnej Skarbu Państwa, które nie zostało zagospodarowane w formach przewidzianych w ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa , Krajowy Ośrodek zabezpiecza w taki sposób, aby nie uległo zniszczeniu, uszkodzeniu lub kradzieży. Niezagospodarowane obiekty budowlane mogą być także przeznaczone przez Krajowy Ośrodek na inne potrzeby niż wynikające z ich przeznaczenia, a w szczególnych przypadkach - zwłaszcza gdy przewidywane koszty zabezpieczenia tych obiektów przekraczają ich wartość - mogą być rozebrane. Niezagospodarowane mienie ruchome może być nieodpłatnie przekazane na własność muzeom, jednostkom sektora finansów publicznych lub państwowym osobom prawnym niebędącym jednostkami sektora finansów publicznych na cele ich działalności dydaktycznej, oświatowo-wychowawczej, opiekuńczej lub charytatywnej, a także na realizację zadań z zakresu polityki państwa, albo - jeżeli nie przedstawia wartości użytkowej - zlikwidowane. Przepisy ust. 1-3 nie naruszają, przewidzianego w odrębnych przepisach, obowiązku uzyskania pozwoleń właściwych organów na dokonanie rozbiórki albo zgłoszenia rozbiórki właściwemu organowi oraz obowiązku uzyskania zezwoleń lub pozwoleń na likwidację w inny sposób poszczególnych składników mienia Zasobu Własności Rolnej Skarbu Państwa."
     },
     {
       "provision_ref": "par9u1",
       "section": "9",
       "title": "§ 9 ust. 1",
-      "content": "Mienie wchodzące w skład Zasobu Własności Rolnej Skarbu Państwa, które nie zostało zagospodarowane w formach przewidzianych w ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2016 r. poz. 1491 i 2260 oraz z 2017 r. poz. 624), Krajowy Ośrodek zabezpiecza w taki sposób, aby nie uległo zniszczeniu, uszkodzeniu lub kradzieży."
+      "content": "Mienie wchodzące w skład Zasobu Własności Rolnej Skarbu Państwa, które nie zostało zagospodarowane w formach przewidzianych w ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa , Krajowy Ośrodek zabezpiecza w taki sposób, aby nie uległo zniszczeniu, uszkodzeniu lub kradzieży."
     },
     {
       "provision_ref": "par9u2",
@@ -295,7 +313,7 @@
       "provision_ref": "par9u3",
       "section": "9",
       "title": "§ 9 ust. 3",
-      "content": "Niezagospodarowane mienie ruchome może być nieodpłatnie przekazane na własność muzeom lub innym jednostkom organizacyjnym na cele działalności dydaktycznej, oświatowo-wychowawczej, opiekuńczej lub charytatywnej albo - jeżeli nie przedstawia wartości użytkowej - zlikwidowane."
+      "content": "Niezagospodarowane mienie ruchome może być nieodpłatnie przekazane na własność muzeom, jednostkom sektora finansów publicznych lub państwowym osobom prawnym niebędącym jednostkami sektora finansów publicznych na cele ich działalności dydaktycznej, oświatowo-wychowawczej, opiekuńczej lub charytatywnej, a także na realizację zadań z zakresu polityki państwa, albo - jeżeli nie przedstawia wartości użytkowej - zlikwidowane."
     },
     {
       "provision_ref": "par9u4",
@@ -307,7 +325,43 @@
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2017-623",
+      "target_document_id": "pl-du-2019-1461",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-2233",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-219",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1730",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-481",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2022-24",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-2243",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1561",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-1873",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-2388",
       "ref_type": "references"
     }
   ]

@@ -10,6 +10,18 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2015/247",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Protokoły z kontroli systemu ogrzewania lub systemu klimatyzacji sporządzone przed dniem wejścia w życie niniejszego rozporządzenia zachowują ważność do terminu następnej kontroli wskazanej w tych protokołach."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -37,11 +49,15 @@
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2014-1200",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2015-151",
+      "target_document_id": "pl-du-2019-1827",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-497",
       "ref_type": "references"
     }
   ]

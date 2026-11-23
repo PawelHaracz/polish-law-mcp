@@ -10,10 +10,28 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2014/826",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Do studiów podyplomowych w zakresie wyceny nieruchomości rozpoczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1, w brzmieniu dotychczasowym."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
       "content": "Określa się minimalne wymogi programowe dla studiów podyplomowych w zakresie wyceny nieruchomości, stanowiące załącznik do rozporządzenia."
+    },
+    {
+      "provision_ref": "par1a",
+      "section": "1a",
+      "title": "§ 1a",
+      "content": "Studia podyplomowe w zakresie wyceny nieruchomości trwają co najmniej dwa semestry."
     },
     {
       "provision_ref": "par2",
@@ -25,13 +43,21 @@
       "provision_ref": "par3",
       "section": "3",
       "title": "§ 3",
-      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 7 czerwca 2010 r. w sprawie minimalnych wymogów programowych dla studiów podyplomowych w zakresie wyceny nieruchomości, pośrednictwa w obrocie nieruchomościami oraz zarządzania nieruchomościami (Dz. U. Nr 117, poz. 786), które traci moc na podstawie art. 49 ust. 3 ustawy z dnia 13 czerwca 2013 r. o zmianie ustaw regulujących wykonywanie niektórych zawodów (Dz. U. poz. 829) z dniem wejścia w życie niniejszego rozporządzenia."
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia 4) Rozporządzenie zostało ogłoszone w dniu 24 czerwca 2014 r. . 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 7 czerwca 2010 r. w sprawie minimalnych wymogów programowych dla studiów podyplomowych w zakresie wyceny nieruchomości, pośrednictwa w obrocie nieruchomościami oraz zarządzania nieruchomościami (Dz. U. poz. 786), które utraciło moc na podstawie art. 49 ust. 3 ustawy z dnia 13 czerwca 2013 r. o zmianie ustaw regulujących wykonywanie niektórych zawodów (Dz. U. poz. 829) z dniem wejścia w życie niniejszego rozporządzenia."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2014-518",
+      "target_document_id": "pl-du-2019-1461",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-903",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2023-344",
       "ref_type": "references"
     }
   ]

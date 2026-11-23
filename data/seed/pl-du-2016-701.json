@@ -10,6 +10,12 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2016/701",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem 1 września 2017 r."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -19,13 +25,25 @@
       "provision_ref": "par2",
       "section": "2",
       "title": "§ 2",
-      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 10 lipca 2006 r. w sprawie wzoru imiennego upoważnienia do wykonywania czynności kontrolnych nad działalnością grup producentów rolnych (Dz. U. poz. 938), które na podstawie art. 10 ustawy z dnia 11 września 2015 r. o zmianie ustawy o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw oraz ustawy o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014-2020 (Dz. U. poz. 1888) traci moc z dniem wejścia w życie niniejszego rozporządzenia."
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia 2) Rozporządzenie zostało ogłoszone w dniu 24 maja 2016 r. . 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 10 lipca 2006 r. w sprawie wzoru imiennego upoważnienia do wykonywania czynności kontrolnych nad działalnością grup producentów rolnych (Dz. U. poz. 938), które na podstawie art. 10 ustawy z dnia 11 września 2015 r. o zmianie ustawy o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw oraz ustawy o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014-2020 (Dz. U. poz. 1888) utraciło moc z dniem wejścia w życie niniejszego rozporządzenia."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2000-983",
+      "target_document_id": "pl-du-2017-1523",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-2243",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2017-1614",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2018-1026",
       "ref_type": "references"
     }
   ]

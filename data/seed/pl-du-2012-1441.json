@@ -10,6 +10,18 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2012/1441",
   "provisions": [
     {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem ogłoszenia, z mocą od dnia 13 marca 2020 r."
+    },
+    {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+    },
+    {
       "provision_ref": "par1",
       "section": "1",
       "title": "§ 1",
@@ -79,7 +91,7 @@
       "provision_ref": "par3",
       "section": "3",
       "title": "§ 3",
-      "content": "Posiedzenia Krajowej Rady zwołuje przewodniczący Krajowej Rady co najmniej raz w miesiącu. Posiedzenia Krajowej Rady mogą być zwoływane również na pisemny wniosek co najmniej 3 członków Krajowej Rady; we wniosku określa się przedmiot posiedzenia Krajowej Rady. Zawiadomienie o posiedzeniu Krajowej Rady wraz z porządkiem obrad przekazuje się członkom Krajowej Rady oraz osobom uczestniczącym w posiedzeniu, o których mowa w art. 57 ust. 5 ustawy, co najmniej na 7 dni przed terminem posiedzenia. Pierwsze posiedzenie Krajowej Rady nowej kadencji zwołuje minister właściwy do spraw zdrowia i przewodniczy mu do czasu wyboru przewodniczącego Krajowej Rady."
+      "content": "Posiedzenia Krajowej Rady zwołuje przewodniczący Krajowej Rady co najmniej raz w miesiącu. Posiedzenia Krajowej Rady odbywają się w formie zdalnego trybu obradowania za pośrednictwem systemów teleinformatycznych lub systemów łączności zapewniających kontrolę ich przebiegu i umożliwiających zapewnienie tajności głosowań. Posiedzenia Krajowej Rady mogą być zwoływane również na wniosek co najmniej 3 członków Krajowej Rady, sporządzony w postaci dokumentu elektronicznego opatrzonego kwalifikowanym podpisem elektronicznym; we wniosku określa się przedmiot posiedzenia Krajowej Rady. Zawiadomienie o posiedzeniu Krajowej Rady wraz z porządkiem obrad przekazuje się w postaci elektronicznej członkom Krajowej Rady oraz osobom uczestniczącym w posiedzeniu, o których mowa w art. 57 ust. 5 ustawy, co najmniej na 7 dni przed terminem posiedzenia. Pierwsze posiedzenie Krajowej Rady nowej kadencji zwołuje minister właściwy do spraw zdrowia i przewodniczy mu do czasu wyboru przewodniczącego Krajowej Rady."
     },
     {
       "provision_ref": "par3u1",
@@ -91,18 +103,24 @@
       "provision_ref": "par3u2",
       "section": "3",
       "title": "§ 3 ust. 2",
-      "content": "Posiedzenia Krajowej Rady mogą być zwoływane również na pisemny wniosek co najmniej 3 członków Krajowej Rady; we wniosku określa się przedmiot posiedzenia Krajowej Rady."
+      "content": "Posiedzenia Krajowej Rady odbywają się w formie zdalnego trybu obradowania za pośrednictwem systemów teleinformatycznych lub systemów łączności zapewniających kontrolę ich przebiegu i umożliwiających zapewnienie tajności głosowań."
     },
     {
       "provision_ref": "par3u3",
       "section": "3",
       "title": "§ 3 ust. 3",
-      "content": "Zawiadomienie o posiedzeniu Krajowej Rady wraz z porządkiem obrad przekazuje się członkom Krajowej Rady oraz osobom uczestniczącym w posiedzeniu, o których mowa w art. 57 ust. 5 ustawy, co najmniej na 7 dni przed terminem posiedzenia."
+      "content": "Posiedzenia Krajowej Rady mogą być zwoływane również na wniosek co najmniej 3 członków Krajowej Rady, sporządzony w postaci dokumentu elektronicznego opatrzonego kwalifikowanym podpisem elektronicznym; we wniosku określa się przedmiot posiedzenia Krajowej Rady."
     },
     {
       "provision_ref": "par3u4",
       "section": "3",
       "title": "§ 3 ust. 4",
+      "content": "Zawiadomienie o posiedzeniu Krajowej Rady wraz z porządkiem obrad przekazuje się w postaci elektronicznej członkom Krajowej Rady oraz osobom uczestniczącym w posiedzeniu, o których mowa w art. 57 ust. 5 ustawy, co najmniej na 7 dni przed terminem posiedzenia."
+    },
+    {
+      "provision_ref": "par3u5",
+      "section": "3",
+      "title": "§ 3 ust. 5",
       "content": "Pierwsze posiedzenie Krajowej Rady nowej kadencji zwołuje minister właściwy do spraw zdrowia i przewodniczy mu do czasu wyboru przewodniczącego Krajowej Rady."
     },
     {
@@ -133,19 +151,19 @@
       "provision_ref": "par5",
       "section": "5",
       "title": "§ 5",
-      "content": "Krajowa Rada wydaje opinie i przedstawia wnioski w formie uchwał. Uchwały Krajowej Rady zapadają w głosowaniu jawnym zwykłą większością głosów w obecności co najmniej połowy ogólnej liczby członków. W razie równej liczby głosów decyduje głos przewodniczącego Krajowej Rady. Przewodniczący Krajowej Rady może zarządzić z własnej inicjatywy lub na wniosek co najmniej 3 członków Krajowej Rady głosowanie tajne. W głosowaniu nie uczestniczy członek Krajowej Rady, jeżeli uchwała dotyczy szkoły, której jest pracownikiem. Uchwała Krajowej Rady stanowi odrębny dokument, który zawiera: kolejny numer; datę podjęcia; podstawę prawną; rozstrzygnięcie wraz z uzasadnieniem; termin wejścia w życie; podpis osoby przewodniczącej posiedzeniu. Oryginały uchwał ewidencjonuje się w rejestrze uchwał i przechowuje wraz z protokołami określonymi w § 6 w urzędzie obsługującym ministra właściwego do spraw zdrowia."
+      "content": "Krajowa Rada wydaje opinie i przedstawia wnioski w formie uchwał sporządzonych w postaci dokumentu elektronicznego. Uchwała Krajowej Rady zostaje uznana za przyjętą, gdy wszyscy członkowie Krajowej Rady zostali powiadomieni o treści projektu uchwały oraz co najmniej połowa jej członków wzięła udział w podejmowaniu uchwały. W przypadku równej liczby głosów decyduje głos przewodniczącego Krajowej Rady. Przewodniczący Krajowej Rady może zarządzić z własnej inicjatywy lub na wniosek co najmniej 3 członków Krajowej Rady głosowanie tajne. W głosowaniu nie uczestniczy członek Krajowej Rady, jeżeli uchwała dotyczy szkoły, której jest pracownikiem. Uchwała Krajowej Rady stanowi odrębny dokument, który zawiera: kolejny numer; datę podjęcia; podstawę prawną; rozstrzygnięcie wraz z uzasadnieniem; termin wejścia w życie; kwalifikowany podpis elektroniczny osoby przewodniczącej posiedzeniu. Uchwały ewidencjonuje się w rejestrze uchwał i przechowuje się wraz z protokołami określonymi w § 6 w systemie elektronicznego zarządzania dokumentacją w urzędzie obsługującym ministra właściwego do spraw zdrowia."
     },
     {
       "provision_ref": "par5u1",
       "section": "5",
       "title": "§ 5 ust. 1",
-      "content": "Krajowa Rada wydaje opinie i przedstawia wnioski w formie uchwał."
+      "content": "Krajowa Rada wydaje opinie i przedstawia wnioski w formie uchwał sporządzonych w postaci dokumentu elektronicznego."
     },
     {
       "provision_ref": "par5u2",
       "section": "5",
       "title": "§ 5 ust. 2",
-      "content": "Uchwały Krajowej Rady zapadają w głosowaniu jawnym zwykłą większością głosów w obecności co najmniej połowy ogólnej liczby członków. W razie równej liczby głosów decyduje głos przewodniczącego Krajowej Rady."
+      "content": "Uchwała Krajowej Rady zostaje uznana za przyjętą, gdy wszyscy członkowie Krajowej Rady zostali powiadomieni o treści projektu uchwały oraz co najmniej połowa jej członków wzięła udział w podejmowaniu uchwały. W przypadku równej liczby głosów decyduje głos przewodniczącego Krajowej Rady."
     },
     {
       "provision_ref": "par5u3",
@@ -190,34 +208,34 @@
       "content": "Uchwała Krajowej Rady stanowi odrębny dokument, który zawiera: termin wejścia w życie;"
     },
     {
-      "provision_ref": "par5u5p6",
+      "provision_ref": "par5u5p4",
       "section": "5",
-      "title": "§ 5 ust. 5 pkt 6",
-      "content": "Uchwała Krajowej Rady stanowi odrębny dokument, który zawiera: podpis osoby przewodniczącej posiedzeniu."
+      "title": "§ 5 ust. 5 pkt 4",
+      "content": "Uchwała Krajowej Rady stanowi odrębny dokument, który zawiera: kwalifikowany podpis elektroniczny osoby przewodniczącej posiedzeniu."
     },
     {
       "provision_ref": "par5u6",
       "section": "5",
       "title": "§ 5 ust. 6",
-      "content": "Oryginały uchwał ewidencjonuje się w rejestrze uchwał i przechowuje wraz z protokołami określonymi w § 6 w urzędzie obsługującym ministra właściwego do spraw zdrowia."
+      "content": "Uchwały ewidencjonuje się w rejestrze uchwał i przechowuje się wraz z protokołami określonymi w § 6 w systemie elektronicznego zarządzania dokumentacją w urzędzie obsługującym ministra właściwego do spraw zdrowia."
     },
     {
       "provision_ref": "par6",
       "section": "6",
       "title": "§ 6",
-      "content": "Z posiedzenia Krajowej Rady sporządza się protokół. Protokół podpisuje osoba przewodnicząca posiedzeniu i sekretarz. Treść protokołu zatwierdza Krajowa Rada na najbliższym posiedzeniu. Protokół zawiera: kolejny numer; datę i miejsce posiedzenia; imię i nazwisko osoby przewodniczącej posiedzeniu; porządek posiedzenia; informację na temat przebiegu posiedzenia; wykaz przyjętych uchwał wraz z wynikami głosowania; zdania odrębne członków Krajowej Rady - w przypadku zgłoszenia. Do protokołu załącza się listę osób uczestniczących w posiedzeniu zawierającą imię i nazwisko danej osoby oraz jej podpis."
+      "content": "Z posiedzenia Krajowej Rady sporządza się protokół w postaci dokumentu elektronicznego. Osoba przewodnicząca posiedzeniu i sekretarz podpisują protokół, opatrując go kwalifikowanym podpisem elektronicznym. Treść protokołu zatwierdza Krajowa Rada na najbliższym posiedzeniu. Protokół zawiera: kolejny numer; datę i miejsce posiedzenia; imię i nazwisko osoby przewodniczącej posiedzeniu; porządek posiedzenia; informację na temat przebiegu posiedzenia; wykaz przyjętych uchwał wraz z wynikami głosowania; zdania odrębne członków Krajowej Rady - w przypadku zgłoszenia. Do protokołu załącza się, w postaci dokumentu elektronicznego, listę osób uczestniczących w posiedzeniu zawierającą imię i nazwisko danej osoby oraz jej kwalifikowany podpis elektroniczny."
     },
     {
       "provision_ref": "par6u1",
       "section": "6",
       "title": "§ 6 ust. 1",
-      "content": "Z posiedzenia Krajowej Rady sporządza się protokół."
+      "content": "Z posiedzenia Krajowej Rady sporządza się protokół w postaci dokumentu elektronicznego."
     },
     {
       "provision_ref": "par6u2",
       "section": "6",
       "title": "§ 6 ust. 2",
-      "content": "Protokół podpisuje osoba przewodnicząca posiedzeniu i sekretarz."
+      "content": "Osoba przewodnicząca posiedzeniu i sekretarz podpisują protokół, opatrując go kwalifikowanym podpisem elektronicznym."
     },
     {
       "provision_ref": "par6u3",
@@ -271,13 +289,13 @@
       "provision_ref": "par6u5",
       "section": "6",
       "title": "§ 6 ust. 5",
-      "content": "Do protokołu załącza się listę osób uczestniczących w posiedzeniu zawierającą imię i nazwisko danej osoby oraz jej podpis."
+      "content": "Do protokołu załącza się, w postaci dokumentu elektronicznego, listę osób uczestniczących w posiedzeniu zawierającą imię i nazwisko danej osoby oraz jej kwalifikowany podpis elektroniczny."
     },
     {
       "provision_ref": "par7",
       "section": "7",
       "title": "§ 7",
-      "content": "W celu przygotowania opinii i wniosków Krajowa Rada może powoływać komisje składające się z członków Krajowej Rady. Przewodniczący Krajowej Rady może, w zakresie zadań Krajowej Rady, zlecać członkom Krajowej Rady wykonywanie pisemnych ekspertyz oraz analiz. Osoba przewodnicząca posiedzeniu może, w zakresie spraw rozpatrywanych na posiedzeniu Krajowej Rady, zlecać członkom Krajowej Rady wykonywanie pisemnych ekspertyz oraz analiz."
+      "content": "W celu przygotowania opinii i wniosków Krajowa Rada może powoływać komisje składające się z członków Krajowej Rady. Przewodniczący Krajowej Rady może, w zakresie zadań Krajowej Rady, zlecać członkom Krajowej Rady wykonywanie ekspertyz oraz analiz, które będą przygotowywane w postaci dokumentu elektronicznego. Osoba przewodnicząca posiedzeniu może, w zakresie spraw rozpatrywanych na posiedzeniu Krajowej Rady, zlecać członkom Krajowej Rady wykonywanie ekspertyz oraz analiz, które będą przygotowywane w postaci dokumentu elektronicznego."
     },
     {
       "provision_ref": "par7u1",
@@ -289,19 +307,19 @@
       "provision_ref": "par7u2",
       "section": "7",
       "title": "§ 7 ust. 2",
-      "content": "Przewodniczący Krajowej Rady może, w zakresie zadań Krajowej Rady, zlecać członkom Krajowej Rady wykonywanie pisemnych ekspertyz oraz analiz."
+      "content": "Przewodniczący Krajowej Rady może, w zakresie zadań Krajowej Rady, zlecać członkom Krajowej Rady wykonywanie ekspertyz oraz analiz, które będą przygotowywane w postaci dokumentu elektronicznego."
     },
     {
       "provision_ref": "par7u3",
       "section": "7",
       "title": "§ 7 ust. 3",
-      "content": "Osoba przewodnicząca posiedzeniu może, w zakresie spraw rozpatrywanych na posiedzeniu Krajowej Rady, zlecać członkom Krajowej Rady wykonywanie pisemnych ekspertyz oraz analiz."
+      "content": "Osoba przewodnicząca posiedzeniu może, w zakresie spraw rozpatrywanych na posiedzeniu Krajowej Rady, zlecać członkom Krajowej Rady wykonywanie ekspertyz oraz analiz, które będą przygotowywane w postaci dokumentu elektronicznego."
     },
     {
       "provision_ref": "par8",
       "section": "8",
       "title": "§ 8",
-      "content": "Minister właściwy do spraw zdrowia podaje do publicznej wiadomości, w codziennej prasie o zasięgu ogólnokrajowym, ogłoszenie o naborze kandydatów na członków Krajowej Rady. Ogłoszenie o naborze kandydatów zawiera w szczególności: nazwę Krajowej Rady; określenie podmiotów, które mogą zgłosić kandydata; określenie zakresu zadań objętych działaniem Krajowej Rady; treść wniosku o zgłoszeniu kandydata; termin zgłaszania kandydatów; informację o skutkach niezgłoszenia kandydata w określonym terminie. Wniosek o zgłoszeniu kandydata zawiera: oznaczenie podmiotu zgłaszającego kandydata; dane dotyczące kandydata: imię i nazwisko, adres zamieszkania, wykształcenie, zawód, miejsce pracy i pełnione funkcje w podmiotach prowadzących kształcenie pielęgniarek i położnych; tytuł naukowy lub stopień naukowy kandydata; uzasadnienie zgłaszanej kandydatury; pisemną zgodę kandydata na kandydowanie."
+      "content": "Minister właściwy do spraw zdrowia podaje do publicznej wiadomości, w codziennej prasie o zasięgu ogólnokrajowym, ogłoszenie o naborze kandydatów na członków Krajowej Rady. Ogłoszenie o naborze kandydatów zawiera w szczególności: nazwę Krajowej Rady; określenie podmiotów, które mogą zgłosić kandydata; określenie zakresu zadań objętych działaniem Krajowej Rady; treść wniosku o zgłoszeniu kandydata; termin zgłaszania kandydatów; informację o skutkach niezgłoszenia kandydata w określonym terminie. Wniosek o zgłoszeniu kandydata zawiera: oznaczenie podmiotu zgłaszającego kandydata; dane dotyczące kandydata: imię i nazwisko, adres zamieszkania, wykształcenie, zawód, miejsce pracy i pełnione funkcje w podmiotach prowadzących kształcenie pielęgniarek i położnych; tytuł naukowy lub stopień naukowy kandydata; uzasadnienie zgłaszanej kandydatury; zgodę kandydata na kandydowanie."
     },
     {
       "provision_ref": "par8u1",
@@ -370,10 +388,10 @@
       "content": "Wniosek o zgłoszeniu kandydata zawiera: uzasadnienie zgłaszanej kandydatury;"
     },
     {
-      "provision_ref": "par8u3p5",
+      "provision_ref": "par8u3p9",
       "section": "8",
-      "title": "§ 8 ust. 3 pkt 5",
-      "content": "Wniosek o zgłoszeniu kandydata zawiera: pisemną zgodę kandydata na kandydowanie."
+      "title": "§ 8 ust. 3 pkt 9",
+      "content": "Wniosek o zgłoszeniu kandydata zawiera: zgodę kandydata na kandydowanie."
     },
     {
       "provision_ref": "par9",
@@ -445,13 +463,13 @@
       "provision_ref": "par11",
       "section": "11",
       "title": "§ 11",
-      "content": "Wszczęcie postępowania akredytacyjnego następuje na wniosek szkoły o przeprowadzenie oceny niezbędnej do udzielenia i utrzymania akredytacji, zwany dalej „wnioskiem”, składany odrębnie dla kierunku pielęgniarstwo albo położnictwo. Szkoła, która występuje po raz pierwszy o udzielenie akredytacji, składa wniosek nie później niż na 3 miesiące przed terminem rozpoczęcia rekrutacji. Szkoła, która występuje z wnioskiem o udzielenie kolejnej akredytacji, składa wniosek nie później niż na 3 miesiące przed upływem okresu, na jaki otrzymała akredytację. Wniosek zawiera: nazwę szkoły; określenie siedziby szkoły; numer telefonu lub faksu oraz adres poczty elektronicznej szkoły; oznaczenie kierunku studiów, w tym specjalności prowadzonej przez szkołę, w ramach kierunków studiów, wraz z liczbą studentów i dookreśleniem: nazwy kierunku studiów ze wskazaniem liczby studentów na kierunku, z podziałem na specjalności, w poszczególnych latach studiów, ogólnej liczby studentów; wskazanie zamiejscowych jednostek organizacyjnych, jeżeli szkoła takie posiada; w przypadku szkół ubiegających się ponownie o udzielenie akredytacji - informację o udzieleniu poprzedniej akredytacji ze wskazaniem daty jej wydania; informacje dotyczące infrastruktury szkoły zawierające opis: bazy materialnej, w tym liczby i wielkość budynków, pomieszczeń i innych zasobów, stanu technicznego i dokumentów potwierdzających spełnienie określonych warunków bezpieczeństwa i higieny pracy, wyposażenia w środki audiowizualne, filmy, inne środki techniczne, a w przypadku pracowni nauki zawodu - modele lub fantomy, materiały pomocnicze, kompletne zestawy do zabiegów i sprzęt medyczny; informacje dotyczące kadry zawierające: opis struktury organizacyjnej szkoły i jej władz, zestawienie liczbowe pracowników szkoły, w tym liczbę nauczycieli akademickich, opis dorobku naukowego, dydaktycznego, doświadczenia zawodowego, wymiaru czasu pracy, nauczycieli akademickich na potrzeby kierunków pielęgniarstwo lub położnictwo; informacje dotyczące procesu dydaktycznego dla kierunku pielęgniarstwo lub położnictwo uwzględniające: plan studiów i program kształcenia, system rekrutacji kandydatów na studia, organizację procesu kształcenia, w tym kształcenia praktycznego, sposób dokumentowania procesu kształcenia obejmujący rodzaje, przechowywanie oraz kontrolę obiegu dokumentów, metody oceny wyników kształcenia, narzędzia ewaluacji procesu kształcenia, stosowane metody oceny pracy szkoły; informacje dotyczące osiągnięć szkoły, w tym udziału w międzynarodowych programach, oraz współpracy z innymi szkołami lub uczelniami, instytucjami naukowymi i innymi podmiotami."
+      "content": "Wszczęcie postępowania akredytacyjnego następuje na wniosek szkoły o przeprowadzenie oceny niezbędnej do udzielenia i utrzymania akredytacji, zwany dalej „wnioskiem”, składany wraz z dołączonymi do niego dokumentami odrębnie dla kierunku pielęgniarstwo albo położnictwo, w postaci dokumentu elektronicznego sporządzonego w formacie PDF i opatrzonego kwalifikowanym podpisem elektronicznym albo podpisem zaufanym rektora, za pośrednictwem elektronicznej skrzynki podawczej ministra właściwego do spraw zdrowia. Szkoła, która występuje po raz pierwszy o udzielenie akredytacji, składa wniosek nie później niż na 3 miesiące przed terminem rozpoczęcia rekrutacji. Szkoła, która występuje z wnioskiem o udzielenie kolejnej akredytacji, składa wniosek nie później niż na 3 miesiące przed upływem okresu, na jaki otrzymała akredytację. Wniosek zawiera: nazwę szkoły; określenie siedziby szkoły; numer telefonu lub faksu oraz adres poczty elektronicznej szkoły; oznaczenie kierunku studiów, w tym specjalności prowadzonej przez szkołę, w ramach kierunków studiów, wraz z liczbą studentów i dookreśleniem: nazwy kierunku studiów ze wskazaniem liczby studentów na kierunku, z podziałem na specjalności, w poszczególnych latach studiów, ogólnej liczby studentów; wskazanie zamiejscowych jednostek organizacyjnych, jeżeli szkoła takie posiada; w przypadku szkół ubiegających się ponownie o udzielenie akredytacji - informację o udzieleniu poprzedniej akredytacji ze wskazaniem daty jej wydania; informacje dotyczące infrastruktury szkoły zawierające opis: bazy materialnej, w tym liczby i wielkość budynków, pomieszczeń i innych zasobów, stanu technicznego i dokumentów potwierdzających spełnienie określonych warunków bezpieczeństwa i higieny pracy, wyposażenia w środki audiowizualne, filmy, inne środki techniczne, a w przypadku pracowni nauki zawodu - modele lub fantomy, materiały pomocnicze, kompletne zestawy do zabiegów i sprzęt medyczny; informacje dotyczące kadry zawierające: opis struktury organizacyjnej szkoły i jej władz, zestawienie liczbowe pracowników szkoły, w tym liczbę nauczycieli akademickich, opis dorobku naukowego, dydaktycznego, doświadczenia zawodowego, wymiaru czasu pracy, nauczycieli akademickich na potrzeby kierunków pielęgniarstwo lub położnictwo; informacje dotyczące procesu dydaktycznego dla kierunku pielęgniarstwo lub położnictwo uwzględniające: plan studiów i program kształcenia, system rekrutacji kandydatów na studia, organizację procesu kształcenia, w tym kształcenia praktycznego, sposób dokumentowania procesu kształcenia obejmujący rodzaje, przechowywanie oraz kontrolę obiegu dokumentów, metody oceny wyników kształcenia, narzędzia ewaluacji procesu kształcenia, stosowane metody oceny pracy szkoły; informacje dotyczące osiągnięć szkoły, w tym udziału w międzynarodowych programach, oraz współpracy z innymi szkołami lub uczelniami, instytucjami naukowymi i innymi podmiotami."
     },
     {
       "provision_ref": "par11u1",
       "section": "11",
       "title": "§ 11 ust. 1",
-      "content": "Wszczęcie postępowania akredytacyjnego następuje na wniosek szkoły o przeprowadzenie oceny niezbędnej do udzielenia i utrzymania akredytacji, zwany dalej „wnioskiem”, składany odrębnie dla kierunku pielęgniarstwo albo położnictwo."
+      "content": "Wszczęcie postępowania akredytacyjnego następuje na wniosek szkoły o przeprowadzenie oceny niezbędnej do udzielenia i utrzymania akredytacji, zwany dalej „wnioskiem”, składany wraz z dołączonymi do niego dokumentami odrębnie dla kierunku pielęgniarstwo albo położnictwo, w postaci dokumentu elektronicznego sporządzonego w formacie PDF i opatrzonego kwalifikowanym podpisem elektronicznym albo podpisem zaufanym rektora, za pośrednictwem elektronicznej skrzynki podawczej ministra właściwego do spraw zdrowia."
     },
     {
       "provision_ref": "par11u2",
@@ -619,13 +637,19 @@
       "provision_ref": "par13",
       "section": "13",
       "title": "§ 13",
-      "content": "W celu dokonania oceny niezbędnej do udzielenia albo utrzymania akredytacji Krajowa Rada dokonuje analizy wniosku oraz przeprowadza wizytację szkoły, której celem jest ocena warunków realizacji procesu kształcenia przy spełnianiu określonych standardów kształcenia. Standardy kształcenia, o których mowa w ust. 1, obejmują: wdrożenie i realizację programu kształcenia; prowadzenie dokumentacji; infrastrukturę szkoły, w tym wyposażenie niezbędne do realizacji założonych celów kształcenia; kwalifikacje kadry do prowadzenia zajęć teoretycznych, praktycznych i praktyk zawodowych objętych programem kształcenia; kontrolę efektów kształcenia; prowadzenie działalności dydaktycznej i naukowej; monitorowanie karier zawodowych absolwentów szkoły w celu dostosowywania kierunków studiów i programów kształcenia do potrzeb rynku pracy. W odniesieniu do szkoły, która nie rozpoczęła kształcenia, ocena w zakresie standardów kształcenia nie obejmuje: oceny wdrożenia i realizacji programu kształcenia, kontroli efektów kształcenia, prowadzonej działalności dydaktycznej i naukowej oraz monitorowania karier zawodowych absolwentów szkoły. Przeprowadzenie wizytacji szkoły nie może trwać dłużej niż 3 dni. Po zakończeniu wizytacji szkoły jest sporządzany protokół, w którym zamieszcza się: datę jego sporządzenia; okres trwania wizytacji szkoły; informacje dotyczące: czynności związanych z przeprowadzeniem wizytacji szkoły, dokonanej oceny spełniania standardów kształcenia, zaleceń powizytacyjnych, ze wskazaniem terminu ich realizacji, zgłoszonych uwag szkoły; imiona i nazwiska oraz podpisy osób przeprowadzających wizytację szkoły. Protokół, o którym mowa w ust. 5, jest przedstawiany członkom Krajowej Rady na najbliższym posiedzeniu oraz przekazywany szkole objętej wizytacją, a także przesyłany do wiadomości Polskiej Komisji Akredytacyjnej."
+      "content": "W celu dokonania oceny niezbędnej do udzielenia albo utrzymania akredytacji Krajowa Rada dokonuje analizy wniosku oraz przeprowadza wizytację szkoły, której celem jest ocena warunków realizacji procesu kształcenia przy spełnianiu określonych standardów kształcenia. W przypadku ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii wizytację szkoły, o której mowa w ust. 1, przeprowadza się w szkole osobiście lub za pośrednictwem systemów teleinformatycznych, lub systemów łączności. Decyzję o sposobie przeprowadzenia wizytacji podejmuje osoba przewodnicząca posiedzeniu. Standardy kształcenia, o których mowa w ust. 1, obejmują: wdrożenie i realizację programu kształcenia; prowadzenie dokumentacji; infrastrukturę szkoły, w tym wyposażenie niezbędne do realizacji założonych celów kształcenia; kwalifikacje kadry do prowadzenia zajęć teoretycznych, praktycznych i praktyk zawodowych objętych programem kształcenia; kontrolę efektów kształcenia; prowadzenie działalności dydaktycznej i naukowej; monitorowanie karier zawodowych absolwentów szkoły w celu dostosowywania kierunków studiów i programów kształcenia do potrzeb rynku pracy. W odniesieniu do szkoły, która nie rozpoczęła kształcenia, ocena w zakresie standardów kształcenia nie obejmuje: oceny wdrożenia i realizacji programu kształcenia, kontroli efektów kształcenia, prowadzonej działalności dydaktycznej i naukowej oraz monitorowania karier zawodowych absolwentów szkoły. Przeprowadzenie wizytacji szkoły nie może trwać dłużej niż 3 dni. Po zakończeniu wizytacji szkoły jest sporządzany protokół w postaci dokumentu elektronicznego, w którym zamieszcza się: datę jego sporządzenia; okres trwania wizytacji szkoły; informacje dotyczące: sposobu i czynności związanych z przeprowadzeniem wizytacji szkoły, dokonanej oceny spełniania przez szkołę standardów kształcenia, zaleceń powizytacyjnych, ze wskazaniem terminów ich realizacji, zgłoszonych uwag szkoły; imiona i nazwiska oraz kwalifikowane podpisy elektroniczne osób wizytujących szkołę. Protokół, o którym mowa w ust. 5, jest przedstawiany członkom Krajowej Rady na najbliższym posiedzeniu oraz przekazywany szkole objętej wizytacją, a także przesyłany do wiadomości Polskiej Komisji Akredytacyjnej."
     },
     {
       "provision_ref": "par13u1",
       "section": "13",
       "title": "§ 13 ust. 1",
       "content": "W celu dokonania oceny niezbędnej do udzielenia albo utrzymania akredytacji Krajowa Rada dokonuje analizy wniosku oraz przeprowadza wizytację szkoły, której celem jest ocena warunków realizacji procesu kształcenia przy spełnianiu określonych standardów kształcenia."
+    },
+    {
+      "provision_ref": "par13u1a",
+      "section": "13",
+      "title": "§ 13 ust. 1a",
+      "content": "W przypadku ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii wizytację szkoły, o której mowa w ust. 1, przeprowadza się w szkole osobiście lub za pośrednictwem systemów teleinformatycznych, lub systemów łączności. Decyzję o sposobie przeprowadzenia wizytacji podejmuje osoba przewodnicząca posiedzeniu."
     },
     {
       "provision_ref": "par13u2p1",
@@ -685,43 +709,43 @@
       "provision_ref": "par13u5p1",
       "section": "13",
       "title": "§ 13 ust. 5 pkt 1",
-      "content": "Po zakończeniu wizytacji szkoły jest sporządzany protokół, w którym zamieszcza się: datę jego sporządzenia;"
+      "content": "Po zakończeniu wizytacji szkoły jest sporządzany protokół w postaci dokumentu elektronicznego, w którym zamieszcza się: datę jego sporządzenia;"
     },
     {
       "provision_ref": "par13u5p2",
       "section": "13",
       "title": "§ 13 ust. 5 pkt 2",
-      "content": "Po zakończeniu wizytacji szkoły jest sporządzany protokół, w którym zamieszcza się: okres trwania wizytacji szkoły;"
+      "content": "Po zakończeniu wizytacji szkoły jest sporządzany protokół w postaci dokumentu elektronicznego, w którym zamieszcza się: okres trwania wizytacji szkoły;"
     },
     {
       "provision_ref": "par13u5p3la",
       "section": "13",
       "title": "§ 13 ust. 5 pkt 3 lit. a",
-      "content": "Po zakończeniu wizytacji szkoły jest sporządzany protokół, w którym zamieszcza się: informacje dotyczące: czynności związanych z przeprowadzeniem wizytacji szkoły,"
+      "content": "Po zakończeniu wizytacji szkoły jest sporządzany protokół w postaci dokumentu elektronicznego, w którym zamieszcza się: informacje dotyczące: sposobu i czynności związanych z przeprowadzeniem wizytacji szkoły,"
     },
     {
       "provision_ref": "par13u5p3lb",
       "section": "13",
       "title": "§ 13 ust. 5 pkt 3 lit. b",
-      "content": "Po zakończeniu wizytacji szkoły jest sporządzany protokół, w którym zamieszcza się: informacje dotyczące: dokonanej oceny spełniania standardów kształcenia,"
+      "content": "Po zakończeniu wizytacji szkoły jest sporządzany protokół w postaci dokumentu elektronicznego, w którym zamieszcza się: informacje dotyczące: dokonanej oceny spełniania przez szkołę standardów kształcenia,"
     },
     {
       "provision_ref": "par13u5p3lc",
       "section": "13",
       "title": "§ 13 ust. 5 pkt 3 lit. c",
-      "content": "Po zakończeniu wizytacji szkoły jest sporządzany protokół, w którym zamieszcza się: informacje dotyczące: zaleceń powizytacyjnych, ze wskazaniem terminu ich realizacji,"
+      "content": "Po zakończeniu wizytacji szkoły jest sporządzany protokół w postaci dokumentu elektronicznego, w którym zamieszcza się: informacje dotyczące: zaleceń powizytacyjnych, ze wskazaniem terminów ich realizacji,"
     },
     {
       "provision_ref": "par13u5p3ld",
       "section": "13",
       "title": "§ 13 ust. 5 pkt 3 lit. d",
-      "content": "Po zakończeniu wizytacji szkoły jest sporządzany protokół, w którym zamieszcza się: informacje dotyczące: zgłoszonych uwag szkoły;"
+      "content": "Po zakończeniu wizytacji szkoły jest sporządzany protokół w postaci dokumentu elektronicznego, w którym zamieszcza się: informacje dotyczące: zgłoszonych uwag szkoły;"
     },
     {
       "provision_ref": "par13u5p4",
       "section": "13",
       "title": "§ 13 ust. 5 pkt 4",
-      "content": "Po zakończeniu wizytacji szkoły jest sporządzany protokół, w którym zamieszcza się: imiona i nazwiska oraz podpisy osób przeprowadzających wizytację szkoły."
+      "content": "Po zakończeniu wizytacji szkoły jest sporządzany protokół w postaci dokumentu elektronicznego, w którym zamieszcza się: imiona i nazwiska oraz kwalifikowane podpisy elektroniczne osób wizytujących szkołę."
     },
     {
       "provision_ref": "par13u6",
@@ -769,17 +793,25 @@
       "provision_ref": "par16",
       "section": "16",
       "title": "§ 16",
-      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 31 lipca 2001 r. w sprawie Krajowej Rady Akredytacyjnej Szkolnictwa Medycznego oraz trybu uzyskiwania akredytacji (Dz. U. Nr 83, poz. 904) oraz rozporządzeniem Ministra Zdrowia z dnia 11 grudnia 2001 r. w sprawie opłat ponoszonych przez szkołę pielęgniarską i szkołę położnych za uzyskanie akredytacji oraz wydanie certyfikatu (Dz. U. Nr 151, poz. 1722), które tracą moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 102 ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. Nr 174, poz. 1039 i Nr 291, poz. 707)."
+      "content": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia 13) Rozporządzenie zostało ogłoszone w dniu 20 grudnia 2012 r. . 14) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 31 lipca 2001 r. w sprawie Krajowej Rady Akredytacyjnej Szkolnictwa Medycznego oraz trybu uzyskiwania akredytacji (Dz. U. poz. 904) oraz rozporządzeniem Ministra Zdrowia z dnia 11 grudnia 2001 r. w sprawie opłat ponoszonych przez szkołę pielęgniarską i szkołę położnych za uzyskanie akredytacji oraz wydanie certyfikatu (Dz. U. poz. 1722), które utraciły moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 102 ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. poz. 1039 i 1707)."
     }
   ],
   "definitions": [],
   "references": [
     {
-      "target_document_id": "pl-du-2011-1039",
+      "target_document_id": "pl-du-2019-1461",
       "ref_type": "references"
     },
     {
-      "target_document_id": "pl-du-2011-1707",
+      "target_document_id": "pl-du-2020-705",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2020-1515",
+      "ref_type": "references"
+    },
+    {
+      "target_document_id": "pl-du-2021-479",
       "ref_type": "references"
     }
   ]
