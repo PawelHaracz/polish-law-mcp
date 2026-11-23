@@ -207,4 +207,42 @@ Poz. 1407
     const refs = parsePolishPdf(text, ACT).provisions.map(x => x.provision_ref);
     expect(refs).toEqual(['art2', 'art2p1', 'art2p2', 'art2p3']);
   });
+
+  it('does not turn a consolidated-text footnote into a punkt', () => {
+    const text = `Art. 2. W rozumieniu ustawy:
+1) statkiem jest urządzenie latające;
+2) lotniskiem jest obszar wyznaczony;
+11) W brzmieniu ustalonym przez art. 3 pkt 2 ustawy, o której mowa w odnośniku 3.
+3) lądowiskiem jest obszar na lądzie.`;
+    const p = parsePolishPdf(text, ACT).provisions;
+    expect(p.map(x => x.provision_ref)).toEqual(['art2', 'art2p1', 'art2p2', 'art2p3']);
+    expect(p.find(x => x.provision_ref === 'art2p3')!.content).toBe('lądowiskiem jest obszar na lądzie.');
+  });
+});
+
+describe('parsePolishPdf — footnotes inside regulation §§', () => {
+  it('does not turn a footnote in a § or ustęp into a punkt', () => {
+    const text = `§ 1. Rozporządzenie określa:
+1) wzory wniosków;
+2) sposób składania;
+12) Uchylony przez art. 1 pkt 23 ustawy z dnia 26 stycznia 2018 r.
+3) tryb rozpatrywania.
+§ 2. 1. Wniosek zawiera:
+1) imię i nazwisko;
+17) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia zmieniającego.
+2) adres.
+2. Wniosek składa się na piśmie.`;
+    const refs = parsePolishPdf(text, { ...ACT, title: 'Rozporządzenie testowe' }).provisions.map(x => x.provision_ref);
+    expect(refs).toEqual(['par1', 'par1p1', 'par1p2', 'par1p3', 'par2', 'par2u1p1', 'par2u1p2', 'par2u2']);
+  });
+
+  it('keeps a punkt list that starts mid-sequence after a bogus split', () => {
+    const text = `§ 1. 1. Wykaz obejmuje:
+1) sędziego;
+2) prokuratora.
+4. Dodany przez § 1 pkt 3 rozporządzenia. 3) członka Rady; 4) prezesa banku.`;
+    const refs = parsePolishPdf(text, { ...ACT, title: 'Rozporządzenie testowe' }).provisions.map(x => x.provision_ref);
+    expect(refs).toContain('par1u4p3');
+    expect(refs).toContain('par1u4p4');
+  });
 });

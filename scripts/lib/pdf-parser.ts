@@ -280,8 +280,10 @@ function buildArticleRows(
   }
 
   // No ustępy: punkty straight off the article ("Art. 2. … oznacza: 1) … 2) …"),
-  // stored as art2p1 like the HTML parser does.
-  const punktParts = splitNumbered(body, PUNKT_RE);
+  // stored as art2p1 like the HTML parser does. Consolidated-text footnotes look
+  // like punkty too ("11) W brzmieniu ustalonym …"), so only markers that
+  // continue the numbering count.
+  const punktParts = sequentialPunkty(splitNumbered(body, PUNKT_RE));
   if (punktParts.filter(p => p.n).length > 1) {
     for (const p of punktParts) {
       if (!p.n) continue;
@@ -319,7 +321,7 @@ function buildParagrafRows(
     return;
   }
   // No ustępy: split punkty straight off the § ("§ 1. … określa: 1) … 2) …").
-  const punktParts = splitNumbered(body, PUNKT_RE);
+  const punktParts = sequentialPunkty(splitNumbered(body, PUNKT_RE));
   if (punktParts.filter(p => p.n).length > 1) {
     for (const p of punktParts) {
       if (!p.n) continue;
@@ -339,7 +341,7 @@ function emitLeafWithPunkty(
   text: string,
   provisions: ParsedProvision[],
 ): void {
-  const punktParts = splitNumbered(text, PUNKT_RE);
+  const punktParts = sequentialPunkty(splitNumbered(text, PUNKT_RE));
   if (punktParts.filter(p => p.n).length > 1) {
     for (const p of punktParts) {
       if (!p.n) continue;
@@ -366,6 +368,25 @@ const USTEP_RE = new RegExp(String.raw`(?:^|\s)(\d{1,3}[a-z]*${SUP})\.\s+(?=[A-Z
 
 /** Punkt marker: "N)" or "N[k])" (pkt N^k). */
 const PUNKT_RE = new RegExp(String.raw`(?:^|\s)(\d+[a-z]*${SUP})\)\s+`, 'g');
+
+/**
+ * Consolidated-text footnotes ("11) W brzmieniu ustalonym przez …") print
+ * between punkty at page bottoms and look exactly like punkt markers. They are
+ * recognised by their wording; a real repealed punkt reads "(uchylony)".
+ */
+const FOOTNOTE_RE = /^(?:W brzmieniu ustalonym|(?:Dodan[yae]|Uchylon[yae]|Zmienion[yae]|Skreślon[yae]) przez|Ze zmian(?:ą|ami) wprowadzon|Zmiany (?:tekstu jednolitego )?wymienion|Niniejsza ustawa|Utracił[ay]? moc|Stwierdzon[yae]|Uznan[yae] za niezgodn|Wszedł|Weszł[ay])/;
+
+/** Fold footnote "N)" segments back into the preceding segment. */
+function sequentialPunkty(parts: Array<{ n: string | null; text: string }>): Array<{ n: string | null; text: string }> {
+  const out: Array<{ n: string | null; text: string }> = [];
+  for (const part of parts) {
+    if (part.n === null || !FOOTNOTE_RE.test(part.text)) { out.push({ ...part }); continue; }
+    const folded = `${part.n}) ${part.text}`;
+    if (out.length === 0) out.push({ n: null, text: folded });
+    else out[out.length - 1]!.text += ` ${folded}`;
+  }
+  return out;
+}
 
 /** Split text on a numbered-marker regex, returning {n, text} segments. */
 function splitNumbered(text: string, re: RegExp): Array<{ n: string | null; text: string }> {

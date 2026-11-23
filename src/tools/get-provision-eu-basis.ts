@@ -5,6 +5,7 @@
 import type Database from '@ansvar/mcp-sqlite';
 import { resolveDocumentId } from '../utils/statute-id.js';
 import { generateResponseMetadata, type ToolResponse } from '../utils/metadata.js';
+import { normalizeSuperscriptRef } from '../utils/provision-ref.js';
 
 export interface GetProvisionEUBasisInput {
   document_id: string;
@@ -43,7 +44,7 @@ export async function getProvisionEUBasis(
   }
 
   // Find the provision
-  const ref = input.provision_ref.trim();
+  const ref = normalizeSuperscriptRef(input.provision_ref.trim());
   const provision = db.prepare(
     "SELECT id FROM legal_provisions WHERE document_id = ? AND (provision_ref = ? OR provision_ref = ? OR section = ?)"
   ).get(resolvedId, ref, `s${ref}`, ref) as { id: number } | undefined;

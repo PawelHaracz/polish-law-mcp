@@ -137,6 +137,7 @@ export async function getProvision(
           input.section || input.provision_ref || '',
           docRow.url || null,
           null,
+          provision.title ? String(provision.title) : null,
         ),
         ...(related.length > 0 ? { _related: related } : {}),
         _metadata: generateResponseMetadata(db),

@@ -8,7 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Changed
-- Data refresh to Dziennik Ustaw of 2026-11-16: 20,791 acts (9,343 ustawy + 11,448 in-force rozporządzenia), 1,463,410 provisions.
+- Data refresh to Dziennik Ustaw of 2026-11-16: 20,791 acts (9,343 ustawy + 11,448 in-force rozporządzenia), 1,487,603 provisions.
 - Re-ingested acts changed upstream since the previous census (1,180 ustawy, 1,431 rozporządzenia), preferring the newest consolidated text; 376 ustawy whose consolidated text is PDF-only re-ingested from PDF.
 - Pruned 154 rozporządzenia that are no longer in force.
 - 401 rozporządzenia whose newest consolidated text is PDF-only re-ingested from PDF; 44 amending ustawy from 2025–2026 added.
@@ -24,6 +24,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - PDF parser: superscript units (`Art. 22[1].`, `§ 2[1].`) were glued onto the preceding unit, so ~1,340 articles in 23 PDF-sourced codes and statutes (KPC, KC, KP …) had no row of their own. They are now separate provisions with `^` refs (`art22^1`, `art30par2^1`) and titles such as `Art. 22¹`; bracketed superscripts in text are rendered as `¹²³`.
 - PDF parser: the Dziennik Ustaw page header (`Poz. 1245`) no longer leaks into provision text or fakes ustęp boundaries.
 - PDF parser: an article with punkty but no ustępy is split into `art2p1` … rows like the HTML parser does.
+- PDF parser: consolidated-text footnotes printed between punkty (`11) W brzmieniu ustalonym przez …`, `Dodany przez …`) no longer become punkt rows; their text stays in the preceding unit.
 - `get_provision` accepts `22¹`, `22[1]` and `22^1` and falls back to the flattened HTML form (`art221`) for older acts.
 
 ## [1.0.0] - 2026-XX-XX
