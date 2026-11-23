@@ -19,84 +19,126 @@
       "provision_ref": "par2",
       "section": "2",
       "title": "§ 2",
-      "content": "Ilekroć w rozporządzeniu jest mowa o: 1) administratorze – rozumie się przez to użytkownika konta wyznaczonego przez podmiot albo podmiot publiczny do zarządzania kontem; 2) identyfikatorze – rozumie się przez to niepowtarzalny identyfikator przypisany do konta w portalu informacyjnym służący do powiązania sprawy z kontem właściciela; 3) identyfikatorze osoby fizycznej – rozumie się przez to numer PESEL, a w przypadku jego braku ciąg znaków ustalany podczas zakładania konta, zbudowany z oznaczenia kraju obywatelstwa, serii lub numeru dokumentu stwierdzającego tożsamość i obywatelstwo, którym posługuje się osoba fizyczna nieposiadająca numeru PESEL; 4) identyfikatorze podmiotu publicznego – rozumie się przez to NIP, a w przypadku jego braku kolejno: a) REGON, b) identyfikator nadany przy zakładaniu konta w portalu informacyjnym; 5) identyfikatorze podmiotu – rozumie się przez to numer wpisu w Krajowym Rejestrze Sądowym, a w przypadku jego braku kolejno: a) NIP, b) REGON, c) identyfikator nadany przy zakładaniu konta w portalu informacyjnym; 6) koncie – rozumie się przez to zbiór danych identyfikujących tożsamość właściciela konta, wraz z przyporządkowanymi do niego zasobami portalu informacyjnego; 7) likwidacji konta – rozumie się przez to usunięcie danych konta, profili zależnych oraz użytkowników kont powiązanych z kontem, skutkujące brakiem możliwości uwierzytelnienia na koncie i pozostawieniem zestawu danych pozwalających na zachowanie rozliczalności działań podejmowanych w ramach portalu przez użytkownika konta, podmiot lub podmiot publiczny, obejmującego informacje o imieniu, drugim imieniu, nazwisku, numerze PESEL oraz o tym, czy konto zostało założone dla osoby nieposiadającej obywatelstwa polskiego; 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1907, z 2025 r. poz. 526, 820, 1172, 1178 i 1609 oraz z 2026 r. poz. 26. Poz. 216 8) nazwie użytkownika – rozumie się przez to identyfikator lub inny ciąg znaków ustalony przez użytkownika konta i powiązany z identyfikatorem przez portal informacyjny; 9) pełnomocniku zawodowym – rozumie się przez to radcę prawnego, adwokata, prawnika zagranicznego, rzecznika patentowego, działającego w sprawie jako pełnomocnik procesowy albo pełnomocnik do doręczeń; 10) podmiocie – rozumie się przez to osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, której ustawa przyznaje zdolność prawną, niebędącą podmiotem publicznym; 11) podmiocie publicznym – rozumie się przez to podmiot publiczny, o którym mowa w art. 2 pkt 6 lit. a–d oraz f i g ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2026 r. poz. 3); 12) profilu – rozumie się przez to zbiór ustawień konta w portalu informacyjnym, określający zakres posiadanych uprawnień i dostępnych funkcjonalności portalu informacyjnego; 13) profilu domyślnym – rozumie się przez to profil nadawany automatycznie przy zakładaniu konta; 14) profilu zależnym – rozumie się przez to profil powiązany z kontem właściciela, posiadający dostęp z ograniczonymi uprawnieniami, nieszerszymi niż posiada właściciel; 15) ROBUS – rozumie się przez to system Rejestru Osób Biorących Udział w Postępowaniach Sądowych, będący sądowym systemem teleinformatycznym, o którym mowa w art. 175da § 2 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, za pośrednictwem którego właściwe samorządy zawodowe lub inne podmioty zobowiązane udostępniają sądom właściwe listy, rejestry i wykazy profesjonalnych uczestników postępowań sądowych na podstawie obowiązujących przepisów prawa; 16) rozliczalności działań – rozumie się przez to funkcję portalu informacyjnego umożliwiającą przypisanie w sposób jednoznaczny działania użytkownika konta tylko temu użytkownikowi konta; 17) uwierzytelnieniu – rozumie się przez to proces elektroniczny, który umożliwia identyfikację elektroniczną w portalu informacyjnym; 18) użytkowniku konta – rozumie się przez to osobę fizyczną, dla której założono konto w portalu informacyjnym; 19) właścicielu konta – rozumie się przez to osobę fizyczną, podmiot albo podmiot publiczny, dla których założono konto w portalu informacyjnym; 20) zarządzaniu kontem – rozumie się przez to ogół czynności polegających na modyfikowaniu danych konta, w szczególności określanie uprawnień poszczególnych użytkowników kont, aktualizację adresu poczty elektronicznej do powiadomień oraz aktualizację danych właściciela konta."
+      "content": "Ilekroć w rozporządzeniu jest mowa o: 1) administratorze – rozumie się przez to użytkownika konta wyznaczonego przez podmiot albo podmiot publiczny do zarządzania kontem; 2) identyfikatorze – rozumie się przez to niepowtarzalny identyfikator przypisany do konta w portalu informacyjnym służący do powiązania sprawy z kontem właściciela; 3) identyfikatorze osoby fizycznej – rozumie się przez to numer PESEL, a w przypadku jego braku ciąg znaków ustalany podczas zakładania konta, zbudowany z oznaczenia kraju obywatelstwa, serii lub numeru dokumentu stwierdzającego tożsamość i obywatelstwo, którym posługuje się osoba fizyczna nieposiadająca numeru PESEL; 4) identyfikatorze podmiotu publicznego – rozumie się przez to NIP, a w przypadku jego braku kolejno: a) REGON, b) identyfikator nadany przy zakładaniu konta w portalu informacyjnym; 5) identyfikatorze podmiotu – rozumie się przez to numer wpisu w Krajowym Rejestrze Sądowym, a w przypadku jego braku kolejno: a) NIP, b) REGON, c) identyfikator nadany przy zakładaniu konta w portalu informacyjnym; 6) koncie – rozumie się przez to zbiór danych identyfikujących tożsamość właściciela konta, wraz z przyporządkowanymi do niego zasobami portalu informacyjnego; 7) likwidacji konta – rozumie się przez to usunięcie danych konta, profili zależnych oraz użytkowników kont powiązanych z kontem, skutkujące brakiem możliwości uwierzytelnienia na koncie i pozostawieniem zestawu danych pozwalających na zachowanie rozliczalności działań podejmowanych w ramach portalu przez użytkownika konta, podmiot lub podmiot publiczny, obejmującego informacje o imieniu, drugim imieniu, nazwisku, numerze PESEL oraz o tym, czy konto zostało założone dla osoby nieposiadającej obywatelstwa polskiego; 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1907, z 2025 r. poz. 526, 820, 1172, 1178 i 1609 oraz z 2026 r. poz. 26. 8) nazwie użytkownika – rozumie się przez to identyfikator lub inny ciąg znaków ustalony przez użytkownika konta i powiązany z identyfikatorem przez portal informacyjny; 9) pełnomocniku zawodowym – rozumie się przez to radcę prawnego, adwokata, prawnika zagranicznego, rzecznika patentowego, działającego w sprawie jako pełnomocnik procesowy albo pełnomocnik do doręczeń; 10) podmiocie – rozumie się przez to osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, której ustawa przyznaje zdolność prawną, niebędącą podmiotem publicznym; 11) podmiocie publicznym – rozumie się przez to podmiot publiczny, o którym mowa w art. 2 pkt 6 lit. a–d oraz f i g ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2026 r. poz. 3); 12) profilu – rozumie się przez to zbiór ustawień konta w portalu informacyjnym, określający zakres posiadanych uprawnień i dostępnych funkcjonalności portalu informacyjnego; 13) profilu domyślnym – rozumie się przez to profil nadawany automatycznie przy zakładaniu konta; 14) profilu zależnym – rozumie się przez to profil powiązany z kontem właściciela, posiadający dostęp z ograniczonymi uprawnieniami, nieszerszymi niż posiada właściciel; 15) ROBUS – rozumie się przez to system Rejestru Osób Biorących Udział w Postępowaniach Sądowych, będący sądowym systemem teleinformatycznym, o którym mowa w art. 175da § 2 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, za pośrednictwem którego właściwe samorządy zawodowe lub inne podmioty zobowiązane udostępniają sądom właściwe listy, rejestry i wykazy profesjonalnych uczestników postępowań sądowych na podstawie obowiązujących przepisów prawa; 16) rozliczalności działań – rozumie się przez to funkcję portalu informacyjnego umożliwiającą przypisanie w sposób jednoznaczny działania użytkownika konta tylko temu użytkownikowi konta; 17) uwierzytelnieniu – rozumie się przez to proces elektroniczny, który umożliwia identyfikację elektroniczną w portalu informacyjnym; 18) użytkowniku konta – rozumie się przez to osobę fizyczną, dla której założono konto w portalu informacyjnym; 19) właścicielu konta – rozumie się przez to osobę fizyczną, podmiot albo podmiot publiczny, dla których założono konto w portalu informacyjnym; 20) zarządzaniu kontem – rozumie się przez to ogół czynności polegających na modyfikowaniu danych konta, w szczególności określanie uprawnień poszczególnych użytkowników kont, aktualizację adresu poczty elektronicznej do powiadomień oraz aktualizację danych właściciela konta."
     },
     {
-      "provision_ref": "par2u26p8",
+      "provision_ref": "par2p1",
       "section": "2",
-      "title": "§ 2 ust. 26 pkt 8",
+      "title": "§ 2 pkt 1",
+      "content": "administratorze – rozumie się przez to użytkownika konta wyznaczonego przez podmiot albo podmiot publiczny do zarządzania kontem;"
+    },
+    {
+      "provision_ref": "par2p2",
+      "section": "2",
+      "title": "§ 2 pkt 2",
+      "content": "identyfikatorze – rozumie się przez to niepowtarzalny identyfikator przypisany do konta w portalu informacyjnym służący do powiązania sprawy z kontem właściciela;"
+    },
+    {
+      "provision_ref": "par2p3",
+      "section": "2",
+      "title": "§ 2 pkt 3",
+      "content": "identyfikatorze osoby fizycznej – rozumie się przez to numer PESEL, a w przypadku jego braku ciąg znaków ustalany podczas zakładania konta, zbudowany z oznaczenia kraju obywatelstwa, serii lub numeru dokumentu stwierdzającego tożsamość i obywatelstwo, którym posługuje się osoba fizyczna nieposiadająca numeru PESEL;"
+    },
+    {
+      "provision_ref": "par2p4",
+      "section": "2",
+      "title": "§ 2 pkt 4",
+      "content": "identyfikatorze podmiotu publicznego – rozumie się przez to NIP, a w przypadku jego braku kolejno: a) REGON, b) identyfikator nadany przy zakładaniu konta w portalu informacyjnym;"
+    },
+    {
+      "provision_ref": "par2p5",
+      "section": "2",
+      "title": "§ 2 pkt 5",
+      "content": "identyfikatorze podmiotu – rozumie się przez to numer wpisu w Krajowym Rejestrze Sądowym, a w przypadku jego braku kolejno: a) NIP, b) REGON, c) identyfikator nadany przy zakładaniu konta w portalu informacyjnym;"
+    },
+    {
+      "provision_ref": "par2p6",
+      "section": "2",
+      "title": "§ 2 pkt 6",
+      "content": "koncie – rozumie się przez to zbiór danych identyfikujących tożsamość właściciela konta, wraz z przyporządkowanymi do niego zasobami portalu informacyjnego;"
+    },
+    {
+      "provision_ref": "par2p7",
+      "section": "2",
+      "title": "§ 2 pkt 7",
+      "content": "likwidacji konta – rozumie się przez to usunięcie danych konta, profili zależnych oraz użytkowników kont powiązanych z kontem, skutkujące brakiem możliwości uwierzytelnienia na koncie i pozostawieniem zestawu danych pozwalających na zachowanie rozliczalności działań podejmowanych w ramach portalu przez użytkownika konta, podmiot lub podmiot publiczny, obejmującego informacje o imieniu, drugim imieniu, nazwisku, numerze PESEL oraz o tym, czy konto zostało założone dla osoby nieposiadającej obywatelstwa polskiego; 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1907, z 2025 r. poz. 526, 820, 1172, 1178 i 1609 oraz z 2026 r. poz. 26."
+    },
+    {
+      "provision_ref": "par2p8",
+      "section": "2",
+      "title": "§ 2 pkt 8",
       "content": "nazwie użytkownika – rozumie się przez to identyfikator lub inny ciąg znaków ustalony przez użytkownika konta i powiązany z identyfikatorem przez portal informacyjny;"
     },
     {
-      "provision_ref": "par2u26p9",
+      "provision_ref": "par2p9",
       "section": "2",
-      "title": "§ 2 ust. 26 pkt 9",
+      "title": "§ 2 pkt 9",
       "content": "pełnomocniku zawodowym – rozumie się przez to radcę prawnego, adwokata, prawnika zagranicznego, rzecznika patentowego, działającego w sprawie jako pełnomocnik procesowy albo pełnomocnik do doręczeń;"
     },
     {
-      "provision_ref": "par2u26p10",
+      "provision_ref": "par2p10",
       "section": "2",
-      "title": "§ 2 ust. 26 pkt 10",
+      "title": "§ 2 pkt 10",
       "content": "podmiocie – rozumie się przez to osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, której ustawa przyznaje zdolność prawną, niebędącą podmiotem publicznym;"
     },
     {
-      "provision_ref": "par2u26p11",
+      "provision_ref": "par2p11",
       "section": "2",
-      "title": "§ 2 ust. 26 pkt 11",
+      "title": "§ 2 pkt 11",
       "content": "podmiocie publicznym – rozumie się przez to podmiot publiczny, o którym mowa w art. 2 pkt 6 lit. a–d oraz f i g ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2026 r. poz. 3);"
     },
     {
-      "provision_ref": "par2u26p12",
+      "provision_ref": "par2p12",
       "section": "2",
-      "title": "§ 2 ust. 26 pkt 12",
+      "title": "§ 2 pkt 12",
       "content": "profilu – rozumie się przez to zbiór ustawień konta w portalu informacyjnym, określający zakres posiadanych uprawnień i dostępnych funkcjonalności portalu informacyjnego;"
     },
     {
-      "provision_ref": "par2u26p13",
+      "provision_ref": "par2p13",
       "section": "2",
-      "title": "§ 2 ust. 26 pkt 13",
+      "title": "§ 2 pkt 13",
       "content": "profilu domyślnym – rozumie się przez to profil nadawany automatycznie przy zakładaniu konta;"
     },
     {
-      "provision_ref": "par2u26p14",
+      "provision_ref": "par2p14",
       "section": "2",
-      "title": "§ 2 ust. 26 pkt 14",
+      "title": "§ 2 pkt 14",
       "content": "profilu zależnym – rozumie się przez to profil powiązany z kontem właściciela, posiadający dostęp z ograniczonymi uprawnieniami, nieszerszymi niż posiada właściciel;"
     },
     {
-      "provision_ref": "par2u26p15",
+      "provision_ref": "par2p15",
       "section": "2",
-      "title": "§ 2 ust. 26 pkt 15",
+      "title": "§ 2 pkt 15",
       "content": "ROBUS – rozumie się przez to system Rejestru Osób Biorących Udział w Postępowaniach Sądowych, będący sądowym systemem teleinformatycznym, o którym mowa w art. 175da § 2 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, za pośrednictwem którego właściwe samorządy zawodowe lub inne podmioty zobowiązane udostępniają sądom właściwe listy, rejestry i wykazy profesjonalnych uczestników postępowań sądowych na podstawie obowiązujących przepisów prawa;"
     },
     {
-      "provision_ref": "par2u26p16",
+      "provision_ref": "par2p16",
       "section": "2",
-      "title": "§ 2 ust. 26 pkt 16",
+      "title": "§ 2 pkt 16",
       "content": "rozliczalności działań – rozumie się przez to funkcję portalu informacyjnego umożliwiającą przypisanie w sposób jednoznaczny działania użytkownika konta tylko temu użytkownikowi konta;"
     },
     {
-      "provision_ref": "par2u26p17",
+      "provision_ref": "par2p17",
       "section": "2",
-      "title": "§ 2 ust. 26 pkt 17",
+      "title": "§ 2 pkt 17",
       "content": "uwierzytelnieniu – rozumie się przez to proces elektroniczny, który umożliwia identyfikację elektroniczną w portalu informacyjnym;"
     },
     {
-      "provision_ref": "par2u26p18",
+      "provision_ref": "par2p18",
       "section": "2",
-      "title": "§ 2 ust. 26 pkt 18",
+      "title": "§ 2 pkt 18",
       "content": "użytkowniku konta – rozumie się przez to osobę fizyczną, dla której założono konto w portalu informacyjnym;"
     },
     {
-      "provision_ref": "par2u26p19",
+      "provision_ref": "par2p19",
       "section": "2",
-      "title": "§ 2 ust. 26 pkt 19",
+      "title": "§ 2 pkt 19",
       "content": "właścicielu konta – rozumie się przez to osobę fizyczną, podmiot albo podmiot publiczny, dla których założono konto w portalu informacyjnym;"
     },
     {
-      "provision_ref": "par2u26p20",
+      "provision_ref": "par2p20",
       "section": "2",
-      "title": "§ 2 ust. 26 pkt 20",
+      "title": "§ 2 pkt 20",
       "content": "zarządzaniu kontem – rozumie się przez to ogół czynności polegających na modyfikowaniu danych konta, w szczególności określanie uprawnień poszczególnych użytkowników kont, aktualizację adresu poczty elektronicznej do powiadomień oraz aktualizację danych właściciela konta."
     },
     {
@@ -145,7 +187,7 @@
       "provision_ref": "par4",
       "section": "4",
       "title": "§ 4",
-      "content": "1. Wniosek o założenie konta dla osoby fizycznej składa się w portalu informacyjnym na formularzu zawierającym: 1) imiona i nazwisko, numer PESEL, a w przypadku obcokrajowca nieposiadającego numeru PESEL – datę urodzenia, nazwę kraju obywatelstwa oraz serię lub numer dokumentu stwierdzającego tożsamość i obywatelstwo; 2) adres poczty elektronicznej; 3) adres zamieszkania; 4) opcjonalnie – numer telefonu komórkowego; 5) opcjonalnie – określenie profilu innego niż profil domyślny. 2. Konto dla osoby fizycznej zakłada się po złożeniu przez nią wniosku o założenie konta w portalu informacyjnym oraz: 1) podpisaniu się kwalifikowanym podpisem elektronicznym, podpisem osobistym lub podpisem zaufanym albo Poz. 216 2) uwierzytelnieniu się przez użycie środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej, albo 3) osobistym potwierdzeniu tożsamości wnioskodawcy w terminie 14 dni od dnia złożenia wniosku w siedzibie dowolnego sądu. 3. Konto zakłada się po pozytywnej weryfikacji, o której mowa w § 6. 4. Z chwilą założenia konta osoba fizyczna, która je założyła, staje się użytkownikiem konta. 5. Żądania zmiany lub dodania imienia lub nazwiska lub dodania identyfikatora osoby fizycznej należy dokonać w portalu informacyjnym i potwierdzić podpisem zaufanym, kwalifikowanym podpisem elektronicznym, podpisem osobistym albo uwierzytelnić przez użycie środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej, albo stawić się w siedzibie dowolnego sądu w terminie 14 dni od dnia złożenia wniosku w celu potwierdzenia nowych danych. 6. Konta osoby fizycznej nie zakłada się w przypadku: 1) braków formalnych wniosku; 2) negatywnej weryfikacji osoby fizycznej; 3) ustalenia, że istnieje w portalu informacyjnym konto tej osoby fizycznej; 4) ustalenia, że dane podane we wniosku są nieprawdziwe; 5) niestawiennictwa w terminie, o którym mowa w ust. 2 pkt 3."
+      "content": "1. Wniosek o założenie konta dla osoby fizycznej składa się w portalu informacyjnym na formularzu zawierającym: 1) imiona i nazwisko, numer PESEL, a w przypadku obcokrajowca nieposiadającego numeru PESEL – datę urodzenia, nazwę kraju obywatelstwa oraz serię lub numer dokumentu stwierdzającego tożsamość i obywatelstwo; 2) adres poczty elektronicznej; 3) adres zamieszkania; 4) opcjonalnie – numer telefonu komórkowego; 5) opcjonalnie – określenie profilu innego niż profil domyślny. 2. Konto dla osoby fizycznej zakłada się po złożeniu przez nią wniosku o założenie konta w portalu informacyjnym oraz: 1) podpisaniu się kwalifikowanym podpisem elektronicznym, podpisem osobistym lub podpisem zaufanym albo 2) uwierzytelnieniu się przez użycie środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej, albo 3) osobistym potwierdzeniu tożsamości wnioskodawcy w terminie 14 dni od dnia złożenia wniosku w siedzibie dowolnego sądu. 3. Konto zakłada się po pozytywnej weryfikacji, o której mowa w § 6. 4. Z chwilą założenia konta osoba fizyczna, która je założyła, staje się użytkownikiem konta. 5. Żądania zmiany lub dodania imienia lub nazwiska lub dodania identyfikatora osoby fizycznej należy dokonać w portalu informacyjnym i potwierdzić podpisem zaufanym, kwalifikowanym podpisem elektronicznym, podpisem osobistym albo uwierzytelnić przez użycie środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej, albo stawić się w siedzibie dowolnego sądu w terminie 14 dni od dnia złożenia wniosku w celu potwierdzenia nowych danych. 6. Konta osoby fizycznej nie zakłada się w przypadku: 1) braków formalnych wniosku; 2) negatywnej weryfikacji osoby fizycznej; 3) ustalenia, że istnieje w portalu informacyjnym konto tej osoby fizycznej; 4) ustalenia, że dane podane we wniosku są nieprawdziwe; 5) niestawiennictwa w terminie, o którym mowa w ust. 2 pkt 3."
     },
     {
       "provision_ref": "par4u1p1",
@@ -181,7 +223,7 @@
       "provision_ref": "par4u2p1",
       "section": "4",
       "title": "§ 4 ust. 2 pkt 1",
-      "content": "podpisaniu się kwalifikowanym podpisem elektronicznym, podpisem osobistym lub podpisem zaufanym albo Poz. 216"
+      "content": "podpisaniu się kwalifikowanym podpisem elektronicznym, podpisem osobistym lub podpisem zaufanym albo"
     },
     {
       "provision_ref": "par4u2p2",
@@ -247,7 +289,7 @@
       "provision_ref": "par5",
       "section": "5",
       "title": "§ 5",
-      "content": "1. Wniosek o założenie konta dla podmiotu albo podmiotu publicznego składa się za pośrednictwem konta użytkownika. 2. Wniosek podmiotu albo podmiotu publicznego zawiera: 1) nazwę lub firmę, pod którą podmiot albo podmiot publiczny działa; 2) oznaczenie formy prawnej; 3) siedzibę i adres; 4) w przypadku podmiotu – numer wpisu w Krajowym Rejestrze Sądowym, a w razie jego braku kolejno NIP, REGON lub numer w innym właściwym rejestrze lub ewidencji, a w przypadku podmiotu publicznego – NIP, a w razie jego braku kolejno REGON lub numer w innym właściwym rejestrze lub ewidencji; 5) imię lub imiona i nazwisko osoby składającej wniosek w imieniu podmiotu albo podmiotu publicznego; 3. Do wniosku składanego za pośrednictwem portalu informacyjnego dołącza się odpisy dokumentów potwierdzające umocowanie osoby składającej wniosek do działania w imieniu podmiotu albo podmiotu publicznego: 1) w przypadku podmiotu publicznego poświadczone przy użyciu kwalifikowanego podpisu elektronicznego, podpisu zaufanego lub podpisu osobistego, 2) w przypadku podmiotu poświadczone w sposób określony w art. 97 § 2 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2024 r. poz. 1001, z 2025 r. poz. 479, 1669 i 1793 oraz z 2026 r. poz. 26 i 176) – chyba że dołączono dokument w formie elektronicznej albo stwierdzenie umocowania jest możliwe na podstawie wykazu lub innego rejestru, do którego dyrektor sądu apelacyjnego, któremu powierzono wykonywanie zadań związanych z utrzymaniem i rozwojem portalu informacyjnego zgodnie z art. 175da § 7 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, ma dostęp drogą elektroniczną; okoliczność tę należy wskazać w treści wniosku. 4. Do wniosku, o którym mowa w ust. 1, przepis § 4 ust. 2 pkt 1 i 2 stosuje się odpowiednio. 5. Konto zakłada się po pozytywnej weryfikacji, o której mowa w § 6. 6. Po założeniu konta podmiotu publicznego, który nie posiada numeru NIP lub REGON, jest nadawany identyfikator, o którym mowa w § 2 pkt 4 lit. b. 7. Po założeniu konta podmiotu, który nie posiada numeru wpisu w Krajowym Rejestrze Sądowym, NIP lub REGON, jest nadawany identyfikator, o którym mowa w § 2 pkt 5 lit. c. 8. Konto zakłada się dla jednostki samorządu terytorialnego, związku międzygminnego, związku powiatów, związku powiatowo-gminnego, związku metropolitalnego oraz państwowych albo samorządowych jednostek organizacyjnych. Konto to jest wspólne dla organów tych jednostek i urzędów je obsługujących. Poz. 216 9. Konta podmiotu albo podmiotu publicznego nie zakłada się w przypadku: 1) braków formalnych wniosku; 2) negatywnej weryfikacji podmiotu lub podmiotu publicznego lub stwierdzenia, że wniosek został złożony przez osobę nieuprawnioną; 3) ustalenia, że istnieje w portalu informacyjnym konto tego podmiotu albo podmiotu publicznego; 4) gdy wniosek dotyczy założenia konta dla organu jednostki lub urzędu, o których mowa w ust. 8 zdanie drugie; 5) ustalenia, że dane podane we wniosku są nieprawdziwe; 6) ustalenia, że wniosek dotyczy założenia konta podmiotu publicznego dla podmiotu albo konta podmiotu dla podmiotu publicznego. 10. Z chwilą założenia konta podmiotu albo podmiotu publicznego osoba składająca wniosek staje się administratorem. 11. Wniosek, o którym mowa w ust. 1, podmiot publiczny może również złożyć w formie pisemnej do sądu apelacyjnego, którego dyrektorowi powierzono wykonywanie zadań związanych z utrzymaniem i rozwojem portalu informacyjnego zgodnie z art. 175da § 7 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych. Wniosek zawiera dodatkowo wskazanie administratora wraz z podaniem jego imienia, nazwiska oraz identyfikatora."
+      "content": "1. Wniosek o założenie konta dla podmiotu albo podmiotu publicznego składa się za pośrednictwem konta użytkownika. 2. Wniosek podmiotu albo podmiotu publicznego zawiera: 1) nazwę lub firmę, pod którą podmiot albo podmiot publiczny działa; 2) oznaczenie formy prawnej; 3) siedzibę i adres; 4) w przypadku podmiotu – numer wpisu w Krajowym Rejestrze Sądowym, a w razie jego braku kolejno NIP, REGON lub numer w innym właściwym rejestrze lub ewidencji, a w przypadku podmiotu publicznego – NIP, a w razie jego braku kolejno REGON lub numer w innym właściwym rejestrze lub ewidencji; 5) imię lub imiona i nazwisko osoby składającej wniosek w imieniu podmiotu albo podmiotu publicznego; 3. Do wniosku składanego za pośrednictwem portalu informacyjnego dołącza się odpisy dokumentów potwierdzające umocowanie osoby składającej wniosek do działania w imieniu podmiotu albo podmiotu publicznego: 1) w przypadku podmiotu publicznego poświadczone przy użyciu kwalifikowanego podpisu elektronicznego, podpisu zaufanego lub podpisu osobistego, 2) w przypadku podmiotu poświadczone w sposób określony w art. 97 § 2 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2024 r. poz. 1001, z 2025 r. poz. 479, 1669 i 1793 oraz z 2026 r. poz. 26 i 176) – chyba że dołączono dokument w formie elektronicznej albo stwierdzenie umocowania jest możliwe na podstawie wykazu lub innego rejestru, do którego dyrektor sądu apelacyjnego, któremu powierzono wykonywanie zadań związanych z utrzymaniem i rozwojem portalu informacyjnego zgodnie z art. 175da § 7 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, ma dostęp drogą elektroniczną; okoliczność tę należy wskazać w treści wniosku. 4. Do wniosku, o którym mowa w ust. 1, przepis § 4 ust. 2 pkt 1 i 2 stosuje się odpowiednio. 5. Konto zakłada się po pozytywnej weryfikacji, o której mowa w § 6. 6. Po założeniu konta podmiotu publicznego, który nie posiada numeru NIP lub REGON, jest nadawany identyfikator, o którym mowa w § 2 pkt 4 lit. b. 7. Po założeniu konta podmiotu, który nie posiada numeru wpisu w Krajowym Rejestrze Sądowym, NIP lub REGON, jest nadawany identyfikator, o którym mowa w § 2 pkt 5 lit. c. 8. Konto zakłada się dla jednostki samorządu terytorialnego, związku międzygminnego, związku powiatów, związku powiatowo-gminnego, związku metropolitalnego oraz państwowych albo samorządowych jednostek organizacyjnych. Konto to jest wspólne dla organów tych jednostek i urzędów je obsługujących. 9. Konta podmiotu albo podmiotu publicznego nie zakłada się w przypadku: 1) braków formalnych wniosku; 2) negatywnej weryfikacji podmiotu lub podmiotu publicznego lub stwierdzenia, że wniosek został złożony przez osobę nieuprawnioną; 3) ustalenia, że istnieje w portalu informacyjnym konto tego podmiotu albo podmiotu publicznego; 4) gdy wniosek dotyczy założenia konta dla organu jednostki lub urzędu, o których mowa w ust. 8 zdanie drugie; 5) ustalenia, że dane podane we wniosku są nieprawdziwe; 6) ustalenia, że wniosek dotyczy założenia konta podmiotu publicznego dla podmiotu albo konta podmiotu dla podmiotu publicznego. 10. Z chwilą założenia konta podmiotu albo podmiotu publicznego osoba składająca wniosek staje się administratorem. 11. Wniosek, o którym mowa w ust. 1, podmiot publiczny może również złożyć w formie pisemnej do sądu apelacyjnego, którego dyrektorowi powierzono wykonywanie zadań związanych z utrzymaniem i rozwojem portalu informacyjnego zgodnie z art. 175da § 7 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych. Wniosek zawiera dodatkowo wskazanie administratora wraz z podaniem jego imienia, nazwiska oraz identyfikatora."
     },
     {
       "provision_ref": "par5u1",
@@ -331,7 +373,7 @@
       "provision_ref": "par5u8",
       "section": "5",
       "title": "§ 5 ust. 8",
-      "content": "Konto zakłada się dla jednostki samorządu terytorialnego, związku międzygminnego, związku powiatów, związku powiatowo-gminnego, związku metropolitalnego oraz państwowych albo samorządowych jednostek organizacyjnych. Konto to jest wspólne dla organów tych jednostek i urzędów je obsługujących. Poz. 216"
+      "content": "Konto zakłada się dla jednostki samorządu terytorialnego, związku międzygminnego, związku powiatów, związku powiatowo-gminnego, związku metropolitalnego oraz państwowych albo samorządowych jednostek organizacyjnych. Konto to jest wspólne dla organów tych jednostek i urzędów je obsługujących."
     },
     {
       "provision_ref": "par5u9p1",
@@ -475,7 +517,7 @@
       "provision_ref": "par9",
       "section": "9",
       "title": "§ 9",
-      "content": "W portalu informacyjnym uwierzytelnienie następuje w jeden z następujących sposobów: 1) przez wprowadzenie nazwy użytkownika oraz hasła; 2) przez użycie środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej. Poz. 216"
+      "content": "W portalu informacyjnym uwierzytelnienie następuje w jeden z następujących sposobów: 1) przez wprowadzenie nazwy użytkownika oraz hasła; 2) przez użycie środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej."
     },
     {
       "provision_ref": "par9p1",
@@ -487,7 +529,7 @@
       "provision_ref": "par9p2",
       "section": "9",
       "title": "§ 9 pkt 2",
-      "content": "przez użycie środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej. Poz. 216"
+      "content": "przez użycie środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej."
     },
     {
       "provision_ref": "par10",
@@ -577,7 +619,7 @@
       "provision_ref": "par13",
       "section": "13",
       "title": "§ 13",
-      "content": "1. Konto użytkownika konta może być przez niego zlikwidowane na wniosek złożony za pośrednictwem portalu informacyjnego. Przepisy § 4 ust. 2 i 3 stosuje się odpowiednio. 2. Konto użytkownika konta jest likwidowane przez dyrektora sądu apelacyjnego, któremu powierzono wykonywanie zadań związanych z utrzymaniem i rozwojem portalu informacyjnego zgodnie z art. 175da § 7 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, po uzyskaniu informacji o zgonie użytkownika konta lub ujawnieniu okoliczności, o których mowa w § 4 ust. 6 pkt 3 lub 4. 3. Konto podmiotu lub podmiotu publicznego może być zlikwidowane na wniosek złożony za pośrednictwem portalu informacyjnego. Przepisy § 5 ust. 2–5 stosuje się odpowiednio. 4. Konto podmiotu jest likwidowane przez dyrektora sądu apelacyjnego, któremu powierzono wykonywanie zadań związanych z utrzymaniem i rozwojem portalu informacyjnego zgodnie z art. 175da § 7 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, po uzyskaniu informacji o likwidacji podmiotu, w tym po uzyskaniu informacji o prawomocnym wykreśleniu tego podmiotu z rejestru KRS lub ujawnieniu okoliczności, o których mowa w § 5 ust. 9 pkt 3 lub 5–6. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1841, z 2025 r. poz. 620, 1172, 1302, 1518 i 1661 oraz z 2026 r. poz. 26. Poz. 216 5. Konto podmiotu publicznego jest likwidowane przez dyrektora sądu apelacyjnego, któremu powierzono wykonywanie zadań związanych z utrzymaniem i rozwojem portalu informacyjnego zgodnie z art. 175da § 7 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, po uzyskaniu informacji o zniesieniu podmiotu publicznego oraz ujawnieniu okoliczności, o których mowa w § 5 ust. 9 pkt 3–6. 6. Dane osobowe użytkownika związane z kontem są usuwane po upływie 5 lat od dnia zlikwidowania konta."
+      "content": "1. Konto użytkownika konta może być przez niego zlikwidowane na wniosek złożony za pośrednictwem portalu informacyjnego. Przepisy § 4 ust. 2 i 3 stosuje się odpowiednio. 2. Konto użytkownika konta jest likwidowane przez dyrektora sądu apelacyjnego, któremu powierzono wykonywanie zadań związanych z utrzymaniem i rozwojem portalu informacyjnego zgodnie z art. 175da § 7 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, po uzyskaniu informacji o zgonie użytkownika konta lub ujawnieniu okoliczności, o których mowa w § 4 ust. 6 pkt 3 lub 4. 3. Konto podmiotu lub podmiotu publicznego może być zlikwidowane na wniosek złożony za pośrednictwem portalu informacyjnego. Przepisy § 5 ust. 2–5 stosuje się odpowiednio. 4. Konto podmiotu jest likwidowane przez dyrektora sądu apelacyjnego, któremu powierzono wykonywanie zadań związanych z utrzymaniem i rozwojem portalu informacyjnego zgodnie z art. 175da § 7 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, po uzyskaniu informacji o likwidacji podmiotu, w tym po uzyskaniu informacji o prawomocnym wykreśleniu tego podmiotu z rejestru KRS lub ujawnieniu okoliczności, o których mowa w § 5 ust. 9 pkt 3 lub 5–6. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1841, z 2025 r. poz. 620, 1172, 1302, 1518 i 1661 oraz z 2026 r. poz. 26. 5. Konto podmiotu publicznego jest likwidowane przez dyrektora sądu apelacyjnego, któremu powierzono wykonywanie zadań związanych z utrzymaniem i rozwojem portalu informacyjnego zgodnie z art. 175da § 7 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, po uzyskaniu informacji o zniesieniu podmiotu publicznego oraz ujawnieniu okoliczności, o których mowa w § 5 ust. 9 pkt 3–6. 6. Dane osobowe użytkownika związane z kontem są usuwane po upływie 5 lat od dnia zlikwidowania konta."
     },
     {
       "provision_ref": "par13u1",
@@ -601,13 +643,7 @@
       "provision_ref": "par13u4",
       "section": "13",
       "title": "§ 13 ust. 4",
-      "content": "Konto podmiotu jest likwidowane przez dyrektora sądu apelacyjnego, któremu powierzono wykonywanie zadań związanych z utrzymaniem i rozwojem portalu informacyjnego zgodnie z art. 175da § 7 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, po uzyskaniu informacji o likwidacji podmiotu, w tym po uzyskaniu informacji o prawomocnym wykreśleniu tego podmiotu z rejestru KRS lub ujawnieniu okoliczności, o których mowa w § 5 ust. 9 pkt 3 lub 5–6. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1841, z 2025 r. poz. 620, 1172, 1302, 1518 i 1661 oraz z 2026 r. poz."
-    },
-    {
-      "provision_ref": "par13u26",
-      "section": "13",
-      "title": "§ 13 ust. 26",
-      "content": "Poz. 216"
+      "content": "Konto podmiotu jest likwidowane przez dyrektora sądu apelacyjnego, któremu powierzono wykonywanie zadań związanych z utrzymaniem i rozwojem portalu informacyjnego zgodnie z art. 175da § 7 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, po uzyskaniu informacji o likwidacji podmiotu, w tym po uzyskaniu informacji o prawomocnym wykreśleniu tego podmiotu z rejestru KRS lub ujawnieniu okoliczności, o których mowa w § 5 ust. 9 pkt 3 lub 5–6. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1841, z 2025 r. poz. 620, 1172, 1302, 1518 i 1661 oraz z 2026 r. poz. 26."
     },
     {
       "provision_ref": "par13u5",

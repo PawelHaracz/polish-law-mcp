@@ -6,6 +6,7 @@ import type Database from '@ansvar/mcp-sqlite';
 import { resolveDocumentId } from '../utils/statute-id.js';
 import { generateResponseMetadata, type ToolResponse, type RelatedActRef } from '../utils/metadata.js';
 import { buildProvisionCitation } from '../utils/citation.js';
+import { normalizeSuperscriptRef } from '../utils/provision-ref.js';
 
 /**
  * Graph-aware context: the acts that amend the given document (inbound
@@ -78,7 +79,7 @@ export async function getProvision(
   const ref = input.provision_ref ?? input.section;
   if (ref) {
     // Strip subsection references: "13(1)" -> "13", "s13(2)(a)" -> "s13"
-    const refTrimmed = ref.trim().replace(/(\([\dA-Za-z]+\))+$/, '');
+    const refTrimmed = normalizeSuperscriptRef(ref.trim()).replace(/(\([\dA-Za-z]+\))+$/, '');
 
     // Try direct provision_ref match
     let provision = db.prepare(
@@ -97,6 +98,14 @@ export async function getProvision(
       provision = db.prepare(
         'SELECT * FROM legal_provisions WHERE document_id = ? AND section = ?'
       ).get(resolvedId, refTrimmed) as Record<string, unknown> | undefined;
+    }
+
+    // Acts parsed from HTML store superscript units flattened ("art22^1" as "art221").
+    if (!provision && refTrimmed.includes('^')) {
+      const flat = refTrimmed.replace(/\^/g, '');
+      provision = db.prepare(
+        'SELECT * FROM legal_provisions WHERE document_id = ? AND (provision_ref = ? OR section = ?)'
+      ).get(resolvedId, flat, flat) as Record<string, unknown> | undefined;
     }
 
     // Try LIKE match for flexible input
@@ -128,6 +137,7 @@ export async function getProvision(
           input.section || input.provision_ref || '',
           docRow.url || null,
           null,
+          provision.title ? String(provision.title) : null,
         ),
         ...(related.length > 0 ? { _related: related } : {}),
         _metadata: generateResponseMetadata(db),

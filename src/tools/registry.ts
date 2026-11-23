@@ -94,6 +94,9 @@ export const TOOLS: Tool[] = [
       'Specify a document_id (Act title, abbreviation, or internal ID) and optionally a section or provision_ref. ' +
       'provision_ref is hierarchical: art1 returns the whole article (aggregate), while art1u2 (ust. 2), ' +
       'art1u2p3 (pkt 3), art1u2p3la (lit. a), art4par2 (§ 2) return the exact sub-unit. ' +
+      'Superscript units use ^: art22^1 is art. 22¹, art30par2^1 is art. 30 § 2¹ ("22¹" and "22[1]" are accepted too; ' +
+      'older acts store them flattened, e.g. art221, which is tried as a fallback). ' +
+      'Regulations use par1 (§ 1) as the top-level unit; annexes are zal1, zal2 … ' +
       'Omit section/provision_ref to get ALL provisions in the statute (use sparingly — can be large). ' +
       'When the act has been amended, the response includes a _related list of the amending acts ' +
       '(citation-graph context) — use get_related_acts for the full graph. ' +

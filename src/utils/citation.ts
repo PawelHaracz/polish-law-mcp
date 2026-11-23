@@ -68,6 +68,8 @@ export function buildCitation(
  * @param inputSection   The section argument as passed by the caller
  * @param sourceUrl      Official portal URL (optional)
  * @param shortName      Short name / alias (optional)
+ * @param provisionTitle Human label of the unit, e.g. "Art. 22¹" or "§ 3" (optional);
+ *                       preferred over the raw ref ("art22^1") in display_text
  */
 export function buildProvisionCitation(
   documentId: string,
@@ -77,6 +79,7 @@ export function buildProvisionCitation(
   inputSection: string,
   sourceUrl?: string | null,
   shortName?: string | null,
+  provisionTitle?: string | null,
 ): CitationMetadata {
   // Build canonical_ref — detect common statute ID formats
   let canonicalRef: string;
@@ -92,7 +95,9 @@ export function buildProvisionCitation(
 
   // Build display_text with provision reference
   let displayText: string;
-  if (provisionRef && provisionRef.includes(':')) {
+  if (provisionTitle) {
+    displayText = `${provisionTitle} ${canonicalRef}`;
+  } else if (provisionRef && provisionRef.includes(':')) {
     // Chapter:section format (e.g., "3:12" → "3 kap. 12 §")
     const [ch, sec] = provisionRef.split(':');
     displayText = `${ch} kap. ${sec} § ${canonicalRef}`;
