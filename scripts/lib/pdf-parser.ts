@@ -16,6 +16,7 @@
 
 import { execFileSync } from 'child_process';
 import type { ActIndexEntry, ParsedAct, ParsedProvision } from './parser.js';
+import { toSuperscript } from './superscript.js';
 
 /** Repeating page header/footer lines emitted by the Sejm PDF template. */
 const CHROME_PATTERNS: RegExp[] = [
@@ -37,21 +38,6 @@ const SUP = String.raw`(?:\[\d{1,3}[a-z]{0,2}\])?`;
 /** Ref/section form of a unit number: "22[1]" -> "22^1" (never collides with art. 221). */
 function refNum(n: string): string {
   return n.toLowerCase().replace(/\[(\w+)\]/, '^$1');
-}
-
-const SUPERSCRIPT: Record<string, string> = {
-  '0': '⁰', '1': '¹', '2': '²', '3': '³', '4': '⁴', '5': '⁵', '6': '⁶', '7': '⁷', '8': '⁸', '9': '⁹',
-  a: 'ᵃ', b: 'ᵇ', c: 'ᶜ', d: 'ᵈ', e: 'ᵉ', f: 'ᶠ', g: 'ᵍ', h: 'ʰ', i: 'ⁱ', j: 'ʲ', k: 'ᵏ',
-};
-
-function toSuperscript(s: string): string | null {
-  let out = '';
-  for (const ch of s.toLowerCase()) {
-    const sup = SUPERSCRIPT[ch];
-    if (!sup) return null;
-    out += sup;
-  }
-  return out;
 }
 
 /** Display form of a unit number: "22[1]" -> "22¹". */
