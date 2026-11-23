@@ -225,3 +225,51 @@ describe('parsePolishHtml — rozporządzenie (§ as top-level unit)', () => {
     expect(leaf.content).toContain('tryb przyznawania świadczeń');
   });
 });
+
+/** ELI prints superscript unit numbers with <SUP>: "Art.&nbsp;300<SUP>1</SUP>." is art. 300¹. */
+function htmlWithSuperscripts(): string {
+  return `
+<div class="unit unit_arti" id="chpt_1-arti_300" data-id="arti_300">
+  <h3><B>Art.&nbsp;300.</B></h3>
+  <div class="unit-inner"><div data-template="xText" class="pro-text">Przepisy art. 291-299 nie naruszają praw.</div></div>
+</div>
+<div class="unit unit_arti" id="chpt_1-arti_300_1" data-id="arti_300_1">
+  <h3><B>Art.&nbsp;300<SUP>1</SUP>.</B><A class="gloss-link tooltip" href="#gloss-0:2:"><sup>2)</sup><span class="tooltip-text"><span class="pro-gloss-inner">Dodany przez art. 1 pkt 3 ustawy.</span></span></A></h3>
+  <div class="unit-inner">
+    <div class="unit unit_para" id="chpt_1-arti_300_1-para_1" data-id="para_1">
+      <h3>§&nbsp;1.</h3>
+      <div class="unit-inner"><div data-template="xText" class="pro-text">Prosta spółka akcyjna może być utworzona w każdym celu.</div></div>
+    </div>
+    <div class="unit unit_para" id="chpt_1-arti_300_1-para_1_1" data-id="para_1_1">
+      <h3>§&nbsp;1<SUP>1</SUP>.</h3>
+      <div class="unit-inner"><div data-template="xText" class="pro-text">Zob. art. 300<SUP>75</SUP> § 2.</div></div>
+    </div>
+  </div>
+</div>
+<div class="unit unit_arti" id="chpt_1-arti_3001" data-id="arti_3001">
+  <h3><B>Art.&nbsp;3001.</B></h3>
+  <div class="unit-inner"><div data-template="xText" class="pro-text">Prawdziwy artykuł 3001.</div></div>
+</div>`;
+}
+
+describe('parsePolishHtml — superscript unit numbers', () => {
+  const p = parsePolishHtml(htmlWithSuperscripts(), ACT).provisions;
+  const byRef = (r: string) => p.filter(x => x.provision_ref === r);
+
+  it('gives art. 300¹ its own ^ ref instead of a duplicate art300', () => {
+    expect(byRef('art300')).toHaveLength(1);
+    expect(byRef('art300^1')).toHaveLength(1);
+    expect(byRef('art300^1')[0]!.title).toBe('Art. 300¹');
+    expect(byRef('art300^1')[0]!.section).toBe('300^1');
+    expect(byRef('art3001')[0]!.content).toBe('Prawdziwy artykuł 3001.');
+  });
+
+  it('carries superscripts into sub-unit refs and titles', () => {
+    expect(byRef('art300^1par1^1')[0]!.title).toBe('Art. 300¹ § 1¹');
+    expect(byRef('art300^1par1')).toHaveLength(1);
+  });
+
+  it('renders superscripts in text as real superscripts, not "300 75"', () => {
+    expect(byRef('art300^1par1^1')[0]!.content).toContain('art. 300⁷⁵ § 2');
+  });
+});

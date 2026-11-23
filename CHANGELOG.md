@@ -8,7 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Changed
-- Data refresh to Dziennik Ustaw of 2026-11-16: 20,791 acts (9,343 ustawy + 11,448 in-force rozporządzenia), 1,487,603 provisions.
+- Data refresh to Dziennik Ustaw of 2026-11-16: 20,791 acts (9,343 ustawy + 11,448 in-force rozporządzenia), 1,490,262 provisions.
 - Re-ingested acts changed upstream since the previous census (1,180 ustawy, 1,431 rozporządzenia), preferring the newest consolidated text; 376 ustawy whose consolidated text is PDF-only re-ingested from PDF.
 - Pruned 154 rozporządzenia that are no longer in force.
 - 401 rozporządzenia whose newest consolidated text is PDF-only re-ingested from PDF; 44 amending ustawy from 2025–2026 added.
@@ -25,7 +25,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - PDF parser: the Dziennik Ustaw page header (`Poz. 1245`) no longer leaks into provision text or fakes ustęp boundaries.
 - PDF parser: an article with punkty but no ustępy is split into `art2p1` … rows like the HTML parser does.
 - PDF parser: consolidated-text footnotes printed between punkty (`11) W brzmieniu ustalonym przez …`, `Dodany przez …`) no longer become punkt rows; their text stays in the preceding unit.
-- `get_provision` accepts `22¹`, `22[1]` and `22^1` and falls back to the flattened HTML form (`art221`) for older acts.
+- `get_provision` accepts `22¹`, `22[1]` and `22^1`.
+- HTML parser: superscript units (`Art. 300<SUP>1</SUP>`) were read as the base article, so e.g. all of KSH art. 300¹–300¹³⁴ (prosta spółka akcyjna) collapsed into duplicate `art300` rows and only one survived the build. They now get `^` refs like the PDF parser (`art300^1`, title `Art. 300¹`), and superscripts in text render as `300⁷⁵` instead of `300 75`.
 
 ## [1.0.0] - 2026-XX-XX
 ### Added

@@ -100,14 +100,6 @@ export async function getProvision(
       ).get(resolvedId, refTrimmed) as Record<string, unknown> | undefined;
     }
 
-    // Acts parsed from HTML store superscript units flattened ("art22^1" as "art221").
-    if (!provision && refTrimmed.includes('^')) {
-      const flat = refTrimmed.replace(/\^/g, '');
-      provision = db.prepare(
-        'SELECT * FROM legal_provisions WHERE document_id = ? AND (provision_ref = ? OR section = ?)'
-      ).get(resolvedId, flat, flat) as Record<string, unknown> | undefined;
-    }
-
     // Try LIKE match for flexible input
     if (!provision) {
       provision = db.prepare(

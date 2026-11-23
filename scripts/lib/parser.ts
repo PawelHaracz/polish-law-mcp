@@ -15,6 +15,8 @@
  * API endpoint: https://api.sejm.gov.pl/eli/acts/DU/{YEAR}/{POZ}/text.html
  */
 
+import { toSuperscript, caretToDisplay } from './superscript.js';
+
 export interface ActIndexEntry {
   id: string;
   title: string;
@@ -105,8 +107,16 @@ const HARD_LIMIT_CHARS = 5_000_000;
  * of 2633 chapeau chars), so keeping it would bloat the aggregate and duplicate
  * the citation list across every child punkt.
  */
+/**
+ * ELI prints superscript unit numbers as <SUP>k</SUP> ("Art.&nbsp;300<SUP>1</SUP>."
+ * is art. 300¹). Footnote markers are also <sup> but read "2)" — the digit-only
+ * pattern leaves them alone.
+ */
+const SUP_TAG_RE = /\s*<sup\b[^>]*>\s*(\d{1,3}[a-z]{0,2})\s*<\/sup>/gi;
+
 function stripHtml(html: string): string {
   return html
+    .replace(SUP_TAG_RE, (_, k: string) => toSuperscript(k) ?? ` ${k}`)
     .replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi, ' ')
     .replace(/<style\b[^>]*>[\s\S]*?<\/style>/gi, ' ')
     .replace(/<span\b[^>]*\bclass="[^"]*\bxHidden\b[^"]*"[^>]*>[\s\S]*?<\/span>/gi, ' ')
@@ -328,16 +338,18 @@ function findChildUnits(html: string, levels: readonly string[]): UnitNode[] {
 function unitNumber(unitHtml: string, level: UnitLevel): string {
   // The heading is the first <h3>…</h3> of the unit.
   const h3 = unitHtml.match(/<h3[^>]*>([\s\S]*?)<\/h3>/i)?.[1] ?? '';
-  const text = stripHtml(h3);
+  // Superscripts become "^k" here so the number reads "300^1", not "3001".
+  const text = stripHtml(h3.replace(SUP_TAG_RE, '^$1'));
+  const N = String.raw`\d+[a-z]*(?:\^\d+[a-z]*)?`;
   switch (level) {
-    case 'arti': // "Art. 1." / "Art. 20a."
-      return text.match(/Art\.?\s*(\d+[a-z]*)/i)?.[1]?.toLowerCase() ?? '';
-    case 'para': // "§ 1." / "§ 2a."
-      return text.match(/§\s*(\d+[a-z]*)/)?.[1]?.toLowerCase() ?? '';
-    case 'pass': // "1." / "2a."
-      return text.match(/(\d+[a-z]*)\s*\.?/)?.[1]?.toLowerCase() ?? '';
-    case 'pint': // "1)" / "10a)"
-      return text.match(/(\d+[a-z]*)\s*\)/)?.[1]?.toLowerCase() ?? '';
+    case 'arti': // "Art. 1." / "Art. 20a." / "Art. 300^1."
+      return text.match(new RegExp(String.raw`Art\.?\s*(${N})`, 'i'))?.[1]?.toLowerCase() ?? '';
+    case 'para': // "§ 1." / "§ 2a." / "§ 1^1."
+      return text.match(new RegExp(String.raw`§\s*(${N})`))?.[1]?.toLowerCase() ?? '';
+    case 'pass': // "1." / "2a." / "2^1."
+      return text.match(new RegExp(String.raw`(${N})\s*\.?`))?.[1]?.toLowerCase() ?? '';
+    case 'pint': // "1)" / "10a)" / "3^1)"
+      return text.match(new RegExp(String.raw`(${N})\s*\)`))?.[1]?.toLowerCase() ?? '';
     case 'lett': // "a)" / "aa)"
       return text.match(/([a-z]+)\s*\)/i)?.[1]?.toLowerCase() ?? '';
     case 'slet':
@@ -418,10 +430,11 @@ function walkArticle(
   const level: UnitLevel = node.level === 'para' ? 'para' : 'arti';
   const num =
     unitNumber(node.html, level) ||
-    node.id.match(/(?:arti|para)_(\d+[a-z]*)/i)?.[1] || '';
+    node.id.match(/(?:arti|para)_(\d+[a-z]*)(?:_(\d+[a-z]*))?$/i)?.slice(1, 3).filter(Boolean).join('^') || '';
   if (!num) return;
   const baseRef = `${LEVEL_TAG[level]}${num}`;
-  const titlePrefix = level === 'para' ? `§ ${num}` : `Art. ${num}`;
+  const shown = caretToDisplay(num);
+  const titlePrefix = level === 'para' ? `§ ${shown}` : `Art. ${shown}`;
 
   // Aggregate row — full recursive text (backward-compatible whole-unit view).
   emitProvision(
@@ -524,8 +537,17 @@ function tokenizeRef(ref: string): Array<[string, string]> {
       if (suffix && !REF_TAGS.some(t => tail.startsWith(t))) {
         value += suffix;
       }
-      tokens.push([tag, value]);
       i += value.length;
+      // Superscript part: "art300^75", "art18^3a".
+      const sup = ref.slice(i).match(/^\^\d+/)?.[0];
+      if (sup) {
+        value += sup;
+        i += sup.length;
+        const supTail = ref.slice(i);
+        const supSuffix = supTail.match(/^[a-z]/)?.[0];
+        if (supSuffix && !REF_TAGS.some(t => supTail.startsWith(t))) { value += supSuffix; i += 1; }
+      }
+      tokens.push([tag, value]);
     }
   }
   return tokens;
@@ -533,7 +555,7 @@ function tokenizeRef(ref: string): Array<[string, string]> {
 
 /** Human-readable title from a hierarchical ref, e.g. art1u2p3la → "Art. 1 ust. 2 pkt 3 lit. a". */
 function refTitle(ref: string): string {
-  const parts = tokenizeRef(ref).map(([tag, val]) => `${REF_TAG_LABEL[tag]} ${val}`);
+  const parts = tokenizeRef(ref).map(([tag, val]) => `${REF_TAG_LABEL[tag]} ${caretToDisplay(val)}`);
   return parts.join(' ') || ref;
 }
 
