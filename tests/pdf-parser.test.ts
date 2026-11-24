@@ -246,3 +246,77 @@ describe('parsePolishPdf — footnotes inside regulation §§', () => {
     expect(refs).toContain('par1u4p4');
   });
 });
+
+/** pdftotext layout of a page-bottom footnote (KP art. 22¹): marker in text, footnote before the date stamp. */
+const FOOTNOTE_PAGE = `Art. 22[1]. § 1. Pracodawca żąda podania danych osobowych obejmujących:
+1)
+
+imię (imiona) i nazwisko;
+
+5)
+
+kwalifikacje zawodowe;
+
+14)
+
+6)
+
+przebieg dotychczasowego zatrudnienia.
+
+§ 3. Pracodawca żąda od pracownika podania dodatkowo danych osobowych obejmujących:
+1)
+
+adres zamieszkania;
+
+2)
+
+numer PESEL;
+
+14)
+
+W brzmieniu ustalonym przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 10.
+15)
+Dodany przez art. 3 ustawy z dnia 1 marca 2024 r.
+
+2026-09-25
+
+Dziennik Ustaw
+
+– 12 –
+
+Poz. 1245
+
+3)
+
+inne dane osobowe pracownika.
+Art. 23. Przepis kolejny.`;
+
+describe('parsePolishPdf — page-bottom footnotes', () => {
+  const p = parsePolishPdf(FOOTNOTE_PAGE, ACT).provisions;
+  const byRef = (r: string) => p.find(x => x.provision_ref === r);
+
+  it('drops the footnote block and keeps the text that continues on the next page', () => {
+    const art = byRef('art22^1')!.content;
+    expect(art).not.toMatch(/W brzmieniu ustalonym|Dodany przez/);
+    expect(art).toContain('numer PESEL; 3) inne dane osobowe pracownika.');
+  });
+
+  it('drops the footnote reference marker in front of a punkt', () => {
+    expect(byRef('art22^1')!.content).toContain('kwalifikacje zawodowe; 6) przebieg');
+    expect(byRef('art22^1par3p3')!.content).toBe('inne dane osobowe pracownika.');
+  });
+
+  it('keeps the dropped footnotes on the act for EU-reference extraction', () => {
+    expect(parsePolishPdf(FOOTNOTE_PAGE, ACT).footnotes).toEqual([
+      'W brzmieniu ustalonym przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 10.',
+      'Dodany przez art. 3 ustawy z dnia 1 marca 2024 r.',
+    ]);
+  });
+
+  it('keeps a quoted footnote that an amending act inserts', () => {
+    const text = `Art. 1. W ustawie do tytułu dodaje się odnośnik nr 1 w brzmieniu:
+„1) Niniejsza ustawa dokonuje wdrożenia dyrektywy 2014/65/UE.”.
+Art. 2. Ustawa wchodzi w życie.`;
+    expect(parsePolishPdf(text, ACT).provisions.find(x => x.provision_ref === 'art1')!.content).toContain('Niniejsza ustawa dokonuje');
+  });
+});

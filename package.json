@@ -2,7 +2,7 @@
   "name": "@ansvar/polish-law-mcp",
   "version": "2.0.1",
   "mcpName": "eu.ansvar/polish-law-mcp",
-  "description": "Complete Polish law database — 20,791 acts (9,343 Ustawy + 11,448 in-force Rozporządzenia), 1,490,262 provisions (article + ustęp/punkt/litera/§ granularity) from the Sejm ELI API covering all parliamentary legislation published in Dziennik Ustaw (1918-2026) with Polish full-text search, status-aware reranking, and EU cross-references. Database shipped separately; point POLISH_LAW_DB_PATH at it.",
+  "description": "Complete Polish law database — 20,791 acts (9,343 Ustawy + 11,448 in-force Rozporządzenia), 1,491,486 provisions (article + ustęp/punkt/litera/§ granularity) from the Sejm ELI API covering all parliamentary legislation published in Dziennik Ustaw (1918-2026) with Polish full-text search, status-aware reranking, and EU cross-references. Database shipped separately; point POLISH_LAW_DB_PATH at it.",
   "author": "Ansvar Systems <hello@ansvar.eu>",
   "license": "Apache-2.0",
   "repository": {

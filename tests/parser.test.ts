@@ -273,3 +273,19 @@ describe('parsePolishHtml — superscript unit numbers', () => {
     expect(byRef('art300^1par1^1')[0]!.content).toContain('art. 300⁷⁵ § 2');
   });
 });
+
+describe('parsePolishHtml — footnote tooltips', () => {
+  it('drops gloss-link footnotes (with nested links) from provision text', () => {
+    const html = `
+<div class="unit unit_arti" id="chpt_1-arti_4" data-id="arti_4">
+  <h3><B>Art.&nbsp;4.</B></h3>
+  <div class="unit-inner"><div data-template="xText" class="pro-text">W ustawie o podatku akcyzowym (Dz. U. poz. 2538, z późn. zm.<A class="gloss-link tooltip" href="#gloss-0:5:"><sup>5)</sup><span class="tooltip-text"><span class="pro-gloss-inner">Zmiany wymienionej ustawy zostały ogłoszone w <A CLASS="pro-lexlink" HREF="https://api.sejm.gov.pl/eli/acts/DU/2019/412/text.html">Dz. U. z 2019 r. poz. 412</A> i 1210.</span></span></A>) wprowadza się zmiany.</div></div>
+</div>`;
+    const p = parsePolishHtml(html, ACT);
+    const art = p.provisions.find(x => x.provision_ref === 'art4')!;
+    expect(art.content).toBe('W ustawie o podatku akcyzowym (Dz. U. poz. 2538, z późn. zm.) wprowadza się zmiany.');
+    expect(p.footnotes).toEqual(['Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 412 i 1210.']);
+    // The footnote's act link still feeds the citation graph.
+    expect((p.references ?? []).length).toBeGreaterThan(0);
+  });
+});
