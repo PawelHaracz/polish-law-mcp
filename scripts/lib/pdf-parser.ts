@@ -160,9 +160,27 @@ function stripFootnotes(lines: string[], sink?: string[]): string[] {
  * lines ("2.", "3)", etc.). We reconstruct each article's full text, then split
  * it into sub-units mirroring the HTML hierarchy.
  */
+/**
+ * A consolidated text (tekst jednolity) is an obwieszczenie whose załącznik holds
+ * the act. The obwieszczenie quotes in full the provisions the consolidated text
+ * does NOT cover ("„Art. 8. Okresów, o których mowa…"), which would otherwise
+ * shadow the act's own art. 8. Start at the "Załącznik do obwieszczenia" line.
+ */
+function dropObwieszczenie(lines: string[]): string[] {
+  const head = lines.slice(0, 60).join(' ');
+  if (!/w sprawie ogłoszenia\s+jednolitego\s+tekstu/i.test(head)) return lines;
+  const at = lines.findIndex(l => /^Załącznik do obwieszczenia\b/i.test(l.trim()));
+  if (at <= 0) return lines;
+  // An act heading before that line means the act came first (OCR garbled the
+  // real załącznik line and this one belongs to a later, appended text).
+  const actHeading = /^(?:U\s*S\s*T\s*A\s*W\s*A|R\s*O\s*Z\s*P\s*O\s*R\s*Z\s*Ą\s*D\s*Z\s*E\s*N\s*I\s*E|D\s*E\s*K\s*R\s*E\s*T)$/;
+  if (lines.slice(0, at).some(l => actHeading.test(l.trim()))) return lines;
+  return lines.slice(at);
+}
+
 export function parsePolishPdf(rawText: string, act: ActIndexEntry): ParsedAct {
   const footnotes: string[] = [];
-  const lines = cleanLines(rawText, footnotes);
+  const lines = dropObwieszczenie(cleanLines(rawText, footnotes));
   const provisions: ParsedProvision[] = [];
 
   // Split into articles by the "Art. N." marker at line start. Pre-war PDFs are
@@ -202,6 +220,7 @@ export function parsePolishPdf(rawText: string, act: ActIndexEntry): ParsedAct {
   const annexStart = /^(?:Załącznik|ZAŁĄCZNIK)(?:i|I)?(?:\s+(?:nr|NR)\s+\d+[a-z]*)?(?:\s+do\s+(?!obwieszczenia)|\s*$)/;
 
   const annexes: Array<{ heading: string; buf: string[] }> = [];
+  const preamble: string[] = [];
 
   for (const line of lines) {
     if (annexes.length > 0) {
@@ -220,10 +239,19 @@ export function parsePolishPdf(rawText: string, act: ActIndexEntry): ParsedAct {
       current = { num: m[1], buf: m[2] ? [m[2]] : [] };
     } else if (current) {
       current.buf.push(line);
+    } else {
+      preamble.push(line);
     }
     // Lines before the first article (preamble/title) are ignored for provisions.
   }
   flush();
+
+  // The title's footnote ("Kodeks pracy1) … 1) Niniejsza ustawa dokonuje …
+  // wdrożenia dyrektyw: …") can run too long for stripFootnotes and is left in
+  // the preamble; keep it as a footnote so its EU references survive.
+  const pre = preamble.join(' ').replace(/\s+/g, ' ');
+  const euNote = pre.search(/Niniejsz[aey]\s+(?:ustawa|rozporządzenie|dekret)\s+(?:dokonuje|wdraża|służy|w zakresie)/i);
+  if (euNote >= 0) footnotes.push(pre.slice(euNote).trim());
 
   // Consecutive headings (a multi-line "Załącznik nr 1 / do rozporządzenia …")
   // leave empty chunks; fold them into the next one so numbering stays dense.
