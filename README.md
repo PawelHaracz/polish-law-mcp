@@ -101,7 +101,7 @@ Once connected, just ask naturally:
 | Category | Count | Details |
 |----------|-------|---------|
 | **Acts (ustawy + rozporządzenia)** | 20,791 acts | 9,343 statutes/codes + 11,448 regulations; Dziennik Ustaw 1918-2026 from Sejm ELI API |
-| **Provisions** | 1,491,486 | Article aggregate + ustęp/punkt/litera/§ granularity, full-text searchable with FTS5 |
+| **Provisions** | 1,279,244 | Article aggregate + ustęp/punkt/litera/§ granularity, full-text searchable with FTS5 |
 | **Case Law** | separate MCP | Polish case law (SN/NSA/TK) is a separate server over SAOS — see `HANDOFF-case-law-mcp.md` |
 | **Preparatory Works** | 43,312 documents | Premium tier -- druki sejmowe, rządowe projekty ustaw |
 | **Agency Guidance** | 10 documents | Premium tier -- UODO guidance |
@@ -169,7 +169,7 @@ Sejm ELI API (api.sejm.gov.pl) --> Parse --> SQLite --> FTS5 snippet() --> MCP r
 
 | Tool | Description |
 |------|-------------|
-| `search_legislation` | FTS5 full-text search across 1,491,486 provisions with BM25 ranking |
+| `search_legislation` | FTS5 full-text search across 1,279,244 provisions with BM25 ranking |
 | `get_provision` | Retrieve specific provision by Dz.U. identifier + article number |
 | `validate_citation` | Validate citation against database (zero-hallucination check) |
 | `build_legal_stance` | Aggregate citations from statutes, case law, preparatory works |
@@ -356,7 +356,7 @@ Priority areas:
 ## Roadmap
 
 - [x] Core statute database with FTS5 search
-- [x] Full corpus ingestion (20,791 acts, 1,491,486 provisions) from Dziennik Ustaw 1918-2026
+- [x] Full corpus ingestion (20,791 acts, 1,279,244 provisions) from Dziennik Ustaw 1918-2026
 - [x] EU law integration tools
 - [x] Vercel Streamable HTTP deployment
 
@@ -380,7 +380,7 @@ If you use this MCP server in academic research:
   title = {Polish Law MCP Server: Production-Grade Legal Research Tool},
   year = {2026},
   url = {https://github.com/Ansvar-Systems/polish-law-mcp},
-  note = {20,791 Polish acts with 1,491,486 provisions from Dziennik Ustaw (1918-2026) and EU law cross-references}
+  note = {20,791 Polish acts with 1,279,244 provisions from Dziennik Ustaw (1918-2026) and EU law cross-references}
 }
 ```
 

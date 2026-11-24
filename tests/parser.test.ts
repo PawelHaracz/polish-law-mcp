@@ -194,6 +194,90 @@ describe('parsePolishHtml — amendment cite-box handling (P3)', () => {
   });
 });
 
+/** An amending punkt whose cite-box starts below article level ("ust. 2 otrzymuje brzmienie"). */
+function htmlWithUstCiteBox(): string {
+  return `
+<div class="unit unit_arti pro-text false" id="arti_1" data-id="arti_1">
+  <h3><B>Art.&nbsp;1.</B></h3>
+  <div class="unit-inner">
+    <div data-template="xText" class="pro-text">W ustawie - Prawo bankowe wprowadza się następujące zmiany:</div>
+    <div class="unit unit_pint pro-text false" id="arti_1-pint_4" data-id="pint_4">
+      <h3 class="pro-align-padding-right">4)</h3>
+      <div class="unit-inner">
+        <div data-template="xText" class="pro-text">w art. 25 ust. 1 i 2 otrzymują brzmienie:</div>
+        <DIV CLASS="cite-box pro-cite-text"><div class="cite-body">
+          <div class="unit unit_pass pro-cite-text false" id="arti_1-pint_4-pass_1" data-id="pass_1">
+            <h3>1.</h3><div class="unit-inner"><div data-template="xText" class="pro-cite-text">Bank tworzy fundusz.</div></div>
+          </div>
+          <div class="unit unit_pass pro-cite-text false" id="arti_1-pint_4-pass_2" data-id="pass_2">
+            <h3>2.</h3><div class="unit-inner"><div data-template="xText" class="pro-cite-text">Fundusz jest jawny.</div></div>
+          </div>
+        </div></DIV>
+      </div>
+    </div>
+  </div>
+</div>`;
+}
+
+/**
+ * A consolidated text: the obwieszczenie quotes, in a cite-box, an amending act's
+ * art. 29 that the jednolity tekst does not cover; the act itself (załącznik)
+ * follows with its own art. 29.
+ */
+function htmlObwieszczenie(heading = 'Obwieszczenie Marszałka Sejmu z dnia 21 czerwca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo o ruchu drogowym'): string {
+  return `
+<h1>${heading}</h1>
+<div class="unit unit_pass pro-text false" id="pass_2" data-id="pass_2" data-bookmark="_001_2">
+  <h3>2.</h3>
+  <div class="unit-inner">
+    <div data-template="xText" class="pro-text">Podany w załączniku tekst jednolity ustawy nie obejmuje:</div>
+    <div class="unit unit_pint pro-text false" id="pass_2-pint_1" data-id="pint_1" data-bookmark="_001_2_1">
+      <h3>1)</h3>
+      <div class="unit-inner">
+        <div data-template="xText" class="pro-text">art. 29 ustawy z dnia 14 sierpnia 2020 r., który stanowi:</div>
+        <DIV CLASS="cite-box pro-cite-text"><DIV class="cite-body">
+          <div class="unit unit_arti pro-cite-text false" id="pass_2-pint_1-arti_29" data-id="arti_29">
+            <h3>Art.&nbsp;29.</h3>
+            <div class="unit-inner"><div data-template="xText" class="pro-cite-text">Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.</div></div>
+          </div>
+        </DIV></DIV>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="unit unit_bran pro-text with-title" id="bran_I" data-id="bran_I" data-bookmark="_002_z1_a1">
+  <div class="unit-inner">
+    <div class="unit unit_arti pro-text false" id="bran_I-arti_29" data-id="arti_29" data-bookmark="_002_z1_a1_29">
+      <h3>Art.&nbsp;29.</h3>
+      <div class="unit-inner"><div data-template="xText" class="pro-text">Kierujący pojazdem może używać sygnału dźwiękowego.</div></div>
+    </div>
+  </div>
+</div>`;
+}
+
+describe('parsePolishHtml — quoted wording never becomes rows of the act', () => {
+  it('keeps an amendment\'s quoted ustępy inline in the punkt', () => {
+    const parsed = parsePolishHtml(htmlWithUstCiteBox(), ACT);
+    const refs = parsed.provisions.map(p => p.provision_ref);
+    expect(refs).toEqual(['art1', 'art1p4']);
+    const pint = parsed.provisions.find(p => p.provision_ref === 'art1p4')!;
+    expect(pint.content).toContain('Bank tworzy fundusz.');
+    expect(pint.content).toContain('Fundusz jest jawny.');
+  });
+
+  it('skips the obwieszczenie of a jednolity tekst, so its quotes cannot shadow the act', () => {
+    const parsed = parsePolishHtml(htmlObwieszczenie(), ACT);
+    const arts = parsed.provisions.filter(p => p.provision_ref === 'art29');
+    expect(arts).toHaveLength(1);
+    expect(arts[0].content).toContain('sygnału dźwiękowego');
+  });
+
+  it('keeps a plain act whose own załącznik is bookmarked _002_z1_', () => {
+    const parsed = parsePolishHtml(htmlObwieszczenie('Ustawa z dnia 4 lutego 1921 r. o ustanowieniu orderu'), ACT);
+    expect(parsed.provisions.filter(p => p.provision_ref === 'art29')).toHaveLength(2);
+  });
+});
+
 /** A rozporządzenie: § is the primary unit (no Art.), with punkty inside. */
 function htmlRegulation(): string {
   return `

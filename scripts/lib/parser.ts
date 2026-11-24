@@ -323,7 +323,7 @@ function isNestedOrCiteBoxId(id: string): boolean {
  * depth-aware <div> matching so we only pick units at the current nesting depth
  * (not grandchildren). Returns them in document order with their full HTML.
  */
-function findChildUnits(html: string, levels: readonly string[]): UnitNode[] {
+function findChildUnits(html: string, levels: readonly string[], skipCites = false): UnitNode[] {
   const levelAlt = levels.join('|');
   // Opening tag of any "unit unit_X" div, capturing the level and the id.
   const openUnit = new RegExp(
@@ -334,6 +334,7 @@ function findChildUnits(html: string, levels: readonly string[]): UnitNode[] {
   const anyDiv = /<div\b[^>]*>|<\/div>/gi;
 
   const nodes: UnitNode[] = [];
+  const cites = skipCites ? citeBoxRanges(html) : [];
   let m: RegExpExecArray | null;
   openUnit.lastIndex = 0;
 
@@ -341,6 +342,11 @@ function findChildUnits(html: string, levels: readonly string[]): UnitNode[] {
     const level = m[1].toLowerCase() as UnitLevel;
     const id = m[2];
     const start = m.index;
+
+    // Quoted wording inside a unit (an amendment's new text) stays inline in
+    // its parent and never becomes a row of its own.
+    const cite = cites.find(([s, e]) => start > s && start < e);
+    if (cite) { openUnit.lastIndex = cite[1]; continue; }
 
     // Walk forward counting div depth until this unit's matching </div>.
     anyDiv.lastIndex = openUnit.lastIndex; // first tag after the opening div
@@ -363,6 +369,27 @@ function findChildUnits(html: string, levels: readonly string[]): UnitNode[] {
   }
 
   return nodes;
+}
+
+/** [start, end) of every `cite-box` div (quoted wording) in `html`. */
+function citeBoxRanges(html: string): Array<[number, number]> {
+  const ranges: Array<[number, number]> = [];
+  const open = /<div\b[^>]*class="[^"]*\bcite-box\b[^"]*"[^>]*>/gi;
+  const anyDiv = /<div\b[^>]*>|<\/div>/gi;
+  let m: RegExpExecArray | null;
+  while ((m = open.exec(html)) !== null) {
+    anyDiv.lastIndex = open.lastIndex;
+    let depth = 1;
+    let end = html.length;
+    let d: RegExpExecArray | null;
+    while ((d = anyDiv.exec(html)) !== null) {
+      depth += d[0].startsWith('</') ? -1 : 1;
+      if (depth === 0) { end = d.index + d[0].length; break; }
+    }
+    ranges.push([m.index, end]);
+    open.lastIndex = end;
+  }
+  return ranges;
 }
 
 /** Read this unit's printed number from its first <h3> heading. */
@@ -492,7 +519,7 @@ function innerOf(unitHtml: string): string {
 
 /** Direct numbered child units of any sub-level, excluding cite-box nesting. */
 function directChildUnits(unitHtml: string): UnitNode[] {
-  return findChildUnits(innerOf(unitHtml), UNIT_LEVELS).filter(n => !isNestedOrCiteBoxId(n.id));
+  return findChildUnits(innerOf(unitHtml), UNIT_LEVELS, true).filter(n => !isNestedOrCiteBoxId(n.id));
 }
 
 /** Recurse into a sub-unit: emit a leaf row, or push context down to children. */
@@ -618,7 +645,8 @@ export function parsePolishHtml(rawHtml: string, act: ActIndexEntry): ParsedAct 
   // The last article's slice runs to html.length, so without this trim it
   // absorbs the "Pokaż całość" button text and the inline `var tree` JSON.
   // Cut at the first footer marker that appears after article content.
-  const html = trimActFooter(rawHtml);
+  const fullHtml = trimActFooter(rawHtml);
+  const html = dropObwieszczenie(fullHtml);
 
   // Enumerate TOP-LEVEL units. Ustawy use artykuły (unit_arti); rozporządzenia
   // use paragrafy § (unit_para) as the primary unit with no Art. layer. Prefer
@@ -648,8 +676,24 @@ export function parsePolishHtml(rawHtml: string, act: ActIndexEntry): ParsedAct 
     provisions,
     definitions,
     references: extractReferences(rawHtml, act.id, act.title),
-    footnotes: collectFootnotes(html),
+    footnotes: collectFootnotes(fullHtml),
   };
+}
+
+/**
+ * A consolidated text (tekst jednolity) is published as an obwieszczenie whose
+ * załącznik holds the act. The obwieszczenie quotes, in full, the provisions the
+ * consolidated text does NOT cover (e.g. "Art. 29. Ustawa wchodzi w życie…" of an
+ * amending act), which would otherwise shadow the act's own art. 29. Its units
+ * are bookmarked "_001_…" and the act's "_002_z1_…", so the act starts at the
+ * first unit of the załącznik. (A plain act's own załącznik is "_002_z1_" too,
+ * hence the check that the page is an obwieszczenie of a jednolity tekst.)
+ */
+function dropObwieszczenie(html: string): string {
+  const head = html.slice(0, 20000).replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+  if (!/^Obwieszczenie\b.{0,300}?jednolitego tekstu/i.test(head)) return html;
+  const m = /<div\b[^>]*class="unit unit_\w+[^"]*"[^>]*data-bookmark="_002_z1_/i.exec(html);
+  return m ? html.slice(m.index) : html;
 }
 
 /** Distinct footnote texts from the gloss-link tooltips, without their "N)" marker. */

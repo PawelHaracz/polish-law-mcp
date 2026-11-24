@@ -320,3 +320,36 @@ Art. 2. Ustawa wchodzi w życie.`;
     expect(parsePolishPdf(text, ACT).provisions.find(x => x.provision_ref === 'art1')!.content).toContain('Niniejsza ustawa dokonuje');
   });
 });
+
+/** A consolidated text: obwieszczenie quoting an amending act's art. 8, then the act. */
+const OBWIESZCZENIE = `O B W IE S Z CZ E N I E
+M AR S ZA ŁK A S EJ MU RZ E C ZY PO S PO LI T EJ PO L SK I EJ
+z dnia 1 września 2026 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy – Kodeks pracy
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
+1) art. 8 ustawy z dnia 4 czerwca 2025 r., który stanowi:
+„Art. 8. Okresów, o których mowa w art. 302 ustawy zmienianej w art. 1, nie wlicza się.”.
+Załącznik do obwieszczenia Marszałka Sejmu Rzeczypospolitej
+Polskiej z dnia 1 września 2026 r. (Dz. U. poz. 1245)
+US T AW A
+z dnia 26 czerwca 1974 r.
+Kodeks pracy1)
+1)
+Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw Wspólnot Europejskich:
+1) dyrektywy 83/477/EWG z dnia 19 września 1983 r.
+DZIAŁ PIERWSZY
+Art. 7. (uchylony)
+Art. 8. Nie można czynić ze swego prawa użytku, który byłby sprzeczny ze społeczno-gospodarczym przeznaczeniem tego prawa.`;
+
+describe('parsePolishPdf — consolidated text (obwieszczenie)', () => {
+  it('skips the obwieszczenie, so its quotes cannot shadow the act', () => {
+    const arts = parsePolishPdf(OBWIESZCZENIE, ACT).provisions.filter(x => x.provision_ref === 'art8');
+    expect(arts).toHaveLength(1);
+    expect(arts[0].content).toContain('Nie można czynić ze swego prawa użytku');
+  });
+
+  it('keeps the title footnote with EU directives in footnotes', () => {
+    const notes = parsePolishPdf(OBWIESZCZENIE, ACT).footnotes ?? [];
+    expect(notes.some(n => n.includes('83/477/EWG'))).toBe(true);
+  });
+});
