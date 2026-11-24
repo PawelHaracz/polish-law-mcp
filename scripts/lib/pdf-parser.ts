@@ -90,11 +90,67 @@ export function pdfToText(pdfPath: string): string {
 }
 
 /** Normalise: drop chrome lines, collapse hyphenation/whitespace artefacts. */
-function cleanLines(raw: string): string[] {
-  return raw
-    .split(/\r?\n/)
-    .map(l => l.replace(/ /g, ' ').trimEnd())
-    .filter(l => l.trim().length > 0 && !isChrome(l));
+function cleanLines(raw: string, notes?: string[]): string[] {
+  const lines = raw.split(/\r?\n/).map(l => l.replace(/\u00a0/g, ' ').trimEnd());
+  return stripFootnotes(lines, notes).filter(l => l.trim().length > 0 && !isChrome(l));
+}
+
+const MARKER_ONLY = /^(\d{1,3})\)$/;
+
+function nextNonBlank(lines: string[], i: number, limit = 3): number {
+  for (let j = i + 1; j < lines.length && j <= i + limit; j++) if (lines[j]!.trim()) return j;
+  return -1;
+}
+
+/** Footnote number when line i opens a consolidated-text footnote ("14)" + "W brzmieniu …"). */
+function footnoteStart(lines: string[], i: number): string | null {
+  const t = lines[i]!.trim();
+  const inline = t.match(/^(\d{1,3})\)\s+(.*)$/);
+  if (inline && FOOTNOTE_RE.test(inline[2]!)) return inline[1]!;
+  const only = t.match(MARKER_ONLY);
+  if (!only) return null;
+  const j = nextNonBlank(lines, i);
+  return j >= 0 && FOOTNOTE_RE.test(lines[j]!.trim()) ? only[1]! : null;
+}
+
+/**
+ * Consolidated texts print footnotes at the page bottom, right before the page
+ * chrome (date stamp, "Dziennik Ustaw", page number, "Poz. N"), and mark them in
+ * the text with a superscript "N)" that pdftotext puts on its own line. Drop each
+ * footnote block up to the chrome that closes the page (no chrome within 40
+ * lines: keep everything), then drop the in-text markers of those footnotes that
+ * stand right before a punkt marker ("14)" "6)" → "6)").
+ */
+function stripFootnotes(lines: string[], sink?: string[]): string[] {
+  const drop = new Array<boolean>(lines.length).fill(false);
+  const notes = new Set<string>();
+  for (let i = 0; i < lines.length; i++) {
+    const n = footnoteStart(lines, i);
+    if (n === null) continue;
+    let end = -1;
+    for (let j = i + 1; j < lines.length && j <= i + 40; j++) {
+      if (lines[j]!.trim() && isChrome(lines[j]!)) { end = j; break; }
+    }
+    if (end < 0) continue;
+    let current = '';
+    const flushNote = () => { const t = current.replace(/\s+/g, ' ').trim(); if (t && sink) sink.push(t); current = ''; };
+    for (let j = i; j < end; j++) {
+      drop[j] = true;
+      const line = lines[j]!.trim();
+      const m = line.match(/^(\d{1,3})\)(?:\s+(.*))?$/);
+      if (m) { notes.add(m[1]!); flushNote(); current = m[2] ?? ''; }
+      else current += ` ${line}`;
+    }
+    flushNote();
+    i = end;
+  }
+  for (let i = 0; i < lines.length; i++) {
+    const m = drop[i] ? null : lines[i]!.trim().match(MARKER_ONLY);
+    if (!m || !notes.has(m[1]!)) continue;
+    const j = nextNonBlank(lines, i);
+    if (j >= 0 && /^\d+[a-z]*(?:\[\w+\])?\)(?:\s|$)/.test(lines[j]!.trim())) drop[i] = true;
+  }
+  return lines.filter((_, i) => !drop[i]);
 }
 
 /**
@@ -105,7 +161,8 @@ function cleanLines(raw: string): string[] {
  * it into sub-units mirroring the HTML hierarchy.
  */
 export function parsePolishPdf(rawText: string, act: ActIndexEntry): ParsedAct {
-  const lines = cleanLines(rawText);
+  const footnotes: string[] = [];
+  const lines = cleanLines(rawText, footnotes);
   const provisions: ParsedProvision[] = [];
 
   // Split into articles by the "Art. N." marker at line start. Pre-war PDFs are
@@ -216,6 +273,7 @@ export function parsePolishPdf(rawText: string, act: ActIndexEntry): ParsedAct {
     description: act.description,
     provisions,
     definitions: [],
+    footnotes: [...new Set(footnotes)],
   };
 }
 
@@ -360,7 +418,15 @@ const PUNKT_RE = new RegExp(String.raw`(?:^|\s)(\d+[a-z]*${SUP})\)\s+`, 'g');
  * between punkty at page bottoms and look exactly like punkt markers. They are
  * recognised by their wording; a real repealed punkt reads "(uchylony)".
  */
-const FOOTNOTE_RE = /^(?:W brzmieniu ustalonym|(?:Dodan[yae]|Uchylon[yae]|Zmienion[yae]|Skreślon[yae]) przez|Ze zmian(?:ą|ami) wprowadzon|Zmiany (?:tekstu jednolitego )?wymienion|Niniejsza ustawa|Utracił[ay]? moc|Stwierdzon[yae]|Uznan[yae] za niezgodn|Wszedł|Weszł[ay])/;
+const FOOTNOTE_RE = new RegExp([
+  String.raw`^(?:W brzmieniu ustalonym|W tym brzmieniu obowiązuje|Ze zmian(?:ą|ami) wprowadzon|Wprowadzenie do wyliczenia|Zdanie wstępne|Część wspólna)`,
+  String.raw`^(?:(?:Rozdział|Oddział|Dział|Tytuł|Art\.|Ust\.|Pkt|Lit\.|Załącznik)\s+(?:\S+\s+)?)?(?:Dodan[yae]|Uchylon[yae]|Zmienion[yae]|Skreślon[yae]) przez`,
+  String.raw`^Zmian[ay] (?:tekstu jednolitego )?wymienion\w+ (?:ustawy|rozporządzenia|dyrektywy|decyzji)`,
+  String.raw`^(?:Niniejsza ustawa|Niniejsze rozporządzenie) (?:dokonuje|wdraża|służy|w zakresie)`,
+  String.raw`^(?:Rozporządzenie|Ustawa) został[ao] ogłoszon[ey] w dniu`,
+  String.raw`^(?:Utracił[ay]? moc|Stwierdzon[yae]|Uznan[yae] za niezgodn|Wszedł|Weszł[ay])`,
+  String.raw`^[A-ZŁŚŻŹĆŃÓ][^.;]{0,160}\b(?:o któr\w+ mowa|wymienion\w+) w (?:odnośniku|przypisie) \d+`,
+].join('|'));
 
 /** Fold footnote "N)" segments back into the preceding segment. */
 function sequentialPunkty(parts: Array<{ n: string | null; text: string }>): Array<{ n: string | null; text: string }> {

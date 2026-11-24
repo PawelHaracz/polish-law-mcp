@@ -139,7 +139,7 @@ async function main() {
   if (todo.length === 0) { console.log('Nothing to do.'); return; }
 
   // 2) Fetch + parse + write seed.
-  let ok = 0, failed = 0, empty = 0, totalProv = 0, consolidatedUsed = 0;
+  let ok = 0, failed = 0, empty = 0, totalProv = 0, consolidatedUsed = 0, staleKept = 0;
   for (let i = 0; i < todo.length; i++) {
     const act = todo[i];
     try {
@@ -148,19 +148,27 @@ async function main() {
         ? [{ year: consolidated.year, poz: consolidated.poz }, { year: act.year, poz: act.poz }]
         : [{ year: act.year, poz: act.poz }];
       let body: string | null = null;
+      let fromBase = false;
       for (const c of candidates) {
         const res = await fetchWithRateLimit(`${ELI_API_BASE}/${c.year}/${c.poz}/text.html`, 3, 60_000);
         // PDF-only consolidations answer 200 with an empty body — fall back.
         if (res.status === 200 && res.body.trim().length > 0 && !res.body.includes('window["bobcmn"]')) {
           body = res.body;
-          if (c !== candidates[candidates.length - 1]) consolidatedUsed++;
+          fromBase = c === candidates[candidates.length - 1];
+          if (!fromBase) consolidatedUsed++;
           break;
         }
       }
       if (!body) { failed++; continue; }
+      const seedFile = path.join(SEED_DIR, `${act.id}.json`);
+      // The newest consolidated text is PDF-only: the base act holds the original
+      // wording, so never let it overwrite an existing seed (ingest:pdf handles it).
+      if (consolidated && fromBase && fs.existsSync(seedFile)) { staleKept++; continue; }
+      // Cache the HTML so seeds can be re-parsed offline after parser fixes.
+      fs.writeFileSync(path.join(SOURCE_DIR, `${act.id}.html`), body);
       const parsed = parsePolishHtml(body, act);
       if (parsed.provisions.length === 0) { empty++; continue; }
-      fs.writeFileSync(path.join(SEED_DIR, `${act.id}.json`), JSON.stringify(parsed, null, 2));
+      fs.writeFileSync(seedFile, JSON.stringify(parsed, null, 2));
       totalProv += parsed.provisions.length;
       ok++;
     } catch {
@@ -171,7 +179,7 @@ async function main() {
     }
   }
 
-  console.log(`\n${'='.repeat(48)}\nDone: ${ok} ok (${consolidatedUsed} from consolidated text), ${failed} failed, ${empty} empty, ${totalProv} provisions`);
+  console.log(`\n${'='.repeat(48)}\nDone: ${ok} ok (${consolidatedUsed} from consolidated text), ${failed} failed, ${empty} empty, ${staleKept} kept (consolidated text PDF-only), ${totalProv} provisions`);
 }
 
 main().catch(e => { console.error('Fatal:', e); process.exit(1); });

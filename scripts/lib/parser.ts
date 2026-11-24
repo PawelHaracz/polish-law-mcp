@@ -74,6 +74,8 @@ export interface ParsedAct {
   provisions: ParsedProvision[];
   definitions: ParsedDefinition[];
   references?: ParsedReference[];
+  /** Footnote texts kept out of provision content (EU-implementation notes, amendment history). */
+  footnotes?: string[];
 }
 
 /**
@@ -114,8 +116,37 @@ const HARD_LIMIT_CHARS = 5_000_000;
  */
 const SUP_TAG_RE = /\s*<sup\b[^>]*>\s*(\d{1,3}[a-z]{0,2})\s*<\/sup>/gi;
 
+/**
+ * Footnotes ride along as <A class="gloss-link tooltip"><sup>5)</sup><span
+ * class="tooltip-text">…</span></A>; the tooltip may hold its own <A> links, so
+ * match the closing </A> by depth. Text only — extractReferences reads the raw
+ * HTML, so footnote act links still feed the citation graph.
+ */
+function dropGlossLinks(html: string, sink?: string[]): string {
+  const open = /<a\b[^>]*\bclass="[^"]*\bgloss-link\b[^"]*"[^>]*>/gi;
+  const tag = /<a\b[^>]*>|<\/a>/gi;
+  let out = '';
+  let last = 0;
+  let m: RegExpExecArray | null;
+  while ((m = open.exec(html)) !== null) {
+    tag.lastIndex = open.lastIndex;
+    let depth = 1;
+    let end = html.length;
+    let t: RegExpExecArray | null;
+    while ((t = tag.exec(html)) !== null) {
+      depth += t[0][1] === '/' ? -1 : 1;
+      if (depth === 0) { end = t.index + t[0].length; break; }
+    }
+    out += html.slice(last, m.index);
+    if (sink) sink.push(html.slice(open.lastIndex, Math.max(open.lastIndex, end - 4)));
+    last = end;
+    open.lastIndex = end;
+  }
+  return out + html.slice(last);
+}
+
 function stripHtml(html: string): string {
-  return html
+  return dropGlossLinks(html)
     .replace(SUP_TAG_RE, (_, k: string) => toSuperscript(k) ?? ` ${k}`)
     .replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi, ' ')
     .replace(/<style\b[^>]*>[\s\S]*?<\/style>/gi, ' ')
@@ -617,7 +648,20 @@ export function parsePolishHtml(rawHtml: string, act: ActIndexEntry): ParsedAct 
     provisions,
     definitions,
     references: extractReferences(rawHtml, act.id, act.title),
+    footnotes: collectFootnotes(html),
   };
+}
+
+/** Distinct footnote texts from the gloss-link tooltips, without their "N)" marker. */
+function collectFootnotes(html: string): string[] {
+  const raw: string[] = [];
+  dropGlossLinks(html, raw);
+  const seen = new Set<string>();
+  for (const inner of raw) {
+    const text = stripHtml(inner).replace(/^\d{1,3}\)\s*/, '').trim();
+    if (text) seen.add(text);
+  }
+  return [...seen];
 }
 
 /**

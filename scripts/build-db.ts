@@ -35,6 +35,7 @@ interface DocumentSeed {
   provisions?: ProvisionSeed[];
   definitions?: DefinitionSeed[];
   references?: ReferenceSeed[];
+  footnotes?: string[];
 }
 
 interface ReferenceSeed {
@@ -533,6 +534,35 @@ function buildDatabase(): void {
                 // Ignore duplicate references
               }
             }
+          }
+        }
+      }
+
+      // Footnotes are kept out of provision text but still carry EU-implementation
+      // notes ("Niniejsza ustawa dokonuje … wdrożenia dyrektywy …"): link them at
+      // document level (no provision).
+      for (const note of seed.footnotes ?? []) {
+        for (const ref of extractEuReferences(note)) {
+          const eurLexType = ref.type === 'regulation' ? 'reg' : 'dir';
+          const shortName = `${ref.type === 'regulation' ? 'Regulation' : 'Directive'} ${ref.year}/${ref.number}`;
+          const euInsert = insertEuDocument.run(
+            ref.euDocumentId, ref.type, ref.year, ref.number, ref.community,
+            shortName, shortName, `https://eur-lex.europa.eu/eli/${eurLexType}/${ref.year}/${ref.number}/oj`,
+            'Auto-extracted from Polish statute text',
+          );
+          if (euInsert.changes > 0) totalEuDocuments++;
+          const primaryKey = `${seed.id}:${ref.euDocumentId}`;
+          const isPrimary = ref.referenceType === 'implements' && !primaryImplementationByDocument.has(primaryKey) ? 1 : 0;
+          if (isPrimary === 1) primaryImplementationByDocument.add(primaryKey);
+          try {
+            const refInsert = insertEuReference.run(
+              'document', `${seed.id}:footnotes`, seed.id, null, ref.euDocumentId, ref.euArticle,
+              ref.referenceType, ref.referenceContext, ref.fullCitation, isPrimary,
+              isPrimary === 1 ? 'complete' : 'unknown', new Date().toISOString(),
+            );
+            if (refInsert.changes > 0) totalEuReferences++;
+          } catch {
+            // Ignore duplicate references
           }
         }
       }
