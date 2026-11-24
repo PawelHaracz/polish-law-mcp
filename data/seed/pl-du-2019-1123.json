@@ -97,7 +97,7 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Art. 3",
-      "content": "1. Fundusz jest państwowym funduszem celowym. 2. Dysponentem Funduszu jest minister właściwy do spraw transportu. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 240 z 16.09.2015, str. 65 oraz Dz. Urz. UE L 354 z 23.12.2016, str. 22. 3. Bank Gospodarstwa Krajowego, zwany dalej „Bankiem”, prowadzi obsługę bankową Funduszu na zasadach określonych w umowie z dysponentem Funduszu. 4. Wysokość wynagrodzenia Banku za prowadzenie obsługi bankowej Funduszu nie może przekroczyć średniej wysokości wynagrodzenia pobieranego przez Bank za obsługę bankową innych państwowych funduszy celowych."
+      "content": "1. Fundusz jest państwowym funduszem celowym. 2. Dysponentem Funduszu jest minister właściwy do spraw transportu. 3. Bank Gospodarstwa Krajowego, zwany dalej „Bankiem”, prowadzi obsługę bankową Funduszu na zasadach określonych w umowie z dysponentem Funduszu. 4. Wysokość wynagrodzenia Banku za prowadzenie obsługi bankowej Funduszu nie może przekroczyć średniej wysokości wynagrodzenia pobieranego przez Bank za obsługę bankową innych państwowych funduszy celowych."
     },
     {
       "provision_ref": "art3u1",
@@ -109,7 +109,7 @@
       "provision_ref": "art3u2",
       "section": "3",
       "title": "Art. 3 ust. 2",
-      "content": "Dysponentem Funduszu jest minister właściwy do spraw transportu. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 240 z 16.09.2015, str. 65 oraz Dz. Urz. UE L 354 z 23.12.2016, str. 22."
+      "content": "Dysponentem Funduszu jest minister właściwy do spraw transportu."
     },
     {
       "provision_ref": "art3u3",
@@ -133,36 +133,72 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Art. 5",
-      "content": "Środki Funduszu pochodzą z: 1) wpływów z tytułu opłaty emisyjnej, o której mowa w art. 321a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647, z późn. zm.2)), w wysokości 5 % wpływów z tej opłaty; 2) wpływów z tytułu opłaty zastępczej, o której mowa w art. 35d ust. 2 ustawy z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U. z 2025 r. poz. 901 oraz z 2026 r. poz. 607), w wysokości 55 % wpływów z tej opłaty; 3) wpływów z tytułu opłaty paliwowej, o której mowa w art. 37h ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2026 r. poz. 218 i 635), w wysokości 3,65 % wpływów z tej opłaty; 4) wpływów w wysokości wynikającej z ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2025 r. poz. 1490, 1676, 1795 i 1843), ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (Dz. U. z 2024 r. poz. 643), ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251, z późn. zm.3)), ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2023 r. poz. 1580 oraz z 2025 r. poz. 1696 i 1795), ustawy z dnia 11 maja 2001 r. – Prawo o miarach (Dz. U. z 2022 r. poz. 2063), ustawy z dnia 5 lipca 2018 r. o tachografach (Dz. U. z 2024 r. poz. 1037) oraz ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i 2) 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 1080, 1812 i 1863 oraz z 2026 r. poz. 176, 426, 605, 607 i 635. Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 820, 1006, 1676, 1734, 1843 i 1872 oraz z 2026 r. poz. 180. kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. z 2024 r. poz. 1218); 5) budżetu państwa w części, której dysponentem jest minister właściwy do spraw transportu; 6) odsetek, o których mowa w art. 17 ust. 1; 7) odsetek od wolnych środków przekazanych albo przyjmowanych w zarządzanie zgodnie z przepisami o finansach publicznych; 8) darowizn i zapisów; 9) innych źródeł."
+      "content": "Środki Funduszu pochodzą z: 1) wpływów z tytułu opłaty emisyjnej, o której mowa w art. 321a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647, z późn. zm.2)), w wysokości 5 % wpływów z tej opłaty; 2) wpływów z tytułu opłaty zastępczej, o której mowa w art. 35d ust. 2 ustawy z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U. z 2025 r. poz. 901 oraz z 2026 r. poz. 607), w wysokości 55 % wpływów z tej opłaty; 3) wpływów z tytułu opłaty paliwowej, o której mowa w art. 37h ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2026 r. poz. 218 i 635), w wysokości 3,65 % wpływów z tej opłaty; 4) wpływów w wysokości wynikającej z ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2025 r. poz. 1490, 1676, 1795 i 1843), ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (Dz. U. z 2024 r. poz. 643), ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251, z późn. zm.3)), ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2023 r. poz. 1580 oraz z 2025 r. poz. 1696 i 1795), ustawy z dnia 11 maja 2001 r. – Prawo o miarach (Dz. U. z 2022 r. poz. 2063), ustawy z dnia 5 lipca 2018 r. o tachografach (Dz. U. z 2024 r. poz. 1037) oraz ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i 2) kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. z 2024 r. poz. 1218); 5) budżetu państwa w części, której dysponentem jest minister właściwy do spraw transportu; 6) odsetek, o których mowa w art. 17 ust. 1; 7) odsetek od wolnych środków przekazanych albo przyjmowanych w zarządzanie zgodnie z przepisami o finansach publicznych; 8) darowizn i zapisów; 9) innych źródeł."
     },
     {
-      "provision_ref": "art5u635p5",
+      "provision_ref": "art5p1",
       "section": "5",
-      "title": "Art. 5 ust. 635 pkt 5",
+      "title": "Art. 5 pkt 1",
+      "content": "wpływów z tytułu opłaty emisyjnej, o której mowa w art. 321a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647, z późn. zm.2)), w wysokości 5 % wpływów z tej opłaty;"
+    },
+    {
+      "provision_ref": "art5p2",
+      "section": "5",
+      "title": "Art. 5 pkt 2",
+      "content": "wpływów z tytułu opłaty zastępczej, o której mowa w art. 35d ust. 2 ustawy z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U. z 2025 r. poz. 901 oraz z 2026 r. poz. 607), w wysokości 55 % wpływów z tej opłaty;"
+    },
+    {
+      "provision_ref": "art5p3",
+      "section": "5",
+      "title": "Art. 5 pkt 3",
+      "content": "wpływów z tytułu opłaty paliwowej, o której mowa w art. 37h ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2026 r. poz. 218 i 635), w wysokości 3,65 % wpływów z tej opłaty;"
+    },
+    {
+      "provision_ref": "art5p4",
+      "section": "5",
+      "title": "Art. 5 pkt 4",
+      "content": "wpływów w wysokości wynikającej z ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2025 r. poz. 1490, 1676, 1795 i 1843), ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (Dz. U. z 2024 r. poz. 643), ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251, z późn. zm.3)), ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2023 r. poz. 1580 oraz z 2025 r. poz. 1696 i 1795), ustawy z dnia 11 maja 2001 r. – Prawo o miarach (Dz. U. z 2022 r. poz. 2063), ustawy z dnia 5 lipca 2018 r. o tachografach (Dz. U. z 2024 r. poz."
+    },
+    {
+      "provision_ref": "art5p1037",
+      "section": "5",
+      "title": "Art. 5 pkt 1037",
+      "content": "oraz ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i"
+    },
+    {
+      "provision_ref": "art5p2",
+      "section": "5",
+      "title": "Art. 5 pkt 2",
+      "content": "kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. z 2024 r. poz. 1218);"
+    },
+    {
+      "provision_ref": "art5p5",
+      "section": "5",
+      "title": "Art. 5 pkt 5",
       "content": "budżetu państwa w części, której dysponentem jest minister właściwy do spraw transportu;"
     },
     {
-      "provision_ref": "art5u635p6",
+      "provision_ref": "art5p6",
       "section": "5",
-      "title": "Art. 5 ust. 635 pkt 6",
+      "title": "Art. 5 pkt 6",
       "content": "odsetek, o których mowa w art. 17 ust. 1;"
     },
     {
-      "provision_ref": "art5u635p7",
+      "provision_ref": "art5p7",
       "section": "5",
-      "title": "Art. 5 ust. 635 pkt 7",
+      "title": "Art. 5 pkt 7",
       "content": "odsetek od wolnych środków przekazanych albo przyjmowanych w zarządzanie zgodnie z przepisami o finansach publicznych;"
     },
     {
-      "provision_ref": "art5u635p8",
+      "provision_ref": "art5p8",
       "section": "5",
-      "title": "Art. 5 ust. 635 pkt 8",
+      "title": "Art. 5 pkt 8",
       "content": "darowizn i zapisów;"
     },
     {
-      "provision_ref": "art5u635p9",
+      "provision_ref": "art5p9",
       "section": "5",
-      "title": "Art. 5 ust. 635 pkt 9",
+      "title": "Art. 5 pkt 9",
       "content": "innych źródeł."
     },
     {
@@ -1708,5 +1744,9 @@
       "content": "Ustawa została ogłoszona w dniu 17 czerwca 2019 r."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "footnotes": [
+    "Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 240 z 16.09.2015, str. 65 oraz Dz. Urz. UE L 354 z 23.12.2016, str. 22.",
+    "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 1080, 1812 i 1863 oraz z 2026 r. poz. 176, 426, 605, 607 i 635. Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 820, 1006, 1676, 1734, 1843 i 1872 oraz z 2026 r. poz. 180."
+  ]
 }

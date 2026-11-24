@@ -175,84 +175,174 @@
       "provision_ref": "par8",
       "section": "8",
       "title": "§ 8",
-      "content": "Podpisem elektronicznym, o którym mowa w § 4 pkt 2, mogą być opatrywane:9) 1) deklaracja w sprawie podatku akcyzowego (AKC-4/AKC-4zo) wraz z załącznikami; 2) deklaracja w sprawie podatku akcyzowego od nabycia wewnątrzwspólnotowego energii elektrycznej (AKC-EN); 3) deklaracja w sprawie podatku akcyzowego od wyrobów węglowych (AKC-WW/AKC-WWn); 4) deklaracja w sprawie podatku akcyzowego od suszu tytoniowego (AKC-ST/AKC-STn); 5) deklaracja w sprawie podatku akcyzowego od nabycia wewnątrzwspólnotowego wyrobów gazowych (z wyłączeniem gazu do napędu silników spalinowych) (AKC-WG); 6) deklaracja w sprawie przedpłaty podatku akcyzowego (AKC-PA); 7) deklaracja uproszczona w sprawie podatku akcyzowego od nabycia wewnątrzwspólnotowego wyrobów akcyzowych objętych stawką podatku akcyzowego inną niż stawka zerowa (AKC-UA); 8) deklaracja uproszczona w sprawie podatku akcyzowego od samochodów osobowych (AKC-US); 9) deklaracja o wysokości podatku akcyzowego pobranego i wpłaconego przez płatnika (AKC-P); 9a) kwartalna deklaracja w sprawie podatku akcyzowego od wyrobów akcyzowych objętych zwolnieniem od podatku akcyzowego i zerową stawką podatku akcyzowego (AKC-KZ); 9b) (uchylony); 10) zgłoszenie o planowanym nabyciu wewnątrzwspólnotowym poza procedurą zawieszenia poboru akcyzy wyrobów akcyzowych niewymienionych w załączniku nr 2 do ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, objętych stawką akcyzy inną niż stawka zerowa, na potrzeby wykonywanej na terytorium kraju działalności gospodarczej; 10a) zgłoszenie o planowanym nabyciu wewnątrzwspólnotowym wyrobów akcyzowych innych niż określone w załączniku nr 2 do ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, objętych stawką akcyzy inną niż stawka zerowa, przemieszczanych na terytorium kraju w ramach nabycia wewnątrzwspólnotowego w celu wprowadzenia ich do składu podatkowego; 11) (uchylony); 12) (uchylony); 7) 8) 9) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. Przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2. 12a) zgłoszenie rejestracyjne uproszczone w zakresie podatku akcyzowego/zgłoszenie o zaprzestaniu wykonywania czynności, o których mowa w art. 16b ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (AKC-RU/AKC-ZU); 12b) wstępne zapotrzebowanie na banderole podatkowe i legalizacyjne; 13) wniosek o wydanie banderol podatkowych lub sprzedaż banderol legalizacyjnych oraz o wydanie upoważnienia do odbioru banderol; 14) deklaracja dla podatku od gier przeznaczona dla wszystkich podatników podatku od gier z wyłączeniem podatników w pokerze rozgrywanym w formie turnieju gry pokera (POG-5); 15) deklaracja dla podatku od gier przeznaczona dla płatników podatku od gier urządzających turniej gry pokera (POG-P); 16) informacja o dopłatach w grach liczbowych, loteriach pieniężnych i grze telebingo (GHD-1); 17) podania w sprawach dotyczących podatku akcyzowego oraz podatku od gier; 18) deklaracja o należnych kwotach podatku od towarów i usług w przypadku wewnątrzwspólnotowego nabycia towarów, o którym mowa w art. 103 ust. 5a ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (VAT-14); 19) deklaracja w sprawie podatku od wydobycia niektórych kopalin w zakresie miedzi i srebra (KOP-MS); 20) deklaracja w sprawie podatku od wydobycia niektórych kopalin w zakresie ropy naftowej i gazu ziemnego (KOP-RG); 21) informacja w sprawie opłaty paliwowej (OPAL); 22) informacja w sprawie opłaty emisyjnej (OEMIS)."
+      "content": "Podpisem elektronicznym, o którym mowa w § 4 pkt 2, mogą być opatrywane:9) 1) deklaracja w sprawie podatku akcyzowego (AKC-4/AKC-4zo) wraz z załącznikami; 2) deklaracja w sprawie podatku akcyzowego od nabycia wewnątrzwspólnotowego energii elektrycznej (AKC-EN); 3) deklaracja w sprawie podatku akcyzowego od wyrobów węglowych (AKC-WW/AKC-WWn); 4) deklaracja w sprawie podatku akcyzowego od suszu tytoniowego (AKC-ST/AKC-STn); 5) deklaracja w sprawie podatku akcyzowego od nabycia wewnątrzwspólnotowego wyrobów gazowych (z wyłączeniem gazu do napędu silników spalinowych) (AKC-WG); 6) deklaracja w sprawie przedpłaty podatku akcyzowego (AKC-PA); 7) deklaracja uproszczona w sprawie podatku akcyzowego od nabycia wewnątrzwspólnotowego wyrobów akcyzowych objętych stawką podatku akcyzowego inną niż stawka zerowa (AKC-UA); 8) deklaracja uproszczona w sprawie podatku akcyzowego od samochodów osobowych (AKC-US); 9) deklaracja o wysokości podatku akcyzowego pobranego i wpłaconego przez płatnika (AKC-P); 9a) kwartalna deklaracja w sprawie podatku akcyzowego od wyrobów akcyzowych objętych zwolnieniem od podatku akcyzowego i zerową stawką podatku akcyzowego (AKC-KZ); 9b) (uchylony); 10) zgłoszenie o planowanym nabyciu wewnątrzwspólnotowym poza procedurą zawieszenia poboru akcyzy wyrobów akcyzowych niewymienionych w załączniku nr 2 do ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, objętych stawką akcyzy inną niż stawka zerowa, na potrzeby wykonywanej na terytorium kraju działalności gospodarczej; 10a) zgłoszenie o planowanym nabyciu wewnątrzwspólnotowym wyrobów akcyzowych innych niż określone w załączniku nr 2 do ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, objętych stawką akcyzy inną niż stawka zerowa, przemieszczanych na terytorium kraju w ramach nabycia wewnątrzwspólnotowego w celu wprowadzenia ich do składu podatkowego; 11) (uchylony); 12) (uchylony); 7) 8) 12a) zgłoszenie rejestracyjne uproszczone w zakresie podatku akcyzowego/zgłoszenie o zaprzestaniu wykonywania czynności, o których mowa w art. 16b ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (AKC-RU/AKC-ZU); 12b) wstępne zapotrzebowanie na banderole podatkowe i legalizacyjne; 13) wniosek o wydanie banderol podatkowych lub sprzedaż banderol legalizacyjnych oraz o wydanie upoważnienia do odbioru banderol; 14) deklaracja dla podatku od gier przeznaczona dla wszystkich podatników podatku od gier z wyłączeniem podatników w pokerze rozgrywanym w formie turnieju gry pokera (POG-5); 15) deklaracja dla podatku od gier przeznaczona dla płatników podatku od gier urządzających turniej gry pokera (POG-P); 16) informacja o dopłatach w grach liczbowych, loteriach pieniężnych i grze telebingo (GHD-1); 17) podania w sprawach dotyczących podatku akcyzowego oraz podatku od gier; 18) deklaracja o należnych kwotach podatku od towarów i usług w przypadku wewnątrzwspólnotowego nabycia towarów, o którym mowa w art. 103 ust. 5a ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (VAT-14); 19) deklaracja w sprawie podatku od wydobycia niektórych kopalin w zakresie miedzi i srebra (KOP-MS); 20) deklaracja w sprawie podatku od wydobycia niektórych kopalin w zakresie ropy naftowej i gazu ziemnego (KOP-RG); 21) informacja w sprawie opłaty paliwowej (OPAL); 22) informacja w sprawie opłaty emisyjnej (OEMIS)."
     },
     {
-      "provision_ref": "par8u2",
+      "provision_ref": "par8p1",
       "section": "8",
-      "title": "§ 8 ust. 2",
-      "content": "Przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku"
+      "title": "§ 8 pkt 1",
+      "content": "deklaracja w sprawie podatku akcyzowego (AKC-4/AKC-4zo) wraz z załącznikami;"
     },
     {
-      "provision_ref": "par8u2p12a",
+      "provision_ref": "par8p2",
       "section": "8",
-      "title": "§ 8 ust. 2 pkt 12a",
+      "title": "§ 8 pkt 2",
+      "content": "deklaracja w sprawie podatku akcyzowego od nabycia wewnątrzwspólnotowego energii elektrycznej (AKC-EN);"
+    },
+    {
+      "provision_ref": "par8p3",
+      "section": "8",
+      "title": "§ 8 pkt 3",
+      "content": "deklaracja w sprawie podatku akcyzowego od wyrobów węglowych (AKC-WW/AKC-WWn);"
+    },
+    {
+      "provision_ref": "par8p4",
+      "section": "8",
+      "title": "§ 8 pkt 4",
+      "content": "deklaracja w sprawie podatku akcyzowego od suszu tytoniowego (AKC-ST/AKC-STn);"
+    },
+    {
+      "provision_ref": "par8p5",
+      "section": "8",
+      "title": "§ 8 pkt 5",
+      "content": "deklaracja w sprawie podatku akcyzowego od nabycia wewnątrzwspólnotowego wyrobów gazowych (z wyłączeniem gazu do napędu silników spalinowych) (AKC-WG);"
+    },
+    {
+      "provision_ref": "par8p6",
+      "section": "8",
+      "title": "§ 8 pkt 6",
+      "content": "deklaracja w sprawie przedpłaty podatku akcyzowego (AKC-PA);"
+    },
+    {
+      "provision_ref": "par8p7",
+      "section": "8",
+      "title": "§ 8 pkt 7",
+      "content": "deklaracja uproszczona w sprawie podatku akcyzowego od nabycia wewnątrzwspólnotowego wyrobów akcyzowych objętych stawką podatku akcyzowego inną niż stawka zerowa (AKC-UA);"
+    },
+    {
+      "provision_ref": "par8p8",
+      "section": "8",
+      "title": "§ 8 pkt 8",
+      "content": "deklaracja uproszczona w sprawie podatku akcyzowego od samochodów osobowych (AKC-US);"
+    },
+    {
+      "provision_ref": "par8p9",
+      "section": "8",
+      "title": "§ 8 pkt 9",
+      "content": "deklaracja o wysokości podatku akcyzowego pobranego i wpłaconego przez płatnika (AKC-P);"
+    },
+    {
+      "provision_ref": "par8p9a",
+      "section": "8",
+      "title": "§ 8 pkt 9a",
+      "content": "kwartalna deklaracja w sprawie podatku akcyzowego od wyrobów akcyzowych objętych zwolnieniem od podatku akcyzowego i zerową stawką podatku akcyzowego (AKC-KZ);"
+    },
+    {
+      "provision_ref": "par8p9b",
+      "section": "8",
+      "title": "§ 8 pkt 9b",
+      "content": "(uchylony);"
+    },
+    {
+      "provision_ref": "par8p10",
+      "section": "8",
+      "title": "§ 8 pkt 10",
+      "content": "zgłoszenie o planowanym nabyciu wewnątrzwspólnotowym poza procedurą zawieszenia poboru akcyzy wyrobów akcyzowych niewymienionych w załączniku nr 2 do ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, objętych stawką akcyzy inną niż stawka zerowa, na potrzeby wykonywanej na terytorium kraju działalności gospodarczej;"
+    },
+    {
+      "provision_ref": "par8p10a",
+      "section": "8",
+      "title": "§ 8 pkt 10a",
+      "content": "zgłoszenie o planowanym nabyciu wewnątrzwspólnotowym wyrobów akcyzowych innych niż określone w załączniku nr 2 do ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, objętych stawką akcyzy inną niż stawka zerowa, przemieszczanych na terytorium kraju w ramach nabycia wewnątrzwspólnotowego w celu wprowadzenia ich do składu podatkowego;"
+    },
+    {
+      "provision_ref": "par8p11",
+      "section": "8",
+      "title": "§ 8 pkt 11",
+      "content": "(uchylony);"
+    },
+    {
+      "provision_ref": "par8p12",
+      "section": "8",
+      "title": "§ 8 pkt 12",
+      "content": "(uchylony);"
+    },
+    {
+      "provision_ref": "par8p7",
+      "section": "8",
+      "title": "§ 8 pkt 7",
+      "content": "8)"
+    },
+    {
+      "provision_ref": "par8p12a",
+      "section": "8",
+      "title": "§ 8 pkt 12a",
       "content": "zgłoszenie rejestracyjne uproszczone w zakresie podatku akcyzowego/zgłoszenie o zaprzestaniu wykonywania czynności, o których mowa w art. 16b ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (AKC-RU/AKC-ZU);"
     },
     {
-      "provision_ref": "par8u2p12b",
+      "provision_ref": "par8p12b",
       "section": "8",
-      "title": "§ 8 ust. 2 pkt 12b",
+      "title": "§ 8 pkt 12b",
       "content": "wstępne zapotrzebowanie na banderole podatkowe i legalizacyjne;"
     },
     {
-      "provision_ref": "par8u2p13",
+      "provision_ref": "par8p13",
       "section": "8",
-      "title": "§ 8 ust. 2 pkt 13",
+      "title": "§ 8 pkt 13",
       "content": "wniosek o wydanie banderol podatkowych lub sprzedaż banderol legalizacyjnych oraz o wydanie upoważnienia do odbioru banderol;"
     },
     {
-      "provision_ref": "par8u2p14",
+      "provision_ref": "par8p14",
       "section": "8",
-      "title": "§ 8 ust. 2 pkt 14",
+      "title": "§ 8 pkt 14",
       "content": "deklaracja dla podatku od gier przeznaczona dla wszystkich podatników podatku od gier z wyłączeniem podatników w pokerze rozgrywanym w formie turnieju gry pokera (POG-5);"
     },
     {
-      "provision_ref": "par8u2p15",
+      "provision_ref": "par8p15",
       "section": "8",
-      "title": "§ 8 ust. 2 pkt 15",
+      "title": "§ 8 pkt 15",
       "content": "deklaracja dla podatku od gier przeznaczona dla płatników podatku od gier urządzających turniej gry pokera (POG-P);"
     },
     {
-      "provision_ref": "par8u2p16",
+      "provision_ref": "par8p16",
       "section": "8",
-      "title": "§ 8 ust. 2 pkt 16",
+      "title": "§ 8 pkt 16",
       "content": "informacja o dopłatach w grach liczbowych, loteriach pieniężnych i grze telebingo (GHD-1);"
     },
     {
-      "provision_ref": "par8u2p17",
+      "provision_ref": "par8p17",
       "section": "8",
-      "title": "§ 8 ust. 2 pkt 17",
+      "title": "§ 8 pkt 17",
       "content": "podania w sprawach dotyczących podatku akcyzowego oraz podatku od gier;"
     },
     {
-      "provision_ref": "par8u2p18",
+      "provision_ref": "par8p18",
       "section": "8",
-      "title": "§ 8 ust. 2 pkt 18",
+      "title": "§ 8 pkt 18",
       "content": "deklaracja o należnych kwotach podatku od towarów i usług w przypadku wewnątrzwspólnotowego nabycia towarów, o którym mowa w art. 103 ust. 5a ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (VAT-14);"
     },
     {
-      "provision_ref": "par8u2p19",
+      "provision_ref": "par8p19",
       "section": "8",
-      "title": "§ 8 ust. 2 pkt 19",
+      "title": "§ 8 pkt 19",
       "content": "deklaracja w sprawie podatku od wydobycia niektórych kopalin w zakresie miedzi i srebra (KOP-MS);"
     },
     {
-      "provision_ref": "par8u2p20",
+      "provision_ref": "par8p20",
       "section": "8",
-      "title": "§ 8 ust. 2 pkt 20",
+      "title": "§ 8 pkt 20",
       "content": "deklaracja w sprawie podatku od wydobycia niektórych kopalin w zakresie ropy naftowej i gazu ziemnego (KOP-RG);"
     },
     {
-      "provision_ref": "par8u2p21",
+      "provision_ref": "par8p21",
       "section": "8",
-      "title": "§ 8 ust. 2 pkt 21",
+      "title": "§ 8 pkt 21",
       "content": "informacja w sprawie opłaty paliwowej (OPAL);"
     },
     {
-      "provision_ref": "par8u2p22",
+      "provision_ref": "par8p22",
       "section": "8",
-      "title": "§ 8 ust. 2 pkt 22",
+      "title": "§ 8 pkt 22",
       "content": "informacja w sprawie opłaty emisyjnej (OEMIS)."
     },
     {
@@ -289,13 +379,31 @@
       "provision_ref": "par10",
       "section": "10",
       "title": "§ 10",
-      "content": "Podpisem elektronicznym, o którym mowa w § 4 pkt 3, mogą być opatrywane, przesyłane przez:11) 1) (uchylony); 2) Centralną Ewidencję i Informację o Działalności Gospodarczej: a) (uchylona), b) zgłoszenie rejestracyjne w zakresie podatku od towarów i usług (VAT-R), c) 3) informacja o zmianach we wniosku o zastosowanie karty podatkowej lub likwidacji prowadzonej działalności (PIT-16Z/PIT-16ZS); Platformę Usług Elektronicznych Skarbowo-Celnych: a) zgłoszenie rejestracyjne uproszczone w zakresie podatku akcyzowego/zgłoszenie o zaprzestaniu wykonywania czynności, o których mowa w art. 16b ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (AKC-RU/AKC-ZU), aa) deklaracja w sprawie podatku akcyzowego (AKC-4/AKC-4zo) wraz z załącznikami, ab) deklaracja w sprawie podatku akcyzowego od nabycia wewnątrzwspólnotowego energii elektrycznej (AKC-EN), ac) deklaracja w sprawie podatku akcyzowego od wyrobów węglowych (AKC-WW/AKC-WWn), ad) deklaracja w sprawie podatku akcyzowego od suszu tytoniowego (AKC-ST/AKC-STn), ae) deklaracja w sprawie podatku akcyzowego od nabycia wewnątrzwspólnotowego wyrobów gazowych (z wyłączeniem gazu do napędu silników spalinowych) (AKC-WG), af) deklaracja w sprawie przedpłaty podatku akcyzowego (AKC-PA), b) deklaracja uproszczona w sprawie podatku akcyzowego od samochodów osobowych (AKC-US), 10) 11) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2. Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2. ba) kwartalna deklaracja w sprawie podatku akcyzowego od wyrobów akcyzowych objętych zwolnieniem od podatku akcyzowego i zerową stawką podatku akcyzowego (AKC-KZ), bb) wstępne zapotrzebowanie na banderole podatkowe i legalizacyjne, bc) zgłoszenie o planowanym nabyciu wewnątrzwspólnotowym poza procedurą zawieszenia poboru akcyzy wyrobów akcyzowych niewymienionych w załączniku nr 2 do ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, objętych stawką akcyzy inną niż stawka zerowa, na potrzeby wykonywanej na terytorium kraju działalności gospodarczej, bd) zgłoszenie o planowanym nabyciu wewnątrzwspólnotowym wyrobów akcyzowych innych niż określone w załączniku nr 2 do ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, objętych stawką akcyzy inną niż stawka zerowa, przemieszczanych na terytorium kraju w ramach nabycia wewnątrzwspólnotowego w celu wprowadzenia ich do składu podatkowego, be) deklaracja uproszczona w sprawie podatku akcyzowego od nabycia wewnątrzwspólnotowego wyrobów akcyzowych objętych stawką podatku akcyzowego inną niż stawka zerowa (AKC-UA), bf) deklaracja o wysokości podatku akcyzowego pobranego i wpłaconego przez płatnika (AKC-P), bg) deklaracja w sprawie podatku od wydobycia niektórych kopalin w zakresie miedzi i srebra (KOP-MS), bh) deklaracja w sprawie podatku od wydobycia niektórych kopalin w zakresie ropy naftowej i gazu ziemnego (KOP-RG), bi) informacja w sprawie opłaty paliwowej (OPAL), c) wniosek o wydanie banderol podatkowych lub sprzedaż banderol legalizacyjnych oraz o wydanie upoważnienia do odbioru banderol, d) podania w sprawach dotyczących podatku akcyzowego."
+      "content": "Podpisem elektronicznym, o którym mowa w § 4 pkt 3, mogą być opatrywane, przesyłane przez:11) 1) (uchylony); 2) Centralną Ewidencję i Informację o Działalności Gospodarczej: a) (uchylona), b) zgłoszenie rejestracyjne w zakresie podatku od towarów i usług (VAT-R), c) 3) informacja o zmianach we wniosku o zastosowanie karty podatkowej lub likwidacji prowadzonej działalności (PIT-16Z/PIT-16ZS); Platformę Usług Elektronicznych Skarbowo-Celnych: a) zgłoszenie rejestracyjne uproszczone w zakresie podatku akcyzowego/zgłoszenie o zaprzestaniu wykonywania czynności, o których mowa w art. 16b ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (AKC-RU/AKC-ZU), aa) deklaracja w sprawie podatku akcyzowego (AKC-4/AKC-4zo) wraz z załącznikami, ab) deklaracja w sprawie podatku akcyzowego od nabycia wewnątrzwspólnotowego energii elektrycznej (AKC-EN), ac) deklaracja w sprawie podatku akcyzowego od wyrobów węglowych (AKC-WW/AKC-WWn), ad) deklaracja w sprawie podatku akcyzowego od suszu tytoniowego (AKC-ST/AKC-STn), ae) deklaracja w sprawie podatku akcyzowego od nabycia wewnątrzwspólnotowego wyrobów gazowych (z wyłączeniem gazu do napędu silników spalinowych) (AKC-WG), af) deklaracja w sprawie przedpłaty podatku akcyzowego (AKC-PA), b) deklaracja uproszczona w sprawie podatku akcyzowego od samochodów osobowych (AKC-US), 10) ba) kwartalna deklaracja w sprawie podatku akcyzowego od wyrobów akcyzowych objętych zwolnieniem od podatku akcyzowego i zerową stawką podatku akcyzowego (AKC-KZ), bb) wstępne zapotrzebowanie na banderole podatkowe i legalizacyjne, bc) zgłoszenie o planowanym nabyciu wewnątrzwspólnotowym poza procedurą zawieszenia poboru akcyzy wyrobów akcyzowych niewymienionych w załączniku nr 2 do ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, objętych stawką akcyzy inną niż stawka zerowa, na potrzeby wykonywanej na terytorium kraju działalności gospodarczej, bd) zgłoszenie o planowanym nabyciu wewnątrzwspólnotowym wyrobów akcyzowych innych niż określone w załączniku nr 2 do ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, objętych stawką akcyzy inną niż stawka zerowa, przemieszczanych na terytorium kraju w ramach nabycia wewnątrzwspólnotowego w celu wprowadzenia ich do składu podatkowego, be) deklaracja uproszczona w sprawie podatku akcyzowego od nabycia wewnątrzwspólnotowego wyrobów akcyzowych objętych stawką podatku akcyzowego inną niż stawka zerowa (AKC-UA), bf) deklaracja o wysokości podatku akcyzowego pobranego i wpłaconego przez płatnika (AKC-P), bg) deklaracja w sprawie podatku od wydobycia niektórych kopalin w zakresie miedzi i srebra (KOP-MS), bh) deklaracja w sprawie podatku od wydobycia niektórych kopalin w zakresie ropy naftowej i gazu ziemnego (KOP-RG), bi) informacja w sprawie opłaty paliwowej (OPAL), c) wniosek o wydanie banderol podatkowych lub sprzedaż banderol legalizacyjnych oraz o wydanie upoważnienia do odbioru banderol, d) podania w sprawach dotyczących podatku akcyzowego."
     },
     {
-      "provision_ref": "par10u2",
+      "provision_ref": "par10p1",
       "section": "10",
-      "title": "§ 10 ust. 2",
-      "content": "Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2. ba) kwartalna deklaracja w sprawie podatku akcyzowego od wyrobów akcyzowych objętych zwolnieniem od podatku akcyzowego i zerową stawką podatku akcyzowego (AKC-KZ), bb) wstępne zapotrzebowanie na banderole podatkowe i legalizacyjne, bc) zgłoszenie o planowanym nabyciu wewnątrzwspólnotowym poza procedurą zawieszenia poboru akcyzy wyrobów akcyzowych niewymienionych w załączniku nr 2 do ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, objętych stawką akcyzy inną niż stawka zerowa, na potrzeby wykonywanej na terytorium kraju działalności gospodarczej, bd) zgłoszenie o planowanym nabyciu wewnątrzwspólnotowym wyrobów akcyzowych innych niż określone w załączniku nr 2 do ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, objętych stawką akcyzy inną niż stawka zerowa, przemieszczanych na terytorium kraju w ramach nabycia wewnątrzwspólnotowego w celu wprowadzenia ich do składu podatkowego, be) deklaracja uproszczona w sprawie podatku akcyzowego od nabycia wewnątrzwspólnotowego wyrobów akcyzowych objętych stawką podatku akcyzowego inną niż stawka zerowa (AKC-UA), bf) deklaracja o wysokości podatku akcyzowego pobranego i wpłaconego przez płatnika (AKC-P), bg) deklaracja w sprawie podatku od wydobycia niektórych kopalin w zakresie miedzi i srebra (KOP-MS), bh) deklaracja w sprawie podatku od wydobycia niektórych kopalin w zakresie ropy naftowej i gazu ziemnego (KOP-RG), bi) informacja w sprawie opłaty paliwowej (OPAL), c) wniosek o wydanie banderol podatkowych lub sprzedaż banderol legalizacyjnych oraz o wydanie upoważnienia do odbioru banderol, d) podania w sprawach dotyczących podatku akcyzowego."
+      "title": "§ 10 pkt 1",
+      "content": "(uchylony);"
+    },
+    {
+      "provision_ref": "par10p2",
+      "section": "10",
+      "title": "§ 10 pkt 2",
+      "content": "Centralną Ewidencję i Informację o Działalności Gospodarczej: a) (uchylona), b) zgłoszenie rejestracyjne w zakresie podatku od towarów i usług (VAT-R), c)"
+    },
+    {
+      "provision_ref": "par10p3",
+      "section": "10",
+      "title": "§ 10 pkt 3",
+      "content": "informacja o zmianach we wniosku o zastosowanie karty podatkowej lub likwidacji prowadzonej działalności (PIT-16Z/PIT-16ZS); Platformę Usług Elektronicznych Skarbowo-Celnych: a) zgłoszenie rejestracyjne uproszczone w zakresie podatku akcyzowego/zgłoszenie o zaprzestaniu wykonywania czynności, o których mowa w art. 16b ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (AKC-RU/AKC-ZU), aa) deklaracja w sprawie podatku akcyzowego (AKC-4/AKC-4zo) wraz z załącznikami, ab) deklaracja w sprawie podatku akcyzowego od nabycia wewnątrzwspólnotowego energii elektrycznej (AKC-EN), ac) deklaracja w sprawie podatku akcyzowego od wyrobów węglowych (AKC-WW/AKC-WWn), ad) deklaracja w sprawie podatku akcyzowego od suszu tytoniowego (AKC-ST/AKC-STn), ae) deklaracja w sprawie podatku akcyzowego od nabycia wewnątrzwspólnotowego wyrobów gazowych (z wyłączeniem gazu do napędu silników spalinowych) (AKC-WG), af) deklaracja w sprawie przedpłaty podatku akcyzowego (AKC-PA), b) deklaracja uproszczona w sprawie podatku akcyzowego od samochodów osobowych (AKC-US),"
+    },
+    {
+      "provision_ref": "par10p10",
+      "section": "10",
+      "title": "§ 10 pkt 10",
+      "content": "ba) kwartalna deklaracja w sprawie podatku akcyzowego od wyrobów akcyzowych objętych zwolnieniem od podatku akcyzowego i zerową stawką podatku akcyzowego (AKC-KZ), bb) wstępne zapotrzebowanie na banderole podatkowe i legalizacyjne, bc) zgłoszenie o planowanym nabyciu wewnątrzwspólnotowym poza procedurą zawieszenia poboru akcyzy wyrobów akcyzowych niewymienionych w załączniku nr 2 do ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, objętych stawką akcyzy inną niż stawka zerowa, na potrzeby wykonywanej na terytorium kraju działalności gospodarczej, bd) zgłoszenie o planowanym nabyciu wewnątrzwspólnotowym wyrobów akcyzowych innych niż określone w załączniku nr 2 do ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, objętych stawką akcyzy inną niż stawka zerowa, przemieszczanych na terytorium kraju w ramach nabycia wewnątrzwspólnotowego w celu wprowadzenia ich do składu podatkowego, be) deklaracja uproszczona w sprawie podatku akcyzowego od nabycia wewnątrzwspólnotowego wyrobów akcyzowych objętych stawką podatku akcyzowego inną niż stawka zerowa (AKC-UA), bf) deklaracja o wysokości podatku akcyzowego pobranego i wpłaconego przez płatnika (AKC-P), bg) deklaracja w sprawie podatku od wydobycia niektórych kopalin w zakresie miedzi i srebra (KOP-MS), bh) deklaracja w sprawie podatku od wydobycia niektórych kopalin w zakresie ropy naftowej i gazu ziemnego (KOP-RG), bi) informacja w sprawie opłaty paliwowej (OPAL), c) wniosek o wydanie banderol podatkowych lub sprzedaż banderol legalizacyjnych oraz o wydanie upoważnienia do odbioru banderol, d) podania w sprawach dotyczących podatku akcyzowego."
     },
     {
       "provision_ref": "par10a",
@@ -349,13 +457,7 @@
       "provision_ref": "par11",
       "section": "11",
       "title": "§ 11",
-      "content": "Podpisem elektronicznym, o którym mowa w § 4 pkt 5, mogą być opatrywane, odpowiednio, przez podatnika będącego osobą fizyczną, płatnika będącego osobą fizyczną lub podmiot będący osobą fizyczną: 1) deklaracja dla podatku od towarów i usług/Value added tax return/Erklärung für Mehrwertsteuer (VAP-1); 2) deklaracje o podatku od towarów i usług: a) (VAT-8), b) (VAT-9M); 12) Dodany przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2. 3) deklaracja o podatku od towarów i usług od wewnątrzwspólnotowego nabycia nowych środków transportu (VAT-10); 4) deklaracja o podatku od towarów i usług od wewnątrzwspólnotowej dostawy nowych środków transportu (VAT-11); 5) skrócona deklaracja dla podatku od towarów i usług w zakresie usług taksówek osobowych opodatkowanych w formie ryczałtu (VAT-12); 6) informacja o wewnątrzwspólnotowym nabyciu środka transportu (VAT-23); 7) informacja o pojazdach samochodowych wykorzystywanych wyłącznie do działalności gospodarczej (VAT-26); 8) (uchylony); 9) informacja podsumowująca o dokonanych wewnątrzwspólnotowych transakcjach i przemieszczeniach towarów w procedurze magazynu typu call-off stock (VAT-UE); 10) korekta informacji podsumowującej o dokonanych wewnątrzwspólnotowych transakcjach i przemieszczeniach towarów w procedurze magazynu typu call-off stock (VAT-UEK); 11) deklaracja w sprawie podatku od czynności cywilnoprawnych (PCC-3); 12) informacja o pozostałych podatnikach (PCC-3/A); 13) zeznanie podatkowe o nabyciu rzeczy lub praw majątkowych (SD-3); 14) informacja o pozostałych podatnikach (SD-3/A); 15) zgłoszenie o nabyciu własności rzeczy lub praw majątkowych (SD-Z2); 16) zeznania o wysokości osiągniętego dochodu (poniesionej straty):13) a) (PIT-36), b) (PIT-36S), c) (PIT-36L), d) (PIT-36LS), e) (PIT-37), f) (PIT-38), g) (PIT-39); 17)14) zeznanie o wysokości osiągniętego dochodu z zagranicznej jednostki kontrolowanej i należnego podatku dochodowego od osób fizycznych (PIT-CFC); 18)15) zeznanie o wysokości uzyskanego przychodu, wysokości dokonanych odliczeń i należnego ryczałtu od przychodów ewidencjonowanych (PIT-28); 18a)16) zeznanie o wysokości uzyskanego przychodu, wysokości dokonanych odliczeń i należnego ryczałtu od przychodów ewidencjonowanych (PIT-28S); 19) (uchylony); 20) (uchylony); 21) deklaracja roczna o zaliczkach na podatek dochodowy (PIT-4R); 22) deklaracja roczna o zryczałtowanym podatku dochodowym (PIT-8AR); 23) informacja o niektórych dochodach z kapitałów pieniężnych (PIT-8C); 24) informacja o przychodach z innych źródeł oraz o dochodach i pobranych zaliczkach na podatek dochodowy (PIT-11); 25) informacja o wysokości przychodu (dochodu) uzyskanego przez osoby fizyczne niemające w Rzeczypospolitej Polskiej miejsca zamieszkania (IFT-1/IFT-1R); Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 9 lit. a rozporządzenia, o którym mowa w odnośniku 2. Ze zmianą wprowadzoną przez § 1 pkt 9 lit. b rozporządzenia, o którym mowa w odnośniku 2. 15) Ze zmianą wprowadzoną przez § 1 pkt 9 lit. c rozporządzenia, o którym mowa w odnośniku 2. 16) Ze zmianą wprowadzoną przez § 1 pkt 9 lit. d rozporządzenia, o którym mowa w odnośniku 2. 13) 14) 25a) informacja o cenach transferowych w zakresie podatku dochodowego od osób fizycznych (TPR-P); 26) informacja o zmianach we wniosku o zastosowanie karty podatkowej lub likwidacji prowadzonej działalności (PIT-16Z/PIT-16ZS); 27)17) oświadczenie o przekazaniu lub wycofaniu zgody na przekazanie 1,5 % podatku należnego na rzecz organizacji pożytku publicznego (PIT-OP); 28) (uchylony); 29) (uchylony); 30) deklaracja w sprawie podatku akcyzowego (AKC-4/AKC-4zo) wraz z załącznikami; 31) deklaracja w sprawie podatku akcyzowego od nabycia wewnątrzwspólnotowego energii elektrycznej (AKC-EN); 32) deklaracja w sprawie podatku akcyzowego od wyrobów węglowych (AKC-WW/AKC-WWn); 33) deklaracja w sprawie podatku akcyzowego od suszu tytoniowego (AKC-ST/AKC-STn); 34) deklaracja w sprawie podatku akcyzowego od nabycia wewnątrzwspólnotowego wyrobów gazowych (z wyłączeniem gazu do napędów silników spalinowych) (AKC-WG); 35) deklaracja w sprawie przedpłaty podatku akcyzowego (AKC-PA); 36) deklaracja uproszczona w sprawie podatku akcyzowego od nabycia wewnątrzwspólnotowego wyrobów akcyzowych objętych stawką podatku akcyzowego inną niż stawka zerowa (AKC-UA); 37) deklaracja uproszczona w sprawie podatku akcyzowego od samochodów osobowych (AKC-US); 37a) zgłoszenie rejestracyjne uproszczone w zakresie podatku akcyzowego/zgłoszenie o zaprzestaniu wykonywania czynności, o których mowa w art. 16b ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (AKC-RU/AKC-ZU); 38) deklaracja o wysokości podatku akcyzowego pobranego i wpłaconego przez płatnika (AKC-P); 38a) kwartalna deklaracja w sprawie podatku akcyzowego od wyrobów akcyzowych objętych zwolnieniem od podatku akcyzowego i zerową stawką podatku akcyzowego (AKC-KZ); 38b) (uchylony); 39) zgłoszenie o planowanym nabyciu wewnątrzwspólnotowym poza procedurą zawieszenia poboru akcyzy wyrobów akcyzowych niewymienionych w załączniku nr 2 do ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, objętych stawką akcyzy inną niż stawka zerowa, na potrzeby wykonywanej na terytorium kraju działalności gospodarczej; 39a) zgłoszenie o planowanym nabyciu wewnątrzwspólnotowym wyrobów akcyzowych innych niż określone w załączniku nr 2 do ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, objętych stawką akcyzy inną niż stawka zerowa, przemieszczanych na terytorium kraju w ramach nabycia wewnątrzwspólnotowego w celu wprowadzenia ich do składu podatkowego; 39b) wstępne zapotrzebowanie na banderole podatkowe i legalizacyjne; 40) wniosek o wydanie banderol podatkowych lub sprzedaż banderol legalizacyjnych oraz o wydanie upoważnienia do odbioru banderol; 40a) podania w sprawach dotyczących podatku akcyzowego; 41) deklaracja w sprawie podatku od wydobycia niektórych kopalin w zakresie miedzi i srebra (KOP-MS); 42) deklaracja w sprawie podatku od wydobycia niektórych kopalin w zakresie ropy naftowej i gazu ziemnego (KOP-RG); 43) informacja dotycząca funkcjonowania podmiotu urządzającego i prowadzącego działalność w zakresie gier hazardowych (IGH-1); 44) informacja w sprawie opłaty paliwowej (OPAL); 45) informacja w sprawie opłaty emisyjnej (OEMIS); 46) deklaracja o wysokości daniny solidarnościowej; 47)18) deklaracja o wysokości dochodu z niezrealizowanych zysków i należnego podatku dochodowego od osób fizycznych (PIT-NZ); 17) 18) W brzmieniu ustalonym przez § 1 pkt 9 lit. e rozporządzenia, o którym mowa w odnośniku 2. W brzmieniu ustalonym przez § 1 pkt 9 lit. f rozporządzenia, o którym mowa w odnośniku 2. 48)18) deklaracja o wysokości dochodu z niezrealizowanych zysków osiągniętego przez przedsiębiorstwo w spadku i należnego podatku dochodowego od osób fizycznych (PIT-NZS); 49) informacja o dzieciach uprawniających podatnika do ulgi dla rodzin 4+ (PIT-DZ); 50) informacja o kosztach uzyskania przychodów poniesionych na działalność sportową, kulturalną oraz wspierającą szkolnictwo wyższe i naukę (PIT-CSR/PIT-CSRS); 51) informacja o kosztach uzyskania przychodów poniesionych na robotyzację (PIT-RB/PIT-RBS); 52) deklaracja o wysokości składki na ubezpieczenie zdrowotne, zapłaconej i odliczonej od karty podatkowej w poszczególnych miesiącach roku podatkowego (PIT-16A)."
-    },
-    {
-      "provision_ref": "par11u2p13",
-      "section": "11",
-      "title": "§ 11 ust. 2 pkt 13",
-      "content": "14)"
+      "content": "Podpisem elektronicznym, o którym mowa w § 4 pkt 5, mogą być opatrywane, odpowiednio, przez podatnika będącego osobą fizyczną, płatnika będącego osobą fizyczną lub podmiot będący osobą fizyczną: 1) deklaracja dla podatku od towarów i usług/Value added tax return/Erklärung für Mehrwertsteuer (VAP-1); 2) deklaracje o podatku od towarów i usług: a) (VAT-8), b) (VAT-9M); 3) deklaracja o podatku od towarów i usług od wewnątrzwspólnotowego nabycia nowych środków transportu (VAT-10); 4) deklaracja o podatku od towarów i usług od wewnątrzwspólnotowej dostawy nowych środków transportu (VAT-11); 5) skrócona deklaracja dla podatku od towarów i usług w zakresie usług taksówek osobowych opodatkowanych w formie ryczałtu (VAT-12); 6) informacja o wewnątrzwspólnotowym nabyciu środka transportu (VAT-23); 7) informacja o pojazdach samochodowych wykorzystywanych wyłącznie do działalności gospodarczej (VAT-26); 8) (uchylony); 9) informacja podsumowująca o dokonanych wewnątrzwspólnotowych transakcjach i przemieszczeniach towarów w procedurze magazynu typu call-off stock (VAT-UE); 10) korekta informacji podsumowującej o dokonanych wewnątrzwspólnotowych transakcjach i przemieszczeniach towarów w procedurze magazynu typu call-off stock (VAT-UEK); 11) deklaracja w sprawie podatku od czynności cywilnoprawnych (PCC-3); 12) informacja o pozostałych podatnikach (PCC-3/A); 13) zeznanie podatkowe o nabyciu rzeczy lub praw majątkowych (SD-3); 14) informacja o pozostałych podatnikach (SD-3/A); 15) zgłoszenie o nabyciu własności rzeczy lub praw majątkowych (SD-Z2); 16) zeznania o wysokości osiągniętego dochodu (poniesionej straty):13) a) (PIT-36), b) (PIT-36S), c) (PIT-36L), d) (PIT-36LS), e) (PIT-37), f) (PIT-38), g) (PIT-39); 17)14) zeznanie o wysokości osiągniętego dochodu z zagranicznej jednostki kontrolowanej i należnego podatku dochodowego od osób fizycznych (PIT-CFC); 18)15) zeznanie o wysokości uzyskanego przychodu, wysokości dokonanych odliczeń i należnego ryczałtu od przychodów ewidencjonowanych (PIT-28); 18a)16) zeznanie o wysokości uzyskanego przychodu, wysokości dokonanych odliczeń i należnego ryczałtu od przychodów ewidencjonowanych (PIT-28S); 19) (uchylony); 20) (uchylony); 21) deklaracja roczna o zaliczkach na podatek dochodowy (PIT-4R); 22) deklaracja roczna o zryczałtowanym podatku dochodowym (PIT-8AR); 23) informacja o niektórych dochodach z kapitałów pieniężnych (PIT-8C); 24) informacja o przychodach z innych źródeł oraz o dochodach i pobranych zaliczkach na podatek dochodowy (PIT-11); 25) informacja o wysokości przychodu (dochodu) uzyskanego przez osoby fizyczne niemające w Rzeczypospolitej Polskiej miejsca zamieszkania (IFT-1/IFT-1R); Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 9 lit. a rozporządzenia, o którym mowa w odnośniku 2. Ze zmianą wprowadzoną przez § 1 pkt 9 lit. b rozporządzenia, o którym mowa w odnośniku 2. 25a) informacja o cenach transferowych w zakresie podatku dochodowego od osób fizycznych (TPR-P); 26) informacja o zmianach we wniosku o zastosowanie karty podatkowej lub likwidacji prowadzonej działalności (PIT-16Z/PIT-16ZS); 27)17) oświadczenie o przekazaniu lub wycofaniu zgody na przekazanie 1,5 % podatku należnego na rzecz organizacji pożytku publicznego (PIT-OP); 28) (uchylony); 29) (uchylony); 30) deklaracja w sprawie podatku akcyzowego (AKC-4/AKC-4zo) wraz z załącznikami; 31) deklaracja w sprawie podatku akcyzowego od nabycia wewnątrzwspólnotowego energii elektrycznej (AKC-EN); 32) deklaracja w sprawie podatku akcyzowego od wyrobów węglowych (AKC-WW/AKC-WWn); 33) deklaracja w sprawie podatku akcyzowego od suszu tytoniowego (AKC-ST/AKC-STn); 34) deklaracja w sprawie podatku akcyzowego od nabycia wewnątrzwspólnotowego wyrobów gazowych (z wyłączeniem gazu do napędów silników spalinowych) (AKC-WG); 35) deklaracja w sprawie przedpłaty podatku akcyzowego (AKC-PA); 36) deklaracja uproszczona w sprawie podatku akcyzowego od nabycia wewnątrzwspólnotowego wyrobów akcyzowych objętych stawką podatku akcyzowego inną niż stawka zerowa (AKC-UA); 37) deklaracja uproszczona w sprawie podatku akcyzowego od samochodów osobowych (AKC-US); 37a) zgłoszenie rejestracyjne uproszczone w zakresie podatku akcyzowego/zgłoszenie o zaprzestaniu wykonywania czynności, o których mowa w art. 16b ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (AKC-RU/AKC-ZU); 38) deklaracja o wysokości podatku akcyzowego pobranego i wpłaconego przez płatnika (AKC-P); 38a) kwartalna deklaracja w sprawie podatku akcyzowego od wyrobów akcyzowych objętych zwolnieniem od podatku akcyzowego i zerową stawką podatku akcyzowego (AKC-KZ); 38b) (uchylony); 39) zgłoszenie o planowanym nabyciu wewnątrzwspólnotowym poza procedurą zawieszenia poboru akcyzy wyrobów akcyzowych niewymienionych w załączniku nr 2 do ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, objętych stawką akcyzy inną niż stawka zerowa, na potrzeby wykonywanej na terytorium kraju działalności gospodarczej; 39a) zgłoszenie o planowanym nabyciu wewnątrzwspólnotowym wyrobów akcyzowych innych niż określone w załączniku nr 2 do ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, objętych stawką akcyzy inną niż stawka zerowa, przemieszczanych na terytorium kraju w ramach nabycia wewnątrzwspólnotowego w celu wprowadzenia ich do składu podatkowego; 39b) wstępne zapotrzebowanie na banderole podatkowe i legalizacyjne; 40) wniosek o wydanie banderol podatkowych lub sprzedaż banderol legalizacyjnych oraz o wydanie upoważnienia do odbioru banderol; 40a) podania w sprawach dotyczących podatku akcyzowego; 41) deklaracja w sprawie podatku od wydobycia niektórych kopalin w zakresie miedzi i srebra (KOP-MS); 42) deklaracja w sprawie podatku od wydobycia niektórych kopalin w zakresie ropy naftowej i gazu ziemnego (KOP-RG); 43) informacja dotycząca funkcjonowania podmiotu urządzającego i prowadzącego działalność w zakresie gier hazardowych (IGH-1); 44) informacja w sprawie opłaty paliwowej (OPAL); 45) informacja w sprawie opłaty emisyjnej (OEMIS); 46) deklaracja o wysokości daniny solidarnościowej; 47)18) deklaracja o wysokości dochodu z niezrealizowanych zysków i należnego podatku dochodowego od osób fizycznych (PIT-NZ); 17) 48)18) deklaracja o wysokości dochodu z niezrealizowanych zysków osiągniętego przez przedsiębiorstwo w spadku i należnego podatku dochodowego od osób fizycznych (PIT-NZS); 49) informacja o dzieciach uprawniających podatnika do ulgi dla rodzin 4+ (PIT-DZ); 50) informacja o kosztach uzyskania przychodów poniesionych na działalność sportową, kulturalną oraz wspierającą szkolnictwo wyższe i naukę (PIT-CSR/PIT-CSRS); 51) informacja o kosztach uzyskania przychodów poniesionych na robotyzację (PIT-RB/PIT-RBS); 52) deklaracja o wysokości składki na ubezpieczenie zdrowotne, zapłaconej i odliczonej od karty podatkowej w poszczególnych miesiącach roku podatkowego (PIT-16A)."
     },
     {
       "provision_ref": "par11u2p25a",
@@ -523,7 +625,7 @@
       "provision_ref": "par11u2p17",
       "section": "11",
       "title": "§ 11 ust. 2 pkt 17",
-      "content": "18) W brzmieniu ustalonym przez § 1 pkt 9 lit. e rozporządzenia, o którym mowa w odnośniku"
+      "content": "48)18) deklaracja o wysokości dochodu z niezrealizowanych zysków osiągniętego przez przedsiębiorstwo w spadku i należnego podatku dochodowego od osób fizycznych (PIT-NZS);"
     },
     {
       "provision_ref": "par11u2p49",
@@ -553,7 +655,7 @@
       "provision_ref": "par12",
       "section": "12",
       "title": "§ 12",
-      "content": "1. Podpis elektroniczny, o którym mowa w § 4 pkt 5, zapewniający autentyczność deklaracji, o której mowa w § 11 pkt 1, jest oparty na zestawie unikalnych danych w postaci elektronicznej dotyczących podatnika przesyłającego deklarację: 1) numerze identyfikacyjnym nadanym na potrzeby wykonywanych na terytorium kraju usług międzynarodowego przewozu drogowego (VAP); 2) kwocie podstawy opodatkowania wykazanej w poz. 20 deklaracji, o której mowa w § 11 pkt 1, ostatnio złożonej za kwartał poprzedzający kwartał, za który jest przesyłana deklaracja, albo wartość „0” (zero), w przypadku gdy deklaracja jest przesyłana po raz pierwszy lub gdy deklaracja nie została złożona za poprzedni kwartał; 3) kwocie podatku podlegającej wpłacie do urzędu skarbowego wykazanej w poz. 22 deklaracji, o której mowa w § 11 pkt 1, ostatnio złożonej za kwartał poprzedzający kwartał, za który jest przesyłana deklaracja, albo wartość „0” (zero), w przypadku gdy deklaracja jest przesyłana po raz pierwszy lub gdy deklaracja nie została złożona za poprzedni kwartał. 2. Podpis elektroniczny, o którym mowa w § 4 pkt 5, zapewniający autentyczność deklaracji i podań, o których mowa w § 11 pkt 2–7, 9–18a, 21–27, 30–38a i 39–52, jest oparty na zestawie unikalnych danych w postaci elektronicznej dotyczących podatnika, płatnika lub podmiotu przesyłającego deklarację lub podanie: 1) identyfikatorze podatkowym NIP albo identyfikatorze podatkowym numer PESEL; 2) imieniu (pierwszym); 3) nazwisku; 4) dacie urodzenia; 19) 5) wysokości przychodu wykazanego odpowiednio w: a) zeznaniu o wysokości uzyskanego przychodu, wysokości dokonanych odliczeń i należnego ryczałtu od przychodów ewidencjonowanych (PIT-28), b) zeznaniu o wysokości osiągniętego dochodu (poniesionej straty) (PIT-36), c) zeznaniu o wysokości osiągniętego dochodu (poniesionej straty) (PIT-36L), d) zeznaniu o wysokości osiągniętego dochodu (poniesionej straty) (PIT-37), e) zeznaniu o wysokości osiągniętego dochodu (poniesionej straty) (PIT-38), f) zeznaniu o wysokości osiągniętego dochodu (poniesionej straty) (PIT-39), g) rocznym obliczeniu podatku przez organ rentowy (PIT-40A) – za rok podatkowy o dwa lata wcześniejszy niż rok przesyłania deklaracji lub podań albo wartość „0” (zero), gdy za ten rok podatkowy nie złożono żadnego z wymienionych zeznań lub obliczeń."
+      "content": "1. Podpis elektroniczny, o którym mowa w § 4 pkt 5, zapewniający autentyczność deklaracji, o której mowa w § 11 pkt 1, jest oparty na zestawie unikalnych danych w postaci elektronicznej dotyczących podatnika przesyłającego deklarację: 1) numerze identyfikacyjnym nadanym na potrzeby wykonywanych na terytorium kraju usług międzynarodowego przewozu drogowego (VAP); 2) kwocie podstawy opodatkowania wykazanej w poz. 20 deklaracji, o której mowa w § 11 pkt 1, ostatnio złożonej za kwartał poprzedzający kwartał, za który jest przesyłana deklaracja, albo wartość „0” (zero), w przypadku gdy deklaracja jest przesyłana po raz pierwszy lub gdy deklaracja nie została złożona za poprzedni kwartał; 3) kwocie podatku podlegającej wpłacie do urzędu skarbowego wykazanej w poz. 22 deklaracji, o której mowa w § 11 pkt 1, ostatnio złożonej za kwartał poprzedzający kwartał, za który jest przesyłana deklaracja, albo wartość „0” (zero), w przypadku gdy deklaracja jest przesyłana po raz pierwszy lub gdy deklaracja nie została złożona za poprzedni kwartał. 2. Podpis elektroniczny, o którym mowa w § 4 pkt 5, zapewniający autentyczność deklaracji i podań, o których mowa w § 11 pkt 2–7, 9–18a, 21–27, 30–38a i 39–52, jest oparty na zestawie unikalnych danych w postaci elektronicznej dotyczących podatnika, płatnika lub podmiotu przesyłającego deklarację lub podanie: 1) identyfikatorze podatkowym NIP albo identyfikatorze podatkowym numer PESEL; 2) imieniu (pierwszym); 3) nazwisku; 4) dacie urodzenia; 5) wysokości przychodu wykazanego odpowiednio w: a) zeznaniu o wysokości uzyskanego przychodu, wysokości dokonanych odliczeń i należnego ryczałtu od przychodów ewidencjonowanych (PIT-28), b) zeznaniu o wysokości osiągniętego dochodu (poniesionej straty) (PIT-36), c) zeznaniu o wysokości osiągniętego dochodu (poniesionej straty) (PIT-36L), d) zeznaniu o wysokości osiągniętego dochodu (poniesionej straty) (PIT-37), e) zeznaniu o wysokości osiągniętego dochodu (poniesionej straty) (PIT-38), f) zeznaniu o wysokości osiągniętego dochodu (poniesionej straty) (PIT-39), g) rocznym obliczeniu podatku przez organ rentowy (PIT-40A) – za rok podatkowy o dwa lata wcześniejszy niż rok przesyłania deklaracji lub podań albo wartość „0” (zero), gdy za ten rok podatkowy nie złożono żadnego z wymienionych zeznań lub obliczeń."
     },
     {
       "provision_ref": "par12u1p1",
@@ -598,16 +700,16 @@
       "content": "dacie urodzenia;"
     },
     {
-      "provision_ref": "par12u2p19",
+      "provision_ref": "par12u2p5",
       "section": "12",
-      "title": "§ 12 ust. 2 pkt 19",
-      "content": "5) wysokości przychodu wykazanego odpowiednio w: a) zeznaniu o wysokości uzyskanego przychodu, wysokości dokonanych odliczeń i należnego ryczałtu od przychodów ewidencjonowanych (PIT-28), b) zeznaniu o wysokości osiągniętego dochodu (poniesionej straty) (PIT-36), c) zeznaniu o wysokości osiągniętego dochodu (poniesionej straty) (PIT-36L), d) zeznaniu o wysokości osiągniętego dochodu (poniesionej straty) (PIT-37), e) zeznaniu o wysokości osiągniętego dochodu (poniesionej straty) (PIT-38), f) zeznaniu o wysokości osiągniętego dochodu (poniesionej straty) (PIT-39), g) rocznym obliczeniu podatku przez organ rentowy (PIT-40A) – za rok podatkowy o dwa lata wcześniejszy niż rok przesyłania deklaracji lub podań albo wartość „0” (zero), gdy za ten rok podatkowy nie złożono żadnego z wymienionych zeznań lub obliczeń."
+      "title": "§ 12 ust. 2 pkt 5",
+      "content": "wysokości przychodu wykazanego odpowiednio w: a) zeznaniu o wysokości uzyskanego przychodu, wysokości dokonanych odliczeń i należnego ryczałtu od przychodów ewidencjonowanych (PIT-28), b) zeznaniu o wysokości osiągniętego dochodu (poniesionej straty) (PIT-36), c) zeznaniu o wysokości osiągniętego dochodu (poniesionej straty) (PIT-36L), d) zeznaniu o wysokości osiągniętego dochodu (poniesionej straty) (PIT-37), e) zeznaniu o wysokości osiągniętego dochodu (poniesionej straty) (PIT-38), f) zeznaniu o wysokości osiągniętego dochodu (poniesionej straty) (PIT-39), g) rocznym obliczeniu podatku przez organ rentowy (PIT-40A) – za rok podatkowy o dwa lata wcześniejszy niż rok przesyłania deklaracji lub podań albo wartość „0” (zero), gdy za ten rok podatkowy nie złożono żadnego z wymienionych zeznań lub obliczeń."
     },
     {
       "provision_ref": "par13",
       "section": "13",
       "title": "§ 13",
-      "content": "1. Deklaracje i podania opatrywane podpisami elektronicznymi, o których mowa w § 4 pkt 2 i 5, przesyła się, stosując:20) 1) reguły kontroli poprawności danych deklaracji i podań, 2) opis sposobu weryfikacji poprawności urzędowego poświadczenia odbioru i integralności deklaracji i podań, 3) specyfikację oprogramowania interfejsowego służącego do złożenia deklaracji i podań – dostępne na stronie, której adres jest podany w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych. 21) 2. (uchylony).22) W brzmieniu ustalonym przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 2. Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 11 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 21) Część wspólna ze zmianą wprowadzoną przez § 1 pkt 11 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 22) Przez § 1 pkt 11 lit. b rozporządzenia, o którym mowa w odnośniku 2. 19) 20)"
+      "content": "1. Deklaracje i podania opatrywane podpisami elektronicznymi, o których mowa w § 4 pkt 2 i 5, przesyła się, stosując:20) 1) reguły kontroli poprawności danych deklaracji i podań, 2) opis sposobu weryfikacji poprawności urzędowego poświadczenia odbioru i integralności deklaracji i podań, 3) specyfikację oprogramowania interfejsowego służącego do złożenia deklaracji i podań – dostępne na stronie, której adres jest podany w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych. 21) 2. (uchylony).22) W brzmieniu ustalonym przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 2. Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 11 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2."
     },
     {
       "provision_ref": "par13u1p1",
@@ -634,22 +736,10 @@
       "content": "2. (uchylony).22) W brzmieniu ustalonym przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku"
     },
     {
-      "provision_ref": "par13u2p21",
+      "provision_ref": "par13u2",
       "section": "13",
-      "title": "§ 13 ust. 2 pkt 21",
-      "content": "Część wspólna ze zmianą wprowadzoną przez § 1 pkt 11 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2."
-    },
-    {
-      "provision_ref": "par13u2p22",
-      "section": "13",
-      "title": "§ 13 ust. 2 pkt 22",
-      "content": "Przez § 1 pkt 11 lit. b rozporządzenia, o którym mowa w odnośniku 2."
-    },
-    {
-      "provision_ref": "par13u2p19",
-      "section": "13",
-      "title": "§ 13 ust. 2 pkt 19",
-      "content": "20)"
+      "title": "§ 13 ust. 2",
+      "content": "Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 11 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2."
     },
     {
       "provision_ref": "par14",
@@ -718,5 +808,15 @@
       "content": "Rozporządzenie wchodzi w życie z dniem 1 października 2017 r. 23) W brzmieniu ustalonym przez § 1 pkt 12 rozporządzenia, o którym mowa w odnośniku 2."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "footnotes": [
+    "W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. Przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2.",
+    "Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2. Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2.",
+    "Dodany przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 2.",
+    "Ze zmianą wprowadzoną przez § 1 pkt 9 lit. c rozporządzenia, o którym mowa w odnośniku 2.",
+    "Ze zmianą wprowadzoną przez § 1 pkt 9 lit. d rozporządzenia, o którym mowa w odnośniku 2.",
+    "W brzmieniu ustalonym przez § 1 pkt 9 lit. e rozporządzenia, o którym mowa w odnośniku 2. W brzmieniu ustalonym przez § 1 pkt 9 lit. f rozporządzenia, o którym mowa w odnośniku 2.",
+    "Część wspólna ze zmianą wprowadzoną przez § 1 pkt 11 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2.",
+    "Przez § 1 pkt 11 lit. b rozporządzenia, o którym mowa w odnośniku 2."
+  ]
 }

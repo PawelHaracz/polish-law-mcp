@@ -148,10 +148,16 @@
       "content": "Po weryfikacji i przyjęciu żądania pobrania informacji o dochodach na aplikację dostępową z systemu jest przekazywana informacja, która obejmuje następujące pozycje: status odpowiedzi, który stanowi odpowiednią cyfrę zawierającą zakodowaną informację o zidentyfikowaniu osoby i udostępnieniu danych, nieznalezieniu osoby objętej żądaniem, braku deklaracji podatkowych za podany okres, znalezieniu niezatwierdzonej deklaracji, wydaniu decyzji wymiarowej, nieobsługiwaniu roku objętego żądaniem przez usługę, złożeniu przez podatnika więcej niż jednej deklaracji tego samego typu w jednym okresie lub rozliczaniu się osoby wspólnie z małżonkiem; dane o: dochodzie oskarżonego, w tym dochodzie jego małoletniego dziecka, który oskarżony wykazał w zeznaniu rocznym PIT-36, składkach na ubezpieczenia społeczne, należnym podatku, kodzie formularza. Wzór informacji uzyskiwanej w sposób, o którym mowa w § 3 ust. 1 pkt 1, określa załącznik nr 1 do rozporządzenia. W wypadku nieotrzymania żądanych danych uznaje się, że w uzyskanej informacji stwierdza się brak dostępu w systemie do danych o dochodach oskarżonego. W takim wypadku nie ponawia się żądania i stosuje przepis § 11."
     },
     {
-      "provision_ref": "par5u1p2",
+      "provision_ref": "par5u1p1",
       "section": "5",
-      "title": "§ 5 ust. 1 pkt 2",
+      "title": "§ 5 ust. 1 pkt 1",
       "content": "Po weryfikacji i przyjęciu żądania pobrania informacji o dochodach na aplikację dostępową z systemu jest przekazywana informacja, która obejmuje następujące pozycje: status odpowiedzi, który stanowi odpowiednią cyfrę zawierającą zakodowaną informację o zidentyfikowaniu osoby i udostępnieniu danych, nieznalezieniu osoby objętej żądaniem, braku deklaracji podatkowych za podany okres, znalezieniu niezatwierdzonej deklaracji, wydaniu decyzji wymiarowej, nieobsługiwaniu roku objętego żądaniem przez usługę, złożeniu przez podatnika więcej niż jednej deklaracji tego samego typu w jednym okresie lub rozliczaniu się osoby wspólnie z małżonkiem;"
+    },
+    {
+      "provision_ref": "par5u1p2la",
+      "section": "5",
+      "title": "§ 5 ust. 1 pkt 2 lit. a",
+      "content": "Po weryfikacji i przyjęciu żądania pobrania informacji o dochodach na aplikację dostępową z systemu jest przekazywana informacja, która obejmuje następujące pozycje: dane o: dochodzie oskarżonego, w tym dochodzie jego małoletniego dziecka, który oskarżony wykazał w zeznaniu rocznym PIT-36,"
     },
     {
       "provision_ref": "par5u1p2lb",
@@ -408,5 +414,11 @@
       "target_document_id": "pl-du-2017-570",
       "ref_type": "references"
     }
+  ],
+  "footnotes": [
+    "W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 14 lutego 2017 r. zmieniającego rozporządzenie w sprawie informacji z systemu teleinformatycznego ministra właściwego do spraw finansów publicznych w postępowaniu karnym (Dz. U. poz. 268), które weszło w życie z dniem 16 lutego 2017 r.",
+    "W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 1.",
+    "W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 1.",
+    "W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1."
   ]
 }
